@@ -2,7 +2,7 @@
 
 ### [Canadian Gems](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Choclair
+> Nothing but precious sounds from the 90s & 2000s\. Cover: K\-OS
 
 138 songs - 9 hr 2 min
 

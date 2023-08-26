@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 56223,
+  "num_followers": 58450,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWFiNjA3NGFjY2ZiMTE4ZmUwMmNhMDEwOTRiZmMxM2U3NWNlNGU2",
+  "snapshot_id": "MCwwODBkN2FhNTg2MTk2ZjQ4ZmRmY2VhNmE3NmM5NmI2YThmYzJiNTE0",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -31,6 +31,22 @@
       "duration_ms": 208938,
       "name": "BABY I'M HOME (w/ Kanii & 9lives)",
       "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "2BIPOLAR",
+        "url": "https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        }
+      ],
+      "duration_ms": 107390,
+      "name": "2BIPOLAR",
+      "url": "https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -69,28 +85,24 @@
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "SHAKE THAT SHIT!",
-        "url": "https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs"
+        "name": "So Fast",
+        "url": "https://open.spotify.com/album/5G8vICzPb4gk5KzS8N7ci4"
       },
       "artists": [
         {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+          "name": "Luci4",
+          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
         },
         {
-          "name": "cade clair",
-          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
-        },
-        {
-          "name": "ProdByAbnormal",
-          "url": "https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe"
+          "name": "Linxo",
+          "url": "https://open.spotify.com/artist/6LYNuLh5TZQAYxuhsK8lcX"
         }
       ],
-      "duration_ms": 155028,
-      "name": "SHAKE THAT SHIT!",
-      "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
+      "duration_ms": 88838,
+      "name": "So Fast",
+      "url": "https://open.spotify.com/track/2JhhwzWuNYa8JtXduJE3Aj"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -173,6 +185,54 @@
       "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "go_hard",
+        "url": "https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "duration_ms": 126766,
+      "name": "go_hard",
+      "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "SHAKE THAT SHIT!",
+        "url": "https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        },
+        {
+          "name": "ProdByAbnormal",
+          "url": "https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe"
+        }
+      ],
+      "duration_ms": 155028,
+      "name": "SHAKE THAT SHIT!",
+      "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "LET ME SEE YA MOVE!",
@@ -217,26 +277,6 @@
       "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
     },
     {
-      "added_at": "2023-08-04 16:10:00",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/1QGkji2IFaBd0bMJBvaTAE"
-      },
-      "artists": [
-        {
-          "name": "wayudance",
-          "url": "https://open.spotify.com/artist/44UkTI8wjUYTLqBFFgI19u"
-        },
-        {
-          "name": "luvjoey",
-          "url": "https://open.spotify.com/artist/2XLPgNBmiEB3maK8HMk3kX"
-        }
-      ],
-      "duration_ms": 108304,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/6vIN7kMIBolzlIkWpV1hAq"
-    },
-    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "vampire love",
@@ -267,6 +307,26 @@
       "duration_ms": 85520,
       "name": "THIRST FOR ME!",
       "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "CHARDONNAY",
+        "url": "https://open.spotify.com/album/7qFrc9Qf28w1HblrOlH6gX"
+      },
+      "artists": [
+        {
+          "name": "Marluxiam",
+          "url": "https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU"
+        },
+        {
+          "name": "xxanteeria",
+          "url": "https://open.spotify.com/artist/0D1keAaUWZZHAIt7CasYO2"
+        }
+      ],
+      "duration_ms": 111895,
+      "name": "CHARDONNAY",
+      "url": "https://open.spotify.com/track/1ELfye9x78mVvKgcKKaJVe"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -347,6 +407,22 @@
       "duration_ms": 65387,
       "name": "LEMMEHXT",
       "url": "https://open.spotify.com/track/7zkxWHkuc8aKe2et9kaD9O"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "SO WHY DON'T YOU GO?",
+        "url": "https://open.spotify.com/album/6rVkMcr9TxeElU2ftov4DG"
+      },
+      "artists": [
+        {
+          "name": "Marluxiam",
+          "url": "https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU"
+        }
+      ],
+      "duration_ms": 143590,
+      "name": "SO WHY DON'T YOU GO?",
+      "url": "https://open.spotify.com/track/7fTDFUbjVOq3Qoljln1NYj"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -437,30 +513,6 @@
       "url": "https://open.spotify.com/track/4TlKDSXQtHkDJIa5v6gB8A"
     },
     {
-      "added_at": "2023-08-04 16:10:00",
-      "album": {
-        "name": "RAVE2DEATH",
-        "url": "https://open.spotify.com/album/5uP9wURgtWm96wNpcM1k29"
-      },
-      "artists": [
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        },
-        {
-          "name": "WASTY",
-          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
-        }
-      ],
-      "duration_ms": 109404,
-      "name": "#RAVELIFE",
-      "url": "https://open.spotify.com/track/1VGOyYVey2xo2A4shKl2LR"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "masquerade",
@@ -475,6 +527,34 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Melody and bars (Remix)",
+        "url": "https://open.spotify.com/album/1UG6ymTSsOPFM0pwH4yxYV"
+      },
+      "artists": [
+        {
+          "name": "iluvern!",
+          "url": "https://open.spotify.com/artist/5B1esX3IbuEZQqcx95bMzS"
+        },
+        {
+          "name": "Ezerkel",
+          "url": "https://open.spotify.com/artist/02RtI2MmZwPgDqbFp6cC23"
+        },
+        {
+          "name": "6inxk",
+          "url": "https://open.spotify.com/artist/5Cb3fZehN0o8sKUJcZL82S"
+        },
+        {
+          "name": "Khnife",
+          "url": "https://open.spotify.com/artist/53SmayiyXKMINPttpyiRp1"
+        }
+      ],
+      "duration_ms": 187009,
+      "name": "Melody and bars - Remix",
+      "url": "https://open.spotify.com/track/0RcIgGcoomCgXRK7nvGZLn"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -561,44 +641,20 @@
       "url": "https://open.spotify.com/track/2Dw26esVMltthp13n4YfNx"
     },
     {
-      "added_at": "2023-08-04 16:10:00",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "limelight",
-        "url": "https://open.spotify.com/album/5uZdnfF6XrAVPSYpkxYuUf"
+        "name": "Cycle mix (crea x creon)",
+        "url": "https://open.spotify.com/album/5SdCyzEI6C6oCazIClXQTo"
       },
       "artists": [
         {
-          "name": "Marluxiam",
-          "url": "https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU"
-        },
-        {
-          "name": "Cinquez",
-          "url": "https://open.spotify.com/artist/7JuWPgGcMG5Gcd6eT6UtWW"
+          "name": "Nuvfr",
+          "url": "https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy"
         }
       ],
-      "duration_ms": 151320,
-      "name": "limelight",
-      "url": "https://open.spotify.com/track/6A6XsLViuHLPo72SvmRo5s"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "yellow",
-        "url": "https://open.spotify.com/album/3SfKLEwoJnQfEFgkcFzoie"
-      },
-      "artists": [
-        {
-          "name": "Marluxiam",
-          "url": "https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU"
-        },
-        {
-          "name": "cade clair",
-          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
-        }
-      ],
-      "duration_ms": 135974,
-      "name": "yellow",
-      "url": "https://open.spotify.com/track/1E8bxq8SiUtNWHnWuE0pEJ"
+      "duration_ms": 219888,
+      "name": "Cycle mix (crea x creon)",
+      "url": "https://open.spotify.com/track/0Be7vipfSZvIaV8fuF68yc"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -671,38 +727,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "YOU'RE TOO SLOW",
-        "url": "https://open.spotify.com/album/1LY8hZmcDY1eC36qR5jAEz"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 116567,
-      "name": "YOU'RE TOO SLOW",
-      "url": "https://open.spotify.com/track/5EloqweGioDEbqiGXTYWgE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/73ltZParXtux9ydXMo4qo5"
-      },
-      "artists": [
-        {
-          "name": "Luci4",
-          "url": "https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6"
-        }
-      ],
-      "duration_ms": 84648,
-      "name": "All Eyez On Me",
-      "url": "https://open.spotify.com/track/3Ml1RetK8lfUZ1kBzMhvNf"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "change",
         "url": "https://open.spotify.com/album/1EwCoJPEovnbePAjomvhp1"
       },
@@ -715,6 +739,22 @@
       "duration_ms": 93701,
       "name": "change",
       "url": "https://open.spotify.com/track/1ll5tr64qJ7uuupyNgcgN2"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "zone",
+        "url": "https://open.spotify.com/album/47r3jc02iOz9uYS2AqXjJ9"
+      },
+      "artists": [
+        {
+          "name": "Axxad",
+          "url": "https://open.spotify.com/artist/7EnWkKTmRG5i9rW93o5DZm"
+        }
+      ],
+      "duration_ms": 73907,
+      "name": "zone",
+      "url": "https://open.spotify.com/track/275PIzY4ywV5EILyS5LYpe"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -829,6 +869,22 @@
       "url": "https://open.spotify.com/track/6tKUMn27YjNOxxjttkI40A"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Pink flame",
+        "url": "https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ"
+      },
+      "artists": [
+        {
+          "name": "Nuvfr",
+          "url": "https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy"
+        }
+      ],
+      "duration_ms": 254119,
+      "name": "Pink flame",
+      "url": "https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Ezekiel Singles \u201918-\u201820",
@@ -863,42 +919,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Want u more!",
-        "url": "https://open.spotify.com/album/1azh3Y1Q4qnjI41GmRAZCR"
-      },
-      "artists": [
-        {
-          "name": "Marluxiam",
-          "url": "https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU"
-        },
-        {
-          "name": "sonicreations!",
-          "url": "https://open.spotify.com/artist/5t8B0ba1AOHP8ckEPhPVoF"
-        }
-      ],
-      "duration_ms": 166649,
-      "name": "Want u more!",
-      "url": "https://open.spotify.com/track/3RKEW4HMiRZQMXY63XSieF"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "SHE IS CRAZY, BUT I <3 HER!",
-        "url": "https://open.spotify.com/album/7fGqtwSI1PhJWoqGGShb4A"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        }
-      ],
-      "duration_ms": 73377,
-      "name": "SHE IS CRAZY, BUT I <3 HER!",
-      "url": "https://open.spotify.com/track/4DhGmDOiBbWSAP7ASRtokr"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "I <3 LATINAS",
         "url": "https://open.spotify.com/album/1MtzbdSdDZZBopNu7IcskV"
       },
@@ -927,22 +947,6 @@
       "duration_ms": 135533,
       "name": "fairy",
       "url": "https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "COME MESS WIT ME!",
-        "url": "https://open.spotify.com/album/2NkAZGW41Rv51ABPHvKhDB"
-      },
-      "artists": [
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        }
-      ],
-      "duration_ms": 81687,
-      "name": "uhh p2.",
-      "url": "https://open.spotify.com/track/0zdq7gjKevgTyG470OL9fB"
     },
     {
       "added_at": "2023-07-28 04:00:00",

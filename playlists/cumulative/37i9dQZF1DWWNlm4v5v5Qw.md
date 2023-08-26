@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Cover: IDK
 
-386 songs - 17 hr 41 min
+387 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Mob Psycho](https://open.spotify.com/track/1ESNeSg3oOZbDDSuQfzFUF) | [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR), [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q), [FULMETALPARKA$](https://open.spotify.com/artist/2bmYau9D9oa1VDIiW5pBQk) | [Mob Psycho](https://open.spotify.com/album/4T0cgiBQaNraaZXntSeb8D) | 2:55 | 2022-03-11 | 2022-04-23 |
 | [Mode](https://open.spotify.com/track/6dK76c8NXJpVoXnz0FHYRk) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Mode](https://open.spotify.com/album/0GgHQw9BfH8GpsXyeyZBeM) | 1:52 | 2022-09-23 | 2023-01-13 |
 | [Models](https://open.spotify.com/track/22HEkk3tryGJIeBlLgph1n) | [Money Jake](https://open.spotify.com/artist/6w6zLkSnp3fsuI1EhTOGhW), [Tmc The Don](https://open.spotify.com/artist/03EqB0HEkPlilOUqZulZqF) | [My Moment](https://open.spotify.com/album/6OBP74o9f2wYeVoMKALUGl) | 2:40 | 2021-08-13 | 2022-02-26 |
+| [Moment Of Your Life](https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Moment Of Your Life](https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis) | 3:15 | 2023-08-25 |  |
 | [Mood Switch \(feat\. Shy Glizzy\)](https://open.spotify.com/track/1iNXK96jZ5L7GIYDQ0dTJE) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Mood Switch \(feat\. Shy Glizzy\)](https://open.spotify.com/album/5vW8WGKZnuD1kltTAGXHyP) | 3:32 | 2021-09-01 | 2022-02-26 |
 | [Much More](https://open.spotify.com/track/0TQN1eNAZUJ8dRtcGvASXV) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj) | [Much More](https://open.spotify.com/album/4CUpubYVFGsLJQPTNUJfp5) | 4:42 | 2022-09-09 | 2022-11-19 |
 | [Much More](https://open.spotify.com/track/4wYTTvOrC56pRkqjGIDq5b) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj) | [Sound Is Like Water](https://open.spotify.com/album/5qAluQa0RZyGiHObyOvA6i) | 4:42 | 2022-09-09 | 2022-12-03 |

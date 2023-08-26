@@ -10211,6 +10211,28 @@
     },
     {
       "album": {
+        "name": "Mtg - Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC"
+      },
+      "artists": [
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113442,
+      "name": "Mtg - Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F"
+    },
+    {
+      "album": {
         "name": "Multicolore",
         "url": "https://open.spotify.com/album/71FiFt0GL3GWW7FQkvTQfS"
       },
@@ -10816,6 +10838,28 @@
       "duration_ms": 186375,
       "name": "Nothing's Perfect",
       "url": "https://open.spotify.com/track/6gfi3T4K9MqNi7yxKnpNaZ"
+    },
+    {
+      "album": {
+        "name": "NOVINHA",
+        "url": "https://open.spotify.com/album/0sKfW7CQViUMFjTb8XUCgt"
+      },
+      "artists": [
+        {
+          "name": "Nulteex",
+          "url": "https://open.spotify.com/artist/2KpRPEeU6cKWTdSpdKL2zj"
+        },
+        {
+          "name": "CHXSE WAVE",
+          "url": "https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79304,
+      "name": "NOVINHA",
+      "url": "https://open.spotify.com/track/3FTlbsFazH2mP4oBxuyzAI"
     },
     {
       "album": {
@@ -13888,7 +13932,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 303750,
       "name": "Solstice",
       "url": "https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y"
@@ -15546,7 +15590,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 189600,
       "name": "Tolls",
       "url": "https://open.spotify.com/track/52SufmRBQp2jQtNIh9Eqze"
@@ -15674,7 +15718,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 321620,
       "name": "Tripitaka",
       "url": "https://open.spotify.com/track/4yLt9zbTbXkPOPsAHeq56P"

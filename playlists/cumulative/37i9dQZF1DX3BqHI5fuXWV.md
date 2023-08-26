@@ -4,7 +4,7 @@
 
 > The best tracks from the great Miles Davis.
 
-139 songs - 13 hr 43 min
+140 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,10 @@
 | [All of You \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:00 | 2021-07-02 |  |
 | [Amandla](https://open.spotify.com/track/2Ovs392mQ8DrOdYfgCLXI6) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Amandla](https://open.spotify.com/album/0fabOosWong8kopy57JitO) | 5:21 | 2021-07-02 |  |
 | [Black Comedy](https://open.spotify.com/track/3iC27VT5zft0EU3uibib6y) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles In The Sky \(Expanded Edition\)](https://open.spotify.com/album/1qxketIip4Mbqb2TglxPuY) | 7:24 | 2021-07-02 |  |
+| [Blue Haze](https://open.spotify.com/track/26Mp8qAMY9WaFu9BJ8DghW) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Davis \- A Jazz Legend](https://open.spotify.com/album/6YlVEAfzDbm6ul89skqKXL) | 6:11 | 2023-08-23 |  |
 | [Blue Haze](https://open.spotify.com/track/3SB1t020ZMcxGD0YQx0CX7) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Chronicles \- The Complete Prestige Recordings 1951\-1956](https://open.spotify.com/album/50ov4cmom8FGshv8F0LomX) | 6:06 | 2022-09-16 | 2022-11-13 |
 | [Blue Haze](https://open.spotify.com/track/1RtmLOItbFRFWcGcVlE0yT) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze \- Miles Davis & the Modern Jazz Giants](https://open.spotify.com/album/438JEFPa58t9nb9vgwxlbf) | 6:09 | 2021-07-02 | 2022-07-29 |
-| [Blue Haze](https://open.spotify.com/track/4aGwaTnpdI90cHPfgKV6jw) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 6:09 | 2022-04-27 |  |
+| [Blue Haze](https://open.spotify.com/track/4aGwaTnpdI90cHPfgKV6jw) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 6:09 | 2022-04-27 | 2023-08-26 |
 | [Blue In Green](https://open.spotify.com/track/62M7rdje0DMGlSN0oCGz6k) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Miles Davis Featuring John Coltrane](https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur) | 5:34 | 2022-09-16 | 2022-11-14 |
 | [Blue in Green](https://open.spotify.com/track/1QxFPdYTJ1F5dTZwaJviSj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Kind Of Blue](https://open.spotify.com/album/3pUQGAxKte7S6FokfKrmEm) | 5:37 | 2021-07-02 | 2022-07-29 |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2022-04-27 |  |

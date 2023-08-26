@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Cracks",
+        "url": "https://open.spotify.com/album/7zmaglQ71xvOxs8FRWHr0E"
+      },
+      "artists": [
+        {
+          "name": "Dark Tempest",
+          "url": "https://open.spotify.com/artist/20QGauCCn5cmwkG8bUiDsE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208153,
+      "name": "Cracks",
+      "url": "https://open.spotify.com/track/7x5wz6mUoNVMUqXJHRYtiN"
+    },
+    {
+      "album": {
         "name": "Congi Selection",
         "url": "https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n"
       },

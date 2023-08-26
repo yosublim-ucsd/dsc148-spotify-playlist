@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 14735,
+  "num_followers": 14751,
   "original_name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGRmMzhkNjcyOWUwZjYzMzE5OGQwMmZkZDc4OTY0ZWFlYTNmMTc2",
+  "snapshot_id": "MCw5M2M4ZmY1YTYxZGM5ZDZjYTM1NmJhYWNkNGZjYjcyNGZjNWRhYTY1",
   "tracks": [
     {
       "added_at": "2023-06-29 16:09:15",
@@ -1091,50 +1091,6 @@
     {
       "added_at": "2023-06-29 16:09:15",
       "album": {
-        "name": "VOY@GER (\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6!\u76e4)",
-        "url": "https://open.spotify.com/album/5qK9kVY1VwTb2TfuK8oumE"
-      },
-      "artists": [
-        {
-          "name": "Umi Kousaka (CV: Reina Ueda)",
-          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
-        },
-        {
-          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
-          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
-        },
-        {
-          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
-          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
-        }
-      ],
-      "duration_ms": 339120,
-      "name": "VOY@GER - \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6!Ver.",
-      "url": "https://open.spotify.com/track/4loMP9JuL2MTqzfysmLOPm"
-    },
-    {
-      "added_at": "2023-06-29 16:09:15",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 04",
-        "url": "https://open.spotify.com/album/6Mb1y1zYO6iaCNDe9TxAPg"
-      },
-      "artists": [
-        {
-          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
-          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
-        },
-        {
-          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
-        }
-      ],
-      "duration_ms": 248466,
-      "name": "\u6df1\u5c64\u30de\u30fc\u30e1\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/52lcYOee3SaKuEwOd4XkCv"
-    },
-    {
-      "added_at": "2023-06-29 16:09:15",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 02 Chrono-Lexica",
         "url": "https://open.spotify.com/album/0n1EdkiGkULdbdAbcj3FI3"
       },
@@ -1163,6 +1119,50 @@
       "duration_ms": 324240,
       "name": "dans l'obscurit\u00e9",
       "url": "https://open.spotify.com/track/04TVbpupBXYP6MJZHj9ahD"
+    },
+    {
+      "added_at": "2023-06-29 16:09:15",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 04",
+        "url": "https://open.spotify.com/album/6Mb1y1zYO6iaCNDe9TxAPg"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        },
+        {
+          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
+        }
+      ],
+      "duration_ms": 248466,
+      "name": "\u6df1\u5c64\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/52lcYOee3SaKuEwOd4XkCv"
+    },
+    {
+      "added_at": "2023-06-29 16:09:15",
+      "album": {
+        "name": "VOY@GER (\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6!\u76e4)",
+        "url": "https://open.spotify.com/album/5qK9kVY1VwTb2TfuK8oumE"
+      },
+      "artists": [
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        }
+      ],
+      "duration_ms": 339120,
+      "name": "VOY@GER - \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6!Ver.",
+      "url": "https://open.spotify.com/track/4loMP9JuL2MTqzfysmLOPm"
     },
     {
       "added_at": "2023-06-29 16:09:15",
@@ -1311,6 +1311,34 @@
     {
       "added_at": "2023-06-29 16:09:15",
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
+        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+      },
+      "artists": [
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        }
+      ],
+      "duration_ms": 282280,
+      "name": "Blue Symphony",
+      "url": "https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ"
+    },
+    {
+      "added_at": "2023-06-29 16:09:15",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER GENERATION 10 \u9583\u5149 HANABI\u56e3",
         "url": "https://open.spotify.com/album/3yMOG8hVXOI4DRrUixNXBE"
       },
@@ -1339,34 +1367,6 @@
       "duration_ms": 262000,
       "name": "\u54b2\u304f\u306f\u6d6e\u4e16\u306e\u541b\u82b1\u706b",
       "url": "https://open.spotify.com/track/7bShOIQ5ls3hF26cOsE12J"
-    },
-    {
-      "added_at": "2023-06-29 16:09:15",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
-        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
-      },
-      "artists": [
-        {
-          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
-          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
-        },
-        {
-          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
-          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
-        },
-        {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        },
-        {
-          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
-          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
-        }
-      ],
-      "duration_ms": 282280,
-      "name": "Blue Symphony",
-      "url": "https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ"
     },
     {
       "added_at": "2023-06-29 16:09:15",
@@ -1439,30 +1439,18 @@
     {
       "added_at": "2023-06-29 16:09:15",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor",
-        "url": "https://open.spotify.com/album/2EQQNrat2zwQMfwD67OycQ"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
+        "url": "https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6"
       },
       "artists": [
         {
-          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
-          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
-        },
-        {
-          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
-          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
-        },
-        {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
-        },
-        {
-          "name": "\u4e8c\u968e\u5802\u5343\u9db4 (CV.\u91ce\u6751\u9999\u83dc\u5b50)",
-          "url": "https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe"
+          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
         }
       ],
-      "duration_ms": 265600,
-      "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"
+      "duration_ms": 242440,
+      "name": "Rebellion",
+      "url": "https://open.spotify.com/track/0eSnPMln0L2taBufLZhbuA"
     },
     {
       "added_at": "2023-06-29 16:09:15",
@@ -1491,18 +1479,30 @@
     {
       "added_at": "2023-06-29 16:09:15",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
-        "url": "https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6"
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor",
+        "url": "https://open.spotify.com/album/2EQQNrat2zwQMfwD67OycQ"
       },
       "artists": [
         {
-          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u4e8c\u968e\u5802\u5343\u9db4 (CV.\u91ce\u6751\u9999\u83dc\u5b50)",
+          "url": "https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe"
         }
       ],
-      "duration_ms": 242440,
-      "name": "Rebellion",
-      "url": "https://open.spotify.com/track/0eSnPMln0L2taBufLZhbuA"
+      "duration_ms": 265600,
+      "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"
     },
     {
       "added_at": "2023-06-29 16:09:15",

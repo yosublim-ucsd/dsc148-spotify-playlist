@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-196 songs - 9 hr 32 min
+198 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [For the First Time in Forever](https://open.spotify.com/track/3mZ5cGdehGztF45dECOuoV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:27 | 2022-04-15 |  |
 | [Going on a Mission](https://open.spotify.com/track/2U40NPBtjoinwsVjoYzRQt) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:24 | 2022-04-15 |  |
 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2022-04-15 |  |
+| [Happy Working Song](https://open.spotify.com/track/1v4uRGAMORpaj7E8Fc4V6z) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN) | [Disney Peaceful Piano: Relax](https://open.spotify.com/album/7FNfj52JTCxxGbaX2c2ky2) | 2:34 | 2023-08-25 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/1RDQoUE3pE44TOKKKP8FQC) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Happy](https://open.spotify.com/album/0bcbleewCHnbRNDfBls4UI) | 2:13 | 2022-04-22 |  |
 | [He's A Pirate](https://open.spotify.com/track/6dAOMe5B3sXilEsSF4BvzA) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:56 | 2022-04-15 |  |
 | [House at Pooh Corner](https://open.spotify.com/track/1AieZp5vImnCvbUapUyoFG) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby Album](https://open.spotify.com/album/3UvlJDMb3sEH8lUk83598i) | 3:04 | 2022-04-15 |  |
@@ -125,6 +126,7 @@
 | [Part of Your World](https://open.spotify.com/track/2SvuVrSQb1AAhxPtgzb65p) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Breathe](https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI) | 3:04 | 2022-04-15 |  |
 | [Part of Your World](https://open.spotify.com/track/0dRJyiEdzeHyX06nifP0jI) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 4:10 | 2022-04-15 |  |
 | [Part of Your World](https://open.spotify.com/track/0DpenaOtMhXNrBGI3BpIaN) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Romance](https://open.spotify.com/album/7F5EjPVGXRXdipfy927cLi) | 2:57 | 2023-01-12 | 2023-01-21 |
+| [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \- From "The Little Mermaid" \(Feat\. Cocomi\)](https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV) | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \[From "The Little Mermaid" \(Feat\. Cocomi\)\]](https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF) | 5:44 | 2023-08-25 |  |
 | [Proud of Your Boy](https://open.spotify.com/track/74kyZs3EDdJjWeTY2vPesG) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Balance](https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW) | 2:59 | 2022-04-15 |  |
 | [Puff The Magic Dragon \- Instrumental](https://open.spotify.com/track/1bFx9DWBFy1U7o7Dd6IQcU) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:04 | 2022-04-15 |  |
 | [Puppy Dog Pals Main Title Theme](https://open.spotify.com/track/6MYrDeDsucEUvKAN2slOl7) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 | 2022-04-15 |  |

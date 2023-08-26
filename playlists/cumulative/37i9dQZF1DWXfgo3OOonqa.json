@@ -21387,6 +21387,28 @@
     },
     {
       "album": {
+        "name": "TRAUMA PARANOIA",
+        "url": "https://open.spotify.com/album/4oOuea5rMrdRVfcLzqC0Nt"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "TRAUMA PARANOIA",
+      "url": "https://open.spotify.com/track/4aBdVP0kcEedFO9C4OjwuM"
+    },
+    {
+      "album": {
         "name": "NEW DRILLA IN TOWN",
         "url": "https://open.spotify.com/album/5DCR0bCZzBrvP9vWSuoCr3"
       },

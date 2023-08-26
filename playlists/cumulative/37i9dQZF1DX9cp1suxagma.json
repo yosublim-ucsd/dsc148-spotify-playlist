@@ -426,7 +426,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 181560,
       "name": "Casa En El Aire",
       "url": "https://open.spotify.com/track/1j0a4dRwOwFMKul897zhE2"
@@ -488,6 +488,24 @@
       "duration_ms": 219184,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Encuentre",
+        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
     },
     {
       "album": {
@@ -789,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/0U4CGswPa88DuTdtQojlBs"
+      },
+      "artists": [
+        {
+          "name": "Isabel Garc\u00e9s",
+          "url": "https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/4ono3Yv2pkKMHOyhGR3XLW"
+    },
+    {
+      "album": {
         "name": "Falta Amor",
         "url": "https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m"
       },
@@ -1054,7 +1090,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 194984,
       "name": "La Vida Sin Ti",
       "url": "https://open.spotify.com/track/1RvL7eHoeUolnQbWm2Hnba"
@@ -1210,7 +1246,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 189133,
       "name": "Marinero",
       "url": "https://open.spotify.com/track/6x5LBP3nYXVdIDoomChGr3"
@@ -1583,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+    },
+    {
+      "album": {
         "name": "Obvio",
         "url": "https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc"
       },
@@ -1624,7 +1678,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 256417,
       "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
       "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
@@ -1802,7 +1856,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 210048,
       "name": "Punto Y Aparte",
       "url": "https://open.spotify.com/track/6RiV6DnCbfc0b2KbNvumdP"
@@ -2421,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Un Amor De Verdad",
+        "url": "https://open.spotify.com/album/2Mh1V5ysHk7qVTTIOckchc"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228276,
+      "name": "Un Amor De Verdad",
+      "url": "https://open.spotify.com/track/6laxrBQusEMVUW92KusI4J"
+    },
+    {
+      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
       },
@@ -2476,6 +2548,28 @@
       "duration_ms": 161173,
       "name": "Una Noche Sin Pensar",
       "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
+    },
+    {
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/1k4MyRE1UrSvytq0dcZibo"
+      },
+      "artists": [
+        {
+          "name": "Maria McCausland",
+          "url": "https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233247,
+      "name": "Una Vez M\u00e1s (feat. Muerdo)",
+      "url": "https://open.spotify.com/track/4LE64C6oFzCooTAlNjuoLI"
     },
     {
       "album": {
@@ -2556,7 +2650,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 214413,
       "name": "Vivir Bailando",
       "url": "https://open.spotify.com/track/7gL0eIncXB5ELO8BFMR3Uv"
@@ -2640,6 +2734,24 @@
       "duration_ms": 165933,
       "name": "Yo Primero",
       "url": "https://open.spotify.com/track/3I4rvoB4ih3URCTdIpWmFt"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Dijo Que Era F\u00e1cil?",
+        "url": "https://open.spotify.com/album/1qLpX1AgAYXhfr3QOWycw7"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160493,
+      "name": "\u00bfC\u00f3mo Es Que T\u00fa?",
+      "url": "https://open.spotify.com/track/4baS2oyw8UwFMgoZt58vkS"
     },
     {
       "album": {

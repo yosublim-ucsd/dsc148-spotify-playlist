@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,409 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,543 likes - 63 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 4 | [Kids Return \- Live](https://open.spotify.com/track/2c3wkztuWgSjrVFKCeNOIJ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Songs of Hope: The Essential Joe Hisaishi Vol\. 2](https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S) | 4:08 |
 | 5 | [HANA\-BI \- Live](https://open.spotify.com/track/1pACiYWfCSt4d1prtS0orM) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Songs of Hope: The Essential Joe Hisaishi Vol\. 2](https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S) | 3:14 |
 | 6 | [la pioggia](https://open.spotify.com/track/2EvkfIfHqmLlKkKc3tcfPw) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Songs of Hope: The Essential Joe Hisaishi Vol\. 2](https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S) | 5:14 |
-| 7 | [Contrabass Concerto Movement 1 \- Live](https://open.spotify.com/track/4v3rgEKIkgPspFRPDOgkse) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ミニマリズム4](https://open.spotify.com/album/4E6ic6qxhtxf89Jw84QHnF) | 9:57 |
+| 7 | [Contrabass Concerto Movement 1 \- Live](https://open.spotify.com/track/4v3rgEKIkgPspFRPDOgkse) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ミニマリズム４](https://open.spotify.com/album/4E6ic6qxhtxf89Jw84QHnF) | 9:57 |
 | 8 | [One Summer's Day](https://open.spotify.com/track/24yI12lKyeNrN7yEAPVc8j) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [メロディフォニー](https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1) | 4:03 |
 | 9 | [Symphonic Suite “Kiki’s Delivery Service” : On a Clear Day 〜 A Town with an Ocean View \- Live In Japan / 2019](https://open.spotify.com/track/3TWA7l03qmqOdz1KcmMtun) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Symphonic Suite “Kiki’s Delivery Service”](https://open.spotify.com/album/1KBEf92eBTtfJQU5C7wmf0) | 4:40 |
 | 10 | [Summer](https://open.spotify.com/track/2Cxe8qnbsyeXCOpNg05KVl) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [メロディフォニー](https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1) | 4:05 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 62 | [Birthday](https://open.spotify.com/track/4BbZirfjFACHy5GSVjKBM9) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 4:13 |
 | 63 | [Symphonic Suite "Castle in the Sky": The Eternal Tree of Life](https://open.spotify.com/track/4YWsyVPhOMjPIt6qlL06A3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Symphonic Suite Castle in the Sky](https://open.spotify.com/album/48BlyQmPIQOZZbJq9UkFGJ) | 3:37 |
 
-Snapshot ID: `MCwzMDA3ZDE2MzNhY2RlZTk5N2IwYjFlNjNiZGUwNjU0MDRjNzg3OGQ1`
+Snapshot ID: `MCw1YzEzZjcwZGU0MGNiYTk4YjliNDhhNDgyOGU5MTkwODRhZDRhZGZm`

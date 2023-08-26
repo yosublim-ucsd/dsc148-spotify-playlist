@@ -1,12 +1,12 @@
 {
   "description": "HIPHOP 50!",
-  "num_followers": 317153,
+  "num_followers": 317183,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmU3NTAyMGRiYTYzZDQxYzFiZWY3NmM4MGJkYjc5MzNkOWU3ZTVj",
+  "snapshot_id": "MCw0M2VlM2YzODcxYzVjZGNkNzQzOGZlODUxZjBmZmVmOTk2MzE2MGFl",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -47,6 +47,26 @@
       "duration_ms": 139071,
       "name": "Soldat",
       "url": "https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V"
+    },
+    {
+      "added_at": "2023-08-25 11:22:35",
+      "album": {
+        "name": "TRAUMA PARANOIA",
+        "url": "https://open.spotify.com/album/4oOuea5rMrdRVfcLzqC0Nt"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "TRAUMA PARANOIA",
+      "url": "https://open.spotify.com/track/4aBdVP0kcEedFO9C4OjwuM"
     },
     {
       "added_at": "2023-08-24 22:00:00",

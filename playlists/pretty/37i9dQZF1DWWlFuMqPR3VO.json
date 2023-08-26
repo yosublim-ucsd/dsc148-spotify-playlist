@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 12568,
+  "num_followers": 12583,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzNmNWM0MzY5NjllMGFjYzgyNTU4YTcyYTYwNTZlYjA0NDNlN2Q1",
+  "snapshot_id": "MCw0MTY2ODI1YzU3NzgzYThiMzdiYTBjOWM5ZDMyNWQxNDc4ZWM5NzI4",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Bright Mississippi",
-        "url": "https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy"
-      },
-      "artists": [
-        {
-          "name": "Allen Toussaint",
-          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "St. James Infirmary",
-      "url": "https://open.spotify.com/track/6FKasUNG1KT4r9TR9rKdll"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Gris Gris",
         "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 180600,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "The Bright Mississippi",
+        "url": "https://open.spotify.com/album/3zcTpC2o6RtnpfYTjN4Jzy"
+      },
+      "artists": [
+        {
+          "name": "Allen Toussaint",
+          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "St. James Infirmary",
+      "url": "https://open.spotify.com/track/6FKasUNG1KT4r9TR9rKdll"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Creole Moon",
-        "url": "https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU"
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
       "artists": [
         {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
         }
       ],
-      "duration_ms": 514866,
-      "name": "Creole Moon",
-      "url": "https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG"
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+        "name": "Creole Moon",
+        "url": "https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU"
       },
       "artists": [
         {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
         }
       ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
+      "duration_ms": 514866,
+      "name": "Creole Moon",
+      "url": "https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -543,8 +543,8 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "I'm A Mojo Man: The Best Of The Excello Singles",
-        "url": "https://open.spotify.com/album/6ubAM1dJPDqNTDjgIssTha"
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
         }
       ],
-      "duration_ms": 126266,
-      "name": "Gonna Stick To You Baby",
-      "url": "https://open.spotify.com/track/5rTs9t774oyGMOlEgAOgz6"
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "added_at": "2022-03-28 20:10:01",

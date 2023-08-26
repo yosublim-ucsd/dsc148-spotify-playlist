@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: AM\u00c9M (Julliany Souza, L\u00e9o Brand\u00e3o)",
-  "num_followers": 981687,
+  "num_followers": 982252,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDI1YjNlNzg4OTc1YzEyY2EzMWVmMDk5MmFmMmUyZTBmNzlmZWE1",
+  "snapshot_id": "MCw4MTIyMTBiYjM3MzZhZThkZjMzNzA4ZDQ0MzZjNmY0ZmQ2YmU3MDU1",
   "tracks": [
     {
       "added_at": "2023-08-18 05:34:36",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
+        "name": "Planos de Deus",
+        "url": "https://open.spotify.com/album/2HPXxngcKMkkSmlCDc9Mvu"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 244970,
+      "name": "Todavia Me Alegrarei",
+      "url": "https://open.spotify.com/track/1oYLqvcF0K6MluD4tl4PUv"
+    },
+    {
+      "added_at": "2023-08-18 05:34:36",
+      "album": {
         "name": "Ele Cumprir\u00e1",
         "url": "https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 456654,
       "name": "Ele Cumprir\u00e1",
       "url": "https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo"
-    },
-    {
-      "added_at": "2023-08-18 05:34:36",
-      "album": {
-        "name": "Planos de Deus",
-        "url": "https://open.spotify.com/album/2HPXxngcKMkkSmlCDc9Mvu"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 244970,
-      "name": "Todavia Me Alegrarei",
-      "url": "https://open.spotify.com/track/1oYLqvcF0K6MluD4tl4PUv"
     },
     {
       "added_at": "2023-08-18 05:34:36",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
-    },
-    {
-      "added_at": "2023-08-18 05:34:36",
-      "album": {
         "name": "Voc\u00ea N\u00e3o Imagina",
         "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 318020,
       "name": "Voc\u00ea N\u00e3o Imagina",
       "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
+    },
+    {
+      "added_at": "2023-08-18 05:34:36",
+      "album": {
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
     },
     {
       "added_at": "2023-08-18 05:34:36",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
-        "name": "Quem \u00e9 Como Nosso Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6VYnO45xAXEfO3w3JT5zpp"
+        "name": "O Amor Venceu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Bp0byIrVLWQw9FjIiCSF4"
       },
       "artists": [
         {
@@ -1476,17 +1476,13 @@
           "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
         },
         {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Felippe Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Quem \u00e9 Como Nosso Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4oRVmlLVrRaQcsce0od2Q0"
+      "duration_ms": 395000,
+      "name": "O Amor Venceu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3tsvvDT5rxEVs8rxtawduX"
     },
     {
       "added_at": "2023-08-18 05:34:36",
@@ -1603,8 +1599,8 @@
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
-        "name": "O Amor Venceu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Bp0byIrVLWQw9FjIiCSF4"
+        "name": "Quem \u00e9 Como Nosso Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6VYnO45xAXEfO3w3JT5zpp"
       },
       "artists": [
         {
@@ -1612,13 +1608,17 @@
           "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
         },
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Felippe Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
         }
       ],
-      "duration_ms": 395000,
-      "name": "O Amor Venceu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3tsvvDT5rxEVs8rxtawduX"
+      "duration_ms": 390000,
+      "name": "Quem \u00e9 Como Nosso Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4oRVmlLVrRaQcsce0od2Q0"
     },
     {
       "added_at": "2023-08-18 05:34:36",

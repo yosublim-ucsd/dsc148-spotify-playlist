@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-20",
-  "description": "East Africa queens in their music bag",
+  "description": "East Africa queens in their music bag. Cover: Muthaka & Emma Cheruto",
   "name": "Malkia",
   "tracks": [
     {
@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Inawezekana",
+        "url": "https://open.spotify.com/album/3335lkgj003Ei3L0JFAtZQ"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Inawezekana",
+      "url": "https://open.spotify.com/track/5LFqAvooQPm0XFZ63WawzM"
+    },
+    {
+      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM"
       },
@@ -840,7 +858,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 151680,
       "name": "Mama Ntilie",
       "url": "https://open.spotify.com/track/3M52Cys94u7FX3nUww5ITl"
@@ -1655,6 +1673,28 @@
     },
     {
       "album": {
+        "name": "Touching on My Baby",
+        "url": "https://open.spotify.com/album/72AlrzsvuiyydOXwe09foV"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        },
+        {
+          "name": "Emma Cheruto",
+          "url": "https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155782,
+      "name": "Touching on My Baby",
+      "url": "https://open.spotify.com/track/4TQqtk6JQD6pYBOhiIrNwd"
+    },
+    {
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/5gtHlJlSDBeaHnfR7vnd5X"
       },
@@ -1666,7 +1706,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 178000,
       "name": "Truth",
       "url": "https://open.spotify.com/track/0Hkeyxe7TwFxgiM1hhNc3A"

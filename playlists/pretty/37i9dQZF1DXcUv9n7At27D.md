@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の夏に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,979 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,998 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 20 | [Romanza](https://open.spotify.com/track/2amWDqVssaaTvBD8rTQjsz) | [Francisco Calleja](https://open.spotify.com/artist/5f5CADOhzuth8FutkgK71U), [Masatomo Tomikawa](https://open.spotify.com/artist/5pQihvOLqpdsEYwlFDLqMb) | [Tú y Yo: Spanish Guitar Works](https://open.spotify.com/album/3RgWoKJpWCOOoXBNKYMQ1C) | 4:07 |
 | 21 | [いかないで](https://open.spotify.com/track/4JSndyxcNjbhE1fgCeNu0T) | [Mine Kawakami](https://open.spotify.com/artist/27AI6gU3hQimMQ2ywqFiGb) | [Nostalghia\~Kiyomizu\~](https://open.spotify.com/album/6kmGx5WxG7VQugcjdozNVL) | 7:15 |
 | 22 | [Moon Road](https://open.spotify.com/track/6HIXHWmCdv0ZBLE0vmeh7P) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 5:19 |
-| 23 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA\(ハルシュラ\)](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
+| 23 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
 | 24 | [Anna \- Piano Version](https://open.spotify.com/track/38DYHnTRQ4HgYmP32sS3vu) | [Yomiuri Nippon Symphony Orchestra](https://open.spotify.com/artist/15FC47aoLjTKgv0otgmXLN) | [When Marnie Was There Soundtrack Music Collection](https://open.spotify.com/album/00odo2OS2nQ1j15oeG53g2) | 3:53 |
 | 25 | [愛のあいさつ](https://open.spotify.com/track/7lkDZJh3jmEdVALVUpV9M1) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Emiri Miyamoto](https://open.spotify.com/artist/29aWsI0zQQ53hKuM2V19ti) | [classique](https://open.spotify.com/album/5lTHJNS2IB3hTsiuzH5H2P) | 2:50 |
 | 26 | [前奏曲集 第1巻 VIII\. 亜麻色の髪の乙女](https://open.spotify.com/track/0cXHtvBNB879i7ZoBIv87L) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Ikuyo Nakamichi](https://open.spotify.com/artist/1Ie9ADna4vfkFA5lBfjGyd) | [ドビュッシーの見たもの\~前奏曲集I・映像I/II・喜びの島](https://open.spotify.com/album/7FZMs8gJFPgXwRAHvngIoJ) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 49 | [Always You](https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:17 |
 | 50 | [mou](https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 2:53 |
 
-Snapshot ID: `MCxjOTEyYmEzODE1ZmM1M2YxNWQ2YWVkNDA0NTFkM2UwNjkyY2FjNDdi`
+Snapshot ID: `MCwyMmYwZGViYWYwYTliMTE2N2FiMmQwNmY5MmRhNWY4YWI3MjgwZGNm`

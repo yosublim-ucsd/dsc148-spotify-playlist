@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Corro Atr\u00e1s",
+        "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
+      },
+      "artists": [
+        {
+          "name": "Laura Padaratz",
+          "url": "https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225920,
+      "name": "Corro Atr\u00e1s",
+      "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
+    },
+    {
+      "album": {
         "name": "Daddy",
         "url": "https://open.spotify.com/album/5hrJhU1uUGlw15hwCMqO5k"
       },
@@ -754,6 +772,32 @@
       "duration_ms": 155452,
       "name": "Dif\u00edcil Lembrar, n\u00e9?",
       "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
+    },
+    {
+      "album": {
+        "name": "ele diz que me ama s2",
+        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        },
+        {
+          "name": "Perimnobeat",
+          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241371,
+      "name": "ele diz que me ama s2",
+      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
     },
     {
       "album": {
@@ -852,7 +896,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 173571,
       "name": "Facetime - Remix",
       "url": "https://open.spotify.com/track/0ULGW9RhAaBfX3Lt3KQdL2"
@@ -1716,7 +1760,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 177531,
       "name": "Nada Mais",
       "url": "https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0"
@@ -2078,6 +2122,28 @@
       "duration_ms": 171326,
       "name": "Pe\u00e7a \u00danica",
       "url": "https://open.spotify.com/track/4IddWpa3qZQLPxaL8YiLq4"
+    },
+    {
+      "album": {
+        "name": "PLAYLIST TRANSANTE 2.0",
+        "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148733,
+      "name": "PLAYLIST TRANSANTE 2.0",
+      "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
     },
     {
       "album": {
@@ -2516,7 +2582,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 144640,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx"

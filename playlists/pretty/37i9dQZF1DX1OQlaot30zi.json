@@ -1,12 +1,12 @@
 {
   "description": "Sempre aggiornata. Con nuovi brani de Il Tre, Il Ghost e tanti altri.",
-  "num_followers": 35513,
+  "num_followers": 35520,
   "original_name": "Novit\u00e0 Rap Italiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2EwYjg4ZGU5YTk3NTE5NGQxYjIwMzdiZWMzZTFkN2Q1OWE2MmQz",
+  "snapshot_id": "MCwzYWJjNjk1YmFlM2VkZDNiNmViZDM0MzkwMmZjMmZhMzBiYzE2YzYw",
   "tracks": [
     {
       "added_at": "2023-08-24 22:01:00",
@@ -419,6 +419,22 @@
       "duration_ms": 126061,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/6FQRNIpzz7sazy07E4c0tT"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/73zmDMBi2hBo3BxdzkINZa"
+      },
+      "artists": [
+        {
+          "name": "Asso X",
+          "url": "https://open.spotify.com/artist/3BroHWMcnIcgZ48iAMoV34"
+        }
+      ],
+      "duration_ms": 138756,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/4YGP7UFW9CYJQ3m9D1LcBv"
     },
     {
       "added_at": "2023-08-24 22:01:00",

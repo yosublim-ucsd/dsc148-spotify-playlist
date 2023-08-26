@@ -4,7 +4,7 @@
 
 > New music from popular Hindi artists\. Cover\- Sukriti Kakar & Prakriti Kakar
 
-672 songs - 1 day 14 hr 38 min
+673 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Saahiba](https://open.spotify.com/track/6Tv6s5RuvMZ2cR18jYi7xy) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:50 | 2023-08-11 |  |
 | [Saajanwa](https://open.spotify.com/track/6NWgIuDeOr1Xeb4MZ1Bl6L) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Saajanwa](https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ) | 2:42 | 2022-11-25 | 2023-01-13 |
 | [Saawan](https://open.spotify.com/track/7BJBXJ6B3zmFkVOm6Qi8jx) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Gaurav Dagaonkar](https://open.spotify.com/artist/5jW93KBgv7vhPpBqbcLxWy), [Saaveri Verma](https://open.spotify.com/artist/4upwKgffqvWxkmv52QoT54), [Sunset Tribe](https://open.spotify.com/artist/5IDSjfknrsLjPjjEipGMhB) | [Saawan](https://open.spotify.com/album/364RNOGLoX3MDBGD4zdlsM) | 4:00 | 2023-07-14 | 2023-08-05 |
+| [Saawan Aa Gaya](https://open.spotify.com/track/3DfWvj4uyO49r6jT65q4zK) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [Saawan Aa Gaya](https://open.spotify.com/album/6fumgvojJALJyVofOgwG8D) | 3:42 | 2023-08-25 |  |
 | [Saaye](https://open.spotify.com/track/0N8A9ndrCJnyyImbI3AeEb) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaye](https://open.spotify.com/album/5l2NxHjbpoyfh1IwdmPDGm) | 3:15 | 2022-06-03 | 2022-06-15 |
 | [Saaye](https://open.spotify.com/track/0fdsAOeCtXHyjEra16h3An) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaye](https://open.spotify.com/album/1Gus69A2j11p8utuhDIc4O) | 3:15 | 2022-07-22 | 2022-09-16 |
 | [Sab Gazab](https://open.spotify.com/track/3FENAggAv5QMHDQsjsPaeW) | [Goldkartz](https://open.spotify.com/artist/5LzX6vsBIQqGu1ltzgFpOk), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Sab Gazab](https://open.spotify.com/album/3xdA3cnRDGMUI9lH5Vlcyx) | 3:17 | 2023-04-14 | 2023-06-03 |
@@ -554,7 +555,7 @@
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2022-11-11 | 2022-12-17 |
 | [Socho](https://open.spotify.com/track/5pZntMo01v4GRaWKWRqyTE) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Socho](https://open.spotify.com/album/7oOlVtccWmt39tQJU61eLb) | 3:18 | 2023-01-20 | 2023-03-11 |
 | [Sohnneyaa](https://open.spotify.com/track/4hOAIY6vOH5GUxJHe1FilI) | [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY) | [Sohnneyaa](https://open.spotify.com/album/5DD9HnONyUXqPZoZPRorgc) | 4:17 | 2023-02-10 | 2023-04-01 |
-| [Soneya](https://open.spotify.com/track/4T3afa03vozVX8YVwsr34x) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd) | [Soneya](https://open.spotify.com/album/2g1M3zZPVkYSHIj73loQBV) | 2:34 | 2023-08-25 |  |
+| [Soneya](https://open.spotify.com/track/4T3afa03vozVX8YVwsr34x) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Soneya](https://open.spotify.com/album/2g1M3zZPVkYSHIj73loQBV) | 2:34 | 2023-08-25 |  |
 | [Street Lori](https://open.spotify.com/track/5zX5SGzWkMoMIPv1HKMaFa) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 3:45 | 2022-11-11 | 2022-12-17 |
 | [Sun Bhi Le](https://open.spotify.com/track/7C2hyN0hWnAidYAS6EPA2b) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Sun Bhi Le \(From "Ittu Si Baat"\)](https://open.spotify.com/album/3KdGkT6ZiG1tDuRf7uWj70) | 4:22 | 2022-06-10 | 2022-07-09 |
 | [Sun Le \(1 Min Music\)](https://open.spotify.com/track/0KSvnDCTHMNNIPZkJkQdD5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Sun Le \(1 Min Music\)](https://open.spotify.com/album/7oiBuapxwQMa3j0rqiX8rl) | 0:57 | 2022-06-03 | 2022-06-11 |

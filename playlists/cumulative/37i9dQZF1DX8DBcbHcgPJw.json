@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: El Villano, BM & Migrantes.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Roman el Original, Agapornis, El Reja & Piola Vago. ",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -635,6 +635,36 @@
     },
     {
       "album": {
+        "name": "Bellaquera",
+        "url": "https://open.spotify.com/album/7uB37r8Snr3SiMB1gkebwE"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Piola Vago",
+          "url": "https://open.spotify.com/artist/1x2foxZ9bbVPqu3EMonEIM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146393,
+      "name": "Bellaquera",
+      "url": "https://open.spotify.com/track/0djU4QypapNKy20jXJZwXR"
+    },
+    {
+      "album": {
         "name": "Besos Mojados / Una Noche de Dos / Yo No Voy a Llorar",
         "url": "https://open.spotify.com/album/4OYOC0RUihH2AqdFZGdTNL"
       },
@@ -1022,7 +1052,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 147960,
       "name": "Chica Brasile\u00f1a",
       "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
@@ -1782,7 +1812,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 127137,
       "name": "Dime por Qu\u00e9",
       "url": "https://open.spotify.com/track/17jmom1YC4SMDHcEA79zY0"
@@ -2358,7 +2388,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 356454,
       "name": "Encararte / Fui feliz / Hoy aprendi (Medley)",
       "url": "https://open.spotify.com/track/5LLfgq2sp338bhfShDG17c"
@@ -3534,6 +3564,28 @@
       "duration_ms": 170653,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
+    },
+    {
+      "album": {
+        "name": "Lindura",
+        "url": "https://open.spotify.com/album/6HPKl1gr6PzdzhnSmzu2Ng"
+      },
+      "artists": [
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178394,
+      "name": "Lindura",
+      "url": "https://open.spotify.com/track/4PU0CDgqN77CmcOzTchAyI"
     },
     {
       "album": {
@@ -5970,7 +6022,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 188557,
       "name": "Salgo a Bailar / Lala",
       "url": "https://open.spotify.com/track/3BUD43oudn0r1zvpQdAXtw"

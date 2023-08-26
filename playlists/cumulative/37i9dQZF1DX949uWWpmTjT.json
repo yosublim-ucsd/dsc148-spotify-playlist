@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Around six thirty",
+        "url": "https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza"
+      },
+      "artists": [
+        {
+          "name": "Marc Henley Trio",
+          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203348,
+      "name": "Around six thirty",
+      "url": "https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El"
+    },
+    {
+      "album": {
         "name": "As I Ponder",
         "url": "https://open.spotify.com/album/367OQVZU6YW07Dk0B7SvO5"
       },
@@ -10332,7 +10350,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 365066,
       "name": "Social Call",
       "url": "https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy"

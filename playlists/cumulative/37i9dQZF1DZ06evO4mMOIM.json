@@ -627,6 +627,40 @@
     },
     {
       "album": {
+        "name": "Black Rabbits",
+        "url": "https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat"
+      },
+      "artists": [
+        {
+          "name": "Bad Rabbits",
+          "url": "https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        },
+        {
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
+        },
+        {
+          "name": "Justin Beck",
+          "url": "https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq"
+        },
+        {
+          "name": "Dres",
+          "url": "https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98776,
+      "name": "U Mean I'm Not",
+      "url": "https://open.spotify.com/track/2N97fOrsGpwkwTYtCvrPHd"
+    },
+    {
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
       },

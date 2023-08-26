@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 91528,
+  "num_followers": 91577,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2YzMmFmYWY5MTk3OGM0ZjlmMTUxMTkzODE5OGMwOWQ0OTAxYzk5",
+  "snapshot_id": "MCxjY2Y4MjY1MjQzZmZmMzVkZTQ3ODNmZjFhMDFjMWIzMjUxYzFlZmVl",
   "tracks": [
     {
       "added_at": "2023-07-21 03:24:44",
@@ -775,26 +775,18 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "Seoul Vibes Pt.1",
-        "url": "https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY"
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
       },
       "artists": [
         {
-          "name": "KozyPop",
-          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
-        },
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "Rheehab",
-          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 182062,
-      "name": "Sad Love Song (feat. slchld & Rheehab)",
-      "url": "https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr"
+      "duration_ms": 198000,
+      "name": "Blue Candle",
+      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
     },
     {
       "added_at": "2023-07-21 03:24:44",
@@ -815,18 +807,26 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+        "name": "Seoul Vibes Pt.1",
+        "url": "https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "Rheehab",
+          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Blue Candle",
-      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
+      "duration_ms": 182062,
+      "name": "Sad Love Song (feat. slchld & Rheehab)",
+      "url": "https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr"
     },
     {
       "added_at": "2023-07-21 03:24:44",

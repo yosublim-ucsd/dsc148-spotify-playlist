@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 59604,
+  "num_followers": 59631,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MThjZDRjZWMxN2FlMGRkOTUyMzYzNGU2N2YzYWU4YjA5ZjdjNDM3",
+  "snapshot_id": "MCw5MjBjMTVjODBiOWI2MDNhNThkNTg2ZDE0MTE2ZDdhODAxMGZlZWYw",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Pi\u0142a tango",
-        "url": "https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx"
-      },
-      "artists": [
-        {
-          "name": "Strachy Na Lachy",
-          "url": "https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Dzie\u0144 dobry, kocham Ci\u0119",
-      "url": "https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Obrazki",
         "url": "https://open.spotify.com/album/78C1YjhR3Crdoi7WwuIQuC"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 195666,
       "name": "Nie K\u0142ami",
       "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Pi\u0142a tango",
+        "url": "https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx"
+      },
+      "artists": [
+        {
+          "name": "Strachy Na Lachy",
+          "url": "https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Dzie\u0144 dobry, kocham Ci\u0119",
+      "url": "https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -819,18 +819,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Ania Karwan",
-        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
+        "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
+        "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
       "artists": [
         {
-          "name": "Ania Karwan",
-          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        },
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
         }
       ],
-      "duration_ms": 197764,
-      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
-      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
+      "duration_ms": 249046,
+      "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
+      "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -851,22 +855,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
-        "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
+        "name": "Ania Karwan",
+        "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
       },
       "artists": [
         {
-          "name": "Maciej Musia\u0142owski",
-          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
-        },
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+          "name": "Ania Karwan",
+          "url": "https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4"
         }
       ],
-      "duration_ms": 249046,
-      "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
-      "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
+      "duration_ms": 197764,
+      "name": "S\u0142ucham Ci\u0119 w radiu co tydzie\u0144",
+      "url": "https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Ludzie prosci",
-        "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
-      },
-      "artists": [
-        {
-          "name": "Mesajah",
-          "url": "https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC"
-        }
-      ],
-      "duration_ms": 230504,
-      "name": "Kazdego dnia",
-      "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 209213,
       "name": "Miales Byc",
       "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Ludzie prosci",
+        "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
+      },
+      "artists": [
+        {
+          "name": "Mesajah",
+          "url": "https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC"
+        }
+      ],
+      "duration_ms": 230504,
+      "name": "Kazdego dnia",
+      "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
-        "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
+        "name": "Kwiat Jab\u0142oni i go\u015bcie: Wolne serca",
+        "url": "https://open.spotify.com/album/0kA5rE2tsWsTOp6cX1gAW0"
       },
       "artists": [
         {
-          "name": "Bitamina",
-          "url": "https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ"
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        },
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
         }
       ],
-      "duration_ms": 157837,
-      "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
-      "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
+      "duration_ms": 259941,
+      "name": "Jutro mo\u017cemy by\u0107 szcz\u0119\u015bliwi",
+      "url": "https://open.spotify.com/track/7zIYJMuU8iF4m5Tp0yKJ3l"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

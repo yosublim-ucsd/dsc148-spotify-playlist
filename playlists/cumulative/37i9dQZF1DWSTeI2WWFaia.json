@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 272517,
       "name": "Drug Trade (feat. Black Thought)",
       "url": "https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA"
@@ -8226,7 +8226,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 186491,
       "name": "Runway",
       "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
@@ -8489,6 +8489,32 @@
     },
     {
       "album": {
+        "name": "Sentry (feat. MIKE)",
+        "url": "https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141186,
+      "name": "Sentry (feat. MIKE)",
+      "url": "https://open.spotify.com/track/5L2zGgJi9BlL3CjVF4KL7W"
+    },
+    {
+      "album": {
         "name": "Serve",
         "url": "https://open.spotify.com/album/31LRvqFXEP85lrZlDAv0f7"
       },
@@ -8632,6 +8658,32 @@
       "duration_ms": 178902,
       "name": "Shrimp at Phillipes (feat. Benny the Butcher)",
       "url": "https://open.spotify.com/track/1my5ZY0jeF4yJ7MXtQvj1M"
+    },
+    {
+      "album": {
+        "name": "Soul Assassins 3: Death Valley",
+        "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
+      },
+      "artists": [
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114625,
+      "name": "Sicilian Gold",
+      "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
     },
     {
       "album": {

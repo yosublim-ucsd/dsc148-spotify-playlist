@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 
 > Top tracks from the personal playlist of Bill Walton\. 30 for 30: The Luckiest Guy in the World, available to stream now on ESPN+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 36 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474 likes - 36 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QGqIfuB65s.md) - [plain]
 | 35 | [Built to Last \- Live at Civic Arena, Pittsburgh, PA, April 3, 1989](https://open.spotify.com/track/6M3NQEPL4BuyFmpy0n2Efn) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Download Series Vol\. 9: Civic Arena, Pittsburgh, PA 4/2/89 & 4/3/89 \(Live\)](https://open.spotify.com/album/7CuPAAL41j1vEjYTjNh2OA) | 5:26 |
 | 36 | [Waiting for a Miracle \- Live](https://open.spotify.com/track/5d7sgqTOH8ICmQHMk99usn) | [Jerry Garcia Band](https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [Jerry Garcia Band](https://open.spotify.com/album/2f7qKspNCuyxrBKQ8dZSnM) | 5:54 |
 
-Snapshot ID: `MCwxYWRlZDM3NDdkMzVhMGRkNWMxODI5Y2I1ZGU1MDgxZDIxNDE4MjIx`
+Snapshot ID: `MCwzZjk5NDY1ZmVlYWVmYzQ5ZTg2NjViNDk0NTg2YmRiM2E2ODgzNjVh`

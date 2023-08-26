@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Free L-Gante",
+        "url": "https://open.spotify.com/album/1JACVgEJvfWQqGmQZTNj50"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234095,
+      "name": "Free L-Gante",
+      "url": "https://open.spotify.com/track/2XJLoUmpWyAhrMry0TIt1o"
+    },
+    {
+      "album": {
         "name": "Frontea 3",
         "url": "https://open.spotify.com/album/63s10DSJrXwmzS9Lpk4kA7"
       },
@@ -1076,6 +1094,28 @@
       "duration_ms": 165756,
       "name": "Fua Mi Amor",
       "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
+    },
+    {
+      "album": {
+        "name": "FUMAN TWO",
+        "url": "https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy"
+      },
+      "artists": [
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114860,
+      "name": "FUMAN TWO",
+      "url": "https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog"
     },
     {
       "album": {
@@ -1170,7 +1210,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 185603,
       "name": "Hdp",
       "url": "https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl"
@@ -1248,6 +1288,28 @@
       "duration_ms": 218070,
       "name": "Hoy Te Vi",
       "url": "https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP"
+    },
+    {
+      "album": {
+        "name": "Junto a una Estrella",
+        "url": "https://open.spotify.com/album/7mJXyJZscONbOarv7T5YS6"
+      },
+      "artists": [
+        {
+          "name": "Suena Cabr\u00f3n",
+          "url": "https://open.spotify.com/artist/7tiSMmDMypYbYiCG2nxJ7Z"
+        },
+        {
+          "name": "Cotto Rng",
+          "url": "https://open.spotify.com/artist/1zBDgn3DfQ8GhgXL1z7ege"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192068,
+      "name": "Junto a una Estrella",
+      "url": "https://open.spotify.com/track/3evAMaE0IS2VXx2qfnk72X"
     },
     {
       "album": {
@@ -2310,7 +2372,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 137608,
       "name": "Sabado Picado",
       "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
@@ -2866,7 +2928,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 124563,
       "name": "Una Vela",
       "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"

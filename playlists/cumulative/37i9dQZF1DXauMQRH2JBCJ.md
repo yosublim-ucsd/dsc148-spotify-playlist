@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-105 songs - 5 hr 19 min
+106 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Once Upon a Dream \- From "Maleficent" / Pop Version](https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Once Upon a Dream \(from "Maleficent"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi) | 3:23 | 2022-03-16 |  |
 | [Once Upon a Dream \- From "Sleeping Beauty" / Soundtrack Version](https://open.spotify.com/track/2urMIG2y7CsnH206CxykV0) | [Mary Costa](https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo), [Bill Shirley](https://open.spotify.com/artist/259T26oxdhM7losfoXOXOl), [Chorus \- Sleeping Beauty](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) | [Disney's Greatest Volume 1](https://open.spotify.com/album/4xNCqk5KdkOQvdbaepGjTY) | 2:47 | 2022-03-16 |  |
 | [One Dance](https://open.spotify.com/track/42zb6hCYgTYTf1HdnbaAw6) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH) | [The Little Mermaid and Friends](https://open.spotify.com/album/6Q8aIHoyy6CfI8iAm91olg) | 3:28 | 2022-03-16 |  |
+| [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \- From "The Little Mermaid" \(Feat\. Cocomi\)](https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV) | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \[From "The Little Mermaid" \(Feat\. Cocomi\)\]](https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF) | 5:44 | 2023-08-25 |  |
 | [Part of Your World \(Reprise\) \- From "The Little Mermaid Live!"](https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 2:12 | 2022-03-16 |  |
 | [Part of Your World \- Remastered 2014](https://open.spotify.com/track/5JtHmpBXxW6Uj9U32zKRB5) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst) | 3:31 | 2022-07-07 |  |
 | [Part of Your World \- Remastered 2014](https://open.spotify.com/track/5wtMJ9yK87Y3MVdQnOIG7m) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/5wNgbGjM7e2xKTHoCJ9brn) | 3:31 | 2022-03-16 | 2022-07-29 |

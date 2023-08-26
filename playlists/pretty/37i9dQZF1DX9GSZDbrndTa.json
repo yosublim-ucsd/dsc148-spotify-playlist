@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 88306,
+  "num_followers": 88370,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmY2YWYzODYyMzJmZjQxMTQyOGYxMTViOTRjZmQ3NzYxMDRmOTkw",
+  "snapshot_id": "MCw4ZDc4NDgyNmE2ZjU3YTJiYmE4YmVjMmMxYmExNmY0YWFhYjRhNWZm",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -775,22 +775,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Coltrane '58: The Prestige Recordings",
-        "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
+        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
+        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
         }
       ],
-      "duration_ms": 440083,
-      "name": "Freight Trane",
-      "url": "https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy"
+      "duration_ms": 300706,
+      "name": "When Will The Blues Leave?",
+      "url": "https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -811,18 +807,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
-        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
+        "name": "Coltrane '58: The Prestige Recordings",
+        "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
       },
       "artists": [
         {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 300706,
-      "name": "When Will The Blues Leave?",
-      "url": "https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx"
+      "duration_ms": 440083,
+      "name": "Freight Trane",
+      "url": "https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy"
     },
     {
       "added_at": "2020-10-12 18:15:54",

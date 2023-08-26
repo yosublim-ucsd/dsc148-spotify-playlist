@@ -2505,6 +2505,28 @@
     },
     {
       "album": {
+        "name": "I'm Comin' Home To You",
+        "url": "https://open.spotify.com/album/1J5DfEBCaIxpDRBZl0Slwm"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Stella Angelico",
+          "url": "https://open.spotify.com/artist/3qZl6vkduvtusEc6dnSwGz"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211669,
+      "name": "I'm Comin' Home To You",
+      "url": "https://open.spotify.com/track/2RHV6ehfb8JnyXugVy7D4E"
+    },
+    {
+      "album": {
         "name": "I'm Curious",
         "url": "https://open.spotify.com/album/6ZEX1dLRi1PfRkLmrbS44l"
       },
@@ -4780,7 +4802,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 145714,
       "name": "Shake Shake",
       "url": "https://open.spotify.com/track/0RVIk3IbkIzOL9LcsMgMXs"
@@ -4986,6 +5008,24 @@
       "duration_ms": 228553,
       "name": "So Caught Up",
       "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
+    },
+    {
+      "album": {
+        "name": "So Glad I Found You",
+        "url": "https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196973,
+      "name": "So Glad I Found You",
+      "url": "https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N"
     },
     {
       "album": {
@@ -5996,7 +6036,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 243720,
       "name": "Waiting on the Sidelines",
       "url": "https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir"

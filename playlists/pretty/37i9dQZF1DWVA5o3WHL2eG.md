@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: AYLIVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,495 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,509 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [Immer mehr](https://open.spotify.com/track/2xauduEOjPHqO1SLYJUpGM) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [Immer mehr](https://open.spotify.com/album/2EoXgzamMfjdsovHFqv0tt) | 2:20 |
 | 20 | [Späti.wav](https://open.spotify.com/track/0mcE2lux5WXnkbAnd3Env6) | [EAZI](https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ) | [Späti.wav](https://open.spotify.com/album/3FENmaFwl4Mly7a2tKdh5J) | 2:07 |
 | 21 | [Warum so kalt](https://open.spotify.com/track/0ax4fascbiYqqAk1RJUk2p) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Eine kleine EP about kälte and the heat](https://open.spotify.com/album/0ZtSHFfLpT8HmkiHi2kwup) | 3:10 |
-| 22 | [Sag Mir](https://open.spotify.com/track/2YG0wTvsEoOgEcVjz9age7) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Sag Mir](https://open.spotify.com/album/2sGnyS8c8lYluA9nClevoF) | 3:00 |
-| 23 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
+| 22 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
+| 23 | [Sag Mir](https://open.spotify.com/track/2YG0wTvsEoOgEcVjz9age7) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Sag Mir](https://open.spotify.com/album/2sGnyS8c8lYluA9nClevoF) | 3:00 |
 | 24 | [Bitch](https://open.spotify.com/track/7vXeRpDn6QxlJoyoHOmJcu) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Bitch](https://open.spotify.com/album/6KxOcr7awsBTsQDOSvblzV) | 2:44 |
 | 25 | [Buchstabiere Leonie](https://open.spotify.com/track/1BkNxB6qDnbgHRjHXy9pj3) | [Ona](https://open.spotify.com/artist/6BmqNgPvi0shd76X7uIGGr) | [Buchstabiere Leonie](https://open.spotify.com/album/3L79Enm62o7wIVT4e00RMu) | 3:15 |
-| 26 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 |
-| 27 | [Was Junge was](https://open.spotify.com/track/3Qg8LKffaRkjafolzopnCU) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Was Junge was](https://open.spotify.com/album/1lEyvoDuMCQejVlQiQP0Me) | 2:14 |
-| 28 | [Deine Augen](https://open.spotify.com/track/4pNeGDxR4bMvaY7WiAC4sG) | [Dorentina](https://open.spotify.com/artist/4BMNa7OwCq14ikdVluvUP5) | [Deine Augen](https://open.spotify.com/album/6aieDl6pjIMXiUACuDaYJq) | 2:40 |
+| 26 | [Deine Augen](https://open.spotify.com/track/4pNeGDxR4bMvaY7WiAC4sG) | [Dorentina](https://open.spotify.com/artist/4BMNa7OwCq14ikdVluvUP5) | [Deine Augen](https://open.spotify.com/album/6aieDl6pjIMXiUACuDaYJq) | 2:40 |
+| 27 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 |
+| 28 | [Was Junge was](https://open.spotify.com/track/3Qg8LKffaRkjafolzopnCU) | [Kitty Kat](https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd) | [Was Junge was](https://open.spotify.com/album/1lEyvoDuMCQejVlQiQP0Me) | 2:14 |
 | 29 | [Volare](https://open.spotify.com/track/72SNj994MwjBgaT2NAZefP) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD), [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Volare](https://open.spotify.com/album/1vX4QbpYryLXksUKdNZ0N4) | 3:38 |
 | 30 | [Sternzeichen](https://open.spotify.com/track/623c56JxgDCMlrcyMdN6aw) | [Dea Bbz](https://open.spotify.com/artist/0Iu4geqSaPZ1orALyRr6MB) | [Sternzeichen](https://open.spotify.com/album/6OIRA92OQYZUrucRduMlwH) | 2:23 |
 | 31 | [Day Dreamer](https://open.spotify.com/track/5kSzLqWZ7fQUUea98lwtkJ) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Day Dreamer](https://open.spotify.com/album/5k2mlBsJxmj7qEHfhW7EBb) | 4:21 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Are You Thinking of Me](https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F) | 2:35 |
 | 41 | [like a moon](https://open.spotify.com/track/5n0TorNN3fIAQni1LGHzmi) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [he's not that special](https://open.spotify.com/album/3FZRZNdnjc5doW9roMkcCn) | 3:17 |
 | 42 | [Permanent Records](https://open.spotify.com/track/2IBgKl3ssq1p2gUGDATCSM) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Permanent Records](https://open.spotify.com/album/7rrTyOR4XaF1cfZBsLkzIL) | 4:58 |
-| 43 | [WATER](https://open.spotify.com/track/5W3G03e0YRIP39aLjFatU2) | [Gloria Nussbaum](https://open.spotify.com/artist/600fkTaRCMIxfOVfJeTXZQ) | [WATER](https://open.spotify.com/album/6qY83tfd7XI0qbC1J2XxDt) | 2:55 |
-| 44 | [SOS/Stranded](https://open.spotify.com/track/5NxpVX0gKM6NCLnbKIIqYf) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/2QJpS5AllM9t63Fim1cE7T) | 3:08 |
+| 43 | [SOS/Stranded](https://open.spotify.com/track/5NxpVX0gKM6NCLnbKIIqYf) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/2QJpS5AllM9t63Fim1cE7T) | 3:08 |
+| 44 | [WATER](https://open.spotify.com/track/5W3G03e0YRIP39aLjFatU2) | [Gloria Nussbaum](https://open.spotify.com/artist/600fkTaRCMIxfOVfJeTXZQ) | [WATER](https://open.spotify.com/album/6qY83tfd7XI0qbC1J2XxDt) | 2:55 |
 | 45 | [Jung und schön](https://open.spotify.com/track/0Dz4rIXi3Hsvt5NB7tP4RZ) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Jung und schön](https://open.spotify.com/album/1rIKYOOZ1ZJOUJGr3XZjfW) | 3:50 |
 | 46 | [moleküle](https://open.spotify.com/track/1SJKpDbieneXDefohANb75) | [ELAV](https://open.spotify.com/artist/54qCVYlwbZUAxWzLIdSYF4) | [moleküle](https://open.spotify.com/album/59kjbQ5UaM0CvMprAMZf2F) | 2:56 |
 | 47 | [Co\-Star](https://open.spotify.com/track/272y0bdH3mzLoKieq33tVt) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ), [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [Co\-Star](https://open.spotify.com/album/167qtsWfNh9Bpejtg1Reu5) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Loneliness](https://open.spotify.com/track/0EX7O1fUvcIJeWsbE5UVfN) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Loneliness](https://open.spotify.com/album/1pKvju0BnwcxXNaPstmMGi) | 3:33 |
 | 50 | [Verliebt](https://open.spotify.com/track/7fmXUVYmTQaS1bQRGNLpmW) | [Juli Holz](https://open.spotify.com/artist/7M7vQv8K3CLzWRK6urf1aJ) | [Verliebt](https://open.spotify.com/album/4FZi3s1p5rWhryOw6HKyVo) | 4:44 |
 
-Snapshot ID: `MCw5MDUyNDgxODZmYWE0ZjYyZmQwYTljNTU0MDZkZjE2NjBiOWRiYzU1`
+Snapshot ID: `MCwwMjA1Njk4YTRlYmE2ZjdkNmQxZWI1NTM2ZGE3NzRmZmJjZjRkMmQz`

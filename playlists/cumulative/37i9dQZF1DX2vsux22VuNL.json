@@ -343,6 +343,28 @@
     },
     {
       "album": {
+        "name": "Lugares",
+        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
+      },
+      "artists": [
+        {
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Ana Rosa",
+      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
+    },
+    {
+      "album": {
         "name": "Bloco 1 - Funk On The Beach (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qDfTG4Lr7WtvCrCc5Ifjk"
       },
@@ -1662,6 +1684,32 @@
       "duration_ms": 142306,
       "name": "Ela tem o dom",
       "url": "https://open.spotify.com/track/1IxCZvkbIpCH7dUQyMQk7D"
+    },
+    {
+      "album": {
+        "name": "ele diz que me ama s2",
+        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        },
+        {
+          "name": "Perimnobeat",
+          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241371,
+      "name": "ele diz que me ama s2",
+      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
     },
     {
       "album": {
@@ -5942,6 +5990,28 @@
       "duration_ms": 162666,
       "name": "T\u00e3o Linda (feat. Gabr\u00e1)",
       "url": "https://open.spotify.com/track/2OHDTihV2aN7BRVfec9eVO"
+    },
+    {
+      "album": {
+        "name": "Um Dois",
+        "url": "https://open.spotify.com/album/4YFG2PvHDejBIVpFD6HIv6"
+      },
+      "artists": [
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158467,
+      "name": "Um Dois",
+      "url": "https://open.spotify.com/track/5iSYwmatz4QkD60IiZGMQA"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: Maffio & Christian Alicea
+> Lo nuevo del mundo tropical\. Cover: ZABDIEL & Ana Mena
 
-303 songs - 17 hr 52 min
+305 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-01-01 | 2022-06-30 |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-01-28 | 2023-03-25 |
 | [Aura](https://open.spotify.com/track/7AfhyU66mFMuSFks5viJWK) | [Mario Baro](https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP), [Jae Camilo](https://open.spotify.com/artist/40S2INZWrAhcI6NlpY7mwC) | [Aura](https://open.spotify.com/album/5oRdhnVRSF15lTiHWFZ70U) | 2:52 | 2022-03-25 | 2022-06-30 |
+| [AVENTURA](https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [AVENTURA](https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf) | 3:13 | 2023-08-25 |  |
 | [Aventurera](https://open.spotify.com/track/5Qi2dqDB6JW4BJtbxG8ZHB) | [MAYKEL](https://open.spotify.com/artist/7Gd7D8evygezZAFemifKMC) | [Aventurera](https://open.spotify.com/album/38DHTygKGvdJCJDNZ8TqHo) | 3:38 | 2022-01-01 | 2022-01-29 |
 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 | 2023-03-17 | 2023-08-23 |
 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 | 2023-06-16 |  |
@@ -73,12 +74,12 @@
 | [Cuando Te Vuelva a Ver \- Bachata Version](https://open.spotify.com/track/3BwdoA2FFCEpxrTf062ze5) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Bachata Union](https://open.spotify.com/album/35uUrVpaYFHrFTSYZ4F0Sf) | 3:42 | 2022-01-01 | 2022-03-26 |
 | [Cuento Breve](https://open.spotify.com/track/28BXqWI9e4hPMyJizqOQLT) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:48 | 2022-01-01 | 2022-06-30 |
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2022-01-01 | 2022-03-26 |
-| [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 | 2023-02-24 |  |
+| [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 | 2023-02-24 | 2023-08-26 |
 | [Darte un Beso](https://open.spotify.com/track/5t0utbhFAKXft3KS1votgM) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Peter Nieto](https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6) | [Darte un Beso](https://open.spotify.com/album/2DQGvsdkyMxONRjpy7E3Iq) | 4:02 | 2023-05-26 | 2023-06-10 |
 | [De Lunes a Lunes](https://open.spotify.com/track/0soJZivKdWEmsPMmNorcTE) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [De Lunes a Lunes](https://open.spotify.com/album/7kigI3uf1GjbTWBXdBT5jA) | 3:31 | 2022-07-19 | 2023-01-14 |
 | [De Todo el Barrio \- Bachata Version](https://open.spotify.com/track/22mKWRkwTFmEbpCgTxAyRc) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [De Todo el Barrio \(Bachata Version\)](https://open.spotify.com/album/4TZUdtwESwymCa4JMQIYLP) | 4:00 | 2022-09-09 | 2023-01-14 |
 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 | 2022-06-29 | 2023-05-10 |
-| [Desde Otro Malecón](https://open.spotify.com/track/4Kg76Sd4J3tqCN5rHfRb53) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Desde Otro Malecón](https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO) | 3:09 | 2023-05-26 |  |
+| [Desde Otro Malecón](https://open.spotify.com/track/4Kg76Sd4J3tqCN5rHfRb53) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Desde Otro Malecón](https://open.spotify.com/album/7CHIw4LSHWgQbwWZC5rZpO) | 3:09 | 2023-05-26 | 2023-08-26 |
 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 | 2023-02-17 | 2023-06-17 |
 | [Devuélveme](https://open.spotify.com/track/48BbpvKGJdh88imU1lvPa0) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q) | [Devuélveme](https://open.spotify.com/album/5Aado9i2Z6phDjkDieB7ZR) | 3:15 | 2022-01-01 | 2022-06-30 |
 | [Dime \- Salsa](https://open.spotify.com/track/72lcWU4PrmDIVzJLBG5p7C) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Dime \(Salsa\)](https://open.spotify.com/album/6ojbNRqGpAAJVRxq2wxGJf) | 3:51 | 2022-01-01 | 2022-04-29 |
@@ -223,6 +224,7 @@
 | [Por Amor](https://open.spotify.com/track/2J9P7Ve41peMW0fkxiEImK) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Por Amor](https://open.spotify.com/album/3YVhQkKRXxcI9cTuBRWKqT) | 3:40 | 2022-02-11 | 2022-06-30 |
 | [Por Qué](https://open.spotify.com/track/3R6p7D39Qy0GJs5Pg72ecn) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:22 | 2022-01-01 | 2022-06-30 |
 | [Porque Tengo Ganas](https://open.spotify.com/track/2woWimVTuaXR2lZL82tyaD) | [Andrw John](https://open.spotify.com/artist/2F1UtPwrswl2pB8crCifIm) | [Porque Tengo Ganas](https://open.spotify.com/album/1XBrplAnJwGv5hA9wuztjk) | 3:44 | 2022-06-29 | 2023-01-14 |
+| [Procura](https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:05 | 2023-08-25 |  |
 | [Pásame la Botella](https://open.spotify.com/track/0o6RpUevYIYYSiANL7SJZJ) | [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Pásame la Botella](https://open.spotify.com/album/3glWvXz1XJ8GCBANiQALQM) | 3:45 | 2022-01-01 | 2022-06-30 |
 | [Que Ganas](https://open.spotify.com/track/6Dod3sKPWpjQzdGrBJap0P) | [Liza + Willie](https://open.spotify.com/artist/0uwNjcUHYdSlPs2IJhJoOq) | [Que Ganas](https://open.spotify.com/album/3hhjbFQGnd0fIKdRweiatb) | 3:32 | 2022-04-29 | 2023-01-14 |
 | [Que Rica](https://open.spotify.com/track/0GFhxvcbEKTzsc8VjiLipD) | [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Que Rica](https://open.spotify.com/album/7dCSJbxphSUmZjMTDziBSJ) | 3:39 | 2022-11-28 | 2023-01-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Vosotras Veréis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,522 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,531 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [ÁGUA DE COCO](https://open.spotify.com/track/5uZOnmshEIIbPJNzVYsV6H) | [Ratchet Racer](https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5), [Rivers Z](https://open.spotify.com/artist/2yzdKOnB0XKjQyTDzUS8SU) | [ÁGUA DE COCO](https://open.spotify.com/album/1UqLtmbxeySV8h5wp4zXFL) | 2:36 |
 | 50 | [Liberar a Tu Bestia](https://open.spotify.com/track/1HQbxtgmEcz26JAiTC9vdB) | [Mar.](https://open.spotify.com/artist/70lyfL7jSnlSHQFRO1irhf) | [Liberar a Tu Bestia](https://open.spotify.com/album/3lcv1P0satVlfI3INbMGG3) | 3:52 |
 
-Snapshot ID: `MCxlNWY2Yjg1MmY2YjhlNjE2NzM2NDRkOTQ0MDZhN2U1ZjhkMDA5MmQx`
+Snapshot ID: `MCwwMWRhMzQ0NTNhODZlMjBhMjc4ZWJkODUxNjZhODZmN2JjNDUwMGI0`

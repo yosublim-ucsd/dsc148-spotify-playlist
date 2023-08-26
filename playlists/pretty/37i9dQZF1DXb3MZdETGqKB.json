@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: C.S. Armstrong",
-  "num_followers": 139531,
+  "num_followers": 139653,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2RjY2JjYThkMThmNTQxN2E5ZDU2ZGM0MDg3ZGVjMzIwMDE1MGY1",
+  "snapshot_id": "MCwyZjgxNDhmMTQ3ZmZmYzQ2NjNlZGJkMWZjYWJmMzNhN2NmZTIyNWUx",
   "tracks": [
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Like A Dove",
+        "url": "https://open.spotify.com/album/2iQ9N9PXfVaHF3t5xNIwVl"
+      },
+      "artists": [
+        {
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+        }
+      ],
+      "duration_ms": 350400,
+      "name": "Like A Dove",
+      "url": "https://open.spotify.com/track/1br8OkIlBEJjhcAdZ44UUC"
+    },
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
@@ -1575,22 +1591,6 @@
       "duration_ms": 155665,
       "name": "The Man Was Burning",
       "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "Everybody Knows My Name",
-        "url": "https://open.spotify.com/album/5FsMYB0f5tSktoA4QiP0uy"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Sullivin",
-          "url": "https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq"
-        }
-      ],
-      "duration_ms": 168181,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/1Om3Mz5IazKScLUqL88oCd"
     },
     {
       "added_at": "2022-02-18 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2003. Photo : Eminem",
-  "num_followers": 14666,
+  "num_followers": 14679,
   "original_name": "Top Hits France 2003",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzZlMGNkNGI1ZTBlMjRkZGE0ZTc3NTNhOGM3ZDMzZDQzYzMwNDQ1",
+  "snapshot_id": "MCw0MzBmYjAxODFiMWM4NGZhMjVlYjY3NWVjYTg2MDM4Mzk5NjcyOWRk",
   "tracks": [
     {
       "added_at": "2022-02-01 21:20:54",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Lucky Day",
-        "url": "https://open.spotify.com/album/4JYMeEAVnEVnJhXe1VZS2b"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Brian & Tony Gold",
-          "url": "https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "Hey Sexy Lady",
-      "url": "https://open.spotify.com/track/4u8IPU322yG7mNrqv89GGL"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 244826,
       "name": "Baby Boy (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "Lucky Day",
+        "url": "https://open.spotify.com/album/4JYMeEAVnEVnJhXe1VZS2b"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Brian & Tony Gold",
+          "url": "https://open.spotify.com/artist/0hXfXDhsiayeNFG98qOPHs"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "Hey Sexy Lady",
+      "url": "https://open.spotify.com/track/4u8IPU322yG7mNrqv89GGL"
     },
     {
       "added_at": "2022-02-01 21:20:54",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "By the Way",
-        "url": "https://open.spotify.com/album/1jWKVgnHX8nwR551hQNx5K"
+        "name": "Le chemin",
+        "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Sita",
+          "url": "https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/4BcS4LomxUnQpzx4hCaJTs"
+      "duration_ms": 210706,
+      "name": "Le chemin (feat. Sita)",
+      "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
     }
   ],
   "unique_name": "Top Hits France 2003",

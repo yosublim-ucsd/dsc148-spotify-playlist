@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 176586,
       "name": "Carola",
       "url": "https://open.spotify.com/track/7pdutWoncu6sghyd9Wx9Kc"
@@ -734,10 +734,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 221610,
       "name": "Cumbia De Los Patos",
       "url": "https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso"
+    },
+    {
+      "album": {
+        "name": "Lo Maximo De Los Sonideros, Vol. 1",
+        "url": "https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX"
+      },
+      "artists": [
+        {
+          "name": "Danny Y Su Grupo",
+          "url": "https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221622,
+      "name": "Cumbia De Los Patos",
+      "url": "https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb"
     },
     {
       "album": {
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 192386,
       "name": "El Santo Del Amor",
       "url": "https://open.spotify.com/track/1ypgaZINEPR74L2c5W3h0A"

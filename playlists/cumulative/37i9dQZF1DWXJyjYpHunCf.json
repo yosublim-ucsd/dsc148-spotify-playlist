@@ -2011,6 +2011,28 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/01j4hEadyEaX40YCjQXvMR"
+      },
+      "artists": [
+        {
+          "name": "Andrey Azizov",
+          "url": "https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC"
+        },
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169641,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/28vZIcjA9gDI7BYZnwDzNm"
+    },
+    {
+      "album": {
         "name": "Half Moon Light",
         "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
       },
@@ -4728,7 +4750,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 217966,
       "name": "Time",
       "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"

@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
+        "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146920,
+      "name": "A Tu Nombre",
+      "url": "https://open.spotify.com/track/6yoyuFWA5jbxYvLHznscb7"
+    },
+    {
+      "album": {
         "name": "\u00bfEn Qu\u00e9 Les Molesta?",
         "url": "https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw"
       },
@@ -52,7 +74,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 141640,
       "name": "A Una Llamada",
       "url": "https://open.spotify.com/track/0U72qF3ozvcOpEntzFdCMm"
@@ -74,6 +96,24 @@
       "duration_ms": 130875,
       "name": "Ah\u00ed No Era",
       "url": "https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY"
+    },
+    {
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319620,
+      "name": "AMAR Y PERDER",
+      "url": "https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9"
     },
     {
       "album": {
@@ -110,6 +150,24 @@
       "duration_ms": 260398,
       "name": "Amor Especial",
       "url": "https://open.spotify.com/track/4GO2JZ7bBUyijX395k2pl4"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Muere Si Se Olvida",
+        "url": "https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/2w8ugK3rWHA1zL5WnFnlIO"
     },
     {
       "album": {
@@ -186,7 +244,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 200040,
       "name": "Antes De Usted",
       "url": "https://open.spotify.com/track/3ZFei3vxIdWxG6nrOnhCA4"
@@ -270,7 +328,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 205299,
       "name": "As\u00ed Lo Quiso Dios",
       "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
@@ -372,7 +430,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 168613,
       "name": "Borracho De Cantina",
       "url": "https://open.spotify.com/track/3Nk0mBAQIVeCrCjfoJx3iP"
@@ -543,6 +601,24 @@
     },
     {
       "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
       },
@@ -688,7 +764,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 171746,
       "name": "Del Otro Lado",
       "url": "https://open.spotify.com/track/1mirQfq7ZpZ5LPzusMavEt"
@@ -750,6 +826,28 @@
       "duration_ms": 264881,
       "name": "Desvelado (En Vivo)",
       "url": "https://open.spotify.com/track/2J5WP5666FUca2PY8BaHHE"
+    },
+    {
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178408,
+      "name": "DIME QUE HAY QUE HACER (with Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/1NI2e5ins81xjWlohNsqZm"
     },
     {
       "album": {
@@ -1020,7 +1118,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 126906,
       "name": "El Jabal\u00ed",
       "url": "https://open.spotify.com/track/61FVXN8bnWjau07qJ7tq5C"
@@ -1208,10 +1306,32 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 182133,
       "name": "En Corto",
       "url": "https://open.spotify.com/track/1gCkdtayMomPBKi09qXs1C"
+    },
+    {
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "En Corto",
+      "url": "https://open.spotify.com/track/6PlLiHoRcjCgK5som2T3ph"
     },
     {
       "album": {
@@ -1472,7 +1592,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 205250,
       "name": "Ismael - En Vivo",
       "url": "https://open.spotify.com/track/591nJ3lV8nmpYuxnj76YJM"
@@ -1584,7 +1704,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 190750,
       "name": "La Ladrona - En Vivo",
       "url": "https://open.spotify.com/track/00aSqqNZmTks5EFl8cgW80"
@@ -1987,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155891,
+      "name": "Mandimbo",
+      "url": "https://open.spotify.com/track/4q5nk12DGD09UgHGqmCsee"
+    },
+    {
+      "album": {
         "name": "Bienvenidos A Casa (En Vivo)",
         "url": "https://open.spotify.com/album/2OVAUCW5Zv1ISWd1lQW1qr"
       },
@@ -2028,6 +2166,24 @@
     {
       "album": {
         "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Mas Altas Que Bajadas",
+      "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
+    },
+    {
+      "album": {
+        "name": "Nata Montana",
         "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
       },
       "artists": [
@@ -2038,7 +2194,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 193333,
       "name": "Mas Altas Que Bajadas",
       "url": "https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e"
@@ -2078,7 +2234,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 239420,
       "name": "Me Decepcionaste",
       "url": "https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl"
@@ -2226,7 +2382,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 191480,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/5sBCpZI95tSRPa7FSNAJsl"
@@ -2288,6 +2444,24 @@
       "duration_ms": 211520,
       "name": "Necesitas",
       "url": "https://open.spotify.com/track/1L86jKfoxJ9XBdEEMGtT06"
+    },
+    {
+      "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179429,
+      "name": "Ni Ma\u00edz",
+      "url": "https://open.spotify.com/track/7hBguhVlWNqArKzyuSztLd"
     },
     {
       "album": {
@@ -2810,7 +2984,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 160752,
       "name": "Quedate Conmigo",
       "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
@@ -2828,7 +3002,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 232920,
       "name": "Qu\u00e9 Manera De Perder",
       "url": "https://open.spotify.com/track/3lk5B122FlPdPDbpzYztK6"
@@ -3006,7 +3180,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 204426,
       "name": "Siempre Hace Fr\u00edo",
       "url": "https://open.spotify.com/track/2QDLL3rhTTMw369Cl8d92K"
@@ -3086,6 +3260,24 @@
       "duration_ms": 142481,
       "name": "S\u00f3bese",
       "url": "https://open.spotify.com/track/3OK9CZNM3T3SHrWpcJcroS"
+    },
+    {
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229060,
+      "name": "TE EXTRA\u00d1O Y LO SIENTO...",
+      "url": "https://open.spotify.com/track/2wyr7VKEVMwXxhx6fOSbOe"
     },
     {
       "album": {
@@ -3190,7 +3382,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 167625,
       "name": "Treinta Cartas - En Vivo",
       "url": "https://open.spotify.com/track/0IGt0iF2WIJZSEokXOgFtC"
@@ -3338,7 +3530,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 198986,
       "name": "Volverte A Amar",
       "url": "https://open.spotify.com/track/7AWcB8E2rckklyezjvUqSj"
@@ -3484,6 +3676,28 @@
       "duration_ms": 184533,
       "name": "Zona Roja R1",
       "url": "https://open.spotify.com/track/06xoj7olTITKHMB9iVgQsF"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Te Crees Para Olvidarme?",
+        "url": "https://open.spotify.com/album/3VpfYbUmvVc7oAPFPoxK2s"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164600,
+      "name": "\u00bfQui\u00e9n Te Crees Para Olvidarme?",
+      "url": "https://open.spotify.com/track/55fh0qyQ7wQxlWhMNja8C0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXbC1ZOkTuut"

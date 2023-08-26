@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Btrem, Mc Luanna",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Fleezus, Coruja Bc1",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121031,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "album": {
         "name": "Aulas e Palestras",
         "url": "https://open.spotify.com/album/6QAqavCD8F6lCF4eiNM8B0"
       },
@@ -928,6 +946,36 @@
       "duration_ms": 124564,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM"
+    },
+    {
+      "album": {
+        "name": "OFF MODE",
+        "url": "https://open.spotify.com/album/1FL0l7ijOWtgCFGOIC9sev"
+      },
+      "artists": [
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142037,
+      "name": "Cachorrinho Branco e Preto (feat. Coruja Bc1)",
+      "url": "https://open.spotify.com/track/7Fq25d1uMgqMaIevy7jZ8J"
     },
     {
       "album": {
@@ -1345,6 +1393,28 @@
     },
     {
       "album": {
+        "name": "CUSSY",
+        "url": "https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180004,
+      "name": "CUSSY",
+      "url": "https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc"
+    },
+    {
+      "album": {
         "name": "De Malokero",
         "url": "https://open.spotify.com/album/2zpScMOJFsujei8dwn9xFv"
       },
@@ -1756,7 +1826,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 203964,
       "name": "Enquadro",
       "url": "https://open.spotify.com/track/2y0zRkv69lLD1BKeFbMDDK"
@@ -2460,7 +2530,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 167763,
       "name": "Jbloodz",
       "url": "https://open.spotify.com/track/3fEyjjRS4C5n3UlDJC7aO3"
@@ -3530,6 +3600,10 @@
         {
           "name": "VND",
           "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
         }
       ],
       "date_added": "2023-07-28",
@@ -4299,6 +4373,36 @@
     },
     {
       "album": {
+        "name": "SORAYAMA BRANCO",
+        "url": "https://open.spotify.com/album/67G7ctzUU0hV1tq3gOTGOV"
+      },
+      "artists": [
+        {
+          "name": "Verve",
+          "url": "https://open.spotify.com/artist/53rqQcLIWERwlPaodqOENj"
+        },
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/3x7CEY7CvKZDeVLJ3XGiBw"
+        },
+        {
+          "name": "big silva",
+          "url": "https://open.spotify.com/artist/4tdh6CQGlMQpwxzptw81ZZ"
+        },
+        {
+          "name": "Ep\u00edlogo",
+          "url": "https://open.spotify.com/artist/0xp4hAT0F4oiBiZSAFo3By"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127169,
+      "name": "SORAYAMA BRANCO",
+      "url": "https://open.spotify.com/track/5vtYrKiForK2eH28A5H2rA"
+    },
+    {
+      "album": {
         "name": "BR 140",
         "url": "https://open.spotify.com/album/103Rss3Qt0JvwKj8MFMPcC"
       },
@@ -4400,7 +4504,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 245142,
       "name": "Talib\u00e3",
       "url": "https://open.spotify.com/track/6eHYTj7DwxgUT5g26AHzkg"
@@ -4430,6 +4534,28 @@
       "duration_ms": 136666,
       "name": "TBT",
       "url": "https://open.spotify.com/track/5prIJikSCVovHL7wADbkB4"
+    },
+    {
+      "album": {
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/2Xe3q2Eo2FTNjrL66Ba6l4"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        },
+        {
+          "name": "Uk Drill",
+          "url": "https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201516,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/2wvA81jdfLp25sar8xspzR"
     },
     {
       "album": {
@@ -4470,7 +4596,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 152790,
       "name": "Terra do Desando - Remix",
       "url": "https://open.spotify.com/track/0TvIW2iCUCigSNIoFp1PXt"
@@ -4860,7 +4986,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 146086,
       "name": "Vai Ter Que Aturar",
       "url": "https://open.spotify.com/track/5ZSsSb5WHUhJxc6DwRCRNo"

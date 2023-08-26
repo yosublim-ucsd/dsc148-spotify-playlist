@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=j2xm04y5Sl6Jd4SJrJVk7A"> نوال </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,140 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,435 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Metkatef](https://open.spotify.com/track/3YJvA5FwsJdP6jytpPkvFp) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/2FuBitU6GXqchhRGmEr6Fa) | 3:27 |
 | 50 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 |
 
-Snapshot ID: `MCwxNjhhMTk2ZjRkNzdhYjM0ZWMzZmQyZTZjNGUzNTc3YTMyMjcyM2Ux`
+Snapshot ID: `MCxjY2QwOGU5MGIzZmZlNWU0MDIzNDEwY2NkMTVmMWJiOWNhZTE5MGVm`

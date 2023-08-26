@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,784 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,792 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 | 41 | [Young](https://open.spotify.com/track/3LTsG4S10Vn8meTCB4R0jj) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Young](https://open.spotify.com/album/2anbovQwdTveCFBW2ZH6Qi) | 3:48 |
 | 42 | [Cry Over Boys](https://open.spotify.com/track/1d9Ve8caYURgqYEVuEHMww) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 2:50 |
 | 43 | [Back In The Day](https://open.spotify.com/track/4Ydl2Ov6AtHaCG2D3iS8Kv) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Back In The Day](https://open.spotify.com/album/0kYwSyUR9NhGRsZFeid1Kv) | 3:35 |
-| 44 | [The Breaks](https://open.spotify.com/track/0gueawLShEbZoAfMaADOkP) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [The Breaks](https://open.spotify.com/album/0VU1pdKj120ZSfxMppb238) | 3:20 |
+| 44 | [The Breaks](https://open.spotify.com/track/6t2z6iIwOJNV3LtQGcK5FO) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [The Breaks](https://open.spotify.com/album/6jdERAZuUsv0COcp9yZYtO) | 3:20 |
 | 45 | [I Don't Wanna Know](https://open.spotify.com/track/6btfY7XPG3EoeAeiuKMydL) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [I Don't Wanna Know](https://open.spotify.com/album/5By0Rbv4eoDfEgYJYRya19) | 3:28 |
 | 46 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 |
 | 47 | [Lost and Found](https://open.spotify.com/track/36XapglPUABLLmctdDn5WG) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Lost and Found](https://open.spotify.com/album/2jCUeOgbvOX6CT3JGx0ak9) | 3:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp3yzk1civi.md) - [plain]
 | 50 | [Bedroom Walls](https://open.spotify.com/track/6t47JIkO4NgFcInkwBx2Mm) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:32 |
 | 51 | [Crocodiles](https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 4:00 |
 
-Snapshot ID: `MCw0M2IxOWM3MGNmODJlMDM0MDczY2RiZDcwMDI4Mjg2OGE5Yzk3MDkx`
+Snapshot ID: `MCxkNDk2ZTc5OWU3Zjc1ZTQwYmVmMDgxNjFiODczNzUyMjJiNGU1M2Rj`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Carmen Sánchez Viamonte\. Updates every Wednesday.
 
-1,398 songs - 3 day 4 hr 27 min
+1,399 songs - 3 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,7 +923,8 @@
 | [nublado](https://open.spotify.com/track/5l9D9Uzeba8H3vVbEEoWnd) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [nublado](https://open.spotify.com/album/1XIcyGupJrLUYtX2JlElVr) | 3:23 | 2022-09-28 | 2022-12-01 |
 | [Nudos](https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En El Palacio de Las Almas](https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI) | 4:03 | 2022-08-31 | 2022-09-22 |
 | [Nuestro amor](https://open.spotify.com/track/3K5z6tNpQfD8GT3BWgSRK6) | [Chago](https://open.spotify.com/artist/5aQK13za62lrxQASWuHMbG) | [Tristelandia!](https://open.spotify.com/album/6R2tvA4USRyvNgPPONtV1I) | 2:55 | 2022-10-05 | 2022-12-01 |
-| [Nuevo Mundo](https://open.spotify.com/track/4VTMfxqu3lZUxYxey8N3rX) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Nuevo Mundo](https://open.spotify.com/album/3BpGRweJxhKdJBWAG0usMC) | 3:23 | 2023-08-09 |  |
+| [Nuevo Mundo](https://open.spotify.com/track/0rGUJt1riX1jwcGBZxodVZ) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Nuevo Mundo](https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI) | 3:23 | 2023-08-23 |  |
+| [Nuevo Mundo](https://open.spotify.com/track/4VTMfxqu3lZUxYxey8N3rX) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Nuevo Mundo](https://open.spotify.com/album/3BpGRweJxhKdJBWAG0usMC) | 3:23 | 2023-08-09 | 2023-08-26 |
 | [Nunca Estás](https://open.spotify.com/track/7ee2A2K4DG3Kgyt1kLYYQ4) | [Blue Saint Pablo](https://open.spotify.com/artist/1eaKDGZ4yH4nodRfwcnXrI), [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Nunca Estás](https://open.spotify.com/album/4wCUvlPxruaWUbsevr9xEx) | 2:52 | 2023-07-05 | 2023-07-27 |
 | [Nómada](https://open.spotify.com/track/5TJQ8UwM8jSE0Nw5zbNH8d) | [Neomadas](https://open.spotify.com/artist/1lcm04c3mTlUbaQ3o82Y6H) | [Nómada](https://open.spotify.com/album/3c6mP5rgIJ5Y3Alh6UQieP) | 4:21 | 2023-06-07 | 2023-06-29 |
 | [Obsesion](https://open.spotify.com/track/61NIeyT1nNZgbXB0OHzXjp) | [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [M E D T](https://open.spotify.com/album/3vZwYX7AYq5NIpbEpWXU5g) | 3:15 | 2023-01-12 | 2023-02-09 |

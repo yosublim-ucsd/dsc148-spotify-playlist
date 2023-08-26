@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-262 songs - 14 hr 25 min
+263 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [JUNE](https://open.spotify.com/track/7J6ksWrraIusOZztXNyFdw) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [JUNE](https://open.spotify.com/album/6S06K8Q4tHG3FGzfx0qQbJ) | 3:32 | 2023-08-09 |  |
 | [keep in touch](https://open.spotify.com/track/4Zmz78m7P7NT5qpoTIfFwF) | [Nxtime](https://open.spotify.com/artist/2960ZYqDzOYsnK0ka9Rd8J), [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [keep in touch](https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK) | 3:29 | 2023-08-09 |  |
 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 | 2022-12-15 |  |
-| [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 | 2022-05-03 |  |
+| [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 | 2022-05-03 | 2023-08-26 |
 | [Last Laugh](https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj) | [Angelnumber 8](https://open.spotify.com/artist/1JQUgMIvUyaBVfCv4FOn4i) | [Digital Tribal](https://open.spotify.com/album/04l7BttBEXWOLVGRNv16zg) | 2:36 | 2022-03-11 | 2022-11-26 |
 | [Leaves](https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Rot](https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo) | 4:34 | 2023-08-09 |  |
 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2021-08-05 |  |
@@ -231,6 +231,7 @@
 | [tell me](https://open.spotify.com/track/2nMSF0m6G8W6MVK0Eq7tKX) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [tell me](https://open.spotify.com/album/60b3J04XJSRPND2NpLudfR) | 2:40 | 2021-11-12 | 2023-01-27 |
 | [TEMPLE OF THE DRAGON](https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [TEMPLE OF THE DRAGON](https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW) | 2:48 | 2022-05-03 | 2023-01-27 |
 | [Tennis Courts](https://open.spotify.com/track/79SHyhyGcYf47aPKA4RnVx) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Tennis Courts](https://open.spotify.com/album/0RW5vXBF1fAe5W11bDstR7) | 3:00 | 2023-08-09 |  |
+| [That's How It Goes](https://open.spotify.com/track/11ZrmGVgoVbKE2n3j1WBcu) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg), [Luther](https://open.spotify.com/artist/2vFDu77B8WPAuN6gFDjfUE) | [That's How It Goes](https://open.spotify.com/album/5FGIQJ6gA0baXHJoMmtiX0) | 3:33 | 2023-08-09 |  |
 | [The Middle](https://open.spotify.com/track/2GQpMLpOu3dpCoYX5jADt9) | [Petticoat](https://open.spotify.com/artist/4B9XnPfyVGBIL2cBS17OoX) | [The Middle](https://open.spotify.com/album/3ClkDhO4tkQwY7iXmSmhk2) | 3:27 | 2021-08-05 | 2022-07-28 |
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-11-12 |  |
 | [The Outsiders](https://open.spotify.com/track/7ikfWiyZgjwCFi8Wq88oCk) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [The Outsiders](https://open.spotify.com/album/4PQDf50YszsrqUhCdqjLRv) | 2:22 | 2021-11-12 | 2023-01-27 |

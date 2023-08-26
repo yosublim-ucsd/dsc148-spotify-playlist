@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Arcy Drive \| Artwork: Jim Klok
 
-1,107 songs - 2 day 12 hr 25 min
+1,108 songs - 2 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,7 +988,8 @@
 | [The Mirror](https://open.spotify.com/track/71V6tMDBBTu8wpQGL06xbc) | [RL](https://open.spotify.com/artist/30vgw0anJ1oYS7TmcW90lm) | [Be True](https://open.spotify.com/album/4wLOIWzM93yvoS7RZn5MR2) | 2:37 | 2022-09-28 | 2022-12-01 |
 | [The Numbers](https://open.spotify.com/track/3cihHdDIf5M5RW93a9IzBa) | [Valleyheart](https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT) | [Heal My Head](https://open.spotify.com/album/18dzUk1Jw12nmH3STO659R) | 3:39 | 2022-06-08 | 2022-08-11 |
 | [The Perfect Life](https://open.spotify.com/track/0h3N07sZgc9rzDLfsOniri) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [The Perfect Life](https://open.spotify.com/album/5GqVTkArRf7qxyfEkvtYvR) | 2:42 | 2022-02-16 | 2022-05-05 |
-| [The Power](https://open.spotify.com/track/6XW1Ti8owM40lIAOdBLKdB) | [Diners](https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp) | [The Power](https://open.spotify.com/album/0D4XIOjppjGfxAbO9gNdZ4) | 2:32 | 2023-06-07 |  |
+| [The Power](https://open.spotify.com/track/0a5fTiH4xSCrnePP16HaTV) | [Diners](https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp) | [DOMINO](https://open.spotify.com/album/1GcgVIOWktZwAEHh7RKENo) | 2:32 | 2023-08-23 |  |
+| [The Power](https://open.spotify.com/track/6XW1Ti8owM40lIAOdBLKdB) | [Diners](https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp) | [The Power](https://open.spotify.com/album/0D4XIOjppjGfxAbO9gNdZ4) | 2:32 | 2023-06-07 | 2023-08-26 |
 | [the pull](https://open.spotify.com/track/1HW1lMXqKHwZmI2QBQXvvm) | [sweetmess](https://open.spotify.com/artist/0L8V5cpwTPyobEfBD2mN65) | [everything's fine](https://open.spotify.com/album/0FqOaZSAg4Ighf7Qk82aBN) | 4:15 | 2023-05-10 | 2023-07-27 |
 | [The Rope](https://open.spotify.com/track/2Ht3pnf9pXehm0h8I1uqph) | [Holm](https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ) | [The Rope](https://open.spotify.com/album/29Mw3EwNTcmV3Qal8zYu0R) | 4:17 | 2022-01-26 | 2022-05-05 |
 | [The Rope](https://open.spotify.com/track/30aavsHDRBjpVP94CH9Yoi) | [Holm](https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ) | [Why Don't You Dance](https://open.spotify.com/album/6s6SEanBJKY3BiJnuMp3r0) | 4:17 | 2022-11-30 | 2023-01-12 |

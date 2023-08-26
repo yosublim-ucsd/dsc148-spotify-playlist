@@ -1,13 +1,53 @@
 {
   "description": "All live, all jazz. Cover: John Coltrane & Eric Dolphy",
-  "num_followers": 6781,
+  "num_followers": 6793,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmM0ODNkZWJkYWQ3YzMxZDQ2Yzg5NzhkMjdjZDg0MmFmNDg5Njhh",
+  "snapshot_id": "MCwxZjExOTZhN2Q0NDQ2NDA5NDY0NTllYzcxNGE0ODgzYzIzYmY1ZGQ4",
   "tracks": [
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Live at the House of Tribes",
+        "url": "https://open.spotify.com/album/6pYEOR7pGqy3mXUERIA8kY"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 948559,
+      "name": "Green Chimneys - Live",
+      "url": "https://open.spotify.com/track/26PAdrw4DI9rmUpvSRPeo2"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Keep That Same Old Feeling (Live)",
+        "url": "https://open.spotify.com/album/0yUflUaFaWeSxOriPrqLo0"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        },
+        {
+          "name": "Thurman Green",
+          "url": "https://open.spotify.com/artist/7DGNKNEEkJHoVQfXCpqEry"
+        },
+        {
+          "name": "Gary Bias",
+          "url": "https://open.spotify.com/artist/3TFDeE9cyVkAbFcON4pzt1"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Keep That Same Old Feeling - Live",
+      "url": "https://open.spotify.com/track/7khI0WpyuGM5Pd1PtCCTJo"
+    },
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
@@ -1371,22 +1411,6 @@
     {
       "added_at": "2021-11-12 05:14:12",
       "album": {
-        "name": "A Night At Birdland",
-        "url": "https://open.spotify.com/album/6r7judxVxuABrzdTYhNQCr"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey Quintet",
-          "url": "https://open.spotify.com/artist/180iCL28IiUTkC6epvZfYI"
-        }
-      ],
-      "duration_ms": 318493,
-      "name": "Once In A While (Live)",
-      "url": "https://open.spotify.com/track/5LCWRVUkzLxujuQ5w7pLPL"
-    },
-    {
-      "added_at": "2021-11-12 05:14:12",
-      "album": {
         "name": "At The Golden Circle",
         "url": "https://open.spotify.com/album/48SGjYTh92QLwPHngKf3Bs"
       },
@@ -1795,22 +1819,6 @@
       "duration_ms": 216373,
       "name": "The Drum Battle",
       "url": "https://open.spotify.com/track/6zZeaMoFeFBq6WU3l1lLex"
-    },
-    {
-      "added_at": "2021-11-12 05:14:12",
-      "album": {
-        "name": "The Wynton Marsalis Quartet Live At Blues Alley",
-        "url": "https://open.spotify.com/album/1LPznJ8gbsnXp3kWdMm9wd"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 453173,
-      "name": "Juan",
-      "url": "https://open.spotify.com/track/1q3Z0ZRmjLK32PvTFT9u2P"
     },
     {
       "added_at": "2022-07-29 04:02:00",

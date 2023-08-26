@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today. Cover: Hozier",
+  "description": "The best in folk & acoustic today. Cover: Buck Meek",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 272883,
       "name": "A Seminar In Tokyo",
       "url": "https://open.spotify.com/track/0CFc37YTJa449oOe660cSU"
@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 179157,
       "name": "Flying :))",
       "url": "https://open.spotify.com/track/6gDrPmfRqagFxMK1DZiRV4"
@@ -2982,6 +2982,42 @@
       "duration_ms": 186020,
       "name": "Hard To Tell",
       "url": "https://open.spotify.com/track/0bmnFx4iOmUVt4ghPSm3cc"
+    },
+    {
+      "album": {
+        "name": "Cyclades",
+        "url": "https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311892,
+      "name": "Haunted Mountain",
+      "url": "https://open.spotify.com/track/55PRwOkrZ5oQW9Qmi7Q2yo"
+    },
+    {
+      "album": {
+        "name": "Haunted Mountain",
+        "url": "https://open.spotify.com/album/1y3VrSoxUmqiiqqzJ9MuFY"
+      },
+      "artists": [
+        {
+          "name": "Jolie Holland",
+          "url": "https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259682,
+      "name": "Haunted Mountain",
+      "url": "https://open.spotify.com/track/2mw3Lp2sOvvTfZR6EqHuMk"
     },
     {
       "album": {
@@ -3601,6 +3637,28 @@
     },
     {
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
       },
@@ -4093,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "Knockin",
+        "url": "https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203608,
+      "name": "Knockin - Single Version",
+      "url": "https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc"
+    },
+    {
+      "album": {
         "name": "Know Your Demons",
         "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
       },
@@ -4573,6 +4649,24 @@
     },
     {
       "album": {
+        "name": "Midnight Game",
+        "url": "https://open.spotify.com/album/1Pr5WhsgnIOzlrllBWtyJ3"
+      },
+      "artists": [
+        {
+          "name": "Germaine Dunes",
+          "url": "https://open.spotify.com/artist/0czyYM9REZhiDkskxQzqQM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Midnight Game",
+      "url": "https://open.spotify.com/track/3koKt6S80gDVtlw4mn6d8o"
+    },
+    {
+      "album": {
         "name": "What Remains",
         "url": "https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb"
       },
@@ -4696,6 +4790,24 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/5Y6stLs2V5bK0ALhrz78FE"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/7zFwRc3nSNDRVOPmA9szZD"
+      },
+      "artists": [
+        {
+          "name": "Steven van Betten",
+          "url": "https://open.spotify.com/artist/2Txt8BxMl4npWRDxQAKvX7"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/67tPIfy0LupBLMZMcLphtv"
     },
     {
       "album": {
@@ -5024,7 +5136,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 188364,
       "name": "On Your Way - Acoustic",
       "url": "https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ"
@@ -6150,7 +6262,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 254258,
       "name": "Something in the Orange - Z&E's Version",
       "url": "https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr"
@@ -7248,7 +7360,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
@@ -7804,7 +7916,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 241720,
       "name": "Wherever Your Heart Is",
       "url": "https://open.spotify.com/track/7LjgyfhPISd4CX8Df47ma1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 
 > Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun\. SEGA名作ゲームサントラの世界へようこそ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,978 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,998 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 2 | [I’m Here \- Short Edit](https://open.spotify.com/track/51lYJg0Nhzrmxfb9tHJGCO) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3), [Merry Kirk\-Holmes](https://open.spotify.com/artist/2WtceEj0QjyIzsZp3Gp2wu) | [Sonic Frontiers \- Main Theme EP](https://open.spotify.com/album/1WSi6S8pmbIgbJczmJ7fW1) | 1:42 |
 | 3 | [Theme of Starfall Islands](https://open.spotify.com/track/2yNPCQNb8V1Iy3H7TrKJal) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3) | [Sonic Frontiers \- Main Theme EP](https://open.spotify.com/album/1WSi6S8pmbIgbJczmJ7fW1) | 5:58 |
 | 4 | [hipstar](https://open.spotify.com/track/3Sze5mL4WE464ChCxZubpc) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [クラッキンDJ コンプリートアルバム \(Vol\. 1\)](https://open.spotify.com/album/21Pi9C3oQXPJYRKQPdI7zC) | 1:35 |
-| 5 | [STH1 Green Hill Zone 〜 Mega Drive version 〜](https://open.spotify.com/track/2ZbJuTlSK9TYokeza42cmR) | [Masato Nakamura](https://open.spotify.com/artist/1dMS02fPNC7ace36g64qPm) | [ソニック・ザ・ヘッジホッグ1&2 サウンドトラック](https://open.spotify.com/album/1jUGmnsp1VAmqeYWgpHtK1) | 2:36 |
+| 5 | [STH1 Green Hill Zone 〜 Mega Drive version 〜](https://open.spotify.com/track/2ZbJuTlSK9TYokeza42cmR) | [Masato Nakamura](https://open.spotify.com/artist/1dMS02fPNC7ace36g64qPm) | [ソニック・ザ・ヘッジホッグ1＆2 サウンドトラック](https://open.spotify.com/album/1jUGmnsp1VAmqeYWgpHtK1) | 2:36 |
 | 6 | [Phantasy Star Online OPENING THEME \~The whole new world\~ \- Lyric Version](https://open.spotify.com/track/2WnlcffBs9iKTWwG7kVztj) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Phantasy Star Online Original Soundtrack](https://open.spotify.com/album/2rKA68eLinqdmduWEyExHt) | 2:29 |
 | 7 | [Main Theme \(Enduro Racer\)](https://open.spotify.com/track/6UIbp6xnICUXOjRaQfP1OP) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [SEGA MOTORCYCLE MUSIC HISTORY](https://open.spotify.com/album/0t4F8GyaDNJvhmmEYYpckE) | 5:07 |
 | 8 | [In the Blue Sky \- \[H.\] Arrange Ver.](https://open.spotify.com/track/7lZJA0s8E1s9PkB1k1Ubmd) | [SEGA Sound Unit\[H.\]](https://open.spotify.com/artist/0oXQNOYcPCHegkkfTKsfQy) | [\[H.\] 1st Album](https://open.spotify.com/album/0WRJXeMZhP8kCSSzW6pxV3) | 2:59 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CtuHQcongT.md) - [plain]
 | 51 | [Perfect \(SDI\)](https://open.spotify.com/track/4DlR0hUCK9xG6v8rANXvmw) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [SDI & QUARTET SEGA SYSTEM 16 COLLECTION](https://open.spotify.com/album/4mURnEgAm00MbB7e4cTEiJ) | 0:07 |
 | 52 | [LAST WAVE \(Out Run\)](https://open.spotify.com/track/0J2NTnEsa3IjeV7OwsRk7B) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Out Run \- Original Soundtrack \(Vol\. 1\)](https://open.spotify.com/album/3anhK2YJabXuqEPeHyKWgS) | 1:31 |
 
-Snapshot ID: `MCw2ZWE0MWQzMTA1M2ZiYThiYzNiMzMxNGJlZTZiMWMzMGVjMjIyYThl`
+Snapshot ID: `MCxkNDA1YmQ4NDY2Y2Y2NjYzOWJiYmUxOTdkOTQ1OTkzNWFlNjA2NGY1`

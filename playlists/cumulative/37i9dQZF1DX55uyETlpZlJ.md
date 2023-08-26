@@ -4,12 +4,13 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-160 songs - 8 hr 52 min
+161 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aa Gagana Surya \(feat\. Pancham Jeeva, Kinnal Raj\)](https://open.spotify.com/track/3fNRmb3gOCVxCiPuIs3HYl) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s), [Kinnal Raj](https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD) | [Aa Gagana Surya \(feat\. Pancham Jeeva, Kinnal Raj\)](https://open.spotify.com/album/2ahIFjlvrc8twTzfYj1ftg) | 5:31 | 2023-05-10 | 2023-06-08 |
 | [Abhisaarike](https://open.spotify.com/track/4LhDXaCGZPFdQGENptg4Va) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Abhisaarike](https://open.spotify.com/album/5ox9fZAcsR2xD14DWJukON) | 3:28 | 2023-02-03 | 2023-06-08 |
+| [Alladsro](https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E) | [PS Praveen](https://open.spotify.com/artist/4vQ3tyl9YN6rrfCnkgp05z) | [Alladsro](https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu) | 3:56 | 2023-08-25 |  |
 | [Amma \- Amma enda aa kshana](https://open.spotify.com/track/4fLupNE2qawIX7d146Wj9t) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Giridhar Divan](https://open.spotify.com/artist/0fj18YwFnSMUQ7xlrOIWVz), [Bagur Markadeya](https://open.spotify.com/artist/5v2JYszdVFwmkDBX0iQOPL) | [Amma \(Amma enda aa kshana\)](https://open.spotify.com/album/4XY7NzBNYyhP9KcJViDWKo) | 4:07 | 2023-05-16 | 2023-06-08 |
 | [AMMA \- Kaanada Daiva](https://open.spotify.com/track/6arwgiW6iaxM21qKWoRq7R) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vishnu K N](https://open.spotify.com/artist/2xuE6nX0KkyCECdmfnqyZX) | [AMMA \(Kaanada Daiva\)](https://open.spotify.com/album/4yO2V101zBfVyWUDnLlW3w) | 3:24 | 2023-05-16 | 2023-06-17 |
 | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/album/2XypahtBYalSRdrgPWK7Va) | 2:59 | 2023-05-11 |  |

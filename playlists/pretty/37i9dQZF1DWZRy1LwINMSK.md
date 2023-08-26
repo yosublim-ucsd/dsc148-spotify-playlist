@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,390 likes - 102 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,535 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 25 | [Exotica \(feat\. La Zowi\)](https://open.spotify.com/track/03zrHVbUNHve5e7eIBMBGC) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:24 |
 | 26 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 |
 | 27 | [AKRI TU ERE UN XULO](https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 2:26 |
-| 28 | [Como Lo Soñamos](https://open.spotify.com/track/41pHCnygRX0uSLjX27uIqa) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/2kIi0RG1UBF33p5FiWoTHb) | 3:18 |
+| 28 | [Como Lo Soñamos](https://open.spotify.com/track/5XrnoEO5tgKrpg2jLFoglw) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/152rAruglEOB88wWOGPxZI) | 3:18 |
 | 29 | [ALMIGHTY](https://open.spotify.com/track/2N5mIfZu5dV66bybxad7Hr) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [BlopaOnTheTrack](https://open.spotify.com/artist/3WCK46BZ6ThP7P7qowdZcn) | [ALMIGHTY](https://open.spotify.com/album/48O2sAs7j2xV4Wo4VcAgpJ) | 3:01 |
 | 30 | [Oro](https://open.spotify.com/track/0Wf76ocoKFtAMlwuKRRWZu) | [Dehilan](https://open.spotify.com/artist/3TY8uR5cMZF7zX2xw5mrYI), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [Oro](https://open.spotify.com/album/7ANEdD9W9s0uaPMFkF7oty) | 5:20 |
 | 31 | [Jordan Bape](https://open.spotify.com/track/5dnoALe7sZbJQhklAGMBp2) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs) | [Jordan Bape](https://open.spotify.com/album/2W0b733Gj2AgYOTWstFqwG) | 3:54 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 101 | [LA MANTECA \- REMIX](https://open.spotify.com/track/5x1wKXnbhBMDRlzpZ5chUh) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Massi Nada Mas](https://open.spotify.com/artist/5PTf3CTYbKbzH785tmu3WK), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Papi Trujillo](https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb), [Cuban Bling](https://open.spotify.com/artist/41nImv0wbNHHsBhbBpwG8S) | [LA MANTECA \(REMIX\)](https://open.spotify.com/album/6HhvKvNTFEgraWt4bLYKZ6) | 5:59 |
 | 102 | [Ring](https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Ring](https://open.spotify.com/album/2S8NVIzCeTvVRcEPJyhSFk) | 2:29 |
 
-Snapshot ID: `MCw5ZmQ3M2VlMTk1MWEzMzViYWZhM2RkMWUyZjNiNTFmODVmYzNjNWU0`
+Snapshot ID: `MCw0M2Y3ODE1NTczZjAwMDBiYTRmMzRlYjc4OTkwYjY2MDM5ZjExZWQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Meagre Martin, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,459 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,475 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [powerpuff girl](https://open.spotify.com/track/5YF9p1smYRawOJ0377rqpI) | [CARAMELLA](https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ) | [powerpuff girl](https://open.spotify.com/album/2pyC2xsBMW1Vhn1JgZLxCv) | 1:54 |
 | 80 | [Dinge](https://open.spotify.com/track/5xHHgnItfPKSoYXEUxALC0) | [WILLMAN](https://open.spotify.com/artist/6i8voyPYg0tgoAtzaez7Dg), [ELAV](https://open.spotify.com/artist/54qCVYlwbZUAxWzLIdSYF4) | [Dinge](https://open.spotify.com/album/7sxQWv8sUZrTQwAaDHHLq9) | 2:44 |
 
-Snapshot ID: `MCxjYWY4ZDc1YjZlMDNiN2I1ZmI2NWNmNDRhY2I5OTEwNmUwMmI3YTdl`
+Snapshot ID: `MCwwNjAxMjIwYzgxNTY0YTdmYjZjNDdkMGFkNWMxZDNmMzljZmNjMWRh`

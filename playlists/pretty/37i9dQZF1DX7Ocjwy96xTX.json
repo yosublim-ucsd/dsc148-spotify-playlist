@@ -1,13 +1,45 @@
 {
   "description": "dark & dreamy for night creatures",
-  "num_followers": 158967,
+  "num_followers": 159389,
   "original_name": "IRL ANGEL ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGJhYjFlZTY4NTU2OTllYjc4Y2IyZDU2MTY4NzFkMGI3MWZiYTk1",
+  "snapshot_id": "MCxlODFjYjI3MjkwODExMzA0NzZkMTI0N2U2OWM4YjQwYmM4ZmYxYWMw",
   "tracks": [
+    {
+      "added_at": "2023-08-25 21:25:37",
+      "album": {
+        "name": "so close to ok",
+        "url": "https://open.spotify.com/album/7eaSpxWkxWWYc3rSfHVfuv"
+      },
+      "artists": [
+        {
+          "name": "Max Fry",
+          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
+        }
+      ],
+      "duration_ms": 121617,
+      "name": "lungs",
+      "url": "https://open.spotify.com/track/7hQmgR3ssV8Racno82rkB1"
+    },
+    {
+      "added_at": "2023-08-25 21:25:37",
+      "album": {
+        "name": "Daydream Twins",
+        "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
+      },
+      "artists": [
+        {
+          "name": "Daydream Twins",
+          "url": "https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O"
+        }
+      ],
+      "duration_ms": 362601,
+      "name": "Carpop",
+      "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
+    },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
@@ -23,22 +55,6 @@
       "duration_ms": 207177,
       "name": "highschool",
       "url": "https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Sick Sad Obsession",
-        "url": "https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb"
-      },
-      "artists": [
-        {
-          "name": "heffy",
-          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
-        }
-      ],
-      "duration_ms": 143703,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/25sDO9CbI55eLQHsXPtn33"
     },
     {
       "added_at": "2023-07-13 23:23:41",
@@ -123,6 +139,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Sick Sad Obsession",
+        "url": "https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb"
+      },
+      "artists": [
+        {
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
+        }
+      ],
+      "duration_ms": 143703,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/25sDO9CbI55eLQHsXPtn33"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "brainrot",
         "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
       },
@@ -169,20 +201,20 @@
       "url": "https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-07-13 23:23:41",
       "album": {
-        "name": "Gouldian Finch 5",
-        "url": "https://open.spotify.com/album/3FdxkBoB4O86sbVRYeTPsZ"
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
       },
       "artists": [
         {
-          "name": "JB Hain",
-          "url": "https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA"
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
         }
       ],
-      "duration_ms": 158687,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/1szQmkXiC5hZ3iCkgDctvl"
+      "duration_ms": 130742,
+      "name": "How To Never Stop Being Sad",
+      "url": "https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -217,28 +249,20 @@
       "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
     },
     {
-      "added_at": "2023-07-13 23:23:41",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH"
+        "name": "Junkie",
+        "url": "https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg"
       },
       "artists": [
         {
-          "name": "soft siren",
-          "url": "https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2"
-        },
-        {
-          "name": "CASHFORGOLD",
-          "url": "https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX"
-        },
-        {
-          "name": "Sidewalks and Skeletons",
-          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
         }
       ],
-      "duration_ms": 177900,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5"
+      "duration_ms": 216821,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
     },
     {
       "added_at": "2023-07-13 23:23:41",
@@ -259,38 +283,6 @@
     {
       "added_at": "2023-07-13 23:23:41",
       "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
-      },
-      "artists": [
-        {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
-        }
-      ],
-      "duration_ms": 130742,
-      "name": "How To Never Stop Being Sad",
-      "url": "https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Junkie",
-        "url": "https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 216821,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
-    },
-    {
-      "added_at": "2023-07-13 23:23:41",
-      "album": {
         "name": "dazies",
         "url": "https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip"
       },
@@ -303,6 +295,22 @@
       "duration_ms": 264854,
       "name": "dazies",
       "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
+    },
+    {
+      "added_at": "2023-08-25 21:25:37",
+      "album": {
+        "name": "spiral",
+        "url": "https://open.spotify.com/album/7B5kjHvuXhUU54QdVuA1ry"
+      },
+      "artists": [
+        {
+          "name": "untitled halo",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "spiral",
+      "url": "https://open.spotify.com/track/7M0dr4u7mOvBXZchosvilZ"
     },
     {
       "added_at": "2023-07-13 23:23:41",
@@ -369,6 +377,22 @@
       "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
     },
     {
+      "added_at": "2023-08-25 21:25:37",
+      "album": {
+        "name": "aching",
+        "url": "https://open.spotify.com/album/3yovro8TSyXGwJQppYWf8O"
+      },
+      "artists": [
+        {
+          "name": "yuronono",
+          "url": "https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj"
+        }
+      ],
+      "duration_ms": 207148,
+      "name": "aching",
+      "url": "https://open.spotify.com/track/1ioVkY9rh0szKZys1JmSgy"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "re: rainbow music",
@@ -431,22 +455,6 @@
       "duration_ms": 228916,
       "name": "Comatose",
       "url": "https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1"
-    },
-    {
-      "added_at": "2023-07-13 23:23:41",
-      "album": {
-        "name": "Apasionada / Over It",
-        "url": "https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq"
-      },
-      "artists": [
-        {
-          "name": "Future Nobodies",
-          "url": "https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH"
     },
     {
       "added_at": "2023-07-13 23:23:41",
@@ -601,20 +609,20 @@
       "url": "https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7"
     },
     {
-      "added_at": "2023-07-13 23:23:41",
+      "added_at": "2023-08-25 21:25:37",
       "album": {
-        "name": "Still Dark",
-        "url": "https://open.spotify.com/album/6U18oWqglloxQUzhAbj79Y"
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/7Kvgk3FSRAKFKVZrvhNjmy"
       },
       "artists": [
         {
-          "name": "Pure Hex",
-          "url": "https://open.spotify.com/artist/3QWUxLJqRsyGpjdKo4xeJN"
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
         }
       ],
-      "duration_ms": 199769,
-      "name": "Still Dark",
-      "url": "https://open.spotify.com/track/6onAMsBb1Peu1Tlyw8Qpjx"
+      "duration_ms": 310773,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc"
     },
     {
       "added_at": "2023-07-13 23:23:41",
@@ -811,22 +819,6 @@
       "duration_ms": 195501,
       "name": "Fading Strangers",
       "url": "https://open.spotify.com/track/2XF1JdrtOorRbxw02e3tFI"
-    },
-    {
-      "added_at": "2023-07-13 23:23:41",
-      "album": {
-        "name": "Dream, Ivory",
-        "url": "https://open.spotify.com/album/4aMcxxMheE6r3FC4a4JLhv"
-      },
-      "artists": [
-        {
-          "name": "Dream, Ivory",
-          "url": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
-        }
-      ],
-      "duration_ms": 188265,
-      "name": "Dream, Ivory",
-      "url": "https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE"
     }
   ],
   "unique_name": "IRL ANGEL ",

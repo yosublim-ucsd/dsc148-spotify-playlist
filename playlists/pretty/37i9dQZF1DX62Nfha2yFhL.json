@@ -1,13 +1,93 @@
 {
   "description": "every day soul with a funky groove for a laid back day.",
-  "num_followers": 892711,
+  "num_followers": 892835,
   "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmJiYzIzNTM5ZGZjM2ZkNjJjYTlmZWJlYmQ5MWZiNzkwZGM0ODVi",
+  "snapshot_id": "MCwzZDQ2YWEwYTllZWZkNjRhZWM2ODM2Yjk3MzJlZTIyOTZmOTQxMTgx",
   "tracks": [
+    {
+      "added_at": "2023-08-25 17:45:52",
+      "album": {
+        "name": "Alice Through The Looking Glass",
+        "url": "https://open.spotify.com/album/3qcUuHGufDVNatGDwelG6X"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Alice Through The Looking Glass",
+      "url": "https://open.spotify.com/track/3oN33FsvKUUT0l8JC7NOf6"
+    },
+    {
+      "added_at": "2023-08-25 17:45:52",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/2eDPUEKbqGcVlprMxu3n8P"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        },
+        {
+          "name": "Jus Lovehall",
+          "url": "https://open.spotify.com/artist/4ZOPuDsefk2ZNBYUJfSXR5"
+        }
+      ],
+      "duration_ms": 223406,
+      "name": "Don't Turn The Music Down",
+      "url": "https://open.spotify.com/track/5oCRONUj1i5wNH4XM5lPSl"
+    },
+    {
+      "added_at": "2023-08-25 17:45:52",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 171673,
+      "name": "Stop (Askin' Me 4Shyt)",
+      "url": "https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS"
+    },
+    {
+      "added_at": "2023-08-25 17:45:52",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        },
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Like It Like That (feat. Chief Adjuah)",
+      "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
+    },
     {
       "added_at": "2023-06-30 04:30:36",
       "album": {
@@ -2059,26 +2139,6 @@
       "duration_ms": 197963,
       "name": "King James",
       "url": "https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE"
-    },
-    {
-      "added_at": "2022-02-18 16:18:51",
-      "album": {
-        "name": "To Forgive",
-        "url": "https://open.spotify.com/album/08Y2FNHDlpJsK5BPgF4teN"
-      },
-      "artists": [
-        {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
-        },
-        {
-          "name": "NSTASIA",
-          "url": "https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "My Side",
-      "url": "https://open.spotify.com/track/4DB4pVDQ2JR7EuNmSsO53T"
     },
     {
       "added_at": "2022-02-18 16:18:51",

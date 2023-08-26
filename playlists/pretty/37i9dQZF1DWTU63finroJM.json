@@ -1,13 +1,29 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 54053,
+  "num_followers": 54081,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTJlY2EwNzc1YmMzOGM3NTY3MGM2OGZjYzE5ODlmMjZmYzFlMGNm",
+  "snapshot_id": "MCwwNmI2MThhMWQ2MWMzYTgwZjkwNWEzNjNmZjM2NmY4Y2ZmZmIwNmQz",
   "tracks": [
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Right Person, Wrong Time",
+        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
+      },
+      "artists": [
+        {
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+        }
+      ],
+      "duration_ms": 238410,
+      "name": "Right Person, Wrong Time",
+      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
+    },
     {
       "added_at": "2023-05-30 12:45:30",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 223957,
       "name": "Somebody's Pleasure",
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 130815,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
     },
     {
       "added_at": "2023-04-17 14:05:23",
@@ -73,6 +105,38 @@
       "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
     },
     {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "dear abbey",
+        "url": "https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 234820,
+      "name": "dear abbey",
+      "url": "https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Alleine",
+        "url": "https://open.spotify.com/album/29h7ryq6taHeULkUT2Cuhj"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Alleine",
+      "url": "https://open.spotify.com/track/1ZZOVNsDP6b2plck5AL3tn"
+    },
+    {
       "added_at": "2023-08-03 23:00:00",
       "album": {
         "name": "Ignorant / Good Time",
@@ -91,6 +155,22 @@
       "duration_ms": 180848,
       "name": "Good Time (feat. Puri) - Spotify Singles",
       "url": "https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf"
+    },
+    {
+      "added_at": "2023-08-25 05:16:34",
+      "album": {
+        "name": "Teen",
+        "url": "https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Teen",
+      "url": "https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -129,6 +209,38 @@
       "url": "https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV"
     },
     {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "SUN7",
+        "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "SENSATION",
+      "url": "https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN"
+    },
+    {
+      "added_at": "2023-04-17 14:05:23",
+      "album": {
+        "name": "what if i took it off for you?",
+        "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "what if i took it off for you?",
+      "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
+    },
+    {
       "added_at": "2023-04-12 07:52:33",
       "album": {
         "name": "Jack e Lacrime",
@@ -149,20 +261,20 @@
       "url": "https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
+      "added_at": "2023-07-07 07:23:00",
       "album": {
-        "name": "Right Person, Wrong Time",
-        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
+        "name": "Kenaniah",
+        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
       },
       "artists": [
         {
-          "name": "shazza",
-          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
         }
       ],
-      "duration_ms": 238410,
-      "name": "Right Person, Wrong Time",
-      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
+      "duration_ms": 280769,
+      "name": "Totoo",
+      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -203,22 +315,6 @@
       "duration_ms": 236708,
       "name": "Ignorant (feat. Puri, Landon Cube) - Spotify Singles",
       "url": "https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "Tic",
-        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "duration_ms": 130815,
-      "name": "Tic",
-      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
     },
     {
       "added_at": "2023-06-09 08:10:55",
@@ -267,22 +363,6 @@
       "duration_ms": 130909,
       "name": "Kele Kele",
       "url": "https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "Avenue",
-        "url": "https://open.spotify.com/album/4pPLwz3J2zEskvu1Z6ATQ6"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 182114,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/6CjwjsGzDVn2hwREI6BKoY"
     },
     {
       "added_at": "2023-06-09 08:10:55",
@@ -367,38 +447,6 @@
     {
       "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Alleine",
-        "url": "https://open.spotify.com/album/29h7ryq6taHeULkUT2Cuhj"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Alleine",
-      "url": "https://open.spotify.com/track/1ZZOVNsDP6b2plck5AL3tn"
-    },
-    {
-      "added_at": "2023-04-17 14:05:23",
-      "album": {
-        "name": "what if i took it off for you?",
-        "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "what if i took it off for you?",
-      "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn"
       },
@@ -449,22 +497,6 @@
       "url": "https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "SUN7",
-        "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
-      },
-      "artists": [
-        {
-          "name": "HOUDI",
-          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "SENSATION",
-      "url": "https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN"
-    },
-    {
       "added_at": "2023-05-04 10:15:19",
       "album": {
         "name": "OLE",
@@ -479,22 +511,6 @@
       "duration_ms": 151932,
       "name": "OLE",
       "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "dear abbey",
-        "url": "https://open.spotify.com/album/3OVI7GQjwC5CsXpyjE1Hn9"
-      },
-      "artists": [
-        {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
-        }
-      ],
-      "duration_ms": 234820,
-      "name": "dear abbey",
-      "url": "https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI"
     },
     {
       "added_at": "2023-03-07 05:59:03",
@@ -751,22 +767,6 @@
       "duration_ms": 193000,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx"
-    },
-    {
-      "added_at": "2023-07-07 07:23:00",
-      "album": {
-        "name": "Kenaniah",
-        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
-      },
-      "artists": [
-        {
-          "name": "Kenaniah",
-          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
-        }
-      ],
-      "duration_ms": 280769,
-      "name": "Totoo",
-      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
     },
     {
       "added_at": "2023-07-07 07:23:00",

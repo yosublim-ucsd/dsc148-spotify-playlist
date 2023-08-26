@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,329 likes - 64 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,551 likes - 64 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 10 | [Let It Go \- From "Frozen"](https://open.spotify.com/track/0mQzAOKpgaG0h85AGjuFuA) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Christian Li](https://open.spotify.com/artist/06h3rv6B0pED0LXjFgODBR) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 3:43 |
 | 11 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 | 12 | [Vuelie \- From "Frozen"/Score](https://open.spotify.com/track/7tHKjzBYfMZvprnfyHcOK0) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Frode Fjellheim](https://open.spotify.com/artist/6dN5CHba8uE3KUZtgzDjGa), [Cantus](https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf) | [Frozen \(Original Score\)](https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0) | 1:35 |
-| 13 | [The Bell Tower](https://open.spotify.com/track/1Dc6Mb9u2az5sQOvqfOqX7) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:05 |
-| 14 | [Reflection \- From "Mulan"](https://open.spotify.com/track/4HEAqYn6eFjnosmV5AKSZ2) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:34 |
-| 15 | [Almost There \- From "Princess and the Frog"](https://open.spotify.com/track/6x1pCJudgIS8Gak9ONrg82) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:26 |
-| 16 | [A Dream Is a Wish Your Heart Makes \- Instrumental Version](https://open.spotify.com/track/42qmKRitmeSCKCW3PVPNcQ) | [Mack David](https://open.spotify.com/artist/4tMrFa88Ah85DwbtjQjohF), [Al Hoffman](https://open.spotify.com/artist/2bOYhu5rjw0HUYzJC9Plv7), [Jerry Livingston](https://open.spotify.com/artist/7wRCKMWe6GQPUDr8CauOmf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:01 |
+| 13 | [Reflection \- From "Mulan"](https://open.spotify.com/track/4HEAqYn6eFjnosmV5AKSZ2) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:34 |
+| 14 | [A Dream Is a Wish Your Heart Makes \- Instrumental Version](https://open.spotify.com/track/42qmKRitmeSCKCW3PVPNcQ) | [Mack David](https://open.spotify.com/artist/4tMrFa88Ah85DwbtjQjohF), [Al Hoffman](https://open.spotify.com/artist/2bOYhu5rjw0HUYzJC9Plv7), [Jerry Livingston](https://open.spotify.com/artist/7wRCKMWe6GQPUDr8CauOmf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:01 |
+| 15 | [The Bell Tower](https://open.spotify.com/track/1Dc6Mb9u2az5sQOvqfOqX7) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:05 |
+| 16 | [Almost There \- From "Princess and the Frog"](https://open.spotify.com/track/6x1pCJudgIS8Gak9ONrg82) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:26 |
 | 17 | [Feed the Birds \- From "Mary Poppins"](https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Feed the Birds \(From "Mary Poppins"\)](https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A) | 4:21 |
 | 18 | [Prince Phillip](https://open.spotify.com/track/6pGHTRfuXLZjta0Kdc9wNG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 2:29 |
 | 19 | [Happy Ending](https://open.spotify.com/track/3ChNbqbiPteCoYtufO79qw) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW), [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:11 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 63 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 |
 | 64 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 |
 
-Snapshot ID: `MCxmMGZiNWNjNmZjNzcyZmFkMjhiYzE5ZmYzNWE3Y2Q3ODhiNmIxMjVm`
+Snapshot ID: `MCw5ZThkNzQ5OWNjOTBlZDFiYWQ0NTM0MTI1YjBlY2Q4YmNlNDRhZDQ2`

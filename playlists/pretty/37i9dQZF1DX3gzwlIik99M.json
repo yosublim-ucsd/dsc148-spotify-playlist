@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212665,
+  "num_followers": 212672,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTYzYmFiNjQ5ZWRkOWFiNzIzYzMxZDZmOWU0NWI0NGUzNWZkNzIw",
+  "snapshot_id": "MCxlZWU3OGIzZmJmNDVmM2U0OTNjODJmZDZlOGIxNGFhODM5YzliNmE1",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Venas De Acero",
-        "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
-      },
-      "artists": [
-        {
-          "name": "Tren Loco",
-          "url": "https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "Pueblo Motoquero",
-      "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Nuevo Orden Mundial",
         "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 231426,
       "name": "Nuevo Orden Mundial",
       "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Venas De Acero",
+        "url": "https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl"
+      },
+      "artists": [
+        {
+          "name": "Tren Loco",
+          "url": "https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "Pueblo Motoquero",
+      "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
     },
     {
       "added_at": "2023-04-28 03:00:00",

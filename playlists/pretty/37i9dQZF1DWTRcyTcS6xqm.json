@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10312,
+  "num_followers": 10323,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjk1OGU4MjYzZTkyMzllMTU4ZTVhZjY3YjkwYWFkODFlOTUxNTYw",
+  "snapshot_id": "MCxjMWViNjEyNmZjM2U4YWU5MzQxMzRmZDk2NDc4YWUzMzUxYjk4YmFj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -845,20 +845,20 @@
       "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "She Got Some Money",
-        "url": "https://open.spotify.com/album/6dvZHqoGgZjlTnNhYRpmjc"
+        "name": "Show Of Strength",
+        "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
       },
       "artists": [
         {
-          "name": "Eddie 9V",
-          "url": "https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B"
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
         }
       ],
-      "duration_ms": 182893,
-      "name": "She Got Some Money",
-      "url": "https://open.spotify.com/track/4gyMp3SlD3xaYQoP77nlAQ"
+      "duration_ms": 360146,
+      "name": "Little Juke Joint",
+      "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
     }
   ],
   "unique_name": "Blues Party",

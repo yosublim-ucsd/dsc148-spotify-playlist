@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Sik\-K\)
 
-964 songs - 2 day 5 hr 5 min
+965 songs - 2 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,6 +824,7 @@
 | [Tag](https://open.spotify.com/track/57AHdM9RXKjpIY0YOpaBHg) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Tag](https://open.spotify.com/album/40heSuvfI70q0bylxWjEdA) | 2:54 | 2021-12-18 | 2022-06-29 |
 | [TAG \(Feat\. Kid Milli\)](https://open.spotify.com/track/1Stv6ROELu0XpyvJLsUH1j) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [MADE IN SEOUL](https://open.spotify.com/album/1ys4Gb4i5EjOGRKTVqnQEH) | 2:45 | 2023-03-24 | 2023-06-21 |
 | [TAIJI](https://open.spotify.com/track/4kTZPPL28sYltXKMJramko) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:13 | 2021-12-29 | 2022-07-08 |
+| [Take It, Flip It \(Feat\. Sik\-K\)](https://open.spotify.com/track/2QazvOMRU7KdBlnPYKMMTF) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Take It, Flip It \(Feat\. Sik\-K\)](https://open.spotify.com/album/3ZK7Jptd6llgxQ1DunVmxb) | 3:02 | 2023-08-25 |  |
 | [Talk \(feat\. PULLIK, VVON\) \(Prod\. Will Not Fear\)](https://open.spotify.com/track/05onm9I0fdRNSwa9xSzskH) | [Cmnd](https://open.spotify.com/artist/1e1QnapqRvRcpRaWjKVKTe), [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z), [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby) | [Talk](https://open.spotify.com/album/1a3SiCsrLNaOqEd6MbqJuQ) | 2:56 | 2023-04-25 | 2023-06-14 |
 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 | 2021-12-18 | 2022-07-08 |
 | [Tango \(Feat\. CAMO, Ourealgoat\) \(Prod\. Way Ched\)](https://open.spotify.com/track/1y6zQbzb5hyvCsjDR8ka6n) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [Time Table \- The Trip](https://open.spotify.com/album/5XrdPk3JCyE2QVUNeHcfxg) | 3:51 | 2021-12-29 | 2022-07-08 |

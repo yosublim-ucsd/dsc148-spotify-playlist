@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Fae Farm (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/59mxfP8W8ksmXRGSkcXRUV"
+      },
+      "artists": [
+        {
+          "name": "Cris Velasco",
+          "url": "https://open.spotify.com/artist/13bb43GIQWR0f6rYeQcrUV"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Welcome to Azoria",
+      "url": "https://open.spotify.com/track/7w44XC3UWngSGoZd3qfCLQ"
+    },
+    {
+      "album": {
         "name": "Horizon Forbidden West, Volume 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EvkNL0xZZeUEV7ROInlvl"
       },

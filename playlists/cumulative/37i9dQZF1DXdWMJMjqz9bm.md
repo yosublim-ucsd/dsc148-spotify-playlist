@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-568 songs - 1 day 2 hr 5 min
+571 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [League](https://open.spotify.com/track/3QokMwnRVE3i4HL7s6F4Y8) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [League](https://open.spotify.com/album/3salXEA3cRs0wZT3VLEWyf) | 2:43 | 2022-11-25 | 2023-01-14 |
 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 | 2022-08-26 | 2022-11-30 |
 | [ledge](https://open.spotify.com/track/4qahEWQ9T4MlTFnDqbWtQU) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [ledge](https://open.spotify.com/album/4ucXenIHafaLWozWJhLp6y) | 2:36 | 2022-06-17 | 2022-07-12 |
+| [Let Go](https://open.spotify.com/track/1tYTIFvg7nCrVnmiK88yOr) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Spotify Singles](https://open.spotify.com/album/1XGxp9TXJQUNw2gbybZHKm) | 2:36 | 2023-08-25 |  |
 | [let you](https://open.spotify.com/track/5OJmt1xiOHZJGx8wTUAjEC) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [let you](https://open.spotify.com/album/34GdjbBv0ZQYwmoYrfVM2O) | 2:31 | 2021-11-16 | 2022-02-26 |
 | [Let's go to Hell](https://open.spotify.com/track/5wxLJCLMUhyi7iTOCyuQrl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/0StPEpOcL93ORzJFiAFY8u) | 2:32 | 2021-12-03 | 2022-02-26 |
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2021-12-03 | 2022-02-26 |
@@ -354,6 +355,7 @@
 | [No Problem \(feat\. Lil Wayne & 2 Chainz\)](https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 5:04 | 2022-04-04 | 2022-10-15 |
 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2022-04-04 | 2022-10-15 |
 | [No Tellin'](https://open.spotify.com/track/2durxb17bXcmQJHSt8JAdO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:10 | 2022-05-19 | 2022-07-13 |
+| [No Way Jose](https://open.spotify.com/track/1kCXmKWlfc9tZIp3Thumkl) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do) | [Baby Gravy 3](https://open.spotify.com/album/0mDeN57X1YtJHfXNdYlJbw) | 2:49 | 2023-08-25 |  |
 | [Nonfiction](https://open.spotify.com/track/5RqEk0GE6SG6OlkU9YO2LO) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [Nonfiction](https://open.spotify.com/album/6hvewHei5ApnrOPrfGp1uq) | 2:21 | 2023-02-03 | 2023-07-04 |
 | [Not A Beanie](https://open.spotify.com/track/1QwLR9LauBPSIdhSCmwTqY) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Not A Beanie](https://open.spotify.com/album/4F1YoKwWwbDBWq4qSgOz8v) | 2:16 | 2023-03-17 |  |
 | [Not Another Summer Jam](https://open.spotify.com/track/66Y4ZFzZh81wRNMev8Vi5Q) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [High More Often](https://open.spotify.com/album/3JtKDVf6oYCKtGxOZP8msb) | 2:41 | 2023-06-30 |  |
@@ -362,6 +364,7 @@
 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 | 2023-04-28 |  |
 | [nothing to lose](https://open.spotify.com/track/1FjHCIhGZNXkuYQGziT3p4) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [nothing to lose](https://open.spotify.com/album/70ZI0zWLDEQP4MTB0ONVCA) | 1:14 | 2022-05-06 | 2022-07-23 |
 | [numb \(feat\. blackbear\)](https://open.spotify.com/track/05UKPuq9D7C6YDaps38ReU) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [numb \(feat\. blackbear\)](https://open.spotify.com/album/4jrLreiCKIGcxG0z7WcQkt) | 2:57 | 2022-09-30 | 2023-04-18 |
+| [Off A Cliff \(With Reo Cragun\)](https://open.spotify.com/track/7KjY1Xr1vXsAgolo63F0sV) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Escape Cycle](https://open.spotify.com/album/2JCIdveMkl6k4YdAqEMEBx) | 2:53 | 2023-08-25 |  |
 | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY) | 2:27 | 2022-06-10 | 2022-11-30 |
 | [Oh My!](https://open.spotify.com/track/23GrnBNBJhVlYlraSi3sT3) | [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Oh My!](https://open.spotify.com/album/5NBpzjZMW5PCvxVCNSTwrD) | 3:11 | 2022-07-22 | 2022-11-30 |
 | [okay okay](https://open.spotify.com/track/5cUqAcXOXUBAIak03DlsTh) | [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [okay okay](https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57) | 3:01 | 2022-01-26 | 2022-03-26 |

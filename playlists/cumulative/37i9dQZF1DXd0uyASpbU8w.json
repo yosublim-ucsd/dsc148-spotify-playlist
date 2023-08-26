@@ -9495,11 +9495,11 @@
         },
         {
           "name": "Mazet",
-          "url": "https://open.spotify.com/artist/5bHMhtdDItOuPBxX3iAXi2"
+          "url": "https://open.spotify.com/artist/5wDZdzgXcE6hcmeAzqxmFA"
         },
         {
           "name": "Thakzin",
-          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+          "url": "https://open.spotify.com/artist/7yeFflZm3MFVkTAsWblS44"
         }
       ],
       "date_added": "2023-08-24",
@@ -9906,7 +9906,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 416026,
       "name": "Lo December",
       "url": "https://open.spotify.com/track/3htTUarxGqKqDEJnDz83Wu"
@@ -11256,10 +11256,32 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 454728,
       "name": "MOTHER MOTHER",
       "url": "https://open.spotify.com/track/1jxYFHkQGVGrxwkp6xWXs6"
+    },
+    {
+      "album": {
+        "name": "Mother Mother (Kid Fonque Remix)",
+        "url": "https://open.spotify.com/album/0knvAth0eiQhxyTRgfXnnq"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454728,
+      "name": "Mother Mother - Kid Fonque Remix",
+      "url": "https://open.spotify.com/track/7G7xHPt5xgQvDsSHg21k5d"
     },
     {
       "album": {
@@ -14241,6 +14263,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3hrXbqGXKWauVGv5vuNJcJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Baron",
+          "url": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218700,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/7EbwRAgkgKpz7khiTduYUQ"
+    },
+    {
+      "album": {
         "name": "Secret ID",
         "url": "https://open.spotify.com/album/0F35l11dnpqFzuPMMaJ1QN"
       },
@@ -14800,6 +14840,24 @@
       "duration_ms": 236181,
       "name": "Single Again (feat. Ruger) - Remix",
       "url": "https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE"
+    },
+    {
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "album": {
@@ -16093,6 +16151,24 @@
     },
     {
       "album": {
+        "name": "TESLA",
+        "url": "https://open.spotify.com/album/5mLthYPpxVlV9E6QPlVVZt"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164742,
+      "name": "TESLA",
+      "url": "https://open.spotify.com/track/4NQfLaqLd1Fms4UTkkTj7J"
+    },
+    {
+      "album": {
         "name": "SLANT",
         "url": "https://open.spotify.com/album/17SO3H2tR6XgdAQeSJoBWm"
       },
@@ -16244,6 +16320,24 @@
       "duration_ms": 479290,
       "name": "The Game (Amapiano Bootleg)",
       "url": "https://open.spotify.com/track/2C25ZeenileLHXXSS9WZvT"
+    },
+    {
+      "album": {
+        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
+        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "THE GIRLS - BLACKPINK THE GAME OST",
+      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
     },
     {
       "album": {
@@ -17912,6 +18006,24 @@
       "duration_ms": 457932,
       "name": "Uqobo Lwakho",
       "url": "https://open.spotify.com/track/2hM4EYJKvNMFBbA56D42i6"
+    },
+    {
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191185,
+      "name": "Used To Be Young",
+      "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
     },
     {
       "album": {

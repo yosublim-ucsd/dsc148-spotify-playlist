@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 28850,
+  "num_followers": 28860,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWRjZDMwNzYxNDVhM2U5ODI3ODEyMGExODUyYzkwMzk0YmMxOGIy",
+  "snapshot_id": "MCw2MzUyNmU5NTRiZDdhZTkxYWI5OThmNTEzMzM5MjdkZmU3MThiOTQ3",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "So Deep, So Good",
-        "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
-      },
-      "artists": [
-        {
-          "name": "M & M",
-          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
-        }
-      ],
-      "duration_ms": 456240,
-      "name": "So Deep, So Good - Ndako Gboya Mix",
-      "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 350066,
       "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
       "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "So Deep, So Good",
+        "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
+      },
+      "artists": [
+        {
+          "name": "M & M",
+          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
+        }
+      ],
+      "duration_ms": 456240,
+      "name": "So Deep, So Good - Ndako Gboya Mix",
+      "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
-      },
-      "artists": [
-        {
-          "name": "M&S",
-          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
-        }
-      ],
-      "duration_ms": 545040,
-      "name": "Justify - Vocal Mix",
-      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 341200,
       "name": "Jump & Sing - Hard Metro Mix",
       "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
+      },
+      "artists": [
+        {
+          "name": "M&S",
+          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
+        }
+      ],
+      "duration_ms": 545040,
+      "name": "Justify - Vocal Mix",
+      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 - Pride Vocal Mix",
-      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -944,17 +928,29 @@
       },
       "artists": [
         {
-          "name": "Rageous",
-          "url": "https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe"
-        },
-        {
-          "name": "Franklin Fuentes",
-          "url": "https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG"
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
         }
       ],
-      "duration_ms": 471692,
-      "name": "Tyler Moore Mary",
-      "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
+      "duration_ms": 364347,
+      "name": "Carnival '95 - Pride Vocal Mix",
+      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -975,18 +971,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
       "artists": [
         {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+          "name": "Rageous",
+          "url": "https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe"
+        },
+        {
+          "name": "Franklin Fuentes",
+          "url": "https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG"
         }
       ],
-      "duration_ms": 472984,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
+      "duration_ms": 471692,
+      "name": "Tyler Moore Mary",
+      "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
       "artists": [
         {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
         }
       ],
-      "duration_ms": 334220,
-      "name": "We Can Make It - The 'I Believe' Dub",
-      "url": "https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg"
+      "duration_ms": 342621,
+      "name": "My People - My People Mix",
+      "url": "https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

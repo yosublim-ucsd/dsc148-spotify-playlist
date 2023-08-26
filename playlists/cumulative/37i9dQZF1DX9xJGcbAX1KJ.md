@@ -4,7 +4,7 @@
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-309 songs - 19 hr 16 min
+310 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Confide In Me](https://open.spotify.com/track/4ixRCvumFcXwoNrEtK4zOV) | [Nerina Pallot](https://open.spotify.com/artist/4aFx7q4WkiTWPLJNW5mkKK) | [Sophia](https://open.spotify.com/album/5qAHEOmGvq1WiGNH4ADq8q) | 3:38 | 2019-02-22 | 2022-07-16 |
 | [Cornflake Girl \- Recorded At RAK Studios, London](https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 4:41 | 2019-02-22 | 2022-07-27 |
 | [Cotton Eye Joe](https://open.spotify.com/track/4rCRwhChsap3aLxRQQ5jgh) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/1rrhJksiU70SoQKseCPYn5) | 2:39 | 2019-02-22 | 2022-07-12 |
+| [Creep](https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA) | 3:54 | 2019-02-22 |  |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-02-22 | 2023-06-08 |
 | [Crossing Muddy Waters](https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Crossing Muddy Waters](https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz) | 3:48 | 2019-02-22 | 2022-07-09 |
 | [Crossing Muddy Waters](https://open.spotify.com/track/7GOORtGLXelDKL9ohAbQAU) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/3UQN58336cCDOZpLM7hgPz) | 3:48 | 2019-02-22 | 2022-07-23 |
@@ -301,7 +302,7 @@
 | [Wicked Game.](https://open.spotify.com/track/6V8hkPRestS5H6EfmqjqtA) | [Mcevoy](https://open.spotify.com/artist/75RCH6Pr8XrCnvWdbMwgVa) | [Wicked Game.](https://open.spotify.com/album/5ZHJlXrPKXThCjhDtWHQlu) | 2:36 | 2019-02-22 | 2022-07-06 |
 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 | 2019-02-22 |  |
 | [Wish I Didn't Miss You \- Recorded At RAK Studios, London](https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Spotify Singles](https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0) | 3:24 | 2019-02-22 | 2022-07-28 |
-| [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 | 2019-02-22 |  |
+| [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 | 2019-02-22 | 2023-08-26 |
 | [Wonderful \(Recorded Live at Kcsn, Los Angeles\)](https://open.spotify.com/track/6MdAwOYUTYDTOv0kb10Oq7) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Deluxe Edition\)](https://open.spotify.com/album/3FbnUTejfWegwYtIS8SRql) | 4:57 | 2019-02-22 | 2022-07-20 |
 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 | 2019-02-22 |  |
 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 | 2019-02-22 | 2022-07-14 |

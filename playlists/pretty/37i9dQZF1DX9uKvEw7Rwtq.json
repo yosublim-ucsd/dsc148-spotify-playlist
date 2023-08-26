@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 77572,
+  "num_followers": 77653,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTI5MGQ3NzYwOWFmYzgzNzFmZWQ0ODQ0ZmVhNjAzYTQ3YjZkYzE2",
+  "snapshot_id": "MCxlYWRkZjgxMWMzZWQyMjE5YzU4Njk4MWE5YzE0YWI4YTY3OTVkNWJi",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:48",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 255335,
-      "name": "I Can Almost See You",
-      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox"
       },
@@ -115,18 +99,34 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Ambient One",
-        "url": "https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD"
+        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
       },
       "artists": [
         {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
         }
       ],
-      "duration_ms": 248125,
-      "name": "Anything You Synthesize - Ambient",
-      "url": "https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq"
+      "duration_ms": 255335,
+      "name": "I Can Almost See You",
+      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "S/T",
+        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 416333,
+      "name": "They Move on Tracks of Never-Ending Light",
+      "url": "https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "S/T",
-        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
+        "name": "Ambient One",
+        "url": "https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD"
       },
       "artists": [
         {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
         }
       ],
-      "duration_ms": 416333,
-      "name": "They Move on Tracks of Never-Ending Light",
-      "url": "https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN"
+      "duration_ms": 248125,
+      "name": "Anything You Synthesize - Ambient",
+      "url": "https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Make We Here Our Camp of Winter",
-        "url": "https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR"
-      },
-      "artists": [
-        {
-          "name": "The Gentleman Losers",
-          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Shelter from the Rain",
-      "url": "https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Beautiful Illusions",
         "url": "https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 334866,
       "name": "Forever Rain",
       "url": "https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "Make We Here Our Camp of Winter",
+        "url": "https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR"
+      },
+      "artists": [
+        {
+          "name": "The Gentleman Losers",
+          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Shelter from the Rain",
+      "url": "https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Pure Phase",
-        "url": "https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "The Slide Song",
-      "url": "https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Sacrifice & Isolation",
         "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 311555,
       "name": "What the Heart Craves For",
       "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "Pure Phase",
+        "url": "https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "The Slide Song",
+      "url": "https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
-      },
-      "artists": [
-        {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Keep The Orange Sun",
         "url": "https://open.spotify.com/album/6MLLMv5uFphvY2eXVEHB4X"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 254000,
       "name": "Keep The Orange Sun",
       "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+      },
+      "artists": [
+        {
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
+      },
+      "artists": [
+        {
+          "name": "Interstellar Noise",
+          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
+        }
+      ],
+      "duration_ms": 227975,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 283200,
       "name": "A Letter from the Past",
       "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
-      },
-      "artists": [
-        {
-          "name": "Interstellar Noise",
-          "url": "https://open.spotify.com/artist/3h9YFTlhixNcQHPWYrGXOT"
-        }
-      ],
-      "duration_ms": 227975,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Pajama Avenue",
-        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Back To Dangerous",
-      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "In Gardens",
         "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
+        "name": "Pajama Avenue",
+        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
+      },
+      "artists": [
+        {
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Back To Dangerous",
+      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
         "name": "Pearldiving",
         "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
@@ -1247,6 +1247,38 @@
       "duration_ms": 152260,
       "name": "Les Amourettes",
       "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "Leaking Light",
+        "url": "https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG"
+      },
+      "artists": [
+        {
+          "name": "Lachlan R. Dale",
+          "url": "https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Leaking Light",
+      "url": "https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1271,22 +1303,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Leaking Light",
-        "url": "https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG"
-      },
-      "artists": [
-        {
-          "name": "Lachlan R. Dale",
-          "url": "https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Leaking Light",
-      "url": "https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "As She Bends Towards the Sun",
         "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 287388,
       "name": "As She Bends Towards the Sun",
       "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
+        "name": "Floating Above Saturn",
+        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
+      },
+      "artists": [
+        {
+          "name": "Framed By Stars",
+          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
+        }
+      ],
+      "duration_ms": 137986,
+      "name": "Floating Above Saturn",
+      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Floating Above Saturn",
-        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
       "artists": [
         {
-          "name": "Framed By Stars",
-          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 137986,
-      "name": "Floating Above Saturn",
-      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
+      "duration_ms": 230000,
+      "name": "Astronomer",
+      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1451,22 +1467,6 @@
       "duration_ms": 360006,
       "name": "Love is a Shelter",
       "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Astronomer",
-      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
-      },
-      "artists": [
-        {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Hy-Brasil",
         "url": "https://open.spotify.com/album/0Ovb8VJpDHHtTbqjbYhywu"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1587,6 +1571,38 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
+        "name": "I Wonder As I Wander",
+        "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
+      },
+      "artists": [
+        {
+          "name": "Deerhoof",
+          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+        }
+      ],
+      "duration_ms": 136846,
+      "name": "I Wonder As I Wander",
+      "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
         "name": "West Kensington",
         "url": "https://open.spotify.com/album/60JgMML7iNBhaRhcKfRRpf"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 478853,
       "name": "Altar of Tammy",
       "url": "https://open.spotify.com/track/1ZXY4vBNHhaOwTQLjWKGkV"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
-        "name": "I Wonder As I Wander",
-        "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
-      },
-      "artists": [
-        {
-          "name": "Deerhoof",
-          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
-        }
-      ],
-      "duration_ms": 136846,
-      "name": "I Wonder As I Wander",
-      "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
     },
     {
       "added_at": "2023-08-18 14:02:48",

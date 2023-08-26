@@ -944,7 +944,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 199000,
       "name": "Fantasize",
       "url": "https://open.spotify.com/track/3WjC4OFDrnX7AVyZTsVLne"
@@ -1642,6 +1642,32 @@
       "duration_ms": 235386,
       "name": "Mr Experience",
       "url": "https://open.spotify.com/track/54GhzoPYsZArLvotyAORIt"
+    },
+    {
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6yIMIDnefGWURSE5iEcsLf"
+      },
+      "artists": [
+        {
+          "name": "Oral Bee",
+          "url": "https://open.spotify.com/artist/4QawfzCb5NbFRNn4BySXb1"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Splash Bros.",
+          "url": "https://open.spotify.com/artist/0IQ1IyebgwJTW4bECBWla3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167004,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/4b5djboQENpRDpaiv12t06"
     },
     {
       "album": {

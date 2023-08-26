@@ -4,7 +4,7 @@
 
 > Classic funk.
 
-86 songs - 6 hr 37 min
+87 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [I'll Be With You](https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Ugly Ego](https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8) | 4:23 | 2020-04-14 |  |
 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2020-04-14 |  |
 | [It's Too Funky In Here \- Single Version](https://open.spotify.com/track/22ZLaOOpNuNXfAVhRKQEWh) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Funk Classics](https://open.spotify.com/album/4yYKyzzmbY0OPrJAbLssGY) | 3:58 | 2020-04-14 | 2022-11-13 |
-| [It's Too Funky In Here \- Single Version](https://open.spotify.com/track/3FSVxcdplNPNgNrZTYTxte) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Gold](https://open.spotify.com/album/6k3kDaRLxtRJ2Lo7DwwTxh) | 3:58 | 2020-04-14 |  |
+| [It's Too Funky In Here \- Single Version](https://open.spotify.com/track/3FSVxcdplNPNgNrZTYTxte) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Gold](https://open.spotify.com/album/6k3kDaRLxtRJ2Lo7DwwTxh) | 3:58 | 2020-04-14 | 2023-08-26 |
+| [It's Too Funky In Here \- Single Version](https://open.spotify.com/track/3EJTzm42iaVQEh8YskT7f0) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Gold](https://open.spotify.com/album/35Xv40swznGmD4s6ro7XAd) | 3:58 | 2020-04-14 |  |
 | [J.P\. Walk](https://open.spotify.com/track/2jZ95Ane7RQZpF9y6t04PT) | [Sound Experience](https://open.spotify.com/artist/0m5uiIlwecGOszBsSMNByB) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 7:05 | 2020-04-14 | 2022-09-28 |
 | [Just Kissed My Baby](https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Rejuvenation](https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW) | 4:43 | 2020-04-14 |  |
 | [Keep On Truckin'](https://open.spotify.com/track/14L1EL0Y1t2or3CfQwHjP1) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Keep On Truckin’: The Motown Solo Albums, Vol\. 1](https://open.spotify.com/album/3wP5lKSz1LOxgltAabKhF6) | 7:59 | 2020-04-14 | 2022-11-14 |

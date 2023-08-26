@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "Tennessee Whiskey",
+        "url": "https://open.spotify.com/album/0WNnkenw79b5b9KWSuwXj7"
+      },
+      "artists": [
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/1JSdMw0R2EIFpxMWX2ImNA"
+    },
+    {
+      "album": {
         "name": "Terdekap",
         "url": "https://open.spotify.com/album/10iZrxVkJJYwQ21NCumMGG"
       },

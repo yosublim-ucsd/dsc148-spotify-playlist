@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 367416,
+  "num_followers": 367545,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjIxMGFiYmUzNjJmZWFhNjhkODM0NjM5MmU2NDU1MWM5MzhkZTIz",
+  "snapshot_id": "MCw3YTc0MDE2NzAyZTllZGU1ODYxMzQwMGNiOWM2YTAxOGM4MzkyYmFi",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -47,6 +47,22 @@
       "duration_ms": 229804,
       "name": "Lone Digger",
       "url": "https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Let's Do It Again",
+        "url": "https://open.spotify.com/album/7xa28wFPtw25ufZ2VfLfQG"
+      },
+      "artists": [
+        {
+          "name": "11 Acorn Lane",
+          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
+        }
+      ],
+      "duration_ms": 176884,
+      "name": "Let's Do It Again",
+      "url": "https://open.spotify.com/track/6ze5w2E78KvLCePhTTa3R0"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -91,6 +107,22 @@
       "duration_ms": 167172,
       "name": "Marvelous - Wolfgang Lohr Future Swing Remix",
       "url": "https://open.spotify.com/track/2KByLKAsBdItG2WIQrmJA2"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Swing Phonk 2",
+        "url": "https://open.spotify.com/album/12uAcM5YMqNfMkOCi7WRgg"
+      },
+      "artists": [
+        {
+          "name": "MAXPVNK",
+          "url": "https://open.spotify.com/artist/4dHkDmvdWDXoycp4Caui8D"
+        }
+      ],
+      "duration_ms": 101612,
+      "name": "Swing Phonk 2",
+      "url": "https://open.spotify.com/track/74tXLSHDTdVpwKy5xhAJj5"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -239,26 +271,6 @@
       "duration_ms": 189956,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Sway (Future Swing Mix)",
-        "url": "https://open.spotify.com/album/0Osw46pcXnO0B7JOKoOG5I"
-      },
-      "artists": [
-        {
-          "name": "Masha Ray",
-          "url": "https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW"
-        },
-        {
-          "name": "Bbop",
-          "url": "https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII"
-        }
-      ],
-      "duration_ms": 142592,
-      "name": "Sway - Future Swing Mix",
-      "url": "https://open.spotify.com/track/3ogL2bsjAYyiaQ0jOKy9su"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -825,26 +837,6 @@
       "url": "https://open.spotify.com/track/4j2OB7zz0CgzwS8mOO1Kws"
     },
     {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "ASCENDANT BRASIER (Balduin Remix)",
-        "url": "https://open.spotify.com/album/03ypKhrBSNz6cTNOTjxzlP"
-      },
-      "artists": [
-        {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
-        },
-        {
-          "name": "Lamuzgueule",
-          "url": "https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "ASCENDANT BRASIER - Balduin Remix - Electro Swing",
-      "url": "https://open.spotify.com/track/0MJ4n3iA0w2xhRs6IC1UuV"
-    },
-    {
       "added_at": "2023-03-31 04:01:00",
       "album": {
         "name": "When You Go Down",
@@ -1003,26 +995,6 @@
       "duration_ms": 279200,
       "name": "What Lana Says",
       "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
-    },
-    {
-      "added_at": "2022-11-07 16:43:23",
-      "album": {
-        "name": "Pressure (Klisch\u00e9e Remix)",
-        "url": "https://open.spotify.com/album/36ksrwcXMXLdmRMXoK92ie"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        },
-        {
-          "name": "Marina & The Kats",
-          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Pressure - Klisch\u00e9e Remix",
-      "url": "https://open.spotify.com/track/7y7FwHBH5Al7M42rCtBF51"
     },
     {
       "added_at": "2022-11-07 16:43:23",

@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 427898,
       "name": "All We See",
       "url": "https://open.spotify.com/track/2vk3410KZ2APrbN8HoCHza"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 240110,
       "name": "Dancefloor",
       "url": "https://open.spotify.com/track/1aDd5ioq8tzscMo3tYVLfU"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 172173,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE"
@@ -1730,6 +1730,24 @@
       "duration_ms": 439441,
       "name": "LET\u2019S DO IT AGAIN",
       "url": "https://open.spotify.com/track/6XeNfVpkrE1Ai9CQWo4cgu"
+    },
+    {
+      "album": {
+        "name": "Fire & Ice v3",
+        "url": "https://open.spotify.com/album/5RkEOMGonDpzB3BAGhlRe9"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263952,
+      "name": "Lick It v3",
+      "url": "https://open.spotify.com/track/693qI7dPAin6D2y6KSAjLQ"
     },
     {
       "album": {
@@ -2691,6 +2709,28 @@
     },
     {
       "album": {
+        "name": "Snooze 4 Love (Remixed)",
+        "url": "https://open.spotify.com/album/1JFyo1nOaCqKkBRs2ogTuG"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje",
+          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
+        },
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448230,
+      "name": "Snooze 4 Love - Dixon Remix",
+      "url": "https://open.spotify.com/track/738oaUEbgZrY0dQTBaHFx1"
+    },
+    {
+      "album": {
         "name": "TANZPARTEI (Mixtape)",
         "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
@@ -3026,6 +3066,24 @@
       "duration_ms": 255000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/1EF8Ya2wALJOufB5VQAwtt"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2Mh9VfD9rqB9e4RxoMf8J6"
+      },
+      "artists": [
+        {
+          "name": "Capa (Official)",
+          "url": "https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379000,
+      "name": "Tell Me - Extended Mix",
+      "url": "https://open.spotify.com/track/4i2B7FbsKHi9QpLLZKEpqc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Arcy Drive \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,726 likes - 110 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,754 likes - 110 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 86 | [Eutherians \(Ultramarine\)](https://open.spotify.com/track/28e2ijIPbnUzeU8b9xntzn) | [ME REX](https://open.spotify.com/artist/4i3bRgGFFhxCNJg4xURPJm) | [Eutherians \(Ultramarine\)](https://open.spotify.com/album/2F5jGyZ9z14KGjH4tdhPTA) | 4:13 |
 | 87 | [Season Song](https://open.spotify.com/track/2W4oDrX8MwBed4MypPoUEa) | [Joiner](https://open.spotify.com/artist/7JlMMmd03EDX3KupBZwN4d) | [Season Song](https://open.spotify.com/album/3IVTr8ZR589a1kR56cbCxx) | 3:36 |
 | 88 | [Taking Up Sports](https://open.spotify.com/track/0dlGaLCdoDKcrK7v3tdBHb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Taking Up Sports](https://open.spotify.com/album/5ogRaa13BvMAVcxVnOnsSf) | 3:04 |
-| 89 | [The Power](https://open.spotify.com/track/6XW1Ti8owM40lIAOdBLKdB) | [Diners](https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp) | [The Power](https://open.spotify.com/album/0D4XIOjppjGfxAbO9gNdZ4) | 2:32 |
+| 89 | [The Power](https://open.spotify.com/track/0a5fTiH4xSCrnePP16HaTV) | [Diners](https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp) | [DOMINO](https://open.spotify.com/album/1GcgVIOWktZwAEHh7RKENo) | 2:32 |
 | 90 | [Sunny Smile](https://open.spotify.com/track/0DT9Q3fLZIN4v4kkpMgDCG) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Sunny Smile](https://open.spotify.com/album/53HAyUl6IBuJCVdrVUIBEI) | 3:32 |
 | 91 | [Ours](https://open.spotify.com/track/1B7XSl075FcGoHjnHMoiIK) | [Oarts](https://open.spotify.com/artist/2rFOTt38op2IreMwRrLc2f) | [Ours](https://open.spotify.com/album/17mEEi35ueNfguWoDRt8Tb) | 4:13 |
 | 92 | [Moon Knight](https://open.spotify.com/track/6uX2EzpYn73MgcpCjQC1oe) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Moon Knight](https://open.spotify.com/album/2gF9fBwCIgUTygJblP78br) | 2:27 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 109 | [Olly Carp](https://open.spotify.com/track/2VspudiJVujvSewaidcfKZ) | [HYLA](https://open.spotify.com/artist/7hpxHWdnM6cECjtgqMiWOo) | [Olly Carp](https://open.spotify.com/album/09tgHx4T78MhsW4XP0GKte) | 4:35 |
 | 110 | [King of the Slugs](https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [King of the Slugs](https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ) | 7:05 |
 
-Snapshot ID: `MCwwYzlmMWY3MWJkY2NjYjQ2NWU3MzgwMzI1ODk5YTBlZWEzMWJjNDI0`
+Snapshot ID: `MCwzMzdkZTViYjIyNzI0YzU1Nzc5YWU1ZWI1YjcyZDYyNGNhYzZkNGQ4`

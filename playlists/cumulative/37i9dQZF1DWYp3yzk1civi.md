@@ -4,7 +4,7 @@
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-81 songs - 4 hr 32 min
+82 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Shade of Yellow](https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Shade of Yellow](https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ) | 2:36 | 2021-10-14 |  |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-10-14 |  |
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2021-10-14 |  |
-| [The Breaks](https://open.spotify.com/track/0gueawLShEbZoAfMaADOkP) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [The Breaks](https://open.spotify.com/album/0VU1pdKj120ZSfxMppb238) | 3:20 | 2021-10-14 |  |
+| [The Breaks](https://open.spotify.com/track/0gueawLShEbZoAfMaADOkP) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [The Breaks](https://open.spotify.com/album/0VU1pdKj120ZSfxMppb238) | 3:20 | 2021-10-14 | 2023-08-26 |
+| [The Breaks](https://open.spotify.com/track/6t2z6iIwOJNV3LtQGcK5FO) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [The Breaks](https://open.spotify.com/album/6jdERAZuUsv0COcp9yZYtO) | 3:20 | 2021-10-14 |  |
 | [The Hardest Part](https://open.spotify.com/track/4IwBk5Aje86JStWWhUm8Xp) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [What Am I Gonna Do On Sundays?](https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742) | 2:56 | 2021-10-14 |  |
 | [The Lucky Ones](https://open.spotify.com/track/2RwAlmqqMPsBMYC4PewkEt) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Secrets I'll Never Tell](https://open.spotify.com/album/5MVRr1jreJqBg5vM0jjuW8) | 3:36 | 2021-10-14 |  |
 | [The Sun Will Rise](https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [The Sun Will Rise](https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ) | 3:03 | 2021-10-14 |  |

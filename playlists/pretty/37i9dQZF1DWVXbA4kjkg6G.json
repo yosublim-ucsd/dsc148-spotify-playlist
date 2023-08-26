@@ -1,12 +1,12 @@
 {
   "description": "Atmospheric textures & downtempo beats. Cover: Beth Gibbons of Portishead ",
-  "num_followers": 431430,
+  "num_followers": 431769,
   "original_name": "Trip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODRmZDg3NThmNDA1NTYwNTRjY2E1NDE2MDZjMWExMmQ2YTNlZWJh",
+  "snapshot_id": "MCwwYzg1MzVlNjZlN2IyNjZjMGI1OTMyNzBjYjAxNGJhZWJlNjZiYTAw",
   "tracks": [
     {
       "added_at": "2023-06-20 20:30:21",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
+        "name": "A Grand Love Story",
+        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
+      },
+      "artists": [
+        {
+          "name": "Kid Loco",
+          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "A grand love theme",
+      "url": "https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 351693,
       "name": "Empire",
       "url": "https://open.spotify.com/track/7rU9Lk1rF17EeQnr4clnm6"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
-        "name": "A Grand Love Story",
-        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
-      },
-      "artists": [
-        {
-          "name": "Kid Loco",
-          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "A grand love theme",
-      "url": "https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Opera",
-        "url": "https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC"
+        "name": "Who Can You Trust? / Beats & B-Sides",
+        "url": "https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
         }
       ],
-      "duration_ms": 302133,
-      "name": "Chocolate Elvis",
-      "url": "https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX"
+      "duration_ms": 332759,
+      "name": "Trigger Hippie",
+      "url": "https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Who Can You Trust? / Beats & B-Sides",
-        "url": "https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr"
+        "name": "Opera",
+        "url": "https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC"
       },
       "artists": [
         {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 332759,
-      "name": "Trigger Hippie",
-      "url": "https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6"
+      "duration_ms": 302133,
+      "name": "Chocolate Elvis",
+      "url": "https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX"
     },
     {
       "added_at": "2023-06-20 20:30:21",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-20 20:30:21",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 376981,
-      "name": "Aquaself",
-      "url": "https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr"
-    },
-    {
-      "added_at": "2023-06-20 20:30:21",
-      "album": {
         "name": "Underground Vibes",
         "url": "https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 310413,
       "name": "Mad Blunted Jazz",
       "url": "https://open.spotify.com/track/5DBHf9TJyINVithuciTmic"
+    },
+    {
+      "added_at": "2023-06-20 20:30:21",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 376981,
+      "name": "Aquaself",
+      "url": "https://open.spotify.com/track/1wzs9FslOr3savmjvtKsKr"
     },
     {
       "added_at": "2023-06-20 20:30:21",

@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: 0WAVE\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-637 songs - 1 day 10 hr 34 min
+638 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-24 |  |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-01 | 2022-07-28 |
 | [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2023-01-19 |  |
-| [Dessert shop \(Feat\. h3hyeon\)](https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 2:52 | 2022-04-01 |  |
+| [Dessert shop \(Feat\. h3hyeon\)](https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 2:52 | 2022-04-01 | 2023-08-26 |
 | [DIE FOR YOU](https://open.spotify.com/track/1LyFyW3IJLiBROvsRfTY1l) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF) | [EMOTIONAL BAGGAGE](https://open.spotify.com/album/2w5NOGfn9lrizZoXhktoVP) | 3:46 | 2022-04-01 | 2022-05-28 |
 | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/track/7cDeFoNeMJfp8ChAqaZUMC) | [SGBOYZ \(Jay Park, Don Mills, Loco, Nucksal\)](https://open.spotify.com/artist/66bwuJTs2P6ygJTTmW53Cw) | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/album/1V1hbUJcmNISGcYyR6sHdL) | 4:16 | 2022-04-01 | 2022-07-29 |
 | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL) | [SGBOYZ](https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU) | [Dingo X 쌔끈보이즈 \- 궁금해](https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb) | 4:16 | 2022-07-24 | 2022-12-20 |
@@ -276,6 +276,7 @@
 | [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2022-04-01 | 2022-07-29 |
 | [in my room \(feat\. pH\-1, Marv\) \(prod\. moocean\)](https://open.spotify.com/track/3x3STzbhNeCivtioNh2k2I) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [love is](https://open.spotify.com/album/5uivJupx1ZmlrLMIBVbbYy) | 3:57 | 2023-05-05 | 2023-06-12 |
 | [Independent Music](https://open.spotify.com/track/7Jin5db4i7evTFvtGU1Am1) | [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Independent Music](https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU) | 3:10 | 2022-05-11 | 2022-07-24 |
+| [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 | 2023-08-25 |  |
 | [Infrared Camera](https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:25 | 2022-04-01 |  |
 | [Insomnia](https://open.spotify.com/track/5CCvCaKl8xU8RhVdRzV9CP) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 3:46 | 2022-04-01 | 2022-07-29 |
 | [Insta Crush](https://open.spotify.com/track/2l5FvesT4vjxSPNrBXQ2nE) | [Snacky Chan](https://open.spotify.com/artist/4UTKdKB32XqCsQGLjZEfmw), [NASON](https://open.spotify.com/artist/1vh78yjQeZmPN9a5qLlBpi) | [Insta Crush](https://open.spotify.com/album/2o0TAVFnEMUUHFlWHhPV83) | 3:43 | 2022-04-01 | 2022-04-21 |

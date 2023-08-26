@@ -454,7 +454,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262564,
+      "name": "Daughter of the Highlands",
+      "url": "https://open.spotify.com/track/6C7OVZKLsu1Nj73Xr5RoLl"
+    },
+    {
+      "album": {
         "name": "Such Jubilee",
         "url": "https://open.spotify.com/album/6oYZeaQQ35oCweYNLMoPdX"
       },
@@ -1865,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Gardens",
+        "url": "https://open.spotify.com/album/2gh0zpXNgEvhLQ6d5bcFHd"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157013,
+      "name": "Gardens",
+      "url": "https://open.spotify.com/track/0Rrrxb4Wrqk5MGE6KevSg1"
+    },
+    {
+      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
       },
@@ -2045,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "Here For You",
+        "url": "https://open.spotify.com/album/1XpRYkvfDy9zX0Se7cI6Gy"
+      },
+      "artists": [
+        {
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193786,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/6xnAmE24OBRvjU4b7gN7Eb"
+    },
+    {
+      "album": {
         "name": "God Fearing Heathen",
         "url": "https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu"
       },
@@ -2168,6 +2222,28 @@
       "duration_ms": 262160,
       "name": "Holy Ground",
       "url": "https://open.spotify.com/track/1uVNQx93kyNDlBTnXPzKaa"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "Holy Roller (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
     },
     {
       "album": {
@@ -2824,6 +2900,24 @@
       "duration_ms": 164346,
       "name": "Local Honey",
       "url": "https://open.spotify.com/track/0DoAh5V2UYlRSO0bi7sFim"
+    },
+    {
+      "album": {
+        "name": "Lost But Not Forgotten",
+        "url": "https://open.spotify.com/album/6IIDtMuwJwElTFuZAcm7cH"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279798,
+      "name": "Lost But Not Forgotten",
+      "url": "https://open.spotify.com/track/3Bm3ymBsKeq5GTGOIsd6dM"
     },
     {
       "album": {
@@ -3872,6 +3966,24 @@
       "duration_ms": 190634,
       "name": "Run To Heaven",
       "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
+    },
+    {
+      "album": {
+        "name": "Running Out Of Hope, Arkansas (Acoustic)",
+        "url": "https://open.spotify.com/album/7vpCqY8FyAhITBlvaOUhdC"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123386,
+      "name": "Running Out Of Hope, Arkansas - Acoustic",
+      "url": "https://open.spotify.com/track/0W6gyNHsRDjj4EXfJM0u7o"
     },
     {
       "album": {

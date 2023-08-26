@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Divisi\u00f3n Min\u00fascula",
+  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: ALOISIO",
   "name": "Rock Total",
   "tracks": [
     {
@@ -1762,6 +1762,24 @@
       "duration_ms": 166500,
       "name": "La Cena",
       "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+    },
+    {
+      "album": {
+        "name": "VIDA FANTASTIC",
+        "url": "https://open.spotify.com/album/7AQZuQQN5XvHI7PXoCefFP"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "LA DA\u00d1ADA",
+      "url": "https://open.spotify.com/track/6viDkT7vDsTdikAaSyEluu"
     },
     {
       "album": {
@@ -4178,7 +4196,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 245467,
       "name": "Un Minuto Con Vos",
       "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"

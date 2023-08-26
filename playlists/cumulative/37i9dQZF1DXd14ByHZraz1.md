@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-139 songs - 7 hr 6 min
+140 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [In the Night \- Sevek Remix](https://open.spotify.com/track/69B1qgfaaXirGSbdx3otxJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [In the Night \(Sevek Remix\)](https://open.spotify.com/album/3A7MxmucODffpO7GgAPqgC) | 3:04 | 2022-05-20 | 2022-10-29 |
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2021-12-24 | 2022-09-06 |
 | [It's Ours \- Short Mix](https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 3:20 | 2022-11-11 | 2023-01-21 |
+| [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-08-25 |  |
 | [Kill Me](https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 008](https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK) | 2:35 | 2022-12-16 | 2023-07-01 |
 | [Lo Que Soy](https://open.spotify.com/track/7oNvcR6y6AIxbY2aWukM9p) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Lo Que Soy](https://open.spotify.com/album/6KCqenIwnDx20ku4jx5gVl) | 3:09 | 2021-12-24 | 2022-12-17 |
 | [Looking At You](https://open.spotify.com/track/6f9NvJNgaJY5nBN1qkBt70) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [MYKRIS](https://open.spotify.com/artist/74FoBhis1hShJt1oBnmXkC), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Kruizz](https://open.spotify.com/artist/6IIxNeTmyWkRrcCPqUt4k0) | [Looking At You](https://open.spotify.com/album/3SS9gjPL8kG4WMg6T20FUk) | 2:35 | 2023-05-19 |  |

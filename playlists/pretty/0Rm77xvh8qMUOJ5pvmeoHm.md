@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 
 > Get your 2023 started with these party tracks everyone knows and loves!
 
-[Topsify](https://open.spotify.com/user/topsify) - 192,721 likes - 103 songs - 5 hr 47 min
+[Topsify](https://open.spotify.com/user/topsify) - 192,719 likes - 103 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 | 102 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 |
 | 103 | [Hallucinate](https://open.spotify.com/track/2MUKw7zEirXqdZZ3xC4hOf) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:28 |
 
-Snapshot ID: `MjE0MywyM2I3OTU2YTRmOWQ5MjgzNTI1MzI5M2JlMGI1YzgwZTRhZTVkMWZi`
+Snapshot ID: `MjE0NSxmOTFiOWU4OWNkOWZlZTQwM2VkN2M4YzBhZGM5YjIyZDY3MThiNmI5`

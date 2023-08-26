@@ -2,9 +2,9 @@
 
 ### [Chill Hits](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
 
-> Kick back to the best new and recent chill hits.
+> Disfruta de los mejores éxitos relajantes más recientes.
 
-904 songs - 2 day 1 hr 6 min
+905 songs - 2 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Follow You](https://open.spotify.com/track/5hHB9MZBgdMK7Yxyx2XlRu) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Follow You](https://open.spotify.com/album/3rCECr2BEF3fDH0lVgaADu) | 3:17 | 2020-04-10 | 2020-05-13 |
 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-11-13 | 2022-11-13 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-07 |  |
-| [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-10-10 |  |
+| [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-10-10 | 2023-08-26 |
 | [Forever](https://open.spotify.com/track/1op2w75Jctzq3qEvRjaOGd) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [I Don't Know A Thing About Love](https://open.spotify.com/album/4r2NLCAZXgu4BsyQBYuC76) | 3:18 | 2019-10-25 | 2020-01-04 |
 | [Forever Young](https://open.spotify.com/track/0Kjkp9SLw8uhBAiSrSgdcB) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Forever Young](https://open.spotify.com/album/7yAbp4rF8KN1cT7q09rNbX) | 3:31 | 2020-05-04 | 2022-07-29 |
 | [Forget to Forget](https://open.spotify.com/track/4E5IBDRu8kJbzUv1qaZM1t) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Forget to Forget](https://open.spotify.com/album/3GX2lFOgBOfVw4BYsINt6S) | 2:35 | 2019-05-25\* | 2019-08-15 |
@@ -303,6 +303,7 @@
 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 | 2019-05-25\* | 2019-10-11 |
 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 | 2020-07-20 | 2022-02-18 |
 | [Friends Don't Kiss Friends](https://open.spotify.com/track/1Uk26UmIDGCQrEkXCUJyBV) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [Studio Black](https://open.spotify.com/artist/2O3c4fgVjF9PrBY2qxFptZ) | [Friends Don't Kiss Friends](https://open.spotify.com/album/1DCzpVXLPwu6KVC94RPHFn) | 2:34 | 2019-05-25\* | 2019-09-06 |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-08-25 |  |
 | [Fuck it I love you](https://open.spotify.com/track/28aEiMfveru430xmXhDCy3) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Fuck it I love you / The greatest](https://open.spotify.com/album/0Zv6uLCDXAW4oG8cVvtG6c) | 3:38 | 2019-08-26 | 2020-01-04 |
 | [Games](https://open.spotify.com/track/3XF1qOnui5TuVURsgevtSc) | [Sonia Ammar](https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB) | [Games](https://open.spotify.com/album/1cVHe0Orpqtg1cStFSdWgt) | 3:11 | 2019-10-25 | 2019-10-26 |
 | [Get It Right](https://open.spotify.com/track/74ZQkrS93fcV6fcRYxqjjK) | [Hajk](https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z) | [Drama](https://open.spotify.com/album/5H6QBY3slTev1nqxv1aSkr) | 3:59 | 2020-10-06 | 2021-01-15 |

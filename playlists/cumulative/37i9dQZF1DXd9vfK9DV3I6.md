@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-263 songs - 19 hr 24 min
+264 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-03-13 | 2023-03-18 |
 | [Bangladesh](https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf) | [Esotique](https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF), [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Bangladesh](https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl) | 2:27 | 2023-03-03 |  |
 | [Be Mine](https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Be Mine](https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe) | 3:30 | 2022-06-27 | 2023-03-18 |
+| [Bedouin](https://open.spotify.com/track/2giWbLYx96NCz924ACsaUf) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Bedouin](https://open.spotify.com/album/7GyTqPQvMlkEF8Zvw2OFFG) | 6:34 | 2023-08-25 |  |
 | [Beirut](https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Dj Pantelis](https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ) | [Beirut](https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh) | 5:34 | 2021-10-22 |  |
 | [Beirut](https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7) | [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG), [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Beirut](https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb) | 4:20 | 2022-06-27 | 2023-06-10 |
 | [Beirut](https://open.spotify.com/track/37bW0E4kxB3Ex5K4NwgnUY) | [Rodge](https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG), [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Beirut](https://open.spotify.com/album/1mABpSoBrD4rFpeQhdNSwc) | 4:20 | 2020-10-18\* | 2022-07-29 |
@@ -252,7 +253,7 @@
 | [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 | 2023-06-09 |  |
 | [Weyna \- DJ Phellix Remix](https://open.spotify.com/track/6ukHZyw9OSWYb4xnxjamB6) | [Mel7em](https://open.spotify.com/artist/2kA5fHfCu63JFihHuda5Oi), [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV) | [Weyna \(DJ Phellix Remix\)](https://open.spotify.com/album/5DSKC1TtOIYbGVk1X8T43I) | 6:26 | 2023-06-08 | 2023-07-14 |
 | [Whenever You Go \(La La La\)](https://open.spotify.com/track/3YVnOK6dOqXFXbbPKOmmBB) | [The Suncatchers](https://open.spotify.com/artist/0ciYYtVA4U5kas1Q3CJeTA), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Whenever You Go \(La La La\)](https://open.spotify.com/album/4KbvlXJCOQpYjwVMSSWZ4p) | 3:02 | 2020-10-18\* | 2022-06-19 |
-| [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 | 2022-12-05 |  |
+| [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 | 2022-12-05 | 2023-08-26 |
 | [Will You Stay \(feat\. Georgia Alexandra\) \[Rivo Remix\]](https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV) | [Melih Aydogan](https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM), [Georgia Alexandra](https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz), [Rivo](https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY) | [Will You Stay \(feat\. Georgia Alexandra\) \[Rivo Remix\]](https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT) | 2:46 | 2022-06-27 |  |
 | [Will You Stay \- Rivo Remix](https://open.spotify.com/track/5fktYPyklwA6zScbpyti0X) | [Melih Aydogan](https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM), [Georgia Alexandra](https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz), [Rivo](https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY) | [Will You Stay \(Rivo Remix\)](https://open.spotify.com/album/386Pl8HoGXswgsMrvCEqOh) | 2:46 | 2021-04-19 | 2022-07-29 |
 | [Ya Ghayeb](https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt) | [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE), [Bob Zoabi](https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW) | [Ya Ghayeb](https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F) | 3:37 | 2020-10-18\* |  |

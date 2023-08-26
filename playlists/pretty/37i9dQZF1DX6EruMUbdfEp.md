@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain]
 
 > Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! / 音楽で辿る、2009年放送開始のアニメ「鋼の錬金術師 FULLMETAL ALCHEMIST」の世界。<a href="https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv?si=476b380d14f24147">鋼の錬金術師</a>\(2003年放送開始\)はこちら\(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,053 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,126 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
 | 2 | [ホログラム](https://open.spotify.com/track/3yQACgMuy2G7EXCTeGtjlt) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [ホログラム](https://open.spotify.com/album/0ZSwUMBw5vqZQMPqpousBo) | 4:09 |
-| 3 | [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING/ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 |
+| 3 | [EVERLASTING](https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [EVERLASTING／ジャーニー](https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj) | 4:02 |
 | 4 | [ゴールデンタイムラバー](https://open.spotify.com/track/66DAA9F0AFPpDvezYunqm3) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [ゴールデンタイムラバー](https://open.spotify.com/album/4VBStx3XhYhQiWJSTLEwg4) | 5:40 |
 | 5 | [Period](https://open.spotify.com/track/2Hv8CIxNzaCJoRPEzdvMTY) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [Period](https://open.spotify.com/album/2wuaOJR1IPuwlaURm3IGDN) | 3:37 |
 | 6 | [レイン](https://open.spotify.com/track/4hKUNjXvTRp1Xpv9n4O8IK) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [レイン](https://open.spotify.com/album/1GbrjrBv1o9AHZolbFP9Jw) | 4:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain]
 | 59 | [Sorrowful Stone](https://open.spotify.com/track/0eOl2uwpktFMs90MCXNnjd) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 3](https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw) | 2:38 |
 | 60 | [Main Theme \~The Alchemist\~](https://open.spotify.com/track/3vrqHeabohTaCnlemvSXUR) | [Akira Senju](https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 3](https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw) | 2:01 |
 
-Snapshot ID: `MCwzNzU4N2U4NGM1ZDJkNzUyOGY2YjVhOGEzZDk1ZGIzZmE3ZWQzNmMw`
+Snapshot ID: `MCw4YThjMzNiNjFlMzAxOTJlMjkxOTQwODBjODE3ODk5MmQxNmQxMTkx`

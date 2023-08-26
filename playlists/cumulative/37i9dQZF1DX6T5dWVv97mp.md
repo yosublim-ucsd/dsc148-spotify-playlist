@@ -4,7 +4,7 @@
 
 > Get into a morning flow with this focus playlist.
 
-102 songs - 7 hr 11 min
+103 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Mountaintops In Caves](https://open.spotify.com/track/4W0rbYmyIkzCzxMNXLJAgG) | [Talkdemonic](https://open.spotify.com/artist/5POYv55NRLzTlbt5GLeCjM) | [Beat Romantic](https://open.spotify.com/album/2KjTAUYrKjt7rd7Q0kYVKB) | 2:11 | 2023-05-05 |  |
 | [Moving Slowly](https://open.spotify.com/track/596oi0xDA9ZQIHTLJr1Zg6) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Moving Slowly](https://open.spotify.com/album/7lCtm2VoakicgPRDsjS72W) | 3:17 | 2023-05-05 |  |
 | [My Only Swerving](https://open.spotify.com/track/4q26ViixkilRLjl1MdLABS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 5:14 | 2023-05-05 |  |
-| [Natural Cause](https://open.spotify.com/track/30u5328ERA8OFk3qrla5m2) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:15 | 2023-05-05 |  |
+| [Natural Cause](https://open.spotify.com/track/30u5328ERA8OFk3qrla5m2) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:15 | 2023-05-05 | 2023-08-26 |
 | [Next Winter](https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [Next Winter](https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P) | 3:54 | 2023-05-05 |  |
 | [Northern Lights](https://open.spotify.com/track/16FZrcsuEWnHRUeIvj9d0z) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 2:02 | 2023-05-05 |  |
 | [Oliver](https://open.spotify.com/track/5JfLICu41HRxJdtkM7WrT6) | [Zachary David](https://open.spotify.com/artist/40EsUDCOPS5C8DgxkCmUCo) | [Celestial](https://open.spotify.com/album/4yJxEoH1Ytcppb7bXdElNU) | 4:53 | 2023-05-05 |  |
@@ -77,6 +77,7 @@
 | [Paris](https://open.spotify.com/track/65obxF26LTi94E0YvxBg8U) | [PLVCES](https://open.spotify.com/artist/04cixKonVUpFouuri2mSzC) | [Plvces](https://open.spotify.com/album/4wNQhd6jbidx84H03iyK04) | 2:58 | 2023-05-05 |  |
 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 | 2023-05-05 |  |
 | [Peterson \(The American Dollar\)](https://open.spotify.com/track/3MzA9pCyJZI7DcVtM6Pc71) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Five Album Set & Bonus Eps](https://open.spotify.com/album/64TW6oYBQnJz36w7FKhDkP) | 3:19 | 2023-05-05 |  |
+| [Place](https://open.spotify.com/track/6U7pXpn3sJb7aBwVLEPpKX) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Place And Time](https://open.spotify.com/album/7GVevUBAGmJVABY9L2HBAm) | 3:41 | 2023-08-25 |  |
 | [Postcards for the Backyard](https://open.spotify.com/track/66de1fjUiP9a34bBByBUPf) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Postcards for the Backyard](https://open.spotify.com/album/54F44eMlla5R9STS8jn8sI) | 4:15 | 2023-05-05 |  |
 | [Páthē](https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Páthē](https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9) | 5:41 | 2023-08-11 |  |
 | [Remedy](https://open.spotify.com/track/0lO7FDkxEOf8DJHqK0VN2C) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh) | [Mirage](https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff) | 5:15 | 2023-05-05 |  |

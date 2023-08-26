@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-128 songs - 9 hr 4 min
+129 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [I Hope You're Happy Now \- Live from the CMA Awards 2020](https://open.spotify.com/track/16ksnBUPxX5aIhIqDBzcOX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [I Hope You’re Happy Now \(Live from the CMA Awards 2020\)](https://open.spotify.com/album/1cDYRtB0pAqyNglsvDrxUN) | 3:18 | 2021-07-22 |  |
 | [I Run To You \- Live](https://open.spotify.com/track/6Ut4aPmaScltV7Bu5BWOix) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:56 | 2021-07-22 |  |
 | [I've Been a Long Time Leaving \(But I'll Be a Long Time Gone\) \- Live at the Fillmore New York at Irving Plaza, 2010](https://open.spotify.com/track/0Dz2sBmJO5CWYy3xtiDtfl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 6:07 | 2022-07-22 |  |
+| [In Your Love \- Live From Radio City Music Hall](https://open.spotify.com/track/1vlF4jSU2nAWMjsGkzgFio) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love \(Live From Radio City Music Hall\)](https://open.spotify.com/album/1I20hO7qTPRcHrjDaDaeI9) | 4:02 | 2023-08-25 |  |
 | [It Ain't My Fault \- Live](https://open.spotify.com/track/68Dz3MBc6FblfGmMhpeLcg) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 16:16 | 2021-07-22 |  |
 | [Jack Daniels \- Live At Pepsi Center, Denver, CO / April 5, 2017](https://open.spotify.com/track/1LM6osoVFLDv2x0VNvMMNz) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Chuck Leavell](https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 5:11 | 2021-07-22 |  |
 | [Just When I Needed You Most \- Live](https://open.spotify.com/track/0UvfWrjpczCbLVG3u8xfw5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:31 | 2021-07-22 |  |

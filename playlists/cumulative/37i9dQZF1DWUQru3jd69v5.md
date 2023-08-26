@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Il Ghost in cover.
 
-698 songs - 1 day 6 hr 22 min
+699 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Freddo](https://open.spotify.com/track/0JTSwPtqZ4Aesj6fIlnnYJ) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Freddo](https://open.spotify.com/album/7KLikaUXpm72gqhUQV8OkA) | 2:02 | 2023-03-16 | 2023-04-07 |
 | [FREDDO AD AGOSTO](https://open.spotify.com/track/6WTZTKzfegWUhn6XsFLbJC) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU) | [TEMPESTA DI LACRIME](https://open.spotify.com/album/0cE7IGkRpzgEgr88JOcZ2Q) | 2:55 | 2022-05-12 | 2022-06-23 |
 | [FREDDO IN CASA](https://open.spotify.com/track/0ygctJYNSmiOLUKD2XATX9) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi), [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb) | [FREDDO IN CASA](https://open.spotify.com/album/1FHsgpOLB7Gx0pNV1pGMXM) | 2:41 | 2022-05-10 | 2022-06-10 |
+| [FREE](https://open.spotify.com/track/4YGP7UFW9CYJQ3m9D1LcBv) | [Asso X](https://open.spotify.com/artist/3BroHWMcnIcgZ48iAMoV34) | [FREE](https://open.spotify.com/album/73zmDMBi2hBo3BxdzkINZa) | 2:18 | 2023-08-24 |  |
 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 | 2022-07-14 | 2022-10-28 |
 | [Freestyle\#2](https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle\#2](https://open.spotify.com/album/4RJSyh82Vs7fi6e6EibCSN) | 2:12 | 2023-03-16 | 2023-05-12 |
 | [From Sant'](https://open.spotify.com/track/2SyEPyC2ug8JqJFHPOZubr) | [Nilo](https://open.spotify.com/artist/2quVb29xnOv7eESFZnLY8B) | [From Sant'](https://open.spotify.com/album/6QLXoiRRzLoWjwUyT1J6an) | 2:47 | 2023-03-09 | 2023-03-31 |

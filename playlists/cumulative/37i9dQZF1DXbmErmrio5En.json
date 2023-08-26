@@ -865,6 +865,28 @@
     },
     {
       "album": {
+        "name": "COMEDOWN",
+        "url": "https://open.spotify.com/album/1IqxYZcc2DxAaOyqEOdGnR"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129759,
+      "name": "COMEDOWN",
+      "url": "https://open.spotify.com/track/5uYViosjAmKH1Auq3zvZL1"
+    },
+    {
+      "album": {
         "name": "CONSUMED",
         "url": "https://open.spotify.com/album/0RfdjQvgnPvOJNYc74ukAX"
       },
@@ -4258,7 +4280,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 134272,
       "name": "stuck.",
       "url": "https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo"
@@ -4440,6 +4462,24 @@
       "duration_ms": 121624,
       "name": "teeth (you)",
       "url": "https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP"
+    },
+    {
+      "album": {
+        "name": "stuck. run. sink. die. the end.",
+        "url": "https://open.spotify.com/album/77Vn3DDWatnu93qk2c0CoE"
+      },
+      "artists": [
+        {
+          "name": "HARRY WAS HERE",
+          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "the end.",
+      "url": "https://open.spotify.com/track/65iEXVHRkbm5pibetOFL4y"
     },
     {
       "album": {
@@ -4860,6 +4900,24 @@
       "duration_ms": 180800,
       "name": "welcome to the plant cell bath",
       "url": "https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo"
+    },
+    {
+      "album": {
+        "name": "what do i care?",
+        "url": "https://open.spotify.com/album/5BqomERv8kyvEPHY9Y2e5q"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "what do i care?",
+      "url": "https://open.spotify.com/track/4dUd78G324Z1YnxSjCnFl3"
     },
     {
       "album": {

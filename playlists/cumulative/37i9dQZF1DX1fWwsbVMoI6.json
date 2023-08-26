@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Solo \u00c9xitos",
+        "url": "https://open.spotify.com/album/65HPZEpduQsWS3MufRLJlS"
+      },
+      "artists": [
+        {
+          "name": "Grupo N\u00e9ctar",
+          "url": "https://open.spotify.com/artist/0SbJWWmxmXhDfactFxn4iG"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213426,
+      "name": "El Arbolito",
+      "url": "https://open.spotify.com/track/1wr2LwsnmGTqxrOfiVrtQx"
+    },
+    {
+      "album": {
         "name": "VOL.1",
         "url": "https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg"
       },
@@ -1947,6 +1965,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1SWOl6JImOQeV9zdSkbEsj"
+      },
+      "artists": [
+        {
+          "name": "Armonia 10",
+          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194933,
+      "name": "Siempre Pierdo En El Amor",
+      "url": "https://open.spotify.com/track/6mJObKwNw6bwuJcrvjoCA1"
+    },
+    {
+      "album": {
         "name": "Cl\u00e1sicos de Oro",
         "url": "https://open.spotify.com/album/0dLDoxUSEuj7vZvklIcqmh"
       },
@@ -2066,7 +2102,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 231680,
       "name": "Tres Cruces",
       "url": "https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp"
@@ -2330,7 +2366,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 243533,
       "name": "Voy a Buscarme un Amor",
       "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"

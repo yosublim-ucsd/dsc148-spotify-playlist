@@ -1,90 +1,106 @@
 {
-  "description": " <a href=\"spotify:artist:2i1CPudyCUjL50Wqjv8AMI\">Alfa Mist</a> shares his jazz favorites",
-  "num_followers": 83588,
-  "original_name": "Alfa Mist Digs Jazz",
+  "description": " <a href=\"spotify:artist:6iWuBN32BqCJAeXW6o3nil\">Cautious Clay</a> shares his jazz favorites",
+  "num_followers": 83608,
+  "original_name": "Cautious Clay Digs Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTc3NDliZDYwODY5ZWRiY2U5OTYxYTcyYWQwMWM3OGI5M2ZkMDc1",
+  "snapshot_id": "MCwzMzQ5MDE0OTdhMzk2Y2MwNjNhZGVkNzViOTRiYzA4M2MyNzZmZDI5",
   "tracks": [
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "The Best Of Wayne Shorter",
-        "url": "https://open.spotify.com/album/4jo7Y2Gk6RGH8CFUXKdMqi"
+        "name": "First Light (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 414840,
-      "name": "Infant Eyes",
-      "url": "https://open.spotify.com/track/0iRNnorxnFDSwVwnBgQ4CI"
+      "duration_ms": 664933,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/3JkgrvbHI6TlskLY4pwEUM"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Structuralism",
-        "url": "https://open.spotify.com/album/38XUFMsLLAttgWdD40CTaL"
+        "name": "Phil Upchurch",
+        "url": "https://open.spotify.com/album/5e4zsk8FCh2dCf9F8IroYW"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Phil Upchurch",
+          "url": "https://open.spotify.com/artist/11LAePIczpCSQBSEXw22qK"
         }
       ],
-      "duration_ms": 567973,
-      "name": "Naiyti",
-      "url": "https://open.spotify.com/track/0RSqkwhopcmUZ0FDcb7kk7"
+      "duration_ms": 322946,
+      "name": "Cyrenna",
+      "url": "https://open.spotify.com/track/435jOhHAGBzs2XzSzBjYfF"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Stay Now",
-        "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
+        "name": "Yesterday's Price",
+        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
       },
       "artists": [
         {
-          "name": "Joel Lyssarides",
-          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "Gowns of Dark",
-      "url": "https://open.spotify.com/track/2ki1Eb2QQOvfJnfrRx1zXg"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "What Day Is It? (feat. Reuben Rogers, Walter Smith III)",
-        "url": "https://open.spotify.com/album/40tPQ81T2l4SPb6xVrwDEZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Scott",
-          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         },
         {
-          "name": "Reuben Rogers",
-          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
+          "name": "Joshua Karpeh",
+          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
         },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "duration_ms": 315561,
+      "name": "Yesterday's Price",
+      "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Twio",
+        "url": "https://open.spotify.com/album/2ekSSgd5FCCjgkMwT3qVXb"
+      },
+      "artists": [
         {
           "name": "Walter Smith III",
           "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        },
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
         }
       ],
-      "duration_ms": 294653,
-      "name": "What Day Is It? (feat. Reuben Rogers, Walter Smith III)",
-      "url": "https://open.spotify.com/track/1QiYLCJgq2NjglKW9EKxiv"
+      "duration_ms": 367773,
+      "name": "On the Trail",
+      "url": "https://open.spotify.com/track/5MKKKVSZZalOWxwTfIDxkO"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Tributary",
-        "url": "https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM"
+        "name": "Squint",
+        "url": "https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC"
       },
       "artists": [
         {
@@ -92,467 +108,347 @@
           "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 347240,
-      "name": "Tributary",
-      "url": "https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2"
+      "duration_ms": 147268,
+      "name": "Etude",
+      "url": "https://open.spotify.com/track/4qIluUXW2uoi0tafnAtQUb"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Resynthesis",
-        "url": "https://open.spotify.com/album/0h53lAKeUdvII1H6B4QvbQ"
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },
       "artists": [
         {
-          "name": "Jamie Leeming",
-          "url": "https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD"
-        },
-        {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
         }
       ],
-      "duration_ms": 219773,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/1vPNWcs7Ert6vHto2p6ySc"
+      "duration_ms": 262026,
+      "name": "Moonlight Serenade",
+      "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
+        "name": "The Ultimate Carmen McRae",
+        "url": "https://open.spotify.com/album/455LFcxO8aG4o1lKqQG3Qa"
       },
       "artists": [
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Kaya Thomas-Dyke",
-          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Aged Eyes",
-      "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
+      "duration_ms": 169351,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/6S3vv8FNXoAaP1HA8pJx3j"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Faces in Reflection",
-        "url": "https://open.spotify.com/album/27LrzDfCpvyhJw63OQz9cw"
+        "name": "Four MFs Playin' Tunes",
+        "url": "https://open.spotify.com/album/3f7Cz1UsXo2caKuJe1HVpd"
       },
       "artists": [
         {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
         }
       ],
-      "duration_ms": 220502,
-      "name": "Faces in Reflection No.1",
-      "url": "https://open.spotify.com/track/6w2OBecz2paQjl8BaFaJXz"
+      "duration_ms": 427733,
+      "name": "The Mighty Sword",
+      "url": "https://open.spotify.com/track/2R97WwEzx7uk7kTFCe4qTG"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "The Inner Mounting Flame",
-        "url": "https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr"
-      },
-      "artists": [
-        {
-          "name": "Mahavishnu Orchestra",
-          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
-        }
-      ],
-      "duration_ms": 309866,
-      "name": "Dawn - Remastered",
-      "url": "https://open.spotify.com/track/7uOR6TIGeytCAnKrUT4X91"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "White Juju, VI. Sanctuary (Live)",
-        "url": "https://open.spotify.com/album/6taK9u9lQM9MJnwWmPo5S8"
-      },
-      "artists": [
-        {
-          "name": "Soweto Kinch",
-          "url": "https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Lee Reynolds",
-          "url": "https://open.spotify.com/artist/68loRWEOBXUYarnmy6IHOH"
-        },
-        {
-          "name": "Rick Simpson",
-          "url": "https://open.spotify.com/artist/3FKhFIysDUOzJwTMNIFjpf"
-        },
-        {
-          "name": "Nick Jurd",
-          "url": "https://open.spotify.com/artist/0jzEWq8gmFuq75Z8v0K6vQ"
-        },
-        {
-          "name": "Gregory Hutchinson",
-          "url": "https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y"
-        }
-      ],
-      "duration_ms": 451329,
-      "name": "White Juju, VI. Sanctuary - Live",
-      "url": "https://open.spotify.com/track/68xtFzZXDMxZA2ZKqiw0JQ"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "Emily\u2019s D+Evolution",
-        "url": "https://open.spotify.com/album/1aGm5Dz2FocgtXxKfrK0gn"
-      },
-      "artists": [
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Noble Nobles",
-      "url": "https://open.spotify.com/track/1cr47zeK8TClmVKcLO9hzn"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "On My Ones",
-        "url": "https://open.spotify.com/album/6o73C44oWGeDaCjLvoEKtD"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 279760,
-      "name": "High Risk",
-      "url": "https://open.spotify.com/track/25O3YsHYgrYcFYEOrediFn"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "the sound of listening",
-        "url": "https://open.spotify.com/album/10LpNn6t8QZbbOIWqGTiEN"
-      },
-      "artists": [
-        {
-          "name": "Mark Guiliana",
-          "url": "https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1"
-        }
-      ],
-      "duration_ms": 281877,
-      "name": "a path to bliss",
-      "url": "https://open.spotify.com/track/62KSKGJ4N2Pe83EMuV6g4s"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "Tristeza / Poema / Canto / Images On Guitar",
-        "url": "https://open.spotify.com/album/0lmAhV5jdI0toT257nP8vj"
-      },
-      "artists": [
-        {
-          "name": "Baden Powell",
-          "url": "https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Eur\u00eddice",
-      "url": "https://open.spotify.com/track/3VbZ1S46fhgHAHT4yIeVY9"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Jas 5ive",
-        "url": "https://open.spotify.com/album/6z6QGXmou5iAnOf94AAVup"
-      },
-      "artists": [
-        {
-          "name": "Jas Kayser",
-          "url": "https://open.spotify.com/artist/3yjaKJcB25XtIy23oDJjSO"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/6sT430ECWNAOV78ReGr3Gz"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "Reflex",
-        "url": "https://open.spotify.com/album/0I9oGDa0fa63LIG6yC4bif"
-      },
-      "artists": [
-        {
-          "name": "JSPHYNX",
-          "url": "https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/5KqyMxJTympEf5YFp9RTe6"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 450240,
-      "name": "BC",
-      "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "The World We Knew (Remastered)",
-        "url": "https://open.spotify.com/album/2sUDjvaWiQfUjkp2rd5rwG"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "The World We Knew",
-      "url": "https://open.spotify.com/track/3Mti0GRiWm1BZeknARLqPo"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "LongGone (feat. Brad Mehldau, Christian McBride & Brian Blade)",
-        "url": "https://open.spotify.com/album/52Vr22XzeD9rIOnOQ3OSKR"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
-        },
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 498653,
-      "name": "Statuesque",
-      "url": "https://open.spotify.com/track/0Rl8T1f0V03bHOMYP0GmnB"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "In The Spirit Of Ntu",
-        "url": "https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl"
-      },
-      "artists": [
-        {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
-        },
-        {
-          "name": "Omagugu",
-          "url": "https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4"
-        }
-      ],
-      "duration_ms": 421207,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/32EOILWXWu3WGo56PmM9UG"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "Resynthesis",
-        "url": "https://open.spotify.com/album/0h53lAKeUdvII1H6B4QvbQ"
-      },
-      "artists": [
-        {
-          "name": "Jamie Leeming",
-          "url": "https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD"
-        }
-      ],
-      "duration_ms": 395986,
-      "name": "Zen Garden",
-      "url": "https://open.spotify.com/track/4KeQjCPtgvsUtkA43u9BFo"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "Different Forms",
-        "url": "https://open.spotify.com/album/2mZlNsOYjfEkFb6caWLkPK"
-      },
-      "artists": [
-        {
-          "name": "Rudi Creswick",
-          "url": "https://open.spotify.com/artist/1u238rg67yiJYzLpylTeCG"
-        },
-        {
-          "name": "Emmavie",
-          "url": "https://open.spotify.com/artist/30SZetOBMEael27tboxz7f"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/6b48KARuq1yWz0w00SZ3td"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "Epoch",
-        "url": "https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Emmavie",
-          "url": "https://open.spotify.com/artist/30SZetOBMEael27tboxz7f"
-        }
-      ],
-      "duration_ms": 259124,
-      "name": "No Need to Wait",
-      "url": "https://open.spotify.com/track/1MfXHGGG7ml1HMBSTiUNRk"
-    },
-    {
-      "added_at": "2023-04-01 04:00:00",
-      "album": {
-        "name": "Metheny Mehldau",
-        "url": "https://open.spotify.com/album/46toyUpsWtgtWQi4ME16nj"
+        "name": "Bright Size Life",
+        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
       },
       "artists": [
         {
           "name": "Pat Metheny",
           "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Bright Size Life",
+      "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Bumpin' (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5bwEHjcTERDMoH1J5QMy5l"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 137066,
+      "name": "The Shadow Of Your Smile",
+      "url": "https://open.spotify.com/track/6AgBWG1JdFFWPfFe8qHY1w"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 535293,
+      "name": "I Thought It Was You",
+      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
+      },
+      "artists": [
+        {
+          "name": "John Abercrombie",
+          "url": "https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa"
         },
         {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
         }
       ],
-      "duration_ms": 299253,
-      "name": "Unrequited",
-      "url": "https://open.spotify.com/track/56HdFAzKJ3qVwqQhja7HW4"
+      "duration_ms": 728360,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/2Xzj98dVbsafbaGdxXcwmv"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Heroes + Misfits",
-        "url": "https://open.spotify.com/album/35SK2rNqBdbIykejfFs9rA"
+        "name": "Black Market",
+        "url": "https://open.spotify.com/album/5354mOnKAQxDZx4MR7en0h"
       },
       "artists": [
         {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          "name": "Weather Report",
+          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
         }
       ],
-      "duration_ms": 370853,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1dFXVsyHptcrUOTDT6FXmU"
+      "duration_ms": 388200,
+      "name": "Black Market",
+      "url": "https://open.spotify.com/track/2AsjFgg7ImLpxySqCw0b0L"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Angels Around",
-        "url": "https://open.spotify.com/album/1rw84ssoTRB0M9wrPrwes6"
+        "name": "At Carnegie Hall",
+        "url": "https://open.spotify.com/album/3x38mYlwkm6L6vYIn0Hzqk"
       },
       "artists": [
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Thelonious Monk Quartet",
+          "url": "https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 360520,
-      "name": "Angels Around",
-      "url": "https://open.spotify.com/track/4yI8w3mPpuH7RnOy4Uail9"
+      "duration_ms": 269493,
+      "name": "Epistrophy - Live At Carnegie Hall, New York /1957/Early Show",
+      "url": "https://open.spotify.com/track/5DhAJI6n3mq0dJCbW3UsJF"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "44th Move",
-        "url": "https://open.spotify.com/album/1HH0AI0mLPPCKpjfZiKMwm"
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/3FqODjsy7plZpgF2hO65S8"
       },
       "artists": [
         {
-          "name": "44th Move",
-          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
+          "name": "Roy Hargrove Big Band",
+          "url": "https://open.spotify.com/artist/0W8QO3RssbbFeIiBTgrgQ6"
         }
       ],
-      "duration_ms": 319342,
-      "name": "Two Nil",
-      "url": "https://open.spotify.com/track/3nyB9Y1Og43JTswc9MFRa3"
+      "duration_ms": 207226,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/407cjMpkvvF1soh4rKA19N"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Reflex",
-        "url": "https://open.spotify.com/album/0I9oGDa0fa63LIG6yC4bif"
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
       "artists": [
         {
-          "name": "JSPHYNX",
-          "url": "https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l"
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
         }
       ],
-      "duration_ms": 320238,
-      "name": "SHHH",
-      "url": "https://open.spotify.com/track/4vVB1Cds2lNGgkLT5LLz0j"
+      "duration_ms": 278626,
+      "name": "Strasbourg / St. Denis",
+      "url": "https://open.spotify.com/track/62VWmsNoDmqT0Mj9oHHFVh"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Equilibrium",
-        "url": "https://open.spotify.com/album/0jdPF0XNaprry2aipeMyGD"
+        "name": "The ABC, Mercury Jazz Big Band Sessions",
+        "url": "https://open.spotify.com/album/6qE6TxOZZVECOYwo9GXU9A"
       },
       "artists": [
         {
-          "name": "Benedikt Jahnel Trio",
-          "url": "https://open.spotify.com/artist/7HcGEwGFOZo1xqYa3SJ6m3"
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 541333,
-      "name": "Wrangel",
-      "url": "https://open.spotify.com/track/6ich630va9p5hMVU2DPC2J"
+      "duration_ms": 152026,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/5qYWyw9tJjbNqrHjaC3PtP"
     },
     {
-      "added_at": "2023-04-01 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/1y2UHjMwM818jzPqRzw9cd"
+        "name": "Groovin' At Small's Paradise (Remastered 1999 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2TbQOjAog0PlzTM20EmK1k"
       },
       "artists": [
         {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
         }
       ],
-      "duration_ms": 430626,
-      "name": "Effi - Remastered",
-      "url": "https://open.spotify.com/track/0nIeaEyPJIixP1B73MTXpf"
+      "duration_ms": 420546,
+      "name": "I Can't Give You Anything But Love - Live At Smalls' Paradise, Harlem, NYC, 1957 / Remastered 1999 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4hQ9sApKQQj8fi1rzpJdke"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
+        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "\u00c1guia n\u00e3o come mosca",
+      "url": "https://open.spotify.com/track/1tvZSoGpCh7zklf0UNI7JL"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Brazilia",
+        "url": "https://open.spotify.com/album/4UGY1K9q2bYTW8qqvbfApd"
+      },
+      "artists": [
+        {
+          "name": "John Klemmer",
+          "url": "https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK"
+        }
+      ],
+      "duration_ms": 548066,
+      "name": "Brazilia (Brasilia)",
+      "url": "https://open.spotify.com/track/61cwJTjsCfQ7M8Aa9jcLWJ"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "The Complete Sarah Vaughan On Mercury (Vol.2)",
+        "url": "https://open.spotify.com/album/0pngVw4tVr6OXC3Zje1esU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Passing Strangers",
+      "url": "https://open.spotify.com/track/0DzrKs3NUQtGDQQ2Bs7ocb"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "More Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 343600,
+      "name": "Theme From Mr. Broadway",
+      "url": "https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3"
+    },
+    {
+      "added_at": "2023-08-25 18:36:09",
+      "album": {
+        "name": "The Fabulous Fats Navarro [Vol. 2 (Expanded Edition)]",
+        "url": "https://open.spotify.com/album/6bRXHpBlcUYcEjSlPO0T0o"
+      },
+      "artists": [
+        {
+          "name": "Howard McGhee",
+          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Boperation",
+      "url": "https://open.spotify.com/track/5XeXu59KGiFTRSfVugX8tA"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "The Ultimate Carmen McRae",
+        "url": "https://open.spotify.com/album/455LFcxO8aG4o1lKqQG3Qa"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 174994,
+      "name": "Life Is Just A Bowl Of Cherries",
+      "url": "https://open.spotify.com/track/29j6Pa2a4hSLznGWbLz3jQ"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Breezin'",
+        "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 418960,
+      "name": "Affirmation",
+      "url": "https://open.spotify.com/track/0lNaytiCORnMNZTEBQxlPv"
     }
   ],
-  "unique_name": "Alfa Mist Digs Jazz",
+  "unique_name": "Cautious Clay Digs Jazz",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTtzPKJEaTC4"
 }

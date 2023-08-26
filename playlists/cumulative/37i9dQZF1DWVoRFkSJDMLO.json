@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "129 Amoroso",
+        "url": "https://open.spotify.com/album/4PHZNx7oeAvBs1Q0BhjlR3"
+      },
+      "artists": [
+        {
+          "name": "Vanyfox",
+          "url": "https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164011,
+      "name": "129 Amoroso",
+      "url": "https://open.spotify.com/track/43ItcIzWuZOxlL3MIxWbBM"
+    },
+    {
+      "album": {
         "name": "16CHOPPA (feat. Nardo Wick)",
         "url": "https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk"
       },
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 152917,
       "name": "Clockwork (feat. Spice)",
       "url": "https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs"
@@ -3251,6 +3269,28 @@
     },
     {
       "album": {
+        "name": "Enjoy That",
+        "url": "https://open.spotify.com/album/77gBpDJwRBd1edfN7xxsNw"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Mr Brown",
+          "url": "https://open.spotify.com/artist/4r2bAXksMyEjl3VoxJBw4c"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276106,
+      "name": "Enjoy That - Remix",
+      "url": "https://open.spotify.com/track/1daeMUyT9Tt7KTTjA50wQ5"
+    },
+    {
+      "album": {
         "name": "Eye Contact",
         "url": "https://open.spotify.com/album/4ps2MVdpcQA3ng2SaigAyZ"
       },
@@ -3408,7 +3448,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 173697,
       "name": "Final Feliz",
       "url": "https://open.spotify.com/track/1PAUJoxklhLNqzDPHWYJPx"
@@ -6610,6 +6650,28 @@
       "duration_ms": 201200,
       "name": "Mera Na",
       "url": "https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4"
+    },
+    {
+      "album": {
+        "name": "Meridian",
+        "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
     },
     {
       "album": {
@@ -9884,7 +9946,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 180000,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/61sacjOcCfP3tlOa1INCKz"
@@ -11779,6 +11841,24 @@
     },
     {
       "album": {
+        "name": "Beauty & Bliss",
+        "url": "https://open.spotify.com/album/5BI0Q6nFg6TkkMUzlg62dL"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206897,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/01wKrQDWcFwdWgwFR3Lpyy"
+    },
+    {
+      "album": {
         "name": "Waiting In Vain (Feat. Tiwa Savage)",
         "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
       },
@@ -11946,7 +12026,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 108975,
       "name": "We a Run E Grung - Remix",
       "url": "https://open.spotify.com/track/2pWpmS722XsVz1IVDlKtGw"

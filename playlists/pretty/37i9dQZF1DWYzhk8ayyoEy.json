@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart. Cover: Lauren Daigle",
-  "num_followers": 21090,
+  "num_followers": 21185,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmEwMjFiNWI1YjYyZjMwMTk0MGVkZWI4NDNiMTA3NTU3NWI1ZTNh",
+  "snapshot_id": "MCxiZjllNWJlNWJlOWYwNGU1Y2YwNzgwMzJkZTU2YTVjMzEwODU1ZWQ2",
   "tracks": [
     {
       "added_at": "2023-08-16 18:31:15",
@@ -211,6 +211,26 @@
       "duration_ms": 173701,
       "name": "So Will I",
       "url": "https://open.spotify.com/track/2MH8nFkQQgVqwr6w6jEPIr"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "One Nation Under Love",
+        "url": "https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        },
+        {
+          "name": "Diane Warren",
+          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
+        }
+      ],
+      "duration_ms": 239711,
+      "name": "One Nation Under Love",
+      "url": "https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO"
     },
     {
       "added_at": "2023-08-16 18:31:15",

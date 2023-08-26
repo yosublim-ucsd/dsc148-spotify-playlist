@@ -17809,6 +17809,24 @@
     },
     {
       "album": {
+        "name": "DOMINO",
+        "url": "https://open.spotify.com/album/1GcgVIOWktZwAEHh7RKENo"
+      },
+      "artists": [
+        {
+          "name": "Diners",
+          "url": "https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152110,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/0a5fTiH4xSCrnePP16HaTV"
+    },
+    {
+      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/0D4XIOjppjGfxAbO9gNdZ4"
       },
@@ -17820,7 +17838,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 152110,
       "name": "The Power",
       "url": "https://open.spotify.com/track/6XW1Ti8owM40lIAOdBLKdB"

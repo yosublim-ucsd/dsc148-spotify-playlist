@@ -4,7 +4,7 @@
 
 > Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-86 songs - 5 hr 26 min
+87 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Surfin' Java](https://open.spotify.com/track/1gZilfYqLdnpOtc33O2OyM) | [The Mentawais](https://open.spotify.com/artist/0hj0i2IkfZpSCUPPFqVMhR) | [Surfin' Java](https://open.spotify.com/album/3uT9x3fRiGdHWWsH59yOvG) | 3:25 | 2023-03-16 |  |
 | [Tampar](https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tampar](https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz) | 3:22 | 2023-03-16 |  |
 | [Tarik Ulur](https://open.spotify.com/track/7HBnW7E26egSo7p7DWs9XH) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Tarik Ulur](https://open.spotify.com/album/3nOtvP5lymtIrN6UT4M3kC) | 3:41 | 2023-03-16 |  |
+| [Tennessee Whiskey](https://open.spotify.com/track/1JSdMw0R2EIFpxMWX2ImNA) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Tennessee Whiskey](https://open.spotify.com/album/0WNnkenw79b5b9KWSuwXj7) | 4:08 | 2023-08-25 |  |
 | [Terdekap](https://open.spotify.com/track/5S6cVtlp3coBjEpjPnoi1A) | [Vhal Rasyid](https://open.spotify.com/artist/5eob7yaLtq4uMma1mJWVjk) | [Terdekap](https://open.spotify.com/album/10iZrxVkJJYwQ21NCumMGG) | 4:54 | 2023-03-16 |  |
 | [Terlalu Bodoh Untuk Bandung](https://open.spotify.com/track/128R9AyKcPSkVn5oxt5L0M) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Upaya Memaki](https://open.spotify.com/album/48pEKNlOxW5oHF6bpk5EbT) | 1:29 | 2023-03-16 |  |
 | [The Enemy of Earth is You](https://open.spotify.com/track/18KnqQPHFwv4tBwtMEE9st) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [RETAS](https://open.spotify.com/album/1U3RzGU6OczSkzD0zB9Jrp) | 3:35 | 2023-07-13 |  |

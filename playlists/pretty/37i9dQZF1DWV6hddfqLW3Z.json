@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 774953,
+  "num_followers": 775171,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWNlMGQzMDE2ODhjMzM2MGIxNjZlODM2OGIxZDY2MjA2NGNjZWI1",
+  "snapshot_id": "MCxhN2UyZWQ0YjU0MTAwNDc1YzNjYTM4Yzg4NWJkNmRlZWI4OWQzZDg0",
   "tracks": [
     {
       "added_at": "2023-07-14 17:19:14",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-07-14 17:19:14",
       "album": {
-        "name": "Coisa de Acender",
-        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "Se...",
-      "url": "https://open.spotify.com/track/0PgsB53yhlKs8D19LgYU4i"
-    },
-    {
-      "added_at": "2023-07-14 17:19:14",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 257644,
       "name": "Dizeres",
       "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
+    },
+    {
+      "added_at": "2023-07-14 17:19:14",
+      "album": {
+        "name": "Coisa de Acender",
+        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "Se...",
+      "url": "https://open.spotify.com/track/0PgsB53yhlKs8D19LgYU4i"
     },
     {
       "added_at": "2023-07-14 17:19:14",

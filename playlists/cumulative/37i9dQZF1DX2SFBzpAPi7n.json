@@ -3993,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "let it be summer",
+        "url": "https://open.spotify.com/album/6jOd9PTE8cu0s7s9pqYN0Y"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194546,
+      "name": "let it be summer",
+      "url": "https://open.spotify.com/track/19PusCmhiWHG4UN5lAeRp0"
+    },
+    {
+      "album": {
         "name": "The Volunteers",
         "url": "https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD"
       },
@@ -6846,7 +6864,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 176511,
       "name": "Skybound",
       "url": "https://open.spotify.com/track/0eKamTuaPWwfx50HcGc1RD"
@@ -7110,7 +7128,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 200581,
       "name": "Sour",
       "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
@@ -9126,6 +9144,24 @@
       "duration_ms": 272946,
       "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
       "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
+    },
+    {
+      "album": {
+        "name": "You're Beautiful",
+        "url": "https://open.spotify.com/album/1WAhLhtqvSSjspHe2kzYhF"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235175,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn"
     },
     {
       "album": {

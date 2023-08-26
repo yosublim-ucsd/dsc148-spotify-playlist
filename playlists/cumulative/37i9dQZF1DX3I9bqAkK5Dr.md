@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-141 songs - 8 hr 34 min
+142 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Komali Vasudev](https://open.spotify.com/track/50jK4YEhyOGoDHwYeqZWHC) | [Ishaq vali](https://open.spotify.com/artist/7oATc2KjTVSvRVZ8YKvOGT), [Teju R](https://open.spotify.com/artist/67CmWTS4uKxctqM84CubZV) | [Komali Vasudev](https://open.spotify.com/album/3YamZq9BPe4rwfek4oG7It) | 4:52 | 2023-07-15 |  |
 | [Kshaminchu](https://open.spotify.com/track/5G89DVcOn5QTEVpMkGYy9r) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kshaminchu](https://open.spotify.com/album/2nJw0xoADsiArs35oUZSiz) | 2:19 | 2023-06-19 |  |
 | [Ku Koohu Koyila](https://open.spotify.com/track/3OwBhidXF0tDdojn0h67jg) | [Baloo Spicy](https://open.spotify.com/artist/5t1t4c1r5z1QuMaxIhVPh7) | [Ku Koohu Koyila](https://open.spotify.com/album/1nyHioOCsCpgajIZQqYwPl) | 4:34 | 2023-05-08 |  |
-| [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2022-07-18 |  |
+| [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2022-07-18 | 2023-08-26 |
 | [Laya](https://open.spotify.com/track/74x8AK6doFpc9hXiPolBay) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Laya](https://open.spotify.com/album/5upnKToHtUzOuHz9BrbhIK) | 2:35 | 2023-02-03 | 2023-05-27 |
 | [Lollipop](https://open.spotify.com/track/5ZtrYdXOsYCRLXuGKR7nt6) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Lollipop](https://open.spotify.com/album/40SOtgPjx3Ic3fI6wig7Qs) | 5:29 | 2022-07-18 | 2023-05-23 |
 | [London Bridge](https://open.spotify.com/track/1BI8mlQUJIEivinIuLKPkt) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3), [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX) | [London Bridge](https://open.spotify.com/album/5XOL1zvVGNrsQsIPmtZWUL) | 2:05 | 2023-05-18 | 2023-07-04 |
@@ -109,6 +109,7 @@
 | [Pada Pada](https://open.spotify.com/track/3k9ea76NrDYX68bBIaETcU) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Pada Pada](https://open.spotify.com/album/0Z2Rpy6uXsEn36qSl1LJnl) | 4:03 | 2023-08-04 |  |
 | [Padessave Pilla](https://open.spotify.com/track/3rXoZn6p4OY6gYqPV9A9ko) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkat Chaitanya](https://open.spotify.com/artist/2GNR01LjMoSuhvp4GSuFX8), [Vijay Bhanu](https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO) | [Padessave Pilla](https://open.spotify.com/album/58o4XflfE94ZzJlU7iySkA) | 3:06 | 2023-04-06 |  |
 | [Panipuri Anthem](https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Panipuri Anthem](https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB) | 1:57 | 2023-02-11 |  |
+| [Pedavi Pilichina](https://open.spotify.com/track/2zXqqPBkjIlDvPUgPqCSPN) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Siddiq Ansari](https://open.spotify.com/artist/5P0itn2JRIjugxZgkORwmu) | [Pedavi Pilichina](https://open.spotify.com/album/3F9xcIaNEgIVQUcBWJvu2e) | 3:49 | 2023-08-25 |  |
 | [People](https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP) | [TES](https://open.spotify.com/artist/45bO8rTZ9fQrxXPWBvGiwZ), [EDWRLDMUSICK](https://open.spotify.com/artist/0GvRLozNftPCJkoE2DTrF5) | [People](https://open.spotify.com/album/0wTFhT4m7lLa5ti4p26iiW) | 2:25 | 2023-03-31 | 2023-05-23 |
 | [Podhe Vallipothunde](https://open.spotify.com/track/1ARdPomFAk2WwsauwNFw7t) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Podhe Vallipothunde](https://open.spotify.com/album/5IS01NVb2O8VRO1roXOleu) | 3:21 | 2023-07-08 | 2023-08-19 |
 | [Pogachure](https://open.spotify.com/track/0pBh8kUlaRDWFxl8E88ozl) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC) | [Pogachure](https://open.spotify.com/album/1C5OW4HkbAZWLvYhFpctzd) | 4:04 | 2023-08-18 |  |

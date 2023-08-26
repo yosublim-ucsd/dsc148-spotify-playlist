@@ -2,9 +2,9 @@
 
 ### [Street Soul](https://open.spotify.com/playlist/37i9dQZF1DWTplaZ1W7ARf)
 
-> Neighborhood Storytellers\. Cover: Rylo Rodriguez
+> Neighborhood Storytellers\. Cover: Dee Baby
 
-216 songs - 10 hr 52 min
+217 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Cold December](https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Cold December](https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K) | 3:12 | 2022-01-21 | 2022-08-13 |
 | [Congratulations](https://open.spotify.com/track/1UWwGCTP14FDO3N1B7EUQ7) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [DJ ESCO](https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [FACE \(Deluxe Edition\)](https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth) | 3:25 | 2022-05-20 | 2023-02-04 |
 | [crash the party](https://open.spotify.com/track/0WtWtk7D05LELKQk0q8FMC) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:06 | 2021-12-17 | 2022-08-06 |
-| [Da Rant](https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Da Rant](https://open.spotify.com/album/53jD3cyaN4StX9Vo0EV4dw) | 4:02 | 2022-12-16 |  |
+| [Da Rant](https://open.spotify.com/track/6N8OxmReKE2Qg0SY2x6gDD) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Da Rant](https://open.spotify.com/album/53jD3cyaN4StX9Vo0EV4dw) | 4:02 | 2022-12-16 | 2023-08-26 |
 | [Dancing With The Devil, Pt\. 2](https://open.spotify.com/track/2laOkDCyIDDmXxtGqrql6V) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Summer's Mine](https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS) | 3:36 | 2023-07-21 |  |
 | [Dead Wrong \(feat\. Future\)](https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Bigger Than Life Or Death \(Deluxe\)](https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA) | 2:53 | 2021-12-17 | 2022-08-06 |
 | [Deadicated](https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Deadicated](https://open.spotify.com/album/6NaFv2sq5u2mDT2R8rA7E2) | 3:21 | 2023-02-10 |  |
@@ -61,6 +61,7 @@
 | [Evil](https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Evil](https://open.spotify.com/album/5X8WNJ9F7SmfCXjC19I2e0) | 2:19 | 2022-02-04 | 2022-08-27 |
 | [Exhausted \(feat\. Kevin Gates\)](https://open.spotify.com/track/0tqyIjrOmExO9gami8xcu1) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Exhausted \(feat\. Kevin Gates\)](https://open.spotify.com/album/4gTqOoZiGwduER0dqgPdJo) | 2:37 | 2023-02-03 |  |
 | [Eyes Open \(feat\. Lil Baby & Young Thug\)](https://open.spotify.com/track/0va4UcIcxAOf4yVpxGQWSa) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2 Get You Thru The Rain](https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji) | 3:22 | 2021-12-10 | 2022-06-04 |
+| [Fake Shit](https://open.spotify.com/track/69xF6AQX3SZ4GHuANZO5WX) | [Anthony Q.](https://open.spotify.com/artist/2pae36JwIwwS5a9G0qqI82), [Prestige](https://open.spotify.com/artist/2WrKFd7wtMKWBrwa9AOHlB) | [Fake Shit](https://open.spotify.com/album/40wbty0uARaSWDJ2NaMEmm) | 2:59 | 2023-08-25 |  |
 | [Federal Nightmares](https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:31 | 2022-03-11 | 2022-10-01 |
 | [Feel This Way](https://open.spotify.com/track/0jYpNETYGOMvFvEIhXgmhA) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Feel This Way](https://open.spotify.com/album/0YIBIawpHrHSaZEhy4MDNB) | 2:42 | 2023-06-30 |  |
 | [Feelin Like Rylo](https://open.spotify.com/track/2CXIvdXp0IC6KrNHXNuDzz) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:25 | 2022-04-10 | 2022-10-01 |
@@ -91,7 +92,7 @@
 | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/track/1Um0VBEUksMQfbeHOaDcrv) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Heaven For Thugs \(Letter to Wap\)](https://open.spotify.com/album/5DJezMQf5AEqwXDZhJrLbI) | 6:30 | 2022-10-14 | 2022-12-17 |
 | [Hell](https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:19 | 2022-09-09 | 2023-07-15 |
 | [Hell](https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hell](https://open.spotify.com/album/1F5dynTBqwMT46sY4OcvO6) | 2:19 | 2022-09-09 | 2022-10-22 |
-| [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 | 2023-08-18 |  |
+| [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 | 2023-08-18 | 2023-08-26 |
 | [Hollywood Hills](https://open.spotify.com/track/1UpELy8EIVtIJnvg5rmd5x) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Hollywood Hills](https://open.spotify.com/album/4ewwU60N1DslkeRHV4hRBB) | 2:14 | 2022-02-18 | 2022-08-20 |
 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 | 2022-08-05 | 2023-07-08 |
 | [Hopeless Island](https://open.spotify.com/track/6c0KBEx6B7qQDx53Y0FlQx) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Hopeless Island](https://open.spotify.com/album/4EFEB8u3JIaK4wy4NEHcdR) | 2:29 | 2023-07-14 |  |
@@ -126,7 +127,7 @@
 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 | 2021-06-04 | 2022-01-29 |
 | [Me First](https://open.spotify.com/track/5hT0mnDTVjyIsnBjXc3X0Q) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Me First](https://open.spotify.com/album/6PtlmGYKfyGEMi9Q9OtzmR) | 2:57 | 2023-02-17 |  |
 | [Me, Myself & I \(with A Boogie wit da Hoodie\)](https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me, Myself & I](https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL) | 3:41 | 2022-09-09 | 2023-06-24 |
-| [Miss My Dawgs \(with Lil Wayne\)](https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Miss My Dawgs](https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a) | 2:43 | 2022-12-09 |  |
+| [Miss My Dawgs \(with Lil Wayne\)](https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Miss My Dawgs](https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a) | 2:43 | 2022-12-09 | 2023-08-26 |
 | [Miss U Already \(feat\. NoCap\)](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 | 2022-12-09 | 2023-07-29 |
 | [Missing Something](https://open.spotify.com/track/6nb42AwSexz0HPLcWK4yFx) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Missing Something](https://open.spotify.com/album/0joh96R5NbQ8U4Seyw6F6b) | 2:51 | 2021-10-29 | 2022-03-05 |
 | [Mud Baby](https://open.spotify.com/track/4r2zX0usg7evmM4lzxiiY4) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv) | [Mud Baby](https://open.spotify.com/album/4LxpOCez3cFyGXLqJKDiYv) | 2:32 | 2022-01-28 | 2022-08-13 |

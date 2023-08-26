@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Duncan Laurence
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,389 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,390 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [Stolen Moments](https://open.spotify.com/track/01A4youwmsFnrTMXd1r3uV) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Stolen Moments](https://open.spotify.com/album/6QtTNlxnp9AAadwv4qIFGw) | 4:48 |
 | 100 | [WHEN IT HURTS](https://open.spotify.com/track/3AOHXWSY2iFEXPpIwLfYcP) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:01 |
 
-Snapshot ID: `MCw4MzAyNmJlZmVmMzVhODkyOTFmMjI0ODBhZDgxNjJhODdlZWNjOThj`
+Snapshot ID: `MCwwNTU0OTU1NzZiNzRlZmMzY2I5MzYxNzJmMDg1ZjUzNmU4ZWI3NDZj`

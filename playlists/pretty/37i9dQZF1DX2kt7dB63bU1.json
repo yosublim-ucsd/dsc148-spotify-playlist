@@ -1,28 +1,84 @@
 {
   "description": "Jazz voices of today. Cover: Laufey",
-  "num_followers": 129073,
+  "num_followers": 129129,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTJmMzg0ZGYyNTg5YWFkZjgxODkyNWVkZTNiZTU1ODZmYThkNGYz",
+  "snapshot_id": "MCwyMWQ3OWNkZWQ1ZGNmMzgzNTI3ODNlNTM3YzI5ODg4MDg0MTZhZGU2",
   "tracks": [
     {
-      "added_at": "2023-07-28 04:01:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp"
+        "name": "California and Me",
+        "url": "https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x"
       },
       "artists": [
         {
           "name": "Laufey",
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
-      "duration_ms": 246693,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
+      "duration_ms": 216306,
+      "name": "California and Me",
+      "url": "https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Streets Of Philadelphia",
+        "url": "https://open.spotify.com/album/1aU3vWkTS7Ej9VEtueevrV"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 320893,
+      "name": "Streets Of Philadelphia",
+      "url": "https://open.spotify.com/track/3sFuasoQLakdxnTh3vJ5ix"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Walking",
+        "url": "https://open.spotify.com/album/32TQtrXkhHJDN1LKaIYRlr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 311917,
+      "name": "Walking",
+      "url": "https://open.spotify.com/track/1xGKhNKnV4mBoFBdQ5XlnI"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -125,36 +181,20 @@
       "url": "https://open.spotify.com/track/0ZkpaZtDYH1ibxz3rfXApD"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
+      "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Venas",
-        "url": "https://open.spotify.com/album/5tQyYsOD3EzLEFP5yKF7P7"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp"
       },
       "artists": [
         {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        },
-        {
-          "name": "Jonathan Michel",
-          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 225417,
-      "name": "Venas",
-      "url": "https://open.spotify.com/track/74BRdmhoM9hJflGJHpyVhe"
+      "duration_ms": 246693,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -171,26 +211,6 @@
       "duration_ms": 134987,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/7ivKNAmR9kyuWNIDqZ09n3"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 293973,
-      "name": "Chicago Blues",
-      "url": "https://open.spotify.com/track/0XA8HGtG7ypDQVdv1utqtP"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -351,22 +371,6 @@
       "duration_ms": 290381,
       "name": "Rainbow Forest - Single Edit",
       "url": "https://open.spotify.com/track/3vojevi84qhWYeWEecPjSV"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
     },
     {
       "added_at": "2023-07-14 04:01:00",

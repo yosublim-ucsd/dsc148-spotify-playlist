@@ -1,12 +1,12 @@
 {
   "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO?si=fFDFQ_BNT2CSFQw_Mhy2iA\">Juanita du Plessis</a> ",
-  "num_followers": 12305,
+  "num_followers": 12381,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2NjZTg0ZWEzNmFkMGEzZDI5M2M1NTM0OTJiYTk5YWExYjViOWZh",
+  "snapshot_id": "MCwwYzNkZWJhMTdhNmQxMzg1OWFjNDkyZDI1ODliMjdjNzI5ODg0OGNm",
   "tracks": [
     {
       "added_at": "2023-08-24 21:59:00",
@@ -343,6 +343,38 @@
       "duration_ms": 230163,
       "name": "Boer In My Hart",
       "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
+    },
+    {
+      "added_at": "2023-08-25 10:13:28",
+      "album": {
+        "name": "Net 'N Bietjie Tyd",
+        "url": "https://open.spotify.com/album/56vCY9k5aZrNhX8JrQIARF"
+      },
+      "artists": [
+        {
+          "name": "Lila Swift",
+          "url": "https://open.spotify.com/artist/3lDhZhZ9p1kjMRqzCpnMCo"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Net 'N Bietjie Tyd",
+      "url": "https://open.spotify.com/track/2Edk4u9DDvSGpHo18sZtgx"
+    },
+    {
+      "added_at": "2023-06-08 21:59:00",
+      "album": {
+        "name": "Wil Jy Bly",
+        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "duration_ms": 187391,
+      "name": "Wil Jy Bly",
+      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
     },
     {
       "added_at": "2023-08-24 21:59:00",
@@ -745,22 +777,6 @@
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
     },
     {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Laat Dit Goed Gaan",
-        "url": "https://open.spotify.com/album/4Rui2fGJkpnGuy9dGFBcVf"
-      },
-      "artists": [
-        {
-          "name": "Marissa",
-          "url": "https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6"
-        }
-      ],
-      "duration_ms": 216687,
-      "name": "Laat Dit Goed Gaan",
-      "url": "https://open.spotify.com/track/1E1Xd3DxRitNhh6rf2JTUf"
-    },
-    {
       "added_at": "2023-06-08 21:59:00",
       "album": {
         "name": "Lawaaiwater",
@@ -791,22 +807,6 @@
       "duration_ms": 230080,
       "name": "Koue Kole",
       "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
-    },
-    {
-      "added_at": "2023-06-08 21:59:00",
-      "album": {
-        "name": "Wil Jy Bly",
-        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 187391,
-      "name": "Wil Jy Bly",
-      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
     },
     {
       "added_at": "2023-05-18 21:59:00",

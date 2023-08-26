@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 63994,
+  "num_followers": 64041,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTU2YTEzNjc0ZTIwMzJkOTI3NzhiNWMxMGQ3ZTEyZjJjMzI1NGJl",
+  "snapshot_id": "MCxjNDM0YjdiZDE2NGU0YjU4OGM2MjM0MmYzNjBiYzI3ODY1NzU0OTA3",
   "tracks": [
     {
       "added_at": "2023-08-23 04:47:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
+        "name": "Kahaani",
+        "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "Anirban Chowdhury",
+          "url": "https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
+    },
+    {
+      "added_at": "2023-08-03 08:29:31",
+      "album": {
         "name": "Krishna Murari",
         "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
       },
@@ -945,24 +965,24 @@
       "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
     },
     {
-      "added_at": "2023-08-03 08:29:31",
+      "added_at": "2023-08-24 12:49:56",
       "album": {
-        "name": "Kahaani",
-        "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
+        "name": "Goldfish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
       },
       "artists": [
         {
-          "name": "Santanu Ghatak",
-          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+          "name": "Tapas Relia",
+          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
         },
         {
-          "name": "Anirban Chowdhury",
-          "url": "https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w"
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
         }
       ],
-      "duration_ms": 243750,
-      "name": "Kahaani",
-      "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
+      "duration_ms": 201230,
+      "name": "Piya Padh Lena",
+      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -983,30 +1003,6 @@
       "duration_ms": 331293,
       "name": "My Heart, My Life",
       "url": "https://open.spotify.com/track/0Nq8jxV0GkB2IxrO19hbzU"
-    },
-    {
-      "added_at": "2023-08-03 08:29:31",
-      "album": {
-        "name": "Rang",
-        "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
-      },
-      "artists": [
-        {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
-        },
-        {
-          "name": "Kala Ramnath",
-          "url": "https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ"
-        },
-        {
-          "name": "Barry Phillips",
-          "url": "https://open.spotify.com/artist/1brcPh4P7zt4AU7MELrnqI"
-        }
-      ],
-      "duration_ms": 382666,
-      "name": "Yatra",
-      "url": "https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP"
     }
   ],
   "unique_name": "Fusion Finds",

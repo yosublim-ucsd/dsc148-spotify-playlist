@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Moderatto en portada.",
-  "num_followers": 502359,
+  "num_followers": 502543,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMThjZThmYjE2NTk0NWY1NDRiZjI5MTNlMzQ0ZWVmM2ZkNDEyODQ4",
+  "snapshot_id": "MCw4YjQ0ZjIxZTg4MjdkNTM1ZjE4MjJhYzAyZDhjOTlhMTBjNDJhZDE5",
   "tracks": [
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
-        "name": "Globoscopio",
-        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
-      },
-      "artists": [
-        {
-          "name": "Azul Violeta",
-          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
         "name": "Lo Mejor de Tex Tex",
         "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 254275,
       "name": "Un Toque M\u00e1gico",
       "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
+        "name": "Globoscopio",
+        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
+      },
+      "artists": [
+        {
+          "name": "Azul Violeta",
+          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
+        }
+      ],
+      "duration_ms": 273266,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
     },
     {
       "added_at": "2023-08-04 20:21:55",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-08-04 20:21:55",
       "album": {
+        "name": "Volovan",
+        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Ella Es Azul",
+      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
+    },
+    {
+      "added_at": "2023-08-04 20:21:55",
+      "album": {
         "name": "El \u00daltimo Ska",
         "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
-    },
-    {
-      "added_at": "2023-08-04 20:21:55",
-      "album": {
-        "name": "Volovan",
-        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Ella Es Azul",
-      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
     },
     {
       "added_at": "2023-08-04 20:21:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: SOFT PLAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,472 likes - 124 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,589 likes - 124 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 123 | [LIKED U BETTER](https://open.spotify.com/track/5RxT0AN9dOEzqFTd9NHPsI) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [LIKED U BETTER](https://open.spotify.com/album/3x4FJNVhKCqmqpIbGsInlz) | 2:49 |
 | 124 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 |
 
-Snapshot ID: `MCw3OGM4NDllNzEyOWNmNWIyNWI4NzJiNTU0ZmFlMzMwYzg1MWIxODJl`
+Snapshot ID: `MCw4ZGU3YTJhMzllMGZjNTFiNDI2YjBjMjlkY2RhY2UxNzE4NzViNDcx`

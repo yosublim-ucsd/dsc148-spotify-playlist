@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-770 songs - 1 day 19 hr 16 min
+771 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,7 @@
 | [יום חדש](https://open.spotify.com/track/3z2xDkd4Bz0y3Teh4RZOWz) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ברוכים הבאים לפתח תקוה](https://open.spotify.com/album/1egE5NfiejbJB9tUclCEdN) | 3:28 | 2021-05-15 | 2021-05-21 |
 | [יום חדש](https://open.spotify.com/track/4mRreSUqP7waa2jT5ul41T) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ברוכים הבאים לפתח תקוה](https://open.spotify.com/album/3lg5JGBlIiGeMbRwSh53hS) | 3:28 | 2023-05-20 | 2023-06-10 |
 | [יותר חזק מה?](https://open.spotify.com/track/4C7X3ja0DeTxMaTQJXtQ8W) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [יותר חזק מה?](https://open.spotify.com/album/0r3z6vvJSpUWhMHLWgbJj1) | 2:19 | 2022-09-06 | 2022-10-02 |
-| [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 |  |
+| [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 | 2023-08-26 |
 | [ילד מטריה](https://open.spotify.com/track/29ZGOiRf0t8zjvz5JwwdM4) | [עטרה אוריה](https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R) | [ילד מטריה](https://open.spotify.com/album/0RMHBV15CrRX9qvub7MjwN) | 3:10 | 2023-07-22 |  |
 | [ים הרחמים](https://open.spotify.com/track/5OLFgqtdjdZJVByMwUEZfg) | [Kobi Aflalo](https://open.spotify.com/artist/0xYY2tRJGTvQC6rPjk758w) | [בא מן השתיקה](https://open.spotify.com/album/5KsNUKsnSKIrYH8X23Ykgi) | 3:59 | 2023-04-26 | 2023-04-28 |
 | [יצאה שבת](https://open.spotify.com/track/4f15d7Qc81qw4LKMAQhfYz) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 3:08 | 2023-06-02 |  |
@@ -586,7 +586,7 @@
 | [לילה מעדן](https://open.spotify.com/track/0VNXir4ftFjNOImLvsO9fR) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [לילה מעדן](https://open.spotify.com/album/44okB4A8LuWSPaVxYQsuci) | 2:16 | 2021-08-11 | 2021-09-15 |
 | [לילה מעדן](https://open.spotify.com/track/2uclMNfRqdoU5BJXUhHyNL) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [לילה מעדן](https://open.spotify.com/album/253Y1dAIszh0O8by4oa9dL) | 2:16 | 2021-08-08 | 2021-08-11 |
 | [ליצן קטן נחמד](https://open.spotify.com/track/4IFQD1thQ2rgSgt5rXXqqp) | [Ruchama Raz](https://open.spotify.com/artist/0kxMDgFDfRYyqs91HfrXIk) | [אני פורים \(30 שירי פורים לילדים\)](https://open.spotify.com/album/5fOyUcc2jBKDeBF21l6c2I) | 0:56 | 2022-03-16 | 2023-03-08 |
-| [לירז](https://open.spotify.com/track/50uspwzqbMxkpyHzMLwUVy) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 3:15 | 2023-02-23 | 2023-08-19 |
+| [לירז](https://open.spotify.com/track/50uspwzqbMxkpyHzMLwUVy) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 3:15 | 2023-02-23 |  |
 | [לך אלי](https://open.spotify.com/track/78mgH95nOBPj7gjwP5pOtU) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:40 | 2022-10-05 | 2022-10-07 |
 | [לך אלי](https://open.spotify.com/track/27Sd1OtzjDaGURaArp3ssz) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU) | [שמע קולי](https://open.spotify.com/album/0DeZnWXy1VdVmbZHyzfmnk) | 5:47 | 2022-05-05 | 2022-05-07 |
 | [לך לישון](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [לך לישון](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) | 2:38 | 2022-01-08 | 2023-01-10 |
@@ -665,6 +665,7 @@
 | [סחרחורת](https://open.spotify.com/track/5CCxCzPB3HMh595Y1MNIm5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [טונהפארק](https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv) | 4:13 | 2022-10-16 | 2023-06-13 |
 | [סחרחורת & בדד](https://open.spotify.com/track/7lwBfnN8IVlP6WW702pGH0) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [סחרחורת & בדד](https://open.spotify.com/album/0C18PN7xHyX9IVbn49CDKz) | 6:01 | 2021-09-24 | 2022-01-15 |
 | [סטאי / אתה שלי \(חלק 1\)](https://open.spotify.com/track/768Vu2KbeWeRY0TOjBHtOO) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [סטאי / אתה שלי \(חלק 1\)](https://open.spotify.com/album/2pdJON2v3BiSLNw7DYe1dn) | 2:19 | 2023-08-05 | 2023-08-13 |
+| [סטלות](https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סטלות](https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn) | 3:57 | 2023-08-25 |  |
 | [סיבובים](https://open.spotify.com/track/21qCzrANOK7gB0KPoNE1zP) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סיבובים](https://open.spotify.com/album/2XvWTVqWWjPXnkAjeH19pK) | 3:05 | 2021-03-27\* | 2021-10-17 |
 | [סיבת הסיבות](https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [סיבת הסיבות](https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3) | 3:19 | 2021-03-27\* | 2022-10-07 |
 | [סיגליות](https://open.spotify.com/track/3Q6d64XJr20cHQtRd07YGj) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 3:34 | 2023-06-15 | 2023-08-22 |
@@ -684,7 +685,7 @@
 | [עומס לב & Views](https://open.spotify.com/track/3ez2Vwn4Dd8UmPxviNalrn) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [עומס לב & Views](https://open.spotify.com/album/4UThawDvsFczcYnKAGZfuj) | 3:53 | 2022-10-11 | 2022-11-14 |
 | [עושה לי צרות](https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [עושה לי צרות](https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR) | 2:38 | 2022-05-24 |  |
 | [עזבי](https://open.spotify.com/track/6EVRPTFEzBFCGDy8w0Omow) | [מיה סולימן](https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR) | [עזבי](https://open.spotify.com/album/2wLbFgdkngszVgQIIsCUHj) | 2:15 | 2023-01-12 | 2023-01-22 |
-| [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 | 2023-08-20 |  |
+| [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 | 2023-08-20 | 2023-08-26 |
 | [עזוב אותי מטכנו](https://open.spotify.com/track/1st1G4ms39bWno8xaL4wrA) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [עזוב אותי מטכנו](https://open.spotify.com/album/5oZnwfuyRItVUtzuAbsHM7) | 2:12 | 2022-07-19 | 2022-08-17 |
 | [עזוב אותי מטכנו](https://open.spotify.com/track/2re0QWv8k08Z3bwDJeaEEp) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [צעירים לנצח](https://open.spotify.com/album/4E4nh3xQi6MjBGHzZVO1bB) | 2:12 | 2022-08-16 | 2022-08-30 |
 | [עזוב אותי מטכנו](https://open.spotify.com/track/3V6HZxYj1rrGYhXvapbqUJ) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [צעירים לנצח](https://open.spotify.com/album/76W6BpWOTeWeD9zWc1weEb) | 2:12 | 2022-07-21 | 2022-07-23 |

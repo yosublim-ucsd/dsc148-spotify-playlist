@@ -7272,7 +7272,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 153250,
       "name": "f\u00fcr immer aber nicht f\u00fcr jetzt (baumwall)",
       "url": "https://open.spotify.com/track/2BfqcEI98b5QSvZuYMP4H1"
@@ -13181,6 +13181,28 @@
     },
     {
       "album": {
+        "name": "Musik an, Welt aus Tape",
+        "url": "https://open.spotify.com/album/5kqM78MuXcctyZHT2G0BHL"
+      },
+      "artists": [
+        {
+          "name": "Akutkarl",
+          "url": "https://open.spotify.com/artist/2vPC9V7lUTVG0iGwztvWWz"
+        },
+        {
+          "name": "DJ Test\u00f6",
+          "url": "https://open.spotify.com/artist/5IDfYJZqdTt1pnOyol6JIJ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "Montag",
+      "url": "https://open.spotify.com/track/1aWcCv2d71eilvrUDNPwJr"
+    },
+    {
+      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
       },
@@ -19074,6 +19096,28 @@
       "duration_ms": 120813,
       "name": "Summer Is Over",
       "url": "https://open.spotify.com/track/0pNixXwlBegpoAwQYSjvLK"
+    },
+    {
+      "album": {
+        "name": "summer nights",
+        "url": "https://open.spotify.com/album/6xJH3yzyCyjhQhtbd1OszL"
+      },
+      "artists": [
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        },
+        {
+          "name": "Beyazz",
+          "url": "https://open.spotify.com/artist/1U0pXcl8GZlZ48jTgnpGHl"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "summer nights",
+      "url": "https://open.spotify.com/track/2Jh95xSdz3H1WYiUJD1EFM"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 322372,
+  "num_followers": 322541,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWJlNmFmM2YzNzM3NGYxMDczYTU0YTUzMjdhZTNkYjVlZWY0ODAx",
+  "snapshot_id": "MCwwNGQ3Y2E1NjZjYmY1YWRhM2I4YTE4ODgxMmIzMDA1ZjcwYjljYjNm",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
     },
     {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Othona",
+        "url": "https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5"
+      },
+      "artists": [
+        {
+          "name": "Dark Sky",
+          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT"
+    },
+    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -211,22 +227,6 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Othona",
-        "url": "https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5"
-      },
-      "artists": [
-        {
-          "name": "Dark Sky",
-          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -477,10 +477,10 @@
       "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
+      "added_at": "2022-10-14 13:00:12",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG"
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 351948,
-      "name": "Untravel",
-      "url": "https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v"
+      "duration_ms": 347981,
+      "name": "Vision of Self",
+      "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -561,10 +561,10 @@
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
     },
     {
-      "added_at": "2022-10-14 13:00:12",
+      "added_at": "2022-10-14 04:40:55",
       "album": {
-        "name": "Now Is",
-        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 347981,
-      "name": "Vision of Self",
-      "url": "https://open.spotify.com/track/1pbxHoGLKHD7jx4vMw5H2n"
+      "duration_ms": 351948,
+      "name": "Untravel",
+      "url": "https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -777,24 +777,20 @@
       "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
     },
     {
-      "added_at": "2022-03-30 02:55:24",
+      "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Point Zero",
-        "url": "https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI"
+        "name": "Winter's Lament",
+        "url": "https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC"
       },
       "artists": [
         {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Jim Doney",
-          "url": "https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 191746,
-      "name": "Dear Ko (To Ko the Regt)",
-      "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
+      "duration_ms": 170000,
+      "name": "Winter's Lament",
+      "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -813,20 +809,24 @@
       "url": "https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
+      "added_at": "2022-03-30 02:55:24",
       "album": {
-        "name": "Winter's Lament",
-        "url": "https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC"
+        "name": "Point Zero",
+        "url": "https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI"
       },
       "artists": [
         {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Jim Doney",
+          "url": "https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Winter's Lament",
-      "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"
+      "duration_ms": 191746,
+      "name": "Dear Ko (To Ko the Regt)",
+      "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
     },
     {
       "added_at": "2021-10-06 04:52:47",

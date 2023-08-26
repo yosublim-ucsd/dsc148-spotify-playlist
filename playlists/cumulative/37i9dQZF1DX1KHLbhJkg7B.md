@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-313 songs - 19 hr 34 min
+314 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [I'm No Stranger To The Rain](https://open.spotify.com/track/0hWE8Zp01Qey6oKvWUT44L) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [I'm No Stranger To The Rain](https://open.spotify.com/album/71xGK618KiRbOVZTyVd3H7) | 3:52 | 2021-12-10 | 2022-07-29 |
 | [I'm On Fire](https://open.spotify.com/track/7csCw7vTJbBKTxjyeBE3of) | [Jake Hoot](https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7) | [Fan Made Tapes](https://open.spotify.com/album/4XE4IEB228NFiz8wjvEPWq) | 3:24 | 2022-01-21 | 2022-07-15 |
 | [If I Can't Have You](https://open.spotify.com/track/2qmlRn3crX6OxoJuoDJMyq) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Copy That](https://open.spotify.com/album/2hWqaMLhAvTQRD85eNO10H) | 3:10 | 2021-12-10 | 2022-07-28 |
-| [If I Needed You](https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 3:12 | 2022-01-07 |  |
+| [If I Needed You](https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 3:12 | 2022-01-07 | 2023-08-26 |
 | [If I Were A Boy](https://open.spotify.com/track/31ULoPWd5SMnGsLEL9YQgh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 4:04 | 2022-05-06 | 2022-07-06 |
 | [If It Makes You Happy](https://open.spotify.com/track/30gZwjtb11DhFSnMYYeoZc) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [If It Makes You Happy](https://open.spotify.com/album/7ldbJFeq7hcpCJjQxYhZFd) | 4:59 | 2022-11-18 |  |
 | [If We Were Vampires](https://open.spotify.com/track/64PHZr3ufu3RxD9pE0ajJM) | [Motel Drive](https://open.spotify.com/artist/504hnDW2yy7YSCbyExbKmD), [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [If We Were Vampires](https://open.spotify.com/album/5DkrmJBS8N5ZAdEbQnrIBK) | 4:13 | 2022-09-16 | 2023-02-18 |
@@ -185,6 +185,7 @@
 | [Make Me Want To](https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Make Me Want To](https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU) | 2:55 | 2022-09-13 | 2023-01-01 |
 | [Make Me Want To](https://open.spotify.com/track/6N97FC8o9OKlHb5sT0NKna) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Little More Tequila](https://open.spotify.com/album/4A5deLd84PViQDMdC0Jzew) | 2:55 | 2023-02-10 | 2023-04-10 |
 | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/track/50yaJDcExOmFaKeyGOyRiE) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/album/0qqdReY9Phr0htx5Rn9F82) | 3:32 | 2022-03-11 | 2022-06-28 |
+| [Man Of Constant Sorrow](https://open.spotify.com/track/4CYckHP3FnrXCysqEavOd5) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Man Of Constant Sorrow](https://open.spotify.com/album/7jlzOCM6wAcFjOn0sQvrKj) | 3:34 | 2023-08-18 |  |
 | [Margaritaville \(with Jimmy Buffett\)](https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:15 | 2021-12-10 |  |
 | [Maybe It Was Memphis](https://open.spotify.com/track/6QIbHbEhnyNCZKaWEs65kB) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Slappers, Bangers & Certified Twangers, Vol\. 2](https://open.spotify.com/album/6JIvjLVu35EUL1tGaxfHIJ) | 4:38 | 2022-03-25 | 2022-04-19 |
 | [Maybe It Was Memphis](https://open.spotify.com/track/5vs2dB60aaLzNcU85zzOD0) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Maybe It Was Memphis](https://open.spotify.com/album/41YjhZQGLth2qkK9Q9zceI) | 4:21 | 2022-03-25 | 2022-07-09 |

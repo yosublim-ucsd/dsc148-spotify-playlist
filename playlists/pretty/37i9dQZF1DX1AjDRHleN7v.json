@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 277512,
+  "num_followers": 277548,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmM5MjBlZTJiYTg2Njc5YzRjZTVhYTNlNzBhNjBlMmNkNDE0MGQ4",
+  "snapshot_id": "MCxlMzdhNDZjMzU4YzEzOTJkYTY4NDQ5MzQ2ZjM1NTRiODRiNmYyZmIz",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
+        "url": "https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Nin-jitsu",
+          "url": "https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
+      "url": "https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 209971,
       "name": "Sol da Meia-Noite",
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
-        "url": "https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Nin-jitsu",
-          "url": "https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "Toda Molhada (Casa do Sol) - Ao Vivo 25 Anos",
-      "url": "https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun"
     },
     {
       "added_at": "2023-08-18 03:01:00",

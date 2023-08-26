@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-187 songs - 9 hr 1 min
+189 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Mere Wala Jatt](https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mere Wala Jatt](https://open.spotify.com/album/71mPX0HJuZ6FSJD7WNiTCi) | 3:43 | 2023-03-29 | 2023-04-27 |
 | [Miss India](https://open.spotify.com/track/25YxiGah27DBUtuxADIzug) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC), [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8), [Riyaaz](https://open.spotify.com/artist/7CpYGl06EZeQ7cQJ6lCTkq) | [Miss India](https://open.spotify.com/album/2jPAZcpRzdI7GIMThM56am) | 2:56 | 2023-04-17 | 2023-04-21 |
 | [Modern Mirza](https://open.spotify.com/track/20gi7fdusYZmDvsj8hBd3Z) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Modern Mirza](https://open.spotify.com/album/2Dnw9FRBqVGdmKpwuVCLJa) | 3:33 | 2023-03-29 | 2023-07-15 |
+| [Mosh Pit](https://open.spotify.com/track/7nxnkCT2RTeXVJoV02sPGs) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [KRN Walia](https://open.spotify.com/artist/0Kpuu2pLaloYjY44rYA1kA) | [RUDE](https://open.spotify.com/album/1L5ZTnnD8PwMEw6xWka186) | 2:27 | 2023-08-25 |  |
 | [Muchh \(From "Yaaran Da Rutbaa"\)](https://open.spotify.com/track/46BRhYVMvVdqVCnkMxsZvM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [Muchh \(From "Yaaran Da Rutbaa"\)](https://open.spotify.com/album/3Ld0wlvOJnsMD2KBdJSSVq) | 2:28 | 2023-04-20 |  |
 | [Mumble](https://open.spotify.com/track/54hKX4l7Ul9onSHbqjvDHv) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Mumble](https://open.spotify.com/album/30h7pg2eJvOUeqx5B6fRno) | 3:03 | 2023-06-08 |  |
 | [Muqabala](https://open.spotify.com/track/5OcXS6QZCiQYHzae9rfEeC) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Muqabala](https://open.spotify.com/album/5bPE9YHDx56udNABcQzZsf) | 3:46 | 2023-03-29 | 2023-04-15 |
@@ -149,6 +150,7 @@
 | [Pinda Aale](https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Pinda Aale](https://open.spotify.com/album/2TzKRe27dDLz2RdeG7Ikme) | 2:33 | 2023-04-18 | 2023-04-21 |
 | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/track/0le7rsL6RS0cv3JRpPHim3) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Raakhi \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/album/7MNNv8dFXb563dcOpw4P4H) | 2:58 | 2023-04-15 | 2023-04-21 |
 | [Raid](https://open.spotify.com/track/0zzFgse3Kxav0FTpHD32JH) | [Gurpreet Randhawa](https://open.spotify.com/artist/3uB5zQEcpSgthO42DwPcH9), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Raid](https://open.spotify.com/album/5ZkyLxGnYpG47sUsN2f4f8) | 2:16 | 2023-03-29 | 2023-04-21 |
+| [Roots](https://open.spotify.com/track/3myb1xBazckdFGmSMuLofI) | [Pavii Ghuman](https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW) | [Roots](https://open.spotify.com/album/2NChdk6UBRJfiCuanoEU92) | 2:09 | 2023-08-25 |  |
 | [Rubicon](https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Rubicon](https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ) | 4:11 | 2023-08-10 |  |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-03-29 |  |
 | [Shartan](https://open.spotify.com/track/6eMG3Ofah1FiO6N8L4Y3Cp) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Mankirat Pannu](https://open.spotify.com/artist/2AH3Sxq7EJxkURX1kG53Mz) | [Shartan](https://open.spotify.com/album/2jNWvoRUGhWIiko0zPEepV) | 2:40 | 2023-03-29 | 2023-07-15 |

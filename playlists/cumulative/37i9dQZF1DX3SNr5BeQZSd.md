@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-156 songs - 6 hr 5 min
+157 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [i'm closing my eyes](https://open.spotify.com/track/5biMMPWAIQXJEwScwcWWcr) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/1wGHYYuPgPz7z9rwrhwmSg) | 1:58 | 2023-01-18 | 2023-02-25 |
 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 | 2022-09-09 |  |
 | [i'm in love with u, sorry](https://open.spotify.com/track/5p684vIzF5LOkmHL3I0tyM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [i'm in love with u, sorry](https://open.spotify.com/album/4bwwiOqoiN3PMKWjy4A8eD) | 1:30 | 2022-12-09 |  |
-| [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2022-09-09 |  |
+| [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 | 2022-09-09 | 2023-08-26 |
 | [I'm sorry](https://open.spotify.com/track/7pgneFkR3Vb8Q8J1Nheepd) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Theres Still Us](https://open.spotify.com/album/3YjNmDFxVL4IkODiF0cPwp) | 2:37 | 2022-11-11 | 2023-04-02 |
 | [I'm sorry](https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez), [shiloh](https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn) | [Theres Still Us](https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3) | 2:37 | 2022-11-11 | 2022-11-25 |
 | [i'm tired of feeling this way](https://open.spotify.com/track/0A6dTlWYD2magT5bqUyZLM) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/2H51wbj4LoKu3MS1enfhFd) | 2:28 | 2022-09-09 | 2022-11-19 |
@@ -141,6 +141,7 @@
 | [Stuck Inside](https://open.spotify.com/track/5P8Xfd8QZlqhl2xDAqcZzI) | [CaliCronk](https://open.spotify.com/artist/7IWTF2SJ9kPwh5YH92KF9q), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Fall Frequencies, Vol.1](https://open.spotify.com/album/0fya4uVCioCC1KfD7hsvUX) | 1:47 | 2022-12-09 |  |
 | [sundown](https://open.spotify.com/track/4kFkWxHJgzcNumjUMfE5J7) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sanctuary](https://open.spotify.com/album/4DdLQZEHVNet5pZrSmSTAb) | 1:52 | 2022-11-11 | 2022-11-20 |
 | [sundown](https://open.spotify.com/track/5LKVbgGeC5UAKoORA0rnKU) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [sanctuary](https://open.spotify.com/album/6A9dbXAqZKVf31i5TzxUw4) | 1:52 | 2022-11-11 |  |
+| [Swell \- I'm Sorry](https://open.spotify.com/track/2k17VNNGHPmnGwXZ8KdfPt) | [glophia](https://open.spotify.com/artist/7lcdFVqeMSCGdl2qTHaNJY), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Swell \- I'm Sorry](https://open.spotify.com/album/2x6NNjyxtvDBDOv0ywIISX) | 2:37 | 2023-03-10 |  |
 | [Tell Me Why I'm Waiting](https://open.spotify.com/track/3xbUCRFut7tzBoD2F8L56y) | [Timmies](https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Passion & Confusion](https://open.spotify.com/album/5unak64thjeLQpZqSONKqz) | 2:03 | 2022-09-09 |  |
 | [The Girl Who Fell From The Sky \(Laputa\)](https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Ghibli, Anime & Chill](https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK) | 1:31 | 2022-12-09 |  |
 | [The Girl With the Cappuccino](https://open.spotify.com/track/451EMYReoEHbfvj75Pu1B9) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Coffee Sunrise](https://open.spotify.com/album/0XwkQlOYnYytSFggvVcvaE) | 1:54 | 2022-12-09 |  |

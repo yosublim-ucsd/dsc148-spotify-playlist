@@ -10466,7 +10466,7 @@
     {
       "album": {
         "name": "Flama",
-        "url": "https://open.spotify.com/album/5NuoEgpOWJwfUdMXQoaZGG"
+        "url": "https://open.spotify.com/album/4SZVzloMwfOQfop1DAMEOv"
       },
       "artists": [
         {
@@ -10477,6 +10477,24 @@
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177868,
+      "name": "Flama",
+      "url": "https://open.spotify.com/track/1pV36SWgIYbYX2LdnlciII"
+    },
+    {
+      "album": {
+        "name": "Flama",
+        "url": "https://open.spotify.com/album/5NuoEgpOWJwfUdMXQoaZGG"
+      },
+      "artists": [
+        {
+          "name": "CANDYGIRL",
+          "url": "https://open.spotify.com/artist/6ljA8ttKB0d9eBUySPaSOZ"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
       "duration_ms": 177868,
       "name": "Flama",
       "url": "https://open.spotify.com/track/5OqClMQ6f801s7pZLryexS"

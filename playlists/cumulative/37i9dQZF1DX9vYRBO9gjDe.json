@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/3cX20kFsxS0bJXssxbutYm"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205999,
+      "name": "Actor",
+      "url": "https://open.spotify.com/track/5mZ99YNwo7OZJfWc8hmm12"
+    },
+    {
+      "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/5GsSoccwm4oOWG2l50yM8B"
       },
@@ -1043,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/2B11ELMAJKREkxW6Y4fclI"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "ANTIFRAGILE - Japanese ver.",
+      "url": "https://open.spotify.com/track/0MvgLL3Rkj9JjEvpUqAy0m"
+    },
+    {
+      "album": {
         "name": "apart",
         "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
       },
@@ -1365,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "baby blue eyes",
+        "url": "https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "baby blue eyes",
+      "url": "https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew"
+    },
+    {
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -1506,7 +1560,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 184783,
       "name": "bad idea right?",
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
@@ -1598,7 +1652,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 187237,
       "name": "BASH BASH - feat. JP THE WAVY & Awich",
       "url": "https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB"
@@ -1996,7 +2050,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 227323,
       "name": "Boukenroku",
       "url": "https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5"
@@ -2258,7 +2312,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 179275,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
@@ -3148,7 +3202,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 205555,
       "name": "CRUISIN'",
       "url": "https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7"
@@ -3418,7 +3472,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -4211,6 +4265,32 @@
     },
     {
       "album": {
+        "name": "Dreamin'",
+        "url": "https://open.spotify.com/album/1KXZlPBV0JQRaHUpeC3JLA"
+      },
+      "artists": [
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        },
+        {
+          "name": "\u2606Taku Takahashi",
+          "url": "https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216399,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/3ESbnlo4XUDRUDwrnVWoSf"
+    },
+    {
+      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -4448,7 +4528,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 151373,
       "name": "ETA",
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
@@ -4780,7 +4860,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 151015,
       "name": "fake face dance music",
       "url": "https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313"
@@ -5595,6 +5675,28 @@
     },
     {
       "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6ce2\u7f85\u5937 \u7a7a\u5374)",
+          "url": "https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e8c\u90ce)",
+          "url": "https://open.spotify.com/artist/2ntze4Zi5AT1afx1lTEPUE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "Get busy",
+      "url": "https://open.spotify.com/track/38kyosQso2bA1MaH6UbPig"
+    },
+    {
+      "album": {
         "name": "Lie-Sense",
         "url": "https://open.spotify.com/album/3btL3ykW37l6MXyHsVq6CU"
       },
@@ -5798,7 +5900,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 254291,
       "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
       "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
@@ -6511,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "Hey Song",
+        "url": "https://open.spotify.com/album/5zrsUKzB8ULxQAavQLs8He"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Hey Song",
+      "url": "https://open.spotify.com/track/0tjzgMwPAAkL4xAY3g74FS"
+    },
+    {
+      "album": {
         "name": "Himawari",
         "url": "https://open.spotify.com/album/2w8Y2kdC21njltt0Wt6em9"
       },
@@ -6522,7 +6642,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 259586,
       "name": "Himawari",
       "url": "https://open.spotify.com/track/4CEg2ZSlsQaO8zOCai89gA"
@@ -6544,6 +6664,24 @@
       "duration_ms": 162560,
       "name": "Himotoai",
       "url": "https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "HIPHOPPIA",
+      "url": "https://open.spotify.com/track/4kdz8NtxInAupPVmwvqzB5"
     },
     {
       "album": {
@@ -8766,7 +8904,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 254310,
       "name": "LONGINESS REMIX",
       "url": "https://open.spotify.com/track/2ECrDpRYc2dV0xw0abViF8"
@@ -9336,7 +9474,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 171566,
       "name": "MANINGEN",
       "url": "https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6"
@@ -9956,7 +10094,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
@@ -10068,6 +10206,56 @@
       "duration_ms": 208314,
       "name": "MOVE (T5)",
       "url": "https://open.spotify.com/track/7EtNbIeSYjE4PeitHqEHhs"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6bd2\u5cf6\u30e1\u30a4\u30bd\u30f3\u7406\u9daf)",
+          "url": "https://open.spotify.com/artist/1HgU7kZOYS995O1n9BSKGQ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6709\u6816\u5ddd\u5e1d\u7d71)",
+          "url": "https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u89b3\u97f3\u5742\u72ec\u6b69)",
+          "url": "https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u767d\u81a0\u6728\u7c13)",
+          "url": "https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u8e91\u8e85\u68ee\u76e7\u7b19)",
+          "url": "https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6ce2\u7f85\u5937 \u7a7a\u5374)",
+          "url": "https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e8c\u90ce)",
+          "url": "https://open.spotify.com/artist/2ntze4Zi5AT1afx1lTEPUE"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5922\u91ce\u5e7b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/6BWqrRjmPFKofxtmHXd4mG"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "Move Your Body Till You Die!",
+      "url": "https://open.spotify.com/track/0UZV37rsHPSfW576JdGK7W"
     },
     {
       "album": {
@@ -10682,6 +10870,24 @@
       "duration_ms": 196253,
       "name": "Never Grow Up",
       "url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq"
+    },
+    {
+      "album": {
+        "name": "NEW DANCE",
+        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "NEW DANCE",
+      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
     },
     {
       "album": {
@@ -12597,6 +12803,28 @@
     },
     {
       "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6709\u6816\u5ddd\u5e1d\u7d71)",
+          "url": "https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u89b3\u97f3\u5742\u72ec\u6b69)",
+          "url": "https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "Rivals!",
+      "url": "https://open.spotify.com/track/4otyBXYhh2gmvZ8mStOIUn"
+    },
+    {
+      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
@@ -12970,7 +13198,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 89280,
       "name": "Salvia - Anime Size",
       "url": "https://open.spotify.com/track/2vcO3eoQ9WME8dfHGt3sdm"
@@ -12988,7 +13216,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 177773,
       "name": "Sara Sara",
       "url": "https://open.spotify.com/track/0aLkYYO8w7T0U2Vhb0pe2O"
@@ -13486,7 +13714,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 203556,
       "name": "SHOOTING STAR",
       "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
@@ -13690,6 +13918,24 @@
       "duration_ms": 238833,
       "name": "slash",
       "url": "https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T"
+    },
+    {
+      "album": {
+        "name": "ALL MY GIRLS",
+        "url": "https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "SLAY",
+      "url": "https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB"
     },
     {
       "album": {
@@ -14038,6 +14284,32 @@
       "duration_ms": 174748,
       "name": "Special (feat. SZA)",
       "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
+    },
+    {
+      "album": {
+        "name": "Special Days",
+        "url": "https://open.spotify.com/album/2XsEUQBbE5ZE6XSBxHucbE"
+      },
+      "artists": [
+        {
+          "name": "Joint Beauty",
+          "url": "https://open.spotify.com/artist/74RJ7LQOOa3A0FiCw15PxG"
+        },
+        {
+          "name": "Takashi Fujii",
+          "url": "https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12"
+        },
+        {
+          "name": "PeanutsKun",
+          "url": "https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219376,
+      "name": "Special Days",
+      "url": "https://open.spotify.com/track/4or4paBDr7wpOKosYPaz7b"
     },
     {
       "album": {
@@ -16769,6 +17041,24 @@
     },
     {
       "album": {
+        "name": "Wanna",
+        "url": "https://open.spotify.com/album/3grQnzdbrVfQ9uwhgTFm6N"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148327,
+      "name": "Wanna",
+      "url": "https://open.spotify.com/track/4rLsZcXQlylBEgDVXQO3eu"
+    },
+    {
+      "album": {
         "name": "ENSEMBLE",
         "url": "https://open.spotify.com/album/2zEowQWsCZMuNDJsYTxgRC"
       },
@@ -17052,6 +17342,24 @@
       "duration_ms": 216998,
       "name": "what's your message ?",
       "url": "https://open.spotify.com/track/34NPryvUJbkHl4vrneh3kG"
+    },
+    {
+      "album": {
+        "name": "Whatever Comes",
+        "url": "https://open.spotify.com/album/6n1hdXqcaQTJEVxwLxS0Gr"
+      },
+      "artists": [
+        {
+          "name": "TM NETWORK",
+          "url": "https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292693,
+      "name": "Whatever Comes",
+      "url": "https://open.spotify.com/track/0fjDWBGZR65iXyvEnKVaOA"
     },
     {
       "album": {
@@ -20884,7 +21192,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 209333,
       "name": "\u30df\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR"
@@ -21647,6 +21955,42 @@
     },
     {
       "album": {
+        "name": "SURF & TURF (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50IdFTIGAhDVSknGHjUbOo"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214778,
+      "name": "\u4eba\u751f\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7r2ziNei4BzEwmOOFJsV0M"
+    },
+    {
+      "album": {
+        "name": "ALWAYS YOURS",
+        "url": "https://open.spotify.com/album/5Qae32LmUnMlJRqZv2BWvY"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191520,
+      "name": "\u4eca -\u660e\u65e5 \u4e16\u754c\u304c\u7d42\u308f\u3063\u3066\u3082-",
+      "url": "https://open.spotify.com/track/2dThVzsCkB0L8tWFvQH53N"
+    },
+    {
+      "album": {
         "name": "musiQ",
         "url": "https://open.spotify.com/album/4g4awHV5sCJmH5DG86bpgL"
       },
@@ -22299,6 +22643,24 @@
     },
     {
       "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5922\u91ce\u5e7b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/6BWqrRjmPFKofxtmHXd4mG"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "\u5922\u306e\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2VodztgioHb77wnqQpeumX"
+    },
+    {
+      "album": {
         "name": "\u61d0-\u30ca\u30c4-\u30a8\u30e2\u30c6\u30a3\u30c3\u30af J-POP \u795eBUZZ HIT SONGS (DJ KOO PLAYLIST MEGA MIX)",
         "url": "https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS"
       },
@@ -22660,7 +23022,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 257548,
       "name": "\u5fd8\u308c\u3063\u307d\u3044\u3093\u3060",
       "url": "https://open.spotify.com/track/4CVSEhpfVizwsj6xMJEhwV"
@@ -22862,6 +23224,24 @@
       "duration_ms": 224027,
       "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
       "url": "https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30eb\u30b4\u03be\u697d\u56e3",
+          "url": "https://open.spotify.com/artist/2UCKfsLp3FhiQ9Tr3y1Zml"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237453,
+      "name": "\u60aa\u9b54\u306e\u83ef",
+      "url": "https://open.spotify.com/track/0EwpurqdBrnoyuifM6wBs4"
     },
     {
       "album": {
@@ -23533,6 +23913,28 @@
     },
     {
       "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u767d\u81a0\u6728\u7c13)",
+          "url": "https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u8e91\u8e85\u68ee\u76e7\u7b19)",
+          "url": "https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238453,
+      "name": "\u6bce\u5ea6!\u751f\u304d\u305f\u308d\u304b\u3044! \uff5eOSAKA Big Up\uff5e",
+      "url": "https://open.spotify.com/track/0nkUNtATJUrbmJyyOw45tw"
+    },
+    {
+      "album": {
         "name": "\u6c17\u6301\u3061\u306e\u7cf8",
         "url": "https://open.spotify.com/album/0pm0eF38vMHFgTlFjWxnuR"
       },
@@ -23964,6 +24366,28 @@
       "duration_ms": 220173,
       "name": "\u7530\u5712",
       "url": "https://open.spotify.com/track/2SrfH3HpaI8WUXSGKW8C0N"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5929\u8c37\u5974\u96f6)",
+          "url": "https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5165\u9593\u9283\u514e)",
+          "url": "https://open.spotify.com/artist/7dqg9aMu2T8vMb9ecbke7o"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "\u767d\u3068\u9ed2",
+      "url": "https://open.spotify.com/track/0HeyOMO01z3r0zJoCUquq3"
     },
     {
       "album": {
@@ -24826,7 +25250,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 165573,
       "name": "\u865c",
       "url": "https://open.spotify.com/track/5KihK93JmGLvHN4Ryv7VgU"
@@ -25184,7 +25608,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 196466,
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"

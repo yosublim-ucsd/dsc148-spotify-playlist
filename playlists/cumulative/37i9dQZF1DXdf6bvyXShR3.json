@@ -405,6 +405,28 @@
     },
     {
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381322,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
+    },
+    {
+      "album": {
         "name": "Change This Pain For Ecstasy",
         "url": "https://open.spotify.com/album/08xHiG90YhACt4w637oTqn"
       },
@@ -438,7 +460,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 220754,
       "name": "Circle of Light",
       "url": "https://open.spotify.com/track/6a6ui28fBRRlc0TcdXoIbM"
@@ -500,7 +522,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 166451,
       "name": "Dayglow",
       "url": "https://open.spotify.com/track/4QYUtTTukE8KzFG0ff2t8P"
@@ -654,7 +676,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 574426,
       "name": "Dream (feat. Hlengiwe Mbatha)",
       "url": "https://open.spotify.com/track/1GhWPK0kGLnZOgPHiQ81Of"
@@ -1329,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Lost In This Moment",
+        "url": "https://open.spotify.com/album/2NvbXEm18qJ4aSjKj5KeZQ"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Dada",
+          "url": "https://open.spotify.com/artist/3hCDIGOzWc69NzrNZGC9C1"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Lost In This Moment",
+      "url": "https://open.spotify.com/track/3XYyUSEnO94851A0pTW28X"
+    },
+    {
+      "album": {
         "name": "Cross Vault 09: Laurent Wood",
         "url": "https://open.spotify.com/album/7A0Jf0s21MUEMxsVQJh3x2"
       },
@@ -1432,6 +1472,28 @@
       "duration_ms": 325838,
       "name": "Make It Stay - Boris Dlugosch Remix",
       "url": "https://open.spotify.com/track/4TbrpwvwOV2S2Wsu5K0C9z"
+    },
+    {
+      "album": {
+        "name": "Make You Scream (yun\u00e8 pinku Remix)",
+        "url": "https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164105,
+      "name": "Make You Scream - yun\u00e8 pinku Remix",
+      "url": "https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q"
     },
     {
       "album": {
@@ -1600,7 +1662,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 346840,
       "name": "My Boo - Hitman's Club Mix",
       "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
@@ -1818,7 +1880,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 400879,
       "name": "Pamoja - Jay Fase's Minor Mix",
       "url": "https://open.spotify.com/track/1UydBSdiDDTgFlGskKByR4"
@@ -2059,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/2O1mDByoHcWrsABgAvCzwU"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213339,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG"
+    },
+    {
+      "album": {
         "name": "Ridge Road",
         "url": "https://open.spotify.com/album/2YLOw1oVOWQvd3HB6sV6QP"
       },
@@ -2285,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/1HlWvnj5RfxdMjnvoBykB0"
+      },
+      "artists": [
+        {
+          "name": "Motip White",
+          "url": "https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399152,
+      "name": "Swing Boat",
+      "url": "https://open.spotify.com/track/597JMOaqGsplMsinzKHvfa"
+    },
+    {
+      "album": {
         "name": "First Album (2009 Reissue)",
         "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
       },
@@ -2304,6 +2402,36 @@
       "duration_ms": 281320,
       "name": "The Beach - Bonus Track",
       "url": "https://open.spotify.com/track/0FCUZdyI2UvVscNAnKHopR"
+    },
+    {
+      "album": {
+        "name": "The Dream (feat. Martina Camargo)",
+        "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210156,
+      "name": "The Dream (feat. Martina Camargo)",
+      "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
     },
     {
       "album": {
@@ -2490,7 +2618,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 248930,
       "name": "V\u00e5r Dub",
       "url": "https://open.spotify.com/track/3e4HlXN63H1OLZJp2IOYEJ"
@@ -2512,6 +2640,28 @@
       "duration_ms": 177840,
       "name": "Wake And Return - Acoustic Version",
       "url": "https://open.spotify.com/track/76uZO2ZHQcWvjsQOd5T8Hd"
+    },
+    {
+      "album": {
+        "name": "Wespennest",
+        "url": "https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Sophia Kennedy",
+          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482143,
+      "name": "Wespennest",
+      "url": "https://open.spotify.com/track/1h9PGvjTU45WnwzXEjqtf8"
     },
     {
       "album": {
@@ -2606,7 +2756,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 431282,
       "name": "Your Love - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/620NIawKYFYbRNkaKXjQlZ"

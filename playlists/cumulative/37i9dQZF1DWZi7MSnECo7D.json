@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Ana Frango El\u00e9trico",
+  "description": "Novidades e destaques do indie nacional. Foto: Sophia Chablau e Uma Enorme Perda de Tempo",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 143559,
       "name": "Arrepio",
       "url": "https://open.spotify.com/track/5MyoYQSUZwEJFl8xrwuQS5"
@@ -3493,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/1D3DNwCke32gvuo1HbJWZN"
+      },
+      "artists": [
+        {
+          "name": "j4mpa",
+          "url": "https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189060,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/3ujHWJpRyT2DZtwsSI7lpo"
+    },
+    {
+      "album": {
         "name": "HAHAHA",
         "url": "https://open.spotify.com/album/0iCtU3hO1nlgfP5AHOdvGQ"
       },
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 238583,
       "name": "Impress\u00e3o Digital",
       "url": "https://open.spotify.com/track/0UoRBK9Q7CDsZTJlzhdOed"
@@ -5771,6 +5789,24 @@
     },
     {
       "album": {
+        "name": "Paix\u00e3o Revirada",
+        "url": "https://open.spotify.com/album/0ahXiH16BR6OFd3pCmyz7l"
+      },
+      "artists": [
+        {
+          "name": "Tagore",
+          "url": "https://open.spotify.com/artist/6jesZl7rJFJZ8d5i9pX5q8"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Paix\u00e3o Revirada",
+      "url": "https://open.spotify.com/track/7giC7o4Bnvm7enlzpwZCDd"
+    },
+    {
+      "album": {
         "name": "Papel de Trouxa",
         "url": "https://open.spotify.com/album/2OJJzGSCChmfibUiV7oWz0"
       },
@@ -6913,6 +6949,24 @@
     },
     {
       "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/5eU1Fz5ZMApp5smsVVnLlu"
+      },
+      "artists": [
+        {
+          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
+          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/4rNdkeJRBA4GQxbkI8YqR6"
+    },
+    {
+      "album": {
         "name": "sei la",
         "url": "https://open.spotify.com/album/0BfYdVbmaQnSu3AM2LwZQS"
       },
@@ -7116,7 +7170,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 229812,
       "name": "Sil\u00eancio",
       "url": "https://open.spotify.com/track/3ykxdOBOiBB8Q92zI0EbCc"

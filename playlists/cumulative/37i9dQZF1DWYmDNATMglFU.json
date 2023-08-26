@@ -9517,6 +9517,24 @@
     },
     {
       "album": {
+        "name": "Take Me To Your Place",
+        "url": "https://open.spotify.com/album/0bVhT91CyP2iU2iaMz9e58"
+      },
+      "artists": [
+        {
+          "name": "XO LU",
+          "url": "https://open.spotify.com/artist/1QuS8XFGkFeFQdAQwSR1Uf"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184406,
+      "name": "Take Me To Your Place",
+      "url": "https://open.spotify.com/track/5tMzJ45qvVHHPf1xVgTTnX"
+    },
+    {
+      "album": {
         "name": "Take Me With You",
         "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
       },

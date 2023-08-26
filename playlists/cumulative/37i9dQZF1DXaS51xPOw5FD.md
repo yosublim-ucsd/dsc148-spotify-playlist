@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-125 songs - 8 hr 7 min
+126 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Garden \- Calibre Remix](https://open.spotify.com/track/6HRa9FtX8ifjQmA3XFBXan) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Garden \(Calibre Remix\)](https://open.spotify.com/album/6xPaNRGXlr2L0brkk8ab8N) | 5:58 | 2022-08-05 |  |
 | [Gecko \(Overdrive\) \- Matrix & Futurebound Remix](https://open.spotify.com/track/18iFN3VoOZzULEZGSBqHZL) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7) | [Gecko \(Overdrive\) \[Remix Bundle\]](https://open.spotify.com/album/2TkSmKnbYgnOjbBNwL7mO9) | 3:38 | 2022-08-05 |  |
 | [Ghost Assassin \- VIP](https://open.spotify.com/track/5psoxZpBVWS27k9Fngaes9) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Memoirs](https://open.spotify.com/album/1JhdCDZb1iVqoq04Qf3Ou4) | 3:42 | 2022-08-05 |  |
-| [Good Times Bad Times](https://open.spotify.com/track/44nRLXNwTmTIV7Zk7lRol5) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Mosaik](https://open.spotify.com/album/1miPtr5WVeMoYFvu0RZ6Mc) | 3:52 | 2023-05-19 |  |
+| [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/track/4L0T3usCoeUO85dJeuxbBf) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/album/2uDherRYol1u5bCpwwyklG) | 2:53 | 2023-08-25 |  |
+| [Good Times Bad Times](https://open.spotify.com/track/44nRLXNwTmTIV7Zk7lRol5) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Mosaik](https://open.spotify.com/album/1miPtr5WVeMoYFvu0RZ6Mc) | 3:52 | 2023-05-19 | 2023-08-26 |
 | [Good to Me](https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Good to Me](https://open.spotify.com/album/46yPP8LYBsQ399RMPl39Ws) | 3:01 | 2022-08-05 |  |
 | [Got You There](https://open.spotify.com/track/2rY8KKXTr9XOMn0IdpBBXm) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [ZELAH](https://open.spotify.com/artist/3mjEt1VwTLCcCwtRQBrTTD) | [Got You There](https://open.spotify.com/album/6gCWLrdqmVVSMIC39c58l7) | 3:10 | 2023-05-19 | 2023-08-12 |
 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 | 2022-08-05 |  |

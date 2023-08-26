@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Orquesta Candela
 
-127 songs - 8 hr 50 min
+129 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dónde Están Tus Promesas](https://open.spotify.com/track/4DmHyMwMcY8zTpjaPYUww7) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Dónde Están Tus Promesas](https://open.spotify.com/album/6WB90h49FN3lxERKThcrft) | 4:09 | 2022-08-05 | 2022-11-12 |
 | [El Arbolito](https://open.spotify.com/track/51juO8se7WGQrjpdOJCB1B) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2) | 3:30 | 2023-02-17 | 2023-08-07 |
 | [El Arbolito](https://open.spotify.com/track/3aJQuNjwNNPnSzoajeuNvQ) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY) | 3:35 | 2022-02-11 | 2023-03-13 |
+| [El Arbolito](https://open.spotify.com/track/1wr2LwsnmGTqxrOfiVrtQx) | [Grupo Néctar](https://open.spotify.com/artist/0SbJWWmxmXhDfactFxn4iG) | [Solo Éxitos](https://open.spotify.com/album/65HPZEpduQsWS3MufRLJlS) | 3:33 | 2023-03-31 |  |
 | [El Casorio](https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6) | [Orquesta Caña Brava](https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM) | [VOL.1](https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg) | 5:29 | 2022-02-11 | 2023-08-22 |
 | [El Ritmo de Mi Corazon](https://open.spotify.com/track/2RFMVm8ox1fX27BJLFhvLz) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazon](https://open.spotify.com/album/65waTGJFJw8XASFnrfgAKC) | 3:43 | 2022-02-11 | 2022-07-25 |
 | [El Ritmo de Mi Corazón](https://open.spotify.com/track/3SQRqRJ4xl2FZ8B5eswvvU) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [El Ritmo de Mi Corazón](https://open.spotify.com/album/55mg4qE79gK6ZYCyihWYo6) | 3:40 | 2022-02-11 |  |
@@ -113,13 +114,14 @@
 | [Si Supieras](https://open.spotify.com/track/5rTBTSxkCV2keoEaVGqFHQ) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [No Te Confundas… Sigue la Moda](https://open.spotify.com/album/276eFq7IZTyldke1uhvnXz) | 4:00 | 2022-02-11 |  |
 | [Si Supieras](https://open.spotify.com/track/2cRSwtruzYvuCwg8rzbLIL) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [No Te Confundas...sigue la Moda](https://open.spotify.com/album/6QW5tBaFCDcWnjCgaiKiSr) | 4:05 | 2022-02-11 | 2022-07-29 |
 | [Siempre Pierdo en el Amor](https://open.spotify.com/track/0YVUUyBOAKembHPXCSR8Lt) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 3:12 | 2022-02-11 | 2023-06-04 |
+| [Siempre Pierdo En El Amor](https://open.spotify.com/track/6mJObKwNw6bwuJcrvjoCA1) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Solo](https://open.spotify.com/album/1SWOl6JImOQeV9zdSkbEsj) | 3:14 | 2023-03-31 |  |
 | [Siempre pierdo en el Amor](https://open.spotify.com/track/0jEaIweH6qBspoAjehVVHx) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Clásicos de Oro](https://open.spotify.com/album/0dLDoxUSEuj7vZvklIcqmh) | 3:15 | 2022-02-11 | 2022-07-29 |
 | [Soy Solterito](https://open.spotify.com/track/5kog9fwWFbCwoOc8J48dQg) | [Grupo Alegría](https://open.spotify.com/artist/3NeLWXcGcsLsHT5Ypw0MF5) | [Éxitos de Siempre](https://open.spotify.com/album/4Nl0McFcWiLkBUVdjFJveW) | 4:30 | 2022-02-11 | 2022-07-14 |
 | [Te Burlaste de Mi](https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [El Futuro De La Cumbia](https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc) | 4:37 | 2022-02-11 |  |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/0FM3J2SxnI6DiKNU0UMqyD) | [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mi Trayectoria](https://open.spotify.com/album/4lcFiYbjms1U8DhzkzunmF) | 6:03 | 2022-11-11 | 2022-11-13 |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/2yCpEZSEC0iw94ORV8qkdU) | [Claveles de la Cumbia](https://open.spotify.com/artist/6xONmQbNz6KhUEabbxPb6S) | [Seguimos Imparables](https://open.spotify.com/album/24DilvlrCWcXijotIJLVhm) | 5:58 | 2022-02-11 | 2022-07-29 |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/122MuCOG99PHG2mpnWeJrj) | [Claveles de la Cumbia](https://open.spotify.com/artist/6xONmQbNz6KhUEabbxPb6S) | [Te Vas Te Vas](https://open.spotify.com/album/2GWUqR8sZM4hjcMM5LddRx) | 6:03 | 2022-02-11 |  |
-| [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 | 2022-11-11 |  |
+| [Tres Cruces](https://open.spotify.com/track/5T2cJPNmezb8TYG4j5Wjnp) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Amos del Ritmo Caliente, Vol\. 2](https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md) | 3:51 | 2022-11-11 | 2023-08-26 |
 | [Tres cruces](https://open.spotify.com/track/5ZpvU9WPs6hIiYDkrNyLQN) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbias de Oro Vol\. 2](https://open.spotify.com/album/5SPbW2Q9beZM1TzPUE5OdV) | 3:51 | 2022-02-11 | 2022-07-29 |
 | [Tu amor fue una mentira](https://open.spotify.com/track/62JXVPey9QjeB8mxAQDLLu) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Vol.11 Tu amor fué una mentira](https://open.spotify.com/album/01MVw4qCCfafHo3k894gHT) | 3:36 | 2022-02-11 | 2022-07-29 |
 | [Tu Amor Fue una Mentira](https://open.spotify.com/track/6BnqTZLQNh3bLSuGOHqLoa) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:36 | 2022-02-11 |  |
@@ -133,7 +135,7 @@
 | [Tú Me Haces Más Fuerte](https://open.spotify.com/track/4xb2uD9GnCXuTyzrN1PANS) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Tú Me Haces Más Fuerte](https://open.spotify.com/album/6Pst0oXGzZmBGlIXYKr5jn) | 3:22 | 2022-02-11 | 2022-07-21 |
 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 | 2022-02-11 |  |
 | [Viento](https://open.spotify.com/track/2CvBrHyfDmffGMrrnTVRJc) | [Grupo Celeste](https://open.spotify.com/artist/34UKlYNjRGEZF8Xzbga81s), [Chacalón](https://open.spotify.com/artist/4JytKwWujUJd1hpnIIvGID) | [Selección de Éxitos](https://open.spotify.com/album/2rqw22oBdE0rMzzqEzC7zg) | 3:42 | 2022-02-11 | 2022-06-10 |
-| [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 | 2022-02-11 |  |
+| [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 | 2022-02-11 | 2023-08-26 |
 | [Yo Soy Mucha Mujer](https://open.spotify.com/track/67w7ph9EeMQZwv5cXAsU7w) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Yo Soy Mucha Mujer](https://open.spotify.com/album/45gyrfus8ic01fJqij9k3V) | 4:08 | 2022-02-11 | 2022-07-22 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

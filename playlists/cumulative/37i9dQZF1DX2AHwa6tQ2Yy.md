@@ -4,7 +4,7 @@
 
 > Let the music flow through you...
 
-211 songs - 12 hr 47 min
+212 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Met at the River](https://open.spotify.com/track/2sxQ1OkdtF7GyH1SVpDcI4) | [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Met at the River](https://open.spotify.com/album/1syDBafjciFbCWgxm9zzP2) | 4:38 | 2022-06-02 | 2022-09-09 |
 | [Mikey Might](https://open.spotify.com/track/4tHN4ENGcnHuaOIDWQlI3x) | [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Mikey Might](https://open.spotify.com/album/4CBOYSxOd5Tn7Vyr3tF6rH) | 2:30 | 2022-06-02 | 2022-07-22 |
 | [Money](https://open.spotify.com/track/1X8qpbbjQo0vftVq5c7kwr) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [Money](https://open.spotify.com/album/27xePvSrtU2d9uC8deq5cy) | 3:35 | 2023-01-19 | 2023-02-03 |
-| [MOTHER MOTHER](https://open.spotify.com/track/1jxYFHkQGVGrxwkp6xWXs6) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [MOTHER MOTHER](https://open.spotify.com/album/6DUzFIfQTbQErtzzfcJaac) | 7:34 | 2023-08-24 |  |
+| [MOTHER MOTHER](https://open.spotify.com/track/1jxYFHkQGVGrxwkp6xWXs6) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [MOTHER MOTHER](https://open.spotify.com/album/6DUzFIfQTbQErtzzfcJaac) | 7:34 | 2023-08-24 | 2023-08-26 |
+| [Mother Mother \- Kid Fonque Remix](https://open.spotify.com/track/7G7xHPt5xgQvDsSHg21k5d) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [Mother Mother \(Kid Fonque Remix\)](https://open.spotify.com/album/0knvAth0eiQhxyTRgfXnnq) | 7:34 | 2023-08-24 |  |
 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 | 2023-06-16 |  |
 | [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 | 2022-10-21 | 2023-05-30 |
 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 | 2023-05-04 |  |

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-475 songs - 1 day 16 hr 26 min
+477 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Cold Burn](https://open.spotify.com/track/25dw1ON5dplrkOIhMBt7fl) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Cold Burn](https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm) | 9:41 | 2021-12-17 | 2022-01-15 |
 | [Coming Storm](https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:50 | 2022-05-20 |  |
 | [Compulsion for Cruelty](https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Compulsion for Cruelty](https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL) | 4:37 | 2022-09-01 |  |
-| [Concordat \(The Pact\) I](https://open.spotify.com/track/1ow4HBO9IdoYnL8EJw68wZ) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Concordat \(The Pact\) I](https://open.spotify.com/album/2N0t6IzDFRbqemjGHZqDaL) | 4:39 | 2023-07-03 |  |
+| [Concordat \(The Pact\) I](https://open.spotify.com/track/1ow4HBO9IdoYnL8EJw68wZ) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Concordat \(The Pact\) I](https://open.spotify.com/album/2N0t6IzDFRbqemjGHZqDaL) | 4:39 | 2023-07-03 | 2023-08-26 |
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-25 | 2023-02-13 |
 | [Conquer All](https://open.spotify.com/track/2MYdLzcBnDnk97PutLCRWP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2) | 3:31 | 2022-07-13 | 2022-07-29 |
 | [Conquer All](https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6) | 3:31 | 2022-07-13 |  |
@@ -202,7 +202,7 @@
 | [His Masters Voice](https://open.spotify.com/track/7IQjBiSjclkJlwGW1RbOpn) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Eternal Hails......](https://open.spotify.com/album/0ktSEj7BjykHXm9NJkIrtL) | 7:17 | 2021-12-17 | 2022-03-11 |
 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ), [Lars Nedland](https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 | 2022-04-22 |  |
 | [Homewards](https://open.spotify.com/track/3V1CdKynl6M9lhpMWtRSwW) | [Groza](https://open.spotify.com/artist/5PC1B9qDXhyin3ZgyRcio7) | [The Redemptive End](https://open.spotify.com/album/1aJDrBCHQrhSQwDxVQ7f3I) | 10:46 | 2021-12-17 | 2022-04-02 |
-| [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/track/73JmAiEVuWR9z2EVQo8Ni5) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/album/6H3ZsGKvAFFhrZ8O2hBSxN) | 4:37 | 2023-07-28 |  |
+| [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/track/73JmAiEVuWR9z2EVQo8Ni5) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/album/6H3ZsGKvAFFhrZ8O2hBSxN) | 4:37 | 2023-07-28 | 2023-08-26 |
 | [Hopeless Endeavor](https://open.spotify.com/track/7cSJIf1yDgcGLj9VI4DLmg) | [Gomorran](https://open.spotify.com/artist/2gYZWsir5p6qtSkTDF7Qkt) | [Hopeless Endeavor](https://open.spotify.com/album/4iURRVj0MVYD4lt75ehOqk) | 4:15 | 2021-12-17 | 2022-01-15 |
 | [Hordalands Doedskvad part I](https://open.spotify.com/track/1iOCpO6tlqnrgMOG9epX8z) | [Taake](https://open.spotify.com/artist/2CofVEvqc6hhyKwYsLiuN9) | [Doedskvad](https://open.spotify.com/album/3wyfS8HzHXxD3QuC74eqr4) | 7:43 | 2022-07-13 | 2022-07-28 |
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-08-12 | 2022-08-27 |
@@ -234,6 +234,7 @@
 | [Into the Crypts of Rays](https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales \(Expanded Version\)](https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH) | 3:38 | 2022-09-01 | 2023-07-04 |
 | [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 | 2022-07-13 | 2022-09-04 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
+| [Invocation \(Chthonic Merge\) X](https://open.spotify.com/track/2rh3w5SIH0wg5AcuS83y28) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Invocation \(Chthonic Merge\) X](https://open.spotify.com/album/66GxXX4cB2JFYdXxwWCqPQ) | 2:52 | 2023-08-25 |  |
 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 | 2022-04-01 | 2023-07-04 |
 | [Island of Dead Men](https://open.spotify.com/track/1n857ftGC4pbJhFjBmf5im) | [Asinhell](https://open.spotify.com/artist/0LDCMz2as9KQgSlX3KJNYx) | [Island of Dead Men](https://open.spotify.com/album/5wpL7nK7eCM33EXe9auPt1) | 3:01 | 2023-08-18 |  |
 | [It's Darker Than You Think](https://open.spotify.com/track/24rgd0Ex8aBpmctVJHbJSF) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/4SCjDGytdNcWgtt3cMIBF2) | 4:41 | 2022-07-13 | 2022-07-29 |
@@ -302,6 +303,7 @@
 | [Of Beasts and Worms](https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Of Beasts and Worms](https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o) | 6:30 | 2022-01-21 | 2023-03-05 |
 | [Of Blood and Tears](https://open.spotify.com/track/77CRIpEPQFDZAY4wOMACbh) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [In Tenebris](https://open.spotify.com/album/4ep3HzckKB6SLCbJUhq49v) | 5:24 | 2021-12-17 | 2022-05-21 |
 | [Of Bloodlust & Nightside Sorceries](https://open.spotify.com/track/1To93NNJXFePeViiKoM0sv) | [Sarvekas](https://open.spotify.com/artist/34JA2Fu5TWr18wG9g7F561) | [Of Bloodlust & Nightside Sorceries](https://open.spotify.com/album/0cNW4oxWm4IjPNAxiA2bX3) | 4:54 | 2023-05-12 | 2023-05-20 |
+| [Offerings \(The Swarm\) IV](https://open.spotify.com/track/6YybsbilnwQcK7a6Vhx2OC) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Unholy Deification](https://open.spotify.com/album/5SHd2KcCSIvUHcqCLeu60o) | 3:48 | 2023-08-25 |  |
 | [On the Shore of Eternity](https://open.spotify.com/track/6a8iR9C7Mi5Gkww7yOyoJE) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [Neither Moth nor Rust](https://open.spotify.com/album/1QVMTChYOhXsAyRC949Nkt) | 4:13 | 2022-01-21 | 2022-07-29 |
 | [On the Wings of Cosmic Fire](https://open.spotify.com/track/4MjToDaPoADzwE6QzjcAno) | [Thulcandra](https://open.spotify.com/artist/3cJkyh6iM5N2AI07hNlu1j) | [Hail the Abyss](https://open.spotify.com/album/3dGCSviVjsc466RJYlR0DI) | 4:18 | 2023-05-30 |  |
 | [One by One](https://open.spotify.com/track/65sql5o05skwJ6frSq4exl) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Sons of Northern Darkness](https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj) | 4:58 | 2022-07-13 |  |

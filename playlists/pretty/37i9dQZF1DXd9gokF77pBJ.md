@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,928 likes - 64 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,942 likes - 64 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 63 | [At Dawn](https://open.spotify.com/track/3Wpp6NmbrhNkGCFHEKrozI) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [At Dawn](https://open.spotify.com/album/3FBW0RcapjzuAsSctHBI1S) | 5:15 |
 | 64 | [Dream in Colour](https://open.spotify.com/track/1U4ISP7PHD5htMyAbZf0wT) | [Gee Dee](https://open.spotify.com/artist/6zhznXCXUsNdkOSr3QfBSz) | [Dream in Colour EP](https://open.spotify.com/album/0PFITwpnr4yarSMkITb11Y) | 6:24 |
 
-Snapshot ID: `MCxjYTQyYTI5YmU2MWEwOTNkNWJmYzY0ZjE4OTI1NWQ3ZTcyYWU2ZmRi`
+Snapshot ID: `MCw3NDg5NGNkNzc5OWEzOGM0ZTgzYmZkODUyOGNjNjQzNTE0NjllNzMz`

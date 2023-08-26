@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 19634,
+  "num_followers": 19657,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDUxMGYyYmEyYWQ5ZTdkM2IxYWRiNmIyNGFlODk2Y2ZlNzkwYjdm",
+  "snapshot_id": "MCxmY2U5NDkwMDcxMzZkMDVlZTJmZGZlMjNmNTliOWJiNDE0YTgxN2U2",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -653,6 +653,22 @@
       "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Bottleneck Stomp",
@@ -673,22 +689,6 @@
       "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Defenestrator",
-        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
-      },
-      "artists": [
-        {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
-        }
-      ],
-      "duration_ms": 428577,
-      "name": "Chief's Blues",
-      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
-    },
-    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "Mile End",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/193RPPANAhUa4KZmq35hUc"
     },
     {
-      "added_at": "2021-04-27 23:04:41",
-      "album": {
-        "name": "Raisin' Cain",
-        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
-      },
-      "artists": [
-        {
-          "name": "Chris Cain",
-          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "The Outsider",
@@ -735,6 +719,22 @@
       "duration_ms": 216552,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1"
+    },
+    {
+      "added_at": "2021-04-27 23:04:41",
+      "album": {
+        "name": "Raisin' Cain",
+        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
+      },
+      "artists": [
+        {
+          "name": "Chris Cain",
+          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
-      },
-      "artists": [
-        {
-          "name": "Greg Koch",
-          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
-        }
-      ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Black Magic",
         "url": "https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 174892,
       "name": "Keep Your Light on Mama",
       "url": "https://open.spotify.com/track/0VCWM2PMWWUEyiNYBmYvWn"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Unrepentant",
+        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+      },
+      "artists": [
+        {
+          "name": "Greg Koch",
+          "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
+        }
+      ],
+      "duration_ms": 599678,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
     },
     {
       "added_at": "2020-10-21 17:37:12",

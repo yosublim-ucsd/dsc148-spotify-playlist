@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Matilda Lyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,617 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,684 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [bent](https://open.spotify.com/track/63wjDtMrtXEeZnHAccVyTE) | [Playdate](https://open.spotify.com/artist/6oIeF5buHoZuyuwiu4xz0B) | [bent](https://open.spotify.com/album/2GSjspn7Z3a41VThL7j0Y6) | 2:56 |
 | 100 | [You!](https://open.spotify.com/track/1OHfWdoYdRkvoEpEj4IKWj) | [Lauren Preuss](https://open.spotify.com/artist/33WjXTGX5zErPzZCoBQo1f) | [You!](https://open.spotify.com/album/7JadB3utzpjZJLojJdFw8z) | 3:23 |
 
-Snapshot ID: `MCwzMjc0MTg4YTM0MjMyNDFjYTY5NjlhZTU4ZmJjZDIxMmI1ZWMwOWVh`
+Snapshot ID: `MCw1MWUxZDhmZjZkOTc1YmY5MTQzYjk2N2VlMzdhMmYxNjU5YzRjZThh`

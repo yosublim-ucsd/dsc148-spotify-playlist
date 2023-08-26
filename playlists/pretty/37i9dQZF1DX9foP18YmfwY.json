@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
-  "num_followers": 310662,
+  "num_followers": 310817,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTZmYTA5M2MzODNiMjYyNmUxNjIwNjQ1ZTNmY2Y0N2FhNThlMDlj",
+  "snapshot_id": "MCwwYzc2NzZlMWQwODQxMGQyMmM2M2FlZjk1NGFlNDE4NDBkM2ZhN2Nk",
   "tracks": [
     {
       "added_at": "2023-08-18 05:42:27",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
-    },
-    {
-      "added_at": "2023-08-18 05:42:27",
-      "album": {
         "name": "Nada Te Perturbe",
         "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 225326,
       "name": "Nada Te Perturbe",
       "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
+    },
+    {
+      "added_at": "2023-08-18 05:42:27",
+      "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2023-08-18 05:42:27",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-08-18 05:42:27",
       "album": {
-        "name": "Cantai a Deus Com Alegria 2022",
-        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 349859,
-      "name": "Irresistivelmente",
-      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
-    },
-    {
-      "added_at": "2023-08-18 05:42:27",
-      "album": {
         "name": "Ressonhar",
         "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 290125,
       "name": "Oceano de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+    },
+    {
+      "added_at": "2023-08-18 05:42:27",
+      "album": {
+        "name": "Cantai a Deus Com Alegria 2022",
+        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 349859,
+      "name": "Irresistivelmente",
+      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
     },
     {
       "added_at": "2023-08-18 05:42:27",

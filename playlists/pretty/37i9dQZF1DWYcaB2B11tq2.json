@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 380144,
+  "num_followers": 380346,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZjFlMjYxNDMxYjIzNmRlNzI5NDVmNzIwZTQ2ZTIxOWZlODQyNzdl",
+  "snapshot_id": "MCxlMWY1NThhNWZiNGYxNDVlNWVlMWI1OTU2YzcxOWI3ZWU5ZTE5ZDA2",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Comenzar de Cero",
-        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 230791,
-      "name": "Comenzar de Cero",
-      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Here As In Heaven",
         "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 499506,
       "name": "Here as in Heaven",
       "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Comenzar de Cero",
+        "url": "https://open.spotify.com/album/3aAURLKBcjNlwKtyQ5wiMS"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 230791,
+      "name": "Comenzar de Cero",
+      "url": "https://open.spotify.com/track/2qXnPsj2I6hFMU7KL2E8m2"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 294800,
-      "name": "Give Me Faith",
-      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "El Dios de Lo Extraordinario",
         "url": "https://open.spotify.com/album/5ReLj0agmusq7c3NnTgYC0"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 244163,
       "name": "El Dios de Lo Extraordinario",
       "url": "https://open.spotify.com/track/618hoNBgdlXbXjQrylwapR"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "Give Me Faith",
+      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Fragmentos del Cielo",
-        "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 212806,
-      "name": "Mi Roca",
-      "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Tranz4mando el Universo (Los Legendarios Presenta Triple Seven)",
         "url": "https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 255537,
       "name": "Viene De Ti",
       "url": "https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Fragmentos del Cielo",
+        "url": "https://open.spotify.com/album/47nheKMpP7EvxAVTaUz7mR"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 212806,
+      "name": "Mi Roca",
+      "url": "https://open.spotify.com/track/5dkURjvtypDtBrGGRetOlQ"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1095,22 +1095,6 @@
       "duration_ms": 226306,
       "name": "No Soy Yo (feat. Redimi2)",
       "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Vive en M\u00ed",
-        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 240704,
-      "name": "Pintas el Aire",
-      "url": "https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Speak Revival",
-        "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 367760,
-      "name": "Fullness",
-      "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Jes\u00fas Salva",
         "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
@@ -1259,6 +1227,38 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Vive en M\u00ed",
+        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 240704,
+      "name": "Pintas el Aire",
+      "url": "https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Speak Revival",
+        "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 367760,
+      "name": "Fullness",
+      "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Tiempo Para Perder",
         "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Vive en M\u00ed",
-        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "Soy Libre",
-      "url": "https://open.spotify.com/track/6Ae2dGmkZwXeO3BJEpkKaM"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Ha Vencido, Ha Triunfado",
         "url": "https://open.spotify.com/album/1FRK1QimwIYurLiKbpngDl"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 361253,
       "name": "Digno Es El Se\u00f1or",
       "url": "https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Jes\u00fas (feat. Marcos Witt)",
+        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 305981,
+      "name": "Jes\u00fas (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
     }
   ],
   "unique_name": "Creo En Ti",

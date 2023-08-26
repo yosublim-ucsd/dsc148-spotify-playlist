@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Mih, Amabbi",
+  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes Mc's do hip hop nacional. Foto: Ebony",
   "name": "S\u00f3 as Minas",
   "tracks": [
     {
@@ -127,6 +127,48 @@
     },
     {
       "album": {
+        "name": "Anjos E Ancestrais",
+        "url": "https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz"
+      },
+      "artists": [
+        {
+          "name": "Urbanamente",
+          "url": "https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Billy Billy",
+          "url": "https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213390,
+      "name": "Anjos E Ancestrais",
+      "url": "https://open.spotify.com/track/125ytOCb7oOEy9KAyDqXYD"
+    },
+    {
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/2W3iFFnbROvv5z8aKlyPQZ"
       },
@@ -198,6 +240,24 @@
       "duration_ms": 202926,
       "name": "As Faixas",
       "url": "https://open.spotify.com/track/0pXcuV7F9sayTpfICzxKsU"
+    },
+    {
+      "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121031,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "album": {
@@ -338,6 +398,32 @@
       "duration_ms": 147701,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/7HfiOshF1YAe7rDF7e47XW"
+    },
+    {
+      "album": {
+        "name": "BANDIDA",
+        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179824,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
     },
     {
       "album": {
@@ -603,6 +689,28 @@
     },
     {
       "album": {
+        "name": "Convite",
+        "url": "https://open.spotify.com/album/3uZEP1QczVD3Y1Gr0oXVve"
+      },
+      "artists": [
+        {
+          "name": "Zaila",
+          "url": "https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj"
+        },
+        {
+          "name": "b o u t",
+          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160173,
+      "name": "Convite",
+      "url": "https://open.spotify.com/track/4H58IijX8unIgtCPRJquad"
+    },
+    {
+      "album": {
         "name": "Cor de Sangue",
         "url": "https://open.spotify.com/album/3Axmf4ThFpdE4Jz7KQwjdo"
       },
@@ -622,6 +730,28 @@
       "duration_ms": 150635,
       "name": "Cor de Sangue",
       "url": "https://open.spotify.com/track/0o2UAD9Osda1SEsL8rUr7L"
+    },
+    {
+      "album": {
+        "name": "CUSSY",
+        "url": "https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180004,
+      "name": "CUSSY",
+      "url": "https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc"
     },
     {
       "album": {
@@ -776,7 +906,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 117676,
       "name": "Drinks e Safiras",
       "url": "https://open.spotify.com/track/56uwvZ7zUko1jBrD14nAOz"
@@ -900,7 +1030,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 147916,
       "name": "Fail",
       "url": "https://open.spotify.com/track/0GCWTSB5Wj04ZMQGswxkuU"
@@ -1265,6 +1395,32 @@
     },
     {
       "album": {
+        "name": "Hentai",
+        "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Hentai",
+      "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
+    },
+    {
+      "album": {
         "name": "Brisa Flow no Est\u00fadio Showlivre (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ln6jlK3dSMATTdhHnm2w1"
       },
@@ -1338,7 +1494,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 145942,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5CPJjsuHQ9Gafg7PMeZMsQ"
@@ -1696,7 +1852,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 157714,
       "name": "Malas Prontas",
       "url": "https://open.spotify.com/track/5tHCD2TzqXr91NqUCBnTpO"
@@ -2006,7 +2162,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 141575,
       "name": "No Feelings",
       "url": "https://open.spotify.com/track/14e36462Mej9BbWFkO42T2"
@@ -2134,7 +2290,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 112615,
       "name": "Pago no Cash",
       "url": "https://open.spotify.com/track/6MVTR7ZeZGmNofygux7OcU"

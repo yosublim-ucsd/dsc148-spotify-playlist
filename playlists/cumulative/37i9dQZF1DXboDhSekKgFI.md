@@ -4,7 +4,7 @@
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-77 songs - 4 hr 8 min
+78 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Despacito](https://open.spotify.com/track/3QdqgMuEYLbckJy0XUw3gA) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:52 | 2020-04-27 |  |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2020-12-21 |  |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2020-04-27 |  |
-| [El Baile del Sapito](https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy) | [Cómplices](https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:02 | 2020-04-27 |  |
+| [El Baile del Sapito](https://open.spotify.com/track/0KDRBPar8trGwTXP2Z9zEN) | [Cómplices](https://open.spotify.com/artist/3z2EQwnmY8EdZ30CdUkdRS) | [Mariana \- Cómplices Al Rescate](https://open.spotify.com/album/38qQ0oqb7OSqY81SImVonp) | 3:01 | 2020-04-27 |  |
+| [El Baile del Sapito](https://open.spotify.com/track/6EQ18D8PPgzGGr8WusMDKy) | [Cómplices](https://open.spotify.com/artist/0jInV5FX8JnkgYo5yZt6JK) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:02 | 2020-04-27 | 2023-08-26 |
 | [El Mundo Es un Salón de Fiestas](https://open.spotify.com/track/7rbtK2t5k6zNOnx2Z1eNCe) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0), [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Mejores Amigos](https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl) | 3:32 | 2020-04-27 |  |
 | [Esto es una fiesta](https://open.spotify.com/track/1EJPIRE9940BW0ksVlt3Of) | [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Esto es una fiesta \(Music from the TV Series\)](https://open.spotify.com/album/27sSsMXBELJJkHpasXVq0u) | 2:13 | 2020-04-27 |  |
 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 | 2020-04-27 |  |

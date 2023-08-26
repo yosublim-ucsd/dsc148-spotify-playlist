@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Mirages",
+        "url": "https://open.spotify.com/album/2bQmqklVRAO9mqeTDIY8nk"
+      },
+      "artists": [
+        {
+          "name": "Bonsaye",
+          "url": "https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241201,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/5cVHSRdhIGHIWjl0lVNPMj"
+    },
+    {
+      "album": {
         "name": "Mistwalker",
         "url": "https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg"
       },

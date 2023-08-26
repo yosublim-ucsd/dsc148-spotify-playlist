@@ -21377,6 +21377,28 @@
     },
     {
       "album": {
+        "name": "PARTy T1M3",
+        "url": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155912,
+      "name": "PARTy T1M3",
+      "url": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
+    },
+    {
+      "album": {
         "name": "Party With Nari",
         "url": "https://open.spotify.com/album/19HdeXgedDZ3P8a8dkVzsL"
       },

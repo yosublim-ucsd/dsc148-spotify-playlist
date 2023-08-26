@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-322 songs - 18 hr 50 min
+323 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [Never Give Up On Your Love](https://open.spotify.com/track/53FKnaxZGy2MTZGCdhragN) | [Louis TM](https://open.spotify.com/artist/1Xk8BmjYwcGOGiYuQFzpOn) | [Never Give Up On Your Love](https://open.spotify.com/album/4tuNBs7f06qpkOvcksUi9D) | 3:17 | 2022-04-05 | 2022-07-18 |
 | [New Order T\-Shirt](https://open.spotify.com/track/0o9AwotmTahKoEOHZTtgIk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:56 | 2023-05-03 | 2023-05-24 |
 | [Nicotine](https://open.spotify.com/track/2f50Hox3osvMd0n6zdyb1b) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Nicotine](https://open.spotify.com/album/2Cn4CuYLHuVIMzTZUmfvgf) | 3:41 | 2022-04-05 | 2022-06-25 |
-| [Night Out](https://open.spotify.com/track/7rygtF1E2ztCZ9ESoWHh64) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Night Out](https://open.spotify.com/album/7JRop3GXWnHT9rakkGrUgW) | 3:11 | 2023-07-07 |  |
+| [Night Out](https://open.spotify.com/track/7rygtF1E2ztCZ9ESoWHh64) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Night Out](https://open.spotify.com/album/7JRop3GXWnHT9rakkGrUgW) | 3:11 | 2023-07-07 | 2023-08-26 |
+| [Night Out \(feat\. Molly Payton\)](https://open.spotify.com/track/6Buo6FcEuYbBUrBwJ56rmF) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i), [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Night Out \(feat\. Molly Payton\)](https://open.spotify.com/album/1vv4b1537ILN8gNqnV4D9m) | 3:11 | 2023-08-24 |  |
 | [No More Regrets](https://open.spotify.com/track/0H5ymF4M4epwaUkcXxy9uV) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Just Kids \(Mixtape\)](https://open.spotify.com/album/3gMFPlMlKEBGLxWdbjQy4A) | 3:00 | 2022-04-05 | 2022-07-01 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2022-04-05 | 2022-07-29 |
 | [Not Even In Vegas](https://open.spotify.com/track/7py49RvdjMaZCEDPzMTgo9) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Not Even In Vegas](https://open.spotify.com/album/5XtC3nUPdSyxC2RLLaiZQF) | 2:55 | 2022-04-05 | 2022-07-25 |

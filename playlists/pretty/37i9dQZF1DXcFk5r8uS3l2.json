@@ -1,13 +1,33 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Vintage Trouble",
-  "num_followers": 440081,
+  "num_followers": 440154,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWE5YjQ2MjE0ZGI1YWZlMjlhNDg2ODU3NjQ5YWVmYzU2ZGMwZGQ5",
+  "snapshot_id": "MCw5MzAzYWJlZWUwYzA0Y2MyNjYyMzUxNTgxMzRhMjUyYWUwMmFlMmNm",
   "tracks": [
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Greybird",
+        "url": "https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        },
+        {
+          "name": "T Bird and the Breaks",
+          "url": "https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0"
+        }
+      ],
+      "duration_ms": 254586,
+      "name": "Hard to Believe",
+      "url": "https://open.spotify.com/track/3IfNXZSR5nEnYmnu2zsVUJ"
+    },
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
@@ -75,6 +95,26 @@
       "duration_ms": 251503,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/5Z6HBuy8X9MPFq5pIhrEvA"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Size Up",
+        "url": "https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Josh Cunningham",
+          "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
+        }
+      ],
+      "duration_ms": 216964,
+      "name": "Size Up",
+      "url": "https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1037,22 +1077,6 @@
       "url": "https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR"
     },
     {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Rebels In The Street",
-        "url": "https://open.spotify.com/album/4SPtUiUfHxlWbfLSGIwWmA"
-      },
-      "artists": [
-        {
-          "name": "The Red Goes Black",
-          "url": "https://open.spotify.com/artist/12BYA91BSCxjbk1b638nlR"
-        }
-      ],
-      "duration_ms": 229540,
-      "name": "Rebels In The Street",
-      "url": "https://open.spotify.com/track/5kGFXbSqDNadDBSsdyO94y"
-    },
-    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Nights Like This",
@@ -1347,22 +1371,6 @@
       "duration_ms": 239933,
       "name": "Fire - Edit",
       "url": "https://open.spotify.com/track/4mGkVCstt9CC4mIU8iHOZ5"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "The Breeze",
-        "url": "https://open.spotify.com/album/20qckV3u4PYG6MHZSWJwhH"
-      },
-      "artists": [
-        {
-          "name": "Kenny Sharp",
-          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
-        }
-      ],
-      "duration_ms": 156158,
-      "name": "The Breeze",
-      "url": "https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir"
     },
     {
       "added_at": "2022-09-16 04:01:00",

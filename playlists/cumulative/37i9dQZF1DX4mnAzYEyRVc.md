@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Ska\-P
 
-537 songs - 1 day 7 hr 6 min
+538 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,8 +478,9 @@
 | [Three Minute Hero](https://open.spotify.com/track/55yts7rwNfA3hHxrQ4dOWO) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Too Much Pressure](https://open.spotify.com/album/6f8SH2SA0jQjxRygfnktc6) | 3:03 | 2021-12-06 | 2022-07-19 |
 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Panico Latino](https://open.spotify.com/artist/4QT18Bb3BJ647bh6TWv30O) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 | 2021-12-06 | 2022-07-29 |
 | [Tijuana In Blue](https://open.spotify.com/track/2rF8574TBr8wB9g70GBBKO) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [En Su Punto](https://open.spotify.com/album/41yjgzxo9KWsPht6pLXvoz) | 2:35 | 2021-12-06 | 2022-07-29 |
-| [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2021-12-06 |  |
+| [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2021-12-06 | 2023-08-26 |
 | [Time Bomb](https://open.spotify.com/track/5kxxhOkxd7j57e7oL121gI) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/596cCa6FfamS1WvGbIyFGl) | 2:24 | 2021-12-06 | 2022-07-29 |
+| [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 | 2023-07-28 |  |
 | [Tiran Bombas](https://open.spotify.com/track/1mWukoi0qibt7ejatbGPKW) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Los Intocables](https://open.spotify.com/album/0S4yC2DkQoKjw55hqehYTJ) | 3:03 | 2021-12-06 | 2022-07-29 |
 | [Tocando Fondo](https://open.spotify.com/track/3p8EcRVUPb6y2P04ep5vag) | [Ska Beat City](https://open.spotify.com/artist/4ZrOD7qBmuKV06QXkC9j6o), [Mavi Díaz](https://open.spotify.com/artist/4vxmDBcHT1ibxYBYKirIaW) | [Tocando Fondo](https://open.spotify.com/album/4odxo1WkylfY4tnzNYRl3t) | 3:45 | 2021-12-06 | 2022-07-28 |
 | [Todo Llegará](https://open.spotify.com/track/38PlvrAQWCDgRFQhtJmHkP) | [Trashtucada](https://open.spotify.com/artist/5XaswkruXoiyiteNBM75Jk) | [Todo Llegará](https://open.spotify.com/album/3KCMyBZ0L0XBLHQfOLNUOO) | 3:37 | 2023-06-30 | 2023-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Shemekia Copeland",
-  "num_followers": 50965,
+  "num_followers": 50991,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzI4YzE2YjEwOWIzZjc2ZjQxMjk4MGM5ZmZkYzJjNjc5ZTBiN2Ix",
+  "snapshot_id": "MCwyZjNjYTM2ZmEwYmQxY2U5ZWE2OTRmODdmNjZmYzllYWE3Y2YwOGEz",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -35,6 +35,22 @@
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Long Road Ahead",
+        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 202143,
+      "name": "Long Road Ahead",
+      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -119,6 +135,22 @@
       "duration_ms": 229594,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/5HyNNoCfx2vph4CCiPYY2N"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Endless Highway",
+        "url": "https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Endless Highway",
+      "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1521,22 +1553,6 @@
       "url": "https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Together",
@@ -1687,22 +1703,6 @@
       "duration_ms": 674000,
       "name": "Blacksnake Blues",
       "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "If Only We Could",
-        "url": "https://open.spotify.com/album/1UxYLNy0YaYcEEiDAoC8tL"
-      },
-      "artists": [
-        {
-          "name": "Clarence Spady",
-          "url": "https://open.spotify.com/artist/4S7wCzdA9VML3k2K8O4BhU"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "If Only We Could",
-      "url": "https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc"
     },
     {
       "added_at": "2021-09-24 04:02:00",

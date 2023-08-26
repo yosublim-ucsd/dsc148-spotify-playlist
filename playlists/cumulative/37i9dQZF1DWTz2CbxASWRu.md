@@ -4,11 +4,11 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-353 songs - 1 day 1 hr 44 min
+354 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 |  |
+| [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 | 2023-08-26 |
 | [A Minha Menina](https://open.spotify.com/track/3NefwRYI7GuLkajzHoRVRf) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Nuestras Canciones](https://open.spotify.com/album/3OVCObdYjGdtRr5t9mQfX3) | 3:17 | 2023-07-10 |  |
 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 | 2023-07-10 |  |
 | [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2023-07-10 |  |
@@ -268,6 +268,7 @@
 | [Popcorn Andino](https://open.spotify.com/track/7kkijB89vc5uGbG1WhUFZu) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 5:19 | 2023-07-10 |  |
 | [Pra Manha](https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Songs From The Tin](https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl) | 6:13 | 2023-07-10 |  |
 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 | 2023-07-10 |  |
+| [Que Sea para Mí \(Sabor a Mar\)](https://open.spotify.com/track/5z9W5BFUJmwkPGww6rfFUo) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:18 | 2023-07-10 |  |
 | [Que Sepan Todos](https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc) | [Que Sepan Todos](https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5) | 3:25 | 2023-07-10 |  |
 | [Quemando caña](https://open.spotify.com/track/7n3KPphtrM2l6FCR3Xe3Sm) | [Juan Perro](https://open.spotify.com/artist/6r3JyEDH6cQyEhcUfTshpt) | [Libertad](https://open.spotify.com/album/5T71fozES6Xtal2TJAVvRM) | 3:22 | 2023-07-10 |  |
 | [Quero Mais](https://open.spotify.com/track/4dPmbjMzi8udblqMhXGar6) | [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Baia](https://open.spotify.com/album/1u5tVyHknrgMtdMW2i6TLG) | 2:39 | 2023-07-10 |  |

@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-159 songs - 8 hr 44 min
+160 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Yeehaw](https://open.spotify.com/track/3h7Ftxcsch5Vf9gudChXCR) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Yeehaw](https://open.spotify.com/album/42iCh9VeEuvdweymnrZydN) | 2:26 | 2021-12-10 |  |
 | [You Broke Up with Me \- Remix](https://open.spotify.com/track/6oWjS5jBcEEr3GedlcfwfI) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [remixed](https://open.spotify.com/album/5RDzXCt8pM1p7qJ0DViwXj) | 3:08 | 2021-12-10 |  |
 | [You Got It \(Ryan Riback Remix\)](https://open.spotify.com/track/3KUtdymNzYk5yA1so29RRl) | [Ryan Robinette](https://open.spotify.com/artist/0TyoYqD4NUQuF4Rv76MCdu), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [You Got It \(Ryan Riback Remix\)](https://open.spotify.com/album/1DsmQZl8jJrNAoJq12RzHj) | 2:35 | 2022-03-25 |  |
+| [You're Still The One \- Cheat Codes Remix](https://open.spotify.com/track/7zBrLlKtSc315jsBS9loTD) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 2:31 | 2023-08-25 |  |
 | [You're Still The One \- Frank Walker Remix](https://open.spotify.com/track/78Rs4n8DEwaRh7CWeEySx5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [You're Still The One \(Frank Walker Remix\)](https://open.spotify.com/album/7yCMIRLkgNrLRVnRSTyE4o) | 3:00 | 2023-07-28 |  |
-| [You're Still The One \- Soul Solution Extended Club Mix](https://open.spotify.com/track/3jFSIacWpvXqr8oYXa0xI4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [When](https://open.spotify.com/album/0ip7usbONC8i58g7scoFr5) | 8:43 | 2021-12-10 |  |
+| [You're Still The One \- Soul Solution Extended Club Mix](https://open.spotify.com/track/3jFSIacWpvXqr8oYXa0xI4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [When](https://open.spotify.com/album/0ip7usbONC8i58g7scoFr5) | 8:43 | 2021-12-10 | 2023-08-26 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

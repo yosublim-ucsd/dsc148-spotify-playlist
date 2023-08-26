@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation Cover: MJ Lenderman",
+  "description": "indie tunes with country experimentation Cover: Slow Pulp",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 231911,
       "name": "Blue Lightning",
       "url": "https://open.spotify.com/track/2PNvb2hdbbAvWCjybGbqXO"
+    },
+    {
+      "album": {
+        "name": "Broadview",
+        "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
     },
     {
       "album": {
@@ -1052,6 +1070,24 @@
       "duration_ms": 244189,
       "name": "Golden Spoon",
       "url": "https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l"
+    },
+    {
+      "album": {
+        "name": "Good Ol Days",
+        "url": "https://open.spotify.com/album/0AYf7a5HfwRars592KS1Dr"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294329,
+      "name": "Good Ol Days",
+      "url": "https://open.spotify.com/track/3cZreNPb0hNWeHeamr88jR"
     },
     {
       "album": {
@@ -2070,6 +2106,24 @@
       "duration_ms": 79189,
       "name": "Shirley",
       "url": "https://open.spotify.com/track/3RoXuQNiqtWPigQFfbWqqm"
+    },
+    {
+      "album": {
+        "name": "Sandhills",
+        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
     },
     {
       "album": {

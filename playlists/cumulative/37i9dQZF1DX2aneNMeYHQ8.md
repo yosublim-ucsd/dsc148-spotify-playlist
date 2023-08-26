@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: The Revivalists
 
-322 songs - 19 hr 32 min
+323 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Live Like You](https://open.spotify.com/track/68iwvl6HFqLn4BIjdmdwON) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Live Like You](https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda) | 3:01 | 2022-07-01 | 2023-08-20 |
 | [Living Proof](https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Living Proof](https://open.spotify.com/album/5KxYGbvy6UPe6at4W8hE45) | 4:53 | 2021-07-23 | 2022-01-15 |
 | [LONEDON](https://open.spotify.com/track/7IFvkycsxZNtfdl2htZgFr) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [LONEDON](https://open.spotify.com/album/6hVb6tsYyQ6nD7nDpgfRe6) | 3:14 | 2022-10-21 | 2022-11-12 |
+| [Lonely In This Town](https://open.spotify.com/track/0UOdFcj336Zdroeq6uO3W2) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Lonely In This Town](https://open.spotify.com/album/6JWH86y5BMSpSTbkV0m0zy) | 4:20 | 2023-08-18 |  |
 | [Long Way](https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Long Way](https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd) | 4:46 | 2021-09-08 |  |
 | [Lose It](https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 5:30 | 2022-07-01 |  |
 | [lost ‘cause](https://open.spotify.com/track/6RjhyqZZgQz65hOUFdBIEm) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [interrobang](https://open.spotify.com/album/4i7jYYRg860Ni7nxqoimzj) | 3:44 | 2021-08-20 | 2022-04-09 |
@@ -244,7 +245,7 @@
 | [Shaking off the Evil](https://open.spotify.com/track/3ciJVCGD7fJmHQPyVGcG2U) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Shaking off the Evil](https://open.spotify.com/album/5d0TZJlxMGzDsIhAbJOyQR) | 3:53 | 2021-01-29 | 2022-01-22 |
 | [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 3:16 | 2021-01-29 | 2022-01-15 |
 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 | 2021-01-29 | 2022-01-22 |
-| [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 | 2022-05-25 |  |
+| [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 | 2022-05-25 | 2023-08-26 |
 | [Shoulders](https://open.spotify.com/track/4FhkSP4yv0UANHdTnM49Es) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Shoulders](https://open.spotify.com/album/0o1pJt6hzRCX3iMQImmPQs) | 3:23 | 2022-04-22 | 2022-07-02 |
 | [Singing a Mountain Song](https://open.spotify.com/track/1nDeQ0ysBGI0jsYkx0149F) | [The High Hawks](https://open.spotify.com/artist/7dtgvlkHjSebqdESzFCh5E) | [The High Hawks](https://open.spotify.com/album/1QmTlgRXBeASO0Rq3XNdr9) | 3:25 | 2022-05-25 | 2022-06-30 |
 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2022-08-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1211,
+  "num_followers": 1215,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDZmMzYzMjAzZjkyYzM0NDAxNzFmYjhlYzExYzUwM2YyMTZlOGM4",
+  "snapshot_id": "MCw2OTQxOWYyOGRjNTVhNmVjNWI1ZTc3YWZmMjJjZTM2OGFmY2RmOWFl",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "ZENFAN LAKAZ TOL",
+        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
+      },
+      "artists": [
+        {
+          "name": "Bigg Frankii",
+          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Ena Ennta Zetwal",
+      "url": "https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Di pain griy\u00e9",
         "url": "https://open.spotify.com/album/2jCW2gVLxfJ7Sj1KtNyWgr"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 242826,
       "name": "Di pain griy\u00e9",
       "url": "https://open.spotify.com/track/7oHhCJYWfrQC6000ZhGrEk"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "ZENFAN LAKAZ TOL",
-        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
-      },
-      "artists": [
-        {
-          "name": "Bigg Frankii",
-          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Ena Ennta Zetwal",
-      "url": "https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "SA FAM LA",
+        "url": "https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb"
+      },
+      "artists": [
+        {
+          "name": "Demaiko",
+          "url": "https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "SA FAM LA",
+      "url": "https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Enn lot kouler",
         "url": "https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 237960,
       "name": "Touletemp (feat. Sista Queen)",
       "url": "https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "SA FAM LA",
-        "url": "https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb"
-      },
-      "artists": [
-        {
-          "name": "Demaiko",
-          "url": "https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "SA FAM LA",
-      "url": "https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6"
     },
     {
       "added_at": "2022-08-11 10:05:16",

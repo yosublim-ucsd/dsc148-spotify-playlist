@@ -2,9 +2,9 @@
 
 ### [Bass Lounge](https://open.spotify.com/playlist/37i9dQZF1DWX8l0PIEOYVj)
 
-> Future & melodic bass\. Cover: Dabin.
+> Future & melodic bass\. Cover: Kill The Noise.
 
-419 songs - 1 day 1 hr 4 min
+420 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 | 2023-04-28 |  |
 | [Out of Love](https://open.spotify.com/track/6w2qrr2ir08VtisKOh8n4P) | [Arcane](https://open.spotify.com/artist/4dj24SyTs5oxqWmTuQE8hn) | [Out of Love](https://open.spotify.com/album/1ucsmQ2EYTjnFdf5B9dzU2) | 3:46 | 2022-07-08 |  |
 | [Overflow](https://open.spotify.com/track/7fmijESG18W7PcwEUdVKmh) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [LV\-L8](https://open.spotify.com/artist/3UpBv2zDd5kMfECzOquXy4) | [Overflow](https://open.spotify.com/album/20U8HQGNGCy5vBVq0xfxRp) | 2:37 | 2022-07-08 | 2022-12-04 |
+| [Paper Moon](https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [ARE WE DREAMING](https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa) | [HOLLOW WORLD](https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719) | 3:45 | 2023-08-25 |  |
 | [Parachute](https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Parachute](https://open.spotify.com/album/5g9FEdY7SHc21AD2duTgac) | 3:52 | 2022-07-08 | 2023-04-09 |
 | [Paradise](https://open.spotify.com/track/20F3bL1ZP2n0umEGsIcyGE) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy), [Wonderland](https://open.spotify.com/artist/4TXpS1ODZBsaRdS4eeunfC) | [Paradise](https://open.spotify.com/album/3TaDmHFuoElKXGw8JC6LL7) | 3:09 | 2023-03-31 |  |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-07-08 | 2023-05-27 |
@@ -415,7 +416,7 @@
 | [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 | 2022-09-02 | 2023-07-12 |
 | [Wild And Broken \(feat\. RBBTS\)](https://open.spotify.com/track/5NuTqBz0vd3z3eBDmTg6no) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [Wild And Broken \(feat\. RBBTS\)](https://open.spotify.com/album/58eFCzM4IjqdcTV2RCSTYy) | 4:03 | 2022-07-08 | 2022-08-06 |
 | [Wild Ones](https://open.spotify.com/track/2nCMeiTtIRskxjAzCamebn) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Wild Ones](https://open.spotify.com/album/3fZcUSJ3t0u4XftTN9aB2v) | 3:28 | 2022-07-08 | 2022-08-06 |
-| [Wisdom \- Amidy Remix](https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Wisdom \(Amidy Remix\)](https://open.spotify.com/album/3lHlijAOHgMQTPoVDZapdp) | 3:50 | 2022-07-08 |  |
+| [Wisdom \- Amidy Remix](https://open.spotify.com/track/0YSiQe01nvWo5mBmwNx602) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Wisdom \(Amidy Remix\)](https://open.spotify.com/album/3lHlijAOHgMQTPoVDZapdp) | 3:50 | 2022-07-08 | 2023-08-26 |
 | [With You](https://open.spotify.com/track/3cfhbNNdNeBnCE3J8eB0uH) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/1neAhuudRpt7salaglI1I5) | 3:30 | 2022-07-08 | 2023-04-09 |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-07-08 | 2022-07-29 |
 | [Worlds Away](https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away](https://open.spotify.com/album/1houBJfStVPhEjlJc1Dndr) | 4:10 | 2023-06-16 |  |

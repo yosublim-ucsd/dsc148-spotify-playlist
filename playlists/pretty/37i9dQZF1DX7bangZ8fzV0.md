@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=OH1tblCkSrmuT69\-NNC4IA">Ricus Nel</a>  & <a href="https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd?si=vc\-N7YMcQX\-EdMc2eT0LrQ">Kurt Darren</a> & <a href="https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=XUw3vH7zRdmv\_xw5sTVvJQ">Eloff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,689 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,785 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Vuil Coke](https://open.spotify.com/track/3tDxxrog40sqbYRN1xPTfx) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [Vuil Coke](https://open.spotify.com/album/1Y12kOAc9lTcGHWYXIhceh) | 3:37 |
 | 75 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 |
 
-Snapshot ID: `MCwxZmY5MTY2MDFlZTBjNmEyOWZjY2NhNTUzNGZlZDQ2ZDY2NjdkZTYy`
+Snapshot ID: `MCwwYjY3ZjNiMjMyOTRjZmU3ZThjMjhiNzFhZTY2YjU0YmU2ODgxYTdk`

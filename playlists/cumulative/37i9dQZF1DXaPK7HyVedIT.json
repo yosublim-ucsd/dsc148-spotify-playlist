@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Vitor Bueno",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Alok",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -72,7 +72,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 157142,
       "name": "5th Symphony",
       "url": "https://open.spotify.com/track/5pWRMkVuhSjZdDNtup4xIe"
@@ -134,7 +134,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 239999,
       "name": "ANTISSOCIAL",
       "url": "https://open.spotify.com/track/2UGAXXO6rxhGIWEROH996S"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 171428,
       "name": "B2 The Old School",
       "url": "https://open.spotify.com/track/596H2wc56DHytSsVNC3ZdX"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 157619,
       "name": "Bad For U",
       "url": "https://open.spotify.com/track/6QSJ6YykdSXSXIXEIyXDjz"
@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Chaos 32",
+        "url": "https://open.spotify.com/album/17appExbNIbdc4aPRcAZ6E"
+      },
+      "artists": [
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110078,
+      "name": "Chaos 32",
+      "url": "https://open.spotify.com/track/1FkbT2goO7NBjyJzrV6b9K"
+    },
+    {
+      "album": {
         "name": "CKULO",
         "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
@@ -734,6 +752,28 @@
       "duration_ms": 309622,
       "name": "Drink In Paris - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/71ByycVMMQt1ksonm9Bq18"
+    },
+    {
+      "album": {
+        "name": "Drum Machine",
+        "url": "https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Drum Machine",
+      "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
     },
     {
       "album": {
@@ -1119,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "I\u2019ll Be Yours",
+        "url": "https://open.spotify.com/album/6ktQGw4pvYbRe8WzpFuS5s"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224647,
+      "name": "I'll Be Yours",
+      "url": "https://open.spotify.com/track/2xz79df2wvttaPMvGJ7CdO"
+    },
+    {
+      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/2BTDtKatM3SLC3Dz7BT7Bd"
       },
@@ -1163,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "album": {
         "name": "Just Like You Do",
         "url": "https://open.spotify.com/album/1d1iQqxQcRmlo5Si8cVC8s"
       },
@@ -1178,7 +1258,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 157283,
       "name": "Just Like You Do",
       "url": "https://open.spotify.com/track/78nADVmhPNONKTed3XmuhW"
@@ -1558,7 +1638,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 159458,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
@@ -1576,7 +1656,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 185625,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/7yhncpKK3TG7aoYcyjKKAc"
@@ -1598,6 +1678,24 @@
       "duration_ms": 196000,
       "name": "Piece of Mind",
       "url": "https://open.spotify.com/track/077nlPyo66esQ7ZmcVxcbL"
+    },
+    {
+      "album": {
+        "name": "Please Press Play",
+        "url": "https://open.spotify.com/album/7F7lLV1T0hqmR3GOSiENan"
+      },
+      "artists": [
+        {
+          "name": "Agguiar",
+          "url": "https://open.spotify.com/artist/6TapvGfMBXqnvHSQCAuouV"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160650,
+      "name": "Please Press Play - Radio Edit",
+      "url": "https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk"
     },
     {
       "album": {
@@ -1697,6 +1795,46 @@
     },
     {
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/5Zlbsn63qOeWzxsWGBcKvu"
+      },
+      "artists": [
+        {
+          "name": "ROWKA",
+          "url": "https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159112,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/3BY2fLp02wGqMa2GsMTJLa"
+    },
+    {
+      "album": {
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP"
+    },
+    {
+      "album": {
         "name": "Rock The Casbah",
         "url": "https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo"
       },
@@ -1726,7 +1864,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 175238,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/5NyQ7NvT3zwisjmsUZkqTw"
@@ -1788,7 +1926,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 159853,
       "name": "Taki",
       "url": "https://open.spotify.com/track/5hKRfygrnxV9mN7y8xo7EN"
@@ -1836,7 +1974,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 160887,
       "name": "The Race",
       "url": "https://open.spotify.com/track/3cv2fSTYRr42WM90C9dswx"
@@ -1923,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "Temple Of Dreams (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "Tijuana - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD"
+    },
+    {
+      "album": {
         "name": "Tina",
         "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
       },
@@ -1946,7 +2106,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 262500,
       "name": "Tina",
       "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
@@ -2022,7 +2182,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 193548,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/6E1N387p5fOdtSI0KQSyLd"

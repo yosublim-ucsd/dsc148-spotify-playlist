@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 78086,
+  "num_followers": 78180,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2E0OGQyZGJkYjlmZDAwOWU4MjM3OGFjNTExNzcwYWU5ODlmZTg2",
+  "snapshot_id": "MCw1NGJiNTNjMGQwYjc5M2I1OWRlOTMzZjEzMTIwZjQ0ZTc4MjY2NDM4",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Die Trying",
         "url": "https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 209536,
       "name": "Die Trying",
       "url": "https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2021-09-22 14:36:46",

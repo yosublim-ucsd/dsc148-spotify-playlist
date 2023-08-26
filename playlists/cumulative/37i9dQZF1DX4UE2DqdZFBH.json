@@ -1027,6 +1027,28 @@
     },
     {
       "album": {
+        "name": "Better Than Sax",
+        "url": "https://open.spotify.com/album/4WIsMlGITAMy1QUYUY1zx2"
+      },
+      "artists": [
+        {
+          "name": "Darshan Doshi",
+          "url": "https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy"
+        },
+        {
+          "name": "Mark Hartsuch",
+          "url": "https://open.spotify.com/artist/0YHxyyD4PHmFZipMtvH5K5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Legacy Makers",
+      "url": "https://open.spotify.com/track/65skfrGCGs0RCaGC3cHOaH"
+    },
+    {
+      "album": {
         "name": "Beginners Luck",
         "url": "https://open.spotify.com/album/4l6UFFoN4C7uixV6qFVuqz"
       },

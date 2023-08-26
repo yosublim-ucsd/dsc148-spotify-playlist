@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 
 > Comforting Blues to warm the soul when there’s no point going outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,944 likes - 68 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,976 likes - 68 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 | 67 | [Sittin' Here Thinkin](https://open.spotify.com/track/5HrztaUeeQaraA5IsBWzm6) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:07 |
 | 68 | [Broke and Hungry](https://open.spotify.com/track/2LkthyImwECrhIQDmygSfC) | [Hubert Sumlin](https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9) | [My Guitar and Me \(Blues Reference\)](https://open.spotify.com/album/0KojeQ3QJNd05QIeSHQ3z3) | 5:51 |
 
-Snapshot ID: `MCxjZDAzMWViMjJmMzY4ZGIwMzEzZDBhZWNkZDYzYjE3M2MzNzU4MjNm`
+Snapshot ID: `MCxmZjUyYTJlNTg2Yzk1YzE2YjI5NGY0ZWZmN2Q0NTE4MDJhNTc3NGQz`

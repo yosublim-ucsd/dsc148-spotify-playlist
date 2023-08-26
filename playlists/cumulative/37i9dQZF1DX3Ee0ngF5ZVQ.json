@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jenna Paulette",
+  "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Turnpike Troubadours",
   "name": "Texas Country Now",
   "tracks": [
     {
@@ -128,6 +128,46 @@
       "duration_ms": 210659,
       "name": "50 In The Fast Lane",
       "url": "https://open.spotify.com/track/5alOkELJvfoqRQGDkJn6Gc"
+    },
+    {
+      "album": {
+        "name": "9 To 5",
+        "url": "https://open.spotify.com/album/5kicg2H6THrgsSoW3SAA4v"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136358,
+      "name": "9 To 5 (feat. Kylie Frey)",
+      "url": "https://open.spotify.com/track/1fVv9DVpLNiobkGlE1LrtH"
+    },
+    {
+      "album": {
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317226,
+      "name": "A Cat in the Rain",
+      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
     },
     {
       "album": {
@@ -558,6 +598,28 @@
       "duration_ms": 182346,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+    },
+    {
+      "album": {
+        "name": "Ask Me To Dance (feat. Hayes Carll)",
+        "url": "https://open.spotify.com/album/4PRPnlKErEf5LqTdiwmJqJ"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156523,
+      "name": "Ask Me To Dance (feat. Hayes Carll)",
+      "url": "https://open.spotify.com/track/6cbUXmdoD6mgh7Cs6o0xQz"
     },
     {
       "album": {
@@ -1044,6 +1106,24 @@
       "duration_ms": 180774,
       "name": "Boots on My Feet",
       "url": "https://open.spotify.com/track/5tHQXCXWmrc4ioLhCxZSGF"
+    },
+    {
+      "album": {
+        "name": "Border Radio",
+        "url": "https://open.spotify.com/album/3IUZOmv3B83l1jF976AIAi"
+      },
+      "artists": [
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183405,
+      "name": "Border Radio",
+      "url": "https://open.spotify.com/track/3JpXOvjKO49lZt5mh7JKLC"
     },
     {
       "album": {
@@ -1678,7 +1758,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 141380,
       "name": "Cool To Be Country",
       "url": "https://open.spotify.com/track/24vldRj2TiD05ZQ3Som7vi"
@@ -2020,7 +2100,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 225194,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/0VsJggPyMWdXSH3FNSKd6e"
@@ -4182,7 +4262,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 228105,
       "name": "If I Could Build a Bar",
       "url": "https://open.spotify.com/track/6X5N5onLc64czPlaTjJFTN"
@@ -4460,6 +4540,24 @@
       "duration_ms": 253879,
       "name": "January",
       "url": "https://open.spotify.com/track/4l7frKzWhjH6jPtBm99hcy"
+    },
+    {
+      "album": {
+        "name": "Jesus in a Bar",
+        "url": "https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238815,
+      "name": "Jesus in a Bar",
+      "url": "https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk"
     },
     {
       "album": {
@@ -5037,6 +5135,24 @@
     },
     {
       "album": {
+        "name": "Madison",
+        "url": "https://open.spotify.com/album/6WA8s9UiGc4r7WJWz66VZc"
+      },
+      "artists": [
+        {
+          "name": "David Pugh",
+          "url": "https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284026,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/33BaBCFqa8DrV9pj2pUDer"
+    },
+    {
+      "album": {
         "name": "Makin' It By (Side B)",
         "url": "https://open.spotify.com/album/0du8vLQfYBy17zx3Evef9F"
       },
@@ -5182,7 +5298,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 159964,
       "name": "Might Be Getting over You",
       "url": "https://open.spotify.com/track/4en9gb3AKmJATNPy73d1gk"
@@ -5488,7 +5604,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 192471,
       "name": "Nothing No More",
       "url": "https://open.spotify.com/track/0kLyVOwCvlxsT7Z3dSJpNg"
@@ -5676,6 +5792,24 @@
       "duration_ms": 209702,
       "name": "Open Road",
       "url": "https://open.spotify.com/track/51WG9PYBpY8wgecAZFEMTS"
+    },
+    {
+      "album": {
+        "name": "Oughta See You (The Way I Do)",
+        "url": "https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235446,
+      "name": "Oughta See You (The Way I Do)",
+      "url": "https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7"
     },
     {
       "album": {
@@ -6412,7 +6546,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 215779,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4Rr95j82AomVqqbAOewgex"
@@ -6452,7 +6586,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 267087,
       "name": "She Can't Be Found",
       "url": "https://open.spotify.com/track/0S7JGv7sbJlrr6BBMfRKye"

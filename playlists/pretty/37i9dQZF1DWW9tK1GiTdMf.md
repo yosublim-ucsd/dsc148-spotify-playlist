@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  GAYLE in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,531 likes - 85 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,535 likes - 85 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 84 | [Storia Stupida](https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Storia Stupida](https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur) | 3:04 |
 | 85 | [Tinder](https://open.spotify.com/track/6fdbDa6L0sFK31d8FC9pt7) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Tinder](https://open.spotify.com/album/64xMm3GMM8oz7d25iJXEgT) | 2:14 |
 
-Snapshot ID: `MCxhOWI5MGM2NmEzYzY3ODM4OTU1Nzk2ZmVkYmNhZTA5Yzg5Njk4ZTAy`
+Snapshot ID: `MCw4NjliOTNhOTA4MzFlYTc3MmI2NWJjOTA0NTZiMWMxNDhlNDk3OTg0`

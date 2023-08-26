@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Charmy pham
 
-161 songs - 10 hr 31 min
+163 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/2EMbVMhUtYNfuAhTi9HvBk) | [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/7oZP3YD6tt4RAreNqTsjGv) | 3:34 | 2021-12-07 | 2022-07-29 |
 | [lửa gần rơm lâu ngày cũng bén](https://open.spotify.com/track/1Xmoej3kUKCFl9tvLsVe6U) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C), [39 Kingdom](https://open.spotify.com/artist/2JnQtHnHjylFjCDkYAiH1E) | [lửa gần rơm lâu ngày cũng bén](https://open.spotify.com/album/3QmjIV0jHDEUKRz8WfmXM8) | 2:36 | 2021-12-29 | 2023-01-04 |
 | [mang ghế ra sân ngồi hát \(feat\. Tóc Tiên\)](https://open.spotify.com/track/5l0ldjwmggEOzKY2KrY086) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 3:31 | 2022-06-01 | 2022-07-01 |
-| [Missing You](https://open.spotify.com/track/1AAGvzJRWMTKx7PNfeTvP4) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [Missing You](https://open.spotify.com/album/1b60c7XKSLPW7s1f0CBWqF) | 4:02 | 2022-07-05 |  |
+| [Missing You](https://open.spotify.com/track/7D5hQQZXK33EpJdn1zdLch) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Missing You](https://open.spotify.com/album/6glbutLmt19rxMZYe4QFVi) | 4:02 | 2023-08-10 |  |
+| [Missing You](https://open.spotify.com/track/1AAGvzJRWMTKx7PNfeTvP4) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [Missing You](https://open.spotify.com/album/1b60c7XKSLPW7s1f0CBWqF) | 4:02 | 2022-07-05 | 2023-08-26 |
 | [Mong Cho Anh \- Unplugged](https://open.spotify.com/track/1SjMtotf90psm4i8xWVhkC) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Trạm Không Gian Số 0 \(Unplugged\)](https://open.spotify.com/album/5ScazWOt0AHFU5tiJCtcuA) | 3:09 | 2021-12-07 | 2022-05-11 |
 | [Mân Côi](https://open.spotify.com/track/0p2mf4CTUyzvBuzLrIgrvh) | [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Mân Côi](https://open.spotify.com/album/5uHS6eI46RbGKPkzSR0tZY) | 4:13 | 2021-12-07 | 2022-04-07 |
 | [Mình Yêu Đến Đây Thôi](https://open.spotify.com/track/5P5lTAd4r6ro0rMpjwg34u) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC) | [Yêu Rồi Yêu Rồi Yêu](https://open.spotify.com/album/4ajoBTSkKcfjsWoHr99drC) | 4:45 | 2022-01-04 | 2023-02-07 |
@@ -132,7 +133,8 @@
 | [Sunday Love](https://open.spotify.com/track/6bJyBH7HDV4wVW2EMkAFCO) | [Hoàng Rob](https://open.spotify.com/artist/43qZrcVKZleWlmoBVRBPO8), [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9), [SlimV](https://open.spotify.com/artist/2m8Bk9or6quybzoQbM0zQt) | [Sunday Love](https://open.spotify.com/album/7pl5E0rNJ79gO1lgLTSet8) | 4:00 | 2022-07-06 | 2022-08-27 |
 | [Sự Mập Mờ](https://open.spotify.com/track/1QKaj0g8pammcGn0JU8nnd) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Sự Mập Mờ](https://open.spotify.com/album/2qlrsRTlCm6bPyqncUndHh) | 3:49 | 2023-07-13 |  |
 | [thay mọi cô gái yêu anh](https://open.spotify.com/track/7e8Kt6pX4Y589CJL37mIWa) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [thay mọi cô gái yêu anh](https://open.spotify.com/album/3hR3yDFUQhLex9F9goRs80) | 3:35 | 2022-02-06 |  |
-| [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 | 2022-07-24 |  |
+| [ThichThich](https://open.spotify.com/track/3rx7g2qRxKscgtQUiKwQvN) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/6Nb0ehML3dHRw3pyfd71BY) | 4:01 | 2023-08-10 |  |
+| [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 | 2022-07-24 | 2023-08-26 |
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/4qJSUFwZFouto5VZUlln75) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/3EJFGb9JNfZq2AlyF9Y96Z) | 2:58 | 2023-07-13 |  |
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2021-12-07 | 2023-07-22 |
 | [thế giới không anh](https://open.spotify.com/track/4IpeOlxcNz1IFVvZ2ll7In) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [yesteryear](https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4) | 4:19 | 2021-12-07 | 2023-02-07 |

@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 167276,
       "name": "Dai Alkomar",
       "url": "https://open.spotify.com/track/48gQ8RYW4HRkmzLRwnNxsC"
@@ -3755,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Tezalzelha",
+        "url": "https://open.spotify.com/album/6VUhlLQr1uHxDQM4yxrtn9"
+      },
+      "artists": [
+        {
+          "name": "Myriam Fares",
+          "url": "https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Tezalzelha",
+      "url": "https://open.spotify.com/track/2lqk5xO1TWmd35ygR2ebAH"
+    },
+    {
+      "album": {
         "name": "Thanbak",
         "url": "https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV"
       },
@@ -4044,7 +4062,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 260798,
       "name": "Ya Ent",
       "url": "https://open.spotify.com/track/7KjwVP7HQbHCt42ml1NjWP"

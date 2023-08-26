@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,629 likes - 79 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,641 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 78 | [Show Me The Way You Love](https://open.spotify.com/track/0IlTOMZmU9vAvNGgsaV9TG) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Show Me The Way You Love](https://open.spotify.com/album/7vBSj21hnnMEu0TCoisNUx) | 2:50 |
 | 79 | [LOOK GOOD NAKED](https://open.spotify.com/track/1YNSzesjsiB00d2XFxfKzG) | [Thirty Something](https://open.spotify.com/artist/2b4ts7lp2EdW6ZXK1cxKYj) | [LOOK GOOD NAKED](https://open.spotify.com/album/3KsmKj6KroZmwSd2QReQNT) | 2:42 |
 
-Snapshot ID: `MCwxY2U5YjllZWVjM2JmNTZmOWQ2ZmUzNzJlMGM3ODdhMGE5MTY5ODcx`
+Snapshot ID: `MCxlMjMwNDM5YzZhYmE4ZmI5ZmU4ZTA2YjdlYjQ1NmFkYjUwZWIyOTBi`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "The hits that keep on rocking your world. Cover: Nickelback",
+  "description": "The hits that keep on rocking your world. Cover: TALK",
   "name": "Rock Favourites",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 192451,
       "name": "Grow Up Tomorrow",
       "url": "https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 181534,
       "name": "Red Line",
       "url": "https://open.spotify.com/track/4HwvUa2CQcIFT1mfz6we1X"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 211457,
       "name": "San Quentin",
       "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 186373,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/6T0Nh56rt7qHHaG6tAcGiz"

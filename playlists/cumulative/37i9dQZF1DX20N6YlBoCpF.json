@@ -4328,7 +4328,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 216687,
       "name": "Laat Dit Goed Gaan",
       "url": "https://open.spotify.com/track/1E1Xd3DxRitNhh6rf2JTUf"
@@ -5452,6 +5452,24 @@
       "duration_ms": 224516,
       "name": "Nes Ons Kan",
       "url": "https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh"
+    },
+    {
+      "album": {
+        "name": "Net 'N Bietjie Tyd",
+        "url": "https://open.spotify.com/album/56vCY9k5aZrNhX8JrQIARF"
+      },
+      "artists": [
+        {
+          "name": "Lila Swift",
+          "url": "https://open.spotify.com/artist/3lDhZhZ9p1kjMRqzCpnMCo"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Net 'N Bietjie Tyd",
+      "url": "https://open.spotify.com/track/2Edk4u9DDvSGpHo18sZtgx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Keeping it 140 \- Welcome to Grime Shutdown\. Cover: P Money
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,988 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,002 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 37 | [This Year](https://open.spotify.com/track/5XGGP9WDvBAXlyf7r3g3Tu) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [Tobi](https://open.spotify.com/artist/7d1uejzLK3gh4usemwN9kS) | [This Year](https://open.spotify.com/album/0wKRGkM4qZakqP4aIStBWW) | 2:58 |
 | 38 | [Quest For Coin II](https://open.spotify.com/track/6SfoGYDuS67WmwU9HCEpL0) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ) | [Quest for Coin II](https://open.spotify.com/album/3e5vMNSNvMfxHfaJPFgAOz) | 2:56 |
 | 39 | [Talking Alot](https://open.spotify.com/track/45U3b2vV513BuLWuFEXXiW) | [Mystic](https://open.spotify.com/artist/7CCxuhWfAVnHyZDDCeNIa4) | [Talking Alot](https://open.spotify.com/album/50z4BgMMEV24YqZiKauwPX) | 2:27 |
-| 40 | [No Safety](https://open.spotify.com/track/5MFSmJiHubzqQDoxvtAZMV) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [No Safety](https://open.spotify.com/album/4ahUWycw2YJcadTRFDlb4i) | 3:00 |
+| 40 | [Black](https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Black](https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr) | 2:43 |
 | 41 | [Tek Time](https://open.spotify.com/track/0ifvmZCU2ee2oHOVguCWmV) | [Joe Fire](https://open.spotify.com/artist/5m2RRNaXjF1FpG40ZHIQsh) | [Life Lessons](https://open.spotify.com/album/0ZMPMqrnNOMJBVonHtc35n) | 3:16 |
-| 42 | [Black](https://open.spotify.com/track/3PfZ5k91tflSkuOKP2IOk7) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Black](https://open.spotify.com/album/0FyCXLQ6ZcUTteSQGZMBsr) | 2:43 |
+| 42 | [No Safety](https://open.spotify.com/track/5MFSmJiHubzqQDoxvtAZMV) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [No Safety](https://open.spotify.com/album/4ahUWycw2YJcadTRFDlb4i) | 3:00 |
 | 43 | [Matrix Nokia](https://open.spotify.com/track/3uSIZTKQYmUs70EWTwkCzO) | [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Matrix Nokia](https://open.spotify.com/album/2xWI3W95SoPmFmsD8wUigM) | 2:46 |
 | 44 | [Bossman Riddim](https://open.spotify.com/track/5oNtnQyp8OawMizNzceDY4) | [Grizzly](https://open.spotify.com/artist/1N2SlYkuETCdPsgo4vQcY4), [IzaMik](https://open.spotify.com/artist/6bCx06Uj5vQpod3PWjoCuH) | [Bossman Riddim](https://open.spotify.com/album/22JSBe7GV7fbr4mXjEy6eu) | 1:23 |
 | 45 | [One Man Soldier](https://open.spotify.com/track/1Z6KnIZboD7NjyZaQGbJIb) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45) | [One Man Soldier](https://open.spotify.com/album/2phnwJOpSPnv5vqoX2YGhe) | 2:55 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 62 | [Enough is Enough \(feat\. Lethal Bizzle & Jme\)](https://open.spotify.com/track/3XgTa8asRKSxNOjUJKXwCj) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Enough is Enough \(feat\. Lethal Bizzle & Jme\)](https://open.spotify.com/album/3sqVQMc3C1f2mP97SSkxjW) | 3:48 |
 | 63 | [Charizard Freestyle](https://open.spotify.com/track/1GJ0TET9MTZgcxrmgiV2NV) | [Footsie](https://open.spotify.com/artist/32Z7rpzefCIn0GZ8XwzrwX), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Charizard Freestyle](https://open.spotify.com/album/4y7ktIWBKRhmHAceQqnUtT) | 2:22 |
 | 64 | [Chop \(Henry the 8th\)](https://open.spotify.com/track/4sHecHRP0Ir1uB3740figh) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45) | [Chop \(Henry the 8th\)](https://open.spotify.com/album/2f4kUXl2Q0pb8VZgW385Rd) | 3:00 |
-| 65 | [Yellow](https://open.spotify.com/track/52aUPdSO9GbTmcLxGiSTnE) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5) | [Yellow](https://open.spotify.com/album/6Sr7SYIUIKEIILHtyAnG4s) | 2:35 |
-| 66 | [Win Life Szn](https://open.spotify.com/track/73YuE0PCsbgrJxWFXIGTTt) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD) | [Join Forces](https://open.spotify.com/album/5zj4H764r6vgCx1LMWcqxz) | 3:12 |
+| 65 | [Win Life Szn](https://open.spotify.com/track/73YuE0PCsbgrJxWFXIGTTt) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD) | [Join Forces](https://open.spotify.com/album/5zj4H764r6vgCx1LMWcqxz) | 3:12 |
+| 66 | [Yellow](https://open.spotify.com/track/52aUPdSO9GbTmcLxGiSTnE) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5) | [Yellow](https://open.spotify.com/album/6Sr7SYIUIKEIILHtyAnG4s) | 2:35 |
 | 67 | [Bout It X2](https://open.spotify.com/track/3ifa4FrS2Ie7PB3SAd7LhW) | [So Large](https://open.spotify.com/artist/5wUWJullIwzFc4VZl9WSEK), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT), [Bossman Birdie](https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg) | [Bout It X2](https://open.spotify.com/album/5YoaKsQ7Clun1ACQAsayYe) | 2:32 |
 | 68 | [Very Original](https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Everywhere + Nowhere \(Black Edition Deluxe\)](https://open.spotify.com/album/308B9tBVWyLjjLan4517p4) | 3:08 |
 | 69 | [Boxing Bars \- Remix](https://open.spotify.com/track/059Ozkj9yMN1vHl8Za7u84) | [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV), [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Grim Sickers](https://open.spotify.com/artist/1pNDEbhb6K2TLS3vftZ3Y2) | [Boxing Bars \(Remix\)](https://open.spotify.com/album/4aos08a2eQE5VaiTgkgzjX) | 2:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 79 | [Gridlock](https://open.spotify.com/track/3P2hQR4co5NaqnbHuX2eJo) | [Eyez](https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV), [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN) | [Gridlock](https://open.spotify.com/album/2IQnBlvVYriEHdktWKPoHU) | 2:35 |
 | 80 | [Offline](https://open.spotify.com/track/1Jg9pMvUl9ltxJboGol7jI) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Offline](https://open.spotify.com/album/6dptrfT4Gvhc4hBenL0D0J) | 3:27 |
 
-Snapshot ID: `MCw5NDFmNGY5YjYzMmE0ODhiNDVmYmNjZjRjNmQzMTJiZmJmZjFmNTQ5`
+Snapshot ID: `MCw4MGM3NWRiNjk2ZjZkNGJlYWM5NTJiMjRlMWE5NmRmYzMyNjBkZGU2`

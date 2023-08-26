@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe?si=35e5ea6909dc430f\">Anna Golden<a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0?si=6a49d6504737400f\">Cody Carnes<a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1715,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "Current / One Day At A Time (Medley)",
+        "url": "https://open.spotify.com/album/4i8Va3TUqrJfOHymL70Fac"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230206,
+      "name": "Current / One Day At A Time - Medley",
+      "url": "https://open.spotify.com/track/3Y9yvWKk9n80sPjxVk4maA"
+    },
+    {
+      "album": {
         "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
       },
@@ -2074,6 +2096,24 @@
       "duration_ms": 382174,
       "name": "Firm Foundation (He Won\u2019t)",
       "url": "https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (Live)",
+        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Firm Foundation (He Won\u2019t) - Live",
+      "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
     },
     {
       "album": {
@@ -4546,7 +4586,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 264428,
       "name": "Life Again",
       "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
@@ -5832,7 +5872,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 441083,
       "name": "Plead The Blood - Live",
       "url": "https://open.spotify.com/track/0m1AnoBBUwVg5r5SOSyVrN"
@@ -6278,7 +6318,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 256329,
       "name": "Resurrection Day",
       "url": "https://open.spotify.com/track/4EHzPA0YxBw6YyvGceqK0T"
@@ -8538,6 +8578,28 @@
       "duration_ms": 380778,
       "name": "Wildfire - Live",
       "url": "https://open.spotify.com/track/0Ts2lin2ZV1MQrXR1NvGKV"
+    },
+    {
+      "album": {
+        "name": "What Could We Become?",
+        "url": "https://open.spotify.com/album/1MMXGg6FciHxwp6hXHdO3q"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338600,
+      "name": "Willing to Change",
+      "url": "https://open.spotify.com/track/5K2MDi900QPy45ttSJwvJi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-544 songs - 1 day 7 hr 2 min
+545 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Alma mía](https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Alma mía](https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ) | 3:12 | 2022-01-21 | 2022-07-27 |
 | [Amar al Mar](https://open.spotify.com/track/1ljAkjjUioQUcLzPrIoFw3) | [Leilén](https://open.spotify.com/artist/5ee7mOQEjMoEZyLVXrm3QG) | [Amar al Mar](https://open.spotify.com/album/3erEYkSwOCffOXdwnaCmR8) | 4:05 | 2023-08-18 |  |
 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 | 2023-06-22 |  |
-| [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 | 2023-08-18 |  |
+| [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 | 2023-08-18 | 2023-08-26 |
 | [Amigos Vampiros](https://open.spotify.com/track/5pzF43YryBiAIyaohrfnUK) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai) | [El Nuevo Planeta](https://open.spotify.com/album/7DaY5rgnwZ6BPzUdhzVEfw) | 4:01 | 2022-04-01 | 2022-06-15 |
 | [Amistad](https://open.spotify.com/track/7DEyv9Bi68StRGmgj88UMo) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mito](https://open.spotify.com/album/4sXHOot4KCgIyj4Nwu5Rmm) | 4:01 | 2022-01-14 | 2022-07-29 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-05-20 | 2022-06-04 |
@@ -67,6 +67,7 @@
 | [AZÚCAR](https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [AZÚCAR](https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG) | 3:25 | 2023-03-24 |  |
 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 | 2022-01-14 |  |
 | [Besos Que Nos Dimos](https://open.spotify.com/track/7u5ubiYPA1a1tACQrZicY7) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Besos Que Nos Dimos](https://open.spotify.com/album/0gOurSKwd8MBVE7DANvFKX) | 3:07 | 2022-11-28 | 2023-02-10 |
+| [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 | 2023-08-25 |  |
 | [Blusito](https://open.spotify.com/track/5uaQ2JqKFUbku7ssEgWjte) | [Lulioli](https://open.spotify.com/artist/1sBDWlxYFLnrmmbrgKI4O4) | [Blusito](https://open.spotify.com/album/4WQpIrBMxLjRKcrkluurb3) | 5:17 | 2022-04-01 | 2022-06-29 |
 | [Bossa de Amor](https://open.spotify.com/track/5CisJ1wCJc8iaPDuNJgfpo) | [Emilia Borlone](https://open.spotify.com/artist/3qUX6iGtY5Lbyj8vduC4Oc), [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Bossa de Amor](https://open.spotify.com/album/2fZjv0DbDkiIC03R6xJrGJ) | 3:22 | 2022-03-09 | 2022-07-19 |
 | [Bsos](https://open.spotify.com/track/1te0r9vjZgzT3Avdc1hXbf) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Bsos](https://open.spotify.com/album/3FGJQsv4cWu0ZijTAbMoJF) | 3:06 | 2022-07-15 | 2022-07-24 |

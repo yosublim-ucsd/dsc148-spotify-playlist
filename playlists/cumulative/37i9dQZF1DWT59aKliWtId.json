@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality alternative blend ft. Margaret Glaspy",
+  "description": "The highest quality alternative blend ft. Black Pumas",
   "name": "Grade A",
   "tracks": [
     {
@@ -2385,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Cowboy Tumbleweed",
+        "url": "https://open.spotify.com/album/3lJcMnimBy6eAJgdL4V55R"
+      },
+      "artists": [
+        {
+          "name": "FIGHTMASTER",
+          "url": "https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232936,
+      "name": "Cowboy Tumbleweed",
+      "url": "https://open.spotify.com/track/5tnguwr2vzXKmoFoJqxCwd"
+    },
+    {
+      "album": {
         "name": "Cramps",
         "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
       },
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 182960,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/6PIjKxxqT4H23Gv8jMWHUJ"
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 233280,
       "name": "For A Moment",
       "url": "https://open.spotify.com/track/751gGLt9KVRg2e8JfDgHCZ"
@@ -6925,6 +6943,24 @@
     },
     {
       "album": {
+        "name": "June's Stolen Car",
+        "url": "https://open.spotify.com/album/1cXyje7UHXdXmEzAf1wDgb"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329360,
+      "name": "June's Stolen Car",
+      "url": "https://open.spotify.com/track/3hkxcsTH2kTBEtgTtznCqv"
+    },
+    {
+      "album": {
         "name": "Just Before The Morning",
         "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
       },
@@ -8148,7 +8184,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 188746,
       "name": "Magical Touch",
       "url": "https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ"
@@ -8564,6 +8600,46 @@
       "duration_ms": 213906,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/1rgbDBpQc7weuwqIFm4IbX"
+    },
+    {
+      "album": {
+        "name": "Moonlit Breakers (feat. Dijon)",
+        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
+      },
+      "artists": [
+        {
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234681,
+      "name": "Moonlit Breakers (feat. Dijon)",
+      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "album": {
@@ -10596,7 +10672,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 217648,
       "name": "Quiet Eyes",
       "url": "https://open.spotify.com/track/10IrJGEY0f48OGywIkZauw"

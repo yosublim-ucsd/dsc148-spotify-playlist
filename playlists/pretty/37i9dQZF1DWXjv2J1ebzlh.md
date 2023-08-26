@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,354 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,393 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,7 +270,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 260 | [Lady Rain](https://open.spotify.com/track/0CzoQCylIwa6OXUACZY935) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 2:10 |
 | 261 | [I Want You Back](https://open.spotify.com/track/4Pt5fmpEyGL70yXOxUYVNI) | [Esso Trinidad Steel Band](https://open.spotify.com/artist/0cMTpw95Av39PkJH3VAo39) | [Esso Trinidad Steel Band](https://open.spotify.com/album/49Jdj6U9Cfj3d8bhcdc1M8) | 2:17 |
 | 262 | [Tristeza Pé No Chão](https://open.spotify.com/track/41dv2yJDlnhrhFUTeM3jOq) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Raizes Do Samba](https://open.spotify.com/album/0lszlgC6tC0RxQmphoVhfF) | 3:20 |
-| 263 | [Jesus Christo](https://open.spotify.com/track/3fP2KANlk8mrnmOQndsuD6) | [Claudia Balla](https://open.spotify.com/artist/4ZiDM1wYPCnsZzb8bNo7yK) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 3:26 |
+| 263 | [Jesus Christo](https://open.spotify.com/track/3fP2KANlk8mrnmOQndsuD6) | [Claudia Balla](https://open.spotify.com/artist/0hIaHgOH6dRoGBdogOaDYd) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 3:26 |
 | 264 | [Zvichapera](https://open.spotify.com/track/0EB6LdcMyj0SHhCAR45CRi) | [Chiwoniso](https://open.spotify.com/artist/5wDUccrtIJwwjOtqed0FrW) | [Zvichapera](https://open.spotify.com/album/6iMCoa8WkNpHSnRdDuMWlA) | 4:05 |
 | 265 | [Gypsy Woman \- Demo Version](https://open.spotify.com/track/17v2ohSG0hO8u2AjKaU6MR) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [Under The Streetlamps: Anthology 1967\-72](https://open.spotify.com/album/678pt0QZ8mwQakkZRuuzQq) | 4:06 |
 | 266 | [Na Palma Da Mão](https://open.spotify.com/track/2bxpTuSEQC9pjAFQOQOlaX) | [União Black](https://open.spotify.com/artist/4ySHVF5d9PxH1v23cOf1lE) | [Banda União Black](https://open.spotify.com/album/7BpQza3VU2kl27I7tGyy0r) | 2:58 |
@@ -685,7 +685,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 675 | [Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao) | [Cortex](https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 4:26 |
 | 676 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
 | 677 | [Colombia Tierra Querida](https://open.spotify.com/track/5NEDwXgOuKtNHw4YDWj2ii) | [San Fernando Orquesta De Lucho Bermúdez](https://open.spotify.com/artist/7vxj9CKdnIfdIMZxVcaHmU), [Matilde Diaz](https://open.spotify.com/artist/6BYugBzyLzfRpEbwnSLBzH) | [San Fernando Orquesta de Lucho Bermúdez](https://open.spotify.com/album/67MVoV4IG7vcmfFkR4CLa5) | 2:35 |
-| 678 | [El Raton](https://open.spotify.com/track/7j2BKP9HCfEdm4QkCZde4T) | [Los Invasores](https://open.spotify.com/artist/3UG7GUXPGIte9gqulx8uLG) | [Panama! 3 Calypso Panameno, Guajira Jazz & Cumbia Tipica On the Isthmus 1960\-75](https://open.spotify.com/album/60oG2vmRpaxqnLyuonYQHE) | 3:26 |
+| 678 | [El Raton](https://open.spotify.com/track/2WFimSbDajGIXOtEK90Vko) | [Los Invasores](https://open.spotify.com/artist/3UG7GUXPGIte9gqulx8uLG) | [Latin Jazz Summer, Vol\. 5](https://open.spotify.com/album/6ISP6QhA1vp0oGRmPEpnjd) | 3:26 |
 | 679 | [Doublé doublé](https://open.spotify.com/track/2vUdcmS9LfqpvB6jURRdCx) | [Nyboma](https://open.spotify.com/artist/4HT4UQebFlfxyaDLWkCHPT), [L'orchestre Les Kamalé Dynamiques du Zaïre](https://open.spotify.com/artist/4pu9oIXSOqnNjNOpUxlSzL) | [Doublé doublé](https://open.spotify.com/album/0dNH1k5Y0GyEOFBuEKitMB) | 8:11 |
 | 680 | [Khomo Tsaka Deile Kae?](https://open.spotify.com/track/3i8ac6KmUQB6FW2bEtiTHu) | [Marumo](https://open.spotify.com/artist/10KHZjjoB1dLqa8a15OMar) | [Modiehi](https://open.spotify.com/album/6tGoTJl7ysugDBMNCShHtL) | 3:39 |
 | 681 | [Jimmy, Renda\-Se](https://open.spotify.com/track/4tTZq61IKisspn9NhoJtYn) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Jimmy, Renda\-Se/ Irene \- EP](https://open.spotify.com/album/0hEDr5IFbF4mZBHffTZl61) | 3:37 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwwMjA4YjVlNjY0Y2EwYmUyODU0MjhhYzhmNTk0Zjg4Y2JhMWZhZjEw`
+Snapshot ID: `MCxiZjYwMTg2MjI3NDk3NjlkZDBjZmY0YzhiMjhlOThiNGZhYTU5Yjc5`

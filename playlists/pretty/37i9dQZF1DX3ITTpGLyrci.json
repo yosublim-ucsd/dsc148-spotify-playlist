@@ -1,15 +1,39 @@
 {
   "description": "Get the drinks on ice, this one is on Joel",
-  "num_followers": 74177,
+  "num_followers": 75423,
   "original_name": "Pool Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmU3NzcyMjViYThiOWVjN2QxNGU0MGZkNTBlNzMxZDgxNTIzMzc2",
+  "snapshot_id": "MCw2MGJlZmZiM2YwZDMyODZlMWFjM2I4MmZiNjJiYTUzYjNhMmMwYTQ3",
   "tracks": [
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
+      "album": {
+        "name": "Drinkin'",
+        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149545,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r"
@@ -33,7 +57,7 @@
       "url": "https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -49,7 +73,7 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
@@ -73,7 +97,7 @@
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
@@ -93,7 +117,7 @@
       "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
@@ -109,7 +133,7 @@
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
@@ -129,7 +153,7 @@
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
@@ -149,7 +173,7 @@
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "So Much In Love",
         "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
@@ -165,7 +189,7 @@
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH"
@@ -189,7 +213,7 @@
       "url": "https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Maria Maria (Diplo Remix)",
         "url": "https://open.spotify.com/album/57iQnFH2IeM3sX72RIeRSP"
@@ -209,7 +233,7 @@
       "url": "https://open.spotify.com/track/2qrYoFdbH1zWue91YfNYk5"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Jam Inside Your Love (feat. Carla Monroe)",
         "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
@@ -229,7 +253,7 @@
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
@@ -249,7 +273,7 @@
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Do U Want Me Baby? (feat. Elphi)",
         "url": "https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y"
@@ -273,7 +297,7 @@
       "url": "https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Million Dollar Bill",
         "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
@@ -297,7 +321,7 @@
       "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
@@ -317,7 +341,7 @@
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "10:35 (feat. Tate McRae) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/2dYGTMqlV5r52u5Os7w8Im"
@@ -341,7 +365,7 @@
       "url": "https://open.spotify.com/track/5b9DCQzPV6KEg9b6WB8v4e"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Miracle (with Ellie Goulding) [Mau P Remix]",
         "url": "https://open.spotify.com/album/2F5dzEAJZlxxMI0uGOQfYt"
@@ -365,7 +389,7 @@
       "url": "https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "TAKE IT OFF",
         "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
@@ -385,7 +409,7 @@
       "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
         "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
@@ -405,7 +429,7 @@
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -425,7 +449,7 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
@@ -449,7 +473,7 @@
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Players (David Guetta Remix)",
         "url": "https://open.spotify.com/album/0SoJzCzWfs9nwKrLDiuXdu"
@@ -469,7 +493,7 @@
       "url": "https://open.spotify.com/track/2bgGETGKhv7V0WwQzzWqwc"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Dance Around It",
         "url": "https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt"
@@ -489,7 +513,7 @@
       "url": "https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Ain't No Other Man (Rework)",
         "url": "https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq"
@@ -505,7 +529,7 @@
       "url": "https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Back Once More",
         "url": "https://open.spotify.com/album/3CLW4u9uTV6pFMsPYrJSIk"
@@ -521,7 +545,7 @@
       "url": "https://open.spotify.com/track/2RRClVP1ldNEGKNtEChgA9"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/5wcIhftmcdts35b5flSXfP"
@@ -541,7 +565,7 @@
       "url": "https://open.spotify.com/track/5B6UaQ9YMeL8tjeJx5pp3D"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Liquor Store",
         "url": "https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF"
@@ -557,7 +581,7 @@
       "url": "https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Throw Your Hands",
         "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
@@ -573,7 +597,7 @@
       "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Smack Yo'",
         "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
@@ -589,7 +613,7 @@
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Rizzla (Mochakk Remix)",
         "url": "https://open.spotify.com/album/2blv3hfKbwCQubKJmCoNpw"
@@ -617,7 +641,7 @@
       "url": "https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "My Paradise (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/1DtjbG6Y6mma7ZjIqgNKlm"
@@ -637,7 +661,7 @@
       "url": "https://open.spotify.com/track/4l1k3bK6OGwfRqbW5HiyT3"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
@@ -657,7 +681,7 @@
       "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
@@ -677,7 +701,7 @@
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
@@ -697,7 +721,7 @@
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
@@ -713,7 +737,7 @@
       "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
@@ -733,7 +757,7 @@
       "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Your Mind Is Dirty",
         "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
@@ -749,7 +773,7 @@
       "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Lollipop",
         "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
@@ -765,7 +789,7 @@
       "url": "https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
@@ -781,7 +805,7 @@
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Chase The Sun (VIP)",
         "url": "https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu"
@@ -797,7 +821,7 @@
       "url": "https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/4ZxoqDQ7tayryB9DFm6jbZ"
@@ -825,7 +849,7 @@
       "url": "https://open.spotify.com/track/6Z8iL8x45rPksBobTCrD2A"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "I Remember (John Summit Remix)",
         "url": "https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a"
@@ -849,7 +873,7 @@
       "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "My City's On Fire (Anyma & Cassian Remix)",
         "url": "https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU"
@@ -873,7 +897,7 @@
       "url": "https://open.spotify.com/track/30sR2mBD6VIUk1w93XDMOL"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Metro",
         "url": "https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS"
@@ -893,7 +917,7 @@
       "url": "https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
@@ -917,7 +941,7 @@
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Lionheart (Fearless)",
         "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
@@ -937,7 +961,7 @@
       "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Hold Me Closer (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
@@ -961,7 +985,7 @@
       "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "Delilah (pull me out of this)",
         "url": "https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW"
@@ -977,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz"
     },
     {
-      "added_at": "2023-08-23 10:14:41",
+      "added_at": "2023-08-25 09:30:24",
       "album": {
         "name": "5 Years of Finder",
         "url": "https://open.spotify.com/album/3fDAVxphGQAYsZtWeYtgP1"

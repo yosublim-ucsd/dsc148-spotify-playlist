@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-352 songs - 19 hr 41 min
+353 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Like You](https://open.spotify.com/track/5o3r2FdUJQvGD5HwXzajuS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Like You](https://open.spotify.com/album/7w167b8Zpa8I6dyhMC2viC) | 3:33 | 2022-03-23 | 2022-04-21 |
 | [LION](https://open.spotify.com/track/4TArUx34wOehwpnbXlKBQY) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < FINAL Comeback >](https://open.spotify.com/album/1x2QsojG3m0e0jkLzP1rGr) | 3:30 | 2022-03-23 | 2022-04-18 |
 | [LION](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:30 | 2022-07-04 |  |
+| [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 | 2023-08-24 |  |
 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 | 2022-08-15 | 2022-08-25 |
 | [Love Right Back \(feat\. TAEIL of NCT, lIlBOI\)](https://open.spotify.com/track/1XAjHcWjzNbYlVi9uSp1ko) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:14 | 2021-12-06 | 2022-07-28 |
 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 | 2022-07-04 |  |
@@ -227,7 +228,7 @@
 | [Our Youth](https://open.spotify.com/track/7onumtzvbavER8LKiQmSgJ) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [rainbow promises](https://open.spotify.com/album/2KzWZsSRf6lmGvFknNwQeb) | 2:54 | 2022-01-24 | 2022-07-17 |
 | [Paradise](https://open.spotify.com/track/4dY8EDpzU1RavTcPBzZMiL) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Paradise](https://open.spotify.com/album/08jlxAcP0OVDtYKscnWtUo) | 2:30 | 2022-08-15 | 2022-08-25 |
 | [Perhaps Love](https://open.spotify.com/track/7Mfb2IwRNP8Qi7Ojtpmi37) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Your BGM Vol.1](https://open.spotify.com/album/7buYKdXbAntzuYkJj2oY2G) | 3:59 | 2021-12-06 | 2022-07-29 |
-| [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 | 2022-07-04 |  |
+| [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 | 2022-07-04 | 2023-08-26 |
 | [Personal Color](https://open.spotify.com/track/7u4XMVoRnKS87QPwIoKUiM) | [FLORA](https://open.spotify.com/artist/18knWHmszJGVFfaJYx7Yw3) | [PERSONAL COLOR](https://open.spotify.com/album/0YpDeaONCs3npkow7NZZos) | 3:37 | 2022-05-16 | 2022-05-31 |
 | [Picnic \(feat\. Nohd & Baye\)](https://open.spotify.com/track/6fK1gQxkJaJuNMnDCSPvyy) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Nohd](https://open.spotify.com/artist/7tUDMjgBQG5o7qYFIZF3lq), [Baye](https://open.spotify.com/artist/5NGv35WP0jow6GEEclCAex) | [SEOULVIBES, VASPA](https://open.spotify.com/album/1UPAWmTv1j8J1W6groVU77) | 3:29 | 2023-04-04 | 2023-04-27 |
 | [PLAY DUMB](https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Story Written in Music](https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo) | 3:25 | 2022-06-20 | 2022-07-05 |

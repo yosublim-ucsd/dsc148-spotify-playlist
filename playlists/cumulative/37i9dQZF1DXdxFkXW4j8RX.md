@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-166 songs - 9 hr 32 min
+167 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Falsa Racionalidad](https://open.spotify.com/track/4emOO8ElZGtaYTw7CYMpe2) | [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ) | [El Arte De No Estar Ni Ahí](https://open.spotify.com/album/5Ogd3UgwB6E6b5vcOTk0Eb) | 3:18 | 2023-04-07 |  |
 | [Felicidad](https://open.spotify.com/track/23OrSfz5ApfD5cgDtGllLv) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Felicidad](https://open.spotify.com/album/5XwQSw2yYaq8katQCdUl33) | 3:12 | 2023-02-03 |  |
 | [Felicidad](https://open.spotify.com/track/2FaphIbul1kUk9OwyIwaLy) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Felicidad](https://open.spotify.com/album/1m1P7pLonemnIDnX9giX54) | 3:12 | 2022-01-06 | 2023-03-03 |
+| [Finomeno \#04 A.K.A O.KK.O](https://open.spotify.com/track/5HTiYO8aNI5A0SeAty5Ctb) | [Rolando Fino](https://open.spotify.com/artist/0nWQFQ4H6oSqPvxWubRaIQ), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Suppra](https://open.spotify.com/artist/3WMr1bTsvQEfmjzgzSx98b), [Frainstrumentos](https://open.spotify.com/artist/1XIFZexGu17xwWAjdFBLwI) | [Finomeno \#04 A.K.A O.KK.O](https://open.spotify.com/album/0U5PbvxYk2l1Y3zxGKSzO1) | 3:45 | 2023-08-25 |  |
 | [Flor Te Mata](https://open.spotify.com/track/6TKA2yBPqSKWpA3hBxRsgl) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Mariposa](https://open.spotify.com/album/0SOd8PQSePV5ryAWE9vM9X) | 2:52 | 2022-01-06 |  |
 | [Forial](https://open.spotify.com/track/5DOzirdPyTEe6JJe9yXpTA) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Forial](https://open.spotify.com/album/5GXAldoDssF1hJvLJZEqQi) | 2:58 | 2022-01-06 | 2023-07-08 |
 | [Free Estilo](https://open.spotify.com/track/1OQLJZxIMCp4zLRLJueWrJ) | [Delta Mc](https://open.spotify.com/artist/0FY3A8vJJrTfxjewibFd4s), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Emci Naus](https://open.spotify.com/artist/0O0LqgXyHlKemfqZ5Q70DE) | [Free Estilo](https://open.spotify.com/album/3xOec1z9gF95KainMqPqQy) | 4:20 | 2022-07-15 |  |
@@ -163,7 +164,7 @@
 | [Uzumaki](https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Gudspella](https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw) | [Uzumaki](https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ) | 4:55 | 2022-10-06 |  |
 | [Vacío Lleno](https://open.spotify.com/track/72ty3sF82GJ31A4SP1w4Nc) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Vacío Lleno](https://open.spotify.com/album/7ziZZTHfjYW3TmvTQTXK4P) | 3:54 | 2022-01-06 | 2023-05-20 |
 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 | 2022-01-06 |  |
-| [Viaje Sin Rumbo \- Cover](https://open.spotify.com/track/7BigUklT2tNB1lR8g8WjqQ) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Viaje Sin Rumbo \(Cover\)](https://open.spotify.com/album/4X5bcqRjxb2S5eSoLVjGWJ) | 3:35 | 2022-01-06 |  |
+| [Viaje Sin Rumbo \- Cover](https://open.spotify.com/track/7BigUklT2tNB1lR8g8WjqQ) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju) | [Viaje Sin Rumbo \(Cover\)](https://open.spotify.com/album/4X5bcqRjxb2S5eSoLVjGWJ) | 3:35 | 2022-01-06 | 2023-08-26 |
 | [Viejos Habitantes](https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm) | [Geoenezetao](https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [SQB](https://open.spotify.com/artist/6aMeTQMYEBSGnp34gku2QB) | [Retrospección Mixtape, Vol\. 1](https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm) | 2:17 | 2022-01-06 |  |
 | [Vine](https://open.spotify.com/track/0yucydm20oLyPKpXlA7A6k) | [Funky Flu](https://open.spotify.com/artist/3OtwUzOEkJDNsqFSu9ey9G) | [Palabra](https://open.spotify.com/album/1Sbdp1Eh610TfYnXuxOCq8) | 3:43 | 2022-01-06 | 2023-04-09 |
 | [Warzone Z](https://open.spotify.com/track/6I7Yw2qBktlCbyIrvVTaIG) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5) | [Bushido Thunderstorm](https://open.spotify.com/album/2E76haakuTtipEkRjIiwqJ) | 3:03 | 2022-01-06 |  |

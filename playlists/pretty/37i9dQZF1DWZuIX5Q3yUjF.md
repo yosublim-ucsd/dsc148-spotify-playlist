@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Ganzo
+> Il meglio dell'R&B italiano\. Cover: Angela Iris
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,216 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,219 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ridicolo](https://open.spotify.com/track/64OHcMEI1bgf5T0znQd1uq) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Ridicolo](https://open.spotify.com/album/4FM5ysDiqTdM5ziU4oeFWj) | 2:41 |
+| 1 | [Bordeaux](https://open.spotify.com/track/6K4c1neXmVgj2qWOZTcGvi) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Bordeaux](https://open.spotify.com/album/1BwPqLtg1Ilkj2qLEgpPVB) | 2:49 |
 | 2 | [CORALLO](https://open.spotify.com/track/7lcOsb2oHn2MIPGS3Kj1r2) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB) | [CORALLO](https://open.spotify.com/album/7BDC5UtwKfcuJFclLWDHMd) | 2:45 |
 | 3 | [Mi piace](https://open.spotify.com/track/1FVJXPTCvJRsr3H359CuRV) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Intro](https://open.spotify.com/album/0ZEM5B4oMJk6EAhOaekSDk) | 3:11 |
 | 4 | [Fiori Stanchi](https://open.spotify.com/track/3aVujWlpVrqvuMZvfUpRQu) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Fiori Stanchi](https://open.spotify.com/album/19GhCKWuXND7hHB2Jdgecq) | 2:30 |
-| 5 | [Bordeaux](https://open.spotify.com/track/6K4c1neXmVgj2qWOZTcGvi) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Bordeaux](https://open.spotify.com/album/1BwPqLtg1Ilkj2qLEgpPVB) | 2:49 |
-| 6 | [TEDESCA](https://open.spotify.com/track/3rpexh5KpmKD7nshRbf0nx) | [MANDORLA](https://open.spotify.com/artist/2uqOHBl4qhPz787NIOXg2I) | [TEDESCA](https://open.spotify.com/album/4BeGXIJJ1sqMGY8yMagzKk) | 2:58 |
-| 7 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 |
-| 8 | [Brava](https://open.spotify.com/track/0oNfUVmHSsWYknhbnamRtd) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Brava](https://open.spotify.com/album/3WR2HpDM3YuMHuWsUfEXtM) | 3:10 |
+| 5 | [TEDESCA](https://open.spotify.com/track/3rpexh5KpmKD7nshRbf0nx) | [MANDORLA](https://open.spotify.com/artist/2uqOHBl4qhPz787NIOXg2I) | [TEDESCA](https://open.spotify.com/album/4BeGXIJJ1sqMGY8yMagzKk) | 2:58 |
+| 6 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 |
+| 7 | [Brava](https://open.spotify.com/track/0oNfUVmHSsWYknhbnamRtd) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Brava](https://open.spotify.com/album/3WR2HpDM3YuMHuWsUfEXtM) | 3:10 |
+| 8 | [Ridicolo](https://open.spotify.com/track/64OHcMEI1bgf5T0znQd1uq) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Ridicolo](https://open.spotify.com/album/4FM5ysDiqTdM5ziU4oeFWj) | 2:41 |
 | 9 | [Toxic](https://open.spotify.com/track/2Hqrmiopo3VGV5BWUe1ThW) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Toxic](https://open.spotify.com/album/02Z6hzwHFd70wMOu6Gsx1T) | 3:41 |
 | 10 | [ASTRI](https://open.spotify.com/track/2mMOheK07cYOUraIRTz4g9) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [ASTRI](https://open.spotify.com/album/48YXu3TSa7dFY6Bnw0qqr9) | 3:26 |
 | 11 | [AlzoilVolume](https://open.spotify.com/track/5IQj8IZkF2QbRStHCQwKl3) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx) | [AlzoilVolume](https://open.spotify.com/album/3OEiDswBTeQ5eRw5At341y) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 |
 | 60 | [Limite](https://open.spotify.com/track/1HYwX6zxcel9LD2ej5QEGR) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL) | [Limite](https://open.spotify.com/album/03InZ9HBmYZswI4ZAmaz4j) | 2:58 |
 
-Snapshot ID: `MCxmN2ZkYTE2ZjU3MGQ0YTRhYmIzNTY4NzllYTgxNzRjY2RlYjQ3YTcx`
+Snapshot ID: `MCwyZjBjM2NjOWNiOTNhN2ExNTE0ZTYxYmE5NGIwMzllNzI4Njk4Y2Nj`

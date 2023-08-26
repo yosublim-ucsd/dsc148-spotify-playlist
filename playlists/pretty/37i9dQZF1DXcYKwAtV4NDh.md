@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,280 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,378 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 21 | [New Mule Skinner Blues](https://open.spotify.com/track/3CIoKguwyGbZlcvc4KtlC6) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:29 |
 | 22 | [Molly And Tenbrook](https://open.spotify.com/track/26AAYh1PwC4sPF7COMgRmr) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Earliest Recordings \- The Complete Rich\-r\-tone 78's](https://open.spotify.com/album/0j0yXKdHLfOzI6qpyn4ByN) | 2:23 |
 | 23 | [San Antonio Rose](https://open.spotify.com/track/0cZGEJpAvUkPaCRTd4g4Ew) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [San Antonio Rose](https://open.spotify.com/album/07mLD26DBfZKSHxr3deO2g) | 3:25 |
-| 24 | [Lovesick Blues \- Single Version](https://open.spotify.com/track/4RZFpgo4VzBjH5g7XCHo2l) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [40 Greatest Hits](https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd) | 2:45 |
-| 25 | [Hey, Good Lookin'](https://open.spotify.com/track/7tNJo8NJ7fhprfjyDgdH2A) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [40 Greatest Hits](https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd) | 2:55 |
+| 24 | [Lovesick Blues \- Single Version](https://open.spotify.com/track/4RZFpgo4VzBjH5g7XCHo2l) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [40 Greatest Hits](https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd) | 2:45 |
+| 25 | [Hey, Good Lookin'](https://open.spotify.com/track/7tNJo8NJ7fhprfjyDgdH2A) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [40 Greatest Hits](https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd) | 2:55 |
 | 26 | [It Wasn't God Who Made Honky Tonk Angels \- 1952 Single Version](https://open.spotify.com/track/5WVIefy07taIktufdiA90m) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [The Devil's Rejects](https://open.spotify.com/album/2OBfzQx18EWIAkzZ3fJNXT) | 2:28 |
 | 27 | [Jambalaya \(On The Bayou\) \- Single Version](https://open.spotify.com/track/2PFlvEIq23Q2iPN5zOGoPX) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Anthology 1956\-1980](https://open.spotify.com/album/0QJTZSxwTiZOb88arsEq5p) | 2:07 |
 | 28 | [Walking The Floor Over You \- 1941 Single Version](https://open.spotify.com/track/4df0l3RQgfn4NVxbuKIiZL) | [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [20th Century Masters: The Millennium Collection: Best Of Ernest Tubb](https://open.spotify.com/album/7b9IFkBNLNGxw71XgURyQx) | 2:37 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 106 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5) | 3:23 |
 | 107 | [Fancy](https://open.spotify.com/track/1ecIqo8pOc8S6y3l80iGxd) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Best Of/20th Century](https://open.spotify.com/album/0Rb3coYXuUlgRLoi3UhADa) | 4:56 |
 
-Snapshot ID: `MCw5ZDk2ZWFjNDkxNTY0Yjg5NWI4MzkwYjU4ODQwNTE3ZTdlZGQxOTQx`
+Snapshot ID: `MCw0YjEyNTY5YjU5ZGFiZTY0OTgyYWIyZDkzMmRiOWEzNDgxMDAwNTgw`

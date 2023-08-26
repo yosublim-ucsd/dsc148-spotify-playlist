@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-247 songs - 13 hr 2 min
+248 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,8 +212,9 @@
 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 | 2021-09-02 |  |
 | [Things Change](https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 2:48 | 2021-09-02 |  |
 | [Tighten Up](https://open.spotify.com/track/7boUsKJeBJHznBCEwYU9hw) | [The Untouchables](https://open.spotify.com/artist/4PeH0LM0QG4jFfzSmU0SuB) | [A Live Injection: Anthology 1968\-1979](https://open.spotify.com/album/1W3cKgwqmprjq24abdSThm) | 2:39 | 2022-12-09 | 2023-07-18 |
-| [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2022-04-14 |  |
+| [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2022-04-14 | 2023-08-26 |
 | [Time Bomb](https://open.spotify.com/track/5kxxhOkxd7j57e7oL121gI) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/596cCa6FfamS1WvGbIyFGl) | 2:24 | 2021-09-02 | 2022-07-29 |
+| [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 | 2023-07-28 |  |
 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 | 2021-09-02 |  |
 | [To a Better Place](https://open.spotify.com/track/7f4thDZYQYmflNvXOWGTYc) | [Rude Tins](https://open.spotify.com/artist/20XsDMN8RhkHSmnH2DrgAz) | [To a Better Place](https://open.spotify.com/album/7ijLCSL3gm3mkUsD0NepzO) | 4:05 | 2021-09-02 | 2022-07-20 |
 | [Too Much Information](https://open.spotify.com/track/0SnMkgqpYimCtOmiId16SS) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Too Much Information](https://open.spotify.com/album/3AQKYcyzXAdcEhrFZiGKpm) | 3:08 | 2021-09-02 | 2022-07-29 |

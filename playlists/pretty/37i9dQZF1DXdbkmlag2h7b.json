@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 634843,
+  "num_followers": 634858,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzJhMDMwZDU1NzUxNWE3ZmUwODFkZGJkMTVmODk4M2M2YmQxM2Nk",
+  "snapshot_id": "MCxjOTUxZjNhMmE0NjBmYjYxOTE1ZGZmMmQyZjZjZGZiZWYxMjk3ZWI2",
   "tracks": [
     {
       "added_at": "2023-08-24 16:12:03",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
-        "name": "Surrounded By Clouds",
-        "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
-      },
-      "artists": [
-        {
-          "name": "Albert Lockwood",
-          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
-        }
-      ],
-      "duration_ms": 158550,
-      "name": "Surrounded By Clouds",
-      "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
         "name": "From Another View",
         "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 178636,
       "name": "From Another View",
       "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
+        "name": "Surrounded By Clouds",
+        "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
+      },
+      "artists": [
+        {
+          "name": "Albert Lockwood",
+          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
+        }
+      ],
+      "duration_ms": 158550,
+      "name": "Surrounded By Clouds",
+      "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
     },
     {
       "added_at": "2023-08-24 16:12:03",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
-        "name": "Morgong\u00e5va",
-        "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
-      },
-      "artists": [
-        {
-          "name": "Juni Ros",
-          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Morgong\u00e5va",
-      "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
         "name": "A brand new day",
         "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 175713,
       "name": "A brand new day",
       "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
+        "name": "Morgong\u00e5va",
+        "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Morgong\u00e5va",
+      "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
     },
     {
       "added_at": "2023-08-24 16:12:03",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
+        "name": "Even Silence",
+        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
+      },
+      "artists": [
+        {
+          "name": "Sadia Leys",
+          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Even Silence",
+      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 172000,
       "name": "Prism",
       "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
-        "name": "Even Silence",
-        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
-      },
-      "artists": [
-        {
-          "name": "Sadia Leys",
-          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Even Silence",
-      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
     },
     {
       "added_at": "2023-08-24 16:12:03",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
-        "name": "Upwards",
-        "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
-      },
-      "artists": [
-        {
-          "name": "Aiyden",
-          "url": "https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Upwards",
-      "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
         "name": "Charcoal",
         "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 329773,
       "name": "Such Owls As You",
       "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
+        "name": "Upwards",
+        "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
+      },
+      "artists": [
+        {
+          "name": "Aiyden",
+          "url": "https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Upwards",
+      "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
     },
     {
       "added_at": "2023-08-24 16:12:03",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
-        "name": "Frozen Sunlight",
-        "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
-      },
-      "artists": [
-        {
-          "name": "Sun Echo",
-          "url": "https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D"
-        }
-      ],
-      "duration_ms": 210277,
-      "name": "Frozen Sunlight - Music Only",
-      "url": "https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
         "name": "Nebulae",
         "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 162857,
       "name": "Nebulae",
       "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
+        "name": "Frozen Sunlight",
+        "url": "https://open.spotify.com/album/585o7QhQ8LporxUlnbMR8b"
+      },
+      "artists": [
+        {
+          "name": "Sun Echo",
+          "url": "https://open.spotify.com/artist/4jhzzWw1hUD1WeZT73WW4D"
+        }
+      ],
+      "duration_ms": 210277,
+      "name": "Frozen Sunlight - Music Only",
+      "url": "https://open.spotify.com/track/4IG0iveYAR1U0WL1YW60ad"
     },
     {
       "added_at": "2023-08-24 16:12:03",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
-        "name": "Somewhere Ahead",
-        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kaede",
-          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
-        }
-      ],
-      "duration_ms": 146499,
-      "name": "Hibernia Sleep",
-      "url": "https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
         "name": "Myriads",
         "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 175250,
       "name": "Myriads",
       "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
+        "name": "Somewhere Ahead",
+        "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
+        }
+      ],
+      "duration_ms": 146499,
+      "name": "Hibernia Sleep",
+      "url": "https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp"
     },
     {
       "added_at": "2023-08-24 16:12:03",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
-        "name": "Meadow / Forests",
-        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Winskog",
-          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
-        }
-      ],
-      "duration_ms": 140878,
-      "name": "Forests",
-      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 145768,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
+        "name": "Meadow / Forests",
+        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Winskog",
+          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
+        }
+      ],
+      "duration_ms": 140878,
+      "name": "Forests",
+      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
     },
     {
       "added_at": "2023-08-24 16:12:03",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
-        "name": "Tao of Flow",
-        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 121538,
-      "name": "Bodh Gaya",
-      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
         "name": "Elementaries",
         "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 182783,
       "name": "Raising Life",
       "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
+        "name": "Tao of Flow",
+        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 121538,
+      "name": "Bodh Gaya",
+      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
     },
     {
       "added_at": "2023-08-24 16:12:03",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
-      },
-      "artists": [
-        {
-          "name": "Astro.Not",
-          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
         "name": "Into Gratitude",
         "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 187636,
       "name": "Into Gratitude - Stripped",
       "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
+      },
+      "artists": [
+        {
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
     },
     {
       "added_at": "2023-08-24 16:12:03",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-08-24 16:12:03",
       "album": {
-        "name": "Purity 432hz",
-        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Purity 432hz",
-      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
-    },
-    {
-      "added_at": "2023-08-24 16:12:03",
-      "album": {
         "name": "Song For Wermland",
         "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 172000,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
+    },
+    {
+      "added_at": "2023-08-24 16:12:03",
+      "album": {
+        "name": "Purity 432hz",
+        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Purity 432hz",
+      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
     },
     {
       "added_at": "2023-08-24 16:12:03",

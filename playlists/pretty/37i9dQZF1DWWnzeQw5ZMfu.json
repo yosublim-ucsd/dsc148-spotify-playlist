@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
-  "num_followers": 59812,
+  "num_followers": 59852,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTIwMTc3OTIyMDU1MDBmNWM1OWJlNjAwZWJmN2EyYWVjM2FiYzM5",
+  "snapshot_id": "MCxjOWQyMDQ4MDJlN2E1ZWU4OGM0YjAxYTZjNWUxNWMzZTQ4YzYyNmZm",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Infinite Disco",
-        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
-      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 230800,
       "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Infinite Disco",
+        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
+      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 319401,
-      "name": "Sing - Live and in Session",
-      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Havana (Live)",
         "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 248572,
       "name": "Havana - Live",
       "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 319401,
+      "name": "Sing - Live and in Session",
+      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Pompeii / Come As You Are (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 268690,
-      "name": "Pompeii - MTV Unplugged / Edit",
-      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "On the Road to Nashville (Live)",
         "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 218240,
       "name": "A Little Respect - Live in Nashville",
       "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Pompeii / Come As You Are (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 268690,
+      "name": "Pompeii - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Confessions Tour",
-        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Erotica - Live",
-      "url": "https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "LM5 - EP",
         "url": "https://open.spotify.com/album/4H9aW9bRNBV49fusgFUBGz"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 251378,
       "name": "Woman Like Me (feat. Ms Banks) - Live from the BRITs 2019",
       "url": "https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Confessions Tour",
+        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Erotica - Live",
+      "url": "https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Confessions Tour",
-        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 590120,
-      "name": "Hung Up - Live",
-      "url": "https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Fanatic Live from Caesars Colosseum",
         "url": "https://open.spotify.com/album/4N4W7ZlX5DrFMMeQAPZUGC"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 312211,
       "name": "Fastlove - Live",
       "url": "https://open.spotify.com/track/2cM4093hKmkWTF0Rc5OdJa"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Confessions Tour",
+        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 590120,
+      "name": "Hung Up - Live",
+      "url": "https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn"
     },
     {
       "added_at": "2023-08-18 04:01:00",

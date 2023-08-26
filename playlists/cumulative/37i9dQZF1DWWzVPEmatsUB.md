@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-366 songs - 22 hr 7 min
+368 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Blindsided](https://open.spotify.com/track/3Bcr5fRN2SQ0jIVWsJHes8) | [Charlotte Leigh](https://open.spotify.com/artist/7yifAbF2E8xMhw1UMnuw0r) | [Blindsided](https://open.spotify.com/album/21NvjYBnFikMWyL3fUY0jg) | 4:20 | 2020-10-17 | 2022-07-25 |
 | [Blowing Smoke](https://open.spotify.com/track/0x3yozQ8ntRKUr01fuUOPb) | [Zoelly](https://open.spotify.com/artist/56WkhHzuLegttsJgSH3ZiS) | [Blowing Smoke](https://open.spotify.com/album/0HISdru4aULgMWp4wOaEeo) | 3:27 | 2020-10-17 | 2022-04-21 |
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-07-29 |  |
-| [Blueberry Puff](https://open.spotify.com/track/7JFL55nA4gZfq5ofsjY487) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Blueberry Puff](https://open.spotify.com/album/3WEtT7fr3NxpqTJnClikAc) | 2:40 | 2023-03-10 |  |
+| [Blueberry Puff](https://open.spotify.com/track/7JFL55nA4gZfq5ofsjY487) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Blueberry Puff](https://open.spotify.com/album/3WEtT7fr3NxpqTJnClikAc) | 2:40 | 2023-03-10 | 2023-08-26 |
 | [Boomerang](https://open.spotify.com/track/5w9v5W4XB4BOoggvSw40oG) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Boomerang](https://open.spotify.com/album/1qPgXIuWBOKDz4cIuUYQ14) | 3:00 | 2020-10-17 | 2022-04-20 |
 | [Bound Together](https://open.spotify.com/track/2ISgPZhbeqTrJFlSOMwrjF) | [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha), [VANYO](https://open.spotify.com/artist/1tT41Z0xsuLnhKgbXZKp8j) | [Bound Together](https://open.spotify.com/album/2LEozleqKW3vJSoF5xlD4y) | 3:33 | 2020-10-17 | 2022-04-16 |
 | [Box of Regrets](https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Box of Regrets](https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V) | 3:16 | 2022-04-08 |  |
@@ -98,6 +98,7 @@
 | [Face in the Scene](https://open.spotify.com/track/1oSxWP7C3ChpUzAGicKX0N) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:05 | 2020-10-17 | 2022-04-20 |
 | [Faith You Might](https://open.spotify.com/track/6UUL6mVus7dn7sw5O6Zd7p) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Faith You Might / In Case I Don't Feel](https://open.spotify.com/album/1xroovsaQjS7u5DmTvd0VT) | 4:12 | 2020-10-17 | 2022-07-29 |
 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 | 2023-02-17 | 2023-07-22 |
+| [Feel This Way Too](https://open.spotify.com/track/3RO7i5x4x7iPsm0o1AKzBU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Feel This Way Too](https://open.spotify.com/album/21gSKSi1yQ1dSXDembzlpe) | 4:32 | 2023-08-25 |  |
 | [Fire Away](https://open.spotify.com/track/3zaTwp8DrM5a3Ap9PZXNHD) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [1856](https://open.spotify.com/album/5DVvuVOVMErY1OEitbiitn) | 4:43 | 2020-10-17 | 2022-04-21 |
 | [Fly \(For Mike\) feat\. Brittany Howard](https://open.spotify.com/track/0qKdmI20wCPmmjSWY6wO6K) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Fly \(For Mike\) Feat\. Brittany Howard](https://open.spotify.com/album/41YY1uiKkpKySBWEpqzWpj) | 4:01 | 2021-07-21 | 2022-07-29 |
 | [for life](https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [magnolia](https://open.spotify.com/album/4lUystyYlQEstc79Eic2Q6) | 3:31 | 2020-10-17 | 2022-07-31 |
@@ -206,6 +207,7 @@
 | [Loving You](https://open.spotify.com/track/4ZRJUckYejIPkHYoeut789) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Loving You](https://open.spotify.com/album/4Lre0d9YIRu1XZJYkf5e4T) | 3:06 | 2022-04-08 | 2022-07-29 |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2020-10-17 | 2023-02-04 |
 | [Magnetic](https://open.spotify.com/track/4rbGIJobQJLUCgKrrsY6mm) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP), [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [Magnetic](https://open.spotify.com/album/5ViCoszPDZqEOu2UVB34LQ) | 3:00 | 2020-10-17 | 2022-04-21 |
+| [Make It Work](https://open.spotify.com/track/6z2Yyi7djrqPL2OalDW8ha) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Make It Work](https://open.spotify.com/album/7JHovvwDzAaSFc2vDw5DTG) | 3:07 | 2023-08-25 |  |
 | [Making Room](https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH) | [Kelly Schenk](https://open.spotify.com/artist/3kHGDGEmX8EWocacdi5Ijk) | [Making Room](https://open.spotify.com/album/4Dca3AwituUnPJFqTMTolt) | 4:19 | 2021-01-22 | 2022-07-29 |
 | [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 | 2022-09-02 |  |
 | [Maybe I Do](https://open.spotify.com/track/33Yo16lC0glS0lYgRTxpLD) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Maybe I Do](https://open.spotify.com/album/1Nouwpgvi7Oi1PMxNFIB2W) | 3:28 | 2020-10-17 | 2022-04-19 |
@@ -351,7 +353,7 @@
 | [Until Your Heart Breaks](https://open.spotify.com/track/1KMRQT3HgJ4xKGhBr6BhTz) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Until Your Heart Breaks](https://open.spotify.com/album/5GlFPzvXhHqsYxbcLANITK) | 3:27 | 2020-10-17 | 2022-07-18 |
 | [Vibin' to It](https://open.spotify.com/track/0VLur18KTXWpIoRHEni0OJ) | [Temple Haze](https://open.spotify.com/artist/1NbWsEhbWzwjAL2LfPCERk) | [Dreams](https://open.spotify.com/album/4FhvZMQJ984gNLhB5xaobl) | 4:05 | 2022-05-06 | 2023-03-26 |
 | [Vibin' to It](https://open.spotify.com/track/1C6I1zTrq2ykBIc85EVNVu) | [Temple Haze](https://open.spotify.com/artist/1NbWsEhbWzwjAL2LfPCERk) | [Dreams](https://open.spotify.com/album/6n3ApWN4JdOPyLFpbbneIm) | 4:05 | 2022-05-13 | 2023-04-09 |
-| [Walls](https://open.spotify.com/track/7xDABKlqkXpu2esECKpdO2) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Walls](https://open.spotify.com/album/2RvK9TDTryf7oM3bjcD7JF) | 3:49 | 2023-02-03 |  |
+| [Walls](https://open.spotify.com/track/7xDABKlqkXpu2esECKpdO2) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Walls](https://open.spotify.com/album/2RvK9TDTryf7oM3bjcD7JF) | 3:49 | 2023-02-03 | 2023-08-26 |
 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 | 2020-10-17 | 2022-04-21 |
 | [Warm Love](https://open.spotify.com/track/0CRQCibRDepJbBqFpVdAOH) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Warm Love](https://open.spotify.com/album/5Vd9d9uRtf3WyAiVktsa9l) | 3:31 | 2020-10-17 | 2022-04-21 |
 | [Waste My Time](https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [Waste My Time](https://open.spotify.com/album/3Rkmx4eNk0BrJmBeViDM2W) | 3:36 | 2022-07-08 |  |

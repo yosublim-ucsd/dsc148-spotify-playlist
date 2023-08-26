@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 314005,
+  "num_followers": 314151,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTI4MmVhZjgyMWRkMDdjNWNlZjhmNWI2YzU3NWM4ZDY0ZGRkYzNj",
+  "snapshot_id": "MCw5ODcxNGE2MTNjMzM2Yzg2ODhkZGEwNDVkZDYzNTVkZTU5NDA2NDJi",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw"
+      },
+      "artists": [
+        {
+          "name": "Dirty Freud",
+          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Passion Controller",
         "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 248764,
       "name": "fuego (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/3unm5D4hTaYn6YWGEWkbHw"
-      },
-      "artists": [
-        {
-          "name": "Dirty Freud",
-          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/0NrtOr0vIUnktfY7rxNgD3"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "You Could Be",
-        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
-      },
-      "artists": [
-        {
-          "name": "Anz",
-          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
-        },
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 218024,
-      "name": "You Could Be",
-      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "You Could Be",
+        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
+      },
+      "artists": [
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 218024,
+      "name": "You Could Be",
+      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 185168,
+      "name": "Above",
+      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "1985",
         "url": "https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 170501,
       "name": "1985",
       "url": "https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 185168,
-      "name": "Above",
-      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
     },
     {
       "added_at": "2022-06-20 14:19:42",

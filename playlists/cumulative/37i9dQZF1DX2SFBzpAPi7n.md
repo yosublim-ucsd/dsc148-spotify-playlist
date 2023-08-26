@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: LUCY\) \(핫한 국내 록 음악을 만나보세요!\)
 
-517 songs - 1 day 7 hr 45 min
+519 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Last Hope](https://open.spotify.com/track/0vrbIBeWT2knGYgkKyJJ9D) | [LAYBRICKS](https://open.spotify.com/artist/39BxPIVyvmpwNFfyMQS41u) | [Paradise](https://open.spotify.com/album/655I4UTlYsOOr0StbIU36j) | 3:54 | 2022-06-09 | 2022-06-15 |
 | [Last Train](https://open.spotify.com/track/7Bxl2qQEPBswcSX5jnSnO1) | [Goowoolim](https://open.spotify.com/artist/1p7AbBfZ41aENPCSV67Z8q) | [Dr\. Daisy / Last Train](https://open.spotify.com/album/0dYeRPYYLqet8poebDDuWZ) | 4:52 | 2022-04-12 | 2022-04-21 |
 | [Lean On Me](https://open.spotify.com/track/7kYbc6yiaK7OrgfE0RbXGq) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [She Would Never Know \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/15gBYmuSr8A938CRieIRKp) | 4:01 | 2022-04-21 | 2022-07-09 |
+| [let it be summer](https://open.spotify.com/track/19PusCmhiWHG4UN5lAeRp0) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [let it be summer](https://open.spotify.com/album/6jOd9PTE8cu0s7s9pqYN0Y) | 3:14 | 2023-08-25 |  |
 | [Let me go!](https://open.spotify.com/track/0yZ5nThTk7dZfgrhlQbxtT) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD) | 3:33 | 2022-05-11 | 2022-06-22 |
 | [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 | 2022-04-12 | 2022-07-23 |
 | [LET'S DO](https://open.spotify.com/track/4Qw55P1sgRoSP1hx8pH9bv) | [Neul](https://open.spotify.com/artist/5rtRatj0wvn1xhL7WuFUJA) | [LET'S DO](https://open.spotify.com/album/46Q2Smvsfn2kUZ99muta0E) | 3:46 | 2022-04-22 | 2022-04-24 |
@@ -375,7 +376,7 @@
 | [Simply](https://open.spotify.com/track/3IvsJEIrYbhS92dmycyDmN) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [her](https://open.spotify.com/album/1tIaKSfXa0tAFU5KYv45qP) | 3:39 | 2022-04-12 | 2022-07-29 |
 | [Singing the Night \(With Jinjunwang, woochanmi\)](https://open.spotify.com/track/5vsd3VTGm8VSR52y3ZvAkW) | [Woo Chan Yang](https://open.spotify.com/artist/0qYNg9bwLffe5akdCzkGRj), [Jinjunwang](https://open.spotify.com/artist/2ZF8BPqVBSjgtJZvUUDa5i), [우찬미](https://open.spotify.com/artist/75ZHFjuHsBVGuNnfgKBJAq) | [Singing the Night \(With Jinjunwang, woochanmi\)](https://open.spotify.com/album/1c8aYeuCBcpqns2321Xfpa) | 2:51 | 2022-05-11 | 2022-07-13 |
 | [SITCOM](https://open.spotify.com/track/0jnrL4VAV0x3Jk4PlzkuLa) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [SITCOM](https://open.spotify.com/album/74io9lr0VPPNF52vAdOKQU) | 3:15 | 2022-05-11 | 2022-06-07 |
-| [Skybound](https://open.spotify.com/track/0eKamTuaPWwfx50HcGc1RD) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Inside Out](https://open.spotify.com/album/2MDBTnagwI5RTtCqvLDdqr) | 2:56 | 2023-07-17 |  |
+| [Skybound](https://open.spotify.com/track/0eKamTuaPWwfx50HcGc1RD) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Inside Out](https://open.spotify.com/album/2MDBTnagwI5RTtCqvLDdqr) | 2:56 | 2023-07-17 | 2023-08-26 |
 | [Slainte!](https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [PLAYLIST SEASON2 \(Original Soundtrack\)](https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co) | 3:38 | 2022-12-22 | 2023-01-11 |
 | [sleep walking](https://open.spotify.com/track/03WwZjnTBrw9Vohm16So6Q) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [sleep walking](https://open.spotify.com/album/05YBRBySSq1YJfBhc1Lk4M) | 3:47 | 2023-01-16 | 2023-01-27 |
 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 | 2022-04-22 | 2022-07-24 |
@@ -389,7 +390,7 @@
 | [Sorry](https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Sorry](https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt) | 3:35 | 2022-07-22 | 2023-01-04 |
 | [SOS](https://open.spotify.com/track/6KLyguge9Zz70BXzXUDZGy) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [SOS](https://open.spotify.com/album/7mvXcE4O6cXegKk52405G4) | 3:38 | 2023-04-26 | 2023-05-13 |
 | [Sound](https://open.spotify.com/track/3NXq3EZ1dcIN0y2gZTqZXq) | [GOMCHI](https://open.spotify.com/artist/7uA35iZSc9vZLATSFqCRua) | [TRUE STORY](https://open.spotify.com/album/4dwceGQaqejgtkZ5hbkcbG) | 4:31 | 2022-06-03 | 2022-06-26 |
-| [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 | 2022-10-07 |  |
+| [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 | 2022-10-07 | 2023-08-26 |
 | [Sour](https://open.spotify.com/track/6Ji1Ucu9oFMkRawhEe8a16) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF) | 3:20 | 2022-10-07 | 2022-10-13 |
 | [Spark](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:37 | 2022-06-23 | 2023-04-06 |
 | [Spring Summer Autumn Winter](https://open.spotify.com/track/57Qgh8evQBroL4BmZP4EsQ) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [the late Kim Hyun\-sik's 30th Anniversary Memorial Album "Making Memories" Part 3](https://open.spotify.com/album/1X8Q3v1vqcbKOw1ALy97xO) | 2:44 | 2022-07-08 | 2022-07-19 |
@@ -500,6 +501,7 @@
 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 | 2023-06-01 |  |
 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 | 2022-04-12 | 2023-06-07 |
 | [You Were Beautiful \(My love X Kim Min\-seok \(MeloMance\)\)](https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy) | [Kim Min\-seok \(MeloMance\)](https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp) | [You Were Beautiful \(My love X Kim Min\-seok \(MeloMance\)\)](https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie) | 4:32 | 2023-07-11 | 2023-07-29 |
+| [You're Beautiful](https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [You're Beautiful](https://open.spotify.com/album/1WAhLhtqvSSjspHe2kzYhF) | 3:55 | 2023-08-25 |  |
 | [You're right](https://open.spotify.com/track/3X4StHauTX08nwxvdzByae) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [BLUE](https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6) | 4:36 | 2022-04-21 | 2022-07-23 |
 | [Young](https://open.spotify.com/track/4nlTKc5u6qiToCqjr3Z5IE) | [Griffy](https://open.spotify.com/artist/5MilSw46kL5Z2pUS5p0kSP), [Vincent Park](https://open.spotify.com/artist/101RqEN906HsLFMCf1AOW7) | [Young](https://open.spotify.com/album/5y5xxuMomFzgXvUJzetwxP) | 3:26 | 2022-04-12 | 2022-07-26 |
 | [Young Boy](https://open.spotify.com/track/2XRbYuPcNo5xlScjMxy2pX) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [NINE.i The 2nd Mini Album \[I \(Part.1\)\]](https://open.spotify.com/album/6ujhSpmWkRGIgKDin3WKlZ) | 3:30 | 2022-11-09 | 2023-06-12 |

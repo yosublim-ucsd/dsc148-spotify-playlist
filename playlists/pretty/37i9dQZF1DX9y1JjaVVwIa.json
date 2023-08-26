@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 364,
+  "num_followers": 366,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzg5OWI3M2I3MDdjZjYxNWRiOTQ5ZTU5YjU5ZWMxMjBlZjAyYzBj",
+  "snapshot_id": "MCw1ZTg2MDM1MDQ2NDExNGQzYzkwNTAzZGM2ZDk5M2MzOTA5OGE2MGM2",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -303,18 +303,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
       "artists": [
         {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
+      "duration_ms": 188520,
+      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
+      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -339,22 +343,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
       },
       "artists": [
         {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
         }
       ],
-      "duration_ms": 188520,
-      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
-      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Miss Universos",
         "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 181874,
       "name": "Cr\u00f3nico",
       "url": "https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -623,26 +623,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Dos amores",
-        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        },
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        }
-      ],
-      "duration_ms": 202951,
-      "name": "Dos amores",
-      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Turista",
         "url": "https://open.spotify.com/album/5lps6A6YGtWDYgZ1X1SgbK"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 294192,
       "name": "Naturaleza Humana (feat. Raquel Berr\u00edos)",
       "url": "https://open.spotify.com/track/37WN9UzPLFYFpoP1AxXlmu"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Dos amores",
+        "url": "https://open.spotify.com/album/0y8SaZZySSkDnMQH40qoyM"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        },
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        }
+      ],
+      "duration_ms": 202951,
+      "name": "Dos amores",
+      "url": "https://open.spotify.com/track/5pNQNliJQxIHlTSzgrrptY"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -747,22 +747,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "La Nueva Esquina",
-        "url": "https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM"
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
       },
       "artists": [
         {
-          "name": "Turista",
-          "url": "https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F"
-        },
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
         }
       ],
-      "duration_ms": 227148,
-      "name": "Subo Subo",
-      "url": "https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz"
+      "duration_ms": 365146,
+      "name": "La Princesa",
+      "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -787,18 +783,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+        "name": "La Nueva Esquina",
+        "url": "https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM"
       },
       "artists": [
         {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+          "name": "Turista",
+          "url": "https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F"
+        },
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 365146,
-      "name": "La Princesa",
-      "url": "https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv"
+      "duration_ms": 227148,
+      "name": "Subo Subo",
+      "url": "https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz"
     },
     {
       "added_at": "2022-08-13 03:00:56",

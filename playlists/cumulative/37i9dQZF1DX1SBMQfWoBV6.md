@@ -4,7 +4,7 @@
 
 > Light electronic movements for study, focus and flow.
 
-81 songs - 6 hr 2 min
+82 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [The Wing](https://open.spotify.com/track/4nIdUgjJwddAnfZhggwFpa) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:24 | 2023-01-31 |  |
 | [Thumb](https://open.spotify.com/track/0xMBvIDJFsMbrs1BHDVpFq) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI) | [Lefhanded Fuqs](https://open.spotify.com/album/0oRaS0KTSRRAOfZnZova2C) | 3:45 | 2023-01-31 |  |
 | [Thyone](https://open.spotify.com/track/19GN5lWipW5bg1aa8SCLTE) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Orthosie](https://open.spotify.com/album/4NzbetkU7aw0ccC5pV7LIy) | 3:03 | 2023-01-31 |  |
+| [Time](https://open.spotify.com/track/07tqZO4kbo6KqjKOcP265f) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Place And Time](https://open.spotify.com/album/7GVevUBAGmJVABY9L2HBAm) | 2:44 | 2023-08-25 |  |
 | [Tune 2 Awakeness \- Beta @](https://open.spotify.com/track/2M52JGX9RzoeFFEN4lVMqX) | [Hypnostate](https://open.spotify.com/artist/2W4sX0RRSKjnAd599CxiX6) | [Bina\(t\)urality](https://open.spotify.com/album/0yZdZJKrLqir5aQ0PmwtHe) | 3:35 | 2023-01-31 |  |
 | [Untravel](https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:51 | 2023-01-31 |  |
 | [Valavond](https://open.spotify.com/track/6Ff7dIvhOa6wqCxYdNDKSs) | [Sonmi451](https://open.spotify.com/artist/1rQREdU6Zyil9kuBQJvaRN) | [Foundations 2](https://open.spotify.com/album/6NiOKlzucDnE4NJAGPpv06) | 6:00 | 2023-01-31 |  |
@@ -83,7 +84,7 @@
 | [Vespera](https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:01 | 2023-01-31 |  |
 | [Vicinities](https://open.spotify.com/track/0GbG6xZEk5vvGGkXyqaAHI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Where All Is Fled](https://open.spotify.com/album/0DSX1JfPpFz03OmBHJBRsG) | 5:01 | 2023-01-31 |  |
 | [Waiting Room](https://open.spotify.com/track/3kuPtyMyUHU12IY37YpQyn) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Images](https://open.spotify.com/album/30nbMptCBZMuRjdfS0ACdL) | 3:27 | 2023-01-31 |  |
-| [Walk Alone to Hear Thoughts of Your Own](https://open.spotify.com/track/5vS2T09cZO5KK8VXLlB4ZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:24 | 2023-01-31 |  |
+| [Walk Alone to Hear Thoughts of Your Own](https://open.spotify.com/track/5vS2T09cZO5KK8VXLlB4ZF) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:24 | 2023-01-31 | 2023-08-26 |
 | [Welcoming of the Colts](https://open.spotify.com/track/0Htf6VECFgxlVKmS4dHrR0) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 3:49 | 2023-01-31 |  |
 | [Western Electric](https://open.spotify.com/track/5LwWTwkjy0IZLbneYZ6IXS) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [301C Symphony](https://open.spotify.com/album/7xoinXkUgCctFPr9VnzY6u) | 3:01 | 2023-01-31 |  |
 | [White Fragment](https://open.spotify.com/track/2wnKNjSi5RMSIUgNMV46W7) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Royal Blue](https://open.spotify.com/album/6pmKXb63Osnj2DnCy0lb2z) | 4:11 | 2023-01-31 |  |

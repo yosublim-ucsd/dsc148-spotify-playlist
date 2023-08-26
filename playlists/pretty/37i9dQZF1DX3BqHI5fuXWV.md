@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 
 > The best tracks from the great Miles Davis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,449 likes - 75 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,505 likes - 75 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 16 | [Salt Peanuts](https://open.spotify.com/track/3N8RYqxZwy3IGACBYzZ4lN) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' With The Miles Davis Quintet](https://open.spotify.com/album/0Q0bftWuBSwZAHBKZr0lxB) | 6:06 |
 | 17 | [Changes](https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq) | [Miles Davis And Milt Jackson Quintet](https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu) | [Miles Davis And Milt Jackson Quintet/Sextet](https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7) | 7:10 |
 | 18 | [Easy Living](https://open.spotify.com/track/3QHeOALQbMukSiCWQrP2b0) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Blue Moods](https://open.spotify.com/album/6QNUsyQxf8merg8Sv696aI) | 5:03 |
-| 19 | [Blue Haze](https://open.spotify.com/track/4aGwaTnpdI90cHPfgKV6jw) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 6:09 |
+| 19 | [Blue Haze](https://open.spotify.com/track/26Mp8qAMY9WaFu9BJ8DghW) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Davis \- A Jazz Legend](https://open.spotify.com/album/6YlVEAfzDbm6ul89skqKXL) | 6:11 |
 | 20 | [Old Folks \(feat\. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb\)](https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [Someday My Prince Will Come](https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ) | 5:14 |
 | 21 | [Black Comedy](https://open.spotify.com/track/3iC27VT5zft0EU3uibib6y) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles In The Sky \(Expanded Edition\)](https://open.spotify.com/album/1qxketIip4Mbqb2TglxPuY) | 7:24 |
 | 22 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/2cKH6blsLnE8oEEmAu34YB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband](https://open.spotify.com/album/0m3hXmvbvwjpIXai7HOWys) | 5:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 74 | [On The Corner \- Take 4](https://open.spotify.com/track/3R1vAfFxWwZvli1NepW9TY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete On The Corner Sessions](https://open.spotify.com/album/4ORrWT9p5FH1jhTCATKEcj) | 5:16 |
 | 75 | [Bluebird \- New Take 1](https://open.spotify.com/track/1qJXyjyunPZG7lnvwRNGiI) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker Memorial, Vol\. 1](https://open.spotify.com/album/1ZVtgzuTIOTBKn4LmgNwTX) | 2:55 |
 
-Snapshot ID: `MCw3ZWU5OTlhNDQxNGU1NmM2YTExYjM4ODRkYTcyNjRlMjA3MjM5YjFi`
+Snapshot ID: `MCw4MGY1ZmVjMjQ0NzM0NjUxZTM3NTMwYTY5OGE2YjY1ODhiZWUzNTFj`

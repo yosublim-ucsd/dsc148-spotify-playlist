@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: NGC Daddy, Meno Tody ",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Mac Julia, Mc Luanna, ajuliacosta",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 122400,
       "name": "5 alter ego",
       "url": "https://open.spotify.com/track/69GVieOzMICCpxJZaFa8tU"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 131913,
       "name": "Audi",
       "url": "https://open.spotify.com/track/2988kuv79kMRHfLHFucz7k"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 162857,
       "name": "Bahia",
       "url": "https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy"
@@ -2147,6 +2147,32 @@
     },
     {
       "album": {
+        "name": "BANDIDA",
+        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179824,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
+    },
+    {
+      "album": {
         "name": "Bandida Ipa",
         "url": "https://open.spotify.com/album/6SHfq0oDRdg3RuEJn1kFXP"
       },
@@ -2314,6 +2340,28 @@
       "duration_ms": 172754,
       "name": "Barras de Ouro",
       "url": "https://open.spotify.com/track/3nsZRMOxSCczFA9YCSfNty"
+    },
+    {
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/7Itl5hyQy9U49AdMwvjueQ"
+      },
+      "artists": [
+        {
+          "name": "Klyn",
+          "url": "https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm"
+        },
+        {
+          "name": "JotaPills",
+          "url": "https://open.spotify.com/artist/5EFuxQqgLKrSBURDlTsC91"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156864,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/3d9Yt5WmVjPJQJ3suJxy40"
     },
     {
       "album": {
@@ -3052,7 +3100,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 148800,
       "name": "CAFE\u00cdNA",
       "url": "https://open.spotify.com/track/5J6SoJYstt8E740G371rTK"
@@ -3992,6 +4040,28 @@
       "duration_ms": 178175,
       "name": "Cifr\u00e3o",
       "url": "https://open.spotify.com/track/6PCV5jgA8wBLvGIWbJR7la"
+    },
+    {
+      "album": {
+        "name": "Cifr\u00f5es",
+        "url": "https://open.spotify.com/album/5Wjx86nGtMVL6UNF6CksiS"
+      },
+      "artists": [
+        {
+          "name": "Big Odes",
+          "url": "https://open.spotify.com/artist/37GDdlK2aQkDIEJW1xbU95"
+        },
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Cifr\u00f5es",
+      "url": "https://open.spotify.com/track/5j4QHyuGpLuZKxOX4rGMHP"
     },
     {
       "album": {
@@ -5538,7 +5608,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 171678,
       "name": "DIETA",
       "url": "https://open.spotify.com/track/4CcOlzXtWwejHru9IwZeZJ"
@@ -6850,7 +6920,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 105473,
       "name": "FALTA POUCO",
       "url": "https://open.spotify.com/track/4OjrPYlHrc63TxZbxvlNZU"
@@ -7964,7 +8034,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 201836,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/27QbHc3LO4fnFhP0Hh2DRK"
@@ -8276,7 +8346,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 187826,
       "name": "Hist\u00f3ria Viva",
       "url": "https://open.spotify.com/track/7m152HAOwXAVINMeAWeIAH"
@@ -8338,6 +8408,28 @@
       "duration_ms": 88065,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/7ry1Fs1NsV1fuU3ma7Vdnh"
+    },
+    {
+      "album": {
+        "name": "Holograma",
+        "url": "https://open.spotify.com/album/4XhHEJ40XqBahPPU3cAgec"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Holograma",
+      "url": "https://open.spotify.com/track/274iKKBd3zMz7ycbkgfO7O"
     },
     {
       "album": {
@@ -8808,6 +8900,32 @@
       "duration_ms": 301276,
       "name": "Jhony Convida #5 - Confirma",
       "url": "https://open.spotify.com/track/4rEdstBdZqp7xpiPwvvXbE"
+    },
+    {
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168205,
+      "name": "Jogo",
+      "url": "https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l"
     },
     {
       "album": {
@@ -9621,6 +9739,24 @@
     },
     {
       "album": {
+        "name": "Luffy Gear 5 Joyboy",
+        "url": "https://open.spotify.com/album/7C8IPXYjXHuDtiu26dC5t3"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167662,
+      "name": "Luffy Gear 5 Joyboy",
+      "url": "https://open.spotify.com/track/1V50vVIs472yA3LI5wAgjy"
+    },
+    {
+      "album": {
         "name": "Luneta",
         "url": "https://open.spotify.com/album/5jP8Off0dqBiVuBvodrIvv"
       },
@@ -9644,7 +9780,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 155126,
       "name": "Luneta",
       "url": "https://open.spotify.com/track/38DklR0Ox5vjQVPZhiZKRT"
@@ -9768,7 +9904,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 204461,
       "name": "Luz Apagada",
       "url": "https://open.spotify.com/track/7vT7jEmtlRnKNThbgRxug6"
@@ -9790,7 +9926,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 186122,
       "name": "Luz do Tra\u00e7ante",
       "url": "https://open.spotify.com/track/3zMoJIJB8sH4u9MLWlLJ8g"
@@ -12957,6 +13093,24 @@
     },
     {
       "album": {
+        "name": "Pensamento",
+        "url": "https://open.spotify.com/album/1Ty1IzlYQjfMDQBwzqNdxY"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Pensamento",
+      "url": "https://open.spotify.com/track/2czJrZj9MhdypmzWccjuyh"
+    },
+    {
+      "album": {
         "name": "Pensamentos Negativos",
         "url": "https://open.spotify.com/album/1d1n79fvIMJnUclallzcSj"
       },
@@ -13879,6 +14033,32 @@
     },
     {
       "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/2PBjSvED4eYoQJRuynla0s"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Propagar",
+      "url": "https://open.spotify.com/track/4OFl89CAbvPeEWwyPeqDgA"
+    },
+    {
+      "album": {
         "name": "PROVA FINAL",
         "url": "https://open.spotify.com/album/5HBxI7cSAr2rtHEXW1Olyx"
       },
@@ -14665,6 +14845,32 @@
     },
     {
       "album": {
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Renc Renc",
+      "url": "https://open.spotify.com/track/3LkOtPI3tg44XxnYdrST7B"
+    },
+    {
+      "album": {
         "name": "Resignar",
         "url": "https://open.spotify.com/album/4KxorWZ9Pe5rxsKtp0yRIe"
       },
@@ -14732,6 +14938,28 @@
       "duration_ms": 191567,
       "name": "Retrato #3 - Oakley Music",
       "url": "https://open.spotify.com/track/3lAxLWmbnBgkGcs6rRj250"
+    },
+    {
+      "album": {
+        "name": "Retrato #5 - Mantendo o Ritmo",
+        "url": "https://open.spotify.com/album/2fNjVoMFe8S7n0NYmIxB82"
+      },
+      "artists": [
+        {
+          "name": "Neo BXD",
+          "url": "https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73"
+        },
+        {
+          "name": "AZN Studio",
+          "url": "https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150775,
+      "name": "Retrato #5 - Mantendo o Ritmo",
+      "url": "https://open.spotify.com/track/1fV2pGKIrjYU8LbrrjBfbb"
     },
     {
       "album": {
@@ -15754,10 +15982,36 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 192000,
       "name": "Sobrenatural ;7",
       "url": "https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf"
+    },
+    {
+      "album": {
+        "name": "Solteira Desapegada",
+        "url": "https://open.spotify.com/album/0nN1rl6bAR0Wocif2BkNUf"
+      },
+      "artists": [
+        {
+          "name": "Vulgo Junet",
+          "url": "https://open.spotify.com/artist/3127oLqTIUfvCVr5y8RZ4M"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167051,
+      "name": "Solteira Desapegada",
+      "url": "https://open.spotify.com/track/2VA2YomrRj8hHJ7wmpoDeZ"
     },
     {
       "album": {
@@ -17684,6 +17938,28 @@
       "duration_ms": 137581,
       "name": "Vinculo",
       "url": "https://open.spotify.com/track/78U6oE0dUCMRRmXM1iFuFN"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o Noturna",
+        "url": "https://open.spotify.com/album/1GHOdBHFe6lMNXj7BD4Xra"
+      },
+      "artists": [
+        {
+          "name": "Bruxo 021",
+          "url": "https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Vis\u00e3o Noturna",
+      "url": "https://open.spotify.com/track/1o5ohLty3taZ5IzDuCjRUU"
     },
     {
       "album": {

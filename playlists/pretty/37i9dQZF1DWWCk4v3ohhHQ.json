@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 178961,
+  "num_followers": 179133,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzU2YzhiZDg2Zjk1OGMyMjhlMThiMGI0ODg2MTJlY2NjN2QxMTgy",
+  "snapshot_id": "MCxkZjc3NGQ0Yzc5NzdkM2VjOWI1YzY1ZGFhZjA4OWFiZDZhNTJkMmY4",
   "tracks": [
     {
       "added_at": "2022-11-17 15:48:46",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248335,
-      "name": "It's Not Living (If It's Not With You)",
-      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248335,
+      "name": "It's Not Living (If It's Not With You)",
+      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Stronger (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Stronger (What Doesn't Kill You)",
-      "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "Here and Now (Audio Only Version)",
         "url": "https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 190786,
       "name": "When We Stand Together",
       "url": "https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Stronger (What Doesn't Kill You)",
+      "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Sunsets & Full Moons",
-        "url": "https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM"
+        "name": "Helios",
+        "url": "https://open.spotify.com/album/4Z1kH6bfeeMYtCuhnR4vEr"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 196106,
-      "name": "The Last Time",
-      "url": "https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO"
+      "duration_ms": 183093,
+      "name": "Love Don't Die",
+      "url": "https://open.spotify.com/track/6IDDwI0YOCAUDhMZltQekS"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Helios",
-        "url": "https://open.spotify.com/album/4Z1kH6bfeeMYtCuhnR4vEr"
+        "name": "Sunsets & Full Moons",
+        "url": "https://open.spotify.com/album/4BSDAmxxjYJnePMfh8kSJM"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 183093,
-      "name": "Love Don't Die",
-      "url": "https://open.spotify.com/track/6IDDwI0YOCAUDhMZltQekS"
+      "duration_ms": 196106,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO"
     },
     {
       "added_at": "2022-11-17 15:48:46",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-11-17 15:48:46",
       "album": {
-        "name": "Ten Add Ten: The Very Best of Scouting For Girls",
-        "url": "https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7"
-      },
-      "artists": [
-        {
-          "name": "Scouting For Girls",
-          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "This Ain't a Love Song",
-      "url": "https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a"
-    },
-    {
-      "added_at": "2022-11-17 15:48:46",
-      "album": {
         "name": "BANNERS",
         "url": "https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 215960,
       "name": "Start A Riot",
       "url": "https://open.spotify.com/track/3cpOqFZ30z5cUJUC9MYaar"
+    },
+    {
+      "added_at": "2022-11-17 15:48:46",
+      "album": {
+        "name": "Ten Add Ten: The Very Best of Scouting For Girls",
+        "url": "https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7"
+      },
+      "artists": [
+        {
+          "name": "Scouting For Girls",
+          "url": "https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "This Ain't a Love Song",
+      "url": "https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a"
     },
     {
       "added_at": "2022-11-17 15:48:46",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aya Nakamura",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: comment debord",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 214605,
       "name": "Alabama",
       "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 126506,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x"
@@ -4108,7 +4108,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 136635,
       "name": "BORZ",
       "url": "https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu"
@@ -6087,6 +6087,28 @@
     },
     {
       "album": {
+        "name": "Chien Mang\u00e9 Chien",
+        "url": "https://open.spotify.com/album/0EfEB9jjLhdhyVYHjPRdCG"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203322,
+      "name": "Chien Mang\u00e9 Chien",
+      "url": "https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv"
+    },
+    {
+      "album": {
         "name": "Chiens habill\u00e9s",
         "url": "https://open.spotify.com/album/7LbJ2LedRWrZA8056mFM52"
       },
@@ -6856,7 +6878,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 163978,
       "name": "Combien \u00e7a co\u00fbte",
       "url": "https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP"
@@ -10773,6 +10795,24 @@
     },
     {
       "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178224,
+      "name": "Enfer",
+      "url": "https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei"
+    },
+    {
+      "album": {
         "name": "Engraisser",
         "url": "https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII"
       },
@@ -10802,7 +10842,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU"
@@ -13488,6 +13528,24 @@
       "duration_ms": 233846,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5s70L5LgWCgsG27fSB032T"
+    },
+    {
+      "album": {
+        "name": "GONE!",
+        "url": "https://open.spotify.com/album/60wOCCyvuO5e4209ZQBOPo"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168507,
+      "name": "GONE!",
+      "url": "https://open.spotify.com/track/5U0a4MxQwguUfubabxFhQR"
     },
     {
       "album": {
@@ -20500,7 +20558,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 137293,
       "name": "Les Daisy",
       "url": "https://open.spotify.com/track/79RauCvHAGvcYT4DJoHmMv"
@@ -20810,6 +20868,24 @@
       "duration_ms": 182131,
       "name": "Les oiseaux",
       "url": "https://open.spotify.com/track/0qsPxIocq7duPoOi4Wuh6r"
+    },
+    {
+      "album": {
+        "name": "Les po\u00e9tesses de Saint-Jambe",
+        "url": "https://open.spotify.com/album/3PXgyMooYERoBY9wB1JnRb"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268826,
+      "name": "Les po\u00e9tesses de Saint-Jambe",
+      "url": "https://open.spotify.com/track/2IjL7TzDYQEciZd9UTleEC"
     },
     {
       "album": {
@@ -23151,6 +23227,28 @@
     },
     {
       "album": {
+        "name": "Meridian",
+        "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
+    },
+    {
+      "album": {
         "name": "Mes affaires",
         "url": "https://open.spotify.com/album/5yCcPQUL1zdTO9lcI73YwO"
       },
@@ -23662,7 +23760,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 188786,
       "name": "Mon BB",
       "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
@@ -23742,6 +23840,24 @@
       "duration_ms": 185854,
       "name": "Mon homme - Petit Pied Remix - Radio Edit",
       "url": "https://open.spotify.com/track/4AvDT7jjSGk3PkiA3snhKt"
+    },
+    {
+      "album": {
+        "name": "Mon jaun\u00e9",
+        "url": "https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198844,
+      "name": "Mon jaun\u00e9",
+      "url": "https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga"
     },
     {
       "album": {
@@ -24130,7 +24246,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 123908,
       "name": "MOTOMAMI",
       "url": "https://open.spotify.com/track/7mdMJNBm9Ufi2yybr49DNT"
@@ -24634,7 +24750,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 146000,
       "name": "N'importe O\u00f9 Sauf Ici",
       "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
@@ -26596,7 +26712,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 190413,
       "name": "Paris",
       "url": "https://open.spotify.com/track/381Ol9G2ibkIausZhbr6aX"
@@ -29656,7 +29772,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 171026,
       "name": "Rappelle-toi",
       "url": "https://open.spotify.com/track/3AXg6pyKrtAeLQicqPGr99"
@@ -32318,7 +32434,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 180968,
       "name": "Sign\u00e9",
       "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
@@ -32842,6 +32958,24 @@
       "duration_ms": 208586,
       "name": "SQ Remix",
       "url": "https://open.spotify.com/track/3m5QW5miEWmUOmD8yK7KdO"
+    },
+    {
+      "album": {
+        "name": "Stack",
+        "url": "https://open.spotify.com/album/5q3bd7z8kuSWUDJOtgrAmP"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307540,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/6qWTWoKhEURkA1WD9Z8vYQ"
     },
     {
       "album": {
@@ -33764,7 +33898,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 192977,
       "name": "Tache d'encre",
       "url": "https://open.spotify.com/track/1toQXtLaRc3MaK53vKL24z"
@@ -35104,10 +35238,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
+    },
+    {
+      "album": {
+        "name": "Trait d'union",
+        "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245250,
+      "name": "Trait d'union",
+      "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
     },
     {
       "album": {
@@ -35998,7 +36150,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
@@ -36782,6 +36934,24 @@
       "duration_ms": 244158,
       "name": "Vestiges",
       "url": "https://open.spotify.com/track/3g9TLqhjedn7lHKd1E1rBq"
+    },
+    {
+      "album": {
+        "name": "tu penses-tu + veux veux pas",
+        "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190284,
+      "name": "veux veux pas",
+      "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
     },
     {
       "album": {
@@ -37818,7 +37988,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 157000,
       "name": "Yabibi (feat. Nej)",
       "url": "https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk"
@@ -38126,7 +38296,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 333089,
       "name": "\u00c0 la rencontre de Barbara (feat. Standard Emmanuel)",
       "url": "https://open.spotify.com/track/0xDNmS1FLbONayk21JM7NT"

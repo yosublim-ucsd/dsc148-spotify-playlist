@@ -4,7 +4,7 @@
 
 > Ft\. re6ce
 
-273 songs - 12 hr 2 min
+276 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [cherry](https://open.spotify.com/track/45MvVAvEVHeIh5eReP2m6o) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [cherry](https://open.spotify.com/album/32bC46BdtyzmMkNlKPlfGA) | 3:06 | 2023-08-04 |  |
 | [chewing on my tongue](https://open.spotify.com/track/7AvoOqTRdH6hafhZKVBLwA) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 1:58 | 2023-08-04 |  |
 | [chronically online bitch](https://open.spotify.com/track/4p25lyI6HiIdLrjaBVdJoU) | [Stevyn](https://open.spotify.com/artist/72xvR0gA7IoOaPP5pX5nGQ), [CThruRio](https://open.spotify.com/artist/0zQSlXfHpiKFcQNf9izlvA) | [chronically online bitch](https://open.spotify.com/album/1BjkuSizpVWZuZqNtYcbFM) | 2:09 | 2023-06-23 | 2023-08-16 |
+| [COMEDOWN](https://open.spotify.com/track/5uYViosjAmKH1Auq3zvZL1) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [COMEDOWN](https://open.spotify.com/album/1IqxYZcc2DxAaOyqEOdGnR) | 2:09 | 2023-08-25 |  |
 | [CONSUMED](https://open.spotify.com/track/4cbchAUt8tHwEwd1dyL6T6) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [CONSUMED](https://open.spotify.com/album/0RfdjQvgnPvOJNYc74ukAX) | 2:44 | 2023-06-23 |  |
 | [Cops and robbers](https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cops and robbers](https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo) | 4:25 | 2023-05-05 | 2023-08-02 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 | 2023-01-20 | 2023-03-03 |
@@ -229,7 +230,7 @@
 | [Started With](https://open.spotify.com/track/0HItsiWHdkju9IHa1wUAIv) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [Started With](https://open.spotify.com/album/0mvV5B0MFOk3UKWcSuVOte) | 2:05 | 2023-06-23 |  |
 | [stay close](https://open.spotify.com/track/2jajPzkjTecTxrcSBnb4J4) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [stay close](https://open.spotify.com/album/05CV2db056PerekmifWzfA) | 2:46 | 2023-01-27 | 2023-03-02 |
 | [stranded \(feat\. angelus\)](https://open.spotify.com/track/4ybA4RmMlEjU83umFZnTVj) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h), [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [stranded \(feat\. angelus\)](https://open.spotify.com/album/4yAZzAMHd6AnEJtN0gglFm) | 1:55 | 2023-02-10 | 2023-06-24 |
-| [stuck.](https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck.](https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR) | 2:14 | 2023-08-04 |  |
+| [stuck.](https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck.](https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR) | 2:14 | 2023-08-04 | 2023-08-26 |
 | [sub 32](https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sub 32](https://open.spotify.com/album/1ayf7TVmz3NSRUD1q36mMJ) | 1:48 | 2023-06-23 |  |
 | [Sunset](https://open.spotify.com/track/2gT5BDAkyam9VuQa4Y4BvD) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX), [Jah PHNX](https://open.spotify.com/artist/4FAtkJD7fCoiw7nECuemAG) | [Sunset](https://open.spotify.com/album/0pIGDIi7PHFhcYp8mLgByo) | 2:34 | 2023-06-09 | 2023-06-17 |
 | [Sweet One](https://open.spotify.com/track/07yN3cbIaYw9LOli6iFEuL) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/6oRFl2fJkYPBAMyRw6Q3GY) | 2:13 | 2022-12-04 | 2022-12-07 |
@@ -239,6 +240,7 @@
 | [tapestry](https://open.spotify.com/track/24fjBTuoJgg4u3gwJX5sgY) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic) | [tapestry](https://open.spotify.com/album/2fMVVhslVVXLmEtbScbKQq) | 2:15 | 2023-06-23 |  |
 | [Tea Parties With Dale Earnhardt](https://open.spotify.com/track/68CmROYNRCJWTJOx34pCSk) | [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Tea Parties With Dale Earnhardt](https://open.spotify.com/album/5cAvGgIqa9qtQE2IYocQSl) | 1:41 | 2023-06-23 | 2023-08-17 |
 | [teeth \(you\)](https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [teeth \(you\)](https://open.spotify.com/album/2wcvDXC1imEEkkrmW5DwCY) | 2:01 | 2022-12-04 |  |
+| [the end.](https://open.spotify.com/track/65iEXVHRkbm5pibetOFL4y) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck\. run\. sink\. die\. the end.](https://open.spotify.com/album/77Vn3DDWatnu93qk2c0CoE) | 2:33 | 2023-08-25 |  |
 | [The Industry \(don't care\)](https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE) | [PROP](https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp) | [The Industry \(don't care\)](https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR) | 1:54 | 2023-01-06 |  |
 | [The Poison's The Weather](https://open.spotify.com/track/3gV6pc8ERKK7e174TRxuBU) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [The Poison's The Weather](https://open.spotify.com/album/6sAC8GdyWcFqtzrbxejyso) | 2:40 | 2023-03-24 |  |
 | [the summer i grew up](https://open.spotify.com/track/341SgFKGC3j1lJNNX5w7zW) | [ryen](https://open.spotify.com/artist/5L7zIiH18e2nY37pQ9ZjGp) | [the summer i grew up](https://open.spotify.com/album/4SoRO6ybGRA8sOye3hCLeV) | 2:55 | 2022-12-04 | 2023-06-17 |
@@ -261,6 +263,7 @@
 | [wasted.](https://open.spotify.com/track/6IaWNJ6qOWlGeHBiiTtsv7) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ) | [wasted.](https://open.spotify.com/album/30XsDPphme5KwIyvzx9jys) | 3:19 | 2023-03-24 |  |
 | [watercolor puddles](https://open.spotify.com/track/19FYyDf5RgRdW80nPcYA4R) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [watercolor puddles](https://open.spotify.com/album/1cYC9YUVa23K5pTDQY8Aqb) | 1:59 | 2023-06-23 |  |
 | [welcome to the plant cell bath](https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [welcome to the plant cell bath](https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT) | 3:00 | 2022-12-04 | 2023-02-18 |
+| [what do i care?](https://open.spotify.com/track/4dUd78G324Z1YnxSjCnFl3) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [what do i care?](https://open.spotify.com/album/5BqomERv8kyvEPHY9Y2e5q) | 2:10 | 2023-08-25 |  |
 | [what's underneath](https://open.spotify.com/track/4fy7qneM9uEKod8V7ZXoIP) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [what's underneath](https://open.spotify.com/album/0j6QywC70gHenRxDus0YVy) | 2:10 | 2023-08-18 |  |
 | [whats it mean to be a king](https://open.spotify.com/track/21iJxrE5WYXpqkr6bJM05c) | [Kenny Orlando](https://open.spotify.com/artist/2EaS3fIceT87x7nqjODgvq), [Okayracer](https://open.spotify.com/artist/4j8joGNndygibHb37LVwRo) | [whats it mean to be a king](https://open.spotify.com/album/0ZU45BAWwk63gm3EXtU5Vf) | 2:20 | 2023-06-16 |  |
 | [Where I Met U](https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [House](https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q) | 2:02 | 2023-06-23 |  |

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: LUNA, Lucifer Xo
 
-1,179 songs - 2 day 7 hr 57 min
+1,181 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Für dich da](https://open.spotify.com/track/3eS5cdQfliiWLWLjLdYodN) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Für dich da](https://open.spotify.com/album/53ONUgQsNJqHijJUzagh2N) | 3:02 | 2023-03-02 | 2023-03-20 |
 | [Für die Vibes](https://open.spotify.com/track/1QIIraBvAE1psUv0BP4pjB) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Für die Vibes](https://open.spotify.com/album/6ml1WsPdilgPNHCDXdHrt2) | 2:56 | 2023-07-20 | 2023-08-11 |
 | [Für immer](https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Für immer](https://open.spotify.com/album/4ta6tTPzBZ52kisCgtXvGR) | 3:23 | 2023-02-23 | 2023-03-10 |
-| [für immer aber nicht für jetzt \(baumwall\)](https://open.spotify.com/track/2BfqcEI98b5QSvZuYMP4H1) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [für immer aber nicht für jetzt \(baumwall\)](https://open.spotify.com/album/4hOeYroGuI9Q7KxeFHmlLA) | 2:33 | 2023-08-03 |  |
+| [für immer aber nicht für jetzt \(baumwall\)](https://open.spotify.com/track/2BfqcEI98b5QSvZuYMP4H1) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [für immer aber nicht für jetzt \(baumwall\)](https://open.spotify.com/album/4hOeYroGuI9Q7KxeFHmlLA) | 2:33 | 2023-08-03 | 2023-08-26 |
 | [Für jeden aber nicht für dich](https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Für jeden aber nicht für dich](https://open.spotify.com/album/1f5h6JX9E8RO5zRW9ALMIf) | 2:14 | 2023-04-13 | 2023-05-12 |
 | [Gaga Baby](https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Gaga Baby](https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA) | 2:29 | 2023-08-10 | 2023-08-18 |
 | [Galaxie](https://open.spotify.com/track/2T9yY0QSM6AVWgokNppBqV) | [twenty4tim](https://open.spotify.com/artist/0BJ10PxQXDtW07wTHuXuLu) | [Galaxie](https://open.spotify.com/album/01VgKeIgjIwatd7lbzzExL) | 2:01 | 2022-12-01 | 2022-12-09 |
@@ -670,6 +670,7 @@
 | [mona lisa](https://open.spotify.com/track/4ZQ1aAbr7ZNScyUawToAvo) | [BELLUCCI BOI](https://open.spotify.com/artist/5c68xeIPEWsKVqod15NMi2) | [mona lisa](https://open.spotify.com/album/6vtKSbUyiCpuDQWQugobnu) | 3:09 | 2023-03-24 | 2023-04-07 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-06 | 2023-07-04 |
 | [Money On My Mind](https://open.spotify.com/track/11nCZnfaUl7BDwBCoezUTf) | [Faroon](https://open.spotify.com/artist/697ZbUKLJSEWWhtayAGxBY) | [Trap Billie Jean V.1 Mixtape](https://open.spotify.com/album/7KL3mXZ6eEUrDCT3lCyi6q) | 2:57 | 2023-07-26 | 2023-08-11 |
+| [Montag](https://open.spotify.com/track/1aWcCv2d71eilvrUDNPwJr) | [Akutkarl](https://open.spotify.com/artist/2vPC9V7lUTVG0iGwztvWWz), [DJ Testö](https://open.spotify.com/artist/5IDfYJZqdTt1pnOyol6JIJ) | [Musik an, Welt aus Tape](https://open.spotify.com/album/5kqM78MuXcctyZHT2G0BHL) | 3:14 | 2023-08-25 |  |
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-07-25 | 2022-08-02 |
 | [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 | 2022-08-15 | 2022-08-28 |
 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 | 2022-08-25 | 2022-09-16 |
@@ -962,6 +963,7 @@
 | [Suicide](https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Suicide](https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs) | 3:44 | 2022-11-03 | 2022-11-18 |
 | [SUICIDE YEAR](https://open.spotify.com/track/7jVH8CXr0MSpGheHOjN4NA) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/0tMQ0WClc4aez32B3BiqxJ) | 1:31 | 2022-06-09 | 2022-06-14 |
 | [Summer Is Over](https://open.spotify.com/track/0pNixXwlBegpoAwQYSjvLK) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Summer Is Over](https://open.spotify.com/album/0PnIkwn2sM4PvwSvv2T3ed) | 2:00 | 2023-05-25 | 2023-06-02 |
+| [summer nights](https://open.spotify.com/track/2Jh95xSdz3H1WYiUJD1EFM) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [Beyazz](https://open.spotify.com/artist/1U0pXcl8GZlZ48jTgnpGHl) | [summer nights](https://open.spotify.com/album/6xJH3yzyCyjhQhtbd1OszL) | 2:04 | 2023-08-25 |  |
 | [summerluv](https://open.spotify.com/track/3cMHAo9WzlAzLHCOFFWdH1) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [summerluv](https://open.spotify.com/album/0OrLzpLCRH2LsublL3kGEy) | 2:37 | 2022-09-01 | 2022-10-07 |
 | [Summertime Sadness](https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:24 | 2022-06-09 | 2022-11-18 |
 | [Sunday by the River](https://open.spotify.com/track/5SjdXpQqq54uRrlSXv12i4) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Sunday by the River](https://open.spotify.com/album/0Ukujcae2Ufeke5HuKzZQW) | 2:33 | 2023-04-20 | 2023-05-05 |

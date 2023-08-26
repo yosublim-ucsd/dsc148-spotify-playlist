@@ -1,31 +1,15 @@
 {
-  "description": "\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e1b\u0e01: SLAPKISS",
-  "num_followers": 4982,
+  "description": "\u0e04\u0e49\u0e19\u0e1e\u0e1a\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e1b\u0e01: wish.",
+  "num_followers": 4989,
   "original_name": "RADAR Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWEwYWQ0MmY2ZmExNWJjOWUwMzY2ODRjMzYwNTQzMDRmNWU5NDI3",
+  "snapshot_id": "MCxiMGRiMzE1NjAxZWVhNTUyNjhiNzlkODBlNjRhNGU4YTBmYmViOGJl",
   "tracks": [
     {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "Flowers on earth",
-        "url": "https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle"
-      },
-      "artists": [
-        {
-          "name": "Blackbeans",
-          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
-        }
-      ],
-      "duration_ms": 255750,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "\u0e2d\u0e32\u0e08\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07 (me.)",
         "url": "https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL"
@@ -41,10 +25,10 @@
       "url": "https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "ALICE",
-        "url": "https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX"
+        "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
+        "url": "https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG"
       },
       "artists": [
         {
@@ -52,12 +36,60 @@
           "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
         }
       ],
-      "duration_ms": 222000,
-      "name": "ALICE",
-      "url": "https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu"
+      "duration_ms": 197432,
+      "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e23\u0e39\u0e49\u0e14\u0e35\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e48\u0e30\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/31xweD8WIV6QX6dN548PhF"
+      },
+      "artists": [
+        {
+          "name": "wish.",
+          "url": "https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR"
+        }
+      ],
+      "duration_ms": 232619,
+      "name": "\u0e23\u0e39\u0e49\u0e14\u0e35\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e48\u0e30\u0e43\u0e08\u0e23\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/3mpTTxDQH6qp1gtHVyU5iW"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "Flowers on earth",
+        "url": "https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "duration_ms": 255750,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e18\u0e2d\u0e40\u0e01\u0e48\u0e07\u0e21\u0e32\u0e01\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/1yxMwyiGUaOeVmoK0fwyIG"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e18\u0e2d\u0e40\u0e01\u0e48\u0e07\u0e21\u0e32\u0e01\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/550qprwsd0ICIzDcrVhzhY"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 (BYE)",
         "url": "https://open.spotify.com/album/0gHWs2N0DKlZHGcJpvpeCA"
@@ -77,58 +109,26 @@
       "url": "https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5MwGuY9wRplZgMtA1Bn1UV"
+        "name": "24",
+        "url": "https://open.spotify.com/album/1qI2EQofSUMJJl35IzIsT0"
       },
       "artists": [
         {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/12fWIindDPAAsaPXPSAYJK"
+      "duration_ms": 305806,
+      "name": "24",
+      "url": "https://open.spotify.com/track/6ZmvkPsAhZdP0VUqX2NtTo"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "DEJAYOU",
-        "url": "https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "DEJAYOU",
-      "url": "https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e02\u0e49\u0e32\u0e07",
-        "url": "https://open.spotify.com/album/0Drbw1FOrgz3WiwHfejmFT"
-      },
-      "artists": [
-        {
-          "name": "LUSS",
-          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
-        }
-      ],
-      "duration_ms": 203833,
-      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e02\u0e49\u0e32\u0e07",
-      "url": "https://open.spotify.com/track/4QBb6jWjJQ4AAZwiCkCyvX"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
-        "url": "https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG"
+        "name": "ALICE",
+        "url": "https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX"
       },
       "artists": [
         {
@@ -136,92 +136,28 @@
           "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
         }
       ],
-      "duration_ms": 197432,
-      "name": "\u0e43\u0e08\u0e25\u0e2d\u0e22",
-      "url": "https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1"
+      "duration_ms": 222000,
+      "name": "ALICE",
+      "url": "https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e19\u0e32\u0e0b\u0e48\u0e32 \u0e21\u0e35\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19 (Love Planet)",
-        "url": "https://open.spotify.com/album/1bt91b6cucflg1OqQqNgzv"
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e1b\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (FORLORN)",
+        "url": "https://open.spotify.com/album/3mJk19a7FV8M1SiAG43AAR"
       },
       "artists": [
         {
-          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
-          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
         }
       ],
-      "duration_ms": 235901,
-      "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e19\u0e32\u0e0b\u0e48\u0e32 \u0e21\u0e35\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19 - Love Planet",
-      "url": "https://open.spotify.com/track/2pgxiktYFD3YByqVkYmGC5"
+      "duration_ms": 271450,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e1b\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (FORLORN)",
+      "url": "https://open.spotify.com/track/2Z3ltBGdjCtdD9C4Lh1jDW"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e31\u0e19\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/24fT89spi1h2icDiEne5UO"
-      },
-      "artists": [
-        {
-          "name": "SLAPKISS",
-          "url": "https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g"
-        }
-      ],
-      "duration_ms": 229736,
-      "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e31\u0e19\u0e14\u0e35",
-      "url": "https://open.spotify.com/track/6dJ87ZODacjSBUkayDNZgg"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "Therapist",
-        "url": "https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR"
-      },
-      "artists": [
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        }
-      ],
-      "duration_ms": 193069,
-      "name": "Therapist",
-      "url": "https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/4StH50jOP7uCCIsQ6tijX0"
-      },
-      "artists": [
-        {
-          "name": "The White Hair Cut",
-          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh"
-      },
-      "artists": [
-        {
-          "name": "Blackbeans",
-          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/2PJpocUzoJDp8cG7Uq5XPA"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07 (\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e24\u0e14\u0e39\u0e2b\u0e19\u0e32\u0e27)",
         "url": "https://open.spotify.com/album/3h5McsoCWje5uRcj8psVEH"
@@ -237,10 +173,142 @@
       "url": "https://open.spotify.com/track/7BUHKcrvmr9WIAgEBkwukl"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
-        "url": "https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1"
+        "name": "How Are You",
+        "url": "https://open.spotify.com/album/2o59vkcCyL1fSXArEyHHTO"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "How Are You",
+      "url": "https://open.spotify.com/track/5CAI7JfvqBKKbdkXs5wKE5"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48(\u0e40\u0e04\u0e22)\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 [La La Bye]",
+        "url": "https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "duration_ms": 288250,
+      "name": "\u0e08\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48(\u0e40\u0e04\u0e22)\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 [La La Bye]",
+      "url": "https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e41\u0e04\u0e48 (what if)",
+        "url": "https://open.spotify.com/album/2JnFmBAUZDudhnWSzbBGqf"
+      },
+      "artists": [
+        {
+          "name": "First Anuwat",
+          "url": "https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u0e41\u0e04\u0e48 (what if)",
+      "url": "https://open.spotify.com/track/04QOxY5s2wHKj7WMPc3qDf"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5MwGuY9wRplZgMtA1Bn1UV"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/12fWIindDPAAsaPXPSAYJK"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "9MM",
+        "url": "https://open.spotify.com/album/3NvxmDyHLzXU73v6eRDXS2"
+      },
+      "artists": [
+        {
+          "name": "OG BOBBY",
+          "url": "https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe"
+        },
+        {
+          "name": "ESKIIMO",
+          "url": "https://open.spotify.com/artist/3XtbVyd1BMPc4vIwCengvA"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "9MM",
+      "url": "https://open.spotify.com/track/5rqTRj4ZB2Nv3watYPlIYb"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "DEJAYOU",
+        "url": "https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "DEJAYOU",
+      "url": "https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e08\u0e34\u0e4a\u0e01\u0e42\u0e01\u0e4b\u0e25\u0e32\u0e1a\u0e27\u0e0a",
+        "url": "https://open.spotify.com/album/3QlEM3qaBzU9YESHaQqFxf"
+      },
+      "artists": [
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        }
+      ],
+      "duration_ms": 129177,
+      "name": "\u0e08\u0e34\u0e4a\u0e01\u0e42\u0e01\u0e4b\u0e25\u0e32\u0e1a\u0e27\u0e0a",
+      "url": "https://open.spotify.com/track/6pQjWG8NCPuZUKPZJssaTJ"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e02\u0e49\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/0Drbw1FOrgz3WiwHfejmFT"
+      },
+      "artists": [
+        {
+          "name": "LUSS",
+          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
+        }
+      ],
+      "duration_ms": 203833,
+      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e02\u0e49\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/4QBb6jWjJQ4AAZwiCkCyvX"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e19 (End.)",
+        "url": "https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM"
       },
       "artists": [
         {
@@ -248,12 +316,60 @@
           "url": "https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT"
         }
       ],
-      "duration_ms": 188500,
-      "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
-      "url": "https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq"
+      "duration_ms": 211500,
+      "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e19 - End.",
+      "url": "https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "Only Monday",
+        "url": "https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "duration_ms": 275624,
+      "name": "\u0e17\u0e38\u0e01\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
+      "url": "https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
+        "url": "https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 262386,
+      "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
+      "url": "https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS"
@@ -273,58 +389,10 @@
       "url": "https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e37\u0e21\u0e1d\u0e31\u0e19 (Lucid)",
-        "url": "https://open.spotify.com/album/3ERquWsXSCsvB7g1LGTrIp"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 256759,
-      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e37\u0e21\u0e1d\u0e31\u0e19",
-      "url": "https://open.spotify.com/track/7434PIB7QneUWJSKjHhNXH"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
-      },
-      "artists": [
-        {
-          "name": "THEMOONWILLALWAYSBEWITHME",
-          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "Tip Toe",
-        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "Tip Toe",
-      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e19 (End.)",
-        "url": "https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM"
+        "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1"
       },
       "artists": [
         {
@@ -332,47 +400,15 @@
           "url": "https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT"
         }
       ],
-      "duration_ms": 211500,
-      "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e19 - End.",
-      "url": "https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh"
+      "duration_ms": 188500,
+      "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "\u0e08\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48(\u0e40\u0e04\u0e22)\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 [La La Bye]",
-        "url": "https://open.spotify.com/album/1XgD84QIPjOXQps6PisWMM"
-      },
-      "artists": [
-        {
-          "name": "AYLA's",
-          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
-        }
-      ],
-      "duration_ms": 288250,
-      "name": "\u0e08\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48(\u0e40\u0e04\u0e22)\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 [La La Bye]",
-      "url": "https://open.spotify.com/track/4fwPmzupzsPEzwquuuVaiw"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
-        "url": "https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 262386,
-      "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
-      "url": "https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "Only Monday",
-        "url": "https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu"
+        "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
+        "url": "https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT"
       },
       "artists": [
         {
@@ -380,12 +416,28 @@
           "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
         }
       ],
-      "duration_ms": 275624,
-      "name": "\u0e17\u0e38\u0e01\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
-      "url": "https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw"
+      "duration_ms": 275714,
+      "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
+      "url": "https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e19\u0e32\u0e0b\u0e48\u0e32 \u0e21\u0e35\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19 (Love Planet)",
+        "url": "https://open.spotify.com/album/1bt91b6cucflg1OqQqNgzv"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        }
+      ],
+      "duration_ms": 235901,
+      "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e19\u0e32\u0e0b\u0e48\u0e32 \u0e21\u0e35\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e01\u0e31\u0e1a\u0e09\u0e31\u0e19 - Love Planet",
+      "url": "https://open.spotify.com/track/2pgxiktYFD3YByqVkYmGC5"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "\u0e2b\u0e32\u0e01\u0e08\u0e30\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e02\u0e2d(Sincare)",
         "url": "https://open.spotify.com/album/4UmeizyaQt3UMctskcADjF"
@@ -401,59 +453,71 @@
       "url": "https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
-        "url": "https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ"
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
       "artists": [
         {
-          "name": "AYLA's",
-          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 216500,
-      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
-      "url": "https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD"
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy"
+        "name": "Therapist",
+        "url": "https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR"
       },
       "artists": [
         {
-          "name": "BELL WARISARA",
-          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
         }
       ],
-      "duration_ms": 251365,
-      "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte"
+      "duration_ms": 193069,
+      "name": "Therapist",
+      "url": "https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48 (Responsibility) [feat. Aheye of 4EVE]",
-        "url": "https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p"
+        "name": "Dum Dum",
+        "url": "https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1"
       },
       "artists": [
         {
-          "name": "TIGGER (\u0e17\u0e34\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c)",
-          "url": "https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF"
-        },
-        {
-          "name": "Aheye of 4EVE",
-          "url": "https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u"
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
         }
       ],
-      "duration_ms": 193660,
-      "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48 (Responsibility)",
-      "url": "https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2"
+      "duration_ms": 195163,
+      "name": "Dum Dum",
+      "url": "https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/4StH50jOP7uCCIsQ6tijX0"
+      },
+      "artists": [
+        {
+          "name": "The White Hair Cut",
+          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
@@ -473,87 +537,23 @@
       "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
-        "url": "https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT"
+        "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e31\u0e19\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/24fT89spi1h2icDiEne5UO"
       },
       "artists": [
         {
-          "name": "Only Monday",
-          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+          "name": "SLAPKISS",
+          "url": "https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g"
         }
       ],
-      "duration_ms": 275714,
-      "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
-      "url": "https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ"
+      "duration_ms": 229736,
+      "name": "\u0e01\u0e25\u0e31\u0e27\u0e1d\u0e31\u0e19\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/6dJ87ZODacjSBUkayDNZgg"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e09\u0e31\u0e19\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e01\u0e31\u0e1a\u0e1d\u0e19",
-        "url": "https://open.spotify.com/album/4OHYdOHu4n0h8LY7zWyLyK"
-      },
-      "artists": [
-        {
-          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
-          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
-        }
-      ],
-      "duration_ms": 295100,
-      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e09\u0e31\u0e19\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e01\u0e31\u0e1a\u0e1d\u0e19",
-      "url": "https://open.spotify.com/track/3H4DCQTrmNbmAXHTb8ndgS"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
-        "url": "https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK"
-      },
-      "artists": [
-        {
-          "name": "Anatomy Rabbit",
-          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
-        }
-      ],
-      "duration_ms": 235058,
-      "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
-      "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e44\u0e14\u0e42\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e44\u0e02\u0e48\u0e14\u0e32\u0e27\u0e1b\u0e32\u0e08\u0e31\u0e07\u0e01\u0e35\u0e49",
-        "url": "https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI"
-      },
-      "artists": [
-        {
-          "name": "THEMOONWILLALWAYSBEWITHME",
-          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "\u0e44\u0e14\u0e42\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e44\u0e02\u0e48\u0e14\u0e32\u0e27\u0e1b\u0e32\u0e08\u0e31\u0e07\u0e01\u0e35\u0e49",
-      "url": "https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
-        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
-      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
         "url": "https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof"
@@ -569,10 +569,58 @@
       "url": "https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "Dum Dum",
-        "url": "https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1"
+        "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "duration_ms": 235058,
+      "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
+        "url": "https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e15\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e34\u0e21 (Changed)",
+      "url": "https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e37\u0e21\u0e1d\u0e31\u0e19 (Lucid)",
+        "url": "https://open.spotify.com/album/3ERquWsXSCsvB7g1LGTrIp"
       },
       "artists": [
         {
@@ -580,44 +628,32 @@
           "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
         }
       ],
-      "duration_ms": 195163,
-      "name": "Dum Dum",
-      "url": "https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk"
+      "duration_ms": 256759,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e25\u0e37\u0e21\u0e1d\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/7434PIB7QneUWJSKjHhNXH"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "Flowers on earth",
-        "url": "https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle"
+        "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48 (Responsibility) [feat. Aheye of 4EVE]",
+        "url": "https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p"
       },
       "artists": [
         {
-          "name": "Blackbeans",
-          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
-        }
-      ],
-      "duration_ms": 269608,
-      "name": "Me",
-      "url": "https://open.spotify.com/track/1CpGLnjauP66HeqZEaCq5i"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e09\u0e31\u0e19\u0e2a\u0e31\u0e0d\u0e0d\u0e32\u0e08\u0e30\u0e44\u0e21\u0e48\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49 (\u0e14\u0e27\u0e07\u0e14\u0e32\u0e27\u0e17\u0e35\u0e48\u0e42\u0e2b\u0e14\u0e23\u0e49\u0e32\u0e22)",
-        "url": "https://open.spotify.com/album/0Dl48BAHraILiXW5rO9uIC"
-      },
-      "artists": [
+          "name": "TIGGER (\u0e17\u0e34\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c)",
+          "url": "https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF"
+        },
         {
-          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
-          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+          "name": "Aheye of 4EVE",
+          "url": "https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u"
         }
       ],
-      "duration_ms": 278747,
-      "name": "\u0e09\u0e31\u0e19\u0e2a\u0e31\u0e0d\u0e0d\u0e32\u0e08\u0e30\u0e44\u0e21\u0e48\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49 (\u0e14\u0e27\u0e07\u0e14\u0e32\u0e27\u0e17\u0e35\u0e48\u0e42\u0e2b\u0e14\u0e23\u0e49\u0e32\u0e22)",
-      "url": "https://open.spotify.com/track/5Rrn7VUOFMyYK5Gy7cA4AK"
+      "duration_ms": 193660,
+      "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48 (Responsibility)",
+      "url": "https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "Only Monday",
         "url": "https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu"
@@ -633,39 +669,39 @@
       "url": "https://open.spotify.com/track/3mtHA5dSJW9DsCh1NjhwtX"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e09\u0e31\u0e19\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e01\u0e31\u0e1a\u0e1d\u0e19",
+        "url": "https://open.spotify.com/album/4OHYdOHu4n0h8LY7zWyLyK"
       },
       "artists": [
         {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
         }
       ],
-      "duration_ms": 161142,
-      "name": "\u0e07\u0e2d\u0e19\u0e25\u0e30",
-      "url": "https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA"
+      "duration_ms": 295100,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e09\u0e31\u0e19\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e01\u0e31\u0e1a\u0e1d\u0e19",
+      "url": "https://open.spotify.com/track/3H4DCQTrmNbmAXHTb8ndgS"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+        "name": "\u0e44\u0e14\u0e42\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e44\u0e02\u0e48\u0e14\u0e32\u0e27\u0e1b\u0e32\u0e08\u0e31\u0e07\u0e01\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
         }
       ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+      "duration_ms": 225000,
+      "name": "\u0e44\u0e14\u0e42\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e44\u0e02\u0e48\u0e14\u0e32\u0e27\u0e1b\u0e32\u0e08\u0e31\u0e07\u0e01\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "KIMINOTO",
         "url": "https://open.spotify.com/album/7KRy7dJ1H6oIUdvkF9LXj2"
@@ -685,23 +721,23 @@
       "url": "https://open.spotify.com/track/5pbD2zRUQmzhzqHTp97K19"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
-        "name": "\u0e15\u0e31\u0e14\u0e43\u0e08\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
-        "url": "https://open.spotify.com/album/2eId6fIdesXWoFQvyV69u8"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
       "artists": [
         {
-          "name": "wish.",
-          "url": "https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 221000,
-      "name": "\u0e15\u0e31\u0e14\u0e43\u0e08\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
-      "url": "https://open.spotify.com/track/7tLzCItsc7GUBnfxhHFljI"
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "\u0e25\u0e37\u0e21\u0e41\u0e17\u0e1a\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
         "url": "https://open.spotify.com/album/0n7QgYSZ3K4Brs1K2SB9Fk"
@@ -721,71 +757,7 @@
       "url": "https://open.spotify.com/track/7DNNJcCstLheOvqLsiq2Qz"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e2d\u0e32\u0e1a\u0e19\u0e49\u0e33\u0e15\u0e32",
-        "url": "https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps"
-      },
-      "artists": [
-        {
-          "name": "YourMOOD",
-          "url": "https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "\u0e2d\u0e32\u0e1a\u0e19\u0e49\u0e33\u0e15\u0e32",
-      "url": "https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e04\u0e19\u0e02\u0e35\u0e49\u0e42\u0e01\u0e2b\u0e01",
-        "url": "https://open.spotify.com/album/3AsIUcQ6pfk3J7FlwEj0fy"
-      },
-      "artists": [
-        {
-          "name": "SLAPKISS",
-          "url": "https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g"
-        }
-      ],
-      "duration_ms": 245117,
-      "name": "\u0e04\u0e19\u0e02\u0e35\u0e49\u0e42\u0e01\u0e2b\u0e01",
-      "url": "https://open.spotify.com/track/4bUZTqifPh6luvo28NS52L"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu"
-      },
-      "artists": [
-        {
-          "name": "Anatomy Rabbit",
-          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
-        }
-      ],
-      "duration_ms": 221052,
-      "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e14\u0e32\u0e27 (Down)",
-        "url": "https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB"
-      },
-      "artists": [
-        {
-          "name": "TOFFE",
-          "url": "https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn"
-        }
-      ],
-      "duration_ms": 203835,
-      "name": "\u0e14\u0e32\u0e27 (Down)",
-      "url": "https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "\u0e04\u0e19\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e42\u0e04\u0e23\u0e40\u0e27\u0e1f (microwave)",
         "url": "https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ"
@@ -801,7 +773,55 @@
       "url": "https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw"
     },
     {
-      "added_at": "2023-07-21 13:25:59",
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Rabbit",
+          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
+        }
+      ],
+      "duration_ms": 221052,
+      "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e14\u0e32\u0e27 (Down)",
+        "url": "https://open.spotify.com/album/0IaQviNjdSyVrrZ0q7ZfqB"
+      },
+      "artists": [
+        {
+          "name": "TOFFE",
+          "url": "https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn"
+        }
+      ],
+      "duration_ms": 203835,
+      "name": "\u0e14\u0e32\u0e27 (Down)",
+      "url": "https://open.spotify.com/track/3uoMU6t9HYyS6mzOjYNavf"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
+      "album": {
+        "name": "\u0e15\u0e31\u0e14\u0e44\u0e1b\u0e43\u0e2b\u0e49\u0e1e\u0e2d",
+        "url": "https://open.spotify.com/album/4Q629xdrAylg8VOpX1KC1f"
+      },
+      "artists": [
+        {
+          "name": "Flower.far",
+          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
+        }
+      ],
+      "duration_ms": 278873,
+      "name": "\u0e15\u0e31\u0e14\u0e44\u0e1b\u0e43\u0e2b\u0e49\u0e1e\u0e2d",
+      "url": "https://open.spotify.com/track/498pVEIIkgYvIkqm68PEqO"
+    },
+    {
+      "added_at": "2023-08-25 10:00:27",
       "album": {
         "name": "BONG",
         "url": "https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7"
@@ -819,22 +839,6 @@
       "duration_ms": 241179,
       "name": "BONG",
       "url": "https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr"
-    },
-    {
-      "added_at": "2023-07-21 13:25:59",
-      "album": {
-        "name": "\u0e15\u0e31\u0e14\u0e44\u0e1b\u0e43\u0e2b\u0e49\u0e1e\u0e2d",
-        "url": "https://open.spotify.com/album/4Q629xdrAylg8VOpX1KC1f"
-      },
-      "artists": [
-        {
-          "name": "Flower.far",
-          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "\u0e15\u0e31\u0e14\u0e44\u0e1b\u0e43\u0e2b\u0e49\u0e1e\u0e2d",
-      "url": "https://open.spotify.com/track/498pVEIIkgYvIkqm68PEqO"
     }
   ],
   "unique_name": "RADAR Thailand",

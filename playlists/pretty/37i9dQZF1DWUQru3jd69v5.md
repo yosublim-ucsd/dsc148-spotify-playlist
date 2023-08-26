@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Il Ghost in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,913 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,961 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 43 | [CRÈME DE LA CRÈME](https://open.spotify.com/track/7p5Ncm0MT5ERi8achBZtdn) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [Vuem](https://open.spotify.com/artist/2GjnVCgb9y5iv2A4TvJOxK), [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF) | [CRÈME DE LA CRÈME](https://open.spotify.com/album/5dlf92nPLOto9dcb9gKGKe) | 3:25 |
 | 44 | [4LOCOS](https://open.spotify.com/track/2ikdZFKR2sEKlvbjwSs1ya) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [4LOCOS](https://open.spotify.com/album/6fg87EmMuDXPDvYvM8BxJz) | 2:29 |
 | 45 | [LA MULA](https://open.spotify.com/track/5WcctLfufHRiiAJsH946my) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Vaporstef](https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz) | [LA MULA](https://open.spotify.com/album/42ufgZbCgIlSqTpqJCRxPd) | 2:16 |
-| 46 | [Calimero](https://open.spotify.com/track/67HHjOv8uY2gwAQ0Ju0xGR) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Calimero](https://open.spotify.com/album/05BM4ZoIDRyELMell7qvhV) | 2:49 |
-| 47 | [HOUMA 2](https://open.spotify.com/track/6xzQob6VIyKgMcjRWsfZ9u) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [HOUMA 2](https://open.spotify.com/album/69BlEJWR5eZmtVS3hVqcZX) | 2:22 |
-| 48 | [Con Te](https://open.spotify.com/track/0cqrtm4RTq72e6RHJEmkqb) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi) | [Con Te](https://open.spotify.com/album/7o46tgw63JOeayBOcQlMrw) | 2:49 |
-| 49 | [LACRIME](https://open.spotify.com/track/4ENtTrEgDyusQQ5m8JCWnb) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [LACRIME](https://open.spotify.com/album/2QqzgI8IV6rzbHDGvv7Xzo) | 2:29 |
+| 46 | [FREE](https://open.spotify.com/track/4YGP7UFW9CYJQ3m9D1LcBv) | [Asso X](https://open.spotify.com/artist/3BroHWMcnIcgZ48iAMoV34) | [FREE](https://open.spotify.com/album/73zmDMBi2hBo3BxdzkINZa) | 2:18 |
+| 47 | [Calimero](https://open.spotify.com/track/67HHjOv8uY2gwAQ0Ju0xGR) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Calimero](https://open.spotify.com/album/05BM4ZoIDRyELMell7qvhV) | 2:49 |
+| 48 | [HOUMA 2](https://open.spotify.com/track/6xzQob6VIyKgMcjRWsfZ9u) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [HOUMA 2](https://open.spotify.com/album/69BlEJWR5eZmtVS3hVqcZX) | 2:22 |
+| 49 | [Con Te](https://open.spotify.com/track/0cqrtm4RTq72e6RHJEmkqb) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi) | [Con Te](https://open.spotify.com/album/7o46tgw63JOeayBOcQlMrw) | 2:49 |
+| 50 | [LACRIME](https://open.spotify.com/track/4ENtTrEgDyusQQ5m8JCWnb) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [LACRIME](https://open.spotify.com/album/2QqzgI8IV6rzbHDGvv7Xzo) | 2:29 |
 
-Snapshot ID: `MCxjZjc4ZWI3M2RlMmI5ODZiNTMzOTJhMjc3YWM4ODMwMTZkMjBhMjQz`
+Snapshot ID: `MCxiMDdhM2YxMjg1YzM0NTg3NDAyZWQ5OTUyOTZmYzQ0ZTMxZmFhZDA1`

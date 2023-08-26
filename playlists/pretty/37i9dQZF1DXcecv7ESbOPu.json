@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag! Lyssna p\u00e5 veckans hetaste nya releaser i New Music Friday!",
-  "num_followers": 199260,
+  "num_followers": 199353,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGZjNGFhMmExZmEwZGU2YTQxNWZiZmQ1OTg1NDc3YjgxNTgzMGM1",
+  "snapshot_id": "MCw4OGE2YjcyOWU0ZjFmYmUxZmNhYWI3NzMyMzgyMjAwODk4NjUzZGY1",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -43,6 +43,54 @@
       "duration_ms": 201654,
       "name": "Kommer Aldrig F\u00f6rlora",
       "url": "https://open.spotify.com/track/1NfCjrtBVVK0IriW12o8Fd"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
+        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "THE GIRLS - BLACKPINK THE GAME OST",
+      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 191185,
+      "name": "Used To Be Young",
+      "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -87,6 +135,26 @@
       "duration_ms": 139200,
       "name": "Lover & Protector (feat. Shiro)",
       "url": "https://open.spotify.com/track/0mSKldI7AFqqpRNPcP2cpf"
+    },
+    {
+      "added_at": "2023-08-25 11:24:13",
+      "album": {
+        "name": "TRAUMA PARANOIA",
+        "url": "https://open.spotify.com/album/4oOuea5rMrdRVfcLzqC0Nt"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "TRAUMA PARANOIA",
+      "url": "https://open.spotify.com/track/4aBdVP0kcEedFO9C4OjwuM"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -236,7 +304,7 @@
       "added_at": "2023-08-24 22:00:00",
       "album": {
         "name": "Like The River",
-        "url": "https://open.spotify.com/album/2utkoAbb80PMxawy7W1G8O"
+        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
       },
       "artists": [
         {
@@ -250,7 +318,7 @@
       ],
       "duration_ms": 166991,
       "name": "Like The River",
-      "url": "https://open.spotify.com/track/1Q2lYPkPWLYkPkUY413lQl"
+      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -355,6 +423,26 @@
       "duration_ms": 255920,
       "name": "Ice Slippin",
       "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "PARTy T1M3",
+        "url": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 155912,
+      "name": "PARTy T1M3",
+      "url": "https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -508,7 +596,7 @@
       "added_at": "2023-08-24 22:00:00",
       "album": {
         "name": "Westside",
-        "url": "https://open.spotify.com/album/6uGoTMFwu9mxx5B6NibinR"
+        "url": "https://open.spotify.com/album/4bND1VOsTwTtVHBcDksry5"
       },
       "artists": [
         {
@@ -518,7 +606,7 @@
       ],
       "duration_ms": 176248,
       "name": "Westside",
-      "url": "https://open.spotify.com/track/2Rc6ivoghl3HERJ9bbqEWo"
+      "url": "https://open.spotify.com/track/397VHjYaU6hhu78CdPuop7"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1155,8 +1243,8 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Kindness For Weakness",
-        "url": "https://open.spotify.com/album/3h1Fq8QLU5fkTSW4ByWR0e"
+        "name": "Back To Square One",
+        "url": "https://open.spotify.com/album/5ZNpiEEn5h8L40p99UZ9XI"
       },
       "artists": [
         {
@@ -1164,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         }
       ],
-      "duration_ms": 159832,
+      "duration_ms": 160000,
       "name": "Kindness For Weakness",
-      "url": "https://open.spotify.com/track/4uk6Z1QptY5BlYAyaDWkFF"
+      "url": "https://open.spotify.com/track/4XDcZALxM9M91BiUeaWCdq"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1448,7 +1536,7 @@
       "added_at": "2023-08-24 22:00:00",
       "album": {
         "name": "Stay The Night",
-        "url": "https://open.spotify.com/album/0rzpSB5AwVUVNNRSQrnUn7"
+        "url": "https://open.spotify.com/album/4t2kqAMlnjG5GRs1sEHp9I"
       },
       "artists": [
         {
@@ -1466,7 +1554,7 @@
       ],
       "duration_ms": 174435,
       "name": "Stay The Night",
-      "url": "https://open.spotify.com/track/2uM8Re540lL0XqKLgV5zNC"
+      "url": "https://open.spotify.com/track/3uu5HrWGkqQLZCuM7UWFbx"
     },
     {
       "added_at": "2023-08-24 22:00:00",

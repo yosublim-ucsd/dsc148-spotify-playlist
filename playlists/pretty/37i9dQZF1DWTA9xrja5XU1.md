@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTA9xrja5XU1.md) - [plain]
 | 21 | [All I Need \- Mixed](https://open.spotify.com/track/7unSiaNJeb0ERu9cMnqUGv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [All I Need \(Mixed\)](https://open.spotify.com/album/14ex7NWmYTZedA9VSEWi6c) | 2:38 |
 | 22 | [Sweet Illusion \- Mixed](https://open.spotify.com/track/2VHg152omQ65DyQigrxWwd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Sweet Illusion \(Mixed\)](https://open.spotify.com/album/09RC6h4C1PiMCA6WSJz55O) | 2:59 |
 
-Snapshot ID: `MCw0YjZmNjBkZTEwYTgxNTQzZDYwNGE2YTM5YjIyMTQ2OWI1OTQwZjc3`
+Snapshot ID: `MCw5NjUwM2RiMWEyMjgxNmUyNjcxODhiM2FmNGQ2OGVhY2EwOWFlZjI0`

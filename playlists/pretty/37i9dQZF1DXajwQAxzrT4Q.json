@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 62240,
+  "num_followers": 62346,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGVjNjYwZjdkM2I4YWQ4MzdkYjQ2MmVjZGRmMDE1NzhmZjgyZGQ3",
+  "snapshot_id": "MCwzY2RjNDNmOTE2NTA3MDEwOGI3MzczMzYyMjU1YzYzYjFiNmQ3ZDA3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -88,16 +88,16 @@
       },
       "artists": [
         {
-          "name": "Defiant Presents",
-          "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
-        },
-        {
           "name": "DJ Sliink",
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         },
         {
           "name": "Bandmanrill",
           "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        },
+        {
+          "name": "Defiant Presents",
+          "url": "https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65"
         }
       ],
       "duration_ms": 131200,
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
-      },
-      "artists": [
-        {
-          "name": "The Szns",
-          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
-        },
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        }
-      ],
-      "duration_ms": 174635,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "We Are Young (Jersey Club)",
         "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 109124,
       "name": "We Are Young (Jersey Club)",
       "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
+      },
+      "artists": [
+        {
+          "name": "The Szns",
+          "url": "https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU"
+        },
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 174635,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Drowning (Remixes)",
+        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 140298,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Drowning (Remixes)",
-        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Break From Jersey",
+        "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Break From Jersey",
+      "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "My Back (Jersey Club)",
         "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 115866,
       "name": "2 predictable",
       "url": "https://open.spotify.com/track/2cc384XtpakSacPvmmbitA"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Break From Jersey",
-        "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Break From Jersey",
-      "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "I Said It's Lilman",
-        "url": "https://open.spotify.com/album/6HK9k5noV9U2UrI9STEd7H"
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6"
       },
       "artists": [
         {
-          "name": "DJ LILMAN",
-          "url": "https://open.spotify.com/artist/0IYk6BQrE0HkCOkdITNEUi"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/3LGAo5WuCHhUA7bt6boBsy"
+      "duration_ms": 121306,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM"
     }
   ],
   "unique_name": "Jersey Club Heat",

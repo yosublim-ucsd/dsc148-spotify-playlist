@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,568 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,576 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 4 | [Construção \- L\_cio & K\_Ri Version](https://open.spotify.com/track/12fcMx64LD2c13beXT3wv0) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW) | [Chico Buarque Construção Revisited](https://open.spotify.com/album/5huSLRTVHrDd28npUTRQgU) | 7:24 |
 | 5 | [De AK em Cima da CB1000](https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Paredão](https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq) | 4:18 |
 | 6 | [Machooka](https://open.spotify.com/track/7Fvz8ecjzVwZIIzTs2JaLn) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Machooka](https://open.spotify.com/album/4DKH6UMr9R1PhRzeo1OJj7) | 3:35 |
-| 7 | [Energy Sync \- Club Mix](https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0) | 6:37 |
-| 8 | [Caso Sério \- L\_cio & Tessuto Remix](https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [Tessuto](https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk) | [Rita Lee & Roberto \- Classix Remix Vol\. III](https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8) | 7:01 |
+| 7 | [Caso Sério \- L\_cio & Tessuto Remix](https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [Tessuto](https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk) | [Rita Lee & Roberto \- Classix Remix Vol\. III](https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8) | 7:01 |
+| 8 | [Energy Sync \- Club Mix](https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0) | 6:37 |
 | 9 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 |
 | 10 | [Praia de Artista](https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Sim](https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG) | 4:21 |
 | 11 | [Vavapo](https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0) | [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [Favela Garage Beats](https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx) | 3:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 45 | [Sobre Tum Tum Ta](https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e) | [Nódulo](https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb) | 7:33 |
 | 46 | [Colapso](https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb) | [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6) | [Nocturnal Fear](https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP) | 5:36 |
 | 47 | [Madame Kabukicho](https://open.spotify.com/track/0puinhkTDWQyMhDgJjC7eR) | [Agrabah](https://open.spotify.com/artist/24lbhcjEJEOInrDEAGZfE6) | [Ghetto Hong Kong](https://open.spotify.com/album/1IwVHpDuv3H6Rizd8zB4t5) | 6:05 |
-| 48 | [A Man Called Cory](https://open.spotify.com/track/7eJCJWjhGtTdk6gwoDdZLk) | [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [Escola da Rua](https://open.spotify.com/album/3EAWOfvkAKjGTfmx0jXg7R) | 5:09 |
-| 49 | [Odara](https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP) | [V.A\. Odara Vol.1 \- Arde Mas Aguenta](https://open.spotify.com/album/3WP0lbkJsGiL9I3wWQXlmt) | 6:16 |
+| 48 | [Odara](https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP) | [V.A\. Odara Vol.1 \- Arde Mas Aguenta](https://open.spotify.com/album/3WP0lbkJsGiL9I3wWQXlmt) | 6:16 |
+| 49 | [A Man Called Cory](https://open.spotify.com/track/7eJCJWjhGtTdk6gwoDdZLk) | [Kauan Marco](https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo) | [Escola da Rua](https://open.spotify.com/album/3EAWOfvkAKjGTfmx0jXg7R) | 5:09 |
 | 50 | [Minguante](https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0) | [Kika Deeke](https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE) | [Quando o Tempo dá um Tempo](https://open.spotify.com/album/394surSicOxNpbQV6tMSDC) | 5:08 |
 
-Snapshot ID: `MCxlMmZlMDM1N2Y1ODYwNDZkOWFmZGRhYzZkYTZjMzkwZWMzYWExNjJj`
+Snapshot ID: `MCwwMTVhY2I1MzBkZWYzOTg3YWQ2OTYxMjYxZTEzODY1NzkxMGUxYjU1`

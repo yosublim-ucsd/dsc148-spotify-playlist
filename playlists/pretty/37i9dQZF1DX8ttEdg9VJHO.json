@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 341951,
+  "num_followers": 342088,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGRmNzFhYzFhOTg2MjRhYmZlM2QyMGQyY2FmMmNiMTdiNTJiMjQ0",
+  "snapshot_id": "MCwzMmE1YzVkZTg1N2YwYmY4ZDlkMmViMzUyYmI3ZDYzNGQyOTU0ZGEz",
   "tracks": [
     {
       "added_at": "2023-08-10 18:23:24",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Wer wenn nicht wir",
-        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
       "artists": [
         {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Wer wenn nicht wir",
-      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
+      "duration_ms": 200523,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
+        "name": "Wer wenn nicht wir",
+        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
         }
       ],
-      "duration_ms": 200523,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+      "duration_ms": 163500,
+      "name": "Wer wenn nicht wir",
+      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Small Steps",
-        "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
-      },
-      "artists": [
-        {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
-        }
-      ],
-      "duration_ms": 166991,
-      "name": "Small Steps",
-      "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "I Blame The World",
         "url": "https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 197266,
       "name": "I Blame The World",
       "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "Small Steps",
+        "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
+      },
+      "artists": [
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "Small Steps",
+      "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A"
-      },
-      "artists": [
-        {
-          "name": "Dominik Dudek",
-          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Somewhere in Between",
         "url": "https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 148345,
       "name": "Faded Love",
       "url": "https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR"
     },
     {
       "added_at": "2023-08-10 18:23:24",

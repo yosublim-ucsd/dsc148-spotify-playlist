@@ -1141,6 +1141,36 @@
     },
     {
       "album": {
+        "name": "Diretamente do Rio",
+        "url": "https://open.spotify.com/album/2Oqh0XdTGpSthDH8fuOyu8"
+      },
+      "artists": [
+        {
+          "name": "Baga",
+          "url": "https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "GTA",
+          "url": "https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Diretamente do Rio",
+      "url": "https://open.spotify.com/track/39iYTBGec9n0kaPn9eJggw"
+    },
+    {
+      "album": {
         "name": "Diz Quem Ta na Pista",
         "url": "https://open.spotify.com/album/7yADHHvWrt9jJdITXLE0N3"
       },
@@ -2096,7 +2126,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 145714,
       "name": "Lado 13 Do Mapa",
       "url": "https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Bull Brigade in cover questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,428 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,459 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 49 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 | 50 | [Che peccato](https://open.spotify.com/track/47v7cCqDp0CDNQFEN8RU3W) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [Che peccato](https://open.spotify.com/album/6vbUAkhROYvAE5LFS0GoF3) | 2:31 |
 
-Snapshot ID: `MCw4MTZkZDc1MmY0ZWVhYzc1MzI3NzljYTNlYmEyYmYxMTM4ZjI2YWYz`
+Snapshot ID: `MCw4NTZjN2U2YWQ2MTYyMDgzNDE0ZGE4MjJkMDNmMGQyZWQxMTA0MWUz`

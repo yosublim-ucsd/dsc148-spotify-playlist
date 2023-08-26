@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,712 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,900 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 37 | [Escape](https://open.spotify.com/track/19jDGiuezpLTUAy90xnByO) | [Hemenway](https://open.spotify.com/artist/1aelbjRiScFc639v34vNsv) | [Escape](https://open.spotify.com/album/7iZqNLOolDEbvA1j5zQwO7) | 3:37 |
 | 38 | [ようこそジャパリパークへ](https://open.spotify.com/track/7z0HnNeAREuJmRvQtpQIz0) | [Doubutsu Biscuits](https://open.spotify.com/artist/5S7SMGimbPWuPh2F0urDgE), [PPP](https://open.spotify.com/artist/2V17fC0iAXQ2MpOw4DPvBV) | [ようこそジャパリパークへ](https://open.spotify.com/album/2ySoProatKQk7URAGuMuQf) | 3:24 |
 | 39 | [ラブ・ドラマティック \(Funky Flag Version\)](https://open.spotify.com/track/05zDB03E1WxCLyraJJ2I2r) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [伊原六花](https://open.spotify.com/artist/2oHiy1x5X3FnhsLrrS6IEo) | [Funky Flag](https://open.spotify.com/album/0jgf1U1PH3sH1aTX89BXKA) | 4:22 |
-| 40 | [Daydream cafe](https://open.spotify.com/track/3AdtUKxxIsPEV3nJC0U3Hk) | [Petit Rabbit's](https://open.spotify.com/artist/5l7xE3vT6bXnhBALsAetdE) | [「ご注文はうさぎですか?」キャラクターソング・セレクションアルバム/order the songs](https://open.spotify.com/album/2hI6IUBcq7Lmrpk177Gr8q) | 4:15 |
+| 40 | [Daydream cafe](https://open.spotify.com/track/3AdtUKxxIsPEV3nJC0U3Hk) | [Petit Rabbit's](https://open.spotify.com/artist/5l7xE3vT6bXnhBALsAetdE) | [｢ご注文はうさぎですか？｣キャラクターソング・セレクションアルバム／order the songs](https://open.spotify.com/album/2hI6IUBcq7Lmrpk177Gr8q) | 4:15 |
 | 41 | [Rhapsody of Blue Sky](https://open.spotify.com/track/2Y3lK46bVHAl8VBx25EMTZ) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [World Atlas](https://open.spotify.com/album/1MphSaxSuOsfndihtqlfCc) | 4:37 |
 | 42 | [ラピスラズリ](https://open.spotify.com/track/5gW0U6PfSZxs3ZqcQvIf6L) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:58 |
 | 43 | [Q&A リサイタル!](https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:49 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 65 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
 | 66 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
 
-Snapshot ID: `MCxiN2ZiYjM1NjRiNmFhYTliZDllZmIxYmQ5MGQ3MDgxMmY1ODY0Yjdl`
+Snapshot ID: `MCxlNDMxZTU1ZTZhYzQ3YzczMTI3NzNmMTAzMjljMjYyMzQwM2Y1OTBj`

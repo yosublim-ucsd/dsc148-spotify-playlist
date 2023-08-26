@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 27692,
+  "num_followers": 27701,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDYxZGY4NTQxYzcwNDAxOWMxMmNkNDgxNjg3NDMwMTg4ZDZkMzg4",
+  "snapshot_id": "MCxlYTc0ZGRkMzc4Nzc1Zjg4NDViZGEwYzU2YjY1OWIxNDM3YjAyZWJj",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
-      },
-      "artists": [
-        {
-          "name": "T-Vice",
-          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
-        }
-      ],
-      "duration_ms": 307493,
-      "name": "Ma Cherie Je T'aime",
-      "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Rotary International Abidjan",
         "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 325906,
       "name": "Chokola",
       "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
+      },
+      "artists": [
+        {
+          "name": "T-Vice",
+          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
+        }
+      ],
+      "duration_ms": 307493,
+      "name": "Ma Cherie Je T'aime",
+      "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "No Dead End",
-        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
-      },
-      "artists": [
-        {
-          "name": "Zenglen",
-          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
-        }
-      ],
-      "duration_ms": 316706,
-      "name": "Grev B\u00e8b\u00e8",
-      "url": "https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "She's a Freak",
         "url": "https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 414024,
       "name": "She's a Freak",
       "url": "https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "No Dead End",
+        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
+      },
+      "artists": [
+        {
+          "name": "Zenglen",
+          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
+        }
+      ],
+      "duration_ms": 316706,
+      "name": "Grev B\u00e8b\u00e8",
+      "url": "https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I"
     },
     {
       "added_at": "2020-06-03 18:17:45",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Charlie Worsham",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Morgan Wade",
   "name": "New Boots",
   "tracks": [
     {
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 176712,
       "name": "Another Round",
       "url": "https://open.spotify.com/track/4PDVSGSRqigxcgtlTSY8vf"
@@ -4597,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194604,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
+    },
+    {
+      "album": {
         "name": "Cocktail Conversations",
         "url": "https://open.spotify.com/album/2kopajNHnrShFoZfdCuIOE"
       },
@@ -5212,6 +5230,24 @@
       "duration_ms": 222806,
       "name": "Cowboy Cool",
       "url": "https://open.spotify.com/track/4aNtBOhhvXn7AdP0jKyqAt"
+    },
+    {
+      "album": {
+        "name": "Cowboy Don\u2019t",
+        "url": "https://open.spotify.com/album/3mZSYPQPoNheFwNc5ize7q"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162885,
+      "name": "Cowboy Don\u2019t",
+      "url": "https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4"
     },
     {
       "album": {
@@ -7734,6 +7770,24 @@
       "duration_ms": 169216,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/5fdzJmExgTptv36KpfKFI4"
+    },
+    {
+      "album": {
+        "name": "Fall In Love With Me",
+        "url": "https://open.spotify.com/album/67JHB0s8c5pbNELuRkl0E8"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/56CmYOZ5YNtmuVUtY5W5jF"
     },
     {
       "album": {
@@ -10389,6 +10443,24 @@
     },
     {
       "album": {
+        "name": "Good With Me",
+        "url": "https://open.spotify.com/album/4MOXUKrGGMuokVxovC7wQL"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146080,
+      "name": "Good With Me",
+      "url": "https://open.spotify.com/track/47EkFFYRTlgatkXS0gg5FZ"
+    },
+    {
+      "album": {
         "name": "TWENTY SOMETHING: Messing It Up",
         "url": "https://open.spotify.com/album/1Uyc48o6p2Dv1RfyZYztFS"
       },
@@ -12027,6 +12099,28 @@
     },
     {
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "Hey Driver (feat. The War and Treaty)",
+      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+    },
+    {
+      "album": {
         "name": "Hey Whiskey",
         "url": "https://open.spotify.com/album/7bEvOn0bOFcr5eqvchRhOt"
       },
@@ -12302,7 +12396,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 184106,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29"
@@ -14386,7 +14480,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 181066,
       "name": "I'm Not Pretty",
       "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
@@ -14776,7 +14870,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 259876,
       "name": "If You Were A Song",
       "url": "https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq"
@@ -15963,6 +16057,24 @@
     },
     {
       "album": {
+        "name": "Let Your Boys Be Country",
+        "url": "https://open.spotify.com/album/7wA7u0gOJcHNl3EITL4674"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196026,
+      "name": "Let Your Boys Be Country",
+      "url": "https://open.spotify.com/track/1v1bVyUOVYDpXRIcAJ24iQ"
+    },
+    {
+      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -16302,6 +16414,24 @@
       "duration_ms": 207586,
       "name": "Like My Daddy Done It",
       "url": "https://open.spotify.com/track/7rQD8CMRUioul1UZlL0o4T"
+    },
+    {
+      "album": {
+        "name": "Little Less Lonely",
+        "url": "https://open.spotify.com/album/2BGBn23kDpM9geI0nGNFkL"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196013,
+      "name": "Little Less Lonely",
+      "url": "https://open.spotify.com/track/5lzi9kb10icgVpEDbqp0kL"
     },
     {
       "album": {
@@ -17872,6 +18002,24 @@
       "duration_ms": 205842,
       "name": "mean girl (feat. Colbie Caillat)",
       "url": "https://open.spotify.com/track/73vGr4FjFvY2TgndujZYDa"
+    },
+    {
+      "album": {
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "album": {
@@ -21950,7 +22098,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 208746,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3"
@@ -23578,7 +23726,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 157800,
       "name": "See You Next Summer",
       "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
@@ -26022,7 +26170,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 123800,
       "name": "Stetson",
       "url": "https://open.spotify.com/track/5jQICwvgUzWQhUB94SsJU8"
@@ -29076,7 +29224,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 180033,
       "name": "Try That In A Small Town",
       "url": "https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4"

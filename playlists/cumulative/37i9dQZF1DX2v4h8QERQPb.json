@@ -276,6 +276,28 @@
     {
       "album": {
         "name": "Al Carajo",
+        "url": "https://open.spotify.com/album/5J5jJxBDFmrCefFTXRb7Lc"
+      },
+      "artists": [
+        {
+          "name": "Z-K",
+          "url": "https://open.spotify.com/artist/3jiJNFG8hFkUJIdT7lmZkt"
+        },
+        {
+          "name": "Sank",
+          "url": "https://open.spotify.com/artist/32LjNiBb4gbeytSXy4hBGB"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210995,
+      "name": "Al Carajo",
+      "url": "https://open.spotify.com/track/3NniEaLPE4FxP7F8edtqaT"
+    },
+    {
+      "album": {
+        "name": "Al Carajo",
         "url": "https://open.spotify.com/album/2j71a8nlO5czcb23AYaP9d"
       },
       "artists": [
@@ -290,7 +312,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 211137,
       "name": "Al Carajo",
       "url": "https://open.spotify.com/track/0aknicrrnbPQdPVZu5Gqcl"
@@ -2257,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/2AabrO6ZYxTTOamm1mwPoQ"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156947,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/6gcsSl6J89cJhkuHWJV9T8"
+    },
+    {
+      "album": {
         "name": "Keep It Burning",
         "url": "https://open.spotify.com/album/2IHLOsVlRRkFT1DlgOMjao"
       },
@@ -2330,7 +2370,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 160000,
       "name": "La Cara Del Barrio",
       "url": "https://open.spotify.com/track/5CRqtYLTHXpNwztvaEW29C"
@@ -2414,6 +2454,24 @@
       "duration_ms": 225462,
       "name": "Lo Que Se Fue",
       "url": "https://open.spotify.com/track/5LEssCmCg4xpjySBOGiuQQ"
+    },
+    {
+      "album": {
+        "name": "Los Pumas",
+        "url": "https://open.spotify.com/album/2Q95rrB6nNBee2PXD2hGnD"
+      },
+      "artists": [
+        {
+          "name": "Lil Troca",
+          "url": "https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Los Pumas",
+      "url": "https://open.spotify.com/track/4yN6f9onu86pSfpayG7ryc"
     },
     {
       "album": {
@@ -3090,10 +3148,36 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 150879,
       "name": "Nota De Voz",
       "url": "https://open.spotify.com/track/7fjdmeVSIGoZ6am4tAuKsA"
+    },
+    {
+      "album": {
+        "name": "Novella (Remix)",
+        "url": "https://open.spotify.com/album/2lOaWxOv0IyIadLpK8LyyG"
+      },
+      "artists": [
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Nucleo Aka Tintasucia",
+          "url": "https://open.spotify.com/artist/3aiHWojYZp0ySEtBhywttr"
+        },
+        {
+          "name": "T&K",
+          "url": "https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229787,
+      "name": "Novella - Remix",
+      "url": "https://open.spotify.com/track/7sSFw4sAVYDvMOrOYR5nKd"
     },
     {
       "album": {
@@ -4266,7 +4350,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 148084,
       "name": "Tengo Sed",
       "url": "https://open.spotify.com/track/3acTJvD1eCLOBfBG4hAbfe"

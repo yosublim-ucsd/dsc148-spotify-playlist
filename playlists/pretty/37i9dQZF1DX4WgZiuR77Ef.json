@@ -1,13 +1,33 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 397347,
+  "num_followers": 397359,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDZlZGI1ODJjOTNkYWQ4Yzg4NmIyYWQ2MzE1MTQ5MGUzYmY5Yjgy",
+  "snapshot_id": "MCwzNmE3ZmUwMmY4ZGE0ZjZhZjdiZDJkOTA2ZjM1N2EzNDQ4Mzc4NDcy",
   "tracks": [
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Burning Daylight",
+        "url": "https://open.spotify.com/album/6kg2Ofz8hZXUXPdlPGdznR"
+      },
+      "artists": [
+        {
+          "name": "Soultown Revivalists",
+          "url": "https://open.spotify.com/artist/4m3XScZchwZiZeiw6CcoQm"
+        },
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "duration_ms": 230434,
+      "name": "Burning Daylight",
+      "url": "https://open.spotify.com/track/7sKPmkDw5bK2l0UbSnVZ6x"
+    },
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
@@ -1499,22 +1519,6 @@
       "duration_ms": 219596,
       "name": "Mother Funkin' Robots",
       "url": "https://open.spotify.com/track/0GjSGefxut8enOP0LFPlln"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        }
-      ],
-      "duration_ms": 515231,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/55RNNV9kBwX8rxwnpEWHkK"
     },
     {
       "added_at": "2020-10-30 04:02:00",

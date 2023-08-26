@@ -1,13 +1,29 @@
 {
   "description": "Cover: A. G. Cook",
-  "num_followers": 417407,
+  "num_followers": 417579,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTJlYTM3MDJiYzkxMzBkNDhlN2JhZjczOTk3MzI0MTM1YWJlZGNl",
+  "snapshot_id": "MCxkNzA2MzY4ZTkxOTZkNGQxYzA1ODBjMWJlMGJmMDVlZjVjN2FkZmUy",
   "tracks": [
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "SPEED RUN (The Remixes)",
+        "url": "https://open.spotify.com/album/1PMaaELbOksBVJwWRZ4hYD"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 165236,
+      "name": "I H8 FC",
+      "url": "https://open.spotify.com/track/22edau8DZYqRNelfdlK1QY"
+    },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 245857,
       "name": "Old money bitch",
       "url": "https://open.spotify.com/track/1Ips8oXVyBdcfX4Dpv68FN"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "4ever1",
+        "url": "https://open.spotify.com/album/07D2Gq848vkcj5T1Gpfoyl"
+      },
+      "artists": [
+        {
+          "name": "caro\u2661",
+          "url": "https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8"
+        }
+      ],
+      "duration_ms": 156916,
+      "name": "4ever1",
+      "url": "https://open.spotify.com/track/0GxANOXWo9oJRjH32EOYkW"
     },
     {
       "added_at": "2023-07-28 14:33:00",
@@ -73,52 +105,36 @@
       "url": "https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Same Way",
-        "url": "https://open.spotify.com/album/5zsJLsACJhACwhtoeVpLxr"
+        "name": "REAL LIFE",
+        "url": "https://open.spotify.com/album/74oUO9GPfa2GblKHojtLxi"
       },
       "artists": [
         {
-          "name": "chuala",
-          "url": "https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI"
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
         }
       ],
-      "duration_ms": 130608,
-      "name": "Same Way",
-      "url": "https://open.spotify.com/track/116Fdhm8POnb4r4VQFTbB6"
+      "duration_ms": 117600,
+      "name": "REAL LIFE",
+      "url": "https://open.spotify.com/track/5a95JHLJOjhKZAtSBsQOjP"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Perfect Picture",
-        "url": "https://open.spotify.com/album/33ltmTvbMZ7OaM8ul5MlOW"
+        "name": "Shoplifting From Nike",
+        "url": "https://open.spotify.com/album/2qt1TfPRUFkI6qJzsZMOvC"
       },
       "artists": [
         {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
         }
       ],
-      "duration_ms": 169706,
-      "name": "Perfect Picture",
-      "url": "https://open.spotify.com/track/22V4BZlNonTO0EbWrq1zSb"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+      "duration_ms": 141546,
+      "name": "Shoplifting From Nike",
+      "url": "https://open.spotify.com/track/5EXIUR2WuZPGp5unl9or0V"
     },
     {
       "added_at": "2023-08-05 11:58:21",
@@ -137,24 +153,72 @@
       "url": "https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Glass Cannon",
-        "url": "https://open.spotify.com/album/7M8ET4gHD8NU9GEP25b7G1"
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },
       "artists": [
         {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        },
-        {
-          "name": "FloodDubs",
-          "url": "https://open.spotify.com/artist/6IFCxgJitIeFUHA9AJM9DB"
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
         }
       ],
-      "duration_ms": 278896,
-      "name": "Glass Cannon",
-      "url": "https://open.spotify.com/track/5tIcacsAjd6XecUSjFuNi9"
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "SHYPOP",
+        "url": "https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1"
+    },
+    {
+      "added_at": "2023-08-05 11:58:21",
+      "album": {
+        "name": "halo",
+        "url": "https://open.spotify.com/album/0tnFLnIqnt052ZMWWiif9M"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        }
+      ],
+      "duration_ms": 183783,
+      "name": "halo",
+      "url": "https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Perfect Picture",
+        "url": "https://open.spotify.com/album/33ltmTvbMZ7OaM8ul5MlOW"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Perfect Picture",
+      "url": "https://open.spotify.com/track/22V4BZlNonTO0EbWrq1zSb"
     },
     {
       "added_at": "2023-07-28 14:33:00",
@@ -181,20 +245,84 @@
       "url": "https://open.spotify.com/track/00lqKT7IuN6RrDrlyO8imU"
     },
     {
-      "added_at": "2023-08-05 11:58:21",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "halo",
-        "url": "https://open.spotify.com/album/0tnFLnIqnt052ZMWWiif9M"
+        "name": "Glass Cannon",
+        "url": "https://open.spotify.com/album/7M8ET4gHD8NU9GEP25b7G1"
       },
       "artists": [
         {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "FloodDubs",
+          "url": "https://open.spotify.com/artist/6IFCxgJitIeFUHA9AJM9DB"
         }
       ],
-      "duration_ms": 183783,
-      "name": "halo",
-      "url": "https://open.spotify.com/track/3S98DaraI3lEwWBCVaEDnn"
+      "duration_ms": 278896,
+      "name": "Glass Cannon",
+      "url": "https://open.spotify.com/track/5tIcacsAjd6XecUSjFuNi9"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "go_hard",
+        "url": "https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "WASTY",
+          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
+        }
+      ],
+      "duration_ms": 126766,
+      "name": "go_hard",
+      "url": "https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Same Way",
+        "url": "https://open.spotify.com/album/5zsJLsACJhACwhtoeVpLxr"
+      },
+      "artists": [
+        {
+          "name": "chuala",
+          "url": "https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI"
+        }
+      ],
+      "duration_ms": 130608,
+      "name": "Same Way",
+      "url": "https://open.spotify.com/track/116Fdhm8POnb4r4VQFTbB6"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Locals (Girls like us) [with gabby start]",
+        "url": "https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        }
+      ],
+      "duration_ms": 258084,
+      "name": "Locals (Girls like us) [with gabby start]",
+      "url": "https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -243,26 +371,6 @@
       "duration_ms": 133940,
       "name": "every minute",
       "url": "https://open.spotify.com/track/3lQUZQQeLhQWeos7DbfB5B"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Locals (Girls like us) [with gabby start]",
-        "url": "https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        },
-        {
-          "name": "gabby start",
-          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
-        }
-      ],
-      "duration_ms": 258084,
-      "name": "Locals (Girls like us) [with gabby start]",
-      "url": "https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -817,22 +925,6 @@
       "url": "https://open.spotify.com/track/3PbBiHDs4frvs4IhG5PKUD"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "ravepack",
-        "url": "https://open.spotify.com/album/4iwZiSOwmoDqBZlN4e3NBd"
-      },
-      "artists": [
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "one heart baby",
-      "url": "https://open.spotify.com/track/1zE0h13gK1JpzyoH1VLkkr"
-    },
-    {
       "added_at": "2023-06-30 07:33:00",
       "album": {
         "name": "FUNCTIONING ALCOHOLIC",
@@ -1099,22 +1191,6 @@
       "duration_ms": 287407,
       "name": "Lock Screen",
       "url": "https://open.spotify.com/track/47OXSrqD2OqBu3jI3R785W"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "notss",
-        "url": "https://open.spotify.com/album/0bDtGytEl8vZXpoeA2bUUd"
-      },
-      "artists": [
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        }
-      ],
-      "duration_ms": 162909,
-      "name": "notss",
-      "url": "https://open.spotify.com/track/3rd0fsUY1CXj3rkiaPygAu"
     },
     {
       "added_at": "2023-05-31 17:21:00",

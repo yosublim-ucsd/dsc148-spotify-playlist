@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1767069,
+  "num_followers": 1768320,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjVkMTc1OTliNGFiOTk4NzYxNjFmZWNlOWNmNGY3YmZmMzc3Njhm",
+  "snapshot_id": "MCxjNjIwODY2ZDcyNDg3ZDg5ZDZmZGNmN2E3MzExZjQzYzc3Mzk0NGMz",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Animosity",
-        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Candyass",
         "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 198560,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/5Y76U25W2UAZF9AwfrFAoJ"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Animosity",
+        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 218933,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
     }
   ],
   "unique_name": "Nu Metal Era",

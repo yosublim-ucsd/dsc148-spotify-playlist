@@ -2,7 +2,7 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Jason Ngonda
+> Discover your new favourite artists from UK&IE\. Cover: Jalen Ngonda
 
 222 songs - 12 hr 7 min
 

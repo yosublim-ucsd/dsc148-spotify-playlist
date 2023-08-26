@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > when bass music was life
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,654 likes - 57 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,681 likes - 57 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 20 | [Tarantula \- Original Mix](https://open.spotify.com/track/0G7qyvqwjfMdHZn4RwiAdf) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Tenor Fly](https://open.spotify.com/artist/37uswdRBtJ0qyXas292Uo0), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [Fresh](https://open.spotify.com/artist/5OrqQQfSZjmgoFMhMdhffs) | [Hold Your Colour](https://open.spotify.com/album/5wHNla8BT8KcqMhAbvqoPU) | 5:31 |
 | 21 | [Smash TV](https://open.spotify.com/track/5jkcQdiMVvSpEzkyjjVQIm) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 3:39 |
 | 22 | [Next Hype \- Vocal](https://open.spotify.com/track/545wdZdz8ZtOxoW2qXL7sl) | [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [Next Hype](https://open.spotify.com/album/6ByhCiFhYPN67Mc1c5I0hA) | 3:59 |
-| 23 | [Blinded By the Lights \- Nero Remix](https://open.spotify.com/track/5tauvPEvGX5Zu3hWtakFGs) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Whistle: 00's Electro Pop](https://open.spotify.com/album/1PL3vo4vKeE75Ho50RoOR1) | 6:45 |
+| 23 | [Blinded By the Lights \- Nero Remix](https://open.spotify.com/track/5KZ2txzGo8DZaHqTeOB7kk) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [How I Feel: Hip House Classics](https://open.spotify.com/album/4sBDndoGKAR7EkRVVyPhCY) | 6:45 |
 | 24 | [When I Look at You](https://open.spotify.com/track/2EOBhbkTvO6QEAg51V0ncu) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w) | [Eclipse](https://open.spotify.com/album/3AE0ng1EOfc5Mnkw61qhuZ) | 4:29 |
 | 25 | [Hypest Hype](https://open.spotify.com/track/5BGTfgBLQAhfFXIGSFsFz5) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:29 |
 | 26 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 56 | [Source 16](https://open.spotify.com/track/73qzJNohM4C0h02kWMe21B) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Source 16](https://open.spotify.com/album/5rvNcDCoS3esebzx8crgZ6) | 3:20 |
 | 57 | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR) | 8:00 |
 
-Snapshot ID: `MCw2MTYwNGE0YzM3NzdhYTk1NmFjMzFmYjRlM2MwNTE0NzEyNmU3ZDkw`
+Snapshot ID: `MCw5ZDk3YWM5NWZkYjhjZjAyYjg2M2NjYzJlMjUzYmEyZWFhY2I4ZmI1`

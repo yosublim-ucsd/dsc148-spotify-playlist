@@ -1,13 +1,93 @@
 {
-  "description": "The best of today's funk. Cover: Jafunk",
-  "num_followers": 308764,
+  "description": "The best of today's funk. Cover: Nic Hanson",
+  "num_followers": 308884,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTgxZTBlNzIzZjVlNmU5NjkzMDA2YWMxYWZlYzc0NTQ5MjU5MTUx",
+  "snapshot_id": "MCw5Y2I1NTYxZDZjYjI0NWQwNGE3MjU5OWY4OTAyYzVjMGY3YmRiZTU2",
   "tracks": [
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "The Time",
+        "url": "https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 154434,
+      "name": "OKALRIGHTISEEYOU",
+      "url": "https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "duration_ms": 289514,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        }
+      ],
+      "duration_ms": 197098,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Drip Feed",
+        "url": "https://open.spotify.com/album/7rrEsShvbbzukQD3TVn8cf"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Prince Street Bodega",
+          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Drip Feed",
+      "url": "https://open.spotify.com/track/5fhIrC32KM91BM9z4OVMnh"
+    },
     {
       "added_at": "2023-05-23 18:23:26",
       "album": {
@@ -51,26 +131,6 @@
       "duration_ms": 186388,
       "name": "Try (Rework)",
       "url": "https://open.spotify.com/track/6QlbAS3CdT8IgvFMUs5A04"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Triple H Horns",
-          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
-        }
-      ],
-      "duration_ms": 197098,
-      "name": "Nightlife",
-      "url": "https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -199,34 +259,6 @@
       "duration_ms": 217625,
       "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
       "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Pipe Dream",
-        "url": "https://open.spotify.com/album/2wbdNXoe1bTA66vkblLPiS"
-      },
-      "artists": [
-        {
-          "name": "Black Caviar",
-          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
-        },
-        {
-          "name": "Rion S",
-          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
-        },
-        {
-          "name": "DOMENICO",
-          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
-        },
-        {
-          "name": "Prince Street Bodega",
-          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Pipe Dream",
-      "url": "https://open.spotify.com/track/2VvA02bUmNmZvxsexippXM"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -897,22 +929,6 @@
       "url": "https://open.spotify.com/track/5l8uDdlOiOJSFaojO6ZsbG"
     },
     {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Found My Groove",
-        "url": "https://open.spotify.com/album/1QvSqMm0YILjS1bs2gxaCu"
-      },
-      "artists": [
-        {
-          "name": "The Burroughs",
-          "url": "https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r"
-        }
-      ],
-      "duration_ms": 193924,
-      "name": "Found My Groove",
-      "url": "https://open.spotify.com/track/0NAQlpeVEX2kbAf6YoDHCK"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Bad Vibes (Duss Hagen Remix)",
@@ -1079,30 +1095,6 @@
       "duration_ms": 196541,
       "name": "Boogie Down",
       "url": "https://open.spotify.com/track/3APtmyeA8mmubGvyCoW2Ga"
-    },
-    {
-      "added_at": "2023-01-23 19:16:43",
-      "album": {
-        "name": "CAN'T GO HOME",
-        "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
-      },
-      "artists": [
-        {
-          "name": "Tayrell",
-          "url": "https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        },
-        {
-          "name": "Elijah Fox",
-          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "CAN'T GO HOME",
-      "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
     },
     {
       "added_at": "2023-03-31 04:01:00",

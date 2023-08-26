@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 183996,
       "name": "Lars",
       "url": "https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG"
@@ -4224,6 +4224,28 @@
       "duration_ms": 180570,
       "name": "Tennis Courts",
       "url": "https://open.spotify.com/track/79SHyhyGcYf47aPKA4RnVx"
+    },
+    {
+      "album": {
+        "name": "That's How It Goes",
+        "url": "https://open.spotify.com/album/5FGIQJ6gA0baXHJoMmtiX0"
+      },
+      "artists": [
+        {
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+        },
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/2vFDu77B8WPAuN6gFDjfUE"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213809,
+      "name": "That's How It Goes",
+      "url": "https://open.spotify.com/track/11ZrmGVgoVbKE2n3j1WBcu"
     },
     {
       "album": {

@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "How I Feel: Hip House Classics",
+        "url": "https://open.spotify.com/album/4sBDndoGKAR7EkRVVyPhCY"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405226,
+      "name": "Blinded By the Lights - Nero Remix",
+      "url": "https://open.spotify.com/track/5KZ2txzGo8DZaHqTeOB7kk"
+    },
+    {
+      "album": {
         "name": "Whistle: 00's Electro Pop",
         "url": "https://open.spotify.com/album/1PL3vo4vKeE75Ho50RoOR1"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 405226,
       "name": "Blinded By the Lights - Nero Remix",
       "url": "https://open.spotify.com/track/5tauvPEvGX5Zu3hWtakFGs"

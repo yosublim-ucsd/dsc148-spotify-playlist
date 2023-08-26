@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 480060,
+  "num_followers": 480175,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjVlYmRkMGJlZDNkM2I5MTVkMGM3NmU1MGM0NDU2MzgxNGUyMzFh",
+  "snapshot_id": "MCxjNGJkNzVmYTYwODBlOGVhMjYwM2UyN2VhYTczZDA1OTQ1NWEwYzUy",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "You Can Get It If You Really Want",
-        "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        }
-      ],
-      "duration_ms": 162893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Roots & Chalice",
         "url": "https://open.spotify.com/album/5CAhDjreHUyDeG6QwGoysV"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 252014,
       "name": "Roots & Chalice",
       "url": "https://open.spotify.com/track/7yEuDcNgsZYmiNiKmUcHCG"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Yell Fire!",
-        "url": "https://open.spotify.com/album/50ErftNBsKknqcgWGZIEVF"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 336040,
-      "name": "Hey Now Now",
-      "url": "https://open.spotify.com/track/1drYKDGEhW39HP3emCSiFF"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Yell Fire!",
+        "url": "https://open.spotify.com/album/50ErftNBsKknqcgWGZIEVF"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 336040,
+      "name": "Hey Now Now",
+      "url": "https://open.spotify.com/track/1drYKDGEhW39HP3emCSiFF"
     },
     {
       "added_at": "2022-10-13 23:00:00",

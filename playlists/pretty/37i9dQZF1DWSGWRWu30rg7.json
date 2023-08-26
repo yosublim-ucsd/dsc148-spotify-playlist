@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOWQ5NWIxNzIxYWJiYWE2NTZmZWQwMzEzZmY1YWM5NDc1ZjI5OTUw",
+  "snapshot_id": "MCwxZTNjYmYxZWZlYzczNjhkNThjZTc4NDc2MmZlZTFmYTY2NDJjZGEz",
   "tracks": [
     {
       "added_at": "2023-08-24 17:00:00",
@@ -125,6 +125,26 @@
       "url": "https://open.spotify.com/track/3r1QiKDMezAag054RvGCQf"
     },
     {
+      "added_at": "2023-08-25 09:13:57",
+      "album": {
+        "name": "count on us",
+        "url": "https://open.spotify.com/album/7xjMRSMOqLpjmwZ5gS2lik"
+      },
+      "artists": [
+        {
+          "name": "Ansaly",
+          "url": "https://open.spotify.com/artist/77wS0mviXXjf5Mua7esdm1"
+        },
+        {
+          "name": "BURDN",
+          "url": "https://open.spotify.com/artist/4RPM7jrVHP9pMn8zoUjp6e"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "count on us",
+      "url": "https://open.spotify.com/track/3fkIw04n3X4PPviCw6ifQW"
+    },
+    {
       "added_at": "2023-08-24 17:00:00",
       "album": {
         "name": "Cerita",
@@ -141,6 +161,22 @@
       "url": "https://open.spotify.com/track/7pGNiw5cdWdoKCTN5j69qp"
     },
     {
+      "added_at": "2023-08-25 09:13:57",
+      "album": {
+        "name": "Sesempatmu Saja",
+        "url": "https://open.spotify.com/album/6eb1Tr4LDSsjcqRGFnfbkF"
+      },
+      "artists": [
+        {
+          "name": "Lula Maura",
+          "url": "https://open.spotify.com/artist/1tV151kb8BNEsu9t5qPLOI"
+        }
+      ],
+      "duration_ms": 198124,
+      "name": "Sesempatmu Saja",
+      "url": "https://open.spotify.com/track/5P8nkDoD3csSa2Rj3AaUxT"
+    },
+    {
       "added_at": "2023-08-24 17:00:00",
       "album": {
         "name": "Percayalah",
@@ -155,6 +191,42 @@
       "duration_ms": 212166,
       "name": "Percayalah",
       "url": "https://open.spotify.com/track/1NB1jsSeEXy8ZvSPZ1bxiH"
+    },
+    {
+      "added_at": "2023-08-25 09:13:57",
+      "album": {
+        "name": "Vanilla!",
+        "url": "https://open.spotify.com/album/6f4bXmNnEQAFAKV8IYlj8L"
+      },
+      "artists": [
+        {
+          "name": "King Kia",
+          "url": "https://open.spotify.com/artist/58aD2XLcOtziYJoqPwUQVH"
+        },
+        {
+          "name": "Danisworo",
+          "url": "https://open.spotify.com/artist/12SEUu1SLQmc680qUhmLLb"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Vanilla!",
+      "url": "https://open.spotify.com/track/0eKO92oyq8pSMyMWwUvEgh"
+    },
+    {
+      "added_at": "2023-08-25 09:13:57",
+      "album": {
+        "name": "Lonely Ghost",
+        "url": "https://open.spotify.com/album/7dGCVkbamOXZYBGih8xfDI"
+      },
+      "artists": [
+        {
+          "name": "Music Redemption",
+          "url": "https://open.spotify.com/artist/41QEsDtS3qQZCHl5LPA5C3"
+        }
+      ],
+      "duration_ms": 187568,
+      "name": "Lonely Ghost",
+      "url": "https://open.spotify.com/track/51b8sl79gKQvsdtCZtaKw2"
     },
     {
       "added_at": "2023-08-24 17:00:00",
@@ -187,6 +259,38 @@
       "duration_ms": 214725,
       "name": "Teringat",
       "url": "https://open.spotify.com/track/17OeBvdqlmE7KUtC3SaaZf"
+    },
+    {
+      "added_at": "2023-08-25 09:13:57",
+      "album": {
+        "name": "Volatile",
+        "url": "https://open.spotify.com/album/1ZlXcn8dRPkERsDbQkcG1z"
+      },
+      "artists": [
+        {
+          "name": "Kol",
+          "url": "https://open.spotify.com/artist/2B30Nyq8DkSK4MkUDlKSnd"
+        }
+      ],
+      "duration_ms": 178505,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/5xc3rHOtyUnkZpqIVm2KKa"
+    },
+    {
+      "added_at": "2023-08-25 09:13:57",
+      "album": {
+        "name": "Bahagia Bersamamu",
+        "url": "https://open.spotify.com/album/3pzJCy7U2oMudU6si7rdI7"
+      },
+      "artists": [
+        {
+          "name": "DISGUISE",
+          "url": "https://open.spotify.com/artist/0JvLfNbHsmAIuatgg3MLCp"
+        }
+      ],
+      "duration_ms": 278832,
+      "name": "Bahagia Bersamamu",
+      "url": "https://open.spotify.com/track/7AfHrSycm3NiDDx1aPF09j"
     },
     {
       "added_at": "2023-08-24 17:00:00",

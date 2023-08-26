@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-99 songs - 5 hr 38 min
+100 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Fare Thee Well](https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L) | [Lindley Creek](https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB) | [Fare Thee Well](https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya) | 3:06 | 2023-04-14 |  |
 | [Fine Times at Our House](https://open.spotify.com/track/1v0N9HBqKKCJfhCLV9GuIb) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 2:17 | 2023-04-14 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Windy City \(Deluxe\)](https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG) | 3:34 | 2023-04-14 |  |
+| [Getaway](https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6) | [Katelyn Ingardia](https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI) | [Getaway](https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG) | 3:36 | 2023-08-25 |  |
 | [Girl's Breakdown](https://open.spotify.com/track/4EdzW4D2a6sTZgnP9w1hrt) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Fair Weather](https://open.spotify.com/album/2J7y2LLWkhZfAuETs1Ubtb) | 3:44 | 2023-04-14 |  |
 | [God Spoke His Name](https://open.spotify.com/track/3aXy6uOVsfQNo0dcGf7s23) | [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Friends For A Lifetime](https://open.spotify.com/album/1TrRIBlGUzGhf3kemDNiLv) | 2:11 | 2023-04-14 |  |
 | [Good Enough](https://open.spotify.com/track/6TlQv4UJ3DDmbw8zaRRFJm) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 2:55 | 2023-04-14 |  |

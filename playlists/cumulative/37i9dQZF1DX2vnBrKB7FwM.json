@@ -130,7 +130,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 133263,
       "name": "Avanza",
       "url": "https://open.spotify.com/track/6h1KX0vGIV2QtT0HXZR4Q0"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 218117,
       "name": "Casual",
       "url": "https://open.spotify.com/track/45ZNvmwzUkHG6AhOepRpSX"
@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Estilo Libre",
+        "url": "https://open.spotify.com/album/3iEaANWiVVNErdqTdckXTZ"
+      },
+      "artists": [
+        {
+          "name": "Tres Coronas",
+          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132608,
+      "name": "Estilo Libre",
+      "url": "https://open.spotify.com/track/3tevQpo4mQZGOJXDIviIuH"
+    },
+    {
+      "album": {
         "name": "Felicidad",
         "url": "https://open.spotify.com/album/4986un74KXepy88FQq1VdD"
       },
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 183215,
       "name": "Inefable",
       "url": "https://open.spotify.com/track/6S0d8VN3nUDChfmqsKs8Ve"
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 234027,
       "name": "La Junta",
       "url": "https://open.spotify.com/track/33XO9zynI5v4lS2bxYbpc7"
@@ -1257,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Llegan Se Van",
+        "url": "https://open.spotify.com/album/6P0kE5u4H2qdOCSn9BpnhQ"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Llegan Se Van",
+      "url": "https://open.spotify.com/track/6NgC4j881mb0KAZUVdOxEE"
+    },
+    {
+      "album": {
         "name": "L\u00edo",
         "url": "https://open.spotify.com/album/5uKw3P9gFKtpiZx1WgKIxo"
       },
@@ -1286,7 +1322,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 104310,
       "name": "Made In Colombia",
       "url": "https://open.spotify.com/track/5vhHCzYQoUy9bf5icTZrYv"
@@ -1810,7 +1846,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 201034,
       "name": "Pulso & Sudor",
       "url": "https://open.spotify.com/track/7uD7zOaghFbdV9bRz7SNAO"
@@ -1887,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Redundancia",
+        "url": "https://open.spotify.com/album/0zz0IURLbLlqT5ktM8OQSY"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126655,
+      "name": "Redundancia",
+      "url": "https://open.spotify.com/track/5i8GlPFnvADXn8Q4UVKd82"
+    },
+    {
+      "album": {
         "name": "Renace",
         "url": "https://open.spotify.com/album/6Jps3FkjuosN5ARZuQ56MQ"
       },
@@ -1946,6 +2000,50 @@
       "duration_ms": 181635,
       "name": "Retrato & Son",
       "url": "https://open.spotify.com/track/4XQhhsiPQsnxLFHAWOXbZY"
+    },
+    {
+      "album": {
+        "name": "REDANBL\u00da",
+        "url": "https://open.spotify.com/album/74TXyCEug1xi0cYVHJL51T"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142192,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/7lOfdVm2W1Zk12Jnd8T3ap"
+    },
+    {
+      "album": {
+        "name": "Roloz In Paris",
+        "url": "https://open.spotify.com/album/75URC7VNJPDs87sb5I8pmb"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "PNO",
+          "url": "https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf"
+        },
+        {
+          "name": "Dj 113",
+          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170017,
+      "name": "Roloz In Paris",
+      "url": "https://open.spotify.com/track/1z9vlah0a4tPVXBaWZw5mK"
     },
     {
       "album": {
@@ -2042,6 +2140,36 @@
       "duration_ms": 226520,
       "name": "Signos de Vida",
       "url": "https://open.spotify.com/track/53gFFkpvP5wD5XoT87Dzww"
+    },
+    {
+      "album": {
+        "name": "Medell\u00edn Jazz Panorama",
+        "url": "https://open.spotify.com/album/20p1Oe6fvwsSX1ZHn6iJeB"
+      },
+      "artists": [
+        {
+          "name": "Vic Deal",
+          "url": "https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ"
+        },
+        {
+          "name": "Bopscat",
+          "url": "https://open.spotify.com/artist/5j8fwOSWeTEzo9n6Puma0v"
+        },
+        {
+          "name": "Hakim Al-Khaliq",
+          "url": "https://open.spotify.com/artist/1M3Z285dD2sZgSkrLlLQKD"
+        },
+        {
+          "name": "Afterclass",
+          "url": "https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122969,
+      "name": "Sin Hogar",
+      "url": "https://open.spotify.com/track/2Ev2GsHMEuGRB6LKBWEc2e"
     },
     {
       "album": {
@@ -2194,6 +2322,28 @@
       "duration_ms": 163004,
       "name": "Todo el Tiempo",
       "url": "https://open.spotify.com/track/4ltvep768r5VSEJYISG1YE"
+    },
+    {
+      "album": {
+        "name": "Todo en Juego",
+        "url": "https://open.spotify.com/album/6pRmD5WdctwIcv3qJJRgsO"
+      },
+      "artists": [
+        {
+          "name": "Ki\u00f1o",
+          "url": "https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa"
+        },
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Todo en Juego",
+      "url": "https://open.spotify.com/track/1ZIuXvgwn67yvzfOubDITd"
     },
     {
       "album": {
@@ -2432,7 +2582,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 242517,
       "name": "Value",
       "url": "https://open.spotify.com/track/3Pkze3D7iN4CfgyJQZcNLR"

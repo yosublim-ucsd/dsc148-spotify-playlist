@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 40687,
+  "num_followers": 40714,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDVlYWE4NGVhMDIwNWI3ZGEyMTdmNThkMWZkYzRhZmExOTg3Mzg5",
+  "snapshot_id": "MCwyNTFkYjRkNjkyYTgyN2IzYzIwNjQwODJjZWJiZWZiMWQ2YmU4NGIy",
   "tracks": [
     {
       "added_at": "2023-08-22 17:38:08",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-08-22 17:38:08",
       "album": {
+        "name": "Sonder (2023)",
+        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 198221,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
+    },
+    {
+      "added_at": "2023-08-22 17:38:08",
+      "album": {
         "name": "Be The One (with Khalid)",
         "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
-    },
-    {
-      "added_at": "2023-08-22 17:38:08",
-      "album": {
-        "name": "Sonder (2023)",
-        "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 198221,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/0B6hW0mGwtejHAWuJ0qMka"
     },
     {
       "added_at": "2023-08-22 17:38:08",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-22 17:38:08",
       "album": {
-        "name": "Self-Portrait",
-        "url": "https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0"
-      },
-      "artists": [
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 141648,
-      "name": "Self-Portrait",
-      "url": "https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f"
-    },
-    {
-      "added_at": "2023-08-22 17:38:08",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/3wamfgDMcE4euUPixRXjDL"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/7rcyrazjG6Cul3rloDhAcR"
+    },
+    {
+      "added_at": "2023-08-22 17:38:08",
+      "album": {
+        "name": "Self-Portrait",
+        "url": "https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0"
+      },
+      "artists": [
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "duration_ms": 141648,
+      "name": "Self-Portrait",
+      "url": "https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f"
     },
     {
       "added_at": "2023-08-22 17:38:08",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-08-22 17:38:08",
       "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 186918,
+      "name": "Paradise Calling",
+      "url": "https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa"
+    },
+    {
+      "added_at": "2023-08-22 17:38:08",
+      "album": {
         "name": "Can I Jump?",
         "url": "https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2023-08-22 17:38:08",
       "album": {
-        "name": "Portraits",
-        "url": "https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO"
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
         }
       ],
-      "duration_ms": 186918,
-      "name": "Paradise Calling",
-      "url": "https://open.spotify.com/track/2whqLIu4VLqZLfzfqs3AZa"
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2023-08-22 17:38:08",
@@ -987,22 +1003,6 @@
       "duration_ms": 214517,
       "name": "Balance",
       "url": "https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu"
-    },
-    {
-      "added_at": "2023-08-22 17:38:08",
-      "album": {
-        "name": "That's Just The Way It Is, Babe",
-        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "That\u2019s Just The Way It Is, Babe",
-      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2023-08-22 17:38:08",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-22 17:38:08",
       "album": {
-        "name": "THE GRATITUDE PROJECT",
-        "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 217258,
-      "name": "SHOULD I BE OK?",
-      "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
-    },
-    {
-      "added_at": "2023-08-22 17:38:08",
-      "album": {
         "name": "A Little Lost, A Little Found",
         "url": "https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 182600,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0cfq3yjm24XfxqcWzRjlQd"
+    },
+    {
+      "added_at": "2023-08-22 17:38:08",
+      "album": {
+        "name": "THE GRATITUDE PROJECT",
+        "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 217258,
+      "name": "SHOULD I BE OK?",
+      "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
     },
     {
       "added_at": "2023-08-22 17:38:08",

@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/4gsbBzVgdrPwfK84vlLluJ"
       },
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 278476,
       "name": "Inhale, Exhale",
       "url": "https://open.spotify.com/track/1WrLIHaZKZ4Ocr7dqBfBlt"
@@ -2381,6 +2399,28 @@
     },
     {
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        },
+        {
+          "name": "Prinz (DE)",
+          "url": "https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
+    },
+    {
+      "album": {
         "name": "Saw of Olympus",
         "url": "https://open.spotify.com/album/3vBR2vYlNvcqwYdpUfzsOn"
       },
@@ -2816,7 +2856,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 358617,
       "name": "The Cut",
       "url": "https://open.spotify.com/track/5GRWCsi6QkL6n2dsYIxfyo"

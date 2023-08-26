@@ -639,6 +639,28 @@
     },
     {
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381322,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
+    },
+    {
+      "album": {
         "name": "Chasing Dreams",
         "url": "https://open.spotify.com/album/04E8MWZk6kur87dNh0Yh0w"
       },
@@ -1328,7 +1350,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 166153,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
@@ -1446,6 +1468,28 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    {
+      "album": {
+        "name": "Feel So Close",
+        "url": "https://open.spotify.com/album/5SDhChcLEabkL3fx3UTyiH"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        },
+        {
+          "name": "Aaron Pfeiffer",
+          "url": "https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Feel So Close",
+      "url": "https://open.spotify.com/track/0o5SMckKtlPqLMJ3mokdMN"
     },
     {
       "album": {
@@ -2191,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/7kvzygcfZ2c2ndMxhi92uo"
       },
@@ -2860,7 +2922,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 149400,
       "name": "Let You Know - Summer Edit",
       "url": "https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C"
@@ -2926,7 +2988,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 166935,
       "name": "Like This",
       "url": "https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo"
@@ -4908,7 +4970,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 201713,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
@@ -5618,6 +5680,32 @@
       "duration_ms": 154209,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp"
+    },
+    {
+      "album": {
+        "name": "When the Sun Goes Down",
+        "url": "https://open.spotify.com/album/2cWBcF4eIjTTJGBaAb7xXr"
+      },
+      "artists": [
+        {
+          "name": "HAYM",
+          "url": "https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel"
+        },
+        {
+          "name": "Tom Polo",
+          "url": "https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK"
+        },
+        {
+          "name": "Mars Twins",
+          "url": "https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124113,
+      "name": "When the Sun Goes Down",
+      "url": "https://open.spotify.com/track/1OEbaiPMlMDCPMM4ReCIIH"
     },
     {
       "album": {

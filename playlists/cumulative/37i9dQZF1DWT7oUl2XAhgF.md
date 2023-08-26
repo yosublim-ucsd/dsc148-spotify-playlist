@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-336 songs - 20 hr 30 min
+338 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [I Wanna Love](https://open.spotify.com/track/4Dk6Knrvqxp3aYARRGieaj) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [I Wanna Love](https://open.spotify.com/album/78T8IZb2NrmSNtItn2fiWd) | 3:56 | 2023-06-02 |  |
 | [I Will](https://open.spotify.com/track/4ugagKi9JkkuuDP9X95phk) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [I Will](https://open.spotify.com/album/5X5AlSm63j575hOo1687co) | 4:27 | 2021-10-22 | 2022-07-25 |
 | [I'm Broke](https://open.spotify.com/track/0SQs0HOHIQpnYzqCN1PSrU) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Tell 'Em What Your Name Is!](https://open.spotify.com/album/3BYdrXB8qCr0ImFpKIRI8J) | 4:07 | 2021-07-09 | 2023-01-28 |
+| [I'm Comin' Home To You](https://open.spotify.com/track/2RHV6ehfb8JnyXugVy7D4E) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Stella Angelico](https://open.spotify.com/artist/3qZl6vkduvtusEc6dnSwGz) | [I'm Comin' Home To You](https://open.spotify.com/album/1J5DfEBCaIxpDRBZl0Slwm) | 3:31 | 2023-08-25 |  |
 | [I'm Curious](https://open.spotify.com/track/5wl4ycUNQn2SWhW9nDh3Oe) | [Wilson Meadows](https://open.spotify.com/artist/1kJpdoVAFnAbIywNd5JVro) | [I'm Curious](https://open.spotify.com/album/6ZEX1dLRi1PfRkLmrbS44l) | 3:10 | 2022-04-15 |  |
 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 | 2023-06-16 |  |
 | [If My Love Was Enough](https://open.spotify.com/track/5aXJA4672geISfKvJYMvP2) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Natalie Slade](https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ) | [If My Love Was Enough](https://open.spotify.com/album/5nj8FfDsjGKC3WMPIG900C) | 3:41 | 2021-07-09 | 2022-07-21 |
@@ -258,7 +259,7 @@
 | [Seasons of Trouble](https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Seasons of Trouble](https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF) | 4:52 | 2022-09-09 | 2022-09-17 |
 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 | 2023-05-05 |  |
 | [Sentimental Fool](https://open.spotify.com/track/04JYB3xkI99dosFBeP6W5Z) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/1mvLDGAm4xagW3SX03mCNq) | 3:05 | 2022-08-19 | 2022-08-27 |
-| [Shake Shake](https://open.spotify.com/track/0RVIk3IbkIzOL9LcsMgMXs) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Voli Contra](https://open.spotify.com/artist/6zEQ2TDkDYbJbFE4agNhFM) | [Shake Shake](https://open.spotify.com/album/7JjuXRPWiVUMZ7xudOro8B) | 2:25 | 2023-06-30 |  |
+| [Shake Shake](https://open.spotify.com/track/0RVIk3IbkIzOL9LcsMgMXs) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Voli Contra](https://open.spotify.com/artist/6zEQ2TDkDYbJbFE4agNhFM) | [Shake Shake](https://open.spotify.com/album/7JjuXRPWiVUMZ7xudOro8B) | 2:25 | 2023-06-30 | 2023-08-26 |
 | [Shinin'](https://open.spotify.com/track/7pyLO6s46ahQ7Mgl4krzU5) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Shinin'](https://open.spotify.com/album/3apdYMNCak4rL88AHYxbP4) | 2:57 | 2023-06-02 |  |
 | [Shy](https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 | 2021-07-09 | 2023-02-18 |
 | [Side by Side](https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje) | [Collin Miller & the Brother Nature](https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6) | [Side by Side](https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF) | 5:34 | 2021-07-09 | 2022-07-26 |
@@ -270,6 +271,7 @@
 | [Smile](https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Smile](https://open.spotify.com/album/5rXfcrwzK7aozli0g8ARif) | 2:39 | 2023-07-28 |  |
 | [So Caught Up](https://open.spotify.com/track/0g84356Up4bxwOKVvzq0Kh) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:48 | 2021-12-03 | 2022-09-15 |
 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2021-12-03 | 2023-04-22 |
+| [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-25 |  |
 | [So Into You](https://open.spotify.com/track/6oniXQflpASPhX2YsxdqCJ) | [Cliff Beach](https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z) | [Son Of A Beach](https://open.spotify.com/album/2CjQdKNaJxSVEV3vlbQ0fp) | 4:01 | 2022-06-24 | 2023-03-18 |
 | [Solution](https://open.spotify.com/track/6TMNizvP8FeJ4SaWxZ45f3) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [Solution](https://open.spotify.com/album/3zYDc5MslFWL04Qup4OOQb) | 3:40 | 2022-09-23 | 2022-10-08 |
 | [Soul to Blessed Soul](https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Soul to Blessed Soul](https://open.spotify.com/album/3dvnfWPlGdwbq82bwuefwf) | 5:35 | 2022-01-07 | 2023-04-30 |
@@ -322,7 +324,7 @@
 | [Untitled Visions](https://open.spotify.com/track/3j2pDRd8tiJiMgZ7RknuXu) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Untitled Visions](https://open.spotify.com/album/7tTFdS6eCjitmnXD8HqyUq) | 4:18 | 2023-05-26 |  |
 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Minions: The Rise Of Gru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN) | 2:55 | 2022-07-01 | 2022-08-27 |
 | [Vehicle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/6sBErahr0v0QRvwboz1oSl) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Vehicle \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/1kGXvzn5iUfVOUl1jNyNeh) | 2:55 | 2022-07-01 | 2022-07-29 |
-| [Waiting on the Sidelines](https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/3ayx7YiPVzsRUfz8v42E76) | 4:03 | 2023-05-05 |  |
+| [Waiting on the Sidelines](https://open.spotify.com/track/02UQxP9ft9Qb8oL7Jf2Eir) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/3ayx7YiPVzsRUfz8v42E76) | 4:03 | 2023-05-05 | 2023-08-26 |
 | [Warpaint](https://open.spotify.com/track/3sqb5hfu5gIdrd2U70FT3L) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Warpaint](https://open.spotify.com/album/2MkJIYLt4fz2SDSozVntDD) | 4:50 | 2022-03-21 | 2022-07-29 |
 | [WELCOME TO THE PARTY](https://open.spotify.com/track/4OkWdZXL16atg1qaUbqaaz) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN COMMUNION](https://open.spotify.com/album/0HZ86tsiLEjdDxvlH2nqhz) | 2:41 | 2023-07-28 |  |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-02-18 |

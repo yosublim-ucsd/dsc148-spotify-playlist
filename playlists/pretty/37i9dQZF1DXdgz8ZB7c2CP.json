@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring OddKidOut, San Holo & artemis orion",
-  "num_followers": 760953,
+  "num_followers": 761153,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzU5NTBiZjBhNTQyZmNjZGFjMzUxNzEwMTFjYTBkYjc2Nzg2NTk2",
+  "snapshot_id": "MCw5NTUzMTFlM2IyYzU0NGRmMTdjZTdmZmNhOTU5ODNhYzZmMzUyNWQ0",
   "tracks": [
     {
       "added_at": "2023-08-24 22:01:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Phoneline",
-        "url": "https://open.spotify.com/album/5KBDc833eS9lkj1bfCcbaU"
-      },
-      "artists": [
-        {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
-        },
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Phoneline",
-      "url": "https://open.spotify.com/track/5nCNItjhTUj7MqL3oFHmFc"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "Where Do We Go (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 204137,
       "name": "Where Do We Go (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Phoneline",
+        "url": "https://open.spotify.com/album/5KBDc833eS9lkj1bfCcbaU"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Phoneline",
+      "url": "https://open.spotify.com/track/5nCNItjhTUj7MqL3oFHmFc"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "gutter",
-        "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
-      },
-      "artists": [
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        }
-      ],
-      "duration_ms": 127180,
-      "name": "gutter",
-      "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "Ripple",
         "url": "https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "gutter",
+        "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "duration_ms": 127180,
+      "name": "gutter",
+      "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 172319,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "S.O.S",
         "url": "https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 174387,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/46ZbeFHcvPbZT3z19WIKHZ"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1343,42 +1343,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Drugs",
-        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 241979,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "feel something real",
-        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 208676,
-      "name": "feel something real",
-      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -1403,22 +1367,38 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+        "name": "feel something real",
+        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         }
       ],
-      "duration_ms": 212242,
-      "name": "Chalk 1.3.3 [2017 Export Wav]",
-      "url": "https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys"
+      "duration_ms": 208676,
+      "name": "feel something real",
+      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 241979,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1455,6 +1435,26 @@
       "duration_ms": 172235,
       "name": "IDFLU",
       "url": "https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        }
+      ],
+      "duration_ms": 212242,
+      "name": "Chalk 1.3.3 [2017 Export Wav]",
+      "url": "https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 231803,
+      "name": "I Can't Tell (feat. LAUREL)",
+      "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
         "name": "Beyond The Veil (Remixes)",
         "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
       },
@@ -1595,26 +1615,6 @@
       "duration_ms": 260470,
       "name": "Stop Thinking (feat. Lights) - MitiS Remix",
       "url": "https://open.spotify.com/track/789ENhlrwuDQAOSdJjs45Q"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 231803,
-      "name": "I Can't Tell (feat. LAUREL)",
-      "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1655,6 +1655,46 @@
       "duration_ms": 204963,
       "name": "Thirst - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 164506,
+      "name": "SKY SKY 1.3 [2016 Export Wav]",
+      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1711,46 +1751,6 @@
       "duration_ms": 152557,
       "name": "I like u (ELIO Remix)",
       "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "SKY SKY 1.3 [2016 Export Wav]",
-      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        },
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        },
-        {
-          "name": "SHIMA",
-          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
+        "name": "ELECTRIC",
+        "url": "https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa"
+      },
+      "artists": [
+        {
+          "name": "EASYFUN",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        }
+      ],
+      "duration_ms": 164340,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -1935,22 +1951,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "ELECTRIC",
-        "url": "https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa"
-      },
-      "artists": [
-        {
-          "name": "EASYFUN",
-          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
-        }
-      ],
-      "duration_ms": 164340,
-      "name": "No Body",
-      "url": "https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "Good Lies",
         "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
       },
@@ -1963,22 +1963,6 @@
       "duration_ms": 169050,
       "name": "Feelings Plain",
       "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "see str8",
-        "url": "https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo"
-      },
-      "artists": [
-        {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "see str8",
-      "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1999,6 +1983,22 @@
       "duration_ms": 189230,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "see str8",
+        "url": "https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "see str8",
+      "url": "https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -2223,38 +2223,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 172991,
-      "name": "High",
-      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
-      },
-      "artists": [
-        {
-          "name": "Rome in Silver",
-          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
-        }
-      ],
-      "duration_ms": 183445,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "Better Luck",
         "url": "https://open.spotify.com/album/2YsoBpYkOm3GF3Ve5GIRTa"
       },
@@ -2279,6 +2247,22 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "duration_ms": 183445,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
         "name": "A Mere Blip In Your Timeline",
         "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 206390,
       "name": "A Mere Blip In Your Timeline",
       "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 172991,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -2319,22 +2319,22 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Loner (Remixes)",
-        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/07jas6TsfQ7q9eiB4GtxqI"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "Mazde",
+          "url": "https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx"
         },
         {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 170095,
-      "name": "Forever - Pauline Herr Rework",
-      "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
+      "duration_ms": 194285,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/1g2q4DStDT1N6LRRUX0o6e"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -2351,6 +2351,26 @@
       "duration_ms": 159252,
       "name": "Fuck Right Off",
       "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Loner (Remixes)",
+        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "Forever - Pauline Herr Rework",
+      "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -2375,26 +2395,6 @@
       "duration_ms": 204342,
       "name": "Emotional - James Hiraeth Remix",
       "url": "https://open.spotify.com/track/0Z2muIwFO7cZaPo21bYa8C"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/07jas6TsfQ7q9eiB4GtxqI"
-      },
-      "artists": [
-        {
-          "name": "Mazde",
-          "url": "https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/1g2q4DStDT1N6LRRUX0o6e"
     },
     {
       "added_at": "2023-08-24 22:01:00",

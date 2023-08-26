@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie
 
-56 songs - 3 hr 46 min
+57 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alli Pookal](https://open.spotify.com/track/6CaZXWM3DWjQK73kK0nty7) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Alli Pookal](https://open.spotify.com/album/0Vd3VjOi0opbu51c8NvxBm) | 4:01 | 2021-12-01 |  |
 | [Anbe Aaruyirae](https://open.spotify.com/track/3ebSznljltY5w7kskNlhma) | [Prashan Sean](https://open.spotify.com/artist/04WGlrqyaR2LvjkL5O2eVf), [Navin Raaj Mathavan](https://open.spotify.com/artist/1PbMW7SDnPgoPWgo1Szi6h) | [Anbe Aaruyirae](https://open.spotify.com/album/57xEQNhxZfTTsbjdd6FEvo) | 4:51 | 2021-12-01 |  |
 | [Anbe Nalama?](https://open.spotify.com/track/07TiM33PXuXAhvQSwsnOYW) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Anbe Nalama?](https://open.spotify.com/album/2TqgLBHd11jVzsYZUt4fnc) | 3:10 | 2021-12-01 |  |
+| [Cute\-u Jaanu \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/3Pw9uuyavNje2FlAmZMwBw) | [Bharath K Rajesh](https://open.spotify.com/artist/13n9V5dYM3IMUSIJQp0i45), [Lakshmi Pradeep](https://open.spotify.com/artist/1uDTGoBHd9o44FwPn0Tssc), [Sebastin Rozario](https://open.spotify.com/artist/6zn3QoKgnSOZx7Q2QE2dVF), [Renjith Raveendran](https://open.spotify.com/artist/6AuA7xWpYlFAaTc0TsIZfI) | [Cute\-u Jaanu \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/2gOm8c2vbbANJqYkyuZ93c) | 3:15 | 2023-08-25 |  |
 | [Ellam Unnale \(From "Think Indie"\)](https://open.spotify.com/track/7bie2UikFoDY3E8u6S4z8y) | [Godwin Winston](https://open.spotify.com/artist/7vqUNeg85N6Ric98foS687) | [Ellam Unnale \(From "Think Indie"\)](https://open.spotify.com/album/0Cl17slMTfhEVwdZmxtthR) | 3:52 | 2021-12-01 |  |
 | [En Manasa Kalachale](https://open.spotify.com/track/6MpPuw9ZJjRwty1QuiyloN) | [Manoj Kumar.M](https://open.spotify.com/artist/3HF2g6nt0a3ZX6oZ8gO3gT), [Sibhi](https://open.spotify.com/artist/7stMjx1zufHjblKVqqVZiD) | [En Manasa Kalachale](https://open.spotify.com/album/5lf9NhTSRez5DnAHF1v8eR) | 3:34 | 2021-12-01 | 2023-07-31 |
 | [En Manasa Kalachale](https://open.spotify.com/track/7wtlmmn8eIV4Ma7qcc9aXv) | [Sibhi](https://open.spotify.com/artist/7stMjx1zufHjblKVqqVZiD) | [En Manasa Kalachale](https://open.spotify.com/album/1a976GvlsDfAHjBk8OI5Au) | 3:34 | 2021-12-01 |  |

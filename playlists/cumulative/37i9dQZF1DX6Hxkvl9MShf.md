@@ -4,7 +4,7 @@
 
 > Melodic house and techno to concentrate the mind.
 
-85 songs - 6 hr 3 min
+86 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Melodic Flow](https://open.spotify.com/track/6yfkhmXK9eBGGrBMR3ypzt) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Take Me Home \(Flow\)](https://open.spotify.com/album/4b2TWiGPq0iDNzYKyndF3f) | 6:11 | 2023-01-06 |  |
 | [Melodic Mind](https://open.spotify.com/track/4vRHOvD3C0sESg8srdkunk) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 5:09 | 2023-01-06 |  |
 | [Melodic Space](https://open.spotify.com/track/7ojus18AAOWFneqLSxRyTn) | [VELDA](https://open.spotify.com/artist/4qJI9uNSis7Qi4J1q1Eufn) | [Melodic Mind](https://open.spotify.com/album/6U1k2aJKB0xIeHXAeG52mS) | 4:56 | 2023-01-06 |  |
+| [Mirages](https://open.spotify.com/track/5cVHSRdhIGHIWjl0lVNPMj) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Mirages](https://open.spotify.com/album/2bQmqklVRAO9mqeTDIY8nk) | 4:01 | 2023-08-25 |  |
 | [Mistwalker](https://open.spotify.com/track/29HBY8bz6ut3ePI9VyEtx5) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Mistwalker](https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg) | 4:50 | 2023-01-06 |  |
 | [Momentum](https://open.spotify.com/track/0dwUqHfuKGhtYCChyeLyxX) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Momentum](https://open.spotify.com/album/1QsITkVjzy1Rx4AqYNUAsZ) | 2:42 | 2023-01-06 |  |
 | [Mostly Cloudy](https://open.spotify.com/track/0E0sCHEpgh93xYBZU2OAuI) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Packet Loss](https://open.spotify.com/album/7G1Lg7yNSreOBiUbbBHq2Y) | 4:31 | 2023-04-11 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,402 likes - 95 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,426 likes - 95 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [New Dawn](https://open.spotify.com/track/35vLmAqKYb2R9KwKP2aKOV) | [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D), [Johnny Vidacovich](https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA), [James Singleton](https://open.spotify.com/artist/3A07LOMMmRbj9cFQ7xAqQt), [Tony Dagradi](https://open.spotify.com/artist/7jY3IF3mLOfmkuTMZr5d70) | [Look For Water](https://open.spotify.com/album/2fFPASABUYoAT64T6KSbCZ) | 6:45 |
-| 2 | [Excerpt from Spectre d'un songe](https://open.spotify.com/track/7m2KJDkBZ9KA1P9l3OQeRf) | [Sylvie Courvoisier](https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3), [Cory Smythe](https://open.spotify.com/artist/5UageRpKPwCqXQLs79kXO3) | [Excerpt from Spectre D'un Songe](https://open.spotify.com/album/2xCmofdVvMCpcO9GwFSBY8) | 9:39 |
+| 1 | [Chancelot](https://open.spotify.com/track/07BN3WGtVwKfLZhynxgaO9) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Shinpei Ruike](https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1) | [Chancelot](https://open.spotify.com/album/0whxfN7HPyYtxdM5gXnqVu) | 2:30 |
+| 2 | [New Dawn](https://open.spotify.com/track/35vLmAqKYb2R9KwKP2aKOV) | [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D), [Johnny Vidacovich](https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA), [James Singleton](https://open.spotify.com/artist/3A07LOMMmRbj9cFQ7xAqQt), [Tony Dagradi](https://open.spotify.com/artist/7jY3IF3mLOfmkuTMZr5d70) | [Look For Water](https://open.spotify.com/album/2fFPASABUYoAT64T6KSbCZ) | 6:45 |
 | 3 | [Melt All the Guns](https://open.spotify.com/track/4zpN6HASOz9T15MhpBvM4A) | [Devin Gray](https://open.spotify.com/artist/4Ivo3FWLlLMJLnscn6Z6Ha), [Ralph Alessi](https://open.spotify.com/artist/2yHcAgHAPUdUhVuiIWWcba), [Angelica Sanchez](https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi) | [Melt All the Guns](https://open.spotify.com/album/6Bpgr7virRwtyK3stIIb4R) | 4:31 |
 | 4 | [Rush](https://open.spotify.com/track/4dzF4kL1JEodFrKIB98CkX) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Rush](https://open.spotify.com/album/1Ziua7CFzE6Aoho1nu6rey) | 5:35 |
 | 5 | [EICNSCS para 6 músicos](https://open.spotify.com/track/22AcQY05lWhnW85VXoAkrn) | [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3), [Christiano Lemgruber](https://open.spotify.com/artist/14ILd6QBfP5q0CE7ncyDR8), [Regis Damasceno](https://open.spotify.com/artist/2ogn0YEfeS21uvSrIwLNGu), [Andre Édipo](https://open.spotify.com/artist/41JRPt1CSTWaIkZZ7VUBxu), [Missionário José](https://open.spotify.com/artist/5GDpjPajWynDqA6NqjunGj) | [EICNSCS \(Experiência de Improvisação Coletiva Não Sincrônica Cumulativa Sequencial\)](https://open.spotify.com/album/6K0Vy8CuicDPa5uck0XPUU) | 8:03 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 94 | [Breaking Point](https://open.spotify.com/track/08didpMJM0vsICBS3uu2Xd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Essential Blue Note Collection](https://open.spotify.com/album/7dDZGuJMNFpIHa2J2jSdJT) | 10:19 |
 | 95 | [Conduction No.186 \- Live](https://open.spotify.com/track/10oUh9vQB9J36UmsGuWxRl) | [Nublu Orchestra](https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9), [Butch Morris](https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK) | [Live in Lisbon](https://open.spotify.com/album/5WnPY79tkeyhrRcInkUjMp) | 43:14 |
 
-Snapshot ID: `MCw0MDU2Nzg0MzhiNTRjNWZmYTliMjk4ZTY4NDQ5YzhhYmY2NjY4Mjc2`
+Snapshot ID: `MCxmMzlmN2VmY2M0NGY5NTE2M2IwN2JlZTEzNGU1OWIxNWI2NGY5YmFk`

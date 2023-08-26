@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-1,074 songs - 2 day 11 hr 51 min
+1,075 songs - 2 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Asesina](https://open.spotify.com/track/0VKzi6b1pbnfVX3oWSVvC6) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Asesina](https://open.spotify.com/album/3eqevIkNcddbHXsnnLmLzS) | 3:32 | 2022-03-24 | 2022-04-13 |
 | [Atterrissage](https://open.spotify.com/track/6IXC9VdQ03U13URwDvDi73) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Atterrissage](https://open.spotify.com/album/7JOb07lFRC4z6NsrWd4D82) | 3:33 | 2022-03-24 | 2022-04-19 |
 | [Au royaume de tes mots](https://open.spotify.com/track/4HL0P1iOuZRcAot0pa0zbE) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lourd et délicat](https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ) | 2:52 | 2022-06-29 | 2022-08-02 |
-| [Avenue](https://open.spotify.com/track/6CjwjsGzDVn2hwREI6BKoY) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Avenue](https://open.spotify.com/album/4pPLwz3J2zEskvu1Z6ATQ6) | 3:02 | 2023-08-18 |  |
+| [Avenue](https://open.spotify.com/track/6CjwjsGzDVn2hwREI6BKoY) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Avenue](https://open.spotify.com/album/4pPLwz3J2zEskvu1Z6ATQ6) | 3:02 | 2023-08-18 | 2023-08-26 |
 | [Baby Don't Let Me Go](https://open.spotify.com/track/1NKjWIAEYAjNlzk8qePK8F) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Baby Don't Let Me Go](https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY) | 3:53 | 2022-02-03 | 2022-12-15 |
 | [Baby...](https://open.spotify.com/track/3LmJ1n9BnLS1dHXl1QRDkt) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Baby...](https://open.spotify.com/album/6cQ3rKReQqlvpeqfdI2sSH) | 3:31 | 2022-02-03 | 2022-12-15 |
 | [Backwards](https://open.spotify.com/track/1Z9bAkibAZQoHq7qRLySBu) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Backwards](https://open.spotify.com/album/0AV6Vc6dnstWAOJpRnN25V) | 3:43 | 2023-01-20 | 2023-02-18 |
@@ -815,6 +815,7 @@
 | [Talking Box](https://open.spotify.com/track/7fru0rxutpi08K7Q112saF) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [檸檬の日々](https://open.spotify.com/album/2ceMonx7yH4UDjM8jpUxZq) | 2:21 | 2022-02-03 | 2022-08-26 |
 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 | 2023-05-30 |  |
 | [Tapu Te Po](https://open.spotify.com/track/1327O2x1SfFA5wMTag96ou) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [VĀRUA](https://open.spotify.com/album/7jgSag5L2lSg2Ycbn1XAyS) | 4:42 | 2022-04-07 | 2023-01-21 |
+| [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 | 2023-08-25 |  |
 | [Tegen De Klippen Op](https://open.spotify.com/track/4mfJi6sHY0LjLARpYSLel3) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Tegen De Klippen Op](https://open.spotify.com/album/5GlSAiTCsD7DF8OUSN34tE) | 2:50 | 2022-06-29 | 2022-08-02 |
 | [Telacuti](https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ) | [Lo Blanquito](https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp) | [Sin "S"](https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu) | 3:07 | 2022-04-07 | 2022-04-21 |
 | [Terbuai Cinta Palsu](https://open.spotify.com/track/0Lp52eUNJAfjMVz7jzKOHp) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Terbuai Cinta Palsu](https://open.spotify.com/album/0HLmj3fM9wlsqzNutT2AcP) | 4:56 | 2023-05-30 |  |

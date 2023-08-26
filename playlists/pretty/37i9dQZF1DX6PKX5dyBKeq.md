@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,318,261 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,318,511 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 23 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 |
 | 24 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 | 25 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 |
-| 26 | [Kindness For Weakness](https://open.spotify.com/track/4uk6Z1QptY5BlYAyaDWkFF) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Kindness For Weakness](https://open.spotify.com/album/3h1Fq8QLU5fkTSW4ByWR0e) | 2:39 |
+| 26 | [Kindness For Weakness](https://open.spotify.com/track/4XDcZALxM9M91BiUeaWCdq) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Back To Square One](https://open.spotify.com/album/5ZNpiEEn5h8L40p99UZ9XI) | 2:40 |
 | 27 | [Cream \(feat\. CB\)](https://open.spotify.com/track/7viEq8U0GgZf3v5m4BON3c) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [CB](https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:23 |
 | 28 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 |
 | 29 | [One Man](https://open.spotify.com/track/71kJnstCbvqaI9H70S9y68) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [One Man](https://open.spotify.com/album/610EHuJKkSztClP2OfxeYy) | 2:30 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 48 | [Diss To Dillon](https://open.spotify.com/track/4PThJXayS2BNIDQr3farvq) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Diss To Dillon](https://open.spotify.com/album/2iwQ0BmBAHWvJANYuraDTW) | 1:48 |
 | 49 | [Derby Day](https://open.spotify.com/track/47ljZvDes8HaEWYGd9RDhh) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Derby Day](https://open.spotify.com/album/3ByrdC0Y3r0Is6P0ETdA9z) | 3:09 |
 
-Snapshot ID: `MCwyNjgyNDkzMDRhYTI4MzVjNWNmY2VhYmU5YTAwZDEwYTg4Y2ViMzMw`
+Snapshot ID: `MCw0M2U3MjRmMjk1Y2VlYjQ2MTBlMGE5YTE4Njc3OWFiZWRlZjI2YTk5`

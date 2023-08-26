@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-272 songs - 15 hr 10 min
+274 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,13 +70,14 @@
 | [Deviation](https://open.spotify.com/track/5jAFlzqIDDBJzer8jIrNXT) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Deviation](https://open.spotify.com/album/40RIVcikWbOKylm2r3ehbW) | 4:02 | 2021-12-09 | 2022-06-05 |
 | [Dire, Dire Docks](https://open.spotify.com/track/6RNny5ViT14jcQsgh8Eb6J) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Dire, Dire Docks](https://open.spotify.com/album/22BuW6nNJDBDOsRfUIXU8g) | 2:37 | 2022-01-21 | 2022-05-21 |
 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 | 2021-12-09 |  |
-| [Distance](https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn) | [Dreweybear](https://open.spotify.com/artist/5HDqj7lexto9EPJ42uS2dM) | [Distance](https://open.spotify.com/album/4CT0135sHX4XqxcZk2TYx9) | 3:49 | 2021-12-09 |  |
+| [Distance](https://open.spotify.com/track/1t7dnSgClxQdMB4NYonJLn) | [Dreweybear](https://open.spotify.com/artist/5HDqj7lexto9EPJ42uS2dM) | [Distance](https://open.spotify.com/album/4CT0135sHX4XqxcZk2TYx9) | 3:49 | 2021-12-09 | 2023-08-26 |
 | [don't be so hard on yourself](https://open.spotify.com/track/0j69d3zENO7ZVjplwetmQp) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [it's good to hear your voice](https://open.spotify.com/album/5gaYJvbHf1NlOScEQvUSzZ) | 2:25 | 2022-03-25 | 2022-04-21 |
 | [Don't Tell Me I Can't Have It](https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Don't Tell Me I Can't Have It](https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx) | 3:07 | 2022-05-20 |  |
 | [Don't Worry](https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Don't Worry](https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1) | 2:24 | 2022-05-20 |  |
 | [Don't Worry](https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Don't Worry](https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL) | 3:15 | 2023-06-30 |  |
 | [Don’t Worry](https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Don’t Worry](https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c) | 4:36 | 2021-12-09 | 2023-02-18 |
 | [Doubts](https://open.spotify.com/track/10Iafk2IS4TyUsfP4C4kPE) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:15 | 2021-12-09 | 2022-02-27 |
+| [Dreams](https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Dreams](https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b) | 3:27 | 2023-08-25 |  |
 | [dustland](https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [dustland](https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2) | 2:41 | 2022-02-26 | 2023-03-16 |
 | [Evermore](https://open.spotify.com/track/1MC3Qkc2oC0ISlyrA1YefY) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Evermore](https://open.spotify.com/album/2gvEsAot01a7rhHTYJVFf5) | 5:25 | 2023-05-26 |  |
 | [FADED](https://open.spotify.com/track/5gWCNZX5T9aNKOagwUMNQQ) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [OASIS \(Prelude\)](https://open.spotify.com/album/41YLj80mj5GEaNkZnNLpYx) | 3:36 | 2022-03-25 | 2022-04-17 |
@@ -113,6 +114,7 @@
 | [Heaven](https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G) | [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Heaven](https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51) | 2:16 | 2023-05-26 | 2023-06-24 |
 | [Here with You](https://open.spotify.com/track/2dNtChXYtvpT7SD7Bfe5KS) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Buchs](https://open.spotify.com/artist/0JRjFR8wJVtzTungOU3X6V), [flower thief](https://open.spotify.com/artist/3ZKGMKJZWvAHEC2guepIfG) | [Here with You](https://open.spotify.com/album/1C0LrrRlTwweXHWz0QpwWI) | 2:19 | 2023-06-09 |  |
 | [High Fly](https://open.spotify.com/track/2LBf4COkSAdeWiErXJXJ7l) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [High Fly](https://open.spotify.com/album/6OtdbB8E8qul34J2xyI4Bv) | 4:20 | 2021-12-09 | 2023-04-15 |
+| [Hold Me Down](https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Hold Me Down](https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94) | 2:28 | 2023-08-25 |  |
 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 | 2021-12-09 | 2023-06-06 |
 | [I Might As Well Live In A Hotel Room](https://open.spotify.com/track/5yU6mVDfsrRzE20ZjYb1np) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [I Might As Well Live In A Hotel Room](https://open.spotify.com/album/3VHwo1i4tgdhmociAJ18DH) | 2:33 | 2021-12-09 | 2022-08-06 |
 | [Idiot \(SLCT Remix\) \(Instrumental Version\)](https://open.spotify.com/track/5PprWUDtMegwUWZkPwHjDQ) | [Nahra](https://open.spotify.com/artist/4MKfFnhGNxVnw0dgpgCBeQ), [SLCT](https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM) | [SLCT Takeover Vol\. 1 \(Instrumental\)](https://open.spotify.com/album/7AUJ2hfbg68b8vuUQ0DgDy) | 3:11 | 2021-12-09 | 2022-05-18 |
@@ -235,7 +237,7 @@
 | [Sunset Memories](https://open.spotify.com/track/6N4PYS4Go8XrcRMAwJW0Go) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Sunset Memories](https://open.spotify.com/album/7f9xgp3t9fb1N6X6hXdkJh) | 2:32 | 2023-06-30 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2021-12-09 | 2023-06-05 |
 | [Sunsets & Birds](https://open.spotify.com/track/3meIBFSPh9Ub6zloZRFhuQ) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/5QG6HT610I43dQBQIIE82v) | 2:28 | 2021-12-09 | 2022-07-29 |
-| [Sunsets & Birds](https://open.spotify.com/track/6gjBY0rDwSR0fK5NjVcOtM) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/6dvN4ZLVJjLY7Ln68GGRz5) | 2:28 | 2022-06-02 |  |
+| [Sunsets & Birds](https://open.spotify.com/track/6gjBY0rDwSR0fK5NjVcOtM) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sunsets & Birds](https://open.spotify.com/album/6dvN4ZLVJjLY7Ln68GGRz5) | 2:28 | 2022-06-02 | 2023-08-26 |
 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 | 2021-12-09 | 2022-01-05 |
 | [Svanur \(feat\. Rökkurró\)](https://open.spotify.com/track/2rnONdiE5CpLdmtNspVnTx) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Rökkurró](https://open.spotify.com/artist/3H5JhEkJ3IKuNT1elqCxQ4) | [Svanur](https://open.spotify.com/album/3g9O3lDO7O4AfW0CuCPKKa) | 4:56 | 2021-12-09 | 2022-05-21 |
 | [Swim](https://open.spotify.com/track/7qHfaAlihkWeA4Xu60v3Pi) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [Swim](https://open.spotify.com/album/5mNaZAGvS4jljaYgQxvYQs) | 2:07 | 2021-12-09 | 2023-04-15 |

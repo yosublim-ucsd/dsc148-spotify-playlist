@@ -1831,6 +1831,28 @@
     },
     {
       "album": {
+        "name": "Greybird",
+        "url": "https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        },
+        {
+          "name": "T Bird and the Breaks",
+          "url": "https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254586,
+      "name": "Hard to Believe",
+      "url": "https://open.spotify.com/track/3IfNXZSR5nEnYmnu2zsVUJ"
+    },
+    {
+      "album": {
         "name": "Hard to Stay Cool",
         "url": "https://open.spotify.com/album/3fpTOEGSvGIhVtLMZ44w8t"
       },
@@ -3974,7 +3996,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 229540,
       "name": "Rebels In The Street",
       "url": "https://open.spotify.com/track/5kGFXbSqDNadDBSsdyO94y"
@@ -4390,6 +4412,28 @@
       "duration_ms": 228226,
       "name": "She",
       "url": "https://open.spotify.com/track/2QQl8r7xYRQgqRA1UOHjWH"
+    },
+    {
+      "album": {
+        "name": "Size Up",
+        "url": "https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Josh Cunningham",
+          "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216964,
+      "name": "Size Up",
+      "url": "https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0"
     },
     {
       "album": {
@@ -4996,7 +5040,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 156158,
       "name": "The Breeze",
       "url": "https://open.spotify.com/track/0Oou2wDOZJFrNqRbDgOFir"

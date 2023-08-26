@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Alladsro",
+        "url": "https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu"
+      },
+      "artists": [
+        {
+          "name": "PS Praveen",
+          "url": "https://open.spotify.com/artist/4vQ3tyl9YN6rrfCnkgp05z"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236354,
+      "name": "Alladsro",
+      "url": "https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E"
+    },
+    {
+      "album": {
         "name": "Amma (Amma enda aa kshana)",
         "url": "https://open.spotify.com/album/4XY7NzBNYyhP9KcJViDWKo"
       },

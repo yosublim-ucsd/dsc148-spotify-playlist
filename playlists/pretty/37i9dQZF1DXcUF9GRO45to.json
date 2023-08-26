@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 27737,
+  "num_followers": 27754,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWIwMWU4NTBlNDcxOTE4MDFkNGFkYTU5NmMzMGFjYjcwMWM5NTEw",
+  "snapshot_id": "MCw0NzM3YWI0ZjI4NDVmZjEyYTk4ZDY0OWI0MGQ2OTUxOTg4Nzg5OWY0",
   "tracks": [
     {
       "added_at": "2023-08-24 08:17:19",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Stained Years",
-        "url": "https://open.spotify.com/album/3RjxgmzXhn8NxVLfR3btBQ"
-      },
-      "artists": [
-        {
-          "name": "Shattered Blooms",
-          "url": "https://open.spotify.com/artist/2pYANbParcwp5HMM8GsK4w"
-        }
-      ],
-      "duration_ms": 210153,
-      "name": "Ashamed",
-      "url": "https://open.spotify.com/track/0h0qjnCRWqkfdml8a6BSgp"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "LOOV",
         "url": "https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 165720,
       "name": "Stay Close To Me",
       "url": "https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Stained Years",
+        "url": "https://open.spotify.com/album/3RjxgmzXhn8NxVLfR3btBQ"
+      },
+      "artists": [
+        {
+          "name": "Shattered Blooms",
+          "url": "https://open.spotify.com/artist/2pYANbParcwp5HMM8GsK4w"
+        }
+      ],
+      "duration_ms": 210153,
+      "name": "Ashamed",
+      "url": "https://open.spotify.com/track/0h0qjnCRWqkfdml8a6BSgp"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Kids Are Lo-Fi",
-        "url": "https://open.spotify.com/album/53IId7k0xkfOCTwsCF8lJY"
-      },
-      "artists": [
-        {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
-        }
-      ],
-      "duration_ms": 162597,
-      "name": "Melancholic Rain",
-      "url": "https://open.spotify.com/track/25A9I9SrAJ4uPeGO7lsN34"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "...About Going Home",
         "url": "https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 249013,
       "name": "Model",
       "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Kids Are Lo-Fi",
+        "url": "https://open.spotify.com/album/53IId7k0xkfOCTwsCF8lJY"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 162597,
+      "name": "Melancholic Rain",
+      "url": "https://open.spotify.com/track/25A9I9SrAJ4uPeGO7lsN34"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "The Future Is the End",
-        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
-      },
-      "artists": [
-        {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "Strike a Match",
-      "url": "https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "The Big Picture",
         "url": "https://open.spotify.com/album/0FfGjheDjSorhabLLNoB4x"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 320813,
       "name": "Disappointed",
       "url": "https://open.spotify.com/track/0ZNaRU6cK7nGIqw4kcMeSK"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "The Future Is the End",
+        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Strike a Match",
+      "url": "https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Bitter Memory",
-        "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
-      },
-      "artists": [
-        {
-          "name": "The One You Loved",
-          "url": "https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY"
-        }
-      ],
-      "duration_ms": 233023,
-      "name": "Toxin",
-      "url": "https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "Staring At The Sun",
         "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 229429,
       "name": "Like gods we feast",
       "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Bitter Memory",
+        "url": "https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE"
+      },
+      "artists": [
+        {
+          "name": "The One You Loved",
+          "url": "https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY"
+        }
+      ],
+      "duration_ms": 233023,
+      "name": "Toxin",
+      "url": "https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Hara",
-        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
-      },
-      "artists": [
-        {
-          "name": "Datcha Mandala",
-          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "Little Armageddon",
         "url": "https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 186160,
       "name": "Second To None",
       "url": "https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Hara",
+        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
+      },
+      "artists": [
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Liquor Liquor",
-        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
-      },
-      "artists": [
-        {
-          "name": "Ponta Preta",
-          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
-        }
-      ],
-      "duration_ms": 222288,
-      "name": "Liquor Liquor",
-      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "HLA-11TF",
         "url": "https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 256521,
       "name": "Eleven the Fair",
       "url": "https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Liquor Liquor",
+        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
+      },
+      "artists": [
+        {
+          "name": "Ponta Preta",
+          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
+        }
+      ],
+      "duration_ms": 222288,
+      "name": "Liquor Liquor",
+      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "HORIZON",
-        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
-      },
-      "artists": [
-        {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "HORIZON",
-      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "The West Is the Best",
         "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 221322,
       "name": "Echo Street",
       "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "HORIZON",
+      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
-      },
-      "artists": [
-        {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
-        }
-      ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "Billy Believe",
         "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 286173,
       "name": "Vegan Porn Food",
       "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+      },
+      "artists": [
+        {
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
     },
     {
       "added_at": "2023-08-24 08:17:19",

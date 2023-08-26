@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-129 songs - 7 hr 55 min
+130 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Eight\-Nine](https://open.spotify.com/track/3jggbpn4P3ETPQ6Mb2I002) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/4GeISBvDAIJ5rLaXkpI0oD) | 3:16 | 2021-07-26 |  |
 | [Eight\-Nine](https://open.spotify.com/track/4UWWVgwWdWZHJrUoqcwuau) | [Buscrates](https://open.spotify.com/artist/2xVtLMwf4oZwJT5d1J5289), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Blasting Off](https://open.spotify.com/album/6qhy2z57y0aWZ9zdDdTvxW) | 3:16 | 2021-07-26 | 2023-04-30 |
 | [Every Word \- Radio Edit](https://open.spotify.com/track/145kUDDfoiTzNGVPvem4Xm) | [Darryl Jordan](https://open.spotify.com/artist/07rLy29kxUhgrXwXL8p7jt), [Giman](https://open.spotify.com/artist/75nakAajlHkjK1yMhNPoB1), [Chic\_Ago](https://open.spotify.com/artist/2O0TP0gKFhi1L3T6m2BJXG) | [Every Word](https://open.spotify.com/album/0liZQlGjXRohYLNk5jkquK) | 4:06 | 2021-07-26 |  |
-| [Fantasize](https://open.spotify.com/track/3WjC4OFDrnX7AVyZTsVLne) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:19 | 2021-07-26 |  |
+| [Fantasize](https://open.spotify.com/track/3WjC4OFDrnX7AVyZTsVLne) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Bulletproof](https://open.spotify.com/album/20NMgSbJeB86aLT9Znv66E) | 3:19 | 2021-07-26 | 2023-08-26 |
 | [Fantasy](https://open.spotify.com/track/2K5cF4TM3vH1eaX0eqXfzZ) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY), [Sally Green](https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs) | [Three O Five](https://open.spotify.com/album/3qDqVrsNkV0tVSUxzjqs5f) | 4:04 | 2023-08-04 |  |
 | [Fool For You](https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L) | 2:55 | 2021-07-26 | 2022-10-14 |
 | [Fool For You](https://open.spotify.com/track/4cFn7EyvJU4x0xJ34R2d6d) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/3eHSZLaNryhqzy0d5dUaOH) | 2:55 | 2021-07-26 |  |
@@ -86,6 +86,7 @@
 | [Million Miles Away \- Edit](https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Million Miles Away \(Edit\)](https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq) | 3:31 | 2023-07-07 |  |
 | [More](https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Jon Mullins](https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP) | [Funk Aesthetics](https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO) | 3:03 | 2021-07-26 |  |
 | [Mr Experience](https://open.spotify.com/track/54GhzoPYsZArLvotyAORIt) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Mr Experience](https://open.spotify.com/album/4jWfPxX2PeXQqxXkyysMKC) | 3:55 | 2021-07-26 |  |
+| [Next To You](https://open.spotify.com/track/4b5djboQENpRDpaiv12t06) | [Oral Bee](https://open.spotify.com/artist/4QawfzCb5NbFRNn4BySXb1), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Splash Bros.](https://open.spotify.com/artist/0IQ1IyebgwJTW4bECBWla3) | [Next To You](https://open.spotify.com/album/6yIMIDnefGWURSE5iEcsLf) | 2:47 | 2023-08-25 |  |
 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 | 2021-07-26 |  |
 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2022-09-23 |  |
 | [On Time](https://open.spotify.com/track/0asGu28LvcTJPa0vxjyJmw) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Kunta](https://open.spotify.com/artist/3ishWMiOKQ8C7iUViLsS6V) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:04 | 2022-06-24 |  |

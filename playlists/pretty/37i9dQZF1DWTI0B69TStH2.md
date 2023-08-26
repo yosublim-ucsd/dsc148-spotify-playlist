@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Helaine Vis \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,892 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,895 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [W twojej głowie](https://open.spotify.com/track/7h3N5CXpTJlf53a43jCFrL) | [idothings](https://open.spotify.com/artist/5Ys74Ecr3JfjGbUGfyXZWS) | [W twojej głowie](https://open.spotify.com/album/5MUTTDusu8SodzpMfSPVTz) | 3:48 |
 | 100 | [Spadając](https://open.spotify.com/track/4A8HAMHoBTexAJSeRAHIyz) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [Spadając](https://open.spotify.com/album/4GExXV7y60hlFN5OhjIKlv) | 3:17 |
 
-Snapshot ID: `MCw3OGY3MjM2NGY1NDc3M2E1OWE5MjI5YTRiODQyOGE0ZjdkZDhmYWE3`
+Snapshot ID: `MCxjOWNjZDA5MDFhZDFiYWUzY2JhOGFjNzgyYTIxZDAwNTMxMzg3Mjk1`

@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله المخلص
 
-169 songs - 11 hr 2 min
+170 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Tik Tak](https://open.spotify.com/track/37Dij6t00vGWiebXZBqCtB) | [Ziyad Al Zahem](https://open.spotify.com/artist/6X48LcVZiaJrHUdyhikE08), [Mansour Al Wailey](https://open.spotify.com/artist/0Qij0wHzhhvpitpc9KzX6U) | [Tik Tak](https://open.spotify.com/album/57xSDIcbzJUCalSL79eOzX) | 3:38 | 2022-03-30 | 2023-06-21 |
 | [Wajeh Medfaa](https://open.spotify.com/track/4oF5qZ5OtPnfeLoceMmtxx) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Wajeh Medfaa](https://open.spotify.com/album/5iPXD7xOxkJN2HqasEAiJR) | 4:54 | 2022-03-30 | 2023-02-23 |
 | [Wedaa Ahbab](https://open.spotify.com/track/621bdki1XqcmcrfM2qtsGv) | [Saleh Alyami](https://open.spotify.com/artist/0EHQN1RzPBV4c1iPv8m5ln) | [Wedaa Ahbab](https://open.spotify.com/album/4dwxIqFq6qtyj8757DkLaG) | 4:58 | 2023-02-22 | 2023-06-29 |
+| [Ya Aneedah](https://open.spotify.com/track/2VOd0JcjUA6dgEda5OeCP9) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Ya Aneedah](https://open.spotify.com/album/2vjgjvXAO5BcXGV5CsjAul) | 3:44 | 2023-08-25 |  |
 | [Zalzalet Harb](https://open.spotify.com/track/5mqdUwdHxCR9vuYLvpmWH4) | [Badr Alsheafani](https://open.spotify.com/artist/4dDhTNhkRc5avMooQiihNB) | [Zalzalet Harb](https://open.spotify.com/album/0YmaVrDhj1gJqUcDfgRI9V) | 3:12 | 2023-05-12 |  |
 | [آخر امالي](https://open.spotify.com/track/4VUMevwK5WhDrEjxH7okJL) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch), [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [آخر امالي](https://open.spotify.com/album/61PakJUPIbdvuMBPk8ZcOY) | 3:22 | 2023-02-22 |  |
 | [أحبك يوم تاخذني](https://open.spotify.com/track/3C0Hpz4Df64ZszZNODDaUV) | [محمد الديحاني](https://open.spotify.com/artist/4omgo2tmAfhkk3hizsuHzb) | [أحبك يوم تاخذني](https://open.spotify.com/album/1Sbqm44BUnM6FLJZhMeXov) | 4:18 | 2022-03-30 | 2022-11-03 |

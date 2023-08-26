@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-341 songs - 1 day 2 hr 7 min
+342 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Happy 'Cause I'm Goin' Home](https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa) | [Charles Earland](https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi) | [Intensity](https://open.spotify.com/album/0UIDIJWyepSPXNAqLWBPiv) | 11:15 | 2020-10-09 | 2023-06-17 |
 | [Harlem Buck Dance Strut](https://open.spotify.com/track/0u40DR3lPUDNCxtfDzNs3Q) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:55 | 2020-10-09 |  |
 | [Harlem River Drive](https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [Blacks And Blues](https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv) | 7:50 | 2020-10-09 | 2023-03-11 |
-| [Have a Talk with God](https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have a Talk with God](https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ) | 5:41 | 2023-08-11 |  |
+| [Have a Talk with God](https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have a Talk with God](https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ) | 5:41 | 2023-08-11 | 2023-08-26 |
+| [Have A Talk With God](https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have A Talk With God](https://open.spotify.com/album/46GEMh4lyKE3Y3XKKDH4Qf) | 5:41 | 2023-08-11 |  |
 | [Head in the Clouds](https://open.spotify.com/track/0q6gOQqr5KcC2RUmXlh2pl) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0), [Avatar Horns](https://open.spotify.com/artist/2kPPtGrPl59H7uFKz4MehA), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Head in the Clouds](https://open.spotify.com/album/5s57FHV8CsfmgUmpMzsoe3) | 3:42 | 2022-11-18 | 2023-05-20 |
 | [Herbie](https://open.spotify.com/track/0H93akvUa8SyoWlkYywgRa) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Herbie](https://open.spotify.com/album/5l9uzznvXLK9xtM8y17p5P) | 3:24 | 2021-10-08 | 2022-07-29 |
 | [High Valley Roundhouse](https://open.spotify.com/track/11Wex1wGbh9ALFh8691E4i) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Sebastian Ågren](https://open.spotify.com/artist/0lOhgZEe0mfn0xWJtUIwEz), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Thobias Gabrielson](https://open.spotify.com/artist/1xJe3NoQuabsykznaMz7UR) | [The Lotus and the Swamp](https://open.spotify.com/album/0Ajs51QREa33RFggJkZiXO) | 4:02 | 2022-03-25 | 2022-07-29 |

@@ -9560,7 +9560,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 163435,
       "name": "fckboys",
       "url": "https://open.spotify.com/track/1FOYiATDkLEbiYwD8HmPxE"
@@ -20212,6 +20212,24 @@
       "duration_ms": 227380,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/6H15f8zwZSiFE1iseSvkLT"
+    },
+    {
+      "album": {
+        "name": "Never Liked Your Name",
+        "url": "https://open.spotify.com/album/2medAu4XBQnXVMtsgX4EAs"
+      },
+      "artists": [
+        {
+          "name": "Brooke Alexx",
+          "url": "https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Never Liked Your Name",
+      "url": "https://open.spotify.com/track/39MUpuBCpv7MkfBLKcNqV1"
     },
     {
       "album": {

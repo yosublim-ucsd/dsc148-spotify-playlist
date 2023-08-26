@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-395 songs - 23 hr 48 min
+396 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Down](https://open.spotify.com/track/09QZbXkrHRww7Epv7qSnL0) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Reggaeton Simply The Best](https://open.spotify.com/album/77bdlkmKZ719XLIOnmftMP) | 3:45 | 2021-12-17 | 2022-07-29 |
 | [Down](https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:45 | 2022-07-27 |  |
 | [Déjale Caer To' El Peso \(feat\. Yomo\)](https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [Goldstar Music La Familia Reggaeton Hits](https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk) | 4:08 | 2021-12-17 |  |
-| [Eh Oh Eh Oh](https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 3:34 | 2023-04-20 |  |
+| [Eh Oh Eh Oh](https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 3:34 | 2023-04-20 | 2023-08-26 |
 | [El Bus](https://open.spotify.com/track/3phGZ5oFBLaEluf23rcvVJ) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [La Voz](https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi) | 3:44 | 2021-12-17 |  |
 | [El Carnaval](https://open.spotify.com/track/3WoInfouCx0DmDeDbzxKbu) | [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7) | [Sentenciados](https://open.spotify.com/album/06Qf0LWw8snASh8qeCxRTp) | 3:44 | 2022-07-27 |  |
 | [El Carnaval](https://open.spotify.com/track/4h4aAvqiftNLS5XeookGx1) | [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Cheka](https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE) | [Sentenciados \- Platinum Edition](https://open.spotify.com/album/4IjDrXGevb0bbtdlgGhJkx) | 3:43 | 2021-12-17 | 2022-07-29 |
@@ -142,7 +142,7 @@
 | [Flow Natural](https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Deevani](https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 2:53 | 2021-12-17 |  |
 | [Flow Violento](https://open.spotify.com/track/6iFgpfqV152RVIXSNfQuhj) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Violento Vol.1](https://open.spotify.com/album/6yPjXW0WhOnJbRGl2wLtA4) | 3:06 | 2021-12-17 | 2022-07-29 |
 | [Flow Violento](https://open.spotify.com/track/0ubKoLSRKEBpeJuRJrLf9M) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [La Fórmula](https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ) | 3:02 | 2022-07-27 |  |
-| [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 | 2021-12-17 |  |
+| [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 | 2021-12-17 | 2023-08-26 |
 | [Fruta Prohibida](https://open.spotify.com/track/4xTqyuvfoYoSoq3z7TAtnp) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Dragón & Caballero](https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS) | 3:38 | 2023-07-24 |  |
 | [Fuego](https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [La Moda](https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz) | 3:43 | 2021-12-17 | 2023-06-13 |
 | [Fuera del Planeta](https://open.spotify.com/track/4mM90OUhSN79RRKT0qv4dY) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Eloy](https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu) | [Fuera del Planeta](https://open.spotify.com/album/1b1Wab99cO3K0Zl26MYXMS) | 3:35 | 2021-12-17 |  |
@@ -295,6 +295,7 @@
 | [Se Siente Bien](https://open.spotify.com/track/52xtApt0X5IZpV88lcSnnf) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Se Siente Bien \(Special Edition\)](https://open.spotify.com/album/3bTxKb6I54lCSPkP385Ko8) | 4:04 | 2021-12-17 | 2022-07-29 |
 | [Se Siente Bien](https://open.spotify.com/track/5OWejFBYolv53n4SvVvoYY) | [Dragon & Caballero](https://open.spotify.com/artist/4uRH0vTYaGWjG1MK8K8RPE) | [Dragón & Caballero](https://open.spotify.com/album/6Xj4l9lZzekje9ATHdGRzS) | 4:06 | 2022-07-27 |  |
 | [Se Vale To\-To](https://open.spotify.com/track/3SXo6PO3z3C0laMLCK9T7h) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:50 | 2022-07-27 | 2023-05-21 |
+| [Secretos](https://open.spotify.com/track/6WKonUtXuMBPGmHyeEOMOj) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Secretos](https://open.spotify.com/album/5dQcoap9DEvSOgvugHdEdz) | 3:38 | 2023-08-14 |  |
 | [Secretos](https://open.spotify.com/track/0ezA5xFPmYbWdlq6LF0juY) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Secretos](https://open.spotify.com/album/7x3fxxIu6PzxM58xPYMNYx) | 3:38 | 2022-05-13 | 2023-08-14 |
 | [Sensacion Del Bloque](https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Reggaeton Rulers: Los Que Ponen](https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da) | 3:02 | 2021-12-17 |  |
 | [Sentimiento](https://open.spotify.com/track/3LU5ZHFpyqmZwcKjPEEkF1) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Babilla](https://open.spotify.com/album/75InLp4fdgi6Wcr2D7NrvC) | 3:41 | 2022-10-12 |  |
@@ -401,7 +402,7 @@
 | [Yo Voy A Legar \(feat\. Zion\)](https://open.spotify.com/track/0m2CS9McLcfM6UNtUBagyn) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Mi Historia](https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR) | 3:59 | 2021-12-17 | 2022-12-03 |
 | [Yo Voy A Llegar](https://open.spotify.com/track/6vakABC8veui722qtIXy18) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Flow La Discoteca Special Edition](https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX) | 3:45 | 2021-12-17 |  |
 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 | 2021-12-17 |  |
-| [¿por Que Te Demoras?](https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-12-16 | 2023-08-08 |
+| [¿por Que Te Demoras?](https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-12-16 |  |
 | [¿Por Que Te Demoras?](https://open.spotify.com/track/6nAlJuLlRlpAcq30xIqKJs) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 | 2022-07-07 | 2022-12-01 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

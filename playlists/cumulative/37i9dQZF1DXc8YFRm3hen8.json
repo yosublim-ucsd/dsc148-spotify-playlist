@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 182233,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 214973,
       "name": "Arte Arte Arte",
       "url": "https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG"
@@ -382,6 +382,24 @@
       "duration_ms": 266992,
       "name": "Azu\u0301car Impalpable",
       "url": "https://open.spotify.com/track/48nLgkR14oklsdfjN6wGsl"
+    },
+    {
+      "album": {
+        "name": "Buen Recuerdo",
+        "url": "https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251843,
+      "name": "Buen Recuerdo",
+      "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
     },
     {
       "album": {
@@ -696,7 +714,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 241461,
       "name": "Consuelo Eterno",
       "url": "https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF"
@@ -887,6 +905,28 @@
     },
     {
       "album": {
+        "name": "DE MUSICA LIGERA",
+        "url": "https://open.spotify.com/album/39PVuoSk7NCdNQe25SZBih"
+      },
+      "artists": [
+        {
+          "name": "Maxi Trusso",
+          "url": "https://open.spotify.com/artist/1V7tGmh5DDSNE0VsUcorJL"
+        },
+        {
+          "name": "Leo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129063,
+      "name": "DE MUSICA LIGERA",
+      "url": "https://open.spotify.com/track/47heFJw6XPefzl9Y3x8ZY3"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n Animal (Remastered)",
         "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
       },
@@ -996,6 +1036,24 @@
       "duration_ms": 135973,
       "name": "Demoliendo Hoteles",
       "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
+    },
+    {
+      "album": {
+        "name": "Herencia Leb\u00f3n 1",
+        "url": "https://open.spotify.com/album/4Tl5twEpmrOihG7K566fQn"
+      },
+      "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296554,
+      "name": "Depi\u00e9rtate Nena (Herencia Leb\u00f3n)",
+      "url": "https://open.spotify.com/track/0sVPghWdY3HdWDZnPobjni"
     },
     {
       "album": {
@@ -1288,7 +1346,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 208586,
       "name": "El trato",
       "url": "https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8"
@@ -1586,7 +1644,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 463189,
       "name": "FLASH/TRASH",
       "url": "https://open.spotify.com/track/1AB2VzsMPHdGZqnOFNrXBr"
@@ -1648,7 +1706,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 193680,
       "name": "Fuera o M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/3qQ0TTpIt0OXH7plhxeISL"
@@ -1912,7 +1970,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 266786,
       "name": "La Calle Es Su Lugar",
       "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
@@ -2461,6 +2519,28 @@
     },
     {
       "album": {
+        "name": "Los Prejuicios",
+        "url": "https://open.spotify.com/album/1zehKXJWFuBafpq12GR56U"
+      },
+      "artists": [
+        {
+          "name": "Piti Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+        },
+        {
+          "name": "Prietto",
+          "url": "https://open.spotify.com/artist/3Xm2CjJ6i14krOHOGVDYts"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293838,
+      "name": "Los Prejuicios",
+      "url": "https://open.spotify.com/track/56Bbpl6wbG8BnNE4D3ylgo"
+    },
+    {
+      "album": {
         "name": "Mensajes Del Alma",
         "url": "https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE"
       },
@@ -2602,7 +2682,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 238573,
       "name": "Magia Veneno",
       "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
@@ -2721,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "Mega High",
+        "url": "https://open.spotify.com/album/2FQlaNod5tCo6wz8XARrTV"
+      },
+      "artists": [
+        {
+          "name": "Villagr\u00e1n Bola\u00f1os",
+          "url": "https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160925,
+      "name": "Mega High",
+      "url": "https://open.spotify.com/track/1WMsoTfHfsOQLkfQkkvTn8"
+    },
+    {
+      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -2732,7 +2830,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 209893,
       "name": "Mi Caramelo - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF"
@@ -2768,7 +2866,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 192286,
       "name": "Mi Voz",
       "url": "https://open.spotify.com/track/5Cu3nmXfZzPoslccKSrf08"
@@ -2880,7 +2978,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 181014,
       "name": "Monta\u00f1a",
       "url": "https://open.spotify.com/track/2If135FqLwJZvPsCQFcMYl"
@@ -3018,7 +3116,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 278984,
       "name": "Nada Salvaje (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
@@ -3162,7 +3260,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 154373,
       "name": "OLA DE SUICIDIOS",
       "url": "https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N"
@@ -3228,7 +3326,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 142723,
       "name": "Otra Mujer",
       "url": "https://open.spotify.com/track/3mUo4j1R22tJQdwPxENW8P"
@@ -3474,7 +3572,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 189092,
       "name": "Preso en un Comp\u00e1s",
       "url": "https://open.spotify.com/track/5OszE1Qeakt2ja4ydLluOc"
@@ -3604,7 +3702,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 259039,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
@@ -3727,6 +3825,28 @@
     },
     {
       "album": {
+        "name": "Salir del Confort",
+        "url": "https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        },
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196010,
+      "name": "Salir del Confort",
+      "url": "https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX"
+    },
+    {
+      "album": {
         "name": "La Direcci\u00f3n",
         "url": "https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD"
       },
@@ -3810,7 +3930,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
@@ -3922,7 +4042,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 182217,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu"
@@ -3980,7 +4100,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 247419,
       "name": "Tan Distintos",
       "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
@@ -4375,6 +4495,32 @@
     },
     {
       "album": {
+        "name": "Tu Raz\u00f3n de Ser",
+        "url": "https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206265,
+      "name": "Tu Raz\u00f3n de Ser",
+      "url": "https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF"
+    },
+    {
+      "album": {
         "name": "La Ciudad Liberada",
         "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
       },
@@ -4462,7 +4608,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 245467,
       "name": "Un Minuto Con Vos",
       "url": "https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo"
@@ -4704,7 +4850,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 252325,
       "name": "Washington",
       "url": "https://open.spotify.com/track/1kdC7TRPWpZC0O26qBggLD"

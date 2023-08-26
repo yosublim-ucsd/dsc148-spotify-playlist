@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,450 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,548 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 73 | [Let It Go \(Instrumental Version\)](https://open.spotify.com/track/5ignUBEPkskuxQ41eANUZi) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Lullabies for Little Ones on Ukulele](https://open.spotify.com/album/2lhNZafYdVBhPpjbVzlJj3) | 3:52 |
 | 74 | [La Vie En Rose](https://open.spotify.com/track/6aSdUhdyZuLqwjYnwu0hdo) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:12 |
 
-Snapshot ID: `MCw4ZDI2MjgxZWVmMzQ0MWRmODU5OThhZGRjNjA1YzhmOWUwOWQ4ZmFj`
+Snapshot ID: `MCwyNTNhYTE0NDY5YmVkYzFlMzlkYzAzOGU0ODc3NWQ2MDQyZjdkYmI4`

@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 206514,
       "name": "Didn't Say",
       "url": "https://open.spotify.com/track/1N8TRZPLLeWakoc1T1SGYt"
@@ -2895,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "Feel This Way Too",
+        "url": "https://open.spotify.com/album/21gSKSi1yQ1dSXDembzlpe"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272177,
+      "name": "Feel This Way Too",
+      "url": "https://open.spotify.com/track/3RO7i5x4x7iPsm0o1AKzBU"
+    },
+    {
+      "album": {
         "name": "fetishizing struggle",
         "url": "https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV"
       },
@@ -2932,6 +2950,24 @@
       "duration_ms": 178890,
       "name": "Find My Way To You",
       "url": "https://open.spotify.com/track/1uTWuhwyZVLHxrBwn732FN"
+    },
+    {
+      "album": {
+        "name": "Fireball Whiskey",
+        "url": "https://open.spotify.com/album/54He2QNHwh79iYkkgAfQTO"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209614,
+      "name": "Fireball Whiskey",
+      "url": "https://open.spotify.com/track/4G2EXo1ZY5ql0XcViRrXF6"
     },
     {
       "album": {
@@ -3166,7 +3202,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 222560,
       "name": "Forever Had to End",
       "url": "https://open.spotify.com/track/1y8vdU1RBpQCIXp1tphNgb"
@@ -3516,7 +3552,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 279850,
       "name": "Head for the Hills",
       "url": "https://open.spotify.com/track/2NfZgnqLABxmb3mRwYVc2y"
@@ -3926,6 +3962,24 @@
       "duration_ms": 294189,
       "name": "House Song",
       "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+    },
+    {
+      "album": {
+        "name": "how do you love a man",
+        "url": "https://open.spotify.com/album/3AgtsxMN4cz7sALetNurdC"
+      },
+      "artists": [
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "how do you love a man",
+      "url": "https://open.spotify.com/track/45L2t9a6fkpWtiawD6VbNl"
     },
     {
       "album": {
@@ -5247,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237573,
+      "name": "Living Again",
+      "url": "https://open.spotify.com/track/6uZuPslAaUm01KtTAsFv5v"
+    },
+    {
+      "album": {
         "name": "Lonely As I Can Be",
         "url": "https://open.spotify.com/album/2H0OI1clmTySCT3RlMBD4V"
       },
@@ -6180,7 +6252,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 272093,
       "name": "october",
       "url": "https://open.spotify.com/track/4KxTFhm8qUWga2uB6NKuLy"
@@ -9494,6 +9566,24 @@
       "duration_ms": 202480,
       "name": "Westward",
       "url": "https://open.spotify.com/track/1P0IOG572jMDIXR4K0EGwX"
+    },
+    {
+      "album": {
+        "name": "Misadventures",
+        "url": "https://open.spotify.com/album/6jLzwtmukIHmcKM2iR7wTt"
+      },
+      "artists": [
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211781,
+      "name": "Wet Sock",
+      "url": "https://open.spotify.com/track/7gQxHnz1Clsa1AWj7dABAT"
     },
     {
       "album": {

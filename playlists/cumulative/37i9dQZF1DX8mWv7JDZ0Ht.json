@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Gilsons, Lagum",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -599,6 +599,28 @@
     },
     {
       "album": {
+        "name": "Lugares",
+        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
+      },
+      "artists": [
+        {
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Ana Rosa",
+      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
+    },
+    {
+      "album": {
         "name": "Andando pela Orla",
         "url": "https://open.spotify.com/album/1kaDGikjEeuJsNrD4Ra6Jv"
       },
@@ -722,7 +744,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 206864,
       "name": "Ar da Sua Gra\u00e7a",
       "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
@@ -882,7 +904,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 187133,
       "name": "Boate Qualquer",
       "url": "https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr"
@@ -918,7 +940,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 183711,
       "name": "Brisa 22",
       "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
@@ -1613,6 +1635,28 @@
     },
     {
       "album": {
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+    },
+    {
+      "album": {
         "name": "da primeira vez (from the first time)",
         "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
       },
@@ -1708,7 +1752,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 143400,
       "name": "De Onde Eu Venho",
       "url": "https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou"
@@ -2006,6 +2050,24 @@
       "duration_ms": 156000,
       "name": "Desconectar",
       "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
+    },
+    {
+      "album": {
+        "name": "tudo eu, enfim",
+        "url": "https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "desculpa, qualquer coisa",
+      "url": "https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D"
     },
     {
       "album": {
@@ -2372,7 +2434,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 135555,
       "name": "Esperando C\u00ea Voltar",
       "url": "https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g"
@@ -2841,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Fez a Onda",
+        "url": "https://open.spotify.com/album/4BGxB5IuRAB2zdizcNWwbU"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155899,
+      "name": "Fez a Onda",
+      "url": "https://open.spotify.com/track/4vSzL8GxdWV26bVKYz8mNG"
+    },
+    {
+      "album": {
         "name": "Unilateral",
         "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
       },
@@ -3288,7 +3368,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 126588,
       "name": "GRA\u00c7AS A DEUS",
       "url": "https://open.spotify.com/track/6QCUaIe6e7Sovbk8Zd1Hez"
@@ -3790,7 +3870,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 177014,
       "name": "Mais Que Ontem",
       "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
@@ -5279,6 +5359,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Luana Berti",
+        "url": "https://open.spotify.com/album/0aBngiuQTX84LPbuqeJhAy"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "pele - ao vivo",
+      "url": "https://open.spotify.com/track/6Obz4fjPvcQJUyH2kqd3vS"
+    },
+    {
+      "album": {
         "name": "penhasco. (ac\u00fastico)",
         "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
       },
@@ -5337,6 +5435,24 @@
     },
     {
       "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+    },
+    {
+      "album": {
         "name": "Pois \u00c9",
         "url": "https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948"
       },
@@ -5374,6 +5490,28 @@
       "duration_ms": 177158,
       "name": "Ponto de Equil\u00edbrio",
       "url": "https://open.spotify.com/track/799toHvFfXKAwmnoZgKkKz"
+    },
+    {
+      "album": {
+        "name": "Ponto de Paz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6LXszhdEhWQpgLogCfR1z9"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Ponto De Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ocDnpT7chORH9eE1pPzG4"
     },
     {
       "album": {
@@ -5446,7 +5584,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 170216,
       "name": "Por um Segundo",
       "url": "https://open.spotify.com/track/6iRIlunvrMSQN3fmEuWUEr"
@@ -5900,7 +6038,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 161144,
       "name": "Resolvi Seguir",
       "url": "https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D"
@@ -6778,7 +6916,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 150036,
       "name": "Te dizer que sim.",
       "url": "https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4"
@@ -7186,7 +7324,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 181209,
       "name": "Tudo Certo",
       "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
@@ -7314,6 +7452,24 @@
       "duration_ms": 221106,
       "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
+    },
+    {
+      "album": {
+        "name": "T\u00e3o Cedo",
+        "url": "https://open.spotify.com/album/3TRx3qK9shSrMqn6TUpgDa"
+      },
+      "artists": [
+        {
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183222,
+      "name": "T\u00e3o Cedo",
+      "url": "https://open.spotify.com/track/1yAXltaINGRVf72BCeHcgH"
     },
     {
       "album": {
@@ -7448,7 +7604,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 178383,
       "name": "Vale Mais - Ao Vivo",
       "url": "https://open.spotify.com/track/2yrU2kVQPiGH8EjOABgwQa"
@@ -7626,7 +7782,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 156909,
       "name": "vida leve",
       "url": "https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK"
@@ -7740,6 +7896,24 @@
       "duration_ms": 220149,
       "name": "Voc\u00ea Aprendeu A Amar? (feat. Emicida)",
       "url": "https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/5nJW4qnTFw8kwQ6gxZ7gJg"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141130,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/1AIqRI9UanGxUFiMtBEALX"
     },
     {
       "album": {
@@ -7988,7 +8162,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 242726,
       "name": "\u00e1guas do futuro",
       "url": "https://open.spotify.com/track/3i5iN6Y6DDelK1icYPM6VW"

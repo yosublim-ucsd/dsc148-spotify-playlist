@@ -299,6 +299,64 @@
     },
     {
       "album": {
+        "name": "heartbeat-axelator",
+        "url": "https://open.spotify.com/album/0ud7dpZJPQoyZNHl2HBH2M"
+      },
+      "artists": [
+        {
+          "name": "\u76f8\u7fbd\u3042\u3044\u306a(Roselia \u6e4a\u53cb\u5e0c\u90a3\u5f79)",
+          "url": "https://open.spotify.com/artist/4Iaxh5EoK1QkPdR17tGDY7"
+        },
+        {
+          "name": "Aimi",
+          "url": "https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi"
+        },
+        {
+          "name": "\u96e8\u5bae\u5929",
+          "url": "https://open.spotify.com/artist/4KZzy4InZnRABJUN5Jtq7V"
+        },
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        },
+        {
+          "name": "\u68b6\u539f\u5cb3\u4eba(Paradox Live \u6731\u96c0\u91ce\u30a2\u30ec\u30f3\u5f79)",
+          "url": "https://open.spotify.com/artist/6ngKeeVr3JDuJiO5QBMBen"
+        },
+        {
+          "name": "Konomi Suzuki",
+          "url": "https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF"
+        },
+        {
+          "name": "TRUE",
+          "url": "https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te"
+        },
+        {
+          "name": "\u4e09\u68ee\u3059\u305a\u3053",
+          "url": "https://open.spotify.com/artist/29pz21zpLIOXyhABfDZjg2"
+        },
+        {
+          "name": "\u52c7-YOU-(SCREEN mode)",
+          "url": "https://open.spotify.com/artist/6sy95HiaIUp1nN8UIYuaqQ"
+        },
+        {
+          "name": "YOU-TA(MADKID)",
+          "url": "https://open.spotify.com/artist/6ogDkCIzvPi7KL0rR91zy2"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232990,
+      "name": "heartbeat-axelator",
+      "url": "https://open.spotify.com/track/5JLBKCO7dHAhpkZTem0yZz"
+    },
+    {
+      "album": {
         "name": "HUMAN",
         "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
       },
@@ -700,10 +758,28 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 234506,
       "name": "\u3055\u3088\u30ca\u30e9",
       "url": "https://open.spotify.com/track/0aLjwTbwYAQJnUkfuWo0Oi"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "\u306a\u3044\u306a\u3044",
+      "url": "https://open.spotify.com/track/3GsiCUipvdSCOSNVcHkJYl"
     },
     {
       "album": {
@@ -736,7 +812,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 254093,
       "name": "\u306a\u3044\u306a\u3044",
       "url": "https://open.spotify.com/track/2lD8rPegYoYC1WucU3vU1W"

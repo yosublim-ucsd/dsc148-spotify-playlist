@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-203 songs - 12 hr 23 min
+205 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [In Jesus Name \(God of Possible\) \(feat.Cheyenne Mitchell\)](https://open.spotify.com/track/4pTaWYq66mOLpjGkqTpjsF) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [In Jesus Name \(God of Possible\) \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/5ttyBlOTlDg70uUEVeW7tE) | 3:37 | 2022-08-05 |  |
 | [In Our Blood](https://open.spotify.com/track/05EmiiuuN5I7DBHVZNJs8S) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 2:53 | 2023-05-12 |  |
 | [In Our Blood](https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [In Our Blood](https://open.spotify.com/album/3b5D7JEovpIaebGbOdJTBX) | 2:53 | 2022-05-13 | 2023-05-13 |
+| [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 | 2023-08-25 |  |
 | [Jesus' Fault](https://open.spotify.com/track/0ds10Mj5flvO73afTrACqj) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [A Hundred Highways](https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi) | 3:34 | 2022-09-30 |  |
 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
 | [Just a Closer Walk with Thee](https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Just a Closer Walk with Thee](https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g) | 3:40 | 2022-01-28 |  |
@@ -180,6 +181,7 @@
 | [There Is A God](https://open.spotify.com/track/057ssHCqyYBRcQ6J860Kwi) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There Is A God](https://open.spotify.com/album/3KuhM2LBOgo9kFpOVKL1zp) | 4:14 | 2022-07-15 |  |
 | [There Is A God](https://open.spotify.com/track/1FiGiJRsw0HoVBhuNMCBRk) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Country Christian](https://open.spotify.com/album/37ShHKWlcPtV5j3F7tUrpP) | 4:14 | 2022-11-04 | 2022-11-13 |
 | [There Is a God](https://open.spotify.com/track/3SLY4MLhH8MkkZPAH4s00F) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Definitive Collection](https://open.spotify.com/album/05XWUOLckWAk8WqIWZ18IV) | 4:16 | 2021-12-10 | 2022-07-29 |
+| [There's Something About That Name](https://open.spotify.com/track/60Et9YXZlcVLLyotQn2lz3) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Award\-winning artists Honor The Songs of Bill & Gloria Gaither](https://open.spotify.com/album/23lcbZYmsYpjrlV8s93NRJ) | 4:20 | 2023-08-25 |  |
 | [Thought About You](https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Thought About You](https://open.spotify.com/album/0LPzkET4jAcOUbkrGagdI4) | 3:45 | 2021-12-10 | 2022-07-29 |
 | [Thought About You](https://open.spotify.com/track/5DAKp37tzpJEXfEAmx3k2N) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition / Big Machine Radio Release Special\)](https://open.spotify.com/album/5g5uono9ZO5JKfwb57WsMI) | 3:46 | 2022-11-04 | 2022-11-13 |
 | [Thought About You](https://open.spotify.com/track/6CWzNUUmNLpiBMyR5cMzJK) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition\)](https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53) | 3:46 | 2022-07-15 |  |

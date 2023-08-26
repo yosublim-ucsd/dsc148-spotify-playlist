@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain]
 
 > Save who you can save\. Listen to music from and inspired by The Last of Us, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,889 likes - 87 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,892 likes - 87 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain]
 | 7 | [The Dead Pool \- 2021 Remaster](https://open.spotify.com/track/0zxbHcfh7VHaXH3TYbK1nZ) | [Dan Forden](https://open.spotify.com/artist/650dcrtZlVexenaiXxgUU9) | [Mortal Kombat II \(Soundtrack from the Arcade Game\) \[2021 Remaster\]](https://open.spotify.com/album/1U6jxhrx8qG9rvt9n0St6V) | 1:43 |
 | 8 | [WDYLMA \- 2021 Remaster](https://open.spotify.com/track/7K6ckWHgxR2QNO9UkvO4LV) | [Dan Forden](https://open.spotify.com/artist/650dcrtZlVexenaiXxgUU9) | [Mortal Kombat II \(Soundtrack from the Arcade Game\) \[2021 Remaster\]](https://open.spotify.com/album/1U6jxhrx8qG9rvt9n0St6V) | 1:45 |
 | 9 | [Fuel to Fire](https://open.spotify.com/track/3fHDbOrSf2IQhLeKaShLS4) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine](https://open.spotify.com/album/011ifQyKbsMAWCUFDZiMaa) | 5:29 |
-| 10 | [Alone And Forsaken](https://open.spotify.com/track/61GEP8lryEfcuEgBMbRmNi) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Moanin' The Blues \(Expanded Edition\)](https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT) | 2:01 |
+| 10 | [Alone And Forsaken](https://open.spotify.com/track/61GEP8lryEfcuEgBMbRmNi) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [Moanin' The Blues \(Expanded Edition\)](https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT) | 2:01 |
 | 11 | [True Faith](https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 4:42 |
 | 12 | [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Silk Purse](https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G) | 4:23 |
 | 13 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UlFW6EJPs.md) - [plain]
 | 86 | [The Settlement](https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:50 |
 | 87 | [The Path](https://open.spotify.com/track/5pSsTNmq2WKFqa93HI2Ztb) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:40 |
 
-Snapshot ID: `MCwwNjY4ZmZhOGQxNjQ3OWJlNWQ2Yjg0M2ZjMmQ0NTM3OWU1YjNhZTUw`
+Snapshot ID: `MCxhNjA5OTRiMzUwMDYwNmVkYzgxYjFjMGEwYmVkN2RjYjI5M2JhOTRi`

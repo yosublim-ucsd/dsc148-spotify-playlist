@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Zach Bryan
 
-431 songs - 23 hr 39 min
+432 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2022-09-23 | 2023-06-16 |
 | [WE GREW UP ON](https://open.spotify.com/track/4L6WubWBzCxf385jtUQmvw) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WE GREW UP ON](https://open.spotify.com/album/7xhGdEgZj20XawnTHMhslo) | 3:16 | 2023-04-27 |  |
 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-05-18 |  |
+| [We Should Get Married](https://open.spotify.com/track/2syH39iwALerO994Pod9dB) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [We Should Get Married](https://open.spotify.com/album/5DqiJn6X0JGXhP3JMM9C3I) | 3:41 | 2023-08-24 |  |
 | [What Am I Gonna Do?](https://open.spotify.com/track/5endOqbem32xRK4t1CxJep) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [What Am I Gonna Do?](https://open.spotify.com/album/2mMUo8sqXZvnO8gPWAvJVo) | 2:46 | 2022-04-08 | 2022-04-29 |
 | [What Are You Waiting For](https://open.spotify.com/track/1kJQe436UBzEugo3TUQNdt) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Up, Down & Sideways](https://open.spotify.com/album/5wEvYYwZUu3PPFnGZZVDgJ) | 3:07 | 2023-06-29 |  |
 | [What Brought You Back](https://open.spotify.com/track/2PlynPDNTaI47Nrmnf57MJ) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What Brought You Back](https://open.spotify.com/album/1z4Seg1FD1MCZ8axRpQNw1) | 3:08 | 2022-04-07 | 2022-09-24 |

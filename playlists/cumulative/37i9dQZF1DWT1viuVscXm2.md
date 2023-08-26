@@ -2,7 +2,7 @@
 
 ### [Esto es Cumbia](https://open.spotify.com/playlist/37i9dQZF1DWT1viuVscXm2)
 
-> A bailar con la mejor cumbia sudamericana.
+> y de la buena!
 
 246 songs - 14 hr 21 min
 

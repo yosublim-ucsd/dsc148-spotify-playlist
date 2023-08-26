@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: Jafunk",
+  "description": "The best of today's funk. Cover: Nic Hanson",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 172160,
       "name": "CAN'T GO HOME",
       "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
@@ -1663,6 +1663,36 @@
     },
     {
       "album": {
+        "name": "Drip Feed",
+        "url": "https://open.spotify.com/album/7rrEsShvbbzukQD3TVn8cf"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Prince Street Bodega",
+          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181951,
+      "name": "Drip Feed",
+      "url": "https://open.spotify.com/track/5fhIrC32KM91BM9z4OVMnh"
+    },
+    {
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8"
       },
@@ -2088,7 +2118,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 193924,
       "name": "Found My Groove",
       "url": "https://open.spotify.com/track/0NAQlpeVEX2kbAf6YoDHCK"
@@ -2552,6 +2582,24 @@
       "duration_ms": 170322,
       "name": "Golden Limousine",
       "url": "https://open.spotify.com/track/2HpWy9P6ZXXWVOsJYMXKQ2"
+    },
+    {
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289514,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P"
     },
     {
       "album": {
@@ -4631,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "The Time",
+        "url": "https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS"
+      },
+      "artists": [
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "OKALRIGHTISEEYOU",
+      "url": "https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0"
+    },
+    {
+      "album": {
         "name": "Olive",
         "url": "https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV"
       },
@@ -4908,7 +4974,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 186000,
       "name": "Pipe Dream",
       "url": "https://open.spotify.com/track/2VvA02bUmNmZvxsexippXM"

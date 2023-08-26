@@ -4,7 +4,7 @@
 
 > Keeping the party going with Lemon Pepper Wet!
 
-773 songs - 1 day 21 hr 54 min
+774 songs - 1 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,7 +710,8 @@
 | [Unconditional](https://open.spotify.com/track/250MGnU6pKSOcH8asAXKRP) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 3:17 | 2023-04-28 | 2023-05-19 |
 | [Up & Up](https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:09 | 2023-08-02 | 2023-08-10 |
 | [urbody](https://open.spotify.com/track/7tQ1EtTNfs2whrcvH7bXYK) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [urbody](https://open.spotify.com/album/7svM0mTqJQ1Bw80YJyTwMj) | 3:12 | 2023-04-28 | 2023-05-19 |
-| [V\-Man](https://open.spotify.com/track/6o64xq1ndLtgRMvt0VbSWo) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Nonsense and Mexican Shit](https://open.spotify.com/album/2j40d67sGnewdNTU9OGmd7) | 2:00 | 2023-08-09 |  |
+| [V\-Man](https://open.spotify.com/track/6FV7NwOQRCdoELuURBl91S) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Nonsense and Mexican Shit](https://open.spotify.com/album/4l5Z2oaJUEERlxsUEOPo6C) | 2:00 | 2023-08-09 |  |
+| [V\-Man](https://open.spotify.com/track/6o64xq1ndLtgRMvt0VbSWo) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Nonsense and Mexican Shit](https://open.spotify.com/album/2j40d67sGnewdNTU9OGmd7) | 2:00 | 2023-08-09 | 2023-08-26 |
 | [Verbs](https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Verbs](https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT) | 3:33 | 2022-10-25 | 2022-12-02 |
 | [Vibes](https://open.spotify.com/track/1OLtTMzgq0BK7W02wO93t9) | [Nino Francis](https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr) | [Vibes](https://open.spotify.com/album/4zPsP5JCEnoIAXYjCHHgHA) | 2:59 | 2022-04-08 | 2022-09-03 |
 | [Vibes](https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Vibes](https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN) | 2:28 | 2023-07-18 | 2023-08-03 |

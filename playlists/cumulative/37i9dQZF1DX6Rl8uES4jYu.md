@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-395 songs - 22 hr 15 min
+396 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Better Without You](https://open.spotify.com/track/3WURRexuZzg92BEcAGtfdr) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 2:56 | 2023-06-23 |  |
 | [Black Heart \(feat\. The Dap\-Kings\)](https://open.spotify.com/track/5joZkgTCteYR5SWvSesUSQ) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80), [The Dap\-Kings](https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU) | [Black Heart \(feat\. The Dap\-Kings\)](https://open.spotify.com/album/1EctmhyIb6003mVg77wgUb) | 2:54 | 2020-11-13 | 2022-03-26 |
 | [Bluffin](https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Bluffin](https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5) | 2:39 | 2022-04-22 | 2023-01-06 |
+| [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 | 2023-08-25 |  |
 | [Borders](https://open.spotify.com/track/45HyHvHfun98p29Hp1MnCu) | [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [Borders](https://open.spotify.com/album/520lYAIaHuWlSomNcLkEXU) | 3:57 | 2020-11-13 | 2022-03-16 |
 | [Bravado](https://open.spotify.com/track/0r7hyq2nRub3Swcodfi3pR) | [Your Neighbors](https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP) | [Bravado](https://open.spotify.com/album/3laNAvwRxjkpj9yEtMtWtl) | 3:30 | 2020-11-13 | 2022-03-22 |
 | [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 | 2023-01-20 | 2023-02-18 |
@@ -304,7 +305,7 @@
 | [Somebody Like Me \(feat\. Brasstracks\)](https://open.spotify.com/track/0MiywregjNJedadEvRcVDU) | [Jak Lizard](https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Humphrey](https://open.spotify.com/album/0x6A6RLnaqf1L5YPmldoEF) | 3:08 | 2020-11-20 | 2022-03-26 |
 | [Someone's Gotta Do It](https://open.spotify.com/track/7JcvgejXVOux8USK59xL61) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Alex Slay](https://open.spotify.com/artist/3ln3LqQWM10v8nj3TC8G59) | [Good Soul](https://open.spotify.com/album/2bQ5Y3cltP19QjFBAb1rBT) | 3:10 | 2021-05-14 | 2022-06-22 |
 | [Something Good](https://open.spotify.com/track/7kqXN3NJIjdH844bUX1vK3) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Something Good](https://open.spotify.com/album/62imsEwlkILGoVjam21ZRx) | 4:46 | 2020-11-13 | 2022-03-15 |
-| [Something in the Water](https://open.spotify.com/track/0pzVdivOZdZdKOEbcbhkp3) | [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb), [Nina Ann Nelson](https://open.spotify.com/artist/3zaUrDI0cZRIHNUFysJB8O) | [Something in the Water](https://open.spotify.com/album/41qodzcgwcN8cCx45Kqduk) | 2:27 | 2022-07-15 |  |
+| [Something in the Water](https://open.spotify.com/track/0pzVdivOZdZdKOEbcbhkp3) | [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb), [Nina Ann Nelson](https://open.spotify.com/artist/3zaUrDI0cZRIHNUFysJB8O) | [Something in the Water](https://open.spotify.com/album/41qodzcgwcN8cCx45Kqduk) | 2:27 | 2022-07-15 | 2023-08-26 |
 | [Sounds of Violence](https://open.spotify.com/track/1bZTCOvByHuzAhGtrpKXrg) | [Pedro Bada](https://open.spotify.com/artist/4seY7DUW3uBhIw69cXMY5n), [Darius Christian](https://open.spotify.com/artist/66jXqW0BTJEH14cra11OtM) | [Sounds of Violence](https://open.spotify.com/album/77100RZQ6dklCMzPC1mSCt) | 3:22 | 2021-09-21 | 2022-05-04 |
 | [Space](https://open.spotify.com/track/0nFAyUvyui8s3dfnS0iYXW) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Space](https://open.spotify.com/album/7i14RoxOqIblA7JYw8leir) | 3:27 | 2021-09-21 | 2022-07-25 |
 | [Space and Time](https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Space and Time](https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n) | 3:32 | 2022-08-26 | 2023-08-19 |

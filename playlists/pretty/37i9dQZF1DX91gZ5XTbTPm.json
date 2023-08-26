@@ -1,44 +1,32 @@
 {
   "description": "The Midwest is always on time. Cover: Babyface Ray",
-  "num_followers": 111178,
+  "num_followers": 111216,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGJlNmM4ZWJmMzZjZTkzZGMxMGI2OGY4MWYzZDk1MDc3NWNmOTA2",
+  "snapshot_id": "MCw4M2EzMzBjZThmZDdmZGJmMTA4MjE0ZmI2MmVhYmE1MmVkODUzZTI5",
   "tracks": [
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "F*ck U Thought",
-        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+        "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4reWxTNsGDtkcwRFIBkKs9"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "F*ck U Thought",
-      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Barely Holdin' On",
-        "url": "https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA"
-      },
-      "artists": [
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
         }
       ],
-      "duration_ms": 173871,
-      "name": "Barely Holdin' On",
-      "url": "https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx"
+      "duration_ms": 216800,
+      "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -77,24 +65,40 @@
       "url": "https://open.spotify.com/track/79rneIpoGKwhqE1MSaw4Ls"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
-        "url": "https://open.spotify.com/album/4reWxTNsGDtkcwRFIBkKs9"
+        "name": "No Amiris",
+        "url": "https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
         },
         {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS"
+      "duration_ms": 146623,
+      "name": "No Amiris",
+      "url": "https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -149,6 +153,22 @@
       "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Barely Holdin' On",
+        "url": "https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "Barely Holdin' On",
+      "url": "https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "BEEZY",
@@ -175,6 +195,26 @@
       "duration_ms": 187880,
       "name": "TRY & SEE (feat. Future, G Herbo & Roddy Ricch)",
       "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Caturday",
+        "url": "https://open.spotify.com/album/3Fv9b8VejFy3EktLiQorku"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Caturday",
+      "url": "https://open.spotify.com/track/2vZLaJAbpGoCSI9sYoJq4c"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -211,26 +251,6 @@
       "duration_ms": 124806,
       "name": "2021 Vibes",
       "url": "https://open.spotify.com/track/6TJaoJX8VhptZ0DkcsjWaR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "A Love Letter To You 5",
-        "url": "https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "I'm Mad At Me (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/0OwUA3xLGpxgsBNQYVMno4"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -429,6 +449,22 @@
       "url": "https://open.spotify.com/track/1fpP0O41Ktl5e9IUft6EBd"
     },
     {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/1PxIYmT2QbHzkLe9FJMo1Y"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/0p2GhuTjC2j75hvOvqEaai"
+    },
+    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Grandson",
@@ -465,6 +501,38 @@
       "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
     },
     {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Rambo",
+        "url": "https://open.spotify.com/album/5f4G7z7WnhVKWhOgrHILG1"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 157991,
+      "name": "Rambo",
+      "url": "https://open.spotify.com/track/2bdgPhHgCu5fezngPfKCnG"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Reds Cap",
+        "url": "https://open.spotify.com/album/4gpCYZLKbKPhFF3IzJ5aap"
+      },
+      "artists": [
+        {
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
+        }
+      ],
+      "duration_ms": 81322,
+      "name": "Reds Cap",
+      "url": "https://open.spotify.com/track/4g6FYjv8CFM0nf1aWuZutn"
+    },
+    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Fresh",
@@ -485,24 +553,20 @@
       "url": "https://open.spotify.com/track/6AF1EXOhKE8VxOmyN995uG"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
+      "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "A Love Letter To You 5",
-        "url": "https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg"
+        "name": "Hot Outside",
+        "url": "https://open.spotify.com/album/6WqCOcQ4sG9QRvueHvJeKW"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
         }
       ],
-      "duration_ms": 168880,
-      "name": "Closed Doors (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13"
+      "duration_ms": 158096,
+      "name": "Hot Outside",
+      "url": "https://open.spotify.com/track/7gZpuXva0SqsOgkUEEwkbF"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -601,22 +665,6 @@
       "url": "https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "RESILIENCE",
-        "url": "https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        }
-      ],
-      "duration_ms": 173289,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Talkin Crazy",
@@ -703,22 +751,6 @@
       "duration_ms": 107329,
       "name": "BING BONG",
       "url": "https://open.spotify.com/track/0tqEPec1ZeHm0R2Vvn3AXz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Grocery Freestyle",
-        "url": "https://open.spotify.com/album/786kdQmaDyMSLBemNzzoDM"
-      },
-      "artists": [
-        {
-          "name": "Bfb Da Packman",
-          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
-        }
-      ],
-      "duration_ms": 181488,
-      "name": "Grocery Freestyle",
-      "url": "https://open.spotify.com/track/6POpagXwotnNvqBTjD7uez"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -861,30 +893,6 @@
       "url": "https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "BEEZY",
-        "url": "https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep"
-      },
-      "artists": [
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 162856,
-      "name": "PICK A SIDE (feat. EST Gee & Southside)",
-      "url": "https://open.spotify.com/track/7MaOwDy8D6jHWgs96XnSIk"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Robberies",
@@ -899,26 +907,6 @@
       "duration_ms": 128567,
       "name": "Robberies",
       "url": "https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Back Out (feat. Mello Buckzz)",
-        "url": "https://open.spotify.com/album/3HztLLSGRS1ixggz1hxPK9"
-      },
-      "artists": [
-        {
-          "name": "DCG BROTHERS",
-          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
-        },
-        {
-          "name": "Mello Buckzz",
-          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
-        }
-      ],
-      "duration_ms": 223803,
-      "name": "Back Out (feat. Mello Buckzz)",
-      "url": "https://open.spotify.com/track/2RACJkPEwQP3pp6OSotqwT"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -943,26 +931,6 @@
       "duration_ms": 189026,
       "name": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
       "url": "https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Had To Ask (feat. Babyface Ray)",
-        "url": "https://open.spotify.com/album/5pkRLJesMpChyAZd4iENYJ"
-      },
-      "artists": [
-        {
-          "name": "Baby Money",
-          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 156765,
-      "name": "Had To Ask (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/51swI5WeqofTGcTHXXmP5v"
     }
   ],
   "unique_name": "CST",

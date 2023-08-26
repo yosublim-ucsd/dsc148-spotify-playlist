@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 
 > Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,540 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,592 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 | 11 | [キミに100パーセント](https://open.spotify.com/track/3BPnFpAL02Bos8EoTLnO9R) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KPP BEST](https://open.spotify.com/album/5kyCkj26Vh8y8jne35hNR1) | 3:20 |
 | 12 | [友よ 〜 この先もずっと・・・](https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [KETSUNOPOLIS 10](https://open.spotify.com/album/3VTcoQOyIlYaxVI7gVg8uP) | 5:15 |
 | 13 | [ロードムービー](https://open.spotify.com/track/2Yzrge2w8tRF8dFhDaV8jZ) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [STARTING OVER](https://open.spotify.com/album/1eZeTTMA1g3cm79l0yYAwG) | 5:22 |
-| 14 | [笑一笑 \~シャオイーシャオ!\~](https://open.spotify.com/track/5MxjNwjjBW9PtYreT0bV2B) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [笑一笑 \~シャオイーシャオ!\~](https://open.spotify.com/album/6vseW0alPTH35JsSsY0CdQ) | 4:39 |
+| 14 | [笑一笑　～シャオイーシャオ！～](https://open.spotify.com/track/5MxjNwjjBW9PtYreT0bV2B) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [笑一笑 ～シャオイーシャオ!～](https://open.spotify.com/album/6vseW0alPTH35JsSsY0CdQ) | 4:39 |
 | 15 | [Kibou Sanmyaku](https://open.spotify.com/track/0aJO5l0R7fKJAbFFTrjz71) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [Kibou Sanmyaku \(Standard Edition\)](https://open.spotify.com/album/2h9Rqgto8Tx3Z68N9VApxv) | 3:55 |
 | 16 | [Ola!!](https://open.spotify.com/track/6FVJc3JnfLvtpEtQC9FuXX) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Towa](https://open.spotify.com/album/0SJZLC4rrnMg4YgdWvUK9J) | 3:27 |
 | 17 | [しんちゃん音頭～オラといっしょにおどろうよ！～](https://open.spotify.com/track/795IfuypNbgIGyiVLo3o62) | [Haruo Minami](https://open.spotify.com/artist/7sNPjkkxGTUvMWqrlgztni), [のはらしんのすけ](https://open.spotify.com/artist/6llUTHSSYBAyRZtZiwj0bm) | [～歌芸の軌跡～ザッツ・エンターテインメント三波春夫ワールド全曲集](https://open.spotify.com/album/4OerlhTt40VYginvxSClDZ) | 3:58 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 | 29 | [Cry Baby](https://open.spotify.com/track/2xYjRSPVcNyF40XIqQKB4e) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR) | [perfect seamo](https://open.spotify.com/album/245SebGanlsvp4qhnXgJY0) | 5:16 |
 | 30 | [オメデトウ](https://open.spotify.com/track/4Oc33k0BCjHdR3xoRodYMD) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimaballads](https://open.spotify.com/album/0ZaTSzme8kRUUokVJFfzQP) | 5:24 |
 
-Snapshot ID: `MCw1OWQxNGI4ZGQ3ZGNmYzY5ZTNlOGExNmE3NDY0Y2EwOTU3ZmJhYTU5`
+Snapshot ID: `MCw4YzZjODBiMmQ5MmYwOGRmYzEwMTFlNDYyZmExOGYyMjk1ZTRjYTNi`

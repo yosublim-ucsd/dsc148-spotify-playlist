@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 214360,
       "name": "Eh Oh Eh Oh",
       "url": "https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt"
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 183133,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
@@ -5920,6 +5920,24 @@
     {
       "album": {
         "name": "Secretos",
+        "url": "https://open.spotify.com/album/5dQcoap9DEvSOgvugHdEdz"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218201,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/6WKonUtXuMBPGmHyeEOMOj"
+    },
+    {
+      "album": {
+        "name": "Secretos",
         "url": "https://open.spotify.com/album/7x3fxxIu6PzxM58xPYMNYx"
       },
       "artists": [
@@ -8022,7 +8040,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 190493,
       "name": "\u00bfpor Que Te Demoras?",
       "url": "https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U"

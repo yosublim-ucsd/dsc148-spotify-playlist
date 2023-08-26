@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-445 songs - 17 hr 19 min
+446 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,8 @@
 | [Solution](https://open.spotify.com/track/2A2eYjmKioXlENYqs2rxB9) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Tender](https://open.spotify.com/album/5buYqNrXgQlcACaYQRwiRc) | 1:46 | 2021-11-11 | 2022-05-27 |
 | [Solution](https://open.spotify.com/track/59KFxZW9JsG5ZCImfl037l) | [slvmdunk](https://open.spotify.com/artist/6xWPNNIPMMeXMqzJ8o0T3w) | [Solution](https://open.spotify.com/album/0JeowS9xwEgfLOdORmWc5l) | 2:54 | 2021-11-11 |  |
 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 | 2022-04-08 | 2023-01-13 |
-| [Somewhere Else](https://open.spotify.com/track/1iZmhfieN8euwBRYq0V9aD) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Somewhere Else](https://open.spotify.com/album/0pwbJPrLHPGgeLuDAXhrvG) | 2:40 | 2023-04-11 |  |
+| [Somewhere Else](https://open.spotify.com/track/1iZmhfieN8euwBRYq0V9aD) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Somewhere Else](https://open.spotify.com/album/0pwbJPrLHPGgeLuDAXhrvG) | 2:40 | 2023-04-11 | 2023-08-26 |
+| [Somewhere Else](https://open.spotify.com/track/2AjbijtpXLNFWjrENuM771) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Tomorrow Never Knows](https://open.spotify.com/album/7t8gMgC2JPz0letGTpOJIW) | 2:40 | 2023-07-19 |  |
 | [Sorbets](https://open.spotify.com/track/0myyZ5la6POCla0TiQAlJI) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Reach Out](https://open.spotify.com/album/75Scz9V5C2kpPIWAQyJT26) | 2:00 | 2021-11-11 |  |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2021-11-11 | 2022-11-26 |
 | [spice age](https://open.spotify.com/track/12Wq2oMs3cC5X4kLib48AX) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [spice age](https://open.spotify.com/album/6H4pKjbmFUb0tvbvaTSJHr) | 1:59 | 2023-05-01 |  |

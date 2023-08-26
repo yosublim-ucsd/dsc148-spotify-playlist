@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 138079,
+  "num_followers": 138163,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWUxYTZhMDNlMmQ0MzZmMjJhNDRlMDhlYWNhZDQxYjIxYzAzOTI4",
+  "snapshot_id": "MCwxZjBkZGQ5OWM3MjljYjU0OWM4NmJlZWQwZWRlZTUwZGJhOTIzMWZj",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -130,10 +130,6 @@
         {
           "name": "Hank Williams",
           "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
       "duration_ms": 166160,
@@ -286,10 +282,6 @@
         {
           "name": "Hank Williams",
           "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
       "duration_ms": 165800,
@@ -711,6 +703,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/4d03FnqYbILX3cxRgmlsP3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Stars Of The Midnight Range",
+      "url": "https://open.spotify.com/track/4Cn1pNLAXRT9CQxctRYEMx"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -779,22 +787,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Country Classics Volume 2: Honky Tonk Heroes",
-        "url": "https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L"
-      },
-      "artists": [
-        {
-          "name": "Floyd Tillman",
-          "url": "https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "I Love You So Much It Hurts",
-      "url": "https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -811,18 +803,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+        "name": "Columbia Country Classics Volume 2: Honky Tonk Heroes",
+        "url": "https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L"
       },
       "artists": [
         {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+          "name": "Floyd Tillman",
+          "url": "https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Straighten Up And Fly Right",
-      "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
+      "duration_ms": 161933,
+      "name": "I Love You So Much It Hurts",
+      "url": "https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -839,6 +831,22 @@
       "duration_ms": 156373,
       "name": "New San Antonio Rose",
       "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Straighten Up And Fly Right",
+      "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -891,22 +899,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Presenting Patsy Montana",
-        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
-      },
-      "artists": [
-        {
-          "name": "Patsy Montana",
-          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "My Poncho Pony",
-      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Columbia Historic Edition",
         "url": "https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL"
       },
@@ -919,6 +911,22 @@
       "duration_ms": 157373,
       "name": "Cotton Eyed Joe - Single Version",
       "url": "https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Presenting Patsy Montana",
+        "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
+      },
+      "artists": [
+        {
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "My Poncho Pony",
+      "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1051,38 +1059,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Country and Western",
-        "url": "https://open.spotify.com/album/4d03FnqYbILX3cxRgmlsP3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Stars Of The Midnight Range",
-      "url": "https://open.spotify.com/track/4Cn1pNLAXRT9CQxctRYEMx"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "The Essential Bill Monroe",
-        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
-        }
-      ],
-      "duration_ms": 153960,
-      "name": "Rocky Road Blues",
-      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
         "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
       },
@@ -1163,6 +1139,22 @@
       "duration_ms": 173693,
       "name": "Cherokee Maiden",
       "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Essential Bill Monroe",
+        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "Rocky Road Blues",
+      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
     },
     {
       "added_at": "2023-01-02 21:50:32",

@@ -2,7 +2,7 @@
 
 ### [Made in Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> Representando la cultura con orgullo\. Representing with pride! En portada: Feid
+> ¡Con sabor y perrenque, aquí está lo mejor de "la tierra de los mil ritmos"! En portada: Feid
 
 232 songs - 13 hr 17 min
 

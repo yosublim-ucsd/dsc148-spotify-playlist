@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
@@ -2166,6 +2166,32 @@
       "duration_ms": 300245,
       "name": "Juntos - Laurence Guy Remix",
       "url": "https://open.spotify.com/track/4unE6fywqCDfsaacxxbGvi"
+    },
+    {
+      "album": {
+        "name": "Keloke",
+        "url": "https://open.spotify.com/album/35fOnNwB24F4S9a339bh6N"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Bla-De",
+          "url": "https://open.spotify.com/artist/1Xrr08n5RuyrzvLljE1HPa"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172857,
+      "name": "Keloke",
+      "url": "https://open.spotify.com/track/3yNYNsWY72kqDrVS3v8iB2"
     },
     {
       "album": {
@@ -3153,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "MONTE",
+        "url": "https://open.spotify.com/album/7FbQjXpnUM5ZlShOY0xHCt"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321951,
+      "name": "MONTE",
+      "url": "https://open.spotify.com/track/37PacxDrLWaHtYMPV8IYse"
+    },
+    {
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
       },
@@ -3712,7 +3760,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 144000,
       "name": "PALITO RICO - Muzik Junkies Remix",
       "url": "https://open.spotify.com/track/54F1QkYIOpLMtYbMSV0gzO"

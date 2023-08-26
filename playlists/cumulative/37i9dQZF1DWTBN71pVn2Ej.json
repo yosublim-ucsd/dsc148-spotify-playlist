@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "All I Ever Wanted Was A Chance To Know Myself (feat. Max Bemis)",
+        "url": "https://open.spotify.com/album/2T7GVxIF8HYpZ2cwUIlkeP"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        },
+        {
+          "name": "Max Bemis",
+          "url": "https://open.spotify.com/artist/2yX0YULtA4uv8x649DFekZ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223058,
+      "name": "All I Ever Wanted Was A Chance To Know Myself (feat. Max Bemis)",
+      "url": "https://open.spotify.com/track/3P80Qhd1KG6puSSY9va4de"
+    },
+    {
+      "album": {
         "name": "All of the Best",
         "url": "https://open.spotify.com/album/6QVraQbSZHo4S7XtEV6092"
       },
@@ -2946,7 +2968,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 223238,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
@@ -3238,6 +3260,24 @@
       "duration_ms": 389954,
       "name": "Hush",
       "url": "https://open.spotify.com/track/366FR61dXAk66bzHbYHPOw"
+    },
+    {
+      "album": {
+        "name": "Hyper Trophy",
+        "url": "https://open.spotify.com/album/0Pt5wGMaHSrmNSjzHVag6e"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Hyper Trophy",
+      "url": "https://open.spotify.com/track/3kHSUwpxqdXaKONV3ECNL8"
     },
     {
       "album": {
@@ -5475,6 +5515,24 @@
     },
     {
       "album": {
+        "name": "respawn.",
+        "url": "https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr"
+      },
+      "artists": [
+        {
+          "name": "LATE 90s",
+          "url": "https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175440,
+      "name": "respawn.",
+      "url": "https://open.spotify.com/track/6N54fTcYiQH3gSoFChO7NS"
+    },
+    {
+      "album": {
         "name": "RICH$$$",
         "url": "https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF"
       },
@@ -5684,7 +5742,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 152800,
       "name": "Say",
       "url": "https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq"
@@ -6946,7 +7004,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 189906,
       "name": "The World Don't Owe You Anything",
       "url": "https://open.spotify.com/track/0xx0gEmYnP3CAEGb7Ub1bY"

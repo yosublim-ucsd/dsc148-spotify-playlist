@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Protomartyr",
+  "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Be Your Own Pet",
   "name": "Noisy",
   "tracks": [
     {
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Away From The Castle",
+        "url": "https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg"
+      },
+      "artists": [
+        {
+          "name": "Video Age",
+          "url": "https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222908,
+      "name": "Away From The Castle",
+      "url": "https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz"
+    },
+    {
+      "album": {
         "name": "Waterslide, Diving Board, Ladder To The Sky",
         "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
       },
@@ -568,7 +586,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
@@ -648,6 +666,24 @@
       "duration_ms": 222799,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/6OcTLZb52RsycgPikBY4VV"
+    },
+    {
+      "album": {
+        "name": "Been Better",
+        "url": "https://open.spotify.com/album/1GyCWCRk6Gq06dQlPJ2J9E"
+      },
+      "artists": [
+        {
+          "name": "Coal Bed",
+          "url": "https://open.spotify.com/artist/2rEzca2bMYnIxSyQQRvT3D"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137863,
+      "name": "Been Better",
+      "url": "https://open.spotify.com/track/6Q959ampDmPu40NTGLC02p"
     },
     {
       "album": {
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 189917,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT"
@@ -2338,6 +2374,24 @@
       "duration_ms": 217136,
       "name": "Elimination Dances",
       "url": "https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl"
+    },
+    {
+      "album": {
+        "name": "Elvis In The Army",
+        "url": "https://open.spotify.com/album/1rr5phIBPE801sqSKjyRzv"
+      },
+      "artists": [
+        {
+          "name": "A. Savage",
+          "url": "https://open.spotify.com/artist/1MK90Dn9tMbk16g2Vb2NQp"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217342,
+      "name": "Elvis In The Army",
+      "url": "https://open.spotify.com/track/1nsKgm05eIOz71wYP2sLTN"
     },
     {
       "album": {
@@ -4695,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "King of the Slugs",
+        "url": "https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425363,
+      "name": "King of the Slugs",
+      "url": "https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs"
+    },
+    {
+      "album": {
         "name": "We're Not Here to Be Loved",
         "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
       },
@@ -4926,6 +4998,24 @@
       "duration_ms": 207065,
       "name": "Let's Go Home",
       "url": "https://open.spotify.com/track/35QZ6puf9YLNQIEpKUQ8Ay"
+    },
+    {
+      "album": {
+        "name": "Liar 2",
+        "url": "https://open.spotify.com/album/2dcQdji8n4WXzHtJRiAVBi"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180661,
+      "name": "Liar 2",
+      "url": "https://open.spotify.com/track/2tLHtwoJDqprcDpy0yi1T9"
     },
     {
       "album": {
@@ -5819,6 +5909,24 @@
     },
     {
       "album": {
+        "name": "My Risks Is Art",
+        "url": "https://open.spotify.com/album/1KSf9SFRG6FRC13jU81a2l"
+      },
+      "artists": [
+        {
+          "name": "The Native Cats",
+          "url": "https://open.spotify.com/artist/47wmOuObU5RGLiiCpsnAS4"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122893,
+      "name": "My Risks Is Art",
+      "url": "https://open.spotify.com/track/6Fa62BQxCQdJUI7kbPrihp"
+    },
+    {
+      "album": {
         "name": "My Town (feat. Joe Talbot)",
         "url": "https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy"
       },
@@ -6382,7 +6490,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 123205,
       "name": "Phone Lines Down",
       "url": "https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi"
@@ -6869,6 +6977,24 @@
     },
     {
       "album": {
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/1p0dP1j8dIPv25UWwdr204"
+      },
+      "artists": [
+        {
+          "name": "THUS LOVE",
+          "url": "https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331543,
+      "name": "Repetitioner",
+      "url": "https://open.spotify.com/track/2h5zji6AoEPjSdHYgsIbJy"
+    },
+    {
+      "album": {
         "name": "Resolution/Revolution",
         "url": "https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m"
       },
@@ -6884,6 +7010,24 @@
       "duration_ms": 202992,
       "name": "Resolution/Revolution",
       "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
+    },
+    {
+      "album": {
+        "name": "Natural Habitat",
+        "url": "https://open.spotify.com/album/2JawSHh0PDTVl4n3DL9sPd"
+      },
+      "artists": [
+        {
+          "name": "Treeboy & Arc",
+          "url": "https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239760,
+      "name": "Retirement",
+      "url": "https://open.spotify.com/track/4k82pg7c4hrUctk1RX1cqg"
     },
     {
       "album": {
@@ -7679,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "Space Jam",
+        "url": "https://open.spotify.com/album/6M17HNFNTvOuEJYIrjvoBe"
+      },
+      "artists": [
+        {
+          "name": "Angel Du$t",
+          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98479,
+      "name": "Space Jam",
+      "url": "https://open.spotify.com/track/136Q0eeThQ5XXdZugchB1S"
+    },
+    {
+      "album": {
         "name": "Household Name",
         "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
@@ -7762,7 +7924,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 206983,
       "name": "Sport of Form",
       "url": "https://open.spotify.com/track/60snAG6V1EmDgbHB7x5ROy"
@@ -8039,6 +8201,24 @@
     },
     {
       "album": {
+        "name": "Talkin' On The Internet",
+        "url": "https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "Talkin' On The Internet",
+      "url": "https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd"
+    },
+    {
+      "album": {
         "name": "Tears Are Falling",
         "url": "https://open.spotify.com/album/1Jy6QtG48t50gXKbxu3tcn"
       },
@@ -8104,7 +8284,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 220266,
       "name": "Tele",
       "url": "https://open.spotify.com/track/6w46w4PvpP9JJfdFMswV8P"
@@ -9078,7 +9258,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 193245,
       "name": "Very Aggressive",
       "url": "https://open.spotify.com/track/3S3ijQLue7Z5gbw1Jr9e8D"
@@ -9312,7 +9492,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 182719,
       "name": "What You Did",
       "url": "https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1"
@@ -9420,10 +9600,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 181540,
       "name": "Worship The Whip",
       "url": "https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ"
+    },
+    {
+      "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181540,
+      "name": "Worship The Whip",
+      "url": "https://open.spotify.com/track/1Lt1SJdkdFOHqwxkEIGJan"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > HIPHOP 50!
 
-1,179 songs - 2 day 4 hr 8 min
+1,180 songs - 2 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,6 +1069,7 @@
 | [Trapper Of The Year \(Intro\)](https://open.spotify.com/track/7zxphfIdUMOfZOAVpKFlld) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Trapper Of The Year \(Intro\)](https://open.spotify.com/album/65DP4VYecvLUlUVfCsXPLF) | 1:50 | 2021-12-16 | 2022-03-18 |
 | [Trapstar](https://open.spotify.com/track/65EbLNXHsdqXbMN8PR7AnC) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [Trapstar](https://open.spotify.com/album/38cssEJR7TZKy0bNaMfZj8) | 2:45 | 2023-01-27 | 2023-04-21 |
 | [Trasigt glas](https://open.spotify.com/track/4eFQPNLcX2Gjf9CQKTyPVA) | [Jeaff](https://open.spotify.com/artist/04OtPVhopqSHGWhzy5O5bE) | [Trasigt glas](https://open.spotify.com/album/3hEjLk2Vd6fH7jWpz0zBVj) | 3:04 | 2022-07-14 | 2022-08-05 |
+| [TRAUMA PARANOIA](https://open.spotify.com/track/4aBdVP0kcEedFO9C4OjwuM) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TRAUMA PARANOIA](https://open.spotify.com/album/4oOuea5rMrdRVfcLzqC0Nt) | 2:33 | 2023-08-25 |  |
 | [Trenches](https://open.spotify.com/track/6GIPblmWy8KKRD8BQQKWKA) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [NEW DRILLA IN TOWN](https://open.spotify.com/album/5DCR0bCZzBrvP9vWSuoCr3) | 3:02 | 2021-12-16 | 2022-01-07 |
 | [TRODDE](https://open.spotify.com/track/43woH2R02ENlYh5mPEoB15) | [Ariano](https://open.spotify.com/artist/0Ev9Z7t7CObnDJKLHz8Bqn), [Gogge B](https://open.spotify.com/artist/7nwAfxcTz13PR6B2GqWckp) | [TRODDE](https://open.spotify.com/album/0MgnD1Ubre0qjDiwbA81og) | 2:51 | 2022-09-22 | 2022-10-14 |
 | [TRYCKA AV](https://open.spotify.com/track/4QtKYs6PFoueIfkf0J6PJY) | [Kev1n](https://open.spotify.com/artist/1IyxRn0N23zPoQNCp2Keap) | [TRYCKA AV](https://open.spotify.com/album/4ugkgsFa5SMebEFI7x2paf) | 2:24 | 2022-03-24 | 2022-04-15 |

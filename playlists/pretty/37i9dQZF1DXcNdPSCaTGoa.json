@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 40404,
+  "num_followers": 40477,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjhhNjRhZGRkOWVmNWQzMjY0NDI5MjdiNzQ3NDU2YzQ2YjQyOWZl",
+  "snapshot_id": "MCwwZWVhOWQwNmZiZmE5ZGY5MGE0ZmY3NzQ4MjFjNTk5MzI5ODk3ZGQ3",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Just Wanna Live My Life",
+        "url": "https://open.spotify.com/album/19kTXMajfFWCAwp86oImin"
+      },
+      "artists": [
+        {
+          "name": "Winnie Khumalo",
+          "url": "https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o"
+        }
+      ],
+      "duration_ms": 317200,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/2WyxVcnJ1BcG5Lu2nrBQ8F"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "Evo Mix",
         "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 263293,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
-        "name": "Just Wanna Live My Life",
-        "url": "https://open.spotify.com/album/19kTXMajfFWCAwp86oImin"
-      },
-      "artists": [
-        {
-          "name": "Winnie Khumalo",
-          "url": "https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o"
-        }
-      ],
-      "duration_ms": 317200,
-      "name": "Live My Life",
-      "url": "https://open.spotify.com/track/2WyxVcnJ1BcG5Lu2nrBQ8F"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "House Player",
-        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
-      },
-      "artists": [
-        {
-          "name": "DJ Mbuso",
-          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
-        }
-      ],
-      "duration_ms": 370906,
-      "name": "Mbuso's Revenge",
-      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Bongolution",
         "url": "https://open.spotify.com/album/5RzCqPIuJuK0L9v7J1WdVl"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Ndawo Yami",
-        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
+        "name": "House Player",
+        "url": "https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6"
       },
       "artists": [
         {
-          "name": "Zamajobe",
-          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
+          "name": "DJ Mbuso",
+          "url": "https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3"
         }
       ],
-      "duration_ms": 287560,
-      "name": "Ndawo Yami",
-      "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
+      "duration_ms": 370906,
+      "name": "Mbuso's Revenge",
+      "url": "https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -995,6 +979,22 @@
       "duration_ms": 389959,
       "name": "Umlilo",
       "url": "https://open.spotify.com/track/5kA6K9yPB5pxbAufXKU5VV"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Ndawo Yami",
+        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
+      },
+      "artists": [
+        {
+          "name": "Zamajobe",
+          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
+        }
+      ],
+      "duration_ms": 287560,
+      "name": "Ndawo Yami",
+      "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Y U 4 Me",
-        "url": "https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7"
+        "name": "Kalawa Jazmee Classics: Bongo Maffin",
+        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
       },
       "artists": [
         {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
         }
       ],
-      "duration_ms": 451466,
-      "name": "Y U 4 Me",
-      "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
+      "duration_ms": 320240,
+      "name": "Thathi Sgubu",
+      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
     }
   ],
   "unique_name": "SA Gold",

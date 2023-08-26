@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: Kendrick Lamar
+> The tracks you just keep pulling up\. Cover: Lil Durk
 
 685 songs - 1 day 11 hr 15 min
 

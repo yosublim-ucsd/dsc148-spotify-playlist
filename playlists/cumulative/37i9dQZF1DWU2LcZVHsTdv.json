@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Jesus in a Bar",
+        "url": "https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN"
+      },
+      "artists": [
+        {
+          "name": "Grace Tyler",
+          "url": "https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238815,
+      "name": "Jesus in a Bar",
+      "url": "https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk"
+    },
+    {
+      "album": {
         "name": "A Hundred Highways",
         "url": "https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi"
       },
@@ -3322,6 +3340,28 @@
       "duration_ms": 256906,
       "name": "There Is a God",
       "url": "https://open.spotify.com/track/3SLY4MLhH8MkkZPAH4s00F"
+    },
+    {
+      "album": {
+        "name": "Award-winning artists Honor The Songs of Bill & Gloria Gaither",
+        "url": "https://open.spotify.com/album/23lcbZYmsYpjrlV8s93NRJ"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260196,
+      "name": "There's Something About That Name",
+      "url": "https://open.spotify.com/track/60Et9YXZlcVLLyotQn2lz3"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [emo right now](https://open.spotify.com/playlist/37i9dQZF1DX5KAyJZfh4Qa)
 
-> it's just one of those days with Home Is Where.
+> it's just one of those days with Spanish Love Songs.
 
-132 songs - 7 hr 16 min
+137 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2022](https://open.spotify.com/track/2QDJ3z3tndtFJJo9nJ2lcB) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Past Lives](https://open.spotify.com/album/40py8Fn35TC6GnszSKccjZ) | 4:30 | 2022-11-25 | 2023-04-04 |
 | [7AM](https://open.spotify.com/track/3X2dZ76DtGta0pukBGzUxd) | [CURB](https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V) | [Hope You're Doing Well, Michaela](https://open.spotify.com/album/79xK4wzVxVFRDZi5ohUZQO) | 3:06 | 2022-11-25 |  |
 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 | 2023-08-21 |  |
-| [Arm's Length](https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 4:18 | 2022-11-25 |  |
+| [Arm's Length](https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 4:18 | 2022-11-25 | 2023-08-26 |
 | [Bad Feeling](https://open.spotify.com/track/0BJNlz7pjV3dQd45kg7f71) | [Shallowdiver](https://open.spotify.com/artist/1nNb90iGRqEXUzloJlJZ7z) | [Bad Feeling](https://open.spotify.com/album/0cly03wDPER5OsILwogxAQ) | 3:43 | 2023-02-11 | 2023-06-17 |
 | [Barely](https://open.spotify.com/track/0jHXUaYjDylMafkZskw6Rm) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/2vbyKCjxxPaiGMDWGXe3IF) | 2:17 | 2023-05-19 |  |
 | [Black Earth, WI](https://open.spotify.com/track/5WJPG2pNcg1oDMbtxl5ysR) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Black Earth, WI](https://open.spotify.com/album/2ouMdMNouSbVpzDbE3SNjW) | 8:34 | 2023-03-17 | 2023-05-01 |
@@ -21,7 +21,7 @@
 | [Blood](https://open.spotify.com/track/6vAvj6cLEUFOIJQgTfJz5u) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/1SmAUgSjmVihnEuTZoALSO) | 2:19 | 2022-11-25 | 2023-04-29 |
 | [Blood for the Blood God](https://open.spotify.com/track/5ykzMyjf4Mfi45iy5pyTAG) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [I’m Scared That’s All There Is](https://open.spotify.com/album/6qvYtT5gSuBLAGLdoSPmb3) | 3:31 | 2022-11-25 |  |
 | [Burt Reynolds, Burnt Candles](https://open.spotify.com/track/3aI5gBXahNlCOJsFmTKE1R) | [Plainclothes](https://open.spotify.com/artist/313z2zL8t1mV5ohmAW7j5M) | [Dog Logic](https://open.spotify.com/album/7I9yqOPKYHqfYmIVIvXZIa) | 2:12 | 2022-12-20 |  |
-| [cadence](https://open.spotify.com/track/4KXgaRo9FlOOkmQ5TD5A5h) | [Flight Patterns](https://open.spotify.com/artist/4fIqhR5AalmEBaUDNmGhb9) | [cadence](https://open.spotify.com/album/5W3HQVjsF1UCmsaehz5eiX) | 2:12 | 2022-11-25 |  |
+| [cadence](https://open.spotify.com/track/4KXgaRo9FlOOkmQ5TD5A5h) | [Flight Patterns](https://open.spotify.com/artist/4fIqhR5AalmEBaUDNmGhb9) | [cadence](https://open.spotify.com/album/5W3HQVjsF1UCmsaehz5eiX) | 2:12 | 2022-11-25 | 2023-08-26 |
 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 | 2022-11-25 |  |
 | [Call From You](https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Little Green House](https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj) | 3:01 | 2022-12-20 |  |
 | [Callin Me](https://open.spotify.com/track/1u6DEiPt9CI214nVfF09Uu) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 2:52 | 2022-11-25 | 2022-12-02 |
@@ -55,10 +55,11 @@
 | [Greetings](https://open.spotify.com/track/7u5yayMCOSG6n4XsBoAsMc) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/2vbyKCjxxPaiGMDWGXe3IF) | 2:14 | 2023-04-14 |  |
 | [Hangover Game](https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 2:16 | 2022-11-25 | 2023-04-30 |
 | [Hangover Game](https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 2:16 | 2023-04-14 | 2023-05-20 |
-| [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 | 2023-05-19 |  |
+| [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 | 2023-05-19 | 2023-08-26 |
 | [Headrush](https://open.spotify.com/track/1Zh96LVaAF6rHKCMVtWm1z) | [Unturned](https://open.spotify.com/artist/2bT1gJ4qahYAMFmaoFV7Nj) | [Sunk](https://open.spotify.com/album/7uNDF4pj1USgZTDTazd0j9) | 2:42 | 2022-11-25 | 2023-08-09 |
 | [Heck](https://open.spotify.com/track/7q7vCKmFmGLhhPmFo3DNpw) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/0d5AkUvivi6Y6Vyv8OYjZO) | 1:58 | 2022-11-25 | 2023-03-11 |
 | [Hollow](https://open.spotify.com/track/2UUw0f57ZMg6cYYkVrPvzr) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Hollow](https://open.spotify.com/album/2UlJQbQVnrqFNGtcO6ZLbw) | 4:10 | 2022-11-25 |  |
+| [I Can Feel Every Cut](https://open.spotify.com/track/7o7asYZdFBfprsWVdw9LOz) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [I Can Feel Every Cut](https://open.spotify.com/album/2t6Fuj0C8sORHsRAnqxLDG) | 3:38 | 2023-08-25 |  |
 | [I found a date for the holidays \(maybe\)](https://open.spotify.com/track/43KBew1XbpDRXTgZweVAoH) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [I found a date for the holidays \(maybe\)](https://open.spotify.com/album/5BT2nAqcagyoRFooZnr46L) | 2:42 | 2022-11-25 | 2023-03-18 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2022-11-25 |  |
 | [I Only Do Pushups When I'm Drunk \(Drinking Lonely\)](https://open.spotify.com/track/1BbHS0dJwAbMnAr8v1vRBN) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [I Only Do Pushups When I'm Drunk \(Drinking Lonely\)](https://open.spotify.com/album/0NpXwbOkxsnzVkRFuegkBU) | 3:44 | 2023-01-05 |  |
@@ -74,6 +75,7 @@
 | [King Bee](https://open.spotify.com/track/7zIHAwiZvJZIQQ3AKximtT) | [Prairie Fire](https://open.spotify.com/artist/5LiZglQ0vLYvvEqa7oCXfd) | [King Bee](https://open.spotify.com/album/2Jo9Gu7tQloGevEX8NhGmL) | 2:43 | 2023-05-19 |  |
 | [Kiss the Ladder](https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:17 | 2022-11-25 |  |
 | [Lefty](https://open.spotify.com/track/7sjrz7oVPOncAQib1yjMrd) | [Seahaven](https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np) | [Lefty](https://open.spotify.com/album/48kSmY1m45ylHWli72bgdQ) | 3:33 | 2023-06-16 |  |
+| [Lifers](https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [No Joy](https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP) | 3:34 | 2023-08-25 |  |
 | [live from the ufo](https://open.spotify.com/track/4LYWWt5bpBdTj0e29Wsctx) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [re: turn](https://open.spotify.com/album/1iA09V577wlsPIUfhj8RN0) | 2:30 | 2022-11-25 |  |
 | [Long Distance Conjoined Twins](https://open.spotify.com/track/3R4hAu10uPzLS3NUsFlRoj) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [I Became Birds](https://open.spotify.com/album/7thkO48qqydnsDj7vSw4mX) | 3:27 | 2022-11-25 | 2023-08-02 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-19 | 2023-08-02 |
@@ -82,9 +84,11 @@
 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 | 2022-11-25 |  |
 | [Meeting In the Middle](https://open.spotify.com/track/1vxzfaU2E9ohOVQVvCKenF) | [Double Gainer](https://open.spotify.com/artist/0hHsbAgpJ0aBndZX3oVrCh) | [Such is Life](https://open.spotify.com/album/2BHVEv8oWTNCMTAwfp8Lm9) | 2:44 | 2022-11-25 | 2023-08-09 |
 | [Million Times](https://open.spotify.com/track/6UoLnwakyaivbENQWHU7rW) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG) | 2:45 | 2023-02-11 | 2023-07-27 |
-| [Mirage](https://open.spotify.com/track/46D6miQ2fYY0gaHhPEQVdH) | [With the Punches](https://open.spotify.com/artist/4USpQ4wWk8VrkCzQiSNb3u) | [Discontent](https://open.spotify.com/album/1sH3LVK2KommQFjz2svtE4) | 3:38 | 2022-11-25 |  |
+| [Mirage](https://open.spotify.com/track/46D6miQ2fYY0gaHhPEQVdH) | [With the Punches](https://open.spotify.com/artist/4USpQ4wWk8VrkCzQiSNb3u) | [Discontent](https://open.spotify.com/album/1sH3LVK2KommQFjz2svtE4) | 3:38 | 2022-11-25 | 2023-08-26 |
 | [Mulholland Dr.](https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:01 | 2022-11-25 |  |
-| [Nobody Said](https://open.spotify.com/track/1TV2LRINKshQDOJnDIR2Sa) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Nobody Said](https://open.spotify.com/album/1LEtw9ajPrpReLEEao1KqP) | 3:43 | 2022-11-25 |  |
+| [My Anchor](https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [My Anchor](https://open.spotify.com/album/4eysI52E7L77BPEtpI9Jxi) | 2:44 | 2023-08-25 |  |
+| [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 | 2023-08-25 |  |
+| [Nobody Said](https://open.spotify.com/track/1TV2LRINKshQDOJnDIR2Sa) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Nobody Said](https://open.spotify.com/album/1LEtw9ajPrpReLEEao1KqP) | 3:43 | 2022-11-25 | 2023-08-26 |
 | [not a christmas carol](https://open.spotify.com/track/4PhwBqyQ825gi1qfQKY3yN) | [Dear Me](https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS) | [not a christmas carol](https://open.spotify.com/album/39FakGbdymf5l7cOg9639P) | 1:12 | 2022-12-20 | 2023-04-15 |
 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 | 2023-02-11 |  |
 | [Numb](https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:54 | 2023-05-19 | 2023-07-27 |
@@ -129,6 +133,7 @@
 | [Tommy's Car](https://open.spotify.com/track/5uDuc1fGIpT8I8tCOu8WS4) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [For Nasal Use Only](https://open.spotify.com/album/3mPS4bR33MhYjjYnGxK48o) | 3:23 | 2022-11-25 | 2023-04-04 |
 | [Totally Cool](https://open.spotify.com/track/3SftY180mtXw6xQmAcmdU7) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Constant Springtime](https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb) | 2:39 | 2023-05-19 |  |
 | [Two Beers In](https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Those Days Are Gone](https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K) | 2:15 | 2022-11-25 |  |
+| [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 | 2023-08-25 |  |
 | [Walk Over My Grave](https://open.spotify.com/track/4sK75yxCOj0K5NMijKgZCa) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [is this what i look like?](https://open.spotify.com/album/4u11pDt06OqbpvUoauvrSH) | 3:19 | 2022-11-25 |  |
 | [Wednesday, Forever???](https://open.spotify.com/track/1tQ6SShGUGtdj6dVh1jAiW) | [Fox Teeth](https://open.spotify.com/artist/76VMGsrr08CYw4BD3Vl4He) | [Wednesday, Forever???](https://open.spotify.com/album/0F1sRZIASVPx7RCXJHdZGS) | 3:15 | 2023-03-02 |  |
 | [What I'm Feeling](https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:02 | 2022-11-25 |  |

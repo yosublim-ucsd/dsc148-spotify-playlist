@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WFMdfNdpBt.md) - [plain]
 
 > Synonymous with Bass Music, <a href="spotify:artist:76M2Ekj8bG8W7X2nbx2CpF">NGHTMRE</a>, will get you feeling like it's festival season in this exclusive mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635 likes - 30 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,637 likes - 30 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WFMdfNdpBt.md) - [plain]
 | 29 | [Another Dose \- Mixed](https://open.spotify.com/track/1WwCqDwpeqJAdiIqDDlwwZ) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Another Dose \(Mixed\)](https://open.spotify.com/album/6Q6n451AfXHwwjMuHvLxTj) | 2:46 |
 | 30 | [Outro \- Mixed](https://open.spotify.com/track/5Td1RmPmRMCyp7Vm2CFjiM) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Outro \(Mixed\)](https://open.spotify.com/album/250MVUbBeLQXjqslu1HzDF) | 0:46 |
 
-Snapshot ID: `MCwyOWU4NjUxYjczODE0YzE4NWQ4YWZhZjI4Mjk5ZThlZmMxOGJiZjAz`
+Snapshot ID: `MCw3OTg1NzM3Zjk2MzYyNzE3NTZjMWMyMjhkMjQxNzc1YTBiYmM0ZDI3`

@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-197 songs - 13 hr 11 min
+198 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 | 2023-01-13 | 2023-06-04 |
 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 | 2020-10-20 | 2023-03-04 |
 | [HP2\-TGP \(I.D.N.C.G.2.D\)](https://open.spotify.com/track/6ouS8C8HiS1KLepNmIHWGX) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [HOLLOW POINT](https://open.spotify.com/album/5jyegl401HqGWNCXbVChqF) | 5:22 | 2022-08-31 | 2023-04-01 |
+| [I Dream](https://open.spotify.com/track/7s0hSLYHlHpHOOVe9z1MQk) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [The Lost Tapes EP](https://open.spotify.com/album/2aKK6YKpfkJ9JeLhVU0OX8) | 2:57 | 2023-08-25 |  |
 | [I Need You Right Now](https://open.spotify.com/track/2cTRPYsaUO8pwEfSGilPYt) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [Gemstore](https://open.spotify.com/album/0PgCvPIPHv9zq64d7Lv8BB) | 4:07 | 2021-06-23 | 2023-04-01 |
 | [I Need You Right Now](https://open.spotify.com/track/2x2ENNopXFR7unXK9eaeVs) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/3IMOeDHJcqQWabjem2xF6c) | 4:07 | 2021-06-23 | 2022-11-14 |
 | [I Need You Right Now](https://open.spotify.com/track/4Mso4ICacStqBvbyEqKXvB) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/38yTFu2TPj6SgCx4rItkgk) | 4:07 | 2021-06-23 | 2022-10-15 |
@@ -122,7 +123,7 @@
 | [One at a Time](https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN) | [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [One at a Time](https://open.spotify.com/album/5r6M5AjhnsRtmbSGbr1pVv) | 3:02 | 2023-02-15 | 2023-04-01 |
 | [Oracles](https://open.spotify.com/track/3RPWEhdvyH1CXphkYti8wc) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Oracles](https://open.spotify.com/album/7q9ambvRrxK3Cem9IvcD7s) | 6:50 | 2022-09-07 | 2023-02-25 |
 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 | 2022-09-07 | 2023-06-16 |
-| [Otro](https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt) | [todo hombre es ruido](https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e), [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Bucephalus](https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv) | [Otro](https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D) | 4:39 | 2021-06-23 |  |
+| [Otro](https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt) | [todo hombre es ruido](https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e), [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Bucephalus](https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv) | [Otro](https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D) | 4:39 | 2021-06-23 | 2023-08-26 |
 | [PAPER BOYFRIEND](https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:03 | 2020-10-20 | 2023-03-03 |
 | [Penance](https://open.spotify.com/track/5KhXlSbrNF3MgP4SkzgDL7) | [Cruel Diagonals](https://open.spotify.com/artist/0C7jgMYmKXPmy5bHH5ebEN) | [Fractured Whole](https://open.spotify.com/album/4LLeRNBrcuwxj6QrhMmQ0K) | 5:22 | 2023-03-28 | 2023-04-01 |
 | [Pillar](https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg) | 9:45 | 2020-10-20 | 2023-04-01 |

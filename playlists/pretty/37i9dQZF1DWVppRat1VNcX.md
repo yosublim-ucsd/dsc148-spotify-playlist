@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVppRat1VNcX.md) - [plain]
 
 > Get all your kids' amigos together and play while listening to these awesome tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVppRat1VNcX.md) - [plain]
 | 32 | [If You're Happy and You Know It](https://open.spotify.com/track/1CoEBzmNnIJlNRrgcGZ1Lz) | [Big Don](https://open.spotify.com/artist/5CgfMNQljRnqHeS8EZ54JT) | [Big Don's Brand New Beat](https://open.spotify.com/album/3p6hybEOJ67tTbLYUd2i2v) | 3:05 |
 | 33 | [Me Muevo para Aquí](https://open.spotify.com/track/4HnfVgHmTZ7kzOdZMY0FIt) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:48 |
 | 34 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/6cdB3WnyuoVMSwyYKjJ7Zv) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Oomba Baroomba](https://open.spotify.com/album/7a4xANzGTlMxczJljG5AgL) | 0:51 |
-| 35 | [Peanut Butter Jelly Time](https://open.spotify.com/track/2dpWOvcTJUgocLyAV6qlzR) | [Angry Children](https://open.spotify.com/artist/0HhTjvbn0dkzcacqavJrBM) | [Memes 103](https://open.spotify.com/album/5SMkm5d2NJrl5SZgPvOd57) | 2:41 |
+| 35 | [Peanut Butter Jelly Time \- Radio](https://open.spotify.com/track/7rv2yO4NDw1xaucLooqdqm) | [Chip\-man & The Buckwheat Boyz](https://open.spotify.com/artist/4pBnYIwZmCVw36kT19KUGd) | [Peanut Butter Jelly Time](https://open.spotify.com/album/1eCj8LkuZORSMMQJIIszDy) | 3:36 |
 | 36 | [Qué bueno que somos hermanos \- De Morko y Mali](https://open.spotify.com/track/02huQvtKnF4JTweKygI8vA) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 3:04 |
 | 37 | [Conga!](https://open.spotify.com/track/6I7ExzN23hGG4hJIKYVMKD) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:32 |
 | 38 | [Stand up, Sit Down](https://open.spotify.com/track/1VuC4DJJwk420tTk9P8bf6) | [Tumble Tots](https://open.spotify.com/artist/0NcZOCgglyAmOdkiM9kQuv) | [Action Songs: Wiggle & Shake](https://open.spotify.com/album/4w7h1lROwNkdKxjiikH6gC) | 1:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVppRat1VNcX.md) - [plain]
 | 49 | [True Friend](https://open.spotify.com/track/3mgawAnZJZNZTFaZPofjNC) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 2 \(Original Soundtrack\)](https://open.spotify.com/album/2Kl34Wu4F27ptdgtUoErJs) | 3:09 |
 | 50 | [Toy Story: Tu Amigo Fiel](https://open.spotify.com/track/5If5zGQSc3bLHdoIdk99F2) | [Animation Soundtrack Ensemble](https://open.spotify.com/artist/1Wi3vrwRk2FyBDk90QI01C) | [Música para los niños](https://open.spotify.com/album/6nDSDr7vMnrJD99JCIbDwv) | 2:36 |
 
-Snapshot ID: `MCw3NDJhMGRhZDUwMWQxZjJjNGZlMTc5MmU2NTdkMmNkYTlhOWExMzU3`
+Snapshot ID: `MCw2ODVkYjg0ZjMxMzMwODI4NzkxZTZkOTJlNWZlNTUyNmZmNjI0YWM4`

@@ -1,12 +1,12 @@
 {
   "description": "Music from TV shows and films nominated for the 80th Golden Globe Awards. Watch Jan 10, 2023 on NBC.",
-  "num_followers": 5672,
+  "num_followers": 5673,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTczNjhiNTgyMjE1MDMzNmY3NDk3NzJiNTE2MDM5MGI2MDE5NWVh",
+  "snapshot_id": "MCwxYzA3MDE1NzM4MDg2MGNhZDdjZTE3NjIyODVhNGEyZjcxMjYzNjJl",
   "tracks": [
     {
       "added_at": "2022-12-21 17:45:34",
@@ -431,6 +431,26 @@
     {
       "added_at": "2022-12-21 17:45:34",
       "album": {
+        "name": "Blonde (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        },
+        {
+          "name": "Warren Ellis",
+          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "Bright Horses (Instrumental)",
+      "url": "https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9"
+    },
+    {
+      "added_at": "2022-12-21 17:45:34",
+      "album": {
         "name": "T\u00c1R (MUSIC FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/2Spn6mlJsZmgmjMCtJzOWK"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 199173,
       "name": "Symphony No. 5 in C Sharp Minor / Pt. 1: I. Trauermarsch & II. St\u00fcrmisch bewegt - Rehearsals",
       "url": "https://open.spotify.com/track/50Zfv1fSYcuTr9JeKV5OZ5"
-    },
-    {
-      "added_at": "2022-12-21 17:45:34",
-      "album": {
-        "name": "Blonde (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/5tVQoxthh1CrojRKURxcyz"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave",
-          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
-        },
-        {
-          "name": "Warren Ellis",
-          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Bright Horses (Instrumental)",
-      "url": "https://open.spotify.com/track/4zrcD8Ls4b5WFcIJrbXUS9"
     },
     {
       "added_at": "2022-12-21 17:45:34",

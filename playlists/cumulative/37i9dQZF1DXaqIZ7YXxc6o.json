@@ -14596,10 +14596,32 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 454728,
       "name": "MOTHER MOTHER",
       "url": "https://open.spotify.com/track/1jxYFHkQGVGrxwkp6xWXs6"
+    },
+    {
+      "album": {
+        "name": "Mother Mother (Kid Fonque Remix)",
+        "url": "https://open.spotify.com/album/0knvAth0eiQhxyTRgfXnnq"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454728,
+      "name": "Mother Mother - Kid Fonque Remix",
+      "url": "https://open.spotify.com/track/7G7xHPt5xgQvDsSHg21k5d"
     },
     {
       "album": {

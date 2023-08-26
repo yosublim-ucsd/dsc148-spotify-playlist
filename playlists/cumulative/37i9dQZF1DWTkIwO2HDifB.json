@@ -1507,6 +1507,32 @@
     },
     {
       "album": {
+        "name": "Escolinha da Igrejinha",
+        "url": "https://open.spotify.com/album/7LQjz2nKhUd9r5wUW0bAgT"
+      },
+      "artists": [
+        {
+          "name": "DJ LUCAS DE PAULA",
+          "url": "https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY"
+        },
+        {
+          "name": "MC Vitin LC",
+          "url": "https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR"
+        },
+        {
+          "name": "Mc Anjim",
+          "url": "https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123230,
+      "name": "Escolinha da Igrejinha",
+      "url": "https://open.spotify.com/track/6yVVY9RIO9pGXZhwocy7hf"
+    },
+    {
+      "album": {
         "name": "Espirra o Lan\u00e7a",
         "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
       },
@@ -4544,7 +4570,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 161076,
       "name": "Simplesmente Ela",
       "url": "https://open.spotify.com/track/7qaUeAyg0eYYhHDCx58GXa"

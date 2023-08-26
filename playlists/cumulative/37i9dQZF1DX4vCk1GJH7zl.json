@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Birds and the Bees",
+        "url": "https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254263,
+      "name": "Birds and the Bees",
+      "url": "https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah"
+    },
+    {
+      "album": {
         "name": "The High Life EP",
         "url": "https://open.spotify.com/album/2t9oCdm1Bu3Ja68sTW2v4t"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 312553,
       "name": "Carta no Baralho",
       "url": "https://open.spotify.com/track/5uAiXNsj4YD6sqjlE1g9Yj"
@@ -490,7 +508,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 146000,
       "name": "Destroy Myself Just For You",
       "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 202108,
       "name": "L\u00e1 Fora",
       "url": "https://open.spotify.com/track/3U0PI7XB2PQCI2Z4rAopZJ"
@@ -888,7 +906,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 156306,
       "name": "n\u00e3o me importo mais",
       "url": "https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn"
@@ -968,6 +986,42 @@
       "duration_ms": 226000,
       "name": "Partida",
       "url": "https://open.spotify.com/track/48nzMbyU9MoeRWu28riJoi"
+    },
+    {
+      "album": {
+        "name": "Cisne Negro",
+        "url": "https://open.spotify.com/album/2d6HKeQ9TVtHFjrWnrMO9n"
+      },
+      "artists": [
+        {
+          "name": "Drenna",
+          "url": "https://open.spotify.com/artist/7Km2oqSGqY9nTSnyY4QVyf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Pensando Bem",
+      "url": "https://open.spotify.com/track/2hzv2fq86gwMSR3ppsvyJ5"
+    },
+    {
+      "album": {
+        "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254062,
+      "name": "Por Enquanto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU"
     },
     {
       "album": {
@@ -1131,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Se Voc\u00ea Quiser Voltar",
+        "url": "https://open.spotify.com/album/4Na3ea1iiGnAmWQTVDbnTg"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        },
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Se Voc\u00ea Quiser Voltar",
+      "url": "https://open.spotify.com/track/0WCDkJYGEZfMKhVvEAsCeU"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U"
       },
@@ -1204,6 +1280,24 @@
       "duration_ms": 222986,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn"
+    },
+    {
+      "album": {
+        "name": "Quarto dos Livros (20 Anos) [Live]",
+        "url": "https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252699,
+      "name": "Stonehenge - Live",
+      "url": "https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw"
     },
     {
       "album": {
@@ -1360,7 +1454,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 264306,
       "name": "The Luck You Had",
       "url": "https://open.spotify.com/track/1JwNYCTj60VuK5WK18PkTb"

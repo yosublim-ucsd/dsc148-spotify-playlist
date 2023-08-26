@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 223702,
       "name": "Brad Lgalb",
       "url": "https://open.spotify.com/track/200vD11oSSH2B8C73kXyRC"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 276620,
       "name": "Galbi Datah",
       "url": "https://open.spotify.com/track/5JsvWH6RGUJB6534yHu6h1"
@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Lhalaba Rahom Bazef",
+        "url": "https://open.spotify.com/album/6gkLMemVXimjoXoeqDSDVf"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hichem TGV",
+          "url": "https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276306,
+      "name": "Lhalaba Rahom Bazef",
+      "url": "https://open.spotify.com/track/0mpdpFtVbCWfEiZH7TfTz9"
+    },
+    {
+      "album": {
         "name": "Lokan jiti mra msagma",
         "url": "https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW"
       },
@@ -2068,6 +2086,28 @@
       "duration_ms": 282749,
       "name": "Maniche Ghaya",
       "url": "https://open.spotify.com/track/4b3FfSiGHdCgRioDRgTe3B"
+    },
+    {
+      "album": {
+        "name": "Manini Manini Ntiya Cheba Wana Chbab",
+        "url": "https://open.spotify.com/album/6FEJQrNJi728zBsHUMgWtZ"
+      },
+      "artists": [
+        {
+          "name": "Cheb Iyad",
+          "url": "https://open.spotify.com/artist/2gqYRgONuLee9PC6qnAD0n"
+        },
+        {
+          "name": "Manini Sahar",
+          "url": "https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362096,
+      "name": "Manini Manini Ntiya Cheba Wana Chbab",
+      "url": "https://open.spotify.com/track/70XpKD6dYj12OWVx05ecQ0"
     },
     {
       "album": {

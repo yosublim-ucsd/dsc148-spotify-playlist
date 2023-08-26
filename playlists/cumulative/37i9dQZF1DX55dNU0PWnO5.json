@@ -2897,6 +2897,28 @@
     },
     {
       "album": {
+        "name": "HI 5 (galen tipton Remix)",
+        "url": "https://open.spotify.com/album/49rqfgJT7JffTBac2WleRa"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266529,
+      "name": "HI 5 - galen tipton Remix",
+      "url": "https://open.spotify.com/track/45PdXVMyFQu6OSMbyMWBjf"
+    },
+    {
+      "album": {
         "name": "Hidden Levels",
         "url": "https://open.spotify.com/album/375BDqAAeAHME4ZmEbs7JO"
       },
@@ -3066,7 +3088,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 196112,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt"
@@ -3168,6 +3190,24 @@
       "duration_ms": 371029,
       "name": "If U Strike Me Down",
       "url": "https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk"
+    },
+    {
+      "album": {
+        "name": "IJ",
+        "url": "https://open.spotify.com/album/3fmaGX2ZAvTzQY118RuOTa"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150712,
+      "name": "IJ",
+      "url": "https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl"
     },
     {
       "album": {
@@ -4564,7 +4604,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 228888,
       "name": "Ocean - Sam Gendel Remix",
       "url": "https://open.spotify.com/track/6N72zTGMj22B0GPodGb6RG"

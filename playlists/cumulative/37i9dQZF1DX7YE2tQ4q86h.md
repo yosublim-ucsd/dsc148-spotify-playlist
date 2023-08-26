@@ -4,7 +4,7 @@
 
 > It's THE main pop girl emergency 🆘  Cover: Addison Rae
 
-630 songs - 1 day 7 hr 59 min
+632 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,11 +168,12 @@
 | [Don't Pray For Me](https://open.spotify.com/track/224OSwGKSUAKEH730rmLg2) | [Eline Noelia](https://open.spotify.com/artist/2SS1QCUXo3gFSnJwF8D4Vl) | [Don't Pray For Me](https://open.spotify.com/album/5HLYMV9AApImlATNqKbNlY) | 3:25 | 2022-07-31 |  |
 | [Don't Rain on My Parade](https://open.spotify.com/track/3qaMDTwoBvdrxYvwgr9bgs) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp), [New Broadway Cast of Funny Girl](https://open.spotify.com/artist/46lhCwPnvFpOdmVBfDFdB9) | [Funny Girl \(New Broadway Cast Recording\)](https://open.spotify.com/album/44jNMYeyAJstThz75DDsFW) | 2:38 | 2022-11-18 | 2022-12-03 |
 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 | 2023-06-16 | 2023-07-08 |
-| [Don't Think Twice \- Edit](https://open.spotify.com/track/3kWMO7rpr9VpJF8csmCPec) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Don't Think Twice](https://open.spotify.com/album/2IdMh8hq88MtWZ9ZKNkqoa) | 2:49 | 2023-06-30 |  |
+| [Don't Think Twice \- Edit](https://open.spotify.com/track/3kWMO7rpr9VpJF8csmCPec) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Don't Think Twice](https://open.spotify.com/album/2IdMh8hq88MtWZ9ZKNkqoa) | 2:49 | 2023-06-30 | 2023-08-26 |
 | [Don’t Call Me](https://open.spotify.com/track/2amtS6j1pIwE9haEjmDTyD) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Don’t Call Me](https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V) | 2:28 | 2023-06-09 |  |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-27 | 2022-08-27 |
 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-21 |  |
 | [Dramatic](https://open.spotify.com/track/0fzNbspDae66MSdL8fR1kC) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Dramatic](https://open.spotify.com/album/2hasjKPec7XpfkMH0j1jwW) | 3:12 | 2023-06-09 | 2023-07-22 |
+| [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-08-25 |  |
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-03 |  |
 | [Drown Us Out](https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Drown Us Out](https://open.spotify.com/album/7cVVLx6eUOcKPU9dKs7axq) | 3:16 | 2022-12-30 | 2023-01-28 |
 | [Dumb](https://open.spotify.com/track/3WDyQV8e7Jo8ADMDIUZEqT) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Dumb](https://open.spotify.com/album/5Xc7SZi7EuNczZ1TU0gvfd) | 2:18 | 2022-12-02 | 2023-04-22 |
@@ -499,6 +500,7 @@
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2022-10-09 |
 | [Shy Boy](https://open.spotify.com/track/6reL5LwIwHkDXcKff9ZbKV) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Shy Boy](https://open.spotify.com/album/5SfL9du7O2pG1q14UsegkA) | 3:29 | 2023-06-23 | 2023-07-29 |
 | [SIMPLY THE BEST](https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [SIMPLY THE BEST](https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ) | 3:56 | 2022-10-28 | 2023-02-11 |
+| [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-25 |  |
 | [skin deep](https://open.spotify.com/track/7jPd3Glmzd6qZhRus2aTPg) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [skin deep](https://open.spotify.com/album/1HwVaqdiURRRGz3fji43lI) | 3:24 | 2022-12-02 | 2022-12-17 |
 | [SLAY](https://open.spotify.com/track/0MiKPNG2SFuv8xGCG6Liak) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [SLAY](https://open.spotify.com/album/2UajmvL5HXIk23XEIspQAK) | 3:39 | 2023-06-30 | 2023-08-12 |
 | [Sleepwalker](https://open.spotify.com/track/1pFuoLQ9iRbPv7a0LQvhEJ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 | 2023-01-27 | 2023-03-04 |
@@ -614,7 +616,7 @@
 | [What Now](https://open.spotify.com/track/2HJkS5r8Qzf6kCxVzBgRJ3) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [What Now](https://open.spotify.com/album/115Wn7jhMjCTmkeuDNi9Nt) | 3:21 | 2022-08-26 |  |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2022-02-15 | 2022-04-23 |
 | [Wherever You Go](https://open.spotify.com/track/7Emwu6FcGIENbWKmDiD2ct) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Wherever You Go](https://open.spotify.com/album/33zJ4SIK5Tf8YXlYSsvelT) | 2:49 | 2022-08-26 | 2022-12-24 |
-| [Who the Hell Is Edgar?](https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI), [SALENA](https://open.spotify.com/artist/5uoK1zfpi48x9aKAM8x6pt) | [Who the Hell Is Edgar?](https://open.spotify.com/album/0Pc0YjphyuqsZbeHJq7AJ0) | 2:39 | 2023-03-10 |  |
+| [Who the Hell Is Edgar?](https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI), [SALENA](https://open.spotify.com/artist/5uoK1zfpi48x9aKAM8x6pt) | [Who the Hell Is Edgar?](https://open.spotify.com/album/0Pc0YjphyuqsZbeHJq7AJ0) | 2:39 | 2023-03-10 | 2023-08-26 |
 | [Whole Again](https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Whole Again](https://open.spotify.com/album/7oAsw6jZcotDQl8f1qECqo) | 3:35 | 2023-07-14 |  |
 | [Why Is She Calling?](https://open.spotify.com/track/5Sb83ml5k9pdRIqIkWfWNv) | [Black Peppa](https://open.spotify.com/artist/07CsKr37FQnxbfQxokCBFs) | [Why Is She Calling?](https://open.spotify.com/album/4XhHHcPjfMsdvuVBGBtOi8) | 2:56 | 2022-12-23 |  |
 | [Wild Girls](https://open.spotify.com/track/5y4x94092ALbFl8aik6rew) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Wild Girls](https://open.spotify.com/album/1B9ub31GGcISelMWoubJrB) | 2:29 | 2022-08-12 | 2022-09-17 |

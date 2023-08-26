@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "1\u00e8re Sommation",
+        "url": "https://open.spotify.com/album/3hjxmJ1HRBsqgWuDaCiMh8"
+      },
+      "artists": [
+        {
+          "name": "Liim\u2019s",
+          "url": "https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235251,
+      "name": "1\u00e8re Sommation",
+      "url": "https://open.spotify.com/track/2imMAGzWXw57YyYWOwi8DF"
+    },
+    {
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
       },
@@ -82,6 +104,28 @@
       "duration_ms": 205854,
       "name": "A l'international",
       "url": "https://open.spotify.com/track/3bsvf6hwph9FssL0nVtjcE"
+    },
+    {
+      "album": {
+        "name": "AH TXE TXE",
+        "url": "https://open.spotify.com/album/2NgTBl8RJMVLwbhGiPxCkD"
+      },
+      "artists": [
+        {
+          "name": "GIANT",
+          "url": "https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR"
+        },
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142535,
+      "name": "AH TXE TXE",
+      "url": "https://open.spotify.com/track/44JaxgEdVdgEzTeIYsZrES"
     },
     {
       "album": {
@@ -172,7 +216,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 208693,
       "name": "Ameyatchi - Remix",
       "url": "https://open.spotify.com/track/5nHKieynAHyrLpMqyu0dKE"
@@ -412,6 +456,24 @@
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "album": {
+        "name": "JVLIVS",
+        "url": "https://open.spotify.com/album/2b2K5XuhYChG05wLpebMll"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401160,
+      "name": "B\u00e9n\u00e9fice",
+      "url": "https://open.spotify.com/track/45B8Dirdyo5wVKslxLO7Hu"
     },
     {
       "album": {
@@ -784,7 +846,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 213394,
       "name": "Freed From Desire",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
@@ -1226,7 +1288,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 248986,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
@@ -1469,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "Nototune",
+        "url": "https://open.spotify.com/album/6rmUoWn3zqcan7R9O3PcJk"
+      },
+      "artists": [
+        {
+          "name": "Romsii",
+          "url": "https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw"
+        },
+        {
+          "name": "820ks",
+          "url": "https://open.spotify.com/artist/3bG3pLobhOQE84EDGie7pQ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Nototune",
+      "url": "https://open.spotify.com/track/56TVhhTLE8DWoV92xaTUE7"
+    },
+    {
+      "album": {
         "name": "Glish",
         "url": "https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln"
       },
@@ -1706,7 +1790,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 128498,
       "name": "Rebenga",
       "url": "https://open.spotify.com/track/0WqcGZ1Qd1r1zIA1Os2l14"
@@ -2070,10 +2154,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 240000,
       "name": "Titulaires",
       "url": "https://open.spotify.com/track/1OToHVdN93nhrEJcMEax6C"
+    },
+    {
+      "album": {
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "album": {

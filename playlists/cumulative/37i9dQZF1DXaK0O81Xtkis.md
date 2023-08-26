@@ -4,7 +4,7 @@
 
 > make it pop! cover: Trousdale
 
-736 songs - 1 day 12 hr 42 min
+739 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 | 2022-01-14 | 2022-02-26 |
 | [Crash](https://open.spotify.com/track/5cdJiIDHw2FwVblQYT7fN0) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Crash](https://open.spotify.com/album/5MYFBgOf8RoVql9hXoVHfa) | 2:38 | 2022-07-22 | 2022-08-27 |
 | [crashing down](https://open.spotify.com/track/120gZpbcyjQZ7KNKJxZXnx) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [crashing down](https://open.spotify.com/album/4JHJFHkQfDDimJ8TJamEXf) | 2:19 | 2021-12-17 | 2022-02-26 |
+| [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 | 2023-08-25 |  |
 | [Cry \(let it out\)](https://open.spotify.com/track/5DbArXOkqbbxmrdkf6On9l) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Cry \(let it out\)](https://open.spotify.com/album/03YaY85RTJO8YfR5IhZ5S5) | 2:36 | 2022-08-26 | 2022-09-17 |
 | [CTFO](https://open.spotify.com/track/61ziMfZxM3yJ5LlfTwCjoz) | [Sleeping Lion](https://open.spotify.com/artist/4sBiA3ARQSDSGUqI2mbWgf) | [CTFO](https://open.spotify.com/album/0dyGXZOW0gV11BA2EYflV4) | 3:23 | 2022-08-05 | 2022-09-03 |
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2021-10-29 | 2022-02-26 |
@@ -264,6 +265,7 @@
 | [Headfirst](https://open.spotify.com/track/1dUHl01OvRdc68NoImtH1X) | [The Lost Youth](https://open.spotify.com/artist/1oZSwmPoTlEfiI4p25SdVl) | [Headfirst](https://open.spotify.com/album/341aDKS0pTYe2zupAF45We) | 2:55 | 2022-07-01 | 2022-08-27 |
 | [Headphones](https://open.spotify.com/track/4KrwobI2xa03a24kPDQIvh) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Headphones](https://open.spotify.com/album/70qfnrWg4gpw3Wkm6mdIKj) | 2:47 | 2022-02-25 | 2022-03-18 |
 | [Headphones](https://open.spotify.com/track/4ORHwsQ073iRrQt0E6THXv) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Headphones](https://open.spotify.com/album/5tlUgvuXVG0IQ7D9nKb9kt) | 2:56 | 2022-03-18 | 2022-05-28 |
+| [Healing in a Parking Lot](https://open.spotify.com/track/19Lq2qImmNCv28WC9aS8UM) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Healing in a Parking Lot](https://open.spotify.com/album/2RaI4sb4jDituRwlms2qC4) | 2:49 | 2023-08-25 |  |
 | [Heart Be Still](https://open.spotify.com/track/0ewPlKce3kwoC2kFBlagty) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Hold Me Like You're Scared To](https://open.spotify.com/album/2VHeRxzNfeqiCOhF6mEYcz) | 3:58 | 2023-01-27 | 2023-03-25 |
 | [Heart of Mine](https://open.spotify.com/track/44jwtvBLfdg9f4cTD2Wm2R) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Girlfriend](https://open.spotify.com/album/1PJvWO54fCqFou7qMgNL2x) | 4:24 | 2021-10-29 | 2021-12-25 |
 | [Heartbeat](https://open.spotify.com/track/1zeo9q1sdTGDSecA91EZPt) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Heartbeat](https://open.spotify.com/album/6jpRpPLwEpPte2TzQEo6XG) | 3:50 | 2022-06-10 | 2022-07-16 |
@@ -282,7 +284,7 @@
 | [Holy Water](https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Holy Water](https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41) | 3:20 | 2022-06-17 | 2022-11-26 |
 | [Home](https://open.spotify.com/track/1XdZpce5hIRfdh41JGZU7B) | [Gervs](https://open.spotify.com/artist/0cyJKr7j8QGAhlDgPza01i), [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [Home](https://open.spotify.com/album/3NZDgr21FMW7vnUm13OSl5) | 2:04 | 2023-01-27 | 2023-03-25 |
 | [Home Videos](https://open.spotify.com/track/3FuBFn7jnMJWNufU61mSv4) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 2:35 | 2021-11-05 | 2022-02-19 |
-| [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 | 2023-06-30 |  |
+| [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 | 2023-06-30 | 2023-08-26 |
 | [Homerun Hitter](https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Homerun Hitter](https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11) | 4:32 | 2022-08-26 | 2022-12-17 |
 | [Honey](https://open.spotify.com/track/3f9gj7aK0IIrbnJ6YHDqFj) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Honey](https://open.spotify.com/album/1JSVRjxJYEPHAuxU8YbWBO) | 2:33 | 2022-07-01 | 2022-08-27 |
 | [Honey \(I believe in us\)](https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Second Wind](https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb) | 2:55 | 2022-01-07 | 2022-02-26 |
@@ -500,7 +502,7 @@
 | [Over](https://open.spotify.com/track/6kI1yeiuf4DbAhrRb4Hq4v) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Over](https://open.spotify.com/album/5JqFpeJ12d0fGEfUHGIuXM) | 2:53 | 2022-09-23 | 2022-11-12 |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 | 2022-05-28 |
 | [Palm Springs for the Weekend](https://open.spotify.com/track/3fgXmDeOKrwEqnocqvQMdZ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Palm Springs for the Weekend](https://open.spotify.com/album/136BiEvn24KBjdb2mEPRP0) | 2:00 | 2022-04-22 | 2022-05-20 |
-| [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 | 2023-07-14 |  |
+| [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 | 2023-07-14 | 2023-08-26 |
 | [Paralyzed](https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Paralyzed](https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o) | 3:04 | 2022-11-25 | 2023-03-25 |
 | [Paris](https://open.spotify.com/track/4057hA5K1RLBIVjE4sdQUi) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Paris](https://open.spotify.com/album/0t1vCr6b7CmKEjGOZNOR5p) | 2:47 | 2023-08-08 |  |
 | [Party With You](https://open.spotify.com/track/1s7Mm2bEKLmcjAS4AzGf8E) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Tracks to the Future](https://open.spotify.com/album/3peeS7BEzRQMlnye583xWn) | 2:11 | 2021-12-10 | 2022-02-26 |
@@ -650,6 +652,7 @@
 | [The Curse](https://open.spotify.com/track/0w1jfF6OgO3cpg8Mc74yfT) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [The Curse](https://open.spotify.com/album/3tdSVisnG7oFhR4pQE5eiI) | 3:46 | 2022-02-25 | 2022-03-26 |
 | [The DJ Is Crying For Help](https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The DJ Is Crying For Help](https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB) | 3:40 | 2022-11-18 | 2023-01-28 |
 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:45 | 2023-04-21 |  |
+| [the feeling](https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 3:11 | 2023-08-25 |  |
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-11 | 2022-04-29 |
 | [The Good Part](https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:47 | 2021-10-29 | 2022-10-01 |
 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 | 2022-08-12 | 2022-09-03 |
@@ -678,7 +681,7 @@
 | [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2023-06-09 |  |
 | [Toxic](https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Toxic](https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h) | 2:48 | 2021-12-24 | 2022-03-05 |
 | [Track Shoes](https://open.spotify.com/track/7hMUIwPmSkuGMHli2ZV1qQ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Track Shoes](https://open.spotify.com/album/5cEAJJI3lKivMvPwyn43k0) | 3:06 | 2021-10-29 | 2022-01-22 |
-| [Trackstar](https://open.spotify.com/track/4b2ZdHby2AzqbZqZpjLhKp) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Trackstar](https://open.spotify.com/album/436EBY5YaPt5lkdSwm6Ude) | 3:26 | 2023-05-26 |  |
+| [Trackstar](https://open.spotify.com/track/4b2ZdHby2AzqbZqZpjLhKp) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Trackstar](https://open.spotify.com/album/436EBY5YaPt5lkdSwm6Ude) | 3:26 | 2023-05-26 | 2023-08-26 |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-08 |  |
 | [TREBUCHET](https://open.spotify.com/track/78iAaClMArrG8LkVfhywSZ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [TREBUCHET](https://open.spotify.com/album/2gRD30JoXVJ3FZPUXxH9CP) | 2:35 | 2023-01-27 | 2023-03-25 |
 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 | 2022-11-11 | 2023-02-11 |

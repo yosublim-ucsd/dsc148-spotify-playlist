@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "open the pit - ft. artists from The Tribes Of Da Moon Festival, taking place Aug 19-20 at the iconic Bowery Ballroom in NYC. More info <a href=\"https://linktr.ee/darksideofdamoon \">HERE</a>.",
+  "description": "open the pit. cover: Soul Glo",
   "name": "the Breakdown",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 184517,
       "name": "Coming Correct Is Cheaper",
       "url": "https://open.spotify.com/track/5OAhpmAMMm0tv93CF5E8TZ"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 80152,
       "name": "Customary",
       "url": "https://open.spotify.com/track/6nE8W540ezDqtGOy8f7c5z"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 202235,
       "name": "Eraser",
       "url": "https://open.spotify.com/track/10CEypPoBH5hoamgGXBa8X"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 303731,
       "name": "Fabric Of Self",
       "url": "https://open.spotify.com/track/5Etc624VQKo16izd0ESQcU"
@@ -996,6 +996,24 @@
       "duration_ms": 159567,
       "name": "Human Condition Above Human Opinion",
       "url": "https://open.spotify.com/track/0UuWYnVAiIlKE7Y7nphiYY"
+    },
+    {
+      "album": {
+        "name": "Human Offense",
+        "url": "https://open.spotify.com/album/5MvOWaEEjhHJshnwoqsJGl"
+      },
+      "artists": [
+        {
+          "name": "BRAT",
+          "url": "https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144276,
+      "name": "Human Offense",
+      "url": "https://open.spotify.com/track/6k7vSzPJY4oZrd9VP4aXhE"
     },
     {
       "album": {
@@ -1548,7 +1566,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 62355,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ixBL8rnxusIfowbY4nNA7"
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 75861,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/12o45aFJK74xn4SiaIeeLU"
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 199561,
       "name": "Sullenboy",
       "url": "https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz"
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 86457,
       "name": "Supremacy",
       "url": "https://open.spotify.com/track/0WYZ5xW2BX4Jq1PScBxVzn"
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 142538,
       "name": "The Pain of Being Awake",
       "url": "https://open.spotify.com/track/2PA108Ghj4ihRUzeYFbAuE"

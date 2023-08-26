@@ -2,7 +2,7 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: BLANCO
+> ✨giovane✨pop✨z✨ Cover: Pepe, Samurai Jay
 
 202 songs - 9 hr 23 min
 

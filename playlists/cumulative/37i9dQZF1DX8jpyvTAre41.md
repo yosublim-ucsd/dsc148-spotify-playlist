@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8jpyvTAre41.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8jpyvTAre41) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8jpyvTAre41)
 
-### [Rock Your Block](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
+### [Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The hottest tunes in rock\. Crank it up! Cover: LØLØ
+> The biggest songs in today's Rock scene\. Cover: The Beaches
 
-677 songs - 1 day 14 hr 21 min
+679 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Black Summer](https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:52 | 2022-04-01 | 2022-08-20 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 | 2022-04-02 |
 | [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-16 | 2023-07-29 |
-| [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-05-05 |  |
+| [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-05-05 | 2023-08-26 |
 | [Bliss](https://open.spotify.com/track/1v0PrbGuumgytx0OTUbE06) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Bliss](https://open.spotify.com/album/3AC9w8ZS4iERfDJ0JmG2zh) | 2:24 | 2023-02-17 | 2023-03-25 |
 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 | 2022-05-20 | 2022-06-25 |
 | [Blow Up](https://open.spotify.com/track/15QRTlfRG3ml7JcPBrhOv3) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Future Lovers](https://open.spotify.com/album/3K7DCfTlYqTxV5UXJqUyr4) | 3:14 | 2021-12-31 | 2022-03-12 |
@@ -206,7 +206,7 @@
 | [Follow \(Trans Lunar Ejector Maneuver\)](https://open.spotify.com/track/2Yf5KsX3uhF8r5OKIv22Yv) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [The Science & Artfunkel Victory Lap](https://open.spotify.com/album/4mZV4y7gXrpL6jzR7F9KD2) | 2:40 | 2021-12-31 | 2022-01-22 |
 | [Fool's Gold](https://open.spotify.com/track/5zH7OORpJSL6rM9JNlFhn5) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Songs That Don't Belong](https://open.spotify.com/album/78G4G2UaOnJm2PZxWUqIna) | 3:03 | 2022-12-23 | 2023-02-18 |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-13 | 2022-06-04 |
-| [Foregone, Pt\. 2](https://open.spotify.com/track/3Cp3wi1w6wPwYGgDPrBu6q) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Meet Your Maker](https://open.spotify.com/album/4MULWYM7gQyBiJ2KeJ2PrY) | 4:30 | 2023-01-20 |  |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/3Cp3wi1w6wPwYGgDPrBu6q) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Meet Your Maker](https://open.spotify.com/album/4MULWYM7gQyBiJ2KeJ2PrY) | 4:30 | 2023-01-20 | 2023-08-26 |
 | [Forever's Enough](https://open.spotify.com/track/5BUvQtKdYrWJtdYaSoyFfG) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Forever's Enough](https://open.spotify.com/album/1QnJkCunpWFPbdCElBs03p) | 3:02 | 2022-08-05 | 2022-09-10 |
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-14 | 2022-01-29 |
 | [Francesca](https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv) | 4:30 | 2023-05-19 | 2023-08-21 |
@@ -655,6 +655,7 @@
 | [Welcome to the DCC](https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:17 | 2023-08-18 |  |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-03-17 | 2023-05-13 |
 | [What a Ride](https://open.spotify.com/track/4FVUFfcE4XZv8FW9LJwiL8) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [What a Ride](https://open.spotify.com/album/3WITfyz7MJFwJtAi3ojCbC) | 3:07 | 2022-09-16 | 2022-10-29 |
+| [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/album/6XAKGZmFNNij9L9dYTAznJ) | 3:51 | 2023-08-25 |  |
 | [What Feels Like Eternity](https://open.spotify.com/track/5qM7wBA2RnGBLjyzsNSgGK) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [What Feels Like Eternity](https://open.spotify.com/album/0xid9xFyq8ly9STtakIAaE) | 3:37 | 2022-06-10 | 2022-07-09 |
 | [What Happens After You?](https://open.spotify.com/track/5x7Ffxc1Obg13x5IzM1XXV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Autumn](https://open.spotify.com/album/1ZuTYUdoALghOAKTISys6n) | 3:19 | 2022-09-23 | 2022-12-10 |
 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 | 2022-04-08 | 2022-06-18 |
@@ -683,6 +684,7 @@
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-08-05 | 2023-05-16 |
 | [Your Heart's My Home](https://open.spotify.com/track/62BZ84o01M2xtvjk7uMVsw) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Vindicator \(Deluxe\)](https://open.spotify.com/album/75XmKnaF8c2ZwlmAN2ZYYp) | 3:00 | 2021-12-31 | 2022-01-08 |
 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 | 2022-10-14 |  |
+| [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 | 2023-08-25 |  |
 | [Zick Zack](https://open.spotify.com/track/2w7Ca8DNYXBCgA6Bht7o0N) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:04 | 2022-04-29 | 2022-06-11 |
 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-01-07 | 2022-02-05 |
 

@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Dollypran
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Madd
 
 152 songs - 8 hr 2 min
 

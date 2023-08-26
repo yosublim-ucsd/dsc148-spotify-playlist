@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,193 likes - 234 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,316 likes - 234 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 10 | [Optimistic](https://open.spotify.com/track/2cq5LlQMpHDFbRLjmMopph) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Optimistic](https://open.spotify.com/album/3kFPAvkGQ5aXABohDuJvqs) | 1:35 |
 | 11 | [Hummingbirds](https://open.spotify.com/track/5TkKcXv3hkVsVKAc3x4Xjz) | [Dan Juno](https://open.spotify.com/artist/4XB8JAQw1Kturm4SPu6fgo) | [Hummingbirds](https://open.spotify.com/album/5diCic6lbgI1F1Seb7EhVF) | 2:36 |
 | 12 | [true\-true](https://open.spotify.com/track/0fgfMLWGx2JzJ7CSByfBH9) | [teen mtnt](https://open.spotify.com/artist/1ALWskzFjZDKZiaBNigjr4) | [true\-true](https://open.spotify.com/album/2ubcmRait3GfsQ4N0Il1Me) | 2:56 |
-| 13 | [Somewhere Else](https://open.spotify.com/track/1iZmhfieN8euwBRYq0V9aD) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Somewhere Else](https://open.spotify.com/album/0pwbJPrLHPGgeLuDAXhrvG) | 2:40 |
+| 13 | [Somewhere Else](https://open.spotify.com/track/2AjbijtpXLNFWjrENuM771) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [Tomorrow Never Knows](https://open.spotify.com/album/7t8gMgC2JPz0letGTpOJIW) | 2:40 |
 | 14 | [What R U Takin'](https://open.spotify.com/track/7cziDoATAIL6MJiosqWkkG) | [Franky Newton](https://open.spotify.com/artist/4zrzZyQKgahX46AI1tP594) | [What R U Takin'](https://open.spotify.com/album/7MgGdtl8r5vwW2gBrBIWNg) | 2:49 |
 | 15 | [Coast Line](https://open.spotify.com/track/5k1E56NzUXs2ikHijAmPtS) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Coast Line](https://open.spotify.com/album/7rvSCHE97gNuH0VPgRbArn) | 3:12 |
 | 16 | [Purple Plants](https://open.spotify.com/track/7kwAL5UuICpQmqDZolVacx) | [Etherie](https://open.spotify.com/artist/6aclglY5Cid8YcgE5MheS3) | [Purple Plants](https://open.spotify.com/album/0cJCacsNRpECH26ngiltOe) | 2:16 |
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 233 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 |
 | 234 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 
-Snapshot ID: `MCw0ZGUwYzhjNGQyMzg4N2FmMmY5NDdmM2E5MDVmOWM2ZWU3Y2UwNDAy`
+Snapshot ID: `MCw0NzkzYjFkNjhlMmI2ODhkMTZmNTc1NjhlZWZhMTkzZmZlM2EzZGRl`

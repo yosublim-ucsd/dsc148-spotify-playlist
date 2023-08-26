@@ -1,13 +1,29 @@
 {
   "description": "Jazzy blips and blops. Cover: berlioz",
-  "num_followers": 561984,
+  "num_followers": 562075,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDNhY2NjNjBjN2FlNGE0ODFjMTYxYzgxNTY4ZDZiM2U5NTIyZTcw",
+  "snapshot_id": "MCw2MTIwM2QxMWQ2MTExYzQ4ZDQ0YzdhM2RmYmU4OGEwMjY4YmMzYTU1",
   "tracks": [
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "IJ",
+        "url": "https://open.spotify.com/album/3fmaGX2ZAvTzQY118RuOTa"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "duration_ms": 150712,
+      "name": "IJ",
+      "url": "https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl"
+    },
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
@@ -99,6 +115,26 @@
       "duration_ms": 129287,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/10nK5qZb1cJaJBs3fGDQ2J"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "HI 5 (galen tipton Remix)",
+        "url": "https://open.spotify.com/album/49rqfgJT7JffTBac2WleRa"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "duration_ms": 266529,
+      "name": "HI 5 - galen tipton Remix",
+      "url": "https://open.spotify.com/track/45PdXVMyFQu6OSMbyMWBjf"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -2377,26 +2413,6 @@
       "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        },
-        {
-          "name": "Bad Snacks",
-          "url": "https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/4I0KjYxuQtNov6MHuuL6zt"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Viper (Card On Spokes Remix)",
@@ -2975,26 +2991,6 @@
       "duration_ms": 381413,
       "name": "Squarepusher Theme",
       "url": "https://open.spotify.com/track/5A8mxgppIz71mCLz7xAhpn"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "Ocean (Sam Gendel Remix)",
-        "url": "https://open.spotify.com/album/2hj1YCN9lTbZfthVl6LLdV"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        },
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        }
-      ],
-      "duration_ms": 228888,
-      "name": "Ocean - Sam Gendel Remix",
-      "url": "https://open.spotify.com/track/6N72zTGMj22B0GPodGb6RG"
     },
     {
       "added_at": "2021-06-04 04:01:00",

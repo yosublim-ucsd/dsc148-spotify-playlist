@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-159 songs - 11 hr 47 min
+160 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [The Star\-Crossed Lovers \(aka Pretty Girl\)](https://open.spotify.com/track/7fZbgJGvU0fCpli7OORs1e) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 4:00 | 2022-09-08 |  |
 | [The Telecasters](https://open.spotify.com/track/2XWI60h3SScOAvP7XaUxkI) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:01 | 2022-09-08 |  |
 | [There Was Nobody Looking](https://open.spotify.com/track/0I9tEYd8foW37GdzmIPuvo) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [BD Music & Cabu Present Duke Ellington at the Piano](https://open.spotify.com/album/7nnCsQ6WJXoQ7N8IGvbKW0) | 2:57 | 2022-09-08 |  |
-| [This Can't Be Love](https://open.spotify.com/track/6SG0FTwgZa0dqDE010Jh1D) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 9:51 | 2023-08-19 |  |
+| [This Can't Be Love](https://open.spotify.com/track/6SG0FTwgZa0dqDE010Jh1D) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 9:51 | 2023-08-19 | 2023-08-26 |
+| [This Can't Be Love \- Digitally Remastered](https://open.spotify.com/track/4emff6nFLGl610Bt6j3Sz6) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Genius of Jazz \- Ben Webster, Vol\. 2](https://open.spotify.com/album/69614zCrwPL3L9z4waAjkV) | 9:50 | 2023-08-25 |  |
 | [This Can't Be Love: The Boys from Syracuse: This Can't Be Love](https://open.spotify.com/track/2uKLMLYcbqdDCaDQY3l4NT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Ed Thigpen](https://open.spotify.com/artist/7ofmO3RJ2eeaRhApcStDkI) | [Milestones of a Jazz Legend \- Ben Webster, Vol\. 2 \(1957, 1959\)](https://open.spotify.com/album/336zKOuYLlKKo9JIMDi4bP) | 9:51 | 2022-09-08 | 2023-08-20 |
 | [Tiffany](https://open.spotify.com/track/35WGvwOw4Be7RGXna1IvCJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:35 | 2022-09-08 |  |
 | [Tonk](https://open.spotify.com/track/5CsQisDoqqLgOqHwHWjuBf) | [The Art Farmer Quartet](https://open.spotify.com/artist/017N2VIptuU1ZIehQyCzWM) | [Perception](https://open.spotify.com/album/7pTyS4yTFJhDBBe0ve3Vpc) | 4:34 | 2022-09-08 |  |

@@ -4,7 +4,7 @@
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-73 songs - 5 hr 51 min
+74 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Can't Dance](https://open.spotify.com/track/6ruuSfipk0prLfnyWcHODQ) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [2004 \- 2008](https://open.spotify.com/album/560Qumb8am9SbeZUPHBDWO) | 5:58 | 2022-11-30 |  |
 | [Clear Your Head](https://open.spotify.com/track/1naTCLL7Zo2SyqqvR53l4B) | [Kodama](https://open.spotify.com/artist/0ltrvSsYXHHVmWCB1bgdMs) | [Clear Your Head EP](https://open.spotify.com/album/2frfbLWXIpVPd2d4VeeAhL) | 3:26 | 2022-11-30 |  |
 | [Competition](https://open.spotify.com/track/3LWEhJL5SNZG0Qur9VRd9V) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Competition](https://open.spotify.com/album/6ETGOvIFKT7MQw8hiZyRmZ) | 6:00 | 2023-06-08 |  |
+| [Cracks](https://open.spotify.com/track/7x5wz6mUoNVMUqXJHRYtiN) | [Dark Tempest](https://open.spotify.com/artist/20QGauCCn5cmwkG8bUiDsE) | [Cracks](https://open.spotify.com/album/7zmaglQ71xvOxs8FRWHr0E) | 3:28 | 2023-08-25 |  |
 | [Cryptic](https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi) | [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Congi Selection](https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n) | 5:52 | 2023-06-08 |  |
 | [Departure](https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Captivate](https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo) | [Fade Into Dust / Departure](https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8) | 4:36 | 2023-06-08 | 2023-08-12 |
 | [Do It Jah](https://open.spotify.com/track/46SQW0OrXmXaO41Aa3LcCz) | [Tubby Isiah](https://open.spotify.com/artist/26Tc8d2xASJ8okDwxRFNzu) | [Rising High LP](https://open.spotify.com/album/0vPyyzADg89DBctsSGHh09) | 3:41 | 2022-11-30 |  |

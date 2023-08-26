@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 166965,
+  "num_followers": 167245,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDU3YTU1ZWEyMDUyZGNmYmExYzg3MzZlZWM5OTAxZTQ1M2UxODJk",
+  "snapshot_id": "MCw4OTkzOTNmMTRkZDZkNjg1OWI5YjdhMzc0YTdiZjJiYTU4ZGZjZTlm",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": ".Temp",
-        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
-      },
-      "artists": [
-        {
-          "name": "Graham Kartna",
-          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
-        }
-      ],
-      "duration_ms": 96883,
-      "name": "Eternal.Temp",
-      "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "DIRT BIRD",
         "url": "https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 110825,
       "name": "WIGGLECORE",
       "url": "https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": ".Temp",
+        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
+      },
+      "artists": [
+        {
+          "name": "Graham Kartna",
+          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
+        }
+      ],
+      "duration_ms": 96883,
+      "name": "Eternal.Temp",
+      "url": "https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71"
+        "name": "L41N",
+        "url": "https://open.spotify.com/album/0VdyPqxbI01I2wIzkw5gX2"
       },
       "artists": [
         {
-          "name": "Drive45",
-          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
+          "name": "Piff Paff Piffi",
+          "url": "https://open.spotify.com/artist/2jKVs5nD7UCtKJKGWvyK77"
         }
       ],
-      "duration_ms": 175624,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
+      "duration_ms": 229000,
+      "name": "L41N",
+      "url": "https://open.spotify.com/track/4VsT2A4GX2Ichk6PD5LeXs"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -751,6 +751,22 @@
       "duration_ms": 116589,
       "name": "Chiltonwalk.Temp",
       "url": "https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71"
+      },
+      "artists": [
+        {
+          "name": "Drive45",
+          "url": "https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB"
+        }
+      ],
+      "duration_ms": 175624,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -799,26 +815,6 @@
       "duration_ms": 186920,
       "name": "Through The Hosiery",
       "url": "https://open.spotify.com/track/6pGxDQNsAzAXSTM36XEG4U"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "About You Now",
-        "url": "https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD"
-      },
-      "artists": [
-        {
-          "name": "OTTO",
-          "url": "https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046"
-        },
-        {
-          "name": "Max Beirne Shafer",
-          "url": "https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "About You Now",
-      "url": "https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8"
     }
   ],
   "unique_name": "webcore",

@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Shemekia Copeland
 
-305 songs - 20 hr 29 min
+307 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Dry Run](https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:16 | 2022-08-19 |  |
 | [Easy On The Eyes](https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Easy On The Eyes](https://open.spotify.com/album/3kd1vDgfeU3UsFtDvIUcts) | 3:31 | 2022-07-12 | 2022-08-20 |
 | [End Of The Line](https://open.spotify.com/track/2IwhGWbdmfMZMZ9JE4GiDN) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [End Of The Line \[Feat\. Aaron Neville\]](https://open.spotify.com/album/6Jej60SOD8fojT5s4HHsGS) | 4:12 | 2022-08-19 | 2023-02-11 |
+| [Endless Highway](https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Endless Highway](https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3) | 3:45 | 2023-08-25 |  |
 | [Everything You Got](https://open.spotify.com/track/2qnPC8AZ3vfCjF7hHBWi93) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Everything You Got](https://open.spotify.com/album/5LD4eZGB8oCNCQ4eztNQvl) | 3:22 | 2022-08-05 | 2022-09-10 |
 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 | 2022-06-03 |  |
 | [Fire It Up](https://open.spotify.com/track/5OK7CvtAqKcJoYXFmqUDvB) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/3C44xpr836MfZSVu7cwpel) | 3:02 | 2021-03-12 | 2022-04-23 |
@@ -139,7 +140,7 @@
 | [I'm Tore Down](https://open.spotify.com/track/1Rh166Dr7vSbpCV2bUoBSW) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [I'm Tore Down](https://open.spotify.com/album/6nKz5WRlab96MD927id1gF) | 6:08 | 2021-04-16 | 2022-04-23 |
 | [I've Got to Use My Imagination](https://open.spotify.com/track/3xLigydauGKn4eJWYziPuN) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [I've Got to Use My Imagination](https://open.spotify.com/album/64ekAE6otxRFXCez5e5IeK) | 3:54 | 2021-03-19 | 2022-04-23 |
 | [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw) | 3:00 | 2023-08-18 |  |
-| [If Only We Could](https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc) | [Clarence Spady](https://open.spotify.com/artist/4S7wCzdA9VML3k2K8O4BhU) | [If Only We Could](https://open.spotify.com/album/1UxYLNy0YaYcEEiDAoC8tL) | 3:08 | 2022-01-21 |  |
+| [If Only We Could](https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc) | [Clarence Spady](https://open.spotify.com/artist/4S7wCzdA9VML3k2K8O4BhU) | [If Only We Could](https://open.spotify.com/album/1UxYLNy0YaYcEEiDAoC8tL) | 3:08 | 2022-01-21 | 2023-08-26 |
 | [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 | 2022-03-04 |  |
 | [In Blood](https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [In Blood](https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z) | 4:05 | 2022-06-24 |  |
 | [In My Soul](https://open.spotify.com/track/4DO9pPMq8PFhWFo4IVVveA) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [In My Soul](https://open.spotify.com/album/7K3JyQeEB3L6lmNYTkmQDr) | 4:47 | 2023-02-24 | 2023-03-18 |
@@ -159,6 +160,7 @@
 | [Livin' for the Ones](https://open.spotify.com/track/0OY3sKkXVVbp7foCuHPNZt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Livin' for the Ones](https://open.spotify.com/album/3Flcwo2dVHmmmLc4NUdxR7) | 3:04 | 2022-04-22 |  |
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-03-18 | 2022-05-28 |
 | [Lonely Avenue](https://open.spotify.com/track/5jRgIkHMRIMlBs2lACAW3X) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lonely Avenue](https://open.spotify.com/album/5Od0yKVTCCqgVGRl3EDA0M) | 4:55 | 2022-01-07 | 2022-01-22 |
+| [Long Road Ahead](https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Long Road Ahead](https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2) | 3:22 | 2023-08-25 |  |
 | [Louise](https://open.spotify.com/track/4LsjSfG35HjxANSGntQElK) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Louise](https://open.spotify.com/album/7a159bQme0ps4IGS1bfBPg) | 3:39 | 2023-07-28 |  |
 | [Love At First Sight](https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Love At First Sight](https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF) | 3:28 | 2022-02-18 |  |
 | [Love Is All](https://open.spotify.com/track/1VdINjKve1zyYptgIWLdJd) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Love Is All](https://open.spotify.com/album/2TtprEnpsHFvtHa6pmdhCj) | 3:40 | 2023-07-21 |  |
@@ -205,7 +207,7 @@
 | [Rescue Me](https://open.spotify.com/track/2DR9xCM5wVzjKPR9EkwFoT) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [The Rage to Survive](https://open.spotify.com/album/2t3Eb0q4rD04xtQIChzKPw) | 4:49 | 2021-10-29 | 2023-07-29 |
 | [Retro Mofo](https://open.spotify.com/track/0sMkyYpcC6iK45huSrLBDS) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Retro Mofo](https://open.spotify.com/album/2roKb6eMy2lrlcWrYh26oi) | 3:34 | 2021-10-01 | 2022-05-28 |
 | [Ride](https://open.spotify.com/track/3XZy0i9dxqoecuRa6zUv5C) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/0SeZT8cV0i9mhHFD0rjVla) | 4:56 | 2022-05-27 | 2022-06-25 |
-| [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-25 |  |
+| [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-25 | 2023-08-26 |
 | [Right Down The Drain](https://open.spotify.com/track/7uFtKBQLQFwkuS6BxzW1lQ) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 4:59 | 2022-01-21 |  |
 | [Righteous Loving](https://open.spotify.com/track/2NKWAmzIFidQ7rYkS78Yv9) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Heart and Soul](https://open.spotify.com/album/0t9Y8U95Pt5ATKeHlnuVPa) | 3:37 | 2022-03-18 |  |
 | [Rise](https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Rise](https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5) | 2:52 | 2023-06-16 |  |

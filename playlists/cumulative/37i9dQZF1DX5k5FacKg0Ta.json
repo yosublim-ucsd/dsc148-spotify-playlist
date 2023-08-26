@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 388697,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1uT3YSj2okGX3oYOiROe2z"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 254629,
       "name": "Aurinko",
       "url": "https://open.spotify.com/track/0prylnSBXShJ37C8nZZwld"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 319970,
       "name": "Buoyancy",
       "url": "https://open.spotify.com/track/4pzfrt9nAirejnoLY2Y4GG"
@@ -698,7 +698,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 487293,
       "name": "Emboldened",
       "url": "https://open.spotify.com/track/3zpPZeYSb7QxEI3iLsRJbv"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 167181,
       "name": "Final Round",
       "url": "https://open.spotify.com/track/011SZbBS0yvSFPHxRb6fGs"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 226186,
       "name": "Just Make It Fast",
       "url": "https://open.spotify.com/track/4xxgPpHKtihNz7yr4FutXd"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 407185,
       "name": "Knud, The Storm",
       "url": "https://open.spotify.com/track/3ETNUor97PlUMlDz2Tzo6D"
@@ -1270,6 +1270,24 @@
       "duration_ms": 307845,
       "name": "Like Steel",
       "url": "https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB"
+    },
+    {
+      "album": {
+        "name": "Little Demons",
+        "url": "https://open.spotify.com/album/28kDetPEgpkO15Lid6d2jk"
+      },
+      "artists": [
+        {
+          "name": "Ida Alanen Trio",
+          "url": "https://open.spotify.com/artist/3gElqj8hulfTVD9xclvbkn"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408424,
+      "name": "Little Demons",
+      "url": "https://open.spotify.com/track/02eNiKAOY0VYSA1iVAtp7S"
     },
     {
       "album": {
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 273360,
       "name": "Ne H\u00f6lm\u00f6t",
       "url": "https://open.spotify.com/track/3t7IDoyuwmxJ7zdi0mdjxf"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 190659,
       "name": "November",
       "url": "https://open.spotify.com/track/5Jvk0Oe071dMpFzvdhD8DC"
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 332693,
       "name": "Pa\u0308iva\u0308pa\u0308a\u0308sky",
       "url": "https://open.spotify.com/track/5MrclBhxI7GRFhvZpkBufy"
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 473586,
       "name": "Shadowfigures",
       "url": "https://open.spotify.com/track/2HbR5EYtL80OAD9FyuJM6B"
@@ -2092,6 +2110,24 @@
       "duration_ms": 491152,
       "name": "Siskolle",
       "url": "https://open.spotify.com/track/1MZFxoyX9Ya7Dp2gduP61z"
+    },
+    {
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/0BhsEeLJT2lLMaEUWK2eCG"
+      },
+      "artists": [
+        {
+          "name": "VIRTA",
+          "url": "https://open.spotify.com/artist/4cEFRqiPqB2DmwlZTv6X3b"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224573,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/7dLT70xFb21N9Un90stelN"
     },
     {
       "album": {
@@ -2504,7 +2540,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 328583,
       "name": "Tunneli",
       "url": "https://open.spotify.com/track/29IzZzarZH9odXOpCGqAb3"
@@ -2668,7 +2704,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 352520,
       "name": "Wings",
       "url": "https://open.spotify.com/track/2aIABbDuZrdLfmKZBFaxUN"

@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 70057,
+  "num_followers": 70113,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWE0MzQ3NjNmNDhmMjA2MTQyNjM2MjA3Nzk4NzAwM2MwMTAxNGQx",
+  "snapshot_id": "MCxlOTU2ZmE3MGQ5NGI0MzM1NGQ0ZGFhMzM2MGE4OGZiYjIyY2I0MDFm",
   "tracks": [
     {
       "added_at": "2023-07-28 05:01:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
+        "name": "Doble Filo",
+        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 314773,
+      "name": "Privilegio",
+      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
         "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
         "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 145426,
       "name": "Los Aretes De La Luna",
       "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
-        "name": "Doble Filo",
-        "url": "https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 314773,
-      "name": "Privilegio",
-      "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
+        "name": "Disco de Oro",
+        "url": "https://open.spotify.com/album/0BReXvDDnar5dcAQIWvKLE"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 240625,
+      "name": "Mozo Deme Otra Copa",
+      "url": "https://open.spotify.com/track/7MjUWVbAxPN64rf5e2MorO"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
         "name": "Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 145426,
       "name": "Brujerias",
       "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/0BReXvDDnar5dcAQIWvKLE"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
-        }
-      ],
-      "duration_ms": 240625,
-      "name": "Mozo Deme Otra Copa",
-      "url": "https://open.spotify.com/track/7MjUWVbAxPN64rf5e2MorO"
     },
     {
       "added_at": "2023-07-28 05:01:00",

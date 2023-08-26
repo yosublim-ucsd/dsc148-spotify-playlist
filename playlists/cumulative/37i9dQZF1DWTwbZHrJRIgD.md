@@ -4,7 +4,7 @@
 
 > Let these happy tunes put a smile on your face\. Cover \- Jab Harry Met Sejal
 
-145 songs - 9 hr 6 min
+146 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Sau Aasmaan](https://open.spotify.com/track/0zHZSO80CTxNtvtRhveHRJ) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Baar Baar Dekho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ASFrellizlx98SmsItOEm) | 3:54 | 2022-03-09 | 2023-03-18 |
 | [Silly](https://open.spotify.com/track/7eMBQTqYXliAjhIQbPpunA) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP), [Manan Gupta](https://open.spotify.com/artist/2x3mhoW1JIlFvgwS7IWlkZ), [Arjit Singh](https://open.spotify.com/artist/0KkW3YBJhwXPBLMGRIDn2V) | [Silly](https://open.spotify.com/album/4ytQCxyOurx1KXEdA2n2Xu) | 2:54 | 2023-01-10 | 2023-01-25 |
 | [Slow Motion Angreza](https://open.spotify.com/track/0JX7Es2j556FwtR6YqMKzP) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Bhaag Milkha Bhaag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4) | 4:20 | 2022-03-09 | 2023-02-14 |
+| [Soneya](https://open.spotify.com/track/4T3afa03vozVX8YVwsr34x) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Soneya](https://open.spotify.com/album/2g1M3zZPVkYSHIj73loQBV) | 2:34 | 2023-08-25 |  |
 | [Sooraj Ki Baahon Mein](https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R) | [Dominique Cerejo](https://open.spotify.com/artist/2DwWEmeVaWxwkjbnyPlNZT), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 3:22 | 2022-03-09 |  |
 | [Sun Maahi](https://open.spotify.com/track/0tE3kaT3c9tjSiOqZJnM1X) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Sun Maahi](https://open.spotify.com/album/4EoDmQSqtj9lJKUu8vjKbR) | 2:49 | 2022-12-05 | 2023-02-21 |
 | [Sun Zara \(From "Cirkus"\)](https://open.spotify.com/track/6lBUJpovAhtc7WqhDNiLtX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Sun Zara \(From "Cirkus"\)](https://open.spotify.com/album/2tMKjBxs2QKAk6woe8MJEn) | 3:35 | 2022-12-16 | 2023-02-21 |

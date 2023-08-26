@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 177900,
       "name": "4am",
       "url": "https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5"
@@ -100,6 +100,24 @@
       "duration_ms": 187223,
       "name": "A Language Dissapears - Single Edit",
       "url": "https://open.spotify.com/track/7LrAeGqcAy9o7m5OjQVwU4"
+    },
+    {
+      "album": {
+        "name": "aching",
+        "url": "https://open.spotify.com/album/3yovro8TSyXGwJQppYWf8O"
+      },
+      "artists": [
+        {
+          "name": "yuronono",
+          "url": "https://open.spotify.com/artist/4cQiVRDyg34QUEs9uFW6Sj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207148,
+      "name": "aching",
+      "url": "https://open.spotify.com/track/1ioVkY9rh0szKZys1JmSgy"
     },
     {
       "album": {
@@ -507,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Daydream Twins",
+        "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
+      },
+      "artists": [
+        {
+          "name": "Daydream Twins",
+          "url": "https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362601,
+      "name": "Carpop",
+      "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
+    },
+    {
+      "album": {
         "name": "Catch The Waves",
         "url": "https://open.spotify.com/album/3nUOd3hYpLCDfgLLRI69oS"
       },
@@ -864,7 +900,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 188265,
       "name": "Dream, Ivory",
       "url": "https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE"
@@ -1845,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/7Kvgk3FSRAKFKVZrvhNjmy"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310773,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc"
+    },
+    {
+      "album": {
         "name": "Oak",
         "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
       },
@@ -1874,7 +1928,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 158687,
       "name": "Love",
       "url": "https://open.spotify.com/track/1szQmkXiC5hZ3iCkgDctvl"
@@ -1950,6 +2004,24 @@
       "duration_ms": 227953,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/2ts21ZYW03qgYpJ83huP2D"
+    },
+    {
+      "album": {
+        "name": "so close to ok",
+        "url": "https://open.spotify.com/album/7eaSpxWkxWWYc3rSfHVfuv"
+      },
+      "artists": [
+        {
+          "name": "Max Fry",
+          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121617,
+      "name": "lungs",
+      "url": "https://open.spotify.com/track/7hQmgR3ssV8Racno82rkB1"
     },
     {
       "album": {
@@ -2342,7 +2414,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 169750,
       "name": "Over It",
       "url": "https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH"
@@ -2869,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "spiral",
+        "url": "https://open.spotify.com/album/7B5kjHvuXhUU54QdVuA1ry"
+      },
+      "artists": [
+        {
+          "name": "untitled halo",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "spiral",
+      "url": "https://open.spotify.com/track/7M0dr4u7mOvBXZchosvilZ"
+    },
+    {
+      "album": {
         "name": "Capsule Losing Contact",
         "url": "https://open.spotify.com/album/0PQKxvYXBokFo7oxsKmwXq"
       },
@@ -2916,7 +3006,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 199769,
       "name": "Still Dark",
       "url": "https://open.spotify.com/track/6onAMsBb1Peu1Tlyw8Qpjx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be">Drakare</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,236 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,322 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 79 | [Confam](https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Confam](https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln) | 2:37 |
 | 80 | [Tear Rubber Grace](https://open.spotify.com/track/6ecyIaD5GRVlRUBNZrLYn1) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Tear Rubber Grace](https://open.spotify.com/album/5gooQAUSFgBtKsyFqnmJL6) | 2:24 |
 
-Snapshot ID: `MCw2MjBlZmM5YWJjZTY4YmM0NzM2OWU5OGRhYWE3OGEzNzI5YzJiY2Jj`
+Snapshot ID: `MCw0YmRkMzlmYWZmNTA1NDM5YjJjMjRjOGRkOTlkZjNiYmUyODU4YWVl`

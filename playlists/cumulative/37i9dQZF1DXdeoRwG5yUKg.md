@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-153 songs - 10 hr 36 min
+154 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Slow Love](https://open.spotify.com/track/1DTjDi7vp3NnYfOtOnLf5R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:38 | 2020-11-05 | 2023-04-30 |
 | [Smile](https://open.spotify.com/track/599mXRPZpfTGaecsE1A2OQ) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Unclassified](https://open.spotify.com/album/1bzshLWwMYoSQdLXa7HZn8) | 4:53 | 2020-11-05 |  |
 | [Smile At The Mention](https://open.spotify.com/track/660y7d6UfYBNdU9U2Tewn6) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:38 | 2022-07-29 |  |
+| [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-25 |  |
 | [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 | 2021-10-01 |  |
 | [Someday](https://open.spotify.com/track/5MS6qXLKnY68DMlliiwfTX) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:19 | 2021-10-01 | 2023-07-16 |
 | [Something To Lose](https://open.spotify.com/track/2m1CK247MhzvfuX3DiBo00) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Something To Lose/Better Than You Want](https://open.spotify.com/album/1palVaI8ZlhKqztsGqSEB7) | 4:48 | 2020-11-05 | 2022-07-29 |
@@ -133,7 +134,7 @@
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-09-02 |  |
 | [The World Moves On](https://open.spotify.com/track/2O8w4ULp2uun76A2IgVjsz) | [Hitman Blues Band](https://open.spotify.com/artist/01auum1XBkykoXiQl6ynkx) | [The World Moves On](https://open.spotify.com/album/4fvPhrcHvGlB9fPD1BjIVK) | 4:44 | 2020-11-05 |  |
 | [They Never Pay Me](https://open.spotify.com/track/0P8bwaiduhHPn872Afg1jf) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Sunset Avenue](https://open.spotify.com/album/58CjcMpyfhzxuAFwDoZEyz) | 3:33 | 2020-11-05 | 2022-11-13 |
-| [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 | 2020-11-05 |  |
+| [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 | 2020-11-05 | 2023-08-26 |
 | [They Never Pay Me](https://open.spotify.com/track/6FblM1pI9C3mZng2qPzXBj) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Sunset Avenue](https://open.spotify.com/album/0DPnQNdHFY8kxsXwhCyaDk) | 3:33 | 2020-11-05 | 2022-07-29 |
 | [Time To Leave](https://open.spotify.com/track/5TUCm5o4qf5y47EnyHStZy) | [Rich Robinson](https://open.spotify.com/artist/7lEokLkF9CWjEBogNWcV69) | [Flux](https://open.spotify.com/album/0aCwNu0L6QMcSexzdUjcGD) | 4:58 | 2020-11-05 | 2022-09-03 |
 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 | 2020-11-05 |  |

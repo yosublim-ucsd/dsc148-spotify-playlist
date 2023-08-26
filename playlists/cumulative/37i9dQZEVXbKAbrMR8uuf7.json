@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 200000,
       "name": "BIM BIM",
       "url": "https://open.spotify.com/track/6cQIVOogRq8CZ0HKPuQeHZ"
@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 168133,
       "name": "CHORRITO PA LAS ANIMAS",
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 200454,
       "name": "Cuerpo Natural",
       "url": "https://open.spotify.com/track/4EvvYJIu3l45MCUHDvZf7Q"
@@ -4806,7 +4806,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 162516,
       "name": "Dia de lluvia",
       "url": "https://open.spotify.com/track/32BaE5DOBs3eVUhu836xjG"
@@ -5084,6 +5084,36 @@
       "duration_ms": 286066,
       "name": "Diles",
       "url": "https://open.spotify.com/track/5ZzNGwBBGaewMGG1LucGfp"
+    },
+    {
+      "album": {
+        "name": "Dimdon (Remix)",
+        "url": "https://open.spotify.com/album/0ya82jtZ5oIDMsCMl12gKN"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        },
+        {
+          "name": "Vuelty",
+          "url": "https://open.spotify.com/artist/5EKEiazVN2v8KUMpXvF6oQ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135655,
+      "name": "Dimdon - Remix",
+      "url": "https://open.spotify.com/track/3STV7c3i82ArcyMejMHIwH"
     },
     {
       "album": {
@@ -6800,7 +6830,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 176000,
       "name": "Fuap",
       "url": "https://open.spotify.com/track/28SnYTIt7AZesz8jj7DGEZ"
@@ -7734,6 +7764,24 @@
       "duration_ms": 206681,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl"
+    },
+    {
+      "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/5u4okqATU0DehNcBONWmkw"
+      },
+      "artists": [
+        {
+          "name": "Paul Hernandez",
+          "url": "https://open.spotify.com/artist/0fJKr4CDlr0IuJvScP17DB"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180188,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/4hKp5QaP64Y38RtrrFbLuD"
     },
     {
       "album": {
@@ -13516,7 +13564,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
@@ -18910,7 +18958,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 185182,
       "name": "Te Borre",
       "url": "https://open.spotify.com/track/4xl2CCVJQsHw90Cq84FqLG"
@@ -20870,7 +20918,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

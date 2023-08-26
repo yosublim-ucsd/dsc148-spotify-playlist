@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 158171,
       "name": "8 to infinity",
       "url": "https://open.spotify.com/track/4RqdIBIVMQk5konaaFJABh"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 125663,
       "name": "Baradero",
       "url": "https://open.spotify.com/track/40cYHjUocT2uYHIBLFhT8n"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 187970,
       "name": "Basket Case - 4-track demo",
       "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 158723,
       "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
       "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
@@ -1410,6 +1410,28 @@
       "duration_ms": 139966,
       "name": "Blitzkrieg Bop (Metal Version)",
       "url": "https://open.spotify.com/track/7zQBUTdmR08xAzwL7ppqdx"
+    },
+    {
+      "album": {
+        "name": "Blood Moon (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Blood Moon (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
     },
     {
       "album": {
@@ -1650,6 +1672,24 @@
       "duration_ms": 111066,
       "name": "Captain Chicken (feat. Del The Funky Homosapien)",
       "url": "https://open.spotify.com/track/24LSAGp2LmT1Kd6y8PPFr2"
+    },
+    {
+      "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
     },
     {
       "album": {
@@ -3063,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Dumptruck",
+        "url": "https://open.spotify.com/album/4NfcikeRcHAduFCsBLneVr"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172213,
+      "name": "Dumptruck",
+      "url": "https://open.spotify.com/track/5ADiwjcccncgVcYem16lkn"
+    },
+    {
+      "album": {
         "name": "The Dethalbum (Expanded Edition) [Bonus Tracks]",
         "url": "https://open.spotify.com/album/4c6UA2PK8mHXRpOSDmReQK"
       },
@@ -3258,7 +3316,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 192144,
       "name": "Endless Fashion (with Nicki Minaj) - sped up version",
       "url": "https://open.spotify.com/track/5DxOt3uyfE2kGWuTXp6xaG"
@@ -3886,7 +3944,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 164623,
       "name": "For The Moment Remix",
       "url": "https://open.spotify.com/track/5Glm7fW6DyISIc5rFAOhF6"
@@ -4597,6 +4655,24 @@
     },
     {
       "album": {
+        "name": "Hella Good (Metal Version)",
+        "url": "https://open.spotify.com/album/5CfBbX5MpZ8q4lEPtDsYWY"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210716,
+      "name": "Hella Good (Metal Version)",
+      "url": "https://open.spotify.com/track/4M3nv7F7mMsde0lzb46UTI"
+    },
+    {
+      "album": {
         "name": "Her Melody",
         "url": "https://open.spotify.com/album/1k21Zq7vj3fuoYVeZD2TJm"
       },
@@ -4924,7 +5000,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 190285,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
@@ -6317,6 +6393,32 @@
     },
     {
       "album": {
+        "name": "may7th2016",
+        "url": "https://open.spotify.com/album/56ftlQi2YxEAzTfoBEycCE"
+      },
+      "artists": [
+        {
+          "name": "dear me archive",
+          "url": "https://open.spotify.com/artist/2yMcfIEeavL6CU6LRw72q1"
+        },
+        {
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
+        },
+        {
+          "name": "Dear Me",
+          "url": "https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182344,
+      "name": "may7th2016",
+      "url": "https://open.spotify.com/track/4ogvo6N7l8hODrXRlEqH9s"
+    },
+    {
+      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -6753,6 +6855,24 @@
     },
     {
       "album": {
+        "name": "Mississippi Half-Step Uptown Toodeloo (Live at McGaw Memorial Hall, Northwestern University, Evanston, IL, 11/1/73)",
+        "url": "https://open.spotify.com/album/36btSMYKldXWuEqsmbTR7P"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484014,
+      "name": "Mississippi Half-Step Uptown Toodeloo (Live at McGaw Memorial Hall, Northwestern University, Evanston, IL, 11/1/73)",
+      "url": "https://open.spotify.com/track/5OoanGP31Men587WGQYQgH"
+    },
+    {
+      "album": {
         "name": "Modern Day Miracle",
         "url": "https://open.spotify.com/album/3Hgr5iTzcifd9TibgdsSsm"
       },
@@ -6926,6 +7046,24 @@
       "duration_ms": 213927,
       "name": "MOTHERLESS - Single Version",
       "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
+    },
+    {
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/5S0eXl1GZ3SAZfQ2HM5QyW"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273626,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/3JHNieO8JATU24quh4tbPf"
     },
     {
       "album": {
@@ -8476,7 +8614,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 269613,
       "name": "Say You Love Me - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
       "url": "https://open.spotify.com/track/2qtq98xBZgRhlxhoXvtK8w"
@@ -8524,7 +8662,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 259859,
       "name": "Scream & Shout (Metal Version)",
       "url": "https://open.spotify.com/track/6nhPqiiB5sy8E5hDfpsdeT"
@@ -8564,6 +8702,32 @@
       "duration_ms": 183521,
       "name": "See You in Hell",
       "url": "https://open.spotify.com/track/5gazxneHMo1SAyO8ztO9rL"
+    },
+    {
+      "album": {
+        "name": "Sentry (feat. MIKE)",
+        "url": "https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141186,
+      "name": "Sentry (feat. MIKE)",
+      "url": "https://open.spotify.com/track/5L2zGgJi9BlL3CjVF4KL7W"
     },
     {
       "album": {
@@ -9004,6 +9168,24 @@
       "duration_ms": 154200,
       "name": "Sophisticated",
       "url": "https://open.spotify.com/track/5LZ3zbyyCVFmGBC5Sdvwlk"
+    },
+    {
+      "album": {
+        "name": "Dethalbum IV",
+        "url": "https://open.spotify.com/album/0kOvFgwICfLldItMxuJvgC"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278551,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0F3ZZbifDKx287p4e24BDs"
     },
     {
       "album": {
@@ -10250,7 +10432,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 111452,
       "name": "The Seren Poop Song",
       "url": "https://open.spotify.com/track/6KdKHR6PoTffiwhiVW4Qnu"
@@ -10310,7 +10492,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 621333,
       "name": "The Voice of King Nipsey (feat. Kamasi Washington, Robert 'Sput' Searight, Larry Goldings & Nir Felder)",
       "url": "https://open.spotify.com/track/5PO7nf7EyBSk4n4tyj6QSi"
@@ -11476,6 +11658,24 @@
     {
       "album": {
         "name": "BLISS",
+        "url": "https://open.spotify.com/album/2Qaa0dAuQExYOvjikXF0ru"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48306,
+      "name": "Welcome To The P.I.T.S. (Skit)",
+      "url": "https://open.spotify.com/track/0r3Fv0ezdeg9Dna28lnvk7"
+    },
+    {
+      "album": {
+        "name": "BLISS",
         "url": "https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL"
       },
       "artists": [
@@ -11486,7 +11686,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 48306,
       "name": "Welcome To The P.I.T.S. (Skit)",
       "url": "https://open.spotify.com/track/7BOMUYPpca6405jjrWTL6N"
@@ -11530,6 +11730,24 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "Dookie (30th Anniversary 4-Track Demos)",
+        "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121441,
+      "name": "When I Come Around - 4-track demo",
+      "url": "https://open.spotify.com/track/1AQZlSq7fPI6RlErGe8YSa"
     },
     {
       "album": {
@@ -11588,7 +11806,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 198665,
       "name": "White Gloves - Live at RBC Echo Beach",
       "url": "https://open.spotify.com/track/1A0KLIF0uXnUJp5WE1OelO"
@@ -11712,6 +11930,32 @@
       "duration_ms": 320266,
       "name": "Wish Automatic Suite",
       "url": "https://open.spotify.com/track/6JhuM6y76K6CptGApIn0Oj"
+    },
+    {
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293122,
+      "name": "Witchcraft (feat. Robert Glasper)",
+      "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
     },
     {
       "album": {
@@ -11896,6 +12140,24 @@
       "duration_ms": 180243,
       "name": "You're Still The One - Frank Walker Remix",
       "url": "https://open.spotify.com/track/78Rs4n8DEwaRh7CWeEySx5"
+    },
+    {
+      "album": {
+        "name": "Your Side of Town",
+        "url": "https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Your Side of Town",
+      "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"
     },
     {
       "album": {

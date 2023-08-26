@@ -2,9 +2,9 @@
 
 ### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Lovely, acoustic pop\. Cover: Pink Sweat$
+> Lovely, acoustic pop\. Cover: Ashley Kutcher
 
-199 songs - 11 hr 2 min
+201 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 | 2022-01-28 | 2022-10-09 |
 | [Lover \- First Dance Remix](https://open.spotify.com/track/2msvOEbkK50foYf9BMXr2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover \(First Dance Remix\)](https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At) | 3:53 | 2022-01-28 |  |
 | [Loverboy \- Acoustic](https://open.spotify.com/track/6EdlzHYryob6RgNPuxVCeI) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy \(Acoustic\)](https://open.spotify.com/album/0RbC7QVHD6RKZfFNjM3FnM) | 3:35 | 2022-01-28 | 2022-08-06 |
+| [Matchbox](https://open.spotify.com/track/0wXFG6Mp60kQn4MA5DdBrw) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Matchbox](https://open.spotify.com/album/0qt1he5UlLF3ZBtwmcPzif) | 3:31 | 2023-08-25 |  |
 | [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-19 | 2023-07-01 |
 | [Mine \- Stripped Version](https://open.spotify.com/track/5GbX3kHPKh1tZhDzUbHqcf) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Mine \(Stripped Version\)](https://open.spotify.com/album/2djoKJZLB1vXSGxVOLhl5b) | 2:58 | 2022-01-28 | 2023-04-15 |
 | [Minefields \- Live Acoustic](https://open.spotify.com/track/1C2o1BM7TI9uzQTvWrFU7h) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields \(Live Acoustic\)](https://open.spotify.com/album/02lEy3RsCbRPfEbHO6IWo7) | 3:13 | 2022-01-28 |  |
@@ -137,7 +138,7 @@
 | [Moments](https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Moments](https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp) | 2:42 | 2023-04-14 |  |
 | [Movie Star](https://open.spotify.com/track/3OGJBbKejetygGZhCP1A64) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Movie Star](https://open.spotify.com/album/7wGfsEAgeDFizEjwEYOKvt) | 3:40 | 2023-04-28 | 2023-07-08 |
 | [My Head & My Heart \- Acoustic](https://open.spotify.com/track/6UBi37Yx8KL3yEHBA1oivc) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Head & My Heart \(Acoustic\)](https://open.spotify.com/album/0M087TM0WfDrEh6lGIR18P) | 3:11 | 2022-01-28 | 2023-06-10 |
-| [My My My! \- Acoustic](https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My! \(Remixes\)](https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN) | 3:43 | 2022-07-15 |  |
+| [My My My! \- Acoustic](https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My! \(Remixes\)](https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN) | 3:43 | 2022-07-15 | 2023-08-26 |
 | [My My My! \- Acoustic](https://open.spotify.com/track/4SQG8VU2qmbvgb53ptyjz9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My! \(Acoustic\)](https://open.spotify.com/album/2lXAwRwgMTwcXS3NNekp6Q) | 3:43 | 2022-01-28 | 2022-07-29 |
 | [My My My! \- Acoustic](https://open.spotify.com/track/5PygDCtltfdFG7Bsp8V1L8) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Acoustic Music Australia](https://open.spotify.com/album/3XVuvHFUsUMlwaUG1IgkGF) | 3:43 | 2022-10-14 | 2022-11-13 |
 | [My Universe \- Acoustic Version](https://open.spotify.com/track/6nhc3daOpKaZBRj2ZFWfc7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 3:43 | 2022-01-28 |  |
@@ -190,6 +191,7 @@
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-07 |  |
 | [There's No Way \- Live from Box Fresh, London, 2018](https://open.spotify.com/track/0hDM5uXQEUB7KAneZr5KqQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2) | 2:44 | 2022-10-14 | 2023-02-25 |
 | [There's No Way \- Live from Box Fresh, London, 2018](https://open.spotify.com/track/71OIThiJmbKLnqbmNAAREk) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx) | 2:44 | 2022-01-28 | 2022-11-02 |
+| [Thunderclouds](https://open.spotify.com/track/3dFLOHljbnOZ9sFo6SjcVd) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Thunderclouds](https://open.spotify.com/album/5Ms2Gpc7e4cKJjBh8Gh0CJ) | 3:16 | 2023-08-25 |  |
 | [To Be Young \(feat\. Doja Cat\) \- Acoustic](https://open.spotify.com/track/3iSu8rkvERzl5iY5GEGE1h) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\) \[Acoustic\]](https://open.spotify.com/album/55S3bs4sdQeFuHdTXiLQ9G) | 3:13 | 2022-01-28 | 2022-10-15 |
 | [Too Close \- Live Acoustic Version](https://open.spotify.com/track/51AU7hD7lbLeEppubr1JdS) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Too Close \(Live Acoustic\)](https://open.spotify.com/album/7hKBW8gY2UEGd4Ng6s9SSP) | 3:11 | 2022-01-28 | 2023-05-10 |
 | [Train Wreck \- Acoustic](https://open.spotify.com/track/043T1ZzD0qHoesyfZhseGn) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Train Wreck \(Acoustic\)](https://open.spotify.com/album/6z6jD5mmTJ5Zr7HRA3C0WQ) | 3:29 | 2022-01-28 | 2023-04-29 |

@@ -1,12 +1,12 @@
 {
   "description": "De 50 populairste hits van Nederland. Cover: Dua Lipa\n",
-  "num_followers": 890785,
+  "num_followers": 890962,
   "original_name": "Top Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGFjYTFmNzYzYzhkYTFlNmI3ZWMxOWIzODdhZTg2NzdhM2UxN2Vm",
+  "snapshot_id": "MCwzOTZlMGEyODZlM2U1YTMxMjljZmFhZmFlZTkzN2FlZjMwZWI5MjNm",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -44,7 +44,7 @@
       "added_at": "2023-08-24 22:00:00",
       "album": {
         "name": "How You Samba",
-        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
+        "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
       },
       "artists": [
         {
@@ -62,7 +62,7 @@
       ],
       "duration_ms": 151680,
       "name": "How You Samba",
-      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
+      "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -407,6 +407,22 @@
       "duration_ms": 149653,
       "name": "UNHEALTHY (feat. Shania Twain)",
       "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2023-08-24 22:00:00",

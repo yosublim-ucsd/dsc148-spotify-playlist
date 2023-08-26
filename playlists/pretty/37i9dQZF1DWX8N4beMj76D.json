@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 9723,
+  "num_followers": 9729,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzE2MDNiNGUyZTE5MWJkODFkNmRhZjYyYTJjODk5MjBjZDQ5MDIw",
+  "snapshot_id": "MCw1YWZhODZlZWNjNDhiZmNiYTJhMDY4ZjUzMTJjMGJlYzc4NDE4NWZl",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
     },
     {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Thompson",
+          "url": "https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN"
+        }
+      ],
+      "duration_ms": 409333,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "You Want It Darker",
@@ -371,22 +387,6 @@
       "duration_ms": 304680,
       "name": "You Want It Darker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/4V9hISY6WBa3NPyBgcZ9dD"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Thompson",
-          "url": "https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN"
-        }
-      ],
-      "duration_ms": 409333,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -469,24 +469,24 @@
       "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
       },
       "artists": [
         {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         },
         {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+          "name": "The Chieftains",
+          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
         }
       ],
-      "duration_ms": 312760,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC"
+      "duration_ms": 199600,
+      "name": "Sisters Of Mercy",
+      "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -521,24 +521,24 @@
       "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
     },
     {
-      "added_at": "2018-12-06 19:29:22",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Tower Of Song - The Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC"
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
         },
         {
-          "name": "The Chieftains",
-          "url": "https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 199600,
-      "name": "Sisters Of Mercy",
-      "url": "https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw"
+      "duration_ms": 312760,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC"
     },
     {
       "added_at": "2018-12-06 19:29:22",

@@ -1,47 +1,15 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: Elephant Gym",
-  "num_followers": 142615,
+  "num_followers": 142788,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjQ4YzcxOGRjZWI4ZGM4ODc2MGYxM2M3MWNiOTUyOWM1ZWIxMzgy",
+  "snapshot_id": "MCwxOGRkNzc4ODY2ZDNjMGY1MTM4YThhOTA5NjZlNGNmYjYxNTE2M2E2",
   "tracks": [
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "American Football",
-        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
-      },
-      "artists": [
-        {
-          "name": "American Football",
-          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Never Meant",
-      "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc"
-      },
-      "artists": [
-        {
-          "name": "Elephant Gym",
-          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
-        }
-      ],
-      "duration_ms": 231422,
-      "name": "Witches",
-      "url": "https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "The Earth Is Not a Cold Dead Place",
         "url": "https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU"
@@ -57,7 +25,23 @@
       "url": "https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "duration_ms": 231422,
+      "name": "Witches",
+      "url": "https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Newborn Sun",
         "url": "https://open.spotify.com/album/6gDHF6BrncxR8UlIuvfUpT"
@@ -73,23 +57,7 @@
       "url": "https://open.spotify.com/track/0mnyjCNu9XUi5dv0JD3UqM"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "the book about my idle plot on a vague anxiety",
-        "url": "https://open.spotify.com/album/7x84X6ve0wa2UYckfCm1uV"
-      },
-      "artists": [
-        {
-          "name": "toe",
-          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "tremolo+delay",
-      "url": "https://open.spotify.com/track/4FMJnfuIHkiRMGuf4HcipI"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "El Ten Eleven",
         "url": "https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW"
@@ -105,7 +73,39 @@
       "url": "https://open.spotify.com/track/4q26ViixkilRLjl1MdLABS"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "the book about my idle plot on a vague anxiety",
+        "url": "https://open.spotify.com/album/7x84X6ve0wa2UYckfCm1uV"
+      },
+      "artists": [
+        {
+          "name": "toe",
+          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "tremolo+delay",
+      "url": "https://open.spotify.com/track/4FMJnfuIHkiRMGuf4HcipI"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "For the first time",
+        "url": "https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 382600,
+      "name": "Athens, France",
+      "url": "https://open.spotify.com/track/4gb6bKMg61GGfbhPTifP8A"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Fraction",
         "url": "https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl"
@@ -125,23 +125,7 @@
       "url": "https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "For the first time",
-        "url": "https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 382600,
-      "name": "Athens, France",
-      "url": "https://open.spotify.com/track/4gb6bKMg61GGfbhPTifP8A"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "effloresce",
         "url": "https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny"
@@ -161,23 +145,7 @@
       "url": "https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Dogs and Ducks",
-        "url": "https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz"
-      },
-      "artists": [
-        {
-          "name": "tricot",
-          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
-        }
-      ],
-      "duration_ms": 161240,
-      "name": "Dogs and Ducks",
-      "url": "https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Twin Galaxies",
         "url": "https://open.spotify.com/album/1bcWJMGRvDhvKHNmQmTTCd"
@@ -193,7 +161,23 @@
       "url": "https://open.spotify.com/track/1zvAP1uHLSDblWvv25rtad"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Dogs and Ducks",
+        "url": "https://open.spotify.com/album/3Gn1YUG8g4AxV7PCeZquTz"
+      },
+      "artists": [
+        {
+          "name": "tricot",
+          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
+        }
+      ],
+      "duration_ms": 161240,
+      "name": "Dogs and Ducks",
+      "url": "https://open.spotify.com/track/6XANNQ4GfMK8fubNkEcYzI"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Young Mountain",
         "url": "https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5"
@@ -209,7 +193,7 @@
       "url": "https://open.spotify.com/track/4llDF3RuBQYj2nkjTCJY4w"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Ten Billion People",
         "url": "https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q"
@@ -225,7 +209,7 @@
       "url": "https://open.spotify.com/track/66bDEpl6qeZD7XCRVLO5iW"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Here comes a new challenger!",
         "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
@@ -241,87 +225,7 @@
       "url": "https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "For Long Tomorrow",
-        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
-      },
-      "artists": [
-        {
-          "name": "toe",
-          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "two moons",
-      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Caballeros del Albedr\u00edo",
-        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "El Hombre P\u00e1nico",
-      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
-      },
-      "artists": [
-        {
-          "name": "Totorro",
-          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
-        }
-      ],
-      "duration_ms": 212016,
-      "name": "Chevalier Bulltoe",
-      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "potage",
-        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
-      },
-      "artists": [
-        {
-          "name": "tricot",
-          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
-        }
-      ],
-      "duration_ms": 246915,
-      "name": "potage",
-      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/3DIA7RA1Ga6aYw7qdjU88m"
-      },
-      "artists": [
-        {
-          "name": "Covet",
-          "url": "https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV"
-        }
-      ],
-      "duration_ms": 280235,
-      "name": "firebird",
-      "url": "https://open.spotify.com/track/1MYCp8HhMJfQuYqiHruJ7N"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Spring Island",
         "url": "https://open.spotify.com/album/4JeLdGuCEO9SF9SnFa9LBh"
@@ -337,23 +241,87 @@
       "url": "https://open.spotify.com/track/1ExXxnndA4qMDA0SK8KnLM"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
-        "name": "Uncut",
-        "url": "https://open.spotify.com/album/1KzBRYHx3eQQyRrMV15QXS"
+        "name": "For Long Tomorrow",
+        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
       },
       "artists": [
         {
-          "name": "Table",
-          "url": "https://open.spotify.com/artist/3CTWG4K6jaiMCZoi7GbpOq"
+          "name": "toe",
+          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
         }
       ],
-      "duration_ms": 284165,
-      "name": "Gagbox",
-      "url": "https://open.spotify.com/track/6z4N82GIM8xcF4Crzb8irS"
+      "duration_ms": 250253,
+      "name": "two moons",
+      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Caballeros del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
+      },
+      "artists": [
+        {
+          "name": "Totorro",
+          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+        }
+      ],
+      "duration_ms": 212016,
+      "name": "Chevalier Bulltoe",
+      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "potage",
+        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
+      },
+      "artists": [
+        {
+          "name": "tricot",
+          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
+        }
+      ],
+      "duration_ms": 246915,
+      "name": "potage",
+      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/3DIA7RA1Ga6aYw7qdjU88m"
+      },
+      "artists": [
+        {
+          "name": "Covet",
+          "url": "https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV"
+        }
+      ],
+      "duration_ms": 280235,
+      "name": "firebird",
+      "url": "https://open.spotify.com/track/1MYCp8HhMJfQuYqiHruJ7N"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Memory Lame",
         "url": "https://open.spotify.com/album/4xa1QJqW4ZVywlZQgMLKR9"
@@ -369,7 +337,7 @@
       "url": "https://open.spotify.com/track/4bhQ4kGrhteFbgSDSaOVqv"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "\u5de5\u4f5c Work",
         "url": "https://open.spotify.com/album/0Qy0Srk2am6EZHHbPqCgBB"
@@ -385,7 +353,7 @@
       "url": "https://open.spotify.com/track/5G1wOifWhpTlEhxbaQxQe5"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Time Will Die and Love Will Bury It",
         "url": "https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG"
@@ -401,7 +369,7 @@
       "url": "https://open.spotify.com/track/60qzUWBoLLARs9B82yD346"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "13.0.0.0.0",
         "url": "https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP"
@@ -417,7 +385,7 @@
       "url": "https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Floral EP",
         "url": "https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr"
@@ -433,7 +401,7 @@
       "url": "https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Centro De Dispersi\u00f3n",
         "url": "https://open.spotify.com/album/2cBhV03l2xuxYP072bNNde"
@@ -449,39 +417,7 @@
       "url": "https://open.spotify.com/track/2Hv4izofAjPpHD4CtdemPP"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Shiva",
-      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Intra Mental",
-        "url": "https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al"
-      },
-      "artists": [
-        {
-          "name": "Stage Kids",
-          "url": "https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU"
-        }
-      ],
-      "duration_ms": 225514,
-      "name": "Delaylay",
-      "url": "https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Ghost City",
         "url": "https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO"
@@ -497,7 +433,39 @@
       "url": "https://open.spotify.com/track/4F89IseMV1ILFfE8d9coyR"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Intra Mental",
+        "url": "https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al"
+      },
+      "artists": [
+        {
+          "name": "Stage Kids",
+          "url": "https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU"
+        }
+      ],
+      "duration_ms": 225514,
+      "name": "Delaylay",
+      "url": "https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "The EPs",
         "url": "https://open.spotify.com/album/6a6At1Djmp0LHbmFfaOUHI"
@@ -513,7 +481,7 @@
       "url": "https://open.spotify.com/track/3XY1XnhE0QjPUZqpIb7GDn"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "TNT",
         "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
@@ -529,23 +497,7 @@
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "I Hate My Village",
-        "url": "https://open.spotify.com/album/1X848nQC1P3Lk0UqoOuKI9"
-      },
-      "artists": [
-        {
-          "name": "I Hate My Village",
-          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Tony Hawk of Ghana",
-      "url": "https://open.spotify.com/track/4U0AlhWv6AQF9PHiwfaLdH"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Animals",
         "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
@@ -561,7 +513,23 @@
       "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "I Hate My Village",
+        "url": "https://open.spotify.com/album/1X848nQC1P3Lk0UqoOuKI9"
+      },
+      "artists": [
+        {
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Tony Hawk of Ghana",
+      "url": "https://open.spotify.com/track/4U0AlhWv6AQF9PHiwfaLdH"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "The View From This Tower",
         "url": "https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN"
@@ -577,7 +545,7 @@
       "url": "https://open.spotify.com/track/1aT2dSJgcxRs4q0sfB188o"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "split",
         "url": "https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN"
@@ -593,7 +561,7 @@
       "url": "https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Horizons / Rapture",
         "url": "https://open.spotify.com/album/5dcX51nu4mtE7vu3tNJyTN"
@@ -609,7 +577,7 @@
       "url": "https://open.spotify.com/track/5xF88xyWRwEMVq3waLRcah"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Medium Bastard",
         "url": "https://open.spotify.com/album/2BIgyOi0OlKk5KZnFN6KEY"
@@ -625,7 +593,7 @@
       "url": "https://open.spotify.com/track/4ZTs0vtv1Nesc71d9vsKIn"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "American Don",
         "url": "https://open.spotify.com/album/3y1aPtqR1BkUXAaOUoDCRo"
@@ -641,23 +609,7 @@
       "url": "https://open.spotify.com/track/01VhYbUIdJABCY4Ceupxbn"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Valuables",
-        "url": "https://open.spotify.com/album/6ppuPMu9s3GYz2sOiGcTJk"
-      },
-      "artists": [
-        {
-          "name": "Enemies",
-          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
-        }
-      ],
-      "duration_ms": 267852,
-      "name": "itsallwaves",
-      "url": "https://open.spotify.com/track/04xtPsRyfN9giDE6plaIev"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "SIMILAR",
         "url": "https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA"
@@ -677,7 +629,23 @@
       "url": "https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Valuables",
+        "url": "https://open.spotify.com/album/6ppuPMu9s3GYz2sOiGcTJk"
+      },
+      "artists": [
+        {
+          "name": "Enemies",
+          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+        }
+      ],
+      "duration_ms": 267852,
+      "name": "itsallwaves",
+      "url": "https://open.spotify.com/track/04xtPsRyfN9giDE6plaIev"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1"
@@ -693,7 +661,7 @@
       "url": "https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/1IGmIS1wTwiz0JgXnM7QHd"
@@ -709,7 +677,23 @@
       "url": "https://open.spotify.com/track/3ES9lq8vJ9FxheGU4yIHU4"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "If It Hadn't Ended Then, It Would've Ended Now (2023)",
+        "url": "https://open.spotify.com/album/4Ft3QViqXzQtEi7pScuGg3"
+      },
+      "artists": [
+        {
+          "name": "The Year End",
+          "url": "https://open.spotify.com/artist/3TAbCYRVx4d1HX3BNfK4KR"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "If It Hadn't Ended Then, It Would've Ended Now - 2023",
+      "url": "https://open.spotify.com/track/6VRllAKog8Hlnv4IG7iW1x"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Retcon",
         "url": "https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR"
@@ -725,7 +709,7 @@
       "url": "https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "X'ed Out",
         "url": "https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA"
@@ -741,7 +725,7 @@
       "url": "https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
@@ -757,7 +741,7 @@
       "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Morbid Curiosity",
         "url": "https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71"
@@ -773,7 +757,7 @@
       "url": "https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "H/O",
         "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
@@ -789,7 +773,7 @@
       "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Lava Land",
         "url": "https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM"
@@ -805,39 +789,7 @@
       "url": "https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "More Skin With Milk-Mouth",
-        "url": "https://open.spotify.com/album/0HIEyJpHJIusZPC9V6BEhV"
-      },
-      "artists": [
-        {
-          "name": "Giraffes? Giraffes!",
-          "url": "https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq"
-        }
-      ],
-      "duration_ms": 232986,
-      "name": "When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme.",
-      "url": "https://open.spotify.com/track/6svSukdIhpKDFaFJNrblJ4"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "M. Rueff",
         "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
@@ -853,7 +805,39 @@
       "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "More Skin With Milk-Mouth",
+        "url": "https://open.spotify.com/album/0HIEyJpHJIusZPC9V6BEhV"
+      },
+      "artists": [
+        {
+          "name": "Giraffes? Giraffes!",
+          "url": "https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq"
+        }
+      ],
+      "duration_ms": 232986,
+      "name": "When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme.",
+      "url": "https://open.spotify.com/track/6svSukdIhpKDFaFJNrblJ4"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Get In Losers, We\u2019re Going to Eternal Damnation",
         "url": "https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc"
@@ -869,7 +853,7 @@
       "url": "https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Fontana Bella",
         "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
@@ -885,7 +869,7 @@
       "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "World Class Listening Problem",
         "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
@@ -901,7 +885,7 @@
       "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Installation",
         "url": "https://open.spotify.com/album/5ZDDJpw5rFAtHNnmGMqiaO"
@@ -917,7 +901,7 @@
       "url": "https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Trees Before Fall",
         "url": "https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i"
@@ -933,7 +917,7 @@
       "url": "https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "A Forest of Polarity",
         "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
@@ -949,7 +933,7 @@
       "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "ARUKAS",
         "url": "https://open.spotify.com/album/0uLI0jDIzYmq6j8nFp833P"
@@ -965,7 +949,7 @@
       "url": "https://open.spotify.com/track/6uLC8OfM9t9CIut277h3Tv"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "The Occident",
         "url": "https://open.spotify.com/album/11jPIR10T2GX93P5rsy4Mi"
@@ -981,7 +965,7 @@
       "url": "https://open.spotify.com/track/2SDtTQfwz93RMCGsgTuvPr"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Two Eps",
         "url": "https://open.spotify.com/album/2mvec1eyAYGf9sfZJgufBb"
@@ -997,7 +981,7 @@
       "url": "https://open.spotify.com/track/6dVeC65T0SN94OFlXfjbgc"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Yum !!",
         "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
@@ -1013,7 +997,7 @@
       "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Gloss Drop",
         "url": "https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR"
@@ -1029,7 +1013,7 @@
       "url": "https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
@@ -1045,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Naufragio",
         "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
@@ -1061,7 +1045,7 @@
       "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Flemish Altruism (Constituent Parts 1993-1996) [Remaster]",
         "url": "https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70"
@@ -1077,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Floaty Boaty",
         "url": "https://open.spotify.com/album/5R0x6BSokx2A1Y6xgPzQqF"
@@ -1093,7 +1077,7 @@
       "url": "https://open.spotify.com/track/07b3OjJPJmxfCsmCwemABr"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Valerio Benustelli",
         "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
@@ -1109,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Beow",
         "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
@@ -1125,7 +1109,7 @@
       "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "The View From This Tower",
         "url": "https://open.spotify.com/album/4fNXymFLxgp2wfBWunVaeN"
@@ -1141,7 +1125,7 @@
       "url": "https://open.spotify.com/track/6Ld0jTImMWx6C5l7i1MlZI"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Canis Allegro",
         "url": "https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6"
@@ -1157,7 +1141,7 @@
       "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Stegosauro",
         "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
@@ -1173,7 +1157,7 @@
       "url": "https://open.spotify.com/track/7qJzlTrfXIVsVi0GSKdN3b"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Randoom Process",
         "url": "https://open.spotify.com/album/0rJ79WCWzi41WEcd1ZV3bJ"
@@ -1189,7 +1173,7 @@
       "url": "https://open.spotify.com/track/5Lcf4mhGROX92au0W9tpKq"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Route One or Die",
         "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
@@ -1205,23 +1189,7 @@
       "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Land Wars",
-        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
-      },
-      "artists": [
-        {
-          "name": "Land Wars",
-          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Friends Suck",
-      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "51\u00b031'47\"S 58\u00b007'44\"W",
         "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
@@ -1237,7 +1205,23 @@
       "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Land Wars",
+        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
+      },
+      "artists": [
+        {
+          "name": "Land Wars",
+          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Friends Suck",
+      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Imago",
         "url": "https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt"
@@ -1253,7 +1237,7 @@
       "url": "https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Sorrow EP",
         "url": "https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY"
@@ -1269,23 +1253,7 @@
       "url": "https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Abajo la tarea",
-        "url": "https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc"
-      },
-      "artists": [
-        {
-          "name": "Corriendo",
-          "url": "https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w"
-        }
-      ],
-      "duration_ms": 141776,
-      "name": "El sol es un holgaza\u0301n",
-      "url": "https://open.spotify.com/track/67pILfFYI7MpMCcytquiYN"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Psych!",
         "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
@@ -1301,7 +1269,23 @@
       "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Abajo la tarea",
+        "url": "https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc"
+      },
+      "artists": [
+        {
+          "name": "Corriendo",
+          "url": "https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w"
+        }
+      ],
+      "duration_ms": 141776,
+      "name": "El sol es un holgaza\u0301n",
+      "url": "https://open.spotify.com/track/67pILfFYI7MpMCcytquiYN"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Puentes",
         "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
@@ -1317,7 +1301,7 @@
       "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Ni Hablar",
         "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
@@ -1333,7 +1317,7 @@
       "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
@@ -1349,23 +1333,7 @@
       "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "I left work on my way home december 1st 1955",
-        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
-      },
-      "artists": [
-        {
-          "name": "nevraska",
-          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Hornet Vision",
-      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Asbestos Weak Hood",
         "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
@@ -1381,7 +1349,23 @@
       "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "I left work on my way home december 1st 1955",
+        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
+      },
+      "artists": [
+        {
+          "name": "nevraska",
+          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Hornet Vision",
+      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "The Plural Of The Choir",
         "url": "https://open.spotify.com/album/20Xbsn2bDcmtZKp6FliRP8"
@@ -1397,7 +1381,7 @@
       "url": "https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "P\u00e1ramo",
         "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
@@ -1413,55 +1397,7 @@
       "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/3XIKKZu6j73mu2MKFdi9JX"
-      },
-      "artists": [
-        {
-          "name": "Cazamos Cometas",
-          "url": "https://open.spotify.com/artist/66aOj1OwKfg765P5GPMLPQ"
-        }
-      ],
-      "duration_ms": 244375,
-      "name": "Lasitud",
-      "url": "https://open.spotify.com/track/1t3nTkvb3iTshGXZOg6AgU"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Alexander Supertramp",
-        "url": "https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj"
-      },
-      "artists": [
-        {
-          "name": "Bangladesh",
-          "url": "https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF"
-        }
-      ],
-      "duration_ms": 277300,
-      "name": "Alexander Supertramp",
-      "url": "https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
-      "album": {
-        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
-        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
-      },
-      "artists": [
-        {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Torino",
-      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
-    },
-    {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Propulsor",
         "url": "https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI"
@@ -1477,7 +1413,55 @@
       "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/3XIKKZu6j73mu2MKFdi9JX"
+      },
+      "artists": [
+        {
+          "name": "Cazamos Cometas",
+          "url": "https://open.spotify.com/artist/66aOj1OwKfg765P5GPMLPQ"
+        }
+      ],
+      "duration_ms": 244375,
+      "name": "Lasitud",
+      "url": "https://open.spotify.com/track/1t3nTkvb3iTshGXZOg6AgU"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Alexander Supertramp",
+        "url": "https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj"
+      },
+      "artists": [
+        {
+          "name": "Bangladesh",
+          "url": "https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF"
+        }
+      ],
+      "duration_ms": 277300,
+      "name": "Alexander Supertramp",
+      "url": "https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
+        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
+      },
+      "artists": [
+        {
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Torino",
+      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "All We Need Is A Little Energon And A Lot Of Luck",
         "url": "https://open.spotify.com/album/20zLM4mMsPQVVKiaXMxylI"
@@ -1493,7 +1477,7 @@
       "url": "https://open.spotify.com/track/5Ot1YTCuTtmqfcH01kN6fT"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Muted Earth",
         "url": "https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L"
@@ -1509,7 +1493,7 @@
       "url": "https://open.spotify.com/track/40hF24KMxg9LpglA9We3As"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/0cqqM2zJd407HJklMjwhjZ"
@@ -1525,7 +1509,7 @@
       "url": "https://open.spotify.com/track/0aNi1cBUNwl8Cmn8Erwu8R"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Migraciones",
         "url": "https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1"
@@ -1541,7 +1525,7 @@
       "url": "https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Limerencia: Split",
         "url": "https://open.spotify.com/album/17k2pajUNOQUUoWSjFd4st"
@@ -1557,7 +1541,7 @@
       "url": "https://open.spotify.com/track/2qocldaWoDwzSPR4D1Dqpv"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "003: Haiyah!",
         "url": "https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE"
@@ -1573,7 +1557,7 @@
       "url": "https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Coordenadas",
         "url": "https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0"
@@ -1589,7 +1573,7 @@
       "url": "https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Magyarorsz\u00e1g vagy hal\u00e1l",
         "url": "https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M"
@@ -1605,7 +1589,7 @@
       "url": "https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz"
     },
     {
-      "added_at": "2023-08-10 12:38:45",
+      "added_at": "2023-08-25 10:10:15",
       "album": {
         "name": "Kiev",
         "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
@@ -1619,6 +1603,22 @@
       "duration_ms": 303516,
       "name": "Caballos (Horses)",
       "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
+    },
+    {
+      "added_at": "2023-08-25 10:10:15",
+      "album": {
+        "name": "Ca\u00edste al Suelo",
+        "url": "https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl"
+      },
+      "artists": [
+        {
+          "name": "Pir\u00e1mides",
+          "url": "https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "14.12",
+      "url": "https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0"
     }
   ],
   "unique_name": "Math Rock",

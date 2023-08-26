@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: BRN",
+  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: Royale BR",
   "name": "Novos Beats",
   "tracks": [
     {
@@ -462,7 +462,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 130951,
       "name": "Fall Through",
       "url": "https://open.spotify.com/track/1HEXrpLmq5JKUIKAztNnQt"
@@ -510,6 +510,50 @@
       "duration_ms": 180937,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/5mvXTMweaYmTbHy4ccC9wQ"
+    },
+    {
+      "album": {
+        "name": "FMF",
+        "url": "https://open.spotify.com/album/2tzDCp2WcLMX5tvhFGYNPU"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Vitor Vinter",
+          "url": "https://open.spotify.com/artist/69Mveq4NwlSGijFnPnAlvD"
+        },
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "FMF - Bruno Furlan Remix",
+      "url": "https://open.spotify.com/track/6aLslHH3pTK8CGTv9Rv9N2"
+    },
+    {
+      "album": {
+        "name": "Frkk",
+        "url": "https://open.spotify.com/album/7uZ0yllK67ki5bgZ7OVa4Q"
+      },
+      "artists": [
+        {
+          "name": "Visage Music",
+          "url": "https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301879,
+      "name": "Frkk",
+      "url": "https://open.spotify.com/track/6hNnByj5SjNA6MGE4h1TbW"
     },
     {
       "album": {
@@ -906,7 +950,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 310000,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/2ufkb3FQTmK8OJpP7dZ5oB"
@@ -968,6 +1012,24 @@
       "duration_ms": 120752,
       "name": "My Moment",
       "url": "https://open.spotify.com/track/1yD2PHNXRMhJPcseTiOjg4"
+    },
+    {
+      "album": {
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/6gd2HEIElKRml3UJnIRNw3"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/2xJqtUrOdN7W2TqB84wHE1"
     },
     {
       "album": {
@@ -1058,7 +1120,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 208594,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/7IuiO4eF9YtCBpEfeNC7lr"
@@ -1200,7 +1262,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 446999,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/76TAjkJMvZIjpxWlbRN8sE"
@@ -1514,7 +1576,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 144623,
       "name": "Tears",
       "url": "https://open.spotify.com/track/4J8euWtEZJmDRuFAjzAMI5"
@@ -1615,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/04F8y4KfwMra5M1l3gplna"
+      },
+      "artists": [
+        {
+          "name": "Royale BR",
+          "url": "https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4xF3hjfUUEAOQESZmBwbnv"
+    },
+    {
+      "album": {
         "name": "Vai no Ch\u00e3o 2k23 (Original Mix)",
         "url": "https://open.spotify.com/album/39BfhReJ5DS5fOrM2nYdzy"
       },
@@ -1638,6 +1718,24 @@
       "duration_ms": 234927,
       "name": "Vai no Ch\u00e3o 2k23 - Original Mix",
       "url": "https://open.spotify.com/track/6BH2EOiwGPsa99fYTOdPAr"
+    },
+    {
+      "album": {
+        "name": "Velocidade",
+        "url": "https://open.spotify.com/album/7LmXgG6EOwRJ5468fhAbI6"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "Velocidade",
+      "url": "https://open.spotify.com/track/14QQZUBzohHF1BBSKZ1wfO"
     },
     {
       "album": {

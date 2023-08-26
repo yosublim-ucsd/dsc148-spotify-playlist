@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "2special",
+        "url": "https://open.spotify.com/album/72eL8kWXS0TxMGu8puh5yn"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167248,
+      "name": "2special",
+      "url": "https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x"
+    },
+    {
+      "album": {
         "name": "432 Drip",
         "url": "https://open.spotify.com/album/2MbDDoLYfcsvb9MsRoVhpl"
       },
@@ -230,6 +248,24 @@
       "duration_ms": 176482,
       "name": "432 Drip",
       "url": "https://open.spotify.com/track/5YmoINLXV15DcfJNwi1s1v"
+    },
+    {
+      "album": {
+        "name": "4ever1",
+        "url": "https://open.spotify.com/album/07D2Gq848vkcj5T1Gpfoyl"
+      },
+      "artists": [
+        {
+          "name": "caro\u2661",
+          "url": "https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156916,
+      "name": "4ever1",
+      "url": "https://open.spotify.com/track/0GxANOXWo9oJRjH32EOYkW"
     },
     {
       "album": {
@@ -558,7 +594,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 194167,
       "name": "ALL I GOT",
       "url": "https://open.spotify.com/track/5tbpU6W9x2hABB8P3cHzuh"
@@ -1656,7 +1692,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 131013,
       "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -3560,7 +3596,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 121428,
       "name": "Escape!",
       "url": "https://open.spotify.com/track/47SPO3hXbl1Hauhd0NkDbi"
@@ -4543,6 +4579,32 @@
     },
     {
       "album": {
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/1LXX0DLWq1UZ15n3u3fC3L"
+      },
+      "artists": [
+        {
+          "name": "Karma Fields",
+          "url": "https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/5ekpdwSkLgEIpvmjWqUjWa"
+    },
+    {
+      "album": {
         "name": "GET ME OUT OF THIS CLUB",
         "url": "https://open.spotify.com/album/0orRa5HzQrY8wBrcWaU5J3"
       },
@@ -5020,6 +5082,28 @@
       "duration_ms": 416318,
       "name": "Haze - Marlon Hoffstadt AKA DJ Daddy Trance Remix",
       "url": "https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G"
+    },
+    {
+      "album": {
+        "name": "head",
+        "url": "https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p"
+      },
+      "artists": [
+        {
+          "name": "Maisi",
+          "url": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137327,
+      "name": "head",
+      "url": "https://open.spotify.com/track/4rGZy1pDm0UGOYnZCI9nbb"
     },
     {
       "album": {
@@ -5774,7 +5858,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 228480,
       "name": "I GOT IT (FEAT. U\u00d1AS)",
       "url": "https://open.spotify.com/track/2fBPrtBTLHXxOpmLalySPb"
@@ -6698,7 +6782,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 153401,
       "name": "L.S.D. (Love So Damaged)",
       "url": "https://open.spotify.com/track/593Ul2Jp3P86EXlJy0VTBI"
@@ -9824,7 +9908,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 121690,
       "name": "ride like that",
       "url": "https://open.spotify.com/track/7qcLil8IUn5THEKdwE8iR9"
@@ -10531,6 +10615,28 @@
     },
     {
       "album": {
+        "name": "SHYPOP",
+        "url": "https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1"
+    },
+    {
+      "album": {
         "name": "silent cries",
         "url": "https://open.spotify.com/album/7J7wBqtYxiYBqYJPiWgovo"
       },
@@ -10662,7 +10768,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 128626,
       "name": "So Beautiful So Lonely",
       "url": "https://open.spotify.com/track/3zdLeOuOhJn5M3dLETL4ZU"
@@ -11299,6 +11405,24 @@
     },
     {
       "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/0X0e0D347ypBiOJa4vnUxZ"
+      },
+      "artists": [
+        {
+          "name": "Janis Zielinski",
+          "url": "https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166291,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/7vbIrYVjE9LYdiAeqp7fnY"
+    },
+    {
+      "album": {
         "name": "Take me home",
         "url": "https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns"
       },
@@ -11574,6 +11698,24 @@
       "duration_ms": 226779,
       "name": "Things I Never Nu",
       "url": "https://open.spotify.com/track/1NAYrYgd473ua418mz32xb"
+    },
+    {
+      "album": {
+        "name": "Things I Only Imagined",
+        "url": "https://open.spotify.com/album/5ANOR6eqngklTxd2fqwtvC"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127320,
+      "name": "Things I Only Imagined",
+      "url": "https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3"
     },
     {
       "album": {
@@ -11979,6 +12121,24 @@
     },
     {
       "album": {
+        "name": "twice as fast",
+        "url": "https://open.spotify.com/album/2iiEYkJrmIjnKTfhc3iMb2"
+      },
+      "artists": [
+        {
+          "name": "spiderblush",
+          "url": "https://open.spotify.com/artist/20b2KfO5KOXtq9jTWkfcQO"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173488,
+      "name": "twice as fast",
+      "url": "https://open.spotify.com/track/3v6Jt4W6kD3IYV5H52sExE"
+    },
+    {
+      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/7gcYUZfURSAifZwyxu4UGU"
       },
@@ -12198,7 +12358,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 165590,
       "name": "updown",
       "url": "https://open.spotify.com/track/06vDTKSGYDtZpXt8q0S5Zb"
@@ -12354,7 +12514,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 300475,
       "name": "VODKA REDBULL",
       "url": "https://open.spotify.com/track/61qgLjnMr3ModOOIb9DeNY"
@@ -13048,6 +13208,24 @@
       "duration_ms": 293751,
       "name": "Xtal",
       "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/2fOLGzu0x0JVuV7rTuGJXE"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/2ue7BMHrkz44k9Yxg0bq3o"
     },
     {
       "album": {

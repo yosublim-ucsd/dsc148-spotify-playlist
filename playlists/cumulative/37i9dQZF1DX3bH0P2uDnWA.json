@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 198880,
       "name": "ASCENDANT BRASIER - Balduin Remix - Electro Swing",
       "url": "https://open.spotify.com/track/0MJ4n3iA0w2xhRs6IC1UuV"
@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Let's Do It Again",
+        "url": "https://open.spotify.com/album/7xa28wFPtw25ufZ2VfLfQG"
+      },
+      "artists": [
+        {
+          "name": "11 Acorn Lane",
+          "url": "https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176884,
+      "name": "Let's Do It Again",
+      "url": "https://open.spotify.com/track/6ze5w2E78KvLCePhTTa3R0"
+    },
+    {
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn"
       },
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 203933,
       "name": "Pressure - Klisch\u00e9e Remix",
       "url": "https://open.spotify.com/track/7y7FwHBH5Al7M42rCtBF51"
@@ -4924,7 +4942,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 142592,
       "name": "Sway - Future Swing Mix",
       "url": "https://open.spotify.com/track/3ogL2bsjAYyiaQ0jOKy9su"
@@ -5054,6 +5072,24 @@
       "duration_ms": 196586,
       "name": "Swing It Like Roger",
       "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
+    },
+    {
+      "album": {
+        "name": "Swing Phonk 2",
+        "url": "https://open.spotify.com/album/12uAcM5YMqNfMkOCi7WRgg"
+      },
+      "artists": [
+        {
+          "name": "MAXPVNK",
+          "url": "https://open.spotify.com/artist/4dHkDmvdWDXoycp4Caui8D"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101612,
+      "name": "Swing Phonk 2",
+      "url": "https://open.spotify.com/track/74tXLSHDTdVpwKy5xhAJj5"
     },
     {
       "album": {

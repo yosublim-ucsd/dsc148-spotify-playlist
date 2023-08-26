@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-54 songs - 3 hr 21 min
+55 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Fale De Mim \- Mendel Edit](https://open.spotify.com/track/2ryRIpcDBPwWLoSO9ftOd5) | [Germannu](https://open.spotify.com/artist/4QyGx9SzqAy8khFKVgW9e2), [Mendel](https://open.spotify.com/artist/49yqlsZAJePjlhRcPUcNn6) | [Fale De Mim \(Mendel Edit\)](https://open.spotify.com/album/1ia2wFMYdfvxtMFFlXshnA) | 3:52 | 2023-01-20 |  |
 | [Funk\-se quem puder](https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Extra](https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD) | 3:11 | 2023-01-20 |  |
 | [Funky Tamborim](https://open.spotify.com/track/4pcOMeLJhj0k8EhowA1K0d) | [Tania Maria](https://open.spotify.com/artist/26DN8VRVU1IRg0AFgUfMZO) | [The Colors Of Latin Jazz: Soul Sauce!](https://open.spotify.com/album/5cBIcSfpcGNMSRMdggfTMl) | 3:16 | 2023-01-20 |  |
+| [Galo\-Galã](https://open.spotify.com/track/2VKOQs0nCyUJye7HTjn1lY) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Galo\-Galã](https://open.spotify.com/album/73LqcG5XBBmqn5bHaOu7KY) | 3:00 | 2023-08-25 |  |
 | [Ginga](https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:01 | 2023-01-20 |  |
 | [Guarde Minha Voz](https://open.spotify.com/track/4KOQk1FhOOIfuHMZahP5Wa) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/2tHPCtLKccEl3VYmQxq6Cp) | 3:11 | 2023-01-20 |  |
 | [Hora De União](https://open.spotify.com/track/5ruF1Y5naexriqC9dBxrtS) | [Lady Zu](https://open.spotify.com/artist/7lzdAzDICLFGLq6rFFy7ji), [Toto Mugabe](https://open.spotify.com/artist/0mV7Zy0WEGQyTSnfgxWI3H) | [Fêmea Brasileira](https://open.spotify.com/album/2qdXb0ZST1ewcz7ChAdTF6) | 3:31 | 2023-01-20 |  |
@@ -43,7 +44,7 @@
 | [Moqueca](https://open.spotify.com/track/1i0usGuYiymo13HXahmgSU) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2ZQLiEqJgQeNAVuZpMP8iA) | 4:04 | 2023-01-20 | 2023-04-30 |
 | [Moqueca](https://open.spotify.com/track/5sZPAUNM7hFOwsGGln1Tku) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Sounds Like Home](https://open.spotify.com/album/0ZWKbinvlLP8rYwx2zGszu) | 4:04 | 2023-01-20 |  |
 | [Moqueca](https://open.spotify.com/track/6Yj0ks8hjDNdBoaIEh4qor) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Zuzuka Poderosa](https://open.spotify.com/artist/7nl3XojkRg5nFB4i7t3ORp), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Moqueca](https://open.spotify.com/album/2HwJ0CA2decIfEMxfBnYwJ) | 4:04 | 2023-01-20 | 2023-06-12 |
-| [Morro do Barraco Sem Água](https://open.spotify.com/track/1TxZ3YTh0i1pKlQE37grQX) | [Lemos & Debétio](https://open.spotify.com/artist/5NpcrcGcWkjihQktEMNIKu) | [Morro do Barraco Sem Água](https://open.spotify.com/album/52yTCl3qAkQiMpT4thQ1FQ) | 2:49 | 2023-01-20 |  |
+| [Morro do Barraco Sem Água](https://open.spotify.com/track/1TxZ3YTh0i1pKlQE37grQX) | [Lemos & Debétio](https://open.spotify.com/artist/5NpcrcGcWkjihQktEMNIKu) | [Morro do Barraco Sem Água](https://open.spotify.com/album/52yTCl3qAkQiMpT4thQ1FQ) | 2:49 | 2023-01-20 | 2023-08-26 |
 | [Na baixa do sapateiro](https://open.spotify.com/track/0EFgQPupq1L5Xk8pipKhI1) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:26 | 2023-01-20 |  |
 | [O Amigo De Nova York](https://open.spotify.com/track/1xdNpP3eLIHFRRzkErt1Ju) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Grandes Temazos: Brasileños](https://open.spotify.com/album/6AqBCwtkW4NKSBxiqTMHmV) | 4:12 | 2023-01-20 |  |
 | [Olha Quem Tá Chegando](https://open.spotify.com/track/1VjA1oLevESicjs7Y3ueZe) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Sempre](https://open.spotify.com/album/2w5cyRvz7tVdrepQjcLPRV) | 6:35 | 2023-01-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 183704,
+  "num_followers": 183772,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWI2OTgzYjgyNmMwYzMxODZmOGZhOTRhNDk2NzZjMGE2ZmRlOTM0",
+  "snapshot_id": "MCw3MDkzN2JhMjkzYTVkMGI4MzJmYjBiZWUwMDExNjA1MDFmNjlhY2M5",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
-      },
-      "artists": [
-        {
-          "name": "Bossk",
-          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "White Stork",
-      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Clara",
         "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Between the Floating Mist",
-        "url": "https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
       },
       "artists": [
         {
-          "name": "LFO Waves",
-          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+          "name": "Bossk",
+          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
         }
       ],
-      "duration_ms": 179583,
-      "name": "Between the Floating Mist",
-      "url": "https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW"
+      "duration_ms": 355506,
+      "name": "White Stork",
+      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -527,6 +511,22 @@
       "duration_ms": 215415,
       "name": "The Runaround",
       "url": "https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Between the Floating Mist",
+        "url": "https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk"
+      },
+      "artists": [
+        {
+          "name": "LFO Waves",
+          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "Between the Floating Mist",
+      "url": "https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Lifelike",
-        "url": "https://open.spotify.com/album/7GVde2CNnIc3sdlHHsvxsx"
+        "name": "Long Stories",
+        "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
       },
       "artists": [
         {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
         }
       ],
-      "duration_ms": 317683,
-      "name": "Dust Circles",
-      "url": "https://open.spotify.com/track/3r4UNYCmm9FvGEYn6wAtIt"
+      "duration_ms": 203255,
+      "name": "Full Panther",
+      "url": "https://open.spotify.com/track/3GqCa4d3FyV6THZMofy11d"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Long Stories",
-        "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/7GVde2CNnIc3sdlHHsvxsx"
       },
       "artists": [
         {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 203255,
-      "name": "Full Panther",
-      "url": "https://open.spotify.com/track/3GqCa4d3FyV6THZMofy11d"
+      "duration_ms": 317683,
+      "name": "Dust Circles",
+      "url": "https://open.spotify.com/track/3r4UNYCmm9FvGEYn6wAtIt"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Improvisational Loops",
         "url": "https://open.spotify.com/album/7sYiiE8J3sHHCALicu6MUU"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "outside of your lifetime",
-        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
       },
       "artists": [
         {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
         }
       ],
-      "duration_ms": 237187,
-      "name": "Moderato",
-      "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Theory",
-        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
       },
       "artists": [
         {
-          "name": "TAKA",
-          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
         }
       ],
-      "duration_ms": 238846,
-      "name": "deaf",
-      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
+      "duration_ms": 237187,
+      "name": "Moderato",
+      "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -835,6 +819,22 @@
       "duration_ms": 220327,
       "name": "Flow in the Back",
       "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+      },
+      "artists": [
+        {
+          "name": "TAKA",
+          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+        }
+      ],
+      "duration_ms": 238846,
+      "name": "deaf",
+      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Nonlin",
-        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
-      },
-      "artists": [
-        {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        }
-      ],
-      "duration_ms": 369253,
-      "name": "Reverse Culture Music",
-      "url": "https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Flying to America",
         "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 468500,
       "name": "Flying to America",
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Nonlin",
+        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
+      },
+      "artists": [
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        }
+      ],
+      "duration_ms": 369253,
+      "name": "Reverse Culture Music",
+      "url": "https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Das Unheimliche",
-        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
-      },
-      "artists": [
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Das Unheimliche",
-      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Nepenthe",
         "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 195533,
       "name": "Offing",
       "url": "https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Das Unheimliche",
+        "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Das Unheimliche",
+      "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "PHANTOM BRICKWORKS (IV & V)",
-        "url": "https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 730640,
-      "name": "PHANTOM BRICKWORKS V",
-      "url": "https://open.spotify.com/track/2XfuNCXh0lNTbv0lzAVcDs"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Limits",
         "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 278000,
       "name": "Possibilities",
       "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "PHANTOM BRICKWORKS (IV & V)",
+        "url": "https://open.spotify.com/album/1YFFIE8haOc1zsefoE0Ka3"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 730640,
+      "name": "PHANTOM BRICKWORKS V",
+      "url": "https://open.spotify.com/track/2XfuNCXh0lNTbv0lzAVcDs"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "You Were Always an Island",
-        "url": "https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 354853,
-      "name": "You Were Always an Island",
-      "url": "https://open.spotify.com/track/7lwRmnv3T5ECX3lCsCvK9v"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Zorza",
         "url": "https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 336000,
       "name": "Zorza",
       "url": "https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "You Were Always an Island",
+        "url": "https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 354853,
+      "name": "You Were Always an Island",
+      "url": "https://open.spotify.com/track/7lwRmnv3T5ECX3lCsCvK9v"
     },
     {
       "added_at": "2023-04-21 14:41:23",

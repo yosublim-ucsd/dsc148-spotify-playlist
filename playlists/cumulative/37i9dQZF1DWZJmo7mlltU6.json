@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Cherry cola",
+        "url": "https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ"
+      },
+      "artists": [
+        {
+          "name": "TTRRUUCES",
+          "url": "https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Cherry cola",
+      "url": "https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv"
+    },
+    {
+      "album": {
         "name": "Conversations with the Moon",
         "url": "https://open.spotify.com/album/7HfLh4wPYNG2T4IrJhfciW"
       },
@@ -5031,6 +5049,28 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/02pB8vx8VkjQCbN1rCxKS6"
+      },
+      "artists": [
+        {
+          "name": "Pilani Bubu",
+          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
+        },
+        {
+          "name": "AfroNautiq",
+          "url": "https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/5oEQ8gEXm9jfjHxMOSKXSb"
+    },
+    {
+      "album": {
         "name": "Groovy Wonderland",
         "url": "https://open.spotify.com/album/3uGX3xm6PaponuKLdHYNFJ"
       },
@@ -5734,7 +5774,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 256991,
       "name": "Inigo",
       "url": "https://open.spotify.com/track/120oPV0jNIWalyFlMknzY6"
@@ -6348,6 +6388,24 @@
       "duration_ms": 157728,
       "name": "La Sonrisa En Tu Mirada",
       "url": "https://open.spotify.com/track/660hma57XtlHO8rHJ1l33p"
+    },
+    {
+      "album": {
+        "name": "La Ternura",
+        "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186065,
+      "name": "La Ternura",
+      "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
     },
     {
       "album": {
@@ -7759,6 +7817,24 @@
     },
     {
       "album": {
+        "name": "miercoles festivo",
+        "url": "https://open.spotify.com/album/1zLyW0X03wczSeNCcGrCxl"
+      },
+      "artists": [
+        {
+          "name": "melody pops",
+          "url": "https://open.spotify.com/artist/7deIUNGGERZl8Pfr0V8l3f"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122304,
+      "name": "miercoles festivo",
+      "url": "https://open.spotify.com/track/7bgJmZxsPDmTQFgaHRbzHf"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm"
       },
@@ -9012,7 +9088,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 164509,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/5nXCKYd6lt9gO7AhZPv6Wh"
@@ -11143,6 +11219,24 @@
     },
     {
       "album": {
+        "name": "Close to the Sun",
+        "url": "https://open.spotify.com/album/3lYAyUT4gBWtPRTytq9eLZ"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161081,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0LLsfeo4VRuHHlaWkNVpBI"
+    },
+    {
+      "album": {
         "name": "I started a garden",
         "url": "https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj"
       },
@@ -12646,6 +12740,24 @@
       "duration_ms": 191086,
       "name": "Todas Menos T\u00fa",
       "url": "https://open.spotify.com/track/7f1BZ7o9IWCnWh9yu71nMu"
+    },
+    {
+      "album": {
+        "name": "Together Above",
+        "url": "https://open.spotify.com/album/3N53vASzqRQZhD47Py538m"
+      },
+      "artists": [
+        {
+          "name": "Hot Freaks",
+          "url": "https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178546,
+      "name": "Together Above",
+      "url": "https://open.spotify.com/track/3EIxuXLSUxxnHRtS9bfCA9"
     },
     {
       "album": {

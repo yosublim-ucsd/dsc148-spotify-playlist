@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,471 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,961 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 4 | [Faz o Teu Nome](https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3) | [Faz o Teu Nome](https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B) | 1:39 |
 | 5 | [Halls na Língua \- Remix](https://open.spotify.com/track/5uTVtc2Oc93nBVqPPI8Ijj) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [DJ LUCAS DE PAULA](https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Halls na Língua](https://open.spotify.com/album/0FiyzguzViQQbVwi9QcgLl) | 2:23 |
 | 6 | [Furduncinho do Rogerinho](https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Furduncinho do Rogerinho](https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a) | 2:59 |
-| 7 | [barbie de chapéu \- funk](https://open.spotify.com/track/4MB8rQqtjrIrQw4ThCPf8e) | [Dj Paiva](https://open.spotify.com/artist/2383IwhdilQ7mXGRSR5VvM) | [barbie de chapéu \(funk\)](https://open.spotify.com/album/2gMfiCskXsisEV7LsqFLaB) | 2:33 |
-| 8 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 |
-| 9 | [Ai Que Delicia o Verão](https://open.spotify.com/track/0clo2HfL2gpiEpiE5mA3q5) | [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG) | [Ai Que Delicia o Verão](https://open.spotify.com/album/3deh2ncfGFYC8CKzpbQFCd) | 1:55 |
+| 7 | [Ai Que Delicia o Verão](https://open.spotify.com/track/0clo2HfL2gpiEpiE5mA3q5) | [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG) | [Ai Que Delicia o Verão](https://open.spotify.com/album/3deh2ncfGFYC8CKzpbQFCd) | 1:55 |
+| 8 | [barbie de chapéu \- funk](https://open.spotify.com/track/4MB8rQqtjrIrQw4ThCPf8e) | [Dj Paiva](https://open.spotify.com/artist/2383IwhdilQ7mXGRSR5VvM) | [barbie de chapéu \(funk\)](https://open.spotify.com/album/2gMfiCskXsisEV7LsqFLaB) | 2:33 |
+| 9 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 |
 | 10 | [Ballena](https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 3:20 |
 | 11 | [Marrento](https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Marrento](https://open.spotify.com/album/1XJEF1mvKoaXzrm57YiQ7D) | 2:09 |
 | 12 | [Faz Completo, Chefe](https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB) | [Faz Completo, Chefe](https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL) | 2:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 79 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 80 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw1ZDc4YWEzNzJiNDg1Y2VjZTg5MDQ0MGQwZTQxYzAyZGU0MjVmNzBi`
+Snapshot ID: `MCxiNjQ3MGY2MmQyYTdkNDkxY2QwNmVlMTYwYWY5OWFkNzNiOWVlODY5`

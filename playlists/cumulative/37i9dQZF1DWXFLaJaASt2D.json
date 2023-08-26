@@ -492,6 +492,24 @@
     {
       "album": {
         "name": "The Real Ramona",
+        "url": "https://open.spotify.com/album/5ejnwNGskDCpNjBnBGw67h"
+      },
+      "artists": [
+        {
+          "name": "Throwing Muses",
+          "url": "https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190573,
+      "name": "Not Too Soon",
+      "url": "https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB"
+    },
+    {
+      "album": {
+        "name": "The Real Ramona",
         "url": "https://open.spotify.com/album/4Tvtq50di0OrLLSWAcAubS"
       },
       "artists": [
@@ -664,7 +682,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 157533,
       "name": "Ruby Soho",
       "url": "https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2"

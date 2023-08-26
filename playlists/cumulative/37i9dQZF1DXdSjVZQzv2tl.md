@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Luan Pereira, Gustavo Mioto
+> O melhor do sertanejo em uma só playlist! Foto: Gusttavo Lima, Matheus & Kauan
 
 156 songs - 7 hr 24 min
 

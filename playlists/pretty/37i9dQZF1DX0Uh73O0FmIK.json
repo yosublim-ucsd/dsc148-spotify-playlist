@@ -1,12 +1,12 @@
 {
   "description": "01101110 01100101 01110010 01100100",
-  "num_followers": 175819,
+  "num_followers": 175965,
   "original_name": "metaverses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmIzNGIyZTg1ZjU1Yzk2YmM0MGVjODY1MTI5ZDJmNzdjYTk4MjNh",
+  "snapshot_id": "MCwyMWQzYTUxMmM1YmE3MTEwYTkzNTFjNWRjYWUxYjAxNjc0YjgwNTVi",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -758,6 +758,10 @@
         {
           "name": "Chris Lake",
           "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         },
         {
           "name": "NPC",

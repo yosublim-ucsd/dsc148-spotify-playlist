@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x?si=fca1d70fc7a14083">Turnstile</a> challenges norms and breaks boundaries\. These are the songs that shape their alternative spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,045 likes - 34 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,123 likes - 34 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 33 | [Jesus Freak Lighter](https://open.spotify.com/track/69HzCwBpJw1oP53cJtKRUz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 2:32 |
 | 34 | [ENDLESS](https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:58 |
 
-Snapshot ID: `MCwxNWE2MDczODA5OTBhODA5ZmY0Y2I3ZWViZWU2NjQ1YTJiZGY0OWQ3`
+Snapshot ID: `MCxjODY3NGQ0MTk2OTM1ZGY4Njk1YmQwZTgxMDQ5OWNhN2FiODEwMmQ4`

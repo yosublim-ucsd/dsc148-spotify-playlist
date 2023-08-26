@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-235 songs - 15 hr 0 min
+236 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Pursuit of Happiness](https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW) | [Tray Wellington Band](https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp), [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Pursuit of Happiness](https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq) | 5:33 | 2023-05-05 |  |
 | [Rich Girl](https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Rich Girl](https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf) | 3:50 | 2022-04-01 |  |
 | [Rocket Man](https://open.spotify.com/track/72dagJWCsNeAmHYBdQdksq) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Rocket Man](https://open.spotify.com/album/2OmgpU3fI3fmUvbl69QqB8) | 3:23 | 2021-08-20 |  |
+| [Royals](https://open.spotify.com/track/2yWtZjGxu76tyPkVzEdIr6) | [The Dirty Grass Players](https://open.spotify.com/artist/1HlOYXajSxLdESRO3CfP0X) | [Royals \(Bluegrass Cover\)](https://open.spotify.com/album/0IkOVFkJiIQASnXyVEqSeN) | 6:36 | 2023-08-25 |  |
 | [Running Up That Hill](https://open.spotify.com/track/3VxdLLHdGq3axyW5OJwJKz) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Running Up That Hill](https://open.spotify.com/album/6BK9JbwMtZ4pTKNiZeF7if) | 2:44 | 2023-03-24 | 2023-04-29 |
 | [Running Up That Hill](https://open.spotify.com/track/6LwpZOqFrY4sLkQFPtFEfq) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Pizza Tickets](https://open.spotify.com/album/0RK0VdRrsFe3ZozfDfBl09) | 2:44 | 2023-04-28 |  |
 | [Safe and Sound](https://open.spotify.com/track/7b6xD3ols9DgVfj53SmENK) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' on the Hits of 2013](https://open.spotify.com/album/292fsG4QD09hcPL5FYgENM) | 3:10 | 2021-08-20 | 2023-05-14 |

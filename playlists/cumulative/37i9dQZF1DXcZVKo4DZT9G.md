@@ -37,7 +37,7 @@
 | [友よ 〜 この先もずっと・・・](https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [KETSUNOPOLIS 10](https://open.spotify.com/album/3VTcoQOyIlYaxVI7gVg8uP) | 5:15 | 2023-07-30 |  |
 | [夜明けのMEW](https://open.spotify.com/track/41EaBnIuAQTEHjePnBQlk5) | [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [ザ・ベスト](https://open.spotify.com/album/0fMGKKYaZ1G0eIs5Nx6FmO) | 3:48 | 2023-07-30 |  |
 | [夢のENDはいつも目覚まし!](https://open.spotify.com/track/5xtog12CYKqANej2qR16Zo) | [B.B.Kamattechan\(B.B.QUEENS+ShinseiKamattechan\)](https://open.spotify.com/artist/76aIAthpIxYVJ7a90q1mRt) | [夢のENDはいつも目覚まし!](https://open.spotify.com/album/7MVID6NT4fSGigsf9rW38J) | 3:26 | 2023-07-30 |  |
-| [笑一笑 \~シャオイーシャオ!\~](https://open.spotify.com/track/5MxjNwjjBW9PtYreT0bV2B) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [笑一笑 \~シャオイーシャオ!\~](https://open.spotify.com/album/6vseW0alPTH35JsSsY0CdQ) | 4:39 | 2023-07-30 |  |
+| [笑一笑　～シャオイーシャオ！～](https://open.spotify.com/track/5MxjNwjjBW9PtYreT0bV2B) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [笑一笑 ～シャオイーシャオ!～](https://open.spotify.com/album/6vseW0alPTH35JsSsY0CdQ) | 4:39 | 2023-07-30 |  |
 | [陽はまた昇るから](https://open.spotify.com/track/1dRpScsBwVPG7c57gx5dSY) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/2UFCuaFyUfOuudIuzQRNeB) | 4:26 | 2023-07-30 |  |
 
 \*This playlist was first scraped on 2023-08-01. Prior content cannot be recovered.

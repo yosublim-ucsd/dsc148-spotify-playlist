@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-414 songs - 1 day 0 hr 37 min
+416 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Demain nous nous verrons](https://open.spotify.com/track/1dRgHx8QuWoz2ApVgxOR46) | [Tina\-Ève](https://open.spotify.com/artist/5Qx0enclC0G69AWx3CUIq8) | [Entre deux éboulements](https://open.spotify.com/album/07l0yqSuVBOALvcDpx2WVN) | 2:34 | 2021-01-03\* | 2021-01-18 |
 | [Derrière le bruit](https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 4:05 | 2022-07-08 |  |
 | [Derrière le bruit](https://open.spotify.com/track/4sF6AeNfYOEbTOWuhfix7a) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3) | 4:05 | 2021-01-03\* | 2022-07-29 |
-| [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 | 2021-01-15 |  |
+| [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 | 2021-01-15 | 2023-08-26 |
 | [Deux cœurs vagabonds](https://open.spotify.com/track/6wmSCqAYA4gO9jziPV2SRC) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Deux cœurs vagabonds](https://open.spotify.com/album/7ClSLWsd75Z35uuTmRNWJa) | 4:19 | 2022-01-28 | 2022-04-13 |
 | [Diapason](https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Diapason](https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc) | 2:26 | 2021-01-30 | 2022-07-27 |
 | [Dis\-moi où tu m'emmènes](https://open.spotify.com/track/7yL5X05lVrh1oybCGCzwHg) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Dis\-moi où tu m'emmènes](https://open.spotify.com/album/1g74s7wR4aXTqv9XzIAHtE) | 3:37 | 2021-09-19 | 2021-11-13 |
@@ -187,7 +187,7 @@
 | [La Fille qui Chante](https://open.spotify.com/track/6g3aFXb3tFJR3iSkiDS3ci) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r) | 4:33 | 2021-01-30 | 2021-05-03 |
 | [La Fin du Monde](https://open.spotify.com/track/1yvOuYHUOrFWMk3k5dUjvi) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [La Fin du Monde](https://open.spotify.com/album/1Mftp1y25xbwPnIVumAo6o) | 3:38 | 2023-06-30 |  |
 | [La flamme](https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [La flamme](https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS) | 3:54 | 2021-01-03\* | 2022-07-27 |
-| [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 | 2022-12-16 |  |
+| [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 | 2022-12-16 | 2023-08-26 |
 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 | 2022-02-11 | 2022-07-23 |
 | [La maison jaune \(edit\)](https://open.spotify.com/track/3WtMKaUKG7thWKJstzcKNo) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [La maison jaune \(edit\)](https://open.spotify.com/album/3knYO0onnkgMwjU3VZCetN) | 4:06 | 2021-12-06 | 2022-04-19 |
 | [La mort des étoiles](https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 4:19 | 2021-01-03\* |  |
@@ -281,6 +281,7 @@
 | [Métamorphose](https://open.spotify.com/track/7mBKtspKXvQSUZZZqjsSYR) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Métamorphose](https://open.spotify.com/album/0QmmTp77ovJzMPXW78pNvb) | 3:08 | 2021-08-17 | 2021-10-02 |
 | [Même les loups versent des larmes de joie](https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:11 | 2022-04-15 |  |
 | [MÊME SI, MÊME SI](https://open.spotify.com/track/0vZhC3iLOqBifqRGpUh9Dm) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [MÊME SI, MÊME SI](https://open.spotify.com/album/5FoxXe6u3uySoiLVKIXxjh) | 3:37 | 2021-02-27 | 2021-05-07 |
+| [Next To You](https://open.spotify.com/track/69NxIgtkxX3gk9YO5N1p9e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:25 | 2023-08-25 |  |
 | [nina](https://open.spotify.com/track/0FqFijwbC5IHuEjV5awDZQ) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 3:14 | 2022-07-08 |  |
 | [nina](https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [nina](https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq) | 3:14 | 2022-02-11 | 2022-07-29 |
 | [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 | 2021-01-15 |  |
@@ -383,6 +384,7 @@
 | [Ton équilibre](https://open.spotify.com/track/2Y10L0A6jX0JmWzYZ4oU2L) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Ton équilibre](https://open.spotify.com/album/3hi8B3keG1GVEzdkKVKVyD) | 3:50 | 2021-01-15 | 2022-07-29 |
 | [Tous les chemins / Darl Bundren](https://open.spotify.com/track/6IRdDBcQLbaCkRnbllf2x1) | [Hôtel Invisible](https://open.spotify.com/artist/7f7YYtcRIuuRYU6KOjxBZD) | [Le Théâtre Zéro](https://open.spotify.com/album/2BCLDUi2WK0GKmJwsr3R6Z) | 3:42 | 2021-04-19 | 2021-05-28 |
 | [Tout ce qu'il faut](https://open.spotify.com/track/390ZAYNYk1BcfKljH81feS) | [Félix Lemelin](https://open.spotify.com/artist/5AV5KFAMnP1PcDCZaQKiBY) | [Seul à la fin](https://open.spotify.com/album/49T2GUj3Yt681hTLnLSK0G) | 3:17 | 2022-04-08 | 2022-04-20 |
+| [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 | 2023-08-25 |  |
 | [Transatlantic Flight \- Live at Roy Thomson Hall](https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Waves \(Live Recordings ’19\-’21\)](https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR) | 7:10 | 2022-02-18 | 2023-07-07 |
 | [Tshe minupunanu](https://open.spotify.com/track/1SPoPSwGya3pycdKaIchnC) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu), [Scott\-Pien Picard](https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E), [Maten](https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9) | [Tshe minupunanu](https://open.spotify.com/album/2uceOZsLGJTEm7NQjgPGfE) | 3:50 | 2022-06-10 | 2022-06-22 |
 | [Tu danses, condessa](https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:17 | 2022-04-15 |  |

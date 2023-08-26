@@ -745,6 +745,32 @@
     },
     {
       "album": {
+        "name": "Dragging Me Down",
+        "url": "https://open.spotify.com/album/3mrWh51A1iKLqyELCC0NUr"
+      },
+      "artists": [
+        {
+          "name": "State of Mine",
+          "url": "https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh"
+        },
+        {
+          "name": "Kendall Tucker",
+          "url": "https://open.spotify.com/artist/37FPXnVFHhkzmJPfym2ZOK"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198591,
+      "name": "Dragging Me Down",
+      "url": "https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1"
+    },
+    {
+      "album": {
         "name": "Dutton Ranch Freestyle",
         "url": "https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk"
       },

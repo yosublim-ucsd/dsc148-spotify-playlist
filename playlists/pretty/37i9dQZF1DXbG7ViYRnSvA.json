@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 12754,
+  "num_followers": 12780,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzZmZGJkM2I0ODZlOWZkNDg2NzY0YjA0YWU5NjI0ZDlhMTZjMDkx",
+  "snapshot_id": "MCwwYzQyMzU1NGJmNTAyNjYwYWNlN2Y0OThmZjhhNjk4YzI4NjUyZjVm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "The Waters (feat. BJ the Chicago Kid)",
-      "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 275320,
       "name": "Nakamarra",
       "url": "https://open.spotify.com/track/23D6FgVV4VygFfJxAtk72J"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "The Waters (feat. BJ the Chicago Kid)",
+      "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: HWI YOUNG",
+  "description": "Future K-Pop hits! Cover: RIIZE",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 164266,
       "name": "BAD BOY (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF"
@@ -6820,7 +6820,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 211818,
       "name": "I remember",
       "url": "https://open.spotify.com/track/3uXTRQ41tZ7xwGJ1NnKnUC"
@@ -9003,6 +9003,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+    },
+    {
+      "album": {
         "name": "Midnight (Do You Like Brahms? OST Special Track)",
         "url": "https://open.spotify.com/album/4PAjQjk1RJdfOCNLi4oThs"
       },
@@ -10124,6 +10142,28 @@
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     },
     {
       "album": {
@@ -11820,7 +11860,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 196933,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi"
@@ -12068,6 +12108,24 @@
       "duration_ms": 213080,
       "name": "See you again",
       "url": "https://open.spotify.com/track/5Ekrh9NPmLMPJaAewqkauN"
+    },
+    {
+      "album": {
+        "name": "POP A LOT",
+        "url": "https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "See You In Every Party",
+      "url": "https://open.spotify.com/track/2KgVbhxyywlDZp1juQ8gzj"
     },
     {
       "album": {
@@ -13441,6 +13499,28 @@
     },
     {
       "album": {
+        "name": "NEWRNBERA",
+        "url": "https://open.spotify.com/album/7CcYqPAWRlyOA5oXBOi8Zi"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Swoosh (feat. DUT2)",
+      "url": "https://open.spotify.com/track/6AVagUXzjPGjXGaqHilS9Q"
+    },
+    {
+      "album": {
         "name": "TAIL",
         "url": "https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz"
       },
@@ -14292,7 +14372,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 201653,
       "name": "Twinkle, Twinkle",
       "url": "https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8"

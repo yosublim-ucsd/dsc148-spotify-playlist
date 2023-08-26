@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Nicole Millar
 
-1,242 songs - 2 day 20 hr 51 min
+1,243 songs - 2 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,7 +700,8 @@
 | [Moon Sky](https://open.spotify.com/track/2QE1xdrQieWa8RRXDnidQP) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Ishi](https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo) | [Moon Sky](https://open.spotify.com/album/2fem0fvOKOJMIcZMdGKfT9) | 3:38 | 2023-02-02 | 2023-03-03 |
 | [More Chi](https://open.spotify.com/track/6by1wPJT2gLlnfrA703YiC) | [Amelia Mae](https://open.spotify.com/artist/0eqVO1N0uefempAQJUpFNN), [Marta Kodo](https://open.spotify.com/artist/4glMWevvVN3XkRvES9Btnb) | [More Chi / Yoorana](https://open.spotify.com/album/0umJeZyBeS64N3lXFhHb78) | 6:32 | 2023-08-03 | 2023-08-25 |
 | [More Than Ever](https://open.spotify.com/track/47JIr4OKl8FAxop40kHPYl) | [AZLO](https://open.spotify.com/artist/7wNDxdUcBKHv6wjV0bDECH) | [More Than Ever](https://open.spotify.com/album/6FxntfwaxV9lHR77PLwWTk) | 4:15 | 2023-03-31 | 2023-04-21 |
-| [MOTHER MOTHER](https://open.spotify.com/track/1jxYFHkQGVGrxwkp6xWXs6) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [MOTHER MOTHER](https://open.spotify.com/album/6DUzFIfQTbQErtzzfcJaac) | 7:34 | 2023-08-24 |  |
+| [MOTHER MOTHER](https://open.spotify.com/track/1jxYFHkQGVGrxwkp6xWXs6) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [MOTHER MOTHER](https://open.spotify.com/album/6DUzFIfQTbQErtzzfcJaac) | 7:34 | 2023-08-24 | 2023-08-26 |
+| [Mother Mother \- Kid Fonque Remix](https://open.spotify.com/track/7G7xHPt5xgQvDsSHg21k5d) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [Mother Mother \(Kid Fonque Remix\)](https://open.spotify.com/album/0knvAth0eiQhxyTRgfXnnq) | 7:34 | 2023-08-24 |  |
 | [Motion](https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Motion](https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd) | 2:28 | 2023-06-01 | 2023-06-30 |
 | [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 | 2023-07-06 | 2023-07-21 |
 | [Move Ya Body \- Remix](https://open.spotify.com/track/6WJtPnYy2HHhVx6Pb9pU7v) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Move Ya Body \(Remix\)](https://open.spotify.com/album/1UPwNqmPMBRZEdcxzJC3Nd) | 1:37 | 2023-07-27 | 2023-08-11 |

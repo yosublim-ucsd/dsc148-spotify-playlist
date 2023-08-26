@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-202 songs - 14 hr 4 min
+203 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 | 2022-08-11 |  |
 | [He Was a Friend of Mine](https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [He Was a Friend of Mine](https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8) | 3:17 | 2022-11-17 |  |
 | [He Was a Friend of Mine](https://open.spotify.com/track/4aGp4qppOAsR9adlled9Sy) | [Tom Freund](https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [He Was a Friend of Mine](https://open.spotify.com/album/2kFK4iDjsStJ0fgFjZOfag) | 3:17 | 2022-05-25 | 2022-11-24 |
-| [Hear My Prayer](https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:50 | 2023-08-25 |  |
+| [Hear My Prayer](https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:50 | 2023-08-25 | 2023-08-26 |
 | [Hell To Pay](https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 4:42 | 2022-10-03 |  |
 | [Hell To Pay](https://open.spotify.com/track/3fPzrf8jirArIu9CV2r4cN) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Hell To Pay](https://open.spotify.com/album/5y6ddyAGfDYyY9vAvTfv5X) | 4:42 | 2022-05-25 | 2022-07-28 |
 | [Henrietta](https://open.spotify.com/track/4X7ZaOPsDlhuEgKorpP6Ea) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT) | 2:52 | 2023-08-25 |  |
@@ -119,6 +119,7 @@
 | [Just Like New](https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4) | 4:20 | 2023-08-18 |  |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2022-05-25 |  |
 | [Lay In Your Arms](https://open.spotify.com/track/363LHVO6qJBZBmW6QWXcot) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Havin' Such A Good Time](https://open.spotify.com/album/5Is9ufQX0ZBKBaPoj7B72I) | 3:22 | 2023-08-11 |  |
+| [Let It Shine](https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG) | [David Gelman](https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN) | [Dusty Highway](https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H) | 4:02 | 2023-08-25 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy](https://open.spotify.com/album/05yGqviixZlZrmRiLyz563) | 2:52 | 2022-05-25 |  |
 | [Little Girl](https://open.spotify.com/track/0T7VAmfLUzTw8zSjhPZLuV) | [Dana Masters](https://open.spotify.com/artist/60Vsjzkpv3xyOYPtNnoNCh) | [Because of You](https://open.spotify.com/album/0FtKh6eZHrAOQwd786kUlk) | 5:05 | 2023-08-18 |  |
 | [London Bridge](https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ) | 5:27 | 2023-04-21 | 2023-06-20 |

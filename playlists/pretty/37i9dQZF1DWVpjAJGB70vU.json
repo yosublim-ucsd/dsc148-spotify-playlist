@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Alan Jackson's classic hit \"Chattahoochee\" on 90s Country! ",
-  "num_followers": 1672918,
+  "num_followers": 1674063,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzNjM2RhYzZiMTdlYTk2ZmRiMWIwMzQ4ZjBhOTgyOTI2M2Q2Yjg0",
+  "snapshot_id": "MCxiOWU3MGQ3NDY1NjkyMTdiZTlmMjMxM2Y3MGViOGMwZDQzZGQ1NDhh",
   "tracks": [
     {
       "added_at": "2023-08-21 19:33:25",
@@ -1612,9 +1612,9 @@
           "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Boot Scootin' Boogie",
-      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
+      "duration_ms": 178893,
+      "name": "Brand New Man",
+      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
     },
     {
       "added_at": "2023-08-21 19:33:25",
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 178893,
-      "name": "Brand New Man",
-      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
+      "duration_ms": 197640,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
     },
     {
       "added_at": "2023-08-21 19:33:25",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-08-21 19:33:25",
       "album": {
-        "name": "Can't Run From Yourself",
-        "url": "https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Two Sparrows In A Hurricane",
-      "url": "https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP"
-    },
-    {
-      "added_at": "2023-08-21 19:33:25",
-      "album": {
         "name": "Thinkin' Problem",
         "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 181133,
       "name": "Thinkin' Problem",
       "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
+    },
+    {
+      "added_at": "2023-08-21 19:33:25",
+      "album": {
+        "name": "Can't Run From Yourself",
+        "url": "https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Two Sparrows In A Hurricane",
+      "url": "https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP"
     },
     {
       "added_at": "2023-08-21 19:33:25",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-08-21 19:33:25",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "A Broken Wing",
-      "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
-    },
-    {
-      "added_at": "2023-08-21 19:33:25",
-      "album": {
         "name": "Whatcha Gonna Do With A Cowboy",
         "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
       },
@@ -1943,18 +1927,18 @@
     {
       "added_at": "2023-08-21 19:33:25",
       "album": {
-        "name": "Love Can Build A Bridge",
-        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
       },
       "artists": [
         {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
         }
       ],
-      "duration_ms": 321373,
-      "name": "Love Can Build A Bridge",
-      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
+      "duration_ms": 215600,
+      "name": "A Broken Wing",
+      "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
     },
     {
       "added_at": "2023-08-21 19:33:25",
@@ -1971,6 +1955,22 @@
       "duration_ms": 242266,
       "name": "(This Ain't) No Thinkin' Thing",
       "url": "https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3"
+    },
+    {
+      "added_at": "2023-08-21 19:33:25",
+      "album": {
+        "name": "Love Can Build A Bridge",
+        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 321373,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
     },
     {
       "added_at": "2023-08-21 19:33:25",

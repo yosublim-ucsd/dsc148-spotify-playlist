@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 315768,
       "name": "Natural Cause",
       "url": "https://open.spotify.com/track/30u5328ERA8OFk3qrla5m2"
@@ -1276,6 +1276,24 @@
       "duration_ms": 199813,
       "name": "Peterson (The American Dollar)",
       "url": "https://open.spotify.com/track/3MzA9pCyJZI7DcVtM6Pc71"
+    },
+    {
+      "album": {
+        "name": "Place And Time",
+        "url": "https://open.spotify.com/album/7GVevUBAGmJVABY9L2HBAm"
+      },
+      "artists": [
+        {
+          "name": "Joel Shearer",
+          "url": "https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221277,
+      "name": "Place",
+      "url": "https://open.spotify.com/track/6U7pXpn3sJb7aBwVLEPpKX"
     },
     {
       "album": {

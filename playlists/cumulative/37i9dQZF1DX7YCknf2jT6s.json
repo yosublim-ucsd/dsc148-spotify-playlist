@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Cautious Clay",
+  "description": "New jazz for open minds. Cover: Harold L\u00f3pez-Nussa",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 156422,
       "name": "Action",
       "url": "https://open.spotify.com/track/0G0vV3Xon5XWQjkJFdJex5"
@@ -2089,6 +2089,40 @@
     },
     {
       "album": {
+        "name": "Back to Beginnings",
+        "url": "https://open.spotify.com/album/0J7fhmc32pGZVEo9Q1KTa2"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Terreon Gully",
+          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Dario Chiazzolino",
+          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186589,
+      "name": "Back to Beginnings",
+      "url": "https://open.spotify.com/track/3fwY3YbGDOOr7XUh5nFwtp"
+    },
+    {
+      "album": {
         "name": "Badeep",
         "url": "https://open.spotify.com/album/5L7xYEjvxVJqfWwf6SW3gA"
       },
@@ -2284,7 +2318,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 155974,
       "name": "Bass solo",
       "url": "https://open.spotify.com/track/5wRO3D0QDF9xcdLC6I4vlP"
@@ -2496,6 +2530,36 @@
       "duration_ms": 257409,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/2VuKpLkTvlLq0DvoGmzkus"
+    },
+    {
+      "album": {
+        "name": "Beyond Brass",
+        "url": "https://open.spotify.com/album/4ofKjgkd2CWHgycoG9bPtN"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Brass Mafia",
+          "url": "https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1"
+        },
+        {
+          "name": "Gerald Korte",
+          "url": "https://open.spotify.com/artist/2gxv0qZNHxwbTh9YxmDHoL"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225394,
+      "name": "Beyond Brass",
+      "url": "https://open.spotify.com/track/1anNWVU4IRaVzQhXFsFXQv"
     },
     {
       "album": {
@@ -3656,7 +3720,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 186390,
       "name": "CD",
       "url": "https://open.spotify.com/track/0MxfrxF46gT6S3oz6CbNbF"
@@ -4131,6 +4195,24 @@
     },
     {
       "album": {
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193342,
+      "name": "Conga a la Americana",
+      "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
+    },
+    {
+      "album": {
         "name": "Connections Home",
         "url": "https://open.spotify.com/album/7oQ4Rub58G7O2DzFwWS7Po"
       },
@@ -4182,7 +4264,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 214114,
       "name": "Contes de la nuit",
       "url": "https://open.spotify.com/track/2CuMHRqxncgEAGF5qaajHh"
@@ -8244,7 +8326,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 181928,
       "name": "Hope",
       "url": "https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH"
@@ -9005,6 +9087,24 @@
     },
     {
       "album": {
+        "name": "IJ",
+        "url": "https://open.spotify.com/album/3fmaGX2ZAvTzQY118RuOTa"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150712,
+      "name": "IJ",
+      "url": "https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl"
+    },
+    {
+      "album": {
         "name": "In Mauve",
         "url": "https://open.spotify.com/album/0OxstTPHYHn8F9aHNSaiC1"
       },
@@ -9678,6 +9778,24 @@
       "duration_ms": 218826,
       "name": "Jakarta",
       "url": "https://open.spotify.com/track/5811rGxUfOfsmmymjwKlsB"
+    },
+    {
+      "album": {
+        "name": "Jamie Thomas",
+        "url": "https://open.spotify.com/album/3s9vcCXvBjcFDj47yfVc5X"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358600,
+      "name": "Jamie Thomas",
+      "url": "https://open.spotify.com/track/3qHHljNYhCCgf5u74G5s0J"
     },
     {
       "album": {
@@ -11538,7 +11656,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 272079,
       "name": "Madeira",
       "url": "https://open.spotify.com/track/0YmBFqErkhQT4Jty0KBMUE"
@@ -12162,6 +12280,28 @@
       "duration_ms": 202407,
       "name": "Miscellaneous (Live)",
       "url": "https://open.spotify.com/track/13EHxipY8tNTgJBtOrVMQi"
+    },
+    {
+      "album": {
+        "name": "Mischief",
+        "url": "https://open.spotify.com/album/7bRHMCxk3iNWiQduBnOT8s"
+      },
+      "artists": [
+        {
+          "name": "eun",
+          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
+        },
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156915,
+      "name": "Mischief",
+      "url": "https://open.spotify.com/track/68xOMknCX6P1tC5KIe9Use"
     },
     {
       "album": {
@@ -13456,10 +13596,36 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 263502,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4qQvcciZv5CKP5JOs6b1KS"
+    },
+    {
+      "album": {
+        "name": "Like",
+        "url": "https://open.spotify.com/album/5YsL91P2GVnUJObkY2aYTN"
+      },
+      "artists": [
+        {
+          "name": "Max Ionata",
+          "url": "https://open.spotify.com/artist/0Cn4yjRG7JFC5DhZfnEYzz"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Martin Maretti Andersen",
+          "url": "https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263502,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6iwVDKeWEsFCY169JiMnOd"
     },
     {
       "album": {
@@ -14474,6 +14640,24 @@
       "duration_ms": 323095,
       "name": "People's Park",
       "url": "https://open.spotify.com/track/4uJ2oLeiz6XuxVSvNpUf6d"
+    },
+    {
+      "album": {
+        "name": "Off the Charts",
+        "url": "https://open.spotify.com/album/5wvTMy70QWcd843JmidL5L"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459360,
+      "name": "Peresina",
+      "url": "https://open.spotify.com/track/3UJDnJUuX80lpqJt0kw61a"
     },
     {
       "album": {
@@ -16342,7 +16526,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 153500,
       "name": "SCENERY",
       "url": "https://open.spotify.com/track/264eKUhlQqY520CEAT4GF4"
@@ -18315,6 +18499,28 @@
     },
     {
       "album": {
+        "name": "Sunbursting",
+        "url": "https://open.spotify.com/album/4YjPkjnA20KAcFmYa3Jz04"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199785,
+      "name": "Sunbursting",
+      "url": "https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige"
+    },
+    {
+      "album": {
         "name": "Sunday Brunch",
         "url": "https://open.spotify.com/album/72PVK2wHvkRpYygKKiUKme"
       },
@@ -19142,7 +19348,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 230417,
       "name": "The Call",
       "url": "https://open.spotify.com/track/6RenvBBqQ3d6nNsWP0rFac"
@@ -20246,6 +20452,24 @@
       "duration_ms": 632920,
       "name": "The Winds of Change",
       "url": "https://open.spotify.com/track/3xMVR4fiIXwNDNOW31mwIr"
+    },
+    {
+      "album": {
+        "name": "Virtual Insanity / The World Is A Ghetto",
+        "url": "https://open.spotify.com/album/11fRdDplJEMQlLEpuuWYKD"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239850,
+      "name": "The World Is A Ghetto",
+      "url": "https://open.spotify.com/track/1zYVfTg8hvHABiAlPchCwV"
     },
     {
       "album": {
@@ -22904,7 +23128,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 358000,
       "name": "You (feat. Ambrose Akinmusire)",
       "url": "https://open.spotify.com/track/6qlLOK5joUOIVwtkVS68YM"

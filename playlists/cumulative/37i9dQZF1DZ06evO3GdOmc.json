@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "All Because of Mercy (Radio Version)",
+        "url": "https://open.spotify.com/album/4vrOAtOtsKVs7WXeUhMFHj"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227397,
+      "name": "All Because of Mercy - Radio Version",
+      "url": "https://open.spotify.com/track/5mPhLHqbvMEfeW9QjSwCVK"
+    },
+    {
+      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 208466,
       "name": "What If His People Prayed",
       "url": "https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6"

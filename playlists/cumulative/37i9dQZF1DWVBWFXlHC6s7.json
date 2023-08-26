@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Galo-Gal\u00e3",
+        "url": "https://open.spotify.com/album/73LqcG5XBBmqn5bHaOu7KY"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180837,
+      "name": "Galo-Gal\u00e3",
+      "url": "https://open.spotify.com/track/2VKOQs0nCyUJye7HTjn1lY"
+    },
+    {
+      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -694,7 +712,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 169591,
       "name": "Morro do Barraco Sem \u00c1gua",
       "url": "https://open.spotify.com/track/1TxZ3YTh0i1pKlQE37grQX"

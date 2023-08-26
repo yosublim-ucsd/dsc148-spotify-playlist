@@ -1,28 +1,32 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Nic D & Connor Price",
-  "num_followers": 203116,
+  "num_followers": 203237,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTE3ZDkwYzM3MjgxZGRkOWM1MTI4NGU5YTM2NWRmNGE1YzRlYzJi",
+  "snapshot_id": "MCxmMTNiYmQ0MDE2NGJlZjk3ZTAzMTVjODU1NDI2M2IwNjg1ZjViOTZl",
   "tracks": [
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "SANTIAGO",
-        "url": "https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1XGxp9TXJQUNw2gbybZHKm"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
         }
       ],
-      "duration_ms": 190915,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw"
+      "duration_ms": 156306,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1tYTIFvg7nCrVnmiK88yOr"
     },
     {
       "added_at": "2023-08-14 15:38:20",
@@ -41,6 +45,46 @@
       "url": "https://open.spotify.com/track/4Afm4zpTJIR8KgTTIC3gTz"
     },
     {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Baby Gravy 3",
+        "url": "https://open.spotify.com/album/0mDeN57X1YtJHfXNdYlJbw"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "BABY GRAVY",
+          "url": "https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do"
+        }
+      ],
+      "duration_ms": 169073,
+      "name": "No Way Jose",
+      "url": "https://open.spotify.com/track/1kCXmKWlfc9tZIp3Thumkl"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "SANTIAGO",
+        "url": "https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 190915,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw"
+    },
+    {
       "added_at": "2023-07-21 06:46:00",
       "album": {
         "name": "god damn!",
@@ -55,6 +99,42 @@
       "duration_ms": 116307,
       "name": "god damn!",
       "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Escape Cycle",
+        "url": "https://open.spotify.com/album/2JCIdveMkl6k4YdAqEMEBx"
+      },
+      "artists": [
+        {
+          "name": "Darci",
+          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 173752,
+      "name": "Off A Cliff (With Reo Cragun)",
+      "url": "https://open.spotify.com/track/7KjY1Xr1vXsAgolo63F0sV"
+    },
+    {
+      "added_at": "2023-04-26 17:59:01",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -75,22 +155,6 @@
       "duration_ms": 166363,
       "name": "HATED US",
       "url": "https://open.spotify.com/track/07mp614wVP17UQqEJ4577F"
-    },
-    {
-      "added_at": "2023-04-26 17:59:01",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -137,22 +201,6 @@
       "url": "https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY"
     },
     {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
-        "name": "Waste Ur Time",
-        "url": "https://open.spotify.com/album/33QDlSkMgGlvjYpTWk11wr"
-      },
-      "artists": [
-        {
-          "name": "Olive Amun",
-          "url": "https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv"
-        }
-      ],
-      "duration_ms": 141835,
-      "name": "Waste Ur Time",
-      "url": "https://open.spotify.com/track/6c7YABBOLl7jB6F0bntYcy"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Happy",
@@ -167,6 +215,22 @@
       "duration_ms": 133365,
       "name": "Happy",
       "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
+        "name": "Waste Ur Time",
+        "url": "https://open.spotify.com/album/33QDlSkMgGlvjYpTWk11wr"
+      },
+      "artists": [
+        {
+          "name": "Olive Amun",
+          "url": "https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv"
+        }
+      ],
+      "duration_ms": 141835,
+      "name": "Waste Ur Time",
+      "url": "https://open.spotify.com/track/6c7YABBOLl7jB6F0bntYcy"
     },
     {
       "added_at": "2023-08-18 04:00:00",

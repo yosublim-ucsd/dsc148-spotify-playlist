@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 352360,
       "name": "Amour",
       "url": "https://open.spotify.com/track/4ynBONkE7gUFvWJQyvMSyF"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 324213,
       "name": "Bel Amour (Classic Vocal Mix)",
       "url": "https://open.spotify.com/track/3ovilBTxhYtCNeH92D0uu8"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 171080,
       "name": "Cut Dick",
       "url": "https://open.spotify.com/track/4sqZAKBTC4a2x1Ivil7h36"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 328680,
       "name": "Da Funk",
       "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 191612,
       "name": "DVNO - Radio Edit",
       "url": "https://open.spotify.com/track/1wVBZxnCo8ZkGaFqPJEmz2"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 312653,
       "name": "Fallin' in love",
       "url": "https://open.spotify.com/track/5yBiLaIDL1pwwNli16MGka"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 234960,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 369626,
       "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
       "url": "https://open.spotify.com/track/2olIQt0rL0hOHau1SJ4xf2"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 544626,
       "name": "Giorgio by Moroder",
       "url": "https://open.spotify.com/track/2eXJRM1lQJ591AStNA26Yx"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 350813,
       "name": "I feel for you - Original",
       "url": "https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 261333,
       "name": "In Your Arms (We Gonna Make It)",
       "url": "https://open.spotify.com/track/1Y0WKHEvAmFP8AClB2jY0d"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 337560,
       "name": "Instant Crush (feat. Julian Casablancas)",
       "url": "https://open.spotify.com/track/0f8GgsD1lDtRBAS5GEDKgg"
@@ -845,6 +845,46 @@
     },
     {
       "album": {
+        "name": "Darkdancer",
+        "url": "https://open.spotify.com/album/3Y8JlFFkfiqXrUP8kcvFd2"
+      },
+      "artists": [
+        {
+          "name": "Les Rythmes Digitales",
+          "url": "https://open.spotify.com/artist/02zMQvIvPXbVOLDdFqbFUn"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Jacques You Body (Make Me Sweat)",
+      "url": "https://open.spotify.com/track/0s7uW5Dknk4liaRaqen50U"
+    },
+    {
+      "album": {
+        "name": "1999 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HKgnzlGIJddpRwDlxit43"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/4jYpX9diAOBUU0iictJYiF"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538066,
+      "name": "La Mouche (DJ Falcon Metal Mix)",
+      "url": "https://open.spotify.com/track/43yQiATsXbfGkY7kKj40iM"
+    },
+    {
+      "album": {
         "name": "Politics",
         "url": "https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY"
       },
@@ -896,7 +936,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 297066,
       "name": "Les courants d'air",
       "url": "https://open.spotify.com/track/5OWJ7nvxK4KxLEfxpaE9Wk"
@@ -914,7 +954,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 274466,
       "name": "Look",
       "url": "https://open.spotify.com/track/0GVQb2UqgxEUrXidPgklFj"
@@ -1180,7 +1220,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
@@ -1378,7 +1418,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 301466,
       "name": "Roche",
       "url": "https://open.spotify.com/track/43clCmiuxugZg3Jdn6R26c"
@@ -1532,7 +1572,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 207266,
       "name": "Smile (Vocal Mix)",
       "url": "https://open.spotify.com/track/7p72H4ZpKTjcMBRbdT6vYr"
@@ -1572,7 +1612,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 274640,
       "name": "The Child",
       "url": "https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K"
@@ -1590,7 +1630,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 220266,
       "name": "The Child - Radio Edit",
       "url": "https://open.spotify.com/track/137Ve8N4t05BGoL1JiObsi"
@@ -1651,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Au Re\u0302ve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5At8zb3djitRXkrKQ8Wo97"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433000,
+      "name": "The Sound of Violence",
+      "url": "https://open.spotify.com/track/0mJXMlZntHgMGKUyrPkMcp"
+    },
+    {
+      "album": {
         "name": "15 Again (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3XG5dH7LcDZlkOWmtvLzXB"
       },
@@ -1666,6 +1724,24 @@
       "duration_ms": 167493,
       "name": "Toop Toop",
       "url": "https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO"
+    },
+    {
+      "album": {
+        "name": "USA",
+        "url": "https://open.spotify.com/album/7B5AzWM75xsUHY0fQX6KkT"
+      },
+      "artists": [
+        {
+          "name": "Surkin",
+          "url": "https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245004,
+      "name": "Ultra Light",
+      "url": "https://open.spotify.com/track/0Fi7MjMYYERiLiTeGMP6VV"
     },
     {
       "album": {
@@ -1698,7 +1774,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 345186,
       "name": "Veridis Quo",
       "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
@@ -1770,7 +1846,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 340773,
       "name": "Zdarlight",
       "url": "https://open.spotify.com/track/2loA8ulmO8Ec34aaSqzimz"

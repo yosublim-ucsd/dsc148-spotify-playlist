@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 133001,
+  "num_followers": 133110,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODNhMGYyZTBiYTg2MDY5NGNiNmZjNjVmM2FkMGU5ZDI3ZjA4Zjhh",
+  "snapshot_id": "MCw1MWRhYTFhNzM4ZWY4YzFmMmQ4YjZiYmI1NGJmZTJiMDJmNGVjZmJi",
   "tracks": [
     {
       "added_at": "2023-07-27 23:00:00",
@@ -691,34 +691,6 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
-        "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
-      },
-      "artists": [
-        {
-          "name": "Rude Kid",
-          "url": "https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl"
-        },
-        {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        },
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        },
-        {
-          "name": "Janice Robinson",
-          "url": "https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
-      "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ"
       },
@@ -759,6 +731,34 @@
       "duration_ms": 200239,
       "name": "Move Your Body - Hedex Remix",
       "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
+        "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
+        "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
+      },
+      "artists": [
+        {
+          "name": "Rude Kid",
+          "url": "https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl"
+        },
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        },
+        {
+          "name": "Janice Robinson",
+          "url": "https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
+      "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
+        "name": "Sequence",
+        "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 209549,
+      "name": "Renaissance (Edit)",
+      "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
         "name": "Lively (feat. Jaykae & Blair Muir)",
         "url": "https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 152343,
       "name": "Lively (feat. Jaykae & Blair Muir)",
       "url": "https://open.spotify.com/track/4LNJEZ4PEOZH6jyJuKEaUP"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
-        "name": "Sequence",
-        "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 209549,
-      "name": "Renaissance (Edit)",
-      "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
     },
     {
       "added_at": "2023-07-27 23:00:00",

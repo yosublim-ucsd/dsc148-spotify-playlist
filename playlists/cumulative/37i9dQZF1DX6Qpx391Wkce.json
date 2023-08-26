@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Passengers",
+        "url": "https://open.spotify.com/album/0n4K0KCOImWoJl6ASW9YH8"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Voodooamt",
+          "url": "https://open.spotify.com/artist/0u4QLNTceYzzUQrv1dd5fu"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449706,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/35tQ5Q2wgJl616mdInRYYL"
+    },
+    {
+      "album": {
         "name": "Sector II: Acid",
         "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
       },
@@ -70,7 +92,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 208901,
       "name": "Astral Soundscape",
       "url": "https://open.spotify.com/track/1NbYImSx5NJ7e2JAaomj8F"
@@ -128,7 +150,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 472615,
       "name": "Bang the Acid - Rebanged! - Original Mix",
       "url": "https://open.spotify.com/track/5ZGxjJJDWEE6JSSINHSOH8"
@@ -153,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/1347nVGvLAQdtx0Ea1IxcN"
+      },
+      "artists": [
+        {
+          "name": "Balthazar & JackRock",
+          "url": "https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367619,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/6i1AuUU5UT1Huq1KqkquNA"
+    },
+    {
+      "album": {
         "name": "Choose Happiness",
         "url": "https://open.spotify.com/album/6lS7bn5C1jGy97CWW1SrqB"
       },
@@ -171,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Chrysalide",
+        "url": "https://open.spotify.com/album/3fF6yuSKTrQeMZLZsje22b"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boys",
+          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Chrysalide",
+      "url": "https://open.spotify.com/track/1173KOXcgnmyx6u3zAiQjN"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/0ve5omxRE21tbmQMb8cA33"
       },
@@ -186,7 +244,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 375813,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1sx2rzsTFeqqHRYugGZVIB"
@@ -244,6 +302,50 @@
       "duration_ms": 212000,
       "name": "Dish Ya Now",
       "url": "https://open.spotify.com/track/0cQpT7xJkFzMRJEMZdX9nJ"
+    },
+    {
+      "album": {
+        "name": "Distorted Reality",
+        "url": "https://open.spotify.com/album/4O4jPcQKhOyTRnprLbPjo0"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Distorted Reality",
+      "url": "https://open.spotify.com/track/4FJTgL8CuntIAJbcclrQ5c"
+    },
+    {
+      "album": {
+        "name": "Everything Collapses",
+        "url": "https://open.spotify.com/album/564l8RYKO06QPnjdfYplq0"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        },
+        {
+          "name": "Ash Code",
+          "url": "https://open.spotify.com/artist/5RgEBlZV41hfY0KgUDiQvy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305477,
+      "name": "Everything Collapses",
+      "url": "https://open.spotify.com/track/7mjjSmrYqxucbk6W98tcE0"
     },
     {
       "album": {
@@ -349,6 +451,24 @@
     },
     {
       "album": {
+        "name": "EVOLUTION",
+        "url": "https://open.spotify.com/album/0xdtMKiVBPXGY7uognRoGc"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449405,
+      "name": "FUTURA",
+      "url": "https://open.spotify.com/track/0qN1L4PR2XhYBsl2ATjiSU"
+    },
+    {
+      "album": {
         "name": "In Memoro",
         "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
       },
@@ -378,7 +498,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 411940,
       "name": "HEY DJ",
       "url": "https://open.spotify.com/track/7qFvhLqCeIn0DzuaSOiesv"
@@ -411,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Human Robot",
+        "url": "https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416818,
+      "name": "Human Robot",
+      "url": "https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS"
+    },
+    {
+      "album": {
         "name": "I Want to See",
         "url": "https://open.spotify.com/album/2kDJQphOzcayDoL4Ot1Dcg"
       },
@@ -422,7 +564,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 245454,
       "name": "I Want to See",
       "url": "https://open.spotify.com/track/6sA8RRNRRZ5Ok1510vWNTy"
@@ -484,7 +626,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 224944,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/74utOOe35IIADzUxx6JuuD"
@@ -564,7 +706,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 413410,
       "name": "Let Go - KL\u00d8SET Remix",
       "url": "https://open.spotify.com/track/03qT9X4SvcKfsjiAzmrNPM"
@@ -600,10 +742,54 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 310285,
       "name": "Lightbringers",
       "url": "https://open.spotify.com/track/4vlYC3s6Ps8fA8hLGcaiNG"
+    },
+    {
+      "album": {
+        "name": "Like An Old Dog (Enrico Sangiuliano Remix)",
+        "url": "https://open.spotify.com/album/0urbEfySrOpOBUz2rrSZc0"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Pixx",
+          "url": "https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483692,
+      "name": "Like An Old Dog - Enrico Sangiuliano Remix",
+      "url": "https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD"
+    },
+    {
+      "album": {
+        "name": "Like Forever",
+        "url": "https://open.spotify.com/album/6G4e1s4wLAJj6cSxBkFAP1"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg",
+          "url": "https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424615,
+      "name": "Like Forever",
+      "url": "https://open.spotify.com/track/5GFVhJtqsZc0q4CJWhCs58"
     },
     {
       "album": {
@@ -658,7 +844,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 228923,
       "name": "Make You Freak",
       "url": "https://open.spotify.com/track/2KIEWXnmTwVCFglCQa2yhy"
@@ -706,10 +892,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 249767,
       "name": "Metal Master - Spectrum (Bart Skils & Weska Reinterpretation)",
       "url": "https://open.spotify.com/track/31WzgGBkO9THPqYeVGcTwb"
+    },
+    {
+      "album": {
+        "name": "Changes of Perception",
+        "url": "https://open.spotify.com/album/4qK1ZMi8iC96BK60iIEPiY"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456628,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/61vVUI8xmM9K3CJ0XxqdQk"
     },
     {
       "album": {
@@ -750,6 +958,28 @@
       "duration_ms": 428000,
       "name": "Motherland",
       "url": "https://open.spotify.com/track/2rorRxfJxJ8ymQGLKrC9V5"
+    },
+    {
+      "album": {
+        "name": "My Cosmos Is Mine (ANNA Remix)",
+        "url": "https://open.spotify.com/album/4uRqaAA83DA9CumodHfGW7"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481907,
+      "name": "My Cosmos Is Mine - ANNA Remix",
+      "url": "https://open.spotify.com/track/3K86NkImdmjzBYZamJvx4T"
     },
     {
       "album": {
@@ -829,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "Something More",
+        "url": "https://open.spotify.com/album/0SHhPYk0boerswxE4eYy3s"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "Weska",
+          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237727,
+      "name": "Palm Strings",
+      "url": "https://open.spotify.com/track/0u2ay7AAm7Jr5FHycGkLEN"
+    },
+    {
+      "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/3kKpXacCqn5kUo5wSbP93Z"
       },
@@ -844,6 +1096,24 @@
       "duration_ms": 404961,
       "name": "Perception",
       "url": "https://open.spotify.com/track/3ll4L5Dd6LIdYRvJnp9l7a"
+    },
+    {
+      "album": {
+        "name": "The Best Of Drax (Thomas P. Heckmann aka Drax) (The Hit Collection of Origins)",
+        "url": "https://open.spotify.com/album/00vMZhhDuMDyQZG2mHWsuQ"
+      },
+      "artists": [
+        {
+          "name": "Drax",
+          "url": "https://open.spotify.com/artist/1MxHcan9Jh8giyuSWZh85f"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428076,
+      "name": "Phosphene (Thomas P. Heckmann aka Drax)",
+      "url": "https://open.spotify.com/track/6j9OheekqPKmKwkwVZYtgW"
     },
     {
       "album": {
@@ -876,7 +1146,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 210216,
       "name": "Premonition",
       "url": "https://open.spotify.com/track/6J9qHbjXv37EGTLO8aK0jA"
@@ -1166,10 +1436,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 498461,
       "name": "The Sound Of Space",
       "url": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
+    },
+    {
+      "album": {
+        "name": "Bring Me Fire EP",
+        "url": "https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221073,
+      "name": "The Unseen Path",
+      "url": "https://open.spotify.com/track/2DcrucFg2LOT03osZQ2rkX"
     },
     {
       "album": {
@@ -1264,7 +1552,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 527921,
       "name": "Unravel Me",
       "url": "https://open.spotify.com/track/4fKHj7e2wCouGDXIEIXEKk"

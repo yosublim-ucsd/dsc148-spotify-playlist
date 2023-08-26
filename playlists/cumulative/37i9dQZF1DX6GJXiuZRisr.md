@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-406 songs - 1 day 5 hr 29 min
+407 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-08-11 |  |
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-03-31 | 2023-08-18 |
 | [Face The Sun](https://open.spotify.com/track/1NBGV6jaSjoCtdhwQlaj1n) | [Yeadon](https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn) | [Face The Sun](https://open.spotify.com/album/5AiQ3B6Tdr19gfEgurUS4Z) | 7:19 | 2021-05-07 | 2022-07-13 |
+| [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 | 2023-08-25 |  |
 | [Falling Forward \- Sultan + Shepard Remix](https://open.spotify.com/track/0dak7uypOBIUVGLqmaLtYU) | [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV), [Sub Teal](https://open.spotify.com/artist/3oqiDRfqAdXhjdGh4eY3hT), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Falling Forward \(Sultan + Shepard Remix\)](https://open.spotify.com/album/5j3XDcu8QJak4CGY8TOM6t) | 4:01 | 2021-05-07 | 2022-07-29 |
 | [False Reactions](https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 5:11 | 2022-07-01 | 2023-05-23 |
 | [False Reactions](https://open.spotify.com/track/7bTN2ZFftsLk8TELDOxKqB) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/5TMCveJYLVAXzdNNbmCQcc) | 5:11 | 2021-05-07 | 2022-07-29 |
@@ -196,7 +197,7 @@
 | [Liberation](https://open.spotify.com/track/41UGzRpR0CRT56XF7GRwbq) | [Kydus](https://open.spotify.com/artist/6YycIIoEl49FGVdmgsABea) | [Liberation](https://open.spotify.com/album/4VbQUD0I1oHtwVbmcIx6rr) | 8:15 | 2021-05-07 | 2022-04-20 |
 | [Light On](https://open.spotify.com/track/3HVSuotnZrZu7dYaUptxwv) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Light On](https://open.spotify.com/album/1xmZAdsCwSmgTPdFdvY71Q) | 4:29 | 2021-05-07 | 2022-04-19 |
 | [Lightning](https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Lightning](https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz) | 3:54 | 2022-06-03 | 2023-07-10 |
-| [Lights Go Out](https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Lights Go Out](https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m) | 3:06 | 2023-06-30 |  |
+| [Lights Go Out](https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Lights Go Out](https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m) | 3:06 | 2023-06-30 | 2023-08-26 |
 | [LINE IN THE SAND](https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [LINE IN THE SAND](https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk) | 5:05 | 2022-06-03 | 2023-06-12 |
 | [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 | 2023-03-31 |  |
 | [Lose Control](https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Deep State](https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo) | 5:37 | 2021-05-07 | 2023-06-10 |

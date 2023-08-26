@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain]
 
 > Enjoy the world of “Fire Force”!  歴代OP/ED、サントラ曲で辿るアニメ「炎炎ノ消防隊」の世界！©大久保篤・講談社／特殊消防隊動画広報課
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,094 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,124 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain]
 | 59 | [Burning disaster](https://open.spotify.com/track/2ubBN4UvUnDNcK5NNUGkFL) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 2:07 |
 | 60 | [Scorching heat requiem](https://open.spotify.com/track/1iWEPMP8q4DfV1G7madOHt) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 2:58 |
 
-Snapshot ID: `MCxhMWQ1ZDczODVmOWQ0MTg0NzExNWMzMDBiYWY3MjA3MGYzOTJmNjY0`
+Snapshot ID: `MCxiZjllMjI3YzQzYjNjYWQ3OTMwY2Y5YTczOTViMzQ2NTg3NGQ2NTg0`

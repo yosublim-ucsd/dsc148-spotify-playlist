@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 570862,
+  "num_followers": 570976,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjNlZTA2MWJkNjE5NTIyODZiYTE2MzRmZjdmZDlkYmQ0YWUwNjZh",
+  "snapshot_id": "MCwxYjA0YmU5YTBkNWZiNmNjOWYwYTE2NWFmM2JkZDQyMDM1NzhlOWQz",
   "tracks": [
     {
       "added_at": "2023-08-24 11:35:59",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 198019,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/1q5yqfGMptiI6uTXKxXT1o"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 200391,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4hoNqOv7FRMefk6yC83yqP"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 198019,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "Sweet Melancholy",
         "url": "https://open.spotify.com/album/3eR4Py7KIGQ0hsLtnFUYH8"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 178240,
       "name": "Sweet Melancholy",
       "url": "https://open.spotify.com/track/6pPQ49LVCxxxjxJArSvdxl"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "More Than Happiness",
-        "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
-      },
-      "artists": [
-        {
-          "name": "Matija",
-          "url": "https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "More Than Happiness",
-      "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "Kalif Onya",
         "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "beautiful day",
-        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
+        "name": "More Than Happiness",
+        "url": "https://open.spotify.com/album/0AEksbW3dMkEn4mjqmITM0"
       },
       "artists": [
         {
-          "name": "Henri Purnell",
-          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+          "name": "Matija",
+          "url": "https://open.spotify.com/artist/0AT9xOpJni8J7sM4UNrrt9"
         }
       ],
-      "duration_ms": 183836,
-      "name": "beautiful day",
-      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
+      "duration_ms": 238186,
+      "name": "More Than Happiness",
+      "url": "https://open.spotify.com/track/3AosSVnv55KvhcpPaj5IO1"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1435,6 +1419,22 @@
       "duration_ms": 213418,
       "name": "Red & Blue",
       "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "beautiful day",
+        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
+      },
+      "artists": [
+        {
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+        }
+      ],
+      "duration_ms": 183836,
+      "name": "beautiful day",
+      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
       },
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
+        "name": "hunger",
+        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
       },
       "artists": [
         {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
         }
       ],
-      "duration_ms": 173239,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
+      "duration_ms": 191297,
+      "name": "hunger",
+      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1563,22 +1579,6 @@
       "duration_ms": 162755,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
-        "name": "hunger",
-        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 191297,
-      "name": "hunger",
-      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Get Up!",
-        "url": "https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao"
-      },
-      "artists": [
-        {
-          "name": "BILBAO",
-          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Get Up!",
-      "url": "https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "Falling for You",
         "url": "https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 206290,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "Get Up!",
+        "url": "https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao"
+      },
+      "artists": [
+        {
+          "name": "BILBAO",
+          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Get Up!",
+      "url": "https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L"
     },
     {
       "added_at": "2023-08-24 11:35:59",

@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 218786,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8"
@@ -984,6 +984,24 @@
       "duration_ms": 340776,
       "name": "Just Like My - TAYE//PAL Remix",
       "url": "https://open.spotify.com/track/2AFFsdgv6ma6kkM3pOlvUH"
+    },
+    {
+      "album": {
+        "name": "L41N",
+        "url": "https://open.spotify.com/album/0VdyPqxbI01I2wIzkw5gX2"
+      },
+      "artists": [
+        {
+          "name": "Piff Paff Piffi",
+          "url": "https://open.spotify.com/artist/2jKVs5nD7UCtKJKGWvyK77"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "L41N",
+      "url": "https://open.spotify.com/track/4VsT2A4GX2Ichk6PD5LeXs"
     },
     {
       "album": {

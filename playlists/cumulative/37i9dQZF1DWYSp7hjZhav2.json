@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 304072,
       "name": "Agalma II",
       "url": "https://open.spotify.com/track/4CUnyDvcvygDhS0T5XXoA4"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 366329,
       "name": "Disarm - Recondite Remix",
       "url": "https://open.spotify.com/track/6n7hJ3lXbbtd4yMcGRAoDo"
@@ -1420,6 +1420,24 @@
       "duration_ms": 266056,
       "name": "In Mindibu (Rival Consoles Remix)",
       "url": "https://open.spotify.com/track/7nhWztlK9Vz43i1qNTziIP"
+    },
+    {
+      "album": {
+        "name": "Introspect",
+        "url": "https://open.spotify.com/album/5t9UzyAjtgdHNATS7omrED"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332453,
+      "name": "Introspect",
+      "url": "https://open.spotify.com/track/1DalxNHdHxzT6YIUDNd7HH"
     },
     {
       "album": {
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 374960,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/3MXAz0R5lYeVnP3lqRIhVx"
@@ -2200,6 +2218,24 @@
       "duration_ms": 427396,
       "name": "Propagation",
       "url": "https://open.spotify.com/track/0hyqYncxVvIhorqPEJqIgU"
+    },
+    {
+      "album": {
+        "name": "Pure Smile Snake Venom",
+        "url": "https://open.spotify.com/album/7nXYRc3PivS07SCWTWPl0R"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221106,
+      "name": "Pure Smile Snake Venom",
+      "url": "https://open.spotify.com/track/3tbIgRlbQ9s0MYkJTv8ued"
     },
     {
       "album": {
@@ -2563,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301838,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn"
+    },
+    {
+      "album": {
         "name": "The Return/Of Me",
         "url": "https://open.spotify.com/album/4fnoEdPFTsXhkKPmwRwlJL"
       },
@@ -2574,7 +2628,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 488373,
       "name": "The Return",
       "url": "https://open.spotify.com/track/7LBiCJ7XAOBvH9He1lmFmT"
@@ -2648,6 +2702,32 @@
       "duration_ms": 251903,
       "name": "This Version Of You - Joseph Ray Remix",
       "url": "https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy"
+    },
+    {
+      "album": {
+        "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
+        "url": "https://open.spotify.com/album/1df48ZyihLZfWMVeeFipQ2"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Jeff Bhasker",
+          "url": "https://open.spotify.com/artist/5phOCTS0ZqbZGVXdpG6rLu"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240060,
+      "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
+      "url": "https://open.spotify.com/track/51VlMC9AnJQmZqnAZQjfp5"
     },
     {
       "album": {

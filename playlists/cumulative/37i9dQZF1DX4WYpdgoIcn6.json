@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-25",
-  "description": "Kick back to the best new and recent chill hits.",
+  "description": "Disfruta de los mejores \u00e9xitos relajantes m\u00e1s recientes.",
   "name": "Chill Hits",
   "tracks": [
     {
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 193821,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
@@ -5700,6 +5700,24 @@
       "duration_ms": 154154,
       "name": "Friends Don't Kiss Friends",
       "url": "https://open.spotify.com/track/1Uk26UmIDGCQrEkXCUJyBV"
+    },
+    {
+      "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
       "album": {

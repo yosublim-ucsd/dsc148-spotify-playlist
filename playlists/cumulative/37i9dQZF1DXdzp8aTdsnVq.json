@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Daniel Caldr\u00f3n y Los Gigantes",
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Diego Daza y Carlos Rueda",
   "name": "Lo + del Vallenato",
   "tracks": [
     {
@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "A To' Timbal",
+        "url": "https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO"
+      },
+      "artists": [
+        {
+          "name": "Diego Daza",
+          "url": "https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc"
+        },
+        {
+          "name": "Carlos Rueda",
+          "url": "https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206591,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52"
+    },
+    {
+      "album": {
         "name": "Sigo Invicto",
         "url": "https://open.spotify.com/album/5nrVqq5BEfcoOYJ1eQQ0ki"
       },
@@ -714,7 +736,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 292730,
       "name": "Es Mejor No Decirlo",
       "url": "https://open.spotify.com/track/4dnqlAVeaEb69s7sXAK8Cr"
@@ -860,7 +882,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 200674,
       "name": "La Escena",
       "url": "https://open.spotify.com/track/6vjp1tZHzZT6omls4lNeER"
@@ -1024,7 +1046,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 296100,
       "name": "Los Recuerdos de Mi Ni\u00f1ez",
       "url": "https://open.spotify.com/track/2XQNesY3cSNmNse65XdMa3"
@@ -1856,7 +1878,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 243906,
       "name": "TANTO",
       "url": "https://open.spotify.com/track/0P9q6nGIk454XvAiOkgJ7u"
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 232860,
       "name": "TBT",
       "url": "https://open.spotify.com/track/0Vy0zLbeULv6NAVlT3t0rf"
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 274613,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/7iJ43W1RWMrNjU3Or15jxX"

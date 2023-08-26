@@ -2585,6 +2585,28 @@
     },
     {
       "album": {
+        "name": "Soneya",
+        "url": "https://open.spotify.com/album/2g1M3zZPVkYSHIj73loQBV"
+      },
+      "artists": [
+        {
+          "name": "Rahul Vaidya",
+          "url": "https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd"
+        },
+        {
+          "name": "Aniket Shukla",
+          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "Soneya",
+      "url": "https://open.spotify.com/track/4T3afa03vozVX8YVwsr34x"
+    },
+    {
+      "album": {
         "name": "Zindagi Na Milegi Dobara",
         "url": "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
       },

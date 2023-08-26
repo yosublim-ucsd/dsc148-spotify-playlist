@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: C.S\. Armstrong
 
-237 songs - 13 hr 52 min
+238 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Let Me Go](https://open.spotify.com/track/1UCRy4AZi5T4gfRDQwel5t) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Let Me Go](https://open.spotify.com/album/571dTEZ64Z49fi7EdlknZp) | 2:15 | 2022-02-18 | 2022-11-23 |
 | [Let Me Go](https://open.spotify.com/track/7n8mE3JYsbwrcJf0hr6Xo1) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 2:15 | 2022-02-18 |  |
 | [Light Shine In](https://open.spotify.com/track/3azPwNPD36yMmg4gYRtuJ4) | [Conor Gains](https://open.spotify.com/artist/3v56uAiWA52So80mU5pBy2) | [Light Shine In](https://open.spotify.com/album/5SgySlto0nQI5P38u7Cvw0) | 3:27 | 2021-04-02 | 2022-03-26 |
+| [Like A Dove](https://open.spotify.com/track/1br8OkIlBEJjhcAdZ44UUC) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Like A Dove](https://open.spotify.com/album/2iQ9N9PXfVaHF3t5xNIwVl) | 5:50 | 2023-08-25 |  |
 | [Like You Mean It](https://open.spotify.com/track/27qo8wD02bPb4tbunUm8w8) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Like You Mean It](https://open.spotify.com/album/3qKgpfBcTIztyYMxoRzwFz) | 2:38 | 2023-03-17 | 2023-05-27 |
 | [Lips Are Movin'](https://open.spotify.com/track/7oQ8nqWZ8KupiIO4SJrHxM) | [Sgt\. Splendor](https://open.spotify.com/artist/1hEnIRqyPrQ0ACvUZZM2Aw), [Kate Vargas](https://open.spotify.com/artist/6IaBcgmfcrqB8yGh0BrTf1), [Eric McFadden](https://open.spotify.com/artist/5eW72pXN4o65oLTUmVRBKA) | [Death Of The Hoochie Koo](https://open.spotify.com/album/3c0lWeW5PfR1sal7UUFgjB) | 2:42 | 2023-05-19 |  |
 | [Log On](https://open.spotify.com/track/7v7NrUoc3pSV49qWdvFZxZ) | [The 32 Golden Souls](https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8), [Winston McAnuff](https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt), [Lymie Murray](https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI) | [Log On](https://open.spotify.com/album/1T44hQdjRZwInVBSqUWA0m) | 4:19 | 2022-08-26 | 2022-09-03 |
@@ -171,7 +172,7 @@
 | [Shake It, Shake It, Shake It](https://open.spotify.com/track/5qZHahQTxspNvpQ5IvhLPA) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 2:37 | 2023-03-03 |  |
 | [She Ought to Be King](https://open.spotify.com/track/44xJuf6ZyXmKZzACJqFBof) | [Lisa Morales](https://open.spotify.com/artist/22HF78UQSmSTNtv4bsfUAI) | [She Ought To Be King](https://open.spotify.com/album/46E1sMAkyBRoKmFOEoyNKq) | 5:34 | 2022-08-26 |  |
 | [She's So Cold](https://open.spotify.com/track/5j9JLxnym3t87UZbgU4EwE) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Motel Mississippi](https://open.spotify.com/album/3DKmYrQ64bb7NNJd6rZHKx) | 2:21 | 2023-04-24 |  |
-| [Shooting Star](https://open.spotify.com/track/1Om3Mz5IazKScLUqL88oCd) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [Everybody Knows My Name](https://open.spotify.com/album/5FsMYB0f5tSktoA4QiP0uy) | 2:48 | 2022-01-21 |  |
+| [Shooting Star](https://open.spotify.com/track/1Om3Mz5IazKScLUqL88oCd) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [Everybody Knows My Name](https://open.spotify.com/album/5FsMYB0f5tSktoA4QiP0uy) | 2:48 | 2022-01-21 | 2023-08-26 |
 | [Shout Into The Noise](https://open.spotify.com/track/6VmqR7BEVXqYWKCRsdSaDO) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/4JN56UyhqvwmD9fQJuJlPo) | 3:13 | 2022-01-21 | 2022-02-19 |
 | [Sit Down Baby](https://open.spotify.com/track/7HNSPiFPpO1Z05Jrrs39be) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Sit Down Baby](https://open.spotify.com/album/7GEM0fdAOYfOUMMF3BYB6M) | 2:53 | 2021-02-05 | 2022-03-26 |
 | [Slippin' Away](https://open.spotify.com/track/3dQQ7VxOFQNX13kiL5duyV) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Slippin' Away](https://open.spotify.com/album/5ouhFRuXLv1oJVG3SLpzzL) | 3:25 | 2021-03-12 | 2022-03-26 |

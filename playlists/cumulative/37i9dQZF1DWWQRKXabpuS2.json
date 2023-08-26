@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641: \u0634\u0645\u0629 \u062d\u0645\u062f\u0627\u0646",
+  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u0635\u0627\u0644\u0629",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Janant Galbi",
+        "url": "https://open.spotify.com/album/72vTooQ2VEKVLgybFkpkYw"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287216,
+      "name": "Janant Galbi",
+      "url": "https://open.spotify.com/track/5GnZnRwXaQttM8ALIemTQO"
+    },
+    {
+      "album": {
         "name": "Jany Al Asmar",
         "url": "https://open.spotify.com/album/01Z9FR6JmU9LxLuDQfR6w7"
       },
@@ -3072,7 +3090,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 189180,
       "name": "Sukar",
       "url": "https://open.spotify.com/track/64jmDPPjHxrv2uvT2Q8kZD"
@@ -3923,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0639\u062c\u0628 \u0641\u064a \u0627\u0644\u0647\u0648\u0649",
+        "url": "https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323376,
+      "name": "\u0627\u0644\u0639\u062c\u0628 \u0641\u064a \u0627\u0644\u0647\u0648\u0649",
+      "url": "https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk"
+    },
+    {
+      "album": {
         "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
         "url": "https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq"
       },
@@ -4114,7 +4150,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 255428,
       "name": "\u0633\u0631\u0642 \u0642\u0644\u0628\u064a",
       "url": "https://open.spotify.com/track/2kqlas6p59Cm6OeYp2rWFb"

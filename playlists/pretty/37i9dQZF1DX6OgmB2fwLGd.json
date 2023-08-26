@@ -1,13 +1,93 @@
 {
-  "description": "The soundtrack to the internet. Cover: 2Rare",
-  "num_followers": 1392721,
+  "description": "The soundtrack to the internet. Cover: Lancey Faux",
+  "num_followers": 1392904,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGQxYzk2Y2U3Y2I0ODRjYWY5MTcxNTYzMjNiOGNkMWZmYjZhYjIw",
+  "snapshot_id": "MCw0ZTM2ZWNjMjgzNjNjYzNiMWM0MTgwYjVkNTJmMTMzODQxZTJmYjE1",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "LIFE IN HELL",
+        "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "LANCEY OR LANCEY",
+      "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
+    },
+    {
+      "added_at": "2023-08-25 15:42:48",
+      "album": {
+        "name": "Last laugh",
+        "url": "https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "duration_ms": 175882,
+      "name": "Last laugh",
+      "url": "https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "I love freaks",
+        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "I love freaks",
+      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
+    },
+    {
+      "added_at": "2023-08-25 15:42:48",
+      "album": {
+        "name": "Rare Story Pt. 2",
+        "url": "https://open.spotify.com/album/6C9kMdHKxcnmMua6nRkMCU"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Rare Story Pt. 2",
+      "url": "https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Special K",
+        "url": "https://open.spotify.com/album/2D926NuFDl3yhbM10yhZQG"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "duration_ms": 147049,
+      "name": "Special K",
+      "url": "https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl"
+    },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
@@ -31,34 +111,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "I love freaks",
-        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
+        "name": "RICH SCHOLAR",
+        "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
       },
       "artists": [
         {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
         }
       ],
-      "duration_ms": 101198,
-      "name": "I love freaks",
-      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Special K",
-        "url": "https://open.spotify.com/album/2D926NuFDl3yhbM10yhZQG"
-      },
-      "artists": [
-        {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
-        }
-      ],
-      "duration_ms": 147049,
-      "name": "Special K",
-      "url": "https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl"
+      "duration_ms": 118923,
+      "name": "RICH SCHOLAR",
+      "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -75,38 +139,6 @@
       "duration_ms": 112153,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "RICH SCHOLAR",
-        "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        }
-      ],
-      "duration_ms": 118923,
-      "name": "RICH SCHOLAR",
-      "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "500lbs",
-        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -129,20 +161,20 @@
       "url": "https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "LIFE IN HELL",
-        "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
       },
       "artists": [
         {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 187893,
-      "name": "LANCEY OR LANCEY",
-      "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -219,6 +251,26 @@
       "duration_ms": 112000,
       "name": "PAMPER PAMPER",
       "url": "https://open.spotify.com/track/6RZeZKaJfK1su5TdM6hWir"
+    },
+    {
+      "added_at": "2023-08-25 15:42:48",
+      "album": {
+        "name": "CRAZY GIRL P2 (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/0i6aioaKcPI1Nw9Jm3p8Yz"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 182781,
+      "name": "CRAZY GIRL P2 (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1MoxBQxwPAiQKlRQ4BV9MB"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -337,6 +389,26 @@
       "url": "https://open.spotify.com/track/1slDsIJxew9AOOA3v0xFzn"
     },
     {
+      "added_at": "2023-08-25 15:42:48",
+      "album": {
+        "name": "Rump (feat. Chow Lee)",
+        "url": "https://open.spotify.com/album/6UuDdz6UNlBFSxpOACU3mm"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "duration_ms": 169736,
+      "name": "Rump (feat. Chow Lee)",
+      "url": "https://open.spotify.com/track/33jK0OMIl7zNzj5R9niW3A"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Perc & Sex",
@@ -411,6 +483,22 @@
       "duration_ms": 103783,
       "name": "MBGB2",
       "url": "https://open.spotify.com/track/5NJ4s5Daq5RUNmtNdjQrRv"
+    },
+    {
+      "added_at": "2023-08-25 15:42:48",
+      "album": {
+        "name": "FOR THAT CASH",
+        "url": "https://open.spotify.com/album/1L4bWTHTvEE7gSY9x4OpPA"
+      },
+      "artists": [
+        {
+          "name": "ppcocaine",
+          "url": "https://open.spotify.com/artist/2u1aL8XADqj0nJFHMKRjNw"
+        }
+      ],
+      "duration_ms": 175428,
+      "name": "FOR THAT CASH",
+      "url": "https://open.spotify.com/track/2AhtnaTMDExi5JXjGqHbkX"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -621,6 +709,22 @@
       "url": "https://open.spotify.com/track/7KlYBKL2aNJJ3kQI1iO96M"
     },
     {
+      "added_at": "2023-08-25 15:42:48",
+      "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/4WzlKTa0ZyWBoYXqnxakYp"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "duration_ms": 102631,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/6jaf7Il3LkGkR0jMYmBXtv"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Gangsta Boogie",
@@ -699,6 +803,22 @@
       "duration_ms": 154879,
       "name": "Aint Nothing",
       "url": "https://open.spotify.com/track/6Q2Cec1drXDOqrTUyM1brP"
+    },
+    {
+      "added_at": "2023-08-25 15:42:48",
+      "album": {
+        "name": "Different Goals",
+        "url": "https://open.spotify.com/album/0fWDgzqcJIOy5bcsBgyCIt"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "duration_ms": 149791,
+      "name": "Different Goals",
+      "url": "https://open.spotify.com/track/5ntzWMwkB9bwCKKOtE2aJ8"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -867,22 +987,6 @@
       "duration_ms": 143743,
       "name": "Lamborghini Boys (with Tay Keith and Nardo Wick)",
       "url": "https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "You Wish + Trashboi",
-        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 120015,
-      "name": "You Wish",
-      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1347,22 +1451,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Tomioka",
-        "url": "https://open.spotify.com/album/3Qvhz1GZtTrEobam9x3pja"
-      },
-      "artists": [
-        {
-          "name": "Jay Eazy",
-          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
-        }
-      ],
-      "duration_ms": 137535,
-      "name": "Tomioka",
-      "url": "https://open.spotify.com/track/6pDEVRbnV7xwT0EHFY41HC"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "What Can They Say (Extended)",
         "url": "https://open.spotify.com/album/6Zhv2ceEknMTfuR20IdKNH"
       },
@@ -1515,22 +1603,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/2o2c1MPVnOecBWmPs5tWKZ"
       },
@@ -1679,22 +1751,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "kenopsia",
-        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "life imitates life",
-      "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
@@ -1799,34 +1855,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Under Your Spell",
-        "url": "https://open.spotify.com/album/2qacgpQ0n3auIenJgT5yVA"
-      },
-      "artists": [
-        {
-          "name": "Horse Head",
-          "url": "https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA"
-        },
-        {
-          "name": "Lil Tracy",
-          "url": "https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi"
-        },
-        {
-          "name": "Nedarb",
-          "url": "https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R"
-        },
-        {
-          "name": "Cold Hart",
-          "url": "https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Floorboards",
-      "url": "https://open.spotify.com/track/5ozjeOUHnkmrdBqsDzeTkt"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Can't Get Rid Of Me (feat. Fergie Baby)",
         "url": "https://open.spotify.com/album/5HsEj4CtAE03sm0H76uPhe"
       },
@@ -1859,26 +1887,6 @@
       "duration_ms": 141888,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Mazel Tron",
-        "url": "https://open.spotify.com/album/1F841omtmck75byakwMGnx"
-      },
-      "artists": [
-        {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
-        },
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Mazel Tron",
-      "url": "https://open.spotify.com/track/5Ex5aIXLQimPjhiRUZjtre"
     }
   ],
   "unique_name": "Internet People",

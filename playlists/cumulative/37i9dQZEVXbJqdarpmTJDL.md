@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,262 songs - 2 day 19 hr 39 min
+1,263 songs - 2 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Favori](https://open.spotify.com/track/31LeU0W2AL3zLpdtgWniOv) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Timima](https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU) | 3:46 | 2021-11-21 | 2021-11-28 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-07 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2022-12-28 |
+| [FEMINISTIS](https://open.spotify.com/track/3CBZxjDHQpgvHsnqF06CSu) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [FEMINISTIS](https://open.spotify.com/album/1YlmZWvyLHLJucCvxuVkPc) | 3:07 | 2023-08-25 |  |
 | [Fendi](https://open.spotify.com/track/5CZbxKM8Ibh3RmfB7xFAzm) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Fendi](https://open.spotify.com/album/4GNPXGhviRoE2VkawAEr7z) | 3:30 | 2021-04-03 | 2021-04-04 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-08-30 | 2022-09-23 |
 | [Filakes](https://open.spotify.com/track/0omM3mkVfjt8MhDKinkhcn) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Filakes](https://open.spotify.com/album/5tR5vecLqsa8PqbHBUjsHK) | 3:36 | 2021-09-04 | 2022-05-05 |
@@ -615,7 +616,7 @@
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-24 | 2022-12-28 |
 | [Last Dance](https://open.spotify.com/track/0x4GMUtMeZAbti9fhDQnhj) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Last Dance](https://open.spotify.com/album/1yhcTmwOGKCenGQZ7Z7yCk) | 3:00 | 2021-05-23 | 2021-06-02 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-31 |
-| [LATHOS](https://open.spotify.com/track/3Wk7yAyyU0vb8KkMCfHGsF) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [LATHOS](https://open.spotify.com/album/3H0NrS9K52FjBDF1QINkbI) | 3:33 | 2023-08-19 |  |
+| [LATHOS](https://open.spotify.com/track/3Wk7yAyyU0vb8KkMCfHGsF) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [LATHOS](https://open.spotify.com/album/3H0NrS9K52FjBDF1QINkbI) | 3:33 | 2023-08-19 | 2023-08-26 |
 | [Latina](https://open.spotify.com/track/3DbiL7GTCopFHk9t9qpDut) | [Leaderbrain](https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [Latina](https://open.spotify.com/album/6I05KXZobddEIzbUaVPAOa) | 3:05 | 2021-08-07 | 2022-04-29 |
 | [LAVA](https://open.spotify.com/track/37IcdR2E3aae1WqwFDfJ0R) | [KG](https://open.spotify.com/artist/2k3a4Z4pyDriJYozauuCYj), [Jitano](https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn) | [LAVA](https://open.spotify.com/album/15pSBfWylL8uBBAYKwXcoZ) | 2:38 | 2022-02-04 | 2022-04-14 |
 | [Lavara & Balaclava In C Minor](https://open.spotify.com/track/556odxVF413mUJcEdFldBD) | [Beats Pliz](https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E), [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq) | [Arte Povera](https://open.spotify.com/album/0LS8KkdKzhYrVX4jdmGNLU) | 4:08 | 2023-04-21 | 2023-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,835 likes - 58 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,915 likes - 58 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 57 | [Halfway](https://open.spotify.com/track/5me2njhsNOrvMV2XjVwuXq) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Halfway](https://open.spotify.com/album/5GURKS7rYpa92t9iXp5hBV) | 3:04 |
 | 58 | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/track/55ACw2lzo3PvmuzRmoYVVQ) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Comedy \(feat\. DJ Jazzy Jeff & Kaidi Tatham\)](https://open.spotify.com/album/39Iq6BG49jqLDli2On1ttE) | 3:54 |
 
-Snapshot ID: `MCwzODYzYTRjMzliNTViMThmODRlYjZhMWZhMGMyNTVhMDJhNDM4ZTFl`
+Snapshot ID: `MCxlMzYwMDYzMmUzY2MwN2RhMWMwMzU0ZjI2ZDFmMzYyZmM4MjBmMDZk`

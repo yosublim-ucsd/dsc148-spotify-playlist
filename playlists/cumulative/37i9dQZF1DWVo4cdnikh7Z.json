@@ -9679,6 +9679,32 @@
     },
     {
       "album": {
+        "name": "Mathagam (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3GSxcMXlPuIPlNdqzC3eUB"
+      },
+      "artists": [
+        {
+          "name": "Darbuka Siva",
+          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Shilvi Sharon",
+          "url": "https://open.spotify.com/artist/1KCJkKOl7ejNUXcWKDy9jr"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Mathagam - Title Track",
+      "url": "https://open.spotify.com/track/5Gk01O7qs1LYirYvdYpGCg"
+    },
+    {
+      "album": {
         "name": "Mayakirriye",
         "url": "https://open.spotify.com/album/5do7NqMxzn5MD3HWYdjDGy"
       },
@@ -15280,8 +15306,8 @@
           "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
         },
         {
-          "name": "Vishnu Priya",
-          "url": "https://open.spotify.com/artist/0l9C8qZwqmgjtVB6VRBa6C"
+          "name": "Vishnupriya Ravi",
+          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
         }
       ],
       "date_added": "2023-08-21",

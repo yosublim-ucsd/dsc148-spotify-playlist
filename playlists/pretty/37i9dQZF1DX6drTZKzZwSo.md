@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 
 > Classic funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,466 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,574 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 53 | [We Supply](https://open.spotify.com/track/15jrsi4n0S152zsrlWkT3v) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 4:10 |
 | 54 | [Man Funk](https://open.spotify.com/track/1QQxrrABKbx5w4LIphElwb) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Leron Thomas](https://open.spotify.com/artist/0lVzm0fYj4BredTD0LMdSY) | [Hip Hop After All](https://open.spotify.com/album/0w7sDS0APyRmH0HBPtiE8E) | 3:53 |
 | 55 | [Soul Power 74 \- Pt\. 2](https://open.spotify.com/track/7rFS1AleVTvi4Ye5fzLL44) | [Maceo And The Macks](https://open.spotify.com/artist/0rDIqnqwAmDPL1gyzoFH9y) | [Us](https://open.spotify.com/album/0xokdAGKPT5G5kld9cgcOX) | 4:08 |
-| 56 | [It's Too Funky In Here \- Single Version](https://open.spotify.com/track/3FSVxcdplNPNgNrZTYTxte) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Gold](https://open.spotify.com/album/6k3kDaRLxtRJ2Lo7DwwTxh) | 3:58 |
+| 56 | [It's Too Funky In Here \- Single Version](https://open.spotify.com/track/3EJTzm42iaVQEh8YskT7f0) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Gold](https://open.spotify.com/album/35Xv40swznGmD4s6ro7XAd) | 3:58 |
 | 57 | [Get Up \(I Feel Like Being A\) Sex Machine](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 5:16 |
 | 58 | [Bull's Eye](https://open.spotify.com/track/4kWJRQ4SKU3A8Twt8fdsmJ) | [Blacknuss](https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P), [Prince Prime](https://open.spotify.com/artist/23p1rwItiE4C2SxCLe8b3r) | [Blacknuss 2.0](https://open.spotify.com/album/2b8GXykQVNWq4GC6PFFeyn) | 5:05 |
 | 59 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Fulfillingness' First Finale](https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ) | 3:22 |
 | 60 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 
-Snapshot ID: `MCxjNWYyZjFlZDVhY2ZkZTQ3ZDNiNGQ5Njg0MzYxNjUzOWYwMTE0ZTUz`
+Snapshot ID: `MCwxY2Q2YWM0NTBkMTdkODE0MTk5YTBmMDIzNTNjZTg0ZDA0YWJlNzEw`

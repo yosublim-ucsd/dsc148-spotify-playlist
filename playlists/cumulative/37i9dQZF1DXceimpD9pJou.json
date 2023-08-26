@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto:  <a href=\"https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=877493346f384810\">Niko Eme</a>",
+  "description": "Las mejores nuevas canciones cristianas.  Foto:  <a href=\"https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO?si=7a7b4a86cbb4493a\">Blanca</a> y <a href=\"https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ?si=c54b0b598d5c4275\">Montesanto</a>",
   "name": "Novedades Cristianas",
   "tracks": [
     {
@@ -930,7 +930,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 250000,
       "name": "Aleluya",
       "url": "https://open.spotify.com/track/49pWfGhPqDuqK81qPbObx3"
@@ -3493,6 +3493,28 @@
     },
     {
       "album": {
+        "name": "COLORES",
+        "url": "https://open.spotify.com/album/0sXyAwilnj18VVoBG76iXc"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Real",
+          "url": "https://open.spotify.com/artist/3CRjPCbwgcnkxwVZYQqgcu"
+        },
+        {
+          "name": "Anmily Brown",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223313,
+      "name": "COLORES",
+      "url": "https://open.spotify.com/track/2kjkALCXFUOV2ZeKps7l68"
+    },
+    {
+      "album": {
         "name": "Come What May (Spanish/English Version)",
         "url": "https://open.spotify.com/album/6KKUvTtlXEepTEK2BYb2Yy"
       },
@@ -3896,7 +3918,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 336016,
       "name": "Conf\u00edo en Dios (Trust In God)",
       "url": "https://open.spotify.com/track/6GBrbatK9627wS2XALcUGw"
@@ -5168,7 +5190,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 357342,
       "name": "Dicen - Live",
       "url": "https://open.spotify.com/track/2CQRTmvjNnKrvEeR7qdcCH"
@@ -5638,7 +5660,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 418260,
       "name": "Dios Te Est\u00e1 Llamando - Live",
       "url": "https://open.spotify.com/track/5m3KaY8zaqvs55ME72nTqT"
@@ -6345,6 +6367,24 @@
     },
     {
       "album": {
+        "name": "El Me Salvo",
+        "url": "https://open.spotify.com/album/7vAw8cK7N20EZEqnZ1cLvA"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "El Me Salvo",
+      "url": "https://open.spotify.com/track/759TD78PJN2Xyef5L8rPsT"
+    },
+    {
+      "album": {
         "name": "El Mejor Dembow",
         "url": "https://open.spotify.com/album/2pptLT2BLYvXIT8zmUqfVm"
       },
@@ -6396,6 +6436,24 @@
       "duration_ms": 281453,
       "name": "El Mismo Poder - Studio",
       "url": "https://open.spotify.com/track/4PM1khBmu9UXgl4QRXH1IS"
+    },
+    {
+      "album": {
+        "name": "El Nazareno",
+        "url": "https://open.spotify.com/album/0s0Krj62a0eEkLguJPygey"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n Gracia M\u00fasica",
+          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391788,
+      "name": "El Nazareno",
+      "url": "https://open.spotify.com/track/5txVdEm05NVLR5uZWeezDW"
     },
     {
       "album": {
@@ -7155,6 +7213,28 @@
     },
     {
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/427gdsvNPa8CZ5pe0IXh4L"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206446,
+      "name": "Eres Mi Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/4PWOHWzNDlENfrapoZqU8o"
+    },
+    {
+      "album": {
         "name": "Eres Suficiente - Live",
         "url": "https://open.spotify.com/album/6016PuOmdkBEX3fvA2cEtr"
       },
@@ -7290,6 +7370,28 @@
       "duration_ms": 155040,
       "name": "Eso Ya Pas\u00f3",
       "url": "https://open.spotify.com/track/3qtSrMM0z05JppZcBXJQc2"
+    },
+    {
+      "album": {
+        "name": "Espacio Te Har\u00e9 (Make Room)",
+        "url": "https://open.spotify.com/album/2v3xPCQe2cxjMCKOat5JvN"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272958,
+      "name": "Espacio Te Har\u00e9 (Make Room)",
+      "url": "https://open.spotify.com/track/14dbKYquAL2riRAglL7Cfx"
     },
     {
       "album": {
@@ -7596,7 +7698,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 220669,
       "name": "est\u00e1 bien no estar bien :):",
       "url": "https://open.spotify.com/track/68yI7pPM5hOXfG3ea55kQx"
@@ -8094,7 +8196,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 153911,
       "name": "FlowPiQ",
       "url": "https://open.spotify.com/track/1LXy8GFZW8cpOxTtQngHoX"
@@ -9550,7 +9652,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 236408,
       "name": "Hermoso Momento - KA2SH Remix",
       "url": "https://open.spotify.com/track/0MwUVJukXbo9DOB607fXAy"
@@ -10702,6 +10804,24 @@
       "duration_ms": 199223,
       "name": "La La La",
       "url": "https://open.spotify.com/track/4rckPCPXflSm6oeZtbyYid"
+    },
+    {
+      "album": {
+        "name": "La Mentira",
+        "url": "https://open.spotify.com/album/4cLMzabLN4UBjv1amjMuUC"
+      },
+      "artists": [
+        {
+          "name": "Jackson Martinez",
+          "url": "https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221641,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/6HZbHWzIF7cMiVcxr4IDXf"
     },
     {
       "album": {
@@ -12270,7 +12390,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 355086,
       "name": "Maranata",
       "url": "https://open.spotify.com/track/0fq7OLFLKtE2aYKwmaUzsu"
@@ -13922,7 +14042,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 127905,
       "name": "MVP",
       "url": "https://open.spotify.com/track/00uwU1dENamylOgeLh2ask"
@@ -15827,6 +15947,28 @@
     },
     {
       "album": {
+        "name": "Par De Llaves",
+        "url": "https://open.spotify.com/album/367YtUg9SZIfvYnppYRFCZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hesed",
+          "url": "https://open.spotify.com/artist/5AqVKdIUY9LUfSAE9sV5DA"
+        },
+        {
+          "name": "Octavio Vizcarra Recio",
+          "url": "https://open.spotify.com/artist/1BcrhMa98HYhlb5NTiMrKS"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258613,
+      "name": "Par De Llaves",
+      "url": "https://open.spotify.com/track/1H1aqYw7xvFpPf2tdrQZrK"
+    },
+    {
+      "album": {
         "name": "Para Amarte",
         "url": "https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C"
       },
@@ -17411,6 +17553,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n Soy",
+        "url": "https://open.spotify.com/album/0B8Es3TK9ZRpDlmyFsn7fP"
+      },
+      "artists": [
+        {
+          "name": "Jah Love",
+          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239054,
+      "name": "Qui\u00e9n Soy",
+      "url": "https://open.spotify.com/track/2d2PzJy1oNavZJyDpH8zSb"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date Con Ese",
         "url": "https://open.spotify.com/album/6WvJTzI5uvCgUXuQoJgy7f"
       },
@@ -17526,6 +17686,24 @@
       "duration_ms": 160069,
       "name": "RDV",
       "url": "https://open.spotify.com/track/6Z0VDnAGbvyf3125lRfVaF"
+    },
+    {
+      "album": {
+        "name": "Recuerdo Que Me Amas",
+        "url": "https://open.spotify.com/album/3upitAgpEINVk8tQUpivs8"
+      },
+      "artists": [
+        {
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293156,
+      "name": "Recuerdo Que Me Amas",
+      "url": "https://open.spotify.com/track/74Kthos5fHNsIm0NWCGZIT"
     },
     {
       "album": {
@@ -17988,7 +18166,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 184500,
       "name": "Roquero, Pt. 2",
       "url": "https://open.spotify.com/track/51eMCfgWL4cCL9SqZnPuR1"
@@ -19258,7 +19436,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 162666,
       "name": "SOLO EST\u00c1S T\u00da",
       "url": "https://open.spotify.com/track/2v4Q8E4Y606tDgx7cFSVWx"
@@ -19914,6 +20092,28 @@
       "duration_ms": 320391,
       "name": "S\u00ed y Am\u00e9n (No Fallar\u00e1s) - Live",
       "url": "https://open.spotify.com/track/46HA1oA41JpbBf8Nha4Tnh"
+    },
+    {
+      "album": {
+        "name": "Tal Vez ;)",
+        "url": "https://open.spotify.com/album/17SuU8Iz2q9c805ZxwybHm"
+      },
+      "artists": [
+        {
+          "name": "DUViMEL",
+          "url": "https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF"
+        },
+        {
+          "name": "Vianca \"The Grace\"",
+          "url": "https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Tal Vez ;)",
+      "url": "https://open.spotify.com/track/0OYoNe5nRx6xwRN2LTwxGa"
     },
     {
       "album": {
@@ -21062,7 +21262,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 447173,
       "name": "Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7pdTTtVAmvMHZXfy83FxDN"
@@ -21206,6 +21406,28 @@
       "duration_ms": 559636,
       "name": "Tu Gracia - En Vivo",
       "url": "https://open.spotify.com/track/1avndzhDc1uj2KluWeey7O"
+    },
+    {
+      "album": {
+        "name": "Tu Habitaci\u00f3n (Live)",
+        "url": "https://open.spotify.com/album/1BJXzDHZSUFqlNkWyoVI2I"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 716945,
+      "name": "Tu Habitaci\u00f3n - Live",
+      "url": "https://open.spotify.com/track/5K1KztZIKtkq6eJdPjAtHQ"
     },
     {
       "album": {
@@ -21645,6 +21867,28 @@
     },
     {
       "album": {
+        "name": "T\u00fa Conmigo Vas",
+        "url": "https://open.spotify.com/album/2s09iXD44UVVWZlIIgmob5"
+      },
+      "artists": [
+        {
+          "name": "Pablo Olivares",
+          "url": "https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu"
+        },
+        {
+          "name": "Halogena",
+          "url": "https://open.spotify.com/artist/7bqTWeLqeSjt40EisJxzac"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289350,
+      "name": "T\u00fa Conmigo Vas",
+      "url": "https://open.spotify.com/track/1zeeGZHvRofqtyb2scZ2pT"
+    },
+    {
+      "album": {
         "name": "T\u00fa Eres Mi Lugar",
         "url": "https://open.spotify.com/album/2we1MKPjCeV2U182IIoeZu"
       },
@@ -22060,7 +22304,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 183945,
       "name": "Valor - Live",
       "url": "https://open.spotify.com/track/7gnfwXCFgLZQtxqMBKQOP6"
@@ -22942,6 +23186,24 @@
       "duration_ms": 289315,
       "name": "Vuelvo a la Vida",
       "url": "https://open.spotify.com/track/0jAf2Xes2hj1Il5BdZPAM6"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/5WsUuzx8Yy3strOchA0ISg"
+      },
+      "artists": [
+        {
+          "name": "La Catedral",
+          "url": "https://open.spotify.com/artist/028xpD94ojZ0WraOcCTkEe"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193756,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/4gSQ7q16rALqE0bBayUGWV"
     },
     {
       "album": {

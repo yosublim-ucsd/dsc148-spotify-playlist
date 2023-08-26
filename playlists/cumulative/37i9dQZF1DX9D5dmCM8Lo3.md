@@ -4,7 +4,7 @@
 
 > would you like to save before closing?
 
-115 songs - 5 hr 39 min
+116 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [.dancecore](https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [Audio Diary](https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK) | 3:09 | 2022-03-11 | 2023-06-13 |
 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 | 2022-03-02 | 2023-06-13 |
 | [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2022-03-02 | 2023-02-02 |
-| [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046), [Max Beirne Shafer](https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 | 2022-03-02 |  |
+| [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046), [Max Beirne Shafer](https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 | 2022-03-02 | 2023-08-26 |
 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 | 2022-03-02 | 2023-06-13 |
 | [Angel](https://open.spotify.com/track/7GdAzd0WQypZOd7pcwUhxf) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Angel](https://open.spotify.com/album/5dkVASayX6wbSxD3ZWWsuB) | 2:17 | 2022-03-02 | 2023-06-17 |
 | [Answers](https://open.spotify.com/track/2XrdLU23MqMdrYhhuf1vtS) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Answers](https://open.spotify.com/album/4Rv4S6zw3hCRlwAt3KbW1X) | 4:48 | 2022-03-02 | 2022-07-28 |
@@ -61,6 +61,7 @@
 | [Incense](https://open.spotify.com/track/4XSgj1I1rvcfkhnCbw7i7Z) | [semaito](https://open.spotify.com/artist/779f6q3MCURu6NSpu9m89h) | [Incense](https://open.spotify.com/album/0yLTN5LFOs8Zt1BBZt3a4Q) | 2:23 | 2022-03-02 | 2022-07-27 |
 | [JERK!](https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [JERK!](https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc) | 2:11 | 2023-07-18 |  |
 | [Just Like My \- TAYE//PAL Remix](https://open.spotify.com/track/2AFFsdgv6ma6kkM3pOlvUH) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u), [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c), [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01) | [Helium Remixes](https://open.spotify.com/album/2AZXmJyhqaOues0Y53jbgg) | 5:40 | 2022-03-02 | 2022-07-29 |
+| [L41N](https://open.spotify.com/track/4VsT2A4GX2Ichk6PD5LeXs) | [Piff Paff Piffi](https://open.spotify.com/artist/2jKVs5nD7UCtKJKGWvyK77) | [L41N](https://open.spotify.com/album/0VdyPqxbI01I2wIzkw5gX2) | 3:49 | 2023-07-18 |  |
 | [lain](https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2) | [C4FF31N3](https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy) | [lain](https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC) | 3:46 | 2022-03-02 | 2023-08-20 |
 | [LAKE OF LOVE](https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [LAKE OF LOVE](https://open.spotify.com/album/4W4eNy279B7ogE6nBm6Dbw) | 5:43 | 2022-04-01 | 2022-07-29 |
 | [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 | 2022-03-02 |  |

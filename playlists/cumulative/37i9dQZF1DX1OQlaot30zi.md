@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani de Il Tre, Il Ghost e tanti altri.
 
-2,202 songs - 4 day 4 hr 13 min
+2,203 songs - 4 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Freddo](https://open.spotify.com/track/0JTSwPtqZ4Aesj6fIlnnYJ) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Freddo](https://open.spotify.com/album/7KLikaUXpm72gqhUQV8OkA) | 2:02 | 2023-03-16 | 2023-04-07 |
 | [FREDDO AD AGOSTO](https://open.spotify.com/track/6WTZTKzfegWUhn6XsFLbJC) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU) | [TEMPESTA DI LACRIME](https://open.spotify.com/album/0cE7IGkRpzgEgr88JOcZ2Q) | 2:55 | 2022-05-12 | 2022-05-20 |
 | [Freddo D'Estate](https://open.spotify.com/track/1EhNW2RvKqLZmIsXx17ivL) | [Fè](https://open.spotify.com/artist/4uBeQkuwBlG3UDEmKHtSqw) | [Freddo D'Estate](https://open.spotify.com/album/5nTzi66trIVUhMaamj93Zi) | 2:41 | 2022-06-09 | 2022-06-18 |
+| [FREE](https://open.spotify.com/track/4YGP7UFW9CYJQ3m9D1LcBv) | [Asso X](https://open.spotify.com/artist/3BroHWMcnIcgZ48iAMoV34) | [FREE](https://open.spotify.com/album/73zmDMBi2hBo3BxdzkINZa) | 2:18 | 2023-08-24 |  |
 | [Free \(feat\. Marracash & Rkomi\)](https://open.spotify.com/track/2bTt0QXf4b1gmIhD4zyXxP) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:10 | 2023-01-12 | 2023-02-10 |
 | [FREE SOLO \(feat\. Marracash\)](https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:33 | 2022-05-19 | 2022-06-10 |
 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 | 2022-07-14 | 2022-08-19 |

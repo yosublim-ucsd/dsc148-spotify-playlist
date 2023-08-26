@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Riya Duggal
 
-192 songs - 10 hr 36 min
+193 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Dil Ho Tum](https://open.spotify.com/track/4z0cWwPjd0rOkBl0HhyIH6) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dil Ho Tum](https://open.spotify.com/album/30ArQwlmCra7hvdeQR5FsF) | 2:38 | 2023-04-14 | 2023-06-17 |
 | [Dil Mera \(feat\. Yashraj\)](https://open.spotify.com/track/1nVSxDyWTQbRrn3PudCibw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Dil Mera \(feat\. Yashraj\)](https://open.spotify.com/album/7GlA1ckwyopYmRxvSZs4Hs) | 2:40 | 2023-07-21 | 2023-08-25 |
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-19 | 2023-06-17 |
+| [Dokhi Na](https://open.spotify.com/track/1FqYFTYND93fbxXjxZcGWC) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Dokhi Na](https://open.spotify.com/album/3H3uwQikqS1WpHLCK93Nfh) | 2:39 | 2023-08-25 |  |
 | [Dreams](https://open.spotify.com/track/69KsBGYUsA6bn6BKdS9eTF) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Dreams](https://open.spotify.com/album/10DvgJVSmj2PZbKQz2ci7x) | 2:27 | 2023-08-25 |  |
 | [Ek Deewane Ko](https://open.spotify.com/track/2z0a7Fk1pBfj9et2nd5tS3) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Ek Deewane Ko](https://open.spotify.com/album/4qn1vEiA3nfTIOgjmWEkrh) | 4:53 | 2023-07-21 | 2023-08-25 |
 | [Fida](https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Fida](https://open.spotify.com/album/0JQ7xpuT2g8TlnT8r7hamD) | 2:52 | 2023-07-21 | 2023-08-25 |
@@ -71,7 +72,7 @@
 | [Hum Kya Karein](https://open.spotify.com/track/19KiIzkn7AT9bpgt5KnijH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Hum Kya Karein](https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt) | 3:11 | 2023-04-14 | 2023-05-20 |
 | [Intezaar](https://open.spotify.com/track/4yIoCve220GOx7x17Wk69B) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Intezaar](https://open.spotify.com/album/1Rk9eLLCjJifVY4zGufZqS) | 4:41 | 2023-07-28 | 2023-08-25 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-08-11 |
-| [Jaana](https://open.spotify.com/track/2tEyzEReRogNcNQZq3N5oz) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Jaana](https://open.spotify.com/album/0fgKxVuP4Gj3llQjrl5Cye) | 2:32 | 2023-07-28 |  |
+| [Jaana](https://open.spotify.com/track/2tEyzEReRogNcNQZq3N5oz) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Jaana](https://open.spotify.com/album/0fgKxVuP4Gj3llQjrl5Cye) | 2:32 | 2023-07-28 | 2023-08-26 |
 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 | 2023-07-14 | 2023-08-25 |
 | [Jaane Kyun](https://open.spotify.com/track/2XecqQiPVkouS73OYRzDC6) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0) | [Jaane Kyun](https://open.spotify.com/album/35tiVpTGRw9i7dBL9wUZ6J) | 2:19 | 2023-04-14 | 2023-05-20 |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-04-14 | 2023-05-20 |

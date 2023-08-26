@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 252160,
       "name": "Gloryland",
       "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
@@ -4876,7 +4876,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 242593,
       "name": "Midnight on the Stormy Deep",
       "url": "https://open.spotify.com/track/4gVjsCMBPLqKj0ygvDY9a5"
@@ -5694,6 +5694,40 @@
       "duration_ms": 153106,
       "name": "On The Water",
       "url": "https://open.spotify.com/track/6sVBfdmhr8SrqUJDynPZKQ"
+    },
+    {
+      "album": {
+        "name": "4:09",
+        "url": "https://open.spotify.com/album/2KwAbI08WaxaEABYTgSPpJ"
+      },
+      "artists": [
+        {
+          "name": "Chandler Beavers",
+          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
+        },
+        {
+          "name": "Caleb Cox",
+          "url": "https://open.spotify.com/artist/0tnOQUxUsvtuOzlQjFxenc"
+        },
+        {
+          "name": "Chris Stockwell",
+          "url": "https://open.spotify.com/artist/3UyfWIdlmw1ejsXy1h3owu"
+        },
+        {
+          "name": "Brendan Macie",
+          "url": "https://open.spotify.com/artist/2lctN9BubZrESorwh3JGHT"
+        },
+        {
+          "name": "Lars Swanson",
+          "url": "https://open.spotify.com/artist/43AjHzaUAjsoTmaOJWqqzQ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258318,
+      "name": "Once in a Thousand",
+      "url": "https://open.spotify.com/track/4SyZE6yKsawGAlkks34FfX"
     },
     {
       "album": {
@@ -8201,6 +8235,28 @@
     },
     {
       "album": {
+        "name": "Tried to Ruin My Name",
+        "url": "https://open.spotify.com/album/6Ciri7OY3x7Rv5DrdKabyN"
+      },
+      "artists": [
+        {
+          "name": "Cory Walker",
+          "url": "https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Tried to Ruin My Name",
+      "url": "https://open.spotify.com/track/2vSnv3tjh9FbogKRWrrFo1"
+    },
+    {
+      "album": {
         "name": "The Raven",
         "url": "https://open.spotify.com/album/0UNap2Kryw872d7Yt4OtCC"
       },
@@ -8230,7 +8286,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 172160,
       "name": "Turn Me into a Diamond",
       "url": "https://open.spotify.com/track/19VRvX8xmTABSpVa9eiIFF"
@@ -9002,6 +9058,24 @@
       "duration_ms": 235516,
       "name": "Will the Circle Be Unbroken",
       "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
+    },
+    {
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SIRUP + iri \*👉 <a href="https://spice.eplus.jp/articles/321367?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,123 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,205 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 75 | [Games](https://open.spotify.com/track/6NVReARNia3QhYdxOFbJKs) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Games](https://open.spotify.com/album/65x4kOH2moydRZrdVuTOK6) | 3:02 |
 | 76 | [Cozy](https://open.spotify.com/track/6v9C1qanFmG1Uz51tJ10mt) | [NEMNE](https://open.spotify.com/artist/5ZUrPx2BfBk7xL3LbdFmFr) | [Cozy](https://open.spotify.com/album/1pEXPqUrEl661gmW4QMMBl) | 2:51 |
 | 77 | [Road](https://open.spotify.com/track/6puNqqluNdjXKUhLFZtgKI) | [Chapman](https://open.spotify.com/artist/1aqjLhOgvZBtaI6Sh1PNEi) | [Road](https://open.spotify.com/album/6aTAoUamjlP48AGJh3jD8r) | 4:20 |
-| 78 | [Flama](https://open.spotify.com/track/5OqClMQ6f801s7pZLryexS) | [CANDYGIRL](https://open.spotify.com/artist/6ljA8ttKB0d9eBUySPaSOZ) | [Flama](https://open.spotify.com/album/5NuoEgpOWJwfUdMXQoaZGG) | 2:57 |
+| 78 | [Flama](https://open.spotify.com/track/1pV36SWgIYbYX2LdnlciII) | [CANDYGIRL](https://open.spotify.com/artist/6ljA8ttKB0d9eBUySPaSOZ) | [Flama](https://open.spotify.com/album/4SZVzloMwfOQfop1DAMEOv) | 2:57 |
 | 79 | [神龍](https://open.spotify.com/track/2oRDXQeBMws1wJBbofnHKD) | [DNA GAINZ](https://open.spotify.com/artist/0bOGtsbotnQiTIHQMehEZx) | [私たちいい子で信じる力を散々使って生きている](https://open.spotify.com/album/7fC5CUd5PNmLlXFJ8gZzfn) | 4:22 |
 | 80 | [Queen In Red](https://open.spotify.com/track/1rbzbUE7C87j6KIYrzOLWb) | [paddy isle](https://open.spotify.com/artist/5fVkOuKZTtdhhxhiifs0Ib) | [Queen In Red](https://open.spotify.com/album/5OJztmLSTOpoWePR0cNxoS) | 3:38 |
 
-Snapshot ID: `MCxiOGNjMDZmOTY4N2EzYjZhYmY1YmRiNGM0NjY4ZjQ2N2IyMzEzNTYw`
+Snapshot ID: `MCw4OTI0ZWVhMjhkNWNiOTk0MDhjNGZiMmZmMDFmZTkwOGE4MzFjNjc4`

@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-745 songs - 2 day 1 hr 1 min
+746 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 | 2023-01-26 |  |
 | [Anything Goes](https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merrill With Strings](https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG) | 3:07 | 2021-12-03 | 2023-01-20 |
 | [Arbitrary Love](https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Arbitrary Love](https://open.spotify.com/album/14cKYBGrd72kX0cxVceOAV) | 3:08 | 2023-06-15 | 2023-08-14 |
+| [Around six thirty](https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Around six thirty](https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza) | 3:23 | 2023-08-25 |  |
 | [As I Ponder](https://open.spotify.com/track/6khM5DGF44SpKPh0Wb0lQI) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [As I Ponder](https://open.spotify.com/album/367OQVZU6YW07Dk0B7SvO5) | 3:19 | 2023-08-18 |  |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-02-02 |  |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-11-10 |  |
@@ -562,7 +563,7 @@
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 |  |
 | [Snow in the Night](https://open.spotify.com/track/5pkV89tLr5KvFchu3jsEyS) | [Max Light Quartet](https://open.spotify.com/artist/0BZxORrNUJfV3VoAH6pgYO) | [Livia's Dream](https://open.spotify.com/album/60AwORaHZMMTqmeRRdsxP2) | 3:38 | 2023-06-15 | 2023-08-13 |
 | [Snowbound](https://open.spotify.com/track/7sDq8pkhmQJCkRR68jnnzz) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Snowbound](https://open.spotify.com/album/1JZB7ZrcA7gJ8NC4eWQAEM) | 3:28 | 2023-01-12 |  |
-| [Social Call](https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Gigi Gryce](https://open.spotify.com/artist/60pVDktf5EH4d3IxkHozpa) | [When Farmer Met Gryce](https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a) | 6:05 | 2021-12-03 |  |
+| [Social Call](https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Gigi Gryce](https://open.spotify.com/artist/60pVDktf5EH4d3IxkHozpa) | [When Farmer Met Gryce](https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a) | 6:05 | 2021-12-03 | 2023-08-26 |
 | [Soft Rain](https://open.spotify.com/track/5X7GoPJvTxS5TcjF21oskS) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Soft Rain](https://open.spotify.com/album/4Foh44rplupTKb3rPj5siU) | 3:44 | 2023-03-16 |  |
 | [Softly, Tenderly](https://open.spotify.com/track/5byMA13b3vZFCMVAgJNsCo) | [The Smooth Sounds](https://open.spotify.com/artist/4Z8nV1Gr7Lv05JRKvsNhW8) | [Softly, Tenderly](https://open.spotify.com/album/4UjQcQQbyYPZnNbY4gWsPM) | 3:41 | 2023-04-14 |  |
 | [Soiree](https://open.spotify.com/track/5Vj4eHzcf4SJNtOx2SxWxw) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [From Left To Right \(Expanded Edition\)](https://open.spotify.com/album/1zzo0Z44x6Xkjhz4RMlGBG) | 3:23 | 2022-05-13 | 2023-05-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 94741,
+  "num_followers": 94800,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzQ1OWEzNTMxYTYyYTcyYTEyYzVhNmQzYzViZTRiYjBmZWUxMDI0",
+  "snapshot_id": "MCw2NjZiYjU3MWI2NzVlYWU3YTRhN2U1MTQ4YTRlMWE3MTBkNzczYmU1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:53:31",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-08-18 04:53:31",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 494800,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
+      "duration_ms": 226960,
+      "name": "Whoever's in New England",
+      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
     },
     {
       "added_at": "2023-08-18 04:53:31",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-08-18 04:53:31",
       "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Whoever's in New England",
-      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
+      "duration_ms": 494800,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
     },
     {
       "added_at": "2023-08-18 04:53:31",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2023-08-18 04:53:31",
       "album": {
-        "name": "Rachel Bradshaw",
-        "url": "https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp"
+        "name": "Man Of Constant Sorrow",
+        "url": "https://open.spotify.com/album/7jlzOCM6wAcFjOn0sQvrKj"
       },
       "artists": [
         {
-          "name": "Rachel Bradshaw",
-          "url": "https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
         }
       ],
-      "duration_ms": 192236,
-      "name": "If I Needed You",
-      "url": "https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa"
+      "duration_ms": 214662,
+      "name": "Man Of Constant Sorrow",
+      "url": "https://open.spotify.com/track/4CYckHP3FnrXCysqEavOd5"
     }
   ],
   "unique_name": "Country Covers",

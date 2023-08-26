@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,309 songs - 2 day 23 hr 8 min
+1,310 songs - 2 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 | 2022-02-08 | 2022-04-20 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-06-18 | 2023-06-30 |
 | [Cuando Me Vaya](https://open.spotify.com/track/4BirB1m7itKqHLTvO2rfDW) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 4:05 | 2022-11-30 | 2022-12-02 |
+| [Cuerno Asulado](https://open.spotify.com/track/5IZMJKA7ODhc0qoyBZMpc1) | [Alex Tumbado](https://open.spotify.com/artist/5ZBnyLELHoCxkxVFBBSYUh) | [Cuerno Asulado](https://open.spotify.com/album/2JlHIHXNSxTJVkW97NqyHL) | 2:45 | 2023-08-25 |  |
 | [Cuerno Asulado \- Marcogta Music Remix](https://open.spotify.com/track/342YTjxByX0g6p1PDZqhMF) | [Anthonyo Montana](https://open.spotify.com/artist/1yDVPjPLcpOwN95AjuMrRJ), [Marcogta Music](https://open.spotify.com/artist/5taMVqT4X4hYpQHyvSoiIR) | [Cuerno Asulado \(Marcogta Music Remix\)](https://open.spotify.com/album/3zveLzfqZ0XY24YyCEjm7f) | 2:35 | 2023-07-25 | 2023-07-29 |
 | [Cuerno Asulao](https://open.spotify.com/track/4KjtNOBTdwOVeQ6OczDj2M) | [Marcogta Music](https://open.spotify.com/artist/5taMVqT4X4hYpQHyvSoiIR) | [Cuerno Asulao](https://open.spotify.com/album/5YtmKDRWi1vzn5QZ52943N) | 2:34 | 2023-07-28 | 2023-08-03 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-09-28 | 2022-11-05 |
@@ -1067,7 +1068,7 @@
 | [Somos Incomparables \(Ella Dijo\)](https://open.spotify.com/track/04zFte0buEek4UceEZKeBM) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy), [Libres y lokos](https://open.spotify.com/artist/7xw2EXqGzZH2gIz76fIzLE) | [Incomparables, Vol\. 1](https://open.spotify.com/album/20k1xgIZK8kOHsemSgQqJe) | 3:29 | 2023-05-30 | 2023-06-07 |
 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 | 2022-05-24 | 2022-06-03 |
 | [Somos Instantes](https://open.spotify.com/track/4eWC4PIRnCAiSo028OWh62) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 3:13 | 2022-06-02 | 2022-07-07 |
-| [SONRÍE <3](https://open.spotify.com/track/47sOMp1xXLBzGXOuUZPR4x) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:21 | 2023-08-15 |  |
+| [SONRÍE <3](https://open.spotify.com/track/47sOMp1xXLBzGXOuUZPR4x) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:21 | 2023-08-15 | 2023-08-26 |
 | [SORRY NOT SORRY](https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:26 | 2023-04-26 | 2023-04-28 |
 | [Sos Todo Lo Que Está Bien](https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ANIM4LES](https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl) | 1:55 | 2022-05-18 | 2022-06-01 |
 | [Soy El Diluvio](https://open.spotify.com/track/6J1UOUSR5ouZDqNX76fKPT) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Giallo](https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo) | 3:04 | 2022-05-30 | 2022-06-01 |

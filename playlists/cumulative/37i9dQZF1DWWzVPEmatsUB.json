@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 160639,
       "name": "Blueberry Puff",
       "url": "https://open.spotify.com/track/7JFL55nA4gZfq5ofsjY487"
@@ -1670,6 +1670,24 @@
       "duration_ms": 284720,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
+    },
+    {
+      "album": {
+        "name": "Feel This Way Too",
+        "url": "https://open.spotify.com/album/21gSKSi1yQ1dSXDembzlpe"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272177,
+      "name": "Feel This Way Too",
+      "url": "https://open.spotify.com/track/3RO7i5x4x7iPsm0o1AKzBU"
     },
     {
       "album": {
@@ -3746,6 +3764,24 @@
       "duration_ms": 180000,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4rbGIJobQJLUCgKrrsY6mm"
+    },
+    {
+      "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/7JHovvwDzAaSFc2vDw5DTG"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187755,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/6z2Yyi7djrqPL2OalDW8ha"
     },
     {
       "album": {
@@ -6486,7 +6522,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 229659,
       "name": "Walls",
       "url": "https://open.spotify.com/track/7xDABKlqkXpu2esECKpdO2"

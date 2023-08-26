@@ -936,7 +936,7 @@
     {
       "album": {
         "name": "Coffee Breath",
-        "url": "https://open.spotify.com/album/5KOp9Y5L4icsdSUw7nwMyG"
+        "url": "https://open.spotify.com/album/4xSZ20XQHahEsCKUydqZoX"
       },
       "artists": [
         {
@@ -947,6 +947,24 @@
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163908,
+      "name": "Coffee Breath",
+      "url": "https://open.spotify.com/track/0CBjkW0sm2CjxjMaisEDPF"
+    },
+    {
+      "album": {
+        "name": "Coffee Breath",
+        "url": "https://open.spotify.com/album/5KOp9Y5L4icsdSUw7nwMyG"
+      },
+      "artists": [
+        {
+          "name": "Sofia Mills",
+          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
       "duration_ms": 163908,
       "name": "Coffee Breath",
       "url": "https://open.spotify.com/track/2h7j0zJ2eJ1qLfyjaqQP6n"
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 182872,
       "name": "For Your Touch",
       "url": "https://open.spotify.com/track/5VeUl0KzQQOm4qLzqTyX83"
@@ -2208,7 +2226,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 193613,
       "name": "I'll Never Forget The Time I Spent With You",
       "url": "https://open.spotify.com/track/4fdTYbdskQ3GqivKixQq97"
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 188619,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu"
@@ -3124,6 +3142,24 @@
       "duration_ms": 415969,
       "name": "Older",
       "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
+    },
+    {
+      "album": {
+        "name": "oMo (Man)",
+        "url": "https://open.spotify.com/album/4HbYYzLD9gLtWOvUVjuBhI"
+      },
+      "artists": [
+        {
+          "name": "Daudi Matsiko",
+          "url": "https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "oMo (Man)",
+      "url": "https://open.spotify.com/track/373XAEtCUiQCCHQZxOjihL"
     },
     {
       "album": {
@@ -3752,7 +3788,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 248546,
       "name": "Spotlight Television",
       "url": "https://open.spotify.com/track/5o5CADtcyCZFR2COk8EJ2g"
@@ -4098,6 +4134,24 @@
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "album": {
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "album": {
@@ -4784,6 +4838,24 @@
       "duration_ms": 216386,
       "name": "You Deserve an Oscar",
       "url": "https://open.spotify.com/track/4K2TmH3Luk6dF8dVEmq6m0"
+    },
+    {
+      "album": {
+        "name": "You At The Top Of The Driveway/You're Gonna Be A Daddy",
+        "url": "https://open.spotify.com/album/4ZPRYPna0yIpEItgtKGmtr"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "You're Gonna Be A Daddy",
+      "url": "https://open.spotify.com/track/0CH7gHUFZZTwRr482gmzj7"
     },
     {
       "album": {

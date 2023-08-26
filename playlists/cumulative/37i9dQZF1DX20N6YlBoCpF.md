@@ -4,7 +4,7 @@
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO?si=fFDFQ\_BNT2CSFQw\_Mhy2iA">Juanita du Plessis</a>
 
-481 songs - 1 day 3 hr 19 min
+482 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Kômmôsêdiesê](https://open.spotify.com/track/74dfMfJHslWCxnJc4tV5yY) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY), [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Allegaarkie vir 'n Askeet](https://open.spotify.com/album/4zCQ2BGOIPiUGBja5siTjt) | 4:00 | 2023-05-04 | 2023-05-19 |
 | [Laaste Dans](https://open.spotify.com/track/3ZF1uG7UDRM63WQux3geSe) | [Jean Henry](https://open.spotify.com/artist/0l8DgVhvrJ5eV2QrzPwjO3) | [Laaste Dans](https://open.spotify.com/album/1c8ylWcUhvGtQRt6F8uAvX) | 3:32 | 2023-08-24 |  |
 | [Laaste Sigaret](https://open.spotify.com/track/5gSordoFX5gjscFFdiqKVS) | [Herman Kleinhans](https://open.spotify.com/artist/3kTnA09Ebx0rFBTPAlsLFC) | [Vir Megan](https://open.spotify.com/album/0ecdOYIs8uIBf8qCTBaoZj) | 3:28 | 2022-12-27 | 2023-01-02 |
-| [Laat Dit Goed Gaan](https://open.spotify.com/track/1E1Xd3DxRitNhh6rf2JTUf) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [Laat Dit Goed Gaan](https://open.spotify.com/album/4Rui2fGJkpnGuy9dGFBcVf) | 3:36 | 2023-05-25 |  |
+| [Laat Dit Goed Gaan](https://open.spotify.com/track/1E1Xd3DxRitNhh6rf2JTUf) | [Marissa](https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6) | [Laat Dit Goed Gaan](https://open.spotify.com/album/4Rui2fGJkpnGuy9dGFBcVf) | 3:36 | 2023-05-25 | 2023-08-26 |
 | [Laat Dit Reën](https://open.spotify.com/track/6epAsPCU7z2GKxFwdkHPOR) | [Synth Peter](https://open.spotify.com/artist/2RM9HCgLmhIkn8ZYxCbswc) | [Laat Dit Reën](https://open.spotify.com/album/6KNYHfnr44scLF38TXZkHm) | 2:36 | 2023-05-18 | 2023-07-07 |
 | [Laat Jou Voete Praat](https://open.spotify.com/track/6qNaSzF7aySbSCsNhmari2) | [CHARLIZE BERG](https://open.spotify.com/artist/0sm5h6GieSMumfzCc2ZONn) | [Laat Jou Voete Praat](https://open.spotify.com/album/1GffQhKNGRVPF6RqgmaXV2) | 3:46 | 2022-11-24 | 2023-02-17 |
 | [Laatnag Gedagtes](https://open.spotify.com/track/3ACYgEkC2uFq5FY6GRM46r) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Laatnag Gedagtes](https://open.spotify.com/album/7mK9xFRMAJsfyxdX1qecNa) | 2:54 | 2023-08-17 |  |
@@ -297,6 +297,7 @@
 | [Naweek Vibes](https://open.spotify.com/track/4DvuCPPkfeJwb2yKaqM4DN) | [Ché](https://open.spotify.com/artist/5wxOUZpO27j9hoPBwpnH90) | [Naweek Vibes](https://open.spotify.com/album/1SxMdba2nA4k8Phj8jiRXs) | 3:21 | 2022-08-11 | 2022-11-05 |
 | [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 | 2023-02-23 | 2023-05-05 |
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-09-22 | 2022-10-21 |
+| [Net 'N Bietjie Tyd](https://open.spotify.com/track/2Edk4u9DDvSGpHo18sZtgx) | [Lila Swift](https://open.spotify.com/artist/3lDhZhZ9p1kjMRqzCpnMCo) | [Net 'N Bietjie Tyd](https://open.spotify.com/album/56vCY9k5aZrNhX8JrQIARF) | 3:51 | 2023-08-25 |  |
 | [Net Een Keer](https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Net Een Keer](https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M) | 2:53 | 2022-10-27 | 2022-12-09 |
 | [Net Een Naam](https://open.spotify.com/track/578ejxjcublbBj2IJ9bKly) | [Retief Burger](https://open.spotify.com/artist/38SqGSrjDDkrsjicMn5vLl) | [Net Een Naam](https://open.spotify.com/album/2FMPMpKV6UBsKvalipOWtJ) | 3:41 | 2023-06-01 | 2023-06-30 |
 | [NET JOU LYF](https://open.spotify.com/track/4o6dLw5LJCBNqlyroyrXOy) | [Snacci](https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1), [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb) | [NET JOU LYF](https://open.spotify.com/album/1lOq88EFpwyREL30VGuWh1) | 3:09 | 2023-07-27 |  |

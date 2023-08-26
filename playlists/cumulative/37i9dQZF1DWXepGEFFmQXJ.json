@@ -7419,6 +7419,24 @@
     },
     {
       "album": {
+        "name": "We Should Get Married",
+        "url": "https://open.spotify.com/album/5DqiJn6X0JGXhP3JMM9C3I"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "We Should Get Married",
+      "url": "https://open.spotify.com/track/2syH39iwALerO994Pod9dB"
+    },
+    {
+      "album": {
         "name": "What Am I Gonna Do?",
         "url": "https://open.spotify.com/album/2mMUo8sqXZvnO8gPWAvJVo"
       },

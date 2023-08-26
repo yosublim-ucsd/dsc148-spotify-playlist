@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu?si=ba2a2b8bd0f145ce\">Phil Wickham</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B?si=318692e314f14a25\">Derek Minor</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 222014,
       "name": "A Thousand Hallelujahs - Radio Version",
       "url": "https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 188005,
       "name": "Any More",
       "url": "https://open.spotify.com/track/097YWoXrjEEvt4kQvvzkAs"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 182220,
       "name": "Authority (In The Name Of Jesus)",
       "url": "https://open.spotify.com/track/79KtTcgsfz4g4iPTUBpbRY"
@@ -2183,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Fear Of God",
+        "url": "https://open.spotify.com/album/4okOlln6a3ZLVjODMppfJI"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262467,
+      "name": "Fear Of God",
+      "url": "https://open.spotify.com/track/4suQfEsmdDRFEEGty1KBaq"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1"
       },
@@ -2362,6 +2380,24 @@
       "duration_ms": 229007,
       "name": "Firm Foundation (He Won't) (feat. Cheyenne Mitchell)",
       "url": "https://open.spotify.com/track/13PDtpRgQ7FT3mdoziwl7Q"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (Live)",
+        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Firm Foundation (He Won\u2019t) - Live",
+      "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
     },
     {
       "album": {
@@ -4988,7 +5024,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 426733,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
@@ -7680,7 +7716,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-26",
       "duration_ms": 441083,
       "name": "Plead The Blood - Live",
       "url": "https://open.spotify.com/track/0m1AnoBBUwVg5r5SOSyVrN"
@@ -10383,6 +10419,28 @@
     },
     {
       "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Third Day (feat. Ty Brasel)",
+      "url": "https://open.spotify.com/track/585LHTE4ugzJoCqk6bmkjV"
+    },
+    {
+      "album": {
         "name": "This I Know (Jesus Loves Me)",
         "url": "https://open.spotify.com/album/6fKtKDOTrHJoDgnDOwVXrP"
       },
@@ -11319,6 +11377,28 @@
     },
     {
       "album": {
+        "name": "What Could We Become?",
+        "url": "https://open.spotify.com/album/1MMXGg6FciHxwp6hXHdO3q"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338600,
+      "name": "Willing to Change",
+      "url": "https://open.spotify.com/track/5K2MDi900QPy45ttSJwvJi"
+    },
+    {
+      "album": {
         "name": "With Us Still",
         "url": "https://open.spotify.com/album/1xajWufL9Q5yU8abterSB5"
       },
@@ -11498,6 +11578,24 @@
       "duration_ms": 404554,
       "name": "Wouldn't It Be Like You - Live At TRIBL Night",
       "url": "https://open.spotify.com/track/7c16GOtg7mY3WAhKpALIu0"
+    },
+    {
+      "album": {
+        "name": "WWJD",
+        "url": "https://open.spotify.com/album/3jJcN4RVu6DudvnECkX0mA"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192626,
+      "name": "WWJD",
+      "url": "https://open.spotify.com/track/5UAY60UJhU7RA634rFVhzJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 173538,
+  "num_followers": 173712,
   "original_name": "00s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTk4ZTFiNTE0NThmYjZhOWM4NThhMzA5YmQ0ZTgyYzY2ZDcwNTcx",
+  "snapshot_id": "MCxjNThiYTM0ZDI2NmFhMThkODE3YjEzYjFhMWQ0M2ViZjM4ZWJlZDNh",
   "tracks": [
     {
       "added_at": "2023-01-18 22:25:58",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
+        "name": "Stone Sour",
+        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Bother",
+      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 225573,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
-        "name": "Stone Sour",
-        "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Bother",
-      "url": "https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK"
     },
     {
       "added_at": "2023-01-18 22:25:58",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Phenomenon",
-        "url": "https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM"
-      },
-      "artists": [
-        {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
-        }
-      ],
-      "duration_ms": 229706,
-      "name": "This Is A Call",
-      "url": "https://open.spotify.com/track/6g1lAe0by2tNDHrjpFeQ47"
-    },
-    {
-      "added_at": "2023-01-18 22:25:58",
-      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 235000,
       "name": "The Story",
       "url": "https://open.spotify.com/track/6xKos15gJxZ9J3Q9qnSUU5"
+    },
+    {
+      "added_at": "2023-01-18 22:25:58",
+      "album": {
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/2W0NcLRNl60IDHL5WUgyjM"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        }
+      ],
+      "duration_ms": 229706,
+      "name": "This Is A Call",
+      "url": "https://open.spotify.com/track/6g1lAe0by2tNDHrjpFeQ47"
     },
     {
       "added_at": "2023-01-18 22:25:58",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Sailing to Philadelphia",
-        "url": "https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63"
+        "name": "A Beautiful Lie",
+        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
       "artists": [
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 329866,
-      "name": "Sailing to Philadelphia",
-      "url": "https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3"
+      "duration_ms": 178971,
+      "name": "A Modern Myth",
+      "url": "https://open.spotify.com/track/7hZRh76Rl1Tc99jZseanbZ"
     }
   ],
   "unique_name": "00s Easy Rock",

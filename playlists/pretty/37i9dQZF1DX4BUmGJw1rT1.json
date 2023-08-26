@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 63678,
+  "num_followers": 63776,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTY0NzAxNGZiZGE4Njg3NjM3YmU0MmI5NmFmODJlMzMzMjk5OTg5",
+  "snapshot_id": "MCxmYTMyODRlZDc4NjUwYjYyYzlhZDkxMTAyMGE5MTc2YWE1NTBmMmI0",
   "tracks": [
     {
       "added_at": "2023-08-25 00:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 368186,
-      "name": "In From The Cold",
-      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 412333,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 368186,
+      "name": "In From The Cold",
+      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 344973,
-      "name": "Country Boy",
-      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 225077,
       "name": "No Mercy In This Land",
       "url": "https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 344973,
+      "name": "Country Boy",
+      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "I Got Your Love",
         "url": "https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 133777,
       "name": "I Got Your Love",
       "url": "https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Havin' Such A Good Time",
-        "url": "https://open.spotify.com/album/5Is9ufQX0ZBKBaPoj7B72I"
-      },
-      "artists": [
-        {
-          "name": "The Vintage Explosion",
-          "url": "https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD"
-        }
-      ],
-      "duration_ms": 202121,
-      "name": "Lay In Your Arms",
-      "url": "https://open.spotify.com/track/363LHVO6qJBZBmW6QWXcot"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Loving Arms - (Radio Edit), Masterlink Sessions",
         "url": "https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 326761,
       "name": "Loving Arms - (radio edit), Masterlink Sessions",
       "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Havin' Such A Good Time",
+        "url": "https://open.spotify.com/album/5Is9ufQX0ZBKBaPoj7B72I"
+      },
+      "artists": [
+        {
+          "name": "The Vintage Explosion",
+          "url": "https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD"
+        }
+      ],
+      "duration_ms": 202121,
+      "name": "Lay In Your Arms",
+      "url": "https://open.spotify.com/track/363LHVO6qJBZBmW6QWXcot"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Picture In A Frame",
-        "url": "https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Haviland and Whiskey Heart",
-          "url": "https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz"
-        }
-      ],
-      "duration_ms": 257790,
-      "name": "Picture In A Frame",
-      "url": "https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 200226,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Picture In A Frame",
+        "url": "https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Haviland and Whiskey Heart",
+          "url": "https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz"
+        }
+      ],
+      "duration_ms": 257790,
+      "name": "Picture In A Frame",
+      "url": "https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/66k33fj9TsE9XXcipKoSTh"
+      },
+      "artists": [
+        {
+          "name": "Yasmine Gill",
+          "url": "https://open.spotify.com/artist/3lUHHWVDBZVXnh1JCZ8P5I"
+        }
+      ],
+      "duration_ms": 231911,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5V8ofCBuw6EmhOvmvZc18Z"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Thanks for Tomorrow",
         "url": "https://open.spotify.com/album/0aJA4yHrcJvWvr7PNEkMYM"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 219293,
       "name": "Easiest Thing",
       "url": "https://open.spotify.com/track/3Y7yfpUKrXsOfNGTh5ayEF"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/66k33fj9TsE9XXcipKoSTh"
-      },
-      "artists": [
-        {
-          "name": "Yasmine Gill",
-          "url": "https://open.spotify.com/artist/3lUHHWVDBZVXnh1JCZ8P5I"
-        }
-      ],
-      "duration_ms": 231911,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5V8ofCBuw6EmhOvmvZc18Z"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Oh Betty (Acoustic)",
-        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 246031,
-      "name": "Oh Betty - Acoustic",
-      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Behind The Rain",
         "url": "https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE"
       },
@@ -2127,50 +2111,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Get Behind the Wheel",
-        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
+        "name": "Oh Betty (Acoustic)",
+        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
       },
       "artists": [
         {
-          "name": "Eilen Jewell",
-          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 216724,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/2DrANfSqbYgYqBXuB1CLNe"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Look Up!",
-        "url": "https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK"
-      },
-      "artists": [
-        {
-          "name": "The Harlem Gospel Travelers",
-          "url": "https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft"
-        }
-      ],
-      "duration_ms": 172801,
-      "name": "Hold On (Joy Is Coming)",
-      "url": "https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 317275,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
+      "duration_ms": 246031,
+      "name": "Oh Betty - Acoustic",
+      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2191,6 +2143,54 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 317275,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Look Up!",
+        "url": "https://open.spotify.com/album/0b1Ydows5WMOtN9PeEPklK"
+      },
+      "artists": [
+        {
+          "name": "The Harlem Gospel Travelers",
+          "url": "https://open.spotify.com/artist/16Nni80EpZ7s54i3hJKvft"
+        }
+      ],
+      "duration_ms": 172801,
+      "name": "Hold On (Joy Is Coming)",
+      "url": "https://open.spotify.com/track/2PgTSdlRLjzsb5S11R8KLQ"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Get Behind the Wheel",
+        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "duration_ms": 216724,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/2DrANfSqbYgYqBXuB1CLNe"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "I'll Do It for You",
         "url": "https://open.spotify.com/album/3DXggTbZAVLrzqddCu7l6b"
       },
@@ -2203,22 +2203,6 @@
       "duration_ms": 219597,
       "name": "I'll Do It for You",
       "url": "https://open.spotify.com/track/7nrhg2euCaBJ7bw3rcki0Y"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "In Too Deep",
-        "url": "https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 266094,
-      "name": "No Limit to My Love",
-      "url": "https://open.spotify.com/track/7ioBQAz0j9QcvO6oNrsW0D"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2259,6 +2243,38 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 266094,
+      "name": "No Limit to My Love",
+      "url": "https://open.spotify.com/track/7ioBQAz0j9QcvO6oNrsW0D"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "THOUSAND STRINGED INSTRUMENT",
+        "url": "https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD"
+      },
+      "artists": [
+        {
+          "name": "THE DAWN LIGHT",
+          "url": "https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "THOUSAND STRINGED INSTRUMENT",
+      "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "A Soul to Claim",
         "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 251384,
       "name": "Grease the Wheel",
       "url": "https://open.spotify.com/track/7zAaLt4VJczZoFBMEKLLDO"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "THOUSAND STRINGED INSTRUMENT",
-        "url": "https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD"
-      },
-      "artists": [
-        {
-          "name": "THE DAWN LIGHT",
-          "url": "https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "THOUSAND STRINGED INSTRUMENT",
-      "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Dusty Highway",
+        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
+      },
+      "artists": [
+        {
+          "name": "David Gelman",
+          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2"
       },
@@ -2383,22 +2399,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Come on Sunshine",
-        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
-      },
-      "artists": [
-        {
-          "name": "Kendell Marvel",
-          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Come on Sunshine",
-      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Love Sweet Love",
         "url": "https://open.spotify.com/album/5CNyK9cASsu2cB16j0bise"
       },
@@ -2411,6 +2411,22 @@
       "duration_ms": 164159,
       "name": "Love Sweet Love",
       "url": "https://open.spotify.com/track/3UBfEl291sMVsSJ15wSbeg"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Come on Sunshine",
+        "url": "https://open.spotify.com/album/7fHZJ4op3XqxSlmuUYoJ4f"
+      },
+      "artists": [
+        {
+          "name": "Kendell Marvel",
+          "url": "https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Come on Sunshine",
+      "url": "https://open.spotify.com/track/3E4fhNu7TbJLrKpbV3yWUp"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2451,22 +2467,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Fire in Me",
-        "url": "https://open.spotify.com/album/19pkhI8TXoAEVGLrN2Q6XU"
-      },
-      "artists": [
-        {
-          "name": "Sara Syms",
-          "url": "https://open.spotify.com/artist/59zNVUIdLrT7Wl0Zyc8CZj"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Fire in Me",
-      "url": "https://open.spotify.com/track/7utUz3M9pa5Q6h6JGU6r7k"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/4dEMN1VQLVic39QCsULlAG"
       },
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Connor Selby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
+        "name": "Fire in Me",
+        "url": "https://open.spotify.com/album/19pkhI8TXoAEVGLrN2Q6XU"
       },
       "artists": [
         {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+          "name": "Sara Syms",
+          "url": "https://open.spotify.com/artist/59zNVUIdLrT7Wl0Zyc8CZj"
         }
       ],
-      "duration_ms": 290502,
-      "name": "Hear My Prayer",
-      "url": "https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn"
+      "duration_ms": 249240,
+      "name": "Fire in Me",
+      "url": "https://open.spotify.com/track/7utUz3M9pa5Q6h6JGU6r7k"
     },
     {
       "added_at": "2023-08-25 00:01:00",

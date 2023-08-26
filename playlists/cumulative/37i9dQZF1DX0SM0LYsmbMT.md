@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,621 songs - 5 day 18 hr 47 min
+3,622 songs - 5 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1165,6 +1165,7 @@
 | [Glissade](https://open.spotify.com/track/7wckVgqFimHFAQA5GzGSGS) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Glissade](https://open.spotify.com/album/3hr8SY2rU7UGqZMAcDpf4j) | 2:27 | 2022-07-14 | 2022-11-20 |
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2022-06-02 | 2022-06-17 |
 | [Glow](https://open.spotify.com/track/2O0ZxPTJLVj1R8dZ0IjiM7) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Glow](https://open.spotify.com/album/0b5fGd2uojcaID4Zrh5QYI) | 1:57 | 2019-07-24 | 2020-02-11 |
+| [Glow](https://open.spotify.com/track/2HNF4N9Dep2Fdr3YR0encL) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [Glow](https://open.spotify.com/album/5m1YUh7jIls9AVRXSkp7Zc) | 1:53 | 2023-08-24 |  |
 | [Glow](https://open.spotify.com/track/2HxMHcxPYOxJYMZFRTD1x4) | [Toru](https://open.spotify.com/artist/5iwNavwFcSPmXns3TquMOz) | [Glow](https://open.spotify.com/album/0LAxxIZo4UYU2qXUxpLYPm) | 1:50 | 2022-08-04 | 2023-04-07 |
 | [Glowing Light](https://open.spotify.com/track/1LOaaRv8n12fQrT6ydHxUL) | [Richard Houghten](https://open.spotify.com/artist/1CsZ0ihKPWBDUERlQt8ekr) | [Glowing Light](https://open.spotify.com/album/10jtIkQbPzNDZjiKEIIUnt) | 3:02 | 2020-10-23 | 2021-01-04 |
 | [Glowing Willow](https://open.spotify.com/track/4oEnDh6kO0qc92pFabcgEV) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA) | 2:27 | 2022-11-17 |  |
@@ -3181,7 +3182,7 @@
 | [The Trail](https://open.spotify.com/track/3BnXclvUwcS7iKV0iSR1zv) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [The Trail](https://open.spotify.com/album/6nzJLUQCXfcGDQOlEqkArE) | 2:03 | 2022-04-21 |  |
 | [THE VIEW](https://open.spotify.com/track/5OSy0Rmn2xKNDGR32GgAnV) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Miles Singleton](https://open.spotify.com/artist/6D2oQFsBu917I9n3KhVXNM) | [GISEKE](https://open.spotify.com/album/697BmXjyTQ2M8bi7jGrova) | 2:10 | 2021-08-25 | 2021-10-08 |
 | [The Watcher](https://open.spotify.com/track/7w8nwOG04fyJ1rzrlOppIJ) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [The Watcher](https://open.spotify.com/album/75RvHKUJoQIH3N0SBbBZ0U) | 2:21 | 2021-12-12 | 2022-01-14 |
-| [The Window](https://open.spotify.com/track/5ytrNTP8dqIYdresL6ktrq) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [The Window](https://open.spotify.com/album/3LhghqvpRgYrBqJApGZvJh) | 2:44 | 2023-07-13 |  |
+| [The Window](https://open.spotify.com/track/5ytrNTP8dqIYdresL6ktrq) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [The Window](https://open.spotify.com/album/3LhghqvpRgYrBqJApGZvJh) | 2:44 | 2023-07-13 | 2023-08-26 |
 | [Them Sweet Waffles](https://open.spotify.com/track/4o6yYAExlEIfVHXMaA6k2j) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Them Sweet Waffles](https://open.spotify.com/album/3447p9lXxAdafgzrwa96Ca) | 2:23 | 2022-08-04 | 2022-09-23 |
 | [Theme 3](https://open.spotify.com/track/3x7TTsk6FK4HRKzvucIPr3) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Peter Thomas Sound Orchester](https://open.spotify.com/artist/2guRkkGBMKiboUZJr0NhZF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Theme 3](https://open.spotify.com/album/1nrgvX69fLq9Rw8kBVk8DB) | 3:11 | 2023-06-01 | 2023-07-07 |
 | [Then Come In](https://open.spotify.com/track/6DGk8V4erA5sGMHOp0fXI5) | [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Cocoa Sax / Then Come In](https://open.spotify.com/album/3zvL0mje1QWwhzViPQrXc5) | 3:38 | 2021-06-11 | 2021-08-06 |
