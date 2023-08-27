@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Morgan Wade
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,412 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,968 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Red Roses & Red Flags](https://open.spotify.com/track/3w1FQLKbeoZ5FD3Y4B5RJF) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Greatest Show On Dirt](https://open.spotify.com/album/54phHp2BG1tg3SuLdiWqio) | 4:24 |
 | 100 | [Never Not Remember You](https://open.spotify.com/track/3PigB8AnVf6zPtWvVC5fJL) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Never Not Remember You](https://open.spotify.com/album/0unG2Z8Ac26MVI2qKnNk5z) | 2:57 |
 
-Snapshot ID: `MCwwNWIyZWY4YmRmZDQ5ZDE3MWEwOWYwMDFlNzk5MGYyYTBjN2Q5NmY1`
+Snapshot ID: `MCw5NjM4OGNkNmZmYmRmNTU1YjVjZWZjMjY2NWYwZTg0ZjVkMjgzZjlh`

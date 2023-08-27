@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: comment debord
 
-2,001 songs - 4 day 10 hr 53 min
+2,002 songs - 4 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Banque de Beats Mondiale](https://open.spotify.com/track/51bo58pFgahPEbg4ZtQAMn) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Banque de Beats Mondiale](https://open.spotify.com/album/62KeY1v3G53EralWy54EJh) | 2:15 | 2023-06-16 | 2023-06-24 |
 | [Bar\-Mitzvah](https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Bar\-Mitzvah](https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0) | 2:07 | 2022-07-22 | 2022-08-20 |
 | [Barbade](https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [45 Degrés](https://open.spotify.com/album/0uffrPthhPnBvRdfdYvd4s) | 3:12 | 2022-07-22 | 2022-08-20 |
-| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 |  |
+| [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 | 2023-07-07 | 2023-08-27 |
 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 | 2022-10-21 | 2022-11-05 |
 | [Battleship](https://open.spotify.com/track/2RgRCdL6UgBkPUFabrM36G) | [David Jalbert](https://open.spotify.com/artist/73hJgSbsD0XvlYzI1ZmVpa) | [Le doigt d'honneur Tome II](https://open.spotify.com/album/18YetqWoWPzenG5RtA5pt0) | 3:17 | 2022-03-18 | 2022-03-26 |
 | [Bavard](https://open.spotify.com/track/6R3tleNvmMHJyHCDU5fxET) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Renaissance](https://open.spotify.com/album/2zMexOBKvZIyu0LGwwZZu0) | 3:37 | 2022-01-21 | 2022-02-05 |
@@ -425,6 +425,7 @@
 | [Dans l'espace](https://open.spotify.com/track/4f4EHBSbSB4sOQ3JtTewXk) | [Menura](https://open.spotify.com/artist/2JjA9sCrPDgdweBVtimwzp) | [Dans l'espace](https://open.spotify.com/album/3qWXJlSwkXanhoPwBXdtcN) | 2:44 | 2022-04-08 | 2022-04-16 |
 | [Dans l'sang](https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Dans l'sang](https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU) | 4:13 | 2021-12-31 | 2022-01-22 |
 | [Dans La Lune](https://open.spotify.com/track/4XKcEw3SVW9ijZXPjHxeiv) | [Mignon Bandit](https://open.spotify.com/artist/4iTJIo5yTKFlkHulNB6zUV), [Alexani](https://open.spotify.com/artist/26uDSLm23rKfEoR9TDaUrc), [BG CŒUR](https://open.spotify.com/artist/7j8iMg1W2sPAIrwaqk9ncR) | [KEVIN](https://open.spotify.com/album/5tdZnvNdkw8yHPVhyorPLl) | 3:36 | 2022-05-13 | 2022-05-20 |
+| [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 | 2023-08-25 |  |
 | [DANS LA WAVE](https://open.spotify.com/track/1xZZ6M31dihpvJeQa5148M) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA), [SAULE](https://open.spotify.com/artist/49MYInJAJqPwuH2jdHVYVc) | [DANS LA WAVE](https://open.spotify.com/album/2tCPFsp8rVHoCek3BgsASg) | 3:28 | 2022-07-29 | 2022-08-27 |
 | [Dans le décor](https://open.spotify.com/track/6gyjVUGByVefLKEZiSS5ZC) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Dans le Décor](https://open.spotify.com/album/6sZtqXyVapegevcLnybjct) | 3:41 | 2022-03-18 | 2022-03-26 |
 | [Dans le futur](https://open.spotify.com/track/6XTgW6NZDwECU4ZMgEyoto) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Dans Le Futur](https://open.spotify.com/album/4EvjCGOF7KhSbYhO99H3qG) | 3:35 | 2022-12-23 | 2023-01-21 |
@@ -557,7 +558,7 @@
 | [Encre rose](https://open.spotify.com/track/2ozGNfYebzpA8mEoQbtAP3) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Dashny Jules](https://open.spotify.com/artist/0qBG4ysV4DQXkZ1D5mcj5w) | [Encre rose](https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2) | 2:51 | 2022-03-25 | 2022-04-09 |
 | [Enfant de](https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Enfant de](https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR) | 2:54 | 2023-01-06 | 2023-01-21 |
 | [Enfantôme \- Radio edit](https://open.spotify.com/track/49PUrNvfMIGLKQlWeuyhoH) | [Feu la nuit](https://open.spotify.com/artist/68zfHjuBHS2StJIhmlr0iZ) | [Feu la nuit](https://open.spotify.com/album/6sSau2uCJFQd9ShExnfxXB) | 2:46 | 2022-10-28 | 2022-11-12 |
-| [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 | 2023-08-25 |  |
+| [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 | 2023-08-25 |  |
 | [Engraisser](https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Engraisser](https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII) | 3:03 | 2023-03-31 | 2023-04-09 |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 |  |
 | [Ensemble](https://open.spotify.com/track/5OMUo67LDz7JxLmMLZc2c3) | [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1), [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Sacrifices](https://open.spotify.com/album/3vvxyLnpm3jmgFGQegkrP9) | 2:47 | 2022-02-04 | 2022-02-12 |

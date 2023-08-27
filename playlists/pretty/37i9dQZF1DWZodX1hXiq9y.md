@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,559 likes - 100 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,667 likes - 100 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 4 | [Milestones \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1xicvSO4CJ2ymqYgpk7DFh) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 5:42 |
 | 5 | [Blue Train](https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 10:43 |
 | 6 | [Body and Soul](https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Body & Soul](https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L) | 3:02 |
-| 7 | [Footprints \- Remastered](https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 7:29 |
-| 8 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 |
+| 7 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 |
+| 8 | [Footprints \- Remastered](https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 7:29 |
 | 9 | [Love Song From "Apache"](https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:12 |
 | 10 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 |
 | 11 | [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 61 | [There Will Never Be Another You](https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 4:45 |
 | 62 | [Walkin' Shoes](https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:30 |
 | 63 | [Somethin' Else](https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 8:14 |
-| 64 | [Sophisticated Lady](https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ) | [Cliff Jordan](https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij) | [Cliff Craft](https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a) | 6:46 |
-| 65 | [Confirmation](https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 2:58 |
+| 64 | [Confirmation](https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 2:58 |
+| 65 | [Sophisticated Lady](https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ) | [Cliff Jordan](https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij) | [Cliff Craft](https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a) | 6:46 |
 | 66 | [You've Got to Have Freedom](https://open.spotify.com/track/1sxRufRKMer2iOqxUkdhN4) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Africa](https://open.spotify.com/album/7qifK1maQJzbDDLjjiHSIu) | 10:06 |
 | 67 | [Poor Butterfly](https://open.spotify.com/track/2GOnuiV0bi8oOy3eNgByYw) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 5:10 |
 | 68 | [From Dream to Dream](https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 7:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 99 | [Twelve More Bars To Go \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 5:31 |
 | 100 | [Bye bye blackbird](https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [Swingin' Till The Girls Come Home](https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw) | 3:40 |
 
-Snapshot ID: `MCxhNDUwNDY2YWU4YTc0ZTM2MTdmNTI1NWY2NDMyMDk0YmFlYTA5ZGFi`
+Snapshot ID: `MCxmNDM2NGQzZGQwNzBmYTNlYzFjZTEzYzZkMDA4NzFiNzI5NGUyZGFh`

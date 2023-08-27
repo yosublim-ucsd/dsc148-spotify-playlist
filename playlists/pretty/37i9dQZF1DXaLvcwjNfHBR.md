@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,748 likes - 77 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,795 likes - 77 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 76 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |
 | 77 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 |
 
-Snapshot ID: `MCxhZDIwNmQyMzg4YjBkOTNjODU4YTllMmFkYTU2ZWU1MmY4MTQ1ODQ2`
+Snapshot ID: `MCxjOGZkN2RjYjgxZmE0MmE5Yzc3Mjg1NTc1NTdjN2I5MjBiMDlmYTI5`

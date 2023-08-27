@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Burna Boy
 
-1,035 songs - 2 day 7 hr 47 min
+1,036 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 | 2023-08-24 |  |
 | [Help Me](https://open.spotify.com/track/5wocXoEq2TsNw3ZYdEBalW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Help Me](https://open.spotify.com/album/4mLuzYF9sqsZ6AmZMu9tkx) | 2:30 | 2023-07-13 | 2023-07-21 |
 | [here](https://open.spotify.com/track/4mBEkf0Sbl5hqL7xnDOpKu) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [here](https://open.spotify.com/album/7BqQhLeGdEyryHo6VKlvV2) | 4:14 | 2023-07-13 | 2023-07-21 |
-| [High School Drama](https://open.spotify.com/track/4d9fZ4YEJnK3W9zEsPmyL0) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/1ts95O4EudVSHUfOnaVxeL) | 2:52 | 2023-08-24 |  |
+| [High School Drama](https://open.spotify.com/track/4R5Mf6PT2EwgkZIXwoKjAD) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/4MBtDxeecH2fTMfs2wSPaM) | 2:52 | 2023-08-25 |  |
+| [High School Drama](https://open.spotify.com/track/4d9fZ4YEJnK3W9zEsPmyL0) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/1ts95O4EudVSHUfOnaVxeL) | 2:52 | 2023-08-24 | 2023-08-27 |
 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 | 2023-07-20 | 2023-07-28 |
 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 | 2023-07-13 | 2023-07-21 |
 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 | 2023-07-27 | 2023-08-04 |

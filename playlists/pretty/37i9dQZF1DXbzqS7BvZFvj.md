@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: KID FRESINO
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,463 likes - 81 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,472 likes - 81 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 80 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 | 81 | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR) | 2:31 |
 
-Snapshot ID: `MCxjMGFiMzg1NTUyY2QxZThjZWU5MmI4YmJiY2YxYTY4YmFmMGVmZmYy`
+Snapshot ID: `MCwwZTk1NzdhZTc1MjZiYTgxNWQ2ZDk3MjJiODBkZjYxNDg2ZjY2NmI0`

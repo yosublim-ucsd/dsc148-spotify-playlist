@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 181178,
+  "num_followers": 181263,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjEyZDUzODEwNWM1ZDdmN2JmNmIwYzg2ZjkxMzkzNjMxNTg1MTJl",
+  "snapshot_id": "MCxiOGE2NDg1YmIzMWUxNzIzNWQ5NDIwNzhiYWYxNThjNGQyZTFiYWRk",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Funny (feat. Childish Major)",
-        "url": "https://open.spotify.com/album/19obOmlq0RUz1TgM7fE3he"
-      },
-      "artists": [
-        {
-          "name": "Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB"
-        },
-        {
-          "name": "Childish Major",
-          "url": "https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1"
-        }
-      ],
-      "duration_ms": 162667,
-      "name": "Funny (feat. Childish Major)",
-      "url": "https://open.spotify.com/track/58nLMb5qqqwvfechq107Oh"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "BITTER",
         "url": "https://open.spotify.com/album/5oFxHBhSxMPLC2dSJufqDw"
       },
@@ -1235,6 +1215,26 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Funny (feat. Childish Major)",
+        "url": "https://open.spotify.com/album/19obOmlq0RUz1TgM7fE3he"
+      },
+      "artists": [
+        {
+          "name": "Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB"
+        },
+        {
+          "name": "Childish Major",
+          "url": "https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1"
+        }
+      ],
+      "duration_ms": 162667,
+      "name": "Funny (feat. Childish Major)",
+      "url": "https://open.spotify.com/track/58nLMb5qqqwvfechq107Oh"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Too Sensitive",
         "url": "https://open.spotify.com/album/69mfyem8nlCqn02JURApPo"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "My Demise",
-        "url": "https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot"
-      },
-      "artists": [
-        {
-          "name": "Porsh Bet$",
-          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "My Demise",
-      "url": "https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "frenemy",
         "url": "https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 186106,
       "name": "Altopalo",
       "url": "https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "My Demise",
+        "url": "https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot"
+      },
+      "artists": [
+        {
+          "name": "Porsh Bet$",
+          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "My Demise",
+      "url": "https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "BOYFRIEND KILLER",
-        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
+        "name": "Rot",
+        "url": "https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo"
       },
       "artists": [
         {
-          "name": "Palmer",
-          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
         }
       ],
-      "duration_ms": 194526,
-      "name": "BOYFRIEND KILLER",
-      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
+      "duration_ms": 274026,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "BOYFRIEND KILLER",
+        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
+      },
+      "artists": [
+        {
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "BOYFRIEND KILLER",
+      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "BREADWINNER",
         "url": "https://open.spotify.com/album/3WNp8J85wMADkAlfzUBJEi"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 198302,
       "name": "BREADWINNER",
       "url": "https://open.spotify.com/track/6JAzDcWwzVHkfAg1ujmist"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Rot",
-        "url": "https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo"
-      },
-      "artists": [
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
-        }
-      ],
-      "duration_ms": 274026,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Weather Report",
-        "url": "https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn"
-      },
-      "artists": [
-        {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Fortune Cookie",
-      "url": "https://open.spotify.com/track/7I0MuhVysG7x8yYpLQPS4z"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "magic wand",
         "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 204688,
       "name": "magic wand",
       "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Weather Report",
+        "url": "https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Fortune Cookie",
+      "url": "https://open.spotify.com/track/7I0MuhVysG7x8yYpLQPS4z"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
+      },
+      "artists": [
+        {
+          "name": "Mosie",
+          "url": "https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql"
+        }
+      ],
+      "duration_ms": 234230,
+      "name": "Oh! Frenchy",
+      "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Stock Child Wonder",
         "url": "https://open.spotify.com/album/05etUyJZmnP2Wd9XVnUs0E"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
-      },
-      "artists": [
-        {
-          "name": "Mosie",
-          "url": "https://open.spotify.com/artist/6HGNvZKlT5TO7y4aJbDHql"
-        }
-      ],
-      "duration_ms": 234230,
-      "name": "Oh! Frenchy",
-      "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "He Seems Upset",
         "url": "https://open.spotify.com/album/3St5xyx3phzZ6eRReZaQQQ"
       },
@@ -1663,22 +1663,6 @@
       "duration_ms": 200021,
       "name": "Sippin' on the Daylight",
       "url": "https://open.spotify.com/track/4VzSsGiU16ph3mUiQzBKD3"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Mixtape",
-        "url": "https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg"
-      },
-      "artists": [
-        {
-          "name": "Bobbing",
-          "url": "https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX"
-        }
-      ],
-      "duration_ms": 91757,
-      "name": "Ah Uh Oh",
-      "url": "https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1699,6 +1683,22 @@
       "duration_ms": 213809,
       "name": "That's How It Goes",
       "url": "https://open.spotify.com/track/11ZrmGVgoVbKE2n3j1WBcu"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Thursday Friday",
+        "url": "https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN"
+      },
+      "artists": [
+        {
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU"
     }
   ],
   "unique_name": "omw",

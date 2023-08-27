@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 949263,
+  "num_followers": 949571,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2VhMzA0NmYxZWJjZTAxNTVhOGU0ZWZlOGE5MDFmNjJhMmU4OTNk",
+  "snapshot_id": "MCw0YmQ5ZGI1YTk2MzNkMWY4NDFlNzM0ZTg2Yzk5MDIzOWUzM2Q4OTI1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Puddles",
-        "url": "https://open.spotify.com/album/5W2iq2ETvFF72M8QZiluMM"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "Puddles",
-      "url": "https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Was It Something I Said",
         "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 220588,
       "name": "Was It Something I Said",
       "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Puddles",
+        "url": "https://open.spotify.com/album/5W2iq2ETvFF72M8QZiluMM"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "Puddles",
+      "url": "https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/5SAR4b6aNdpzekzJoDVISc"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 181508,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Views/Octopus EP",
         "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/5SAR4b6aNdpzekzJoDVISc"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 181508,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Float Back To You",
-        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 135752,
-      "name": "Broom",
-      "url": "https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Business Solutions",
-        "url": "https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE"
+        "name": "Float Back To You",
+        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
       },
       "artists": [
         {
-          "name": "JORDANN",
-          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
         }
       ],
-      "duration_ms": 220146,
-      "name": "Business Solutions",
-      "url": "https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3"
+      "duration_ms": 135752,
+      "name": "Broom",
+      "url": "https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1027,6 +1011,22 @@
       "duration_ms": 324266,
       "name": "Kin",
       "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Business Solutions",
+        "url": "https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Business Solutions",
+      "url": "https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Cerulean Tapes",
+        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 256142,
+      "name": "TEENAGE FEVER",
+      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "\u5b87\u5b99 \u65e5\u672c \u4e16\u7530\u8c37",
         "url": "https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 187759,
       "name": "Half Life",
       "url": "https://open.spotify.com/track/3Rmld8jmFs7VbpeeGrNrDt"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Cerulean Tapes",
-        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 256142,
-      "name": "TEENAGE FEVER",
-      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "NYC Stuff and NYC Bags - EP",
-        "url": "https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS"
-      },
-      "artists": [
-        {
-          "name": "Vondelpark",
-          "url": "https://open.spotify.com/artist/4W8Yz77BGq4uaiqCR2sYJ9"
-        }
-      ],
-      "duration_ms": 115773,
-      "name": "Outro 4 NYC",
-      "url": "https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "One More Rush",
         "url": "https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 240000,
       "name": "Take Ur Time",
       "url": "https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "NYC Stuff and NYC Bags - EP",
+        "url": "https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS"
+      },
+      "artists": [
+        {
+          "name": "Vondelpark",
+          "url": "https://open.spotify.com/artist/4W8Yz77BGq4uaiqCR2sYJ9"
+        }
+      ],
+      "duration_ms": 115773,
+      "name": "Outro 4 NYC",
+      "url": "https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "WHO DO U LUV",
-        "url": "https://open.spotify.com/album/0As7QlanAke4qQRSW4bEQr"
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 248760,
-      "name": "WHO DO U LUV",
-      "url": "https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE"
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 284720,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Long Distance",
         "url": "https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 260000,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "WHO DO U LUV",
+        "url": "https://open.spotify.com/album/0As7QlanAke4qQRSW4bEQr"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 248760,
+      "name": "WHO DO U LUV",
+      "url": "https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "hurt me enough",
-        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
-      },
-      "artists": [
-        {
-          "name": "Nathan Archie",
-          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
-        }
-      ],
-      "duration_ms": 186032,
-      "name": "hurt me enough",
-      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Crooks & Lovers",
         "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 258504,
       "name": "Carbonated",
       "url": "https://open.spotify.com/track/5d3qZ4xZv0inQK292Mmnhh"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "hurt me enough",
+        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Archie",
+          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
+        }
+      ],
+      "duration_ms": 186032,
+      "name": "hurt me enough",
+      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/3Q3xd77C966yd3RbQXBGAc"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 222408,
-      "name": "All Yours",
-      "url": "https://open.spotify.com/track/0R8cy4E7RWoP0oxiYY4GF1"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 185333,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/3Q3xd77C966yd3RbQXBGAc"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 222408,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/0R8cy4E7RWoP0oxiYY4GF1"
     },
     {
       "added_at": "2023-08-18 04:01:00",

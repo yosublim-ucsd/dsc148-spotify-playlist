@@ -4,7 +4,7 @@
 
 > 
 
-347 songs - 18 hr 26 min
+348 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/3D9ZRDk1Z4XjAYp3BI4Chr) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/3F4oK6pX76BDYYT3ujho8m) | 3:54 | 2023-06-08 |  |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-20 |  |
 | [Is that happened?](https://open.spotify.com/track/5SGkGXLO0vVwWsD94GE4wH) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Is that happened?](https://open.spotify.com/album/3gZqqXn69wrOmMGANIVzg5) | 2:59 | 2023-06-22 |  |
-| [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2023-03-23 |  |
+| [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2023-03-23 | 2023-08-27 |
 | [It Could Happen to You](https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 2:35 | 2023-03-23 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 | 2023-03-23 | 2023-08-14 |
 | [It Never Entered My Mind](https://open.spotify.com/track/59ZAYTcEyevPRJyCCvN6ki) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [It Never Entered My Mind](https://open.spotify.com/album/6e4jhbpbyodyS1CPOwpxMC) | 4:02 | 2023-06-08 | 2023-08-13 |
@@ -243,6 +243,7 @@
 | [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 | 2023-03-23 |  |
 | [Rosetta](https://open.spotify.com/track/3v9ZFIFthJgy27ypoPUaij) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Rosetta](https://open.spotify.com/album/2Fhw8PxgpBbSEe8GNTzI3K) | 2:37 | 2023-08-11 |  |
 | [Round Midnight](https://open.spotify.com/track/48K9qO5shnoV2kjZi5n4aj) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Round Midnight](https://open.spotify.com/album/1U9wFo9e4BQz7JuYmjXkTo) | 3:50 | 2023-03-23 |  |
+| [S Wonderful](https://open.spotify.com/track/7FMLsi2Ix1FkyADYRYMA8I) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [S Wonderful](https://open.spotify.com/album/2l9fjk2KJyZ8wWOihLvCCM) | 2:43 | 2023-08-24 |  |
 | [Sad Eyes](https://open.spotify.com/track/1EOmCGRp5PYbRJ5gKQeDeF) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Sad Eyes](https://open.spotify.com/album/4fgNlENNCWFn1lnYYzih0B) | 3:44 | 2023-06-08 | 2023-08-13 |
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-08 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 | 2023-03-23 |  |

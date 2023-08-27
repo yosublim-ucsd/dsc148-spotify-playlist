@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,036 likes - 96 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,048 likes - 96 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 9 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 10 | [Workin' Hard](https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Workin' Hard](https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt) | 3:59 |
 | 11 | [Jangan Mati Rasa Itu](https://open.spotify.com/track/2Gylos7ElhD3bFsw7vt6gt) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Jangan Mati Rasa Itu](https://open.spotify.com/album/4IjHQwUjvEYogpdBSmPdVq) | 5:05 |
-| 12 | [Break From The Party](https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [GLOOMY BOOGIE Vol 1](https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5) | 2:19 |
+| 12 | [Break From The Party](https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [GLOOMY BOOGIE Vol\. 1](https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5) | 2:19 |
 | 13 | [Di Mana Janjimu Dulu](https://open.spotify.com/track/4NEMUxrbkH7VTSHPPYaF3c) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Di Mana Janjimu Dulu](https://open.spotify.com/album/0LKlZ1pepM4vk9ZUuAxvvs) | 4:24 |
 | 14 | [Hingga Hujung Hayati \(feat\. Zainal Abidin\)](https://open.spotify.com/track/1lQHK9zbLnOTtaNcEDotVJ) | [Tuju](https://open.spotify.com/artist/3DpduguWUTtn3NQ1PFr2Kd), [Zainal Abidin](https://open.spotify.com/artist/5uAHFXjk9esE82qEW6xMFp) | [Hingga Hujung Hayati \(feat\. Zainal Abidin\)](https://open.spotify.com/album/4jCCsspE9oKzQbPsqt7wFA) | 4:15 |
 | 15 | [LOVE & LUST](https://open.spotify.com/track/0wpWfzQvmr3WNpS0hiZg6a) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [LOVE & LUST](https://open.spotify.com/album/7jgkqj8tg2NnEHNvDaNZbf) | 2:08 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 95 | [petty things](https://open.spotify.com/track/0WreuVJFE5fRk0xb5U9kBE) | [clare inso](https://open.spotify.com/artist/4QWLW3qCUEjKfeoH6k93oW), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [petty things](https://open.spotify.com/album/4n0FeQxWBIlv8UUw3c6heH) | 3:04 |
 | 96 | [Parasite](https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Eva Celia](https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx) | 3:20 |
 
-Snapshot ID: `MCxlMDg1NzIzNzU5Y2ZlMzZjODE1Njc5MGUyNzE0ZjBjMTc3Njg1ZDVj`
+Snapshot ID: `MCw3NDc0YWE4NTk4OWQxNmQxMDY2ZWQ1NWM5ZTc2NmNhNDM2ODg3MGI2`

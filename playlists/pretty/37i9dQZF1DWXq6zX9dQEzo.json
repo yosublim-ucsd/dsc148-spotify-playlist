@@ -1,12 +1,12 @@
 {
   "description": "Music blasting, faith on swole.  Get your beast mode on!  Guest Curated by <a href=\"https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=ee8a724b019b4d6d\">KB</a>",
-  "num_followers": 168515,
+  "num_followers": 168849,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTEwZDJmNjVmMWVlMmY3OTNlN2QyMDViZGYzMDFiYzQ4ZWFmYjdj",
+  "snapshot_id": "MCxkM2VkZTY1ZTFlOWIzNzdhODIyYjc0ZWJhMzUwYjQyMDQ3MTEwM2Y2",
   "tracks": [
     {
       "added_at": "2023-08-11 21:20:42",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Desire Pt. 2",
-        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 160308,
-      "name": "Desire Pt. 2",
-      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "Stuff Back",
         "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 193648,
       "name": "Stuff Back",
       "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U"
-      },
-      "artists": [
-        {
-          "name": "Bonray",
-          "url": "https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg"
-        }
-      ],
-      "duration_ms": 193148,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "Banner (feat. Zay Jones & Torey D'Shaun)",
         "url": "https://open.spotify.com/album/43QDVMXACG2khCZNFGlgOP"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 183000,
       "name": "Banner (feat. Zay Jones & Torey D'Shaun)",
       "url": "https://open.spotify.com/track/7K1u44U0085H0hu2BbPxbI"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U"
+      },
+      "artists": [
+        {
+          "name": "Bonray",
+          "url": "https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg"
+        }
+      ],
+      "duration_ms": 193148,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
         "name": "TWO UP TWO DOWN",
         "url": "https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 195004,
       "name": "FRONT ROW",
       "url": "https://open.spotify.com/track/3fBMvF05GtV91SX47CgtTt"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
-      },
-      "artists": [
-        {
-          "name": "Gabby Callwood",
-          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
-        }
-      ],
-      "duration_ms": 152359,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Marvelous",
-        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Gabby Callwood",
+          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
         }
       ],
-      "duration_ms": 142826,
-      "name": "Marvelous",
-      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
+      "duration_ms": 152359,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1739,30 +1739,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Your Love (HGHTS Remix)",
-        "url": "https://open.spotify.com/album/7AZH851x8UXOTAeOLfhnEf"
-      },
-      "artists": [
-        {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        },
-        {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
-        },
-        {
-          "name": "HGHTS",
-          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
-        }
-      ],
-      "duration_ms": 237709,
-      "name": "Your Love (HGHTS Remix)",
-      "url": "https://open.spotify.com/track/7tOL3KPed2xaNyDIYBo45p"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "Be Gone (feat. Mike Teezy)",
         "url": "https://open.spotify.com/album/6OLJkhICitLisBY6dAYNY5"
       },
@@ -1795,6 +1771,46 @@
       "duration_ms": 122392,
       "name": "I Meant It",
       "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Your Love (HGHTS Remix)",
+        "url": "https://open.spotify.com/album/7AZH851x8UXOTAeOLfhnEf"
+      },
+      "artists": [
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        },
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        },
+        {
+          "name": "HGHTS",
+          "url": "https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p"
+        }
+      ],
+      "duration_ms": 237709,
+      "name": "Your Love (HGHTS Remix)",
+      "url": "https://open.spotify.com/track/7tOL3KPed2xaNyDIYBo45p"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "PROBLEMATIC",
+        "url": "https://open.spotify.com/album/3I7AuClMij4p9RlODiOvyc"
+      },
+      "artists": [
+        {
+          "name": "Kham",
+          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "RECOGNIZE",
+      "url": "https://open.spotify.com/track/6onsgnoCfzkrqxuN3wyLek"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "PROBLEMATIC",
-        "url": "https://open.spotify.com/album/3I7AuClMij4p9RlODiOvyc"
-      },
-      "artists": [
-        {
-          "name": "Kham",
-          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "RECOGNIZE",
-      "url": "https://open.spotify.com/track/6onsgnoCfzkrqxuN3wyLek"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
       },
@@ -1923,6 +1923,30 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
+        "name": "In My Bible, In My Bag (Remix)",
+        "url": "https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+        }
+      ],
+      "duration_ms": 235404,
+      "name": "In My Bible, In My Bag - Remix",
+      "url": "https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL"
       },
@@ -1951,30 +1975,6 @@
       "duration_ms": 245643,
       "name": "Already Won",
       "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
-        "name": "In My Bible, In My Bag (Remix)",
-        "url": "https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc"
-      },
-      "artists": [
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        },
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
-        {
-          "name": "Kieran the Light",
-          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
-        }
-      ],
-      "duration_ms": 235404,
-      "name": "In My Bible, In My Bag - Remix",
-      "url": "https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh"
+      },
+      "artists": [
+        {
+          "name": "Konata Small",
+          "url": "https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ"
+        }
+      ],
+      "duration_ms": 204119,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/2YCMAOOVUzRJKzDMciNnu0"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
         "name": "Grind (feat. Kaleb Mitchell)",
         "url": "https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 186906,
       "name": "Grind (feat. Kaleb Mitchell)",
       "url": "https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/4yhrYvq3KBDsFGrtqM6ATh"
-      },
-      "artists": [
-        {
-          "name": "Konata Small",
-          "url": "https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ"
-        }
-      ],
-      "duration_ms": 204119,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/2YCMAOOVUzRJKzDMciNnu0"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2243,18 +2243,18 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Voice",
-        "url": "https://open.spotify.com/album/5DpQd4GMkzUUQQsCe67j9V"
+        "name": "Wins",
+        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
       },
       "artists": [
         {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 132972,
-      "name": "Voice",
-      "url": "https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO"
+      "duration_ms": 155287,
+      "name": "Wins",
+      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2283,46 +2283,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Wins",
-        "url": "https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 155287,
-      "name": "Wins",
-      "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
-        "name": "Clocked In",
-        "url": "https://open.spotify.com/album/0vcx5T9XEbmLL4o4OLbRzF"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        },
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 266550,
-      "name": "Clocked In",
-      "url": "https://open.spotify.com/track/1vqjpLHgTvFS0GBlSeg9wW"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "Siyahamba",
         "url": "https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6"
       },
@@ -2347,18 +2307,18 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
+        "name": "Voice",
+        "url": "https://open.spotify.com/album/5DpQd4GMkzUUQQsCe67j9V"
       },
       "artists": [
         {
-          "name": "Caz",
-          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
         }
       ],
-      "duration_ms": 200931,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
+      "duration_ms": 132972,
+      "name": "Voice",
+      "url": "https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2379,6 +2339,22 @@
       "duration_ms": 118424,
       "name": "RIGHT NOW",
       "url": "https://open.spotify.com/track/6TgtYkd4elXHLR4W2D6n7B"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl"
+      },
+      "artists": [
+        {
+          "name": "Caz",
+          "url": "https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu"
+        }
+      ],
+      "duration_ms": 200931,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2407,6 +2383,30 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
+        "name": "Clocked In",
+        "url": "https://open.spotify.com/album/0vcx5T9XEbmLL4o4OLbRzF"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 266550,
+      "name": "Clocked In",
+      "url": "https://open.spotify.com/track/1vqjpLHgTvFS0GBlSeg9wW"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
         "name": "Back n Bold (Freestyle)",
         "url": "https://open.spotify.com/album/1yJUJuRAFOBMraPspNinhk"
       },
@@ -2419,6 +2419,22 @@
       "duration_ms": 139413,
       "name": "Back n Bold (Freestyle)",
       "url": "https://open.spotify.com/track/3EaGISYIc4dx7KRIHwkzhK"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6Y3FWXwfalkRuK7lU73dmC"
+      },
+      "artists": [
+        {
+          "name": "Tay Collier",
+          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
+        }
+      ],
+      "duration_ms": 149427,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2459,38 +2475,26 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid"
+        "name": "DUHHH",
+        "url": "https://open.spotify.com/album/5wOV9LHdr0wJCReA99G1l1"
       },
       "artists": [
         {
-          "name": "Joshua Luke Smith",
-          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
         },
         {
-          "name": "Wild Sons",
-          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6Y3FWXwfalkRuK7lU73dmC"
-      },
-      "artists": [
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        },
         {
-          "name": "Tay Collier",
-          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 149427,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB"
+      "duration_ms": 118312,
+      "name": "DUHHH",
+      "url": "https://open.spotify.com/track/6RXYtx36Z70CCZiGqSRWbS"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2515,26 +2519,22 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "DUHHH",
-        "url": "https://open.spotify.com/album/5wOV9LHdr0wJCReA99G1l1"
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/360Y9HLXTa23Qt3ODpLSid"
       },
       "artists": [
         {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
         },
         {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        },
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+          "name": "Wild Sons",
+          "url": "https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk"
         }
       ],
-      "duration_ms": 118312,
-      "name": "DUHHH",
-      "url": "https://open.spotify.com/track/6RXYtx36Z70CCZiGqSRWbS"
+      "duration_ms": 198600,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
     },
     {
       "added_at": "2023-08-11 21:20:42",
@@ -2659,26 +2659,6 @@
     {
       "added_at": "2023-08-11 21:20:42",
       "album": {
-        "name": "BARELY STARTED",
-        "url": "https://open.spotify.com/album/0vvhC7bKZ7F04QxJ0ISoBT"
-      },
-      "artists": [
-        {
-          "name": "JWOODZ",
-          "url": "https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f"
-        },
-        {
-          "name": "Kevi Morse",
-          "url": "https://open.spotify.com/artist/5St4lPQjCFHH7dobvEFLLI"
-        }
-      ],
-      "duration_ms": 173945,
-      "name": "What I Like",
-      "url": "https://open.spotify.com/track/5Yd20D9Kt282CO1ANW0QXI"
-    },
-    {
-      "added_at": "2023-08-11 21:20:42",
-      "album": {
         "name": "DAY ONES",
         "url": "https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD"
       },
@@ -2695,6 +2675,26 @@
       "duration_ms": 192062,
       "name": "DAY ONES",
       "url": "https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT"
+    },
+    {
+      "added_at": "2023-08-11 21:20:42",
+      "album": {
+        "name": "BARELY STARTED",
+        "url": "https://open.spotify.com/album/0vvhC7bKZ7F04QxJ0ISoBT"
+      },
+      "artists": [
+        {
+          "name": "JWOODZ",
+          "url": "https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f"
+        },
+        {
+          "name": "Kevi Morse",
+          "url": "https://open.spotify.com/artist/5St4lPQjCFHH7dobvEFLLI"
+        }
+      ],
+      "duration_ms": 173945,
+      "name": "What I Like",
+      "url": "https://open.spotify.com/track/5Yd20D9Kt282CO1ANW0QXI"
     },
     {
       "added_at": "2023-08-11 21:20:42",

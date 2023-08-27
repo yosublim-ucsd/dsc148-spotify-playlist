@@ -4,7 +4,7 @@
 
 > Hop in.
 
-321 songs - 20 hr 37 min
+322 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 | 2021-06-28 |  |
 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 | 2021-07-24 |  |
 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 | 2021-07-24 |  |
-| [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 | 2022-07-03 |  |
+| [Mardy Bum](https://open.spotify.com/track/2fyIS6GXMgUcSv4oejx63f) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:55 | 2023-06-01 |  |
+| [Mardy Bum](https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:55 | 2022-07-03 | 2023-08-27 |
 | [Married in a Gold Rush \(feat\. Danielle Haim\)](https://open.spotify.com/track/3hSoQunmNwmgjt6RIKuUsJ) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [Father of the Bride](https://open.spotify.com/album/5WWu3iYAXLgqghjU9696Nk) | 3:42 | 2020-10-29\* | 2021-10-13 |
 | [Mass Romantic](https://open.spotify.com/track/3I016oj9UguIs4DKkFzlGv) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Mass Romantic \(Remastered\)](https://open.spotify.com/album/2IISeN6dGv4BPMmz4ArMnK) | 4:04 | 2020-10-29\* | 2021-10-11 |
 | [Maybe](https://open.spotify.com/track/50gBMfXEfegUjPJTgj170R) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Buck Meek](https://open.spotify.com/album/5UiLSHmby696K4ns27bPdq) | 2:50 | 2020-10-29\* | 2022-07-09 |

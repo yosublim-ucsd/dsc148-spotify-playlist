@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,521 likes - 78 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,526 likes - 78 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 28 | [未来ノート](https://open.spotify.com/track/0OH9a0XlsXoEQPvd3CkeNx) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [未来ノート](https://open.spotify.com/album/5CaxVa8rlkAi9zQr4RO6lJ) | 4:25 |
 | 29 | [Chance!](https://open.spotify.com/track/5VfBsV4CGXTEoXcpKCYlbJ) | [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY) | [R](https://open.spotify.com/album/4EickkApFQdwrGpgR8a7Q7) | 3:35 |
 | 30 | [ヒーローインポッシボー](https://open.spotify.com/track/3EJO9ApZrY39AWSkIeMCRU) | [花江夏樹](https://open.spotify.com/artist/6bd1YR3Ogw2OGpjydfk2TP) | [青春は残酷じゃない](https://open.spotify.com/album/0poQ2GG7EViIoWCwWaE71d) | 4:25 |
-| 31 | [ARK](https://open.spotify.com/track/0zAgwBgOPAgMqVvRbCukEP) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:11 |
+| 31 | [ARK](https://open.spotify.com/track/0zAgwBgOPAgMqVvRbCukEP) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [＄ＨＵＦＦＬＥ](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:11 |
 | 32 | [スーパーヒーロー](https://open.spotify.com/track/1CF2fTdiBSR6teCFkz58rh) | [となりの坂田。](https://open.spotify.com/artist/39hHIBvCe897cm5gTUp3cc) | [CRUISE TICKET](https://open.spotify.com/album/3TzgqnTRe1DcS9GOsMHgmc) | 3:52 |
 | 33 | [5 soul MATE"S"](https://open.spotify.com/track/4kxvOwxbHfOvghNYlawlEX) | [アイベヤ](https://open.spotify.com/artist/2K7SRRLUrYmq4tXW1vjQjP), [倉持洋一](https://open.spotify.com/artist/0JHqdvw8kzQJ1GM2ZkmdoX), [増子透](https://open.spotify.com/artist/5GWTevJFZlrS9I3PLjA5iY) | [TVアニメ「ダイヤのA」青心寮へようこそ!\~生ってこーぜ\~テーマソング 5 soul MATE"S"](https://open.spotify.com/album/40ndBfEupKF1OCrqdIspyS) | 3:54 |
 | 34 | [Grateful Story \- New Mix](https://open.spotify.com/track/4sict8k7NEcX1UwHSwkimg) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [O×T Complete Songs TV Anime "Ace of Diamond"](https://open.spotify.com/album/31MVKQ2l23p7ffFgLuWKao) | 4:39 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 77 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 78 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCw5NDE3ZDcyYTYwNzZmZDgwOWRjMmQxOTBiNDc2ZDQ1YjJmODg2OTQ2`
+Snapshot ID: `MCxlODJiOTI2ZTU4MmI0MGI5Njk3Zjk5ZWI5NTdiMWIzYzljYzVlYjFl`

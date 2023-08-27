@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMTU2MDAsMDAwMDAwMDBiYTdkZmViMTQ4MDUwZjE1ZjM4N2Y4OWI2MDhlZmU1Ng==",
+  "snapshot_id": "MjgyMTU2MDAsMDAwMDAwMDA2MjRhNTExMGVmYmY0OGFmZGViY2Y0NWExNjAwN2Y1MQ==",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Come Down With Fire (Live Worcester '85)",
-        "url": "https://open.spotify.com/album/6tXAizr8Jira8h88pHpDEc"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 240304,
-      "name": "Hungry For Heaven - Live",
-      "url": "https://open.spotify.com/track/1xF1dRfgBJ01K9bDdTI9mV"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "The Lebanon",
         "url": "https://open.spotify.com/album/3UMZ86HUxicc6lMVv7bVzK"
       },
@@ -1083,30 +1067,6 @@
       "duration_ms": 249706,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/1yTOtki9JyA4oM1svzdE1K"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "A la Cima",
-        "url": "https://open.spotify.com/album/2oMah8AiP4OhAWJzzn1utD"
-      },
-      "artists": [
-        {
-          "name": "Dj Bitman",
-          "url": "https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 142913,
-      "name": "A la Cima",
-      "url": "https://open.spotify.com/track/3Bnz6lDcPOUFT5IDgbZs4S"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1199,74 +1159,6 @@
       "duration_ms": 190051,
       "name": "Them Belly Full (But We Hungry)",
       "url": "https://open.spotify.com/track/73YF1vuiOiJ1h7RR9QJfns"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Vulindlela",
-        "url": "https://open.spotify.com/album/5DATmwjbgb7HNRfHaIw8J2"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        },
-        {
-          "name": "Styles Bambiso",
-          "url": "https://open.spotify.com/artist/1s5q6X1GZ0SzX4YJOh4jhe"
-        }
-      ],
-      "duration_ms": 206318,
-      "name": "Vulindlela",
-      "url": "https://open.spotify.com/track/4WoaqIsdUJmjPXHA4udr0P"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/0Rw2R5N7WyLBar5x5KPsNh"
-      },
-      "artists": [
-        {
-          "name": "X JAPAN",
-          "url": "https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx"
-        }
-      ],
-      "duration_ms": 274971,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3LXcvucZIdGmD8MZ9adBh7"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Untitled (Deluxe)",
-        "url": "https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 182625,
-      "name": "Overture or Obituary",
-      "url": "https://open.spotify.com/track/3PgK8DK9jZSYR17OEUDjJb"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "The Live Series: Songs of Introspection",
-        "url": "https://open.spotify.com/album/081au3yAEkZzrbrmjRGb1w"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 259812,
-      "name": "Loose Ends - Live at Continental Airlines Arena, E. Rutherford, NJ - 7/18/1999",
-      "url": "https://open.spotify.com/track/1DwjL5CZ8XNTGQg6rhozcJ"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

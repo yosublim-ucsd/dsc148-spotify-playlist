@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 89623,
+  "num_followers": 89773,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTVkY2UxMDc3MDI5NzFiNzBkYmU2MzE1ZjY4N2ExNjA4NzcyYmY2",
+  "snapshot_id": "MCw4MDcwMWY2NWJhMDc1ZDk1ZmRkM2NiOGNkNTNjMDlkOWUzYzRhNDU5",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 288493,
+      "name": "S\u00f3lo Para Ti",
+      "url": "https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Coleccion Top 50",
         "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 282920,
       "name": "No Comprendi Tu Amor",
       "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 288493,
-      "name": "S\u00f3lo Para Ti",
-      "url": "https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe"
     },
     {
       "added_at": "2022-12-16 20:17:47",

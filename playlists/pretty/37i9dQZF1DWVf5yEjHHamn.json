@@ -1,12 +1,12 @@
 {
   "description": "Replongez dans les plus grands tubes d'\u00e9t\u00e9",
-  "num_followers": 70781,
+  "num_followers": 70822,
   "original_name": "Flashback : Tubes de l'\u00e9t\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmRmYjYyMGYxNjAzMTFiODc1OGRhZDExN2VkN2RmMjEyNjY4NDE4",
+  "snapshot_id": "MCw5OGJjYTg2N2FiYTE1NDM3Zjk2ZjJhMjFjMjc5OTM3ZTFjODUwNTc3",
   "tracks": [
     {
       "added_at": "2023-08-01 09:00:00",
@@ -111,18 +111,30 @@
     {
       "added_at": "2023-08-01 09:00:00",
       "album": {
-        "name": "Jubel EP",
-        "url": "https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R"
+        "name": "Jubel",
+        "url": "https://open.spotify.com/album/185Zv9iUq9iMQJ02I9529o"
       },
       "artists": [
         {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+          "name": "umutlopes",
+          "url": "https://open.spotify.com/artist/0PrzK1viPdHVBRgyVucdyW"
+        },
+        {
+          "name": "Emirhan Bodur",
+          "url": "https://open.spotify.com/artist/6V3XomqoP1eGs7vEVSPLzB"
+        },
+        {
+          "name": "pasa michaelson",
+          "url": "https://open.spotify.com/artist/1my2pvFvefZsP1uRUeby6X"
+        },
+        {
+          "name": "Alperen INC",
+          "url": "https://open.spotify.com/artist/5mMnEzf64O9ciQUKLs64jy"
         }
       ],
-      "duration_ms": 198920,
-      "name": "Jubel - Radio Edit",
-      "url": "https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR"
+      "duration_ms": 201665,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/4UwpKYztFyNF4gFGXsev87"
     },
     {
       "added_at": "2023-08-01 09:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 463468,
+  "num_followers": 463554,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGY3YTE3YzQ5ZjM0NWVlNzhiMTFmM2RlYTZhMGU1ZTU1ODcwOWVh",
+  "snapshot_id": "MCxiOGVlZDk0NDc2YTk0OGQ5ZWY0MGQ3NWYzYTcwNDU5MDk2ZjAyODBi",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -95,22 +95,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 170571,
-      "name": "Do Or Die",
-      "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -131,18 +127,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
       "artists": [
         {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
         }
       ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+      "duration_ms": 170571,
+      "name": "Do Or Die",
+      "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Beautiful Death",
+        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
+      },
+      "artists": [
+        {
+          "name": "SLAVES",
+          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Let This Haunt You",
+      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 168000,
       "name": "High Horse",
       "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Beautiful Death",
-        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
-      },
-      "artists": [
-        {
-          "name": "SLAVES",
-          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Let This Haunt You",
-      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "The World Is In Your Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 225117,
-      "name": "Instability",
-      "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 235186,
       "name": "Like a Shadow",
       "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "The World Is In Your Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 225117,
+      "name": "Instability",
+      "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "In Our Wake",
         "url": "https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 193196,
       "name": "In Our Wake",
       "url": "https://open.spotify.com/track/5CSBjkNvlyaDcYlbTuHZHP"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
+        "name": "Name Your Price",
+        "url": "https://open.spotify.com/album/48k7va8R3kUJ2C9YzGFb73"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "The New Age",
+          "url": "https://open.spotify.com/artist/3gsxykUVQOCa9H0K6kryPp"
         }
       ],
-      "duration_ms": 228299,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
+      "duration_ms": 172560,
+      "name": "Name Your Price",
+      "url": "https://open.spotify.com/track/1H5Rep5mTwWCw3o1dtAfO3"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1587,6 +1587,22 @@
       "duration_ms": 178154,
       "name": "Takeover",
       "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 228299,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1619,22 +1635,6 @@
       "duration_ms": 181979,
       "name": "S01E02.Return.Of.The.Arsonist.720p.HDTV.x264",
       "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Name Your Price",
-        "url": "https://open.spotify.com/album/48k7va8R3kUJ2C9YzGFb73"
-      },
-      "artists": [
-        {
-          "name": "The New Age",
-          "url": "https://open.spotify.com/artist/3gsxykUVQOCa9H0K6kryPp"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Name Your Price",
-      "url": "https://open.spotify.com/track/1H5Rep5mTwWCw3o1dtAfO3"
     }
   ],
   "unique_name": "Crash Course",

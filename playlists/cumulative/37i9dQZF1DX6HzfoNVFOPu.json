@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "American Hi-Fi",
+        "url": "https://open.spotify.com/album/418rqqXvvFf4XXlU2cQWck"
+      },
+      "artists": [
+        {
+          "name": "American Hi-Fi",
+          "url": "https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188866,
+      "name": "Flavor Of The Weak",
+      "url": "https://open.spotify.com/track/5wjQihzWIKgBc1hzf5work"
+    },
+    {
+      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
       },
@@ -7746,7 +7764,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 254200,
       "name": "Tear Away",
       "url": "https://open.spotify.com/track/3ENHpbTuY72FukZbwGP6bc"
@@ -8484,7 +8502,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 254693,
       "name": "This Fire",
       "url": "https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj"
@@ -8952,7 +8970,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 221666,
       "name": "Warning",
       "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"

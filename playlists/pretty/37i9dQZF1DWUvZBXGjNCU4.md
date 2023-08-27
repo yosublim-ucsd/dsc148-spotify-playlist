@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,610 likes - 162 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,650 likes - 162 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 |
 | 2 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 |
-| 3 | [Peace of Mind](https://open.spotify.com/track/09h0hGwGHsI5hmFuN6Wfik) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:15 |
+| 3 | [Peace of Mind](https://open.spotify.com/track/09h0hGwGHsI5hmFuN6Wfik) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:15 |
 | 4 | [While You Waited](https://open.spotify.com/track/6HRH0Y8gia8VPbWC016Om3) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [While You Waited](https://open.spotify.com/album/3NIH1WpZiLV1eQo3UhlM7b) | 1:58 |
 | 5 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 |
 | 6 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 10 | [Tramandaí](https://open.spotify.com/track/7acWi08JPuc1BlSuVM9tAk) | [Hans Peschl](https://open.spotify.com/artist/6grQvgae1JYJJgtBxUxfr9) | [Tramandaí](https://open.spotify.com/album/1xRNgEeUnrTAGFkV7chEVa) | 2:53 |
 | 11 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 |
 | 12 | [Shadow Mountain Road](https://open.spotify.com/track/0Qku1Xmz1hD569s8avKCYn) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Shadow Mountain Road](https://open.spotify.com/album/3ZZ558auGHvycTNuluHWAn) | 2:36 |
-| 13 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 |
+| 13 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 |
 | 14 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 |
 | 15 | [Malgré le néant](https://open.spotify.com/track/5V03ziQJGHaoAJcfPIYWWZ) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Malgré le néant](https://open.spotify.com/album/325mLRmxCCHqycSkCCvOL5) | 2:46 |
 | 16 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 |
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 119 | [Low Valleys](https://open.spotify.com/track/7dYhKDt0CuvY007Ftb1YLx) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Low Valleys](https://open.spotify.com/album/52XySoOJ3cX9Pyb8oYYOXO) | 2:43 |
 | 120 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 |
 | 121 | [Keirin](https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp) | [Paris Little](https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl) | [Keirin](https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw) | 3:06 |
-| 122 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 |
+| 122 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 |
 | 123 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 |
 | 124 | [Caledonia](https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ) | [Selena Dominguez](https://open.spotify.com/artist/2NixYvC1pTi52NazQO8zq6) | [Caledonia](https://open.spotify.com/album/4g2vl00ThtZT3xQW8BJIdz) | 3:28 |
 | 125 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 161 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 |
 | 162 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 |
 
-Snapshot ID: `MCxkZDQwMjFkMDMyMTY3OWUxNWQwNmJkNGU1OTcyZmVkYzJjOTg5MjY0`
+Snapshot ID: `MCxmNDVlMGUwZTdlYmU5ZDBkMmY5NDUzOWMzMjlkNTE4MjQ4NjBmMGIx`

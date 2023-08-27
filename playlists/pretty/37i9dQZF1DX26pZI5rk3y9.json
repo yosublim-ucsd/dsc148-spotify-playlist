@@ -1,12 +1,12 @@
 {
   "description": "Stomping new Blues and Blues Rock. ",
-  "num_followers": 6185,
+  "num_followers": 6191,
   "original_name": "Blues Stompers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDVhZDAxZDk5OWJlYTdmMDZhOTFhYzUzZmE0N2YwMGMwODhmNThl",
+  "snapshot_id": "MCwyNjNjNjliNDZhMGZlZmJjYzI0MzhiYTBmMTVhNDk1ZTAwYmY2YzMy",
   "tracks": [
     {
       "added_at": "2023-08-25 00:01:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Bad Luck & The Blues",
-        "url": "https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
-        }
-      ],
-      "duration_ms": 249493,
-      "name": "Bad Luck & The Blues",
-      "url": "https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Devil Claims His Prize",
         "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 162176,
       "name": "Devil Claims His Prize",
       "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Bad Luck & The Blues",
+        "url": "https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "Bad Luck & The Blues",
+      "url": "https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Sweet & Low",
+        "url": "https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Sweet & Low",
+      "url": "https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Nothing But The Blues (Live and Stripped)",
         "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Coal Black Mattie",
-        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
-      },
-      "artists": [
-        {
-          "name": "R.L. Boyce",
-          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
-        }
-      ],
-      "duration_ms": 229696,
-      "name": "Coal Black Mattie",
-      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "She Moved On",
         "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 167275,
       "name": "She Moved On",
       "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Coal Black Mattie",
+        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 229696,
+      "name": "Coal Black Mattie",
+      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -551,18 +567,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Ramble No More",
-        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+        "name": "IDKWYCTD (I Came To Play)",
+        "url": "https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Ramble No More",
-      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
+      "duration_ms": 180739,
+      "name": "IDKWYCTD (I Came To Play)",
+      "url": "https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -583,18 +599,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "IDKWYCTD (I Came To Play)",
-        "url": "https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw"
+        "name": "Ramble No More",
+        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
       },
       "artists": [
         {
-          "name": "Eli \"Paperboy\" Reed",
-          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
         }
       ],
-      "duration_ms": 180739,
-      "name": "IDKWYCTD (I Came To Play)",
-      "url": "https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J"
+      "duration_ms": 175320,
+      "name": "Ramble No More",
+      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -771,6 +787,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Drivin' On",
+        "url": "https://open.spotify.com/album/6ytus8irgjlbAfqnCWimCw"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Drivin' On",
+      "url": "https://open.spotify.com/track/2yf6oK3G0uVpvubcyGxz3p"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Chrysomallousa",
         "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
       },
@@ -899,6 +931,22 @@
       "duration_ms": 214666,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Endless Highway",
+        "url": "https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Endless Highway",
+      "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1095,22 +1143,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
-      },
-      "artists": [
-        {
-          "name": "Arthur Terembula",
-          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
-        }
-      ],
-      "duration_ms": 134001,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Wayward Son",
         "url": "https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd"
       },
@@ -1123,6 +1155,22 @@
       "duration_ms": 223500,
       "name": "Wayward Son",
       "url": "https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
+      },
+      "artists": [
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "duration_ms": 134001,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1255,26 +1303,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Got till it's gone",
-        "url": "https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA"
-      },
-      "artists": [
-        {
-          "name": "Atomic stooges",
-          "url": "https://open.spotify.com/artist/1AHSOjhowaZiCL7BNmTGzL"
-        },
-        {
-          "name": "\u597d\u53e3\u535a\u7ae0",
-          "url": "https://open.spotify.com/artist/6tbpVzAKDTNSkdwhx7TGEA"
-        }
-      ],
-      "duration_ms": 228857,
-      "name": "Got till it's gone",
-      "url": "https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Roads Go On Forever",
         "url": "https://open.spotify.com/album/3o1A0K1nT1LDfvGFlr0qRs"
       },
@@ -1291,50 +1319,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Sweet & Low",
-        "url": "https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE"
+        "name": "Got till it's gone",
+        "url": "https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Sweet & Low",
-      "url": "https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Drivin' On",
-        "url": "https://open.spotify.com/album/6ytus8irgjlbAfqnCWimCw"
-      },
-      "artists": [
+          "name": "Atomic stooges",
+          "url": "https://open.spotify.com/artist/1AHSOjhowaZiCL7BNmTGzL"
+        },
         {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+          "name": "\u597d\u53e3\u535a\u7ae0",
+          "url": "https://open.spotify.com/artist/6tbpVzAKDTNSkdwhx7TGEA"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Drivin' On",
-      "url": "https://open.spotify.com/track/2yf6oK3G0uVpvubcyGxz3p"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Endless Highway",
-        "url": "https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3"
-      },
-      "artists": [
-        {
-          "name": "Jonah Tolchin",
-          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Endless Highway",
-      "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
+      "duration_ms": 228857,
+      "name": "Got till it's gone",
+      "url": "https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR"
     },
     {
       "added_at": "2023-08-25 00:01:00",

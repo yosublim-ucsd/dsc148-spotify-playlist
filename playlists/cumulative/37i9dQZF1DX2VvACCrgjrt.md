@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: AC Slater & Chris Lorenzo \(Fly With Us\)
 
-534 songs - 1 day 4 hr 12 min
+535 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Feeling Under Pressure](https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [Feeling under Pressure](https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS) | 2:53 | 2023-03-31 | 2023-08-26 |
 | [Feelings](https://open.spotify.com/track/0objHGHDjDdVGCyWYBLdQT) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/6ufiR1kjFwmTAvhrmcFLjE) | 2:41 | 2022-05-27 | 2022-07-29 |
 | [Feelings](https://open.spotify.com/track/2rERUk5OXyi7VClesHrjHO) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Feelings](https://open.spotify.com/album/1nYil94oPsydyMr1HwtYlM) | 2:41 | 2022-07-22 | 2023-04-01 |
-| [Find My Way](https://open.spotify.com/track/1xRbnHh3GidD6vzuOrTQeT) | [Giorgio Leone \(IT\)](https://open.spotify.com/artist/6zPCGqSL5ALIAZ8bbRU0b7), [Haas](https://open.spotify.com/artist/4IPYJLyaOR6FkoiLtHcUIu), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Find My Way](https://open.spotify.com/album/1hpiUpq67G7Y2aj5K9YCfX) | 3:50 | 2023-08-04 |  |
+| [Find My Way](https://open.spotify.com/track/1xRbnHh3GidD6vzuOrTQeT) | [Giorgio Leone \(IT\)](https://open.spotify.com/artist/6zPCGqSL5ALIAZ8bbRU0b7), [Haas](https://open.spotify.com/artist/4IPYJLyaOR6FkoiLtHcUIu), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Find My Way](https://open.spotify.com/album/1hpiUpq67G7Y2aj5K9YCfX) | 3:50 | 2023-08-04 | 2023-08-27 |
 | [First Come First Serve](https://open.spotify.com/track/0MbPkhaP4qBbq1c4SHpJJJ) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [First Come First Serve](https://open.spotify.com/album/7Ckl7E8xJBToX27jtyCG6B) | 2:33 | 2022-11-18 | 2023-04-26 |
 | [First Night Out](https://open.spotify.com/track/00QA6kDTxsghd5vukZfxeE) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [First Night Out](https://open.spotify.com/album/6goALaxPAH0sAaG2N2TLX1) | 3:53 | 2022-01-28 | 2022-07-30 |
 | [Fiya \- Curbi Edit](https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Fiya \(Curbi Edit\)](https://open.spotify.com/album/296eebCCSymVYHR6fjiISA) | 4:40 | 2023-07-21 |  |
@@ -446,6 +446,7 @@
 | [Stack](https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Stack](https://open.spotify.com/album/26QimsgTITriH6TD286J4d) | 2:34 | 2023-06-02 | 2023-08-18 |
 | [Step Back](https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Step Back](https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI) | 2:53 | 2023-04-28 |  |
 | [Step One](https://open.spotify.com/track/0VSo5Y6SW2yvw1MBphgrVv) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Vedenzo](https://open.spotify.com/artist/468FRhhQbF6gF7kznCIZFE) | [Step One](https://open.spotify.com/album/06GpaRIT956xAC8iggPpSB) | 2:27 | 2023-07-07 | 2023-07-22 |
+| [Stereo Function](https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Stereo Function](https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts) | 3:26 | 2023-08-25 |  |
 | [Still Here](https://open.spotify.com/track/4RlapXgc7AWQkrn0gCx7iZ) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Still Here](https://open.spotify.com/album/1efpvOFvmtOKiNTLh3xKmx) | 2:39 | 2023-03-31 | 2023-07-31 |
 | [Stop Lookin \(ft\. AMY MIYU\)](https://open.spotify.com/track/0DGuvbENglRD3UTNtNKYtg) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [DJEAU](https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [Stop Looking \(ft\. Amy Miyu\)](https://open.spotify.com/album/5zE5inTXdQH9yPRYvuiGDV) | 2:23 | 2023-04-09 | 2023-06-14 |
 | [Strut](https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Strut](https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa) | 3:05 | 2022-04-01 |  |

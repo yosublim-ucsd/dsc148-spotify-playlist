@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 550736,
+  "num_followers": 551540,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjBlYWQzMjExY2M3YTRiNzA1YWM0NDhmYTMyODM1NTk3M2VmNWU2",
+  "snapshot_id": "MCw3MzFhOGI3Njc0OWEzYmY4NWYwNDVjOWVkZmY4YzBmOWYyZmI2NTFj",
   "tracks": [
     {
       "added_at": "2023-08-22 17:55:57",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "chinatown!",
-        "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
-      },
-      "artists": [
-        {
-          "name": "22december",
-          "url": "https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF"
-        },
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        }
-      ],
-      "duration_ms": 145115,
-      "name": "chinatown!",
-      "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "BABY I'M HOME (w/ Kanii & 9lives)",
         "url": "https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 208938,
       "name": "BABY I'M HOME (w/ Kanii & 9lives)",
       "url": "https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "chinatown!",
+        "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
+      },
+      "artists": [
+        {
+          "name": "22december",
+          "url": "https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF"
+        },
+        {
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+        }
+      ],
+      "duration_ms": 145115,
+      "name": "chinatown!",
+      "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "JoJo Pose",
-        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Apollo Fresh",
-          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
-        }
-      ],
-      "duration_ms": 105333,
-      "name": "JoJo Pose",
-      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "My Swisher Sweet, But My Sig Sauer",
         "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Cyberfreak",
-        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
+        "name": "JoJo Pose",
+        "url": "https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ"
       },
       "artists": [
         {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+          "name": "Apollo Fresh",
+          "url": "https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ"
         }
       ],
-      "duration_ms": 118093,
-      "name": "Cyberfreak",
-      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
+      "duration_ms": 105333,
+      "name": "JoJo Pose",
+      "url": "https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1015,6 +999,22 @@
       "duration_ms": 225546,
       "name": "Let Me Hear",
       "url": "https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "Cyberfreak",
+        "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 118093,
+      "name": "Cyberfreak",
+      "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "I'm Toxic",
+        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 116323,
+      "name": "I'm Toxic",
+      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "Vito / Bad Boy",
         "url": "https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 133392,
       "name": "BLACKED OUT",
       "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "I'm Toxic",
-        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 116323,
-      "name": "I'm Toxic",
-      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Bars No Jutsu",
-        "url": "https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT"
-      },
-      "artists": [
-        {
-          "name": "Louis Capone",
-          "url": "https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu"
-        }
-      ],
-      "duration_ms": 148642,
-      "name": "Bars No Jutsu",
-      "url": "https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "MAMBO",
         "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 127925,
       "name": "MAMBO",
       "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "Bars No Jutsu",
+        "url": "https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT"
+      },
+      "artists": [
+        {
+          "name": "Louis Capone",
+          "url": "https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu"
+        }
+      ],
+      "duration_ms": 148642,
+      "name": "Bars No Jutsu",
+      "url": "https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae"
     },
     {
       "added_at": "2023-08-22 17:55:57",

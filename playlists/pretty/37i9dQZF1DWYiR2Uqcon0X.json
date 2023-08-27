@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 721250,
+  "num_followers": 721313,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWMxNmI5ZWRjMTc3NmE3NTNlMWU1NTc4YjI5MzI1NzQ4NGNhMGM1",
+  "snapshot_id": "MCxkNGRjMmY0NzcxNWYxZDc0OWE0MWE3OTYyY2Y1N2Q1NDk5Y2FkZGM2",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -43,18 +43,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+        "name": "Homeland Insecurity",
+        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 236626,
-      "name": "The House That Built Me",
-      "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
+      "duration_ms": 230826,
+      "name": "Sleeping Alone",
+      "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -75,18 +75,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Homeland Insecurity",
-        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 230826,
-      "name": "Sleeping Alone",
-      "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
+      "duration_ms": 236626,
+      "name": "The House That Built Me",
+      "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Western Wedding",
+        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 231471,
+      "name": "Long Haul - Piano / Vocal",
+      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Happy Before We Get Old",
         "url": "https://open.spotify.com/album/0ZROSmXfCd7Yf0hNTLmlEs"
       },
@@ -619,6 +635,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "They Are Going Away",
+        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 182805,
+      "name": "It'll Work Itself Out",
+      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -639,38 +671,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "They Are Going Away",
-        "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 182805,
-      "name": "It'll Work Itself Out",
-      "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Western Wedding",
-        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 231471,
-      "name": "Long Haul - Piano / Vocal",
-      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Glasshouse Children",
-        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
-      },
-      "artists": [
-        {
-          "name": "Sam Williams",
-          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
-        }
-      ],
-      "duration_ms": 91554,
-      "name": "Bulleit Blues",
-      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Sunday Best (Acoustic)",
         "url": "https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 167535,
       "name": "Sunday Best - Acoustic",
       "url": "https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Glasshouse Children",
+        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "duration_ms": 91554,
+      "name": "Bulleit Blues",
+      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+        "name": "Moments that mattered",
+        "url": "https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS"
       },
       "artists": [
         {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
+      "duration_ms": 223776,
+      "name": "what do i",
+      "url": "https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Moments that mattered",
-        "url": "https://open.spotify.com/album/1FFVMjftTGqNyNGkDBMOaS"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "duration_ms": 223776,
-      "name": "what do i",
-      "url": "https://open.spotify.com/track/2rtdxI8tTfBfPk6D28YSUv"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/7sL48SpehQMoKg4whNhjMI"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 171982,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/4aNhnfiXE1BMVXcbCVY037"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
     },
     {
       "added_at": "2023-08-18 04:01:00",

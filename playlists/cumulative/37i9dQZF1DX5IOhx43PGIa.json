@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/4dNCzcO3RUpc3aZkIomzVr"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183774,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/0aLAwhKDqPl7ZtOS9BWElO"
+    },
+    {
+      "album": {
         "name": "90s American Superstar",
         "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
       },
@@ -1165,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Blue Butterflies",
+        "url": "https://open.spotify.com/album/2cJJcQCoQRfQe3inKIQa3K"
+      },
+      "artists": [
+        {
+          "name": "JHIN",
+          "url": "https://open.spotify.com/artist/1zbZa82fOkxnWd44o2uV6c"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137903,
+      "name": "Blue Butterflies",
+      "url": "https://open.spotify.com/track/1FpQ2EPJarW7rpjFGGd8Jd"
+    },
+    {
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
       },
@@ -1422,6 +1458,28 @@
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
+    },
+    {
+      "album": {
+        "name": "Future Reference",
+        "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        },
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152058,
+      "name": "Care (feat. Bakar)",
+      "url": "https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN"
     },
     {
       "album": {
@@ -2966,7 +3024,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 181013,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/6dLuZg4jYj6IhvxyypY1sc"
@@ -3132,7 +3190,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 149569,
       "name": "Forget Each Other",
       "url": "https://open.spotify.com/track/6KLnOGcXfhQOlUWxJIOPct"
@@ -3850,7 +3908,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 227442,
       "name": "Healing House",
       "url": "https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97"
@@ -4102,7 +4160,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 150000,
       "name": "Home is a Feeling - English Version",
       "url": "https://open.spotify.com/track/0gPBfgkCYnqg4pZowtFdLD"
@@ -4610,7 +4668,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 149520,
       "name": "I'm Not Crying",
       "url": "https://open.spotify.com/track/1aHHY8YfeH2tepf185bzF7"
@@ -5411,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "life with u",
+        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205275,
+      "name": "life with u",
+      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
+    },
+    {
+      "album": {
         "name": "like everyone else",
         "url": "https://open.spotify.com/album/1vd3pYHU1ajgRU4iYWDKVk"
       },
@@ -6080,7 +6156,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 185040,
       "name": "Menanti",
       "url": "https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD"
@@ -6427,7 +6503,7 @@
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 193714,
+      "duration_ms": 193770,
       "name": "MOON",
       "url": "https://open.spotify.com/track/2gn947ZQRFU1335hgnXbKe"
     },
@@ -7329,6 +7405,24 @@
     },
     {
       "album": {
+        "name": "Sidharth",
+        "url": "https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340773,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg"
+    },
+    {
+      "album": {
         "name": "Raspberry Tongue",
         "url": "https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG"
       },
@@ -7859,6 +7953,24 @@
     },
     {
       "album": {
+        "name": "see you in hell",
+        "url": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172430,
+      "name": "see you in hell",
+      "url": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"
+    },
+    {
+      "album": {
         "name": "Hold The Girl",
         "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
       },
@@ -8105,6 +8217,24 @@
     },
     {
       "album": {
+        "name": "Sandhills",
+        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
+    },
+    {
+      "album": {
         "name": "Silly Love Songs",
         "url": "https://open.spotify.com/album/5FZm6Nj2ulvZCo63obL8rx"
       },
@@ -8226,6 +8356,24 @@
       "duration_ms": 192181,
       "name": "Slow (with Ciara)",
       "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
+    },
+    {
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "album": {
@@ -8690,7 +8838,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 184500,
       "name": "Stomachache",
       "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
@@ -9928,7 +10076,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 133043,
       "name": "want u to stay",
       "url": "https://open.spotify.com/track/3aY9aETUFsmG7K03bRmUA0"

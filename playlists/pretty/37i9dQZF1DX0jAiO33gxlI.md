@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Planet Hemp
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,565 likes - 73 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,587 likes - 73 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 33 | [40 Graus](https://open.spotify.com/track/1aqQWcSNFQYtp1bF7lziKI) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [40 Graus](https://open.spotify.com/album/67a0ihkgCAAMqzHruIqMku) | 2:40 |
 | 34 | [Jazz de Favela](https://open.spotify.com/track/3X6QpopA34zcqsW5DWeKOZ) | [Coronel](https://open.spotify.com/artist/7C6lpxEHiYsZX2013VmXXe) | [Jazz de Favela](https://open.spotify.com/album/6hvR5yED5kQXqXS8N6FrSc) | 2:37 |
 | 35 | [Versão Brasileira](https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira](https://open.spotify.com/album/14NgsBHbelrwYjr6IqFOQ8) | 2:20 |
-| 36 | [Amor Virou Um Prêmio](https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 3:39 |
+| 36 | [Amor Virou Um Prêmio](https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 3:39 |
 | 37 | [Gold, Pt\. 2](https://open.spotify.com/track/5Slpb6VFwhDtNRUmhgsXOO) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Erica Torquatto](https://open.spotify.com/artist/53K9I9NOSk3A0eb2kka8Fb), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [Delli Beatz](https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn) | [Gold, Pt\. 2](https://open.spotify.com/album/3IUFRziRG25vymB2SKSJMW) | 3:19 |
 | 38 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 |
 | 39 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 72 | [Insônia 2](https://open.spotify.com/track/7tITqCiDuMqKfWhibaF8V7) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Insônia 2](https://open.spotify.com/album/5pOhKRO8Ul0eyBzMGviWHU) | 4:27 |
 | 73 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 |
 
-Snapshot ID: `MCw1ZjBiZjIyNTJjMTZmNDkwZGI4MzJkMjFlOTgxOWZiMTIzMzA1MDdh`
+Snapshot ID: `MCw3MWMxOGMzMTEzZjJhOWQzYWVhOGE2NDU0ZGNhOWQ1MGE0NDk0YjY5`

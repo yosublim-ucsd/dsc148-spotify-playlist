@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music by Bakar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,397 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,410 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
 | 100 | [Hey Anna](https://open.spotify.com/track/23ROfLTmpk2Q1baIETAdeD) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Hey Anna](https://open.spotify.com/album/4tOCYcl7aroF3Kb1vfcLdY) | 2:50 |
 
-Snapshot ID: `MCxmZTFjOGFjYjFkZTQwYTkyZDc0ZjkwOWI3Njc3NmY1YmVmYmNkMTRi`
+Snapshot ID: `MCw1MzEwNmQ5NTljZTc3YzcxMDk3YzI4NmQzOTk1Nzk4YzNhYzQ3NzM5`

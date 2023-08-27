@@ -1,12 +1,12 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 430933,
+  "num_followers": 431114,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTU1MTRhZDhmZWYzNTVmODIzNmFmYTM3MzY4ZWVhZmEzYWE0YzYw",
+  "snapshot_id": "MCxlM2IxYjE0OGQ0ZGMwMWE0NWE4YjRjZGVlOTcyNThlZjVmNTZiZTAw",
   "tracks": [
     {
       "added_at": "2022-02-10 18:18:16",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Casa 67",
+        "url": "https://open.spotify.com/album/3pQuAFj4vMjHbLlBzectUV"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 147843,
+      "name": "T\u00e3o Linda",
+      "url": "https://open.spotify.com/track/59WWulo1LM0njpIkcduCMn"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Bola Rebola",
         "url": "https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 193440,
       "name": "Bola Rebola",
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Casa 67",
-        "url": "https://open.spotify.com/album/3pQuAFj4vMjHbLlBzectUV"
-      },
-      "artists": [
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 147843,
-      "name": "T\u00e3o Linda",
-      "url": "https://open.spotify.com/track/59WWulo1LM0njpIkcduCMn"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Joga O Bum Bum Tam Tam",
-        "url": "https://open.spotify.com/album/61CmdInybMYeuxLEMrKOKP"
-      },
-      "artists": [
-        {
-          "name": "MC Fioti",
-          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Joga O Bum Bum Tam Tam",
-      "url": "https://open.spotify.com/track/30GqVivI3eb7OgonUemcjf"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Nem V\u00e1",
         "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 159639,
       "name": "Nem V\u00e1",
       "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Joga O Bum Bum Tam Tam",
+        "url": "https://open.spotify.com/album/61CmdInybMYeuxLEMrKOKP"
+      },
+      "artists": [
+        {
+          "name": "MC Fioti",
+          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Joga O Bum Bum Tam Tam",
+      "url": "https://open.spotify.com/track/30GqVivI3eb7OgonUemcjf"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Na Raba Toma Tap\u00e3o",
-        "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
-      },
-      "artists": [
-        {
-          "name": "Niack",
-          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
-        },
-        {
-          "name": "Markim WF",
-          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Na Raba Toma Tap\u00e3o",
-      "url": "https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 155798,
       "name": "Flores",
       "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Na Raba Toma Tap\u00e3o",
+        "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
+      },
+      "artists": [
+        {
+          "name": "Niack",
+          "url": "https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML"
+        },
+        {
+          "name": "Markim WF",
+          "url": "https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "Na Raba Toma Tap\u00e3o",
+      "url": "https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Devagarinho",
-        "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
+        "name": "As Quatro Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
         }
       ],
-      "duration_ms": 137045,
-      "name": "Devagarinho",
-      "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
+      "duration_ms": 208733,
+      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
+      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
+        "name": "Devagarinho",
+        "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
       },
       "artists": [
         {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 208733,
-      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
-      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
+      "duration_ms": 137045,
+      "name": "Devagarinho",
+      "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Camaro Amarelo - Single",
-        "url": "https://open.spotify.com/album/7M33XB2qec8tmOlUF529eb"
-      },
-      "artists": [
-        {
-          "name": "Munhoz & Mariano",
-          "url": "https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN"
-        }
-      ],
-      "duration_ms": 212751,
-      "name": "Camaro Amarelo",
-      "url": "https://open.spotify.com/track/5ivya8USJX3ezDjd2FYSXa"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "#Bailedasantinha (Ao Vivo em Fortaleza)",
         "url": "https://open.spotify.com/album/6idqgJfwMMX19rzy6oI5bm"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 310533,
       "name": "Santinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3e7cnQ5KYSSIwUo6tfQqwB"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Camaro Amarelo - Single",
+        "url": "https://open.spotify.com/album/7M33XB2qec8tmOlUF529eb"
+      },
+      "artists": [
+        {
+          "name": "Munhoz & Mariano",
+          "url": "https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN"
+        }
+      ],
+      "duration_ms": 212751,
+      "name": "Camaro Amarelo",
+      "url": "https://open.spotify.com/track/5ivya8USJX3ezDjd2FYSXa"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1827,18 +1827,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "FICA \u00c0 VONTADE",
-        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
+        "name": "Dan\u00e7a Kuduro (Danza Kuduro)",
+        "url": "https://open.spotify.com/album/563XIhSRXSaF7yR6yskZTC"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "Latino",
+          "url": "https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5"
+        },
+        {
+          "name": "Daddy Kall",
+          "url": "https://open.spotify.com/artist/09arlDI3xSFC0nXfxtvtB3"
         }
       ],
-      "duration_ms": 140000,
-      "name": "FICA \u00c0 VONTADE",
-      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
+      "duration_ms": 199440,
+      "name": "Dan\u00e7a Kuduro (Danza Kuduro)",
+      "url": "https://open.spotify.com/track/1BITq5Ix3YscJwGz4ukFeI"
     },
     {
       "added_at": "2022-02-10 18:18:16",

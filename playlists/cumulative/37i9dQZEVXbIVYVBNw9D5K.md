@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-738 songs - 1 day 13 hr 5 min
+739 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Ah Canım Sevgilim \- Demo](https://open.spotify.com/track/5kpkEb0M49YM516trGUSWS) | [Rei 6](https://open.spotify.com/artist/2hiKZUSxd7c4Ab57KAQ3SW) | [Dibe İniyorum \(Demo\)](https://open.spotify.com/album/0rFC7uGCJIBQFnEBP5W2jd) | 3:10 | 2021-12-01 | 2023-03-05 |
 | [Ah Ellerim Kırılaydı](https://open.spotify.com/track/4D36ZNHfLE3joglWbDLn5X) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Ah Ellerim Kırılaydı](https://open.spotify.com/album/3MRK2TWYUJkpNZM8LmTIN5) | 3:00 | 2021-03-27\* | 2021-07-14 |
 | [Aksiyon](https://open.spotify.com/track/79Ux1fGDomunbzofc6vDVr) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Aksiyon](https://open.spotify.com/album/4dr2xGbBSqKzd5yjVpHjkQ) | 2:25 | 2022-10-02 | 2022-10-06 |
-| [Al Aramızdan](https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [POPSTAR](https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1) | 2:51 | 2023-06-17 | 2023-08-20 |
+| [Al Aramızdan](https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [POPSTAR](https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1) | 2:51 | 2023-06-17 |  |
 | [Al Aramızdan](https://open.spotify.com/track/6Uaw8GEKP6AxIMNUyi6q6w) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Al Aramızdan](https://open.spotify.com/album/6hxlscwVxcHll5lq1bHnZl) | 2:51 | 2023-04-15 | 2023-06-18 |
 | [Al Sevgilim](https://open.spotify.com/track/0UguFn9xs4WQshHabcxUxH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Al Sevgilim](https://open.spotify.com/album/3ToGL3pGP4wYodmOBxj9lA) | 3:12 | 2022-04-12 | 2022-12-13 |
 | [Alaz Alaz](https://open.spotify.com/track/3lJOIGsFylH947nMpYzfGO) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Başka Hikayeler](https://open.spotify.com/album/10SYL3StnN0Gxqr9jGkDxS) | 2:59 | 2021-03-29 | 2021-09-16 |
@@ -159,6 +159,7 @@
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-07-12 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
 | [Butter \(Instrumental\)](https://open.spotify.com/track/1e0Wxoraz9IzFhREDqgJAe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:42 | 2021-05-30 | 2021-06-01 |
+| [Bölüm Sonu](https://open.spotify.com/track/1W7vixv87ysuAoOKzz0uLE) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Bölüm Sonu](https://open.spotify.com/album/4FmJuyC3gwgYdbrcOU4ar0) | 2:41 | 2023-08-26 |  |
 | [Bütün Gülleri Çalmışlar](https://open.spotify.com/track/0ZrreFYweVri0h5fZhegq0) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Umut](https://open.spotify.com/album/3BdlyOtto3aobfiUiSkYMJ) | 2:41 | 2021-05-16 | 2021-05-21 |
 | [Bırakma Kendini](https://open.spotify.com/track/087cds8zjbUmokjg2jdMOp) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Bırakma Kendini](https://open.spotify.com/album/2kj7ndfLwEJgeNFn9kL3jP) | 4:00 | 2021-03-27\* | 2021-06-03 |
 | [C \- CHORBA](https://open.spotify.com/track/0Xztn8NxTd0KreEFLxI7SX) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 0:54 | 2022-10-15 | 2022-10-20 |
@@ -588,7 +589,7 @@
 | [Sağlam Kalça](https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk) | 2:14 | 2023-08-15 |  |
 | [Sağlam Kalça](https://open.spotify.com/track/1l9xKokVvCLP6QfzyTcThP) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0tu958sOlwTrxtoqFS8sof) | 2:14 | 2023-08-06 | 2023-08-16 |
 | [Sen Affetsen](https://open.spotify.com/track/0nudrF7WUr6R5OEVffxuky) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Acıların Kadını](https://open.spotify.com/album/75qpnDwZZv4o7rfxoykj2H) | 4:25 | 2022-03-06 | 2022-04-10 |
-| [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 | 2023-05-20 |  |
+| [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 | 2023-05-20 | 2023-08-27 |
 | [Sen Varsın Diye](https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Sen Varsın Diye](https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc) | 3:46 | 2021-07-04 | 2022-03-07 |
 | [Senden Yoksun](https://open.spotify.com/track/1wkZE2BMcfLOajVp5eifgN) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Senden Yoksun](https://open.spotify.com/album/7bGrmrz5TJ8UGuNBD9LfST) | 3:20 | 2022-11-26 | 2022-11-29 |
 | [Seni Dert Etmeler](https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Seni Dert Etmeler](https://open.spotify.com/album/6fpzQNhureiJ6bOS2g2gYj) | 3:08 | 2021-03-27\* | 2023-06-14 |
@@ -656,7 +657,7 @@
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2022-11-05 | 2022-11-07 |
 | [Tutsak](https://open.spotify.com/track/33eHMRTXayncWkfj72BI3U) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Tutsak](https://open.spotify.com/album/5HpUVb0Hodj7W7RJqF9LIK) | 3:02 | 2022-04-30 | 2022-10-16 |
 | [Tutun Sen Bana](https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [KADER SK.](https://open.spotify.com/album/2U3BMQ4x81ZIyyrxLcBa9P) | 2:43 | 2023-08-20 |  |
-| [Tövbe](https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Tövbe](https://open.spotify.com/album/27Wl0Q1RGlcHVgMgikuZrR) | 3:12 | 2023-07-25 |  |
+| [Tövbe](https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Tövbe](https://open.spotify.com/album/27Wl0Q1RGlcHVgMgikuZrR) | 3:12 | 2023-07-25 | 2023-08-27 |
 | [Umrumda Değil](https://open.spotify.com/track/72t3CRd8YEFrlc3x0OVaob) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:05 | 2021-03-27\* | 2022-06-03 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-04 | 2022-11-25 |
 | [Unutmak Öyle Kolay Mı Sandın](https://open.spotify.com/track/2Pe8d9oClBgLkkz2N35AiN) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Unutmak Öyle Kolay Mı Sandın](https://open.spotify.com/album/1aa3sNKu8ulpGRTBVl2ck2) | 2:24 | 2022-08-26 | 2023-07-30 |

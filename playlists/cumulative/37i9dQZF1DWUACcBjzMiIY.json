@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Amethyst",
+        "url": "https://open.spotify.com/album/51jD9mF5wg2WMBd4xVeYTi"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6eJ2rRy68QOduhNLW3M1Yy"
+    },
+    {
+      "album": {
         "name": "Playlist: The Very Best Of Los Lonely Boys",
         "url": "https://open.spotify.com/album/1ZyeNQ6uvVyK3yNJDSLdRU"
       },
@@ -6394,7 +6412,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 174613,
       "name": "What You're Thinking",
       "url": "https://open.spotify.com/track/2oXvizvCiIIpkyVyzQS6Qr"

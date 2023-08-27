@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 116328,
+  "num_followers": 116511,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGM0ZDI2MDQwZDUyZGRiZDkwNTc1MjkzZWQyYTBmYTAzNDdkNjM3",
+  "snapshot_id": "MCxhNmI2NzA2OThhYjQ1YjQyNWU5OTljYWI5OGI5Y2U2OWY1OGMxM2Vj",
   "tracks": [
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "Acorda Pra Vida",
+        "url": "https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef"
+      },
+      "artists": [
+        {
+          "name": "Nazir\u00ea",
+          "url": "https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO"
+        }
+      ],
+      "duration_ms": 213003,
+      "name": "Acorda Pra Vida",
+      "url": "https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "Circuito Reggae, Vol. 7",
         "url": "https://open.spotify.com/album/3MpDXGTk8iSBPa5arnlAg5"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 242960,
       "name": "Sentimento Bom",
       "url": "https://open.spotify.com/track/1FfIyMHfZKzGkJRE76pz9O"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "Acorda Pra Vida",
-        "url": "https://open.spotify.com/album/2pi1P36f6Y5K7LZHxdg6ef"
-      },
-      "artists": [
-        {
-          "name": "Nazir\u00ea",
-          "url": "https://open.spotify.com/artist/0v6SZmVraj9p6fs3Zzz3ZO"
-        }
-      ],
-      "duration_ms": 213003,
-      "name": "Acorda Pra Vida",
-      "url": "https://open.spotify.com/track/0pHR15s9OE55dlr3Coi2X1"
     },
     {
       "added_at": "2023-07-07 03:01:00",

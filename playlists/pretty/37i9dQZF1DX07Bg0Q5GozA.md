@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: The Chemical Brothers, Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,556 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,568 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 5 | [Under the Moon](https://open.spotify.com/track/7JyZjlTWvCMJcbimNOAOkC) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Under the Moon](https://open.spotify.com/album/7fn5WEWdDR10ccAxgsrMKp) | 2:52 |
 | 6 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 7 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
-| 8 | [A Different Frame](https://open.spotify.com/track/0pk4GJ9REs9fRFlUweWVgs) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Different Frame](https://open.spotify.com/album/1RVocr5uuN4XJW4UjyWBD3) | 3:11 |
+| 8 | [A Different Frame](https://open.spotify.com/track/0pk4GJ9REs9fRFlUweWVgs) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [A Different Frame](https://open.spotify.com/album/1RVocr5uuN4XJW4UjyWBD3) | 3:11 |
 | 9 | [Immer](https://open.spotify.com/track/6Ryc8vAXGzR2yGcl7jBZAr) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Deckert](https://open.spotify.com/artist/6p6VbQGtr0chGqPhRH2aOd), [Sargland](https://open.spotify.com/artist/5nV7I7kKE57Z6lXvKbu15u) | [Immer](https://open.spotify.com/album/2DcExJfAW7s0P6fS3XexAu) | 3:19 |
 | 10 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 11 | [Waiting Forever](https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl), [Preston.](https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC) | [Flaws in Our Design](https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [I Forget](https://open.spotify.com/track/3bjnUJccfgU23pL35NdFZs) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3) | [I Forget](https://open.spotify.com/album/03KIBaIUPddEWUj5Rzq8Vj) | 4:08 |
 | 75 | [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 |
 
-Snapshot ID: `MCw3OThlMjM1NTFjYTMwMTM3ZTk2NjA2NTdjM2RlODMxYTFhODYwZThm`
+Snapshot ID: `MCw0NGEzY2NmYjU0NDM1YWRlNjVkMjMyZmRkNTY5ODc5YzA1NzJlOWUw`

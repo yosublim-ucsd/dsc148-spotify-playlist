@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29309,
+  "num_followers": 29324,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzQ0ODUwOWM1MjQ1ZDBlMDFmOTE1NWJhNDI3OGFhNmRiN2E2MDM2",
+  "snapshot_id": "MCw5YjZmNTVjOWM4MDgzYTY2Y2Y4MGE3OWI4YjU3MzczMTFjNDBlZTRl",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "MNW Klassiker - Imperiet",
-        "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
-      },
-      "artists": [
-        {
-          "name": "Imperiet",
-          "url": "https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg"
-        }
-      ],
-      "duration_ms": 256079,
-      "name": "Du ska va president",
-      "url": "https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Det \u00e4r ni som e dom konstiga, det \u00e4r jag som e normal",
         "url": "https://open.spotify.com/album/1U7Ov48AUaL2hGaczvCr8H"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 193253,
       "name": "En vacker d\u00f6d stad",
       "url": "https://open.spotify.com/track/3HFzjAO51qwy6m0B5dMmhV"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "MNW Klassiker - Imperiet",
+        "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
+      },
+      "artists": [
+        {
+          "name": "Imperiet",
+          "url": "https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg"
+        }
+      ],
+      "duration_ms": 256079,
+      "name": "Du ska va president",
+      "url": "https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+        "name": "Labyrint",
+        "url": "https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S"
       },
       "artists": [
         {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+          "name": "Radioaktiva R\u00e4ker",
+          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Tyst f\u00f6r fan",
-      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
+      "duration_ms": 125733,
+      "name": "Dr\u00f6mmen",
+      "url": "https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Labyrint",
-        "url": "https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S"
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
       "artists": [
         {
-          "name": "Radioaktiva R\u00e4ker",
-          "url": "https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd"
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
         }
       ],
-      "duration_ms": 125733,
-      "name": "Dr\u00f6mmen",
-      "url": "https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva"
+      "duration_ms": 149760,
+      "name": "Tyst f\u00f6r fan",
+      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "V\u00e4lkommen Hit",
-        "url": "https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f"
+        "name": "Snabbmat F\u00f6r Folk I Farten",
+        "url": "https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw"
       },
       "artists": [
         {
-          "name": "V\u00c4NSTERN\u00c4VEN",
-          "url": "https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl"
+          "name": "Hans & Greta",
+          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
         }
       ],
-      "duration_ms": 90493,
-      "name": "Arbetsl\u00f6s",
-      "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
+      "duration_ms": 210333,
+      "name": "Sibylla",
+      "url": "https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Snabbmat F\u00f6r Folk I Farten",
-        "url": "https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw"
+        "name": "V\u00e4lkommen Hit",
+        "url": "https://open.spotify.com/album/2z3APsZA3kx1vFH88VnX8f"
       },
       "artists": [
         {
-          "name": "Hans & Greta",
-          "url": "https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie"
+          "name": "V\u00c4NSTERN\u00c4VEN",
+          "url": "https://open.spotify.com/artist/4cOYuFklSQ8HBFFpP7UPMl"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Sibylla",
-      "url": "https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC"
+      "duration_ms": 90493,
+      "name": "Arbetsl\u00f6s",
+      "url": "https://open.spotify.com/track/5Lb9ECALk7W9U0lXju7ePo"
     },
     {
       "added_at": "2023-08-03 22:00:00",

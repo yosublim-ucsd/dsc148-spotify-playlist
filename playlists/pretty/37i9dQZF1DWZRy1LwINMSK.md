@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,535 likes - 102 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,674 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 2 | [Seguimo Joseando](https://open.spotify.com/track/6YSh5DU0imcpCUrQzCINiq) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Benjita Montana](https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X) | [Seguimo Joseando](https://open.spotify.com/album/6HHzPGjMBG81HSMb3g1u8L) | 3:03 |
 | 3 | [Mi Bruja](https://open.spotify.com/track/6jU9HGQhLCUuA3jmwmxQCo) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew) | [Mi Bruja](https://open.spotify.com/album/5Ol2T2oQpuxa9JZMij9ES6) | 2:37 |
 | 4 | [Queremo Ma](https://open.spotify.com/track/6fguZ8G9c3TvJsjM1oEgwH) | [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Queremo Ma](https://open.spotify.com/album/1semEeAcwPUyW9ad6OU7mA) | 2:33 |
-| 5 | [Con Glock](https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv) | [Con Glock](https://open.spotify.com/album/1yr9r8pILee4JMzmFT2XZs) | 1:54 |
+| 5 | [Con Glock](https://open.spotify.com/track/7ag2oQC73AyAuZnhrbtCGH) | [Young Piri](https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv), [Valdi](https://open.spotify.com/artist/24gSkXV5aSI1WbcZh2XtT5) | [Con Glock](https://open.spotify.com/album/1yr9r8pILee4JMzmFT2XZs) | 1:54 |
 | 6 | [Perco Con Mari](https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perco Con Mari](https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA) | 3:59 |
 | 7 | [Dinero](https://open.spotify.com/track/0rYe2Q8YgxMYJU0K0P5ZCY) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Dinero](https://open.spotify.com/album/78pA1wKO2gtUy6oEpil36j) | 2:51 |
 | 8 | [Jaguar](https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Jaguar](https://open.spotify.com/album/5DxjVYkGm326bIHaFv6nvX) | 3:15 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 101 | [LA MANTECA \- REMIX](https://open.spotify.com/track/5x1wKXnbhBMDRlzpZ5chUh) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Massi Nada Mas](https://open.spotify.com/artist/5PTf3CTYbKbzH785tmu3WK), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Papi Trujillo](https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb), [Cuban Bling](https://open.spotify.com/artist/41nImv0wbNHHsBhbBpwG8S) | [LA MANTECA \(REMIX\)](https://open.spotify.com/album/6HhvKvNTFEgraWt4bLYKZ6) | 5:59 |
 | 102 | [Ring](https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Ring](https://open.spotify.com/album/2S8NVIzCeTvVRcEPJyhSFk) | 2:29 |
 
-Snapshot ID: `MCw0M2Y3ODE1NTczZjAwMDBiYTRmMzRlYjc4OTkwYjY2MDM5ZjExZWQ0`
+Snapshot ID: `MCw5ZmQ3M2VlMTk1MWEzMzViYWZhM2RkMWUyZjNiNTFmODVmYzNjNWU0`

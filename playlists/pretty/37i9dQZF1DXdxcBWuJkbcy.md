@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,910,021 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,910,059 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [Miracle \(with Ellie Goulding\) \- David Guetta Remix](https://open.spotify.com/track/4RFlvg9BmFnvlIBIZGg1Dt) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Miracle \(with Ellie Goulding\) \[David Guetta Remix\]](https://open.spotify.com/album/1xF21BZXLDXHuwNfkPojiJ) | 3:02 |
 | 80 | [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/2M4tVhRXucLE9M3STv21Yi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Felix Jaehn Remix\)](https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV) | 2:51 |
 
-Snapshot ID: `MCw3NmI1OTA5NTMyMzZjMDFjNGU1ZDMxODM0ODA1ZDc2YmFhZTU5NGVk`
+Snapshot ID: `MCxlMzZmZTQwZGRmYTEzZDdmMDZlOTEyMWE0MDk2N2IwODczNmYzNTFm`

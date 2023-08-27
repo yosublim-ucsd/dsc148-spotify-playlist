@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YERIN\(예린\)\)
 
-6,244 songs - 14 day 23 hr 51 min
+6,245 songs - 14 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4818,7 +4818,8 @@
 | [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 | 2022-11-07 |
 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 | 2022-08-10 | 2022-08-18 |
 | [SUM](https://open.spotify.com/track/5KgSb23FXBGc3PWlStWdM5) | [Sodong](https://open.spotify.com/artist/7jDHvyVWvTinyXdUEz141p) | [SUM](https://open.spotify.com/album/2NxmPLgYRqDlLB6YrmSiGw) | 3:15 | 2023-07-24 | 2023-08-18 |
-| [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 | 2023-08-24 |  |
+| [SUM](https://open.spotify.com/track/4wko7gzqHwAsEpiWqRuQ4W) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/4iGdpTiBgSDzwHaR2pNHgK) | 5:24 | 2023-08-25 |  |
+| [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 | 2023-08-24 | 2023-08-27 |
 | [summer](https://open.spotify.com/track/4QPivf7EB8sWTXkM8dMjnn) | [47](https://open.spotify.com/artist/7gvaMzr4ySsvxwBlm2v9Qo) | [how was your summer](https://open.spotify.com/album/3OfLwKUdzSMD8yuW29HHny) | 3:10 | 2022-06-18 | 2022-06-25 |
 | [Summer](https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Summer](https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0) | 3:01 | 2023-03-17 | 2023-04-02 |
 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-08-26 | 2022-09-06 |
@@ -4978,7 +4979,7 @@
 | [Tell me+TELL ME ONE MORE TIME \- Live](https://open.spotify.com/track/4XD9sMVQZ2KCZzE2KVP8oQ) | [JINUSEAN](https://open.spotify.com/artist/3VuW1F60PRjAogYu9JI22z), [KIM SO YEON](https://open.spotify.com/artist/3CHwH4pyXNJMt5fzbFG9Tr) | [Famous Singers \- Battle Again Pt.3](https://open.spotify.com/album/4zI3g6J1BqGK4tu57yL5fM) | 5:05 | 2022-05-02 | 2022-05-10 |
 | [Tempo](https://open.spotify.com/track/5Udhj6m82Xky0C03WpW69P) | [Noino](https://open.spotify.com/artist/20FxW9dMUCFieuLonAEqDj) | [Kinda fool](https://open.spotify.com/album/6Jb38a6XC1akktIp3DJleC) | 3:03 | 2022-12-12 | 2022-12-22 |
 | [Tempo \(feat\. dsel\)](https://open.spotify.com/track/1YqUY0acQm0cK9ziAkf4ZR) | [Kohway](https://open.spotify.com/artist/2v9PvAakxqkcjtXU7SzlQP), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx) | [Tempo](https://open.spotify.com/album/49w3Nc9XFa0VoMzUubrPcf) | 3:09 | 2022-10-10 | 2022-11-07 |
-| [Tender \(feat\. 이바다\)](https://open.spotify.com/track/5HheGbEKg7UuvKzIHWCFU0) | [OHDAMRYUL](https://open.spotify.com/artist/2ynlAd8SCLw1JH8oiRrXqE), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Tender \(feat\. 이바다\)](https://open.spotify.com/album/725vddUjKbNEu6I8wGAsEI) | 3:05 | 2023-08-10 |  |
+| [Tender \(feat\. 이바다\)](https://open.spotify.com/track/5HheGbEKg7UuvKzIHWCFU0) | [OHDAMRYUL](https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Tender \(feat\. 이바다\)](https://open.spotify.com/album/725vddUjKbNEu6I8wGAsEI) | 3:05 | 2023-08-10 |  |
 | [Tender Love](https://open.spotify.com/track/3G3aXH1vyEwIcavhxwboMA) | [IRIS](https://open.spotify.com/artist/761D9wWKVyhssYlYhQryUV) | [Tender Love](https://open.spotify.com/album/4swCxeSpznOZD3GGhRUKX5) | 2:53 | 2022-11-28 | 2022-12-22 |
 | [Tequila \(prod\. COZ\)](https://open.spotify.com/track/4nsDt7TyZlTe4ywV5eMsdI) | [The Paradice](https://open.spotify.com/artist/0gsf1rw2Mtxc2DORnT2FQ1) | [Tequila](https://open.spotify.com/album/4z2ZLMO0s62QStxTu9dtNt) | 3:26 | 2022-06-28 | 2022-07-05 |
 | [Test Me](https://open.spotify.com/track/2bbqzrgy0lwuNmzUpFNDjQ) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Hello, world!](https://open.spotify.com/album/3cVSTqje6SLgIafmwJEPFE) | 3:19 | 2022-07-20 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=7587eb4fd9b141f9">KB</a>
 
-816 songs - 1 day 16 hr 55 min
+817 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Go](https://open.spotify.com/track/6UCnERki2oEkXahKsfXVHU) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [J1W](https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM) | [Go](https://open.spotify.com/album/1Rtsel0lkAyFrsW1fvSBj6) | 2:38 | 2023-01-27 |  |
 | [Go Mode](https://open.spotify.com/track/14UL7vCwEs3BtzwdKZZw0K) | [DJ Standout](https://open.spotify.com/artist/35um9meDgibDbg8KqvB77F), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Alano Adan](https://open.spotify.com/artist/7wpIZPRDEX47zCJWU0B89N) | [Go Mode](https://open.spotify.com/album/55O7Uom98zIv34H40bSd1o) | 3:02 | 2022-03-12 | 2022-04-29 |
 | [Go to Waste](https://open.spotify.com/track/61iVVjI1gLKNYVBOQpuA9L) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Go to Waste](https://open.spotify.com/album/7fymgd0rZf4nZrZNPESyHW) | 2:27 | 2023-01-27 | 2023-02-11 |
+| [God Had Other Plans](https://open.spotify.com/track/1vRmUeWtU33b7NbNnpPhLc) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [God Had Other Plans](https://open.spotify.com/album/6JRzQqL0lB9lfozC4OZXRd) | 2:03 | 2023-08-25 |  |
 | [GOD IS THE BEST](https://open.spotify.com/track/4RUxJBJ786qMifZHVJBaoa) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [GOD IS THE BEST](https://open.spotify.com/album/3mLwour0Ztv8lWH3lf0YNy) | 2:59 | 2022-05-28 | 2023-03-25 |
 | [God Keep Us](https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr) | [Gamie](https://open.spotify.com/artist/4D67gN8zIZf4jztCnjCn6G) | [SEVEN](https://open.spotify.com/album/10fgRN0jhULCS8KZridQ4n) | 3:07 | 2022-02-04 | 2022-07-28 |
 | [God Thing](https://open.spotify.com/track/2IteCPOu0uca1rbS6WIpRe) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Free Me](https://open.spotify.com/album/3vfQ8n48uKN1fuSvHhsJjJ) | 3:02 | 2021-12-11 | 2022-01-31 |
@@ -286,7 +287,7 @@
 | [Graves \- Acoustic](https://open.spotify.com/track/0yMxVz4bq58UKTRVaBt2ub) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves \(Acoustic\)](https://open.spotify.com/album/6yp8tnxFB1gXNUHpF52iqP) | 4:18 | 2023-01-27 | 2023-08-26 |
 | [Green](https://open.spotify.com/track/67FJB6nXIjaloYiTbJ0PZq) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Green](https://open.spotify.com/album/0ZtLNlIvbhkM0enzUsDR3l) | 2:53 | 2022-07-17 | 2022-07-29 |
 | [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 | 2023-01-27 | 2023-03-25 |
-| [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/2h3jxkJKn7aBCd9WimAJiq) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-10-03 |  |
+| [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/2h3jxkJKn7aBCd9WimAJiq) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-10-03 | 2023-08-27 |
 | [Haha!](https://open.spotify.com/track/2ewSOGpFKYTpwT4BIWt5ZJ) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Haha!](https://open.spotify.com/album/6AnawoBHFzOSJRPqBhCNiW) | 1:58 | 2022-04-29 | 2022-05-28 |
 | [Half Way Woke](https://open.spotify.com/track/672EwWJ3SHK7rXIHKlc9PM) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [Render Unto Caesar](https://open.spotify.com/album/3ZYXYnHdSPaDXfHrHZJsMJ) | 3:13 | 2021-12-11 | 2022-05-29 |
 | [hands in the sky](https://open.spotify.com/track/09gYvizeUBuxfu6AvUUU54) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [hands in the sky](https://open.spotify.com/album/1ot0hpjxI1r37z3OwzWvRa) | 2:58 | 2022-04-29 | 2022-07-24 |

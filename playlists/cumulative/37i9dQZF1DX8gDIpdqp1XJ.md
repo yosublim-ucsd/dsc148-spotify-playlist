@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-868 songs - 2 day 8 hr 48 min
+869 songs - 2 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,7 +760,8 @@
 | [The Nowhere Inn](https://open.spotify.com/track/1yGiZ1DTPQAV9Ce4CdXUes) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Nowhere Inn](https://open.spotify.com/album/3s7Ckxb0AtvDSUXxuVg3ST) | 4:29 | 2021-09-17 | 2022-07-21 |
 | [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2023-03-06 | 2023-07-14 |
 | [The Physical Attractions](https://open.spotify.com/track/2TeYAizye4GlmzQq5zyf91) | [The Symposium](https://open.spotify.com/artist/2FQgnKHydnhSnRS17BSy28) | [The Symposium](https://open.spotify.com/album/0teoJ25KTW4uBNGcPKY28E) | 4:44 | 2022-05-24 | 2022-10-26 |
-| [The Skin And The Glove](https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Skin And The Glove](https://open.spotify.com/album/4cS5ytj8t6O9hYJHQPi9QQ) | 6:02 | 2023-07-13 |  |
+| [The Skin And The Glove](https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Skin And The Glove](https://open.spotify.com/album/4cS5ytj8t6O9hYJHQPi9QQ) | 6:02 | 2023-07-13 | 2023-08-27 |
+| [The Skin And The Glove](https://open.spotify.com/track/5OWzC2szdxlxz1Pbx4Lj9n) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [An Object In Motion](https://open.spotify.com/album/3mTGLl8U9ZyNA1CnbHISgD) | 6:02 | 2023-07-13 |  |
 | [The Starchaser](https://open.spotify.com/track/6FY2dgQOpGaoUmcWxfZAMl) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [The Starchaser](https://open.spotify.com/album/5LRZ58gewRQvJeHPxS42jX) | 2:48 | 2021-04-02 | 2022-04-20 |
 | [The Striker](https://open.spotify.com/track/42i64hlU5rnb4yBHH22FYC) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Mental Breakdance](https://open.spotify.com/album/5GhjACvwPOvbeqskxvNebX) | 4:37 | 2021-08-20 | 2022-04-16 |
 | [The Tall Grass](https://open.spotify.com/track/7FEyrgusWFHTNtg4tLTvtb) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [The Tall Grass](https://open.spotify.com/album/0o3ArcqSCSZNaiqtGdY4II) | 3:08 | 2023-08-04 | 2023-08-19 |

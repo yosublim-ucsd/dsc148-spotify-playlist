@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Madd
 
-152 songs - 8 hr 2 min
+153 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [NO MERCY](https://open.spotify.com/track/7eMGattQmhWZmqvP3mYtdw) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 4:19 | 2022-11-14 | 2023-03-12 |
 | [Numero Uno \- V2](https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero Uno \(V2\)](https://open.spotify.com/album/1JZ3EzXKORa4LhBdMeFtRv) | 3:37 | 2022-11-14 | 2023-07-12 |
 | [Oh My God](https://open.spotify.com/track/7oUQHfIkiTqyd0cNUb0Mnn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Oh My God](https://open.spotify.com/album/350A8RvGimxj2dTZcifUEy) | 3:25 | 2023-01-19 | 2023-02-14 |
+| [Oui Mr](https://open.spotify.com/track/4o49sZiYtgf89SzQ1MzpEB) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Oui Mr](https://open.spotify.com/album/0XZbt2PWXdvGNIfezWU3rM) | 2:25 | 2023-08-26 |  |
 | [Ouli Liya](https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Ouli Liya](https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ) | 3:21 | 2023-01-15 | 2023-06-16 |
 | [Pepete](https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:45 | 2023-07-11 |  |
 | [Plainte](https://open.spotify.com/track/7yh3z0Ly5uTIrnLQvbg59X) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Plainte](https://open.spotify.com/album/5NxEKY0xegcPpCduoPiOf1) | 3:07 | 2023-06-22 |  |
@@ -131,7 +132,7 @@
 | [Sparadra](https://open.spotify.com/track/1ybqgwCcCt5kztLdVFFGlC) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/1Gd7I1x7td1pLFS0p8IIG1) | 2:13 | 2023-03-29 | 2023-06-16 |
 | [Sparadra](https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:13 | 2022-11-14 | 2023-04-01 |
 | [Sparta](https://open.spotify.com/track/3JrQYOR2x3TL9IyqHxjNCB) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Dj Mouss](https://open.spotify.com/artist/3HC41EHTcYGT6gOCgKa6on) | [٤in \(Act 3\)](https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv) | 2:25 | 2022-11-21 | 2022-11-26 |
-| [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 | 2023-05-12 |  |
+| [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 | 2023-05-12 | 2023-08-27 |
 | [Started from the bottom](https://open.spotify.com/track/0EAA24o0ORdGsMnFPRPq9e) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 4:01 | 2022-11-14 | 2023-01-06 |
 | [Sucré Salé](https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS) | 2:20 | 2022-11-14 | 2023-04-03 |
 | [Sucré Salé](https://open.spotify.com/track/7scditB0ba2LS1MI2tH5J2) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/75mFVbvIfN96IFsX2TbJvT) | 2:20 | 2023-04-03 | 2023-08-11 |

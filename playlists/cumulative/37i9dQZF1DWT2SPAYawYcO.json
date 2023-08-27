@@ -7874,6 +7874,24 @@
     {
       "album": {
         "name": "High School Drama",
+        "url": "https://open.spotify.com/album/4MBtDxeecH2fTMfs2wSPaM"
+      },
+      "artists": [
+        {
+          "name": "Lola Scott",
+          "url": "https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172485,
+      "name": "High School Drama",
+      "url": "https://open.spotify.com/track/4R5Mf6PT2EwgkZIXwoKjAD"
+    },
+    {
+      "album": {
+        "name": "High School Drama",
         "url": "https://open.spotify.com/album/1ts95O4EudVSHUfOnaVxeL"
       },
       "artists": [
@@ -7884,7 +7902,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 172870,
       "name": "High School Drama",
       "url": "https://open.spotify.com/track/4d9fZ4YEJnK3W9zEsPmyL0"

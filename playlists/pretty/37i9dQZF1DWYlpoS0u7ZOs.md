@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,641 likes - 79 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,652 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 22 | [Y2K](https://open.spotify.com/track/5tl73r3ZMaIQHFwr6zlgc2) | [Pleasure Heads](https://open.spotify.com/artist/0wwzULgGSIjfhB2mwZ0NlA) | [Y2K](https://open.spotify.com/album/2028Q25VoumLYNRa1fbyyw) | 2:57 |
 | 23 | [Famous](https://open.spotify.com/track/1te0wzOWRVnKXF49lAztVq) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG), [LaLotus](https://open.spotify.com/artist/7e5cGwWgUr0VyoaWa2h8XZ) | [Famous](https://open.spotify.com/album/0rfBEU8mBh0Il5Pagpam4e) | 3:54 |
 | 24 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 |
-| 25 | [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 |
+| 25 | [Believe](https://open.spotify.com/track/0zlDjqpYoDUEahQNREV4r5) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 4:11 |
 | 26 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 |
 | 27 | [Holly](https://open.spotify.com/track/7b22PAJMC8VkuWlailtWU8) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Holly](https://open.spotify.com/album/6dkP3Np2UjEk9aNT4nVO91) | 3:03 |
 | 28 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow: noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 78 | [Show Me The Way You Love](https://open.spotify.com/track/0IlTOMZmU9vAvNGgsaV9TG) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Show Me The Way You Love](https://open.spotify.com/album/7vBSj21hnnMEu0TCoisNUx) | 2:50 |
 | 79 | [LOOK GOOD NAKED](https://open.spotify.com/track/1YNSzesjsiB00d2XFxfKzG) | [Thirty Something](https://open.spotify.com/artist/2b4ts7lp2EdW6ZXK1cxKYj) | [LOOK GOOD NAKED](https://open.spotify.com/album/3KsmKj6KroZmwSd2QReQNT) | 2:42 |
 
-Snapshot ID: `MCxlMjMwNDM5YzZhYmE4ZmI5ZmU4ZTA2YjdlYjQ1NmFkYjUwZWIyOTBi`
+Snapshot ID: `MCwxY2U5YjllZWVjM2JmNTZmOWQ2ZmUzNzJlMGM3ODdhMGE5MTY5ODcx`

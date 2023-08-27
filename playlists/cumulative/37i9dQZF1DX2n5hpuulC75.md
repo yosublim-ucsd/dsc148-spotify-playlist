@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-135 songs - 8 hr 10 min
+136 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Get Light](https://open.spotify.com/track/5uxT7O4QHNbGCjaqhn4cq6) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/3nhkZgFk1Ta7qtuOOdMJbK) | 3:28 | 2018-12-11 | 2022-10-21 |
 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 | 2018-12-11 |  |
 | [Holiday \- Kyson Remix](https://open.spotify.com/track/3EsqrnNfJ9CgKtmqM8dJPN) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Holiday \(Kyson Remix\)](https://open.spotify.com/album/13suTnGeieJJA5mF9ivLH2) | 4:41 | 2019-05-24 | 2022-07-29 |
-| [Holiday \- Kyson Remix](https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Holiday \(Kyson Remix\)](https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx) | 4:41 | 2019-05-24 |  |
+| [Holiday \- Kyson Remix](https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Holiday \(Kyson Remix\)](https://open.spotify.com/album/47zoz7TyC4OsXUTOSZiMRx) | 4:41 | 2019-05-24 | 2023-08-27 |
 | [Home](https://open.spotify.com/track/0BgY4FS807k1sfs4ncUxJd) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home](https://open.spotify.com/album/5jGmagbLNTCg0PvFJxXkyC) | 3:18 | 2018-12-11 | 2022-07-29 |
 | [Home \(feat\. LEES\)](https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home \(feat\. LEES\)](https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt) | 3:18 | 2018-12-11 |  |
 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/48UlszOrUzfprHJfkVOcbb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/2x4YIAZcJD3pqCnOcF0VAB) | 4:05 | 2018-12-11 | 2022-06-25 |
@@ -118,6 +118,7 @@
 | [Together Alone](https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB) | [Nuit Oceān](https://open.spotify.com/artist/4qhCtPKoctC2e4ADsXifH4) | [Island \-EP](https://open.spotify.com/album/6iIWUNhbE9TbbLqDyMfh6W) | 3:05 | 2018-12-11 |  |
 | [Tonight](https://open.spotify.com/track/0Xx0UPF4loz1ZJeZs4yhA0) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Tonight](https://open.spotify.com/album/0v32AOjRz05Bsmt2gwaoET) | 3:12 | 2018-12-11 | 2022-07-29 |
 | [Tonight](https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Tonight](https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE) | 3:12 | 2018-12-11 |  |
+| [Vibe](https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Vibe](https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy) | 2:24 | 2018-12-11 |  |
 | [Vibe](https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Vibe](https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn) | 2:24 | 2018-12-11 | 2023-08-23 |
 | [Waiting for You](https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T), [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [D97](https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3) | 3:50 | 2018-12-11 |  |
 | [Waiting for You](https://open.spotify.com/track/6VnADht5DZuwR3aYX4Ufz2) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T), [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [D97](https://open.spotify.com/album/0AVlhmontGKMUo0DlqJtS2) | 3:50 | 2018-12-11 | 2022-07-29 |

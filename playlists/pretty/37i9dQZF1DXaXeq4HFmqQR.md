@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paz Court.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,497 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,502 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 2 | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Perdón \(feat\. Mon Laferte\)](https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD) | 2:49 |
 | 3 | [RYP](https://open.spotify.com/track/7rYfQFCiF69laKNrS1ONMH) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [RYP](https://open.spotify.com/album/0xMFuXkp5YGSmXem72aTOS) | 3:14 |
 | 4 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
-| 5 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |
-| 6 | [Poema](https://open.spotify.com/track/13BzFGCNdtII1pH4xSNkjh) | [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Mercurio 52](https://open.spotify.com/album/5NnVjmKQbdlDzMQ0xXoOMo) | 1:03 |
-| 7 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 |
-| 8 | [Niña](https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:23 |
+| 5 | [Poema](https://open.spotify.com/track/13BzFGCNdtII1pH4xSNkjh) | [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Mercurio 52](https://open.spotify.com/album/5NnVjmKQbdlDzMQ0xXoOMo) | 1:03 |
+| 6 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |
+| 7 | [Niña](https://open.spotify.com/track/0pTBI1E5iFu247EtUA4Uu5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:23 |
+| 8 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 |
 | 9 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
 | 10 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 |
 | 11 | [Divina](https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Divina](https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe) | 2:39 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 14 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 |
 | 15 | [ANTICUECA](https://open.spotify.com/track/4eLdTaWTE9qBjo4957vlQc) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 0:55 |
 | 16 | [Ulalá](https://open.spotify.com/track/3Iv6BQHkwA6zMUbqNm88Yz) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Qween C.](https://open.spotify.com/album/5R4Nti3wX2RFHX2qhzhEkv) | 4:03 |
-| 17 | [Vivo imaginando cosas](https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Vivo imaginando cosas](https://open.spotify.com/album/5xgjARuucedrnidak56nWb) | 4:02 |
-| 18 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
+| 17 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
+| 18 | [Vivo imaginando cosas](https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Vivo imaginando cosas](https://open.spotify.com/album/5xgjARuucedrnidak56nWb) | 4:02 |
 | 19 | [Picante](https://open.spotify.com/track/2Ll8wLJonJArsorf8oj2gI) | [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [22](https://open.spotify.com/album/2yb8vQapyQHxDj4t5JlaCw) | 2:02 |
 | 20 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
 | 21 | [Si me dejas](https://open.spotify.com/track/4pCGMLMhgZlyseZ8Au5Nh1) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n), [Franz Mesko](https://open.spotify.com/artist/6tfDJJX5alHOFNYcxzHL66) | [La Niña Rayo](https://open.spotify.com/album/14VjpVYVi3CGHvJYuOrHWL) | 4:46 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 26 | [Flor De Azucena](https://open.spotify.com/track/5YdQ2kntFxlQGsAKdnwS4n) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Todas Seremos Reinas](https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd) | 3:31 |
 | 27 | [Manzano](https://open.spotify.com/track/3NOf0QLsXrP9Urv50nkA5L) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Manzano](https://open.spotify.com/album/5NwWXF2UL3jwK5WY5aZrdi) | 3:12 |
 | 28 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
-| 29 | [bfly](https://open.spotify.com/track/0STumFIQjbAGvDILpjOmFL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:41 |
-| 30 | [Te Fuiste](https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Te Fuiste](https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC) | 3:16 |
+| 29 | [Te Fuiste](https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Te Fuiste](https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC) | 3:16 |
+| 30 | [bfly](https://open.spotify.com/track/0STumFIQjbAGvDILpjOmFL) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:41 |
 | 31 | [Me Gustas](https://open.spotify.com/track/0eeVBQ80pEKWMxKIIuwjFc) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 3:23 |
-| 32 | [Nanai](https://open.spotify.com/track/5Gl6ibnuMpUU9jiJ6idF7Q) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 4:23 |
-| 33 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
-| 34 | [Amante](https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:51 |
+| 32 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
+| 33 | [Amante](https://open.spotify.com/track/258wxFPOG9Rc4UdB4u7TP2) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:51 |
+| 34 | [Nanai](https://open.spotify.com/track/5Gl6ibnuMpUU9jiJ6idF7Q) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 4:23 |
 | 35 | [Nostalgia](https://open.spotify.com/track/37xvyz3KXZraJAp9l4w3yS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Nostalgia](https://open.spotify.com/album/28HDi1j2SfwmNDjVCxBAcw) | 3:22 |
 | 36 | [Me Atrapo](https://open.spotify.com/track/7hkW1zfCSUG3ydscxBI2Rb) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Me Atrapo](https://open.spotify.com/album/0ey9v3dXxNPZuSc9Vx27S6) | 4:10 |
 | 37 | [Rey secreto](https://open.spotify.com/track/1KG6D1n93vB5N79MncATlg) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Rey Secreto](https://open.spotify.com/album/0uvDf9ljskD5hI9XxvBIJI) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
 | 50 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 
-Snapshot ID: `MCxlMWM2MzRmOTM1YjYyZWQ3ZGQ1ZDdlZjgwZjI1OTllZjkwZmQwYjY3`
+Snapshot ID: `MCxjNmRhNjg2NjcwN2VmYTlhMDBhMGFmNDUxMThjOTI0MjRiNjg2NzEy`

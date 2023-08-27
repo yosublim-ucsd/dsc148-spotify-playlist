@@ -690,7 +690,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 151000,
       "name": "Arabesque",
       "url": "https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD"
@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/5ps7k2SYP9UhkCtHjscR28"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149423,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6V2eoMA4cXsnYHfi058ZbX"
+    },
+    {
+      "album": {
         "name": "A\u0301tica",
         "url": "https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs"
       },
@@ -928,6 +946,24 @@
       "duration_ms": 143000,
       "name": "Bartram's Garden",
       "url": "https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3"
+    },
+    {
+      "album": {
+        "name": "Bastione",
+        "url": "https://open.spotify.com/album/6Ayd2MMYR6CCAMSt10tiU3"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157993,
+      "name": "Bastione",
+      "url": "https://open.spotify.com/track/3nMBQwUV1g1pkWxEz4kb2b"
     },
     {
       "album": {
@@ -4194,7 +4230,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 174000,
       "name": "Higo",
       "url": "https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV"
@@ -4936,6 +4972,24 @@
       "duration_ms": 140874,
       "name": "It is a Beauteous Evening",
       "url": "https://open.spotify.com/track/3nZ31x1cLcCRnIRpiOIkPU"
+    },
+    {
+      "album": {
+        "name": "Ivory Garden",
+        "url": "https://open.spotify.com/album/4wIVtyIbVp9XTyptJ3ZluW"
+      },
+      "artists": [
+        {
+          "name": "Ennis Elder",
+          "url": "https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135923,
+      "name": "Ivory Garden",
+      "url": "https://open.spotify.com/track/69F9Ga0hAy5RuPgkLzTDUI"
     },
     {
       "album": {
@@ -5778,7 +5832,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 135903,
       "name": "Like Before",
       "url": "https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF"

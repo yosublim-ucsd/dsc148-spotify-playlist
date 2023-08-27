@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,240 likes - 51 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,274 likes - 51 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 50 | [A Forest](https://open.spotify.com/track/6MB7zOLjSrtY06e5ykZVGw) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [A Forest](https://open.spotify.com/album/3eUWleWNULYMRFI2noRZnT) | 9:59 |
 | 51 | [The Warren Part II](https://open.spotify.com/track/4wb5U1pUoahf7i8sGABS9B) | [Bolt Gun](https://open.spotify.com/artist/3PggVK3nlsQ6g3seYcC674), [Iggor Cavalera](https://open.spotify.com/artist/2UcvK0hNgr1rHJcbcHU4Qb) | [The Warren](https://open.spotify.com/album/4APkjgbq5BP2BwsyUOVqdi) | 7:02 |
 
-Snapshot ID: `MCxkYjIzM2M2ZjQ1NDZkMzRmODFlMGNjMzI0NDhjYjlkYjZiYzExMjlk`
+Snapshot ID: `MCwxN2I1MzNhNDk0ZjA5YzNhMTJmZWEwZGVjNzcwYjU4ZDdjMDgyYTJl`

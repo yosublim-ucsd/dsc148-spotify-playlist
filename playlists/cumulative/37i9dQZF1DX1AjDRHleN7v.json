@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 174622,
       "name": "Cai\u00e7ara",
       "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
@@ -232,6 +232,28 @@
       "duration_ms": 250600,
       "name": "Donavi",
       "url": "https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk"
+    },
+    {
+      "album": {
+        "name": "Eleva",
+        "url": "https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA"
+      },
+      "artists": [
+        {
+          "name": "Refinaria",
+          "url": "https://open.spotify.com/artist/6d3WINgz7m8IPEt9rlYVgJ"
+        },
+        {
+          "name": "Chico Martins",
+          "url": "https://open.spotify.com/artist/4AixCL5u5yznkGKB4DKCAw"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214798,
+      "name": "Eleva",
+      "url": "https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00"
     },
     {
       "album": {

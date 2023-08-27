@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 76371,
+  "num_followers": 76377,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTRiOTYwZjRmZmU5Y2UyODJiYWQ0YzIyZmZkZDZkODE0ZmE3MWI3",
+  "snapshot_id": "MCxlM2U0NDM0NmNiMWY4ZTlhYzViNDNkYzIzY2VjOTM5NDBjZmFlZjVm",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Mental Health",
-        "url": "https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Scorpio",
-          "url": "https://open.spotify.com/artist/4MmceHDNzXjWNr42IFpuJc"
-        }
-      ],
-      "duration_ms": 126825,
-      "name": "Mental Health",
-      "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "what it means to be a girl / this is how i learn to say no",
         "url": "https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 168266,
       "name": "what it means to be a girl",
       "url": "https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Mental Health",
+        "url": "https://open.spotify.com/album/3NurIxJFHWZCyYicllTMM5"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Scorpio",
+          "url": "https://open.spotify.com/artist/4MmceHDNzXjWNr42IFpuJc"
+        }
+      ],
+      "duration_ms": 126825,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/7JTn6dpOUVDSSalQd4RRy7"
     },
     {
       "added_at": "2022-11-15 00:54:21",

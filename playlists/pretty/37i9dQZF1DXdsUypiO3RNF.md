@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Harmonise to solfeggio frequencies of the heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,226 likes - 59 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,317 likes - 59 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 58 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 |
 | 59 | [Soil of the Earth](https://open.spotify.com/track/015AC4rS3zaaM2iaM1wbpX) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Soil of the Earth](https://open.spotify.com/album/02U4NcvO35hnPWETMhAKSE) | 3:24 |
 
-Snapshot ID: `MCxmMGIyNjllMDcyYjE3MDRlY2M4ZjQ1YjhlNWQ2NGZmZGY2ZjYxNzA3`
+Snapshot ID: `MCw5M2RiZTRhMWY0MzlmYWU4N2YxNTI2ODFjYjRlOTRjNzUzZmQyOGE5`

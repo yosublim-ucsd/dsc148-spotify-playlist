@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 45755,
+  "num_followers": 45811,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mzc5MzVlODM3OWRjN2M5YTZlOWU0ZjhkNGFjNjdhNTFmNmVjZmY2",
+  "snapshot_id": "MCxhMDVkOGYyNTJlYTJiZTJiNzAyYTQ4ZDFkMWY0YWQzZjVmYjM1ZjAy",
   "tracks": [
     {
       "added_at": "2023-08-18 20:27:37",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Voy A Apagar La Luz",
         "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
       "artists": [
         {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
+      "duration_ms": 149346,
+      "name": "La cama de piedra",
+      "url": "https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 149346,
-      "name": "La cama de piedra",
-      "url": "https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo"
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Llorando Estoy Por Ti",
-        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Llorando Estoy Por Ti",
-      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Amor Tumbado",
         "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 148750,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Llorando Estoy Por Ti",
+        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Llorando Estoy Por Ti",
+      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
+        "name": "Exitos de Juan Zaizar",
+        "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
+      },
+      "artists": [
+        {
+          "name": "Juan Zaizar",
+          "url": "https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "Cruz de olvido",
+      "url": "https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
         "name": "Me Vas A Extran\u0303ar",
         "url": "https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 251294,
       "name": "Un Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Exitos de Juan Zaizar",
-        "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
-      },
-      "artists": [
-        {
-          "name": "Juan Zaizar",
-          "url": "https://open.spotify.com/artist/73jxdVvynjIPx5Frtin9j1"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Cruz de olvido",
-      "url": "https://open.spotify.com/track/2COQMXlLtvjXFl2sWPmn0o"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "El Paciente",
-        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
-      },
-      "artists": [
-        {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Alma Mexicana",
         "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 145125,
       "name": "Me Muero Sin Tus Besos",
       "url": "https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "El Paciente",
+        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
+      },
+      "artists": [
+        {
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t"
+      },
+      "artists": [
+        {
+          "name": "Ferah Vargas",
+          "url": "https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 200721,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t"
-      },
-      "artists": [
-        {
-          "name": "Ferah Vargas",
-          "url": "https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR"
     }
   ],
   "unique_name": "Caf\u00e9 de Olla",

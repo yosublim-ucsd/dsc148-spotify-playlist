@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7994,
+  "num_followers": 7997,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWE2ZWQ5YTA5NjVkNWUxOTZiMmJjZGNlOWRhNGIxNjA0YmUwYTA0",
+  "snapshot_id": "MCw1MTA3ZWYwYWY1OTNlYTYwOGRlOGNjYjBmNzRiNDAyZjllMmQ1ZTYx",
   "tracks": [
     {
       "added_at": "2023-08-24 02:22:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-08-24 02:22:00",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
-    },
-    {
-      "added_at": "2023-08-24 02:22:00",
-      "album": {
         "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
         "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 171680,
       "name": "Love, Maybe (Acoustic Ver.)",
       "url": "https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip"
+    },
+    {
+      "added_at": "2023-08-24 02:22:00",
+      "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2023-08-24 02:22:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-08-24 02:22:00",
       "album": {
-        "name": "Dearest",
-        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
-    },
-    {
-      "added_at": "2023-08-24 02:22:00",
-      "album": {
         "name": "bimil:ier vol.1 \"so this is love\"",
         "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-08-24 02:22:00",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
         }
       ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
+      "duration_ms": 206093,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
     },
     {
       "added_at": "2023-08-24 02:22:00",
@@ -563,22 +547,18 @@
     {
       "added_at": "2023-08-24 02:22:00",
       "album": {
-        "name": "Our Spring : Who?",
-        "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
       },
       "artists": [
         {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        },
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 190746,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2023-08-24 02:22:00",
@@ -599,6 +579,26 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2023-08-24 02:22:00",
+      "album": {
+        "name": "Our Spring : Who?",
+        "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        },
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
     },
     {
       "added_at": "2023-08-24 02:22:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-24 02:22:00",
       "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
-    },
-    {
-      "added_at": "2023-08-24 02:22:00",
-      "album": {
         "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
         "url": "https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 185760,
       "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
       "url": "https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel"
+    },
+    {
+      "added_at": "2023-08-24 02:22:00",
+      "album": {
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "flutter",
+      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
     },
     {
       "added_at": "2023-08-24 02:22:00",

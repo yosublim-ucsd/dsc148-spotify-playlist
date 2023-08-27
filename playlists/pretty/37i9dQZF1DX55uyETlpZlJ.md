@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,590 likes - 76 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,602 likes - 76 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 75 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 |
 | 76 | [Hrudhaya](https://open.spotify.com/track/0BsTSbYtsd9heOm28EOb8G) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Hrudhaya](https://open.spotify.com/album/17ipKkqA6aMzls60vOtOx0) | 3:13 |
 
-Snapshot ID: `MCw4Zjg4MmY2ZGE2NTEwMTg4YjY3YTU5ZWYwMTkxM2NhMTU4NjFiMjc2`
+Snapshot ID: `MCxlNTQ5YzQxYTA4ZjI0NjkxMTBhMTljMTYwYmQ5MjE2MmEwZmIzMWEw`

@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 467234,
+  "num_followers": 467551,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDk2M2JhMmU1YjAxYmFiOWI2MTUyMmExYjYwYzRhMmE2ZjExZDlm",
+  "snapshot_id": "MCw0MTY1MjJjMDI1NTRjYTIwM2NlZjQ4MGRlNTBjOTExMjg2OTM4Yzlj",
   "tracks": [
     {
       "added_at": "2023-08-25 13:50:04",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Should be Fine",
-      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Right Down the Line",
         "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 267962,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Should be Fine",
+      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "Collage 1",
+        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "Sunlight (feat. Years & Years) [Remixes]",
         "url": "https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Collage 1",
-        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1379,6 +1379,38 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 336867,
+      "name": "Taking Over",
+      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "I Can Change",
         "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
       },
@@ -1411,38 +1443,6 @@
       "duration_ms": 246109,
       "name": "Le coeur grenadine - Polo & Pan Remix",
       "url": "https://open.spotify.com/track/5hZnsm19jZiUvEKGCwMq3a"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 336867,
-      "name": "Taking Over",
-      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "On the Quiet (Expanded Edition)",
         "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 259146,
       "name": "Far Away Place",
       "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 285714,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "Souls",
         "url": "https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m"
       },
@@ -1651,38 +1667,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 285714,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Pocketknife",
-        "url": "https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L"
-      },
-      "artists": [
-        {
-          "name": "Mr Little Jeans",
-          "url": "https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf"
-        }
-      ],
-      "duration_ms": 307066,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "S\u00e9quences (Remixes)",
         "url": "https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 265800,
       "name": "S\u00e9quences - Parcels Remix",
       "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Pocketknife",
+        "url": "https://open.spotify.com/album/1OR04dRjURhlyUXQx91g0L"
+      },
+      "artists": [
+        {
+          "name": "Mr Little Jeans",
+          "url": "https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf"
+        }
+      ],
+      "duration_ms": 307066,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Chihiro (Remixes)",
-        "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
-      },
-      "artists": [
-        {
-          "name": "Yoste",
-          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "All In All",
         "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 468113,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Chihiro (Remixes)",
+        "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
+      },
+      "artists": [
+        {
+          "name": "Yoste",
+          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
+        }
+      ],
+      "duration_ms": 212963,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
     }
   ],
   "unique_name": "golden hour",

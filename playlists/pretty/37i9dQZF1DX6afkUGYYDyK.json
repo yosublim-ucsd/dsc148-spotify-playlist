@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 17452,
+  "num_followers": 17456,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWIwM2VkYWZkODY5NDlhZjY0YzZjYTk2MmZiOWMxNjlhZDQ4MTRi",
+  "snapshot_id": "MCwwYjZmMzJlYzU1YWI1YzA1YjRjYjY4MmZkMWE0NDJmNmE5OTdlOTg3",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/04dmKUkVguSeV11xLPWI55"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 305581,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/5te7BpMkUriBJ5ZmEGWDv7"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 389920,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/04dmKUkVguSeV11xLPWI55"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 305581,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/5te7BpMkUriBJ5ZmEGWDv7"
     },
     {
       "added_at": "2022-11-23 15:01:23",

@@ -367,7 +367,7 @@
     },
     {
       "album": {
-        "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
+        "name": "34 Amor y Mafia REMIX",
         "url": "https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE"
       },
       "artists": [
@@ -382,29 +382,13 @@
         {
           "name": "ECKO",
           "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "El Jincho",
-          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
-        },
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        },
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Pedro Calderon",
-          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
         }
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 368982,
-      "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
+      "name": "34 Amor y Mafia REMIX",
       "url": "https://open.spotify.com/track/5t6IDQJWcduCcFJceo4Dal"
     },
     {
@@ -9886,7 +9870,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 200000,
       "name": "Locura y Maldad",
       "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
@@ -11082,6 +11066,10 @@
         {
           "name": "Gino Mella",
           "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/24gSkXV5aSI1WbcZh2XtT5"
         }
       ],
       "date_added": "2023-07-04",
@@ -14454,7 +14442,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 261600,
       "name": "Padres",
       "url": "https://open.spotify.com/track/0Tr5TQo7sJ36Y8VZ5yi4t3"
@@ -20460,6 +20448,10 @@
         {
           "name": "Jere Klein",
           "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/24gSkXV5aSI1WbcZh2XtT5"
         }
       ],
       "date_added": "2023-03-07",

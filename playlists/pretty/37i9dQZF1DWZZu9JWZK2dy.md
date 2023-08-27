@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,791 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,891 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 16 | [Mysterious Eyes](https://open.spotify.com/track/3xtFrBrX6yuS1pNPVGufwO) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [THE BEST History of GARNET CROW at the crest...](https://open.spotify.com/album/3e3NS2L4bziOWpIMvnRE3R) | 4:28 |
 | 17 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 |
 | 18 | [Secret of my heart](https://open.spotify.com/track/1KvU7iXcyRMden0n9krc4k) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:25 |
-| 19 | [DANZEN!ふたりはプリキュア](https://open.spotify.com/track/0eHv2HCxtNv1g3IiydZHjO) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [五條真由美ボーカルベスト from ふたりはプリキュア](https://open.spotify.com/album/1lM6q7PcIXK35HJLv0X8dx) | 3:35 |
+| 19 | [DANZEN！ふたりはプリキュア](https://open.spotify.com/track/0eHv2HCxtNv1g3IiydZHjO) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [五條真由美ボーカルベスト from ふたりはプリキュア](https://open.spotify.com/album/1lM6q7PcIXK35HJLv0X8dx) | 3:35 |
 | 20 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 |
 | 21 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |
 | 22 | [さらば](https://open.spotify.com/track/3GAOg6GTBoqUKvOdjfpqkS) | [キンモクセイ](https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt) | [ベスト・コンディション〜kinmokusei single collection〜](https://open.spotify.com/album/4et9fqJ89GzkKCvbOsjFDX) | 4:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 59 | [Gamble Rumble](https://open.spotify.com/track/7wug8q76QHsvCKWEZW1nVq) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Gamble Rumble](https://open.spotify.com/album/4S7MWhlljXKdr5IBI94kQU) | 4:27 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MCw4ZGZkMjE0ZDRiYWQzZjc3NGQ5NDQ4YTIzOTgzMjk4ODBiM2U5ZDYw`
+Snapshot ID: `MCwxMWQwOTA0MDAzMTY3OTY5N2M4OGY1NDg3Mjg4YWVkYmNiMzcyOTc1`

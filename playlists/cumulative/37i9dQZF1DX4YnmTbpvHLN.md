@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-361 songs - 23 hr 10 min
+362 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-06-29 |  |
 | [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 | 2022-06-29 | 2023-08-16 |
 | [All Hands On Deck!](https://open.spotify.com/track/44U31ReufqAcif83U3ACf1) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [All Hands On Deck!](https://open.spotify.com/album/0k10IRpaCJf3Ql8gOfrvob) | 3:13 | 2023-03-02 |  |
+| [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 |  |
 | [All the Time](https://open.spotify.com/track/0XxT9BefucZG5PNIMNCgEM) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [All the Time](https://open.spotify.com/album/1I0vmtYXaxsa5sBE2CJlTK) | 2:55 | 2022-06-29 | 2023-08-13 |
 | [All The Way](https://open.spotify.com/track/1BnYMsR1MIxPmMJe02Lot4) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [All The Way](https://open.spotify.com/album/44F64JbPVaSOp54y9SBsg4) | 3:21 | 2023-01-12 |  |
 | [All To Soon](https://open.spotify.com/track/6IhdygzBXr39qlNR0rLOE6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [All To Soon](https://open.spotify.com/album/4rYzfpEKqXD0aX3ZeVUvHi) | 4:13 | 2022-06-29 | 2023-08-13 |
@@ -99,7 +100,7 @@
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-06-29 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-08 |  |
 | [Embracable You](https://open.spotify.com/track/2vc6aQG10jrwwi2VGXXcfl) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 2:34 | 2022-06-29 |  |
-| [Embraceable You](https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef) | [Purple Patch Band](https://open.spotify.com/artist/0UOvMzVudGhlmOfu2aUBzK) | [Cheek to Cheek](https://open.spotify.com/album/4n1JQHYkpLpScpxqehAYT1) | 5:05 | 2022-06-29 |  |
+| [Embraceable You](https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef) | [Purple Patch Band](https://open.spotify.com/artist/0UOvMzVudGhlmOfu2aUBzK) | [Cheek to Cheek](https://open.spotify.com/album/4n1JQHYkpLpScpxqehAYT1) | 5:05 | 2022-06-29 | 2023-08-27 |
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-09 |  |
 | [Estrellita](https://open.spotify.com/track/230SRIeY6sOIr0jhks11Xz) | [Christian Warner Band](https://open.spotify.com/artist/33v9UFXH7pCXb4kmEz91SF) | [Estrellita](https://open.spotify.com/album/5nam9UDpTq9AqnwtSSBUdj) | 4:52 | 2022-06-29 | 2023-04-30 |
 | [Ev'rytime We Say Goodbye](https://open.spotify.com/track/6gbFiQFCNFB3py3W7TtpbP) | [Charlie Wilder Band](https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV) | [Ev'rytime We Say Goodbye](https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG) | 4:15 | 2022-06-29 | 2023-08-14 |

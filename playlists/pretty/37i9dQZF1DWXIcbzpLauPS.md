@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Silent Planet
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,963 likes - 86 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,054 likes - 86 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 30 | [Red Fur](https://open.spotify.com/track/1jj922BgyJexH19yoHd23L) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Red Fur](https://open.spotify.com/album/0QouGNBQ8cnRBNBkKXrXgc) | 3:31 |
 | 31 | [Bite Your Tongue](https://open.spotify.com/track/1lnW6hdkIDZU6JA53R0emi) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Bite Your Tongue](https://open.spotify.com/album/0nlj4yiTOT5UrrvIHX19MM) | 3:18 |
 | 32 | [Without a Whisper](https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Heavener](https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1) | 4:17 |
-| 33 | [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 |
+| 33 | [Believe](https://open.spotify.com/track/0zlDjqpYoDUEahQNREV4r5) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 4:11 |
 | 34 | [Best For You](https://open.spotify.com/track/0Fa9nx13nJ7CiZLRM3in1S) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Hope is a Cult](https://open.spotify.com/album/5lq3RYK2UtsoM0KWq0dDNk) | 3:41 |
 | 35 | [Strange Love](https://open.spotify.com/track/6YfmHEBb98Kw6C1dVj2dTY) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Strange Love](https://open.spotify.com/album/4AkjlJeSydf04Xi3uwYwW3) | 3:58 |
 | 36 | [Dark Waves](https://open.spotify.com/track/3yRHVvzkDd8g6GkQzCycYj) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Dark Waves](https://open.spotify.com/album/0BZeEi4o7PFTP1s6HHK2ud) | 3:42 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 85 | [NEVERBLOOM](https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x) | [DEADSKIN](https://open.spotify.com/artist/4a4jP87ETErMj9iUJHI507) | [NEVERBLOOM](https://open.spotify.com/album/7GxPF1osJdbgpN9TYn6HEi) | 4:10 |
 | 86 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 
-Snapshot ID: `MCwzYThjYTRlYmNjZWJmM2RjNTA3MWFlMTQ2OGJmYjllNTY3ZWExZTZl`
+Snapshot ID: `MCxkMGY1OGY0MDllN2NmMjk0YTY5ZTVhODdhNzEyMjUxN2E4NDFlMjk1`

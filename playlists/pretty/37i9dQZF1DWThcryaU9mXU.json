@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 45160,
+  "num_followers": 45226,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWJlNmRiYzc1MDdkNGYwNTc3MTg0MGVkZGVmZmYxZDM3NzFkZWRj",
+  "snapshot_id": "MCxhZWVmNTgzYmNmYTVmMjMyNGJmZTliMDYyNDA2ODM1NDhhYjZhMWU1",
   "tracks": [
     {
       "added_at": "2023-08-18 13:43:08",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 412893,
-      "name": "Too Many Dirty Dishes - Remastered",
-      "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 260497,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 412893,
+      "name": "Too Many Dirty Dishes - Remastered",
+      "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Been Gone Too Long",
-        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Sundown",
-          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "The Essential Blue Archive: Why Should I Cry",
-        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Johnson",
-          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Friendless Blues",
-      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Right Kinda Wrong",
         "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 191129,
       "name": "Slow Burning Love",
       "url": "https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "The Essential Blue Archive: Why Should I Cry",
+        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Johnson",
+          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Friendless Blues",
+      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Pickin' the Blues",
-        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 205870,
-      "name": "Mistreated so Bad",
-      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
+        "name": "Pickin' the Blues",
+        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
       },
       "artists": [
         {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
         }
       ],
-      "duration_ms": 455967,
-      "name": "Abandoned Child",
-      "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
+      "duration_ms": 205870,
+      "name": "Mistreated so Bad",
+      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1299,6 +1283,22 @@
       "duration_ms": 334000,
       "name": "What do You Feel?",
       "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 455967,
+      "name": "Abandoned Child",
+      "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
     },
     {
       "added_at": "2023-08-18 13:43:08",

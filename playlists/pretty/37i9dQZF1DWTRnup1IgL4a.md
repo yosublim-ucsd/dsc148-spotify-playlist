@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,193 likes - 122 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,248 likes - 122 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 80 | [Long Walking Back Home](https://open.spotify.com/track/3rlhZSPaSjM9Xf3R8iInwG) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Long Walking Back Home](https://open.spotify.com/album/2uEL6m8Pq3u7m3HirU4NxX) | 3:08 |
 | 81 | [Nylon Lullaby](https://open.spotify.com/track/6l6E9EUXTzNXj71BgxD8WV) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Nylon Lullaby](https://open.spotify.com/album/1M4By8kZZNGw3KTsN0FHJq) | 2:16 |
 | 82 | [Why Me](https://open.spotify.com/track/5ea1LyyvBGWH3Hp0f61Pwt) | [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU) | [Why Me](https://open.spotify.com/album/2W2K8SjkzULAvFF93OBN5U) | 2:46 |
-| 83 | [I Found You](https://open.spotify.com/track/53hH9eXghbc7lbmGdfylX2) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:42 |
+| 83 | [I Found You](https://open.spotify.com/track/53hH9eXghbc7lbmGdfylX2) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:42 |
 | 84 | [s h a v a s a n a](https://open.spotify.com/track/4fCBUtCw1KkEqab3TTDIxr) | [Lendrich](https://open.spotify.com/artist/4ZIZqHoq3b13hoDAN19MAF) | [s h a v a s a n a](https://open.spotify.com/album/5JEtqbiiBHe7AULDN0sP3o) | 2:55 |
 | 85 | [Largo](https://open.spotify.com/track/0kyoafwrCw1YoY1vy8ULWI) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Largo](https://open.spotify.com/album/6uN9lAKq2SWb9NKeyVuZWG) | 2:05 |
 | 86 | [Moinhos de Vento](https://open.spotify.com/track/52614dZTEBCtg0SKV3Z45z) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 2:44 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 90 | [Omaggio](https://open.spotify.com/track/77uZ7sLDxL0COLYkmNL6f5) | [Mina Pellé](https://open.spotify.com/artist/5ULQkv4ZSPh4HDDvwuDzVp) | [Omaggio](https://open.spotify.com/album/03dAXeqgfRskUKqP4iBiid) | 2:06 |
 | 91 | [Quiet State](https://open.spotify.com/track/6ImUVu7qQW4O6t2EhdT7A9) | [Cindy Woon](https://open.spotify.com/artist/312AU52NUfI9iTdzynazpN) | [Quiet State](https://open.spotify.com/album/6pMPbS5MOWvNJD2swGQYmQ) | 2:46 |
 | 92 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 |
-| 93 | [Windows](https://open.spotify.com/track/4lXJUyrfuhKTQcQX2PJI6n) | [Benjamin Fitzpatrick](https://open.spotify.com/artist/3IXaliW54FH8AanaBHlqnW) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:46 |
+| 93 | [Windows](https://open.spotify.com/track/4lXJUyrfuhKTQcQX2PJI6n) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:46 |
 | 94 | [Clermont\-Ferrand](https://open.spotify.com/track/3ebmMzqWToAPoVGFOPispU) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Clermont\-Ferrand](https://open.spotify.com/album/4RgALF2EPsUJlZJ4PLGCli) | 2:09 |
 | 95 | [The Distance Between Us](https://open.spotify.com/track/10rJjLMJjQKlp13S3nKGn4) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Distance Between Us](https://open.spotify.com/album/3oaWXUwuoQoPAU5FzQC589) | 2:11 |
 | 96 | [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 121 | [Rio De La Plata](https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Rio De La Plata](https://open.spotify.com/album/4WhBZeA6L71Jy9sNXZm0Cd) | 4:06 |
 | 122 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 |
 
-Snapshot ID: `MCwxZTQzNTgyM2RkYWFhZThjZmU3Mjk3OGQxNjI0MjE2MThkN2RhZjE0`
+Snapshot ID: `MCw2OTc4Mjc2MTQ0ZWRlMDgxYmI2MTg0NzRmZmIzYTc4MDhmN2U1YTVk`

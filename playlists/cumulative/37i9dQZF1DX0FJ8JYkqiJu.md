@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-145 songs - 9 hr 20 min
+146 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Blinding Lights](https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Blinding Lights](https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w) | 2:52 | 2023-01-19 | 2023-05-16 |
 | [Blue](https://open.spotify.com/track/51xEnSLkf5A6x39Ct9e02W) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Blue](https://open.spotify.com/album/5q3fFAhzVHpoThI38zn3Qr) | 3:26 | 2022-12-01 | 2023-07-27 |
 | [Bodhi](https://open.spotify.com/track/211hiFb3wPqq3NZB7fx8gw) | [DMTunes](https://open.spotify.com/artist/7IidpzLTTBjOsTdhuA4TJ2), [Teeka](https://open.spotify.com/artist/6L4LCppKyvMm9BvwmkFZ9G), [M\-Sol DEEP](https://open.spotify.com/artist/2j1S4kLH9gewTyJiGYbDCm) | [Bodhi](https://open.spotify.com/album/5UuJCuVIrr2u2kc2dUQ0xJ) | 5:11 | 2023-08-10 |  |
+| [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 | 2023-08-17 |  |
 | [Caught Up](https://open.spotify.com/track/6FhA1HTNcksnvmUX9QLHRO) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy), [Nuxe](https://open.spotify.com/artist/5Sq2960LCdGIniRjmbmT6G) | [Caught Up](https://open.spotify.com/album/6uFCM1rc7ok68UvTqOksKF) | 2:15 | 2022-12-01 | 2023-02-10 |
 | [Chase It Up](https://open.spotify.com/track/6VV7yVrNLsqHPvLaRgtL0b) | [Oly Sherman](https://open.spotify.com/artist/5reK8WyX1RXvnRw8J0ZpgE), [Boovuego](https://open.spotify.com/artist/0okM8c7uOzcsVnrMJsZNJU) | [Wide Awake](https://open.spotify.com/album/6vSHmT60oUsA4QWYaAcySr) | 4:17 | 2023-03-31 | 2023-07-28 |
 | [Chills](https://open.spotify.com/track/3UeJTkUgt1iZHTUWHoMskr) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Chills / Cycles](https://open.spotify.com/album/3dCtNJ4gxGwvNoDmCd7XuQ) | 4:19 | 2022-12-15 | 2023-02-12 |
@@ -134,7 +135,7 @@
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-12-01 |  |
 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-04-28 |  |
 | [Tidal Waves](https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Tidal Waves](https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772) | 3:10 | 2022-12-01 | 2023-06-18 |
-| [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-12-01 |  |
+| [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-12-01 | 2023-08-27 |
 | [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2022-12-01 | 2023-03-25 |
 | [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 | 2023-03-16 |  |
 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-12-01 | 2023-05-01 |

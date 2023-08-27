@@ -1,12 +1,12 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 165970,
+  "num_followers": 166055,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmUyMGE4ZjY1YWE0MmEwOWM4MjAyNmM3NDY5NzBlMjBhNTE1NTYw",
+  "snapshot_id": "MCw4YTFjN2ZiOTI0MWNkMTYzYzRjNWQ4ZmRlYTA2OGE2MTRiZjUyMjBm",
   "tracks": [
     {
       "added_at": "2023-07-27 23:00:00",
@@ -875,18 +875,22 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Tread",
-        "url": "https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA"
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
       "artists": [
         {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
         }
       ],
-      "duration_ms": 155504,
-      "name": "A Brand New Start",
-      "url": "https://open.spotify.com/track/6QanbknK7HJMOaUqlNCxhz"
+      "duration_ms": 301933,
+      "name": "better",
+      "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
     }
   ],
   "unique_name": "4AM Chillout",

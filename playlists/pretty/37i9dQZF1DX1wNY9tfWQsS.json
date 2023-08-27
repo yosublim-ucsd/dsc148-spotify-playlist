@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
-  "num_followers": 519308,
+  "num_followers": 519400,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjg4MjAyZDQxYjQ3YTYzOTVhMDQxZDNhMmRkMWEzNmVlYWU3YjRl",
+  "snapshot_id": "MCwwMjkwMDEzZmI4YjlkYTQ0MDRlYmQ5YTc2MjY1NTkzNzdkNDg5N2My",
   "tracks": [
     {
       "added_at": "2022-12-16 17:40:09",
@@ -577,6 +577,22 @@
       "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "So Gone",
+      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
+    },
+    {
       "added_at": "2022-09-09 18:41:47",
       "album": {
         "name": "Persuasive (with SZA)",
@@ -595,22 +611,6 @@
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "So Gone",
-      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
     },
     {
       "added_at": "2022-03-08 19:58:52",

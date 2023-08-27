@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-417 songs - 1 day 1 hr 39 min
+418 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 | 2021-11-12 | 2023-01-24 |
 | [Gem](https://open.spotify.com/track/2myv1dElAWqSLafz8U74ch) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Shining Woman](https://open.spotify.com/album/1htLgGmb3QeNmIrRH7b6Sw) | 3:57 | 2021-11-12 | 2022-07-29 |
 | [Get It ‘Fore It’s Gone](https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [In The Blossom of Their Shade](https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf) | 3:34 | 2021-11-12 |  |
-| [Ghosts](https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Ghosts](https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML) | 4:26 | 2023-06-30 |  |
+| [Ghosts](https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Ghosts](https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML) | 4:26 | 2023-06-30 | 2023-08-27 |
 | [Go Tell a Bird](https://open.spotify.com/track/2soMAWI1jlM8O1YUF4e1LB) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:52 | 2021-11-12 | 2021-12-26 |
 | [God Is Just the Universe](https://open.spotify.com/track/4VA6eWKb0GUwjxk1ozjT1b) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [God Is Just the Universe](https://open.spotify.com/album/4Txk0HC8feYceU2M1DXNdm) | 4:42 | 2021-11-12 | 2022-07-21 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr\. Blue](https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX) | 5:00 | 2022-03-11 | 2022-07-29 |
@@ -265,7 +265,7 @@
 | [No Reason](https://open.spotify.com/track/5M1TXdS2EjFDSUBIlZdvPs) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [Practice Magic and Seek Professional Help When Necessary](https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG) | 3:30 | 2022-07-11 | 2023-04-29 |
 | [Northsiders](https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Northsiders](https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [Not Healthy Anymore](https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:01 | 2021-11-12 | 2022-04-19 |
-| [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 | 2021-11-12 | 2023-08-23 |
+| [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 | 2021-11-12 |  |
 | [Nothing Compares](https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 4:02 | 2022-07-11 |  |
 | [Nothing Is Real](https://open.spotify.com/track/6D0QkwvPIe6hz1Twvnu2Ae) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 2:44 | 2021-11-12 | 2022-01-18 |
 | [Now is the Time](https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:35 | 2022-09-16 |  |
@@ -362,7 +362,8 @@
 | [Sunday Drive](https://open.spotify.com/track/7aRTaxQpag64SWksC1bTyl) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [On The Edge](https://open.spotify.com/album/4UFxr8dkCMT6cEnh92E268) | 3:42 | 2021-11-12 | 2022-07-15 |
 | [Sunny Room](https://open.spotify.com/track/0TFenVsi49MtEo1vQRwbnM) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Sunny Room](https://open.spotify.com/album/4mYmpnhEhagXhTrhUiZmau) | 4:31 | 2022-04-01 | 2022-07-25 |
 | [Swimming Backwards](https://open.spotify.com/track/6gdXKvWTGKYDOsC1Rj3Q3d) | [There](https://open.spotify.com/artist/1acar6LWnyqmDdmHabW68Y) | [Swimming Backwards](https://open.spotify.com/album/6eiGLXIkQHtUO7EdFFAywc) | 3:42 | 2021-11-12 | 2022-07-26 |
-| [Symphony Of A Man](https://open.spotify.com/track/1XHDvhHlJ59kCx9BwIAS03) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Symphony Of A Man](https://open.spotify.com/album/6aqIl1lKIV3fPi948ebSKm) | 3:08 | 2023-08-04 |  |
+| [Symphony Of A Man](https://open.spotify.com/track/1XHDvhHlJ59kCx9BwIAS03) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Symphony Of A Man](https://open.spotify.com/album/6aqIl1lKIV3fPi948ebSKm) | 3:08 | 2023-08-04 | 2023-08-27 |
+| [Symphony Of A Man](https://open.spotify.com/track/6EUcRYdAhSKy15nX2vSVwY) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust \(deluxe dust\)](https://open.spotify.com/album/7ugbbkFfujOKUhmdqX4ACF) | 3:08 | 2023-08-04 |  |
 | [Teeth Marks](https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE) | 3:37 | 2022-05-25 | 2022-07-28 |
 | [Tender Organs](https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:45 | 2021-11-12 | 2022-07-27 |
 | [That Spell](https://open.spotify.com/track/7Ir9KIlb69H98nwh7NO6Ea) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/3HNd7Q0saYVsXWlaScI7Ar) | 3:23 | 2021-11-12 | 2022-07-27 |

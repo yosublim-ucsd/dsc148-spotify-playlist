@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,879 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,957 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 85 | [Gozo Yo Quería](https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF) | [Jinys](https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Gozo Yo Quería](https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN) | 3:08 |
 | 86 | [Alguien Como Tú](https://open.spotify.com/track/1dirdNUEjZtt5Ruc06p41L) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [Cielo](https://open.spotify.com/album/0ZqAUP4OtAbiz8chIj9aet) | 3:08 |
 | 87 | [Los Bendigo](https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA) | [Rudy Torres](https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD) | [La Evolución](https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q) | 2:37 |
-| 88 | [Flavor](https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd) | 2:59 |
-| 89 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
+| 88 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
+| 89 | [Flavor](https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF) | [Yowcend la Igriega](https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mateo 10:16](https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd) | 2:59 |
 | 90 | [Inmenso](https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Inmenso](https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3) | 2:37 |
-| 91 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
-| 92 | [Yo Te Mire](https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Yo Te Miré](https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu) | 4:06 |
-| 93 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
-| 94 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
+| 91 | [Yo Te Mire](https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Yo Te Miré](https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu) | 4:06 |
+| 92 | [Se Enamoró](https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Se Enamoró](https://open.spotify.com/album/4t6WWvaLdzL40EyEfv9Qci) | 3:39 |
+| 93 | [El Fuego](https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW) | [Sarah La Profeta](https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [El Fuego](https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh) | 3:10 |
+| 94 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
 | 95 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
 | 96 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
 | 97 | [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 |
 | 100 | [Corazón](https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW) | [Corazón](https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt) | 3:37 |
 
-Snapshot ID: `MCw1YTUwMjllZTAyYTFkYmFmNjUzYTJkMjk1MTkzNTY0ODYzYzM0NDY1`
+Snapshot ID: `MCw1NTBiZGE2YWYzN2RkMTMzMWFkNTM0MmI2NjE5MDAyNDdlN2Q2MmU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,044 likes - 200 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,095 likes - 200 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 149 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 |
 | 150 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
 | 151 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 |
-| 152 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Hilma](https://open.spotify.com/artist/3PZ2nsGkyVMdbQB6b3auut) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 |
+| 152 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 |
 | 153 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 |
 | 154 | [Doze](https://open.spotify.com/track/7B3JZiCROLf0isTxxTs2bL) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Doze](https://open.spotify.com/album/1n9u1YclM1RUj2qvFBlVbE) | 3:22 |
 | 155 | [Dreams](https://open.spotify.com/track/0e5hI6tWwk5ntTtGa0OYNG) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Dreams](https://open.spotify.com/album/75Zm6EmgaCMhiCmDfHpcxe) | 3:16 |
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 161 | [Serenity](https://open.spotify.com/track/0Tan0vrdENegJ15DutFCxT) | [Songs Of](https://open.spotify.com/artist/5RPFxr1DcmfenWIysgm1gl) | [Symmetry](https://open.spotify.com/album/39yRp0HHmALRLzIN8nJNl5) | 2:45 |
 | 162 | [Sueño \(nos vemos mañana\)](https://open.spotify.com/track/6ageUeraq8yY687IBlpeEF) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Sueño \(nos vemos mañana\)](https://open.spotify.com/album/1cv6KC1L2brsbH63ImADBK) | 3:11 |
 | 163 | [Lily's Cradle](https://open.spotify.com/track/4UlarjdicLUPbdssOxWbYX) | [Benette](https://open.spotify.com/artist/6HXMmF2G7ZYNyT0J1FAyan) | [Lily's Cradle](https://open.spotify.com/album/13dJnhdlZ7i32fxPeKvuKm) | 2:41 |
-| 164 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 |
+| 164 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 |
 | 165 | [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 |
 | 166 | [The Garden](https://open.spotify.com/track/2OaoXYurShXZuFU5hmUva6) | [Vita Menzer](https://open.spotify.com/artist/42qLi1hQmxw9USs3HEfXVV) | [The Garden](https://open.spotify.com/album/45dL7k8Mvl17qNTwRdE1OO) | 2:27 |
 | 167 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 199 | [Harmonious](https://open.spotify.com/track/0w1kQy9x8W7yA299gFLhLn) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Harmonious](https://open.spotify.com/album/5ag8H1bxJUJbGBHb1IXu8T) | 3:56 |
 | 200 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
 
-Snapshot ID: `MCw1MTc1Nzg4ZjkzYTliNjZiYTYzYWQyNWI0ZTEyYWZkNTA4Njc0NjU0`
+Snapshot ID: `MCw0MzllYjA5NTliYTkxOTY4MTg3NzkxYmM0ZDY4ZWI0OWM4ODRkNGE1`

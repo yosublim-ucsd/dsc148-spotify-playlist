@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,628 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,324 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 4 | [A Town with an Ocean View](https://open.spotify.com/track/2ZJ28Rm7OXMYJshLtp5uff) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Kiki's Delivery Service Soundtrack Music Collection](https://open.spotify.com/album/2NO5lYWs4aWpsmHOjF4JHk) | 3:00 |
 | 5 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 |
 | 6 | [追憶](https://open.spotify.com/track/5ivNWIFi7xeiW8EfK6sa7n) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:05 |
-| 7 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
+| 7 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
 | 8 | [Princess Mononoke Theme Song \(Vocal\)](https://open.spotify.com/track/3vhkYEfMVAsTfr9T1Q2Ulc) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 3:32 |
 | 9 | [呪われた海](https://open.spotify.com/track/1hcvDwUH9TPb3reDsBBqZ7) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:35 |
 | 10 | [Ending Song \- The Promise of the World \- Merry\-Go\-Round of Life](https://open.spotify.com/track/5AVUsyKKPhYJItIVeEqw2E) | [Chieko Baisho](https://open.spotify.com/artist/062PpvpxL0geLWBOeiOqFx) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 6:50 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 33 | [Fine On The Outside](https://open.spotify.com/track/0muntSMuAZzcwYBBMZj6sf) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [When Marnie Was There Song Album \- Just Know That I Love You.](https://open.spotify.com/album/5xCqg7ej0eaCdjJoDrWUrO) | 4:12 |
 | 34 | [A Journey \(A Dream of Flight\)](https://open.spotify.com/track/1zZQCz81Mr1XiiQ7SkRanG) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [The Wind Rises Soundtrack](https://open.spotify.com/album/59U5FQ4kDEt11Q2UcFu1dK) | 2:55 |
 | 35 | [The Lost Paradise](https://open.spotify.com/track/4P9bCYQWtzgU1a5LpFQSQK) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Laputa: Castle in the Sky Image Album \-The Girl Who Fell from the Sky\-](https://open.spotify.com/album/0vfNVoJYgLtN08jla6lEAm) | 2:15 |
-| 36 | [テルーの唄\(ゲド戦記\)](https://open.spotify.com/track/5Bwd1BTZsb5aSIDFyY1OPc) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:50 |
+| 36 | [テルーの唄\(ゲド戦記\)](https://open.spotify.com/track/5Bwd1BTZsb5aSIDFyY1OPc) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:50 |
 | 37 | [Ponyo on the Cliff by the Sea](https://open.spotify.com/track/00lajXBbel7k0C8AefHwak) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Ponyo on the Cliff by the Sea Image Album](https://open.spotify.com/album/6bV3GjpvWu7Zf48GmSAnU3) | 2:46 |
 | 38 | [A Very Busy Kiki](https://open.spotify.com/track/21oBEY5fssYB0z3IvYHDhh) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Kiki's Delivery Service Soundtrack Music Collection](https://open.spotify.com/album/2NO5lYWs4aWpsmHOjF4JHk) | 1:19 |
 | 39 | [A Hilly Town](https://open.spotify.com/track/4djhFqSUhihI2N4i8wKB3t) | [Yuji Nomi](https://open.spotify.com/artist/2ItyqN4i9lNz49g421p0Cl) | [Whisper of the Heart Soundtrack](https://open.spotify.com/album/0yOhYn348rz2j3mUne0fpH) | 3:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 69 | [Ponyo on the Cliff by the Sea \- from 'Ponyo on the Cliff by the Sea'](https://open.spotify.com/track/1ZH2eyqwewJj7wAAyzjeky) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 3:16 |
 | 70 | [いつでも誰かが](https://open.spotify.com/track/3naMRyLXw84R6USrfjgc7E) | [Shang Shang Typhoon](https://open.spotify.com/artist/2jpbrxvQN2UIqmZEb5pOhF) | [GREATEST HiTS 上々颱風](https://open.spotify.com/album/29WA2huritEuEDi03P3klA) | 5:06 |
 
-Snapshot ID: `MCwzZWNlNzA0MTQwM2U5MzAwODcyZTMzNWE0OGJlYzhlM2NmZjhkNWQ4`
+Snapshot ID: `MCwyMDhlYTA3Njg2ZmFmMDYzM2ZmNmYyZWFhN2UwOTU0N2M3MDBjMTc3`

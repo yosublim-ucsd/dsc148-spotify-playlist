@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-611 songs - 1 day 2 hr 31 min
+612 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2021-12-07 |  |
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 |  |
 | [Dans vos bras](https://open.spotify.com/track/5qHa8gZdBKxvseAyE2R2qe) | [Orson D'Aubigné](https://open.spotify.com/artist/1TSzEZWmeMMNQE3CwV7Mif) | [Dans vos bras](https://open.spotify.com/album/4HeFEWZ2s6t9u3lIzN6GLL) | 2:38 | 2021-12-07 | 2022-09-24 |
-| [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2021-12-07 |  |
+| [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2021-12-07 | 2023-08-27 |
 | [Dark Skies, Bright Stars](https://open.spotify.com/track/2d6TuppzOeiaMHuaddPO9K) | [Elke Fischer](https://open.spotify.com/artist/6TSeTJYdnpkR0LBtg3AmoI) | [Dark Skies, Bright Stars](https://open.spotify.com/album/5Y0tdMVlsomtFC6HqXmahk) | 2:00 | 2021-12-07 |  |
 | [Days](https://open.spotify.com/track/75mVGk9NnVwI1hC42MrvcG) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Poems](https://open.spotify.com/album/6VYkb4InDz4hHgarKcC8LH) | 2:23 | 2023-03-01 | 2023-04-13 |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 |  |
@@ -161,6 +161,7 @@
 | [Fare la limonata](https://open.spotify.com/track/2iydu5wmxnchiJVB9dfztj) | [Anastasio Confortola](https://open.spotify.com/artist/5SAOTTBvdu5AMwEDSHSa5X) | [Fare la limonata](https://open.spotify.com/album/4HxWgxFOuhiIVqIC4KSU5W) | 2:48 | 2022-03-01 |  |
 | [Fidelity](https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Fidelity](https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh) | 2:49 | 2021-12-07 | 2022-09-24 |
 | [Fils Du Soleil](https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Dreamweaver](https://open.spotify.com/album/6dSfSgGrlFwRU7Rcjnvsrf) | 4:19 | 2021-12-07 | 2022-05-04 |
+| [Final Thoughts](https://open.spotify.com/track/33N2hGEswrt2owzlW5PAsX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Final Thoughts](https://open.spotify.com/album/445Tm1RU9hCsXTagEdZ3Y1) | 2:14 | 2023-08-15 |  |
 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 | 2021-12-07 | 2022-06-08 |
 | [Finding Time](https://open.spotify.com/track/0l9iXvyb8XWlrp99enjIB8) | [Elliot Bruckner](https://open.spotify.com/artist/0IHfoGy9QPWcM2pd57cTSt) | [Walking on Air](https://open.spotify.com/album/0G5ktr7ERbEUu5GkoUt2Wk) | 2:38 | 2021-12-07 | 2022-05-20 |
 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 | 2021-12-07 |  |

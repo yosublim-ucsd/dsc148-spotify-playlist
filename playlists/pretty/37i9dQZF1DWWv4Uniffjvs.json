@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:0zo109NM3S7CqHpvlXwqEN\">VTSS</a>' favorite tracks. Updated regularly. Curated by VTSS. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 22594,
+  "num_followers": 22655,
   "original_name": "VTSS' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODJmNTBkMjJmMTRhMzU0ZDkyYjhmZDc5MGU5OGIxMTQ3N2ZhMzI1",
+  "snapshot_id": "MCxmYWNkMDY3NzI3YTMwMDU1ZGMxMWYyYjNlNDBhM2Q0NDE5NmRiMjA4",
   "tracks": [
     {
       "added_at": "2023-08-18 09:13:02",
@@ -18,10 +18,14 @@
         {
           "name": "Paul Adam Walter",
           "url": "https://open.spotify.com/artist/5ZbB2k1J3A7KAFBVB0pYZ2"
+        },
+        {
+          "name": "BEADS",
+          "url": "https://open.spotify.com/artist/2ahOmoP1x16GzzivZa0rck"
         }
       ],
       "duration_ms": 258390,
-      "name": "Brutal House (BEADS Edit)",
+      "name": "Brutal House (BEADS Remix)",
       "url": "https://open.spotify.com/track/1TjyIHkELTzdtgZgytUMId"
     },
     {
@@ -460,7 +464,7 @@
       "added_at": "2023-08-18 09:13:02",
       "album": {
         "name": "It's That Time",
-        "url": "https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv"
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
       "artists": [
         {
@@ -470,7 +474,7 @@
       ],
       "duration_ms": 240250,
       "name": "It's That Time",
-      "url": "https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8"
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "added_at": "2023-08-18 09:13:02",

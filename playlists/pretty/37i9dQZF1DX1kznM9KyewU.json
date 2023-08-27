@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1990s.",
-  "num_followers": 73333,
+  "num_followers": 73375,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzVmYzA0N2YyMDRkMDYyMDA3NTg1NzU1YjY4NGFjMDkwZDFkZjE3",
+  "snapshot_id": "MCxmMDUxMjhmOWRlNDRjNjMyOGJjYjU0MWE1OGQzMDA4YzQyMjViNmI0",
   "tracks": [
     {
       "added_at": "2022-11-17 16:12:41",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 404333,
       "name": "Wherever I May Roam (Remastered)",
       "url": "https://open.spotify.com/track/745sNpjWbAxo2MA2zSYbyD"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "fear",
-        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
-      },
-      "artists": [
-        {
-          "name": "Toad The Wet Sprocket",
-          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Load",
         "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 269573,
       "name": "Until It Sleeps",
       "url": "https://open.spotify.com/track/63aVbch5VRXtQnCITdeDTZ"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "fear",
+        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
+      },
+      "artists": [
+        {
+          "name": "Toad The Wet Sprocket",
+          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE"
     },
     {
       "added_at": "2022-11-17 16:12:41",

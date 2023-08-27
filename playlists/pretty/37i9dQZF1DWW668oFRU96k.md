@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: D.O.D x Jax Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,465 likes - 72 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,491 likes - 72 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 12 | [Tell Me Why](https://open.spotify.com/track/5Gj9GytUHWNH3yN8r4Jn0r) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Now O Later](https://open.spotify.com/artist/7mXiVh1xuK89jd1QX0JuHS) | [Tell Me Why](https://open.spotify.com/album/7IbY9AMzf8mVQ3IETBH4AC) | 2:29 |
 | 13 | [Picture](https://open.spotify.com/track/6sa8gVh0m5qFMeqk9liyXD) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Picture](https://open.spotify.com/album/0Vh5Eq6XcrKL9McjUIyyqd) | 3:18 |
 | 14 | [Parasite](https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Eva Celia](https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx) | 3:20 |
-| 15 | [Mas Tequila](https://open.spotify.com/track/7AQXztj8nnK2x0jPhBEK5e) | [Mafo](https://open.spotify.com/artist/320pR8mB5EktKcwRSAm3Ms), [DENI](https://open.spotify.com/artist/2A77Wy8CAABhLPgsDFRRs8) | [Mas Tequila](https://open.spotify.com/album/0smKdQtS9xVCzUYc2igKi8) | 2:22 |
+| 15 | [Mas Tequila](https://open.spotify.com/track/7AQXztj8nnK2x0jPhBEK5e) | [Mafo](https://open.spotify.com/artist/320pR8mB5EktKcwRSAm3Ms), [DENI](https://open.spotify.com/artist/3MfbhOiaRzQwAoJivlBzu5) | [Mas Tequila](https://open.spotify.com/album/0smKdQtS9xVCzUYc2igKi8) | 2:22 |
 | 16 | [Drinking by Myself](https://open.spotify.com/track/5XdhKJaPX9tg5k6KTJjSxY) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Bluberry](https://open.spotify.com/artist/5nAibo1H6bmiLo34baH47V) | [Drinking by Myself](https://open.spotify.com/album/2TeZIev67rGdFTr29yACE4) | 2:22 |
 | 17 | [Waterfall \(feat\. Justin J\. Moore\)](https://open.spotify.com/track/1KCAlocTNUke9jqkE2eFlB) | [Vigel](https://open.spotify.com/artist/72S5xAuE30pC3FHJHaz5CQ), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN), [Charlie Ray](https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF) | [Waterfall \(feat\. Justin J\. Moore\)](https://open.spotify.com/album/4NzXnaVQQQ3wc4e16b3ChM) | 2:56 |
 | 18 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 71 | [Feels So Right \- Radio Mix](https://open.spotify.com/track/0yWWMRp88HJAfLZmFxkQ4h) | [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp), [TOM KING](https://open.spotify.com/artist/6ESVK7OII4SIQg4EEyFahi) | [Feels So Right](https://open.spotify.com/album/5OIskHMk4oedsZSbnqr5qZ) | 3:14 |
 | 72 | [Ends With Us](https://open.spotify.com/track/6SC1B5qJfAlgBZUT4BXUxB) | [Now O Later](https://open.spotify.com/artist/7mXiVh1xuK89jd1QX0JuHS), [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Ends With Us](https://open.spotify.com/album/1cc009ZFxNL6udltua7p6m) | 2:33 |
 
-Snapshot ID: `MCxmZWQxYTVlZTFmZDYyMjVjZGQ5YzMzMjBlNzZmNWRjYzgxNjA4NjRi`
+Snapshot ID: `MCw2MDU5YjU0MjZhZmY0MDAyZmViN2UzM2ViNDY1NWE2ZWYwNjkwZjFm`

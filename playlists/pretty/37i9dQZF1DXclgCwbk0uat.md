@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Jere Klein & Nicki Nicole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,852,655 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,853,179 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 28 | [Su Altura](https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Su Altura](https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs) | 3:01 |
 | 29 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 |
 | 30 | [TE EXO DE MENOS :\(](https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TE EXO DE MENOS :\(](https://open.spotify.com/album/2nl4PR8ItbHzzjmhmW1m3p) | 2:31 |
-| 31 | [Me Veo Rico](https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Me Veo Rico](https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G) | 2:44 |
+| 31 | [Me Veo Rico](https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Valdi](https://open.spotify.com/artist/24gSkXV5aSI1WbcZh2XtT5) | [Me Veo Rico](https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G) | 2:44 |
 | 32 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 |
 | 33 | [Millonarios Juntos](https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Millonarios Juntos](https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU) | 3:02 |
 | 34 | [Donde?](https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [6.5](https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 |
 | 50 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |
 
-Snapshot ID: `MCw4YWM3N2Q3MzQyMzIzZjViM2NkZjdiMThiNWZiZDI3MzJkOWY4YWFh`
+Snapshot ID: `MCwxYmRjZmUxNjk1NTA5ZDYyNGIwZjAwYmNjNTQ5NTRhZDdjMjA4ZDMw`

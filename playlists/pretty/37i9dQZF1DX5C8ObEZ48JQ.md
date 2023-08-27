@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,425 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,429 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 33 | [mr\. sneaky link](https://open.spotify.com/track/2vX0iHFbHF5q6H7kSvkMlH) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [mr\. sneaky link](https://open.spotify.com/album/7dRFkTfLMK9yObf5Pjz9s2) | 2:16 |
 | 34 | [VIDEO GIRL](https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [VIDEO GIRL](https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS) | 2:44 |
 | 35 | [Feel Low](https://open.spotify.com/track/5S4TFFPRghc9pI6kKRE6Ma) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Feel Low](https://open.spotify.com/album/5R0py9OArsqpcf8LGRsEYm) | 2:18 |
-| 36 | [BNB](https://open.spotify.com/track/6TYdcksDllQb7KFTpUl5Ek) | [Master Helpline](https://open.spotify.com/artist/4Zm1CD8ECx7N8Vrgk3AqUD), [Spaceboy Mercury](https://open.spotify.com/artist/2zVs2fq3Njex7N8CpT2PAj) | [Stories From Houtbay](https://open.spotify.com/album/5VigFY46G0uqityzdCastP) | 2:01 |
+| 36 | [BNB](https://open.spotify.com/track/6TYdcksDllQb7KFTpUl5Ek) | [Master Helpline](https://open.spotify.com/artist/4Zm1CD8ECx7N8Vrgk3AqUD), [Spaceboy Mercury](https://open.spotify.com/artist/2mR0GIWBegdzOpWjqoMPfI) | [Stories From Houtbay](https://open.spotify.com/album/5VigFY46G0uqityzdCastP) | 2:01 |
 | 37 | [Secret Lover](https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Secret Lover](https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1) | 2:51 |
 | 38 | [Feel So Right](https://open.spotify.com/track/2pKM0v34uiyv7fEKWfARxR) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/4s0PMOiNGkO4wukgX8SgQc) | 3:16 |
 | 39 | [Swipe Left \- Acoustic Version](https://open.spotify.com/track/6NzpBkIGFGscz61rMe411T) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Swipe Left \(Acoustic Version\)](https://open.spotify.com/album/5J3xgjSjSRh6n5ZTpTBVTY) | 3:03 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 51 | [Falling in Love](https://open.spotify.com/track/0Tnzjifkv9W8xm0wXy7gOh) | [Choccy Chox](https://open.spotify.com/artist/1Il8vHCOT51z2KfQXPJNJv) | [Falling in Love](https://open.spotify.com/album/1awIuzfs8WL23tLUeBnEf1) | 3:09 |
 | 52 | [half day](https://open.spotify.com/track/1M3TkNfhGSGnox2Xbh5GQk) | [ETB](https://open.spotify.com/artist/7ycml9pvXVpp2GYLr4l672) | [Road To PsychaHomies I](https://open.spotify.com/album/2iZgbDtVOW7MgWPwzfj31f) | 2:25 |
 
-Snapshot ID: `MCxhZTQ5MmMxYmY4OWE1NGU1Njg0NDk4YTQ4YWYyMDM2ZWIwYjY0MWMz`
+Snapshot ID: `MCxjYjYxNzIzOTNhNWZmN2ZmYzAxNTU5MDFkMTdiZmU3MGI2YzgyYTZk`

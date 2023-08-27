@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 57856,
+  "num_followers": 57911,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTRiNGFhZDI4ZDY0NzhhNTVmYzYwZWRiM2Q1YTk5NWFiN2VjNTkw",
+  "snapshot_id": "MCw1ZWRkMTI3ZjE5OTM1OTdiNTE4NjQxZDY3YmM0N2NkODljMzMzZThh",
   "tracks": [
     {
       "added_at": "2023-05-29 14:34:48",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Aliado del Tiempo",
-        "url": "https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ"
-      },
-      "artists": [
-        {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
-        }
-      ],
-      "duration_ms": 186768,
-      "name": "El R 15",
-      "url": "https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "La Carta N\u00b0 3",
         "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 181026,
       "name": "La Carta N\u00b03 - 1986 Digital Remaster",
       "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Aliado del Tiempo",
+        "url": "https://open.spotify.com/album/5rqko6IBEUItjmrMS54IfZ"
+      },
+      "artists": [
+        {
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+        }
+      ],
+      "duration_ms": 186768,
+      "name": "El R 15",
+      "url": "https://open.spotify.com/track/4aEz6SUQQwAj6r5eXtYyrG"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -523,22 +523,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Aqu\u00ed Abajo",
-        "url": "https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz"
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
       },
       "artists": [
         {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        },
-        {
-          "name": "El Tridente",
-          "url": "https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat"
+          "name": "L\u00edderes de Chile",
+          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU"
+      "duration_ms": 200707,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -559,34 +555,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
+        "name": "Aqu\u00ed Abajo",
+        "url": "https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz"
       },
       "artists": [
         {
-          "name": "L\u00edderes de Chile",
-          "url": "https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj"
-        }
-      ],
-      "duration_ms": 200707,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "\u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
-      },
-      "artists": [
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
+        },
         {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+          "name": "El Tridente",
+          "url": "https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat"
         }
       ],
-      "duration_ms": 213529,
-      "name": "El Amante Apasionado",
-      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
+      "duration_ms": 231906,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -623,6 +607,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "\u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+      },
+      "artists": [
+        {
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+        }
+      ],
+      "duration_ms": 213529,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Lo Mejor 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
       },
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "El Corrido Del R-15",
+        "url": "https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia Chilena",
+          "url": "https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n"
+        }
+      ],
+      "duration_ms": 204970,
+      "name": "El Corrido Del R-15",
+      "url": "https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Puro Sur Puro Chile",
         "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 391733,
       "name": "Te Amo y Te Amar\u00e9",
       "url": "https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "El Corrido Del R-15",
-        "url": "https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA"
-      },
-      "artists": [
-        {
-          "name": "La Descendencia Chilena",
-          "url": "https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n"
-        }
-      ],
-      "duration_ms": 204970,
-      "name": "El Corrido Del R-15",
-      "url": "https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Ayer, Hoy y Siempre",
-        "url": "https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ"
-      },
-      "artists": [
-        {
-          "name": "Los Manantiales",
-          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "El Lirio",
-      "url": "https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 169466,
       "name": "Sombrero Vaquero",
       "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Ayer, Hoy y Siempre",
+        "url": "https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ"
+      },
+      "artists": [
+        {
+          "name": "Los Manantiales",
+          "url": "https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "El Lirio",
+      "url": "https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Rancheras Populares 16 \u00c9xitos",
-        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos Negros",
-          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Te Lavaste la Cara y el Mono No",
-      "url": "https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Alma Enamorada",
         "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 267186,
       "name": "Sola Con Mi Soledad / Y Voy a Ser Feliz",
       "url": "https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Rancheras Populares 16 \u00c9xitos",
+        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Negros",
+          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "Te Lavaste la Cara y el Mono No",
+      "url": "https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
-      },
-      "artists": [
-        {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "La Chupilca",
         "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 175205,
       "name": "La Chupilca",
       "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+      },
+      "artists": [
+        {
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Galantes y Caballeros",
-        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
         }
       ],
-      "duration_ms": 152816,
-      "name": "Galantes y Caballeros",
-      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1403,8 +1403,8 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
+        "name": "Galantes y Caballeros",
+        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
       "artists": [
         {
@@ -1412,9 +1412,9 @@
           "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
         }
       ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
+      "duration_ms": 152816,
+      "name": "Galantes y Caballeros",
+      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Cumbias Campesinas",
-        "url": "https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt"
-      },
-      "artists": [
-        {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        }
-      ],
-      "duration_ms": 237975,
-      "name": "Guaijirito",
-      "url": "https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Pisando Fuerte",
         "url": "https://open.spotify.com/album/73FNvltKoEE8HeZ9eO5j9Y"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 236000,
       "name": "La Paliza",
       "url": "https://open.spotify.com/track/4qWBPa4f21TTCtrDI95IrG"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Cumbias Campesinas",
+        "url": "https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "duration_ms": 237975,
+      "name": "Guaijirito",
+      "url": "https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW"
     },
     {
       "added_at": "2023-05-29 14:34:48",

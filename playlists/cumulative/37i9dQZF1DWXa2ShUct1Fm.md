@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-190 songs - 10 hr 38 min
+191 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Good to Me](https://open.spotify.com/track/2ujZatFh8uZMkiBTu2z7AH) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:09 | 2022-05-27 | 2023-08-02 |
 | [Habit](https://open.spotify.com/track/0ePDb0b1tMQlqP9u58pmcg) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 4:13 | 2022-05-27 |  |
 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 | 2022-05-27 |  |
-| [Happy Ending](https://open.spotify.com/track/29RpFeHrgO7cXLzAtXu51e) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Happy Ending](https://open.spotify.com/album/2SrJI9UCeYzVXYripQVnbi) | 3:30 | 2022-07-21 |  |
+| [Happy Ending](https://open.spotify.com/track/6bk9pQwgyR4ihccicvOL9L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [ALWAYS YOURS](https://open.spotify.com/album/5Qae32LmUnMlJRqZv2BWvY) | 3:29 | 2023-07-28 |  |
+| [Happy Ending](https://open.spotify.com/track/29RpFeHrgO7cXLzAtXu51e) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Happy Ending](https://open.spotify.com/album/2SrJI9UCeYzVXYripQVnbi) | 3:30 | 2022-07-21 | 2023-08-27 |
 | [Happy Ending](https://open.spotify.com/track/3mhnKSz9NzYuCR67gXIVEJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Happy Ending](https://open.spotify.com/album/3hL48nNMmYcDELtORwicjK) | 3:30 | 2022-05-27 | 2022-07-29 |
 | [Healing](https://open.spotify.com/track/1nyzf00hpVfBkHlZSVJuky) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:23 | 2022-05-27 |  |
 | [Heaven's Cloud](https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:52 | 2022-05-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: AM\u00c9M (Julliany Souza, L\u00e9o Brand\u00e3o)",
-  "num_followers": 982252,
+  "num_followers": 982635,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTIyMTBiYjM3MzZhZThkZjMzNzA4ZDQ0MzZjNmY0ZmQ2YmU3MDU1",
+  "snapshot_id": "MCw1ZDI1YjNlNzg4OTc1YzEyY2EzMWVmMDk5MmFmMmUyZTBmNzlmZWE1",
   "tracks": [
     {
       "added_at": "2023-08-18 05:34:36",
@@ -1331,8 +1331,8 @@
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
-        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
+        "name": "30 Anos Na Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb"
       },
       "artists": [
         {
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
+      "duration_ms": 367349,
+      "name": "Sonda-me Usa-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8"
     },
     {
       "added_at": "2023-08-18 05:34:36",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
+        "name": "O Amor Venceu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Bp0byIrVLWQw9FjIiCSF4"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "O Amor Venceu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3tsvvDT5rxEVs8rxtawduX"
+    },
+    {
+      "added_at": "2023-08-18 05:34:36",
+      "album": {
         "name": "A Resposta",
         "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
       },
@@ -1415,22 +1435,6 @@
       "duration_ms": 265565,
       "name": "A Resposta",
       "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
-    },
-    {
-      "added_at": "2023-08-18 05:34:36",
-      "album": {
-        "name": "Mem\u00f3rias 3 - Lado A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 268661,
-      "name": "Deus Cuida De Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk"
     },
     {
       "added_at": "2023-08-18 05:34:36",
@@ -1451,8 +1455,8 @@
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
-        "name": "30 Anos Na Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb"
+        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
       },
       "artists": [
         {
@@ -1460,29 +1464,25 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 367349,
-      "name": "Sonda-me Usa-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8"
+      "duration_ms": 258146,
+      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
     },
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
-        "name": "O Amor Venceu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Bp0byIrVLWQw9FjIiCSF4"
+        "name": "Mem\u00f3rias 3 - Lado A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI"
       },
       "artists": [
         {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 395000,
-      "name": "O Amor Venceu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3tsvvDT5rxEVs8rxtawduX"
+      "duration_ms": 268661,
+      "name": "Deus Cuida De Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk"
     },
     {
       "added_at": "2023-08-18 05:34:36",
@@ -1507,6 +1507,30 @@
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
+        "name": "Quem \u00e9 Como Nosso Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6VYnO45xAXEfO3w3JT5zpp"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Felippe Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Quem \u00e9 Como Nosso Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4oRVmlLVrRaQcsce0od2Q0"
+    },
+    {
+      "added_at": "2023-08-18 05:34:36",
+      "album": {
         "name": "Eu Tenho Pai",
         "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
       },
@@ -1527,22 +1551,6 @@
     {
       "added_at": "2023-08-18 05:34:36",
       "album": {
-        "name": "Ton Canta, Vol. 2",
-        "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 280520,
-      "name": "Primeira Ess\u00eancia",
-      "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
-    },
-    {
-      "added_at": "2023-08-18 05:34:36",
-      "album": {
         "name": "Em Meio Ao Vendaval (Ao Vivo)",
         "url": "https://open.spotify.com/album/3iALD5FS2raKNCjouli13t"
       },
@@ -1555,6 +1563,22 @@
       "duration_ms": 301311,
       "name": "Em Meio Ao Vendaval (Ao Vivo)",
       "url": "https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS"
+    },
+    {
+      "added_at": "2023-08-18 05:34:36",
+      "album": {
+        "name": "Ton Canta, Vol. 2",
+        "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 280520,
+      "name": "Primeira Ess\u00eancia",
+      "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
     },
     {
       "added_at": "2023-08-18 05:34:36",
@@ -1595,30 +1619,6 @@
       "duration_ms": 304426,
       "name": "Eis-me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS"
-    },
-    {
-      "added_at": "2023-08-18 05:34:36",
-      "album": {
-        "name": "Quem \u00e9 Como Nosso Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6VYnO45xAXEfO3w3JT5zpp"
-      },
-      "artists": [
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Felippe Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Quem \u00e9 Como Nosso Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4oRVmlLVrRaQcsce0od2Q0"
     },
     {
       "added_at": "2023-08-18 05:34:36",

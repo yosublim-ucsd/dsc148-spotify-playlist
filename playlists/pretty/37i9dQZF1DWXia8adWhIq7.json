@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Lito Atalaia, Eyshila",
-  "num_followers": 73856,
+  "num_followers": 73935,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Mjc3YTVlOWVlN2YzZmU1ZTI0YTE4YjRiZDVlMjVmNmI1YTQwN2Qy",
+  "snapshot_id": "MCw2M2IxZmNmMGFhNzM4MmRlOWI1N2NhMjAyOWY2YmE4NGQ4YWE1ZDk3",
   "tracks": [
     {
       "added_at": "2023-08-18 05:44:30",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
-        "name": "Fim de Tarde",
-        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 138517,
-      "name": "Fim de Tarde",
-      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
         "name": "Sopro de Deus",
         "url": "https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 261290,
       "name": "Sopro de Deus",
       "url": "https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
+        "name": "Fim de Tarde",
+        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 138517,
+      "name": "Fim de Tarde",
+      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
-        "name": "Nasce o Sol (Remix)",
-        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Nasce o Sol - Remix",
-      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
         "name": "Pequenas Coisas",
         "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 159119,
       "name": "Pequenas Coisas",
       "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
+        "name": "Nasce o Sol (Remix)",
+        "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Nasce o Sol - Remix",
+      "url": "https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
         "name": "Leif Bessa - Ac\u00fastico",
         "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 280235,
       "name": "Caminhada",
       "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
-      },
-      "artists": [
-        {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
-        }
-      ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
       },
       "artists": [
         {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
         }
       ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -795,30 +795,6 @@
       "duration_ms": 165954,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
-        "name": "Agora",
-        "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        },
-        {
-          "name": "Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
-        },
-        {
-          "name": "DD Junior",
-          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Agora",
-      "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -875,6 +851,30 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
+        "name": "Agora",
+        "url": "https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        },
+        {
+          "name": "Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx"
+        },
+        {
+          "name": "DD Junior",
+          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Agora",
+      "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
         "name": "Sinal de Aviso",
         "url": "https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 195422,
       "name": "Sinal de Aviso",
       "url": "https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -927,6 +943,26 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE"
+      },
+      "artists": [
+        {
+          "name": "Lagoinha Music",
+          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
+        },
+        {
+          "name": "Samuel Mizrahy",
+          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
         "name": "Tudo Novo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
       },
@@ -947,26 +983,6 @@
       "duration_ms": 179998,
       "name": "Tudo Novo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE"
-      },
-      "artists": [
-        {
-          "name": "Lagoinha Music",
-          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
-        },
-        {
-          "name": "Samuel Mizrahy",
-          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
       "artists": [
         {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -1043,22 +1059,6 @@
       "duration_ms": 226000,
       "name": "Nunca Te Deixei",
       "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
-        "name": "Neste Lugar",
-        "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Isaac Felix",
-          "url": "https://open.spotify.com/artist/6MoY74shUPUJY1HukGaO1a"
-        }
-      ],
-      "duration_ms": 314622,
-      "name": "Neste Lugar",
-      "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
         "name": "O Amor de Deus",
         "url": "https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 156481,
       "name": "O Amor de Deus",
       "url": "https://open.spotify.com/track/6AwPTRmGAmVQi1Gz2JyByH"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
+        "name": "Neste Lugar",
+        "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Isaac Felix",
+          "url": "https://open.spotify.com/artist/6MoY74shUPUJY1HukGaO1a"
+        }
+      ],
+      "duration_ms": 314622,
+      "name": "Neste Lugar",
+      "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
         "name": "Pai Nosso",
         "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
       },
@@ -1303,6 +1287,42 @@
     {
       "added_at": "2023-08-18 05:44:30",
       "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
+        "name": "Te Encontrar",
+        "url": "https://open.spotify.com/album/5b5Qyj7p4dRoIXbOmcCQmV"
+      },
+      "artists": [
+        {
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+        }
+      ],
+      "duration_ms": 167058,
+      "name": "Te Encontrar",
+      "url": "https://open.spotify.com/track/6Jvg1itfQDGuKLFX9jcSN6"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
         "name": "O Som da Liberdade",
         "url": "https://open.spotify.com/album/7sger5hoY95tgrvEhvLRpO"
       },
@@ -1315,6 +1335,22 @@
       "duration_ms": 233299,
       "name": "O Som da Liberdade",
       "url": "https://open.spotify.com/track/6Hf4bTfYtLOxzv4Ur12G9v"
+    },
+    {
+      "added_at": "2023-08-18 05:44:30",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-08-18 05:44:30",
@@ -1395,42 +1431,6 @@
       "duration_ms": 246000,
       "name": "O Lado Bom - Tudo Coopera (feat. Anderson Freire, Adilson Freire, Dirceu Freire, Dione Freire, OCabral, Camila, Patr\u00edcia Esp\u00f3sito, Gabriela Rodrigues, Aretusa Cardoso, Kate Souza, Pheterson Mayki, Nicolas, Manuela & Vit\u00e3o Oliveira)",
       "url": "https://open.spotify.com/track/7vNtlSFNUazrOHOTp8Ed7u"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2023-08-18 05:44:30",
-      "album": {
-        "name": "Te Encontrar",
-        "url": "https://open.spotify.com/album/5b5Qyj7p4dRoIXbOmcCQmV"
-      },
-      "artists": [
-        {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "MATXS",
-          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
-        }
-      ],
-      "duration_ms": 167058,
-      "name": "Te Encontrar",
-      "url": "https://open.spotify.com/track/6Jvg1itfQDGuKLFX9jcSN6"
     },
     {
       "added_at": "2023-08-18 05:44:30",

@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 276747,
+  "num_followers": 277061,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTMxZDk0MDk1NDNkZjQ3YjRkZjdlOTQ2MDU5OWEwNjFiODg0ZTcz",
+  "snapshot_id": "MCxhMGVlMDMyMmNmYTFhZTc2ZmUyMGFlM2YyZmFiODE0MjJhZmJkMzNj",
   "tracks": [
     {
       "added_at": "2023-08-25 06:09:08",
@@ -223,42 +223,6 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
-        "name": "Give a Little",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Give a Little",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
-        "name": "Bedouin",
-        "url": "https://open.spotify.com/album/7GyTqPQvMlkEF8Zvw2OFFG"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 394703,
-      "name": "Bedouin",
-      "url": "https://open.spotify.com/track/2giWbLYx96NCz924ACsaUf"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
         "name": "In Control (feat. Selin)",
         "url": "https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe"
       },
@@ -279,6 +243,42 @@
       "duration_ms": 179232,
       "name": "In Control (feat. Selin)",
       "url": "https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
+        "name": "Bedouin",
+        "url": "https://open.spotify.com/album/7GyTqPQvMlkEF8Zvw2OFFG"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 394703,
+      "name": "Bedouin",
+      "url": "https://open.spotify.com/track/2giWbLYx96NCz924ACsaUf"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+        }
+      ],
+      "duration_ms": 234838,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m"
-      },
-      "artists": [
-        {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
         "name": "Schhh",
         "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 185689,
       "name": "Schhh",
       "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m"
+      },
+      "artists": [
+        {
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
+        "name": "Dle Yaman (116 Deep Mix)",
+        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
+      },
+      "artists": [
+        {
+          "name": "Hraach",
+          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
+        }
+      ],
+      "duration_ms": 438674,
+      "name": "Dle Yaman (116 Deep Mix)",
+      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
-        "name": "Dle Yaman (116 Deep Mix)",
-        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
-      },
-      "artists": [
-        {
-          "name": "Hraach",
-          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
-        }
-      ],
-      "duration_ms": 438674,
-      "name": "Dle Yaman (116 Deep Mix)",
-      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
         "name": "I Lost You",
         "url": "https://open.spotify.com/album/3JHjeBkB7ouscnfXrhnPh8"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 225558,
       "name": "I Lost You - Radio Edit",
       "url": "https://open.spotify.com/track/05rm5OoJaVWImXZ4GMkekr"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
-        "name": "Il Mattino",
-        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
-      },
-      "artists": [
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        }
-      ],
-      "duration_ms": 331206,
-      "name": "Il Mattino",
-      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
         "name": "Nu Vreau",
         "url": "https://open.spotify.com/album/0ee7ZElrlFTTPATQV9OUJZ"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 193149,
       "name": "Nu Vreau",
       "url": "https://open.spotify.com/track/2R5TjEso8PJ9TcSoGjVfwH"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
+        "name": "Il Mattino",
+        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
+      },
+      "artists": [
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        }
+      ],
+      "duration_ms": 331206,
+      "name": "Il Mattino",
+      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
+        "name": "Buddha Bar XVII",
+        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
       },
       "artists": [
         {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
         }
       ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
+      "duration_ms": 323720,
+      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
+      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
-        "name": "Buddha Bar XVII",
-        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
       "artists": [
         {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
         }
       ],
-      "duration_ms": 323720,
-      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
-      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -1711,42 +1711,6 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
-        "name": "Angelic",
-        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Ikonnya",
-          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
-        }
-      ],
-      "duration_ms": 269378,
-      "name": "Angelic",
-      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
       },
@@ -1771,6 +1735,42 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
+        "name": "Angelic",
+        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
+      },
+      "artists": [
+        {
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "Ikonnya",
+          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
+        }
+      ],
+      "duration_ms": 269378,
+      "name": "Angelic",
+      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2023-08-25 06:09:08",
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5NdBszLrgcaFiq5sjr3vgJ"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 178909,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/5zKRmc6gTge68PS5EqagXG"
-    },
-    {
-      "added_at": "2023-08-25 06:09:08",
-      "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2023-08-25 06:09:08",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2023-08-25 06:09:08",
       "album": {
-        "name": "Watra",
-        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
       },
       "artists": [
         {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 141754,
-      "name": "Watra",
-      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     }
   ],
   "unique_name": "mosaic",

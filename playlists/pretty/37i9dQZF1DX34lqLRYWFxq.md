@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,512 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,517 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [They'll Just Love You \(feat\. Poppy & Danny Elfman\)](https://open.spotify.com/track/2JhJYs96INURqXbVi0reKJ) | [Stu Brooks](https://open.spotify.com/artist/7lRFeVa0GvTB0hm28TKT9M), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [They'll Just Love You \(feat\. Poppy & Danny Elfman\)](https://open.spotify.com/album/5zryXm1YMVVqalObTXXQI1) | 4:02 |
 | 100 | [Napalm!](https://open.spotify.com/track/3RIgGojBi8VbkiC8abzd2G) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Napalm!](https://open.spotify.com/album/5tTJueIK5VksCvqfP66jj2) | 2:25 |
 
-Snapshot ID: `MCwzZmRmOWRkZGM3NTIzM2I0OTE1NWRhOTkzMjAxZTUwYTI0OWFkNmU0`
+Snapshot ID: `MCwxNWQ3Njc4MTM2ZmM0NTZkZTRjY2M1M2MyM2JiYmNkNzE2ZTBiYjA2`

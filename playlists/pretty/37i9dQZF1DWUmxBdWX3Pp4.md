@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Young Miko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,390 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,070 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 70 | [Mbappe \- Remix](https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Mbappe \(Remix\)](https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h) | 3:57 |
 | 71 | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn) | 4:24 |
 | 72 | [Chambea](https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw) | 3:12 |
-| 73 | [Municiones](https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Municiones](https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw) | 3:24 |
+| 73 | [Municiones \(Feat\. KyleYouMadeThat\)](https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [Municiones \(Feat\. KyleYouMadeThat\)](https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw) | 3:24 |
 | 74 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 | 75 | [Mami Me Pregunta Si Trapeo](https://open.spotify.com/track/0r8ZTj61xBtfUMrAOiOPvG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 3:20 |
 | 76 | [Papa Noel](https://open.spotify.com/track/7iSzHI1PsFudcDPd5IUPIr) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 99 | [Estamos Clear](https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Estamos Clear](https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x) | 4:35 |
 | 100 | [Afuera Que Tengan Miedo](https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo](https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51) | 2:43 |
 
-Snapshot ID: `MCw4NTAwZTdmNDBkMzg2NmQ2OGIxZGU2YjU5ZDA5NTcwMzQ5NWM4ZThi`
+Snapshot ID: `MCwxMzQzZjA1MzljZmM3YTc1N2M4YjY1NTc3OGYyNDk2YzE5ODNmZmUy`

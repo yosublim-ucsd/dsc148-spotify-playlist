@@ -1891,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Oui Mr",
+        "url": "https://open.spotify.com/album/0XZbt2PWXdvGNIfezWU3rM"
+      },
+      "artists": [
+        {
+          "name": "Marouane",
+          "url": "https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "Oui Mr",
+      "url": "https://open.spotify.com/track/4o49sZiYtgf89SzQ1MzpEB"
+    },
+    {
+      "album": {
         "name": "Ouli Liya",
         "url": "https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ"
       },
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 181463,
       "name": "Star",
       "url": "https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF"

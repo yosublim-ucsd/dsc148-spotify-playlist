@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-364 songs - 18 hr 13 min
+365 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-03-25 |  |
 | [Child of the King](https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Child of the King](https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi) | 1:41 | 2022-11-18 |  |
 | [Chokehold](https://open.spotify.com/track/4zSSSXwurah8BSvbKlH5vc) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC) | [Chokehold](https://open.spotify.com/album/7FUSpmEDLyQlhvtDT2v5sE) | 2:14 | 2022-11-18 | 2023-01-20 |
-| [Church House Trap House](https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Church House Trap House](https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx) | 2:18 | 2022-11-18 |  |
+| [Church House Trap House](https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Church House Trap House](https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx) | 2:18 | 2022-11-18 | 2023-08-27 |
 | [CLARITY](https://open.spotify.com/track/6zkHF5C3fgTUBbNno4n6ZP) | [J\. Crum](https://open.spotify.com/artist/6ZvBaBl5ozrLIBxBAKpGDt), [Czar Josh](https://open.spotify.com/artist/0uMdSPqGMACq3BFqRSaEQ5) | [CLARITY](https://open.spotify.com/album/2N1USnhLRokphiPX2OUqzd) | 3:17 | 2021-12-11 | 2022-03-15 |
 | [Clean](https://open.spotify.com/track/1Qd7kw7Zirh6Ep03IGYcEz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/3JiryCdck69RJNlX7wTTe3) | 2:48 | 2022-05-28 |  |
 | [Clean](https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clean](https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS) | 2:48 | 2021-12-11 | 2022-09-04 |
@@ -268,6 +268,7 @@
 | [Pray For Real](https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [CATCH](https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ) | 3:13 | 2021-12-11 |  |
 | [PRESS](https://open.spotify.com/track/4IbeLxSiXnD79Ozl6FvGxu) | [J\. Crum](https://open.spotify.com/artist/6ZvBaBl5ozrLIBxBAKpGDt), [Ayo Shamir](https://open.spotify.com/artist/3Xy4ZQ2ZZxGL3W8SBGHOo7) | [PRESS](https://open.spotify.com/album/1oqbZovUcI56wT3h7O9IAk) | 2:27 | 2022-03-25 | 2022-07-25 |
 | [Pressure](https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pressure](https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp) | 3:13 | 2022-11-18 |  |
+| [PRESSURE](https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [PRESSURE](https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL) | 2:37 | 2023-02-18 |  |
 | [PROBLEMATIC](https://open.spotify.com/track/3GNe6b6vfCCLdXH044BZbK) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De) | [PROBLEMATIC](https://open.spotify.com/album/1yH31gsQcVstAYHQxsaxNQ) | 1:51 | 2021-12-11 | 2022-05-14 |
 | [PROBLEMATIC \(feat\. Travis Hobson\) \- Remix](https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Travis Hobson](https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR) | [PROBLEMATIC \(Remix\) \[feat\. Travis Hobson\]](https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86) | 2:23 | 2022-05-28 | 2022-07-31 |
 | [Proverbs & Beats](https://open.spotify.com/track/4zQESthz8AqH8zrKd7Jew2) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Proverbs & Beats](https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl) | 3:07 | 2022-11-18 | 2022-12-16 |

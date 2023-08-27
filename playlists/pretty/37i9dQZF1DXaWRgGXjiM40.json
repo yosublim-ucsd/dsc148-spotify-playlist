@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 946987,
+  "num_followers": 947225,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODEzNzBhYzFhYTViZjhmMWQyZjg5MzE4NjFiMTVlNjM5NDFhMjNh",
+  "snapshot_id": "MCwwMzIzMDc3NmY2ZWU0NDQyNzcyMWI5YzMzNWFmMGM4YTM5YjQzZmNi",
   "tracks": [
     {
       "added_at": "2023-07-28 03:03:00",
@@ -303,22 +303,22 @@
     {
       "added_at": "2023-07-28 03:03:00",
       "album": {
-        "name": "Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+        "name": "S de Saudade",
+        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+          "name": "Lu\u00edza & Maur\u00edlio",
+          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
         },
         {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 179164,
-      "name": "Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+      "duration_ms": 174863,
+      "name": "S de Saudade",
+      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
     },
     {
       "added_at": "2023-07-28 03:03:00",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-07-28 03:03:00",
       "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
       },
       "artists": [
         {
@@ -380,29 +380,29 @@
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 141934,
-      "name": "Propaganda - Ao Vivo",
-      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
+      "duration_ms": 207520,
+      "name": "Pra Sempre Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq"
     },
     {
       "added_at": "2023-07-28 03:03:00",
       "album": {
-        "name": "S de Saudade",
-        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
       "artists": [
         {
-          "name": "Lu\u00edza & Maur\u00edlio",
-          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
         },
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
         }
       ],
-      "duration_ms": 174863,
-      "name": "S de Saudade",
-      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
     },
     {
       "added_at": "2023-07-28 03:03:00",
@@ -547,8 +547,8 @@
     {
       "added_at": "2023-07-28 03:03:00",
       "album": {
-        "name": "Como. Sempre Feito. Nunca (ao Vivo)",
-        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 207520,
-      "name": "Pra Sempre Com Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq"
+      "duration_ms": 141934,
+      "name": "Propaganda - Ao Vivo",
+      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
     },
     {
       "added_at": "2023-07-28 03:03:00",

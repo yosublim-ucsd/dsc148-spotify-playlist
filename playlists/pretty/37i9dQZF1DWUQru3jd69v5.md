@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Il Ghost in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,961 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,000 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Con Te](https://open.spotify.com/track/0cqrtm4RTq72e6RHJEmkqb) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi) | [Con Te](https://open.spotify.com/album/7o46tgw63JOeayBOcQlMrw) | 2:49 |
 | 50 | [LACRIME](https://open.spotify.com/track/4ENtTrEgDyusQQ5m8JCWnb) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [LACRIME](https://open.spotify.com/album/2QqzgI8IV6rzbHDGvv7Xzo) | 2:29 |
 
-Snapshot ID: `MCxiMDdhM2YxMjg1YzM0NTg3NDAyZWQ5OTUyOTZmYzQ0ZTMxZmFhZDA1`
+Snapshot ID: `MCxjZjc4ZWI3M2RlMmI5ODZiNTMzOTJhMjc3YWM4ODMwMTZkMjBhMjQz`

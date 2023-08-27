@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9803,
+  "num_followers": 9827,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmIzNTRmZjRkZTY5ZTQyZmRkNTI0MjIwZGZiNTAzMTNkMzQ0ZWJl",
+  "snapshot_id": "MCw2OGY3MDcyNjQ2MDhkN2FjOTdmZWJlOWJiMmIyOTM4ZWYzOGNkNmMz",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
+      },
+      "artists": [
+        {
+          "name": "Daddy1",
+          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
+        }
+      ],
+      "duration_ms": 175216,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Baby Bells Riddim",
         "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 227356,
       "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
       "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
-      },
-      "artists": [
-        {
-          "name": "Daddy1",
-          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
-        }
-      ],
-      "duration_ms": 175216,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Stink Behavior",
-        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
+        "name": "Yuh Bad (No Stressing)",
+        "url": "https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V"
       },
       "artists": [
         {
-          "name": "Teddy Rhymez",
-          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
         },
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
         }
       ],
-      "duration_ms": 211022,
-      "name": "Stink Behavior",
-      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Yuh Bad (No Stressing)",
-        "url": "https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V"
+        "name": "Stink Behavior",
+        "url": "https://open.spotify.com/album/5Z95dplrRMPynM2i1iuOs8"
       },
       "artists": [
         {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+          "name": "Teddy Rhymez",
+          "url": "https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p"
         },
         {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7"
+      "duration_ms": 211022,
+      "name": "Stink Behavior",
+      "url": "https://open.spotify.com/track/6QVRM736CkUUJTE4Y3yOb0"
     },
     {
       "added_at": "2022-02-24 18:00:00",

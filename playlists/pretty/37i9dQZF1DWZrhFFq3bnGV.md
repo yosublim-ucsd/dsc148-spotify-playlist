@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Vira Talisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,864 likes - 78 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,918 likes - 78 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 77 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 |
 | 78 | [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/7jITLJhURuLtOkLxmjDs67) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Pengungkapan Hatimu](https://open.spotify.com/album/6SYCwGMPFlhIgFQuiVoGpe) | 3:56 |
 
-Snapshot ID: `MCxjYWE0ZTExYzA1NzhkYTlhNTBhMDQwOTFiODIwMjg4MDIxMWFhODM3`
+Snapshot ID: `MCwyOTdhZTFiMGQzMDYzYzYxM2Q4NDAwNzY3MDYzZDVlZjBjNGMxNTIy`

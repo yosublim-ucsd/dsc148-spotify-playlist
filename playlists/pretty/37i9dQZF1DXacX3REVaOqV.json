@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 171842,
+  "num_followers": 171931,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2VlMzFmN2RmM2EzNDhjMzJkZTUyYTYwZDE0Y2EwOTJjYjU4ODgy",
+  "snapshot_id": "MCxjNzQ2MzkyNWNiM2ViMGJhOWYyNmQ5ZGU5MzI1ODIwNTFhMWU3M2Iy",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "My Paradise",
+        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 211029,
+      "name": "My Paradise",
+      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "House Music (feat. Arctic Lake) [Edit]",
         "url": "https://open.spotify.com/album/3nB4U7gdNErhJHY3v10NMr"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 179520,
       "name": "House Music (feat. Arctic Lake) - Edit",
       "url": "https://open.spotify.com/track/3aAgQEbQUFMhXqk9fz3fcK"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "My Paradise",
-        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 211029,
-      "name": "My Paradise",
-      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Stuck On Repeat",
-        "url": "https://open.spotify.com/album/0zDkq6Hpkyd1j3a4pcXomo"
-      },
-      "artists": [
-        {
-          "name": "Beau",
-          "url": "https://open.spotify.com/artist/3vwy5NQXFV797LDXh2NxEG"
-        }
-      ],
-      "duration_ms": 186479,
-      "name": "Stuck On Repeat",
-      "url": "https://open.spotify.com/track/0Ib2lnmQqbAzuHNkGtYtNC"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "The One (feat. ARA)",
         "url": "https://open.spotify.com/album/3sew2wh9h3aeNeVkrhZPAp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 177036,
       "name": "The One (feat. ARA)",
       "url": "https://open.spotify.com/track/0W44iKwnweZAID1cCMw3B5"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Stuck On Repeat",
+        "url": "https://open.spotify.com/album/0zDkq6Hpkyd1j3a4pcXomo"
+      },
+      "artists": [
+        {
+          "name": "Beau",
+          "url": "https://open.spotify.com/artist/3vwy5NQXFV797LDXh2NxEG"
+        }
+      ],
+      "duration_ms": 186479,
+      "name": "Stuck On Repeat",
+      "url": "https://open.spotify.com/track/0Ib2lnmQqbAzuHNkGtYtNC"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -863,34 +863,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "You're in My System (Dennis Quin Remixes)",
-        "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Jerome Sydenham",
-          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
-        },
-        {
-          "name": "Troy Denari",
-          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
-        },
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 365853,
-      "name": "You're in My System - Dennis Quin Vocal Mix",
-      "url": "https://open.spotify.com/track/7uRqCJHRsrkBU5W3RG0cnL"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Stupidisco (David Penn Remix)",
         "url": "https://open.spotify.com/album/3cDQh2oYxcPk9t9iy6g77R"
       },
@@ -923,6 +895,34 @@
       "duration_ms": 191953,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "You're in My System (Dennis Quin Remixes)",
+        "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Jerome Sydenham",
+          "url": "https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B"
+        },
+        {
+          "name": "Troy Denari",
+          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
+        },
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 365853,
+      "name": "You're in My System - Dennis Quin Vocal Mix",
+      "url": "https://open.spotify.com/track/7uRqCJHRsrkBU5W3RG0cnL"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Spotlight (feat. Sarah Ikumu)",
         "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 175475,
       "name": "Spotlight (feat. Sarah Ikumu)",
       "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Cada Vez (Ultimate Mix Collection)",
-        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
-      },
-      "artists": [
-        {
-          "name": "Negrocan",
-          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
-        }
-      ],
-      "duration_ms": 232058,
-      "name": "Cada Vez - Grant Nelson Radio Edit",
-      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Keep It Simple",
         "url": "https://open.spotify.com/album/3FETrBitCgpS9AgqEktISJ"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 184781,
       "name": "Keep It Simple",
       "url": "https://open.spotify.com/track/4Fp3p14zeLSGF3MLAjSBUH"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Cada Vez (Ultimate Mix Collection)",
+        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
+      },
+      "artists": [
+        {
+          "name": "Negrocan",
+          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Cada Vez - Grant Nelson Radio Edit",
+      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "The Spirit",
-        "url": "https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 135865,
-      "name": "The Spirit",
-      "url": "https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Set U Free",
         "url": "https://open.spotify.com/album/79A3D20E7zPX5MmXPYBuDb"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 154680,
       "name": "Set U Free",
       "url": "https://open.spotify.com/track/0m69QNuZVZDXhGHBGK1mQA"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "The Spirit",
+        "url": "https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 135865,
+      "name": "The Spirit",
+      "url": "https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/3hKR8rhN4plMOZFHXo4N3f"
+      },
+      "artists": [
+        {
+          "name": "Mashd N Kutcher",
+          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+        }
+      ],
+      "duration_ms": 131637,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1efNXameWDHwW1Bx0jgG0j"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Pearls (SILK Remix)",
         "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 246718,
       "name": "Pearls - SILK Remix",
       "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/3hKR8rhN4plMOZFHXo4N3f"
-      },
-      "artists": [
-        {
-          "name": "Mashd N Kutcher",
-          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
-        }
-      ],
-      "duration_ms": 131637,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1efNXameWDHwW1Bx0jgG0j"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1723,22 +1723,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Assumptions (Jengi Remix)",
-        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
+        "name": "Spirit of House",
+        "url": "https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
         },
         {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
         }
       ],
-      "duration_ms": 186222,
-      "name": "Assumptions - Jengi Remix",
-      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
+      "duration_ms": 191500,
+      "name": "Spirit of House",
+      "url": "https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1767,22 +1767,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Spirit of House",
-        "url": "https://open.spotify.com/album/2rziEPSZAdEOWWz8ULSyvQ"
+        "name": "Assumptions (Jengi Remix)",
+        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
       },
       "artists": [
         {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         },
         {
-          "name": "Gene Farris",
-          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
         }
       ],
-      "duration_ms": 191500,
-      "name": "Spirit of House",
-      "url": "https://open.spotify.com/track/51yfv0kjNYGO69PjGXKWkX"
+      "duration_ms": 186222,
+      "name": "Assumptions - Jengi Remix",
+      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "A Bit Patchy (Remixes)",
-        "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI"
-        },
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 460000,
-      "name": "A Bit Patchy - Eric Prydz Remix",
-      "url": "https://open.spotify.com/track/5JArDbrDlZPae70oqyVQov"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Hesitate",
         "url": "https://open.spotify.com/album/0EhaeKTqnZsIiEWP67UGbI"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 173452,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/7kyXS2RXrPg7K6pbHZjJ7i"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "A Bit Patchy (Remixes)",
+        "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI"
+        },
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 460000,
+      "name": "A Bit Patchy - Eric Prydz Remix",
+      "url": "https://open.spotify.com/track/5JArDbrDlZPae70oqyVQov"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2211,22 +2211,18 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Amor Essencial EP",
-        "url": "https://open.spotify.com/album/1wBROVXVwgjVHIlhPzaefd"
+        "name": "Gotta Dance",
+        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
       },
       "artists": [
         {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
-        },
-        {
-          "name": "Iara (BR)",
-          "url": "https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 389291,
-      "name": "Amor Essencial",
-      "url": "https://open.spotify.com/track/03Ly63bYBIXRRi5CRtrMXX"
+      "duration_ms": 197796,
+      "name": "Gotta Dance",
+      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2251,18 +2247,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Gotta Dance",
-        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
+        "name": "Amor Essencial EP",
+        "url": "https://open.spotify.com/album/1wBROVXVwgjVHIlhPzaefd"
       },
       "artists": [
         {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        },
+        {
+          "name": "Iara (BR)",
+          "url": "https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv"
         }
       ],
-      "duration_ms": 197796,
-      "name": "Gotta Dance",
-      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
+      "duration_ms": 389291,
+      "name": "Amor Essencial",
+      "url": "https://open.spotify.com/track/03Ly63bYBIXRRi5CRtrMXX"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "OOH",
-        "url": "https://open.spotify.com/album/4buhxinCoBiAx52a6OQBSj"
-      },
-      "artists": [
-        {
-          "name": "Roog",
-          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "OOH",
-      "url": "https://open.spotify.com/track/2gDPHig3qqmQAirerz12yd"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Tell You What It Is (Shermanology SoulTec Mix)",
         "url": "https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 219375,
       "name": "Tell You What It Is - Shermanology SoulTec Mix",
       "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "OOH",
+        "url": "https://open.spotify.com/album/4buhxinCoBiAx52a6OQBSj"
+      },
+      "artists": [
+        {
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+        }
+      ],
+      "duration_ms": 172384,
+      "name": "OOH",
+      "url": "https://open.spotify.com/track/2gDPHig3qqmQAirerz12yd"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2815,22 +2815,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/3dTfmlo34vmVlv9Zk1Jgc1"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/5d5VMeHx2y623Ejj5JHC8m"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "HOUSE",
         "url": "https://open.spotify.com/album/2JqgwH2ZRmGhnwRJU4HWbi"
       },
@@ -2847,6 +2831,22 @@
       "duration_ms": 342136,
       "name": "HOUSE - Original Mix",
       "url": "https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/3dTfmlo34vmVlv9Zk1Jgc1"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/5d5VMeHx2y623Ejj5JHC8m"
     },
     {
       "added_at": "2023-08-24 22:00:00",

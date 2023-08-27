@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 156802,
+  "num_followers": 156930,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWNhNTM2Mzc2MDkxYzFjMDNmMmQ5N2JhY2M1YmM4OThkYjU3NDA2",
+  "snapshot_id": "MCxiZjhhYWYxNzE1NTYzM2FjY2QyMDMwYTM2ODdmNTRhNWU4MGVjOWE1",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "My Life Would Suck Without You",
-      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "The Invisible Band",
         "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 228800,
       "name": "Sing",
       "url": "https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "My Life Would Suck Without You",
+      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "The Invisible Invasion",
+        "url": "https://open.spotify.com/album/1PioHkWD8fyM5UhrzxMQkS"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "duration_ms": 152520,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/3q7D4kfMcju2alVibiUAcz"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Something to Be",
         "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Invisible Invasion",
-        "url": "https://open.spotify.com/album/1PioHkWD8fyM5UhrzxMQkS"
+        "name": "American Hi-Fi",
+        "url": "https://open.spotify.com/album/418rqqXvvFf4XXlU2cQWck"
       },
       "artists": [
         {
-          "name": "The Coral",
-          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+          "name": "American Hi-Fi",
+          "url": "https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP"
         }
       ],
-      "duration_ms": 152520,
-      "name": "In the Morning",
-      "url": "https://open.spotify.com/track/3q7D4kfMcju2alVibiUAcz"
+      "duration_ms": 188866,
+      "name": "Flavor Of The Weak",
+      "url": "https://open.spotify.com/track/5wjQihzWIKgBc1hzf5work"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1351,22 +1367,6 @@
       "duration_ms": 222440,
       "name": "Into the Night (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/5Hv1QAbRWrUSUHaT0CmnMS"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "American Hi-Fi",
-        "url": "https://open.spotify.com/album/418rqqXvvFf4XXlU2cQWck"
-      },
-      "artists": [
-        {
-          "name": "American Hi-Fi",
-          "url": "https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "Flavor Of The Weak",
-      "url": "https://open.spotify.com/track/5wjQihzWIKgBc1hzf5work"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Little Wonders",
-        "url": "https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Little Wonders",
-      "url": "https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1ISFv3wJNEj1DxP64UWEMO"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "Little Wonders",
+        "url": "https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Little Wonders",
+      "url": "https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Reveal",
         "url": "https://open.spotify.com/album/43goi7G5yXOoI7bLaowtpy"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 236626,
       "name": "Imitation Of Life",
       "url": "https://open.spotify.com/track/32kmXl5F8I3XDVKNfwwM4J"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "Something to Be",
-        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Ever the Same",
-      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "Chariot - Stripped",
+        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/08kTO4EW0jb07zNsCNM83w"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Kris Allen",
         "url": "https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 212506,
       "name": "Live Like We're Dying",
       "url": "https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "Cradlesong",
-        "url": "https://open.spotify.com/album/72aNaOna8AV0GZADXRbFlX"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Her Diamonds",
-      "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1623,6 +1607,22 @@
       "duration_ms": 181613,
       "name": "So Long Goodbye",
       "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Day & Age (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "I Can't Stay",
+      "url": "https://open.spotify.com/track/2zdpz8sk3rkh0fLYabLjmj"
     }
   ],
   "unique_name": "00s Pop Rock",

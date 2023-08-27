@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,745 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,230 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Bloqué \- Tableau n°2](https://open.spotify.com/track/1xD2uyZqKFAtP4sFb5azYt) | [Dr\. Yaro & La Folie](https://open.spotify.com/artist/7lR8WBYvyK9iTHuv5HwUpe) | [Bloqué \(Tableau n°2\)](https://open.spotify.com/album/5ZBphS1rQyDJgijNZWAjqr) | 2:32 |
 | 50 | [Chop Time, No Friend](https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Chop Time, No Friend](https://open.spotify.com/album/7lwDFyzcdCZpjUzpDku6dY) | 2:48 |
 
-Snapshot ID: `MCwyNGM1NDAxMmVlMzAwYzFhZDM1ZmI0YTMwZjA4MWU3ODJjODU5N2E3`
+Snapshot ID: `MCw0NWVkNWYxMjk0ZDNjYzM3YmQ2ZWFlMzg0ODZjMzIxNGNiNmVjNjU2`

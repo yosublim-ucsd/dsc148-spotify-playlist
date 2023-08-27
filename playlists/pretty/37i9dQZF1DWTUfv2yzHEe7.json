@@ -1,12 +1,12 @@
 {
   "description": "All 00s, all dance! Cover - Dostana",
-  "num_followers": 292157,
+  "num_followers": 292446,
   "original_name": "00's Dance Bollywood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmYxMDk2ZjFkZjY2NzBjNDgxZmQ3ZGI5YjMyNzllNjc1NzE3ODVi",
+  "snapshot_id": "MCwwMzc0YzQ1YjAxMzgzNzNkMzA2ZmE0YWVjNDM5OTgyMDcwMDhlNmQ0",
   "tracks": [
     {
       "added_at": "2023-06-08 09:51:16",
@@ -83,6 +83,26 @@
       "duration_ms": 236973,
       "name": "Kambakth Ishq - Remix Version",
       "url": "https://open.spotify.com/track/15jGFMQXdmlpQeeSes9UgC"
+    },
+    {
+      "added_at": "2023-06-08 09:51:16",
+      "album": {
+        "name": "Bhool Bhulaiyaa",
+        "url": "https://open.spotify.com/album/4BKbiFqwZBaBG6MeDdkwID"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        }
+      ],
+      "duration_ms": 325033,
+      "name": "Bhool Bhulaiyaa",
+      "url": "https://open.spotify.com/track/6CCV7FeYgEQ7Ekbes6B36Q"
     },
     {
       "added_at": "2023-06-08 09:51:16",

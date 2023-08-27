@@ -831,6 +831,28 @@
     },
     {
       "album": {
+        "name": "Falala",
+        "url": "https://open.spotify.com/album/0LvzPRBuV6iLGBBuSLtP8u"
+      },
+      "artists": [
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176482,
+      "name": "Falala",
+      "url": "https://open.spotify.com/track/64VQFnOF4na9PpqsSeg36E"
+    },
+    {
+      "album": {
         "name": "Favor",
         "url": "https://open.spotify.com/album/6X2gMqX3ExUhv24Z9v8X7D"
       },
@@ -2444,7 +2466,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 299999,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz"

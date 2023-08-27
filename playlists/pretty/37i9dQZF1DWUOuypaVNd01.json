@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 32193,
+  "num_followers": 32202,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjlmZjg2MjJlZTU3YjMyNGE4MDBmNjI2YjQ4MzAzNjdjMzM0MmQx",
+  "snapshot_id": "MCw4ODUzYjU1YWVjY2M2ZjdkNDJkNzRiMGNiOWY1MTg5ZTE4NDU3NGQy",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Uma Fase",
-        "url": "https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY"
-      },
-      "artists": [
-        {
-          "name": "Afree",
-          "url": "https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s"
-        },
-        {
-          "name": "Volpato",
-          "url": "https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl"
-        }
-      ],
-      "duration_ms": 198063,
-      "name": "Uma Fase",
-      "url": "https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Diretamente do Rio",
         "url": "https://open.spotify.com/album/2Oqh0XdTGpSthDH8fuOyu8"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 183529,
       "name": "Diretamente do Rio",
       "url": "https://open.spotify.com/track/39iYTBGec9n0kaPn9eJggw"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Uma Fase",
+        "url": "https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY"
+      },
+      "artists": [
+        {
+          "name": "Afree",
+          "url": "https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s"
+        },
+        {
+          "name": "Volpato",
+          "url": "https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl"
+        }
+      ],
+      "duration_ms": 198063,
+      "name": "Uma Fase",
+      "url": "https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD"
     }
   ],
   "unique_name": "Malandro Posturado",

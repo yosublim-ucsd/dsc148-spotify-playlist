@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,852 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,895 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 60 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
 | 61 | [A Little Respect \- Live in Nashville](https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk) | 3:38 |
 | 62 | [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 |
-| 63 | [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 |
-| 64 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 |
+| 63 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 |
+| 64 | [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 |
 | 65 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 |
 | 66 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 |
 | 67 | [Always on My Mind \- Live at the O2 Arena, London \- 21 December 2009](https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Pandemonium \(Live at the O2 Arena, London \- 21 December 2009\)](https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Hung Up \- Live](https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour](https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3) | 9:50 |
 | 100 | [Say You'll Be There \- Live From Abdi İpekçi Arena, Istanbul, Turkey/1997](https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Viva Forever](https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ) | 4:26 |
 
-Snapshot ID: `MCxjOWQyMDQ4MDJlN2E1ZWU4OGM0YjAxYTZjNWUxNWMzZTQ4YzYyNmZm`
+Snapshot ID: `MCw2MTIwMTc3OTIyMDU1MDBmNWM1OWJlNjAwZWJmN2EyYWVjM2FiYzM5`

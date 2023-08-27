@@ -4,7 +4,7 @@
 
 > Funk \- new and old \- to accompany your drive.
 
-102 songs - 7 hr 27 min
+103 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Dance Or Die](https://open.spotify.com/track/0hu9PvLPvTRPH30JsoPhPd) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf), [Anna Brooks](https://open.spotify.com/artist/6bTX69msG9jlBTTFcwgtpV) | [Funk Ain't Ova](https://open.spotify.com/album/090mBdNZpmAl9P2fhOpdmM) | 4:56 | 2019-08-22 |  |
 | [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 | 2019-08-22 |  |
 | [Death Or Devotion](https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 4:25 | 2019-08-22 |  |
-| [Devon](https://open.spotify.com/track/5AGKCPnzHCxHvdDwqJ03PD) | [Run N' Fly](https://open.spotify.com/artist/5KWICgITIWooJ8XteleAS3) | [Run n' Fly](https://open.spotify.com/album/6drXWj82IEZkc13NIBtsLw) | 4:41 | 2019-08-22 |  |
+| [Devon](https://open.spotify.com/track/5AGKCPnzHCxHvdDwqJ03PD) | [Run N' Fly](https://open.spotify.com/artist/5KWICgITIWooJ8XteleAS3) | [Run n' Fly](https://open.spotify.com/album/6drXWj82IEZkc13NIBtsLw) | 4:41 | 2019-08-22 | 2023-08-27 |
 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 | 2019-08-22 |  |
 | [Do It](https://open.spotify.com/track/79t0exFoQU0jlcpBLJrqes) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:18 | 2019-08-22 |  |
 | [Do It Like You Do](https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Fly](https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy) | 4:11 | 2019-08-22 |  |
@@ -55,6 +55,7 @@
 | [I Don't Believe You Want To Get Up And Dance \(Oops, Up Side Your Head\)](https://open.spotify.com/track/7l0nTXAz0gzUkKBU2EXP4G) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Greatest Hits](https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4) | 3:31 | 2019-08-22 |  |
 | [I'll Be With You](https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Ugly Ego](https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8) | 4:23 | 2019-08-22 |  |
 | [I'm Your Biggest Fan](https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes & Badgers](https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY) | 3:36 | 2019-08-22 | 2023-08-11 |
+| [I'm Your Biggest Fan](https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes and Badgers](https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr) | 3:36 | 2019-08-22 |  |
 | [If It Ain't Funky Back It Up, Pt\. 1](https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [If It Ain't Funky Back It Up](https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5) | 2:33 | 2019-08-22 |  |
 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2019-08-22 |  |
 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 | 2019-08-22 |  |

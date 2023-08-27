@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-379 songs - 21 hr 45 min
+380 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [do\-re\-mi\-fa\-so\-la\-ti\-do](https://open.spotify.com/track/6MDBkIEBEodrBPG5CPb8IG) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:34 | 2022-01-07 |  |
 | [Dolph's Aerobics 2020](https://open.spotify.com/track/3OmBBXU2eyxqgDy314Tcoj) | [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [Rymdkraft](https://open.spotify.com/artist/2PA8UtTP897oYGZhUEyGpg) | [Dolph's Aerobics 2020](https://open.spotify.com/album/6ERNyHn1YeHX4GHqanxvcl) | 2:19 | 2022-01-07 | 2022-07-28 |
 | [Don't Need You](https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Don't Need You](https://open.spotify.com/album/76yfAYufLuG6wYQRRnJTx5) | 3:17 | 2022-01-07 |  |
-| [Dracodraco](https://open.spotify.com/track/1989YquYFYsPa4PutqJunf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Dracodraco](https://open.spotify.com/album/13YQaMzrLZziaj9PgpQppO) | 4:19 | 2022-01-07 |  |
+| [Dracodraco](https://open.spotify.com/track/1989YquYFYsPa4PutqJunf) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Dracodraco](https://open.spotify.com/album/13YQaMzrLZziaj9PgpQppO) | 4:19 | 2022-01-07 | 2023-08-27 |
 | [DRAG](https://open.spotify.com/track/1E7ziN1yrE18pJ55ech2XR) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [DRAG](https://open.spotify.com/album/6qItSBH2995bdjIe0qdoZx) | 3:15 | 2022-04-15 | 2022-07-28 |
 | [Dragonflame](https://open.spotify.com/track/5YT0Pjym5S1kgZoUdOMZU3) | [Kirara Magic](https://open.spotify.com/artist/7IPe93LySFSStLX4J5j5Lr) | [Dragonflame](https://open.spotify.com/album/5yV6JmK0w8b7BMt29lJ42k) | 3:18 | 2023-01-06 |  |
 | [DREADED NOTE](https://open.spotify.com/track/0ysOmEVVYJjenh64P5dN3l) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [DREADED NOTE](https://open.spotify.com/album/3yhKVJspZP2p9T76PPQxTp) | 3:19 | 2022-02-11 | 2022-07-16 |
@@ -305,6 +305,7 @@
 | [Shine](https://open.spotify.com/track/76FR3MBARic3eh86RQjubB) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Shine](https://open.spotify.com/album/0omuuALyVUOzng14lYzWXi) | 3:45 | 2022-01-07 |  |
 | [Shining Star](https://open.spotify.com/track/5dKZd2yHkWuPAPRRPgqUiF) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [Shining Star](https://open.spotify.com/album/6KpouJSne56JYW0CnvH83b) | 5:22 | 2022-03-11 | 2022-04-23 |
 | [Shy Guy Beach](https://open.spotify.com/track/5ijS06iISEy4sWLN78BQpR) | [LAMEBOT](https://open.spotify.com/artist/3JKuaX35gCpazGcXeLaScA) | [Shy Guy Beach](https://open.spotify.com/album/2szEfAXYwk0yJsh4o6KzBo) | 2:57 | 2022-01-07 | 2022-07-29 |
+| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-25 |  |
 | [Silence](https://open.spotify.com/track/2ezhpsQj2wNPjOKC1oh1PB) | [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI), [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Silence](https://open.spotify.com/album/5hm09HsXv0q2SaarsbxVLQ) | 2:25 | 2022-07-14 | 2023-05-13 |
 | [Silence](https://open.spotify.com/track/7uESPYfdmMUaZCRFhw7Em6) | [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI), [Josh Bogert](https://open.spotify.com/artist/2MbO01KZTMshiRXcOLo88R) | [Silence](https://open.spotify.com/album/3IygZmlcrvGKazIInbITuV) | 2:25 | 2022-01-07 | 2022-04-13 |
 | [Silver Lining](https://open.spotify.com/track/0RfwOCCfixdYgdgQcEjw4G) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV) | [Silver Lining](https://open.spotify.com/album/3qpkXNBQQSP7DAYeBSOpnW) | 2:27 | 2022-01-07 |  |

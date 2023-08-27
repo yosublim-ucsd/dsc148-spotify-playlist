@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 94100,
+  "num_followers": 94167,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTQ2Y2MxMDg2Yjk0NGRmM2NjOTIzNmM0YzdjYjM1OWU0NTA3ZDQ1",
+  "snapshot_id": "MCw4NmFkMDFhNTExMDY5MzlmMmQyOGU2YjI0NTkwMzVhOGJiZjZhZjhm",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Gasper Lawal",
-          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
-        }
-      ],
-      "duration_ms": 360800,
-      "name": "Kita Kita",
-      "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "It's About Time",
@@ -507,6 +491,22 @@
       "duration_ms": 339000,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/1m9z5GSmXqjafOYlHQVzlC"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Gasper Lawal",
+          "url": "https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Kita Kita",
+      "url": "https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
-      "album": {
-        "name": "XX - Celebrating 20 Years Of Kalawa Jazmee",
-        "url": "https://open.spotify.com/album/2tOX9Qfl3lZcc8JlWEiokT"
-      },
-      "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Thathi Sgubu",
-      "url": "https://open.spotify.com/track/2OCDwRtjbmAVZaiF93pDn3"
-    },
-    {
       "added_at": "2019-06-28 16:54:51",
       "album": {
         "name": "I Like Your Style",
@@ -627,6 +611,22 @@
       "duration_ms": 483986,
       "name": "Alo Mi Alo (Parts 1 & 2)",
       "url": "https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4"
+    },
+    {
+      "added_at": "2020-04-07 09:19:20",
+      "album": {
+        "name": "XX - Celebrating 20 Years Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/2tOX9Qfl3lZcc8JlWEiokT"
+      },
+      "artists": [
+        {
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+        }
+      ],
+      "duration_ms": 320240,
+      "name": "Thathi Sgubu",
+      "url": "https://open.spotify.com/track/2OCDwRtjbmAVZaiF93pDn3"
     },
     {
       "added_at": "2019-06-28 16:54:51",

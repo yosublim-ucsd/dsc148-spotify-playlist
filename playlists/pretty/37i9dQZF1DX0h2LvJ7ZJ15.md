@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,205 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,512 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 26 | [LOOK DON'T TOUCH \- Slowed & Reverbed](https://open.spotify.com/track/2xLCNc9jc87ujLXnG7wYM4) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LOOK DON'T TOUCH \(STARE STARE STARE\)](https://open.spotify.com/album/3quZlwSsK1qyhiwqLx95te) | 2:37 |
 | 27 | [drowning \(slowed + reverb\)](https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning \(remixes\)](https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd) | 2:12 |
 | 28 | [It's Ok \- Slowed](https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [It's Ok \(Slowed\)](https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj) | 3:34 |
-| 29 | [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg) | 4:39 |
-| 30 | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1) | 2:21 |
+| 29 | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(slowed + reverb\)](https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1) | 2:21 |
+| 30 | [Renegade \- \(Slowed + Reverb\)](https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [The Arrival: Part I \(Slowed + Reverb\)](https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg) | 4:39 |
 | 31 | [Sahara \- Slowed](https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara \(Slowed\)](https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw) | 3:34 |
 | 32 | [Living Life, In The Night \- slowed](https://open.spotify.com/track/5kcNmFn1llGqEw6tAKq1IQ) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Living Life, In The Night \(slowed\)](https://open.spotify.com/album/6NoezhYM82PEROFIrhLIDY) | 2:21 |
 | 33 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Unstoppable \- Slowed & Reverb](https://open.spotify.com/track/6UvgVaHDtycFqUM1LPxhxu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Unstoppable \(The Remixes\)](https://open.spotify.com/album/0o83iaAMM8MAPQ1LivQbtU) | 4:12 |
 | 50 | [Tard le soir..](https://open.spotify.com/track/6SKUWBbE7N8TfymEPgW7fX) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3) | [Tard le soir..](https://open.spotify.com/album/4nJ2ISjg5obAlwFWDd8EAL) | 2:25 |
 
-Snapshot ID: `MCw5ZWU0Y2E3Njc5ZTQzY2ZiYWM1OGY4YjczNmU5YjBhNDBjNjYwNWFl`
+Snapshot ID: `MCw2YjJmY2EzYjM2NmY0ODQ0YjUzNGEyYjgxNzQxYmY3NjYzMDc5MGNm`

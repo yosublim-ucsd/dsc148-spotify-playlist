@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 186576,
+  "num_followers": 186682,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjIwNzI5Y2ViMWE0ZjRhODEwOTRjMzMyZmIwZDdjN2Q0MjZlMWVl",
+  "snapshot_id": "MCwwN2E3MGEyZDlkY2ZlMzdkZjE0ZDllNjA5MDRkODY2Y2Q3ZGM4Yjg2",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Forest Fires",
-        "url": "https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 210924,
-      "name": "Forest Fires",
-      "url": "https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Beneath The Skin",
         "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 243520,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Forest Fires",
+        "url": "https://open.spotify.com/album/7AabGPOL1FA2NO2ge0vtn9"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 210924,
+      "name": "Forest Fires",
+      "url": "https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "Mornings and Afternoons",
+        "url": "https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF"
+      },
+      "artists": [
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        },
+        {
+          "name": "La Comitiva",
+          "url": "https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh"
+        }
+      ],
+      "duration_ms": 168556,
+      "name": "Mornings and Afternoons",
+      "url": "https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -771,6 +791,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "Tell Me About It",
+        "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
+      },
+      "artists": [
+        {
+          "name": "thea wang",
+          "url": "https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Tell Me About It",
+      "url": "https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Svarteboka",
         "url": "https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC"
       },
@@ -787,22 +823,6 @@
       "duration_ms": 240360,
       "name": "Svarteboka",
       "url": "https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Tell Me About It",
-        "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
-      },
-      "artists": [
-        {
-          "name": "thea wang",
-          "url": "https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Tell Me About It",
-      "url": "https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -887,6 +907,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "I Saw Her from Here / I Saw Here",
+        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
+      },
+      "artists": [
+        {
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "When the Mourning Comes",
+      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Jag \u00e4r sen igen",
         "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
       },
@@ -907,22 +943,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "I Saw Her from Here / I Saw Here",
-        "url": "https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI"
-      },
-      "artists": [
-        {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "When the Mourning Comes",
-      "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Unknown / (It's Not About) Running",
         "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
       },
@@ -935,22 +955,6 @@
       "duration_ms": 246316,
       "name": "(It's Not About) Running",
       "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Poetry & Airplanes",
-        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
-      },
-      "artists": [
-        {
-          "name": "Teitur",
-          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "I Was Just Thinking",
-      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -975,22 +979,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Joni Was Right Pt. II",
-        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 200262,
-      "name": "Bluebelle Mountain",
-      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "i went outside",
         "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
       },
@@ -1003,6 +991,22 @@
       "duration_ms": 293400,
       "name": "i went outside",
       "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Poetry & Airplanes",
+        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
+      },
+      "artists": [
+        {
+          "name": "Teitur",
+          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "I Was Just Thinking",
+      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
     }
   ],
   "unique_name": "Nordic Folk",

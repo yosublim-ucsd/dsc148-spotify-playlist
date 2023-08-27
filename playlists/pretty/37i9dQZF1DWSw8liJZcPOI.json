@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 39200,
+  "num_followers": 39379,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzJhNzUyMTk4Yzk5YjAyYTg2ZmMyY2VlYzAwNTIyODkwNjQxYmE3",
+  "snapshot_id": "MCwyYjUwOTBmMDM0NjJkMTVkZDJmM2QxNDE4ZDg1MWIyYmE2YzhkODJm",
   "tracks": [
     {
       "added_at": "2023-08-11 04:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "Coalescence",
         "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
       },
@@ -335,38 +351,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
-      },
-      "artists": [
-        {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Balcony Hotel (From 'Miss')",
-        "url": "https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 168398,
-      "name": "Balcony Hotel - From 'Miss'",
-      "url": "https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Bylur",
         "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
+        "name": "Balcony Hotel (From 'Miss')",
+        "url": "https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz"
       },
       "artists": [
         {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
         }
       ],
-      "duration_ms": 182836,
-      "name": "Chasing the Present",
-      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
+      "duration_ms": 168398,
+      "name": "Balcony Hotel - From 'Miss'",
+      "url": "https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 182836,
+      "name": "Chasing the Present",
+      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "The Turning Year",
         "url": "https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX"
       },
@@ -435,6 +435,30 @@
       "duration_ms": 160089,
       "name": "The Turning Year",
       "url": "https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+        }
+      ],
+      "duration_ms": 123251,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -471,30 +495,6 @@
       "duration_ms": 291000,
       "name": "Still / Sound \u2013 piano reworks",
       "url": "https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        },
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
-        }
-      ],
-      "duration_ms": 123251,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "No Ball Games (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
+      },
+      "artists": [
+        {
+          "name": "Patrick Jonsson",
+          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "No Ball Games (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "Under the Stars",
         "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 151402,
       "name": "Under the Stars",
       "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "No Ball Games (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
-      },
-      "artists": [
-        {
-          "name": "Patrick Jonsson",
-          "url": "https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "No Ball Games (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/7ffWqewr8cBD1t7f87sAU3"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "CRISALIDE",
-        "url": "https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2"
-      },
-      "artists": [
-        {
-          "name": "Puppi",
-          "url": "https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "CRISALIDE 6",
-      "url": "https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Modulations: EP2",
         "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 201335,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "CRISALIDE",
+        "url": "https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2"
+      },
+      "artists": [
+        {
+          "name": "Puppi",
+          "url": "https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "CRISALIDE 6",
+      "url": "https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
+        "name": "Sensibus",
+        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 392791,
+      "name": "Klass",
+      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
         "name": "As I Was (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 305691,
       "name": "As I Was - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Sensibus",
-        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 392791,
-      "name": "Klass",
-      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1243,38 +1243,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "In Cold Light",
-      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Tripping with Nils Frahm",
-        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 368668,
-      "name": "My Friend the Forest",
-      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
         "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
       },
@@ -1311,6 +1279,38 @@
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Tripping with Nils Frahm",
+        "url": "https://open.spotify.com/album/1NbOBXUF862DsBNF5byxzh"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 368668,
+      "name": "My Friend the Forest",
+      "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1455,38 +1455,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Postcards for the Backyard, Pt. 1",
-        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
-      },
-      "artists": [
-        {
-          "name": "Neighborhood Libraries",
-          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
-        }
-      ],
-      "duration_ms": 240331,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Berceuse",
-        "url": "https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 127147,
-      "name": "Berceuse",
-      "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/4qI8w8FNN2WloEl7uYhLPZ"
       },
@@ -1507,18 +1475,34 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU"
       },
       "artists": [
         {
-          "name": "Thomas Farnon",
-          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         }
       ],
-      "duration_ms": 232000,
-      "name": "A",
-      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
+      "duration_ms": 127147,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "Postcards for the Backyard, Pt. 1",
+        "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "duration_ms": 240331,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1535,6 +1519,22 @@
       "duration_ms": 145333,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "A",
+      "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 184389,
-      "name": "Time Out",
-      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
       },
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2023-08-11 04:01:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+        "name": "Open",
+        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
       },
       "artists": [
         {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
         }
       ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+      "duration_ms": 184389,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -1687,6 +1671,22 @@
       "duration_ms": 289210,
       "name": "hundred00",
       "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
     },
     {
       "added_at": "2023-08-11 04:01:00",

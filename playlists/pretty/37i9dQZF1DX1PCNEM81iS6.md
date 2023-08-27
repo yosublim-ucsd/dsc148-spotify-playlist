@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,226 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,284 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 16 | [ファントムライツ](https://open.spotify.com/track/2AOKmdBjUyXoxXdznUGHzO) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [LAYERING](https://open.spotify.com/album/0zkDqUmXN5wclz5CtXr3ey) | 3:50 |
 | 17 | [Brand new diary](https://open.spotify.com/track/4aSzSvyXczlaKMxQs3rbGh) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Brand new diary](https://open.spotify.com/album/6mHldINrJuMkqF9uGRTOsA) | 4:08 |
 | 18 | [僕の中の君へ](https://open.spotify.com/track/4hakLbSjyQFDd77vFJ6EuT) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [コトバアソビ](https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N) | 4:46 |
-| 19 | [カモナ・テンペスト!](https://open.spotify.com/track/1C1afAVzxCeRp77qYKs06l) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa), [大賢者 \(CV.豊口めぐみ\)](https://open.spotify.com/artist/6tDkmqVwpLXCFlLVLeR57d), [ヴェルドラ \(CV.前野智昭\)](https://open.spotify.com/artist/7ew672ZVlQDMzCgL0YrfOz), [シュナ \(CV.千本木彩花\)](https://open.spotify.com/artist/6XhyB9N3gjFRogJAjXq6YF), [シオン \(CV.M・A・O\)](https://open.spotify.com/artist/6K9Z1NbT4m9YWz2obskNwV), [ランガ \(CV.小林親弘\)](https://open.spotify.com/artist/2G2gEWJrkuAjSj69lefwLh), [ゴブタ \(CV.泊 明日菜\)](https://open.spotify.com/artist/6VSzjJS6Yv4VfvDECS3TOU) | [カモナ・テンペスト!/おやすみオレンジ](https://open.spotify.com/album/3WqqIxRHTGcAPg9TlFUWUP) | 3:46 |
-| 20 | [おやすみオレンジ](https://open.spotify.com/track/27moDRtTrQ7TV7ePsIDxhp) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [カモナ・テンペスト!/おやすみオレンジ](https://open.spotify.com/album/3WqqIxRHTGcAPg9TlFUWUP) | 4:13 |
+| 19 | [カモナ・テンペスト！](https://open.spotify.com/track/1C1afAVzxCeRp77qYKs06l) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa), [大賢者 \(CV.豊口めぐみ\)](https://open.spotify.com/artist/6tDkmqVwpLXCFlLVLeR57d), [ヴェルドラ \(CV.前野智昭\)](https://open.spotify.com/artist/7ew672ZVlQDMzCgL0YrfOz), [シュナ \(CV.千本木彩花\)](https://open.spotify.com/artist/6XhyB9N3gjFRogJAjXq6YF), [シオン \(CV.M・A・O\)](https://open.spotify.com/artist/6K9Z1NbT4m9YWz2obskNwV), [ランガ \(CV.小林親弘\)](https://open.spotify.com/artist/2G2gEWJrkuAjSj69lefwLh), [ゴブタ \(CV.泊 明日菜\)](https://open.spotify.com/artist/6VSzjJS6Yv4VfvDECS3TOU) | [カモナ・テンペスト！／おやすみオレンジ](https://open.spotify.com/album/3WqqIxRHTGcAPg9TlFUWUP) | 3:46 |
+| 20 | [おやすみオレンジ](https://open.spotify.com/track/27moDRtTrQ7TV7ePsIDxhp) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [カモナ・テンペスト！／おやすみオレンジ](https://open.spotify.com/album/3WqqIxRHTGcAPg9TlFUWUP) | 4:13 |
 | 21 | [Christmas Festa](https://open.spotify.com/track/2u9ZkOqabUWo3l40GZzHsJ) | [エレン \(CV.熊田茜音\)](https://open.spotify.com/artist/3i81AuhpyO1tp12Il9CyWg) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 4:25 |
 | 22 | [ヨイハナビ](https://open.spotify.com/track/2FI3B2J9G4TwaTXvJKMLgz) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 4:07 |
 | 23 | [朝の風景](https://open.spotify.com/track/0d1n5R2IWGsjO9uoakuNer) | [R・O・N](https://open.spotify.com/artist/14MDqemzhk7M5an3b4Kjrn) | [TVアニメ『転生したらスライムだった件 転スラ日記』オリジナルサウンドトラック「転生したら日記の音楽だった件」](https://open.spotify.com/album/6wgKf4HmPJf7uD4s77p0xw) | 1:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 39 | [友情](https://open.spotify.com/track/5G2lRkV6JP2G7IhqCoaBZo) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 2:18 |
 | 40 | [繁栄](https://open.spotify.com/track/2LfIliPTd16k4z43kUWhtm) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/5jFRupPXHSyREGzQwWiYSC) | 1:26 |
 
-Snapshot ID: `MCw5ZDI3ZDViODI1YWUyMmJhZWQ1NTA4MzFmMmJkZDJkMjViOWY0OWRi`
+Snapshot ID: `MCw5MzA1NDE5NzE0YTdiMWUxMGViYjRiZGRlMGQ1YTNlOTZjYzUxMTI3`

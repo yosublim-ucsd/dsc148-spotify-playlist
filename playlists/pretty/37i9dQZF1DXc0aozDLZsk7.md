@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,985 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,006 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 79 | [I Don't Want to Lose You](https://open.spotify.com/track/5ACkbnySkKbqxtHHa6xA7G) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [I Don't Want to Lose You](https://open.spotify.com/album/4vup2NwhCuj9aIa2RaKsd6) | 2:51 |
 | 80 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 |
 
-Snapshot ID: `MCw3MTMwYjUyY2JhZDAxMTA0OTg5ZmMyY2NlMWQ4MWEzYTUzZjk5Njk5`
+Snapshot ID: `MCwxZGRkMDM4MGI2MGU4MTJiNGI2MjIwZmM5MzJiMDI2M2M2M2RlODQ0`

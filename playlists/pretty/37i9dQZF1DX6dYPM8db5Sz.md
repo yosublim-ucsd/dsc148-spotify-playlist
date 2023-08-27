@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=mKOWBBpATXuts\_bjK1xP5w">Internet Girl</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,639 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,644 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Broken Men Break Hearts](https://open.spotify.com/track/1IteeLB8afKqgGWmwHCRh7) | [Gothe](https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN) | [Broken Men Break Hearts](https://open.spotify.com/album/6eOWQkD5omHOX8HXHBR5i9) | 4:35 |
 | 50 | [Soulution](https://open.spotify.com/track/17TVv0cnaYnwEZ2qTDnILA) | [Alibi Friday](https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg) | [Soulution](https://open.spotify.com/album/44ROe9Rx3omI90s5lK6I5k) | 3:34 |
 
-Snapshot ID: `MCw5YTM3ZDMxMmU5OWFmMzY4NDYzMDM4NGZhZmRjZTcxYzg1OTRkNzNk`
+Snapshot ID: `MCwxY2IwMGJmZTNhNjY4ZDdhYWNjOWU2MzNmMjYxOGZkZTFmZWY2YWQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YERIN\(예린\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,599 likes - 145 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,849 likes - 145 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 27 | [언제까지나](https://open.spotify.com/track/4SdPFQpbR8RT6nVCxjK7En) | [범진](https://open.spotify.com/artist/61joaXlUyUjudsQ5bSOqvX) | [무념무상](https://open.spotify.com/album/3h5ElorSED7qFatsGmdbe6) | 3:31 |
 | 28 | [Fake Love \(feat\. HOWLER & MALITABU\)](https://open.spotify.com/track/5CLdBVHUplSuucGeN8I7u4) | [Chillin Boi G](https://open.spotify.com/artist/48RuBUKIur5QpC6tvzuVh4), [HOWLER](https://open.spotify.com/artist/5IYAX4BtvKfgcdncdzZecC), [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb) | [Fake Love](https://open.spotify.com/album/7i4Xfw79qE99Vq02aXmH99) | 3:30 |
 | 29 | [All Comes Down \(Feat\. Owen\)](https://open.spotify.com/track/4F3AoKJcGNsMrIo1MHgpUt) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [J\-Path](https://open.spotify.com/artist/4VDrr3C1YL3EMxZrXIcPYL), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [50/50](https://open.spotify.com/album/6QV0XqMnPjCamEBhAeWvzN) | 3:27 |
-| 30 | [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 |
+| 30 | [SUM](https://open.spotify.com/track/4wko7gzqHwAsEpiWqRuQ4W) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/4iGdpTiBgSDzwHaR2pNHgK) | 5:24 |
 | 31 | [STILL ALIVE](https://open.spotify.com/track/6USJbWgMkLIL5vYWM9H75g) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [STILL ALIVE](https://open.spotify.com/album/4c8K4QxvsUCIq1lCrLripn) | 2:31 |
 | 32 | [Unbeatable](https://open.spotify.com/track/0m8tFKjRmnFPtTk8URIWw2) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [Frame the Blueprint: Prelude to Possibilities](https://open.spotify.com/album/5HvSTx0dsyBNEvu6JGq4wR) | 3:04 |
 | 33 | [TROUBLE](https://open.spotify.com/track/4pTg0UNSMFtyci3gQuFkBE) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [TROUBLE](https://open.spotify.com/album/556ayen8dgZHF7VXIElwec) | 2:35 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 92 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 93 | [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 |
 | 94 | [Rainbow](https://open.spotify.com/track/3TiRsUuQKPBwqq8Ly0NnC2) | [Dancing Queens On the Road](https://open.spotify.com/artist/3Ly5uxWBftvFLsWMtR3UER) | [Dancing Queens On the Road \(Original Soundtrack\)](https://open.spotify.com/album/7t7m1WuhV8h3hy7xXmr2El) | 3:08 |
-| 95 | [Tender \(feat\. 이바다\)](https://open.spotify.com/track/5HheGbEKg7UuvKzIHWCFU0) | [OHDAMRYUL](https://open.spotify.com/artist/2ynlAd8SCLw1JH8oiRrXqE), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Tender \(feat\. 이바다\)](https://open.spotify.com/album/725vddUjKbNEu6I8wGAsEI) | 3:05 |
+| 95 | [Tender \(feat\. 이바다\)](https://open.spotify.com/track/5HheGbEKg7UuvKzIHWCFU0) | [OHDAMRYUL](https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi), [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Tender \(feat\. 이바다\)](https://open.spotify.com/album/725vddUjKbNEu6I8wGAsEI) | 3:05 |
 | 96 | [Number One \(feat\. Skinny Brown\)](https://open.spotify.com/track/5MiakoiNuTS9Z3fBgU5jLP) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Final Fantasy](https://open.spotify.com/album/2mVdiLyG6CZkSz8pAPwO1e) | 3:25 |
 | 97 | [Diving \(Feat\. Nochang\)](https://open.spotify.com/track/4pG9XOyy4aJd5J08Wab3CE) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO) | [Diving](https://open.spotify.com/album/2lONskv5bwiRn8mGCuC6WQ) | 2:38 |
 | 98 | [Flower freestyle](https://open.spotify.com/track/6VdjYiQrSRFOtbG71XTVIq) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Flower freestyle](https://open.spotify.com/album/7MqzDN8stAuEZj7dcYsj5o) | 1:34 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 144 | [Like a Dream](https://open.spotify.com/track/3XkygPbUCWxhqLaS5U3KyN) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 |
 | 145 | [Love Song](https://open.spotify.com/track/6Dn6Ryrym3sQfcoG2JB7Zf) | [Yong Jun Hyung](https://open.spotify.com/artist/4drjiBRSqZoTD67xgZCmNo) | [Love Song](https://open.spotify.com/album/0TySFnYP1LLSPsw9bls9Tj) | 2:45 |
 
-Snapshot ID: `MCw0NjBlYmQxMGE1ZWI5NGNiYzliMmRlYmUzZmU0NzliOTZlOTdlNjRi`
+Snapshot ID: `MCw3NWI3Y2ZmZDAxZTNlODMwMzc1NTI0ODBlZjY4MTZhM2EyZmIxMTM5`

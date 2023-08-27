@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Fuerza Regida, Los Tucanes de Tijuana & Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,112 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,233 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 37 | [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 |
 | 38 | [El Perdedor](https://open.spotify.com/track/3o2NmvL08XEdw37o4u0Uvq) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46), [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [El Perdedor](https://open.spotify.com/album/7dkjgV4NhgkVr1Yo2X3wQ8) | 2:31 |
 | 39 | [Moonlight](https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ), [Tetra Collective](https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k) | [Moonlight](https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9) | 4:13 |
-| 40 | [Garden \- SIDE B](https://open.spotify.com/track/4kJQFp0beCuAzlLfsKHGi0) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN) | 2:14 |
-| 41 | [Mancora](https://open.spotify.com/track/7096gyexnvsXEwe0m2TYfv) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Mancora](https://open.spotify.com/album/13MCrijZ1paCPm9wrFPvil) | 2:06 |
-| 42 | [Ya No Te Vuelvo a Ver](https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Salida](https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23) | 4:16 |
-| 43 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
-| 44 | [Morrito](https://open.spotify.com/track/0JMyyVXZs7DdsMGkNWhBNA) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP) | [Morrito](https://open.spotify.com/album/7BMZK1y3EbN4st4gMWZBvD) | 3:26 |
-| 45 | [LA DAÑADA](https://open.spotify.com/track/6viDkT7vDsTdikAaSyEluu) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [VIDA FANTASTIC](https://open.spotify.com/album/7AQZuQQN5XvHI7PXoCefFP) | 2:42 |
-| 46 | [MADRID](https://open.spotify.com/track/4HAnXvCFV9RHwrxFmFH1vv) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [MADRID](https://open.spotify.com/album/5Jok2lUjxOPWG2P9G7qHnl) | 4:04 |
-| 47 | [INVISIBLE](https://open.spotify.com/track/3OlK094z1LQdceoqsyQlhv) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [INVISIBLE](https://open.spotify.com/album/2ydcEadqA3CdrPGreJnZ3R) | 2:22 |
-| 48 | [YANOTAPAMI](https://open.spotify.com/track/5pBgufBR4YzppbObNhZlPv) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy) | [YANOTAPAMI](https://open.spotify.com/album/1SdTw9lD3L4fKzqyGkYlnt) | 3:07 |
-| 49 | [NO SOY SANTA](https://open.spotify.com/track/3dWRxCMhqPqsGXLRakmjFH) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [NO SOY SANTA](https://open.spotify.com/album/275IzYNzmSQbZc3V6h9bHY) | 2:30 |
-| 50 | [Solo](https://open.spotify.com/track/2Egw4s2Lc6h6T3tD8h0qXq) | [Geo](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh) | [Solo](https://open.spotify.com/album/0FSjwriQ2SekFn3mMi5RRd) | 2:10 |
+| 40 | [Duro Sin Frenos](https://open.spotify.com/track/6hxTmu8stKqHF0cuQttbiL) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz), [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp) | [Duro Sin Frenos](https://open.spotify.com/album/3kT2YDrQEGZzdUJacUz9TG) | 3:28 |
+| 41 | [Garden \- SIDE B](https://open.spotify.com/track/4kJQFp0beCuAzlLfsKHGi0) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN) | 2:14 |
+| 42 | [Mancora](https://open.spotify.com/track/7096gyexnvsXEwe0m2TYfv) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Mancora](https://open.spotify.com/album/13MCrijZ1paCPm9wrFPvil) | 2:06 |
+| 43 | [Ya No Te Vuelvo a Ver](https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Salida](https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23) | 4:16 |
+| 44 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 45 | [Morrito](https://open.spotify.com/track/0JMyyVXZs7DdsMGkNWhBNA) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP) | [Morrito](https://open.spotify.com/album/7BMZK1y3EbN4st4gMWZBvD) | 3:26 |
+| 46 | [LA DAÑADA](https://open.spotify.com/track/6viDkT7vDsTdikAaSyEluu) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [VIDA FANTASTIC](https://open.spotify.com/album/7AQZuQQN5XvHI7PXoCefFP) | 2:42 |
+| 47 | [MADRID](https://open.spotify.com/track/4HAnXvCFV9RHwrxFmFH1vv) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [MADRID](https://open.spotify.com/album/5Jok2lUjxOPWG2P9G7qHnl) | 4:04 |
+| 48 | [INVISIBLE](https://open.spotify.com/track/3OlK094z1LQdceoqsyQlhv) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [INVISIBLE](https://open.spotify.com/album/2ydcEadqA3CdrPGreJnZ3R) | 2:22 |
+| 49 | [YANOTAPAMI](https://open.spotify.com/track/5pBgufBR4YzppbObNhZlPv) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy) | [YANOTAPAMI](https://open.spotify.com/album/1SdTw9lD3L4fKzqyGkYlnt) | 3:07 |
+| 50 | [NO SOY SANTA](https://open.spotify.com/track/3dWRxCMhqPqsGXLRakmjFH) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [NO SOY SANTA](https://open.spotify.com/album/275IzYNzmSQbZc3V6h9bHY) | 2:30 |
+| 51 | [Solo](https://open.spotify.com/track/2Egw4s2Lc6h6T3tD8h0qXq) | [Geo](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh) | [Solo](https://open.spotify.com/album/0FSjwriQ2SekFn3mMi5RRd) | 2:10 |
 
-Snapshot ID: `MCxmZjY0OTI0MTZhODY3ZjViYTEyZjU0ZmYzZTljMzM0NTM2Njc4MThk`
+Snapshot ID: `MCw1OGY0NGFlNjg2Y2E2YzU4MzYxZTc5ODU4MGM1NjM2YmU3NjllMWRl`

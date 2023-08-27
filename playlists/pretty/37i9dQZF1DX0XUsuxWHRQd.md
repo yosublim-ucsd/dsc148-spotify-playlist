@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Gucci Mane, J\. Cole and Lil Durk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,585,335 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,588,215 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [From The Hood](https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 3:24 |
 | 50 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 |
 
-Snapshot ID: `MCw4ZWJjMDk4NTY3ZGI3ZmU4ZmVkZDNhMTRhM2Q3ZTdiMGZkMTNhOWY3`
+Snapshot ID: `MCxlODY2YjRjMzYxZDRmZGIyMmE4ZGEwMWI5ODMwMTc2YzQ2YjRhZmNj`

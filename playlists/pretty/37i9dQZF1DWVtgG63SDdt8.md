@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=0da39df30df34d10">Brooke Ligertwood</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,931 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,073 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 30 | [God Had Other Plans](https://open.spotify.com/track/1vRmUeWtU33b7NbNnpPhLc) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [God Had Other Plans](https://open.spotify.com/album/6JRzQqL0lB9lfozC4OZXRd) | 2:03 |
 | 31 | [Help!](https://open.spotify.com/track/7lxxnK2IspUkgdgNwvi43W) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Help!](https://open.spotify.com/album/5G8lpUlWQbQ8s9P4ey3ZDW) | 2:37 |
 | 32 | [Price](https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Summer TKE](https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH) | 2:55 |
-| 33 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/5LHSPGEloQJianHefFZpPf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/49A9MS8IUcFZSYDot0m4QA) | 3:03 |
+| 33 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/5LHSPGEloQJianHefFZpPf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/49A9MS8IUcFZSYDot0m4QA) | 3:03 |
 | 34 | [No Limit](https://open.spotify.com/track/3Uhr4IQ0nIHix153cy3yeI) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [No Limit](https://open.spotify.com/album/4E81YM3V5QOwOeWldadMwQ) | 2:11 |
 | 35 | [Nothin](https://open.spotify.com/track/6lFSPsEOgfFxfE3PJOmyXO) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [Dreamers](https://open.spotify.com/album/2ccTA4VvgMt6O3dAXtQDqU) | 3:16 |
 | 36 | [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [No Man](https://open.spotify.com/track/2FMS6kEEfi0od4LWczCROt) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [No Man](https://open.spotify.com/album/3iu9Djn63xgZMcH8aBr5oc) | 3:34 |
 | 100 | [Glorious](https://open.spotify.com/track/69QsMKn4bx13murBz1eeOo) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [He Is Friend](https://open.spotify.com/album/3F5uGEJJEJLHH8Y240kovC) | 3:47 |
 
-Snapshot ID: `MCwwYjA0NDYzYjZjNTZhMjQ5ZjM3YzU4YzEzOTYwZjk4NTUxNjkyNTc3`
+Snapshot ID: `MCwwOTc5YTI0N2YxYjJiOGQwODIwZDI5NjE4MTg0ZmIxODM3YzFjZWU2`

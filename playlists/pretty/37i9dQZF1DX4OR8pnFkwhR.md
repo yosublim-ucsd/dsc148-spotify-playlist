@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 春ねむり
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,207 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,224 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 42 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 |
 | 43 | [merry\-go\-round](https://open.spotify.com/track/3HRJHwS62dexEaH8u1NzZQ) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Intro](https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1) | 3:09 |
 | 44 | [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 |
-| 45 | [Rent\-A\-Car](https://open.spotify.com/track/2VvE9W1K2cMPaRsFi7kwLv) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Rent\-A\-Car](https://open.spotify.com/album/3715NHRrk351GtX0NhjkPv) | 3:01 |
+| 45 | [Rent\-A\-Car](https://open.spotify.com/track/7j36DmTMM88JMAAohyKyJZ) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Television](https://open.spotify.com/album/1Me0U6nBnqp7xjVAEFVFDJ) | 3:01 |
 | 46 | [両想い](https://open.spotify.com/track/3zw6TA1Fn8A5rVm1DlSS8I) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [両想い](https://open.spotify.com/album/4iWLok3YkjDIRL6FYJLzad) | 3:36 |
 | 47 | [愛まかせ](https://open.spotify.com/track/2sxYZMU4VjrnoSwQnhZKgZ) | [LUKA](https://open.spotify.com/artist/4ysOWJmw7tPDTUwxcbzQ78) | [愛まかせ](https://open.spotify.com/album/2Kx4VTnUwuXPAyQlGFq8Yf) | 3:22 |
 | 48 | [とんぼ玉。](https://open.spotify.com/track/2IJ3Pt1bSxifAaFtNuxZeJ) | [近石涼](https://open.spotify.com/artist/0ZjetwSL2QOrWNJmMhl6AV) | [とんぼ玉。](https://open.spotify.com/album/5LlbA6Chr7ulmyhJiuTF0F) | 3:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [Youth](https://open.spotify.com/track/2G4l5sBOXBYY4EmnBBoG0H) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [・archive:EIEN19](https://open.spotify.com/album/4byUZtHuvqbeemGJEhKkuW) | 3:53 |
 | 70 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 |
 
-Snapshot ID: `MCxlMGI1ODMwMjU3YTBlNmM2MDViYmM5OTAzOGQxZWMwNzFlNGRkMjBi`
+Snapshot ID: `MCwyMTE3ZmRlMzRmNGQ4M2VlYzZkMjY3MGU2ZGYwMGY1YjBjMmQ0NDdm`

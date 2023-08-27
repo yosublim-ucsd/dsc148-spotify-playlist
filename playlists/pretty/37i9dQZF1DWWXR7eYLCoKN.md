@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,232 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,338 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 36 | [Samba de um Minuto](https://open.spotify.com/track/3HLUpp7deS78Y3LE7xRbpw) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Que Belo Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/5q8JrwUqI6GcvxsDH6seKu) | 4:33 |
 | 37 | [Espiral de Ilusão](https://open.spotify.com/track/0uai6AmklcjcLR5gITivtI) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Espiral de Ilusão](https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y) | 3:40 |
 | 38 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
-| 39 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ney Matogrosso Interpreta Cartola](https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z) | 4:10 |
+| 39 | [Samba a Dois](https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7) | [Sambô](https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ) | [Samba a Dois](https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3) | 2:36 |
 | 40 | [O Bonde do Dom](https://open.spotify.com/track/4K6q3YYog9sS0WEiAFmNdU) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Universo Ao Meu Redor](https://open.spotify.com/album/2eoNQWiIr9AkIHpU34Z8tc) | 4:03 |
-| 41 | [Samba a Dois](https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7) | [Sambô](https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ) | [Samba a Dois](https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3) | 2:36 |
+| 41 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ney Matogrosso Interpreta Cartola](https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z) | 4:10 |
 | 42 | [Folhas Secas](https://open.spotify.com/track/2m7hny9dJ4hnwMPpabhyD8) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Para Sempre](https://open.spotify.com/album/3aSgmsxNCqjIgwMClyEeJm) | 2:13 |
 | 43 | [Eu Sambo Mesmo](https://open.spotify.com/track/5fIW9kqsEfbHjPEj8ualrF) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:19 |
 | 44 | [Desde Que O Samba E Samba](https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3) | [Caetano Veloso e Gilberto Gil](https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl) | [Tropicalia 2](https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg) | 5:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Se Me Chamar, O Sorte!](https://open.spotify.com/track/1AkkRumTuA3MbfXMsmwEE7) | [Wilson Das Neves](https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn), [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Se Me Chamar, Ô Sorte](https://open.spotify.com/album/6tRtjhV934RrMZw4hkqXbN) | 3:38 |
 | 100 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 |
 
-Snapshot ID: `MCw5MjcyZDJhN2VjMjM3ZGYxM2EzNTEyNDk1Zjk4MGRlNDAwODQyMGQ5`
+Snapshot ID: `MCwzNGE2OGVjM2VhZWM4NGM2MDMyNWM4M2M0ZDJhMjE2NmMxYTA0M2U2`

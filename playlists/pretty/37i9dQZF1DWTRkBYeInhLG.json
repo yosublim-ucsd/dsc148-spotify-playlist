@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 442420,
+  "num_followers": 442748,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWFmNzdkY2RhZmYzNDI0N2M4ZjU2MTM0NDU0YzJiYmUzMTAzOWZl",
+  "snapshot_id": "MCw3YzRiYjUwODA4NGY4ZGFlNmZkMWVlOGVlMjg3ZDVlYWRhYjg4Mjgy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:16:06",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
+        "name": "Satu-Satu",
+        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 284988,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
         "name": "Ruang Tunggu",
         "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 329865,
       "name": "Di Atas Meja",
       "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
-        "name": "Film Favorit",
-        "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
-      },
-      "artists": [
-        {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Film Favorit",
-      "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
+        "name": "Film Favorit",
+        "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Film Favorit",
+      "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
         "name": "Losing Us.",
         "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 236885,
       "name": "Losing Us.",
       "url": "https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
-      },
-      "artists": [
-        {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
-        }
-      ],
-      "duration_ms": 393072,
-      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 393072,
+      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
         "name": "Seperti Kisah",
         "url": "https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 279031,
       "name": "Seperti Kisah",
       "url": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
-        "name": "Satu-Satu",
-        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 284988,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "LOVERs PLAYBOOK",
-        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 269242,
-      "name": "THANK YOU 4 LOVIN\u2019 ME",
-      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
         "name": "My Happy Life",
         "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 213213,
       "name": "Menghujam Jantungku",
       "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
+        "name": "LOVERs PLAYBOOK",
+        "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 269242,
+      "name": "THANK YOU 4 LOVIN\u2019 ME",
+      "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Kesempurnaan Cinta",
-        "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 216019,
-      "name": "Kesempurnaan Cinta",
-      "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
         "name": "Dari Mata",
         "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 223462,
       "name": "Dari Mata",
       "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
+        "name": "Kesempurnaan Cinta",
+        "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 216019,
+      "name": "Kesempurnaan Cinta",
+      "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Handmade",
-        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+        "name": "Ello",
+        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
       },
       "artists": [
         {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+          "name": "Ello",
+          "url": "https://open.spotify.com/artist/00o36BiAS5VuyfvzNtd3Ig"
         }
       ],
-      "duration_ms": 257252,
-      "name": "Kali Kedua",
-      "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
+      "duration_ms": 267600,
+      "name": "Pergi Untuk Kembali",
+      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 257252,
+      "name": "Kali Kedua",
+      "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
         "name": "Marion",
         "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 221381,
       "name": "Rayu",
       "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
-        "name": "Ello",
-        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
-      },
-      "artists": [
-        {
-          "name": "Ello",
-          "url": "https://open.spotify.com/artist/00o36BiAS5VuyfvzNtd3Ig"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Pergi Untuk Kembali",
-      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Meant 2 Be",
-        "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
-      },
-      "artists": [
-        {
-          "name": "Shakira Jasmine",
-          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
-        },
-        {
-          "name": "Nuca",
-          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
-        }
-      ],
-      "duration_ms": 277359,
-      "name": "Meant 2 Be",
-      "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
         "name": "Cukup Tau",
         "url": "https://open.spotify.com/album/2HwAarbBMAvhKvBftkoJia"
       },
@@ -1351,6 +1331,22 @@
       "duration_ms": 205620,
       "name": "Cukup Tau",
       "url": "https://open.spotify.com/track/0EwVncCcoi94Bbp39Kl50L"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
+        "name": "Keabadian",
+        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
     }
   ],
   "unique_name": "Santai Sejenak",

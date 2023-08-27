@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-169 songs - 13 hr 13 min
+170 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,11 +141,12 @@
 | [She's Always A Woman](https://open.spotify.com/track/4ql11Y7pZAgUW25dbJqFED) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 4:00 | 2022-09-27 |  |
 | [She's Leaving Home](https://open.spotify.com/track/6U6wRwjLkBQUjBEQ1vdVJi) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 5:56 | 2022-09-13 |  |
 | [She's Leaving Home \- Live](https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8) | [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI), [Hans Backenroth](https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD) | [The Gallery Concerts II \(Jazz Poetry\)](https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl) | 5:03 | 2023-02-07 |  |
-| [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 | 2022-09-27 |  |
+| [Simple Twist Of Fate](https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 3:49 | 2022-09-27 | 2023-08-27 |
 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 | 2023-02-02 |  |
 | [Something](https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [Something](https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI) | 2:48 | 2023-05-30 |  |
 | [Sorry Seems to Be the Hardest Word](https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp) | [Claudio Cusmano](https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L), [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Remember to Remember](https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR) | 5:05 | 2022-12-01 |  |
 | [Steer Your Way \(feat\. Norah Jones\)](https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Steer Your Way](https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm) | 4:48 | 2022-09-13 |  |
+| [Streets Of Philadelphia](https://open.spotify.com/track/3sFuasoQLakdxnTh3vJ5ix) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Streets Of Philadelphia](https://open.spotify.com/album/1aU3vWkTS7Ej9VEtueevrV) | 5:20 | 2023-08-25 |  |
 | [Streets Of Philadelphia](https://open.spotify.com/track/1TcoNPMDaoEv3rCebQnl7L) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [If You Know Love](https://open.spotify.com/album/6zkbgihaa15nXO07A6VTs4) | 3:15 | 2022-09-13 |  |
 | [Strong](https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF) | [Marco Locurcio](https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4) | [Strong](https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s) | 4:23 | 2022-09-13 |  |
 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 | 2022-09-22 |  |

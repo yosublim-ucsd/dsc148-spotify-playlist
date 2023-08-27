@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,788 likes - 82 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,005 likes - 82 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 18 | [アフターダーク](https://open.spotify.com/track/0Vi1fapWC79Y6B07IzOLKe) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [アフターダーク](https://open.spotify.com/album/18AQW3eQ8Gxa7up0hKujZt) | 3:13 |
 | 19 | [CHU\-BURA](https://open.spotify.com/track/1QhuzdwZoBRosGL23nuO6N) | [KELUN](https://open.spotify.com/artist/6nteBNcTu3uxmOYz2Iro7o) | [CHU\-BURA](https://open.spotify.com/album/6MutdUcjr79lhdEDSpeOtM) | 4:34 |
 | 20 | [Velonica](https://open.spotify.com/track/0qsZemzQ2trp3wWTFneGK7) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [Velonica](https://open.spotify.com/album/6LTKJHWF8M5i7CJjsNbTtr) | 4:40 |
-| 21 | [少女S](https://open.spotify.com/track/52h36YHQlTnwRh3ChfJstO) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [少女S\[通常盤\]](https://open.spotify.com/album/3HtH55kg3nfkrsWug40v91) | 3:14 |
+| 21 | [少女Ｓ](https://open.spotify.com/track/52h36YHQlTnwRh3ChfJstO) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [少女S\[通常盤\]](https://open.spotify.com/album/3HtH55kg3nfkrsWug40v91) | 3:14 |
 | 22 | [アニマロッサ](https://open.spotify.com/track/499EmNfEbymVqb37Cyc8B1) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [アニマロッサ](https://open.spotify.com/album/7lPORJSusoy1pcESNm7qG6) | 4:33 |
 | 23 | [chAngE](https://open.spotify.com/track/4dW80zBgl9BfWxi5upKgt1) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [chAngE](https://open.spotify.com/album/1ZHD1VLdV9IiCOhCX7ebew) | 4:09 |
 | 24 | [storm center](https://open.spotify.com/track/7Ir9GcqSFOia9kDi0VA0DM) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:39 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 81 | ["Lucifers Dance" Pt\. C\_Opus1](https://open.spotify.com/track/38Xuwj65wMbRQ1o9vod1vc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 1:25 |
 | 82 | [La distancia para un duelo](https://open.spotify.com/track/3c391J2d1gnfL0qbjqbPA6) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:57 |
 
-Snapshot ID: `MCwyZjlhMjNiODU5MGU4YTI0NWZiZDM5MTFiNjIwZGZhZGYyYzQ3ZTUy`
+Snapshot ID: `MCw1NTFjNmU0NWY1NzQ4MTIyZDEwMTI3YzdiYjdiMzE2MmM4N2ZjZjJm`

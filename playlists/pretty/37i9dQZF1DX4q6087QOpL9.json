@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 77554,
+  "num_followers": 77656,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTI0YWQ2OTVjYmE3ZjcyYTMzZGVkOWQxZTI5MTFhYWYxMTEyZWQw",
+  "snapshot_id": "MCwwOWYxOTYyNTA3ZGM1ZDI4YjBiNDkyNDFjZjQxZjBiYTk1YTRkOTI0",
   "tracks": [
     {
       "added_at": "2023-03-07 17:49:21",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Shaun Escoffery",
+        "url": "https://open.spotify.com/album/00I8nPkKbU28TjPtArLJWI"
+      },
+      "artists": [
+        {
+          "name": "Shaun Escoffery",
+          "url": "https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz"
+        }
+      ],
+      "duration_ms": 329280,
+      "name": "Days Like This (Spinna & Ticklah Mix)",
+      "url": "https://open.spotify.com/track/5Sq75inr2e6CBcUwLEDbLo"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Introducing Tortured Soul",
         "url": "https://open.spotify.com/album/5OLYjAbHuNKDcKKz1ELQAF"
       },
@@ -163,18 +179,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Shaun Escoffery",
-        "url": "https://open.spotify.com/album/00I8nPkKbU28TjPtArLJWI"
+        "name": "No Politics",
+        "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
       },
       "artists": [
         {
-          "name": "Shaun Escoffery",
-          "url": "https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz"
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
         }
       ],
-      "duration_ms": 329280,
-      "name": "Days Like This (Spinna & Ticklah Mix)",
-      "url": "https://open.spotify.com/track/5Sq75inr2e6CBcUwLEDbLo"
+      "duration_ms": 401280,
+      "name": "My Joy",
+      "url": "https://open.spotify.com/track/6BAy2YYShXOT8JZomHOGJn"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -199,22 +215,6 @@
       "duration_ms": 277006,
       "name": "Simpatico",
       "url": "https://open.spotify.com/track/2c1lZ3KdyPhDVW0wOLXyj4"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "No Politics",
-        "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
-      },
-      "artists": [
-        {
-          "name": "Quentin Harris",
-          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
-        }
-      ],
-      "duration_ms": 401280,
-      "name": "My Joy",
-      "url": "https://open.spotify.com/track/6BAy2YYShXOT8JZomHOGJn"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Love & Happiness (feat. India)",
-        "url": "https://open.spotify.com/album/0WZBrtrJLZ5Vltdm1cvvXQ"
-      },
-      "artists": [
-        {
-          "name": "River Ocean",
-          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
-        },
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) [feat. India] - Dream Sequence",
-      "url": "https://open.spotify.com/track/2EeAQUFOQXqYwGWhot4B7F"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 235066,
       "name": "Changes (feat. Haze)",
       "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Love & Happiness (feat. India)",
+        "url": "https://open.spotify.com/album/0WZBrtrJLZ5Vltdm1cvvXQ"
+      },
+      "artists": [
+        {
+          "name": "River Ocean",
+          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) [feat. India] - Dream Sequence",
+      "url": "https://open.spotify.com/track/2EeAQUFOQXqYwGWhot4B7F"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Welcome Aboard",
+        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 455800,
+      "name": "Welcome Aboard",
+      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 569724,
       "name": "Dance - Louie Vega Dance Ritual Mix",
       "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Welcome Aboard",
-        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
-      },
-      "artists": [
-        {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
-        }
-      ],
-      "duration_ms": 455800,
-      "name": "Welcome Aboard",
-      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Collection 1999-2011",
-        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
-      },
-      "artists": [
-        {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
-        }
-      ],
-      "duration_ms": 515039,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "He Is The Joy",
         "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 546000,
       "name": "He Is The Joy - U.B.P. Classic Mix",
       "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Collection 1999-2011",
+        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        }
+      ],
+      "duration_ms": 515039,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        }
+      ],
+      "duration_ms": 406813,
+      "name": "Bad Habit - feat. Lisa Millett",
+      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "House Classics V (Presented by Harley & Muscle)",
         "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
+        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
       },
       "artists": [
         {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+          "name": "Kenny Dixon Jr.",
+          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
         }
       ],
-      "duration_ms": 406813,
-      "name": "Bad Habit - feat. Lisa Millett",
-      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
+      "duration_ms": 285617,
+      "name": "Soul Sounds - Mixed",
+      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1463,22 +1479,6 @@
       "duration_ms": 361653,
       "name": "Free - Andr\u00e9s Remix",
       "url": "https://open.spotify.com/track/4OS4TRXB2bBVDGO2hEqBgS"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dixon Jr.",
-          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
-        }
-      ],
-      "duration_ms": 285617,
-      "name": "Soul Sounds - Mixed",
-      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Think Twice (Remixes)",
-        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
-      },
-      "artists": [
-        {
-          "name": "The Detroit Experiment",
-          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
-        },
-        {
-          "name": "Mark E",
-          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
-        }
-      ],
-      "duration_ms": 578013,
-      "name": "Think Twice - Mark E Remix",
-      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Timeless Vol. 4",
         "url": "https://open.spotify.com/album/4fl5mvQpEBICZVHFCE01OU"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 384012,
       "name": "Momma's Groove",
       "url": "https://open.spotify.com/track/7eMprrLOCDuig4qPmZScNO"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Think Twice (Remixes)",
+        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
+      },
+      "artists": [
+        {
+          "name": "The Detroit Experiment",
+          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
+        },
+        {
+          "name": "Mark E",
+          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
+        }
+      ],
+      "duration_ms": 578013,
+      "name": "Think Twice - Mark E Remix",
+      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/2n3nX312EHZSQ5nuEGfCD2"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 410348,
+      "name": "I - Sean McCabe Remix",
+      "url": "https://open.spotify.com/track/2Krq49k8Nvxxuanui53S1v"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Seven Ways To Wonder (The Remixes)",
         "url": "https://open.spotify.com/album/6lr0dRBpTY8mRXgHGDDRQB"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 401400,
       "name": "Alibi - Dennis F's Out On Bail Mix",
       "url": "https://open.spotify.com/track/057swhFYVLbnaU8elKKUin"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/2n3nX312EHZSQ5nuEGfCD2"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 410348,
-      "name": "I - Sean McCabe Remix",
-      "url": "https://open.spotify.com/track/2Krq49k8Nvxxuanui53S1v"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Charlotte Small",
+          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
+        }
+      ],
+      "duration_ms": 497280,
+      "name": "Rain - Terry Hunter Rainy Daze Remix",
+      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Dangerous Vibes",
         "url": "https://open.spotify.com/album/66FlxzmcI8adLafeoppLCp"
       },
@@ -2111,26 +2131,6 @@
       "duration_ms": 494748,
       "name": "Dangerous Vibes - Grant's Main Mix",
       "url": "https://open.spotify.com/track/4CbYN8h96zoJqoB7OWajn1"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Charlotte Small",
-          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
-        }
-      ],
-      "duration_ms": 497280,
-      "name": "Rain - Terry Hunter Rainy Daze Remix",
-      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Deep House Anthems",
-        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
-        }
-      ],
-      "duration_ms": 504933,
-      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
-      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Dedication EP",
         "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 193560,
       "name": "Cosmic Signs",
       "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Deep House Anthems",
+        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "duration_ms": 504933,
+      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
+      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
     },
     {
       "added_at": "2023-03-07 17:49:21",

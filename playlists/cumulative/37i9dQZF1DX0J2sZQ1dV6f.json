@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 210431,
       "name": "Cuanto Quieres",
       "url": "https://open.spotify.com/track/1JcjFen7sEpyDBUsxVHRio"
@@ -7028,6 +7028,24 @@
       "duration_ms": 150471,
       "name": "Una Movie",
       "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
+    },
+    {
+      "album": {
+        "name": "Una Noche en Medell\u00edn",
+        "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Una Noche en Medell\u00edn",
+      "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
     },
     {
       "album": {

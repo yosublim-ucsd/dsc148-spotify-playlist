@@ -1,12 +1,12 @@
 {
   "description": "The Official EA SPORTS F1 23 Soundtrack",
-  "num_followers": 14610,
+  "num_followers": 14721,
   "original_name": "F1 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDFkZGJmZmMzNDVhYjlmNzQzODE3NjgyNGVlMjA0Y2NhYzhkMzA2",
+  "snapshot_id": "MCw2OTNkYWY3ZTdkZWU0YWY4OGMxMTc3MjY4YmNhMDE2NGRhNGM1ZTI1",
   "tracks": [
     {
       "added_at": "2023-06-05 14:52:17",
@@ -71,26 +71,6 @@
     {
       "added_at": "2023-06-05 14:52:17",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/0qTMc4nbPpF7mZT6DzLri1"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        },
-        {
-          "name": "MEARSY",
-          "url": "https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/26TkOFSOucGIFYJ61JqWYO"
-    },
-    {
-      "added_at": "2023-06-05 14:52:17",
-      "album": {
         "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
         "url": "https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 167253,
       "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
       "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
+    },
+    {
+      "added_at": "2023-06-05 14:52:17",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/0qTMc4nbPpF7mZT6DzLri1"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "MEARSY",
+          "url": "https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/26TkOFSOucGIFYJ61JqWYO"
     },
     {
       "added_at": "2023-06-05 14:52:17",

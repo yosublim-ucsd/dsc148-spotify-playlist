@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: VENUS GRRRLS
 
-225 songs - 12 hr 2 min
+226 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Baby Chaos](https://open.spotify.com/track/218sf8KIzzfPSbdjpYC9X2) | [The Pearl Harts](https://open.spotify.com/artist/46fdVIKpvssakhSh5jCqAz) | [Love, Chaos](https://open.spotify.com/album/0S4XZufmw216AwX0SuPeuB) | 3:34 | 2023-04-21 |  |
 | [Back and Forth](https://open.spotify.com/track/5dn10JRAyRJQ4CwChvH36u) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Back and Forth](https://open.spotify.com/album/2JZWI0ofeqQi0JNaLIGaW5) | 3:01 | 2023-01-13 | 2023-03-03 |
 | [Bad Blood](https://open.spotify.com/track/64h9HfXAxJf5qxr98nhILO) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Bad Blood](https://open.spotify.com/album/1gvFbWzO2tmYWtP1d9DRBc) | 3:58 | 2023-08-10 |  |
-| [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 | 2023-07-14 |  |
+| [Believe](https://open.spotify.com/track/0zlDjqpYoDUEahQNREV4r5) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 4:11 | 2023-08-24 |  |
+| [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 | 2023-07-14 | 2023-08-27 |
 | [BIG HIT SINGLE](https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [BIG HIT SINGLE](https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D) | 3:09 | 2023-08-10 |  |
 | [Bigger Than Anything Ever](https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Bigger Than Anything Ever](https://open.spotify.com/album/588h8kBL4MeG3M0vanSbAm) | 3:00 | 2023-03-24 | 2023-08-11 |
 | [Bite](https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Bite](https://open.spotify.com/album/4CTR4308FLv0J234RjREIl) | 3:10 | 2023-02-17 | 2023-06-09 |

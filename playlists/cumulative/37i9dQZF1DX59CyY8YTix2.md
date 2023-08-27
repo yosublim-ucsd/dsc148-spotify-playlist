@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: あたらよ
 
-1,092 songs - 2 day 20 hr 51 min
+1,093 songs - 2 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Kesalan Patharan](https://open.spotify.com/track/1jyeQNAFuET3go2BjBuKXT) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Kesalan Patharan](https://open.spotify.com/album/4qYYAlshPymDLzou2gGkR2) | 2:30 | 2022-07-28 | 2022-08-05 |
 | [Ketzal](https://open.spotify.com/track/5rJXHcQAOOMfCbbXCPDQhX) | [The Pen Friend Club](https://open.spotify.com/artist/2YCoWIMictATX05LbntMQO) | [The Pen Friend Club](https://open.spotify.com/album/2krBNqQGIuGq1NH3wqEsxa) | 3:10 | 2022-09-06 | 2022-09-15 |
 | [Kick Off](https://open.spotify.com/track/5yc7Vd2kX7H5KRcWZloktL) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Kick Off](https://open.spotify.com/album/2TZNIpSkEzb5tG38CSAJgi) | 4:07 | 2022-12-07 | 2023-01-14 |
+| [Kiddy](https://open.spotify.com/track/0XnzXvYScKwURM2Jf4vMlT) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Kiddy](https://open.spotify.com/album/52rgoVYXzK00nZMHDGHFSn) | 3:18 | 2023-08-24 |  |
 | [KILLER,Muddy Greed](https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [KILLER,Muddy Greed](https://open.spotify.com/album/4dgWKzRQiu0wDzD3hnniH5) | 2:59 | 2022-07-07 | 2022-07-20 |
 | [Kiss and Kiss](https://open.spotify.com/track/487QBEyUb4H3qOgak5CR7z) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Kiss and Kiss](https://open.spotify.com/album/00oiWDc5ZM9WOGVYCX6Zkb) | 3:00 | 2023-08-15 | 2023-08-23 |
 | [Kiss and Kiss](https://open.spotify.com/track/7DOgPkHKuEYHSaaTD4agIr) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Kiss and Kiss](https://open.spotify.com/album/2RaIUSGUMiGXuKGwG4IkLr) | 3:00 | 2023-08-15 | 2023-08-17 |
@@ -369,7 +370,7 @@
 | [Question](https://open.spotify.com/track/4M3vB5ifmGTZv3YW4SGlda) | [きばやし](https://open.spotify.com/artist/4UybWqTGbkpD8ypqu7DN7e) | [Question](https://open.spotify.com/album/72PAIIpthGMXerE6TeDj5p) | 4:55 | 2023-06-13 | 2023-06-15 |
 | [RADIO PAPA, RADIO MAMA](https://open.spotify.com/track/4ojPYVNetwcuBUNzkWfHpl) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [RADIO PAPA, RADIO MAMA](https://open.spotify.com/album/7zlDqri2aHgVS3wK4YDwYW) | 3:11 | 2023-01-31 | 2023-03-01 |
 | [Radio song](https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL) | 4:00 | 2022-10-04 | 2022-10-06 |
-| [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-04 |  |
+| [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-04 | 2023-08-27 |
 | [Radio Star](https://open.spotify.com/track/1YeYZVR8zjv8K7iABHP6sD) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/3Og5gta9zMnchjl4FX1RIe) | 3:02 | 2022-12-07 | 2022-12-08 |
 | [Radio Star](https://open.spotify.com/track/6sBKJKgBllikmmtVIVWOyN) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/1YwAZ2D2cjHApWSZcAeXON) | 3:02 | 2022-12-08 | 2023-01-11 |
 | [rainy](https://open.spotify.com/track/7Hjyszt5KtLywfswsmkXeA) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [rainy](https://open.spotify.com/album/4H6V1w7bBvx3hfz9pJ4Lhk) | 2:26 | 2022-11-15 | 2022-12-07 |

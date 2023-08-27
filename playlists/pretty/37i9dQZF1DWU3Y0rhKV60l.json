@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 7593,
+  "num_followers": 7641,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTI5ODM2ZmZiMTQ1ZmI1ZmNjYjE5OGU5MTYwZWYzYmE3YTU0N2M0",
+  "snapshot_id": "MCxmNzY3NjIwMWNhNzJmMGRkZWZkMjc2ZDg5Mjk5NGY2MDU2Y2I3OGM0",
   "tracks": [
     {
       "added_at": "2023-06-19 08:59:16",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Summer Ocean Waves",
-        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
-      },
-      "artists": [
-        {
-          "name": "Hello Soundz",
-          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Summer Ocean Waves",
-      "url": "https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Dancing with the Sea",
         "url": "https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 124545,
       "name": "Soothing Sirens",
       "url": "https://open.spotify.com/track/38cFWalIAa6hrSBQDAdHky"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
+      },
+      "artists": [
+        {
+          "name": "Hello Soundz",
+          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Summer Ocean Waves",
+      "url": "https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Summer Ocean Waves",
-        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
+        "name": "Pieces of Paradise (Nature)",
+        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
       },
       "artists": [
         {
-          "name": "Hello Soundz",
-          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Rolling Waves and Rockpools",
-      "url": "https://open.spotify.com/track/1db2CHgoX19tKKu2p8Zbu2"
+      "duration_ms": 160000,
+      "name": "Sandy Gulf (Ocean)",
+      "url": "https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Pieces of Paradise (Nature)",
-        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
       },
       "artists": [
         {
-          "name": "Earth Alliance",
-          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+          "name": "Hello Soundz",
+          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Sandy Gulf (Ocean)",
-      "url": "https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM"
+      "duration_ms": 176000,
+      "name": "Rolling Waves and Rockpools",
+      "url": "https://open.spotify.com/track/1db2CHgoX19tKKu2p8Zbu2"
     },
     {
       "added_at": "2023-06-19 08:59:16",

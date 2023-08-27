@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,676 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,736 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 36 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 |
 | 37 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/3NUwz8ui16l77S1VVkzfWH) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:52 |
 | 38 | [Ai Senshi](https://open.spotify.com/track/1H69lVwtjpEUB8nAyeahfy) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Ai Senshi](https://open.spotify.com/album/7ElpBzSDigXgsFhCgxS2mm) | 3:51 |
-| 39 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
+| 39 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
 | 40 | [Silent Voice](https://open.spotify.com/track/2zOY7EJJpr0311VzJCNnWH) | [Jun Hiroe](https://open.spotify.com/artist/48DGGQUllRMJBjK6ArNDkZ) | [Silent Voice](https://open.spotify.com/album/5YOREcmrBeVdIQFNtkpdwB) | 4:26 |
 | 41 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/58Uv6tYdQU74invXpeN0u1) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [City Pop Essentials Vol\. 2](https://open.spotify.com/album/0vR0kzwQJmXWVyuINLiQ7m) | 4:05 |
 | 42 | [Kaze no No Reply](https://open.spotify.com/track/6OyDvvdrdhvssug1GOjWs0) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Heavy Metal L\-GAIM Original Motion Picture Soundtrack Vol.3](https://open.spotify.com/album/1byp8BzOw7eFMBjfBCkNA4) | 3:32 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 44 | [Wakakusa no Shoutaijou](https://open.spotify.com/track/1EV97OZOlKWBSpCSYeB2GF) | [Eri Nitta](https://open.spotify.com/artist/4vvVj2EmAHKouLCoO1f373) | [Ritardando](https://open.spotify.com/album/7ipdXRuKjQJ0vta61HrMUY) | 3:21 |
 | 45 | [Daisuki Shinba](https://open.spotify.com/track/68hMeIvF2TKpM9ZZola13Z) | [富永みーな](https://open.spotify.com/artist/5oHyb66DLgPlCxEGovrT75) | [Daisuki Shinba](https://open.spotify.com/album/5tI1JwyeinlZKDHQHK2gvM) | 3:19 |
 | 46 | [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986～1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 4:49 |
-| 47 | [君をのせて\(天空の城ラピュタ\)](https://open.spotify.com/track/79AAajz0vc1yhspn9P4ZwB) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:20 |
+| 47 | [君をのせて\(天空の城ラピュタ\)](https://open.spotify.com/track/79AAajz0vc1yhspn9P4ZwB) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:20 |
 | 48 | [City Hunter 〜愛よ消えないで〜](https://open.spotify.com/track/4c0G3S4tGbwoJrF8Ve662r) | [Kahoru Kohiruimaki](https://open.spotify.com/artist/25AlSzLodlCYZrjU8je4pJ) | [The LEGEND](https://open.spotify.com/album/2X7Bq9qIsYPbva7aAZyB87) | 4:06 |
 | 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
 | 50 | [Meguriai](https://open.spotify.com/track/5KAtsOhPp2RA4EZvcNdGZK) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Meguriai](https://open.spotify.com/album/71wKz7gWC4CbC0BfblJljt) | 4:23 |
 
-Snapshot ID: `MCw1N2Y2NzQxMTAzNDhjNjc3MWMzZDljYzE4MzBmODIwNjJhN2YyMGRh`
+Snapshot ID: `MCw2MDEwYjdiODk2NmEwM2RmNmE4ODBmMGJhYTQ5YjdlNTU5NWVmODM5`

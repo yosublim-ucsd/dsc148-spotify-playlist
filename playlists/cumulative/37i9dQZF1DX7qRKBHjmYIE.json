@@ -4284,7 +4284,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 155812,
       "name": "i miss u",
       "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
@@ -6538,6 +6538,24 @@
       "duration_ms": 152698,
       "name": "NORTE A SUR",
       "url": "https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF"
+    },
+    {
+      "album": {
+        "name": "NOS QUISIMOS",
+        "url": "https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151612,
+      "name": "NOS QUISIMOS",
+      "url": "https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y"
     },
     {
       "album": {

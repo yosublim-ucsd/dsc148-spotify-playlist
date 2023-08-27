@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,540 likes - 174 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,614 likes - 174 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Better Days](https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:08 |
+| 1 | [Better Days](https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:08 |
 | 2 | [Sunrise With You](https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx) | [Eden Edwards](https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b) | [Sunrise With You](https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP) | 2:00 |
 | 3 | [Porte moi](https://open.spotify.com/track/4A6k2vAHalGrOKobg3yxna) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Porte moi](https://open.spotify.com/album/24kciXvVVsVoNmEm1qRv8z) | 2:10 |
 | 4 | [Rubato](https://open.spotify.com/track/1rlL61WUGjlWdhB5cjbWg8) | [Fei Kura](https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI) | [Rubato](https://open.spotify.com/album/1MTGlmAkxdb0hueMtV3TLA) | 1:44 |
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 153 | [Slowly Dreaming Away](https://open.spotify.com/track/1Q91XhVR27Sl9t5se58PfG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Slowly Dreaming Away](https://open.spotify.com/album/3eoR8gGsTOFQ9Su6w1sbtk) | 1:58 |
 | 154 | [Dans l'air de la nuit](https://open.spotify.com/track/4OJzrA7CwriHcOFzU12AaS) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Dans l'air de la nuit](https://open.spotify.com/album/7pPRTqSuz5khh0yf9sYTWm) | 2:20 |
 | 155 | [Indubio](https://open.spotify.com/track/0IBin9RIKBxMxDHf9lGtbx) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Indubio](https://open.spotify.com/album/4OAZ28Z4FK3C50twZJEc0O) | 2:46 |
-| 156 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
+| 156 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
 | 157 | [Halt](https://open.spotify.com/track/18a7MSEPcnCwRaCmk9mtmK) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Halt](https://open.spotify.com/album/48OYapkDjCLZsfvTr3Rx34) | 1:50 |
 | 158 | [Combo Cadre](https://open.spotify.com/track/2iuH3nCY89Ljb1tjmvcKwV) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Combo Cadre](https://open.spotify.com/album/44IxR6mPGmK1O24wBI3nwx) | 2:59 |
 | 159 | [Solitaire](https://open.spotify.com/track/78z9A93mkKiW9QyhWazsli) | [Anayah Burke](https://open.spotify.com/artist/56snJZ1Nb0tP4197xTHV68) | [Solitaire](https://open.spotify.com/album/4pgQkUGJx1hijH9zqfun2f) | 3:01 |
@@ -179,8 +179,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 169 | [Sunshine In Her Hair](https://open.spotify.com/track/6Ji4I94StmYhrkNrubHCeF) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Sunshine In Her Hair](https://open.spotify.com/album/6w6lRqVy3bx8ObKV5mJ11K) | 1:56 |
 | 170 | [New Beginnings](https://open.spotify.com/track/7wDAgMa0JFVHQ4Zplb7EsA) | [David Paulin](https://open.spotify.com/artist/3OW9GWNHhjBd0Qt9e6Fj3b) | [New Beginnings](https://open.spotify.com/album/2pSlA3QaTpdbplgNIAfeuR) | 2:50 |
 | 171 | [We Wonder](https://open.spotify.com/track/722UjaEjoA9IeiHvEXrE5N) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [We Wonder](https://open.spotify.com/album/3JIEf7Gw6toZP3YOHZwAmC) | 2:08 |
-| 172 | [Change](https://open.spotify.com/track/09wXdnNxg0U2owlGzrWghJ) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:25 |
+| 172 | [Change](https://open.spotify.com/track/09wXdnNxg0U2owlGzrWghJ) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:25 |
 | 173 | [La Sete D'Amore](https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq) | [Elmer Soulé](https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2) | [La Sete D'Amore](https://open.spotify.com/album/3n5FEuPpGPkDhnG4jWJb8V) | 1:34 |
 | 174 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 |
 
-Snapshot ID: `MCxkYmFlZjVjYWQzYTIyZDIzMTI1YTdiZmUxNTg3NjRmNmE0M2MzMTk1`
+Snapshot ID: `MCwyM2VlMDI2ZWZkMWQ4MjU5MmRiOTdjMTFmZmFhOGU1NzdmMjBjMmQ2`

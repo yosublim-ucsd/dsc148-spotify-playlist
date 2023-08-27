@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Peces Raros.",
-  "num_followers": 16285,
+  "num_followers": 16301,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTUwMjljMzg3MGJhNjUzZjk4MGQxN2E0OWNiMWZhYmUzOTEwMTll",
+  "snapshot_id": "MCwyNDhlZmNmZjBlMTJmOTM5MTMzNjlkYmE0YzhmOTBmMzFiZmRlMDRj",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Ya no quiero que me busques",
-        "url": "https://open.spotify.com/album/218GxV0wEDmKR279AkeOae"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 180489,
-      "name": "Ya no quiero que me busques",
-      "url": "https://open.spotify.com/track/2louDYW0pvu9weBWQHlAok"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "M\u00fasica Para Adultos",
         "url": "https://open.spotify.com/album/00ccg0F2r512qr09ahK46C"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 166246,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Ya no quiero que me busques",
+        "url": "https://open.spotify.com/album/218GxV0wEDmKR279AkeOae"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 180489,
+      "name": "Ya no quiero que me busques",
+      "url": "https://open.spotify.com/track/2louDYW0pvu9weBWQHlAok"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Bola Oro",
-        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 245245,
-      "name": "Bola Oro",
-      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/0upQNva6VzLG68XrIDJMS1"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 197750,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/3pBq1csYqJNKdN6pejHFqY"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Bola Oro",
+        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 245245,
+      "name": "Bola Oro",
+      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Nunca Estuvo en Ti el Litoral",
+        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Campusano",
+          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Nunca Estuvo en Ti el Litoral",
+      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Sur",
         "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
       },
@@ -695,18 +711,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Nunca Estuvo en Ti el Litoral",
-        "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
+        "name": "Ojos De Fuego (Sinego Remix)",
+        "url": "https://open.spotify.com/album/3CmRZMXi7a6xg6wzqrBDZd"
       },
       "artists": [
         {
-          "name": "Sim\u00f3n Campusano",
-          "url": "https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU"
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
         }
       ],
-      "duration_ms": 178773,
-      "name": "Nunca Estuvo en Ti el Litoral",
-      "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
+      "duration_ms": 371857,
+      "name": "Ojos De Fuego - Sinego Remix",
+      "url": "https://open.spotify.com/track/1QPHeiHP9neITJ5wDLbchb"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -739,26 +759,6 @@
       "duration_ms": 219394,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Ojos De Fuego (Sinego Remix)",
-        "url": "https://open.spotify.com/album/3CmRZMXi7a6xg6wzqrBDZd"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 371857,
-      "name": "Ojos De Fuego - Sinego Remix",
-      "url": "https://open.spotify.com/track/1QPHeiHP9neITJ5wDLbchb"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "A Veces No Da",
-        "url": "https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5"
-      },
-      "artists": [
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "A Veces No Da",
-      "url": "https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "No te sueltes",
         "url": "https://open.spotify.com/album/1ol52rgBgzxAVG9e9u3J36"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 225002,
       "name": "No te sueltes",
       "url": "https://open.spotify.com/track/2dLmnd5RQmCA913yR2mEAD"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "A Veces No Da",
+        "url": "https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "A Veces No Da",
+      "url": "https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "KRAUT!",
+        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 208747,
+      "name": "KRAUT!",
+      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "BESO",
         "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 163676,
       "name": "Azar",
       "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "KRAUT!",
-        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 208747,
-      "name": "KRAUT!",
-      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "TODO HA CAMBIAO'",
+        "url": "https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 229369,
+      "name": "TODO HA CAMBIAO'",
+      "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "No Ves Tal Vez (Evlay Remix)",
         "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
@@ -1159,22 +1179,34 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "TODO HA CAMBIAO'",
-        "url": "https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy"
+        "name": "Sombra",
+        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+          "name": "Gianna Sotera",
+          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
         }
       ],
-      "duration_ms": 229369,
-      "name": "TODO HA CAMBIAO'",
-      "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
+      "duration_ms": 179508,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Modernos",
+        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Modernos",
+      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1199,34 +1231,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Modernos",
-        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
+        "name": "Aviones De Papel",
+        "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
       },
       "artists": [
         {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
         }
       ],
-      "duration_ms": 253500,
-      "name": "Modernos",
-      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Sombra",
-        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
-      },
-      "artists": [
-        {
-          "name": "Gianna Sotera",
-          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
+      "duration_ms": 193336,
+      "name": "Aviones De Papel",
+      "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Aviones De Papel",
-        "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 193336,
-      "name": "Aviones De Papel",
-      "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Si s\u00f3lo",
         "url": "https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 222090,
       "name": "Si S\u00f3lo",
       "url": "https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Good Fortune",
-        "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 164815,
-      "name": "Good Fortune",
-      "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1319,22 +1303,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "CHORO",
-        "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
+        "name": "Good Fortune",
+        "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
       },
       "artists": [
         {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
         }
       ],
-      "duration_ms": 197076,
-      "name": "CHORO",
-      "url": "https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz"
+      "duration_ms": 164815,
+      "name": "Good Fortune",
+      "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1351,6 +1331,26 @@
       "duration_ms": 226250,
       "name": "Bum (Chocamos un Auto)",
       "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "CHORO",
+        "url": "https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj"
+      },
+      "artists": [
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 197076,
+      "name": "CHORO",
+      "url": "https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1383,6 +1383,38 @@
       "duration_ms": 247826,
       "name": "Autorretrato en Blanco",
       "url": "https://open.spotify.com/track/6pKoQuCsJv82MSGN206O3U"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Dime Algo (bonito)",
+        "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
+      "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Affaire",
+        "url": "https://open.spotify.com/album/5kJLEhtHf7rL7Di1KGwYGz"
+      },
+      "artists": [
+        {
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
+        }
+      ],
+      "duration_ms": 202625,
+      "name": "Hoy me di cuenta",
+      "url": "https://open.spotify.com/track/2sfineBUQzNV5ocjBVv3Es"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1423,38 +1455,6 @@
       "duration_ms": 187826,
       "name": "fotos\u00edntesis",
       "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Dime Algo (bonito)",
-        "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
-      "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Affaire",
-        "url": "https://open.spotify.com/album/5kJLEhtHf7rL7Di1KGwYGz"
-      },
-      "artists": [
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 202625,
-      "name": "Hoy me di cuenta",
-      "url": "https://open.spotify.com/track/2sfineBUQzNV5ocjBVv3Es"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "BOTON",
-        "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
-      },
-      "artists": [
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 138436,
-      "name": "BOTON",
-      "url": "https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Tu Demente",
         "url": "https://open.spotify.com/album/2f2GQUGbHkoc1RH7qTT4t0"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 183845,
       "name": "Tu Demente",
       "url": "https://open.spotify.com/track/0FNThAjRDsWq3HP0Yknr4V"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "BOTON",
+        "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
+      },
+      "artists": [
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 138436,
+      "name": "BOTON",
+      "url": "https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "FRONTERAS",
-        "url": "https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed"
       },
       "artists": [
         {
-          "name": "Yuls",
-          "url": "https://open.spotify.com/artist/7p3xvTVisjvZnUBSFV5LMS"
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
         }
       ],
-      "duration_ms": 213000,
-      "name": "FRONTERAS",
-      "url": "https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH"
+      "duration_ms": 192500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq"
     }
   ],
   "unique_name": "NE\u00d3N",

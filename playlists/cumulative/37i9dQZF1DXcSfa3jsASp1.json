@@ -650,7 +650,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 262947,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
@@ -1368,6 +1368,24 @@
       "duration_ms": 206903,
       "name": "Jekyll and Hyde",
       "url": "https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP"
+    },
+    {
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2020-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql"
     },
     {
       "album": {

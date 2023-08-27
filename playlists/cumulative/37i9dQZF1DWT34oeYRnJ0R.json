@@ -318,7 +318,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 165473,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "CREEL",
+        "url": "https://open.spotify.com/album/1dWkvKX5alMZDEGcBpS9IM"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153852,
+      "name": "CREEL",
+      "url": "https://open.spotify.com/track/21dgLlkmrWomLtXJHizLFO"
+    },
+    {
+      "album": {
         "name": "cuenta (remix)",
         "url": "https://open.spotify.com/album/1beSwSwTDfsVxq3KGv6yF0"
       },
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 188186,
       "name": "Debe ser que estoy rindi\u00e9ndome",
       "url": "https://open.spotify.com/track/1ir9k1BaWEdZ2eGbfd1vRi"
@@ -1582,6 +1600,28 @@
       "duration_ms": 164494,
       "name": "Down",
       "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
+    },
+    {
+      "album": {
+        "name": "Duro Sin Frenos",
+        "url": "https://open.spotify.com/album/3kT2YDrQEGZzdUJacUz9TG"
+      },
+      "artists": [
+        {
+          "name": "D2OS",
+          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
+        },
+        {
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "Duro Sin Frenos",
+      "url": "https://open.spotify.com/track/6hxTmu8stKqHF0cuQttbiL"
     },
     {
       "album": {
@@ -2107,6 +2147,28 @@
     },
     {
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/36mNpSCPexthvypFqDZE5t"
+      },
+      "artists": [
+        {
+          "name": "Canals",
+          "url": "https://open.spotify.com/artist/5RxLAt9nYq8Ww3Bg5kmXOn"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162278,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/3ghmJeHGNkPTI89dt9lI4y"
+    },
+    {
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B"
       },
@@ -2220,7 +2282,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 157010,
       "name": "Fresh Water",
       "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
@@ -2358,7 +2420,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 174000,
       "name": "Guitarra",
       "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
@@ -2648,7 +2710,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 171428,
       "name": "Just Fine (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV"
@@ -2855,6 +2917,28 @@
     },
     {
       "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Jordyn Shellhart",
+          "url": "https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "LA LLUVIA (with Jordyn Shellhart)",
+      "url": "https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT"
+    },
+    {
+      "album": {
         "name": "La Mitad",
         "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
       },
@@ -2888,6 +2972,28 @@
       "duration_ms": 185920,
       "name": "La pase\u0301 cabro\u0301n",
       "url": "https://open.spotify.com/track/4rKM9EE3torp4wXfqEzzgZ"
+    },
+    {
+      "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Servando",
+          "url": "https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146332,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02"
     },
     {
       "album": {
@@ -3996,7 +4102,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 208664,
       "name": "NO MAN",
       "url": "https://open.spotify.com/track/5pZhTh1X9lQQQoknYuM3Ds"
@@ -4310,6 +4416,32 @@
       "duration_ms": 135704,
       "name": "obst\u00e1culo",
       "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
+    },
+    {
+      "album": {
+        "name": "Ojos Azules",
+        "url": "https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Ojos Azules",
+      "url": "https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 35404,
+  "num_followers": 35509,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTFkNmIxNTEwZjI2MTQ0ZDEzMjJiMTI0MjIyYzg0OGU4NzMyOGFm",
+  "snapshot_id": "MCxjNDBmMzRkZTZiZWVmNzI4N2FkMDFjOTAwNzQ1NjkwYTc4ZDZhMGE1",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -151,6 +151,30 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Slugs of Love",
         "url": "https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY"
       },
@@ -179,30 +203,6 @@
       "duration_ms": 262456,
       "name": "Ma quale idea",
       "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-      "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -871,22 +871,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "For the Beasts",
-        "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
       },
       "artists": [
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
         },
         {
-          "name": "Casey MQ",
-          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+          "name": "Ally McMahon",
+          "url": "https://open.spotify.com/artist/5w7j2molEa1LERPdgAGxE8"
         }
       ],
-      "duration_ms": 153231,
-      "name": "Lurk",
-      "url": "https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4"
+      "duration_ms": 252259,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4uMEqidP5ndYrsaS1HxuBk"
     }
   ],
   "unique_name": "Rooftop Sunset",

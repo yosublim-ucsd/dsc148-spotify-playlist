@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 171382,
       "name": "Al Aram\u0131zdan",
       "url": "https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK"
@@ -2872,6 +2872,24 @@
       "duration_ms": 162146,
       "name": "Butter (Instrumental)",
       "url": "https://open.spotify.com/track/1e0Wxoraz9IzFhREDqgJAe"
+    },
+    {
+      "album": {
+        "name": "B\u00f6l\u00fcm Sonu",
+        "url": "https://open.spotify.com/album/4FmJuyC3gwgYdbrcOU4ar0"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161025,
+      "name": "B\u00f6l\u00fcm Sonu",
+      "url": "https://open.spotify.com/track/1W7vixv87ysuAoOKzz0uLE"
     },
     {
       "album": {
@@ -11340,7 +11358,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 189064,
       "name": "Sen D\u00f6nene Kadar",
       "url": "https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN"
@@ -12712,7 +12730,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 192166,
       "name": "T\u00f6vbe",
       "url": "https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0"

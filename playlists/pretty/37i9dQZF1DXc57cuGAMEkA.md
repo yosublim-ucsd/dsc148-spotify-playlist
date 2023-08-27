@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井風, Conan Gray, The Killers, ONE OK ROCK, YUNGBLUD, and more! Cover: 藤井風
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,538 likes - 66 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,579 likes - 66 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 43 | [Bauhaus Staircase](https://open.spotify.com/track/68xrfKbC4uOGlV4ydcOAIv) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Bauhaus Staircase](https://open.spotify.com/album/2QKEBugQL0PQ72BITY5Iax) | 3:57 |
 | 44 | [Stand By Me](https://open.spotify.com/track/33ivIh56dnTsz0kgQmLowp) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Fridayy](https://open.spotify.com/album/1SEcDNGPBdSmJox0dpMqIe) | 3:03 |
 | 45 | [No Amiris](https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Amiris](https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi) | 2:26 |
-| 46 | [WIN](https://open.spotify.com/track/3TCIqI5kxKr6P5DsKG89Hu) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [No Limt](https://open.spotify.com/album/4NZpWKym8rt2QtUzjVj4Zm) | 3:24 |
+| 46 | [WIN](https://open.spotify.com/track/3TCIqI5kxKr6P5DsKG89Hu) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [No Limit](https://open.spotify.com/album/4NZpWKym8rt2QtUzjVj4Zm) | 3:24 |
 | 47 | [SECOM](https://open.spotify.com/track/22dvj8R3AQJBqnurHotHzb) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [SECOM](https://open.spotify.com/album/4k4x3RMOMxTdwLdgv3tRJu) | 3:26 |
 | 48 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 49 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 65 | [Sonicwonderland](https://open.spotify.com/track/7gc3pcQOvzAgpNtY5y6SbB) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/7IWueag5hUcfCqB6AS6Ky2) | 8:15 |
 | 66 | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \- From "The Little Mermaid" \(Feat\. Cocomi\)](https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV) | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \[From "The Little Mermaid" \(Feat\. Cocomi\)\]](https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF) | 5:44 |
 
-Snapshot ID: `MCw4Y2M5YzEwNTgxM2VlNWNlZGIwN2JlNTFlZTkzNjg4NjU2MTYxZTY0`
+Snapshot ID: `MCwzYWQ5OTJjOTI4OTA2MGJkZTVlNTRjYmE1MThmOGM3ODc0NDdiNzky`

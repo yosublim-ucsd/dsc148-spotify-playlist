@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > Summer isn't quite over yet...
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,840 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,938 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 49 | [Get You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6YZQx90VEuzf0lRY9TYh7j) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:46 |
 | 50 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 
-Snapshot ID: `MCxkYjQ1YzVkZTZjNTFlY2VkY2M2NzhkZTNkZmFiZjZlNWEzZDE1YTY4`
+Snapshot ID: `MCw4NDNiYmJiMmYxNDM5MDIwOTIwMmE3YjIwZmE3MzM0OTgxZTk3YzNi`

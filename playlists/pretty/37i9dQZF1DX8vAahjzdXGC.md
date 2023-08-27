@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,870 likes - 111 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,908 likes - 111 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 21 | [Pasti](https://open.spotify.com/track/3Bg3dvrlanoFPE0dXiKOth) | [Michela Thea](https://open.spotify.com/artist/1G9pZxYP9Uf6bAWGUdcYS7) | [Pasti](https://open.spotify.com/album/02UxKcovAnwWisGSWt99nW) | 4:37 |
 | 22 | [Menjadi Manusia](https://open.spotify.com/track/5EuDnr9mLM2KXniH0uug0p) | [Manusia Aksara](https://open.spotify.com/artist/4KhMbVClEsKsmlfT5yO8St) | [Menjadi Manusia](https://open.spotify.com/album/3PCeGvw9HETKw5PiWfAswr) | 3:32 |
 | 23 | [Glory](https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Glory](https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr) | 2:45 |
-| 24 | [Break From The Party](https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [GLOOMY BOOGIE Vol 1](https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5) | 2:19 |
+| 24 | [Break From The Party](https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [GLOOMY BOOGIE Vol\. 1](https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5) | 2:19 |
 | 25 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 |
 | 26 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 |
 | 27 | [PICASSO](https://open.spotify.com/track/24V7XYGypVH74zaPKlHj06) | [Db Mandala](https://open.spotify.com/artist/6JVLqhpcrlRroql6UduuqC), [Tuantigabelas](https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn), [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md) | [PICASSO](https://open.spotify.com/album/3QMrgy8qbxQOKkJJ3lDROW) | 2:38 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [boho babe](https://open.spotify.com/track/4P9VD39kOCzF02VwQ98MAv) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa), [Sunny Side Up!](https://open.spotify.com/artist/62JSntrhTQZg2buPDIoGjQ) | [boho babe](https://open.spotify.com/album/3JT6cNrOKXXoD7yH98yiSS) | 2:26 |
 | 111 | [petty things](https://open.spotify.com/track/0WreuVJFE5fRk0xb5U9kBE) | [clare inso](https://open.spotify.com/artist/4QWLW3qCUEjKfeoH6k93oW), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [petty things](https://open.spotify.com/album/4n0FeQxWBIlv8UUw3c6heH) | 3:04 |
 
-Snapshot ID: `MCw1ZDE5NTkwNjQwYzg5NzRkY2YwMTQxNjlhODk4NDExNjMxNzMzZGQ2`
+Snapshot ID: `MCwxYWNmODAwNzlkOGY5OWZkOTE2MDgxOWQwODY2NjcxNzAzMjdhMzNm`

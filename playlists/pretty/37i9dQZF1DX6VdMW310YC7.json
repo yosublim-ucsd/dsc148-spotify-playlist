@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3662624,
+  "num_followers": 3663235,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmViYWMyNDk5MmQyZWZhOWZhYjI0MDE1MmQyNGVjNGY2ZWNhMWQ4",
+  "snapshot_id": "MCw2NGY3MjY3NDFlNmU2MGE2MDJjMWQ4MGMyM2VlMzZhYTVkN2E1NDhi",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -155,22 +155,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
         },
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
         }
       ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -227,26 +231,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "The Rapture Pt.III",
-        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
       "artists": [
         {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 417812,
-      "name": "The Rapture Pt.III",
-      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Need You There",
-        "url": "https://open.spotify.com/album/3ekJlg88JAhvLmHEkZeP7S"
-      },
-      "artists": [
-        {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        }
-      ],
-      "duration_ms": 185991,
-      "name": "Need You There",
-      "url": "https://open.spotify.com/track/6CMF35Wo3xRxGTLDMjvxlY"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Into The Night",
         "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 423006,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Need You There",
+        "url": "https://open.spotify.com/album/3ekJlg88JAhvLmHEkZeP7S"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Need You There",
+      "url": "https://open.spotify.com/track/6CMF35Wo3xRxGTLDMjvxlY"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1395,6 +1395,30 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "MNRT",
+          "url": "https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99"
+        },
+        {
+          "name": "S:NE",
+          "url": "https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3"
+        }
+      ],
+      "duration_ms": 152298,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Can't Help But Think About You",
         "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
       },
@@ -1431,30 +1455,6 @@
       "duration_ms": 172331,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/1Foh6n4d1Vs8oWw9PNYye8"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        },
-        {
-          "name": "MNRT",
-          "url": "https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99"
-        },
-        {
-          "name": "S:NE",
-          "url": "https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3"
-        }
-      ],
-      "duration_ms": 152298,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
-      },
-      "artists": [
-        {
-          "name": "Arinity",
-          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
-        }
-      ],
-      "duration_ms": 153532,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Colorize 2023 Spring Sampler",
         "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 240448,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
+      },
+      "artists": [
+        {
+          "name": "Arinity",
+          "url": "https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy"
+        }
+      ],
+      "duration_ms": 153532,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/7IQgAVMaCu0ImfMnKV7Xik"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Breaking Apart",
         "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Assassin",
-        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
     },
     {
       "added_at": "2023-08-25 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,193 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,202 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 46 | [Runner \- Ao Vivo](https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Runner \(Ao Vivo\)](https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy) | 2:12 |
 | 47 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 48 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
-| 49 | [Uma Fase](https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD) | [Afree](https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s), [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl) | [Uma Fase](https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY) | 3:18 |
-| 50 | [Diretamente do Rio](https://open.spotify.com/track/39iYTBGec9n0kaPn9eJggw) | [Baga](https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Diretamente do Rio](https://open.spotify.com/album/2Oqh0XdTGpSthDH8fuOyu8) | 3:03 |
+| 49 | [Diretamente do Rio](https://open.spotify.com/track/39iYTBGec9n0kaPn9eJggw) | [Baga](https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Diretamente do Rio](https://open.spotify.com/album/2Oqh0XdTGpSthDH8fuOyu8) | 3:03 |
+| 50 | [Uma Fase](https://open.spotify.com/track/6xkKyZinrWXX4FVUuuBeSD) | [Afree](https://open.spotify.com/artist/218HbunxGqD47MTClAmg6s), [Volpato](https://open.spotify.com/artist/2oRKjDzl0iaeEyk8SO2pWl) | [Uma Fase](https://open.spotify.com/album/1B56BdIqTZvCMk0UOhkDbY) | 3:18 |
 
-Snapshot ID: `MCwyZjlmZjg2MjJlZTU3YjMyNGE4MDBmNjI2YjQ4MzAzNjdjMzM0MmQx`
+Snapshot ID: `MCw4ODUzYjU1YWVjY2M2ZjdkNDJkNzRiMGNiOWY1MTg5ZTE4NDU3NGQy`

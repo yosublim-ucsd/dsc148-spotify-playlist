@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: Joy Oladokun",
-  "num_followers": 33331,
+  "num_followers": 33359,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjdkMWMxYTY5YTM0MDkyODZmMDMzMGQ3ZDRkMzdjZjhkZDBlZGZh",
+  "snapshot_id": "MCw4ZjVmMDhhYzMxYzI1MTIwNDRlY2MwOWE1N2Q2MDIwZGY3OWIwMDEw",
   "tracks": [
     {
       "added_at": "2023-08-25 20:08:24",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-08-25 20:08:24",
       "album": {
-        "name": "Do you miss me?",
-        "url": "https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 128853,
-      "name": "Do You Miss Me?",
-      "url": "https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL"
-    },
-    {
-      "added_at": "2023-08-25 20:08:24",
-      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 201893,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
+    },
+    {
+      "added_at": "2023-08-25 20:08:24",
+      "album": {
+        "name": "Do you miss me?",
+        "url": "https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 128853,
+      "name": "Do You Miss Me?",
+      "url": "https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL"
     },
     {
       "added_at": "2023-08-25 20:08:24",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-08-25 20:08:24",
       "album": {
-        "name": "Natural Brown Prom Queen",
-        "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20"
-    },
-    {
-      "added_at": "2023-08-25 20:08:24",
-      "album": {
         "name": "My Soft Machine",
         "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 165759,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
+    },
+    {
+      "added_at": "2023-08-25 20:08:24",
+      "album": {
+        "name": "Natural Brown Prom Queen",
+        "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20"
     },
     {
       "added_at": "2023-08-25 20:08:24",
@@ -603,8 +603,8 @@
     {
       "added_at": "2023-08-25 20:08:24",
       "album": {
-        "name": "Leaving The Light",
-        "url": "https://open.spotify.com/album/2w9vjWFtC4W6MiNK9TwnYq"
+        "name": "Tied Up!",
+        "url": "https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 190053,
-      "name": "Leaving The Light",
-      "url": "https://open.spotify.com/track/27cBRq5YMm5D1B1nygzetD"
+      "duration_ms": 189840,
+      "name": "Tied Up!",
+      "url": "https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd"
     },
     {
       "added_at": "2023-08-25 20:08:24",
@@ -715,8 +715,8 @@
     {
       "added_at": "2023-08-25 20:08:24",
       "album": {
-        "name": "Tied Up!",
-        "url": "https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD"
+        "name": "Leaving The Light",
+        "url": "https://open.spotify.com/album/2w9vjWFtC4W6MiNK9TwnYq"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Tied Up!",
-      "url": "https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd"
+      "duration_ms": 190053,
+      "name": "Leaving The Light",
+      "url": "https://open.spotify.com/track/27cBRq5YMm5D1B1nygzetD"
     },
     {
       "added_at": "2023-08-25 20:08:24",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-25 20:08:24",
       "album": {
-        "name": "Everybody's Safe Until\u2026",
-        "url": "https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Everybody's Safe Until\u2026",
-      "url": "https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS"
-    },
-    {
-      "added_at": "2023-08-25 20:08:24",
-      "album": {
         "name": "\"XCAPE\", PT. 1 JEAN DAWSON AS \"PHOENIX\"",
         "url": "https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 165519,
       "name": "youth+",
       "url": "https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo"
+    },
+    {
+      "added_at": "2023-08-25 20:08:24",
+      "album": {
+        "name": "Everybody's Safe Until\u2026",
+        "url": "https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Everybody's Safe Until\u2026",
+      "url": "https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS"
     }
   ],
   "unique_name": "Indie Frequency",

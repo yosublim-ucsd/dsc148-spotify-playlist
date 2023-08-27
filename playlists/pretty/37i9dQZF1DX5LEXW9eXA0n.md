@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:HYB\(허용별\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,573 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,582 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Like a child without sadness](https://open.spotify.com/track/5OIY4RcH99j9IdKvb26K2J) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [Like a child without sadness](https://open.spotify.com/album/2GLSX4nlF3JJYWl2SlVCjg) | 3:49 |
 | 100 | [Is It Bearable?](https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ) | [Monni](https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb) | [Is It Bearable?](https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q) | 3:38 |
 
-Snapshot ID: `MCw3Nzc4ZWIyYTIxY2EwNzQwZDMwNjc2YzE2ZWEyMGRjM2RkZTlhMzQx`
+Snapshot ID: `MCxmMDQ3Yjk3ZDk1NjU2NDIwOGNlNzdlZGFjODlkNDY1YTEzMTNmNzE0`

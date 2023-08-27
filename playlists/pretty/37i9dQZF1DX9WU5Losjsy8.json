@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 352548,
+  "num_followers": 352966,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDc5YmY3YmM0OTEwZWNiMGFjMjg1MmI4OTdlOTIyMTdlNDMyODVi",
+  "snapshot_id": "MCxmMjA3MWY0NjMyODUwYmY2N2Y2ODczM2U0YTEzZjMzYWE4ODJmZjhk",
   "tracks": [
     {
       "added_at": "2023-08-10 22:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
         "name": "Dorfdisko",
         "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 206944,
       "name": "Abfahrt",
       "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "added_at": "2023-08-10 22:01:00",
+      "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
     },
     {
       "added_at": "2023-08-10 22:01:00",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
-        "name": "DORFDiSKO ZWEi",
-        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "PECH & SCHWEFEL",
-      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
         "name": "Arielle",
         "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 178578,
       "name": "Die Nacht von Freitag auf Montag",
       "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
+    },
+    {
+      "added_at": "2023-08-10 22:01:00",
+      "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "PECH & SCHWEFEL",
+      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
     },
     {
       "added_at": "2023-08-10 22:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
-        "name": "Heute nicht!",
-        "url": "https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm"
-      },
-      "artists": [
-        {
-          "name": "Ben Zucker",
-          "url": "https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS"
-        }
-      ],
-      "duration_ms": 194271,
-      "name": "Heute nicht!",
-      "url": "https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
         "name": "Party Chaos",
         "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 194173,
       "name": "Strobo Pop",
       "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+    },
+    {
+      "added_at": "2023-08-10 22:01:00",
+      "album": {
+        "name": "Heute nicht!",
+        "url": "https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm"
+      },
+      "artists": [
+        {
+          "name": "Ben Zucker",
+          "url": "https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS"
+        }
+      ],
+      "duration_ms": 194271,
+      "name": "Heute nicht!",
+      "url": "https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar"
     },
     {
       "added_at": "2023-08-10 22:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
         "name": "Saufen aufm Spielplatz",
         "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 240000,
       "name": "Saufen aufm Spielplatz",
       "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
+    },
+    {
+      "added_at": "2023-08-10 22:01:00",
+      "album": {
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
     },
     {
       "added_at": "2023-08-10 22:01:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "added_at": "2023-08-10 22:01:00",
+      "album": {
         "name": "Nimm mich mit ins Paradies",
         "url": "https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 164078,
       "name": "Nimm mich mit ins Paradies",
       "url": "https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2023-08-10 22:01:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-08-10 22:01:00",
       "album": {
-        "name": "Anna-Lena",
-        "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
-      },
-      "artists": [
-        {
-          "name": "Honk!",
-          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
-        },
-        {
-          "name": "Deejay Matze",
-          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
-        }
-      ],
-      "duration_ms": 180741,
-      "name": "Anna-Lena",
-      "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
-    },
-    {
-      "added_at": "2023-08-10 22:01:00",
-      "album": {
         "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
         "url": "https://open.spotify.com/album/5HQxiHwV6aa81zg3zJg1Nc"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 151579,
       "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
       "url": "https://open.spotify.com/track/2T8t116RDkrvAA6WwzdMJm"
+    },
+    {
+      "added_at": "2023-08-10 22:01:00",
+      "album": {
+        "name": "Anna-Lena",
+        "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
+      },
+      "artists": [
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Deejay Matze",
+          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
+        }
+      ],
+      "duration_ms": 180741,
+      "name": "Anna-Lena",
+      "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
     },
     {
       "added_at": "2023-08-10 22:01:00",

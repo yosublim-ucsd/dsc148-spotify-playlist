@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Eddy Kenzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,751 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,757 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 24 | [Ekyama](https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf) | [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Will84](https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09) | [Ekyama](https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0) | 3:37 |
 | 25 | [Bitimba](https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Bitimba](https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5) | 2:27 |
 | 26 | [Nfa](https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ) | [Nfa](https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz) | 3:13 |
-| 27 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 |
-| 28 | [Captain](https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF) | [Kivumbi King](https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Captain](https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE) | 2:12 |
+| 27 | [Captain](https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF) | [Kivumbi King](https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Captain](https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE) | 2:12 |
+| 28 | [Bwereere](https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Bwereere](https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX) | 3:05 |
 | 29 | [Chai Mata](https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Chai Mata](https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw) | 2:55 |
 | 30 | [Omwana](https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Omwana](https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2) | 3:32 |
 | 31 | [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 |
-| 32 | [Koroba](https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB) | [Sl Fiq](https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT) | [Coroba](https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg) | 2:47 |
-| 33 | [Bega Bega](https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Lover Man](https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz) | 2:52 |
-| 34 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
-| 35 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 |
+| 32 | [Bega Bega](https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Lover Man](https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz) | 2:52 |
+| 33 | [Koroba](https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB) | [Sl Fiq](https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT) | [Coroba](https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg) | 2:47 |
+| 34 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 |
+| 35 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
 | 36 | [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 |
 | 37 | [Singa](https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Singa](https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9) | 3:17 |
 | 38 | [Kitooke Kyagonja](https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Kitooke Kyagonja](https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa) | 3:10 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 43 | [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 |
 | 44 | [Wanting Me](https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Wanting Me](https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b) | 2:45 |
 | 45 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 |
-| 46 | [Best Friend](https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z), [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky) | [Best Friend](https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT) | 2:53 |
-| 47 | [Kimugunyu](https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kimugunyu](https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE) | 3:00 |
+| 46 | [Kimugunyu](https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kimugunyu](https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE) | 3:00 |
+| 47 | [Best Friend](https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z), [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky) | [Best Friend](https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT) | 2:53 |
 | 48 | [Mama I Made It](https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 2:17 |
 | 49 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
 | 50 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 |
 
-Snapshot ID: `MCw0NjZkNjllYjQxZTQwNjI4ZDk0NDI1NDY4MDM4Nzc4NzFjMzVjOGVh`
+Snapshot ID: `MCw2NGFkNzgxOTdkN2U0NWEzMDdhMTQ0YmJmMGU1NzZkZjE5N2MxZmFj`

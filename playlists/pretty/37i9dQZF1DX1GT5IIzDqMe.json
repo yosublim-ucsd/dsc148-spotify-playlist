@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 83996,
+  "num_followers": 84035,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWMxYjkzMDQ1N2UyM2Y3MTk1NzQzMTU1MjA4OGRhNTRmZjg0NWIx",
+  "snapshot_id": "MCwzOGM4NTRjYzM1NGI0OGU4MjZjZGVlZjRiZjliZGY4ZDZhZjYxYTQ4",
   "tracks": [
     {
       "added_at": "2023-08-25 13:50:59",
@@ -435,8 +435,8 @@
     {
       "added_at": "2023-08-25 13:50:59",
       "album": {
-        "name": "The Greatest Dancer",
-        "url": "https://open.spotify.com/album/2TVb3PnbULiYIxHr4Oje9P"
+        "name": "Clocks / Low Life / Go",
+        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
         }
       ],
-      "duration_ms": 422618,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/47L7EinVbbEBraJE0MMnW9"
+      "duration_ms": 334959,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
     },
     {
       "added_at": "2023-08-25 13:50:59",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-08-25 13:50:59",
       "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
-    },
-    {
-      "added_at": "2023-08-25 13:50:59",
-      "album": {
         "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
         "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 190947,
       "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
       "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
+    },
+    {
+      "added_at": "2023-08-25 13:50:59",
+      "album": {
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
     },
     {
       "added_at": "2023-08-25 13:50:59",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-08-25 13:50:59",
       "album": {
-        "name": "Clocks / Low Life / Go",
-        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
+        "name": "The Greatest Dancer",
+        "url": "https://open.spotify.com/album/2TVb3PnbULiYIxHr4Oje9P"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
         }
       ],
-      "duration_ms": 334959,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
+      "duration_ms": 422618,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/47L7EinVbbEBraJE0MMnW9"
     },
     {
       "added_at": "2023-08-25 13:50:59",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-08-25 13:50:59",
       "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
+        "name": "The Art of Music",
+        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
       },
       "artists": [
         {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 383706,
-      "name": "Q",
-      "url": "https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW"
+      "duration_ms": 320866,
+      "name": "Telekinesis",
+      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
     },
     {
       "added_at": "2023-08-25 13:50:59",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-25 13:50:59",
       "album": {
-        "name": "The Art of Music",
-        "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 320866,
-      "name": "Telekinesis",
-      "url": "https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn"
-    },
-    {
-      "added_at": "2023-08-25 13:50:59",
-      "album": {
         "name": "We All Move Together",
         "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 352599,
       "name": "We All Move Together - Album Mix",
       "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+    },
+    {
+      "added_at": "2023-08-25 13:50:59",
+      "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
+      },
+      "artists": [
+        {
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW"
     },
     {
       "added_at": "2023-08-25 13:50:59",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-08-25 13:50:59",
       "album": {
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
+        }
+      ],
+      "duration_ms": 188225,
+      "name": "SoundwaveZ",
+      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
+    },
+    {
+      "added_at": "2023-08-25 13:50:59",
+      "album": {
         "name": "Red Room",
         "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
       },
@@ -879,22 +899,6 @@
       "duration_ms": 271464,
       "name": "On A Journey",
       "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
-    },
-    {
-      "added_at": "2023-08-25 13:50:59",
-      "album": {
-        "name": "Feel It / Circus Act",
-        "url": "https://open.spotify.com/album/7yNN51CSOWeiUayY1fsAK4"
-      },
-      "artists": [
-        {
-          "name": "Stacey Pullen",
-          "url": "https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y"
-        }
-      ],
-      "duration_ms": 458302,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2HfzYTnucpAPodJgPBpSm3"
     }
   ],
   "unique_name": "Detroit Techno",

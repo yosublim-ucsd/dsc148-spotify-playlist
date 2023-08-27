@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 229493,
       "name": "Simple Twist Of Fate",
       "url": "https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv"
@@ -2766,6 +2766,28 @@
       "duration_ms": 288880,
       "name": "Steer Your Way (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
+    },
+    {
+      "album": {
+        "name": "Streets Of Philadelphia",
+        "url": "https://open.spotify.com/album/1aU3vWkTS7Ej9VEtueevrV"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320893,
+      "name": "Streets Of Philadelphia",
+      "url": "https://open.spotify.com/track/3sFuasoQLakdxnTh3vJ5ix"
     },
     {
       "album": {

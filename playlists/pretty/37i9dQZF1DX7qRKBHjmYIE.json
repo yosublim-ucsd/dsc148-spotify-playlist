@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked every week. \u2728 Cover: Cuco & Aleman",
-  "num_followers": 764412,
+  "num_followers": 764402,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTcxYjcyM2UxMDU0OTY3YmExMzQzNWRiNmEyZGNiN2RiZjFhZGM0",
+  "snapshot_id": "MCw0MzFiYTBjNGQ5YTkxYjQyNTRkYmMzNzNhMTgyNGZhMWJhZjMzYWU5",
   "tracks": [
     {
       "added_at": "2023-08-25 04:17:43",
@@ -299,6 +299,42 @@
     {
       "added_at": "2023-08-25 04:17:43",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 151214,
+      "name": "La Tortura - Spotify Singles",
+      "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 175175,
+      "name": "DIAMANTE",
+      "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -315,22 +351,6 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
-        "name": "UN A\u00d1O DE MIERDA",
-        "url": "https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 170362,
-      "name": "UN A\u00d1O DE MIERDA",
-      "url": "https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -363,6 +383,22 @@
       "duration_ms": 107653,
       "name": "1UNAMORSUPREMO",
       "url": "https://open.spotify.com/track/1xtDTlu0gK9Gc2Y8t7uzsJ"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
+        "name": "UN A\u00d1O DE MIERDA",
+        "url": "https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 170362,
+      "name": "UN A\u00d1O DE MIERDA",
+      "url": "https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -415,6 +451,22 @@
       "duration_ms": 186945,
       "name": "rangerover",
       "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
+        "name": "VOYCONTODO",
+        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 137114,
+      "name": "VOYCONTODO",
+      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -487,22 +539,6 @@
     {
       "added_at": "2023-08-25 04:17:43",
       "album": {
-        "name": "Gran Turismo",
-        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Adolescente",
-      "url": "https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/0dr8b2KU2k223uuOq5qGK1"
       },
@@ -515,6 +551,22 @@
       "duration_ms": 278839,
       "name": "Luna",
       "url": "https://open.spotify.com/track/6npK9NwM38YEoFeHvB6m5W"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Adolescente",
+      "url": "https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -571,22 +623,6 @@
     {
       "added_at": "2023-08-25 04:17:43",
       "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 139688,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
         "name": "Bagels y Caf\u00e9",
         "url": "https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4"
       },
@@ -615,6 +651,22 @@
       "duration_ms": 169000,
       "name": "SOL",
       "url": "https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 139688,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -651,6 +703,22 @@
     {
       "added_at": "2023-08-25 04:17:43",
       "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 202359,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/1bRHpYrUrYObwmICKEGl30"
       },
@@ -675,18 +743,38 @@
     {
       "added_at": "2023-08-25 04:17:43",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 202359,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        },
+        {
+          "name": "Tetra Collective",
+          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
+        }
+      ],
+      "duration_ms": 253747,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -747,58 +835,18 @@
     {
       "added_at": "2023-08-25 04:17:43",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/7pFnghxBLJx78ZDRUSkEYy"
+        "name": "NOS QUISIMOS",
+        "url": "https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd"
       },
       "artists": [
         {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
         }
       ],
-      "duration_ms": 175175,
-      "name": "DIAMANTE",
-      "url": "https://open.spotify.com/track/5HZH0Rbz2mRnqgBkBeTsOf"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        },
-        {
-          "name": "Tetra Collective",
-          "url": "https://open.spotify.com/artist/7dOWdFvBQ8ZN7F8sc3D56k"
-        }
-      ],
-      "duration_ms": 253747,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 151214,
-      "name": "La Tortura - Spotify Singles",
-      "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
+      "duration_ms": 151612,
+      "name": "NOS QUISIMOS",
+      "url": "https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -831,58 +879,6 @@
       "duration_ms": 162746,
       "name": "\u00f3diame si quieres",
       "url": "https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
-        "name": "VOYCONTODO",
-        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 137114,
-      "name": "VOYCONTODO",
-      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
-        "name": "i miss u",
-        "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        },
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 155812,
-      "name": "i miss u",
-      "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
     }
   ],
   "unique_name": "Mixto",

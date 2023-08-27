@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-441 songs - 1 day 4 hr 40 min
+442 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Comme Il Faut](https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Comme il faut](https://open.spotify.com/album/5xaDbiKgQA3kiGUKFvCgOz) | 3:42 | 2022-03-03 | 2022-10-08 |
 | [Con Alba](https://open.spotify.com/track/0f0MxPmuo6W577AUYozNVr) | [The Lenny Ryan Trio](https://open.spotify.com/artist/4PygpE5Q24zDtDvRHUEV4E) | [Moon Time](https://open.spotify.com/album/5us4c8ltJbJGlyhpHzXIG3) | 3:17 | 2021-07-02 | 2023-06-13 |
 | [Constantly Changing](https://open.spotify.com/track/51mO5KysnUohGZS49sH3OM) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Constantly Changing](https://open.spotify.com/album/4DFOdq7KsYcOB1b5bTMDPJ) | 3:17 | 2022-05-24 |  |
-| [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-06-01 |  |
+| [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-06-01 | 2023-08-27 |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2021-08-07 | 2022-10-03 |
 | [Days of Wine and Roses](https://open.spotify.com/track/0bCwxcB99DGOg6OK9if6c9) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Days of Wine and Roses](https://open.spotify.com/album/1mDaXUoWzlSxRkn8Griz53) | 3:03 | 2020-10-20\* | 2021-01-07 |
 | [desire strongly](https://open.spotify.com/track/1DpXesx1rkB5AA2sA55uAs) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [desire strongly](https://open.spotify.com/album/0o3VKgnd6FUTbPHAYtmzAE) | 2:59 | 2021-03-27 | 2023-02-01 |
@@ -287,6 +287,7 @@
 | [Nine Days Before](https://open.spotify.com/track/4yld9ovOfGTAi4HXKlU0nS) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Nine Days Before](https://open.spotify.com/album/18DjBqUbuPhualp3VFsiS9) | 2:47 | 2023-06-21 |  |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-02-02 | 2023-08-18 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-06-01 | 2023-08-07 |
+| [Nowhere To Go](https://open.spotify.com/track/30qiKII7quQgj7xBz9hL74) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Nowhere To Go](https://open.spotify.com/album/65hkYKJukpRB7kvDFbewtr) | 2:44 | 2023-08-24 |  |
 | [Nuages](https://open.spotify.com/track/3uhqvSTHzgDeTpsTriYQG0) | [Dan Eifler](https://open.spotify.com/artist/78SnoNKuvk2IpHtOojhf9T) | [Teach Me Tonight](https://open.spotify.com/album/4KepWEHEQFDYfvJR4SebwZ) | 3:48 | 2020-10-20\* | 2021-01-21 |
 | [Nuages ​​Creux](https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR) | [Lydia Baskow Trio](https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8) | [Nuages ​​Creux](https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C) | 2:37 | 2020-12-09 | 2022-11-29 |
 | [Oh Good Grief](https://open.spotify.com/track/2Xa7KXq1fLZ6A4WyQSU6kF) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:08 | 2020-10-20\* | 2021-01-21 |

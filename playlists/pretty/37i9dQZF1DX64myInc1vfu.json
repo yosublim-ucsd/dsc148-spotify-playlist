@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: La Isla Centeno",
-  "num_followers": 72816,
+  "num_followers": 72882,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTVhMWJjOWMwYTIwN2U5MzRiMzU4M2RmNjZmNTE0ZTdjNjljZWMy",
+  "snapshot_id": "MCxiZjczYzFhYmE1MWY1NGI4NDg3MDFlMmUzOTM1ZDQ0YmNjMjFhMmVk",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx"
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 213511,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -667,18 +663,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw"
+      "duration_ms": 213511,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Embrujo",
-        "url": "https://open.spotify.com/album/51k6mLimFAmnXcRbpyHbHP"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 199778,
-      "name": "Embrujo",
-      "url": "https://open.spotify.com/track/3DH72cjjj9nx1jKhvP2bhq"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Amores Ajenos",
         "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 162510,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Embrujo",
+        "url": "https://open.spotify.com/album/51k6mLimFAmnXcRbpyHbHP"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 199778,
+      "name": "Embrujo",
+      "url": "https://open.spotify.com/track/3DH72cjjj9nx1jKhvP2bhq"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Ay amor",
+        "url": "https://open.spotify.com/album/2vhLLMbLpNVjFGl5cY0zv6"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 185661,
+      "name": "Ay amor",
+      "url": "https://open.spotify.com/track/7pwCqAOD5ycYyhgdz8HeU4"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Bohemio",
         "url": "https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn"
       },
@@ -1063,30 +1079,6 @@
       "duration_ms": 208004,
       "name": "Bohemio",
       "url": "https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Porrito y a Dormir",
-        "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Xico",
-          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
-        },
-        {
-          "name": "GOE",
-          "url": "https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Porrito y a Dormir",
-      "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
     }
   ],
   "unique_name": "Lento.",

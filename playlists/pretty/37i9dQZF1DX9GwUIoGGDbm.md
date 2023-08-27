@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 
 > Music from "KAGUYA\-SAMA: LOVE IS WAR"\. 「かぐや様は告らせたい」シリーズを彩る楽曲をプレイリストで。©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,155 likes - 80 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,166 likes - 80 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 10 | [ラブ・ドラマティック](https://open.spotify.com/track/7AhMVnj6N89jmuCKNyr0AZ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [伊原六花](https://open.spotify.com/artist/2oHiy1x5X3FnhsLrrS6IEo) | [ラブ・ドラマティック](https://open.spotify.com/album/1NIPOt9WMMqNIpXA3adOPj) | 4:23 |
 | 11 | [DADDY ! DADDY ! DO !](https://open.spotify.com/track/2EXrZBkM93UvAPAmeXRlHs) | [石上優\(CV:鈴木崚汰\)](https://open.spotify.com/artist/06QvkYq7wYca4yyGipLjjW), [伊井野ミコ\(CV:富田美憂\)](https://open.spotify.com/artist/2Whrp7tcNj5hbnbz2iMvzG) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 4:17 |
 | 12 | [オセロ](https://open.spotify.com/track/1xGdgFKUohOdZNPwTHn5Tg) | [伊井野ミコ\(CV:富田美憂\)](https://open.spotify.com/artist/2Whrp7tcNj5hbnbz2iMvzG) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 4:17 |
-| 13 | [演説はーっ!?](https://open.spotify.com/track/46PtbvLGRcgYXQCBKwzjzq) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:04 |
+| 13 | [演説はーっ！？](https://open.spotify.com/track/46PtbvLGRcgYXQCBKwzjzq) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:04 |
 | 14 | [センチメンタルクライシス](https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [Assortrip](https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ) | 4:03 |
 | 15 | [風に吹かれて](https://open.spotify.com/track/6qi17D1xjNEFMLpYwFurV1) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [ハルカカナタヘ](https://open.spotify.com/album/6vkvEwrB0FClvO0pMg7FLq) | 4:32 |
 | 16 | [純金飾緒](https://open.spotify.com/track/2eGyLLxyTEOY26DUb0aLiW) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:08 |
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 23 | [ソーラン節 \(秀知院学園体育祭ver.\)](https://open.spotify.com/track/1s1jG27fmKbees3BMDKBD7) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 3:26 |
 | 24 | [私もしたい](https://open.spotify.com/track/4LcWIyl73OsY6Q8esmd7k9) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:48 |
 | 25 | [センチメンタルクライシス](https://open.spotify.com/track/0W4Ke3QvBn1I8jBqbv9A0X) | [四宮かぐや\(CV:古賀葵\)](https://open.spotify.com/artist/5dsjmUaFAqJvIN8PJ1n3Ay) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 4:00 |
-| 26 | [あなたのハートにヘッドショット!](https://open.spotify.com/track/3mxJTUKQBVlW4gsYCdCrhN) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:33 |
+| 26 | [あなたのハートにヘッドショット！](https://open.spotify.com/track/3mxJTUKQBVlW4gsYCdCrhN) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:33 |
 | 27 | [覚悟](https://open.spotify.com/track/0TPFL7I4lD6hzvUDW62OLO) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:15 |
 | 28 | [Love is Show](https://open.spotify.com/track/1wPOJ0SBOqbrs8Zw7wte88) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [高城れに](https://open.spotify.com/artist/2CxNK0ldwLmusTYWs11geL) | [Love is Show](https://open.spotify.com/album/2bcEQN6dTexArpv0SqCpL5) | 4:02 |
 | 29 | [やさしさの記憶](https://open.spotify.com/track/1dKN4gUy9GaUMn0p0IBtxB) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 4:14 |
-| 30 | [この1年](https://open.spotify.com/track/5JEZbjLnsCrRDoXbRe1U0c) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:08 |
+| 30 | [この１年](https://open.spotify.com/track/5JEZbjLnsCrRDoXbRe1U0c) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:08 |
 | 31 | [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 |
 | 32 | [つばめ先輩](https://open.spotify.com/track/45BOFzgDNrfExqVHywmryX) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:36 |
 | 33 | [間接キ……](https://open.spotify.com/track/5nq7LH2smwREjrQtUziT6d) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:09 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 54 | [強くなんてない](https://open.spotify.com/track/5ZDDIWZhlM4byn4dSUs9OS) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:14 |
 | 55 | [ゴッドハンド](https://open.spotify.com/track/32Ql1M3S7rZhgdKJ6eUsQ8) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 1:07 |
 | 56 | [パパ活](https://open.spotify.com/track/1SLPwVMfhmG6ZNPzBWh953) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 1:26 |
-| 57 | [がんばれー!](https://open.spotify.com/track/1yKEQZgIW7dFtHeLZJvX1Q) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 1:14 |
+| 57 | [がんばれー！](https://open.spotify.com/track/1yKEQZgIW7dFtHeLZJvX1Q) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 1:14 |
 | 58 | [ちゃんと見るだけで](https://open.spotify.com/track/5Fa3XR9i6AM1zoKjM1EgQH) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:28 |
 | 59 | [そういう目B](https://open.spotify.com/track/2dZbmpUrEwElbil8oGgqKi) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 1:08 |
 | 60 | [げっ](https://open.spotify.com/track/6CHSrZ0w23gdAxsJxxaPoC) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:56 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 62 | [本当の私](https://open.spotify.com/track/4h0ZfvzrTe0OvyPvvsoO7f) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 2:06 |
 | 63 | [許してはいけないわ](https://open.spotify.com/track/6x2AEwJiu06xz6f20brCYd) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:32 |
 | 64 | [ひとり](https://open.spotify.com/track/1cCmFAvyBHk8v6OnytN3o1) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 0:52 |
-| 65 | [ゲームしましょう!](https://open.spotify.com/track/6QL2KO5yrEUyECQhZcDKRv) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:38 |
+| 65 | [ゲームしましょう！](https://open.spotify.com/track/6QL2KO5yrEUyECQhZcDKRv) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:38 |
 | 66 | [ぶっちゃけ](https://open.spotify.com/track/1QELpj87Lmz9PhcLWoEp2M) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:30 |
 | 67 | [信じて](https://open.spotify.com/track/5kKxGoeQZvWLY0OYI52D7E) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 2:09 |
 | 68 | [対F仕様](https://open.spotify.com/track/1klyEfENqoPTYumR5yXtb3) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:47 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 | 74 | [ひたむき](https://open.spotify.com/track/29waYswQXk3iKV3FvUi5KU) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 2:22 |
 | 75 | [むかーしむかし](https://open.spotify.com/track/2xxd9ckwkWB45JzJNgTYX9) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:36 |
 | 76 | [文化祭マジック](https://open.spotify.com/track/5kjZ1V2o5pGd0PwhrWhxuu) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:38 |
-| 77 | [チャンス来たぁああ!](https://open.spotify.com/track/4g1tQ4Cgx0aS5S6I7NbZik) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 0:38 |
+| 77 | [チャンス来たぁああ！](https://open.spotify.com/track/4g1tQ4Cgx0aS5S6I7NbZik) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 0:38 |
 | 78 | [俺の女に](https://open.spotify.com/track/0oO1L6XCXDey0YIqQi49iG) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:09 |
 | 79 | [魔女の館](https://open.spotify.com/track/0Cl7mvysw3gzg8YeGx9YMi) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:46 |
 | 80 | [悲しくて lulululu \-Original ver.\-](https://open.spotify.com/track/4FVQ7SLv1xLgNRi4y1Dp0m) | [西田圭稀](https://open.spotify.com/artist/65ZK9nLtUCgjxoeuJaEHF6) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 4:10 |
 
-Snapshot ID: `MCwwNDEyZjI0NjUxZjZmNDQxMTg1OTMyNTE5NGZkYzM1MDY3MWQwMTJi`
+Snapshot ID: `MCwwZTYyYmU5OWIyODQ3YjBhN2I0ZWQyNzM5NjJhNDkwMzM1MTIxMjAz`

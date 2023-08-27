@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Bilal Saeed & Sunanda Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,586 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,827 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 51 | [Toronto Wala Gabhru](https://open.spotify.com/track/3sDN39Dmqny4KiNAVn9JYk) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Lost Treasures](https://open.spotify.com/album/60224gsHzqN70VFJ3EsTuX) | 2:24 |
 | 52 | [Koke Vich Dil](https://open.spotify.com/track/0LdjpY3xKTWtiAFhxOCkLU) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Koke Vich Dil](https://open.spotify.com/album/3FwnWiXeueWoQbrxQLooOU) | 2:15 |
 | 53 | [Yaad](https://open.spotify.com/track/0CTLV9Fr5CEkvhqmBjvEIU) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Yaad](https://open.spotify.com/album/6KqNthM4VNfQnbHLtHtTNl) | 2:22 |
-| 54 | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP) | 3:36 |
+| 54 | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Vishal Shelke](https://open.spotify.com/artist/6yoZ3sfnKmeMLGuDUaeRnQ) | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP) | 3:36 |
 | 55 | [Munda Sardaran Da](https://open.spotify.com/track/7ssVTIHPAoQq8xU0uP30TV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Munda Sardaran Da](https://open.spotify.com/album/5MaQSztrVCuU00qBsmjmcO) | 3:42 |
 | 56 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 |
 | 57 | [Mallo Malli](https://open.spotify.com/track/0z22zBWD8vblkpsm3vf8oa) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Mallo Malli](https://open.spotify.com/album/2RnZyLDqMz6Clx2MVGnl2D) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 | 75 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 |
 
-Snapshot ID: `MCxiMTlmOTVkMjc5ZTNkNWViZDk4ZmMwYmQzMzM0YmRmN2VjNjBhODgw`
+Snapshot ID: `MCxmYTUyNzMyYWQ5Y2FlNTBjODdiOWMxNjZkYWM2ODJkYWE4NTZjNzc0`

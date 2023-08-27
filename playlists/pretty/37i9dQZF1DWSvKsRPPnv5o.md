@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Zoe Osama
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,527 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,586 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/track/5b9FYnAB7KeFOvBywwvnfO) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/album/25Zl2PLtuUGx14eqL3eaYQ) | 2:50 |
 | 75 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 
-Snapshot ID: `MCxkZjJjNWFjMWM4ZTAxMGFmOGI1NTBhMDQ3MTFkMDI2ZTVmNWFiZWIw`
+Snapshot ID: `MCwwZjI2YjY4MjFiMTVmNDIyODFlMTA5ZWYxNGJlYTkyODllYmQ2NTJh`

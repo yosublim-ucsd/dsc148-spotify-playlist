@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-115 songs - 5 hr 33 min
+116 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 | 2021-12-21 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 | 2021-12-21 |  |
 | [Little Jack Frost Get Lost](https://open.spotify.com/track/1JsOdx0Tj3p6iJDauh63sK) | [Frankie Carle](https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu), [Marjorie Hughes](https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:45 | 2021-12-21 | 2022-07-29 |
-| [Little Jack Frost Get Lost \(with Marjorie Hughes\) \- 78rpm Version](https://open.spotify.com/track/4FmnUrA4cN7bsTuHNuEOqv) | [Frankie Carle](https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu), [Marjorie Hughes](https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO) | [From The Sony Vault: Christmas With The Big Bands](https://open.spotify.com/album/12i6rxeB8sFG8jMIEZV2N8) | 2:44 | 2022-01-03 |  |
+| [Little Jack Frost Get Lost \(with Marjorie Hughes\) \- 78rpm Version](https://open.spotify.com/track/2VOdqW6WMnCGeJRQDE4rR1) | [Frankie Carle](https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu), [Marjorie Hughes](https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO) | [A Big Band Christmas](https://open.spotify.com/album/10jafPwL637Df1uCD6Hxkt) | 2:43 | 2023-08-17 |  |
+| [Little Jack Frost Get Lost \(with Marjorie Hughes\) \- 78rpm Version](https://open.spotify.com/track/4FmnUrA4cN7bsTuHNuEOqv) | [Frankie Carle](https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu), [Marjorie Hughes](https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO) | [From The Sony Vault: Christmas With The Big Bands](https://open.spotify.com/album/12i6rxeB8sFG8jMIEZV2N8) | 2:44 | 2022-01-03 | 2023-08-27 |
 | [Little Jack Frost Get Lost \(with Marjorie Hughes\) \- 78rpm Version](https://open.spotify.com/track/49kWNpRxLDJjRbjbbrSQrs) | [Frankie Carle](https://open.spotify.com/artist/40SRPccslwLmXEIf9hZUJu), [Marjorie Hughes](https://open.spotify.com/artist/0uLyz5wCWsQt9C96NkQhiO) | [The Classic Big Band Christmas Album](https://open.spotify.com/album/6HLip1J6SbOlgIWyH98Bmk) | 2:44 | 2022-11-09 | 2022-11-13 |
 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 | 2021-12-21 |  |
 | [Little White Berry](https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Ben Castle](https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 3:24 | 2021-12-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1980s.",
-  "num_followers": 83848,
+  "num_followers": 84008,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTFkNWE1N2NjODc4MzlkNzI5NmUyMTgxZGRiOTY4ODM0NDQxMDk4",
+  "snapshot_id": "MCxiOTljNTkyNzkwODgwOTIwMDcyZmVmZWIzNzRhMzVhZjMxZjYwNjk2",
   "tracks": [
     {
       "added_at": "2023-01-18 20:42:10",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "For Those About to Rock (We Salute You)",
-        "url": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 344240,
-      "name": "For Those About to Rock (We Salute You)",
-      "url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 363640,
       "name": "Addicted To Love",
       "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "For Those About to Rock (We Salute You)",
+        "url": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 344240,
+      "name": "For Those About to Rock (We Salute You)",
+      "url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Let There Be Rock",
-        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 333800,
-      "name": "Whole Lotta Rosie",
-      "url": "https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 346960,
       "name": "Love Bites - Remastered 2017",
       "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 333800,
+      "name": "Whole Lotta Rosie",
+      "url": "https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -763,6 +763,22 @@
       "duration_ms": 302120,
       "name": "Head Over Heels / Broken",
       "url": "https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Pyromania (Deluxe)",
+        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 247828,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
     },
     {
       "added_at": "2023-01-18 20:42:10",
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Pyromania (Deluxe)",
-        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 247828,
-      "name": "Rock Of Ages",
-      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "Sonic Temple",
         "url": "https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-18 20:42:10",
       "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
-    },
-    {
-      "added_at": "2023-01-18 20:42:10",
-      "album": {
         "name": "5150",
         "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 219813,
       "name": "New Sensation",
       "url": "https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId"
+    },
+    {
+      "added_at": "2023-01-18 20:42:10",
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 308906,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
     },
     {
       "added_at": "2023-01-18 20:42:10",

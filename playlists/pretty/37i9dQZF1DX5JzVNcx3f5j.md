@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,090 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,107 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [てめーらァァァ!!それでも銀魂ついてんのかァァァ!](https://open.spotify.com/track/0Kj3kRSRBrFPXJdklDNqvZ) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:54 |
+| 1 | [てめーらァァァ！！それでも銀魂ついてんのかァァァ！](https://open.spotify.com/track/0Kj3kRSRBrFPXJdklDNqvZ) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:54 |
 | 2 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 |
 | 3 | [最後のバカ騒ぎ](https://open.spotify.com/track/5lUHrSB4sKC6l7nOd4J8lc) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 3:55 |
 | 4 | [曇天](https://open.spotify.com/track/2TSvt58BhzWoQuJokBUlLJ) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [曇天](https://open.spotify.com/album/4rxIbCyuBBauCqBDPSJhzf) | 3:10 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 20 | [雪のツバサ](https://open.spotify.com/track/5DbIPyr5055bvt3WQvgDdD) | [redballoon](https://open.spotify.com/artist/5Vy3sqkiOe2QlsbGQw0CPy) | [雪のツバサ](https://open.spotify.com/album/4DFebufaqFB0Q1C2aReMDD) | 3:47 |
 | 21 | [キャンディ・ライン](https://open.spotify.com/track/5SqWdaJK7THG2mzklBHRRf) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [キャンディ・ライン](https://open.spotify.com/album/1gPbVlXY6gZlrarifZ06ru) | 4:06 |
 | 22 | [ダンボールの神様](https://open.spotify.com/track/5KVkHGtRyyWHbYmUSnMuxO) | [MADAO\(CV.立木文彦\)](https://open.spotify.com/artist/3QTIRIO2XNvpYNxS7CciX5) | [銀魂 オリジナル・サウンドトラック 4](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 3:30 |
-| 23 | [余のチャームポイント](https://open.spotify.com/track/4fpJ9qZSXqt3kvCzLmU4G5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:30 |
-| 24 | [糖分とらねぇとなぁー](https://open.spotify.com/track/5mfiZIpHI4kZnWJfxfRQTe) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:26 |
+| 23 | [余のチャームポイント](https://open.spotify.com/track/4fpJ9qZSXqt3kvCzLmU4G5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:30 |
+| 24 | [糖分とらねぇとなぁー](https://open.spotify.com/track/5mfiZIpHI4kZnWJfxfRQTe) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:26 |
 | 25 | [修羅](https://open.spotify.com/track/3puQ1t1tYD0v2eEm52MLh7) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [修羅](https://open.spotify.com/album/5anfCliZWw7DP9tpzBHtEk) | 3:25 |
 | 26 | [奇跡](https://open.spotify.com/track/1QE10bvac3E9fgRd1Wm2iA) | [SNOWKEL](https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC) | [奇跡](https://open.spotify.com/album/2ALbESuUbsSgHns3tIycvn) | 5:17 |
 | 27 | [SIGNAL](https://open.spotify.com/track/3lXxSwd0lhvllNbiUYLE9R) | [KELUN](https://open.spotify.com/artist/6nteBNcTu3uxmOYz2Iro7o) | [Astral Lamp](https://open.spotify.com/album/0YaMAB2C5EHrHKT5i5ZlfE) | 4:04 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 32 | [輝いた](https://open.spotify.com/track/3Ncn1jHLPFyI21J1lXhk4J) | [Shigi](https://open.spotify.com/artist/7vNbDBlCRm8tiYA2bAcGPo) | [輝いた](https://open.spotify.com/album/10OJiDGqLYsxrM4wupwHBa) | 4:10 |
 | 33 | [朝ANSWER](https://open.spotify.com/track/7FCmzVZv81EajgiGda45Wc) | [Pengin](https://open.spotify.com/artist/37gp9dZaG197Rh6ZJQbzmn) | [朝ANSWER](https://open.spotify.com/album/7z6ITKS7q8krxtMENWsjmr) | 4:31 |
 | 34 | [ウォーアイニー](https://open.spotify.com/track/78WUlU70tL5wAdgf1Z78a7) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd), [BEAT CRUSADERS](https://open.spotify.com/artist/30W3lzQdQnTAtkvJ9Rx21l) | [ウォーアイニー](https://open.spotify.com/album/4LvZpXd0lwdTkvsBmQI2QH) | 4:02 |
-| 35 | [ヅラじゃない桂だァァ!!](https://open.spotify.com/track/4FTTYlFTVD9Om9JVz9vhRQ) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:38 |
-| 36 | [カトケン・サ・ン・バ!](https://open.spotify.com/track/1F23saqLVtFm5id2u5PrPu) | [カトケン\(CV.田中一成\)](https://open.spotify.com/artist/4ICFx7FpLoPlG9qhFQGMF5) | [銀魂 オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 2:10 |
+| 35 | [ヅラじゃない桂だァァ！！](https://open.spotify.com/track/4FTTYlFTVD9Om9JVz9vhRQ) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:38 |
+| 36 | [カトケン・サ・ン・バ！](https://open.spotify.com/track/1F23saqLVtFm5id2u5PrPu) | [カトケン\(CV.田中一成\)](https://open.spotify.com/artist/4ICFx7FpLoPlG9qhFQGMF5) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 2:10 |
 | 37 | [かぶき町ブルース](https://open.spotify.com/track/2wvm5MjbOarZLkDWUCxraX) | [灰津尾出男](https://open.spotify.com/artist/2dQHHzLiJ8K37oJFtAe6cG) | [銀魂 オリジナル・サウンドトラック 2](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 1:09 |
 | 38 | [鉄を叩きながら てめーの魂を叩き上げろ](https://open.spotify.com/track/5RL3YwSu4XXPe84fLspU2l) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 2](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 2:37 |
 | 39 | [ワンダフルデイズ](https://open.spotify.com/track/5OJoszBRioqAtvsdBYmUZ6) | [ONE☆DRAFT](https://open.spotify.com/artist/3x57ie4pExcYUjPJCOexrY) | [ワンダフルデイズ](https://open.spotify.com/album/3aMLeaNmJyhcd6ekjIx0ib) | 4:09 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 86 | [二百四十六勝、二百四十七敗](https://open.spotify.com/track/5LX24pCdgqUlSOxcImetIG) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 3:02 |
 | 87 | [在りし日](https://open.spotify.com/track/0bU5zspmMwLzT8DBvMGC5V) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 1:45 |
 
-Snapshot ID: `MCxiYWU1M2M0ZTYzY2M3NzIwMTdlZTA3Y2U4ZTQzYTEyNmI0OWZiNGNj`
+Snapshot ID: `MCxlOWUyNzc5Yzg1MzcyODA0ZTA4ZWM5MTk3ZWZlMTViYjExMzkwY2U3`

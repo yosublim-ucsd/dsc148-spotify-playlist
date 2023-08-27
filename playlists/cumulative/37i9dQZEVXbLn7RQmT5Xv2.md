@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-684 songs - 1 day 15 hr 38 min
+685 songs - 1 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Kan Lak Ma'aya \(Feat\. Umm Kulthum\)](https://open.spotify.com/track/6EVt050wg9TQv9HpSn0Ke3) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Ugly Ducklings](https://open.spotify.com/album/64DY9gqA0dWDjP7v6NSlVL) | 3:45 | 2021-12-06 | 2021-12-25 |
 | [KATAFAST](https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:30 | 2023-02-26 | 2023-03-03 |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2021-10-23 | 2022-09-25 |
+| [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 | 2023-08-26 |  |
 | [Khaliji Westcoast](https://open.spotify.com/track/5oVcQLyEEJDiIoNPNi2pUQ) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Khaliji Westcoast](https://open.spotify.com/album/5atrvsizsJwUKs4Xn3i95t) | 2:34 | 2022-04-03 | 2022-04-07 |
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-17 | 2023-04-27 |
 | [KHOFASH](https://open.spotify.com/track/6nfRulSXumFW1yPsyTmGjD) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 3:54 | 2021-12-30 | 2022-01-01 |
@@ -421,7 +422,7 @@
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-15 | 2021-05-10 |
 | [Rased El Satr](https://open.spotify.com/track/4ageOMHYR3Nw14OKnSx3X2) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Rased El Satr](https://open.spotify.com/album/2tkDEznir270fP93uND9k1) | 2:38 | 2023-01-19 | 2023-04-11 |
 | [Ray'a](https://open.spotify.com/track/5OqP6CKUFRyoeVQnOU37ds) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ray'a](https://open.spotify.com/album/70QFgfmKKOBw8ZNrwvfM8w) | 4:06 | 2021-11-17 | 2022-01-25 |
-| [Raye2](https://open.spotify.com/track/5FG5OwMxg6fUSW8cD3W6M0) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Raye2](https://open.spotify.com/album/2czAtFBjF4awl68FiZQxUE) | 3:47 | 2023-07-23 |  |
+| [Raye2](https://open.spotify.com/track/5FG5OwMxg6fUSW8cD3W6M0) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Raye2](https://open.spotify.com/album/2czAtFBjF4awl68FiZQxUE) | 3:47 | 2023-07-23 | 2023-08-27 |
 | [Ra’sa Slow](https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ra’sa Slow](https://open.spotify.com/album/7fzgWkatGkQaotzwJo6tTp) | 3:12 | 2022-03-02 | 2022-03-15 |
 | [Rehla](https://open.spotify.com/track/61krPxyIuTV8tpzMxHEWJh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:44 | 2023-03-24 | 2023-07-16 |
 | [Reyah El Hayah](https://open.spotify.com/track/1ZuHXbFUhAb3SHOn4TzQbW) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Reyah El Hayah](https://open.spotify.com/album/0pyY1M7TsYkpXll7BpjI4i) | 3:49 | 2023-08-05 |  |

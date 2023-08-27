@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,128 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,211 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Henny](https://open.spotify.com/track/5kFqyOxSzbsXVaqVfXhJ57) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Henny](https://open.spotify.com/album/5uhxqK0SAwJYCulcb9ug9R) | 2:29 |
 | 40 | [Bobo](https://open.spotify.com/track/4vUDJ6ajc7zjVjCu132UvT) | [SisiK](https://open.spotify.com/artist/2uCRg5frmbfGvzlLRR0Pyi) | [Bobo](https://open.spotify.com/album/7nLkUKpKDd9ZUxAi2O0YKQ) | 2:38 |
 
-Snapshot ID: `MCw5OGRjODY5NTUwNjU2MzFhMjc1ZDM1YmY3ZTMwM2RkNDI0ZTcwNTlh`
+Snapshot ID: `MCxmNTcwOTMxMjlhNjZmZDA1Mjg1NjNkYWRhYjIyMzAwODBiZjg4NTRj`

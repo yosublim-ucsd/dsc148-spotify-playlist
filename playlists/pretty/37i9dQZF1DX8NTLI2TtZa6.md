@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,458,545 likes - 222 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,458,546 likes - 222 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 28 | [Poetry](https://open.spotify.com/track/2rlOcXfBwMlZfMvXGvSkU7) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Poetry](https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8) | 3:01 |
 | 29 | [Sunset](https://open.spotify.com/track/0ag92nW0SFgRFtFPk34u6y) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Sunset](https://open.spotify.com/album/02Y1OTMuvVLFcIdetI1EFF) | 2:08 |
 | 30 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 |
-| 31 | [The Stars Are Your Friends](https://open.spotify.com/track/44stpzDXyTfG9LV97pHHP0) | [Matt Bettinson](https://open.spotify.com/artist/5MtYl3JKJxBUNtTo50XZcx) | [The Stars Are Your Friends](https://open.spotify.com/album/6KxXL9mncQwzIz4SFtUVQF) | 2:30 |
+| 31 | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/track/44stpzDXyTfG9LV97pHHP0) | [Matt Bettinson](https://open.spotify.com/artist/5MtYl3JKJxBUNtTo50XZcx) | [Nocturne No.1: The Stars Are Your Friends](https://open.spotify.com/album/6KxXL9mncQwzIz4SFtUVQF) | 2:30 |
 | 32 | [Moments of movement](https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Moments of movement](https://open.spotify.com/album/0gLpOwvM4ZUnonSZV5Odp3) | 2:12 |
 | 33 | [Luna Llena](https://open.spotify.com/track/11WbYgcb6E1FT0ouyqhopV) | [Jovian Findlay](https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5) | [Luna Llena](https://open.spotify.com/album/1cNgRDVEReVsIxA6i7Ap7Z) | 2:01 |
 | 34 | [Ocean Mind](https://open.spotify.com/track/0yke2mzO01rTHhBpBLnYwh) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Ocean Mind](https://open.spotify.com/album/3YpBO1Twz1VUCgEUvhAgr2) | 2:22 |
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 162 | [irreplaceable \- solo piano](https://open.spotify.com/track/6vYYdK6VdU1c3X5WinwjPZ) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [irreplaceable \(solo piano\)](https://open.spotify.com/album/5kndQiB3SZc5NuT32Ampg4) | 4:27 |
 | 163 | [Last Things First](https://open.spotify.com/track/7HCl80rnRUZoeVWpuXLSli) | [Baltasar Thorgrimson](https://open.spotify.com/artist/0wyQQ5R0rWiaT1g8GUEDBC) | [Last Things First](https://open.spotify.com/album/30WZaV9jXKl6JYqjSUEZZq) | 2:32 |
 | 164 | [Sweet Alyssum](https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw) | [Evelyn Urich](https://open.spotify.com/artist/1JSB56ShPffPPGXU7HU2Ky) | [Sweet Alyssum](https://open.spotify.com/album/1jC3AyYyBtnDaAQv42qk1l) | 2:21 |
-| 165 | [Moux: with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 |
+| 165 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 |
 | 166 | [am eisernen Steig](https://open.spotify.com/track/6Vy0gvQG1dq7I7yTnNZwiz) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 3:08 |
 | 167 | [Aviron](https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Prospicio](https://open.spotify.com/album/2Jva3LhKgM8We64wBcUtAX) | 2:30 |
 | 168 | [Gentle](https://open.spotify.com/track/5XtP7nT6y4Yl8BhnPkDLjr) | [Lennox Cole](https://open.spotify.com/artist/4ZJ87FCTeqG6E14EkGqXpi) | [Gentle](https://open.spotify.com/album/4MVDKPNV0q07arvLobByMW) | 2:12 |
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 221 | [Nomae](https://open.spotify.com/track/3EhHWAEZpRI78OtJEPoabw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Arctica](https://open.spotify.com/album/3BTmQFkuJ96ZlpeRNXerBd) | 3:09 |
 | 222 | [Der Vogel auf dem Felsen](https://open.spotify.com/track/6qeY26kCmlIzpLZVibJU4M) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 2:20 |
 
-Snapshot ID: `MCw2OGZkY2FiZDNlNTFiZGViMmY3OTUzMDY2Y2I3YzZlN2E5Y2I2YmNm`
+Snapshot ID: `MCw2MWRmY2Q2MDYwYjQ2YzQzNDk4ZWJlNWExZjYzN2NhYmQ4ZTMzZTA1`

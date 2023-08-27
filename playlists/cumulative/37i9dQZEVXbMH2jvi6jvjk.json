@@ -5972,7 +5972,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 287142,
       "name": "Dali Wam",
       "url": "https://open.spotify.com/track/4HrTGHLIffBYPFan9QaAjg"
@@ -6150,7 +6150,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -7362,7 +7362,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 306833,
       "name": "Dubula",
       "url": "https://open.spotify.com/track/35P4NcObu5fVLjKa0OBX5r"
@@ -8506,7 +8506,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -9962,7 +9962,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 429034,
       "name": "Gojasi",
       "url": "https://open.spotify.com/track/0z2QglVOqge7D0Mo7Pqvow"
@@ -10318,7 +10318,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 368640,
       "name": "Habibi (Quantum Sound)",
       "url": "https://open.spotify.com/track/0JtoyusgiISK10cXzX79uH"
@@ -11264,7 +11264,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 199512,
       "name": "How We Roll",
       "url": "https://open.spotify.com/track/66PVdnWWemyJbvScVS6vJ0"
@@ -11772,7 +11772,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -14312,7 +14312,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 329079,
       "name": "Khekheleza (Dlala Dlala)",
       "url": "https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo"
@@ -16854,7 +16854,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 273640,
       "name": "Malume (Nta Swi Byela Mani Revisit)",
       "url": "https://open.spotify.com/track/0Wa6EyiyMpByx1vmufeSc0"
@@ -19348,7 +19348,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 334419,
       "name": "Ngizwile",
       "url": "https://open.spotify.com/track/0AtUfScqL8UjpRGI2Mt4BI"
@@ -19754,7 +19754,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -21060,7 +21060,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -24541,7 +24541,7 @@
     },
     {
       "album": {
-        "name": "Sisekakeni Babies (feat. Skillz Musiq & RudeBoyz)",
+        "name": "Sisekakeni Babies (feat. Skillz & RudeBoyz)",
         "url": "https://open.spotify.com/album/3rgyWDy5SH3WLGRHZc2kiA"
       },
       "artists": [
@@ -24550,8 +24550,8 @@
           "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
         },
         {
-          "name": "Skillz Musiq",
-          "url": "https://open.spotify.com/artist/7m5wTG7hotsoPNRoAD2win"
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
         },
         {
           "name": "Rudeboyz",
@@ -24560,9 +24560,9 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 343414,
-      "name": "Sisekakeni Babies (feat. Skillz Musiq & RudeBoyz)",
+      "name": "Sisekakeni Babies (feat. Skillz & RudeBoyz)",
       "url": "https://open.spotify.com/track/30KX5p3u1xN8TF83eGY0bQ"
     },
     {
@@ -26160,7 +26160,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 314341,
       "name": "Stimela",
       "url": "https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd"
@@ -26660,7 +26660,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -27204,7 +27204,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -30422,7 +30422,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
@@ -31374,7 +31374,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
@@ -32202,7 +32202,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 381941,
       "name": "yey",
       "url": "https://open.spotify.com/track/37ISMEYWqhRHcPEitHn8Er"

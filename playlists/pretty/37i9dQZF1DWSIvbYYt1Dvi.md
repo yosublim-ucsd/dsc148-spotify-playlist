@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > pumapji e sonotws é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,512 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,594 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 27 | [O Retorno do Boombap \- Bônus](https://open.spotify.com/track/6kSQTkWxLhDUbfVCBU8NSc) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [MG CDD](https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [ERREJOTACULTDRILL, Vol\. 2 \- Esquema Novo](https://open.spotify.com/album/0PwwCnbPX0A6AiiRolXUJm) | 2:14 |
 | 28 | [Trilha](https://open.spotify.com/track/4c4tHsfQCbRNV756hV3e46) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Trilha](https://open.spotify.com/album/6LNq7whBmKdA35guSWUWtw) | 1:07 |
 | 29 | [Lote 88](https://open.spotify.com/track/18aAhKnY56Codi4iWzcj09) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Lote 88](https://open.spotify.com/album/7qFrlTmb3wvGgtgeXo9flY) | 3:42 |
-| 30 | [Amor Virou Um Prêmio](https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 3:39 |
+| 30 | [Amor Virou Um Prêmio](https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 3:39 |
 | 31 | [Investidor de Sonhos](https://open.spotify.com/track/36hjUBVeXE16PDunTGE6X7) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 2:48 |
 | 32 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 | 33 | [Versão Brasileira](https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira](https://open.spotify.com/album/14NgsBHbelrwYjr6IqFOQ8) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Bug do Milênio \(A Cone Voltou\)](https://open.spotify.com/track/2AL89TC0tGo2dxvpDjve3n) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Bug do Milênio \(A Cone Voltou\)](https://open.spotify.com/album/4izW6bYoT5TLnGF64JBkMi) | 3:40 |
 | 50 | [bode](https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:51 |
 
-Snapshot ID: `MCxkMWM0OWRkMDk0ZmRmNjk5NGEzYjhkYzhjNzgxYzNiMmY5OTMzZTBl`
+Snapshot ID: `MCxlOTJkNzQyZjhiYmU4NWQ0Yjc5NDAzN2E5ZjBmZjAwYWYwNGFkNWI3`

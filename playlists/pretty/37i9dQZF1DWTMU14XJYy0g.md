@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Ricardo Mollo, Gustavo Santaolalla & León Gieco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,398 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,542 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [TRAS](https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:59 |
 | 100 | [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 |
 
-Snapshot ID: `MCw3ZjRiNjFmMDhmODk3OTkyY2ZiM2FhZjJmZWI0ZDRiN2Q3Mjg1ZjEy`
+Snapshot ID: `MCw1NDRhY2M3YmQ4Y2M0ZWYyYTZhNWUzYWFhOTRhYWU4ZmJjMTFmZTlj`

@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.  ",
-  "num_followers": 181528,
+  "num_followers": 181644,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmQ5MDMyMTBiMWI2MWJjZDU2ZTU4ODcwNmEzNjU2YTk3ODYxNzkx",
+  "snapshot_id": "MCxmYzQ5ODcwNTM5OTY2ZDYxOGQ4NjBlYjBiYThkMjVjMTY2ZDc5MTFj",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
+      },
+      "artists": [
+        {
+          "name": "Edm\u00e1zia Mayembe",
+          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Segredo",
-        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
-      },
-      "artists": [
-        {
-          "name": "Edm\u00e1zia Mayembe",
-          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
         "name": "Menina Mulher",
         "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
       },
@@ -763,18 +763,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
+        "name": "Ref\u00fagio",
+        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
       "artists": [
         {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
         }
       ],
-      "duration_ms": 263906,
-      "name": "Puro",
-      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
+      "duration_ms": 237570,
+      "name": "Ref\u00fagio",
+      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -799,6 +803,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
         "name": "Monarquia",
         "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 202032,
       "name": "Monarquia",
       "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Ref\u00fagio",
-        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
-        }
-      ],
-      "duration_ms": 237570,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Tudo de Novo",
-        "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
-      },
-      "artists": [
-        {
-          "name": "Eva Rapdiva",
-          "url": "https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd"
-        },
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Tudo de Novo",
-      "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
         "name": "Jaj\u00e3o (feat. Eddy Flow)",
         "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 248913,
       "name": "Jaj\u00e3o (feat. Eddy Flow)",
       "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "Tudo de Novo",
+        "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
+      },
+      "artists": [
+        {
+          "name": "Eva Rapdiva",
+          "url": "https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd"
+        },
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Tudo de Novo",
+      "url": "https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Sinto Falta",
-        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
+        "name": "Felicidade",
+        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
       },
       "artists": [
         {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
         }
       ],
-      "duration_ms": 202397,
-      "name": "Sinto Falta",
-      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
+      "duration_ms": 166000,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Felicidade",
-        "url": "https://open.spotify.com/album/2UDLD0fwPAfijkPBFuRo2i"
+        "name": "Sinto Falta",
+        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
       },
       "artists": [
         {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
+      "duration_ms": 202397,
+      "name": "Sinto Falta",
+      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1495,22 +1495,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/1pN6zDDiw0bGLgm4xGkbnD"
+        "name": "The Gentleman",
+        "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
       },
       "artists": [
         {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
         },
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
         }
       ],
-      "duration_ms": 217301,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
+      "duration_ms": 226626,
+      "name": "Nha Rainha (feat. Dino D'Santiago)",
+      "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
     }
   ],
   "unique_name": "Dancing Kizomba",

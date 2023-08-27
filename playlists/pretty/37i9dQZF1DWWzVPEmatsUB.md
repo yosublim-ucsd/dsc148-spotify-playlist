@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,032 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,009 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Same Sunrise](https://open.spotify.com/track/6iyQhBdM54KoOdIfi8BDtX) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:31 |
 | 100 | [As Is](https://open.spotify.com/track/3blffQRXJqDABPTWunKmEc) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [California Rain](https://open.spotify.com/album/1fo9JU2Wjx0meyd4i8kVXD) | 2:28 |
 
-Snapshot ID: `MCwxMjFlNGRlNTQ1MTAxY2EyMDkyZWFhNmI2YzlmYzI1MzdkZDU0MjY4`
+Snapshot ID: `MCwzNjYyMDE3OGRlZGIwMDFhZjM2NjM2NjNiYjZmNzVjNWE4NGI5ODY4`

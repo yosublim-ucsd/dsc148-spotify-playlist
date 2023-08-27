@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:02egj8t9vzqr5bWgMov3zq">Asteria</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,346 likes - 31 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,351 likes - 31 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 30 | [Demo 14\_02\_daeliminare.mp3](https://open.spotify.com/track/4KYe7UW8G9LQqGTn8V52cf) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [Demo 14\_02\_daeliminare.mp3](https://open.spotify.com/album/6NeVjxs2Jg6e83nMTpjFcP) | 1:42 |
 | 31 | [7 su 7](https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 2:27 |
 
-Snapshot ID: `MCwzNTYwZmVjNjliMDg2M2I0OGFmY2JkMThiOWE4ZjlkN2FkMzgyMmY2`
+Snapshot ID: `MCxjZTcwZDc0ZGU1ZmI0MWI3N2FlOWQyY2VlOTYwNTI5YmZjZGJmZmFj`

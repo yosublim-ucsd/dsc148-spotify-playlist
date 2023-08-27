@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Asura",
+        "url": "https://open.spotify.com/album/1Q6WH0SaTmORCqMNWnM0hO"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Asura",
+      "url": "https://open.spotify.com/track/4rYmKvCB2STFuskk0rgT6U"
+    },
+    {
+      "album": {
         "name": "Avec Gang",
         "url": "https://open.spotify.com/album/7MTLaQsUGD6AYJa9uucT1T"
       },
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 256941,
       "name": "Deflect",
       "url": "https://open.spotify.com/track/1VWPI5VdruU53HWDokFJBW"
@@ -5294,7 +5312,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 273760,
       "name": "Namaste",
       "url": "https://open.spotify.com/track/5FFw5UvICvhT7TGdZ8cG2i"
@@ -5854,6 +5872,32 @@
       "duration_ms": 273454,
       "name": "Oxytocin - Original",
       "url": "https://open.spotify.com/track/7vQ9jJ34D9xXwy3g0pUuio"
+    },
+    {
+      "album": {
+        "name": "HOLLOW WORLD",
+        "url": "https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Anjulie",
+          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
+        },
+        {
+          "name": "ARE WE DREAMING",
+          "url": "https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Paper Moon",
+      "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
     },
     {
       "album": {
@@ -8159,6 +8203,28 @@
     },
     {
       "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/160Vz5WDOWAnLVgH66yuZD"
+      },
+      "artists": [
+        {
+          "name": "Buku",
+          "url": "https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi"
+        },
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270344,
+      "name": "Sweet & Sour",
+      "url": "https://open.spotify.com/track/61uCfCSfafUlGhY4yhOhp7"
+    },
+    {
+      "album": {
         "name": "Sweet Doughs",
         "url": "https://open.spotify.com/album/758JCrohSgvY4NJtRbmuXG"
       },
@@ -8290,7 +8356,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 246853,
       "name": "Tech Foul - Peekaboo Remix",
       "url": "https://open.spotify.com/track/01tb1I347g12xuR8FbJtOd"

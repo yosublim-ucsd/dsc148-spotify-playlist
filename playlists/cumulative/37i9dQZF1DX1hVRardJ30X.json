@@ -27279,6 +27279,28 @@
     },
     {
       "album": {
+        "name": "Duro Sin Frenos",
+        "url": "https://open.spotify.com/album/3kT2YDrQEGZzdUJacUz9TG"
+      },
+      "artists": [
+        {
+          "name": "D2OS",
+          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
+        },
+        {
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "Duro Sin Frenos",
+      "url": "https://open.spotify.com/track/6hxTmu8stKqHF0cuQttbiL"
+    },
+    {
+      "album": {
         "name": "D\u00e1kiti",
         "url": "https://open.spotify.com/album/2LZW54SRVeeaUtu2KsFdVr"
       },

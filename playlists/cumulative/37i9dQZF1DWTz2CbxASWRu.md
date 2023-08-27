@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 | 2023-08-26 |
+| [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 |  |
 | [A Minha Menina](https://open.spotify.com/track/3NefwRYI7GuLkajzHoRVRf) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Nuestras Canciones](https://open.spotify.com/album/3OVCObdYjGdtRr5t9mQfX3) | 3:17 | 2023-07-10 |  |
 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 | 2023-07-10 |  |
 | [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2023-07-10 |  |
@@ -152,7 +152,7 @@
 | [Guitarra](https://open.spotify.com/track/1rnNgMJDYoUp4uyvTwk0W3) | [Madredeus](https://open.spotify.com/artist/3mlxV3eHtMwvoOSLzR6CFj) | [Ainda: Original Motion Picture Soundtrack From "Lisbon Story"](https://open.spotify.com/album/10I0BDZh5AtSH8la2lvKbz) | 3:47 | 2023-07-10 |  |
 | [Gurbet](https://open.spotify.com/track/2cJhhpxflevAtPFku1kxID) | [Özdemir Erdoğan](https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6) | [Yorumcu](https://open.spotify.com/album/6LnGhVLzQPFRJtRKvlNKg8) | 3:26 | 2023-07-10 |  |
 | [Gwyra Mi](https://open.spotify.com/track/7uy1oI6Q8mcYw58CnRTbO8) | [Ramiro Musotto](https://open.spotify.com/artist/0FwKk6r4TvmTCGENmx7Sdk) | [Civilizacao & Barbarye](https://open.spotify.com/album/6mi9muszLIxpFzwHDDTX5U) | 4:32 | 2023-07-10 |  |
-| [Güzelliğin On Para Etmez](https://open.spotify.com/track/2ep9FW2KBErhsl6HXAlgzr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:46 | 2023-07-10 |  |
+| [Güzelliğin On Para Etmez](https://open.spotify.com/track/2ep9FW2KBErhsl6HXAlgzr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:46 | 2023-07-10 | 2023-08-27 |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2023-07-10 |  |
 | [Herbalist](https://open.spotify.com/track/3A50RFIzgUphr3ea4o6lkx) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Soundsystem Champions](https://open.spotify.com/album/08C6xNOwGqXS1WgpgcAJXZ) | 4:08 | 2023-07-10 |  |
 | [Herejia](https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG) | 3:46 | 2023-07-10 |  |

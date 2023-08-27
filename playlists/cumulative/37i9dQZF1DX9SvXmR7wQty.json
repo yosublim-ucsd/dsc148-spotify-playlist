@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 126506,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x"
@@ -8223,6 +8223,24 @@
     },
     {
       "album": {
+        "name": "Dans la moyenne",
+        "url": "https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158006,
+      "name": "Dans la moyenne",
+      "url": "https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN"
+    },
+    {
+      "album": {
         "name": "DANS LA WAVE",
         "url": "https://open.spotify.com/album/2tCPFsp8rVHoCek3BgsASg"
       },
@@ -10802,6 +10820,10 @@
         {
           "name": "Charlotte Cardin",
           "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        },
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
         }
       ],
       "date_added": "2023-08-25",

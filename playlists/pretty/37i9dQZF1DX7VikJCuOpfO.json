@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez & Espinoza Paz",
-  "num_followers": 68729,
+  "num_followers": 68774,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDk5ZTE1ZTczZWFiN2IzNzNkZDg2NzY3MGNmOWQ2MDEyZGJmNzc2",
+  "snapshot_id": "MCxmZmZjZWQ4OGFmY2Y1NDhlMTc0YmYxNDE4NTFhNWM4MzhmZjk2Mjgy",
   "tracks": [
     {
       "added_at": "2023-08-17 16:05:44",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-17 16:05:44",
       "album": {
-        "name": "La Perd\u00ed",
-        "url": "https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 170570,
-      "name": "La Perd\u00ed",
-      "url": "https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L"
-    },
-    {
-      "added_at": "2023-08-17 16:05:44",
-      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 203813,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+    },
+    {
+      "added_at": "2023-08-17 16:05:44",
+      "album": {
+        "name": "La Perd\u00ed",
+        "url": "https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "duration_ms": 170570,
+      "name": "La Perd\u00ed",
+      "url": "https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L"
     },
     {
       "added_at": "2023-08-17 16:05:44",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-08-17 16:05:44",
       "album": {
-        "name": "Coincidencias",
-        "url": "https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 181447,
-      "name": "Coincidir",
-      "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
-    },
-    {
-      "added_at": "2023-08-17 16:05:44",
-      "album": {
         "name": "Ya Lleg\u00f3 la Echeverr\u00eda...",
         "url": "https://open.spotify.com/album/6ZNXIAbNoxtVkMuHUbXrfJ"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 206666,
       "name": "Cosi\u00e9ndome el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2QInqAwobGfKsrKbJnVf1y"
+    },
+    {
+      "added_at": "2023-08-17 16:05:44",
+      "album": {
+        "name": "Coincidencias",
+        "url": "https://open.spotify.com/album/0YGUKU6DyVS2F7TnMl2Jav"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 181447,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/5xchG6qNlgDyZOgfmv5EpE"
     },
     {
       "added_at": "2023-08-17 16:05:44",

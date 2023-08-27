@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 219298,
+  "num_followers": 219380,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGRlYjBjODMxNWNkNzYxMTNmN2E0YWQzMTAwZWFiMmI4ZGQyYzgx",
+  "snapshot_id": "MCxjNzRmY2RjZjUwMmMyNzU1M2QzZTMyNDgxYjhhZWNlNjgzZTFiNWM0",
   "tracks": [
     {
       "added_at": "2023-08-25 09:05:05",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 238494,
-      "name": "FAKE LOVE - Rocking Vibe Mix",
-      "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
-    },
-    {
-      "added_at": "2023-08-25 09:05:05",
-      "album": {
         "name": "[Dystopia : Lose Myself]",
         "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 189546,
       "name": "BOCA",
       "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
+    },
+    {
+      "added_at": "2023-08-25 09:05:05",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 238494,
+      "name": "FAKE LOVE - Rocking Vibe Mix",
+      "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
     },
     {
       "added_at": "2023-08-25 09:05:05",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T"
+    },
+    {
+      "added_at": "2023-08-25 09:05:05",
+      "album": {
         "name": "Right Through Me",
         "url": "https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 217972,
       "name": "Right Through Me",
       "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
-    },
-    {
-      "added_at": "2023-08-25 09:05:05",
-      "album": {
-        "name": "\ub098\ubb34",
-        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 232558,
-      "name": "\ub098\ubb34",
-      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
       "added_at": "2023-08-25 09:05:05",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
-        "name": "1st Album [Dystopia : The Tree of Language]",
-        "url": "https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr"
+        "name": "\ub098\ubb34",
+        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
       "artists": [
         {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T"
+      "duration_ms": 232558,
+      "name": "\ub098\ubb34",
+      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
       "added_at": "2023-08-25 09:05:05",
@@ -667,6 +667,38 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
+    },
+    {
+      "added_at": "2023-08-25 09:05:05",
+      "album": {
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
+    },
+    {
+      "added_at": "2023-08-25 09:05:05",
+      "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
       },
@@ -699,50 +731,18 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
+        "name": "surf.",
+        "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
-    },
-    {
-      "added_at": "2023-08-25 09:05:05",
-      "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
-    },
-    {
-      "added_at": "2023-08-25 09:05:05",
-      "album": {
-        "name": "Grey Suit - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
-      },
-      "artists": [
-        {
-          "name": "SUHO",
-          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Grey Suit",
-      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
+      "duration_ms": 225777,
+      "name": "surf.",
+      "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
     },
     {
       "added_at": "2023-08-25 09:05:05",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
-        "name": "surf.",
-        "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
+        "name": "Grey Suit - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
       },
       "artists": [
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
         }
       ],
-      "duration_ms": 225777,
-      "name": "surf.",
-      "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
+      "duration_ms": 222893,
+      "name": "Grey Suit",
+      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
     },
     {
       "added_at": "2023-08-25 09:05:05",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 224784,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm"
-    },
-    {
-      "added_at": "2023-08-25 09:05:05",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 213453,
       "name": "Go",
       "url": "https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc"
+    },
+    {
+      "added_at": "2023-08-25 09:05:05",
+      "album": {
+        "name": "Whale",
+        "url": "https://open.spotify.com/album/33xJchEJEX9MMspAs6JY9n"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 199360,
+      "name": "Whale",
+      "url": "https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

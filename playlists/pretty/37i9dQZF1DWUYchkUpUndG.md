@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=dipYElmRTMeQ8UsJM\_ZGVQ">Theresa Phondo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,079 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,141 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 2 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 |
 | 3 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 | 4 | [The Beautiful Letdown \(Jonas Brothers Version\)](https://open.spotify.com/track/7aoLeX7JuTZJaSOFVj8OJm) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Beautiful Letdown \(Jonas Brothers Version\)](https://open.spotify.com/album/6PzwkBcQRhITgIAtLHCH9P) | 4:52 |
-| 5 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/5LHSPGEloQJianHefFZpPf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/49A9MS8IUcFZSYDot0m4QA) | 3:03 |
+| 5 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/5LHSPGEloQJianHefFZpPf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/49A9MS8IUcFZSYDot0m4QA) | 3:03 |
 | 6 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 |
 | 7 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 |
 | 8 | [For Days](https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [For Days](https://open.spotify.com/album/5nrP882U8mOIPRdkmJvjbK) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Onjagala \- Acoustic](https://open.spotify.com/track/0j9jsddtgxA79gxtoFodU9) | [KEDI](https://open.spotify.com/artist/3MHFc62uVV1SoSxWEyMG0c) | [Onjagala \(Acoustic\)](https://open.spotify.com/album/2HdABaFCoEFNaoAOTaRIxp) | 3:54 |
 | 100 | [Daily](https://open.spotify.com/track/3gtW4dM2ckIypEJESJJcUy) | [Mayolee](https://open.spotify.com/artist/0Jr2Tiv1vD924vvUH5JEdG) | [Daily](https://open.spotify.com/album/1CcB5U2YAwPa955v3C7oEh) | 2:54 |
 
-Snapshot ID: `MCxkNjRjZWEzMjdjZGU2MDhjOThhNjc4ODM1YTIxZWI2Nzc4ZGQxZWJj`
+Snapshot ID: `MCwyZGM3M2NlMzg1Nzc3MDNjYjdjMmY0ZWQ5MWZkYTIxZjQzODZmOTI2`

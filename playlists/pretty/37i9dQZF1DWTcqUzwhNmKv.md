@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Asking Alexandria on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,444,869 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,445,162 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 |
 | 75 | [Atropos](https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M) | 8:23 |
 
-Snapshot ID: `MCw4ZDRkOTllZmM1NjhiOTU0YjIwMzRhYTgxYWUwYjY2N2M2OTA1YzAw`
+Snapshot ID: `MCxlNzg4YTg1Yjk1YjU5YzE1MDZlZjI0NzY0Y2IxM2E4ZmM4NjEwMjEy`

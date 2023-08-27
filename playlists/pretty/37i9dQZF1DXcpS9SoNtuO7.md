@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,878 likes - 69 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,885 likes - 69 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 42 | [Shining stars bless☆](https://open.spotify.com/track/0fIMkhGURGjJDrUExfeeu2) | [Kaori Utatsuki](https://open.spotify.com/artist/05rQduN9R080VjzIiUOX2b) | [Shining stars bless☆](https://open.spotify.com/album/6W4HmkRFSJWO3GNBQ9PWqs) | 4:35 |
 | 43 | [Rumbling hearts](https://open.spotify.com/track/1EU4qljfL1lZbV1ff9tik8) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [10th Anniversary Best Album「stories」](https://open.spotify.com/album/0c97w5Guoaf8BPCTf6B12O) | 4:45 |
 | 44 | [Precious Memories](https://open.spotify.com/track/66xiA0OsEuX22NbZTZmChO) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [10th Anniversary Best Album「stories」](https://open.spotify.com/album/0c97w5Guoaf8BPCTf6B12O) | 3:51 |
-| 45 | [巫女みこナース・愛のテーマ \(こっとんちゃれんじばーじょん\)](https://open.spotify.com/track/4LeZUpl1ilNV87OcZBXi3B) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [すぅぃ\~とさいくろん\-☆いぇいっ☆\-](https://open.spotify.com/album/40UFF2n3AOPoYiogy1Nvi3) | 4:09 |
+| 45 | [巫女みこナース･愛のテーマ \(こっとんちゃれんじばーじょん\)](https://open.spotify.com/track/4LeZUpl1ilNV87OcZBXi3B) | [KOTOKO](https://open.spotify.com/artist/06F1MiFx0dHLHEPQBIrcr9) | [すぅぃ～とさいくろん\-☆いぇいっ☆\-](https://open.spotify.com/album/40UFF2n3AOPoYiogy1Nvi3) | 4:09 |
 | 46 | [ガチャガチャきゅ\~と・ふぃぎゅ@メイト](https://open.spotify.com/track/5i67QOClYA9CYsgzwjz5fF) | [Mosaic.Wav](https://open.spotify.com/artist/4UNEM59pyyoeOZiQKj3fXo) | [AKIBA\-POP RECOLLECTION](https://open.spotify.com/album/3lxv2bu6lzvugPTbMsSmdW) | 3:51 |
 | 47 | [nexus \-season 02\-](https://open.spotify.com/track/7B1CWgamfChJj5FxJRVxjB) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:54 |
 | 48 | [淋しい熱帯魚](https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [淋しい熱帯魚](https://open.spotify.com/album/1hyaup1uQPsURjo4Eja3Lj) | 4:26 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 59 | [FIRST NOTE](https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 7:45 |
 | 60 | [ブルーウォーター\(21st century ver.\)](https://open.spotify.com/track/1K7NyPQPgh6tsCwOagvsrH) | [森川美穂](https://open.spotify.com/artist/0cJFRLKH4rhk9pDOukq0gn) | [ブルーウォーター \(21st century ver.\)](https://open.spotify.com/album/2LMuxtNzMoSwjiLdIcnn6z) | 4:52 |
 | 61 | [HUMAN](https://open.spotify.com/track/19uKle8nv3zNh5bToLT4ij) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 5:22 |
-| 62 | [キラキラしちゃって My True Love!](https://open.spotify.com/track/3R7GmHmuDA1hPfmZ5nPrAy) | [Kanako Miyamoto](https://open.spotify.com/artist/0bJzcs8fztcxmrDfVAK1Sc) | [Yes!プリキュア5 オープニング&エンディングテーマ プリキュア5、スマイル go go! / キラキラしちゃって My True Love!](https://open.spotify.com/album/0Rfwpd6mpxLyrtY6ZPGda5) | 3:08 |
+| 62 | [キラキラしちゃって My True Love!](https://open.spotify.com/track/3R7GmHmuDA1hPfmZ5nPrAy) | [Kanako Miyamoto](https://open.spotify.com/artist/0bJzcs8fztcxmrDfVAK1Sc) | [Yes!プリキュア５　オープニング＆エンディングテーマ　プリキュア5、スマイル go go! / キラキラしちゃって My True Love!](https://open.spotify.com/album/0Rfwpd6mpxLyrtY6ZPGda5) | 3:08 |
 | 63 | [ワンダフル↑パワフル↑ミュージック!!](https://open.spotify.com/track/6wO32VL9mcai7nvBDuQSJh) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [スイートプリキュア♪ ボーカルアルバム1\~とどけ!愛と希望のシンフォニー\~](https://open.spotify.com/album/52Tauxep9OnB9PpGPwWzsO) | 3:41 |
 | 64 | [ひろがるスカイ!プリキュア \~Hero Girls\~\(TVサイズ\)](https://open.spotify.com/track/7KdlVT2DjdyQ96ohgXrBCJ) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV) | [「ひろがるスカイ!プリキュア」主題歌シングル\(TVサイズ\)](https://open.spotify.com/album/2WiLsMSAHVd3ckEHBqUCKO) | 1:34 |
 | 65 | [DECISIVE BATTLE](https://open.spotify.com/track/0b4VXGGERGs9PyvIEJRDnI) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [NEON GENESIS EVANGELION \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 2:25 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 68 | [なにが悪い](https://open.spotify.com/track/2Ifn0MXm7x9ddBQPUabV9a) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:47 |
 | 69 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 |
 
-Snapshot ID: `MCxkYWZjYmFmMGVhY2FhM2E3MGQ3YmU0YjM1MjMwZTg3NWZlOTkwYWQ4`
+Snapshot ID: `MCw2NWU0NmY5NjEwMjY4ODIxMTdhODhkNzNmNjU1MTI3NWY0OWU3ZDcy`

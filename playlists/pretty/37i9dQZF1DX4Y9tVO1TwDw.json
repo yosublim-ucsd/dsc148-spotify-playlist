@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: DannyLux",
-  "num_followers": 437,
+  "num_followers": 484,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDE1MTY3MjMxMmQ2MmRhZDEwYmI5OTNiZjc5ZGI4ZDY4ZGZmZWFi",
+  "snapshot_id": "MCwzNWJlZjM5YjdkNjM2ZDYxNzQ3ZGVkYTcwMTc1MjU4MmVlZTUzODNm",
   "tracks": [
     {
       "added_at": "2023-08-22 15:23:28",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-22 15:23:28",
       "album": {
-        "name": "buena vista!",
-        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
-      },
-      "artists": [
-        {
-          "name": "Ariel & The Culture",
-          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
-        }
-      ],
-      "duration_ms": 175007,
-      "name": "t\u00fa y yo",
-      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
-    },
-    {
-      "added_at": "2023-08-22 15:23:28",
-      "album": {
         "name": "L\u00e1grimas",
         "url": "https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 211012,
       "name": "Aunque No Estas",
       "url": "https://open.spotify.com/track/76MiTdO7DQj3rhsTquorrr"
+    },
+    {
+      "added_at": "2023-08-22 15:23:28",
+      "album": {
+        "name": "buena vista!",
+        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
+      },
+      "artists": [
+        {
+          "name": "Ariel & The Culture",
+          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
+        }
+      ],
+      "duration_ms": 175007,
+      "name": "t\u00fa y yo",
+      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
     },
     {
       "added_at": "2023-08-22 15:23:28",

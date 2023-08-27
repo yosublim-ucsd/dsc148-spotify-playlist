@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: BENR
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,210 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,236 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Outside](https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Outside](https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr) | 2:47 |
 | 90 | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/track/39IfUdhato88j7BGmWikCV) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/album/1jyMBGyKOjJGGFISEImvEm) | 3:34 |
 
-Snapshot ID: `MCw2ZGE2ZjFlNTRmMDZjM2UzMjM2MGExOWUzYTIzYzJiNzFmZDRmYjQy`
+Snapshot ID: `MCxlYjJhNjIwYTVmNmI4OGU4OWFiOWQ0MTFlNjE4NGFmMmYwZWJhZjY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: 1tbsp\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,594 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,660 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 17 | [Raphael](https://open.spotify.com/track/24PfBYjofXacUT5EFPuPN7) | [Max von Sternberg](https://open.spotify.com/artist/47Jz4Lwu4QGJSp1pxKaXLJ) | [Raphael](https://open.spotify.com/album/0uVEqsRW45c026vA2aQsXG) | 4:21 |
 | 18 | [i luv ur smile](https://open.spotify.com/track/4rX8Np5NElrnKeCd4KDNbD) | [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa), [Teddy Roxpin](https://open.spotify.com/artist/0MZ2kdIMm8GrHOzPm1QK1A) | [i luv ur smile](https://open.spotify.com/album/19ADS40GUeLlNCa7Rbk2gP) | 4:07 |
 | 19 | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/track/4WXYOKcqr4OTiUpIrcX7RV) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Dump All Your Worries on the Dance Floor](https://open.spotify.com/album/0Jcwe17QFJrA8Yny6hJxy4) | 2:37 |
-| 20 | [Affogato](https://open.spotify.com/track/0LQ6qz5w2GkGUArujqJISX) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO) | [N64](https://open.spotify.com/album/41V5QX9pmhliqt8Ww2hIhH) | 3:44 |
+| 20 | [Affogato](https://open.spotify.com/track/0LQ6qz5w2GkGUArujqJISX) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO) | [N64 / Affogato](https://open.spotify.com/album/41V5QX9pmhliqt8Ww2hIhH) | 3:44 |
 | 21 | [Break You Off](https://open.spotify.com/track/3QS8vnf6Xy8UOfsagGpQAz) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [Break You Off](https://open.spotify.com/album/2ry8ryGJrwoIKiCUPjU87O) | 3:19 |
 | 22 | [Kiss Dance Sweat](https://open.spotify.com/track/72oPg6iDZvvTqC6LnIG3xI) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Kiss Dance Sweat](https://open.spotify.com/album/1SzY5GQeodrC5MWymA896A) | 2:17 |
 | 23 | [Gone Too Late](https://open.spotify.com/track/5qlgb01ehJT3cg7OoDsQv5) | [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4), [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [We Are Neurotic](https://open.spotify.com/artist/6Md8JmF20ZQgz6g54LqdIA) | [Gone Too Late](https://open.spotify.com/album/7vSIrrDO9EUipOyutvrObH) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Air Beneath](https://open.spotify.com/track/1ZOBuhQqbpKBBYAoquPpaa) | [Dylan Forbes](https://open.spotify.com/artist/2Xuub4Skf1kEJZrNo1iML2) | [BODYHI04](https://open.spotify.com/album/1IywtUfkzFrRES8l0Ss293) | 6:59 |
 | 100 | [I Got That](https://open.spotify.com/track/03ZBhDkwbFw3VPFjatNImh) | [Rob Stillekens](https://open.spotify.com/artist/7x69Nz9Wi6fX7wwJZ9snI7), [Marlon C](https://open.spotify.com/artist/0igUkTjUPcXjrL849TesmT) | [Passionate Flow EP](https://open.spotify.com/album/7jF5YNfpeSBPY61hmFUgpr) | 7:21 |
 
-Snapshot ID: `MCwyZTQ2ODRiOGMzMTQ4NzFhYzIwZmYxMTJjMjFjZGUyNjdjYTU1MWY0`
+Snapshot ID: `MCw5MTIyZWNhYTZkZjI1ZmNiMTM5M2VhMzk5YTU1MjIwOGE4ODZkNzMw`

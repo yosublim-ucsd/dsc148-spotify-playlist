@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels\. Cover: Babsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,419 likes - 207 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,544 likes - 207 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 119 | [Lose It](https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Lose It](https://open.spotify.com/album/7GMeqHwUzlZ6zoR61YICom) | 4:51 |
 | 120 | [<3](https://open.spotify.com/track/7lcsNdPK8zKK7gOqfd0eAf) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [<3](https://open.spotify.com/album/2sSD6gODuaYlseme5w2dWf) | 2:26 |
 | 121 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 |
-| 122 | [Kratos \- A Little Closer](https://open.spotify.com/track/2EtjS7KNWpyRK03xCHlef7) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2TrBOqqIK0EOtZd03K4VXf) | 2:30 |
+| 122 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY) | 2:30 |
 | 123 | [all over my body](https://open.spotify.com/track/3TEKXl5Wdhi5oWrFbOoTF6) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [all over my body](https://open.spotify.com/album/614zD2PkAmJiq1kgmIztzn) | 2:16 |
 | 124 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 |
 | 125 | [HH vill bara va med dej \- Killen Manjaro Remix](https://open.spotify.com/track/3ButzjnOhh2cp6swTQ7VM6) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Killen Manjaro](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [HH vill bara va med dej \(Killen Manjaro Remix\)](https://open.spotify.com/album/284OrWrAdY3xCq2hgxX6NP) | 4:06 |
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 206 | [Leave The Water Still](https://open.spotify.com/track/7IiLsCv7fvoqnZ95NPfRsw) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Leave The Water Still](https://open.spotify.com/album/2rCUuPSpWfx1XUi0HApTjz) | 3:00 |
 | 207 | [Esther \- Duskus Romantic Edit](https://open.spotify.com/track/3VgWp5x2nvvP9XFCs6UBQs) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Esther \(Duskus Romantic Edit\)](https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J) | 3:03 |
 
-Snapshot ID: `MCxmOWQ2MjExYzYzNmVhNmQ4YzgwNmY4M2Y3NmEwODM3ZjE2MGM4NmM1`
+Snapshot ID: `MCwxMzVmZWViZTM0MzkyNzhmYzVjMDcwMTRjOTAxMjU1ZGMyOGVhMzk4`

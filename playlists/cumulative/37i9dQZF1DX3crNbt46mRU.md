@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Selena Gomez
 
-8,306 songs - 17 day 10 hr 10 min
+8,307 songs - 17 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7334,7 +7334,7 @@
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-23 | 2023-03-03 |
 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 | 2023-05-25 | 2023-06-02 |
 | [Tra Tra](https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Tra Tra](https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt) | 2:06 | 2022-11-03 | 2022-11-11 |
-| [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 |  |
+| [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 |  |
 | [Tracksuit \(feat\. Bonez MC\)](https://open.spotify.com/track/2thijD7RBpT6rUwR9ogFAa) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Tracksuit \(feat\. Bonez MC\)](https://open.spotify.com/album/5fXkNE85RPtJTmkYOXuY7S) | 1:58 | 2022-11-10 | 2022-11-18 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-06-24 |
 | [TRADE](https://open.spotify.com/track/5uu5sFyGia3nZjC6WClmtn) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [TRADE](https://open.spotify.com/album/4q3zUHMIWeMqRq4Wwrbym4) | 3:07 | 2022-11-03 | 2022-11-11 |
@@ -7975,7 +7975,8 @@
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-04-27 | 2023-05-05 |
 | [Where Did You Sleep?](https://open.spotify.com/track/0z1lz4gVf6XoACzgev1CQ5) | [Lisa Pac](https://open.spotify.com/artist/2S0EVJD6SOdp3uHsSkZObE) | [Where Did You Sleep?](https://open.spotify.com/album/7m2X0vbsdPF2mUIHDcugYv) | 3:28 | 2022-09-29 | 2022-10-07 |
 | [Where Do We Go](https://open.spotify.com/track/5fBBhQfbpkYpGc0Qcax4FN) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Where Do We Go](https://open.spotify.com/album/4HNIEO4z4B9iXPW8ywV01E) | 2:30 | 2022-09-15 | 2022-09-23 |
-| [Where Do We Go](https://open.spotify.com/track/2Ehp9Is1ihvBQaoJt47XeK) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/1v05i0btb10KOIvgumPue6) | 2:51 | 2023-08-24 |  |
+| [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 | 2023-08-25 |  |
+| [Where Do We Go](https://open.spotify.com/track/2Ehp9Is1ihvBQaoJt47XeK) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/1v05i0btb10KOIvgumPue6) | 2:51 | 2023-08-24 | 2023-08-27 |
 | [Where Do We Go From Here](https://open.spotify.com/track/4lBzqpBdqz0woQOnWHUzjw) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Where Do We Go From Here](https://open.spotify.com/album/13yQEoJ6hDD560qMei009H) | 2:48 | 2023-06-22 | 2023-06-30 |
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-13 | 2023-01-20 |
 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 | 2022-10-20 | 2022-10-28 |

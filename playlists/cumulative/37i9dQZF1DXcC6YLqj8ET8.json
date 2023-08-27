@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Arabic Trap, Pt. 2",
+        "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
+      },
+      "artists": [
+        {
+          "name": "VFM Style",
+          "url": "https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183242,
+      "name": "Fidaa",
+      "url": "https://open.spotify.com/track/6AyqrV9DSKFmEqZxjjnh7E"
+    },
+    {
+      "album": {
         "name": "Full Focus (Ahmed Helmy Remix)",
         "url": "https://open.spotify.com/album/2ShVJZSHGhDez4kiR5cqHa"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 441615,
       "name": "Hopeless",
       "url": "https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 176491,
       "name": "Iridescent",
       "url": "https://open.spotify.com/track/6mPv3AEn0hX8BK1NjQlrIh"
@@ -1120,24 +1138,6 @@
       "duration_ms": 180004,
       "name": "Outlaws",
       "url": "https://open.spotify.com/track/3BUFuwaRaRDc2GIKNVkwmI"
-    },
-    {
-      "album": {
-        "name": "Arabic Trap, Pt. 2",
-        "url": "https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk"
-      },
-      "artists": [
-        {
-          "name": "Cricced",
-          "url": "https://open.spotify.com/artist/535cving7nSQvOkrzJSKFy"
-        }
-      ],
-      "date_added": "2021-11-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156995,
-      "name": "Qarabag (Remix)",
-      "url": "https://open.spotify.com/track/6AyqrV9DSKFmEqZxjjnh7E"
     },
     {
       "album": {

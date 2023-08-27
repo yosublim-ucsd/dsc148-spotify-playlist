@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "ALBV",
+        "url": "https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "ALBV",
+      "url": "https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79"
+    },
+    {
+      "album": {
         "name": "ORO BLU",
         "url": "https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U"
       },
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 181668,
       "name": "Arai (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -6260,6 +6278,24 @@
       "duration_ms": 226549,
       "name": "Crack (feat. Salmo & Massimo Pericolo)",
       "url": "https://open.spotify.com/track/06eHoqzg3QRj0uHeQMCKH4"
+    },
+    {
+      "album": {
+        "name": "CRACOVIA PT. 4",
+        "url": "https://open.spotify.com/album/7FBpQ5AQtot3Kk9svfn84t"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "CRACOVIA PT. 4",
+      "url": "https://open.spotify.com/track/3NETCOu2DUiVXlR3YY91tj"
     },
     {
       "album": {

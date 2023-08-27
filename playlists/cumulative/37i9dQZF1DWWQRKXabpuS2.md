@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: اصالة
 
-256 songs - 17 hr 28 min
+257 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2021-12-23 | 2022-01-07 |
 | [Hobak Le Hayah](https://open.spotify.com/track/6yjtDOt9B6n1yWLgcwNK91) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Hobak Le Hayah](https://open.spotify.com/album/1pKzJdgiytjhSLTj9G73qE) | 3:31 | 2021-12-23 | 2022-03-12 |
 | [Ikhtiyari](https://open.spotify.com/track/7JDoh2Fjf8SGjUiXb4BcPh) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Ikhtiyari](https://open.spotify.com/album/3Dlse3mYeZCMfVZZOc64Va) | 1:24 | 2022-04-01 | 2022-08-27 |
-| [Janant Galbi](https://open.spotify.com/track/5GnZnRwXaQttM8ALIemTQO) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Janant Galbi](https://open.spotify.com/album/72vTooQ2VEKVLgybFkpkYw) | 4:47 | 2023-08-25 |  |
+| [Janant Galbi](https://open.spotify.com/track/5GnZnRwXaQttM8ALIemTQO) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Janant Galbi](https://open.spotify.com/album/72vTooQ2VEKVLgybFkpkYw) | 4:47 | 2023-08-25 | 2023-08-27 |
 | [Jany Al Asmar](https://open.spotify.com/track/7zKTTQFVPcKpPuRzQUUr9X) | [Mashael](https://open.spotify.com/artist/0Wy58cHn0XDlkr4jBIqhZs) | [Jany Al Asmar](https://open.spotify.com/album/01Z9FR6JmU9LxLuDQfR6w7) | 3:51 | 2022-02-11 | 2022-02-12 |
 | [Kas Masmoom](https://open.spotify.com/track/6LqK9Z9UfmuAWlsbKOf4Vv) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Kas Masmoom](https://open.spotify.com/album/0ezG3U4JDp9dd0KlyAj2g3) | 5:32 | 2021-12-23 | 2022-04-01 |
 | [Kathaab](https://open.spotify.com/track/0owHcMZfxaX79H6hIKwso5) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Kathaab](https://open.spotify.com/album/0fh4OLIjGRYcSwWCCVtj9o) | 4:50 | 2023-06-30 |  |
@@ -225,6 +225,7 @@
 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 | 2023-08-25 |  |
 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 | 2023-02-24 |  |
 | [جماله](https://open.spotify.com/track/5Eummjh47ivk2y8y7OEaBX) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [جماله](https://open.spotify.com/album/5YDNtwvDQbQObi32lPZqq1) | 3:52 | 2023-01-10 | 2023-07-12 |
+| [جننت قلبي](https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [جننت قلبي](https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP) | 4:47 | 2023-08-25 |  |
 | [حبك ربح](https://open.spotify.com/track/5YK8T173I1KLGE2GC1IvLL) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [Hobbak Rebeh](https://open.spotify.com/album/71w9WsH8G9kygpUVSNDhUr) | 3:15 | 2022-11-03 | 2023-01-25 |
 | [حدود الغرام](https://open.spotify.com/track/0UdnJGuKosWJZ9zMSaKIOt) | [خالد حامد](https://open.spotify.com/artist/3cVWyWIYJJCk6sgk3faKYf) | [حدود الغرام](https://open.spotify.com/album/0h4AArlMvqifPYjm1oVG1Y) | 4:18 | 2022-12-22 | 2023-07-01 |
 | [حظ من شافك](https://open.spotify.com/track/2vVlibedNRJkM7xIHkMiq4) | [Faisal Al Jasem](https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT) | [حظ من شافك](https://open.spotify.com/album/62oXdDuMezhgs39J3liFYg) | 3:49 | 2023-06-30 |  |

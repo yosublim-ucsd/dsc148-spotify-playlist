@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,357 likes - 160 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,562 likes - 160 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 159 | [Always Be Mine](https://open.spotify.com/track/6flcRMKoeCsnhwBTBOOW1Q) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:35 |
 | 160 | [pay ur bills](https://open.spotify.com/track/54CMNuJleJl20D1lK1fpLP) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:02 |
 
-Snapshot ID: `MCw1OGM4MjRjZjVjOTUwMjcyMTViNWRkZTBmZGRiMDM3NzI1ODhlN2Rj`
+Snapshot ID: `MCw2ODU4NDU1N2I2ZmM4OTY5MDRiNzEwMzc3NmMzZjIyNTlhMTE2ZmRm`

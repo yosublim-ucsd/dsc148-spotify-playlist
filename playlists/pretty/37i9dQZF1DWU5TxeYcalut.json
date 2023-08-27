@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 156685,
+  "num_followers": 156720,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTZkMWMxMzM2ZDJkM2MxNjUzYzgxZjY5MTk0MmRmNzM1ODRhNDA1",
+  "snapshot_id": "MCwzYTA5ZGNjNmZjZmQ4NGQyOTBlZWZlY2Y0ZWVmZWE3Mzk3OTk1ODVj",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -203,26 +203,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Afro+sambas",
-        "url": "https://open.spotify.com/album/2E4n2bzp40z1akpP3EmRZA"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Caldi",
-          "url": "https://open.spotify.com/artist/02ELxCkzVWc9QFpmOan806"
-        },
-        {
-          "name": "Itamar Assiere",
-          "url": "https://open.spotify.com/artist/2NNIgK2jzSJYIwgKHd2bo1"
-        }
-      ],
-      "duration_ms": 299306,
-      "name": "Canto de Xang\u00f4",
-      "url": "https://open.spotify.com/track/2RpxBZ16nVV7Q0xJdPZLEe"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Sess\u00f5es Selo Sesc #7: Jo\u00e3o Donato + Projeto Coisa Fina",
         "url": "https://open.spotify.com/album/0JM3ipLsc4OhCGknNlvPrg"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 349525,
       "name": "Emori\u00f4 - Ao vivo",
       "url": "https://open.spotify.com/track/4e8HAVbyiqpBs2MbCOwoyc"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Afro+sambas",
+        "url": "https://open.spotify.com/album/2E4n2bzp40z1akpP3EmRZA"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Caldi",
+          "url": "https://open.spotify.com/artist/02ELxCkzVWc9QFpmOan806"
+        },
+        {
+          "name": "Itamar Assiere",
+          "url": "https://open.spotify.com/artist/2NNIgK2jzSJYIwgKHd2bo1"
+        }
+      ],
+      "duration_ms": 299306,
+      "name": "Canto de Xang\u00f4",
+      "url": "https://open.spotify.com/track/2RpxBZ16nVV7Q0xJdPZLEe"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -379,6 +379,30 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "O Nascimento do Amor",
+        "url": "https://open.spotify.com/album/3wNl4jlk8vIxkavJh3qOmz"
+      },
+      "artists": [
+        {
+          "name": "Jazz das Minas",
+          "url": "https://open.spotify.com/artist/1EaJsGim4qZ74m9OUkDRTU"
+        },
+        {
+          "name": "Ma\u00edra Freitas",
+          "url": "https://open.spotify.com/artist/70h4ULQBucb1sYFJZV4Lxf"
+        },
+        {
+          "name": "G\u00eanesis",
+          "url": "https://open.spotify.com/artist/4XOnzexocuk7gHKqo6aez0"
+        }
+      ],
+      "duration_ms": 453919,
+      "name": "O Nascimento do Amor",
+      "url": "https://open.spotify.com/track/3YuUvao3dfmUXlFk0cA87h"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "O Enigma Lexeu",
         "url": "https://open.spotify.com/album/52Vs6AyLKN7Fzw22WKsUzl"
       },
@@ -415,50 +439,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Sabor",
-        "url": "https://open.spotify.com/album/3iFHfXFv7XfjZhC1cIjQo9"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00edvia",
-          "url": "https://open.spotify.com/artist/2WxfyoixnFqg2c2wohtKAw"
-        },
-        {
-          "name": "Diego Garbin",
-          "url": "https://open.spotify.com/artist/6IZSzplX4B4ftv1xrssORB"
-        }
-      ],
-      "duration_ms": 355012,
-      "name": "Sabor",
-      "url": "https://open.spotify.com/track/2wPJ5HMGp3TftsxL3puIMT"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "O Nascimento do Amor",
-        "url": "https://open.spotify.com/album/3wNl4jlk8vIxkavJh3qOmz"
-      },
-      "artists": [
-        {
-          "name": "Jazz das Minas",
-          "url": "https://open.spotify.com/artist/1EaJsGim4qZ74m9OUkDRTU"
-        },
-        {
-          "name": "Ma\u00edra Freitas",
-          "url": "https://open.spotify.com/artist/70h4ULQBucb1sYFJZV4Lxf"
-        },
-        {
-          "name": "G\u00eanesis",
-          "url": "https://open.spotify.com/artist/4XOnzexocuk7gHKqo6aez0"
-        }
-      ],
-      "duration_ms": 453919,
-      "name": "O Nascimento do Amor",
-      "url": "https://open.spotify.com/track/3YuUvao3dfmUXlFk0cA87h"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Azymuth JID004",
         "url": "https://open.spotify.com/album/7btGCQBoauPU3SBCmHvR8p"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 257600,
       "name": "Fall Afternoon",
       "url": "https://open.spotify.com/track/6uxsDym2BeX70yckRlbIxl"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Sabor",
+        "url": "https://open.spotify.com/album/3iFHfXFv7XfjZhC1cIjQo9"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00edvia",
+          "url": "https://open.spotify.com/artist/2WxfyoixnFqg2c2wohtKAw"
+        },
+        {
+          "name": "Diego Garbin",
+          "url": "https://open.spotify.com/artist/6IZSzplX4B4ftv1xrssORB"
+        }
+      ],
+      "duration_ms": 355012,
+      "name": "Sabor",
+      "url": "https://open.spotify.com/track/2wPJ5HMGp3TftsxL3puIMT"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -507,26 +507,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/3oo2cuVR8yEvExHg8IGAUI"
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
       },
       "artists": [
         {
-          "name": "Tahta Menezes",
-          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
-        },
-        {
-          "name": "Samba Melodiosa",
-          "url": "https://open.spotify.com/artist/7p48BUNzmf8Vhol4hsZC8T"
-        },
-        {
-          "name": "Chico Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK"
+          "name": "Heitor Vallim",
+          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
         }
       ],
-      "duration_ms": 140843,
-      "name": "Strange Loves",
-      "url": "https://open.spotify.com/track/0Ci1tId9FrGY7BhYaCJqjt"
+      "duration_ms": 225000,
+      "name": "La Setenta",
+      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -543,22 +535,6 @@
       "duration_ms": 296346,
       "name": "Caxanga",
       "url": "https://open.spotify.com/track/00zXlQzPHRh1rwq7v2CvC5"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/3qDkfJRfLXWr0Swgvbj1cl"
-      },
-      "artists": [
-        {
-          "name": "Heitor Vallim",
-          "url": "https://open.spotify.com/artist/4C1BoCnzollGndaOX1S3kR"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "La Setenta",
-      "url": "https://open.spotify.com/track/43azAoVJSP6G4x5j0QiW5F"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -583,22 +559,26 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Orit\u00e1 No Minidocs",
-        "url": "https://open.spotify.com/album/5rfUjgWMbXgm93fP69Paew"
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/3oo2cuVR8yEvExHg8IGAUI"
       },
       "artists": [
         {
-          "name": "MINIDocs",
-          "url": "https://open.spotify.com/artist/3T2xCfhBZQj5kk6S6aGpCV"
+          "name": "Tahta Menezes",
+          "url": "https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM"
         },
         {
-          "name": "Orit\u00e1",
-          "url": "https://open.spotify.com/artist/1xVqmKq5IfPibJultYqpcc"
+          "name": "Samba Melodiosa",
+          "url": "https://open.spotify.com/artist/7p48BUNzmf8Vhol4hsZC8T"
+        },
+        {
+          "name": "Chico Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4VLWmHZ11JhQafEaw0GSlK"
         }
       ],
-      "duration_ms": 330040,
-      "name": "Santa Cec\u00edlia",
-      "url": "https://open.spotify.com/track/2aBcW0F2W0r11qShc1oaCt"
+      "duration_ms": 140843,
+      "name": "Strange Loves",
+      "url": "https://open.spotify.com/track/0Ci1tId9FrGY7BhYaCJqjt"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -627,6 +607,26 @@
       "duration_ms": 229213,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/4DeBe2DKjYutgq1upkkRlL"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Orit\u00e1 No Minidocs",
+        "url": "https://open.spotify.com/album/5rfUjgWMbXgm93fP69Paew"
+      },
+      "artists": [
+        {
+          "name": "MINIDocs",
+          "url": "https://open.spotify.com/artist/3T2xCfhBZQj5kk6S6aGpCV"
+        },
+        {
+          "name": "Orit\u00e1",
+          "url": "https://open.spotify.com/artist/1xVqmKq5IfPibJultYqpcc"
+        }
+      ],
+      "duration_ms": 330040,
+      "name": "Santa Cec\u00edlia",
+      "url": "https://open.spotify.com/track/2aBcW0F2W0r11qShc1oaCt"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -675,34 +675,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Rodopio",
-        "url": "https://open.spotify.com/album/7vffZYl4azgpaoYc4KIE1E"
-      },
-      "artists": [
-        {
-          "name": "Dani Gurgel",
-          "url": "https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw"
-        },
-        {
-          "name": "Debora Gurgel",
-          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
-        },
-        {
-          "name": "Thiago Rabello",
-          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "Rodopio",
-      "url": "https://open.spotify.com/track/2V9L1lqYBZH3HAr5pCIimi"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Doralice",
         "url": "https://open.spotify.com/album/0xXz4ehuh3vm7NDqPucrjY"
       },
@@ -731,6 +703,34 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Rodopio",
+        "url": "https://open.spotify.com/album/7vffZYl4azgpaoYc4KIE1E"
+      },
+      "artists": [
+        {
+          "name": "Dani Gurgel",
+          "url": "https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw"
+        },
+        {
+          "name": "Debora Gurgel",
+          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
+        },
+        {
+          "name": "Thiago Rabello",
+          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 225573,
+      "name": "Rodopio",
+      "url": "https://open.spotify.com/track/2V9L1lqYBZH3HAr5pCIimi"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Varanda",
         "url": "https://open.spotify.com/album/2LZJ1jHPIhZS28j6HDXJnT"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
-      },
-      "artists": [
-        {
-          "name": "Marcio Riscado",
-          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
-        }
-      ],
-      "duration_ms": 126647,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Hermeto Solo: Por Diferentes Caminhos (Piano Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4EcbBJsAWX950lcV0MRuBk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 328437,
       "name": "Pixitotinha",
       "url": "https://open.spotify.com/track/7q4pF9QPLQPhq6SXzsisrd"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+      },
+      "artists": [
+        {
+          "name": "Marcio Riscado",
+          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+        }
+      ],
+      "duration_ms": 126647,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1035,26 +1035,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Amilton Godoy 80 Anos",
-        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
+        "name": "Chico Macedo 4teto",
+        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
       },
       "artists": [
         {
-          "name": "Amilton Godoy",
-          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+          "name": "Chico Macedo",
+          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
         }
       ],
-      "duration_ms": 166933,
-      "name": "Ponteio 49",
-      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
+      "duration_ms": 304880,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1095,18 +1087,26 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Chico Macedo 4teto",
-        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
+        "name": "Amilton Godoy 80 Anos",
+        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
       },
       "artists": [
         {
-          "name": "Chico Macedo",
-          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
+          "name": "Amilton Godoy",
+          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
         }
       ],
-      "duration_ms": 304880,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
+      "duration_ms": 166933,
+      "name": "Ponteio 49",
+      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Espera",
-        "url": "https://open.spotify.com/album/4IkJZkzG8MIb53basOfc8W"
-      },
-      "artists": [
-        {
-          "name": "Beba Zanettini",
-          "url": "https://open.spotify.com/artist/7zBAO0ePQ7PeQG1nlnmo7C"
-        },
-        {
-          "name": "Gudino Miranda",
-          "url": "https://open.spotify.com/artist/7CqJ8v2k9hNmfuxX1OdKTb"
-        },
-        {
-          "name": "Victor Kutlak",
-          "url": "https://open.spotify.com/artist/4VEJO4epv8hUlKTfdqmWyR"
-        }
-      ],
-      "duration_ms": 397500,
-      "name": "Espera",
-      "url": "https://open.spotify.com/track/7yYfJBV4nnzPF8deMDvo2T"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "CasaBrancaBrinCadeira",
         "url": "https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48"
       },
@@ -1367,6 +1343,30 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Espera",
+        "url": "https://open.spotify.com/album/4IkJZkzG8MIb53basOfc8W"
+      },
+      "artists": [
+        {
+          "name": "Beba Zanettini",
+          "url": "https://open.spotify.com/artist/7zBAO0ePQ7PeQG1nlnmo7C"
+        },
+        {
+          "name": "Gudino Miranda",
+          "url": "https://open.spotify.com/artist/7CqJ8v2k9hNmfuxX1OdKTb"
+        },
+        {
+          "name": "Victor Kutlak",
+          "url": "https://open.spotify.com/artist/4VEJO4epv8hUlKTfdqmWyR"
+        }
+      ],
+      "duration_ms": 397500,
+      "name": "Espera",
+      "url": "https://open.spotify.com/track/7yYfJBV4nnzPF8deMDvo2T"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Heran\u00e7a",
         "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 407033,
       "name": "Influ\u00eancia",
       "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Can\u00e7\u00e3o da Odalisca",
-        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
-      },
-      "artists": [
-        {
-          "name": "Caetano Brasil",
-          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
-        }
-      ],
-      "duration_ms": 365120,
-      "name": "Can\u00e7\u00e3o da Odalisca",
-      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Can\u00e7\u00e3o da Odalisca",
+        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+      },
+      "artists": [
+        {
+          "name": "Caetano Brasil",
+          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+        }
+      ],
+      "duration_ms": 365120,
+      "name": "Can\u00e7\u00e3o da Odalisca",
+      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Gunnarssons",
         "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 251417,
       "name": "Gunnarssons",
       "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1483,6 +1467,50 @@
       "duration_ms": 396106,
       "name": "Factotum",
       "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "When the Answer Is a Question",
+        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "S\u00e9rgio Reze",
+          "url": "https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m"
+        },
+        {
+          "name": "Z\u00e9 Godoy",
+          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
+        }
+      ],
+      "duration_ms": 457386,
+      "name": "When the Answer Is a Question",
+      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1519,34 +1547,6 @@
       "duration_ms": 270012,
       "name": "With Ernesto",
       "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "When the Answer Is a Question",
-        "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "S\u00e9rgio Reze",
-          "url": "https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m"
-        },
-        {
-          "name": "Z\u00e9 Godoy",
-          "url": "https://open.spotify.com/artist/176Dr7eYyL8YrDUUjjC2wg"
-        }
-      ],
-      "duration_ms": 457386,
-      "name": "When the Answer Is a Question",
-      "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1659,6 +1659,30 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Posl\u00fadio",
+        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
+      },
+      "artists": [
+        {
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+        },
+        {
+          "name": "Neto de Souza",
+          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
+        },
+        {
+          "name": "Ivan Lopes",
+          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
+        }
+      ],
+      "duration_ms": 451777,
+      "name": "Posl\u00fadio",
+      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Reluzente",
         "url": "https://open.spotify.com/album/0UMAqQoehHKQvNiptLXdO0"
       },
@@ -1687,30 +1711,6 @@
       "duration_ms": 322602,
       "name": "Reluzente",
       "url": "https://open.spotify.com/track/0tGm68QkTE0ridWhHZkQoo"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Posl\u00fadio",
-        "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        },
-        {
-          "name": "Neto de Souza",
-          "url": "https://open.spotify.com/artist/0a6qVGT9VyXhdvxHJUysc0"
-        },
-        {
-          "name": "Ivan Lopes",
-          "url": "https://open.spotify.com/artist/7jaiNUOrQ3EI1jgqPzhAol"
-        }
-      ],
-      "duration_ms": 451777,
-      "name": "Posl\u00fadio",
-      "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1751,30 +1751,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "If\u00e8",
-        "url": "https://open.spotify.com/album/3JK98v9dwUpZWIvU575dvR"
+        "name": "Somethin' Jazzy",
+        "url": "https://open.spotify.com/album/6H1R9I9eR9VUF6rlIhfu6m"
       },
       "artists": [
         {
-          "name": "Allan Abbadia",
-          "url": "https://open.spotify.com/artist/52hUaUblYVaGpylzGlNx3w"
-        },
-        {
-          "name": "Leandro Oliveira",
-          "url": "https://open.spotify.com/artist/5YbKr2VGVKS0e0yaO6NqU9"
-        },
-        {
-          "name": "Larissa Oliveira",
-          "url": "https://open.spotify.com/artist/64lv0QK6SDrUNpugdxpVTQ"
-        },
-        {
-          "name": "Wellington Souza",
-          "url": "https://open.spotify.com/artist/4POlzPtfnfv4oyzGn4sl7R"
+          "name": "Angel Ruediger",
+          "url": "https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU"
         }
       ],
-      "duration_ms": 317986,
-      "name": "Mem\u00f3rias",
-      "url": "https://open.spotify.com/track/1Ir2uQSAIZt9vRAunNCRQJ"
+      "duration_ms": 118883,
+      "name": "Chablis",
+      "url": "https://open.spotify.com/track/79YRnWQobPXpN4WrxhUXgY"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1803,34 +1791,30 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Somethin' Jazzy",
-        "url": "https://open.spotify.com/album/6H1R9I9eR9VUF6rlIhfu6m"
+        "name": "If\u00e8",
+        "url": "https://open.spotify.com/album/3JK98v9dwUpZWIvU575dvR"
       },
       "artists": [
         {
-          "name": "Angel Ruediger",
-          "url": "https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU"
-        }
-      ],
-      "duration_ms": 118883,
-      "name": "Chablis",
-      "url": "https://open.spotify.com/track/79YRnWQobPXpN4WrxhUXgY"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Epifonia",
-        "url": "https://open.spotify.com/album/45ZWDe2VvpzRpgEcrxWeSv"
-      },
-      "artists": [
+          "name": "Allan Abbadia",
+          "url": "https://open.spotify.com/artist/52hUaUblYVaGpylzGlNx3w"
+        },
         {
-          "name": "Lucas Bueno Dias",
-          "url": "https://open.spotify.com/artist/6MTTPwmxyN5R9WlSbyc2aH"
+          "name": "Leandro Oliveira",
+          "url": "https://open.spotify.com/artist/5YbKr2VGVKS0e0yaO6NqU9"
+        },
+        {
+          "name": "Larissa Oliveira",
+          "url": "https://open.spotify.com/artist/64lv0QK6SDrUNpugdxpVTQ"
+        },
+        {
+          "name": "Wellington Souza",
+          "url": "https://open.spotify.com/artist/4POlzPtfnfv4oyzGn4sl7R"
         }
       ],
-      "duration_ms": 357646,
-      "name": "Mestre Samuca",
-      "url": "https://open.spotify.com/track/65gPXksYSYJLkJcNkM2FJ2"
+      "duration_ms": 317986,
+      "name": "Mem\u00f3rias",
+      "url": "https://open.spotify.com/track/1Ir2uQSAIZt9vRAunNCRQJ"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Epifonia",
+        "url": "https://open.spotify.com/album/45ZWDe2VvpzRpgEcrxWeSv"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bueno Dias",
+          "url": "https://open.spotify.com/artist/6MTTPwmxyN5R9WlSbyc2aH"
+        }
+      ],
+      "duration_ms": 357646,
+      "name": "Mestre Samuca",
+      "url": "https://open.spotify.com/track/65gPXksYSYJLkJcNkM2FJ2"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Sobre a Lua e os Passos",
         "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
       },
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Domingo 27/09",
+        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
+      },
+      "artists": [
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Edu Ribeiro Trio",
+          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
+        }
+      ],
+      "duration_ms": 502746,
+      "name": "Domingo 27/09",
+      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Agora Aqui",
         "url": "https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 212416,
       "name": "Talvez Certamente",
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Domingo 27/09",
-        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
-      },
-      "artists": [
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Edu Ribeiro Trio",
-          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
-        }
-      ],
-      "duration_ms": 502746,
-      "name": "Domingo 27/09",
-      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1959,42 +1959,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Someone To Watch Over Me (Meet Tetel)",
-        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
-      },
-      "artists": [
-        {
-          "name": "Tetel Di Babuya",
-          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
-        },
-        {
-          "name": "Daniel Grajew",
-          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Someone To Watch Over Me - Meet Tetel",
-      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Sebastiana",
-        "url": "https://open.spotify.com/album/4q56BGQ4tTDObrGGLe5XSU"
-      },
-      "artists": [
-        {
-          "name": "Diogo Monzo",
-          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
-        }
-      ],
-      "duration_ms": 374180,
-      "name": "Trasantonte",
-      "url": "https://open.spotify.com/track/6oi42F70ZZDRpWIJABOD1u"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Fugindo do Sete",
         "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
       },
@@ -2015,6 +1979,42 @@
       "duration_ms": 300659,
       "name": "Fugindo do Sete",
       "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Sebastiana",
+        "url": "https://open.spotify.com/album/4q56BGQ4tTDObrGGLe5XSU"
+      },
+      "artists": [
+        {
+          "name": "Diogo Monzo",
+          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
+        }
+      ],
+      "duration_ms": 374180,
+      "name": "Trasantonte",
+      "url": "https://open.spotify.com/track/6oi42F70ZZDRpWIJABOD1u"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Someone To Watch Over Me (Meet Tetel)",
+        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
+      },
+      "artists": [
+        {
+          "name": "Tetel Di Babuya",
+          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
+        },
+        {
+          "name": "Daniel Grajew",
+          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Someone To Watch Over Me - Meet Tetel",
+      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
     },
     {
       "added_at": "2023-08-18 03:01:00",

@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-170 songs - 9 hr 47 min
+171 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Last Time](https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Last Time](https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze) | 2:31 | 2023-08-18 |  |
 | [Lazy Morning Blues](https://open.spotify.com/track/6Aeq5LjXljB082MugZX8vS) | [Gang Of Broken Arms](https://open.spotify.com/artist/6w2X5ZcVoSy0I2dyMDwI3w), [Bruce James](https://open.spotify.com/artist/0lLevbweYkhEvZRnowRBIW) | [Lazy Morning Blues](https://open.spotify.com/album/6Y2wxeU2LnlU2kbnbsXnGe) | 1:56 | 2023-08-18 |  |
 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 | 2021-12-20 |  |
-| [Leavin Trunk](https://open.spotify.com/track/78dp9ik3tgXCVmbOoqo0YS) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Brandon Santini](https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 3:56 | 2022-11-17 |  |
+| [Leavin Trunk](https://open.spotify.com/track/78dp9ik3tgXCVmbOoqo0YS) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Brandon Santini](https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 3:56 | 2022-11-17 | 2023-08-27 |
 | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/track/6tc69oV0eeSgoQvGAzP7a1) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Let It Rock \(Live from Blueberry Hill\)](https://open.spotify.com/album/5foGuU81PM8iNTwQBFlA9P) | 3:28 | 2021-12-20 |  |
 | [Let's Make It](https://open.spotify.com/track/3d4iDPWE0ED7wpW5KmS9dx) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:27 | 2023-08-18 |  |
 | [Lovesick Blues](https://open.spotify.com/track/6orPIRUBKPWsi7awg7UPTY) | [Annie Keating](https://open.spotify.com/artist/2xKlrRpBoX4Vgas5prEf1n) | [Lovesick Blues](https://open.spotify.com/album/0Fm9l5ccn4T7xYOiyx6Ul9) | 3:33 | 2022-10-10 |  |
@@ -107,6 +107,7 @@
 | [Movin' On](https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu) | [Jonathan Tyler](https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU) | [Movin' On](https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6) | 3:47 | 2022-09-23 |  |
 | [Mustang Sally](https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Very Best of Wilson Pickett](https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH) | 3:07 | 2021-12-20 |  |
 | [My Baby Is a Good 'Un](https://open.spotify.com/track/0lEpe4WQaHcdbH2QI45z42) | [Federico Verteramo](https://open.spotify.com/artist/7arbLF5KNH9SXNCuSYUsYx) | [Rush Hour](https://open.spotify.com/album/4DyiaOUlcWhlxhgWfhMGNY) | 3:15 | 2021-12-20 |  |
+| [My Baby is a Good 'Un](https://open.spotify.com/track/7MusF6wVSCFE6BQFKGvUQq) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958](https://open.spotify.com/album/4S8FX2e2gJx3TquFXKxFYe) | 2:40 | 2023-08-25 |  |
 | [My Baby's a Good 'Un](https://open.spotify.com/track/6oyDM2FMgK1f4Dx1H4hetP) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Double Trouble](https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf) | 2:40 | 2021-12-20 | 2022-06-24 |
 | [Nadine \- Stereo Remix](https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:49 | 2021-12-20 |  |
 | [No Sleep Blues](https://open.spotify.com/track/4ttmYxuXXcJR4aFzpEzXOB) | [Blue Milk](https://open.spotify.com/artist/4ILY6aQqhOSE83dUM2nPR6) | [No Sleep Blues](https://open.spotify.com/album/7JP7FEGR6XE6mYUTMsoYqQ) | 3:29 | 2023-08-18 |  |

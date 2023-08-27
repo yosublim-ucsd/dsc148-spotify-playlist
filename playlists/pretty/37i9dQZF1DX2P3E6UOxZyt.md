@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: 李佳歡 \(Kaia Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,441 likes - 69 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,447 likes - 69 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 68 | [笨蛋](https://open.spotify.com/track/6IeWsmiTBpHv6zmV1CDtt1) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [笨蛋](https://open.spotify.com/album/0EpBEMnAxBm58kUDQBc2dm) | 3:49 |
 | 69 | [你說這叫天秤座但你喜歡](https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [Be a Lover](https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq) | 3:16 |
 
-Snapshot ID: `MCw2NjExYWJiYzdhMjIzN2NmYjhkY2VlOWEwNzMxODdkNzBmYzU5MGQ3`
+Snapshot ID: `MCxkYzI4MmE2YmVkMjFiZTdiNDJjMDdmNjcxNzE2MzRhNmE4YTlmMTE4`

@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 786140,
+  "num_followers": 786306,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjgxMWZmZDFiZmU0Y2MzYWU5MzY5YzI4NmYyMzM0MjU2OWQ1ODFm",
+  "snapshot_id": "MCw1ODA2YzYwZTU1MGVkZTQwNmE0Mjk1OTRkZWYwNGU0NWY0OGM3MjEx",
   "tracks": [
     {
       "added_at": "2023-08-04 03:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
+        "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
+        "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
+      "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
+    },
+    {
+      "added_at": "2023-08-04 03:00:00",
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-08-04 03:00:00",
       "album": {
-        "name": "Mem\u00f3rias, Cr\u00f4nicas e Declara\u00e7\u00f5es de Amor",
-        "url": "https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 191933,
-      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho da Obra Intitulada \"Primo Basilio\" De E\u00e7a de Queiroz Declamado por Arnaldo Antunes",
-      "url": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
     },
     {
       "added_at": "2023-08-04 03:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 267413,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
-    },
-    {
-      "added_at": "2023-08-04 03:00:00",
-      "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL"
     },
     {
       "added_at": "2023-08-04 03:00:00",

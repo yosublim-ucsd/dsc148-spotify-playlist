@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Fridayy",
-  "num_followers": 42522,
+  "num_followers": 42531,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2UwNTUzZmVmOTFlNGVkNzdjMDE4MDc3M2UwMDBkYTcxZmU3YWRi",
+  "snapshot_id": "MCwzMzBhZTViMzA4NjEyOGVhM2EzZTA4MTQ2NDQ5ZjZhNjVhMGQ0ZTNh",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
-      "added_at": "2023-07-14 17:29:23",
-      "album": {
-        "name": "Down Bad",
-        "url": "https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY"
-      },
-      "artists": [
-        {
-          "name": "Erin Kaith",
-          "url": "https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG"
-        }
-      ],
-      "duration_ms": 175348,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
-    },
-    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Too Late To Die Young",
@@ -223,6 +207,22 @@
       "duration_ms": 172131,
       "name": "Make Me Stay",
       "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
+      "added_at": "2023-07-14 17:29:23",
+      "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY"
+      },
+      "artists": [
+        {
+          "name": "Erin Kaith",
+          "url": "https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG"
+        }
+      ],
+      "duration_ms": 175348,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1021,26 +1021,6 @@
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Love Scars II",
-        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Would You",
@@ -1061,6 +1041,26 @@
       "url": "https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Songs for Women, Free Game for Niggas - EP",
@@ -1075,6 +1075,22 @@
       "duration_ms": 181911,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
+    },
+    {
+      "added_at": "2022-11-04 06:34:53",
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
+      },
+      "artists": [
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "duration_ms": 158661,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 172275,
       "name": "Runner Up",
       "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
-    },
-    {
-      "added_at": "2022-11-04 06:34:53",
-      "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
-      },
-      "artists": [
-        {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
-        }
-      ],
-      "duration_ms": 158661,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1173,20 +1173,20 @@
       "url": "https://open.spotify.com/track/7ewblRqDhpyWHdZd0taBB1"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93"
+        "name": "Recalling",
+        "url": "https://open.spotify.com/album/1Itqs7iyazBGQq9abvXDvD"
       },
       "artists": [
         {
-          "name": "Liyah Katana",
-          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
+          "name": "PAULSN",
+          "url": "https://open.spotify.com/artist/4uBkOGR9CiYGQcILcNQ1HV"
         }
       ],
-      "duration_ms": 153386,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
+      "duration_ms": 146500,
+      "name": "Recalling",
+      "url": "https://open.spotify.com/track/3SvMSGyG1Ub7BzWRBI5KbZ"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Recalling",
-        "url": "https://open.spotify.com/album/1Itqs7iyazBGQq9abvXDvD"
-      },
-      "artists": [
-        {
-          "name": "PAULSN",
-          "url": "https://open.spotify.com/artist/4uBkOGR9CiYGQcILcNQ1HV"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Recalling",
-      "url": "https://open.spotify.com/track/3SvMSGyG1Ub7BzWRBI5KbZ"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Smoke, Drink, Break Up (feat. Wale)",
@@ -1245,6 +1229,22 @@
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93"
+      },
+      "artists": [
+        {
+          "name": "Liyah Katana",
+          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
+        }
+      ],
+      "duration_ms": 153386,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Sadboy, Vol. 1",
@@ -1261,20 +1261,24 @@
       "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU"
       },
       "artists": [
         {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "LeriQ",
+          "url": "https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl"
         }
       ],
-      "duration_ms": 219662,
-      "name": "PT. II (DRAKE & DRIVE)",
-      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
+      "duration_ms": 145892,
+      "name": "21",
+      "url": "https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1297,6 +1301,22 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "who's loving you?",
+        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 219662,
+      "name": "PT. II (DRAKE & DRIVE)",
+      "url": "https://open.spotify.com/track/56QSbiHEHJ55wewvQ3JXMZ"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Talk To Me",
@@ -1315,26 +1335,6 @@
       "duration_ms": 194000,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/0Yb6xqb1lqVJKc71pzqjic"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Asylum",
-        "url": "https://open.spotify.com/album/3567SHwiiXqs6dexprDRSU"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "LeriQ",
-          "url": "https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl"
-        }
-      ],
-      "duration_ms": 145892,
-      "name": "21",
-      "url": "https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Cold Toronto",
-        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 157808,
-      "name": "Fell Asleep",
-      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Tripolar 3",
@@ -1425,20 +1409,20 @@
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "WNTRS OUTCAST",
-        "url": "https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl"
+        "name": "Cold Toronto",
+        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
       },
       "artists": [
         {
-          "name": "Melii",
-          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
+      "duration_ms": 157808,
+      "name": "Fell Asleep",
+      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1455,6 +1439,22 @@
       "duration_ms": 146799,
       "name": "212",
       "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "WNTRS OUTCAST",
+        "url": "https://open.spotify.com/album/1LA1WiLkc7Md9u6ABOU1Zl"
+      },
+      "artists": [
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1525,24 +1525,20 @@
       "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Come See Me (Pt. 2)",
-        "url": "https://open.spotify.com/album/4Y9NqP8D2qLqmnv584hzyM"
+        "name": "C+A",
+        "url": "https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X"
       },
       "artists": [
         {
-          "name": "Teenear",
-          "url": "https://open.spotify.com/artist/05F7ymnYcv8JdwxtDnmFO0"
-        },
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
         }
       ],
-      "duration_ms": 180932,
-      "name": "Come See Me - Pt. 2",
-      "url": "https://open.spotify.com/track/1KqT67yoCwR71L3kp777Gk"
+      "duration_ms": 159225,
+      "name": "C+A",
+      "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1565,6 +1561,26 @@
       "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
     },
     {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Come See Me (Pt. 2)",
+        "url": "https://open.spotify.com/album/4Y9NqP8D2qLqmnv584hzyM"
+      },
+      "artists": [
+        {
+          "name": "Teenear",
+          "url": "https://open.spotify.com/artist/05F7ymnYcv8JdwxtDnmFO0"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "duration_ms": 180932,
+      "name": "Come See Me - Pt. 2",
+      "url": "https://open.spotify.com/track/1KqT67yoCwR71L3kp777Gk"
+    },
+    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Thanks 4 Nothing",
@@ -1579,22 +1595,6 @@
       "duration_ms": 149020,
       "name": "New Nigga",
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "C+A",
-        "url": "https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X"
-      },
-      "artists": [
-        {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        }
-      ],
-      "duration_ms": 159225,
-      "name": "C+A",
-      "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
     },
     {
       "added_at": "2023-03-31 04:00:00",

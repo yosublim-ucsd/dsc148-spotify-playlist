@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Astoria on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 111993,
+  "num_followers": 112034,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDcyMWE4NzM1MzVjNWI2NzQ3MWQ2YWMzZGJmN2MxMWJjYjU4NGY2",
+  "snapshot_id": "MCxjMDE4YzZiOGYyMWIwZDY5YmU4OTgzMDg5MmZjZTlkNzZkYTM5NDFi",
   "tracks": [
     {
       "added_at": "2023-08-02 14:55:57",
@@ -177,22 +177,6 @@
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "Wood & Water",
-        "url": "https://open.spotify.com/album/0rIY5iFDlZ2Yiqy41tBxOj"
-      },
-      "artists": [
-        {
-          "name": "Talik",
-          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "What Do You Feel",
-      "url": "https://open.spotify.com/track/4aoXyc65wTNDw4kQE8cS0V"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Zionic Mud",
@@ -207,6 +191,22 @@
       "duration_ms": 321782,
       "name": "Zionic Mud",
       "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "Wood & Water",
+        "url": "https://open.spotify.com/album/0rIY5iFDlZ2Yiqy41tBxOj"
+      },
+      "artists": [
+        {
+          "name": "Talik",
+          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "What Do You Feel",
+      "url": "https://open.spotify.com/track/4aoXyc65wTNDw4kQE8cS0V"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -225,20 +225,20 @@
       "url": "https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-06-07 04:04:27",
       "album": {
-        "name": "Shoegaze 5G",
-        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
       "artists": [
         {
-          "name": "alice does computer music",
-          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 210908,
-      "name": "The Sandcastle",
-      "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -257,20 +257,20 @@
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
     },
     {
-      "added_at": "2023-06-07 04:04:27",
+      "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+        "name": "Shoegaze 5G",
+        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
       },
       "artists": [
         {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+          "name": "alice does computer music",
+          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
         }
       ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
+      "duration_ms": 210908,
+      "name": "The Sandcastle",
+      "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -327,6 +327,22 @@
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
+    },
+    {
+      "added_at": "2023-06-07 04:04:27",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
       "added_at": "2023-06-07 04:04:27",
@@ -391,22 +407,6 @@
       "duration_ms": 210267,
       "name": "Ulaan",
       "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
-    },
-    {
-      "added_at": "2023-06-07 04:04:27",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/6sJpI63m2ZJvJzfPH1DB3o"
     },
     {
-      "added_at": "2023-08-01 21:02:30",
-      "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 321671,
-      "name": "Picture / Three Shadows",
-      "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "ISSUES (INTRO)",
@@ -555,6 +539,38 @@
       "duration_ms": 262675,
       "name": "ISSUES (INTRO)",
       "url": "https://open.spotify.com/track/201Y0nLSCr6ql1ueJlMPsT"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Festive Day",
+        "url": "https://open.spotify.com/album/2bFJ8ZyrmQpbX7kcVS8oeI"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "Festive Day",
+      "url": "https://open.spotify.com/track/4pAy9DqbUt8SvNb3QbbYsM"
+    },
+    {
+      "added_at": "2023-08-01 21:02:30",
+      "album": {
+        "name": "Ulaan",
+        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 321671,
+      "name": "Picture / Three Shadows",
+      "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -589,22 +605,6 @@
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Show You My World",
-        "url": "https://open.spotify.com/album/7iSAdOWLZGc1VGIBhf4hI7"
-      },
-      "artists": [
-        {
-          "name": "\u017bY\u0143Y",
-          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Show You My World",
-      "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
-    },
-    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "humanus",
@@ -637,20 +637,20 @@
       "url": "https://open.spotify.com/track/7KhXuPNmQxJuxuKXz4UY1V"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
+      "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Festive Day",
-        "url": "https://open.spotify.com/album/2bFJ8ZyrmQpbX7kcVS8oeI"
+        "name": "Show You My World",
+        "url": "https://open.spotify.com/album/7iSAdOWLZGc1VGIBhf4hI7"
       },
       "artists": [
         {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+          "name": "\u017bY\u0143Y",
+          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
         }
       ],
-      "duration_ms": 231133,
-      "name": "Festive Day",
-      "url": "https://open.spotify.com/track/4pAy9DqbUt8SvNb3QbbYsM"
+      "duration_ms": 206000,
+      "name": "Show You My World",
+      "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Eating food and fighting Wizards",
-        "url": "https://open.spotify.com/album/2U4aJvTvTvK1JnyxiBTYD7"
-      },
-      "artists": [
-        {
-          "name": "Big Lad",
-          "url": "https://open.spotify.com/artist/55ni0EJ4HeQre982XxyKkd"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Eating food and fighting Wizards",
-      "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
-    },
-    {
       "added_at": "2023-05-17 15:25:53",
       "album": {
         "name": "Standers",
@@ -715,6 +699,22 @@
       "duration_ms": 748320,
       "name": "Meers & Hushes",
       "url": "https://open.spotify.com/track/5x1L1dceyEz8LQ4xW86um6"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Eating food and fighting Wizards",
+        "url": "https://open.spotify.com/album/2U4aJvTvTvK1JnyxiBTYD7"
+      },
+      "artists": [
+        {
+          "name": "Big Lad",
+          "url": "https://open.spotify.com/artist/55ni0EJ4HeQre982XxyKkd"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Eating food and fighting Wizards",
+      "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "Blue Numbers",
-        "url": "https://open.spotify.com/album/2zQda2QHBKRLwFyROckc7y"
-      },
-      "artists": [
-        {
-          "name": "Harry Teardrop",
-          "url": "https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV"
-        }
-      ],
-      "duration_ms": 97342,
-      "name": "A flickering life",
-      "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
-    },
-    {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
         "name": "Preludes",
         "url": "https://open.spotify.com/album/6Q8TOtacVTE5deiLFh2hEj"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 188410,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/50w9wN70lWHaIe8atNxDtn"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Blue Numbers",
+        "url": "https://open.spotify.com/album/2zQda2QHBKRLwFyROckc7y"
+      },
+      "artists": [
+        {
+          "name": "Harry Teardrop",
+          "url": "https://open.spotify.com/artist/3AIYyng1ByLhJC6TimwJJV"
+        }
+      ],
+      "duration_ms": 97342,
+      "name": "A flickering life",
+      "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-05-24 14:03:48",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/5MmIpCib57g06PJHoRyzXh"
-      },
-      "artists": [
-        {
-          "name": "Stack Effect",
-          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
-        }
-      ],
-      "duration_ms": 365294,
-      "name": "Iridescent",
-      "url": "https://open.spotify.com/track/0HUEBcBp620kPLyjuoiXcg"
-    },
-    {
-      "added_at": "2023-05-24 14:03:48",
-      "album": {
         "name": "Calamity",
         "url": "https://open.spotify.com/album/1GH3RIvPE8FIv5cd1baSlY"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 183272,
       "name": "Calamity",
       "url": "https://open.spotify.com/track/5vbyaFx8JmNR3CNDe23dtL"
+    },
+    {
+      "added_at": "2023-05-24 14:03:48",
+      "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/5MmIpCib57g06PJHoRyzXh"
+      },
+      "artists": [
+        {
+          "name": "Stack Effect",
+          "url": "https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz"
+        }
+      ],
+      "duration_ms": 365294,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/0HUEBcBp620kPLyjuoiXcg"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "Path Integral VII - 4",
-        "url": "https://open.spotify.com/album/4SiyvWP7jyE6jSRAm3sVGf"
-      },
-      "artists": [
-        {
-          "name": "G\u00e1me (MX)",
-          "url": "https://open.spotify.com/artist/3DG8ncTGcqgOIXpEFIdh3j"
-        }
-      ],
-      "duration_ms": 384965,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/0I3Lw6POSM0MAVDkwPqWMJ"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "V\u00e4ter und S\u00f6hne",
@@ -991,6 +975,22 @@
       "duration_ms": 353250,
       "name": "V\u00e4ter und S\u00f6hne",
       "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "Path Integral VII - 4",
+        "url": "https://open.spotify.com/album/4SiyvWP7jyE6jSRAm3sVGf"
+      },
+      "artists": [
+        {
+          "name": "G\u00e1me (MX)",
+          "url": "https://open.spotify.com/artist/3DG8ncTGcqgOIXpEFIdh3j"
+        }
+      ],
+      "duration_ms": 384965,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/0I3Lw6POSM0MAVDkwPqWMJ"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/2IIA0q9fPM5yn5W4nRe6Xb"
     },
     {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/73YNaAGxipWa1Lqe3Y2Qf5"
+      },
+      "artists": [
+        {
+          "name": "Silicone Prairie",
+          "url": "https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0"
+        }
+      ],
+      "duration_ms": 88756,
+      "name": "Willkommen",
+      "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
+    },
+    {
       "added_at": "2023-05-17 15:25:53",
       "album": {
         "name": "Last Life on Earth",
@@ -1157,20 +1173,20 @@
       "url": "https://open.spotify.com/track/1qjMM7qlmDnucsa5UoOCZ9"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-08-23 14:01:12",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/73YNaAGxipWa1Lqe3Y2Qf5"
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
       },
       "artists": [
         {
-          "name": "Silicone Prairie",
-          "url": "https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0"
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
         }
       ],
-      "duration_ms": 88756,
-      "name": "Willkommen",
-      "url": "https://open.spotify.com/track/2hlNKxlqObtksthAmbidXA"
+      "duration_ms": 294636,
+      "name": "home",
+      "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
     },
     {
       "added_at": "2023-06-07 04:04:27",
@@ -1205,20 +1221,20 @@
       "url": "https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
+      "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
+        "name": "Dogwood Variations",
+        "url": "https://open.spotify.com/album/3a2KKDtdH7jhn5aElXTESl"
       },
       "artists": [
         {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+          "name": "Austin Cash",
+          "url": "https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i"
         }
       ],
-      "duration_ms": 294636,
-      "name": "home",
-      "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
+      "duration_ms": 384727,
+      "name": "Franklin, King of the Beers",
+      "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1235,22 +1251,6 @@
       "duration_ms": 114886,
       "name": "Room of Fear",
       "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Dogwood Variations",
-        "url": "https://open.spotify.com/album/3a2KKDtdH7jhn5aElXTESl"
-      },
-      "artists": [
-        {
-          "name": "Austin Cash",
-          "url": "https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i"
-        }
-      ],
-      "duration_ms": 384727,
-      "name": "Franklin, King of the Beers",
-      "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -1283,6 +1283,22 @@
       "duration_ms": 272098,
       "name": "Rikta",
       "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
+    },
+    {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "POOLS",
+        "url": "https://open.spotify.com/album/6mNvHZk25vLCviXEj4DS7z"
+      },
+      "artists": [
+        {
+          "name": "E.lementaL",
+          "url": "https://open.spotify.com/artist/2d8wfAQVpYHvfumKsfB12Q"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "POOLS",
+      "url": "https://open.spotify.com/track/5Lijj3EPCxqzsccJNCm0ZV"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1349,22 +1365,6 @@
       "url": "https://open.spotify.com/track/5dJZ45VpKjXE6McWZSqFnh"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Sophia Oscillations",
-        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
-      },
-      "artists": [
-        {
-          "name": "Mission To The Sun",
-          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
-        }
-      ],
-      "duration_ms": 261433,
-      "name": "Attrition",
-      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
-    },
-    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "Variable Happiness",
@@ -1379,6 +1379,22 @@
       "duration_ms": 450253,
       "name": "Come Down From the Tree Now",
       "url": "https://open.spotify.com/track/3tNzbH4X3O5KxgFcPJANPt"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Sophia Oscillations",
+        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
+      },
+      "artists": [
+        {
+          "name": "Mission To The Sun",
+          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
+        }
+      ],
+      "duration_ms": 261433,
+      "name": "Attrition",
+      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -1449,22 +1465,6 @@
       "url": "https://open.spotify.com/track/0ZrSKZdcURiYrk85Z3XrT6"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "POOLS",
-        "url": "https://open.spotify.com/album/6mNvHZk25vLCviXEj4DS7z"
-      },
-      "artists": [
-        {
-          "name": "E.lementaL",
-          "url": "https://open.spotify.com/artist/2d8wfAQVpYHvfumKsfB12Q"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "POOLS",
-      "url": "https://open.spotify.com/track/5Lijj3EPCxqzsccJNCm0ZV"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "The Rot",
@@ -1479,6 +1479,38 @@
       "duration_ms": 122258,
       "name": "vie",
       "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
+    },
+    {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "drizzy drone",
+        "url": "https://open.spotify.com/album/69vCR7dCUrJmU6CUpmDmdE"
+      },
+      "artists": [
+        {
+          "name": "Argo Nuff",
+          "url": "https://open.spotify.com/artist/15G1LspLruN9ZMpYgSGGLq"
+        }
+      ],
+      "duration_ms": 384877,
+      "name": "with my woes",
+      "url": "https://open.spotify.com/track/3cZbVXCBhG9ZdbeNLhmQ1h"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Two Monkeys",
+        "url": "https://open.spotify.com/album/0roIOBFDe3nLLmNobQbggs"
+      },
+      "artists": [
+        {
+          "name": "Everything Else",
+          "url": "https://open.spotify.com/artist/1xFZYGv7rqQ21JjoO4qhGd"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Asleep",
+      "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -1499,38 +1531,6 @@
       "duration_ms": 822297,
       "name": "Brocken Spectre",
       "url": "https://open.spotify.com/track/0sVnurzgsckFEdiljNatS5"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Two Monkeys",
-        "url": "https://open.spotify.com/album/0roIOBFDe3nLLmNobQbggs"
-      },
-      "artists": [
-        {
-          "name": "Everything Else",
-          "url": "https://open.spotify.com/artist/1xFZYGv7rqQ21JjoO4qhGd"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Asleep",
-      "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
-    },
-    {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "drizzy drone",
-        "url": "https://open.spotify.com/album/69vCR7dCUrJmU6CUpmDmdE"
-      },
-      "artists": [
-        {
-          "name": "Argo Nuff",
-          "url": "https://open.spotify.com/artist/15G1LspLruN9ZMpYgSGGLq"
-        }
-      ],
-      "duration_ms": 384877,
-      "name": "with my woes",
-      "url": "https://open.spotify.com/track/3cZbVXCBhG9ZdbeNLhmQ1h"
     },
     {
       "added_at": "2023-08-16 06:00:00",

@@ -5856,7 +5856,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 184173,
       "name": "Czarna Per\u0142a",
       "url": "https://open.spotify.com/track/7gOSz1YwGOhPZxMzvwxEj4"
@@ -14912,7 +14912,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 189295,
       "name": "Malibu Barbie",
       "url": "https://open.spotify.com/track/09bXpqLbPGZum6I4lDcnMX"
@@ -18312,6 +18312,24 @@
       "duration_ms": 230361,
       "name": "Oczy",
       "url": "https://open.spotify.com/track/77D8ROc0lMXtforsXK7Lou"
+    },
+    {
+      "album": {
+        "name": "Od nowa",
+        "url": "https://open.spotify.com/album/5ZuT2C98xolnFD5aynenaY"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229370,
+      "name": "Od nowa",
+      "url": "https://open.spotify.com/track/3NLSF1nuPBFj88gd2q7kKF"
     },
     {
       "album": {
@@ -22899,6 +22917,28 @@
     },
     {
       "album": {
+        "name": "Samotno\u015b\u0107",
+        "url": "https://open.spotify.com/album/4hwkvB5RdaCAITCoaNZz1z"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "Samotno\u015b\u0107",
+      "url": "https://open.spotify.com/track/6QBtD08lrQIOQqc7teDrY8"
+    },
+    {
+      "album": {
         "name": "Kylie Christmas",
         "url": "https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W"
       },
@@ -23274,7 +23314,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 150000,
       "name": "SHADOWBAN",
       "url": "https://open.spotify.com/track/2tVaka4Ev4YRK7HgIcxLow"
@@ -23514,6 +23554,24 @@
       "duration_ms": 192586,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/557un1HgwYMuqfWGSTmnxw"
+    },
+    {
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "album": {

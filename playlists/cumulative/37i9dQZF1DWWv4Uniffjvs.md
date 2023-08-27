@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-135 songs - 9 hr 50 min
+136 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Body Mind Hell \- Tim Reaper Remix](https://open.spotify.com/track/0Ihl07G41xW8F0KivIFPF3) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Body Mind Hell \(Tim Reaper Remix\)](https://open.spotify.com/album/75BTQcnwywxskKahmC2GaU) | 3:35 | 2023-06-16 | 2023-07-15 |
 | [Breakdown](https://open.spotify.com/track/6VPjjl2ToIIvBQs3Bolv69) | [BONE BOX](https://open.spotify.com/artist/3cBzdxYXMAyjzSGLx7ZRiL) | [Prawn Stars, Vol\. 1](https://open.spotify.com/album/3JO92oXOKVNHLmnMO4MJfp) | 2:24 | 2023-03-30 | 2023-08-19 |
 | [Brick City](https://open.spotify.com/track/6cY0VkgAjxj4Bhe0rRnKrU) | [HONEY B](https://open.spotify.com/artist/2ydEO7mJmIYAeSr4V7y36W) | [Brick City](https://open.spotify.com/album/7aOTxMiQvikfCpIdtM9JaV) | 3:57 | 2023-03-30 | 2023-08-19 |
-| [Brutal House \(BEADS Edit\)](https://open.spotify.com/track/1TjyIHkELTzdtgZgytUMId) | [Paul Adam Walter](https://open.spotify.com/artist/5ZbB2k1J3A7KAFBVB0pYZ2) | [Delirium, Vol\. I](https://open.spotify.com/album/0Seclwz4z7WIleN9fYKJjQ) | 4:18 | 2023-08-18 |  |
+| [Brutal House \(BEADS Remix\)](https://open.spotify.com/track/1TjyIHkELTzdtgZgytUMId) | [Paul Adam Walter](https://open.spotify.com/artist/5ZbB2k1J3A7KAFBVB0pYZ2), [BEADS](https://open.spotify.com/artist/2ahOmoP1x16GzzivZa0rck) | [Delirium, Vol\. I](https://open.spotify.com/album/0Seclwz4z7WIleN9fYKJjQ) | 4:18 | 2023-08-18 |  |
 | [Butcher \(Helsmoortel Remix\)](https://open.spotify.com/track/0QRh3YOPKSlmKnekKH47qu) | [King Hiss](https://open.spotify.com/artist/4KwON0ubUOt5yWmaTRNN1F), [Helsmoortel](https://open.spotify.com/artist/4DJf4ZJfC4GO8esHfPra3c) | [Butcher \(Helsmoortel Remix\)](https://open.spotify.com/album/51lIrSIEveJHd5jZAfoojW) | 4:48 | 2023-08-18 |  |
 | [Buzzkill](https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Buzzkill](https://open.spotify.com/album/67kT2zXqPMCGVAfpEf82yo) | 2:54 | 2023-03-30 | 2023-08-19 |
 | [Cat](https://open.spotify.com/track/5zxl6wJiNyPOE5D6TIRb4P) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF), [Freeka Tet](https://open.spotify.com/artist/1S7mHCJVmfSUre3mo1NZGa) | [STROBE.RIP](https://open.spotify.com/album/5k1jtWSTm2oOUqa9PPXKFD) | 3:11 | 2023-08-11 |  |
@@ -77,7 +77,8 @@
 | [In Brasa Juke](https://open.spotify.com/track/6cJB6z5vXhe57laWv0A1JG) | [ERAM](https://open.spotify.com/artist/3dCjWxNk33F2AT6Vj5SIQu), [Tabu](https://open.spotify.com/artist/1Kmrq6n4z043MkbnpYdvyH) | [High Winds](https://open.spotify.com/album/2w5hQdlGfBWNuiuqJ5J2zX) | 3:13 | 2023-03-30 | 2023-08-05 |
 | [Incredibly Annoying \- Safety Trance Remix](https://open.spotify.com/track/1Q0gzmihIHWXV2Z2Dgr0Mr) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Safety Trance](https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF) | [Incredibly Annoying \(Safety Trance Remix\)](https://open.spotify.com/album/1GwE2IJL9Q3ez73dDQcPlg) | 2:54 | 2023-07-14 |  |
 | [Inna Trance](https://open.spotify.com/track/57Tn7DAEl2IT2D1oeFVRMu) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [NOW OR NEVER](https://open.spotify.com/album/3iWgFrvsPZaYzycEVjJBzX) | 6:29 | 2023-03-30 | 2023-08-12 |
-| [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-07-14 |  |
+| [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-07-14 | 2023-08-27 |
+| [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-08-18 |  |
 | [I‘M FINE](https://open.spotify.com/track/0G6fVy9Irb38xRmxCKw5AB) | [Warnung](https://open.spotify.com/artist/51qGau453fST4NnNzbU7bn) | [XENON\_EP](https://open.spotify.com/album/3BT3bOhhhxlTyUt1fG4po4) | 4:59 | 2023-03-30 | 2023-07-15 |
 | [I’m Future](https://open.spotify.com/track/2dq1fGxC5OF2SaZExU2upM) | [Taube](https://open.spotify.com/artist/7CkJFCrOBweQ9bOL3C5MCu) | [Inhale, Exhale](https://open.spotify.com/album/5vOpOzf4XeHQVpVTUW8wpr) | 3:31 | 2023-08-18 |  |
 | [Joy Squad \- VTSS Remix](https://open.spotify.com/track/4YWa2U6mDcZgKjDG8bqZ6Q) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Joy Squad / Shellshock \(VTSS & Dubyshkin Remixes\)](https://open.spotify.com/album/3o8z9yU8EHtoQgzgdFR0Cp) | 2:45 | 2023-03-30 | 2023-07-15 |

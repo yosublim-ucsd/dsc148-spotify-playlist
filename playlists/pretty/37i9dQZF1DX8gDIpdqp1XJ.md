@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,771 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,770 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 43 | [Since August](https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Since August](https://open.spotify.com/album/4VQYpmg1K5PHZvKnsRGRN9) | 2:55 |
 | 44 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
 | 45 | [Nothing in the Dark](https://open.spotify.com/track/7ohaAMlkJCeTLTnOhxdeR1) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Nothing in the Dark](https://open.spotify.com/album/5yVOGagZfxr6W9Q3VFyuR8) | 4:58 |
-| 46 | [The Skin And The Glove](https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Skin And The Glove](https://open.spotify.com/album/4cS5ytj8t6O9hYJHQPi9QQ) | 6:02 |
+| 46 | [The Skin And The Glove](https://open.spotify.com/track/5OWzC2szdxlxz1Pbx4Lj9n) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [An Object In Motion](https://open.spotify.com/album/3mTGLl8U9ZyNA1CnbHISgD) | 6:02 |
 | 47 | [Love It Is Not Love](https://open.spotify.com/track/6Vt9VWwLberr7ByuYsTmti) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw), [The Shacks](https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR) | [Love It Is Not Love](https://open.spotify.com/album/4NhcBOfwaQODR4OY3boMSV) | 3:39 |
 | 48 | [Iggy](https://open.spotify.com/track/2HKILv0izIotCwJeBsnmpP) | [Chelsea Days](https://open.spotify.com/artist/0Ix2QkyM31FfPRCQjnkttP) | [sincerely,](https://open.spotify.com/album/5p24JDgC6pO7shv1OmX2dO) | 2:53 |
 | 49 | [Twin](https://open.spotify.com/track/0cSsInmUJiXyxUWtLxaHjq) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Twin](https://open.spotify.com/album/4isUn6sML2OYlUq8tFxU9S) | 6:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
 | 100 | [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 |
 
-Snapshot ID: `MCxmZGFmMWM5OGI0MDc5MTIzNDU2MTgwMDFjMTI3MjM1NDcyODcxY2E1`
+Snapshot ID: `MCxkYjI4MWMxMTdjNzM0Yjk0ZjM2MWFhN2JiMjJjMWYxN2VkZGVjODY3`

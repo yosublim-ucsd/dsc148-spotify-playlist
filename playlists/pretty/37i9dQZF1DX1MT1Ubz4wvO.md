@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con La Doloritas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,784 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,797 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Radioactiva](https://open.spotify.com/track/6FGSxqit3jy05RsA6YjfH1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [Radioactiva](https://open.spotify.com/album/2zusAQJG3or1boIhzZAZPz) | 3:46 |
 | 50 | [Tenerte](https://open.spotify.com/track/6AwOQbNB4zFT5haYfEW8I3) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Tenerte](https://open.spotify.com/album/0VLr3VxhZiloejJmgGd68Q) | 3:59 |
 
-Snapshot ID: `MCwzYjQ1MGViODI5NzZlNWY3MjM4ZWMyNTNjNmZlYTBkYWVjMmVjNmQ4`
+Snapshot ID: `MCwzMTljMWUxZThjZDVlODYyY2JkMjI5NTdiMDFhNWVlMGI5OWRjNDhh`

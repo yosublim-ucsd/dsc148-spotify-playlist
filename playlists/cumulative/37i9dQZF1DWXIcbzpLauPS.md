@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Silent Planet
 
-731 songs - 1 day 21 hr 55 min
+732 songs - 1 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Behind the Crowd](https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Behind The Crowd](https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM) | 3:14 | 2022-07-13 | 2022-07-23 |
 | [Behind the Hand of God](https://open.spotify.com/track/3c34ZTRGIuBX6MfRJmmqOW) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Behind the Hand of God](https://open.spotify.com/album/7kLGqxeAyPv2PYRk8dUYBp) | 3:20 | 2022-07-13 | 2022-07-20 |
 | [Behold The Crown](https://open.spotify.com/track/6mlipsFWvQ1dfOWuHAHtOA) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Behold The Crown](https://open.spotify.com/album/7xvmc4DDMSokbn96oWC4r3) | 4:34 | 2022-07-13 | 2022-07-23 |
-| [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 | 2023-07-14 |  |
+| [Believe](https://open.spotify.com/track/0zlDjqpYoDUEahQNREV4r5) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 4:11 | 2023-08-18 |  |
+| [Believe](https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Believe](https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE) | 4:11 | 2023-07-14 | 2023-08-27 |
 | [Best For You](https://open.spotify.com/track/0Fa9nx13nJ7CiZLRM3in1S) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Hope is a Cult](https://open.spotify.com/album/5lq3RYK2UtsoM0KWq0dDNk) | 3:41 | 2023-02-17 |  |
 | [Beta Gods](https://open.spotify.com/track/5GXV3BnqivDTVGo3S4jGIc) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Beta Gods](https://open.spotify.com/album/1Uw2WdS8xyAABgFUqCt5ON) | 2:52 | 2021-12-17 | 2022-02-11 |
 | [Better](https://open.spotify.com/track/1CNQI6EQwjJJi48OoMa8gw) | [Palisades](https://open.spotify.com/artist/2w6slVluzWlwADP8aB5yz5) | [Better](https://open.spotify.com/album/2xUM3kskk8sMsXqaxDV32R) | 3:19 | 2022-03-11 | 2022-05-14 |

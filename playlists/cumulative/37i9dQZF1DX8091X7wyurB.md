@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-195 songs - 17 hr 19 min
+196 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Adura](https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Adura](https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B) | 8:01 | 2023-04-07 |  |
 | [Afurum Gi Nanya](https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Afurum Gi Nanya](https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae) | 2:19 | 2023-03-03 | 2023-07-07 |
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 | 2023-06-19 |
-| [All That I Need](https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG) | [Manuel The Creator](https://open.spotify.com/artist/2T0gntIOQfKGq0t0xyMNkZ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [All That I Need](https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O) | 3:03 | 2022-06-30 |  |
+| [All That I Need](https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG) | [Manuel The Creator](https://open.spotify.com/artist/2T0gntIOQfKGq0t0xyMNkZ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [All That I Need](https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O) | 3:03 | 2022-06-30 | 2023-08-27 |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-05-05 |  |
 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 | 2023-05-26 |  |
 | [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 | 2023-05-12 | 2023-06-23 |
@@ -114,6 +114,7 @@
 | [Mo Ne Yo](https://open.spotify.com/track/3tnVmqNWiawZP16jHSD4p5) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Mo Ne Yo](https://open.spotify.com/album/1xKvG0UAigXX8lQZDw2Fit) | 4:29 | 2022-06-30 | 2023-02-21 |
 | [Morning Devotion](https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs) | [Street Church Music](https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Morning Devotion](https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds) | 2:07 | 2023-02-03 |  |
 | [Morning Devotion/Amapiano Praise \- Live](https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Morning Devotion/Amapiano Praise \(Live\)](https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5) | 13:26 | 2023-07-14 |  |
+| [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-08-25 |  |
 | [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 | 2023-04-28 | 2023-06-16 |
 | [My Everything](https://open.spotify.com/track/381k7MHOPFzsT27BvwoPPe) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Wind of Revival](https://open.spotify.com/album/6ypXVhmNdq43YpKBGvutxY) | 4:41 | 2022-06-30 |  |
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2022-06-30 |  |

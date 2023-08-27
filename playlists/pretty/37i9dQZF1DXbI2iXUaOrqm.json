@@ -1,12 +1,12 @@
 {
   "description": "Una mezcla de rock y punk para motivarte. Get pumped!",
-  "num_followers": 7237,
+  "num_followers": 7284,
   "original_name": "Gym & Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjY4MWQ3ZjUwYzAyMmNkMzU5ODc3NGY3OWRmMjBiMTQyZDA0MzNl",
+  "snapshot_id": "MCw2Y2JkYTAxMDQyNTFmNWZjODA4ZjlhN2ZiMGZmMmNkZDI5MzY2NjZm",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Florecita Rockera",
+      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 204455,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Florecita Rockera",
-      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -739,22 +739,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Cansado de estar triste",
-        "url": "https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2"
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
       "artists": [
         {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 175867,
-      "name": "Cansado de estar triste",
-      "url": "https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x"
+      "duration_ms": 177826,
+      "name": "Nublado (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -775,22 +775,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Cansado de estar triste",
+        "url": "https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
         },
         {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         }
       ],
-      "duration_ms": 177826,
-      "name": "Nublado (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
+      "duration_ms": 175867,
+      "name": "Cansado de estar triste",
+      "url": "https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x"
     },
     {
       "added_at": "2023-08-18 04:00:00",

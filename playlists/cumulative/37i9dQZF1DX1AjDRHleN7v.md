@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-68 songs - 3 hr 55 min
+69 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,12 @@
 | [Avenida da Paixão](https://open.spotify.com/track/6G0KUN8I6R0xN9M2jmDlNX) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Avenida da Paixão](https://open.spotify.com/album/4k7qkWs4sfeJc4cl628ynJ) | 2:32 | 2023-08-04 | 2023-08-06 |
 | [Be Where Your Feet Are](https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good \(Deluxe Edition\)](https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63) | 3:14 | 2023-07-03 |  |
 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 | 2023-07-03 |  |
-| [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 | 2023-07-03 |  |
+| [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 | 2023-07-03 | 2023-08-27 |
 | [Clama Floresta](https://open.spotify.com/track/0UfczdZ7Se11TOmKLt61cV) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [SIM SIM SIM](https://open.spotify.com/album/3dTQyJxSCkwJ4PFcURFd3f) | 5:49 | 2023-07-03 | 2023-07-29 |
 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 | 2023-07-14 |  |
 | [Deixa O Amor Fluir](https://open.spotify.com/track/7B5LFKQJZkI1Vh82dIMSW7) | [MARCEL](https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX), [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Deixa O Amor Fluir](https://open.spotify.com/album/7DLZbNQrrloT2jeEJJJJmo) | 2:56 | 2023-07-03 |  |
 | [Donavi](https://open.spotify.com/track/2KeRDSJkHqbLgUGWjF79vk) | [Msário](https://open.spotify.com/artist/23uEfKXCMDz7CayvDlN3Az), [Karina Buhr](https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm) | [Donavi](https://open.spotify.com/album/20RUaloKOoD5AseI3z57iD) | 4:10 | 2023-08-04 |  |
+| [Eleva](https://open.spotify.com/track/5sRGPPWfKuP6ytamjiZX00) | [Refinaria](https://open.spotify.com/artist/6d3WINgz7m8IPEt9rlYVgJ), [Chico Martins](https://open.spotify.com/artist/4AixCL5u5yznkGKB4DKCAw) | [Eleva](https://open.spotify.com/album/2ihl3JKPKWTIS342D41zFA) | 3:34 | 2023-08-18 |  |
 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 | 2023-07-03 |  |
 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 | 2023-07-03 |  |
 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/0GQLDLMAVibr9KuiiYSUUT) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6) | 4:28 | 2023-07-03 |  |

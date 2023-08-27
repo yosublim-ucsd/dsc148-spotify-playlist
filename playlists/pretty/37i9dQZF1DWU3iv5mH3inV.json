@@ -1,12 +1,12 @@
 {
   "description": "Dembow dominicano to el d\u00eda. Foto: Angel Dior y Braulio Fog\u00f3n",
-  "num_followers": 92188,
+  "num_followers": 92267,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDIwYzM2NTlmOTg5M2Q1YjM4ODVjNTRmNTI2NjBiY2VkNDFmMzY5",
+  "snapshot_id": "MCw0OWQyYmFhY2FhYTU1OTZhYzllYzgwMzhkN2I1NWMxNTA3OTMzZjg0",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Gass Pure",
-        "url": "https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW"
-      },
-      "artists": [
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 137586,
-      "name": "Gass Pure",
-      "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Tu Vecino",
         "url": "https://open.spotify.com/album/4V1Olj6gUBJLtYsDU6F1UF"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 181106,
       "name": "Tu Vecino",
       "url": "https://open.spotify.com/track/2ZwwhQPsMhF980XXbcYnRG"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Gass Pure",
+        "url": "https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "duration_ms": 137586,
+      "name": "Gass Pure",
+      "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1553,20 +1553,24 @@
       "url": "https://open.spotify.com/track/42pwnitS0DXpyFrb1FylEI"
     },
     {
-      "added_at": "2023-05-26 20:55:47",
+      "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Serrucho Amolao",
-        "url": "https://open.spotify.com/album/2EKRKVugMMCQb5iDgWRw5N"
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/5TBzY1EosLpCOSt9Vl5dBk"
       },
       "artists": [
         {
-          "name": "Shelow Shaq",
-          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+          "name": "Neron Delta",
+          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
+        },
+        {
+          "name": "Mike Moonnight",
+          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
         }
       ],
-      "duration_ms": 232151,
-      "name": "Serrucho Amolao",
-      "url": "https://open.spotify.com/track/1kzs05g4L7sADL1JCBVH1s"
+      "duration_ms": 176801,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/0usasRIS8OZSY4eLcFYV1a"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1597,24 +1601,20 @@
       "url": "https://open.spotify.com/track/2S87nHmmhCD3qsKLwcCU74"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
+      "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/5TBzY1EosLpCOSt9Vl5dBk"
+        "name": "Serrucho Amolao",
+        "url": "https://open.spotify.com/album/2EKRKVugMMCQb5iDgWRw5N"
       },
       "artists": [
         {
-          "name": "Neron Delta",
-          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
-        },
-        {
-          "name": "Mike Moonnight",
-          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
         }
       ],
-      "duration_ms": 176801,
-      "name": "ADN",
-      "url": "https://open.spotify.com/track/0usasRIS8OZSY4eLcFYV1a"
+      "duration_ms": 232151,
+      "name": "Serrucho Amolao",
+      "url": "https://open.spotify.com/track/1kzs05g4L7sADL1JCBVH1s"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -1681,22 +1681,6 @@
       "url": "https://open.spotify.com/track/037ybKYibufTvNlUvf1Ut1"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "La Sentite",
-        "url": "https://open.spotify.com/album/3Rk1OF59JYQRgyVA5qoFem"
-      },
-      "artists": [
-        {
-          "name": "King Raylon",
-          "url": "https://open.spotify.com/artist/7w44znz6P578fKTOdmCIYJ"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "La Sentite",
-      "url": "https://open.spotify.com/track/4eR7dkrKdylRUjofJxiknZ"
-    },
-    {
       "added_at": "2023-05-26 20:55:47",
       "album": {
         "name": "Ven (Remix)",
@@ -1721,6 +1705,38 @@
       "url": "https://open.spotify.com/track/0OsAYEI28tSsqrjXVEO4eg"
     },
     {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "La Sentite",
+        "url": "https://open.spotify.com/album/3Rk1OF59JYQRgyVA5qoFem"
+      },
+      "artists": [
+        {
+          "name": "King Raylon",
+          "url": "https://open.spotify.com/artist/7w44znz6P578fKTOdmCIYJ"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "La Sentite",
+      "url": "https://open.spotify.com/track/4eR7dkrKdylRUjofJxiknZ"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/0m859pAzGiLM9zhTzaq4UP"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "duration_ms": 164641,
+      "name": "Klk Con Klk",
+      "url": "https://open.spotify.com/track/01oIgxxVo6RNZZ7JHWQRcf"
+    },
+    {
       "added_at": "2023-05-26 20:55:47",
       "album": {
         "name": "La Libreta",
@@ -1739,22 +1755,6 @@
       "duration_ms": 205348,
       "name": "Ponte Freca",
       "url": "https://open.spotify.com/track/66yTiMUt2nv74sPqiPqHEp"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/0m859pAzGiLM9zhTzaq4UP"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 164641,
-      "name": "Klk Con Klk",
-      "url": "https://open.spotify.com/track/01oIgxxVo6RNZZ7JHWQRcf"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Sin \"S\"",
-        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanquito",
-          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Telacuti",
-      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Pin Pon",
         "url": "https://open.spotify.com/album/0Fm04gVS5QjzNXMB10o8xM"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 196702,
       "name": "Pin Pon",
       "url": "https://open.spotify.com/track/0hsvxHMRWEvUCtE1qDfiDG"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Sin \"S\"",
+        "url": "https://open.spotify.com/album/0PbaFcLAnfpzvkXeVEZZHu"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanquito",
+          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Telacuti",
+      "url": "https://open.spotify.com/track/2uqPGoloSaqglIsJ6J1NIQ"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2107,30 +2107,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Kame Hame Ha",
-        "url": "https://open.spotify.com/album/5qMNrrCWKtuIoHXFytIPQt"
-      },
-      "artists": [
-        {
-          "name": "Neron Delta",
-          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
-        },
-        {
-          "name": "Luis Cordoba Remix",
-          "url": "https://open.spotify.com/artist/1xisiVS2nbjTnRsjDTkZU8"
-        },
-        {
-          "name": "Mike Moonnight",
-          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
-        }
-      ],
-      "duration_ms": 203358,
-      "name": "Kame Hame Ha",
-      "url": "https://open.spotify.com/track/7pwAaype4SgjA5OwNbqHYm"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Primero Que Kanye",
         "url": "https://open.spotify.com/album/6As2PZV5rjM9lszI3VSjy4"
       },
@@ -2167,6 +2143,30 @@
       "duration_ms": 142862,
       "name": "Mueve Eso",
       "url": "https://open.spotify.com/track/0FU75UF6naf5DXP6V5aitJ"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Kame Hame Ha",
+        "url": "https://open.spotify.com/album/5qMNrrCWKtuIoHXFytIPQt"
+      },
+      "artists": [
+        {
+          "name": "Neron Delta",
+          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
+        },
+        {
+          "name": "Luis Cordoba Remix",
+          "url": "https://open.spotify.com/artist/1xisiVS2nbjTnRsjDTkZU8"
+        },
+        {
+          "name": "Mike Moonnight",
+          "url": "https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf"
+        }
+      ],
+      "duration_ms": 203358,
+      "name": "Kame Hame Ha",
+      "url": "https://open.spotify.com/track/7pwAaype4SgjA5OwNbqHYm"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2227,34 +2227,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Tony (feat. Afro Nigga)",
-        "url": "https://open.spotify.com/album/0CKRDcUGfCWkfqqGuCDAAn"
-      },
-      "artists": [
-        {
-          "name": "Haznar",
-          "url": "https://open.spotify.com/artist/4sXdCzE0VCnzM6OkEA0iOQ"
-        },
-        {
-          "name": "Machine",
-          "url": "https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA"
-        },
-        {
-          "name": "Oliwi",
-          "url": "https://open.spotify.com/artist/6ozK3vgRIbMStCqHrNOGlu"
-        },
-        {
-          "name": "Afro Nigga",
-          "url": "https://open.spotify.com/artist/1Tg94XXFoMEZvT2ezxPZbQ"
-        }
-      ],
-      "duration_ms": 228004,
-      "name": "Tony (feat. Afro Nigga)",
-      "url": "https://open.spotify.com/track/24EPIb6Iiuc4l6Iw0dCkfF"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Guayabu",
         "url": "https://open.spotify.com/album/0ir4DHfH1beyncktC1fS9F"
       },
@@ -2307,6 +2279,34 @@
       "duration_ms": 288574,
       "name": "Punto 40 (Remix) (feat. Bryant Grety, Bulin 47, El Cherry Scom, Ceky Viciny, Fr Lirical & Rambo Man) - Mix Version",
       "url": "https://open.spotify.com/track/3veEqKHMkLmfOumWDNLSm0"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Tony (feat. Afro Nigga)",
+        "url": "https://open.spotify.com/album/0CKRDcUGfCWkfqqGuCDAAn"
+      },
+      "artists": [
+        {
+          "name": "Haznar",
+          "url": "https://open.spotify.com/artist/4sXdCzE0VCnzM6OkEA0iOQ"
+        },
+        {
+          "name": "Machine",
+          "url": "https://open.spotify.com/artist/7yEnxWEednQthvm9C854uA"
+        },
+        {
+          "name": "Oliwi",
+          "url": "https://open.spotify.com/artist/6ozK3vgRIbMStCqHrNOGlu"
+        },
+        {
+          "name": "Afro Nigga",
+          "url": "https://open.spotify.com/artist/1Tg94XXFoMEZvT2ezxPZbQ"
+        }
+      ],
+      "duration_ms": 228004,
+      "name": "Tony (feat. Afro Nigga)",
+      "url": "https://open.spotify.com/track/24EPIb6Iiuc4l6Iw0dCkfF"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2451,26 +2451,6 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "La Risa Mas Sicaria the Mix Tape",
-        "url": "https://open.spotify.com/album/4og3Hp2KDzeYdsthLQ0mM0"
-      },
-      "artists": [
-        {
-          "name": "Dixson Waz",
-          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
-        },
-        {
-          "name": "Los Pepe",
-          "url": "https://open.spotify.com/artist/02IeeHmp855833vM1eHQw8"
-        }
-      ],
-      "duration_ms": 159043,
-      "name": "Cla Cla Cla ( Feat. Los Pepe )",
-      "url": "https://open.spotify.com/track/3s9PhD12XsUszAHHIMNmGH"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
         "name": "Demagogo Mil Informando",
         "url": "https://open.spotify.com/album/7deYXSwcPnLhlX4wEUV56G"
       },
@@ -2491,6 +2471,26 @@
       "duration_ms": 222981,
       "name": "La Gente Ta Loca - Remix",
       "url": "https://open.spotify.com/track/6BDQXT3Obgyp1Asd25mdva"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "La Risa Mas Sicaria the Mix Tape",
+        "url": "https://open.spotify.com/album/4og3Hp2KDzeYdsthLQ0mM0"
+      },
+      "artists": [
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "Los Pepe",
+          "url": "https://open.spotify.com/artist/02IeeHmp855833vM1eHQw8"
+        }
+      ],
+      "duration_ms": 159043,
+      "name": "Cla Cla Cla ( Feat. Los Pepe )",
+      "url": "https://open.spotify.com/track/3s9PhD12XsUszAHHIMNmGH"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2755,6 +2755,46 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
+        "name": "Kikito",
+        "url": "https://open.spotify.com/album/1dQIXiLFLRMdI84tjfOwdC"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 170084,
+      "name": "KIKITO",
+      "url": "https://open.spotify.com/track/3E24uQnsEFBxqaGrxyTuMK"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
+        "name": "Ahora Venimo Con Rango",
+        "url": "https://open.spotify.com/album/40Tm0edfITjnxINCgdVmeU"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "duration_ms": 144120,
+      "name": "El Chiva",
+      "url": "https://open.spotify.com/track/6Lpx9mRll44qoVXhSPBdSw"
+    },
+    {
+      "added_at": "2023-05-26 20:55:47",
+      "album": {
         "name": "Cero Coro",
         "url": "https://open.spotify.com/album/6O86yEhkjwrI4LRfXilKd2"
       },
@@ -2775,18 +2815,18 @@
     {
       "added_at": "2023-05-26 20:55:47",
       "album": {
-        "name": "Ahora Venimo Con Rango",
-        "url": "https://open.spotify.com/album/40Tm0edfITjnxINCgdVmeU"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/292oKRwlsWMyHyURrU0Sey"
       },
       "artists": [
         {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
         }
       ],
-      "duration_ms": 144120,
-      "name": "El Chiva",
-      "url": "https://open.spotify.com/track/6Lpx9mRll44qoVXhSPBdSw"
+      "duration_ms": 196684,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/1p2r2wD0ysSk7o63HgSg8T"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2827,22 +2867,6 @@
       "duration_ms": 166025,
       "name": "Ayayai",
       "url": "https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/292oKRwlsWMyHyURrU0Sey"
-      },
-      "artists": [
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 196684,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/1p2r2wD0ysSk7o63HgSg8T"
     },
     {
       "added_at": "2023-05-26 20:55:47",
@@ -2927,26 +2951,6 @@
       "duration_ms": 200058,
       "name": "Mente De Pecao - Remix",
       "url": "https://open.spotify.com/track/1IOOAeDyZwGYqnLQCsEKrC"
-    },
-    {
-      "added_at": "2023-05-26 20:55:47",
-      "album": {
-        "name": "Dembow Latino",
-        "url": "https://open.spotify.com/album/13pn00h8Ozr8jWvu6QSAl6"
-      },
-      "artists": [
-        {
-          "name": "El Mega",
-          "url": "https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs"
-        },
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        }
-      ],
-      "duration_ms": 193192,
-      "name": "La Cueva de los Indios - Remix",
-      "url": "https://open.spotify.com/track/77uS85fmMaIjWSZlwFffB2"
     },
     {
       "added_at": "2023-05-26 20:55:47",

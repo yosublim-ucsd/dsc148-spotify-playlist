@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,787 likes - 893 songs - 2 day 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,810 likes - 893 songs - 2 day 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 145 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
 | 146 | [A Thousand Cuts \(Spotify Singles\) \- Remix](https://open.spotify.com/track/5CSJmUUVg21L8xb71UKMnI) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI), [AJ Rafael](https://open.spotify.com/artist/4zrB9WV6Z0iKKnGb1Pj0P2) | [Spotify Singles](https://open.spotify.com/album/14V4tjh2spbCj7L4txtEY1) | 4:29 |
 | 147 | [Let Me Blow Ya Mind \(Spotify Singles\)](https://open.spotify.com/track/4lRm2lCC7YyUtiQMoiaHJ0) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Bootleg Orchestra](https://open.spotify.com/artist/3kutD0l68s9TCgDYsxV50L) | [Spotify Singles](https://open.spotify.com/album/14V4tjh2spbCj7L4txtEY1) | 3:48 |
-| 148 | [Heavy Artillery](https://open.spotify.com/track/1fOTrpMIas2nZYzH6o56n7) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 |
+| 148 | [Heavy Artillery](https://open.spotify.com/track/1fOTrpMIas2nZYzH6o56n7) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 |
 | 149 | [Meri Mehbooba](https://open.spotify.com/track/18zXF2JNbtMthfQnQPaV45) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 |
 | 150 | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 |
 | 151 | [Nu kan du få mig så lätt \- Spotify Singles](https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Nu kan du få mig så lätt \- Spotify Singles](https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo) | 3:00 |
@@ -902,4 +902,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 892 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 893 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCwyOWRlOTVkNDAyZDQ1YjI2MDNjMGVkNDY5ZTc0MzU3ODhkNjQ5MTgy`
+Snapshot ID: `MCwyYjhkMWFiNjNmNGRjNjViZDEzZTk4ZDU5NTI3OTc3NzU4YmY1MzE3`

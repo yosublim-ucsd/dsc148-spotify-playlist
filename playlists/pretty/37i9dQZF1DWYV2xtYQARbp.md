@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,332 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,349 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 6 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 |
 | 7 | [Davy Crockett](https://open.spotify.com/track/31YjnyR8BJphQKK33Rm1wD) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Archive From 1959 \- The Billy Childish Story](https://open.spotify.com/album/3rdtnzccCDiymdgpMXYfrb) | 2:55 |
 | 8 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
-| 9 | [Frog Went a Courtin'](https://open.spotify.com/track/5mTijfc5CMHsXVwHWkVuTl) | [Flat Duo Jets](https://open.spotify.com/artist/2IkKf7MxjvDA8HWGy5xOyC) | [Two Headed Cow](https://open.spotify.com/album/6Rb1b126QqVXTwmxCwbBmY) | 2:18 |
+| 9 | [Good Man](https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 2:57 |
 | 10 | [Crackalacka](https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O) | 3:57 |
-| 11 | [Good Man](https://open.spotify.com/track/0waxvHiyOCqyR40SRPPaHx) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 2:57 |
+| 11 | [Frog Went a Courtin'](https://open.spotify.com/track/5mTijfc5CMHsXVwHWkVuTl) | [Flat Duo Jets](https://open.spotify.com/artist/2IkKf7MxjvDA8HWGy5xOyC) | [Two Headed Cow](https://open.spotify.com/album/6Rb1b126QqVXTwmxCwbBmY) | 2:18 |
 | 12 | [Calvin](https://open.spotify.com/track/5ytqlD1Nwaf1dxvPDUKQeA) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Acme](https://open.spotify.com/album/48ntDGYHTJIyCtCB6znUQq) | 3:02 |
 | 13 | [Commit a Crime](https://open.spotify.com/track/2rmPVmO9hOrLi8dBNd5MEQ) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:30 |
 | 14 | [Christina](https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 1:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MCxjYzg3N2YyN2JmZDZlYTVhMjZhY2UwMmUzODAxYmM3ODNhNTI2YmZi`
+Snapshot ID: `MCw5YzQzZTEzOTJiNmMzYzljNTE3ZTVjMTA1NmEzMTA4N2I5OGM0Mzhh`

@@ -4,7 +4,7 @@
 
 > 
 
-608 songs - 1 day 15 hr 13 min
+611 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Alive](https://open.spotify.com/track/2sHJ4oiPb8XWveU2aqOw4m) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Alive](https://open.spotify.com/album/2aXlJtP2pqXUcm8d7WwMWJ) | 3:20 | 2023-08-10 |  |
 | [All Good](https://open.spotify.com/track/0NJL3lxVCJKyoiExs8GiTG) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [All Good](https://open.spotify.com/album/5ppmDplZFPBmfAmwFYgwCX) | 3:25 | 2023-08-10 |  |
 | [All Hands On Deck!](https://open.spotify.com/track/44U31ReufqAcif83U3ACf1) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [All Hands On Deck!](https://open.spotify.com/album/0k10IRpaCJf3Ql8gOfrvob) | 3:13 | 2023-03-16 |  |
+| [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-24 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 |  |
 | [All My Tomorrows \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:22 | 2021-12-16 | 2023-08-15 |
 | [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-02-02 |  |
@@ -43,7 +44,7 @@
 | [Almost Like Being In Love](https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:31 | 2021-12-16 |  |
 | [Anything Valuable](https://open.spotify.com/track/3CQ1gEocVfoT1qCm6jRs66) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Anything Valuable](https://open.spotify.com/album/5WmYl5Ty01xWXOGBFndMcu) | 3:00 | 2023-08-10 |  |
 | [April's Fooling No One](https://open.spotify.com/track/0RmvBXTuE3jjfeybhXu4cx) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [April's Fooling No One](https://open.spotify.com/album/3mkfgXUXFQdu1hdFXyEwGS) | 4:15 | 2023-06-01 |  |
-| [Arbitrary Love](https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Arbitrary Love](https://open.spotify.com/album/14cKYBGrd72kX0cxVceOAV) | 3:08 | 2023-08-10 |  |
+| [Arbitrary Love](https://open.spotify.com/track/4vhr8jvSyLmzWJxjjBvPRv) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Arbitrary Love](https://open.spotify.com/album/14cKYBGrd72kX0cxVceOAV) | 3:08 | 2023-08-10 | 2023-08-27 |
 | [Around six thirty](https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Around six thirty](https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza) | 3:23 | 2023-08-17 |  |
 | [As I Ponder](https://open.spotify.com/track/6khM5DGF44SpKPh0Wb0lQI) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [As I Ponder](https://open.spotify.com/album/367OQVZU6YW07Dk0B7SvO5) | 3:19 | 2023-08-17 |  |
 | [As Long As I Live](https://open.spotify.com/track/2Q3QWcfG4G8K5cGx1nG2Hf) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [In Your Own Sweet Way](https://open.spotify.com/album/6kz1KxMklEoHyqx5CjzGG6) | 2:32 | 2023-06-01 |  |
@@ -95,7 +96,7 @@
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-11-11 |  |
 | [Changes](https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Changes](https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee) | 3:45 | 2023-06-01 |  |
 | [Changin'](https://open.spotify.com/track/4g8azbjpYgA04ygE6Tlm8H) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Changin'](https://open.spotify.com/album/1OssHpwAhBYTcPLUtYXe0L) | 2:41 | 2023-06-01 |  |
-| [Chartreuse](https://open.spotify.com/track/3AF40YsNhI8LfFnxKvcgGB) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 4:33 | 2022-05-18 |  |
+| [Chartreuse](https://open.spotify.com/track/3AF40YsNhI8LfFnxKvcgGB) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 4:33 | 2022-05-18 | 2023-08-27 |
 | [Chelsea Bridge](https://open.spotify.com/track/0H0jaN6OYfn4bT31hTU9de) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 3:40 | 2022-05-18 | 2023-08-13 |
 | [Cherry Blossom](https://open.spotify.com/track/4Y0ck8IWqiZJr66A9fTbUn) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Music For Lovers](https://open.spotify.com/album/78u0bxRl1UH6Pz6dWmEXDp) | 6:12 | 2022-05-18 | 2023-08-13 |
 | [Cherry Blossom](https://open.spotify.com/track/1AMYy0LjeIQ5jVs7J0ym9P) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [Cherry Blossom](https://open.spotify.com/album/6aslcHlAWXZbMcdgkxQbrf) | 3:08 | 2023-06-01 |  |
@@ -345,6 +346,7 @@
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-08 |  |
 | [Midday Walk](https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Midday Walk](https://open.spotify.com/album/47WU0DqHlyUmr3LYNiXdEp) | 3:31 | 2022-11-11 |  |
 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 | 2023-02-16 |  |
+| [Midnight Memories](https://open.spotify.com/track/2MsHAU74YmVSjtN7BXFtOS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Midnight Memories](https://open.spotify.com/album/1QOozr6l51QtdjLtXmZmkP) | 2:50 | 2023-08-24 |  |
 | [Midnight Moods](https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd) | [Eight Bar Band](https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa) | [Midnight Moods](https://open.spotify.com/album/4LEcYRPLzM6qln70B05TS2) | 2:59 | 2023-04-20 |  |
 | [Midnight Serenade](https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Midnight Serenade](https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh) | 4:19 | 2023-08-10 |  |
 | [Miso the cat](https://open.spotify.com/track/6UoHrLNQE4UR8SG79V6FBX) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Miso the cat](https://open.spotify.com/album/5RmAvg9TQzDmm287fovehw) | 3:50 | 2023-08-10 |  |
@@ -437,7 +439,7 @@
 | [Ribeira da Barca](https://open.spotify.com/track/3dyVfsrux5dQgrDxur7KFn) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Jangada](https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG) | 5:13 | 2022-02-24 | 2022-11-11 |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-11-11 |  |
-| [Road to Hana](https://open.spotify.com/track/0oGuIyOrGHKblKTlIm6IHz) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Road to Hana](https://open.spotify.com/album/2zCpyIiQxlJy8KerSpUS7H) | 2:50 | 2023-08-10 |  |
+| [Road to Hana](https://open.spotify.com/track/0oGuIyOrGHKblKTlIm6IHz) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Road to Hana](https://open.spotify.com/album/2zCpyIiQxlJy8KerSpUS7H) | 2:50 | 2023-08-10 | 2023-08-27 |
 | [Ruby My Dear](https://open.spotify.com/track/4UsWPDI7ztp83qi9QVLp0C) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Ruby My Dear](https://open.spotify.com/album/5oTmFu8GHDDeSIr1ui7opy) | 3:51 | 2023-03-16 |  |
 | [Rumours](https://open.spotify.com/track/4BGzJEHAeKKQTomYTveG9n) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Rumours](https://open.spotify.com/album/3su5gCbreTh9gZXPGK0JLZ) | 3:20 | 2023-05-04 |  |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-23 |  |
@@ -543,6 +545,7 @@
 | [There Will Never Be Another You](https://open.spotify.com/track/7wcmJbWzDh81fU0dszxzAi) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Big 6](https://open.spotify.com/album/7rpVIPYd0mq2gJG9GRgXlz) | 5:04 | 2021-12-16 | 2023-08-13 |
 | [These Foolish Things](https://open.spotify.com/track/0mrCcgj3gqbLEZxW0SIifx) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:12 | 2021-12-16 | 2023-08-13 |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-11-11 | 2023-08-25 |
+| [They Said](https://open.spotify.com/track/5fxlpxZnDeUP8Gc98bwVs1) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [They Said](https://open.spotify.com/album/4QyebMBRUiYTbyOIrZux8t) | 3:38 | 2023-08-24 |  |
 | [Things To Look Forward To](https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 4:05 | 2023-02-09 |  |
 | [Think of refusing](https://open.spotify.com/track/0xczcAK509NavYmwkard4Q) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Think of refusing](https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ) | 3:51 | 2023-06-01 |  |
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-23 |  |

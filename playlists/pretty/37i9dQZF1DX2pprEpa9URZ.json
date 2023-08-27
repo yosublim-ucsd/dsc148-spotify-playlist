@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 727784,
+  "num_followers": 727837,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmE3MzQwOGJhMzc2MDMzYjg3NDg0OTdkYzI4ZDZkNmNjMDYyMWM4",
+  "snapshot_id": "MCw1MzlmYzgxYmQ1M2VmY2Y3NjM1MmIzODNiYzFiY2NjNDgyNTdlMzE1",
   "tracks": [
     {
       "added_at": "2023-06-30 15:15:56",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Agua e pipa",
-        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
-      },
-      "artists": [
-        {
-          "name": "Buddha-Bar",
-          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
-        },
-        {
-          "name": "Jose Solano",
-          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
-        }
-      ],
-      "duration_ms": 202553,
-      "name": "Agua e pipa",
-      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Agua e pipa",
+        "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Jose Solano",
+          "url": "https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc"
+        }
+      ],
+      "duration_ms": 202553,
+      "name": "Agua e pipa",
+      "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 427000,
       "name": "Chaghaf",
       "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 273523,
       "name": "Neko (feat Kotoe)",
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "RAI",
-        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        }
-      ],
-      "duration_ms": 238168,
-      "name": "RAI",
-      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+        "name": "RAI",
+        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
       },
       "artists": [
         {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
         }
       ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
+      "duration_ms": 238168,
+      "name": "RAI",
+      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1051,6 +1035,22 @@
       "duration_ms": 427627,
       "name": "Yoruba",
       "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "15 Years of Akbal Music, Pt. 2",
-        "url": "https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT"
-      },
-      "artists": [
-        {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
-        },
-        {
-          "name": "Robbie Akbal",
-          "url": "https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H"
-        },
-        {
-          "name": "Ay Sarita",
-          "url": "https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS"
-        }
-      ],
-      "duration_ms": 464237,
-      "name": "Caminando de Noche",
-      "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 405213,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "15 Years of Akbal Music, Pt. 2",
+        "url": "https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT"
+      },
+      "artists": [
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+        },
+        {
+          "name": "Robbie Akbal",
+          "url": "https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H"
+        },
+        {
+          "name": "Ay Sarita",
+          "url": "https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS"
+        }
+      ],
+      "duration_ms": 464237,
+      "name": "Caminando de Noche",
+      "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
     },
     {
       "added_at": "2023-06-30 15:15:56",

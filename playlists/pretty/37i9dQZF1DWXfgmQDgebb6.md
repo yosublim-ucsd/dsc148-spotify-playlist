@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: 알레프\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,936 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,942 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 3 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 4 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 |
 | 5 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 |
-| 6 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 |
-| 7 | [astroboy.](https://open.spotify.com/track/5B7K0zs5gkaueWXzgd0vk7) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [cheer up!](https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8) | 4:00 |
-| 8 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 |
+| 6 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 |
+| 7 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 |
+| 8 | [astroboy.](https://open.spotify.com/track/5B7K0zs5gkaueWXzgd0vk7) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [cheer up!](https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8) | 4:00 |
 | 9 | [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 |
 | 10 | [haaAakkKKK!!!](https://open.spotify.com/track/0c444u01V64C5zfV5V8m5f) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/44OzoIkxMtGrmnP978PTZY) | 2:52 |
 | 11 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 49 | [LIKE WATER REMIX \(Feat\. Jambino, XINSAYNE, toigo, J'Kyun\)](https://open.spotify.com/track/39L8LOL4kFsmvbHNvFd8EB) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) | [SLAY HOUSE REMIX](https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b) | 4:40 |
 | 50 | [always get lonely](https://open.spotify.com/track/3n7yfICjsQoCV66J403qms) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:26 |
 
-Snapshot ID: `MCxjYTBiYjUxODMxODBlY2FhYTc3ZWM4MDE1ZGZkODNkN2ZjNGVmMTIx`
+Snapshot ID: `MCxlMDJiZjJkNmUyOTQzYzVhN2Y0ZWY0N2JkNDk4YjZlYjAyMGVjZTdh`

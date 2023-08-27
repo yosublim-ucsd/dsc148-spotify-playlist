@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Angela Iris
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,219 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,225 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 |
 | 60 | [Limite](https://open.spotify.com/track/1HYwX6zxcel9LD2ej5QEGR) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL) | [Limite](https://open.spotify.com/album/03InZ9HBmYZswI4ZAmaz4j) | 2:58 |
 
-Snapshot ID: `MCwyZjBjM2NjOWNiOTNhN2ExNTE0ZTYxYmE5NGIwMzllNzI4Njk4Y2Nj`
+Snapshot ID: `MCwyZGYwNjk2YTdjZGRmYzBhYzc4MmYxMDU5ZGJiM2Q0MDc2ZTUzNTdk`

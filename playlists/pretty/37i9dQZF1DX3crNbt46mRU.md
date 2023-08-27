@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,774 likes - 110 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,779 likes - 110 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 19 | [One with the Wolves](https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 3:00 |
 | 20 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 |
 | 21 | [WTF?!](https://open.spotify.com/track/1C1FtfQ7zxUckny4CXlaa8) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [WTF?!](https://open.spotify.com/album/1AChlSf5l0kNL2R3ub4rLn) | 2:04 |
-| 22 | [Where Do We Go](https://open.spotify.com/track/2Ehp9Is1ihvBQaoJt47XeK) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/1v05i0btb10KOIvgumPue6) | 2:51 |
+| 22 | [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 |
 | 23 | [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 |
 | 24 | [Der Mensch stammt von Waffen ab](https://open.spotify.com/track/2OXuDZ7wokti2Ay4VtOkJd) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Der Mensch stammt von Waffen ab](https://open.spotify.com/album/7iDWXy3LoM4tTmVTctZxFh) | 2:55 |
 | 25 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 |
 | 26 | [urlaub](https://open.spotify.com/track/71cGfHALDTgfB8p7OUC1HZ) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [urlaub](https://open.spotify.com/album/2pjoq2wdexqxudgDC8nCLn) | 2:15 |
-| 27 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 |
+| 27 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 |
 | 28 | [Küss mich](https://open.spotify.com/track/5cKOROElbZXQHLdKKlJ7eJ) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Küss mich](https://open.spotify.com/album/0nDMvmUFg8KMRn1EYXH2eR) | 2:43 |
 | 29 | [Sunny Days](https://open.spotify.com/track/2utmEG8NuWudNVcZUbPwhD) | [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Sunny Days](https://open.spotify.com/album/3m6IrQS6OYgEWHYs9NZSoR) | 2:49 |
 | 30 | [Baile Funk im Blut](https://open.spotify.com/track/75DdaV9r56VZiSpXh8fsUY) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Baile Funk im Blut](https://open.spotify.com/album/0nJG9Xk8RqUkoFutJ8Znoh) | 3:00 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 109 | [Cold Turkey](https://open.spotify.com/track/3f17XRSpPLhtdt3ofn56qG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Cold Turkey](https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc) | 2:33 |
 | 110 | [125er](https://open.spotify.com/track/4FvJBGhXpW2DVq6JD9ZMFT) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [125er](https://open.spotify.com/album/5NcZ8XNvb1znL9Ei3h7ckT) | 1:53 |
 
-Snapshot ID: `MCxkZmIzNWU4Y2RjMTgxMmJkZGI1NjFiZTFjYmFkNjJhMmI5MDBmNjhj`
+Snapshot ID: `MCxhNjhkNGVlZDM5OTY3YTgwODU0MTQ2NzQ5NGY3MTIxMGFlZjE5NzAy`

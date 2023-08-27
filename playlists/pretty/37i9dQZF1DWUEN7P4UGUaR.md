@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Nacee
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,278 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,303 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 49 | [My Alabaster](https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y) | [DenniS](https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ) | [My Alabaster](https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl) | 8:34 |
 | 50 | [Amenuveve \(Grace\)](https://open.spotify.com/track/7JQjnwndY82ga5gWjTzTMC) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Amenuveve \(Grace\)](https://open.spotify.com/album/2YVcZs92qwPnKFo0duGv6f) | 6:48 |
 
-Snapshot ID: `MCwwNGZmZTc0OTAzYzRhZjE4N2Y1MGI0NjU1ZGYwMDJhNDQwZDExMTA3`
+Snapshot ID: `MCw0ZGVlNmFjYWY2YjRiYWUwMjkyMTNiMmU5Yzc3ZGJlYmZmYjY4Y2I0`

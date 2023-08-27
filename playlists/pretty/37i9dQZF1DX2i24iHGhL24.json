@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 107773,
+  "num_followers": 107880,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTIyYzU5MDZkYjg5NzEwOWVjNGM3NWJhNTM2NGM2ZmEzOTAzYmQy",
+  "snapshot_id": "MCwzOTk5Y2U2MjNhMGM5ZTc1NTk0ZjdjOTg1M2M2Yjk3ZDc0NmE5NGNm",
   "tracks": [
     {
       "added_at": "2023-08-04 04:01:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "You Broke Me First",
-        "url": "https://open.spotify.com/album/4bpL1S1jMzH9OlPWVSoaue"
-      },
-      "artists": [
-        {
-          "name": "Conor Maynard",
-          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
-        }
-      ],
-      "duration_ms": 160942,
-      "name": "You Broke Me First",
-      "url": "https://open.spotify.com/track/2xKy8HbpMFgHV2xZhpQf12"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
         "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 241360,
       "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
       "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "You Broke Me First",
+        "url": "https://open.spotify.com/album/4bpL1S1jMzH9OlPWVSoaue"
+      },
+      "artists": [
+        {
+          "name": "Conor Maynard",
+          "url": "https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu"
+        }
+      ],
+      "duration_ms": 160942,
+      "name": "You Broke Me First",
+      "url": "https://open.spotify.com/track/2xKy8HbpMFgHV2xZhpQf12"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Lay All Your Love On Me - Spotify Singles",
-        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 161125,
-      "name": "Lay All Your Love On Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "All The Things She Said",
         "url": "https://open.spotify.com/album/2rlUn38lFbYiBZ7L43gezd"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 221498,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/0wH55ChKuoZkmGhbIYtOI4"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Lay All Your Love On Me - Spotify Singles",
+        "url": "https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 161125,
+      "name": "Lay All Your Love On Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "True Colors (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "True Colors (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
         "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 178284,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "True Colors (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2XqYU9p7ACtpHfsOfW0I6q"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "True Colors (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 274830,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 191444,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
       },
       "artists": [
         {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
         }
       ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 169050,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "How Long Will I Love You",
         "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 140090,
       "name": "How Long Will I Love You",
       "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 149189,
+      "name": "Solar Power - Spotify Singles",
+      "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 199239,
       "name": "feel good inc. (feat. Mateus Asato)",
       "url": "https://open.spotify.com/track/2GzlTbrFF2V6MwRDfBnYhf"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2o41TN6KOgLy4RI716wWpB"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 149189,
-      "name": "Solar Power - Spotify Singles",
-      "url": "https://open.spotify.com/track/05hodCU2ySd17l2NrkkELB"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 192029,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Where My Girls At",
-        "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
-      },
-      "artists": [
-        {
-          "name": "VENUS",
-          "url": "https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID"
-        }
-      ],
-      "duration_ms": 164526,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 243562,
       "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Where My Girls At",
+        "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
+      },
+      "artists": [
+        {
+          "name": "VENUS",
+          "url": "https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID"
+        }
+      ],
+      "duration_ms": 164526,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2243,38 +2243,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "All Time Low",
-        "url": "https://open.spotify.com/album/2GyHk1x9vUtHeMpY9BJJny"
-      },
-      "artists": [
-        {
-          "name": "Carol Ades",
-          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
-        }
-      ],
-      "duration_ms": 184441,
-      "name": "All Time Low",
-      "url": "https://open.spotify.com/track/1gdHStHolMnxLdUx5EKjsK"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "God Is A Woman (Yours Truly: 2018)",
-        "url": "https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "God Is A Woman - Yours Truly: 2018",
-      "url": "https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Broken Glass, Vol. 5",
         "url": "https://open.spotify.com/album/1GNtlaf1suRPWz351bNiVc"
       },
@@ -2295,6 +2263,22 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
+        "name": "God Is A Woman (Yours Truly: 2018)",
+        "url": "https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "God Is A Woman - Yours Truly: 2018",
+      "url": "https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
         "name": "Born in the Eighties",
         "url": "https://open.spotify.com/album/6OtA1RszyuxoQfgq3aLhDX"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 213945,
       "name": "Ayo Technology",
       "url": "https://open.spotify.com/track/3FZl7oNIPiYVfE59uVmPDU"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "All Time Low",
+        "url": "https://open.spotify.com/album/2GyHk1x9vUtHeMpY9BJJny"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "duration_ms": 184441,
+      "name": "All Time Low",
+      "url": "https://open.spotify.com/track/1gdHStHolMnxLdUx5EKjsK"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 252716,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/5TPgXIw23OhumnoXjl7o81"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 179333,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/2BGPjTcB5KQBEuAeTzNJhC"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 252716,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
     },
     {
       "added_at": "2023-08-04 04:01:00",

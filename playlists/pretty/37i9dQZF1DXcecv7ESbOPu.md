@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,353 likes - 108 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,364 likes - 108 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 97 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 |
 | 98 | [Känslan](https://open.spotify.com/track/60MnhCtekHFHivDLEkPF3g) | [Styva Linan](https://open.spotify.com/artist/5M9c6njEKjtRWcJrFNbrSM) | [Känslan](https://open.spotify.com/album/5dnCQ3r0mjYNPeAbv7VZTJ) | 4:12 |
 | 99 | [Garden Door](https://open.spotify.com/track/14ODk2zkl3L8BPEi7hHdhS) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Garden Door](https://open.spotify.com/album/6JiGziPrnEGosIKunjGJ1T) | 3:57 |
-| 100 | [My Life](https://open.spotify.com/track/5FFHfyOaPeEKBUdjmz6YFD) | [Da Buzz](https://open.spotify.com/artist/3fl4q8rdZhxwVs9yG2rpz0) | [My Life](https://open.spotify.com/album/0ENemMxqUiTR4Ak0pFIGvL) | 3:03 |
+| 100 | [My Life](https://open.spotify.com/track/5FFHfyOaPeEKBUdjmz6YFD) | [Da Buzz](https://open.spotify.com/artist/3fl4q8rdZhxwVs9yG2rpz0) | [My Life](https://open.spotify.com/album/0ENemMxqUiTR4Ak0pFIGvL) | 3:02 |
 | 101 | [If You Want](https://open.spotify.com/track/13OMKZOOaaQ3MYuX2YnJKd) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [If You Want](https://open.spotify.com/album/2DgKfkTkmGUWzXA2IcKDzm) | 3:03 |
 | 102 | [Mycelium](https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6) | [Fia](https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH) | [Mycelium/Let Her Teach You](https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ) | 3:17 |
 | 103 | [Everything, All You See](https://open.spotify.com/track/6CosJTXaZ72SrG1IW8PjVk) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Cleave](https://open.spotify.com/album/195Un6jYy1ckMxggNTUsgV) | 4:09 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 |
 | 108 | [DEADZONE](https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [DEADZONE](https://open.spotify.com/album/2VE9zs72iNOeoXZHyAMRF7) | 2:50 |
 
-Snapshot ID: `MCw4OGE2YjcyOWU0ZjFmYmUxZmNhYWI3NzMyMzgyMjAwODk4NjUzZGY1`
+Snapshot ID: `MCxiMTVmNzI0NTYzMTUxMDc3NDE3NWVkZjllNTJhNjczZWFkMmY4YTk5`

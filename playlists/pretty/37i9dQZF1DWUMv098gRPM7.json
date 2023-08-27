@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Sean Leon",
-  "num_followers": 6490,
+  "num_followers": 6517,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzc0OGFiZjUyNTc3MmY1YmE0NzFjNmU5YmI3Njc5MjM5ODU1Yjdm",
+  "snapshot_id": "MCw2NDYzOGQ3NWY4ZDc1ZjRhNzNiYmIwYTRmZmUxZDI1MmE2NDVmN2Yx",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "soft thing",
+        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 143647,
+      "name": "be cool",
+      "url": "https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Different (With Majid Jordan)",
         "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 146400,
       "name": "Different (With Majid Jordan)",
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "soft thing",
-        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 143647,
-      "name": "be cool",
-      "url": "https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Welcome to the Wildfire",
-        "url": "https://open.spotify.com/album/7hi77eGIFqKdpj5U71BhJM"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Bad Neighbors",
-      "url": "https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Some Kinda Love",
         "url": "https://open.spotify.com/album/1bR9jE6phZUlbHi9wzqjlt"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 292000,
       "name": "Some Kinda Love",
       "url": "https://open.spotify.com/track/1kTvzk3atwk9K2YSFMtnzj"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Welcome to the Wildfire",
+        "url": "https://open.spotify.com/album/7hi77eGIFqKdpj5U71BhJM"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Bad Neighbors",
+      "url": "https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY"
     },
     {
       "added_at": "2023-08-25 04:00:00",

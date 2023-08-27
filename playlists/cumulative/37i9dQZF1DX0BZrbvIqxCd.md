@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-279 songs - 14 hr 51 min
+280 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 | 2020-11-20 |  |
 | [I Forgot You](https://open.spotify.com/track/65fGvQYBCx3MxRf3xInWQQ) | [Divided Minds](https://open.spotify.com/artist/4zq1xzOD2RDkK3xaEZBBD5) | [Mood Swings](https://open.spotify.com/album/2y4c1nPI20tiTLNk3DUuRx) | 3:04 | 2020-11-20 | 2022-07-29 |
 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 | 2020-11-20 |  |
-| [I Just Died in Your Arms](https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot out the Door](https://open.spotify.com/album/2obrFk3sGcVAE85Z9LCZJT) | 3:13 | 2020-11-20 |  |
+| [I Just Died in Your Arms](https://open.spotify.com/track/1qfyKQeFz6l6h4caVLmNCW) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot out the Door](https://open.spotify.com/album/2obrFk3sGcVAE85Z9LCZJT) | 3:13 | 2020-11-20 | 2023-08-27 |
 | [I Just Died In Your Arms](https://open.spotify.com/track/34pzs6syywbpcdBBCcLvKK) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot Out The Door](https://open.spotify.com/album/5uzCd2bpYjeUrgMr03JuTU) | 3:13 | 2020-11-20 | 2022-07-28 |
 | [I Just Died in Your Arms](https://open.spotify.com/track/6M4FDzgFwe4FWq0rg8F6yC) | [SecondShot](https://open.spotify.com/artist/1ZImVuFIqvP8USz3OVfxw9) | [One Foot out the Door](https://open.spotify.com/album/3QJSNGea4CXBecqJUhEJ2Q) | 3:13 | 2020-11-20 | 2022-10-18 |
 | [i luv that u hate me](https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [i luv that u hate me](https://open.spotify.com/album/0ry0pZr2APTC3hwSZuOk65) | 3:41 | 2020-11-20 | 2022-11-13 |
@@ -262,6 +262,7 @@
 | [The Separation Of Church And Skate](https://open.spotify.com/track/7iLXUeM0nqctdCsfun2Ahx) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War On Errorism](https://open.spotify.com/album/0D6YPfv9u2JHdp1kiieR25) | 3:09 | 2020-11-20 | 2022-07-12 |
 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2020-11-20 |  |
 | [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2020-11-20 | 2023-08-25 |
+| [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 | 2020-11-20 |  |
 | [Time\-Bomb Ticking Away](https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights \(Deluxe Version\)](https://open.spotify.com/album/2kqjqQneZx935suPAhokuj) | 3:22 | 2020-11-20 | 2022-07-29 |
 | [Tough Luck](https://open.spotify.com/track/4X1Tj3Y41B9HR4VANUBWyC) | [FELICITY](https://open.spotify.com/artist/2aqSgJBj7gtdClLx6SQ1mK) | [Old Habits](https://open.spotify.com/album/2CNXl541z0rKCB9WqPTkQ5) | 3:39 | 2020-11-20 | 2022-06-19 |
 | [Tune You Out](https://open.spotify.com/track/28VxaqLBkdHe4wlJczoSDT) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Tune You Out](https://open.spotify.com/album/1lFHC12npAlZb5agVqp57z) | 2:58 | 2020-11-20 | 2022-07-29 |

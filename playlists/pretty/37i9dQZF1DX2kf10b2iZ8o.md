@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,532 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,545 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 68 | [フェイバリットに踊らせて](https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx) | [水嶋 咲 \(CV.小林大紀\)](https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:06 |
 | 69 | [Because](https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:55 |
 | 70 | [笑顔の祭りにゃ、福来る](https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9) | [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 03](https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl) | 4:56 |
-| 71 | [なんどでも笑おう \- SideM Ver.](https://open.spotify.com/track/6pL3zwVUUqewu3r9uakd6H) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [なんどでも笑おう【SideM盤】](https://open.spotify.com/album/4LmkEChhEMiTB9HoSeEwV1) | 5:35 |
+| 71 | [GOLD \~No.79\~](https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN) | [山下次郎 \(CV.中島ヨシキ\)](https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:22 |
 | 72 | [LIVE in your SMILE](https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0), [彩](https://open.spotify.com/artist/2FqtW7CPZV5K1VIu8eNZ4l), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [S.E.M](https://open.spotify.com/artist/0OLHY6ORia3onwhPvE97I4), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4), [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM 4th ANNIVERSARY「LIVE in your SMILE/DREAM JOURNEY」](https://open.spotify.com/album/6BO9rXjfYfGQfcN1ODqeND) | 4:55 |
-| 73 | [PROOF OF ONESELF](https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:20 |
-| 74 | [GOLD \~No.79\~](https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN) | [山下次郎 \(CV.中島ヨシキ\)](https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:22 |
-| 75 | [はんどめいど・きみはーと!](https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:11 |
+| 73 | [なんどでも笑おう \- SideM Ver.](https://open.spotify.com/track/6pL3zwVUUqewu3r9uakd6H) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [なんどでも笑おう【SideM盤】](https://open.spotify.com/album/4LmkEChhEMiTB9HoSeEwV1) | 5:35 |
+| 74 | [PROOF OF ONESELF](https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:20 |
+| 75 | [Your Nobility](https://open.spotify.com/track/61B27d2YE1tLeSgr6VBUai) | [Kaoru Sakuraba \(CV: Yuma Uchida\)](https://open.spotify.com/artist/4gi15MhB1b1G387qfQ53uM), [Genbu Kurono \(CV: Toshinari Fukamachi\)](https://open.spotify.com/artist/5IWvN4rKghEIbXWvjzp2aS), [Kazuki Tsukumo \(CV: Tatsuya Tokutake\)](https://open.spotify.com/artist/3c4wvFNvtX55OAP2E8ssYx) | [THE IDOLM@STER SideM WORLD TRE@SURE 12](https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C) | 4:06 |
 
-Snapshot ID: `MCxlOTU1ZTRlY2ViZjg3NmJjMGVjZTMwZTE2NGE3NzdjZjk5NzlkZDEy`
+Snapshot ID: `MCw0MjZjOGI3Nzc2ZTlmN2Q4ZWViMWE5MTEzZDkxODJjMzBlODMwYmQw`

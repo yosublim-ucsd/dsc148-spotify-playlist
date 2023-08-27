@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Burna Boy \(pictured\), Selena Gomez, Joel Corry and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,974 likes - 145 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,039 likes - 145 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 40 | [ultimatejutsu\_1644.wav](https://open.spotify.com/track/1tuXIa2dInm5AE4Prxyhbi) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ultimate jutsu](https://open.spotify.com/album/2K6f6oH8L3oKQlObx3Huds) | 2:49 |
 | 41 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 42 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 |
-| 43 | [HBK](https://open.spotify.com/track/2onWbtxSQ9byLmrXFkkYfj) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Yung TS](https://open.spotify.com/artist/4pSznn96jRDqtz3DjalDcn), [Shadz](https://open.spotify.com/artist/40MXjf91av7nMSe9aSzEip) | [HBK](https://open.spotify.com/album/7m1Vj0ny3WQ9o4XLhSiBdq) | 2:51 |
+| 43 | [HBK](https://open.spotify.com/track/2onWbtxSQ9byLmrXFkkYfj) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Yung TS](https://open.spotify.com/artist/4pSznn96jRDqtz3DjalDcn), [Shadz](https://open.spotify.com/artist/7J3RSw4BFpCcE7KMBMHAAg) | [HBK](https://open.spotify.com/album/7m1Vj0ny3WQ9o4XLhSiBdq) | 2:51 |
 | 44 | [OVER YOUR DEAD BODY](https://open.spotify.com/track/33SO5use9IdF2g0lrcSj3l) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [A Call To The Void](https://open.spotify.com/album/3zhyT62LXkBpycohrjER5s) | 3:45 |
 | 45 | [I can share my love with you](https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I can share my love with you](https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX) | 3:36 |
 | 46 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 144 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 |
 | 145 | [10,000](https://open.spotify.com/track/0HZKX7ZFA339Da0IA2EpVq) | [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [10,000](https://open.spotify.com/album/70L9lYw6QhFfP4qdU59WKL) | 3:46 |
 
-Snapshot ID: `MCwwYTMyZWJlMWYwODhhMDI2NDVmNzQwMTdmZDk5M2I2MzYzMTkxMmJj`
+Snapshot ID: `MCxhMmI1ZmZiODMxOTExMjQzY2EwZmUzM2M1YTUxNjMxNWRmMTBiMDll`

@@ -443,7 +443,7 @@
     },
     {
       "album": {
-        "name": "N64",
+        "name": "N64 / Affogato",
         "url": "https://open.spotify.com/album/41V5QX9pmhliqt8Ww2hIhH"
       },
       "artists": [
@@ -11818,10 +11818,28 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8"
+    },
+    {
+      "album": {
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "album": {
@@ -16978,12 +16996,12 @@
           "url": "https://open.spotify.com/artist/5UZG6OoWsLEtOIIRJ2IfDm"
         },
         {
-          "name": "Sonam",
-          "url": "https://open.spotify.com/artist/4N9hZHUQvTGg3cqrlugMVw"
-        },
-        {
           "name": "CLOSED",
           "url": "https://open.spotify.com/artist/2nrLwfZu1P1op5aFqaisG7"
+        },
+        {
+          "name": "Sonam",
+          "url": "https://open.spotify.com/artist/4N9hZHUQvTGg3cqrlugMVw"
         }
       ],
       "date_added": "2023-08-17",
@@ -23168,6 +23186,28 @@
     {
       "album": {
         "name": "Thrill Me (LO'99 Remix)",
+        "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        },
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186018,
+      "name": "Thrill Me - LO'99 Remix",
+      "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
+    },
+    {
+      "album": {
+        "name": "Thrill Me (LO'99 Remix)",
         "url": "https://open.spotify.com/album/4LiJuVlykjBWVV84L12bJ3"
       },
       "artists": [
@@ -23182,7 +23222,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 186018,
       "name": "Thrill Me - LO'99 Remix",
       "url": "https://open.spotify.com/track/0PyCpPHnVOORGszLltM2P9"

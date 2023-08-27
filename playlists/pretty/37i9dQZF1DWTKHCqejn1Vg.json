@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 25233,
+  "num_followers": 25264,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjkwY2ZjNWVhNWYxZTFjZWFlMDdmZjQwNDdmNWI2MzVkNzg3NDg3",
+  "snapshot_id": "MCw3NDkzOTdjMGUzYmQzYTM5YWJmYWJmOWYyZDU0NmU0MzFmZmZiMmIz",
   "tracks": [
     {
       "added_at": "2023-08-24 02:21:49",
@@ -335,18 +335,22 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
       "artists": [
         {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
+      "duration_ms": 217441,
+      "name": "AM PM (feat. Whee In) - Prod. Gray",
+      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
     },
     {
       "added_at": "2023-08-24 02:21:49",
@@ -371,22 +375,18 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
       "artists": [
         {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
         }
       ],
-      "duration_ms": 217441,
-      "name": "AM PM (feat. Whee In) - Prod. Gray",
-      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2023-08-24 02:21:49",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
-        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
-      },
-      "artists": [
-        {
-          "name": "Choco And Vanilla",
-          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
-        }
-      ],
-      "duration_ms": 176997,
-      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
-    },
-    {
-      "added_at": "2023-08-24 02:21:49",
-      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -731,22 +715,18 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
-        "name": "mojo",
-        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
+        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
       },
       "artists": [
         {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "Choco And Vanilla",
+          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
         }
       ],
-      "duration_ms": 151880,
-      "name": "LSD (Feat. JUNNY)",
-      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
+      "duration_ms": 176997,
+      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
     },
     {
       "added_at": "2023-08-24 02:21:49",
@@ -763,6 +743,26 @@
       "duration_ms": 195692,
       "name": "kiss my lips",
       "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+    },
+    {
+      "added_at": "2023-08-24 02:21:49",
+      "album": {
+        "name": "mojo",
+        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
+      },
+      "artists": [
+        {
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "LSD (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
     },
     {
       "added_at": "2023-08-24 02:21:49",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
-        "name": "K.I.S.S",
-        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
-      },
-      "artists": [
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Te Quiero(feat.BIBI)",
-      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
-    },
-    {
-      "added_at": "2023-08-24 02:21:49",
-      "album": {
         "name": "Not my fault",
         "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 214319,
       "name": "I wonder (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
+    },
+    {
+      "added_at": "2023-08-24 02:21:49",
+      "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Te Quiero(feat.BIBI)",
+      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
     },
     {
       "added_at": "2023-08-24 02:21:49",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
-        "name": "Agency (Original Television Soundtrack, Pt. 5)",
-        "url": "https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
       "artists": [
         {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM"
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",

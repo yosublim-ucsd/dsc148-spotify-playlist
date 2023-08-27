@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 479822,
+  "num_followers": 480149,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWE5NWUzMGQyN2I5MjIyMjliYjFhNTg0YjQ3NGVmODFiZDlhYTI3",
+  "snapshot_id": "MCxjN2E4ODFmOWU1OGU2MTRiYjUxNDkzYWIyNTFmNzFiZjMwNmE1NmY1",
   "tracks": [
     {
       "added_at": "2023-08-25 19:28:12",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-25 19:28:12",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 86925,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN"
-    },
-    {
-      "added_at": "2023-08-25 19:28:12",
-      "album": {
         "name": "Um amor puro",
         "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
+    },
+    {
+      "added_at": "2023-08-25 19:28:12",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 86925,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN"
     },
     {
       "added_at": "2023-08-25 19:28:12",

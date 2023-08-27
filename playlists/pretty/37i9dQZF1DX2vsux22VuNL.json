@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: R\u00f4 Rosa",
-  "num_followers": 283384,
+  "num_followers": 283415,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzg2YTQ3ZmIxYTQ5ZmJkM2QwMmIzZTQ1ZWRjYzgwNTM2M2VmYTQ2",
+  "snapshot_id": "MCw5NjJjZTVhYzZkOWM5Yjc1ZWE0ZjE5YTZhODMwMzFhOTVhYWVkNWM0",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -595,6 +595,30 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
+        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
+      },
+      "artists": [
+        {
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 282690,
+      "name": "Cachimbo da Paz 2",
+      "url": "https://open.spotify.com/track/2ZeG4NqS9tRoUa6LGjAP2I"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Poesia Ac\u00fastica - Lisboa",
         "url": "https://open.spotify.com/album/7lkw2vUf9rmWU3LQP6qXVW"
       },
@@ -639,26 +663,30 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
-        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
       "artists": [
         {
-          "name": "Gabriel O Pensador",
-          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 282690,
-      "name": "Cachimbo da Paz 2",
-      "url": "https://open.spotify.com/track/2ZeG4NqS9tRoUa6LGjAP2I"
+      "duration_ms": 186818,
+      "name": "Sozinha",
+      "url": "https://open.spotify.com/track/7CLcDbKYUWyKzx9YXWrRlu"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -699,34 +727,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Sozinha",
-      "url": "https://open.spotify.com/track/7CLcDbKYUWyKzx9YXWrRlu"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Canc\u00fan",
         "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Afetropia",
-        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 157628,
-      "name": "Te Ver Sorrindo",
-      "url": "https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/6MByXphwkArV9VJG0rWmli"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 158625,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/5ggmytpfhR9fzn7eKWH2MK"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 157628,
+      "name": "Te Ver Sorrindo",
+      "url": "https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
-      },
-      "artists": [
-        {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Vai e Vem",
         "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 154060,
       "name": "Vai e Vem",
       "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
+      },
+      "artists": [
+        {
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Desliga",
-        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 167478,
-      "name": "Desliga",
-      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
         "url": "https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m"
       },
@@ -1007,6 +987,50 @@
       "duration_ms": 364195,
       "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
       "url": "https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Desliga",
+        "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "duration_ms": 167478,
+      "name": "Desliga",
+      "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Eu vim pra Somar",
+        "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
+      },
+      "artists": [
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Eu vim pra Somar",
+      "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1059,30 +1083,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Eu vim pra Somar",
-        "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
-      },
-      "artists": [
-        {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
-        },
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Eu vim pra Somar",
-      "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Ainda \u00c9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
       },
@@ -1095,6 +1095,26 @@
       "duration_ms": 175082,
       "name": "N\u00e3o Mente pra Ela",
       "url": "https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1139,26 +1159,6 @@
       "duration_ms": 208762,
       "name": "Linda",
       "url": "https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -1255,6 +1235,26 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Melhor Que Ontem",
         "url": "https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 180750,
       "name": "Melhor Que Ontem",
       "url": "https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Me Diz Se Vem",
-        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 177612,
-      "name": "Me Diz Se Vem",
-      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1307,6 +1291,22 @@
       "duration_ms": 198545,
       "name": "Superpoderes",
       "url": "https://open.spotify.com/track/6O5oJDDVR0U68K78uu5hn6"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Me Diz Se Vem",
+        "url": "https://open.spotify.com/album/2bpBWh3uOTFcjEb5EcPINx"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 177612,
+      "name": "Me Diz Se Vem",
+      "url": "https://open.spotify.com/track/34nTmKkxQhgqqxoqJAMz9l"
     },
     {
       "added_at": "2023-08-25 03:00:00",

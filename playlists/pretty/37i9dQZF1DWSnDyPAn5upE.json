@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 43486,
+  "num_followers": 43562,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmY4YjJhNTFhNTRkMDVkMzc4MThmMjJmMDFkZjc0YzI2MzRlMjY3",
+  "snapshot_id": "MCxjOGYzYzZjN2YzNDhhZTFjNzk0Yzk3M2ExNjIyNDNkYTQyZTZlYzM0",
   "tracks": [
     {
       "added_at": "2023-08-25 00:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "A Conversation With My Innocence",
+      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 193988,
       "name": "I Could Be Your Dog",
       "url": "https://open.spotify.com/track/2jSBYuzIyy7B2RqZNWEFlZ"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "A Conversation With My Innocence",
-      "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Untethering",
-        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
-      },
-      "artists": [
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
-        }
-      ],
-      "duration_ms": 418349,
-      "name": "Untethering",
-      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "LP.8",
         "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 182485,
       "name": "Olga",
       "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Untethering",
+        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
+      },
+      "artists": [
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+        }
+      ],
+      "duration_ms": 418349,
+      "name": "Untethering",
+      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "SOUL VOICES",
+        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
+      },
+      "artists": [
+        {
+          "name": "Jane Winther",
+          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
+        }
+      ],
+      "duration_ms": 463164,
+      "name": "Soul Voices",
+      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 360193,
       "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
       "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "SOUL VOICES",
-        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
-      },
-      "artists": [
-        {
-          "name": "Jane Winther",
-          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
-        }
-      ],
-      "duration_ms": 463164,
-      "name": "Soul Voices",
-      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "plastichoir",
+        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
+      },
+      "artists": [
+        {
+          "name": "Aphir",
+          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
+        }
+      ],
+      "duration_ms": 190860,
+      "name": "melting cups",
+      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 444000,
       "name": "Bright Girl",
       "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "plastichoir",
-        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
-      },
-      "artists": [
-        {
-          "name": "Aphir",
-          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
-        }
-      ],
-      "duration_ms": 190860,
-      "name": "melting cups",
-      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Ode to the blue",
-        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Orbits",
         "url": "https://open.spotify.com/album/5yX9DKolmT1yaFht5vQPlL"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Ode to the blue",
+        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
       },
@@ -1255,6 +1255,26 @@
       "duration_ms": 250440,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
+      },
+      "artists": [
+        {
+          "name": "CTM",
+          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
+        },
+        {
+          "name": "August Rosenbaum",
+          "url": "https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Celeste Song",
+      "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1291,22 +1311,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
       "artists": [
         {
-          "name": "CTM",
-          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
-        },
-        {
-          "name": "August Rosenbaum",
-          "url": "https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4"
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Celeste Song",
-      "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1327,22 +1343,6 @@
       "duration_ms": 143157,
       "name": "abundance",
       "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 487715,
-      "name": "Aurobindo",
-      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "The Distance Between Heart And Mouth",
         "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Hills Have Eyes",
-        "url": "https://open.spotify.com/album/6iyqB1HfTm68FESZYWb91F"
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
       },
       "artists": [
         {
-          "name": "TWEAKS",
-          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 168263,
-      "name": "Hills Have Eyes",
-      "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
+      "duration_ms": 487715,
+      "name": "Aurobindo",
+      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1475,22 +1459,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Remission",
-        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
+        "name": "Hills Have Eyes",
+        "url": "https://open.spotify.com/album/6iyqB1HfTm68FESZYWb91F"
       },
       "artists": [
         {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "anth\u00e9ne",
-          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Remission",
-      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
+      "duration_ms": 168263,
+      "name": "Hills Have Eyes",
+      "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1507,6 +1487,26 @@
       "duration_ms": 334038,
       "name": "in altar wine",
       "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
+      },
+      "artists": [
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "anth\u00e9ne",
+          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Remission",
+      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Kistvaen",
-        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
-      },
-      "artists": [
-        {
-          "name": "Roly Porter",
-          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "An Open Door",
-      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 205400,
       "name": "My Life - Edit",
       "url": "https://open.spotify.com/track/7sXmm2QoZ8qpMxzHT160lY"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Kistvaen",
+        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
+      },
+      "artists": [
+        {
+          "name": "Roly Porter",
+          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "An Open Door",
+      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1827,22 +1827,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
-        "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
+        "name": "Bones Knowing",
+        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
       },
       "artists": [
         {
-          "name": "Nathan Fake",
-          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
         },
         {
-          "name": "AFRODEUTSCHE",
-          "url": "https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m"
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
-      "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
+      "duration_ms": 240500,
+      "name": "Bones Knowing",
+      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
     }
   ],
   "unique_name": "ethereal voices",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,435 songs - 3 day 4 hr 22 min
+1,437 songs - 3 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [AMF \- Nouvelle École](https://open.spotify.com/track/0su56748WvAwZDecsY8ZNZ) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [AMF \- Nouvelle École](https://open.spotify.com/album/5vYdXyKqXVIRKUilj5Lr0h) | 2:59 | 2023-06-02 | 2023-06-09 |
 | [AMG Performance](https://open.spotify.com/track/17hT2nm4w2HvqFVWJ87Pw4) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 4:19 | 2022-11-05 | 2022-11-11 |
 | [Amérique](https://open.spotify.com/track/1Sb2afBLWWRMgOUm4MAFDW) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 2:42 | 2021-11-14 | 2021-11-14 |
+| [Amérique du sud](https://open.spotify.com/track/7qfXyOH2IjH4Mv6S3hNVdV) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Amérique du sud](https://open.spotify.com/album/6jU5v7tABdAiiAOD9Rnxaw) | 3:31 | 2023-08-26 |  |
 | [Ancolie](https://open.spotify.com/track/4QZ8biWCuhYgQTkRgJF9vo) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 3:10 | 2021-03-27 | 2021-03-29 |
 | [Angle mort](https://open.spotify.com/track/1s5VDexKohgvhplbdpYKBk) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:09 | 2022-01-29 | 2022-01-31 |
 | [Ani Kuni \- Edit](https://open.spotify.com/track/0Ae5IeIdyaIzp43cdXXtZc) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 2:49 | 2021-07-10 | 2021-10-06 |
@@ -876,6 +877,7 @@
 | [Mendosa \(feat\. Ninho\)](https://open.spotify.com/track/2uo8wd7CvYhsSC8ofXp04R) | [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Omerta](https://open.spotify.com/album/28GB6jft6rgBrjEnpPpc7C) | 2:45 | 2021-06-13 | 2021-06-14 |
 | [Mental d'or et de platine](https://open.spotify.com/track/0RTnQ1qZ9BHGnO9udzdIs5) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:37 | 2021-06-27 | 2021-06-28 |
 | [Merci les bleus](https://open.spotify.com/track/0tFY357QKe2GKvjcWA1kxK) | [KABONGO\-DJ](https://open.spotify.com/artist/3hMFSJWyvWxr5XvsCTikVP), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Merci les bleus](https://open.spotify.com/album/3ifVPOJBoE2k6Y93l9Hb3b) | 4:02 | 2022-12-29 | 2023-01-05 |
+| [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-26 |  |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2021-12-25 | 2021-12-27 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 | 2022-12-25 | 2022-12-27 |
 | [Metaverse](https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Metaverse](https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7) | 3:13 | 2023-02-04 | 2023-02-09 |
@@ -920,7 +922,7 @@
 | [Mozart Capitaine Jackson \(Episode 1\)](https://open.spotify.com/track/2bkmxoXsBE1vv6UmUima6h) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mozart Capitaine Jackson \(Episode 1\)](https://open.spotify.com/album/5wWTxkW31zMkhtARTCExnh) | 2:25 | 2021-08-15 | 2021-08-16 |
 | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/track/0uQwS44mtx629xnBcLkCvk) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [17% \(Extension\)](https://open.spotify.com/album/4208rDJIjy6r5oBQQx6NZs) | 3:20 | 2022-02-19 | 2022-02-26 |
 | [Mr\. Ocho](https://open.spotify.com/track/1X5U5wtor2IFwM1RaeDGgx) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:46 | 2022-12-03 | 2023-01-04 |
-| [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 | 2023-01-03 |  |
+| [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 | 2023-01-03 | 2023-08-27 |
 | [Murder](https://open.spotify.com/track/3LK81r3yptHlliNgLBo1UC) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:44 | 2023-02-18 | 2023-02-26 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-05-23 |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2023-08-04 |
@@ -1226,7 +1228,7 @@
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-22 | 2022-10-24 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-25 | 2022-12-28 |
 | [Solitaire](https://open.spotify.com/track/0uSjZhPKuYBcObeetfVlpn) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/2IvmoaCYrxIVVdmfW9082i) | 2:26 | 2022-12-09 | 2023-08-25 |
-| [Solitaire](https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 2:26 | 2023-08-25 |  |
+| [Solitaire](https://open.spotify.com/track/3kzXT2poHInDISrXOgT1PR) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 2:26 | 2023-08-25 | 2023-08-27 |
 | [Solitaire](https://open.spotify.com/track/7GFWDhZK15ylF7JyDRB9mj) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Telegram](https://open.spotify.com/album/6NmNYVVe4XeHk5lZz1Zz8g) | 2:26 | 2023-08-24 | 2023-08-26 |
 | [Solitaire 1895](https://open.spotify.com/track/45KzQaAly1V4Lmt0KaMXxz) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 3:09 | 2022-11-05 | 2022-11-10 |
 | [Solo](https://open.spotify.com/track/0AeVbdaEJhOF1RbHv7SoC6) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:40 | 2021-12-05 | 2021-12-09 |

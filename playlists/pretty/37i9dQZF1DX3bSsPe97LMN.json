@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Adrian L Santos en portada.",
-  "num_followers": 56131,
+  "num_followers": 56154,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWIyYzIzOWVlOTU5ZDMzZGIyMzJjOWMxYjEzOTc3OGQ1YWYwZDA1",
+  "snapshot_id": "MCwzNzI5MmFjNGFjYTc1ZTQ0MTM5YzdmYTE0ZGFjMmY3MjMwOTkyNmQ5",
   "tracks": [
     {
       "added_at": "2023-08-25 06:00:00",
@@ -135,6 +135,26 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Belicamente De Acci\u00f3n",
+        "url": "https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu"
+      },
+      "artists": [
+        {
+          "name": "La Autorizaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
+        },
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 175110,
+      "name": "Belicamente De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "T\u00fa Me Llevas a Un Espacio",
         "url": "https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8"
       },
@@ -151,6 +171,22 @@
       "duration_ms": 193578,
       "name": "T\u00fa Me Llevas a Un Espacio",
       "url": "https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n Quiere Otro Bote?",
+        "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Qui\u00e9n Quiere Otro Bote?",
+      "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -175,18 +211,18 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Quiere Otro Bote?",
-        "url": "https://open.spotify.com/album/4qxOY9Fwf1jprPIhAJmc5V"
+        "name": "Mix El Ch\u00fantaro Style-Tu Cari\u00f1ito (En Vivo)",
+        "url": "https://open.spotify.com/album/0vLBpea6TFRVmYYEohGhF5"
       },
       "artists": [
         {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+          "name": "Banda La Tocadora",
+          "url": "https://open.spotify.com/artist/0OasfAJiGwikx5wG5wuSy6"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Qui\u00e9n Quiere Otro Bote?",
-      "url": "https://open.spotify.com/track/6sTzLNPWCIPY7qzfnP6pE4"
+      "duration_ms": 389066,
+      "name": "Mix El Ch\u00fantaro Style-Tu Cari\u00f1ito - En Vivo",
+      "url": "https://open.spotify.com/track/7LcHdy74Uy18kqCjidLrPR"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -207,22 +243,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Mix El Ch\u00fantaro Style-Tu Cari\u00f1ito (En Vivo)",
-        "url": "https://open.spotify.com/album/0vLBpea6TFRVmYYEohGhF5"
-      },
-      "artists": [
-        {
-          "name": "Banda La Tocadora",
-          "url": "https://open.spotify.com/artist/0OasfAJiGwikx5wG5wuSy6"
-        }
-      ],
-      "duration_ms": 389066,
-      "name": "Mix El Ch\u00fantaro Style-Tu Cari\u00f1ito - En Vivo",
-      "url": "https://open.spotify.com/track/7LcHdy74Uy18kqCjidLrPR"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "East LA",
         "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
       },
@@ -235,22 +255,6 @@
       "duration_ms": 170506,
       "name": "East LA",
       "url": "https://open.spotify.com/track/4D3PHEgPTuwVpCtiueBSub"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Tu decisi\u00f3n",
-        "url": "https://open.spotify.com/album/2DMbxG78FoNUx2oGK2SF9f"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "Tu decisi\u00f3n",
-      "url": "https://open.spotify.com/track/0F2aCrMaX2jiGBGmyBTy9R"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -271,22 +275,18 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Pa Tanto",
-        "url": "https://open.spotify.com/album/20ULysRftwowCX4GCySy6f"
+        "name": "Tu decisi\u00f3n",
+        "url": "https://open.spotify.com/album/2DMbxG78FoNUx2oGK2SF9f"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         }
       ],
-      "duration_ms": 169629,
-      "name": "Pa Tanto",
-      "url": "https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0"
+      "duration_ms": 151579,
+      "name": "Tu decisi\u00f3n",
+      "url": "https://open.spotify.com/track/0F2aCrMaX2jiGBGmyBTy9R"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -311,22 +311,38 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Belicamente De Acci\u00f3n",
-        "url": "https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu"
+        "name": "Pa Tanto",
+        "url": "https://open.spotify.com/album/20ULysRftwowCX4GCySy6f"
       },
       "artists": [
         {
-          "name": "La Autorizaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         },
         {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 175110,
-      "name": "Belicamente De Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp"
+      "duration_ms": 169629,
+      "name": "Pa Tanto",
+      "url": "https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "El Brillo De Tus Ojitos",
+        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
+      },
+      "artists": [
+        {
+          "name": "Dorian Guerra",
+          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "El Brillo De Tus Ojitos",
+      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -351,22 +367,6 @@
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "El Brillo De Tus Ojitos",
-        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
-      },
-      "artists": [
-        {
-          "name": "Dorian Guerra",
-          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "El Brillo De Tus Ojitos",
-      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 167311,
+      "name": "Soy El \u00danico - Spotify Singles",
+      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "La Plebada",
         "url": "https://open.spotify.com/album/2RhK9R4I6t8bdacMbu5Qt6"
       },
@@ -851,6 +867,22 @@
       "duration_ms": 141333,
       "name": "La Plebada",
       "url": "https://open.spotify.com/track/1yGQ5WHIaLboYVm5IRjT0w"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/0osplrvbNNJVytqdKm61dH"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/7zVTdnX7aoY8GVaIuE9nba"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -875,18 +907,18 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Una Rosa Blanca",
-        "url": "https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o"
+        "name": "Respaldo y Apoyo",
+        "url": "https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "TipoSierraBros",
+          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
         }
       ],
-      "duration_ms": 200615,
-      "name": "Una Rosa Blanca",
-      "url": "https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5"
+      "duration_ms": 118980,
+      "name": "Respaldo y Apoyo",
+      "url": "https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -903,22 +935,6 @@
       "duration_ms": 162037,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Respaldo y Apoyo",
-        "url": "https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS"
-      },
-      "artists": [
-        {
-          "name": "TipoSierraBros",
-          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
-        }
-      ],
-      "duration_ms": 118980,
-      "name": "Respaldo y Apoyo",
-      "url": "https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -943,26 +959,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Mi Peor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        },
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Mi Peor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco"
       },
@@ -975,6 +971,22 @@
       "duration_ms": 129132,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "De Este Lado",
+        "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
+      },
+      "artists": [
+        {
+          "name": "Jose Torres El Rey De Alto Mando",
+          "url": "https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "De Este Lado",
+      "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -995,18 +1007,38 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "De Este Lado",
-        "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
+        "name": "Una Rosa Blanca",
+        "url": "https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o"
       },
       "artists": [
         {
-          "name": "Jose Torres El Rey De Alto Mando",
-          "url": "https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 187500,
-      "name": "De Este Lado",
-      "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
+      "duration_ms": 200615,
+      "name": "Una Rosa Blanca",
+      "url": "https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Mi Peor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        },
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Mi Peor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1059,22 +1091,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Yo No Creo En Los Hombres",
-        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 215893,
-      "name": "Yo No Creo En Los Hombres",
-      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "En La Lumbre (En Vivo, Sonora, M\u00e9xico, 2023)",
         "url": "https://open.spotify.com/album/0xroiBY5yESM9Rp7qh1dFM"
       },
@@ -1087,6 +1103,22 @@
       "duration_ms": 162474,
       "name": "En La Lumbre - En Vivo, Sonora, M\u00e9xico, 2023",
       "url": "https://open.spotify.com/track/2ZnQIKPgq3SptPgG4XTnYU"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Yo No Creo En Los Hombres",
+        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "Yo No Creo En Los Hombres",
+      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1143,22 +1175,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "\u00daltimo Chance",
-        "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 174085,
-      "name": "\u00daltimo Chance",
-      "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Traigo Un Equip\u00f3n",
         "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
       },
@@ -1171,6 +1187,22 @@
       "duration_ms": 163824,
       "name": "Traigo Un Equip\u00f3n",
       "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "\u00daltimo Chance",
+        "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "\u00daltimo Chance",
+      "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1191,6 +1223,26 @@
       "duration_ms": 175588,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "M\u00fasica Y Vino",
+        "url": "https://open.spotify.com/album/55rYBHLzuVROq5YYR37kAa"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "M\u00fasica Y Vino",
+      "url": "https://open.spotify.com/track/68d2glVYVHwkhmT5Hkb7Fb"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1231,26 +1283,6 @@
       "duration_ms": 176720,
       "name": "El Sello Adixion",
       "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "M\u00fasica Y Vino",
-        "url": "https://open.spotify.com/album/55rYBHLzuVROq5YYR37kAa"
-      },
-      "artists": [
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
-        },
-        {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "M\u00fasica Y Vino",
-      "url": "https://open.spotify.com/track/68d2glVYVHwkhmT5Hkb7Fb"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1311,6 +1343,22 @@
       "duration_ms": 183106,
       "name": "Billetes Y Armas",
       "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
+      },
+      "artists": [
+        {
+          "name": "Jessica Ballesteros",
+          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
+        }
+      ],
+      "duration_ms": 168711,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1379,22 +1427,6 @@
       "duration_ms": 264802,
       "name": "La Ultima Sombra (En Vivo)",
       "url": "https://open.spotify.com/track/3KgfP8YkvF2znrBPelYTJ7"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Tengo Ganas",
-        "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
-      },
-      "artists": [
-        {
-          "name": "Jessica Ballesteros",
-          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
-        }
-      ],
-      "duration_ms": 168711,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1527,6 +1559,26 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Las Palomitas",
+        "url": "https://open.spotify.com/album/1uyjI7gRAggblCvDdOHbEm"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "Las Palomitas",
+      "url": "https://open.spotify.com/track/0Go9m9tz5BiV6EmjiNoctc"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/456vorveaWp2EZSHNDhHAG"
       },
@@ -1595,6 +1647,22 @@
       "duration_ms": 200266,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/62FXhXv6HATkfAzCmNWTlb"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Morrito",
+        "url": "https://open.spotify.com/album/7BMZK1y3EbN4st4gMWZBvD"
+      },
+      "artists": [
+        {
+          "name": "VADHIR",
+          "url": "https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Morrito",
+      "url": "https://open.spotify.com/track/0JMyyVXZs7DdsMGkNWhBNA"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1683,22 +1751,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 167311,
-      "name": "Soy El \u00danico - Spotify Singles",
-      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Toro Relajo",
         "url": "https://open.spotify.com/album/6IluN3tRW1DIQg9mAOQI4q"
       },
@@ -1715,42 +1767,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Las Palomitas",
-        "url": "https://open.spotify.com/album/1uyjI7gRAggblCvDdOHbEm"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "Las Palomitas",
-      "url": "https://open.spotify.com/track/0Go9m9tz5BiV6EmjiNoctc"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Morrito",
-        "url": "https://open.spotify.com/album/7BMZK1y3EbN4st4gMWZBvD"
-      },
-      "artists": [
-        {
-          "name": "VADHIR",
-          "url": "https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Morrito",
-      "url": "https://open.spotify.com/track/0JMyyVXZs7DdsMGkNWhBNA"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Te Digo Adi\u00f3s",
         "url": "https://open.spotify.com/album/5of75JzXXBQIGskSlBvmsf"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 129029,
       "name": "Te Digo Adi\u00f3s",
       "url": "https://open.spotify.com/track/6pbyaOvQE0XEmv8c5fYTKo"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Poema",
-        "url": "https://open.spotify.com/album/0osplrvbNNJVytqdKm61dH"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/7zVTdnX7aoY8GVaIuE9nba"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

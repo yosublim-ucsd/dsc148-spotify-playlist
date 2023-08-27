@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Drax Project + Charley
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,255 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,290 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 64 | [Something Familiar](https://open.spotify.com/track/0eS8TKIQfshmKIQJEnDLmt) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Something Familiar](https://open.spotify.com/album/76GSQCF9plMvW8qV0pGBXn) | 3:06 |
 | 65 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
 | 66 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
-| 67 | [Up in My Head](https://open.spotify.com/track/3fCq01smXb4MnNSydn1Uem) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Up in My Head](https://open.spotify.com/album/1ITFtENz4S2SXWRykPhiPq) | 3:32 |
+| 67 | [Up In My Head](https://open.spotify.com/track/3fCq01smXb4MnNSydn1Uem) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Up in My Head](https://open.spotify.com/album/1ITFtENz4S2SXWRykPhiPq) | 3:32 |
 | 68 | [Been Better](https://open.spotify.com/track/6FhR5krBQdAF8DbjqRp377) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Been Better](https://open.spotify.com/album/0PVRY0As601uZ4anMvKxH2) | 2:50 |
 | 69 | [Breakdown Breakthrough](https://open.spotify.com/track/5bZvRooFCPjkuygB7awuCu) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [Breakdown Breakthrough](https://open.spotify.com/album/45ytmR1suFzm5YAB0a2v38) | 2:40 |
 | 70 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [For Oli](https://open.spotify.com/track/7FNBpx4om1iQcUPnyGqdMG) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [For Oli](https://open.spotify.com/album/4oKKOTdzrkbucK3RwrvYXI) | 3:23 |
 | 100 | [Hate That You Hurt](https://open.spotify.com/track/3Xm6fysXfjFtabHYe4cifr) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Hate That You Hurt](https://open.spotify.com/album/5JFGwX6w1TzPmxs3jUwsg3) | 2:51 |
 
-Snapshot ID: `MCwzZTA5MjMyZGVhYjEwODZlNTdjZjZhZjUwMjRjY2JhYjZmNThhZGRm`
+Snapshot ID: `MCwyZTlhYzE3ZGExOWU2MGE5MGY3YjA2Mjc1NzE3ZjIzYzI5NTgxMmEz`

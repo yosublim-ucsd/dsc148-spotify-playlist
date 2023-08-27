@@ -970,7 +970,7 @@
       ],
       "date_added": "2019-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 281727,
       "name": "Holiday - Kyson Remix",
       "url": "https://open.spotify.com/track/4k9izZqQMgE5nSGYFXQSHZ"
@@ -2146,6 +2146,24 @@
       "duration_ms": 192364,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr"
+    },
+    {
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy"
     },
     {
       "album": {

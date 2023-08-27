@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2013112,
+  "num_followers": 2013360,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjYzZTBhMzQ4ZmNkOGVmNGI0YTNmZjk5ZDk1ZmRkMTQ4M2UyNjRj",
+  "snapshot_id": "MCwxNGFiZmIwMjU5MGY4YTYzOWQ5YTgxNjkwYzVjMDI5ZGY0ODY4MTVm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -615,18 +615,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+        "name": "Drama Y Luz Edici\u00f3n Deluxe",
+        "url": "https://open.spotify.com/album/6JXg4yfjaH0JIZBofuVS2u"
       },
       "artists": [
         {
           "name": "Man\u00e1",
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Vivir Sin Aire",
-      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
+      "duration_ms": 238143,
+      "name": "El verdadero amor perdona - dueto con Prince Royce",
+      "url": "https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -707,22 +711,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Drama Y Luz Edici\u00f3n Deluxe",
-        "url": "https://open.spotify.com/album/6JXg4yfjaH0JIZBofuVS2u"
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
       "artists": [
         {
           "name": "Man\u00e1",
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 238143,
-      "name": "El verdadero amor perdona - dueto con Prince Royce",
-      "url": "https://open.spotify.com/track/3Z3ZUu41QYobvrKr494Vjs"
+      "duration_ms": 291493,
+      "name": "Vivir Sin Aire",
+      "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "RR",
-        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "PROMESA",
-      "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 218232,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "PROMESA",
+      "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Si T\u00fa Me Quieres",
-        "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 204454,
-      "name": "Si T\u00fa Me Quieres",
-      "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 208954,
       "name": "Carm\u00edn (feat. Juan Luis Guerra)",
       "url": "https://open.spotify.com/track/7feNblkR0A56vttsAGTyzK"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Si T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 204454,
+      "name": "Si T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Y Si Me Enamoro",
         "url": "https://open.spotify.com/album/4g9alQMKvuCo6zzynC8JjV"
       },
@@ -1347,38 +1363,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "YOKO",
-        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "YOKO",
-      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Tengamos Pasado",
         "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 227520,
       "name": "Te Adorar\u00e9",
       "url": "https://open.spotify.com/track/3e4lLl0zCsOmiXjl9rBfNk"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 179031,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "DEKKOLETERA 3",
-        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 132788,
-      "name": "La Que Yo Amo",
-      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Ni\u00f1a Bonita (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0tNUKyCe9j87bLlaIfWzd7"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 293376,
       "name": "Ni\u00f1a Bonita - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6yb8ktQyg2mH4fOUeIYkd5"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "DEKKOLETERA 3",
+        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 132788,
+      "name": "La Que Yo Amo",
+      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
     },
     {
       "added_at": "2023-07-28 04:01:00",

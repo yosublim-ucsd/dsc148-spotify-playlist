@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 163936,
+  "num_followers": 164221,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWUxYWY3OGRlYTAyOTMwMzhiNzQ1MjU2MzFjM2JjNTYyNWU5ODNh",
+  "snapshot_id": "MCw2MDFiOTFlZTkwZWU4OWY5MjQyM2MzMzk0MDkxYWQxNGUxNTdkNjlh",
   "tracks": [
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
+        "name": "As You Wish",
+        "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 195667,
+      "name": "As You Wish",
+      "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
         "name": "THE FIRST STEP : TREASURE EFFECT",
         "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 186906,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
-        "name": "As You Wish",
-        "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 195667,
-      "name": "As You Wish",
-      "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "B.L.T (BLING LIKE THIS)",
-      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
         "name": "I Don't Miss You",
         "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 200125,
       "name": "SEE SEA",
       "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "B.L.T (BLING LIKE THIS)",
+      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
         "name": "Summer Queen",
         "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 169800,
       "name": "Drowning (Feat. SOLE)",
       "url": "https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
         "name": "HEART*IZ",
         "url": "https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 192851,
       "name": "Up",
       "url": "https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
         "name": "WE",
         "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 176906,
       "name": "AH YEAH",
       "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l"
     },
     {
       "added_at": "2023-08-24 02:18:13",

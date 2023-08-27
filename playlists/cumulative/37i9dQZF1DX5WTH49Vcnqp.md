@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Omar Apollo
 
-1,054 songs - 2 day 11 hr 56 min
+1,055 songs - 2 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,8 @@
 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2022-12-01 | 2023-01-27 |
 | [High Fidelity](https://open.spotify.com/track/6Fp3Zh7rCRiICGnPWVcCUk) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [High Fidelity](https://open.spotify.com/album/5ck0FDIBSpWzOgnEvSv6Uk) | 3:30 | 2021-12-28 | 2022-02-11 |
 | [High Rise](https://open.spotify.com/track/0jz3gUtyvKDcNKDZRjy0eS) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:30 | 2022-03-03 | 2022-05-13 |
-| [High School Drama](https://open.spotify.com/track/4d9fZ4YEJnK3W9zEsPmyL0) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/1ts95O4EudVSHUfOnaVxeL) | 2:52 | 2023-08-24 |  |
+| [High School Drama](https://open.spotify.com/track/4R5Mf6PT2EwgkZIXwoKjAD) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/4MBtDxeecH2fTMfs2wSPaM) | 2:52 | 2023-08-24 |  |
+| [High School Drama](https://open.spotify.com/track/4d9fZ4YEJnK3W9zEsPmyL0) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/1ts95O4EudVSHUfOnaVxeL) | 2:52 | 2023-08-24 | 2023-08-27 |
 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 | 2023-07-31 |  |
 | [Highlight](https://open.spotify.com/track/5FMwi15wu4jDg48lzOtU6j) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Highlight](https://open.spotify.com/album/6rqyzABnm2XOj7MT1sfgMG) | 2:33 | 2022-08-05 | 2022-09-23 |
 | [Hold](https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:05 | 2023-04-13 | 2023-05-26 |

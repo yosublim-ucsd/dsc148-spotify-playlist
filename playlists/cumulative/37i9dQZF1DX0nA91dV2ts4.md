@@ -4,7 +4,7 @@
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Yuvan \- Anirudh
 
-117 songs - 8 hr 0 min
+118 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Private Party \(From "Don"\)](https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Private Party \(From "Don"\)](https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2) | 3:36 | 2022-04-30 |  |
 | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/track/2oNRoniEFnPdaCfkOQ9m0C) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Rakita Rakita Rakita \(From "Jagame Thandhiram"\)](https://open.spotify.com/album/3YSoAYHmI70SD6Wb7f4k1q) | 4:07 | 2021-06-21 |  |
 | [Rangola](https://open.spotify.com/track/6wVOOB9VyG0udgj4xhYWhq) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Ghajini \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gtR7jv2x4VpKEKWeqVqqh) | 4:26 | 2021-06-21 |  |
-| [Rowdy Baby](https://open.spotify.com/track/5YtLIhAuPcNLkfHZto0MVV) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Maari 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DXifmf9OSaHpOl3zqxTTg) | 4:41 | 2021-06-21 |  |
+| [Rowdy Baby](https://open.spotify.com/track/2DIZaYKZQgykijd9g4SVd2) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Maari 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1IRykPg2YYTxZkE3VkLkHS) | 4:41 | 2021-06-21 |  |
+| [Rowdy Baby](https://open.spotify.com/track/5YtLIhAuPcNLkfHZto0MVV) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Maari 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DXifmf9OSaHpOl3zqxTTg) | 4:41 | 2021-06-21 | 2023-08-27 |
 | [Saami Saami](https://open.spotify.com/track/397k2vS0xPDxKKVXV46KtV) | [Rajalakshmi Senthiganesh](https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v) | [Pushpa \- The Rise](https://open.spotify.com/album/602rAkHAZiAsKB8BcxEiCM) | 3:44 | 2022-01-04 |  |
 | [Single Pasanga](https://open.spotify.com/track/5IirRCYX0AuRAZDDeOY7RA) | [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL), [Gana Ulagam Dharani](https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Natpe Thunai](https://open.spotify.com/album/1HYfvglqbtALCXpldXYakO) | 3:44 | 2021-06-21 | 2022-07-29 |
 | [Single Pasanga](https://open.spotify.com/track/4Xn3xgMPWSMIWuELgWpGbp) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Gana Balachanda](https://open.spotify.com/artist/2wQuVlgFVtiq4e3e0b7FRW), [Gana Ulagam Dharani](https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Natpe Thunai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kVzewcZrjwncy9zO9HxEY) | 3:44 | 2021-06-21 |  |

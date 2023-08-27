@@ -1,12 +1,12 @@
 {
   "description": "The best tracks for Prom 2023.",
-  "num_followers": 35376,
+  "num_followers": 35367,
   "original_name": "Prom Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGZkNzAwODcxZjg2Njc3OTUxM2UyOTcyMWQ3NTMxMTdhMDhmNjhm",
+  "snapshot_id": "MCwyYjc5MDc2NDA1ODgyYjlhMmMzZjAwZjY0ZDdhZDIzN2VkNTE0YzBl",
   "tracks": [
     {
       "added_at": "2023-05-17 17:53:45",
@@ -915,18 +915,22 @@
     {
       "added_at": "2023-05-17 17:53:45",
       "album": {
-        "name": "In Ha Mood",
-        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+        "name": "Tell Em",
+        "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
         }
       ],
-      "duration_ms": 129360,
-      "name": "In Ha Mood",
-      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+      "duration_ms": 180379,
+      "name": "Tell Em",
+      "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
     }
   ],
   "unique_name": "Prom Night",

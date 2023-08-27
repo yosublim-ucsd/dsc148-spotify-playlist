@@ -4,7 +4,7 @@
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-176 songs - 12 hr 51 min
+177 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Be Thou My Vision](https://open.spotify.com/track/1mBmuq8Luv3YzIcgZBgOQR) | [Aaron Strumpel](https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg) | [Mighty Refuge](https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt) | 3:25 | 2020-08-31 |  |
 | [Before You](https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ) | [Before You](https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE) | 4:21 | 2020-08-31 | 2023-06-05 |
 | [Believer](https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Believer](https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O) | 3:22 | 2020-08-31 | 2023-07-29 |
-| [Bridges](https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Bridges](https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a) | 3:36 | 2020-08-31 |  |
+| [Bridges](https://open.spotify.com/track/7nkKHByyonJIPEx8OxgoZR) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Bridges](https://open.spotify.com/album/5lx5uNnvFxSiruId2vTS1a) | 3:36 | 2020-08-31 | 2023-08-27 |
 | [Broken Things \- Acoustic](https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:08 | 2020-08-31 |  |
 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 | 2020-08-31 |  |
 | [Charmed](https://open.spotify.com/track/0IQeeIqzADdN1xh0B3ZAwu) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Charmed](https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc) | 3:33 | 2023-07-28 |  |
@@ -139,6 +139,7 @@
 | [Secret Place](https://open.spotify.com/track/1ALad9pAC3JSK7SvqGAwKa) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Secret Place](https://open.spotify.com/album/29pydTpePrgdD4rHOMohlz) | 3:01 | 2023-07-28 |  |
 | [Shadowfeet](https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Albertine](https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X) | 3:35 | 2020-08-31 | 2023-06-01 |
 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 | 2020-08-31 |  |
+| [Simple Song](https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Simple Song](https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS) | 3:22 | 2023-07-28 |  |
 | [Something Beautiful](https://open.spotify.com/track/2lV9YvVyqSFGo7wnbWz69n) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Something Beautiful](https://open.spotify.com/album/0ZMBVloAiTLRrV6bkyR1a6) | 3:47 | 2020-08-31 | 2022-07-29 |
 | [Something Beautiful](https://open.spotify.com/track/6JnpyvzvrN1rep8fz2EiDQ) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:47 | 2020-08-31 |  |
 | [Soul's on Fire](https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Soul's on Fire](https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33) | 3:29 | 2020-08-31 |  |

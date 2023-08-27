@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,216 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,231 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 25 | [×3シャイン \- Full Spec Edition](https://open.spotify.com/track/1xt1FjDzNrTIGHTNwnQ4QB) | [ユキ\(杉平真奈美\)](https://open.spotify.com/artist/0nIEnGkGDh7caedAuri3jQ) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side B\)](https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u) | 3:45 |
 | 26 | [KONNANじゃないっ!](https://open.spotify.com/track/7d9SZZEOhF49sVaGRfPKv0) | [澤村 遥\(釘宮理恵\)](https://open.spotify.com/artist/3n3yQs1qBmKQu2i4zgLaZ3), [澤村 遥](https://open.spotify.com/artist/1xvrW8VjpNWT6VZEkey9N1) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 5:10 |
 | 27 | [キミハイルカラ](https://open.spotify.com/track/2OPU1hw8yQoWAtTVTjrzNv) | [T\-SET](https://open.spotify.com/artist/0VDcUeLgTQwXIa5UTuO5L0), [白石涼子](https://open.spotify.com/artist/4cVDNLxCf9lBMs8YTLkrPl), [野中藍](https://open.spotify.com/artist/4bfRjWX4KyVcO8AMcbnctq) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 4:27 |
-| 28 | [刹那の人魚姫\~Heart break mermaid\~ \- Full Spec Edition](https://open.spotify.com/track/7519s7yaJNhvRV1QcVFfcn) | [千佳](https://open.spotify.com/artist/0EbN9AvLinWeyEFXHLcv6y), [彩也香](https://open.spotify.com/artist/23oYiC3mc5S0FCBTDeq1BY) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side B\)](https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u) | 4:35 |
+| 28 | [刹那の人魚姫～Heart break mermaid～ \- Full Spec Edition](https://open.spotify.com/track/7519s7yaJNhvRV1QcVFfcn) | [千佳](https://open.spotify.com/artist/0EbN9AvLinWeyEFXHLcv6y), [彩也香](https://open.spotify.com/artist/23oYiC3mc5S0FCBTDeq1BY) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side B\)](https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u) | 4:35 |
 | 29 | [Rouge of Love](https://open.spotify.com/track/4KzwEBfoXQ3TgUCpVORmgg) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [青木千紘](https://open.spotify.com/artist/5cE3xgShUof2jaIatnTjlW), [かぐや](https://open.spotify.com/artist/6AmKPBtO59mKLbf7vejKyz) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr) | 4:44 |
 | 30 | [乙女色my life](https://open.spotify.com/track/3BMaKx6wNyIxMzJicTGbG8) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:07 |
 | 31 | [summer memories](https://open.spotify.com/track/3Ws4ohNQGBrVTHs2LHDztM) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [神室純恋歌 \~桐生&支静加\~](https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:02 |
 | 50 | [Shiawase\-nara\-iiya \- Full Spec Edition](https://open.spotify.com/track/795netq7zSVvayTiDkbePw) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 6:30 |
 
-Snapshot ID: `MCxjMTg2ZjJkY2JmZjk4ZjFlZDNiMjg3Nzk4YzdmNWM2OWM2YWZkYWM5`
+Snapshot ID: `MCw4MzRiMGU5MjdkYzhkYTBkZTJlY2Y1NmRhMDMwNjUxYzZhY2ZmZTA0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,032 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,136 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Nice To Meet Ya \- Diplo Remix](https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nice To Meet Ya \(Diplo Remix\)](https://open.spotify.com/album/3UuXPv0M71CU6m3On0wIwb) | 3:35 |
 | 50 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
 
-Snapshot ID: `MCxmZDk1YjVkYzNmNmZiYzU0NDg3ZDliNjcyMzQ1ZGE5MDlhYmU0Y2Jj`
+Snapshot ID: `MCxhZmVjY2ZjYmY3OGQxNjRhOWQ1YjEzNjUzNzI2OTVjMDZjNjgwNWY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Logan Crosby, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,114 likes - 187 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,163 likes - 187 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 186 | [Rinse\. Repeat.](https://open.spotify.com/track/5kxVgrrXzavmgGfg7KLFDO) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Rinse\. Repeat.](https://open.spotify.com/album/1z7vFQc38L29zC0UNBmFzx) | 3:00 |
 | 187 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 |
 
-Snapshot ID: `MCxiZTlmMmZiMjk3OTk2MTc5ZmU3Mzc3Mjg2NjkxOTMxZmYxNTg3Nzhi`
+Snapshot ID: `MCwxNjEwZDRiYTZiNWNhMzUyNTQwZmIyMDdiYWMzN2E1MDRlYTFhNmRl`

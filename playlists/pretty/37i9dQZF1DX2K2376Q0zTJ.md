@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: ゆいにしお
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,769 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,773 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [RIGHT MIND](https://open.spotify.com/track/2p9XZr10ES5yeUD0EcBBpu) | [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien), [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV) | [RIGHT MIND](https://open.spotify.com/album/6ldLs2zl3f6apTqijFEw0E) | 4:07 |
 | 50 | [G.A.D.](https://open.spotify.com/track/2ODzC7a4omg68Yj6BzrKIu) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [G.A.D.](https://open.spotify.com/album/2hv367X3TlSbK1lT9XWlVl) | 4:14 |
 
-Snapshot ID: `MCwxMzgyYzVhNTNjMmJkYTA5NzkxOTM4YjMxYmU3ZjM5MzMxYmMwZWFk`
+Snapshot ID: `MCxjOTc4YThhZWQyNDIzNmRkZTBiOWFhYjdiZmI5MTQxNDdjNzZjMjBk`

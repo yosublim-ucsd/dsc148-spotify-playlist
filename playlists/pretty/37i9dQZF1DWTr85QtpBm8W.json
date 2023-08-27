@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 12375,
+  "num_followers": 12425,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Zjg2ZmZiNTIyZWZlODFmNzExM2UzNjEzM2ZjOWI0OGQzYjYxMWJk",
+  "snapshot_id": "MCwzMThkYmUyMmU3YzVmNDZiYTk3YWZiNmNkNjg5MGQ4ZWVlOTQ5M2Vk",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -419,42 +419,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Vir\u00f0ulegu forsetar",
-        "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
+        "name": "Tape Chants",
+        "url": "https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC"
       },
       "artists": [
         {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        },
-        {
-          "name": "Gu\u00f0mundur Sigur\u00f0sson",
-          "url": "https://open.spotify.com/artist/3q7TrFzGVWfKBiUDvvuh9o"
-        },
-        {
-          "name": "H\u00f6r\u00f0ur Bragason",
-          "url": "https://open.spotify.com/artist/0whUojBZfM3kiNAY1pjHGC"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "Matth\u00edas M.D. Hemstock",
-          "url": "https://open.spotify.com/artist/5zHY2mTNV5DT1WlMxGyHUz"
-        },
-        {
-          "name": "Caput Ensemble",
-          "url": "https://open.spotify.com/artist/48XBOXSqnwaCzpB1wAOaIT"
-        },
-        {
-          "name": "Gu\u00f0ni Franzson",
-          "url": "https://open.spotify.com/artist/4TZBoRGUpsHYhAmnQt5KeV"
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
         }
       ],
-      "duration_ms": 78579,
-      "name": "Part 1.2",
-      "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
+      "duration_ms": 76106,
+      "name": "V",
+      "url": "https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -507,18 +483,58 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Tape Chants",
-        "url": "https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC"
+        "name": "Vir\u00f0ulegu forsetar",
+        "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
       },
       "artists": [
         {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Gu\u00f0mundur Sigur\u00f0sson",
+          "url": "https://open.spotify.com/artist/3q7TrFzGVWfKBiUDvvuh9o"
+        },
+        {
+          "name": "H\u00f6r\u00f0ur Bragason",
+          "url": "https://open.spotify.com/artist/0whUojBZfM3kiNAY1pjHGC"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "Matth\u00edas M.D. Hemstock",
+          "url": "https://open.spotify.com/artist/5zHY2mTNV5DT1WlMxGyHUz"
+        },
+        {
+          "name": "Caput Ensemble",
+          "url": "https://open.spotify.com/artist/48XBOXSqnwaCzpB1wAOaIT"
+        },
+        {
+          "name": "Gu\u00f0ni Franzson",
+          "url": "https://open.spotify.com/artist/4TZBoRGUpsHYhAmnQt5KeV"
         }
       ],
-      "duration_ms": 76106,
-      "name": "V",
-      "url": "https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39"
+      "duration_ms": 78579,
+      "name": "Part 1.2",
+      "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -551,22 +567,6 @@
       "duration_ms": 270680,
       "name": "Wind and Snow",
       "url": "https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Ba Ba Ti Ki Di Do",
-        "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
-      },
-      "artists": [
-        {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Ba Ba",
-      "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Streichelfisch (Remastered 2022)",
         "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 74246,
       "name": "Anfangtastisch - Remastered 2022",
       "url": "https://open.spotify.com/track/4HwEPEnSRL5LZaH9luAKue"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Ba Ba Ti Ki Di Do",
+        "url": "https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ba Ba",
+      "url": "https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Streichelfisch (Remastered 2022)",
-        "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 351980,
-      "name": "Aparaquasynthe - Remastered 2022",
-      "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Streichelfisch (Remastered 2022)",
+        "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 351980,
+      "name": "Aparaquasynthe - Remastered 2022",
+      "url": "https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Choral",
         "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 550626,
       "name": "Add Infinity",
       "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Imperial",
         "url": "https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH"
       },
@@ -1451,30 +1451,6 @@
       "duration_ms": 236333,
       "name": "Into Stressa",
       "url": "https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Second Childhood",
-        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "BJ Nilsen",
-          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
-        },
-        {
-          "name": "Stilluppsteypa",
-          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
-        }
-      ],
-      "duration_ms": 394680,
-      "name": "It's About the Size of a House",
-      "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1507,6 +1483,30 @@
       "duration_ms": 438066,
       "name": "Raamat",
       "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Second Childhood",
+        "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "BJ Nilsen",
+          "url": "https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB"
+        },
+        {
+          "name": "Stilluppsteypa",
+          "url": "https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj"
+        }
+      ],
+      "duration_ms": 394680,
+      "name": "It's About the Size of a House",
+      "url": "https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q"
     },
     {
       "added_at": "2023-08-04 12:53:28",

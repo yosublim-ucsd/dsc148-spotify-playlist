@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Él Mató a un Policía Motorizado
 
-212 songs - 13 hr 9 min
+213 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [El trato](https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:28 | 2022-07-01 | 2022-09-06 |
 | [El Trato](https://open.spotify.com/track/10y0q9ys5yOQA4jGU7daz3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Trato](https://open.spotify.com/album/0yKM9i0sVThtzArvNrrvuN) | 3:31 | 2021-12-07 | 2022-07-29 |
 | [El Tren](https://open.spotify.com/track/0vODZMS37nXEgtS3YKhYze) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Tren](https://open.spotify.com/album/7sFIIffw4qqW42XrGVARHO) | 4:42 | 2022-02-18 | 2022-09-06 |
-| [Elemento \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento \(Noches De Salón\)](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 | 2023-07-07 |  |
+| [Elemento \- Noches De Salón, Versión Estudio](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento \(Noches De Salón, Versión Estudio\)](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 | 2023-07-07 |  |
 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 | 2023-02-03 | 2023-05-27 |
 | [Escapar](https://open.spotify.com/track/5wox6DMRibm9xFZklhWmSZ) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Escapar](https://open.spotify.com/album/1RIilWLhdLU2dhUvhxx0EQ) | 2:56 | 2022-09-05 | 2023-03-04 |
 | [Esquina Impar](https://open.spotify.com/track/6WRGlxDn5cFZiiGpBdDVOc) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Esquina Impar](https://open.spotify.com/album/04xk5fZK7cY0Qke2pZQl8r) | 4:45 | 2021-12-07 | 2022-03-21 |
@@ -175,7 +175,8 @@
 | [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 | 2023-03-03 | 2023-07-08 |
 | [Regreso a Taygeta](https://open.spotify.com/track/7vJMkOJH4pm1FT5BeApMig) | [Jardín Mojado](https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx) | [Regreso a Taygeta](https://open.spotify.com/album/6fxz2U8sJVWLb5a4ToIux8) | 6:05 | 2021-12-07 | 2022-09-06 |
 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 | 2022-09-05 |  |
-| [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-09-05 |  |
+| [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-09-05 | 2023-08-27 |
+| [Ricos](https://open.spotify.com/track/65VkSH6MsDUgSTyBm5gtwO) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Vespa 97](https://open.spotify.com/album/7gOUBoBRu5noC8toWgHzUJ) | 2:54 | 2023-08-25 |  |
 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 | 2021-12-07 | 2022-03-21 |
 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 | 2022-09-05 |  |
 | [Sagitario \(Mi Madre Me Va A Matar\)](https://open.spotify.com/track/2FUvrVJvsDB4GsNnXc8h3A) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Sagitario \(Mi Madre Me Va A Matar\)](https://open.spotify.com/album/23hiaBj0Cq3b8FTsqfcyNg) | 2:51 | 2022-03-19 | 2022-09-06 |

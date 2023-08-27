@@ -502,7 +502,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 190573,
       "name": "Not Too Soon",
       "url": "https://open.spotify.com/track/0LmTJN6QFKQ0APV8CV1ebB"
@@ -704,6 +704,24 @@
       "duration_ms": 157533,
       "name": "Ruby Soho",
       "url": "https://open.spotify.com/track/6zOlYzDyJifRMxim69LoWj"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "Ruby Soho",
+      "url": "https://open.spotify.com/track/0vfhk1lH3zYesFN1x7vV46"
     },
     {
       "album": {

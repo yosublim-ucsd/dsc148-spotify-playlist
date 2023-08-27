@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 69 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 63 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,17 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 55 | [Who You Are \(Back to the 80's Remix\) Pt.2](https://open.spotify.com/track/74ZXk6lTiBf2fjGW40qp8k) | [Lunatica](https://open.spotify.com/artist/0B8qDV81MTJam2VPcoGlf1), [Canttias](https://open.spotify.com/artist/2OpzeDKMkRjk5DNUIubv5q) | [Who You Are \(Back to the 80's Remix\) Pt.2](https://open.spotify.com/album/3gNAyDeK9LTiPwa8xFdRiQ) | 3:42 |
 | 56 | [Ojos de Cielo \- En Vivo](https://open.spotify.com/track/6AzZlB6kqZ19ZywqRvwvF3) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Ojos de Cielo \(En Vivo\)](https://open.spotify.com/album/1T1hBoWhzLbRsfIHo3eDEy) | 4:13 |
 | 57 | [Out In The Street \- Live Hollywood, CA 1976](https://open.spotify.com/track/0tQa96AB5xvHnAcdIuhEHH) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Hollywood '76 \(Live\)](https://open.spotify.com/album/4ExEFLqUbbhZGjon20wDYA) | 5:17 |
-| 58 | [Hungry For Heaven \- Live](https://open.spotify.com/track/1xF1dRfgBJ01K9bDdTI9mV) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Come Down With Fire \(Live Worcester '85\)](https://open.spotify.com/album/6tXAizr8Jira8h88pHpDEc) | 4:00 |
-| 59 | [Thirteen](https://open.spotify.com/track/1yTOtki9JyA4oM1svzdE1K) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [The Lebanon](https://open.spotify.com/album/3UMZ86HUxicc6lMVv7bVzK) | 4:09 |
-| 60 | [A la Cima](https://open.spotify.com/track/3Bnz6lDcPOUFT5IDgbZs4S) | [Dj Bitman](https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [A la Cima](https://open.spotify.com/album/2oMah8AiP4OhAWJzzn1utD) | 2:22 |
-| 61 | [I Am the Devil](https://open.spotify.com/track/4zQaaikXNVSzB4HTKcH4MB) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [I Am the Devil](https://open.spotify.com/album/5GW6D5Hvn0Agoejqit1Kf1) | 4:13 |
-| 62 | [Heidrun \(2023 Remix\)](https://open.spotify.com/track/4ZmcdD9qI3RYmWcPymv3mw) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Heidrun](https://open.spotify.com/album/46SLNuMmAJD0lYog885M8a) | 4:42 |
-| 63 | [Imaginary Worlds](https://open.spotify.com/track/6XkDo14yD9eKEcuQpRMgbM) | [BVSMV](https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF) | [Imaginary Worlds](https://open.spotify.com/album/1ChuHp9kRPlirbrvkfvxo1) | 3:44 |
-| 64 | [Sistema Solar](https://open.spotify.com/track/7K1eNzGG1lxjoua3zCBm13) | [ELECTROROBOT](https://open.spotify.com/artist/3FXfU5SW6bLVlFl43vj4zj), [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Sistema Solar](https://open.spotify.com/album/103jRkmfSxOPs2OqFWow8R) | 1:54 |
-| 65 | [Them Belly Full \(But We Hungry\)](https://open.spotify.com/track/73YF1vuiOiJ1h7RR9QJfns) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 3:10 |
-| 66 | [Vulindlela](https://open.spotify.com/track/4WoaqIsdUJmjPXHA4udr0P) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV), [Styles Bambiso](https://open.spotify.com/artist/1s5q6X1GZ0SzX4YJOh4jhe) | [Vulindlela](https://open.spotify.com/album/5DATmwjbgb7HNRfHaIw8J2) | 3:26 |
-| 67 | [Angel](https://open.spotify.com/track/3LXcvucZIdGmD8MZ9adBh7) | [X JAPAN](https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx) | [Angel](https://open.spotify.com/album/0Rw2R5N7WyLBar5x5KPsNh) | 4:34 |
-| 68 | [Overture or Obituary](https://open.spotify.com/track/3PgK8DK9jZSYR17OEUDjJb) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled \(Deluxe\)](https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6) | 3:02 |
-| 69 | [Loose Ends \- Live at Continental Airlines Arena, E\. Rutherford, NJ \- 7/18/1999](https://open.spotify.com/track/1DwjL5CZ8XNTGQg6rhozcJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs of Introspection](https://open.spotify.com/album/081au3yAEkZzrbrmjRGb1w) | 4:19 |
+| 58 | [Thirteen](https://open.spotify.com/track/1yTOtki9JyA4oM1svzdE1K) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [The Lebanon](https://open.spotify.com/album/3UMZ86HUxicc6lMVv7bVzK) | 4:09 |
+| 59 | [I Am the Devil](https://open.spotify.com/track/4zQaaikXNVSzB4HTKcH4MB) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [I Am the Devil](https://open.spotify.com/album/5GW6D5Hvn0Agoejqit1Kf1) | 4:13 |
+| 60 | [Heidrun \(2023 Remix\)](https://open.spotify.com/track/4ZmcdD9qI3RYmWcPymv3mw) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Heidrun](https://open.spotify.com/album/46SLNuMmAJD0lYog885M8a) | 4:42 |
+| 61 | [Imaginary Worlds](https://open.spotify.com/track/6XkDo14yD9eKEcuQpRMgbM) | [BVSMV](https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF) | [Imaginary Worlds](https://open.spotify.com/album/1ChuHp9kRPlirbrvkfvxo1) | 3:44 |
+| 62 | [Sistema Solar](https://open.spotify.com/track/7K1eNzGG1lxjoua3zCBm13) | [ELECTROROBOT](https://open.spotify.com/artist/3FXfU5SW6bLVlFl43vj4zj), [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Sistema Solar](https://open.spotify.com/album/103jRkmfSxOPs2OqFWow8R) | 1:54 |
+| 63 | [Them Belly Full \(But We Hungry\)](https://open.spotify.com/track/73YF1vuiOiJ1h7RR9QJfns) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 3:10 |
 
-Snapshot ID: `MjgyMTU2MDAsMDAwMDAwMDBiYTdkZmViMTQ4MDUwZjE1ZjM4N2Y4OWI2MDhlZmU1Ng==`
+Snapshot ID: `MjgyMTU2MDAsMDAwMDAwMDA2MjRhNTExMGVmYmY0OGFmZGViY2Y0NWExNjAwN2Y1MQ==`

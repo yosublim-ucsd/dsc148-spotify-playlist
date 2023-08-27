@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4GTRpn0SBjf.md) - [plain]
 
 > Featuring Farruko, Cris Mj, Sech & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4GTRpn0SBjf.md) - [plain]
 | 24 | [Real](https://open.spotify.com/track/6o1lbf1Y5zdZfhhdloOgKZ) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Real](https://open.spotify.com/album/3Q7g2iBYVBDOghZcNOuVK0) | 3:58 |
 | 25 | [2 X 3](https://open.spotify.com/track/4MAZS1p2qSSAbCJfhmQdzW) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 3:19 |
 
-Snapshot ID: `MCxmOTcxODJjOGNiYjQwNTJmZjJlYWJhNjNhNzkzOTVkZWViYWI2ODAy`
+Snapshot ID: `MCxhODIwYmQzM2I2NTBiYjliZTE4NTE1ZmE5MTM5ODAyYWE3NGI3Y2Vk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Milo J, Bhavi, Duki & LIT killah en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,781 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,937 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 13 | [SUBIDÓN](https://open.spotify.com/track/1ssssn5yKcbad3IDFHMON4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Koki LS](https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [SUBIDÓN](https://open.spotify.com/album/4CWTxKNjbnjbSr71MIiFxF) | 2:18 |
 | 14 | [Ultimo Tren a Ameri](https://open.spotify.com/track/6AgGMIxxvzzpqvRHRfrRMm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 1:51 |
 | 15 | [hARAkiRi](https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [hARAkiRi](https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D) | 2:49 |
-| 16 | [Municiones](https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Municiones](https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw) | 3:24 |
+| 16 | [Municiones \(Feat\. KyleYouMadeThat\)](https://open.spotify.com/track/2FV1QVeQ5fI5gAEPo2ZsHI) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [Municiones \(Feat\. KyleYouMadeThat\)](https://open.spotify.com/album/4Gtx0NCZpR7LnW6wHYEpYw) | 3:24 |
 | 17 | [Y ustedes?](https://open.spotify.com/track/6UdKndtKQUPWeYNkcUbikU) | [Después de la fiesta](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Y ustedes?](https://open.spotify.com/album/12Z8itqVuIXECLPRwceAYd) | 2:13 |
 | 18 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 |
 | 19 | [uNO dOS](https://open.spotify.com/track/3H5N7Lnvv64H3iae6InGLz) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 99 | [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 |
 | 100 | [Nat Geo \(Remix\)](https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Nat Geo \(Remix\)](https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC) | 4:04 |
 
-Snapshot ID: `MCwxMzg4MWU1MzUxZTVjMDg0ZmQ4ZTkxMDk2MDljNzY4ZmJhNGQ2NDY3`
+Snapshot ID: `MCwwYjgzYWE0M2M5ODdhNDE2NjJkNzVmNTc1OWJmNjc2MGMyNmRkY2Rl`

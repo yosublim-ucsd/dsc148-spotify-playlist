@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno, Big One & Rusherking.",
-  "num_followers": 622973,
+  "num_followers": 623402,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTU2NmQxYzM5ZmRhOTYzYTkxMDg2MjMxNmYzNWNkNjZlYTc3ZTA5",
+  "snapshot_id": "MCxiMWE2ZjU1NDdmODJlYTkyMjljM2NmMjhkOWQ1YmUxYWYxMDZmMGQ1",
   "tracks": [
     {
       "added_at": "2023-08-25 13:57:56",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-08-25 13:57:56",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
+    },
+    {
+      "added_at": "2023-08-25 13:57:56",
+      "album": {
         "name": "Olvidarte de Mi Jamas Podras",
         "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 193358,
       "name": "Olvidarte de Mi Jamas Podras",
       "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
-    },
-    {
-      "added_at": "2023-08-25 13:57:56",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
     },
     {
       "added_at": "2023-08-25 13:57:56",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-08-25 13:57:56",
       "album": {
-        "name": "Esta de Moda",
-        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
-      },
-      "artists": [
-        {
-          "name": "Pitty Murua",
-          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
-        }
-      ],
-      "duration_ms": 204382,
-      "name": "Lo Aprend\u00ed de Ti",
-      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
-    },
-    {
-      "added_at": "2023-08-25 13:57:56",
-      "album": {
         "name": "Fern\u00e9, Cola y Cuarteto: Los 24 Grandes del Cuarteto!!",
         "url": "https://open.spotify.com/album/4sXZ2L8IViN0Qrg9dxlewT"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-08-25 13:57:56",
       "album": {
+        "name": "Esta de Moda",
+        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
+      },
+      "artists": [
+        {
+          "name": "Pitty Murua",
+          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+        }
+      ],
+      "duration_ms": 204382,
+      "name": "Lo Aprend\u00ed de Ti",
+      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
+    },
+    {
+      "added_at": "2023-08-25 13:57:56",
+      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
       },
@@ -1579,26 +1579,6 @@
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
-    },
-    {
-      "added_at": "2023-08-25 13:57:56",
-      "album": {
-        "name": "Ciencia Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/4ZTFXFn1HS1e4DpYyyQi0x"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        },
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        }
-      ],
-      "duration_ms": 214869,
-      "name": "Ciencia Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/78ScjOq0BVzMGRz6jnH33l"
     },
     {
       "added_at": "2023-08-25 13:57:56",
@@ -1635,6 +1615,22 @@
     {
       "added_at": "2023-08-25 13:57:56",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
+    },
+    {
+      "added_at": "2023-08-25 13:57:56",
+      "album": {
         "name": "Eran dos locos de amor",
         "url": "https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4"
       },
@@ -1667,54 +1663,6 @@
     {
       "added_at": "2023-08-25 13:57:56",
       "album": {
-        "name": "La Bachata (En Vivo)",
-        "url": "https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds"
-      },
-      "artists": [
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
-        }
-      ],
-      "duration_ms": 134058,
-      "name": "La Bachata - En Vivo",
-      "url": "https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa"
-    },
-    {
-      "added_at": "2023-08-25 13:57:56",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
-    },
-    {
-      "added_at": "2023-08-25 13:57:56",
-      "album": {
-        "name": "Espectacular Monada",
-        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Dame un Poco Mas",
-      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
-    },
-    {
-      "added_at": "2023-08-25 13:57:56",
-      "album": {
         "name": "Me Duele Tu Nombre",
         "url": "https://open.spotify.com/album/3JPCEgj42U1a2DrCUkywMY"
       },
@@ -1735,6 +1683,22 @@
     {
       "added_at": "2023-08-25 13:57:56",
       "album": {
+        "name": "Espectacular Monada",
+        "url": "https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Dame un Poco Mas",
+      "url": "https://open.spotify.com/track/7DClQMEhTG6atticp11xbw"
+    },
+    {
+      "added_at": "2023-08-25 13:57:56",
+      "album": {
         "name": "Te Perd\u00ed",
         "url": "https://open.spotify.com/album/1paBhKhEZcoImQbt03qhng"
       },
@@ -1747,6 +1711,42 @@
       "duration_ms": 210266,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"
+    },
+    {
+      "added_at": "2023-08-25 13:57:56",
+      "album": {
+        "name": "La Bachata (En Vivo)",
+        "url": "https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 134058,
+      "name": "La Bachata - En Vivo",
+      "url": "https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa"
+    },
+    {
+      "added_at": "2023-08-25 13:57:56",
+      "album": {
+        "name": "Ciencia Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/4ZTFXFn1HS1e4DpYyyQi0x"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        },
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "duration_ms": 214869,
+      "name": "Ciencia Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/78ScjOq0BVzMGRz6jnH33l"
     },
     {
       "added_at": "2023-08-25 13:57:56",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-08-25 13:57:56",
       "album": {
-        "name": "De Nada",
-        "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
-      },
-      "artists": [
-        {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
-        }
-      ],
-      "duration_ms": 197565,
-      "name": "De Nada",
-      "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
-    },
-    {
-      "added_at": "2023-08-25 13:57:56",
-      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 236890,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
+    },
+    {
+      "added_at": "2023-08-25 13:57:56",
+      "album": {
+        "name": "De Nada",
+        "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "duration_ms": 197565,
+      "name": "De Nada",
+      "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
     },
     {
       "added_at": "2023-08-25 13:57:56",

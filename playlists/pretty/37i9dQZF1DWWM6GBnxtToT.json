@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 570976,
+  "num_followers": 571110,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjA0YmU5YTBkNWZiNmNjOWYwYTE2NWFmM2JkZDQyMDM1NzhlOWQz",
+  "snapshot_id": "MCxjNjNlZTA2MWJkNjE5NTIyODZiYTE2MzRmZjdmZDlkYmQ0YWUwNjZh",
   "tracks": [
     {
       "added_at": "2023-08-24 11:35:59",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Leoniden",
-        "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
-      },
-      "artists": [
-        {
-          "name": "Leoniden",
-          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
-        }
-      ],
-      "duration_ms": 191169,
-      "name": "Sisters",
-      "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "Leoniden",
+        "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "duration_ms": 191169,
+      "name": "Sisters",
+      "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Complex Happenings Reduced To A Simple Design",
-        "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
-      },
-      "artists": [
-        {
-          "name": "Leoniden",
-          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Dice",
-      "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "Complex Happenings Reduced To A Simple Design",
+        "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Dice",
+      "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Go Out",
-        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 154452,
-      "name": "Go Out",
-      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "A-Train",
         "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 215307,
       "name": "A-Train - Edit",
       "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "Go Out",
+        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 154452,
+      "name": "Go Out",
+      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "beautiful day",
-        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
-      },
-      "artists": [
-        {
-          "name": "Henri Purnell",
-          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
-        }
-      ],
-      "duration_ms": 183836,
-      "name": "beautiful day",
-      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "Little Lucille",
         "url": "https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 198510,
       "name": "Little Lucille",
       "url": "https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "beautiful day",
+        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
+      },
+      "artists": [
+        {
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+        }
+      ],
+      "duration_ms": 183836,
+      "name": "beautiful day",
+      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "hunger",
-        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 191297,
-      "name": "hunger",
-      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 162755,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "hunger",
+        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 191297,
+      "name": "hunger",
+      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
     },
     {
       "added_at": "2023-08-24 11:35:59",

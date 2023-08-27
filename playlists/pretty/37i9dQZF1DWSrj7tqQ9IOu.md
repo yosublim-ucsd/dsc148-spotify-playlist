@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Jeanne Bonjour
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,458 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,580 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Isn't It Something](https://open.spotify.com/track/02U7b1hwHNfU05Bsq7lvWD) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Isn't It Something](https://open.spotify.com/album/0xZww13tw6W4EkciFqMNrb) | 2:24 |
 | 50 | [corazón caramelo](https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [corazón caramelo](https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd) | 2:37 |
 
-Snapshot ID: `MCxiMjgzYjQ3ODhjNDdlZTJhZGM4YWJlOTU5YWRmZGQ4MDljOTMzNzlj`
+Snapshot ID: `MCxhNzljYzYwOGQzNjJkYmQxYmE3YTMyNzBmMjU3OGJkNzBiOGE4OTNj`

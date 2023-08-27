@@ -1,12 +1,12 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 345405,
+  "num_followers": 345412,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzZkM2IyMmExZWUzYjQ5M2JjZTVhODhiY2NkMDkwMDUxZTZmNTJl",
+  "snapshot_id": "MCxiNmQyMWEzMTY5YTJmYzQ5MzIwMzU1NzlmYTFhMmIzNTU1ODA4OTU2",
   "tracks": [
     {
       "added_at": "2023-01-17 01:33:36",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Bruninho & Davi ao Vivo no Ibirapuera (Deluxe)",
+        "url": "https://open.spotify.com/album/0N5TZp53t8eSWzmeHqr1tA"
+      },
+      "artists": [
+        {
+          "name": "Bruninho & Davi",
+          "url": "https://open.spotify.com/artist/5exy2LREZrJ6aRzj1SwXQX"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "E Essa Boca A\u00ed? - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 183370,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Bruninho & Davi ao Vivo no Ibirapuera (Deluxe)",
-        "url": "https://open.spotify.com/album/0N5TZp53t8eSWzmeHqr1tA"
-      },
-      "artists": [
-        {
-          "name": "Bruninho & Davi",
-          "url": "https://open.spotify.com/artist/5exy2LREZrJ6aRzj1SwXQX"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "E Essa Boca A\u00ed? - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vve9WKW5I7fQzkU8dNsUE"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Devagarinho",
-        "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 137045,
-      "name": "Devagarinho",
-      "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Quem Me Dera",
         "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Devagarinho",
+        "url": "https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 137045,
+      "name": "Devagarinho",
+      "url": "https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Mandella \u00c9 Meu Nome",
+        "url": "https://open.spotify.com/album/27tvmysSzUy1ZmrA69BVgH"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Mandella \u00c9 Meu Nome",
+      "url": "https://open.spotify.com/track/31fg03iImLgS3erGT5urU5"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
         "url": "https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 178960,
       "name": "Um Brinde (feat. Mar\u00edlia Mendon\u00e7a & Maiara & Maraisa)",
       "url": "https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Mandella \u00c9 Meu Nome",
-        "url": "https://open.spotify.com/album/27tvmysSzUy1ZmrA69BVgH"
-      },
-      "artists": [
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Mandella \u00c9 Meu Nome",
-      "url": "https://open.spotify.com/track/31fg03iImLgS3erGT5urU5"
     },
     {
       "added_at": "2023-01-17 01:33:36",

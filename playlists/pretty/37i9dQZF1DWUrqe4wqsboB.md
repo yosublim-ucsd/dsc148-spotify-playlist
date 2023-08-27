@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,785 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,808 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Dime Juan](https://open.spotify.com/track/7fgCxatCNdVd1zmQfzlJ0b) | [Dogos](https://open.spotify.com/artist/2DDsbJ39joV9Jx75Tb2aqc) | [Algo X Dentro](https://open.spotify.com/album/6PcvdxnAeRkgyqriORyrrN) | 3:18 |
 | 50 | [Cuando](https://open.spotify.com/track/7665iaCT1UHxhIR62sE0AJ) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Badtrip](https://open.spotify.com/album/1GRvgM1ftnBQdZCLEBhWop) | 2:29 |
 
-Snapshot ID: `MCw0MGFkYThhNTI1MTZkOGRkYjllOGNkYmJhZDZiNTYzNjhjY2Q4MTJi`
+Snapshot ID: `MCw0NjVhMTQ2NGNlZmRlNTkyZmE2YzhkMDQyMTdhZjY4NWQ1ZmQ1MzQ1`

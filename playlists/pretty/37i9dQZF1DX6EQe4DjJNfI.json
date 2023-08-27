@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Gaab",
-  "num_followers": 162606,
+  "num_followers": 162625,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjJlYzM2ZjNjZjM2ZTMxODM3NGYzYWFiNDFkZDBjNmI0ODQ5NjU0",
+  "snapshot_id": "MCw4NDcwYWE1OWVjNWE2YjdlYjkwNDhjMGQ3Njk4NmVjYzJiYmI3ZWE2",
   "tracks": [
     {
       "added_at": "2023-08-25 03:01:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Gosto de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 170628,
+      "name": "Gosto de Voc\u00ea",
+      "url": "https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "A S\u00f3s",
         "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 164210,
       "name": "A S\u00f3s",
       "url": "https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Gosto de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 170628,
-      "name": "Gosto de Voc\u00ea",
-      "url": "https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        }
+      ],
+      "duration_ms": 184489,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Lingerie Branca",
         "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
       },
@@ -631,18 +647,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
+        "name": "PLAYLIST TRANSANTE 2.0",
+        "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
       },
       "artists": [
         {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         }
       ],
-      "duration_ms": 184489,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+      "duration_ms": 148733,
+      "name": "PLAYLIST TRANSANTE 2.0",
+      "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -671,6 +691,22 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -711,22 +747,6 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
-      },
-      "artists": [
-        {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -799,22 +819,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Reprise",
-        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
-      },
-      "artists": [
-        {
-          "name": "Yuri Fernandes",
-          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
@@ -847,18 +851,18 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
       },
       "artists": [
         {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+          "name": "Yuri Fernandes",
+          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
         }
       ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+      "duration_ms": 215094,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -891,6 +895,22 @@
       "duration_ms": 198712,
       "name": "Tudo Que Restou",
       "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+      },
+      "artists": [
+        {
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -979,6 +999,26 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
@@ -1011,26 +1051,6 @@
       "duration_ms": 156000,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -1195,6 +1215,30 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "ele diz que me ama s2",
+        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        },
+        {
+          "name": "Perimnobeat",
+          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "ele diz que me ama s2",
+      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Ventilador",
         "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
@@ -1287,6 +1331,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Ponto de Equil\u00edbrio",
         "url": "https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH"
       },
@@ -1307,22 +1367,6 @@
       "duration_ms": 193014,
       "name": "Ponto de Equil\u00edbrio",
       "url": "https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -1435,50 +1479,6 @@
       "duration_ms": 225920,
       "name": "Corro Atr\u00e1s",
       "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "PLAYLIST TRANSANTE 2.0",
-        "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
-      },
-      "artists": [
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "PLAYLIST TRANSANTE 2.0",
-      "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "ele diz que me ama s2",
-        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Bi\u00e9",
-          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
-        },
-        {
-          "name": "Perimnobeat",
-          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "ele diz que me ama s2",
-      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
     },
     {
       "added_at": "2023-08-25 03:01:00",

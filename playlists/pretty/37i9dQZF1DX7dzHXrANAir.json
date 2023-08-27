@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 99091,
+  "num_followers": 99143,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzYxYmI4Zjg0ZjFkYzAwZGUzMzM0MDZlOTkxMTcwYTdkZGMyZjY3",
+  "snapshot_id": "MCxmZTU0OTgyZDNmYjljY2M5N2ZlOGI3MGY1MzYxMGZmZTliZjUwMTJh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Boat",
-        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 425600,
-      "name": "The Boat",
-      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "A Lifetime Rolls By (annasara Rework)",
         "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 160089,
       "name": "The Turning Year",
       "url": "https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 425600,
+      "name": "The Boat",
+      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -759,22 +759,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Post-Svalbard",
-        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Robert Lippok",
-          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
         }
       ],
-      "duration_ms": 270874,
-      "name": "Season Shifting - Robert Lippok Rework",
-      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -811,18 +807,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
+        "name": "Post-Svalbard",
+        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
       },
       "artists": [
         {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Robert Lippok",
+          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
         }
       ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
+      "duration_ms": 270874,
+      "name": "Season Shifting - Robert Lippok Rework",
+      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Spirit Loop",
-        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Spirit Loop",
-      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "A Light Without Flame",
         "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 203994,
       "name": "A Light Without Flame",
       "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Spirit Loop",
+        "url": "https://open.spotify.com/album/2eoyC2svpQvhA5xqpQ5S5t"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Spirit Loop",
+      "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Recaptures",
         "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 210600,
       "name": "Minquiers",
       "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 237827,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "We All Have Places That We Miss",
         "url": "https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 310000,
       "name": "Remembered Words",
       "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 237827,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Gleam (Stilhed Rework)",
-        "url": "https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB"
+        "name": "k o : d a",
+        "url": "https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2"
       },
       "artists": [
         {
-          "name": "Infralyd",
-          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
-        },
-        {
-          "name": "Stilhed",
-          "url": "https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 241663,
-      "name": "Gleam - Stilhed Rework",
-      "url": "https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu"
+      "duration_ms": 238000,
+      "name": "Klass (MISSUXO Film Edit)",
+      "url": "https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS"
     },
     {
       "added_at": "2023-08-18 04:01:00",

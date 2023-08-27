@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,661 likes - 286 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,680 likes - 286 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,7 +204,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 194 | [Along The Way](https://open.spotify.com/track/0Q1y8Inh5CnoSENHEeNuLC) | [Yasmin Gough](https://open.spotify.com/artist/5uJl5aq7yzkO3yOE1CMCRW) | [Along The Way](https://open.spotify.com/album/3DiwKGIPP84FTOqZmZ9SmM) | 3:18 |
 | 195 | [Lake Huron](https://open.spotify.com/track/2ozO03f0aVld5piFvRTN9i) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Austafjord / Lake Huron](https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa) | 3:15 |
 | 196 | [We Owe It To Them](https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs) | [Ensemble Cordes De La Mer](https://open.spotify.com/artist/7wSfSAUscNKOm4b1PloAXx) | [We Owe It To Them](https://open.spotify.com/album/2UbINpmfWK3ZiVBkbSyPdQ) | 2:54 |
-| 197 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Sureborn](https://open.spotify.com/artist/6pEkJOAdhn8zjYFNH7uZ8g) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 |
+| 197 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 |
 | 198 | [Armonikos](https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ) | [Armonikos](https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R) | [Armonikos](https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz) | 2:35 |
 | 199 | [Feather](https://open.spotify.com/track/2AQtxqUEmqd5mVUFD2UC61) | [Art Decorum](https://open.spotify.com/artist/2VDTrLjZH9fCcf0lhHY3jb) | [Feather](https://open.spotify.com/album/4da6ESxj0O2SlJGLewnxmS) | 3:05 |
 | 200 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 285 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 |
 | 286 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 |
 
-Snapshot ID: `MCxkNzMxZmQwNzkzMjhhZjdlY2ZkZDMzMWU0NzJmMmE0NGIxYWRhOTEx`
+Snapshot ID: `MCxhYWM1NWNkZmNiNTBiOGZkM2RlNDRkNWQyZDJkODFkNGNhMDE4NGFj`

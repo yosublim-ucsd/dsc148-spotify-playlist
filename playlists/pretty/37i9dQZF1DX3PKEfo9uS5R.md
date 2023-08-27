@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,940 likes - 86 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,985 likes - 86 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 31 | [Biting](https://open.spotify.com/track/3VR8hpmEvOMxW3nM4TNoBM) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Biting](https://open.spotify.com/album/3wo2lUtYASfyHEQbYxEosQ) | 2:46 |
 | 32 | [Sound Vision](https://open.spotify.com/track/1NCPJfFrGhbfsJJGaM8h1t) | [No Contaban](https://open.spotify.com/artist/1YR4LnGUaLSh5PwvlM56Cx) | [Sound Vision](https://open.spotify.com/album/58kV4zk6GEV8NCmlfiLr57) | 4:08 |
 | 33 | [Sputnik](https://open.spotify.com/track/6omVgaiW9qCv4vhUIuJiXO) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Sputnik](https://open.spotify.com/album/2XjgPhcQIIWCGsDMPhJp9c) | 3:38 |
-| 34 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 |
+| 34 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 |
 | 35 | [Lunar Soil](https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE) | [Basaux](https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s) | [Lunar Soil](https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv) | 2:40 |
 | 36 | [Feelin' Good](https://open.spotify.com/track/0wuL0yacecXr7gpFu6OZOV) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Feelin' Good](https://open.spotify.com/album/29pO1732siF8fnDt53XRQb) | 2:43 |
 | 37 | [Torn](https://open.spotify.com/track/3XhyzrslQ0Nrm6RXegl520) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Torn](https://open.spotify.com/album/11GzkHPryPuxFEYlvIGW1k) | 2:24 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 85 | [Higher Fun](https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP) | [Turqousie Day](https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG) | [Higher Fun](https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl) | 3:39 |
 | 86 | [Love in the Air](https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON) | [Gold Glo](https://open.spotify.com/artist/5OOBTy3uO1KvzwexXmMhVz) | [Love in the Air](https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst) | 2:38 |
 
-Snapshot ID: `MCxjMzIzMjE4ZDBmZjE1MDI4ZWVjYjc1NGZmNTI0ODY2MzY2ZmY3MmVh`
+Snapshot ID: `MCwxOWNlMTI5NDkyNTFiMDJmNmY4ZTIwNzVjN2NhMTA4NjBkMzRhYjNi`

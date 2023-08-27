@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-317 songs - 18 hr 7 min
+318 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bad Man \- Kordhell Remix](https://open.spotify.com/track/3iebfHmYMs8dUcAC5qSQ8Y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Bad Man \(Kordhell Remix\)](https://open.spotify.com/album/5Wba2K5Jx1RopwbFp07GRE) | 2:33 | 2023-02-24 | 2023-08-19 |
 | [Baptize \- Sullivan King Remix](https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj) | 4:10 | 2023-04-28 |  |
 | [Baptize \- Sullivan King Remix](https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/170AbiVPb4OIprabzweN14) | 4:10 | 2022-06-10 | 2023-05-07 |
+| [Bass To The Dome](https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Bass To The Dome](https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0) | 3:23 | 2023-08-25 |  |
 | [Battle Sirens \(feat\. Knife Party\)](https://open.spotify.com/track/6PeXzqP7E9g3H0aMbBhB9L) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [The Atlas Underground](https://open.spotify.com/album/1oNUnZUmjJNjuWoGmY4caC) | 4:03 | 2022-01-07 | 2022-04-21 |
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-10 | 2023-03-28 |
 | [Be Your Dog \(feat\. Madge\)](https://open.spotify.com/track/4COs5XQrjymtUma8944kxo) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Be Your Dog](https://open.spotify.com/album/0lpxoa9MIyhRhGC6IUifie) | 3:10 | 2021-12-10 | 2022-06-20 |
@@ -192,7 +193,7 @@
 | [Martyr](https://open.spotify.com/track/3cNhxhJQz1QF1aSqqj9ix5) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 2:37 | 2021-12-10 | 2022-07-29 |
 | [Medulla \- Barren Gates Remix](https://open.spotify.com/track/2MlzZqpjkGNCigtGOaj8oT) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt), [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Medulla \(Barren Gates Remix\)](https://open.spotify.com/album/0XF4M7GOmdrOouV87cKcLd) | 4:08 | 2021-12-10 | 2022-07-29 |
 | [Modern Guy \- grandson remix](https://open.spotify.com/track/06N9EtG8FGff0RBaQuyiV4) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Modern Guy \(grandson remix\)](https://open.spotify.com/album/2jSPvTo1wN8DKMIKZS6fzT) | 2:18 | 2021-12-10 | 2022-06-25 |
-| [Money Makes The World Go Round](https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC) | [JAXSON GAMBLE](https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI), [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [Money Makes The World Go Round](https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw) | 2:42 | 2023-03-03 |  |
+| [Money Makes The World Go Round](https://open.spotify.com/track/13Y9yaZJ1kM9nQ7kKgCiwC) | [JAXSON GAMBLE](https://open.spotify.com/artist/4fClmcYOLFAp5rrKUqLHAI), [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [Money Makes The World Go Round](https://open.spotify.com/album/46EIJuzWWUL56issUXlSaw) | 2:42 | 2023-03-03 | 2023-08-27 |
 | [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 | 2023-01-16 |
 | [My Head](https://open.spotify.com/track/4cvQl9lwZV9RkekUBdoYsY) | [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC), [Listing](https://open.spotify.com/artist/2KFVbDcO6wEgFaecVXDMhw) | [Bloom](https://open.spotify.com/album/2sy97HeTkGB4xLK4ATxuqV) | 4:30 | 2021-12-10 | 2022-01-27 |
 | [My Name Is Thunder](https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [The Great Electronic Swindle](https://open.spotify.com/album/20huTj57KXvDNglsTbvoDi) | 2:47 | 2021-12-10 |  |

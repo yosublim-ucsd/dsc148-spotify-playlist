@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Jere Klein & Nicki Nicole.",
-  "num_followers": 1852655,
+  "num_followers": 1853179,
   "original_name": "\u00c9xitos Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWM3N2Q3MzQyMzIzZjViM2NkZjdiMThiNWZiZDI3MzJkOWY4YWFh",
+  "snapshot_id": "MCwxYmRjZmUxNjk1NTA5ZDYyNGIwZjAwYmNjNTQ5NTRhZDdjMjA4ZDMw",
   "tracks": [
     {
       "added_at": "2023-08-24 15:42:10",
@@ -650,6 +650,10 @@
         {
           "name": "Gino Mella",
           "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/24gSkXV5aSI1WbcZh2XtT5"
         }
       ],
       "duration_ms": 164724,

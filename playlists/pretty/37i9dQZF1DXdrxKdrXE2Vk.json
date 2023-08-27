@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e\">Pat Barrett</a> ",
-  "num_followers": 882062,
+  "num_followers": 882109,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTQ1ZTIzOGM0Nzk2MDY1OGEwN2JjMWQ4ZGU3Yzk1MGZjMzJiNjBh",
+  "snapshot_id": "MCw1MzcxZTczMjI1YmM4MTZiNzFiMGRkNWNiZjI0NjBhYWVkZTk3NjRl",
   "tracks": [
     {
       "added_at": "2023-08-11 11:00:34",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Church (Live)",
+        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 362500,
+      "name": "Manasseh - Live",
+      "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "The Land I'm Livin' In (Live)",
         "url": "https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 288706,
       "name": "In the Room (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Church (Live)",
-        "url": "https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 362500,
-      "name": "Manasseh - Live",
-      "url": "https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 325053,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/103FnJqSB4INEN6kKntVtQ"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Praise Opens Prison Doors (Live)",
         "url": "https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 323051,
       "name": "Praise Opens Prison Doors - Live",
       "url": "https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 325053,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/103FnJqSB4INEN6kKntVtQ"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Finished Work of Christ",
+        "url": "https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "duration_ms": 258161,
+      "name": "Finished Work of Christ",
+      "url": "https://open.spotify.com/track/4dWde71yEtDlp61gLz3IUl"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Faith in Our Time (Deluxe LP)",
         "url": "https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh"
       },
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Finished Work of Christ",
-        "url": "https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 258161,
-      "name": "Finished Work of Christ",
-      "url": "https://open.spotify.com/track/4dWde71yEtDlp61gLz3IUl"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "The Praise Is Yours (Live)",
         "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
       },
@@ -1647,6 +1647,22 @@
       "duration_ms": 336008,
       "name": "The Praise Is Yours - Live",
       "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Steady Light (Live from LO Conference)",
+        "url": "https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "duration_ms": 239922,
+      "name": "Steady Light - Live",
+      "url": "https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1667,22 +1683,6 @@
       "duration_ms": 355278,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Steady Light (Live from LO Conference)",
-        "url": "https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv"
-      },
-      "artists": [
-        {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
-        }
-      ],
-      "duration_ms": 239922,
-      "name": "Steady Light - Live",
-      "url": "https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
+      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Thin Place (Live)",
         "url": "https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 376541,
       "name": "Thin Place - Live",
       "url": "https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
-      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1947,22 +1947,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
+        "name": "Take Me to the River (I Will Swim) [Live]",
+        "url": "https://open.spotify.com/album/7zl8PxnU19yAmbYuy5FvYr"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Alex Yurkiv",
+          "url": "https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Thelma Costolo",
+          "url": "https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E"
         }
       ],
-      "duration_ms": 335849,
-      "name": "Lamb of God - Live",
-      "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
+      "duration_ms": 264000,
+      "name": "Take Me to the River (I Will Swim) - Live",
+      "url": "https://open.spotify.com/track/1HvOPVcjiikDVfNzHyYgsh"
     }
   ],
   "unique_name": "Best of Live Worship",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,496 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,531 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 73 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
 | 74 | [Calling Your Name](https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Calling Your Name](https://open.spotify.com/album/3vsWNz4RAuJ1eBXdjEosd6) | 1:56 |
 | 75 | [Get Enough](https://open.spotify.com/track/2QGVj6Gukz71eqk8UivKbO) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Get Enough](https://open.spotify.com/album/0yBDwRaxVDcpoNtxDJogOm) | 3:23 |
-| 76 | [Superglue](https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:10 |
+| 76 | [Superglue](https://open.spotify.com/track/1WvyvGWoB0IprROWOnj711) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Superglue \(Vevo DSCVR\)](https://open.spotify.com/album/6ysCt6q2kORt5JMdPOonD1) | 4:10 |
 | 77 | [No Reason](https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [No Reason](https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3) | 2:39 |
 | 78 | [Ace Up My Sleeve](https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Ben Schneider](https://open.spotify.com/artist/501ebBxChWPmTwFhmZzOLh) | [Ace Up My Sleeve](https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW) | 3:50 |
 | 79 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 124 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 |
 | 125 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCxiMDhjMjI4N2YwYmRiZDQ1Nzk4ODM0YmY0MGIxYzQwN2NlNTQxZTkz`
+Snapshot ID: `MCw2OGU0ZmRmYzQyM2M3ZTI2NDM2ODM5NjcyYTcxYTJhMTJkMGQyMjk4`

@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Noel Gallagher",
-  "num_followers": 409107,
+  "num_followers": 409280,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDcwOThhMzZjYTJiYTc0MGQxNWVlZWQ2MTUzOTE0ZWRhYmNkYTNl",
+  "snapshot_id": "MCxhYWI3N2Y2NTRjODE3YjUzN2QxMjY2NDczMmY0NDQyNTgyODc2OGZj",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 316493,
-      "name": "The Emperor's New Clothes",
-      "url": "https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
         "name": "The Head on the Door (Deluxed Edition)",
         "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 177986,
       "name": "In Between Days - 2006 Remaster",
       "url": "https://open.spotify.com/track/07CyrZF9eVd02zzIse7tZA"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "The Emperor's New Clothes",
+      "url": "https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9"
     }
   ],
   "unique_name": "Legends Only",

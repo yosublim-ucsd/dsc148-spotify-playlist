@@ -4,7 +4,7 @@
 
 > HIPHOP 50!
 
-1,180 songs - 2 day 4 hr 11 min
+1,181 songs - 2 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [Ma Belle](https://open.spotify.com/track/1FPGuD3usIOivj1V2j4OMc) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Ma Belle](https://open.spotify.com/album/4ayd4KItCscPToowrTR3yY) | 3:34 | 2023-03-09 | 2023-06-02 |
 | [MA BELLE](https://open.spotify.com/track/37ahOLMeucbxuofi7UFVxM) | [pJAY](https://open.spotify.com/artist/3q2wHS0NiGLdN4HyPTTBTU) | [MA BELLE](https://open.spotify.com/album/0Gj0f2MmA5dDw8pAhJNwNg) | 2:00 | 2023-04-06 | 2023-04-15 |
 | [Ma chérie](https://open.spotify.com/track/1ILnuJSm8ScyNAlaWdn8fx) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Ma chérie](https://open.spotify.com/album/1ImQaimhAPnEMnvpetjoFm) | 2:55 | 2023-02-16 | 2023-04-21 |
+| [MA TINSÄNI](https://open.spotify.com/track/7b9DNLoGVzpxv1yRugBPWg) | [Jazlin](https://open.spotify.com/artist/2PXGoeN12YqSbK0fCpSPPl) | [MA TINSÄNI](https://open.spotify.com/album/59qPPpQLTU8kCP1cqDQbcI) | 2:12 | 2023-08-26 |  |
 | [MAGAZINE](https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [MAGAZINE](https://open.spotify.com/album/6BRicQSOjuznb15diXZ2wD) | 2:37 | 2022-09-08 | 2022-11-04 |
 | [Magic](https://open.spotify.com/track/3irxSh2ZXZCje8VrlizdBo) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Magic](https://open.spotify.com/album/2Q0PRojnW0cbNXH5GixiFW) | 2:14 | 2023-06-17 | 2023-07-21 |
 | [Makine](https://open.spotify.com/track/2p5aqtJ05qtjlnEflc12h9) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS), [Dilly D](https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ) | [Makine](https://open.spotify.com/album/0rtIGqQNC1ctaZfLPkXoUk) | 2:10 | 2023-05-18 | 2023-06-16 |

@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 4659,
+  "num_followers": 4710,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mjc2ZTU2ZWU1MGY1YTEzYzE5N2I5ZDlhNmQ0YjRlMzJjOTg3MTUy",
+  "snapshot_id": "MCxkNTQwYzYzNzA5NTk5NmZjZWU5Y2IyODMyYjEyNjRjMGE3MjExNGFk",
   "tracks": [
     {
       "added_at": "2023-07-14 15:17:20",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "Mirla",
-        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
-      },
-      "artists": [
-        {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Mirla",
-      "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
         "name": "Hotel Lounge in Havana",
         "url": "https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 115016,
       "name": "Hotel Lounge in Havana",
       "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
+        "name": "Mirla",
+        "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
+      },
+      "artists": [
+        {
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Mirla",
+      "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
-      },
-      "artists": [
-        {
-          "name": "Chancla",
-          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
-        }
-      ],
-      "duration_ms": 135017,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
         "name": "Aubade",
         "url": "https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 171870,
       "name": "Aubade",
       "url": "https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
+      },
+      "artists": [
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "duration_ms": 135017,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -395,6 +395,26 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
+        "name": "Barrio",
+        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
+      },
+      "artists": [
+        {
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 125861,
+      "name": "Barrio",
+      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
         "name": "Aves del Sur",
         "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 108203,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
-        "name": "Barrio",
-        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
-      },
-      "artists": [
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 125861,
-      "name": "Barrio",
-      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+        "name": "Cumbiero",
+        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
       },
       "artists": [
         {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Mindr",
-          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
         }
       ],
-      "duration_ms": 127586,
-      "name": "Viento de Arrabal",
-      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
+      "duration_ms": 99000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -571,18 +567,22 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "Cumbiero",
-        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Mindr",
+          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
         }
       ],
-      "duration_ms": 99000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
+      "duration_ms": 127586,
+      "name": "Viento de Arrabal",
+      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "\u00d3leo sobre tela",
-        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
         "name": "En el Tianguis Lo-Fi",
         "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 319062,
       "name": "En el Tianguis Lo-Fi",
       "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
+        "name": "\u00d3leo sobre tela",
+        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
         "name": "Harissa",
         "url": "https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 136000,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2023-07-14 15:17:20",

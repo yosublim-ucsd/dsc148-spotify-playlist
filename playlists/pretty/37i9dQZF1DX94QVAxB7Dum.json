@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 701359,
+  "num_followers": 701579,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTIzNWM4YzJlZWJjZGUyYTczODMzNzU5ZTM5NTNiOTQwM2MwN2M3",
+  "snapshot_id": "MCw5ZmY1Njc3ZTliMWViZmNjM2JlYWJjNTMxOTNlMzVhYzU0Y2E2ZGM4",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -863,6 +863,22 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
+        "name": "(If Loving You Is Wrong) I Don't Want to Be Right",
+        "url": "https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD"
+      },
+      "artists": [
+        {
+          "name": "Luther Ingram",
+          "url": "https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "(If Loving You Is Wrong) I Don't Want to Be Right",
+      "url": "https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
         "name": "King & Queen",
         "url": "https://open.spotify.com/album/0BMj7v9E7i5YzKsZ7HJ9YX"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 181253,
       "name": "Tramp",
       "url": "https://open.spotify.com/track/2gFfG8Ick2LGOzFHiWOV22"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
-        "name": "(If Loving You Is Wrong) I Don't Want to Be Right",
-        "url": "https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD"
-      },
-      "artists": [
-        {
-          "name": "Luther Ingram",
-          "url": "https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "(If Loving You Is Wrong) I Don't Want to Be Right",
-      "url": "https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI"
     },
     {
       "added_at": "2021-04-29 10:16:48",

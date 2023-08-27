@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,804 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,961 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 26 | [Out of Hiding \(Father's Song\)](https://open.spotify.com/track/5E0PVkm5wM9hV6zEUwpZb6) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Undoing](https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA) | 4:28 |
 | 27 | [Be Thou My Vision](https://open.spotify.com/track/2s1a8wNeH6IiOSowWj9veS) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 3:33 |
 | 28 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
-| 29 | [The Old Rugged Cross](https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Precious Memories](https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe) | 3:06 |
-| 30 | [Nothing I Hold on to \(Live\)](https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Live at the Banks House](https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7) | 6:16 |
+| 29 | [Nothing I Hold on to \(Live\)](https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Live at the Banks House](https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7) | 6:16 |
+| 30 | [The Old Rugged Cross](https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Precious Memories](https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe) | 3:06 |
 | 31 | [Because He Lives \(Amen\)](https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:19 |
 | 32 | [How He Loves Us](https://open.spotify.com/track/2dyYBCVgOZTCYe6QvYhSsN) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 3](https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ) | 4:50 |
 | 33 | [How Great Thou Art](https://open.spotify.com/track/1SnZi2eVU2kcXRNJT6ek4J) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:54 |
 | 34 | [Tremble](https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Tremble](https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz) | 3:58 |
 | 35 | [Oh, the Deep, Deep Love of Jesus \(feat\. Fernando Ortega\)](https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw), [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [Inheritance](https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH) | 2:37 |
 | 36 | [Called Me Higher](https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [The Longing EP No\. 3](https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I) | 5:55 |
-| 37 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
-| 38 | [Nothing Without You](https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:42 |
+| 37 | [Nothing Without You](https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:42 |
+| 38 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
 | 39 | [Nothing but the Blood of Jesus](https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Yours Alone](https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI) | 3:27 |
 | 40 | [Heart of Worship](https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 9](https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1) | 5:06 |
 | 41 | [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Be Still My Soul](https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deeper](https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v) | 4:42 |
 | 100 | [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 |
 
-Snapshot ID: `MCwxYjFhMGUxMjJjNTYwZTk5OWYzOWY1ZTBhNTc0MDEwYjQ2NzYyYmMx`
+Snapshot ID: `MCw1YzgyM2NjYWU5ZThkM2M1OTExY2NkMDNkOTIyZDExYjE5ZGVkNDFj`

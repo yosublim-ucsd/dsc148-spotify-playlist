@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 
 > Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,392 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,423 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 10 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
 | 11 | [Taxi Driver](https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME) | [Small Island Pride](https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL) | [Calypso Awakening from the Emory Cook Collection](https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj) | 3:28 |
 | 12 | [Calypsonian Invasion](https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY) | [The Duke Of Iron](https://open.spotify.com/artist/24SUuBMfJRRKPZxkTJ8p81) | [Calypso Carnival \(Remastered\)](https://open.spotify.com/album/3rW38tUEFXgE1YKVkRlZFh) | 3:00 |
-| 13 | [Don't Touch Me Tomato](https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq) | [Calypso Mama](https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:14 |
-| 14 | [The Weed \(Man Pyabba\)](https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y) | [Count Lasher](https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Baba Brooks Band](https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ) | [Independence Jump Up Calypso](https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE) | 2:59 |
+| 13 | [The Weed \(Man Pyabba\)](https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y) | [Count Lasher](https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl), [Lynn Taitt](https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy), [The Baba Brooks Band](https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ) | [Independence Jump Up Calypso](https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE) | 2:59 |
+| 14 | [Don't Touch Me Tomato](https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq) | [Calypso Mama](https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 2:14 |
 | 15 | [Mathilda](https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX) | [King Radio](https://open.spotify.com/artist/0ju2V8V3UTfxrNCEVPPnnc) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:41 |
 | 16 | [Brown Skin Girl](https://open.spotify.com/track/5IM2g33UlqKoLjjvgnP0Rp) | [Lord Invader](https://open.spotify.com/artist/1S1XUYadNLS2gkRKSxG1vl) | [Calypso](https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l) | 2:51 |
 | 17 | [Man Smart, Woman Smarter](https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg) | [King Radio](https://open.spotify.com/artist/68qRklewuFhi50agtf76un) | [Man Smart, Woman Smarter](https://open.spotify.com/album/10B1IiL3qBkWUtby6bkEwa) | 3:03 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 25 | [One Morning](https://open.spotify.com/track/1LLinCUuJICYx4ozbzdo0X) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:56 |
 | 26 | [Meshuggener](https://open.spotify.com/track/48oVuKnl8R6gH5CEjB5qVN) | [John L\. Nichols](https://open.spotify.com/artist/4v5ivzSlS5RaolIHZlKnXc) | [Muriel's Treasure, Vol\. 3: Vintage Calypso from the 1950s & 1960s](https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX) | 3:25 |
 | 27 | [Move Yuh Foot](https://open.spotify.com/track/5q2F1S4m2b85HpJOOl2KDQ) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 6:43 |
-| 28 | [In the Dew and the Rain](https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:58 |
-| 29 | [Treasury Scandal](https://open.spotify.com/track/7sgAXJK49YOj3LjsSs5I4L) | [Attila the Hun](https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG) | [Treasury Scandal](https://open.spotify.com/album/1XG5O3FvLIRwSS91hF4SBN) | 3:13 |
+| 28 | [Treasury Scandal](https://open.spotify.com/track/7sgAXJK49YOj3LjsSs5I4L) | [Attila the Hun](https://open.spotify.com/artist/3CK4SLHGVhasR86lTSHYnG) | [Treasury Scandal](https://open.spotify.com/album/1XG5O3FvLIRwSS91hF4SBN) | 3:13 |
+| 29 | [An Excursion to Grenada](https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [The Roots of Trinidad Calypso / Recordings 1927 \- 1931](https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84) | 3:07 |
 | 30 | [Mr\. Nankivell's Speech](https://open.spotify.com/track/6J1rPbuBjBaJdg53tjyhpG) | [Atilla the Hun](https://open.spotify.com/artist/3XgijVGUbtWr7rTQxd2uEh) | [Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s](https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2) | 2:57 |
 | 31 | [My Reply to Houdini](https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL) | [The Executor](https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 3:05 |
 | 32 | [Adeline](https://open.spotify.com/track/200yEpjz40jHmTKAKnhHHJ) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:26 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QlnUtJCO12.md) - [plain]
 | 34 | [Illegitimate Children](https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87) | [The Great Honourable Lord Pretender](https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD) | [The Man Who Never Ever Worried](https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp) | 5:17 |
 | 35 | [Madame Khan](https://open.spotify.com/track/2wqPVJyOERhglMyV9TdMie) | [The Caresser](https://open.spotify.com/artist/24zY3nNJ7wJ560pBrq35lY) | [Calypso Carnival \(1914 \- 1940\)](https://open.spotify.com/album/1JVKJeE0ejC7lz0pnAnijm) | 2:54 |
 | 36 | [Atomic Energy](https://open.spotify.com/track/7oyKc3RgnMaSRgwNTLCDgE) | [Sir Lancelot](https://open.spotify.com/artist/35r4QU4IraKEsU0U0df0G6) | [Power To The People \- Protest Songs](https://open.spotify.com/album/00hTfZK8Ul7xuSA87iB4Lw) | 2:44 |
-| 37 | [An Excursion to Grenada](https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [The Roots of Trinidad Calypso / Recordings 1927 \- 1931](https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84) | 3:07 |
+| 37 | [In the Dew and the Rain](https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [Calypsonians \(1930 \- 1960\), Vol.1](https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo) | 2:58 |
 | 38 | [Brownskin Girl](https://open.spotify.com/track/1iCy1zwGLhsLb1dlVVyH5Y) | [The Mighty Terror](https://open.spotify.com/artist/3uTJIiOFsfmjdah5XVHeQO) | [The Calypso Kings](https://open.spotify.com/album/0dHGTVg7YgvYnEbT5ipC51) | 2:35 |
 | 39 | [Woman Is Not The Weaker Sex](https://open.spotify.com/track/2OfEqAYJZalVNH69IBVkYi) | [Atilla](https://open.spotify.com/artist/3RsBkhmkDKitjXca4qArAz) | [Calypso \- Best of Trinidad](https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb) | 2:55 |
 | 40 | [Blow Wind Blow](https://open.spotify.com/track/42FHEJKS0K5eEbY5hQLaAj) | [Lionel Belasco](https://open.spotify.com/artist/4cPFaFsaRAuAdh5qhZHCXf) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 3:07 |
 
-Snapshot ID: `MCw3NDAwYzUyOTE3MjI0NDdhZDY1MDg2MTVmNmVkZTZmMjBmYzU5YWZl`
+Snapshot ID: `MCw3MzUxYzRiMmRiNzZkYTlmYjVjZGE5NTYzYmQyMzJkYmIxMjcxMWZl`

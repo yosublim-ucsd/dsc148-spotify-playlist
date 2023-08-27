@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Trap de todos los tiempos! \ud83d\udc10 Cover: Noriel",
-  "num_followers": 716,
+  "num_followers": 758,
   "original_name": "Latin Trap GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWVlOWIzZGM3ZGFhYzU1OTZlMzAwOTA4OWYyZTJjOTNlMjc4OWU0",
+  "snapshot_id": "MCxhMGE1NWVlNzVhYmY4MDJiOTIyNTU4ZGRmNzViMGMzNmNhNmY2OTNl",
   "tracks": [
     {
       "added_at": "2023-08-02 22:03:02",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-08-02 22:03:02",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
-    },
-    {
-      "added_at": "2023-08-02 22:03:02",
-      "album": {
         "name": "Trap Capos: Season 1",
         "url": "https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 213613,
       "name": "Diablita (feat. Anuel AA & Baby Rasta)",
       "url": "https://open.spotify.com/track/62NeZ2Vtrz5HgtQibleMNs"
+    },
+    {
+      "added_at": "2023-08-02 22:03:02",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
     },
     {
       "added_at": "2023-08-02 22:03:02",

@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. Master Peace",
-  "num_followers": 104785,
+  "num_followers": 104913,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWM2OGRhODc5NzM5OTIxN2Q5MTA1YzgyMDk5ZjcwMzg2YjQ2NTc0",
+  "snapshot_id": "MCxjM2Q5ZDIwMGUyMWMyMjFmNDRkZDViOWNjNmQwNWM4MzM0MWEzNTgx",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Fever To Tell (Deluxe Remastered)",
         "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "A Certain Trigger",
-        "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
       "artists": [
         {
-          "name": "Maximo Park",
-          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 200346,
-      "name": "Apply Some Pressure",
-      "url": "https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip"
+      "duration_ms": 240760,
+      "name": "Y Control",
+      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+        "name": "A Certain Trigger",
+        "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
         }
       ],
-      "duration_ms": 240760,
-      "name": "Y Control",
-      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
+      "duration_ms": 200346,
+      "name": "Apply Some Pressure",
+      "url": "https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip"
     },
     {
       "added_at": "2023-08-18 04:00:00",

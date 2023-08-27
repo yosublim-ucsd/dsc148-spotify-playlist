@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 30968,
+  "num_followers": 31093,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjJhNTRjOWM0NGI3MzVlYjc0NzgxMDVmOThiY2JkMTk2Nzc4MjM2",
+  "snapshot_id": "MCw3OWZmMzZhOTQ2YjZhYWIyNDNjYzFjYjg1NjE5YTllOWVlYTU3YjVh",
   "tracks": [
     {
       "added_at": "2023-08-25 13:49:58",
@@ -475,22 +475,18 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
-        "name": "Motherland Journey",
-        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
+        "name": "Cruize",
+        "url": "https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr"
       },
       "artists": [
         {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        },
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+          "name": "Neo.",
+          "url": "https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9"
         }
       ],
-      "duration_ms": 286184,
-      "name": "Dat It",
-      "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
+      "duration_ms": 160200,
+      "name": "Cruize",
+      "url": "https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4"
     },
     {
       "added_at": "2023-08-25 13:49:58",
@@ -515,18 +511,22 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
-        "name": "Cruize",
-        "url": "https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr"
+        "name": "Motherland Journey",
+        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
       },
       "artists": [
         {
-          "name": "Neo.",
-          "url": "https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9"
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
         }
       ],
-      "duration_ms": 160200,
-      "name": "Cruize",
-      "url": "https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4"
+      "duration_ms": 286184,
+      "name": "Dat It",
+      "url": "https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX"
     },
     {
       "added_at": "2023-08-25 13:49:58",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
-        "name": "Floatin'",
-        "url": "https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j"
-      },
-      "artists": [
-        {
-          "name": "Charlie Calz Beats",
-          "url": "https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp"
-        }
-      ],
-      "duration_ms": 112985,
-      "name": "Floatin'",
-      "url": "https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB"
-    },
-    {
-      "added_at": "2023-08-25 13:49:58",
-      "album": {
         "name": "Motions",
         "url": "https://open.spotify.com/album/4kI3cs7XkyzACcl9suYQ6s"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 269988,
       "name": "The Elephant in the Room",
       "url": "https://open.spotify.com/track/4kG68VmZZJcRqCR5r2tg0Z"
+    },
+    {
+      "added_at": "2023-08-25 13:49:58",
+      "album": {
+        "name": "Floatin'",
+        "url": "https://open.spotify.com/album/7shx8fYQh8g5BbUcFI5O8j"
+      },
+      "artists": [
+        {
+          "name": "Charlie Calz Beats",
+          "url": "https://open.spotify.com/artist/7uyKtDpxSERB6cuUM0aIIp"
+        }
+      ],
+      "duration_ms": 112985,
+      "name": "Floatin'",
+      "url": "https://open.spotify.com/track/7JPmC8sAcMDf6io63mPmIB"
     },
     {
       "added_at": "2023-08-25 13:49:58",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
-        "name": "Le club",
-        "url": "https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz"
-      },
-      "artists": [
-        {
-          "name": "The Offline",
-          "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Le club",
-      "url": "https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS"
-    },
-    {
-      "added_at": "2023-08-25 13:49:58",
-      "album": {
         "name": "folding edges",
         "url": "https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 141882,
       "name": "folding edges",
       "url": "https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4"
+    },
+    {
+      "added_at": "2023-08-25 13:49:58",
+      "album": {
+        "name": "Le club",
+        "url": "https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz"
+      },
+      "artists": [
+        {
+          "name": "The Offline",
+          "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Le club",
+      "url": "https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS"
     },
     {
       "added_at": "2023-08-25 13:49:58",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
-        "name": "Dots and Thoughts",
-        "url": "https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti"
-      },
-      "artists": [
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        },
-        {
-          "name": "Bao",
-          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
-        }
-      ],
-      "duration_ms": 205334,
-      "name": "Diamond Exchange",
-      "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
-    },
-    {
-      "added_at": "2023-08-25 13:49:58",
-      "album": {
         "name": "Come Again",
         "url": "https://open.spotify.com/album/6CoPJwN6vjxLbi7tA0Fmdu"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 203574,
       "name": "Come Again",
       "url": "https://open.spotify.com/track/33b5uoFVzbQDe9vCmJu45J"
+    },
+    {
+      "added_at": "2023-08-25 13:49:58",
+      "album": {
+        "name": "Dots and Thoughts",
+        "url": "https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Bao",
+          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
+        }
+      ],
+      "duration_ms": 205334,
+      "name": "Diamond Exchange",
+      "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
     },
     {
       "added_at": "2023-08-25 13:49:58",
@@ -983,6 +983,38 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
+        "name": "Young Alien",
+        "url": "https://open.spotify.com/album/18SSwv5kDMT2uIk9HbH1XD"
+      },
+      "artists": [
+        {
+          "name": "Bear Garden",
+          "url": "https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2"
+        }
+      ],
+      "duration_ms": 166951,
+      "name": "Young Alien",
+      "url": "https://open.spotify.com/track/6XDUR4yC5W8cBzwxun8ZZj"
+    },
+    {
+      "added_at": "2023-08-25 13:49:58",
+      "album": {
+        "name": "Sun Drops",
+        "url": "https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Sun Drops",
+      "url": "https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt"
+    },
+    {
+      "added_at": "2023-08-25 13:49:58",
+      "album": {
         "name": "Twelve Chapters",
         "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
       },
@@ -1027,38 +1059,6 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
-        "name": "Sun Drops",
-        "url": "https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k"
-      },
-      "artists": [
-        {
-          "name": "Midan",
-          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Sun Drops",
-      "url": "https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt"
-    },
-    {
-      "added_at": "2023-08-25 13:49:58",
-      "album": {
-        "name": "Young Alien",
-        "url": "https://open.spotify.com/album/18SSwv5kDMT2uIk9HbH1XD"
-      },
-      "artists": [
-        {
-          "name": "Bear Garden",
-          "url": "https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2"
-        }
-      ],
-      "duration_ms": 166951,
-      "name": "Young Alien",
-      "url": "https://open.spotify.com/track/6XDUR4yC5W8cBzwxun8ZZj"
-    },
-    {
-      "added_at": "2023-08-25 13:49:58",
-      "album": {
         "name": "Jazzbois Goes Blunt II",
         "url": "https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3"
       },
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
+        "name": "Saturnine",
+        "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 293298,
+      "name": "Saturnine",
+      "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
+    },
+    {
+      "added_at": "2023-08-25 13:49:58",
+      "album": {
         "name": "Twelve Chapters",
         "url": "https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 223475,
       "name": "Dr. Disclosure",
       "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
-    },
-    {
-      "added_at": "2023-08-25 13:49:58",
-      "album": {
-        "name": "Saturnine",
-        "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 293298,
-      "name": "Saturnine",
-      "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
     },
     {
       "added_at": "2023-08-25 13:49:58",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Je Pense A Toi",
-      "url": "https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y"
-    },
-    {
-      "added_at": "2023-08-25 13:49:58",
-      "album": {
         "name": "Kebab Sauce",
         "url": "https://open.spotify.com/album/2ErhKjzJvbAV07mb7VWD54"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 181032,
       "name": "Kebab Sauce",
       "url": "https://open.spotify.com/track/0xfbi9XImWDPx2cmuqzFzZ"
+    },
+    {
+      "added_at": "2023-08-25 13:49:58",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Je Pense A Toi",
+      "url": "https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y"
     },
     {
       "added_at": "2023-08-25 13:49:58",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB"
+        "name": "Saucisses",
+        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
       },
       "artists": [
         {
-          "name": "moondiver",
-          "url": "https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp"
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
         }
       ],
-      "duration_ms": 260153,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM"
+      "duration_ms": 147000,
+      "name": "Saucisses",
+      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
     },
     {
       "added_at": "2023-08-25 13:49:58",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2023-08-25 13:49:58",
       "album": {
-        "name": "Saucisses",
-        "url": "https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0"
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB"
       },
       "artists": [
         {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+          "name": "moondiver",
+          "url": "https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Saucisses",
-      "url": "https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk"
+      "duration_ms": 260153,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM"
     },
     {
       "added_at": "2023-08-25 13:49:58",

@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-263 songs - 14 hr 28 min
+264 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [24k](https://open.spotify.com/track/0lmzmht19LRBtsy8BusjHH) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol.2](https://open.spotify.com/album/7DoQVFuq50UZLWVTVzHGHq) | 3:53 | 2021-11-12 | 2022-05-18 |
 | [3 More Wishes](https://open.spotify.com/track/0K3qrcFbCALwFVfuo1Hzfl) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [3 More Wishes](https://open.spotify.com/album/7zVb0ohAlTKYMXmHTbKcew) | 2:15 | 2022-05-04 | 2023-01-21 |
 | [About It](https://open.spotify.com/track/2QrKsqIRhgGpPRvGP0C5VA) | [colorcase](https://open.spotify.com/artist/4T6xQjsTOtQOa2jHp6yX76), [Your Neighbors](https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP) | [About It](https://open.spotify.com/album/6PLOjp6jntSAelOFXQkUW0) | 4:25 | 2022-07-25 | 2023-01-27 |
-| [Ah Uh Oh](https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Mixtape](https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg) | 1:31 | 2023-08-09 |  |
+| [Ah Uh Oh](https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Mixtape](https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg) | 1:31 | 2023-08-09 | 2023-08-27 |
 | [All Hallows Grieve](https://open.spotify.com/track/4tt0CNzQuMHcdKyF2RCPZY) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [All Hallows Grieve](https://open.spotify.com/album/7Bq7CAwEJ1BxTcMAEvypFm) | 3:51 | 2021-08-05 | 2022-07-29 |
 | [All My Time Is Wasted](https://open.spotify.com/track/22nUVnTCm4FlOpVgaTc9sC) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [All My Time Is Wasted](https://open.spotify.com/album/3RVFlen5Oj1NdRjW1ELxOM) | 3:20 | 2023-08-09 | 2023-08-21 |
+| [Aloha](https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 4:10 | 2023-08-09 |  |
 | [Altopalo](https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 3:06 | 2023-08-09 |  |
 | [Amnesia](https://open.spotify.com/track/5UBCzEjj6I6nQt6nKzbpcw) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Amnesia](https://open.spotify.com/album/6RIvXxoFJ3qgQSJolPobav) | 3:17 | 2021-08-05 | 2022-07-22 |
 | [Andromeda \(feat\. DRAM\) \- Purple Disco Machine Remix](https://open.spotify.com/track/2LczIiNTOfbD4yxohajgjB) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Andromeda \(feat\. D.R.A.M.\) \[Purple Disco Machine Remix\]](https://open.spotify.com/album/106oSRdZYwswMFOAPwROxf) | 6:03 | 2022-07-25 |  |

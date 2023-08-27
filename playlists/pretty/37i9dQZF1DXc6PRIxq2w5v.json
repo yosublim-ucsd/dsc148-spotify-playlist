@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Silas Magalh\u00e3es",
-  "num_followers": 140004,
+  "num_followers": 140216,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmU4YmUyZDdmMzIyNmY4NDdjNTQ4OWZiNzNhMmI1NGZkMjA5Mjg4",
+  "snapshot_id": "MCwxZDUzYTIwNWNkMWFhYTA5MWUyMjk5OGYyMzg4Y2E0YTk0YzVmN2Rj",
   "tracks": [
     {
       "added_at": "2023-08-18 05:43:57",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-08-18 05:43:57",
       "album": {
-        "name": "100 Versos",
-        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "100 Versos",
-      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
-    },
-    {
-      "added_at": "2023-08-18 05:43:57",
-      "album": {
         "name": "Mulher de F\u00e9",
         "url": "https://open.spotify.com/album/0IT2j6KDkwBEQdT9qkXZpi"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 130369,
       "name": "Mulher de F\u00e9",
       "url": "https://open.spotify.com/track/1gTlbwHRrkbZNUsJcxME1i"
+    },
+    {
+      "added_at": "2023-08-18 05:43:57",
+      "album": {
+        "name": "100 Versos",
+        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "100 Versos",
+      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
     },
     {
       "added_at": "2023-08-18 05:43:57",
@@ -627,18 +627,22 @@
     {
       "added_at": "2023-08-18 05:43:57",
       "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+        "name": "Jesus Saves Bro",
+        "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+      "duration_ms": 169016,
+      "name": "Jesus Saves Bro",
+      "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
     },
     {
       "added_at": "2023-08-18 05:43:57",
@@ -659,26 +663,6 @@
       "duration_ms": 244500,
       "name": "Eu Te Amo",
       "url": "https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm"
-    },
-    {
-      "added_at": "2023-08-18 05:43:57",
-      "album": {
-        "name": "Jesus Saves Bro",
-        "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
-      },
-      "artists": [
-        {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 169016,
-      "name": "Jesus Saves Bro",
-      "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
     },
     {
       "added_at": "2023-08-18 05:43:57",
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-08-18 05:43:57",
       "album": {
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+    },
+    {
+      "added_at": "2023-08-18 05:43:57",
+      "album": {
         "name": "Ju\u00edzo Final",
         "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-18 05:43:57",
       "album": {
-        "name": "Voc\u00ea Acredita?",
-        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        }
-      ],
-      "duration_ms": 194623,
-      "name": "Voc\u00ea Acredita?",
-      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
-    },
-    {
-      "added_at": "2023-08-18 05:43:57",
-      "album": {
         "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
         "url": "https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 217731,
       "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
       "url": "https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET"
+    },
+    {
+      "added_at": "2023-08-18 05:43:57",
+      "album": {
+        "name": "Voc\u00ea Acredita?",
+        "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "duration_ms": 194623,
+      "name": "Voc\u00ea Acredita?",
+      "url": "https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb"
     },
     {
       "added_at": "2023-08-18 05:43:57",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-08-18 05:43:57",
       "album": {
-        "name": "Teste",
-        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 192065,
-      "name": "Teste",
-      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
-    },
-    {
-      "added_at": "2023-08-18 05:43:57",
-      "album": {
         "name": "Imersum",
         "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 170788,
       "name": "Imersum",
       "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
+    },
+    {
+      "added_at": "2023-08-18 05:43:57",
+      "album": {
+        "name": "Teste",
+        "url": "https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192065,
+      "name": "Teste",
+      "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
     },
     {
       "added_at": "2023-08-18 05:43:57",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-08-18 05:43:57",
       "album": {
-        "name": "CQC",
-        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 181090,
-      "name": "CQC",
-      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
-    },
-    {
-      "added_at": "2023-08-18 05:43:57",
-      "album": {
         "name": "Nome Sobre Todo Nome",
         "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 133624,
       "name": "Nome Sobre Todo Nome",
       "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+    },
+    {
+      "added_at": "2023-08-18 05:43:57",
+      "album": {
+        "name": "CQC",
+        "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 181090,
+      "name": "CQC",
+      "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
     },
     {
       "added_at": "2023-08-18 05:43:57",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-08-18 05:43:57",
       "album": {
-        "name": "S\u00f3 H\u00e1 Um Caminho",
-        "url": "https://open.spotify.com/album/2eJwM4Rq2mew0WUf7yCGOU"
-      },
-      "artists": [
-        {
-          "name": "Arthur Pompeo",
-          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
-        }
-      ],
-      "duration_ms": 162468,
-      "name": "S\u00f3 H\u00e1 Um Caminho",
-      "url": "https://open.spotify.com/track/3o6wlch2Ok0u8cwuHC1Jyq"
-    },
-    {
-      "added_at": "2023-08-18 05:43:57",
-      "album": {
         "name": "Senhor",
         "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 218342,
       "name": "Senhor",
       "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
+    },
+    {
+      "added_at": "2023-08-18 05:43:57",
+      "album": {
+        "name": "S\u00f3 H\u00e1 Um Caminho",
+        "url": "https://open.spotify.com/album/2eJwM4Rq2mew0WUf7yCGOU"
+      },
+      "artists": [
+        {
+          "name": "Arthur Pompeo",
+          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
+        }
+      ],
+      "duration_ms": 162468,
+      "name": "S\u00f3 H\u00e1 Um Caminho",
+      "url": "https://open.spotify.com/track/3o6wlch2Ok0u8cwuHC1Jyq"
     },
     {
       "added_at": "2023-08-18 05:43:57",

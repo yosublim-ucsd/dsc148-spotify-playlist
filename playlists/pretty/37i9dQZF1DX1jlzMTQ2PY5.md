@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,628 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,729 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 20 | [Sugar](https://open.spotify.com/track/6OPZYgkL3w7R0ndqRiOmUm) | [Zar](https://open.spotify.com/artist/3JQUhdIaezcwwJ6SqRPNY2), [Motiv](https://open.spotify.com/artist/1hpBWbyRpkKGeNF5W3a7vp), [Anya Asia](https://open.spotify.com/artist/3e3CvN6gZzgDSMTmdicIde) | [Sugar](https://open.spotify.com/album/5vbBGdOMXNrtPG3gzjGHD1) | 4:53 |
 | 21 | [Try Again](https://open.spotify.com/track/0SJExjBtsh8tcKE1ZTYDyP) | [Dogger](https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [Try Again](https://open.spotify.com/album/3KjLZmbiLld9UQQB2twWJQ) | 4:58 |
 | 22 | [Freefall](https://open.spotify.com/track/0GAHmF6YJKFd1pgk3fdvGs) | [Dexcell](https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz), [LaMeduza](https://open.spotify.com/artist/03rlubJFN0KCfvjKwt25D9) | [Freefall](https://open.spotify.com/album/5RxmvOXXB6Czd2gXZH0y9N) | 4:50 |
-| 23 | [Tiptoeing \- Tommy Villiers Remix](https://open.spotify.com/track/55FIIN6xVEjOIEheCmdV9K) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Tiptoeing \(Tommy Villiers Remix\)](https://open.spotify.com/album/6aFoBYMo1H4lNQkiCxYz7t) | 3:08 |
+| 23 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
 | 24 | [Diamonds](https://open.spotify.com/track/4Rarf4MYN0YdFhNKuAMfTp) | [Seba](https://open.spotify.com/artist/3ac1UBV3aHTPZ94T0PhfvS), [Samuel Lancine](https://open.spotify.com/artist/2R1Th5MYsqcss3rJXVyJmN), [Björn Berglund](https://open.spotify.com/artist/3TDlbePC2ZlRn1OcCWnnfi) | [Ingaro](https://open.spotify.com/album/5PdipBlyX6oMt1UrjbQi9u) | 4:36 |
-| 25 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
+| 25 | [Tiptoeing \- Tommy Villiers Remix](https://open.spotify.com/track/55FIIN6xVEjOIEheCmdV9K) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Tiptoeing \(Tommy Villiers Remix\)](https://open.spotify.com/album/6aFoBYMo1H4lNQkiCxYz7t) | 3:08 |
 | 26 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
 | 27 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
 | 28 | [Wonderin'](https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD) | [Channell](https://open.spotify.com/artist/0USu267KXIgx4OKwhU9n5D), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS), [Lyds](https://open.spotify.com/artist/1ct2JemDGZm6FdyArw8YcI) | [Wonderin' EP](https://open.spotify.com/album/0nx1BXto7ljFknTEKnBbOR) | 4:39 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 45 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 |
 | 46 | [Closer](https://open.spotify.com/track/6YoCno4k5HHDJmTl7i8MAY) | [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Closer](https://open.spotify.com/album/5YlSfO92YJjjEJWUVMlsUG) | 3:24 |
 | 47 | [Lonely Night \- Zero T's Setting Sun Remix](https://open.spotify.com/track/62xrslsJ8crkaQ8jdm3C35) | [Mango](https://open.spotify.com/artist/3bCIW0Hzkeswmblop0PGHD), [Mathman](https://open.spotify.com/artist/1AWZ73rKG01b9UNJ8dG8m6) | [Lonely Night \(Zero T's Setting Sun Remix\)](https://open.spotify.com/album/4SMiTZjeFG0O7kCO8AyZtQ) | 4:04 |
-| 48 | [Home](https://open.spotify.com/track/0G5zJre3gJbG0Wylq73bn5) | [U.V.P](https://open.spotify.com/artist/4vBjqyZSwW1mee1gXfo9Cv) | [Home](https://open.spotify.com/album/6WR5hH3WM6nADA8e1mkM7P) | 4:22 |
-| 49 | [Would You](https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Gaslight EP](https://open.spotify.com/album/28mx8HZTojPZHHneRMGPCF) | 5:00 |
-| 50 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 |
+| 48 | [Would You](https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Gaslight EP](https://open.spotify.com/album/28mx8HZTojPZHHneRMGPCF) | 5:00 |
+| 49 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 |
+| 50 | [Home](https://open.spotify.com/track/0G5zJre3gJbG0Wylq73bn5) | [U.V.P](https://open.spotify.com/artist/4vBjqyZSwW1mee1gXfo9Cv) | [Home](https://open.spotify.com/album/6WR5hH3WM6nADA8e1mkM7P) | 4:22 |
 
-Snapshot ID: `MCw1ZTk5YzM1NDgzN2VkMDgzMzc1M2NjZTlkNDY3MzRhNDAyOWE3NDg3`
+Snapshot ID: `MCw4NGY0Yzc0MzRmOGE1YmJmODk4OWVmMDJkNDVmYTcxZjYwYmZhNzBh`

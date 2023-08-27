@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 13547,
+  "num_followers": 13559,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmUwNjdmMjJmMjRhMjQ5ZjJmOGE2NmY1NDZkNDdhMWU1YWY2NTNh",
+  "snapshot_id": "MCwwN2UwZmNjZWI3M2JlODE0YTZiMzczODc5MGU3YTU2MTdkNTcyNGJh",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -179,22 +179,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "IT'z Different",
-        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 199873,
-      "name": "DALLA DALLA",
-      "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
@@ -211,18 +195,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 9",
-        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 229678,
-      "name": "I Will Go To You Like the First Snow",
-      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
+      "duration_ms": 199873,
+      "name": "DALLA DALLA",
+      "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -239,6 +223,22 @@
       "duration_ms": 217000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UuKZDzjZ7cVMOvpmuAMYj"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow",
+      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "HANN (Alone)",
-        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
         }
       ],
-      "duration_ms": 205820,
-      "name": "HANN (Alone)",
-      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -415,6 +415,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "HANN (Alone)",
+        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 205820,
+      "name": "HANN (Alone)",
+      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 288915,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "FATE NUMBER FOR",
-        "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 203056,
-      "name": "REALLY REALLY",
-      "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 270452,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "COUP D'ETAT",
         "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 224792,
       "name": "CROOKED",
       "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "duration_ms": 270452,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "My Love From the Star \ubcc4\uc5d0\uc11c \uc628 \uadf8\ub300 (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 243323,
-      "name": "Every moment of you \ub108\uc758 \ubaa8\ub4e0 \uc21c\uac04",
-      "url": "https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 229627,
       "name": "COME BACK HOME",
       "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "My Love From the Star \ubcc4\uc5d0\uc11c \uc628 \uadf8\ub300 (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 243323,
+      "name": "Every moment of you \ub108\uc758 \ubaa8\ub4e0 \uc21c\uac04",
+      "url": "https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "John Travolta Wanna Be",
-        "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
       },
       "artists": [
         {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
         }
       ],
-      "duration_ms": 214427,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW"
+      "duration_ms": 210834,
+      "name": "If You Do",
+      "url": "https://open.spotify.com/track/2Yzb7XLjtfZCeVm6XYH55s"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "John Travolta Wanna Be",
+        "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
+      },
+      "artists": [
+        {
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        }
+      ],
+      "duration_ms": 214427,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 212244,
       "name": "Bubble Pop!",
       "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "MAD Winter Edition",
-        "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 210834,
-      "name": "If You Do",
-      "url": "https://open.spotify.com/track/2Yzb7XLjtfZCeVm6XYH55s"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Rain - SM STATION",
-        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 222047,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "A Class",
         "url": "https://open.spotify.com/album/5Nq0GIIfrsCnUPx4Ayej1c"
       },
@@ -1503,18 +1487,34 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+        "name": "Rain - SM STATION",
+        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+      "duration_ms": 222047,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 197672,
+      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
+      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
       "artists": [
         {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 197672,
-      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
-      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Playful Kiss OST",
-        "url": "https://open.spotify.com/album/4cBlP0W14X5Jfe8kQw4xGB"
-      },
-      "artists": [
-        {
-          "name": "G.NA",
-          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
-        }
-      ],
-      "duration_ms": 237322,
-      "name": "Will You Kiss Me",
-      "url": "https://open.spotify.com/track/45qSSH075SHoIV9cSn2wZK"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Why So Lonely",
         "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
       },
@@ -1623,6 +1607,38 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Hot Summer - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Playful Kiss OST",
+        "url": "https://open.spotify.com/album/4cBlP0W14X5Jfe8kQw4xGB"
+      },
+      "artists": [
+        {
+          "name": "G.NA",
+          "url": "https://open.spotify.com/artist/3hzcooxMtbApMTvvn6XKVA"
+        }
+      ],
+      "duration_ms": 237322,
+      "name": "Will You Kiss Me",
+      "url": "https://open.spotify.com/track/45qSSH075SHoIV9cSn2wZK"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Mama - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 209801,
       "name": "History",
       "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "/// (You, Clouds, Rain)",
-        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 189410,
-      "name": "Don't Know You",
-      "url": "https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg"
     }
   ],
   "unique_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",

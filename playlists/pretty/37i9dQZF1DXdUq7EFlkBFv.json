@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 9197,
+  "num_followers": 9218,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2ZmOTY4NTFjY2I1MDFhNTE1YTJkODAzZWQ5NTFmYjE2ODc1OWU1",
+  "snapshot_id": "MCxiMzM5ZWMxNGU4Mzg2YWRlMjM5ODA0MTM3YmU1NzdlYTNlOGYxM2Y4",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -447,6 +447,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Outside (Better Days)",
+        "url": "https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI"
+      },
+      "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        },
+        {
+          "name": "OG Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ],
+      "duration_ms": 215495,
+      "name": "Outside (Better Days)",
+      "url": "https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "SKAT (feat. DaBaby)",
         "url": "https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 171000,
       "name": "Attachments",
       "url": "https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Outside (Better Days)",
-        "url": "https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI"
-      },
-      "artists": [
-        {
-          "name": "MO3",
-          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
-        },
-        {
-          "name": "OG Bobby Billions",
-          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
-        }
-      ],
-      "duration_ms": 215495,
-      "name": "Outside (Better Days)",
-      "url": "https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG"
     },
     {
       "added_at": "2022-10-01 16:17:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,165 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,560 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 10 | [El Camino](https://open.spotify.com/track/2dZGajSgL5XBmHmNLfyCZe) | [Elizabeth Cook](https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s) | [Welder](https://open.spotify.com/album/1jAPI37kGuVJ1qYi1Uxu0X) | 2:43 |
 | 11 | [High Cost Of Living](https://open.spotify.com/track/73sWpECi7iZrcISLSRxuaH) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 5:45 |
 | 12 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
-| 13 | [Cowboy From Wyoming](https://open.spotify.com/track/5ZFLAJUigZ3e8gnCUeElch) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [Help Me Make It Through The Night](https://open.spotify.com/album/1bAlxF7Xw4V1bjTg9s0uw3) | 3:40 |
+| 13 | [Cowboy From Wyoming](https://open.spotify.com/track/2omiPTSdPCCYFrvjMNAkIZ) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [Help Me Make It Through The Night](https://open.spotify.com/album/5NkOSQuW0V8IegCscA3naz) | 2:23 |
 | 14 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
 | 15 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 |
 | 16 | [I'm the Only Hell \(Mama Ever Raised\)](https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 3:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 98 | [John Beyers \(Camaro Song\)](https://open.spotify.com/track/4z5kF7eIQhc6cvdb2MxEDD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/5YFcEg0KaTy1Q20EYfsCR2) | 2:01 |
 | 99 | [God's Gonna Cut You Down](https://open.spotify.com/track/6RFkVsPmrM4pzlDkFswwJl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/40ObOkEaQKVmcJ6k1W2xMg) | 2:38 |
 
-Snapshot ID: `MCw5YTRkNzYyMTc3ZjNiZDU5ZTA5OGJlNzBlNDdkNzg0NTBlYmY3MTU4`
+Snapshot ID: `MCw2MjNiYTdmZWRmMmU0OGU4OWQ3MWMxYjZkNWE4NGMxN2MzYTMzMDFj`

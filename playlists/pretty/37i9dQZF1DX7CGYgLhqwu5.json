@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 365550,
+  "num_followers": 365692,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzVmYjMzNjU0N2ZhYTZiYzAwN2IwMTQzNTY4NGEzYjUwYTM1NmJi",
+  "snapshot_id": "MCw4N2JmODAyNWM1Yjc0YzVkYTI4NDFiN2M4NmFlMDQzYmJhM2M3MDJm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Goldsboro",
-          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 155706,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Goldsboro",
+          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "I Get Lonely In A Hurry",
-        "url": "https://open.spotify.com/album/3yktxl8Ut7EDn4KBXMPYhZ"
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 127400,
-      "name": "The Race Is On",
-      "url": "https://open.spotify.com/track/2LyRC7gfWFJd6JI5i8fTJe"
+      "duration_ms": 140440,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "I Get Lonely In A Hurry",
+        "url": "https://open.spotify.com/album/3yktxl8Ut7EDn4KBXMPYhZ"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "The Race Is On",
+      "url": "https://open.spotify.com/track/2LyRC7gfWFJd6JI5i8fTJe"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "The Best Of Jimmy Dean",
         "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 182560,
       "name": "Big Bad John",
       "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Townes Van Zandt",
-        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Waiting Around to Die",
-      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -339,8 +339,24 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Waiting Around to Die",
+      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "At San Quentin",
+        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
       },
       "artists": [
         {
@@ -348,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 140440,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+      "duration_ms": 233813,
+      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -383,22 +399,6 @@
       "duration_ms": 138800,
       "name": "Flowers On the Wall",
       "url": "https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Townes Van Zandt",
-        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "I'll Be Here in the Morning",
-      "url": "https://open.spotify.com/track/0HLBLRkkTOlAmjonShicD0"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "At San Quentin",
-        "url": "https://open.spotify.com/album/6bYqwLMVRQzwPQweVzCiry"
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
         }
       ],
-      "duration_ms": 233813,
-      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
-      "url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55"
+      "duration_ms": 180106,
+      "name": "I'll Be Here in the Morning",
+      "url": "https://open.spotify.com/track/0HLBLRkkTOlAmjonShicD0"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
-        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
-      },
-      "artists": [
-        {
-          "name": "Jim Ed Brown",
-          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
-        }
-      ],
-      "duration_ms": 140306,
-      "name": "Pop a Top",
-      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 134786,
       "name": "Just Between You and Me",
       "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
+        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
+      },
+      "artists": [
+        {
+          "name": "Jim Ed Brown",
+          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
+        }
+      ],
+      "duration_ms": 140306,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Great Picks & New Traditions",
-        "url": "https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK"
-      },
-      "artists": [
-        {
-          "name": "Roy Clark",
-          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Yesterday When I Was Young",
-      "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Right Or Wrong",
         "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 136293,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Great Picks & New Traditions",
+        "url": "https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK"
+      },
+      "artists": [
+        {
+          "name": "Roy Clark",
+          "url": "https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Yesterday When I Was Young",
+      "url": "https://open.spotify.com/track/7nSjdcQueimUqsDsBq7orE"
     },
     {
       "added_at": "2023-05-19 04:01:00",

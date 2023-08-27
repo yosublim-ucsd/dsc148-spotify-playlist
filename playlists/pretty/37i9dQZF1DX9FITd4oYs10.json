@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 16958,
+  "num_followers": 16966,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGU0ZmRjNTI3Yzg0NjQwNTA5MDg0Y2ZkZGI0ZjM2ZDI5NTVkYjY2",
+  "snapshot_id": "MCwwYmY5NmQ1YzVlYTI1NjE2OTc3ZmQ4ODc0NGI4MDAyNjhlZjg5MjI0",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -615,6 +615,30 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Nao Sei Mais",
+        "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Damassaclan",
+          "url": "https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Nao Sei Mais",
+      "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Olhares",
         "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
       },
@@ -643,26 +667,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Caro Vapor / Vida e Veneno de Don L",
-        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 229889,
-      "name": "Beira de Piscina (Remix)",
-      "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Oriente (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
       },
@@ -679,26 +683,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Nao Sei Mais",
-        "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
+        "name": "Caro Vapor / Vida e Veneno de Don L",
+        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
       },
       "artists": [
         {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
         },
         {
-          "name": "Damassaclan",
-          "url": "https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
         }
       ],
-      "duration_ms": 145185,
-      "name": "Nao Sei Mais",
-      "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
+      "duration_ms": 229889,
+      "name": "Beira de Piscina (Remix)",
+      "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 274482,
-      "name": "Muleque De Vila",
-      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
         "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 256760,
       "name": "Babylon By Gus",
       "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 274482,
+      "name": "Muleque De Vila",
+      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Estilo Coyote",
+        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "duration_ms": 174211,
+      "name": "Estilo Coyote",
+      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
         "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 282033,
       "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
       "url": "https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Estilo Coyote",
-        "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
-      },
-      "artists": [
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        }
-      ],
-      "duration_ms": 174211,
-      "name": "Estilo Coyote",
-      "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
     },
     {
       "added_at": "2023-03-10 03:01:00",

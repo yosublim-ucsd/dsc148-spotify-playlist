@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,113 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,161 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 48 | [Affirmations \(feat\. Anelisa Lamola\)](https://open.spotify.com/track/38SHfJCoV4jdpeqX5lcn6H) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi) | [Affirmations \(feat\. Anelisa Lamola\)](https://open.spotify.com/album/60OriTct3aVri7Q1btWjRo) | 3:21 |
 | 49 | [Missing \(feat\. Andreya Triana\)](https://open.spotify.com/track/1T6aL6TE96yG0iFlg9iKp5) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [The Vision](https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN) | 4:41 |
 | 50 | [Do you Feel Like I do?](https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF) | [Another Chemical Love Story](https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv), [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Do you Feel Like I do?](https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb) | 6:38 |
-| 51 | [Angels By My Side \(feat\. Pauline Taylor\) \- 7" Version](https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9) | [Sophie Lloyd](https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF), [Pauline Taylor](https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1) | [Angels By My Side \(feat\. Pauline Taylor\)](https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3) | 3:37 |
-| 52 | [Good For Me](https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7) | [Morixo](https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Good For Me](https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK) | 2:42 |
+| 51 | [Good For Me](https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7) | [Morixo](https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Good For Me](https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK) | 2:42 |
+| 52 | [Angels By My Side \(feat\. Pauline Taylor\) \- 7" Version](https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9) | [Sophie Lloyd](https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF), [Pauline Taylor](https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1) | [Angels By My Side \(feat\. Pauline Taylor\)](https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3) | 3:37 |
 | 53 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 |
 | 54 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 |
 | 55 | [Come Back](https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R) | 4:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Back Tae Ayr](https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Back Tae Ayr](https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27) | 5:32 |
 | 60 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
 
-Snapshot ID: `MCxlZGMwNTM5ZDVlMzEyZGViODdmZDJmOWFkMWFhNDBjYTM3ZWQ0ZTkz`
+Snapshot ID: `MCwxMTBmNThjMGRmODI0NTBmNzBmZWFkMzk1ZjFiMGEyZGM5MjUyYjI1`

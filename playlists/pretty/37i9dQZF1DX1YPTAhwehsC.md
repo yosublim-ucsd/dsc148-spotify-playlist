@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,874 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,914 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 98 | [JAGGED EDGE](https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [SHITUMSS](https://open.spotify.com/album/2ZGsgclVau99YKe4WdtR67) | 2:15 |
 | 99 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 
-Snapshot ID: `MCw4YjQ3ZGMyN2VkODdjMjI2MDRhZDRhMTQwZjMwMzQ3OTZmNmYwMWIw`
+Snapshot ID: `MCw4OTE0MDg1MjQ0YzMyYWE5N2JjOTQzYzk3NzdjNTAwYjIyMWE2NjEw`

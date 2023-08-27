@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 110898,
+  "num_followers": 111021,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTJkOTQxZTFjMWQzNGQzNjg4MzY0Njg1ZmJkYzIzOGRmY2I1OTE5",
+  "snapshot_id": "MCxhYmQ4MmI1MTAwNzJiZDhiMGY3NjdiODVmYmNmMGU2MDhiNjhjZjQ5",
   "tracks": [
     {
       "added_at": "2023-08-25 08:19:32",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2023-08-25 08:19:32",
       "album": {
-        "name": "The Many Facets of George Shearing",
-        "url": "https://open.spotify.com/album/0TP4AAOdv1UszCHzTRXxK1"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        },
-        {
-          "name": "Andrew Simpkins",
-          "url": "https://open.spotify.com/artist/0NDc5hTBeKzBrfUnVSdUdg"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Here, There and Everywhere",
-      "url": "https://open.spotify.com/track/2hOd88IAX1JT3EfktlSp4D"
-    },
-    {
-      "added_at": "2023-08-25 08:19:32",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
+    },
+    {
+      "added_at": "2023-08-25 08:19:32",
+      "album": {
+        "name": "The Many Facets of George Shearing",
+        "url": "https://open.spotify.com/album/0TP4AAOdv1UszCHzTRXxK1"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        },
+        {
+          "name": "Andrew Simpkins",
+          "url": "https://open.spotify.com/artist/0NDc5hTBeKzBrfUnVSdUdg"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Here, There and Everywhere",
+      "url": "https://open.spotify.com/track/2hOd88IAX1JT3EfktlSp4D"
     },
     {
       "added_at": "2023-08-25 08:19:32",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-25 08:19:32",
       "album": {
-        "name": "In My Element",
-        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 523613,
-      "name": "Maiden Voyage / Everything In Its Right Place",
-      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
-    },
-    {
-      "added_at": "2023-08-25 08:19:32",
-      "album": {
         "name": "Joshua Redman",
         "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-08-25 08:19:32",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+        "name": "In My Element",
+        "url": "https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS"
       },
       "artists": [
         {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         }
       ],
-      "duration_ms": 335720,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
+      "duration_ms": 523613,
+      "name": "Maiden Voyage / Everything In Its Right Place",
+      "url": "https://open.spotify.com/track/0jyXW8hxeIzX4QwznqVT0E"
     },
     {
       "added_at": "2023-08-25 08:19:32",
@@ -1231,6 +1215,22 @@
       "duration_ms": 229493,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
+    },
+    {
+      "added_at": "2023-08-25 08:19:32",
+      "album": {
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
     },
     {
       "added_at": "2023-08-25 08:19:32",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-08-25 08:19:32",
       "album": {
-        "name": "Tears in Heaven",
-        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
-      },
-      "artists": [
-        {
-          "name": "The Uptown Players",
-          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
-    },
-    {
-      "added_at": "2023-08-25 08:19:32",
-      "album": {
         "name": "Accelerando",
         "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 579160,
       "name": "Human Nature (Trio Extension)",
       "url": "https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL"
+    },
+    {
+      "added_at": "2023-08-25 08:19:32",
+      "album": {
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
     },
     {
       "added_at": "2023-08-25 08:19:32",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-08-25 08:19:32",
       "album": {
-        "name": "A Day In The Life: Impressions Of Pepper",
-        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "A Day In The Life",
-      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
-    },
-    {
-      "added_at": "2023-08-25 08:19:32",
-      "album": {
         "name": "The Gallery Concerts II (Jazz Poetry)",
         "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 303186,
       "name": "She's Leaving Home - Live",
       "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
+    },
+    {
+      "added_at": "2023-08-25 08:19:32",
+      "album": {
+        "name": "A Day In The Life: Impressions Of Pepper",
+        "url": "https://open.spotify.com/album/6rWvJJR3Hocji9Tgs1arq4"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "A Day In The Life",
+      "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
     },
     {
       "added_at": "2023-08-25 08:19:32",
@@ -2631,6 +2631,22 @@
     {
       "added_at": "2023-08-25 08:19:32",
       "album": {
+        "name": "Legendary Recordings: Herbie Hancock",
+        "url": "https://open.spotify.com/album/38rwVFg1NMwmkeGmo8b9oU"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/3j4qGBWRoLvtpeSCS6IAjf"
+    },
+    {
+      "added_at": "2023-08-25 08:19:32",
+      "album": {
         "name": "If It's Magic",
         "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
       },
@@ -2663,18 +2679,22 @@
     {
       "added_at": "2023-08-25 08:19:32",
       "album": {
-        "name": "Legendary Recordings: Herbie Hancock",
-        "url": "https://open.spotify.com/album/38rwVFg1NMwmkeGmo8b9oU"
+        "name": "Streets Of Philadelphia",
+        "url": "https://open.spotify.com/album/1aU3vWkTS7Ej9VEtueevrV"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
         }
       ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/3j4qGBWRoLvtpeSCS6IAjf"
+      "duration_ms": 320893,
+      "name": "Streets Of Philadelphia",
+      "url": "https://open.spotify.com/track/3sFuasoQLakdxnTh3vJ5ix"
     },
     {
       "added_at": "2023-08-25 08:19:32",
@@ -2699,22 +2719,6 @@
       "duration_ms": 418000,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/10PSaPtIOHaUL4iehB8cqc"
-    },
-    {
-      "added_at": "2023-08-25 08:19:32",
-      "album": {
-        "name": "Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International",
-        "url": "https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Simple Twist Of Fate",
-      "url": "https://open.spotify.com/track/2eQwEOTPoOVe5gVWFdRQHv"
     }
   ],
   "unique_name": "Jazz Covers",

@@ -1,12 +1,12 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 30605,
+  "num_followers": 30652,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzdhYjFiMjE3ZWEwNDU3NDNlOWM5OWZmYmRlZTU5MmVlNWM0NDdi",
+  "snapshot_id": "MCxiOTA0NDRkODZjZWEyYzc0Mzg2NTlhNWI4OWE0MmQyNzRhZTM5YjZh",
   "tracks": [
     {
       "added_at": "2021-11-23 20:12:50",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Coraz\u00f3n Bonito",
-        "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 299146,
-      "name": "Donde Estar\u00e1",
-      "url": "https://open.spotify.com/track/7oJ5gMtXIjVyx9plzoFkHU"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "El Bestial Sonido de",
         "url": "https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 408240,
       "name": "Sonido Bestial",
       "url": "https://open.spotify.com/track/5f2nQbCUVuIfXh3jxw21kq"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Coraz\u00f3n Bonito",
+        "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 299146,
+      "name": "Donde Estar\u00e1",
+      "url": "https://open.spotify.com/track/7oJ5gMtXIjVyx9plzoFkHU"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Sofrito",
-        "url": "https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 366200,
-      "name": "Sofrito",
-      "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Frankie Ruiz La Leyenda",
         "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 382733,
       "name": "La Rueda",
       "url": "https://open.spotify.com/track/1a7HYjlRmgLWuKP7RUWLQV"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Sofrito",
+        "url": "https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "Sofrito",
+      "url": "https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc"
     },
     {
       "added_at": "2021-11-23 20:12:50",

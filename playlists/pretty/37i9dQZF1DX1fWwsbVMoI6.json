@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 102412,
+  "num_followers": 102459,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWRjNzM0YzQzOWJkOTIwNTE3YWRiNGI3NTBjZTUyOTMwYWMxYjlk",
+  "snapshot_id": "MCxjNjljYmViODUwNzVjODZmNzc3YzkzODMzOGFmNTUyOTNkZTI4M2Ix",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Solo \u00c9xitos",
         "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 237133,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Me Enamor\u00e9 y Qu\u00e9",
-        "url": "https://open.spotify.com/album/0XBPJbBVGFN97nv9jVCOda"
-      },
-      "artists": [
-        {
-          "name": "Maricarmen Marin",
-          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Me Enamor\u00e9 y Qu\u00e9 - Cover",
-      "url": "https://open.spotify.com/track/5EMjx5ziUTeOY32D8Hv2RB"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/1SWOl6JImOQeV9zdSkbEsj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194933,
       "name": "Siempre Pierdo En El Amor",
       "url": "https://open.spotify.com/track/6mJObKwNw6bwuJcrvjoCA1"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Me Enamor\u00e9 y Qu\u00e9",
+        "url": "https://open.spotify.com/album/0XBPJbBVGFN97nv9jVCOda"
+      },
+      "artists": [
+        {
+          "name": "Maricarmen Marin",
+          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Me Enamor\u00e9 y Qu\u00e9 - Cover",
+      "url": "https://open.spotify.com/track/5EMjx5ziUTeOY32D8Hv2RB"
     },
     {
       "added_at": "2023-03-31 05:01:00",

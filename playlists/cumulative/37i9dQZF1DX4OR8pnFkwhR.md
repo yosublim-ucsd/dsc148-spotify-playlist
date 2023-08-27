@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 春ねむり
 
-1,029 songs - 2 day 15 hr 15 min
+1,030 songs - 2 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,8 @@
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2022-10-11 | 2023-02-15 |
 | [REAL U](https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [REAL U](https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh) | 3:33 | 2022-07-28 | 2022-10-05 |
 | [Recently](https://open.spotify.com/track/5aq0yvoWqGVusrOr8HDtsf) | [ORCALAND](https://open.spotify.com/artist/2tUNHY1YtygK9HsSboP3w8) | [Travel Notes](https://open.spotify.com/album/6SiRvL6UvQ3uw2FvYwDk8W) | 5:23 | 2022-10-25 | 2022-12-07 |
-| [Rent\-A\-Car](https://open.spotify.com/track/2VvE9W1K2cMPaRsFi7kwLv) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Rent\-A\-Car](https://open.spotify.com/album/3715NHRrk351GtX0NhjkPv) | 3:01 | 2023-08-08 |  |
+| [Rent\-A\-Car](https://open.spotify.com/track/2VvE9W1K2cMPaRsFi7kwLv) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Rent\-A\-Car](https://open.spotify.com/album/3715NHRrk351GtX0NhjkPv) | 3:01 | 2023-08-08 | 2023-08-27 |
+| [Rent\-A\-Car](https://open.spotify.com/track/7j36DmTMM88JMAAohyKyJZ) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Television](https://open.spotify.com/album/1Me0U6nBnqp7xjVAEFVFDJ) | 3:01 | 2023-08-24 |  |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 | 2023-03-22 |
 | [Restart?](https://open.spotify.com/track/64INceHue7dl31QMDLLirn) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Restart?](https://open.spotify.com/album/5fdozRgnGyNfx9PQz5wu3h) | 3:24 | 2022-04-14 | 2022-07-27 |
 | [Rich and Famous](https://open.spotify.com/track/009ynJN5ikFFNalJZz4vhT) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE), [ARTRILLA](https://open.spotify.com/artist/4WhRuNkczfkiEL2DqPQ9nm) | [Chillin THAILAND](https://open.spotify.com/album/76aeQ3TfgndxXY3oT4rmUh) | 3:54 | 2023-08-10 |  |

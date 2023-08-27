@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: tobi lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,282 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,381 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 | 100 | [Huh](https://open.spotify.com/track/0WwULq4T2uJSPFxHgs90su) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Huh](https://open.spotify.com/album/7hFzIU57hDLZhjTg5b8p58) | 3:03 |
 
-Snapshot ID: `MCw1MTE4N2QyZGZjNzI1YTI2NDVjYTExYmI5MTQ3YWZjZmNlNmQ3MzA3`
+Snapshot ID: `MCxmODJjNWU3NTRkMGQxMzkxZTBkMDM2N2VjZjUyMDU4YWVkODYzYjk0`

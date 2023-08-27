@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,143 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,208 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Curvas Finas](https://open.spotify.com/track/6yQ58h9qNLLjWfGEFLLd0Q) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [ZSS Ent.](https://open.spotify.com/artist/1L7rw4mLVQFgIkknFHkk47) | [Curvas Finas](https://open.spotify.com/album/2eGCZcCXGf1yLSEpddlgnh) | 3:04 |
 | 75 | [Na Sua Rota](https://open.spotify.com/track/2ru53XgZV761mqXaBwSk5Y) | [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [VK](https://open.spotify.com/artist/00fzfkVD3y9sfUfdaYDAGf) | [Smooth](https://open.spotify.com/album/4Tp411Bh9vDjXlJRHsSpLD) | 3:32 |
 
-Snapshot ID: `MCw0YzVmYTgwYjg4ZjJiMTgzYzc5MThhZWUwNzNiOWRjMDA0ZWRkNzRj`
+Snapshot ID: `MCwwZDczZGU0MjQ1NDgyZjMwZGNmNzE4MjQ4Y2VlNTkyZmE0MWMwZGM2`

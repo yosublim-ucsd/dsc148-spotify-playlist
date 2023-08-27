@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Gilsons, Lagum",
-  "num_followers": 430635,
+  "num_followers": 430692,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTJmNTAzOWZhNjQ0NjYwYzYyY2Q4YTgxNDM2MWQ3MzIyYTljMDMx",
+  "snapshot_id": "MCxjNTc1ZTczMzc4N2YyYmIyOGMzYjhmMGE2OTU0YjllZDk3MWIzNDY2",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -167,7 +167,7 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "tudo eu, enfim",
+        "name": "tudo, eu, enfim.",
         "url": "https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq"
       },
       "artists": [
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "REWIND DOIS",
-        "url": "https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "REWIND DOIS",
-      "url": "https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "N\u00f3 de Marinheiro",
         "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 183503,
       "name": "N\u00f3 de Marinheiro",
       "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "REWIND DOIS",
+        "url": "https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "REWIND DOIS",
+      "url": "https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Ch\u00e1 De Camomila",
-        "url": "https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 191568,
-      "name": "Ch\u00e1 De Camomila",
-      "url": "https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Ch\u00e1 De Camomila",
+        "url": "https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 191568,
+      "name": "Ch\u00e1 De Camomila",
+      "url": "https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Sanidade Mental",
-        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 119706,
-      "name": "Sanidade Mental",
-      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Se eu n\u00e3o te amasse tanto assim",
         "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 137000,
       "name": "Se eu n\u00e3o te amasse tanto assim",
       "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Sanidade Mental",
+        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 119706,
+      "name": "Sanidade Mental",
+      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Tempo Demais",
-        "url": "https://open.spotify.com/album/4PuaH09i9aiaXA4cx6Xlxd"
-      },
-      "artists": [
-        {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
-        }
-      ],
-      "duration_ms": 168459,
-      "name": "Tempo Demais",
-      "url": "https://open.spotify.com/track/3zsqFsBtZZZaFigmgE3ohh"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "M\u00faltipla",
         "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 161540,
       "name": "Nem Eu Me Entendo",
       "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Tempo Demais",
+        "url": "https://open.spotify.com/album/4PuaH09i9aiaXA4cx6Xlxd"
+      },
+      "artists": [
+        {
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+        }
+      ],
+      "duration_ms": 168459,
+      "name": "Tempo Demais",
+      "url": "https://open.spotify.com/track/3zsqFsBtZZZaFigmgE3ohh"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Tarde da Noite",
         "url": "https://open.spotify.com/album/3rBB9Rfs8jqN9YPOmisGWG"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 198893,
       "name": "Tarde da Noite",
       "url": "https://open.spotify.com/track/70mYwaFqWLYywSVPcCVynb"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Como Tinha Que Ser",
-        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Como Tinha Que Ser",
-      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Eremita",
-        "url": "https://open.spotify.com/album/3s8mB7MS1VPIckEL5nLNFm"
-      },
-      "artists": [
-        {
-          "name": "Renato Enoch",
-          "url": "https://open.spotify.com/artist/6TV4EsauTqkvsZATrn2YBc"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "Eremita",
-      "url": "https://open.spotify.com/track/1WhgrP90PSrslSYcRK4ma5"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "que se fosse",
         "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 139666,
       "name": "que se fosse",
       "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Eremita",
+        "url": "https://open.spotify.com/album/3s8mB7MS1VPIckEL5nLNFm"
+      },
+      "artists": [
+        {
+          "name": "Renato Enoch",
+          "url": "https://open.spotify.com/artist/6TV4EsauTqkvsZATrn2YBc"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "Eremita",
+      "url": "https://open.spotify.com/track/1WhgrP90PSrslSYcRK4ma5"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Ac\u00fastico Luana Berti",
-        "url": "https://open.spotify.com/album/0aBngiuQTX84LPbuqeJhAy"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "pele - ao vivo",
-      "url": "https://open.spotify.com/track/6Obz4fjPvcQJUyH2kqd3vS"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Voc\u00ea Chegou",
         "url": "https://open.spotify.com/album/5nJW4qnTFw8kwQ6gxZ7gJg"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 141130,
       "name": "Voc\u00ea Chegou",
       "url": "https://open.spotify.com/track/1AIqRI9UanGxUFiMtBEALX"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico Luana Berti",
+        "url": "https://open.spotify.com/album/0aBngiuQTX84LPbuqeJhAy"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "pele - ao vivo",
+      "url": "https://open.spotify.com/track/6Obz4fjPvcQJUyH2kqd3vS"
     }
   ],
   "unique_name": "Pop Leve",

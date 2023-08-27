@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Metalocalypse: Dethklok
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,430 likes - 86 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,724 likes - 86 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 85 | [My Hellish Hunt](https://open.spotify.com/track/5gVuv4S3EVltZBe05XtJOX) | [Grymheart](https://open.spotify.com/artist/4SlhNbOnl7dC1fSZzchJTE) | [My Hellish Hunt](https://open.spotify.com/album/4ipx6m8w4q3RJSQNKXzVYP) | 3:30 |
 | 86 | [Exile](https://open.spotify.com/track/5VT7ArOG23wCbYN6d5fbqs) | [HARP](https://open.spotify.com/artist/4ylTmXCAJ2F45zSA2YuWYY) | [Exile](https://open.spotify.com/album/4oFe0sFUIkmQfaAXFIy54C) | 4:56 |
 
-Snapshot ID: `MCxjYzZhNjBiNGI0MDc5MDQ0OWUxZjA5NjllNTJmOGNhZTJlMjA5NjUw`
+Snapshot ID: `MCw1N2Q1MjMzODI4N2MxZmRjYjQzZDFjYjg4OTJlZWNjYTc0Y2Q4ZWQx`

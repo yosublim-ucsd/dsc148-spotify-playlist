@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 27701,
+  "num_followers": 27714,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTc0ZGRkMzc4Nzc1Zjg4NDViZGEwYzU2YjY1OWIxNDM3YjAyZWJj",
+  "snapshot_id": "MCxjMDYxZGY4NTQxYzcwNDAxOWMxMmNkNDgxNjg3NDMwMTg4ZDZkMzg4",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -199,6 +199,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "F\u00f2k T\u00e8t Ou La",
+        "url": "https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw"
+      },
+      "artists": [
+        {
+          "name": "Roody Roodboy",
+          "url": "https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN"
+        }
+      ],
+      "duration_ms": 263414,
+      "name": "Kenbe'l La",
+      "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "F\u00f2k T\u00e8t Ou La",
-        "url": "https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw"
-      },
-      "artists": [
-        {
-          "name": "Roody Roodboy",
-          "url": "https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN"
-        }
-      ],
-      "duration_ms": 263414,
-      "name": "Kenbe'l La",
-      "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Et pourtant",
-        "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
-      },
-      "artists": [
-        {
-          "name": "Black Parents",
-          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
-        }
-      ],
-      "duration_ms": 301087,
-      "name": "Vini'm pale w",
-      "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "The Very Best Of Jackito (Pou ti moun yo)",
-        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
+        "name": "Et pourtant",
+        "url": "https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp"
       },
       "artists": [
         {
-          "name": "Jackito",
-          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
+          "name": "Black Parents",
+          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
         }
       ],
-      "duration_ms": 292362,
-      "name": "Je l'aime \u00e0 mourir",
-      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
+      "duration_ms": 301087,
+      "name": "Vini'm pale w",
+      "url": "https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -379,6 +363,22 @@
       "duration_ms": 395226,
       "name": "Libre D'aimer",
       "url": "https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "The Very Best Of Jackito (Pou ti moun yo)",
+        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
+      },
+      "artists": [
+        {
+          "name": "Jackito",
+          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
+        }
+      ],
+      "duration_ms": 292362,
+      "name": "Je l'aime \u00e0 mourir",
+      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Another Round",
-        "url": "https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ"
-      },
-      "artists": [
-        {
-          "name": "Zo Konpa",
-          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
-        }
-      ],
-      "duration_ms": 258090,
-      "name": "Another Round - Zouk",
-      "url": "https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Diferan",
         "url": "https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 297960,
       "name": "Mwen bouke",
       "url": "https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Another Round",
+        "url": "https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ"
+      },
+      "artists": [
+        {
+          "name": "Zo Konpa",
+          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
+        }
+      ],
+      "duration_ms": 258090,
+      "name": "Another Round - Zouk",
+      "url": "https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -639,18 +639,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Mete'm alez",
-        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
+        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
+        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
       },
       "artists": [
         {
-          "name": "Zo Konpa",
-          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
         }
       ],
-      "duration_ms": 293035,
-      "name": "Wet the hell map vini - Zouk",
-      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
+      "duration_ms": 332910,
+      "name": "Habitude",
+      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -671,18 +671,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
-        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
+        "name": "Mete'm alez",
+        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
       },
       "artists": [
         {
-          "name": "Djakout #1",
-          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+          "name": "Zo Konpa",
+          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
         }
       ],
-      "duration_ms": 332910,
-      "name": "Habitude",
-      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
+      "duration_ms": 293035,
+      "name": "Wet the hell map vini - Zouk",
+      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

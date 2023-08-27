@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,409 likes - 58 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,425 likes - 58 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 8 | [Atmosphere](https://open.spotify.com/track/7vxvK8mCE55uVSCRSHFvwB) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Atmosphere](https://open.spotify.com/album/0nN8ZEm4l9LU8dKLMDponC) | 2:11 |
 | 9 | [in my head](https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [in my head](https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I) | 3:44 |
 | 10 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 |
-| 11 | [Heavy Artillery](https://open.spotify.com/track/1fOTrpMIas2nZYzH6o56n7) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 |
+| 11 | [Heavy Artillery](https://open.spotify.com/track/1fOTrpMIas2nZYzH6o56n7) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Spotify Singles](https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD) | 2:21 |
 | 12 | [Lost Without You](https://open.spotify.com/track/4hihbl7qEfTWbV105KXgNo) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Nick Isham](https://open.spotify.com/artist/3INQD45A4I7hWypSUOLyB6) | [The Cleaning Lady: Season 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vUcnfXZ25zPRTM1VkN42u) | 3:24 |
 | 13 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 |
 | 14 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 57 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 |
 | 58 | [Fashionably Late](https://open.spotify.com/track/4gG73FSWLBH5DlkmgaKJtv) | [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR) | [Fashionably Late](https://open.spotify.com/album/4eBlEJK3JKGWGeElVlxJhI) | 3:17 |
 
-Snapshot ID: `MCxlNTNiZWNjOTgyZmU0NDZmY2RiZDhjZTkxODJlOGNmODliMTBmOWI5`
+Snapshot ID: `MCwxNGNkYzI1OWFkNmQwMWQwNjQxYjllNjUxNDZmY2Y2YjJmYWUwZDJk`

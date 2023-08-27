@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Tatjana Saphira
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,236 likes - 78 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,245 likes - 78 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 77 | [Tentang aku](https://open.spotify.com/track/0XKXF8r4Wj5adqBlKYch29) | [Bhanu Marais](https://open.spotify.com/artist/0lNHnWpu3fCw1Hb2y0QOSj) | [Unknown Discovery](https://open.spotify.com/album/5GvdlTxJsNvR7dHvAuq9y4) | 4:03 |
 | 78 | [Selayaknya](https://open.spotify.com/track/52OiMu38nL7mfFRcoB1fay) | [Melyananda Putu](https://open.spotify.com/artist/1h5X1zjEEUjWB7xCjsk0LN) | [Selayaknya](https://open.spotify.com/album/5zy4e65gRdDP2viLHXCJ5D) | 3:37 |
 
-Snapshot ID: `MCwxZTNjYmYxZWZlYzczNjhkNThjZTc4NDc2MmZlZTFmYTY2NDJjZGEz`
+Snapshot ID: `MCw5ZjkzNWM0YzVlZDc5ZmFjMzBkYWY0NWNhOGI4YTNiNGQ4ZmQxZjMx`

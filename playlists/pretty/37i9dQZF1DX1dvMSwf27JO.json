@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ",
-  "num_followers": 524209,
+  "num_followers": 524454,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGJlNDdjY2E4NGU5MWZkZTFmYTllZjI1NzJlM2UwODQzM2QwMjI2",
+  "snapshot_id": "MCwyNGY2YzIyODljMjI5MWJkMzQ0NmQwZDEyNDZlYThjYzE2ZjZkNTE1",
   "tracks": [
     {
       "added_at": "2023-08-14 17:47:19",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "girls like me don't cry (remix) ft. MIN",
         "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 213283,
       "name": "girls like me don't cry (remix) ft. MIN",
       "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Just Sayin' Shit",
-        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
       "artists": [
         {
-          "name": "Flower in Bloom",
-          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 61717,
-      "name": "Just Sayin' Shit",
-      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1147,6 +1131,22 @@
       "duration_ms": 174640,
       "name": "U KNOW ME",
       "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Just Sayin' Shit",
+        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
+      },
+      "artists": [
+        {
+          "name": "Flower in Bloom",
+          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
+        }
+      ],
+      "duration_ms": 61717,
+      "name": "Just Sayin' Shit",
+      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Tantrum (Pace Yourself)",
-        "url": "https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 123795,
-      "name": "Tantrum (Pace Yourself)",
-      "url": "https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Oranges",
         "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+        "name": "Tantrum (Pace Yourself)",
+        "url": "https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt"
       },
       "artists": [
         {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 90447,
-      "name": "nice",
-      "url": "https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q"
+      "duration_ms": 123795,
+      "name": "Tantrum (Pace Yourself)",
+      "url": "https://open.spotify.com/track/2kdrWIKIhCulhFBAzd4Sed"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1299,6 +1283,22 @@
       "duration_ms": 252733,
       "name": "New Romance",
       "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 90447,
+      "name": "nice",
+      "url": "https://open.spotify.com/track/37EATWuDC8BUrJ2Kt2JE5Q"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Protect My Energy",
-      "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 108626,
       "name": "No Good Reason",
       "url": "https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Protect My Energy",
+      "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 235801,
+      "name": "hmu",
+      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+        "name": "NICE OUT",
+        "url": "https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ"
       },
       "artists": [
         {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
         }
       ],
-      "duration_ms": 235801,
-      "name": "hmu",
-      "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
+      "duration_ms": 246733,
+      "name": "NICE OUT",
+      "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1555,22 +1571,6 @@
       "duration_ms": 125688,
       "name": "FLOOR",
       "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "NICE OUT",
-        "url": "https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ"
-      },
-      "artists": [
-        {
-          "name": "Kilo Kish",
-          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "NICE OUT",
-      "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "pawwwfect!",
+        "url": "https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P"
+      },
+      "artists": [
+        {
+          "name": "lil hero",
+          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
+        }
+      ],
+      "duration_ms": 129494,
+      "name": "big flirt",
+      "url": "https://open.spotify.com/track/4DWXFYTDoiRoZxQ5AckERs"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "STAY UP / SWEET",
         "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 139017,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
     }
   ],
   "unique_name": "'fit check",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Gordo & Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,180 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,198 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 49 | [Papi](https://open.spotify.com/track/0SmL6t4DXfjEsTiGtTEUSV) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn) | [L.O.C.](https://open.spotify.com/album/06tcSzwgaQTwOwmxIUcU9J) | 3:32 |
 | 50 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 |
 
-Snapshot ID: `MCw0OGEzZDQwNWQxYWU0Nzg4NzkwN2MyOGI0N2MwNmFkNDE4OTQ3M2Rj`
+Snapshot ID: `MCw0YTBlOGExYzI3MTZjOWEwY2QzNTkzZmZjNWFmODdjZWE3NDQwNWVm`

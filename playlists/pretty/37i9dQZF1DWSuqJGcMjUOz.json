@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDFkMGQyYjAwNGM2YjUzZDAyOWQ0MWQ5YjdkYTc2NDMzZDI5NGQz",
+  "snapshot_id": "MCw1MDg0MzVhMGVjNWY4YTJkYjA5MGIwZDUwOTM4YzIzZjAxMmM4Y2Q3",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Tant qu'il y aura des enfants",
-        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
-      },
-      "artists": [
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Provocante",
-      "url": "https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur",
         "url": "https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 162206,
       "name": "Devil May Cry",
       "url": "https://open.spotify.com/track/3iw9cmv0VuAhwLI9HPkcx6"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Tant qu'il y aura des enfants",
+        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
+      },
+      "artists": [
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Provocante",
+      "url": "https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pont Champlain",
-        "url": "https://open.spotify.com/album/1fumWxp522ocJH8odkks3L"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        }
-      ],
-      "duration_ms": 210296,
-      "name": "Pont Champlain",
-      "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 186453,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pont Champlain",
+        "url": "https://open.spotify.com/album/1fumWxp522ocJH8odkks3L"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 210296,
+      "name": "Pont Champlain",
+      "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "LA VIE",
-        "url": "https://open.spotify.com/album/10jDF7CGfczyhmy8zcfLvy"
-      },
-      "artists": [
-        {
-          "name": "Arthur H",
-          "url": "https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR"
-        }
-      ],
-      "duration_ms": 269013,
-      "name": "La vie",
-      "url": "https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Jos\u00e9 Louis And The Paradox Of Love",
         "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "LA VIE",
+        "url": "https://open.spotify.com/album/10jDF7CGfczyhmy8zcfLvy"
+      },
+      "artists": [
+        {
+          "name": "Arthur H",
+          "url": "https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR"
+        }
+      ],
+      "duration_ms": 269013,
+      "name": "La vie",
+      "url": "https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5"
     },
     {
       "added_at": "2023-05-25 23:46:15",

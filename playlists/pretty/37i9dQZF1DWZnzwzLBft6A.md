@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnzwzLBft6A.md) - [plain]
 
 > He perfected counterpoint, set the bar for cello suites, and absolutely loved a curly white wig: JS Bach played a huge part in shaping all the classical music we enjoy today\. Discover why, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,970 likes - 73 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,111 likes - 73 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnzwzLBft6A.md) - [plain]
 | 72 | [Weihnachts\-Oratorium, BWV 248, Pt\. 1: Pt\. II: Sinfonia](https://open.spotify.com/track/7xpSavI7zHnchw5x6JSuSU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ruth Ziesak](https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5), [Monica Groop](https://open.spotify.com/artist/0D5GLqp4LQMG8Io8LxTdME), [Christoph Prégardien](https://open.spotify.com/artist/5H4ABKp8qUdj8Hy8mu2xQv), [Klaus Mertens](https://open.spotify.com/artist/6uhxLhuh3jcNhKhM6pUo2V), [Frankfurt Vocal Ensemble](https://open.spotify.com/artist/5YtWMcoOZAHh5mivf5b0L5), [Concerto Cologne](https://open.spotify.com/artist/7l8lb6yic4nBI7I0A9eThT), [Ralf Otto](https://open.spotify.com/artist/41idGvmz7nvxWge2uPeRTR) | [Bach, J.S.: Christmas Oratorio](https://open.spotify.com/album/3PKXtOn5VgRccQL2bneDLk) | 5:34 |
 | 73 | [Sonata No\. 2 in E\-Flat Major, BWV 1031: II\. Siciliana](https://open.spotify.com/track/69dUbmYChOm0u6FlNM1iJ2) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [James Galway](https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ) | [Galway Plays Bach](https://open.spotify.com/album/3RdeN70MZx6shbmpFjJg3C) | 2:10 |
 
-Snapshot ID: `MCxkMjUxZWExYmJjZGJmMGViODgxNTBlZTZlN2UwNTQ4Njg1Mjg0NzZm`
+Snapshot ID: `MCwwODI2ZTNiMjcyOGZhMGM1ZGNiNmUwNGEzZjE0MDgyYTU1YjdjOWEx`

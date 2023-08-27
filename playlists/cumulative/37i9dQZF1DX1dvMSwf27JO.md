@@ -4,7 +4,7 @@
 
 > music to get fly to
 
-425 songs - 22 hr 27 min
+426 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 | 2023-03-03 |  |
 | [BIG FLIRT](https://open.spotify.com/track/21X8Gbc0ztQvD9uhX4WxUK) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [dress up!](https://open.spotify.com/album/65PEe4oqDISaoCia7jZ1jJ) | 2:09 | 2022-07-11 | 2022-12-17 |
 | [big flirt](https://open.spotify.com/track/355eZ7ojdzc0ZHc7LeiwE8) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [dress up!](https://open.spotify.com/album/7MzgnfEIBNiLkOVU8kHhHw) | 2:09 | 2023-03-03 | 2023-07-31 |
+| [big flirt](https://open.spotify.com/track/4DWXFYTDoiRoZxQ5AckERs) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [pawwwfect!](https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P) | 2:09 | 2023-08-14 |  |
 | [Big Steppa](https://open.spotify.com/track/0aZ8t7DIZisXGdRrLupGKB) | [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Big Steppa](https://open.spotify.com/album/6KkO7DMw7kEmjD4sxi5Dyv) | 3:25 | 2023-05-19 | 2023-07-29 |
 | [Big Subwoofer \(feat\. Snoop Dogg, Ice Cube, E\-40 & Too $hort \) \- Single Version](https://open.spotify.com/track/5GPm7PsMQwceQvfYlGXcCt) | [MOUNT WESTMORE](https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Big Subwoofer](https://open.spotify.com/album/4eY1kgFWuWZ1DOhkqF9IHt) | 4:01 | 2023-05-26 |  |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-05-20 | 2022-11-16 |
@@ -101,7 +102,7 @@
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-28 | 2022-07-12 |
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2022-10-12 | 2023-02-17 |
 | [Cry Alone](https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Cry Alone](https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU) | 1:42 | 2023-07-28 |  |
-| [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 | 2023-07-28 |  |
+| [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 | 2023-07-28 | 2023-08-27 |
 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-02 | 2022-07-02 |
 | [Dancing Elephants](https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 5:18 | 2022-06-17 |  |
 | [DANCING ELEPHANTS](https://open.spotify.com/track/7iMvfX5hAfh2ZeYshXyzaJ) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 5:18 | 2022-06-17 | 2022-07-29 |

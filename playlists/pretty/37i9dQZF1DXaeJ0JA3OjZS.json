@@ -1,12 +1,12 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 57933,
+  "num_followers": 58143,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDQ1Yzk2NjMyOTExYzAwMmYxYTA4YjUyMjBmODgxZjkyZWZkNDU1",
+  "snapshot_id": "MCxhMmM5MGUzYjJmNmNhYjBhZTM1NzQwMWRiNjQwNDE4YTU1MTRiZTY0",
   "tracks": [
     {
       "added_at": "2023-05-03 18:57:46",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 140956,
-      "name": "El Chueco Galindo",
-      "url": "https://open.spotify.com/track/3nEugNej2Gs6GbEnK0wSnu"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 199836,
       "name": "Trato De Muerte (feat. Los Buchones De Culiacan)",
       "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 140956,
+      "name": "El Chueco Galindo",
+      "url": "https://open.spotify.com/track/3nEugNej2Gs6GbEnK0wSnu"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "El Profeta Y Otros Caballos Famosos",
-        "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
+        "name": "Hay Nubes Llorando",
+        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 204920,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty"
+      "duration_ms": 206053,
+      "name": "El Pulmon",
+      "url": "https://open.spotify.com/track/7BJAA9HmsJhMB66Sd9MLrW"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Hay Nubes Llorando",
-        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
-      },
-      "artists": [
-        {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "El Pulmon",
-      "url": "https://open.spotify.com/track/7BJAA9HmsJhMB66Sd9MLrW"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
         "name": "Bronco Amigo",
         "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 232760,
       "name": "Amigo Bronco",
       "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "El Profeta Y Otros Caballos Famosos",
+        "url": "https://open.spotify.com/album/6Iu29SjR3LXC83oi01126g"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5z6eExs1VVrcaYQfXxO0Ty"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "La Historia Contin\u00faa",
-        "url": "https://open.spotify.com/album/5imN3ezj45LrEu6eBJJFpb"
+        "name": "Hay Nubes Llorando",
+        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
         }
       ],
-      "duration_ms": 181401,
-      "name": "Mi Potra",
-      "url": "https://open.spotify.com/track/3QeRFO2Ie216g4BCgpaqbJ"
+      "duration_ms": 159582,
+      "name": "El Wareke",
+      "url": "https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Hay Nubes Llorando",
-        "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
+        "name": "La Historia Contin\u00faa",
+        "url": "https://open.spotify.com/album/5imN3ezj45LrEu6eBJJFpb"
       },
       "artists": [
         {
-          "name": "Alex Ramirez Y Su Grupo Profetas",
-          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 159582,
-      "name": "El Wareke",
-      "url": "https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz"
+      "duration_ms": 181401,
+      "name": "Mi Potra",
+      "url": "https://open.spotify.com/track/3QeRFO2Ie216g4BCgpaqbJ"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Narco Corridos",
-        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "La Yegua Y El Corvet",
-      "url": "https://open.spotify.com/track/3f5GoUW2Q1GXrJ6hVKvFMP"
-    },
-    {
-      "added_at": "2023-05-03 18:57:46",
-      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 134739,
       "name": "Ranchero Y Gallardo",
       "url": "https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z"
+    },
+    {
+      "added_at": "2023-05-03 18:57:46",
+      "album": {
+        "name": "Narco Corridos",
+        "url": "https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "La Yegua Y El Corvet",
+      "url": "https://open.spotify.com/track/3f5GoUW2Q1GXrJ6hVKvFMP"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "Corridos De Caballos",
-        "url": "https://open.spotify.com/album/6G5TPg4hZIAodWMQmcP6sl"
+        "name": "El Golden Boy",
+        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 179346,
-      "name": "El Cadete",
-      "url": "https://open.spotify.com/track/0ojuwkgfXGXzqVVRVhHRnN"
+      "duration_ms": 160645,
+      "name": "El Golden Boy",
+      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
     },
     {
       "added_at": "2023-05-03 18:57:46",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-05-03 18:57:46",
       "album": {
-        "name": "El Golden Boy",
-        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
+        "name": "Corridos De Caballos",
+        "url": "https://open.spotify.com/album/6G5TPg4hZIAodWMQmcP6sl"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 160645,
-      "name": "El Golden Boy",
-      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
+      "duration_ms": 179346,
+      "name": "El Cadete",
+      "url": "https://open.spotify.com/track/0ojuwkgfXGXzqVVRVhHRnN"
     },
     {
       "added_at": "2023-05-03 18:57:46",

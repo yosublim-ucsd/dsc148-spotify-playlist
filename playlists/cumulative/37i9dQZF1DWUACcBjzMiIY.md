@@ -4,7 +4,7 @@
 
 > Easy listening for a pleasant drive.
 
-371 songs - 23 hr 45 min
+372 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2019-06-21 |  |
 | [Heaven](https://open.spotify.com/track/4QfNOZN7vrQCQKK1ZJ3XPb) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven \[From "Fifty Shades Freed \(Original Motion Picture Soundtrack\)"\]](https://open.spotify.com/album/5pvLpqi54KJ3LiZ2pwdXoE) | 3:11 | 2019-06-21 | 2022-05-15 |
 | [Heaven](https://open.spotify.com/track/5M5IB1cNzJqbWFEUK4a1MD) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Broad Stories](https://open.spotify.com/album/0DjyKeAM1LL48qIipVMOBD) | 3:11 | 2019-06-21 | 2023-08-18 |
+| [Heaven](https://open.spotify.com/track/6eJ2rRy68QOduhNLW3M1Yy) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Amethyst](https://open.spotify.com/album/51jD9mF5wg2WMBd4xVeYTi) | 3:11 | 2019-06-21 |  |
 | [Heaven](https://open.spotify.com/track/2mQ1RBK7s87mdPCzh97RSH) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Playlist: The Very Best Of Los Lonely Boys](https://open.spotify.com/album/1ZyeNQ6uvVyK3yNJDSLdRU) | 3:47 | 2019-06-21 | 2022-07-28 |
 | [Here Without You](https://open.spotify.com/track/7qQfI2F80t2MZcLLVuH6M2) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You](https://open.spotify.com/album/4bLUbJ33pj5l41AeAvKREp) | 3:56 | 2019-06-21 | 2022-05-22 |
 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 | 2019-06-21 |  |
@@ -357,7 +358,7 @@
 | [Welcome Home, Son](https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 4:47 | 2019-06-21 |  |
 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 | 2019-06-21 |  |
 | [What Makes You Beautiful](https://open.spotify.com/track/7AEkRLRfgn9mB3BCXIZ2G7) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 2](https://open.spotify.com/album/3aq3323aUMaRXL7WuJcT3b) | 3:28 | 2019-06-21 | 2022-07-15 |
-| [What You're Thinking](https://open.spotify.com/track/2oXvizvCiIIpkyVyzQS6Qr) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 2:54 | 2019-06-21 |  |
+| [What You're Thinking](https://open.spotify.com/track/2oXvizvCiIIpkyVyzQS6Qr) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 2:54 | 2019-06-21 | 2023-08-27 |
 | [What You're Thinking](https://open.spotify.com/track/1RNyz1P8eyL5BsCzooCguk) | [Passenger feat\. Josh Pyke](https://open.spotify.com/artist/54PY6fiHIPuV7m94d6A3KE) | [Flight Of The Crow](https://open.spotify.com/album/0oySm8eIbUUYmeQxCqj3Wa) | 2:54 | 2019-06-21 | 2022-07-25 |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2019-06-21 |  |
 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 | 2019-06-21 |  |

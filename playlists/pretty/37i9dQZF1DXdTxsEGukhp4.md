@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 崎山蒼志
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,305 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,311 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 50 | [Kokuhaku](https://open.spotify.com/track/0JnRFvW9QnilJxSkUEAzLx) | [Lil Yeek](https://open.spotify.com/artist/02e9PHgZGNSwUrDH4MLysR) | [Night Flight](https://open.spotify.com/album/2k2d58liuxwUATY9yxGz9g) | 4:19 |
 
-Snapshot ID: `MCxmNDIwNzkwN2NmYmQ2YWM1MDI2MmE2NWJhMzMwMGEyYjMzZmY3MGY3`
+Snapshot ID: `MCxhMjcyNDM4YTEzZGZlZWU2OTdjYWUwYTVkNjFlOWFjM2YwNmQ4NjJi`

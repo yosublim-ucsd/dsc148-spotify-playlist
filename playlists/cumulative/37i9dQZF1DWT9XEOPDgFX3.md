@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Delaney Bailey
 
-389 songs - 1 day 0 hr 15 min
+390 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 | 2023-02-03 | 2023-07-09 |
 | [Distant Axis](https://open.spotify.com/track/572HkIrjSOI7GLfQUTxn4H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison](https://open.spotify.com/album/5EqnUTFVewiWTuN11K4G8E) | 4:25 | 2022-01-21 | 2022-07-29 |
 | [Distant Axis](https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison \(Deluxe Edition\)](https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA) | 4:25 | 2022-04-29 | 2023-07-13 |
-| [Do You Understand \(What Has Happened to You\)](https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [At the Moonbase](https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA) | 4:43 | 2022-12-16 |  |
+| [Do You Understand \(What Has Happened to You\)](https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [At the Moonbase](https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA) | 4:43 | 2022-12-16 | 2023-08-27 |
 | [Don't Kiss Me](https://open.spotify.com/track/3uPYk9jdFzAeEmQPYVb7Gq) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Don't Kiss Me](https://open.spotify.com/album/03SqzAAXXolzq7XYIARZOj) | 4:04 | 2023-05-19 | 2023-07-16 |
 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 | 2023-08-18 |  |
 | [Dr\. Johann Averies](https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Dr\. Johann Averies](https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3) | 3:53 | 2022-01-21 | 2023-05-05 |
@@ -288,6 +288,7 @@
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-21 | 2022-11-04 |
 | [Rubberneckers](https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Quitters](https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG) | 3:28 | 2022-10-14 |  |
 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 | 2022-12-02 | 2023-08-03 |
+| [Sandhills](https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:15 | 2023-08-25 |  |
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2022-01-21 | 2022-07-28 |
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-04-29 |  |
 | [Separate Bills](https://open.spotify.com/track/6vunTc3ElwejXHngcut7el) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [The Way It Would Be](https://open.spotify.com/album/4vd5ISaBt9DKezwJ8PKnDj) | 2:18 | 2022-04-13 | 2022-07-27 |

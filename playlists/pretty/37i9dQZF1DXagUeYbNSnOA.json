@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Carmen S\u00e1nchez Viamonte. Updates every Wednesday.",
-  "num_followers": 171975,
+  "num_followers": 171988,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzBmYjhmYTVjNmY0ZTAxMzExOWQzNTZiMjVlNjZiYzhkMTNhZDFl",
+  "snapshot_id": "MCwzZjUyMzQ5ZmIzMzkxMzk2ZWM0MDU0NGExZDAzODk5ODIwODg5N2Ux",
   "tracks": [
     {
       "added_at": "2023-08-23 02:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "Pa Lxs Ni\u00f1xs Tristes",
-        "url": "https://open.spotify.com/album/3hjzDKMfph8AtfS5wC6F8X"
-      },
-      "artists": [
-        {
-          "name": "Miguel Guerrero",
-          "url": "https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6"
-        }
-      ],
-      "duration_ms": 172627,
-      "name": "Tratando de olvidar",
-      "url": "https://open.spotify.com/track/1dhFPv566hlN4IWaaQzcMk"
-    },
-    {
-      "added_at": "2023-08-23 02:00:00",
-      "album": {
         "name": "TUYO",
         "url": "https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 189232,
       "name": "TUYO",
       "url": "https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF"
+    },
+    {
+      "added_at": "2023-08-23 02:00:00",
+      "album": {
+        "name": "Pa Lxs Ni\u00f1xs Tristes",
+        "url": "https://open.spotify.com/album/3hjzDKMfph8AtfS5wC6F8X"
+      },
+      "artists": [
+        {
+          "name": "Miguel Guerrero",
+          "url": "https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6"
+        }
+      ],
+      "duration_ms": 172627,
+      "name": "Tratando de olvidar",
+      "url": "https://open.spotify.com/track/1dhFPv566hlN4IWaaQzcMk"
     },
     {
       "added_at": "2023-08-23 02:00:00",
@@ -427,38 +427,6 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "Polos Vol. II",
-        "url": "https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV"
-      },
-      "artists": [
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
-        }
-      ],
-      "duration_ms": 232888,
-      "name": "Astronauta",
-      "url": "https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk"
-    },
-    {
-      "added_at": "2023-08-23 02:00:00",
-      "album": {
-        "name": "OTRA MANERA",
-        "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "Otra Manera",
-      "url": "https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp"
-    },
-    {
-      "added_at": "2023-08-23 02:00:00",
-      "album": {
         "name": "La Vida No Quiso",
         "url": "https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz"
       },
@@ -475,6 +443,22 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
+        "name": "Polos Vol. II",
+        "url": "https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
+        }
+      ],
+      "duration_ms": 232888,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk"
+    },
+    {
+      "added_at": "2023-08-23 02:00:00",
+      "album": {
         "name": "lo-fi",
         "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 175392,
       "name": "lo-fi",
       "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
+    },
+    {
+      "added_at": "2023-08-23 02:00:00",
+      "album": {
+        "name": "OTRA MANERA",
+        "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "Otra Manera",
+      "url": "https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp"
     },
     {
       "added_at": "2023-08-23 02:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/5zpToVFpV0fWUuZAbLoG4X"
-      },
-      "artists": [
-        {
-          "name": "Liana Malva",
-          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
-        }
-      ],
-      "duration_ms": 162118,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/19mB6i7AW9Fu8Fa6WT4dSR"
-    },
-    {
-      "added_at": "2023-08-23 02:00:00",
-      "album": {
         "name": "Anime",
         "url": "https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "El Camino al Infierno Esta Lleno de Buenas Intenciones",
-        "url": "https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj"
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/5zpToVFpV0fWUuZAbLoG4X"
       },
       "artists": [
         {
-          "name": "Almirante Ackbar",
-          "url": "https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U"
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
         }
       ],
-      "duration_ms": 116084,
-      "name": "Universitario de Deportes",
-      "url": "https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91"
+      "duration_ms": 162118,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/19mB6i7AW9Fu8Fa6WT4dSR"
     },
     {
       "added_at": "2023-08-23 02:00:00",
@@ -575,6 +559,22 @@
       "duration_ms": 240228,
       "name": "Amar",
       "url": "https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK"
+    },
+    {
+      "added_at": "2023-08-23 02:00:00",
+      "album": {
+        "name": "El Camino al Infierno Esta Lleno de Buenas Intenciones",
+        "url": "https://open.spotify.com/album/5zEihTcgANLBe4YWAXhlJj"
+      },
+      "artists": [
+        {
+          "name": "Almirante Ackbar",
+          "url": "https://open.spotify.com/artist/2zDkWvzvjkJttnydwEzY7U"
+        }
+      ],
+      "duration_ms": 116084,
+      "name": "Universitario de Deportes",
+      "url": "https://open.spotify.com/track/4r0Jeq4S2IfmrG9NxrHq91"
     },
     {
       "added_at": "2023-08-23 02:00:00",

@@ -10443,6 +10443,28 @@
     },
     {
       "album": {
+        "name": "Basiquinho 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4gQn518AlJTi1moJUgK1pz"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169835,
+      "name": "N\u00e3o Vital\u00edcio (Nunca Mais) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KGyltc1ugN2WFcjkSPHwh"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Vital\u00edcio (Nunca Mais) [Ao Vivo]",
         "url": "https://open.spotify.com/album/32W4niZLdaaIWUMBf4yGmB"
       },
@@ -10458,7 +10480,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 169835,
       "name": "N\u00e3o Vital\u00edcio (Nunca Mais) - Ao Vivo",
       "url": "https://open.spotify.com/track/4sqpSDnTrbS8v7RMNCUyqS"
@@ -10874,7 +10896,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 122666,
       "name": "Papin",
       "url": "https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT"
@@ -11886,7 +11908,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 173725,
       "name": "Principalmente Me Sinto Arrasada",
       "url": "https://open.spotify.com/track/01rHeOr2LuMzcfwUrFYgiI"
@@ -12224,7 +12246,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 162865,
       "name": "Quem t\u00e1 Pegando",
       "url": "https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD"
@@ -14114,10 +14136,28 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 129692,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/4lrvlZwLnLYlXLhP5dH7DV"
+    },
+    {
+      "album": {
+        "name": "Ciclone",
+        "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129692,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0"
     },
     {
       "album": {
@@ -14784,6 +14824,24 @@
       "duration_ms": 203075,
       "name": "T\u00e1 Rocheda",
       "url": "https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK"
+    },
+    {
+      "album": {
+        "name": "T\u00f4 Voltando (Boiadeira Internacional)",
+        "url": "https://open.spotify.com/album/6XSzObpAsubR64mMnbmyt8"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177327,
+      "name": "T\u00f4 Voltando - (Boiadeira Internacional)",
+      "url": "https://open.spotify.com/track/7G2yGMHlcPPTCDhMrAaMyZ"
     },
     {
       "album": {

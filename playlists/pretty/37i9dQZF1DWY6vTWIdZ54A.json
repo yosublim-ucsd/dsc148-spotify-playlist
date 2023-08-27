@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 478913,
+  "num_followers": 479050,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjljN2JlYTFkNTI1M2YzNzRjNDEzNzg5NzNiMTRjY2ExMWU4M2Ri",
+  "snapshot_id": "MCxiNTkwMTMyZjJjOTY1Y2NmNTdkMzU0NGY4MzExMzAzNzAzMmQ3ZmUx",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -319,8 +319,8 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Mountains At Midnight",
-        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 186196,
-      "name": "Mountains At Midnight",
-      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -431,8 +431,8 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+        "name": "Mountains At Midnight",
+        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Down To The Bottom",
-        "url": "https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG"
+        "name": "Dirty Honey",
+        "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
         }
       ],
-      "duration_ms": 152468,
-      "name": "Down To The Bottom",
-      "url": "https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA"
+      "duration_ms": 205090,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Dirty Honey",
-        "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
+        "name": "Down To The Bottom",
+        "url": "https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG"
       },
       "artists": [
         {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
         }
       ],
-      "duration_ms": 205090,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
+      "duration_ms": 152468,
+      "name": "Down To The Bottom",
+      "url": "https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 160543,
-      "name": "Eagle Birds",
-      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 219522,
       "name": "Black and Red",
       "url": "https://open.spotify.com/track/1DJVvKIX6niMWGUitYkM1f"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "Eagle Birds",
+      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Rest In Peace",
         "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 217327,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "ROCKISDEAD",
+        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 189769,
+      "name": "Dark Nights",
+      "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Mercy Mercy",
         "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 187890,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "ROCKISDEAD",
-        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 189769,
-      "name": "Dark Nights",
-      "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Phosphene Dream",
         "url": "https://open.spotify.com/album/3FEcbSaWwrVFglM8lD9RRZ"
       },
@@ -1355,22 +1339,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
       },
       "artists": [
         {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
-        },
-        {
-          "name": "Brad Wilk",
-          "url": "https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 173048,
-      "name": "The Woods",
-      "url": "https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz"
+      "duration_ms": 176373,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        },
+        {
+          "name": "Brad Wilk",
+          "url": "https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o"
+        }
+      ],
+      "duration_ms": 173048,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "S.I.D.E.S.",
-        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
-      },
-      "artists": [
-        {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Hannah Wicklund & The Steppin Stones",
         "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 164645,
       "name": "Bomb Through the Breeze",
       "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "S.I.D.E.S.",
+        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
     },
     {
       "added_at": "2023-07-07 04:01:00",

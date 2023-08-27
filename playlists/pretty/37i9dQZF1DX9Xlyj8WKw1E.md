@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA?si=sa1MczKmTbStHjRz0SIwNg">Babyface Ray</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,571 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,588 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 58 | [Faith](https://open.spotify.com/track/7JNchwM83hSloG03hOvgqy) | [D2x](https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA) | [Faith](https://open.spotify.com/album/5ePwZIxJlUuqYG8TpwOldy) | 3:16 |
 | 59 | [Numbers](https://open.spotify.com/track/2QuxgH5460sE8rUoi8MVPo) | [SoloSam](https://open.spotify.com/artist/45hmyXoTVMtPASGkZwUqY7) | [Numbers](https://open.spotify.com/album/0FfV5QpUnOyW4Bus449JR4) | 2:44 |
 
-Snapshot ID: `MCwwY2I5MTVmMDNlYmExNWVlOTZkNmNkNTE0MGVjYzI5MDhjYjNhZjE1`
+Snapshot ID: `MCw4NjUwYzA2ZTQ4NjA0ZTJmNDhmOWRhYzA1NzA3MWQ5MzFhZWNjOGMw`

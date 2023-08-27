@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 886376,
+  "num_followers": 886668,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDI3MzRiZjY1YTc5ODJjMjU5NjgwMjIzZTJhNzQwOThhMDNkZDI0",
+  "snapshot_id": "MCxmYWE5NTFkYTMwZjg2MzFmMWM0ZDYxM2U3NmQ4NjM1ZWU3NDFiOGU1",
   "tracks": [
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Acoustic Favourites",
-        "url": "https://open.spotify.com/album/3tYngR2cnIgJPRtUwv5S1Z"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 126827,
-      "name": "I Feel It Coming - Acoustic Live Lounge",
-      "url": "https://open.spotify.com/track/6rTmz0BVcErmi00dmEMDFn"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Acoustic Favourites",
+        "url": "https://open.spotify.com/album/3tYngR2cnIgJPRtUwv5S1Z"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 126827,
+      "name": "I Feel It Coming - Acoustic Live Lounge",
+      "url": "https://open.spotify.com/track/6rTmz0BVcErmi00dmEMDFn"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "#Acoustic #2",
-        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Heaven Is a Place on Earth",
-      "url": "https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
       },
@@ -1263,22 +1247,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Ordinary World",
-        "url": "https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 314343,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "The Tip Jar Volume One",
         "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
       },
@@ -1291,6 +1259,38 @@
       "duration_ms": 298800,
       "name": "Hey Ya - solo version",
       "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "#Acoustic #2",
+        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://open.spotify.com/track/674WNL7f5Xo8XxtipzB3ao"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Ordinary World",
+        "url": "https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 314343,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Between the Bars",
-        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 260053,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 194129,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Between the Bars",
+        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
         "name": "Cold Water",
         "url": "https://open.spotify.com/album/0MVvWDGTxhdNV1KcwmUoyO"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
+        "name": "Black Pumas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
       },
       "artists": [
         {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+      "duration_ms": 341053,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1571,22 +1587,6 @@
       "duration_ms": 269946,
       "name": "How to Save a Life - Live in Nashville, TN - December 2006",
       "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
-        "name": "Black Pumas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 341053,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/68o7eSZOP2kT4Of3mgiWKw"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Brandy (You're a Fine Girl)",
-        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
-      },
-      "artists": [
-        {
-          "name": "Catey Shaw",
-          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
-        }
-      ],
-      "duration_ms": 208198,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Youtube Sessions",
         "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 185500,
       "name": "Sex On Fire",
       "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Brandy (You're a Fine Girl)",
+        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
+      },
+      "artists": [
+        {
+          "name": "Catey Shaw",
+          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
+        }
+      ],
+      "duration_ms": 208198,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Don't Wanna Know - Acoustic Version",
+      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7tIOWu8jlPjnzDIGmDrjSY"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 166701,
       "name": "She's On My Mind - Guitar Acoustic",
       "url": "https://open.spotify.com/track/6O2cwVw0mjWxq98rI4YfVz"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
-        "name": "#Acoustic",
-        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Don't Wanna Know - Acoustic Version",
-      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/5eAqisChf22yDfAABxciv1"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Think Before I Talk (Acoustic)",
         "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 217400,
       "name": "Think Before I Talk - Acoustic",
       "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/5eAqisChf22yDfAABxciv1"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd"
     },
     {
       "added_at": "2023-06-27 12:12:43",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-06-27 12:12:43",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/6swbkdvrS8P0uq03AcFQiJ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "You're The One That I Want",
-      "url": "https://open.spotify.com/track/2GcCFSXhiEkIya9tcAdk2M"
-    },
-    {
-      "added_at": "2023-06-27 12:12:43",
-      "album": {
         "name": "Hello (Adele Cover)",
         "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 230225,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
+    },
+    {
+      "added_at": "2023-06-27 12:12:43",
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/6swbkdvrS8P0uq03AcFQiJ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "You're The One That I Want",
+      "url": "https://open.spotify.com/track/2GcCFSXhiEkIya9tcAdk2M"
     },
     {
       "added_at": "2023-06-27 12:12:43",

@@ -1,12 +1,12 @@
 {
   "description": "Great food, good company and some soft music. ",
-  "num_followers": 686352,
+  "num_followers": 686403,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmJlNjJjYTBmYTNkZWU5ZjU3OTQzNTQzMDZjYWJmM2NiZDVmZDcy",
+  "snapshot_id": "MCxjMThjYTgyZThkZTQ0ZWQxOTZiZDZjMDdiMjNiNDRhYzk5NmJhNWVh",
   "tracks": [
     {
       "added_at": "2023-04-19 19:13:35",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Lavender Haze (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
+        "name": "Pieces Of You",
+        "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Lavender Haze - Acoustic Version",
-      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
+      "duration_ms": 254480,
+      "name": "You Were Meant For Me",
+      "url": "https://open.spotify.com/track/7y7aSSTiQfO0Ace4F7yxzE"
     },
     {
       "added_at": "2023-04-19 19:13:35",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-04-19 19:13:35",
       "album": {
-        "name": "Pieces Of You",
-        "url": "https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr"
+        "name": "Lavender Haze (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
       },
       "artists": [
         {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 254480,
-      "name": "You Were Meant For Me",
-      "url": "https://open.spotify.com/track/7y7aSSTiQfO0Ace4F7yxzE"
+      "duration_ms": 174375,
+      "name": "Lavender Haze - Acoustic Version",
+      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
     },
     {
       "added_at": "2023-04-19 19:13:35",

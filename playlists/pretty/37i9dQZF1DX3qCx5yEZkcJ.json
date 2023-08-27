@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1489882,
+  "num_followers": 1489922,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTIzY2U2M2I5NjE1NmU2NjlhYzM0ZTk5OGNkM2ViMjVlZmIyNTdm",
+  "snapshot_id": "MCwwMjUxYmRmMjNlZDhlYzdmZTVhNGI1MzU3MWQ0ZDVhYjYxMjI4MTQ5",
   "tracks": [
     {
       "added_at": "2023-08-17 17:26:32",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-17 17:26:32",
       "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
-    },
-    {
-      "added_at": "2023-08-17 17:26:32",
-      "album": {
         "name": "Easy Feet",
         "url": "https://open.spotify.com/album/47PLWKaHsza5rCUmSw4Rqh"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 116893,
       "name": "Too Tired",
       "url": "https://open.spotify.com/track/30ksReCEcSpnfAm8XCC4G7"
+    },
+    {
+      "added_at": "2023-08-17 17:26:32",
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
     },
     {
       "added_at": "2023-08-17 17:26:32",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-17 17:26:32",
       "album": {
-        "name": "Radio Moonspatz",
-        "url": "https://open.spotify.com/album/0n0HZ3zcyl4INlWTw36I0m"
-      },
-      "artists": [
-        {
-          "name": "Moonspatz",
-          "url": "https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK"
-        }
-      ],
-      "duration_ms": 150429,
-      "name": "Think for Yourself",
-      "url": "https://open.spotify.com/track/6TgguvjwUbXg18vyLihVxv"
-    },
-    {
-      "added_at": "2023-08-17 17:26:32",
-      "album": {
         "name": "Whitecaps",
         "url": "https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 127760,
       "name": "Undercurrent",
       "url": "https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO"
+    },
+    {
+      "added_at": "2023-08-17 17:26:32",
+      "album": {
+        "name": "Radio Moonspatz",
+        "url": "https://open.spotify.com/album/0n0HZ3zcyl4INlWTw36I0m"
+      },
+      "artists": [
+        {
+          "name": "Moonspatz",
+          "url": "https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK"
+        }
+      ],
+      "duration_ms": 150429,
+      "name": "Think for Yourself",
+      "url": "https://open.spotify.com/track/6TgguvjwUbXg18vyLihVxv"
     },
     {
       "added_at": "2023-08-17 17:26:32",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-08-17 17:26:32",
       "album": {
-        "name": "Busy Bird",
-        "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
-      },
-      "artists": [
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
-        },
-        {
-          "name": "Mirror Box",
-          "url": "https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F"
-        }
-      ],
-      "duration_ms": 130964,
-      "name": "Busy Bird",
-      "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
-    },
-    {
-      "added_at": "2023-08-17 17:26:32",
-      "album": {
         "name": "Night Vision",
         "url": "https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 90464,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL"
+    },
+    {
+      "added_at": "2023-08-17 17:26:32",
+      "album": {
+        "name": "Busy Bird",
+        "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
+      },
+      "artists": [
+        {
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        },
+        {
+          "name": "Mirror Box",
+          "url": "https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F"
+        }
+      ],
+      "duration_ms": 130964,
+      "name": "Busy Bird",
+      "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
     },
     {
       "added_at": "2023-08-17 17:26:32",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-08-17 17:26:32",
       "album": {
-        "name": "Tangerine Hues",
-        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
-      },
-      "artists": [
-        {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
-        },
-        {
-          "name": "Flavors",
-          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Tangerine Hues",
-      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
-    },
-    {
-      "added_at": "2023-08-17 17:26:32",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
@@ -1219,26 +1199,22 @@
     {
       "added_at": "2023-08-17 17:26:32",
       "album": {
-        "name": "Hip Shop",
-        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
+        "name": "Tangerine Hues",
+        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
       "artists": [
         {
-          "name": "Coffee Date",
-          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
         },
         {
-          "name": "Curly",
-          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
-        },
-        {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+          "name": "Flavors",
+          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
         }
       ],
-      "duration_ms": 123008,
-      "name": "Hip Shop",
-      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+      "duration_ms": 184346,
+      "name": "Tangerine Hues",
+      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
     },
     {
       "added_at": "2023-08-17 17:26:32",
@@ -1263,6 +1239,30 @@
       "duration_ms": 112065,
       "name": "Clout Chaser",
       "url": "https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5"
+    },
+    {
+      "added_at": "2023-08-17 17:26:32",
+      "album": {
+        "name": "Hip Shop",
+        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
+      },
+      "artists": [
+        {
+          "name": "Coffee Date",
+          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        }
+      ],
+      "duration_ms": 123008,
+      "name": "Hip Shop",
+      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
     },
     {
       "added_at": "2023-08-17 17:26:32",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-08-17 17:26:32",
       "album": {
-        "name": "gentle rain",
-        "url": "https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "gentle rain",
-      "url": "https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ"
-    },
-    {
-      "added_at": "2023-08-17 17:26:32",
-      "album": {
         "name": "Life in the Wild Garden",
         "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-08-17 17:26:32",
       "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+        "name": "gentle rain",
+        "url": "https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP"
       },
       "artists": [
         {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
         }
       ],
-      "duration_ms": 90383,
-      "name": "That's Just Me",
-      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
+      "duration_ms": 90000,
+      "name": "gentle rain",
+      "url": "https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ"
     },
     {
       "added_at": "2023-08-17 17:26:32",
@@ -1387,22 +1371,6 @@
     {
       "added_at": "2023-08-17 17:26:32",
       "album": {
-        "name": "Elevator (Remastered)",
-        "url": "https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N"
-      },
-      "artists": [
-        {
-          "name": "Marcus D",
-          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
-        }
-      ],
-      "duration_ms": 207291,
-      "name": "Elevator - Remastered",
-      "url": "https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD"
-    },
-    {
-      "added_at": "2023-08-17 17:26:32",
-      "album": {
         "name": "Restless Minds",
         "url": "https://open.spotify.com/album/0WldfGjBHGC793Dr3AMwmP"
       },
@@ -1415,6 +1383,38 @@
       "duration_ms": 129334,
       "name": "Restless Minds",
       "url": "https://open.spotify.com/track/6eMBHbovGi1RhRrViEtvaV"
+    },
+    {
+      "added_at": "2023-08-17 17:26:32",
+      "album": {
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+      },
+      "artists": [
+        {
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+        }
+      ],
+      "duration_ms": 90383,
+      "name": "That's Just Me",
+      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
+    },
+    {
+      "added_at": "2023-08-17 17:26:32",
+      "album": {
+        "name": "Elevator (Remastered)",
+        "url": "https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N"
+      },
+      "artists": [
+        {
+          "name": "Marcus D",
+          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
+        }
+      ],
+      "duration_ms": 207291,
+      "name": "Elevator - Remastered",
+      "url": "https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD"
     },
     {
       "added_at": "2023-08-17 17:26:32",
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2023-08-17 17:26:32",
       "album": {
-        "name": "ripple room",
-        "url": "https://open.spotify.com/album/1PKYM3W11OpTtq6bdlwoF8"
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/4WNsnmIpj9HjeBGxzo3PfR"
       },
       "artists": [
         {
-          "name": "Jadu Jadu",
-          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+          "name": "n o r m a l",
+          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
         }
       ],
-      "duration_ms": 169714,
-      "name": "piece of you",
-      "url": "https://open.spotify.com/track/19L7jhJgZFKBq2nVVtPHAO"
+      "duration_ms": 135357,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/3DGO1gNzHPGZQM4HDSwYyL"
     }
   ],
   "unique_name": "Mellow Beats",

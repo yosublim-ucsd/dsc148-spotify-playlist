@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6565\)
+## Playlists \(6570\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -854,6 +854,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Bollyhood](/playlists/pretty/37i9dQZF1DWU2tlzlUMZTA.md)
 - [Bollywood 2.O](/playlists/pretty/37i9dQZF1DX3A421vEQpsl.md)
 - [Bollywood Acoustic](/playlists/pretty/37i9dQZF1DWSwxyU5zGZYe.md)
+- [Bollywood Araby](/playlists/pretty/37i9dQZF1DX7cLxqtNO3zl.md)
 - [Bollywood Butter](/playlists/pretty/37i9dQZF1DWXtlo6ENS92N.md)
 - [Bollywood Dance Music](/playlists/pretty/37i9dQZF1DX8xfQRRX1PDm.md)
 - [Bollywood Jazz](/playlists/pretty/37i9dQZF1DX1lEmZQJ3oaw.md)
@@ -1819,6 +1820,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fiesta! Fiesta!](/playlists/pretty/37i9dQZF1DX9KJJbsGEwfj.md)
 - [Filipina\-American Women Creatives: Challenging the Arts & Society](/playlists/pretty/37i9dQZF1DWXl7YskCND7g.md)
 - [Film & TV Favorites: 90s Black Cinema](/playlists/pretty/37i9dQZF1DWZC2yew0xGiz.md)
+- [Filmi Ghazals](/playlists/pretty/37i9dQZF1DX2BezBRspddh.md)
 - [Fire Force \-炎炎ノ消防隊\-](/playlists/pretty/37i9dQZF1DWZUtUMYwCnJI.md)
 - [Fire Sounds](/playlists/pretty/37i9dQZF1DXaa8UmWJHYTU.md)
 - [Fireside Acoustic](/playlists/pretty/37i9dQZF1DX05VdJQ1gtnD.md)
@@ -2129,6 +2131,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Grade A](/playlists/pretty/37i9dQZF1DWT59aKliWtId.md)
 - [Graduation](/playlists/pretty/5pxi1UkDk0BbUPDTPjmi4v.md)
 - [Graduation Songs](/playlists/pretty/37i9dQZF1DXdfjr8o5AMIT.md)
+- [Gran Turismo Official Playlist](/playlists/pretty/37i9dQZF1DXe8lYSPpeC5c.md)
 - [Grand Hustle Gang Spotify Picks](/playlists/pretty/4C0S1zvtcMtk2notLxCL1J.md)
 - [Grand Theft Auto](/playlists/pretty/37i9dQZF1DX6RSJAsEDz7H.md)
 - [Grandes Unplugged](/playlists/pretty/37i9dQZF1DWWFNSpryCCH5.md)
@@ -3732,6 +3735,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Pumped Pop](/playlists/pretty/37i9dQZF1DX5gQonLbZD9s.md)
 - [Punjabi 101](/playlists/pretty/37i9dQZF1DX5cZuAHLNjGz.md)
 - [Punjabi Boliyan](/playlists/pretty/37i9dQZF1DWYvgG8eEwPaP.md)
+- [Punjabi Ghazals & Qawwalis](/playlists/pretty/37i9dQZF1DX9WDOjoils23.md)
 - [Punjabi Pump](/playlists/pretty/37i9dQZF1DXcQNdt1GHNdg.md)
 - [Punjabi Pyar](/playlists/pretty/37i9dQZF1DWSKoG4oVafMt.md)
 - [Punk Blues](/playlists/pretty/37i9dQZF1DWYV2xtYQARbp.md)
@@ -6264,6 +6268,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [de madrugada](/playlists/pretty/37i9dQZF1DX74B6icGDRE7.md)
 - [dear diary](/playlists/pretty/37i9dQZF1DX1vEe0OWx8Fn.md)
 - [dengo](/playlists/pretty/37i9dQZF1DXco6WE2xPt0R.md)
+- [desi crate diggin'](/playlists/pretty/37i9dQZF1DXbnBBzFWubbU.md)
 - [desi lofi](/playlists/pretty/37i9dQZF1DWWlfVnonJ8S6.md)
 - [do rockeeee](/playlists/pretty/37i9dQZF1DX0PYkdiz2e8k.md)
 - [domingo de bajón](/playlists/pretty/37i9dQZF1DXbpHTpY5uC1T.md)

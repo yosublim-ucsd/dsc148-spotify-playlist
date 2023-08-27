@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18896,
+  "num_followers": 18908,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTE5ZWI1NWU2OGIyMDNjNWVjM2MxYWFhNjIyN2ZkODg0Y2Q4MDBi",
+  "snapshot_id": "MCw4MjYyNTAxOWM3YTBlZTc5MTM3ZjE4OWZhYzcwOWY3NTY2NzAyMzkz",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "La Primera Exploracion",
-        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
-      },
-      "artists": [
-        {
-          "name": "Temporada de Tormentas",
-          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
-        }
-      ],
-      "duration_ms": 337560,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/4ItQlfDHnru0cP5zlfqtEn"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 259328,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/2byqdQCSM7RLq7J97BpD8B"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "La Primera Exploracion",
+        "url": "https://open.spotify.com/album/59xOCYVLOGYpUoygJU8ccU"
+      },
+      "artists": [
+        {
+          "name": "Temporada de Tormentas",
+          "url": "https://open.spotify.com/artist/1C78D9fdVfE6A4O09iplw4"
+        }
+      ],
+      "duration_ms": 337560,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6VKX4w8MblhshBO4GHZlQi"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "El Pr\u00f3ximo Verano",
-        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 269705,
-      "name": "El Pr\u00f3ximo Verano",
-      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Tiene Que Haber Un Mapa",
         "url": "https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 208216,
       "name": "Aforismos",
       "url": "https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "El Pr\u00f3ximo Verano",
+        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 269705,
+      "name": "El Pr\u00f3ximo Verano",
+      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Cronos",
-        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Cronos",
-      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Cronos",
+        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Cronos",
+      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "La Ciudad Que Dejamos",
+        "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 244952,
+      "name": "Hacia los Bosques",
+      "url": "https://open.spotify.com/track/3dKFsNU5RbbTx6530zjr7U"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "FLASH/TRASH",
         "url": "https://open.spotify.com/album/5VcMoARL6Cb8OW6fX2cjUI"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "La Ciudad Que Dejamos",
-        "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
       },
       "artists": [
         {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 244952,
-      "name": "Hacia los Bosques",
-      "url": "https://open.spotify.com/track/3dKFsNU5RbbTx6530zjr7U"
+      "duration_ms": 340200,
+      "name": "Medalla de Oro",
+      "url": "https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "S\u00faper Terror",
-        "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Medalla de Oro",
-      "url": "https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "El Club Audiovisual",
         "url": "https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ"
       },
@@ -1335,38 +1335,6 @@
       "duration_ms": 172823,
       "name": "Qu\u00e9 M\u00e1s Puedo Hacer?",
       "url": "https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Regalos",
-        "url": "https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO"
-      },
-      "artists": [
-        {
-          "name": "Cometas",
-          "url": "https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Regalos",
-      "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Ochocientos Envolventes al Sol",
-        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
-      },
-      "artists": [
-        {
-          "name": "Juan Mango",
-          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
-        }
-      ],
-      "duration_ms": 250517,
-      "name": "800 Vueltas Envolventes",
-      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Ochocientos Envolventes al Sol",
+        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
+      },
+      "artists": [
+        {
+          "name": "Juan Mango",
+          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
+        }
+      ],
+      "duration_ms": 250517,
+      "name": "800 Vueltas Envolventes",
+      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Sin Condiciones",
         "url": "https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj"
       },
@@ -1411,6 +1395,38 @@
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Regalos",
+        "url": "https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO"
+      },
+      "artists": [
+        {
+          "name": "Cometas",
+          "url": "https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Regalos",
+      "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 250770,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 250770,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Lo Que Queda",
         "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "De la Monarqu\u00eda a la Criptocracia",
-        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 167900,
-      "name": "De la Monarqu\u00eda a la Criptocracia",
-      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 216830,
       "name": "Tiembla",
       "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "De la Monarqu\u00eda a la Criptocracia",
+        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 167900,
+      "name": "De la Monarqu\u00eda a la Criptocracia",
+      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Nocturno",
+        "url": "https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh"
+      },
+      "artists": [
+        {
+          "name": "Los L\u00e1tigos",
+          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Nocturno",
+      "url": "https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Nocturno",
-        "url": "https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh"
-      },
-      "artists": [
-        {
-          "name": "Los L\u00e1tigos",
-          "url": "https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Nocturno",
-      "url": "https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Nota De Voz",
-        "url": "https://open.spotify.com/album/4NaeVyU5avNma2tUY41P8s"
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
       "artists": [
         {
-          "name": "Los Hermanos Laser",
-          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
         }
       ],
-      "duration_ms": 170839,
-      "name": "Nota De Voz",
-      "url": "https://open.spotify.com/track/07u8rikTmiY64DkJh1WAv9"
+      "duration_ms": 236890,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
     }
   ],
   "unique_name": "6PM Indie",

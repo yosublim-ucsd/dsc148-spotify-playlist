@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 36021,
+  "num_followers": 36043,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWEzZjQ5YWNjMGE1YWVkNGFkYTRlZGZkNmU3NDc1OWExYWYyODBm",
+  "snapshot_id": "MCwwYmEyZTRiOTg4YTdlNTI0ZGMyYzlkODVjN2FlOGEwYzAzNjU3MjBm",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Trio Ternura (Compacto 1973)",
-        "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
-      },
-      "artists": [
-        {
-          "name": "Trio Ternura",
-          "url": "https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "I Like It Like That",
         "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 185546,
       "name": "Soy El Rey",
       "url": "https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Trio Ternura (Compacto 1973)",
+        "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
+      },
+      "artists": [
+        {
+          "name": "Trio Ternura",
+          "url": "https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
       "artists": [
         {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
         }
       ],
-      "duration_ms": 231093,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88"
+      "duration_ms": 227906,
+      "name": "L\u00e1grimas negras",
+      "url": "https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
       },
       "artists": [
         {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
         }
       ],
-      "duration_ms": 227906,
-      "name": "L\u00e1grimas negras",
-      "url": "https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj"
+      "duration_ms": 231093,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Our Day Will Come",
+      "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/4d8IqRNN8UX3vxtS6jnBA8"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 112466,
       "name": "Remelexo",
       "url": "https://open.spotify.com/track/0jkR7EFXNnY1PHJ8pMYnd9"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Our Day Will Come",
-      "url": "https://open.spotify.com/track/1juZY0JbbkkATQP9LSeOQH"
     },
     {
       "added_at": "2021-03-15 16:04:53",

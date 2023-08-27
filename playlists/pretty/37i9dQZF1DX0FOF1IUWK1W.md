@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Luan Pereira, Gustavo Miotto e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,816,222 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,820,179 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Namorando Ou Não \- Ao Vivo](https://open.spotify.com/track/0ZAL7RbP2FsM3rObV60o7T) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Namorando Ou Não \(Ao Vivo\)](https://open.spotify.com/album/6ZjnfGC0jZM3gnucvMpbpf) | 2:48 |
 | 50 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
 
-Snapshot ID: `MCwzMzkzNDczNzVjMTliNmI5YzIyMTA5NmZhNGQ3ZjkxMWQyOGYxYTRk`
+Snapshot ID: `MCxmNTFmZTA3NzlkMjY1Zjg1NWM4NzNhN2FjOGUxOWY0YTBmYzBmZDg0`

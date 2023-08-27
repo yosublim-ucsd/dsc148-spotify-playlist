@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Get locked in with Kevin Durant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,900,725 likes - 94 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,901,231 likes - 94 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 | 93 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 |
 | 94 | [Woah](https://open.spotify.com/track/4MsxMuC4eDGYv8pT7snwsn) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Woah](https://open.spotify.com/album/3m5inGobCQghEu6MWsKKXS) | 3:03 |
 
-Snapshot ID: `MCwwNDVlMTk0NjE3ZWI3M2E0ZWZlMWU4M2I3ZTRlMWNiZGY5OGQwMTkx`
+Snapshot ID: `MCw3Zjg1ODEwZWFjYmY3NDkxMjA5NWM3ZDJkMTAzODIxYWEyOTA0OTRh`

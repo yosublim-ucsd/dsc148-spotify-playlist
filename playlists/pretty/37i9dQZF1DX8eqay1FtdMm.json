@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bNAUL(\ub098\uc5bc)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 324244,
+  "num_followers": 324276,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmE0ZTEyMDBiMGIxOGEyY2MxYTY3NmY1NWFkODdhY2RmMDQ3NmI4",
+  "snapshot_id": "MCwzZDFhMDVjMzJkMjU5Mzg0Mzc4NGEyMzU1NWJmZGI4MDk1ZGNlZDU0",
   "tracks": [
     {
       "added_at": "2023-08-24 15:47:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-24 15:47:31",
       "album": {
-        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
-      },
-      "artists": [
-        {
-          "name": "PARK MIN HYE",
-          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "After this night",
-      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
-    },
-    {
-      "added_at": "2023-08-24 15:47:31",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 217640,
       "name": "Myo (Cat)",
       "url": "https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z"
+    },
+    {
+      "added_at": "2023-08-24 15:47:31",
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
     },
     {
       "added_at": "2023-08-24 15:47:31",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-24 15:47:31",
       "album": {
-        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
-      },
-      "artists": [
-        {
-          "name": "Kim Min-seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
-    },
-    {
-      "added_at": "2023-08-24 15:47:31",
-      "album": {
         "name": "Way - SM STATION",
         "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2023-08-24 15:47:31",
       "album": {
-        "name": "in the bed",
-        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
+        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Kim Min-seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
         }
       ],
-      "duration_ms": 265058,
-      "name": "in the bed",
-      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+      "duration_ms": 272946,
+      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "added_at": "2023-08-24 15:47:31",
@@ -991,22 +975,18 @@
     {
       "added_at": "2023-08-24 15:47:31",
       "album": {
-        "name": "Need you (With Sung Si Kyung)",
-        "url": "https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL"
+        "name": "in the bed",
+        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
       "artists": [
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        },
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Need you (With Sung Si Kyung)",
-      "url": "https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD"
+      "duration_ms": 265058,
+      "name": "in the bed",
+      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
     },
     {
       "added_at": "2023-08-24 15:47:31",
@@ -1023,6 +1003,26 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2023-08-24 15:47:31",
+      "album": {
+        "name": "Need you (With Sung Si Kyung)",
+        "url": "https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        },
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Need you (With Sung Si Kyung)",
+      "url": "https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD"
     },
     {
       "added_at": "2023-08-24 15:47:31",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-08-24 15:47:31",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
+        "name": "Love Me Love Me",
+        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
       },
       "artists": [
         {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
+      "duration_ms": 206240,
+      "name": "Love Me Love Me",
+      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
     },
     {
       "added_at": "2023-08-24 15:47:31",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-08-24 15:47:31",
       "album": {
-        "name": "Love Me Love Me",
-        "url": "https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY"
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
       },
       "artists": [
         {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
         }
       ],
-      "duration_ms": 206240,
-      "name": "Love Me Love Me",
-      "url": "https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5"
+      "duration_ms": 179253,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
     },
     {
       "added_at": "2023-08-24 15:47:31",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-08-24 15:47:31",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 238022,
-      "name": "didn't know me",
-      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
-    },
-    {
-      "added_at": "2023-08-24 15:47:31",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2023-08-24 15:47:31",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 238022,
+      "name": "didn't know me",
+      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
     },
     {
       "added_at": "2023-08-24 15:47:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-08-24 15:47:31",
       "album": {
-        "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
-        "url": "https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo"
-      },
-      "artists": [
-        {
-          "name": "Lee Hong Ki (FTISLAND)",
-          "url": "https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
-      "url": "https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d"
-    },
-    {
-      "added_at": "2023-08-24 15:47:31",
-      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 227054,
       "name": "Tale",
       "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+    },
+    {
+      "added_at": "2023-08-24 15:47:31",
+      "album": {
+        "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
+        "url": "https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo"
+      },
+      "artists": [
+        {
+          "name": "Lee Hong Ki (FTISLAND)",
+          "url": "https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
+      "url": "https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d"
     },
     {
       "added_at": "2023-08-24 15:47:31",

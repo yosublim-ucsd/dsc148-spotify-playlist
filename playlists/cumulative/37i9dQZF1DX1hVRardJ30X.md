@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Fuerza Regida, Los Tucanes de Tijuana & Eden Muñoz
 
-5,003 songs - 10 day 23 hr 59 min
+5,004 songs - 11 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1329,6 +1329,7 @@
 | [Dunas](https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Dunas](https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK) | 1:48 | 2022-03-25 | 2022-04-02 |
 | [Dura](https://open.spotify.com/track/0QDc73zt34RicpTSQTohWl) | [Jey G](https://open.spotify.com/artist/3O5TMxEbadMK1xbBuK5kd4), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [Dura](https://open.spotify.com/album/3WX2grfkRPayqPlDGgAUms) | 3:58 | 2022-09-16 | 2022-09-24 |
 | [DURO](https://open.spotify.com/track/6Bix1x2zJnlvuLr2Xb6CXf) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Jenny "La Sexy Voz"](https://open.spotify.com/artist/38Zp4UKTgjSoGoto3WHBNr) | [DURO](https://open.spotify.com/album/6uE584km2jae91nY5N9yE4) | 3:38 | 2022-11-04 | 2022-11-12 |
+| [Duro Sin Frenos](https://open.spotify.com/track/6hxTmu8stKqHF0cuQttbiL) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz), [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp) | [Duro Sin Frenos](https://open.spotify.com/album/3kT2YDrQEGZzdUJacUz9TG) | 3:28 | 2023-08-26 |  |
 | [Dákiti](https://open.spotify.com/track/6Vd4yU6UaMqUDsBKmOXZ2y) | [Café](https://open.spotify.com/artist/1LABrN28jMKW5QQ6pXXXaj), [DEMOS records](https://open.spotify.com/artist/46mbWvlWV2LRkeK4md6yWv) | [Dákiti](https://open.spotify.com/album/2LZW54SRVeeaUtu2KsFdVr) | 3:43 | 2022-04-22 | 2022-04-29 |
 | [Dámelo](https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Dámelo](https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC) | 3:03 | 2023-08-11 | 2023-08-19 |
 | [Déjalo En Visto](https://open.spotify.com/track/47muEluwzPvFgpCGo5PT0m) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Déjalo En Visto](https://open.spotify.com/album/4pRtQajnKYpxiqYHgHvLeW) | 3:09 | 2023-06-23 | 2023-06-28 |

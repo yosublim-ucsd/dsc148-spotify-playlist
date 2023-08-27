@@ -1,12 +1,12 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 4303,
+  "num_followers": 4329,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzBlNDViMjg4Yjc2NDI5ODQwMTdlZGY3ZjkyMzE4ZmEwNTYxNTIx",
+  "snapshot_id": "MCwxZTMxMmYxNTA4MGViNzQ2M2E2NTQxZTYwNWNmNGJmYjVmYWIyYTlk",
   "tracks": [
     {
       "added_at": "2023-06-27 18:03:27",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Los Bandoleros",
-        "url": "https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 305666,
-      "name": "Bandoleros",
-      "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
         "name": "Loco Por Perrearte (Remix)",
         "url": "https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 199148,
       "name": "Loco Por Perrearte - Remix",
       "url": "https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
+        "name": "Los Bandoleros",
+        "url": "https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "Bandoleros",
+      "url": "https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl"
     },
     {
       "added_at": "2023-06-27 18:03:27",

@@ -4,7 +4,7 @@
 
 > a state of mind.
 
-100 songs - 5 hr 56 min
+101 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 | 2023-04-14 |  |
 | [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 | 2023-06-02 |  |
 | [Country State Of Mind](https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Montana Café](https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf) | 3:57 | 2023-04-14 |  |
-| [Cowboy From Wyoming](https://open.spotify.com/track/5ZFLAJUigZ3e8gnCUeElch) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [Help Me Make It Through The Night](https://open.spotify.com/album/1bAlxF7Xw4V1bjTg9s0uw3) | 3:40 | 2023-04-14 |  |
+| [Cowboy From Wyoming](https://open.spotify.com/track/2omiPTSdPCCYFrvjMNAkIZ) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [Help Me Make It Through The Night](https://open.spotify.com/album/5NkOSQuW0V8IegCscA3naz) | 2:23 | 2023-06-02 |  |
+| [Cowboy From Wyoming](https://open.spotify.com/track/5ZFLAJUigZ3e8gnCUeElch) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [Help Me Make It Through The Night](https://open.spotify.com/album/1bAlxF7Xw4V1bjTg9s0uw3) | 3:40 | 2023-04-14 | 2023-08-27 |
 | [Delta Dawn](https://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 2:55 | 2023-04-14 |  |
 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 | 2023-04-14 |  |
 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 | 2023-04-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 448147,
+  "num_followers": 448360,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTU0MDhiZDM5ZmVkNmUzODhjYWE0ZWVjOGY0ZDI0MjQ2NzVlMzQ2",
+  "snapshot_id": "MCw4OTRlN2FkYjc1ZDQxZTEzMGYyY2YyNTk5N2UzODQ1YWEzYTQ1ZjE1",
   "tracks": [
     {
       "added_at": "2023-07-21 22:14:09",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "melanchole",
-        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
-      },
-      "artists": [
-        {
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
-        }
-      ],
-      "duration_ms": 157648,
-      "name": "girl",
-      "url": "https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "Elsie",
         "url": "https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 208848,
       "name": "Choking on Flowers",
       "url": "https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "melanchole",
+        "url": "https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx"
+      },
+      "artists": [
+        {
+          "name": "salvia palth",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        }
+      ],
+      "duration_ms": 157648,
+      "name": "girl",
+      "url": "https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
+        "name": "Bedroom",
+        "url": "https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 226467,
+      "name": "Gush",
+      "url": "https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "ALLTHETIME",
+        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        }
+      ],
+      "duration_ms": 425680,
+      "name": "ALLTHETIME",
+      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
         "name": "i run like this",
         "url": "https://open.spotify.com/album/5dTdx1hbSnJtbLnvGajIRc"
       },
@@ -1255,38 +1287,6 @@
       "duration_ms": 237398,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
-        "name": "ALLTHETIME",
-        "url": "https://open.spotify.com/album/5mt0pY1lSysVsLl5Qqpb2T"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 425680,
-      "name": "ALLTHETIME",
-      "url": "https://open.spotify.com/track/3mU67YAZoGcENLRTu6gLxe"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
-        "name": "Bedroom",
-        "url": "https://open.spotify.com/album/7itRrAfbJnabbvrGRE7kFm"
-      },
-      "artists": [
-        {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
-        }
-      ],
-      "duration_ms": 226467,
-      "name": "Gush",
-      "url": "https://open.spotify.com/track/5ZKyMAM2Pwf2gUAtddtTlg"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 268909,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "home:so long",
         "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Elizabethtown.",
-        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
       },
       "artists": [
         {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
         }
       ],
-      "duration_ms": 136649,
-      "name": "mean creek.",
-      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
+      "duration_ms": 268909,
+      "name": "Let It Pass",
+      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1507,6 +1491,22 @@
       "duration_ms": 136506,
       "name": "i want to die in your arms",
       "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Elizabethtown.",
+        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 136649,
+      "name": "mean creek.",
+      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
     },
     {
       "added_at": "2023-07-21 22:14:09",

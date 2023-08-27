@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 48622,
+  "num_followers": 48668,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDIwNTI5YWE3M2QwNjVkNWE1NzcwYzMyMTczMDViOWQxMWU1NTFj",
+  "snapshot_id": "MCwwODNkOTY2NzNjZTIyZDYzMDk3ZTVhMjYwYmQyMjgyNDU1ZWRiMzlh",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181772,
+      "name": "Busy Earnin'",
+      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 216004,
       "name": "Every Other Freckle",
       "url": "https://open.spotify.com/track/6BVBkKpZK09NmifUMZqj1z"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/20vMfB4zgelkULugladUD3"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Girls Chase Boys",
-      "url": "https://open.spotify.com/track/3tInTDUq8wdIMw5ftohmqJ"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/20vMfB4zgelkULugladUD3"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Girls Chase Boys",
+      "url": "https://open.spotify.com/track/3tInTDUq8wdIMw5ftohmqJ"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 265893,
       "name": "Hazey",
       "url": "https://open.spotify.com/track/0Zg4tjgfqw9qzq7lXX2sUM"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181772,
-      "name": "Busy Earnin'",
-      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
     },
     {
       "added_at": "2021-09-03 05:42:37",

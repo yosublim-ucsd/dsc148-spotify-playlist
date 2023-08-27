@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-128 songs - 9 hr 29 min
+129 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adada Mazhaida](https://open.spotify.com/track/4uSy3HJM1MaBk6IeehkSgD) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Paiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/634XiL0HdManH26qduu9Xw) | 4:27 | 2021-08-16 |  |
 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 | 2021-10-15 | 2022-08-30 |
 | [Adiye \- From "Bachelor"](https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Adiye \(From "Bachelor"\)](https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8) | 4:32 | 2022-01-21 |  |
+| [Aga Naga](https://open.spotify.com/track/36A3x0sPYGUyz24SZfjtOb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Ponniyin Selvan Part\-2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Z3OH7wgqG7rLBZVVdTEcD) | 4:03 | 2023-08-27 |  |
 | [Agalaathey](https://open.spotify.com/track/3KD82UwQKkD3wg1uwH9Y3L) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Prithivee](https://open.spotify.com/artist/2C4HzkDtpEuDwxiqsy5nj7) | [Agalaathey \(From "Nerkonda Paarvai"\)](https://open.spotify.com/album/1qO8jUPcxBlF06wf0xGnum) | 4:36 | 2022-01-03 | 2022-02-19 |
 | [Anbae Peranbae](https://open.spotify.com/track/6qRiVOBexkxK4BxSt1j6rn) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [NGK \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PSOoUkPG2oOSOVqAk3L7r) | 4:29 | 2021-08-16 |  |
 | [Andha Kanna Paathaakaa](https://open.spotify.com/track/0qvoxfYodIfe14gaidhnsV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:14 | 2021-08-16 | 2022-10-12 |

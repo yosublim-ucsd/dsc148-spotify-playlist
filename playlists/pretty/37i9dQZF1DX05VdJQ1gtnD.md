@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,331 likes - 162 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,383 likes - 162 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 18 | [Shadow Mountain Road](https://open.spotify.com/track/0Qku1Xmz1hD569s8avKCYn) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Shadow Mountain Road](https://open.spotify.com/album/3ZZ558auGHvycTNuluHWAn) | 2:36 |
 | 19 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 |
 | 20 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 |
-| 21 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 |
+| 21 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 |
 | 22 | [Whisper](https://open.spotify.com/track/6FNat5nqFlDpksBlvTX4n2) | [Marty Defough](https://open.spotify.com/artist/5IeOpT1hJjJsbhpQTpErpt) | [Whisper](https://open.spotify.com/album/0CSv2I9G6woAROWzuNAGCw) | 2:07 |
 | 23 | [Dimmed Lights](https://open.spotify.com/track/2UL7PF3Se0NAQ8DJ0b6CEp) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Dimmed Lights](https://open.spotify.com/album/3C9tX2Ev56LmBDd1Z5KUBh) | 3:37 |
 | 24 | [Hügel des Nordens](https://open.spotify.com/track/5TZZrFfHQQBFPOgFeTMl9v) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Hügel des Nordens](https://open.spotify.com/album/01C4mq3tGQZVG5kUMUHVhn) | 2:03 |
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 114 | [Stream](https://open.spotify.com/track/0iQJKde2ceeY5iu7zX4b6s) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Stream](https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE) | 2:41 |
 | 115 | [Life of Joy](https://open.spotify.com/track/5nnB2HZH1683ya7AryXY7E) | [Nick Neon](https://open.spotify.com/artist/3xdbwxCQZIeD6AChx3aYxg) | [Life of Joy](https://open.spotify.com/album/7yDXJuDQGEobPOVq16lD6j) | 2:31 |
 | 116 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 |
-| 117 | [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Benjamin Fitzpatrick](https://open.spotify.com/artist/3IXaliW54FH8AanaBHlqnW) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 |
+| 117 | [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 |
 | 118 | [Asian Delight](https://open.spotify.com/track/0EQOLN8bCteRj62De3MLSn) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Asian Delight](https://open.spotify.com/album/3EhfE5X0ILlNI30Yt3trQ2) | 3:28 |
 | 119 | [Another Year](https://open.spotify.com/track/1yNM4fnj0ixfRn6EIPJi9F) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/6O6RtPJPOFiQvYeGXFJzBN) | 2:07 |
 | 120 | [Blue River](https://open.spotify.com/track/4H37WSMDCFhcThyII8qadN) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Blue River](https://open.spotify.com/album/2Ia0ecssrRep5zHZERBCC8) | 3:32 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 161 | [New Leaf](https://open.spotify.com/track/0lgEKJERZvY8vGgbQMVYGS) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Will Moore](https://open.spotify.com/artist/6XnR821CI0nzD4XFQ2ZFDo) | [New Leaf](https://open.spotify.com/album/6xrjggEWZ8tiUtMi0jJJiw) | 2:42 |
 | 162 | [anticipation](https://open.spotify.com/track/0OhvlAMiXwy7i9dbnXbOWH) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 3:46 |
 
-Snapshot ID: `MCw5MWI0MDE4NmY5ZTlkOTJiMmNlOGUzMmFmZTNkNzA1N2U0NzQzZDFk`
+Snapshot ID: `MCw3YzMzZmVkMWUzNWI5Yzk4MzlkYjQ0ODdhNjc2ZjY5NTEwYTQ5NjZj`

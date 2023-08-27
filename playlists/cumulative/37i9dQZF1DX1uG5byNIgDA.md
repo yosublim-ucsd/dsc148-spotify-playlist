@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-353 songs - 19 hr 44 min
+354 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2021-12-06 | 2022-07-26 |
 | [Heaven's Cloud](https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:52 | 2021-12-06 |  |
 | [Hello](https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Hello](https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb) | 3:35 | 2021-12-06 | 2022-04-13 |
-| [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2021-12-06 |  |
+| [Hello](https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:38 | 2021-12-06 | 2023-08-27 |
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-14 |  |
 | [Hello & Goodbye](https://open.spotify.com/track/450FHuomgvdo8A2R2c4heJ) | [WE'D](https://open.spotify.com/artist/7trC9e4GPEaZxz3CLvrKdL) | [Hello & Goodbye](https://open.spotify.com/album/1nMU9isJO8vTagFsPHFUyB) | 3:09 | 2023-06-07 | 2023-06-16 |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-12-06 |  |
@@ -195,6 +195,7 @@
 | [Maybe Love \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/2e9FxFUXA7aMG83FbtKGOv) | [David Yong](https://open.spotify.com/artist/057st5Jqv9uVqmX3Hsn8KY), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Maybe Love](https://open.spotify.com/album/6qRcx0YZEneezi5FtwLiJN) | 3:20 | 2023-04-26 | 2023-05-24 |
 | [Maybe 어쩌면 우리는](https://open.spotify.com/track/4OD37S64mGB3wpz6m3ZzdI) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [The Face of Summer 여름의 민낯](https://open.spotify.com/album/0e32YikNghPPNt0i4bzvgm) | 3:15 | 2022-03-23 | 2022-04-18 |
 | [meanings!](https://open.spotify.com/track/4VHsZqeNb9I9bIq5wgfDb6) | [DOF2D](https://open.spotify.com/artist/43K46m9kGWG6LH1gjGa1it) | [We Don't Have To Cry](https://open.spotify.com/album/4JuHBqEHQJpjKA3cHXj0rW) | 3:16 | 2021-12-28 | 2022-01-12 |
+| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-24 |  |
 | [Miss You](https://open.spotify.com/track/2Q6vn3Pz85m9ttt9mOm5qZ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Miss You](https://open.spotify.com/album/01Ko1HQowbmrPM3awKqZsP) | 2:52 | 2022-04-04 | 2022-04-21 |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2021-12-06 |  |
 | [Mixtape : OH](https://open.spotify.com/track/4SG1tUCousFCmPeayNNelN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : OH](https://open.spotify.com/album/4ETs8IH0JzWfjv8OWql58f) | 3:32 | 2021-12-06 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-78 songs - 4 hr 36 min
+79 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 | 2022-10-13 |  |
 | [Do Your Ting](https://open.spotify.com/track/35lAY27HwxYqDf2wKCIYXt) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/6vb64AUqN5DVTlGROkmxjD) | 3:12 | 2022-10-13 | 2023-06-16 |
 | [Do Your Ting](https://open.spotify.com/track/5drUpHQlsBIbHDjIrUBreO) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/6GqkxKrqcWZVC2aYhbHx06) | 3:12 | 2021-02-24 | 2022-09-16 |
+| [Do Your Ting](https://open.spotify.com/track/7pXiEvsPrQDXfgl1Cq1I8m) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/2H6K5EZURlSU5dnnlEFJxU) | 3:12 | 2022-10-13 |  |
 | [Election Time](https://open.spotify.com/track/5wBauhWmIU3IbThhEl05zg) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Election Time](https://open.spotify.com/album/3QyJ6rtQyRluGQKo8a6lRS) | 2:31 | 2021-02-24 |  |
 | [Energy](https://open.spotify.com/track/6C76s0vqIxMnVH7ZOsdtS2) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Jemere Morgan](https://open.spotify.com/artist/7t3wkXOe1VYGzhIbhSPEV3) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:32 | 2022-10-13 |  |
 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 | 2021-02-24 |  |
@@ -63,7 +64,7 @@
 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 | 2021-02-24 |  |
 | [Plastic Smile](https://open.spotify.com/track/55cJxAVdfFkkoavazIsqev) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv), [Bakersteez](https://open.spotify.com/artist/7ME0YHfCVRdZOfApJmHGhh) | [Plastic Smile](https://open.spotify.com/album/75XgUIt3RiQTe9KMFJ8Yns) | 3:43 | 2021-02-24 | 2022-09-26 |
 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 | 2021-02-24 |  |
-| [Same Ole Song](https://open.spotify.com/track/7iCUiFVauafAFjY7EbBJsW) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Now I Rise \(Deluxe Edition\)](https://open.spotify.com/album/60k6wvQw02aUj1Ds6GnPtD) | 3:57 | 2021-02-24 |  |
+| [Same Ole Song](https://open.spotify.com/track/7iCUiFVauafAFjY7EbBJsW) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Now I Rise \(Deluxe Edition\)](https://open.spotify.com/album/60k6wvQw02aUj1Ds6GnPtD) | 3:57 | 2021-02-24 | 2023-08-27 |
 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 | 2021-02-24 |  |
 | [Slow Down](https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:14 | 2021-02-24 |  |
 | [Stars Align](https://open.spotify.com/track/01zjFKZ2qDYDXJsNSmVm0i) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/4hO1czp6sMt5e2LfB5wdkF) | 3:21 | 2021-02-24 | 2022-07-29 |

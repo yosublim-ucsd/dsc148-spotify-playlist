@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 687343,
+  "num_followers": 687451,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjhjNmMwZGNmNTE4Nzc2NTk3ZTJmYzU4YzQ1ZDlhNGY4NWZmNzYy",
+  "snapshot_id": "MCxlZGVhNjU2NDZjZTQ4MzY5Mjg3NTMzZjA0YWYzYzZlNzQ3NzBmYzg2",
   "tracks": [
     {
       "added_at": "2023-08-21 14:49:33",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
         "name": "I Melt with You",
         "url": "https://open.spotify.com/album/52bkZUrqk2yqMChTrt7bQS"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 217344,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/2klm5iA7LfNZBdip5hAeVL"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 141653,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "The Essential The Chicks",
-        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
+        "name": "The Essential The Chicks",
+        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "Helplessly Hoping",
-        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 159229,
-      "name": "Helplessly Hoping",
-      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
         "name": "Playing Chess",
         "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 185755,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
+        "name": "Into The Mystic",
+        "url": "https://open.spotify.com/album/6v01VtaOOLotmKhVpje5CX"
+      },
+      "artists": [
+        {
+          "name": "Andy Kong",
+          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
+        }
+      ],
+      "duration_ms": 168354,
+      "name": "Into The Mystic",
+      "url": "https://open.spotify.com/track/2pYFL5jaZhhPSAy0sYQ2oj"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "Into The Mystic",
-        "url": "https://open.spotify.com/album/6v01VtaOOLotmKhVpje5CX"
+        "name": "Helplessly Hoping",
+        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
       },
       "artists": [
         {
-          "name": "Andy Kong",
-          "url": "https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP"
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
         }
       ],
-      "duration_ms": 168354,
-      "name": "Into The Mystic",
-      "url": "https://open.spotify.com/track/2pYFL5jaZhhPSAy0sYQ2oj"
+      "duration_ms": 159229,
+      "name": "Helplessly Hoping",
+      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "Stranger In A Strange Land",
-        "url": "https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 288618,
-      "name": "Stranger In A Strange Land",
-      "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
+        "name": "Stranger In A Strange Land",
+        "url": "https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 288618,
+      "name": "Stranger In A Strange Land",
+      "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 345773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
         "name": "Right Down the Line",
         "url": "https://open.spotify.com/album/6muAMiiU4vXRCckuoT29Dl"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 206508,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/4zcnVd6AAUtklIm1F2LruM"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 345773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
     },
     {
       "added_at": "2023-08-21 14:49:33",

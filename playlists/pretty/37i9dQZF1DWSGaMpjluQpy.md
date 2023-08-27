@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,740 likes - 99 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,967 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 | 98 | [Knep \- Rain](https://open.spotify.com/track/2CdvXIuW8jHByY469ph8k4) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Knep \- Rain](https://open.spotify.com/album/2VwdRqGWSTuW2flvR9gIym) | 3:54 |
 | 99 | [Myren](https://open.spotify.com/track/4JLkZzfYVaXBi1JtXTOdje) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:38 |
 
-Snapshot ID: `MCxjOGFjNmU1Nzg3YWRjMTFkNWQzNWU2NjcwMWM4YWQ3ZDU1NjVhMzkw`
+Snapshot ID: `MCw1N2YyNDcyMWU1N2I3ODAzMWI4Y2IyY2U5MDhkMjUxOTc3Y2EzMjZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Karen Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,207 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,261 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Peach Velvet Sky](https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Peach Velvet Sky](https://open.spotify.com/album/4kaMFxOjrLmf2jEQWJkNW9) | 5:50 |
 | 50 | [Impressions](https://open.spotify.com/track/23gpK7yn4WbIVmsIYpoR0H) | [Jean\-Michel Pilc](https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM), [Francois Moutin](https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp), [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz) | [YOU are the Song](https://open.spotify.com/album/2qbhhdGzYxQX5jKVsYCSlx) | 4:24 |
 
-Snapshot ID: `MCw1YjkzZTQyOTI0ZDY1MjA0NzcwZDcxZmU0Y2M2MzRjOGUyY2Q4NDY0`
+Snapshot ID: `MCw1YjY2ZjU3ZmQ1Yzg4ZDQ5OTE4NmQ4YTg0YjExOGFhMmJlY2IzZWFk`

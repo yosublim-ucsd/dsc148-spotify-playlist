@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Jessie Murph
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,012 likes - 144 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,339 likes - 144 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 86 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
 | 87 | [Cruise](https://open.spotify.com/track/42h2Xu7STf4tOpbtSWZKrX) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [A Lone Star Story](https://open.spotify.com/album/0veQN45mo3uWRUJJg143ZT) | 2:55 |
 | 88 | [More Me](https://open.spotify.com/track/05ZbkONztKDhdE4tC4OJqB) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [More Me](https://open.spotify.com/album/4P9iA68PjGj5qZjZQZ2sDx) | 2:22 |
-| 89 | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/3bo6LIVTrJAyn0CJOeBxXK) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/2ltEv5M5IiJEUkrQurPSVx) | 2:57 |
+| 89 | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/28YeYqCPDyhmJ76h5OE139) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/3t85iYWW2ZcXFvTJwW02nr) | 2:57 |
 | 90 | [For The Streets](https://open.spotify.com/track/5tROWQU6vABrC3acyyV7vS) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [For The Streets](https://open.spotify.com/album/6VMVB69fgbERk8zYGN55f2) | 2:45 |
 | 91 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
 | 92 | [Depression](https://open.spotify.com/track/0yxPUMQsHJXThYjYMoIJU5) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Depression](https://open.spotify.com/album/6O8efloF476sH5FzVzLYSw) | 4:09 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 143 | [Wild Man](https://open.spotify.com/track/7Kjj4hsN3ykO4LW4KH5rdF) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Wild Man](https://open.spotify.com/album/7FmBtjicBhC9jrdYjicsMZ) | 2:48 |
 | 144 | [A Sinner and A Saint](https://open.spotify.com/track/5uxc8WInrKasHQAZCZwTjG) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [A Sinner and A Saint](https://open.spotify.com/album/6kIKa6DGOj391Vj6KCD156) | 2:39 |
 
-Snapshot ID: `MCxiNmM5YzA1ZmI2ZWM3NjFlZGMxYjY0MTkxMmQ5MDNkZGYwYjdiNTg2`
+Snapshot ID: `MCxkYWE0MWVlOWRmMzA3NWQ5YzVhY2YxY2Y0NTQxN2QxM2QzYmIyNjFl`

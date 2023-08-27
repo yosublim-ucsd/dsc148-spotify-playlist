@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=a22ff423549d4950">Limoblaze</a>
 
-158 songs - 8 hr 1 min
+159 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 | 2022-07-30 |  |
 | [Efficient](https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Efficient](https://open.spotify.com/album/18HwWXrgptkhI2krmkHav2) | 2:44 | 2022-07-30 | 2023-08-26 |
 | [Emmanuel](https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Emmanuel](https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o) | 2:45 | 2023-05-19 | 2023-07-30 |
+| [Falala](https://open.spotify.com/track/64VQFnOF4na9PpqsSeg36E) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Falala](https://open.spotify.com/album/0LvzPRBuV6iLGBBuSLtP8u) | 2:56 | 2023-08-25 |  |
 | [Favor](https://open.spotify.com/track/62SfxrGZChnlj7JMgUj7X8) | [Soltune](https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Favor](https://open.spotify.com/album/6X2gMqX3ExUhv24Z9v8X7D) | 3:14 | 2023-01-05 | 2023-01-23 |
 | [Feeling Good](https://open.spotify.com/track/1hjfRY5lZd5XYAVRgCg1g8) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Greg Cox](https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt) | [Feeling Good](https://open.spotify.com/album/6sYCJnsF6Io91R5GOVlvFs) | 3:26 | 2022-12-16 | 2023-06-19 |
 | [For Me](https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [For Me](https://open.spotify.com/album/7vVLq5Jzpqevd43tAIx4eA) | 3:21 | 2023-02-10 |  |
@@ -120,7 +121,7 @@
 | [Protect Me](https://open.spotify.com/track/3U5WdumPOCSiM8SWdxHXPO) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Protect Me](https://open.spotify.com/album/6VlExPqlBOGkANum8fiiDW) | 2:44 | 2022-08-16 | 2022-09-12 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-05-19 |  |
 | [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 | 2023-05-19 |  |
-| [Regardless](https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Kunle Zakariya](https://open.spotify.com/artist/5IthKVE0Nw9YTB839E2Hsl), [Pure Streams](https://open.spotify.com/artist/5ImH5p41qhq8vkUQ3u2lNd) | [Regardless](https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE) | 4:59 | 2022-07-30 |  |
+| [Regardless](https://open.spotify.com/track/0lenZ13TEPH2pzwpa7WAnz) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Kunle Zakariya](https://open.spotify.com/artist/5IthKVE0Nw9YTB839E2Hsl), [Pure Streams](https://open.spotify.com/artist/5ImH5p41qhq8vkUQ3u2lNd) | [Regardless](https://open.spotify.com/album/6KbtVKh2Rmg2VCnx4fIKSE) | 4:59 | 2022-07-30 | 2023-08-27 |
 | [Relief](https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Relief](https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3) | 2:37 | 2022-09-18 | 2023-08-10 |
 | [Relying](https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Relying](https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL) | 3:44 | 2022-07-30 |  |
 | [Revival](https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o) | [SESS](https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip) | [Revival](https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ) | 2:35 | 2022-07-30 | 2023-06-08 |

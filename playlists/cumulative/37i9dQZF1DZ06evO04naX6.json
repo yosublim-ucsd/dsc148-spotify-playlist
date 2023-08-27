@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 165365,
       "name": "Cuanto Vale",
       "url": "https://open.spotify.com/track/7gFHQpK25UEsUkOe8XnOQF"
@@ -1372,6 +1372,28 @@
       "duration_ms": 144820,
       "name": "Te Suelto el Pelo 2023",
       "url": "https://open.spotify.com/track/5puuQNUEzQaXGvaf4fi17C"
+    },
+    {
+      "album": {
+        "name": "Trofeo",
+        "url": "https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Trofeo",
+      "url": "https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB"
     },
     {
       "album": {

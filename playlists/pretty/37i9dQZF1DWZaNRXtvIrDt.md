@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,783 likes - 70 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,790 likes - 70 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 14 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 15 | [Magic](https://open.spotify.com/track/02IwpmWcx201kEvq51NA8s) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Magic](https://open.spotify.com/album/3JIB4mCyKaYhxuxyp31vcJ) | 4:53 |
 | 16 | [Joint 2](https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz) | [Unsolicited Joints](https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB) | [Unsolicited Joints](https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r) | 6:18 |
-| 17 | [Naked \- 1\-800\-Girls Remix](https://open.spotify.com/track/2Lf4zUwZAP11mjgJGh2O4s) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [1\-800\-GIRLS](https://open.spotify.com/artist/09XCSviVAFm7kXPl3d5E5k) | [Naked \(1\-800\-Girls Remix\)](https://open.spotify.com/album/4x1ACDaFwrOKIPvU5IKgZ7) | 5:25 |
+| 17 | [Naked \- 1\-800 Girls Remix](https://open.spotify.com/track/2Lf4zUwZAP11mjgJGh2O4s) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [1\-800\-GIRLS](https://open.spotify.com/artist/09XCSviVAFm7kXPl3d5E5k) | [Naked \(1\-800 Girls Remix\)](https://open.spotify.com/album/4x1ACDaFwrOKIPvU5IKgZ7) | 5:25 |
 | 18 | [<3<3<3](https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [<3<3<3](https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE) | 3:05 |
 | 19 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 |
 | 20 | [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Clam Zone](https://open.spotify.com/track/52K66oJ6ZHC73J3lJ71QTY) | [DJ Life](https://open.spotify.com/artist/04BIVyq0BJcYluY7n3Mz0t) | [Guardian](https://open.spotify.com/album/7hWlh6VCsaWkvzukc86AHn) | 5:31 |
 | 70 | [Uncover \(Komang Remix\)](https://open.spotify.com/track/4Q92GLN2X0j2az1Z7O5kXN) | [Emma Volard](https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL), [Komang](https://open.spotify.com/artist/56MwiXqdnILouLqFJPx3nT) | [Deity Remixes](https://open.spotify.com/album/1Oa3HHgQVN5I6YzZ9cq0kz) | 3:54 |
 
-Snapshot ID: `MCxhNTJkY2M5NGU4YTE5YzJjYmNmOTVkZjliYzdmYzk5OWJhZjQxMzY1`
+Snapshot ID: `MCwyMjRhZGVkYmFhMWE4OTExOWRjMGU1NWJkMDQ0MjcwNGU3NTEwOTli`

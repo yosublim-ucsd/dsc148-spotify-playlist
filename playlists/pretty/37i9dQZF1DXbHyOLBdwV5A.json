@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 111456,
+  "num_followers": 111594,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzdkNWExOTk5MTc3MmY0YjE2NWFmYWQ2Yzc0MGIwZGFiMmQzNTdi",
+  "snapshot_id": "MCxmNWU5NjcwZWRmYjVhMWRlYTRkOTIyNTk5MWMyMjg5Y2MzZTYyNDQw",
   "tracks": [
     {
       "added_at": "2023-08-18 05:45:32",
@@ -723,30 +723,6 @@
     {
       "added_at": "2023-08-18 05:45:32",
       "album": {
-        "name": "Vamo Com Tudo",
-        "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
-      },
-      "artists": [
-        {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
-        },
-        {
-          "name": "YoungJhow",
-          "url": "https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Vamo Com Tudo",
-      "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
-    },
-    {
-      "added_at": "2023-08-18 05:45:32",
-      "album": {
         "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
         "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 161169,
       "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
       "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+    },
+    {
+      "added_at": "2023-08-18 05:45:32",
+      "album": {
+        "name": "Vamo Com Tudo",
+        "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
+      },
+      "artists": [
+        {
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+        },
+        {
+          "name": "YoungJhow",
+          "url": "https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Vamo Com Tudo",
+      "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
     },
     {
       "added_at": "2023-08-18 05:45:32",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-08-18 05:45:32",
       "album": {
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
+    },
+    {
+      "added_at": "2023-08-18 05:45:32",
+      "album": {
         "name": "Resposta",
         "url": "https://open.spotify.com/album/0KydLeQzuB2oGwxkQ4ZcvT"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 201230,
       "name": "Resposta",
       "url": "https://open.spotify.com/track/35KNTeAmlD23sUPxeIrmB0"
-    },
-    {
-      "added_at": "2023-08-18 05:45:32",
-      "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2023-08-18 05:45:32",

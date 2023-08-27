@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr Pig y Mario Bautista en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,879 likes - 81 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,882 likes - 81 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 29 | [Petricor](https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Petricor](https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG) | 3:24 |
 | 30 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 |
 | 31 | [UP \(Bzars Remix\)](https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9) | [UP \(Bzars Remix\)](https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g) | 2:22 |
-| 32 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
-| 33 | [Quemá](https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Quemá](https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB) | 2:29 |
+| 32 | [Quemá](https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Quemá](https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB) | 2:29 |
+| 33 | [Weekend](https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW) | [Juan Soto](https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN), [Lemon Mint](https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0) | [Weekend](https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7) | 4:12 |
 | 34 | [Back To You](https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Back To You](https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f) | 2:51 |
 | 35 | [Pass The Dutch](https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Pass The Dutch](https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj) | 3:28 |
 | 36 | [Sexy Velocity](https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Sexy Velocity](https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr) | 3:32 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 42 | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [Riallo](https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u), [Alexia Langis](https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x) | [Time \(feat\. Alexia Langis\)](https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi) | 3:07 |
 | 43 | [Ojos \- La Noche Mix \- Radio Edit](https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ) | [Jenna Kyle](https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Ojos \(La Noche Mix\)](https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45) | 3:00 |
 | 44 | [Density](https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp) | [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Delove](https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt) | [Density](https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl) | 2:41 |
-| 45 | [The Same Loop Again](https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0) | [The Same Loop Again](https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC) | 4:39 |
-| 46 | [Brake Test](https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN) | [Kevin Brand](https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS), [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Nitai Charan](https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I) | [Brake Test](https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI) | 2:17 |
+| 45 | [Brake Test](https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN) | [Kevin Brand](https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS), [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Nitai Charan](https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I) | [Brake Test](https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI) | 2:17 |
+| 46 | [The Same Loop Again](https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0) | [The Same Loop Again](https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC) | 4:39 |
 | 47 | [This Generation](https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [This Generation](https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK) | 2:52 |
 | 48 | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx) | [Sisster](https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF) | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/album/5lg33u4vnAOXOobeLNqyR1) | 3:29 |
 | 49 | [Fire](https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Riallo](https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [Fire](https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl) | 3:01 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 80 | [Take It](https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F) | [XIX](https://open.spotify.com/artist/4kujTclzOfCLEztutiKfRR) | [Take It](https://open.spotify.com/album/00pXCpxTg1iRi8VH6LG5SH) | 2:42 |
 | 81 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
 
-Snapshot ID: `MCw4NjNiMDE2NGM5Mjc1M2U0ZDg5ZTJjMjk2MDliNWY4ZmQ5ODczYTAz`
+Snapshot ID: `MCxmZmQ1Zjg2ZDk4YWY4YTk0ZmYyOWVjOTUxZjcwMGRlNjZjZWU1YWYz`

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 133425,
+  "num_followers": 133552,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjEzMjAwMWM2Mzg2YzQ1YjE0MzZmOWU1N2E2NmIwN2NjZDJlMGJi",
+  "snapshot_id": "MCwxMjkwYTY4OTg4NGQ4YTRjZDJiYzkyNzVjZjRmY2YyMjAyOTFmYzQ1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:48:05",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Like It Ain't (Stripped)",
-        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
+        "name": "Fall In Love (Acoustic)",
+        "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 156690,
-      "name": "Like It Ain't - Stripped",
-      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
+      "duration_ms": 238676,
+      "name": "Fall In Love - Acoustic",
+      "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
+        "name": "Like It Ain't (Stripped)",
+        "url": "https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 156690,
+      "name": "Like It Ain't - Stripped",
+      "url": "https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
         "name": "Girl On Fire (Acoustic)",
         "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 188709,
       "name": "Girl On Fire - Acoustic",
       "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
-        "name": "Hell Of A Way To Go (Acoustic)",
-        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 173126,
-      "name": "Hell Of A Way To Go - Acoustic",
-      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Originals",
-        "url": "https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C"
+        "name": "Hell Of A Way To Go (Acoustic)",
+        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
       },
       "artists": [
         {
-          "name": "Music Travel Love",
-          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 205498,
-      "name": "Hold onto Me",
-      "url": "https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq"
+      "duration_ms": 173126,
+      "name": "Hell Of A Way To Go - Acoustic",
+      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
+        "name": "Originals",
+        "url": "https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C"
+      },
+      "artists": [
+        {
+          "name": "Music Travel Love",
+          "url": "https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa"
+        }
+      ],
+      "duration_ms": 205498,
+      "name": "Hold onto Me",
+      "url": "https://open.spotify.com/track/0a45Bcf67CvGVCIaiydEzq"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 235053,
       "name": "2016",
       "url": "https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
-        "name": "I'm Not Prettier",
-        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 178191,
-      "name": "I'm Not Pretty - Acoustic",
-      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Fall In Love (Acoustic)",
-        "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
+        "name": "I'm Not Prettier",
+        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 238676,
-      "name": "Fall In Love - Acoustic",
-      "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
+      "duration_ms": 178191,
+      "name": "I'm Not Pretty - Acoustic",
+      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Sober & Skinny",
-        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 198719,
-      "name": "Sober & Skinny",
-      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "Hope It's Hot Out (Acoustic)",
         "url": "https://open.spotify.com/album/5f2fMbivqn3423xYIenThU"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 167833,
       "name": "Hope It's Hot Out (Acoustic)",
       "url": "https://open.spotify.com/track/7ky6iNhaSQGymvX3JEteyC"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
+        "name": "Sober & Skinny",
+        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 198719,
+      "name": "Sober & Skinny",
+      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
     },
     {
       "added_at": "2023-08-18 04:48:05",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-18 04:48:05",
       "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
-    },
-    {
-      "added_at": "2023-08-18 04:48:05",
-      "album": {
         "name": "Weekends Look A Little Acoustic These Days",
         "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 254989,
       "name": "You Didn\u2019t - Acoustic",
       "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
+    },
+    {
+      "added_at": "2023-08-18 04:48:05",
+      "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
     },
     {
       "added_at": "2023-08-18 04:48:05",

@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-690 songs - 1 day 17 hr 34 min
+693 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 | 2022-06-28 | 2023-08-14 |
 | [Alice In Wonderland](https://open.spotify.com/track/3I7ITtodK56QgpwLT7bMd2) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Alice In Wonderland](https://open.spotify.com/album/3HSDUYPQA61e3cMP6msC8l) | 4:04 | 2022-10-13 |  |
 | [Alive](https://open.spotify.com/track/2sHJ4oiPb8XWveU2aqOw4m) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Alive](https://open.spotify.com/album/2aXlJtP2pqXUcm8d7WwMWJ) | 3:20 | 2023-08-10 |  |
+| [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-25 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-10 |  |
 | [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-01-19 |  |
 | [All Of You](https://open.spotify.com/track/1lHu8rFjgnkUap7qLuW1Gs) | [Ted Lightfoot](https://open.spotify.com/artist/1IVEN0ymus5DucfVrSb5GK) | [In Love](https://open.spotify.com/album/3CIICQCZaPMNikF0SN5mPH) | 2:29 | 2022-06-28 |  |
@@ -100,7 +101,7 @@
 | [Butterfly Princess](https://open.spotify.com/track/1kLzeHGRyVzACePnPikgsy) | [Midnight Sound Band](https://open.spotify.com/artist/17OGBXahBsPFrJWsHMhRzJ) | [She Stole My Heart](https://open.spotify.com/album/3VbY9AQXZ53DjldLT4sb23) | 3:39 | 2022-06-28 |  |
 | [Cabin In The Sky](https://open.spotify.com/track/1D1E8UfZDUk0FZ2ZhlW1OF) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Cabin In The Sky](https://open.spotify.com/album/3yNfNCgdYm2A4MBn8u72uG) | 3:24 | 2022-12-28 |  |
 | [Café Conversations](https://open.spotify.com/track/31QE8TMPJ85lWDq9qnmn14) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Café Conversations](https://open.spotify.com/album/2muK6k9bOIkTLkQXfXJ4TR) | 3:44 | 2023-08-17 |  |
-| [Caithness](https://open.spotify.com/track/6qmiDC8t6n6J817uqAhMYE) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Caithness](https://open.spotify.com/album/6DmokzCx6if1Lt1HCfvmKP) | 3:01 | 2022-06-28 |  |
+| [Caithness](https://open.spotify.com/track/6qmiDC8t6n6J817uqAhMYE) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Caithness](https://open.spotify.com/album/6DmokzCx6if1Lt1HCfvmKP) | 3:01 | 2022-06-28 | 2023-08-27 |
 | [Calm Seas Ahead](https://open.spotify.com/track/2K9uglBf8vJoTcIP4sapyr) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Calm Seas Ahead](https://open.spotify.com/album/3O9zTrL5NB7xexJ7Mh7SMC) | 2:27 | 2023-06-15 |  |
 | [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-02-02 |  |
 | [Canadian Trees](https://open.spotify.com/track/1N0XuJdOccAkBjWl37BxKh) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Canadian Trees](https://open.spotify.com/album/60d8GQmsHc8SQIzGedDClG) | 3:14 | 2023-03-09 |  |
@@ -164,6 +165,7 @@
 | [Easy Living](https://open.spotify.com/track/7o990iYFCMf3bCs8z5wGhs) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 4:43 | 2022-06-28 | 2023-06-18 |
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-06-28 | 2022-12-22 |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-07 |  |
+| [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-25 |  |
 | [Embraceable You](https://open.spotify.com/track/0TBwVpOEEwPDExkKPtnzef) | [Purple Patch Band](https://open.spotify.com/artist/0UOvMzVudGhlmOfu2aUBzK) | [Cheek to Cheek](https://open.spotify.com/album/4n1JQHYkpLpScpxqehAYT1) | 5:05 | 2022-06-28 | 2023-08-20 |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-20 |  |
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-15 |  |
@@ -173,7 +175,7 @@
 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 | 2022-06-28 |  |
 | [Every Time We Say Goodbye](https://open.spotify.com/track/7FRzl3GfBSkTTVzkpjTjnU) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 2:45 | 2023-06-15 |  |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-08 |  |
-| [Everything Happens To Me](https://open.spotify.com/track/1XD4j1jvrOyiRnkwrKhq7Q) | [Lisa Lugar](https://open.spotify.com/artist/2KsyjaK929SZ2dNuyCuDfO) | [Love For Sale EP](https://open.spotify.com/album/5j4OkS1RWFRJ0fNUHG88Xs) | 4:33 | 2022-06-28 |  |
+| [Everything Happens To Me](https://open.spotify.com/track/1XD4j1jvrOyiRnkwrKhq7Q) | [Lisa Lugar](https://open.spotify.com/artist/2KsyjaK929SZ2dNuyCuDfO) | [Love For Sale EP](https://open.spotify.com/album/5j4OkS1RWFRJ0fNUHG88Xs) | 4:33 | 2022-06-28 | 2023-08-27 |
 | [Everything I Have Is Yours](https://open.spotify.com/track/27IKNDm0VrpWOxW89GwxUZ) | [Oliver Richardson Quartet](https://open.spotify.com/artist/2IX0mWVO2XmeKTFJtSUJMv) | [A Time for Love](https://open.spotify.com/album/2ftEGm2HzSzFCnNP6MZJYd) | 4:54 | 2022-06-28 | 2023-08-13 |
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2022-06-28 |  |
 | [Everything I Love](https://open.spotify.com/track/3FVN9XVNvU2hc4HADT4I4i) | [Noodlin' Collective](https://open.spotify.com/artist/1N9SBlfwJKrnGEZ3bqAazY) | [Everything I Love](https://open.spotify.com/album/02xsVD9c3xV3SEIvqrf4v7) | 2:50 | 2023-06-15 |  |
@@ -396,6 +398,7 @@
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 |  |
 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 | 2023-02-08 |  |
 | [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-06-28 |  |
+| [Midnight Memories](https://open.spotify.com/track/2MsHAU74YmVSjtN7BXFtOS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Midnight Memories](https://open.spotify.com/album/1QOozr6l51QtdjLtXmZmkP) | 2:50 | 2023-08-25 |  |
 | [Midnight Moods](https://open.spotify.com/track/4nTbbttvaqWAuqs78RjFnd) | [Eight Bar Band](https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa) | [Midnight Moods](https://open.spotify.com/album/4LEcYRPLzM6qln70B05TS2) | 2:59 | 2023-04-20 |  |
 | [Midnight Serenade](https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Midnight Serenade](https://open.spotify.com/album/3wIeHoxZk52kgKVI4IjeQh) | 4:19 | 2023-08-10 |  |
 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-06-28 |  |
@@ -613,7 +616,7 @@
 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-07 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
 | [The View of Aurora](https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [The View of Aurora](https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T) | 2:48 | 2023-06-15 |  |
-| [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2022-06-28 |  |
+| [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2022-06-28 | 2023-08-27 |
 | [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-06-28 |  |
 | [The Windmill](https://open.spotify.com/track/0tQdWOKnJRthxwJ5Pr6ZBE) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [The Windmill](https://open.spotify.com/album/7igHbLzkcE9mOsMkKvIxXy) | 2:22 | 2023-06-15 |  |
 | [The Workers](https://open.spotify.com/track/1oXb2a7joQ4cre3t2W24hu) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [The Workers](https://open.spotify.com/album/3yW4cbRuICHZRsPCfHRSr0) | 3:26 | 2022-10-27 |  |

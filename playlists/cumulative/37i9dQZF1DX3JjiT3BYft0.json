@@ -3987,24 +3987,6 @@
     },
     {
       "album": {
-        "name": "TITLE IDOL",
-        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "date_added": "2022-09-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220600,
-      "name": "\u304d\u3085~\u307e\u3044*flower",
-      "url": "https://open.spotify.com/track/2fJThhwR3Y4kGXIFRGtGtt"
-    },
-    {
-      "album": {
         "name": "\u304d\u3085\u301c\u307e\u3044*flower",
         "url": "https://open.spotify.com/album/0hHVUOsumXqR5YJ9ueTcgx"
       },
@@ -4020,6 +4002,24 @@
       "duration_ms": 219333,
       "name": "\u304d\u3085\u301c\u307e\u3044*flower",
       "url": "https://open.spotify.com/track/09VlBUV2bN1Hk8KtXD59HS"
+    },
+    {
+      "album": {
+        "name": "TITLE IDOL",
+        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "\u304d\u3085\uff5e\u307e\u3044\uff0aflower",
+      "url": "https://open.spotify.com/track/2fJThhwR3Y4kGXIFRGtGtt"
     },
     {
       "album": {
@@ -4095,24 +4095,6 @@
     },
     {
       "album": {
-        "name": "TITLE IDOL",
-        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "date_added": "2022-09-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235100,
-      "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a~\u307f\u3093",
-      "url": "https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY"
-    },
-    {
-      "album": {
         "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a\u301c\u307f\u3093",
         "url": "https://open.spotify.com/album/2aHho1PWjQPTISk5rQH702"
       },
@@ -4128,6 +4110,24 @@
       "duration_ms": 233400,
       "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a\u301c\u307f\u3093",
       "url": "https://open.spotify.com/track/3sKveLmdaLsAXKmdNgEEfi"
+    },
+    {
+      "album": {
+        "name": "TITLE IDOL",
+        "url": "https://open.spotify.com/album/50vo1TV6EBHYVv7JrZtzbB"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235100,
+      "name": "\u3057\u3085\u308f\u308a\u3093\u2606\u3069\u308a\uff5e\u307f\u3093",
+      "url": "https://open.spotify.com/track/4viy9f3Ka81kR1Gf2U9hAY"
     },
     {
       "album": {

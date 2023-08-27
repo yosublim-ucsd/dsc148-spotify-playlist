@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-232 songs - 14 hr 12 min
+233 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Caju](https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:02 | 2022-02-04 | 2022-09-13 |
 | [Calafrio](https://open.spotify.com/track/33sjMToZ0G476SJIixKWG5) | [Califrê](https://open.spotify.com/artist/515mPwX4bpcVcTEZYKGVkg) | [Calafrio](https://open.spotify.com/album/3XXSRPhUUZrzuMddjWVCYF) | 3:47 | 2022-04-01 | 2022-07-09 |
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2022-02-04 |  |
-| [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 | 2022-05-06 |  |
+| [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 | 2022-05-06 | 2023-08-27 |
 | [Cara de Segunda](https://open.spotify.com/track/5fdn8MrzRBFVjTYuuC8YIh) | [Ina Magdala](https://open.spotify.com/artist/77b9EH7qYCrmbjrwBNaM5r) | [Cara de Segunda](https://open.spotify.com/album/4sxsQqJmmHJZApi0l6Dsw0) | 3:00 | 2022-06-03 | 2022-07-29 |
 | [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 | 2022-02-04 | 2023-05-13 |
 | [Cariocas](https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Cariocas / Por Que Você Faz Cinema?](https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA) | 3:43 | 2022-02-04 | 2022-07-25 |
@@ -89,6 +89,7 @@
 | [Do Nada](https://open.spotify.com/track/4UbnuzTFQyCXjd0QsKDez6) | [Mixdgroove](https://open.spotify.com/artist/7C9uzbHPDku3N6vZUokNNL) | [Do Nada](https://open.spotify.com/album/1SnabqksVSUoWOQpfWutQm) | 3:23 | 2022-03-14 | 2022-07-11 |
 | [Don't Break My Heart \- Radio Edit](https://open.spotify.com/track/1zwWKD04hNuAKujxsXcbXp) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Lou Piensa](https://open.spotify.com/artist/3Epr49EwL2ztSjaYTgKzBc), [Marc Mac](https://open.spotify.com/artist/2iEvHAPa3A9WCngwRFhOu3) | [Don't Break My Heart](https://open.spotify.com/album/6RLTcfcsCCr7JzZRfWGLQe) | 3:33 | 2022-03-22 | 2022-05-08 |
 | [Dona de mim](https://open.spotify.com/track/0H8CBal2Dcu5Yc001VotZN) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:28 | 2022-02-04 |  |
+| [Em Outro Lugar](https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa) | 3:37 | 2023-07-07 |  |
 | [Em Outro Lugar](https://open.spotify.com/track/64jPzmuoetfM7UDtXJVvJY) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6CvaSNTuutq8XmhNR74Wzg) | 3:37 | 2022-02-04 | 2022-07-27 |
 | [Enquanto Durmo](https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:04 | 2022-11-25 |  |
 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 | 2022-02-04 | 2022-07-29 |

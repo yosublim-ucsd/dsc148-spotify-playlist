@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 739,
+  "num_followers": 743,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGFkMzIzZTcyMDhiYWU1YzQwODJkYmM3Y2M5ZGMzMWI3YTBjMTIy",
+  "snapshot_id": "MCwxNjRhZGI2NmZmZmIwZWEwYTE1YzU3MTRiNzZlNDA3MTMzZGZhYWE2",
   "tracks": [
     {
       "added_at": "2023-08-18 12:29:53",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
+        "name": "Sida Mukyalo",
+        "url": "https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sida Mukyalo",
+      "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
         "name": "Gemazima",
         "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 181342,
       "name": "Gemazima",
       "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Sida Mukyalo",
-        "url": "https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sida Mukyalo",
-      "url": "https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -735,30 +735,6 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Getting Better",
-        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
-      },
-      "artists": [
-        {
-          "name": "Ambassada",
-          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
-        },
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Ps Wilson Bugembe",
-          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
-        }
-      ],
-      "duration_ms": 245363,
-      "name": "Getting Better",
-      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
         "name": "We Can",
         "url": "https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Getting Better",
+        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
+      },
+      "artists": [
+        {
+          "name": "Ambassada",
+          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
+        },
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Ps Wilson Bugembe",
+          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
+        }
+      ],
+      "duration_ms": 245363,
+      "name": "Getting Better",
+      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
-      },
-      "artists": [
-        {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
-        },
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
         "name": "Nothing to Something",
         "url": "https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 218400,
       "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
       "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
+      },
+      "artists": [
+        {
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+        },
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     },
     {
       "added_at": "2023-08-18 12:29:53",

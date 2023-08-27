@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 158348,
+  "num_followers": 158448,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTQ5MTdiZWE1M2JlYjM3M2Q5YjJkN2E4Mjc2MzAyYTExMjU5MWU5",
+  "snapshot_id": "MCxmYWE0Y2ZkN2QxMTQxOTZmMjgzZDIzMTM3Mzc0MmUzOWU0NjA1ZGRj",
   "tracks": [
     {
       "added_at": "2023-07-28 20:09:33",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Grandes Ligas",
         "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 240000,
       "name": "Grandes Ligas",
       "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 174193,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1391,18 +1391,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+        "name": "B\u00c9LICO",
+        "url": "https://open.spotify.com/album/4o8vodKZQFyHtS6sYuiFtd"
       },
       "artists": [
         {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
         }
       ],
-      "duration_ms": 381186,
-      "name": "Ileso",
-      "url": "https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq"
+      "duration_ms": 228979,
+      "name": "B\u00c9LICO",
+      "url": "https://open.spotify.com/track/2m0rgXMm37XwkwjDM5QLBv"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1439,22 +1443,18 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "B\u00c9LICO",
-        "url": "https://open.spotify.com/album/4o8vodKZQFyHtS6sYuiFtd"
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
       },
       "artists": [
         {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 228979,
-      "name": "B\u00c9LICO",
-      "url": "https://open.spotify.com/track/2m0rgXMm37XwkwjDM5QLBv"
+      "duration_ms": 381186,
+      "name": "Ileso",
+      "url": "https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
+        "name": "Top 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4lrEdGXOgr1URylvbMyxVM"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Zapata",
+          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
+        }
+      ],
+      "duration_ms": 228884,
+      "name": "Soy De Barrio",
+      "url": "https://open.spotify.com/track/0tY1L6nbATmY5caW68IkvN"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
         "name": "Sabadrugs",
         "url": "https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 229251,
       "name": "Sabadrugs",
       "url": "https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "Top 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/4lrEdGXOgr1URylvbMyxVM"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Zapata",
-          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
-        }
-      ],
-      "duration_ms": 228884,
-      "name": "Soy De Barrio",
-      "url": "https://open.spotify.com/track/0tY1L6nbATmY5caW68IkvN"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "El Ni\u00f1o Malo",
-        "url": "https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z"
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9"
       },
       "artists": [
         {
-          "name": "El Moreno Mexicano",
-          "url": "https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz"
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
         }
       ],
-      "duration_ms": 183353,
-      "name": "El Ni\u00f1o Malo",
-      "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
+      "duration_ms": 188181,
+      "name": "Followers",
+      "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9"
+        "name": "El Ni\u00f1o Malo",
+        "url": "https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z"
       },
       "artists": [
         {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+          "name": "El Moreno Mexicano",
+          "url": "https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz"
         }
       ],
-      "duration_ms": 188181,
-      "name": "Followers",
-      "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
+      "duration_ms": 183353,
+      "name": "El Ni\u00f1o Malo",
+      "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
     },
     {
       "added_at": "2023-07-28 20:09:33",

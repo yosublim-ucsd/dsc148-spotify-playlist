@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: LEALL, Big Bllakk, Derek",
-  "num_followers": 122687,
+  "num_followers": 122809,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzk3OTVkZTIyMjc3MWM0MjU2YzE1ZTU2MDY0ZjZhNjg3MDhmOTgw",
+  "snapshot_id": "MCxiMDYxMDBhMGY4NGFiZTk2NWM2YTA0ZTA0YTIzYzJhNTU0ZGRiZTdj",
   "tracks": [
     {
       "added_at": "2023-08-25 19:08:51",
@@ -271,26 +271,34 @@
     {
       "added_at": "2023-08-25 19:08:51",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
+        "name": "Assault (Joias no Pulso)",
+        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         },
         {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
+      "duration_ms": 274015,
+      "name": "Assault (Joias no Pulso)",
+      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
     },
     {
       "added_at": "2023-08-25 19:08:51",
@@ -375,34 +383,26 @@
     {
       "added_at": "2023-08-25 19:08:51",
       "album": {
-        "name": "Assault (Joias no Pulso)",
-        "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         },
         {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
         }
       ],
-      "duration_ms": 274015,
-      "name": "Assault (Joias no Pulso)",
-      "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+      "duration_ms": 216000,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
     },
     {
       "added_at": "2023-08-25 19:08:51",
@@ -610,6 +610,10 @@
         {
           "name": "Derek",
           "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
         }
       ],
       "duration_ms": 159298,
@@ -995,26 +999,6 @@
     {
       "added_at": "2023-08-25 19:08:51",
       "album": {
-        "name": "Isso Que \u00c9 Bom",
-        "url": "https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 155258,
-      "name": "Isso Que \u00c9 Bom",
-      "url": "https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS"
-    },
-    {
-      "added_at": "2023-08-25 19:08:51",
-      "album": {
         "name": "Noronha",
         "url": "https://open.spotify.com/album/4vUiqIfXmxekWwfz0X5dey"
       },
@@ -1031,6 +1015,26 @@
       "duration_ms": 170256,
       "name": "Noronha",
       "url": "https://open.spotify.com/track/6i8bPQX4qbTV4OiInAjz0y"
+    },
+    {
+      "added_at": "2023-08-25 19:08:51",
+      "album": {
+        "name": "Isso Que \u00c9 Bom",
+        "url": "https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 155258,
+      "name": "Isso Que \u00c9 Bom",
+      "url": "https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS"
     },
     {
       "added_at": "2023-08-25 19:08:51",
@@ -1139,6 +1143,22 @@
     {
       "added_at": "2023-08-25 19:08:51",
       "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "Famigerado",
+      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
+    },
+    {
+      "added_at": "2023-08-25 19:08:51",
+      "album": {
         "name": "DEPOIS DAS 5",
         "url": "https://open.spotify.com/album/4uQpRSLrhpypuSZun8RsMG"
       },
@@ -1203,22 +1223,6 @@
       "duration_ms": 162767,
       "name": "1 Minuto",
       "url": "https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz"
-    },
-    {
-      "added_at": "2023-08-25 19:08:51",
-      "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "Famigerado",
-      "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
     },
     {
       "added_at": "2023-08-25 19:08:51",

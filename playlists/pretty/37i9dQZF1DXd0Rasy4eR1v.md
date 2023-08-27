@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Jawad
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,829 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,833 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 64 | [Iltija](https://open.spotify.com/track/2lJci2lnP9579hnJmsVcyB) | [Junaid Javed](https://open.spotify.com/artist/0zqUu1gYO6WjlWUEaOQtQ9) | [Iltija](https://open.spotify.com/album/4LZTZU0KGhuTegxGVA0qmh) | 4:10 |
 | 65 | [haaray](https://open.spotify.com/track/6HlvOvKDzPufgj9dhnlEkI) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [haaray](https://open.spotify.com/album/6LJG4mMK5Ahw94MrMvucx5) | 2:40 |
 
-Snapshot ID: `MCxhMjI0YTcwNzE2YTIyMGQ5MDk5YzMwMmY1ZWFlODAzOWFhZDQ3NDI4`
+Snapshot ID: `MCw2NzU4NDRiMmVhMWJhZjg2Y2E3Y2IyZTg1MThmNWJhNmRmY2U3OTU0`

@@ -65,7 +65,7 @@
 | [いつでも誰かが](https://open.spotify.com/track/3naMRyLXw84R6USrfjgc7E) | [Shang Shang Typhoon](https://open.spotify.com/artist/2jpbrxvQN2UIqmZEb5pOhF) | [GREATEST HiTS 上々颱風](https://open.spotify.com/album/29WA2huritEuEDi03P3klA) | 5:06 | 2023-07-25 |  |
 | [ひこうき雲](https://open.spotify.com/track/2YyxBmzk2l7NzyBakN3TdM) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ひこうき雲](https://open.spotify.com/album/2Apn7plsxGOwwD7anbcAOS) | 3:26 | 2023-07-17 |  |
 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 | 2023-07-17 |  |
-| [テルーの唄\(ゲド戦記\)](https://open.spotify.com/track/5Bwd1BTZsb5aSIDFyY1OPc) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:50 | 2023-07-17 |  |
+| [テルーの唄\(ゲド戦記\)](https://open.spotify.com/track/5Bwd1BTZsb5aSIDFyY1OPc) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:50 | 2023-07-17 |  |
 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 | 2023-07-17 |  |
 | [呪われた海](https://open.spotify.com/track/1hcvDwUH9TPb3reDsBBqZ7) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:35 | 2023-08-15 |  |
 | [回顧](https://open.spotify.com/track/0IjUsYosfTdFU4gcpMYeyb) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:23 | 2023-08-15 |  |
@@ -77,7 +77,7 @@
 | [転生](https://open.spotify.com/track/7dMKB7fnCPPOdy6cFG2Mng) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:32 | 2023-08-15 |  |
 | [追憶](https://open.spotify.com/track/5ivNWIFi7xeiW8EfK6sa7n) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:05 | 2023-08-15 |  |
 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 | 2023-07-17 |  |
-| [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 | 2023-07-17 |  |
+| [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 | 2023-07-17 |  |
 | [黄昏の羽根](https://open.spotify.com/track/5K65c9VZkDOUZEx4Fg9E2d) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 2:41 | 2023-08-15 |  |
 
 \*This playlist was first scraped on 2023-07-18. Prior content cannot be recovered.

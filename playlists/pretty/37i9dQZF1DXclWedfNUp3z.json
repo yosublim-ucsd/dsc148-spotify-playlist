@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 185857,
+  "num_followers": 185944,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmQ3YTBkMzY2NTkyZWQ3ZTk2ZjQ4MjdkODkyMTk1YjYwM2ViMzc0",
+  "snapshot_id": "MCxlMzhlMDBmMjVhMThlNGZhYjEwNjliMGNjNzdjZDFlYmQwODEwYzBl",
   "tracks": [
     {
       "added_at": "2021-10-20 17:59:21",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi"
-      },
-      "artists": [
-        {
-          "name": "John Ocean",
-          "url": "https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL"
-        }
-      ],
-      "duration_ms": 204580,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Peace Piece",
         "url": "https://open.spotify.com/album/3hXfUcHbaaMFj86UBkcoUp"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 253410,
       "name": "Peace Piece",
       "url": "https://open.spotify.com/track/0cUpqIJQv8Yke4XfL3y0UK"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi"
+      },
+      "artists": [
+        {
+          "name": "John Ocean",
+          "url": "https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL"
+        }
+      ],
+      "duration_ms": 204580,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -925,6 +925,26 @@
       "url": "https://open.spotify.com/track/1Dryf1pXEIEsKC2Q8Z2FAT"
     },
     {
+      "added_at": "2022-01-12 18:38:07",
+      "album": {
+        "name": "Hope!",
+        "url": "https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3"
+      },
+      "artists": [
+        {
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        },
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+      ],
+      "duration_ms": 163914,
+      "name": "Hope!",
+      "url": "https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV"
+    },
+    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Cicada Waves",
@@ -943,18 +963,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "fragments",
-        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
         }
       ],
-      "duration_ms": 151880,
-      "name": "august 31st",
-      "url": "https://open.spotify.com/track/0GyrNTSvyue6oLkUHmiSKa"
+      "duration_ms": 191413,
+      "name": "Kalimba Heart",
+      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
     },
     {
       "added_at": "2022-08-02 14:51:09",
@@ -975,38 +995,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+        "name": "fragments",
+        "url": "https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx"
       },
       "artists": [
         {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 191413,
-      "name": "Kalimba Heart",
-      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
-    },
-    {
-      "added_at": "2022-01-12 18:38:07",
-      "album": {
-        "name": "Hope!",
-        "url": "https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3"
-      },
-      "artists": [
-        {
-          "name": "Somni",
-          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
-        },
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        }
-      ],
-      "duration_ms": 163914,
-      "name": "Hope!",
-      "url": "https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV"
+      "duration_ms": 151880,
+      "name": "august 31st",
+      "url": "https://open.spotify.com/track/0GyrNTSvyue6oLkUHmiSKa"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
+        "url": "https://open.spotify.com/album/5YNZYOdNSUDyMfJu0exTeb"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1bio Caramuru",
+          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
+        }
+      ],
+      "duration_ms": 299472,
+      "name": "Cigarra",
+      "url": "https://open.spotify.com/track/1UjI4B3gCKYxDMTd0n7J9Q"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "Gal\u00e1pagos (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 138773,
       "name": "Seals",
       "url": "https://open.spotify.com/track/0kLnVksfJso8EyfwctEVw4"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Clarinet & Piano: Selected Works, Vol. 1",
-        "url": "https://open.spotify.com/album/1Og9tQJXutnIGZlZJrqVvM"
-      },
-      "artists": [
-        {
-          "name": "Group Listening",
-          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Wenn der s\u00fcdwind weht",
-      "url": "https://open.spotify.com/track/4DHqYa5X2Qokx9E5YKE6qk"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1091,18 +1091,38 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
-        "url": "https://open.spotify.com/album/5YNZYOdNSUDyMfJu0exTeb"
+        "name": "Clarinet & Piano: Selected Works, Vol. 1",
+        "url": "https://open.spotify.com/album/1Og9tQJXutnIGZlZJrqVvM"
       },
       "artists": [
         {
-          "name": "F\u00e1bio Caramuru",
-          "url": "https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH"
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
         }
       ],
-      "duration_ms": 299472,
-      "name": "Cigarra",
-      "url": "https://open.spotify.com/track/1UjI4B3gCKYxDMTd0n7J9Q"
+      "duration_ms": 264720,
+      "name": "Wenn der s\u00fcdwind weht",
+      "url": "https://open.spotify.com/track/4DHqYa5X2Qokx9E5YKE6qk"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "The Box Tree",
+        "url": "https://open.spotify.com/album/0GLlwTGHxAZpOTPLMFFaCH"
+      },
+      "artists": [
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "For Seconds at a Time",
+      "url": "https://open.spotify.com/track/6dSo66w4jxsSL7d8bWHR33"
     },
     {
       "added_at": "2022-07-15 05:17:48",
@@ -1127,26 +1147,6 @@
       "duration_ms": 251823,
       "name": "Espiral - \u51a5\u4e01 Remix",
       "url": "https://open.spotify.com/track/15sBxSySsqOVSSknoW2lGX"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "The Box Tree",
-        "url": "https://open.spotify.com/album/0GLlwTGHxAZpOTPLMFFaCH"
-      },
-      "artists": [
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
-          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "For Seconds at a Time",
-      "url": "https://open.spotify.com/track/6dSo66w4jxsSL7d8bWHR33"
     },
     {
       "added_at": "2022-01-11 00:18:40",
@@ -1197,6 +1197,22 @@
       "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Six Songs for Invisible Gardens",
+        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Perennial Bloom",
+      "url": "https://open.spotify.com/track/3DA8rIHh0707C3pwsbbuwH"
+    },
+    {
       "added_at": "2022-05-18 01:35:18",
       "album": {
         "name": "Point Zero",
@@ -1215,22 +1231,6 @@
       "duration_ms": 592013,
       "name": "Morning Dancing",
       "url": "https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Six Songs for Invisible Gardens",
-        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Perennial Bloom",
-      "url": "https://open.spotify.com/track/3DA8rIHh0707C3pwsbbuwH"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1297,6 +1297,42 @@
       "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
+      "added_at": "2023-01-06 21:07:36",
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Tantra Loom",
+        "url": "https://open.spotify.com/album/3MjKf7c5JLNMQIj2XTDOGa"
+      },
+      "artists": [
+        {
+          "name": "Advaitas",
+          "url": "https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8"
+        }
+      ],
+      "duration_ms": 227700,
+      "name": "Tantra Loom",
+      "url": "https://open.spotify.com/track/3kv41hhvbb2lM2yNnR7MCw"
+    },
+    {
       "added_at": "2023-01-12 02:08:58",
       "album": {
         "name": "Antidotes 2",
@@ -1327,22 +1363,6 @@
       "duration_ms": 338500,
       "name": "Swashers",
       "url": "https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Tantra Loom",
-        "url": "https://open.spotify.com/album/3MjKf7c5JLNMQIj2XTDOGa"
-      },
-      "artists": [
-        {
-          "name": "Advaitas",
-          "url": "https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8"
-        }
-      ],
-      "duration_ms": 227700,
-      "name": "Tantra Loom",
-      "url": "https://open.spotify.com/track/3kv41hhvbb2lM2yNnR7MCw"
     },
     {
       "added_at": "2022-09-15 12:29:37",
@@ -1379,18 +1399,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Rainforest Revival Shampoo Bar",
-        "url": "https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN"
+        "name": "mudflat hikers",
+        "url": "https://open.spotify.com/album/3sFJdoo3cHihNzJtPEaOHw"
       },
       "artists": [
         {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+          "name": "santpoort",
+          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Rainforest Revival Shampoo Bar",
-      "url": "https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp"
+      "duration_ms": 164583,
+      "name": "wading through the wetlands",
+      "url": "https://open.spotify.com/track/41DB59gjQcplKWlQPI89lt"
     },
     {
       "added_at": "2022-04-09 03:30:53",
@@ -1411,18 +1431,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "mudflat hikers",
-        "url": "https://open.spotify.com/album/3sFJdoo3cHihNzJtPEaOHw"
+        "name": "Rainforest Revival Shampoo Bar",
+        "url": "https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN"
       },
       "artists": [
         {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
         }
       ],
-      "duration_ms": 164583,
-      "name": "wading through the wetlands",
-      "url": "https://open.spotify.com/track/41DB59gjQcplKWlQPI89lt"
+      "duration_ms": 132000,
+      "name": "Rainforest Revival Shampoo Bar",
+      "url": "https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1441,24 +1461,20 @@
       "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
     },
     {
-      "added_at": "2023-01-06 21:07:36",
+      "added_at": "2023-02-14 15:07:22",
       "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+        "name": "Ventus",
+        "url": "https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "Alondra M\u00e1ynez",
+          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
         }
       ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+      "duration_ms": 304831,
+      "name": "Ventus",
+      "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1477,20 +1493,36 @@
       "url": "https://open.spotify.com/track/2mn02smI0cOZT9BXKyz1qz"
     },
     {
-      "added_at": "2023-02-14 15:07:22",
+      "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Ventus",
-        "url": "https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
       "artists": [
         {
-          "name": "Alondra M\u00e1ynez",
-          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 304831,
-      "name": "Ventus",
-      "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"
+      "duration_ms": 195136,
+      "name": "First Defeat",
+      "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Healing Collection: Quiet Comfort",
+        "url": "https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b"
+      },
+      "artists": [
+        {
+          "name": "Takashi Kokubo",
+          "url": "https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1"
+        }
+      ],
+      "duration_ms": 964666,
+      "name": "Dawn of the Forest",
+      "url": "https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua"
     },
     {
       "added_at": "2023-02-14 15:07:22",
@@ -1515,18 +1547,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+        "name": "The Pillow Sisters",
+        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
         }
       ],
-      "duration_ms": 195136,
-      "name": "First Defeat",
-      "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
+      "duration_ms": 159158,
+      "name": "The Pillow Sisters",
+      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
       "added_at": "2023-05-16 04:54:42",
@@ -1551,38 +1583,6 @@
       "duration_ms": 182528,
       "name": "ambrosia",
       "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Healing Collection: Quiet Comfort",
-        "url": "https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b"
-      },
-      "artists": [
-        {
-          "name": "Takashi Kokubo",
-          "url": "https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1"
-        }
-      ],
-      "duration_ms": 964666,
-      "name": "Dawn of the Forest",
-      "url": "https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "The Pillow Sisters",
-        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 159158,
-      "name": "The Pillow Sisters",
-      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 435070,
-      "name": "Parallel 9",
-      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/1c4GN3QhqkSl0AMeRAfvRC"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 168490,
       "name": "V.",
       "url": "https://open.spotify.com/track/3dNY6woOGqmjAGYWCxutOw"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 435070,
+      "name": "Parallel 9",
+      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
     },
     {
       "added_at": "2022-09-30 02:46:10",

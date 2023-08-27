@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Tontons Dave et Tiakola
 
-259 songs - 16 hr 27 min
+260 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Si je savais ça](https://open.spotify.com/track/4RqQKQ4VxlYC6zWHgCQb5p) | [Madilu System](https://open.spotify.com/artist/7dXTUndlDjlH9V5I9KRWjm) | [Dernière volonté](https://open.spotify.com/album/1fPlYiVtjdFgVcTMH4Q9IO) | 6:56 | 2023-03-17 | 2023-04-29 |
 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-24 | 2023-06-10 |
 | [Solola bien](https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ) | [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Maison mère](https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU) | 7:02 | 2022-06-30 |  |
+| [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:08 | 2023-08-26 |  |
 | [Tant Pis](https://open.spotify.com/track/4ZmqFrZr2ItfKrM9BUOqDS) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [Tant Pis](https://open.spotify.com/album/0F8diwVEi6B37A7ftlPHe8) | 3:05 | 2023-03-24 | 2023-06-10 |
 | [Techno malewa mécanique](https://open.spotify.com/track/5O34o7gWa08iA4giYbY6mS) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU), [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Techno malewa, vol\. 1 : sans cesse](https://open.spotify.com/album/6Zt11836h7D2abgRex1UXR) | 12:18 | 2022-06-30 | 2022-07-09 |
 | [Temps Eza Te](https://open.spotify.com/track/2I4MIsNTZQQP8tQuVx4RWJ) | [Mc\-cool Anguzo](https://open.spotify.com/artist/70mPeHdPgAIeOYhjL8xtBr) | [Temps Eza Te](https://open.spotify.com/album/6KKWHY1r95yu3VQYrsjVwI) | 3:31 | 2023-02-10 | 2023-03-18 |
@@ -260,7 +261,7 @@
 | [Yo Pe \(Remix\)](https://open.spotify.com/track/4VPPV88siS7jGQpAwOkkoP) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Achour](https://open.spotify.com/album/6PwgM6SebKf7TRONUcGMc6) | 4:33 | 2022-06-30 | 2022-07-29 |
 | [Yo Pe \- Remix](https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yo Pe \(Remix\)](https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV) | 4:32 | 2022-07-15 |  |
 | [Yoka Ndulé](https://open.spotify.com/track/1ZdJBKCthpJRygkyXfK6OE) | [Kabuya](https://open.spotify.com/artist/7vtu3MQdffH966vXmUolGy) | [Yoka Ndulé](https://open.spotify.com/album/7vf9lrWbpi14omOpc9rlsh) | 3:04 | 2022-06-30 | 2022-12-31 |
-| [Yolele](https://open.spotify.com/track/4pkk2GgNZIWhqQpz39439P) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39) | 3:23 | 2022-06-30 |  |
+| [Yolele](https://open.spotify.com/track/4pkk2GgNZIWhqQpz39439P) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39) | 3:23 | 2022-06-30 | 2023-08-27 |
 | [Zaïre](https://open.spotify.com/track/5BPFqMBU5oZr3LM6Vq8XTA) | [Tito Monako](https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE) | [Zaïre](https://open.spotify.com/album/5JaqWswOjsCJsfMOMYwtFu) | 3:35 | 2022-09-02 | 2022-12-17 |
 | [Zigida](https://open.spotify.com/track/0VF1VyAiS0oRk3O22mv13k) | [Light Music Villa Nova](https://open.spotify.com/artist/0MP7DZOrBSfEEhLHz1dG2r), [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Cursus, Vol\. 2](https://open.spotify.com/album/7JyPd01Qu6N2dvj6PTYfSe) | 3:36 | 2022-06-30 | 2023-08-26 |
 | [Ça va !](https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Ça va !](https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT) | 2:34 | 2023-07-21 |  |

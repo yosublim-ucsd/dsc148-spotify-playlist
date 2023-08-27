@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-852 songs - 2 day 11 hr 41 min
+854 songs - 2 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Alien](https://open.spotify.com/track/4EVOgxhFXQ0U6u8k4vebET) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [Alien](https://open.spotify.com/album/4wd3MrBQdLzBLd6LqwhKX2) | 5:15 | 2022-04-14 | 2022-09-15 |
 | [Alive](https://open.spotify.com/track/2sHJ4oiPb8XWveU2aqOw4m) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Alive](https://open.spotify.com/album/2aXlJtP2pqXUcm8d7WwMWJ) | 3:20 | 2023-08-10 |  |
 | [All Good](https://open.spotify.com/track/0NJL3lxVCJKyoiExs8GiTG) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [All Good](https://open.spotify.com/album/5ppmDplZFPBmfAmwFYgwCX) | 3:25 | 2023-08-10 |  |
+| [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-25 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-01-05 |  |
 | [All My Yesterdays](https://open.spotify.com/track/3luzrVexkgDKR74V2hBa7k) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [All My Yesterdays](https://open.spotify.com/album/6t1cUb9OL2TXYVxLZLYoCb) | 3:50 | 2023-01-20 |  |
 | [All Of The Little Things I Know](https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All Of The Little Things I Know](https://open.spotify.com/album/2LbaxpobqmYU9CQYwtlkwG) | 4:51 | 2023-08-10 |  |
@@ -207,6 +208,7 @@
 | [Easy Living](https://open.spotify.com/track/78RAfPGFpTUqnPSTV0LcmT) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/79jNUOF7HaumY5JoP3TpVr) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/082zyi189u5lRp2gPkE8Lb) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/1FCCVEhBrN6ISs9xHmf9kr) | 4:49 | 2022-04-14 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-30 | 2023-08-13 |
+| [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-25 |  |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-14 |  |
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-08 |  |
 | [Enlightenment](https://open.spotify.com/track/0q4SJUYOp0Er9fvREdDyDv) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Sound Sun Pleasure](https://open.spotify.com/album/0KGHyCya07zjceVwQ33O7x) | 5:05 | 2022-04-14 | 2022-04-27 |
@@ -336,7 +338,7 @@
 | [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-10-13 |  |
 | [I Wish I Knew](https://open.spotify.com/track/2ixKm55QpuEkEKHVGHWCNQ) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [I Wish I Knew](https://open.spotify.com/album/1evoLQf85MODIetg4eJqx7) | 3:49 | 2023-02-16 |  |
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/58fxygPUPdfBIUm9BDv0f7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone](https://open.spotify.com/album/6erfmbovMLCppgaLh8TesF) | 3:06 | 2022-04-14 | 2022-04-27 |
-| [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-08-29 |  |
+| [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-08-29 | 2023-08-27 |
 | [I'll Keep Loving You](https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8) | [Massimo Colombo](https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl), [Maurizio Quintavalle](https://open.spotify.com/artist/5yZSi6QPm7HLTPuR4n5Y9Q), [Enzo Zirilli](https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6) | [Powell to the People](https://open.spotify.com/album/0gkHK9HSngJ5N7d5LE1PKE) | 5:14 | 2022-04-14 | 2023-08-20 |
 | [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 | 2022-04-14 |  |
 | [I'll Never Stop Loving You](https://open.spotify.com/track/6qvvJryrtCUR5O54AcJv3F) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [I'll Never Stop Loving You](https://open.spotify.com/album/0YYYHqaO0rWcogKgkNauKN) | 3:17 | 2023-06-15 |  |
@@ -711,7 +713,7 @@
 | [That's All](https://open.spotify.com/track/0d43eTmA0tQP9ortsZQ9hN) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:53 | 2022-06-30 | 2022-09-23 |
 | [That's Nothing](https://open.spotify.com/track/211NFPThPEPKCoScvCAelb) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [That's Nothing](https://open.spotify.com/album/42d23WhadUq9ckCGfXMFaD) | 4:26 | 2023-03-16 |  |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-28 |  |
-| [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 | 2023-06-15 |  |
+| [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 | 2023-06-15 | 2023-08-27 |
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-12 |  |
 | [The Art of Letting Go](https://open.spotify.com/track/5ZlwYoMgai25EVMUPKMBr8) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [The Art of Letting Go](https://open.spotify.com/album/0FsvqEQCqEHrI7qhkVlULW) | 3:20 | 2023-05-11 |  |
 | [The bag with cash](https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [The bag with cash](https://open.spotify.com/album/5nGxB4RGvlB9KdI5A09fFv) | 3:32 | 2023-08-10 |  |

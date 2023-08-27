@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,910 likes - 115 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,971 likes - 115 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 62 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 |
 | 63 | [Até o Fim](https://open.spotify.com/track/1BkAjte1N1xGkRprWpczQL) | [Callum Welch](https://open.spotify.com/artist/5xHojkpWvFQNmyVcAW6RKe) | [Até o Fim](https://open.spotify.com/album/1qK7kniKkgorGEAmuRBCTn) | 2:50 |
 | 64 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 |
-| 65 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 |
+| 65 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 |
 | 66 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 |
 | 67 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 |
 | 68 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 85 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 |
 | 86 | [Revolving Wheel](https://open.spotify.com/track/7Bbk1oFCZwU4k3ODJzNqRH) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Revolving Wheel](https://open.spotify.com/album/6Q5jVBPXmleh97QRUN5s5N) | 2:14 |
 | 87 | [Keirin](https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp) | [Paris Little](https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl) | [Keirin](https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw) | 3:06 |
-| 88 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 |
+| 88 | [Love Again](https://open.spotify.com/track/3QFAzAqPqhFmpodso3L3zX) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:23 |
 | 89 | [Notes From You](https://open.spotify.com/track/1jy9gxys6Lf7eE07bt6Wdb) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Notes From You](https://open.spotify.com/album/766uQUBNRxBQ6vV3Ci7nd5) | 2:54 |
 | 90 | [Ocean View](https://open.spotify.com/track/5pBeteeE2OuxTCkPbykuhb) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Ocean View](https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS) | 2:43 |
 | 91 | [Primavera](https://open.spotify.com/track/3rcoy7zeug8RSQpkhIAaxy) | [Giuseppina Tolda](https://open.spotify.com/artist/6VAysUntvNkdLFWbH9Cf3D) | [Primavera](https://open.spotify.com/album/420EyG44UX8z6gH8OLEfa7) | 2:12 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 114 | [Gentle Stream](https://open.spotify.com/track/7xV7FTZ8rvSco3lZRxF3rt) | [Billy\-Joe](https://open.spotify.com/artist/4yuk88pPSJUYCbSVJGiOYD), [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Gentle Stream](https://open.spotify.com/album/2ZiJsj9Wp3f7UTDgoVcVHN) | 2:40 |
 | 115 | [Pumori](https://open.spotify.com/track/1CLchOJrSa1K59IgJtBgAS) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Makalu](https://open.spotify.com/album/1T6ygMtSOuBoR1rMg4Ejh7) | 2:59 |
 
-Snapshot ID: `MCxkN2Y5ZjA1YTg2NDMwNTI4MTQwOTIxNDZlYzg1MjAwOTY3NTllZTVi`
+Snapshot ID: `MCwwY2ZjMjIyYTRhNDFhZTg0Zjg3YWRlZDIwNzEyNzY3M2I2NGY2NTRk`

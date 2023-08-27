@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 273934,
+  "num_followers": 274165,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjYwNThhODdkNWZhODI3ZTg1MmRmNGYwMmYyYmEzYzgxNjQ0YmIy",
+  "snapshot_id": "MCxmN2RkY2Y2MTYwNWVlYTNjOTZiZTE2NTdiYjZkYzQ0YTBmNWZlMzM4",
   "tracks": [
     {
       "added_at": "2023-05-04 21:27:18",
@@ -653,20 +653,24 @@
       "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
     },
     {
-      "added_at": "2023-05-04 21:27:18",
+      "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Loretta",
-        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Mood Talk",
+          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
         }
       ],
-      "duration_ms": 190153,
-      "name": "Loretta",
-      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
+      "duration_ms": 226280,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -689,6 +693,22 @@
       "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
     },
     {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Loretta",
+        "url": "https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Loretta",
+      "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
+    },
+    {
       "added_at": "2023-06-29 14:20:09",
       "album": {
         "name": "Dance Moves",
@@ -703,26 +723,6 @@
       "duration_ms": 243945,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Mood Talk",
-          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Dream in Colour",
-        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Skin on Skin",
-      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "Free Yourself",
         "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
       },
@@ -899,6 +883,34 @@
       "duration_ms": 98461,
       "name": "Separated",
       "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Vibe Creator",
+        "url": "https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU"
+      },
+      "artists": [
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        },
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Bambie",
+          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/5ICUko5tff4xEdS4DdnODT"
     }
   ],
   "unique_name": "Soir\u00e9e",

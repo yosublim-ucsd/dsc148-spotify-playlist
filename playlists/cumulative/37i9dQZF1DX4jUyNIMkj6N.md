@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-215 songs - 13 hr 23 min
+216 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Better Than Gold \- Live](https://open.spotify.com/track/75rKtYA2EhYSfVHty8C50Z) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Better Than Gold \(Live\)](https://open.spotify.com/album/65sHTY5qAGfbLLYQBZ9dep) | 4:00 | 2021-12-02 | 2022-07-29 |
 | [Big Bad Good](https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d) | [Big Bad Good](https://open.spotify.com/album/38N3wbSL5ERtnegxWGIzvu) | 3:41 | 2021-12-02 | 2022-07-27 |
 | [Birthday](https://open.spotify.com/track/2yhPIn9HwI88aw4H7ZFrw0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Birthday](https://open.spotify.com/album/1Glahl7MCjz4HFgurt3GCP) | 4:07 | 2022-06-09 | 2022-07-29 |
-| [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 | 2022-07-14 |  |
+| [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 | 2022-07-14 | 2023-08-27 |
 | [Bluebelle mountain](https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:20 | 2021-12-02 | 2022-07-29 |
 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 | 2023-04-27 |  |
 | [Boy from the North](https://open.spotify.com/track/517ubeor9CZCN27nif3Bev) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 4:44 | 2021-12-02 | 2022-07-29 |
@@ -126,6 +126,7 @@
 | [Moon](https://open.spotify.com/track/6YebT1WtZUxbF8gzbQULlC) | [Vilde Bye](https://open.spotify.com/artist/2Z3WutA2qjveq0AHqoJ6fC) | [Moon](https://open.spotify.com/album/6Ng5W9DCk4r5SesHpInNPN) | 3:16 | 2022-03-24 | 2022-07-29 |
 | [Morgan, I might](https://open.spotify.com/track/4iVOmOgUWI6tyqKvwyINXN) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right](https://open.spotify.com/album/65l2iPEXg8EDMUY8lUs50z) | 3:17 | 2021-12-02 | 2022-07-28 |
 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 | 2022-07-14 |  |
+| [Mornings and Afternoons](https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Mornings and Afternoons](https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF) | 2:48 | 2023-08-24 |  |
 | [Most Of The Time](https://open.spotify.com/track/0l2InC8mdtw15OskL9a7id) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Most Of The Time](https://open.spotify.com/album/2J2OK7D88vrNQ9nzOiPwkS) | 4:23 | 2022-04-28 | 2022-04-29 |
 | [Most of the Time](https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Most of the Time](https://open.spotify.com/album/3PLL8twrREWBIpP1aBLF5D) | 4:23 | 2022-04-29 | 2022-12-24 |
 | [Mycelium](https://open.spotify.com/track/34wOxhxMDdAVxyA1bBS4z6) | [Fia](https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH) | [Mycelium/Let Her Teach You](https://open.spotify.com/album/6od8EDcM1mUiLrCV6ji0tQ) | 3:17 | 2023-08-24 |  |

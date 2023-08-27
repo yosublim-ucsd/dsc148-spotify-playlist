@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,945 likes - 270 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,999 likes - 270 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -245,7 +245,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 235 | [Ankomst](https://open.spotify.com/track/2f1sFLNAFkimScFnAZaEaI) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Avfärd](https://open.spotify.com/album/6dNiLX15nkS1qOT3IiHuGh) | 2:34 |
 | 236 | [Geminism](https://open.spotify.com/track/3g4VzxY3cmFDJSCW3z9SPX) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Geminism](https://open.spotify.com/album/7gXtCOL60In5MPjuYzSxpr) | 3:52 |
 | 237 | [Lunar Glow](https://open.spotify.com/track/1aprpxWKe3dmT8uzc6bhvG) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Ocean Call](https://open.spotify.com/album/6KoognMXwtcMf1seBHZbDG) | 3:06 |
-| 238 | [Symbols](https://open.spotify.com/track/1SZWIusKczJ8vloqRTAgsz) | [Rosa Cania](https://open.spotify.com/artist/0SgmJ4Q0guH8jer9mWvCOS) | [Symbols](https://open.spotify.com/album/34XGG9k1scNUzUAOR12PAW) | 4:00 |
+| 238 | [Symbols](https://open.spotify.com/track/1SZWIusKczJ8vloqRTAgsz) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Symbols](https://open.spotify.com/album/34XGG9k1scNUzUAOR12PAW) | 4:00 |
 | 239 | [The Glimmer Behind](https://open.spotify.com/track/6I7ADenBGoFh3eIhmQNme0) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [The Glimmer Behind](https://open.spotify.com/album/1e8MW4mcpFTc7i3wLQXVoj) | 4:03 |
 | 240 | [Branches](https://open.spotify.com/track/33xdetONOFpuNr6J2AB2gZ) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Ripples](https://open.spotify.com/album/174WdSc7Cncl9KwFmF7mGd) | 3:36 |
 | 241 | [Fading Eyes](https://open.spotify.com/track/5OEbevYkmGcsiJXjx5QCcz) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Fading Eyes](https://open.spotify.com/album/1MjhVGlZeiFSLpP3QNQU3w) | 3:40 |
@@ -277,6 +277,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 267 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 |
 | 268 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 |
 | 269 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 |
-| 270 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Hilma](https://open.spotify.com/artist/3PZ2nsGkyVMdbQB6b3auut) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 |
+| 270 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 |
 
-Snapshot ID: `MCwxYmFmMTE2NzY0NDFiYmI3NWY1ZTRmYWFjNzc0OGJiNzE3MDgzM2Qz`
+Snapshot ID: `MCxkZDJkMjVjMzYyNTlhZTY1YzU4YWI5Y2I5YzQ0MmE3MjE3MjcwODM1`

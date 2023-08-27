@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,830 likes - 214 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,890 likes - 214 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 117 | [Ray of Light](https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Ray of Light](https://open.spotify.com/album/40cUksrjQvtzoCmKDMskYE) | 3:48 |
 | 118 | [Roses](https://open.spotify.com/track/0f7cYpEP7f7uwsNbaxcDHV) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Roses](https://open.spotify.com/album/2FLvGi2XNnLe3qLiFF5SQi) | 3:27 |
 | 119 | [craft](https://open.spotify.com/track/529d4u3Tfwzd4OGjfDyMs9) | [Jacques Laurent](https://open.spotify.com/artist/10dcIdI49SNQWoPkjN2JLF) | [craft](https://open.spotify.com/album/02jAVUeMZH7Cr2rTORPmqw) | 3:34 |
-| 120 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Nimis](https://open.spotify.com/artist/3HTQ3tT0u6x4qA7vPhT8XN) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 |
+| 120 | [Following the trail](https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD) | [Slow](https://open.spotify.com/artist/5II01coLXrJeSFThmONDoB) | [Following the trail](https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi) | 3:27 |
 | 121 | [Funky Pants](https://open.spotify.com/track/4M3Ro7Zm7YwwOs0myAyNRX) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Funky Pants](https://open.spotify.com/album/5MH1eeTcdHLfVr9M6vYVdz) | 4:33 |
 | 122 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 |
 | 123 | [Breathe](https://open.spotify.com/track/6w65VLrEUjdJWogZOrxkQK) | [Holen](https://open.spotify.com/artist/5cXpsHnHXFVMvhLzth4SNY) | [Breathe](https://open.spotify.com/album/1MmSJXSRYXhiSEt9yLvWr5) | 3:18 |
@@ -199,7 +199,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 189 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 |
 | 190 | [Maduix](https://open.spotify.com/track/3fmWdfU1ia3PfAFq106Ysi) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Maduix](https://open.spotify.com/album/5ZdJyUVAafEunwTXSNDgyv) | 2:44 |
 | 191 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 |
-| 192 | [Up Through The Clouds](https://open.spotify.com/track/6HpU6c2ke3qC1RWakDp3nW) | [Antonne](https://open.spotify.com/artist/4aVCtWZXi66nIRjFglKHwH) | [Up Through The Clouds](https://open.spotify.com/album/71PuIL86MUp2L33YNSqfk3) | 3:58 |
+| 192 | [Up Through The Clouds](https://open.spotify.com/track/6HpU6c2ke3qC1RWakDp3nW) | [Jade Shade](https://open.spotify.com/artist/7Ilefc5kqmjsXyPdNExIt3) | [Up Through The Clouds](https://open.spotify.com/album/71PuIL86MUp2L33YNSqfk3) | 3:58 |
 | 193 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 |
 | 194 | [Frozen Melon](https://open.spotify.com/track/4aDawTeN0gQDjEfnjOypys) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Frozen Melon](https://open.spotify.com/album/1rKg16pg1RinubPEpLoYzy) | 2:52 |
 | 195 | [Extramundane](https://open.spotify.com/track/0qNjkWic8JEiXurIgxi89s) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [Extramundane](https://open.spotify.com/album/7iw6EuNKOKSBonMQ4iqE2c) | 2:32 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 213 | [Velvet Skies](https://open.spotify.com/track/0HBQ7cU8gPitLvHX8nQ3DH) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Velvet Skies](https://open.spotify.com/album/3LAJb6QHo5QkgoW0T2vJNT) | 3:05 |
 | 214 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 |
 
-Snapshot ID: `MCxjM2VjOWZkOTVmYTQyMzBhNTRhM2IwMjg5MDZmMDA1NmM3OGM3MzBm`
+Snapshot ID: `MCw3ZTRjMGU2NmQxMWQ2YTQ2NTAyMDNiZGVjNjhjOTA2NTM5ZTZmZTVh`

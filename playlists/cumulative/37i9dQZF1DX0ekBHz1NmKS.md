@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-754 songs - 1 day 15 hr 49 min
+755 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,7 @@
 | [Nåt i vattnet](https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Nåt i vattnet](https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6) | 3:33 | 2022-10-15 |  |
 | [Nåt på fickan](https://open.spotify.com/track/4NCi8meUtDzj04ovWWyDTr) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Nåt på fickan](https://open.spotify.com/album/0Oh2dhmJjIxXz2sh5dV7mT) | 2:30 | 2022-05-05 | 2022-07-29 |
 | [Nåt äkta](https://open.spotify.com/track/0GijOgh6mFH7J0UIhOBKnk) | [Adam Chia](https://open.spotify.com/artist/2pyhqBRwNtetqduSFHxaUX), [MAYKA](https://open.spotify.com/artist/4qVmTeHPsnwfF0QcQCGpnl) | [Hellre än mig själv](https://open.spotify.com/album/0pISOIFj7YO5fhpoBlzHoW) | 3:40 | 2022-06-09 | 2022-07-29 |
-| [Oas](https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 3:17 | 2023-04-01 |  |
+| [Oas](https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 3:17 | 2023-04-01 | 2023-08-27 |
 | [Ocean Of Love](https://open.spotify.com/track/0HuzGszWURfPh46OS02wyn) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Ocean Of Love](https://open.spotify.com/album/4OEcpFgO5HBSaGm0NzLDKd) | 2:57 | 2023-08-10 | 2023-08-18 |
 | [Oh Baby](https://open.spotify.com/track/5KeJHKaYCrj7zlCmUQFJgM) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:45 | 2021-12-16 | 2022-05-13 |
 | [Okomplicerat](https://open.spotify.com/track/4qU1Tg6e4EjqHpXCqRgl5Y) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Okomplicerat](https://open.spotify.com/album/7oODwFGKBTWSHXBpDdwjwk) | 2:39 | 2023-05-04 |  |
@@ -538,7 +538,7 @@
 | [Said and Done](https://open.spotify.com/track/3jnMhpFIw1rtQh43XnNUxs) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Said and Done](https://open.spotify.com/album/3fcb8NFdFLts2fxvFOzSSm) | 2:54 | 2022-04-07 | 2022-04-20 |
 | [Saknar inte dig](https://open.spotify.com/track/41YY53HdPEnmqu7qlDEp0Y) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Saknar inte dig](https://open.spotify.com/album/7xHtg244xpRLKbGeAspT72) | 2:38 | 2022-04-22 | 2023-03-12 |
 | [SAKNAR ORD](https://open.spotify.com/track/6qtoQiHn7V6F54s90dcSzL) | [LEON GABOR](https://open.spotify.com/artist/7t9GOZGoeEdcwF5QlUyT9k) | [SAKNAR ORD](https://open.spotify.com/album/5MIcN6w6kxUlfqwvg2SyUV) | 3:08 | 2022-05-05 | 2022-06-24 |
-| [Salt och socker](https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Salt och socker](https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4) | 2:51 | 2023-02-16 | 2023-08-26 |
+| [Salt och socker](https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Salt och socker](https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4) | 2:51 | 2023-02-16 |  |
 | [Same Thing](https://open.spotify.com/track/5eqQVbVNz41UuUaEdt5Dga) | [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t) | [Same Thing](https://open.spotify.com/album/1CDqizYMYd2dIyNBrXbXNz) | 3:03 | 2022-03-10 | 2022-04-20 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:09 | 2022-05-12 |  |
 | [Samma säng](https://open.spotify.com/track/5yFdISVlABQqdLHOuJ0CpN) | [Anton Kyldahl](https://open.spotify.com/artist/4Xq9iwUmfiz0nAwhF9B1pD), [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Samma säng](https://open.spotify.com/album/7gxoCqM92zDNiIykuLp2ky) | 2:43 | 2022-05-12 | 2022-07-26 |
@@ -675,7 +675,7 @@
 | [Tilt](https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Tilt](https://open.spotify.com/album/0AC4E1o8yb9e0RMmqxcgXI) | 3:34 | 2022-04-28 | 2022-07-29 |
 | [Timmar](https://open.spotify.com/track/5sXAGhrXIeUtAVLzpdJIfH) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Timmar](https://open.spotify.com/album/4gajMx6fgWWLyPrrPCfc1Z) | 3:33 | 2021-12-16 | 2022-01-13 |
 | [Tjugofyra sju](https://open.spotify.com/track/5Fz8257fkwgpnUMNlbvtP4) | [Amanda Mattsson](https://open.spotify.com/artist/5BftYI9ZzOxA6tKAbAHdQF) | [Tjugofyra sju](https://open.spotify.com/album/2PWptHPalgmRvTz5GaeVpb) | 3:10 | 2022-04-07 | 2022-05-11 |
-| [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 |  |
+| [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-08-27 |
 | [Touch Yourself](https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe) | 2:58 | 2021-12-16 | 2022-04-02 |
 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 | 2022-04-01 | 2022-04-21 |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 | 2023-08-13 |
@@ -727,6 +727,7 @@
 | [We Fall in Love Sometimes](https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [Where the Tragic Happens](https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo) | 2:53 | 2023-06-22 |  |
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |
 | [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 | 2023-03-08 |
+| [When You're Not Mine](https://open.spotify.com/track/1PBplGHCuriImBANJ7kpZp) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [When You're Not Mine](https://open.spotify.com/album/4PS3WyfsO06gzqCLDJiGEf) | 3:10 | 2023-08-26 |  |
 | [When You’re Young](https://open.spotify.com/track/5bui8E7DuqEilW7x1UYpmx) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [When You’re Young](https://open.spotify.com/album/0llHoi4wBf98uJcmtHKyrv) | 2:44 | 2023-02-09 | 2023-04-28 |
 | [Where Do We Go](https://open.spotify.com/track/2w4mOchaVwD34HGesWK4YE) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Feelings Unresolved](https://open.spotify.com/album/7lP8swCcM2RvsCTFIN6kLC) | 2:59 | 2021-12-16 | 2022-02-25 |
 | [Where She'll Go](https://open.spotify.com/track/7HSJLidMuUG1b6ot846mI1) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Where She'll Go](https://open.spotify.com/album/4eiDKbbj8cfBn9ZP44l7yx) | 3:32 | 2022-01-13 | 2022-02-05 |

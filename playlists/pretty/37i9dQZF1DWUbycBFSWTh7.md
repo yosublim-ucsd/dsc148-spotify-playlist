@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,005 likes - 100 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,032 likes - 100 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Demucha \- Dam Swindle Remix](https://open.spotify.com/track/5D4GI9u8jDFUtQs3PpZ99f) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Demucha \(Dam Swindle Remix\)](https://open.spotify.com/album/1m5vItbZgQhHaG1TvCLDrV) | 6:46 |
-| 2 | [Downstream \- Radio Edit](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream \(Radio Edit\)](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 |
+| 2 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 |
 | 3 | [Cooking Up](https://open.spotify.com/track/0n94wJUljNAp0KvFplWYKM) | [Baka G](https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4) | [Cooking Up](https://open.spotify.com/album/1Dj7hOK9AoNTXBjYaITnor) | 4:42 |
 | 4 | [The Music](https://open.spotify.com/track/0ZVWMeEz5X0edQ1LTomuTw) | [Cosmic Soul](https://open.spotify.com/artist/5ctyqp5iHjbkdXYAA10ExM), [Tom Novy](https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX) | [The Music](https://open.spotify.com/album/0tDtwCFealtuH3EM9j53QD) | 5:20 |
 | 5 | [The Word \(edit\)](https://open.spotify.com/track/7tyq3cMH9l3M2xBCthdJLn) | [ruso](https://open.spotify.com/artist/4K0sQDP80cZ2I5SvVozpiC) | [FLAT 22 // FF007](https://open.spotify.com/album/5Abc73uCDOQjkGWyipdYbx) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [Learn to Love](https://open.spotify.com/track/6tyREpqBKbEfkUeYTlH4nX) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Learn to Love](https://open.spotify.com/album/7kI2zOz0wrsF9CZsbP0KD9) | 5:02 |
 | 100 | [Lifted](https://open.spotify.com/track/2UKGefVmPDeAvGrNvTbvRl) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun](https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry) | 6:56 |
 
-Snapshot ID: `MCxmNWVkZDA5NGUwOGU5Mzc2YTU2Y2Y0YWQ3ODcwODcyZDRkMmQzNGQ0`
+Snapshot ID: `MCwzOWM0ZWE1YzZkODg0NTM1NTFjYWZhY2JjY2E0OTE3YjBmNGMwYmZl`

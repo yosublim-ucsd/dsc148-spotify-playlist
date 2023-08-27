@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 34769,
+  "num_followers": 34811,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWQyZTA5M2UxYjJjYjE2ZjQxMWQwNTRhNzM0YjNhOGJkMWRjYzRm",
+  "snapshot_id": "MCxjM2EzNTU3M2JjNDYyNzYxMWI0MWMyYjJiNjcxZDM3ZTY5ZGNhYjM0",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -283,22 +283,18 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         }
       ],
-      "duration_ms": 158031,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
+      "duration_ms": 487359,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -323,18 +319,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Freeze",
-        "url": "https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh"
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
         }
       ],
-      "duration_ms": 487359,
-      "name": "Freeze",
-      "url": "https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq"
+      "duration_ms": 158031,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down (with SIDEPIECE)",
-      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Break Up",
         "url": "https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 157804,
       "name": "Break Up",
       "url": "https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Lights Go Down (with SIDEPIECE)",
+      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Lightning To Strike",
         "url": "https://open.spotify.com/album/5ziGWAOle0QNNJw1iQRWgJ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 178721,
       "name": "Lightning To Strike",
       "url": "https://open.spotify.com/track/2MAjcMaiYJdwFT3oAYLo03"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
-      },
-      "artists": [
-        {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
-        },
-        {
-          "name": "AUGUSTKID",
-          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
       },
@@ -875,18 +855,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Botanica",
-        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
       },
       "artists": [
         {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
+        },
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
         }
       ],
-      "duration_ms": 187377,
-      "name": "Botanica",
-      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
+      "duration_ms": 174193,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -907,6 +891,22 @@
       "duration_ms": 202501,
       "name": "Waves (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Botanica",
+        "url": "https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 187377,
+      "name": "Botanica",
+      "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2"
-      },
-      "artists": [
-        {
-          "name": "Watching Colours",
-          "url": "https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX"
-        }
-      ],
-      "duration_ms": 124772,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 152903,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2"
+      },
+      "artists": [
+        {
+          "name": "Watching Colours",
+          "url": "https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX"
+        }
+      ],
+      "duration_ms": 124772,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE"
     },
     {
       "added_at": "2023-08-24 22:00:00",

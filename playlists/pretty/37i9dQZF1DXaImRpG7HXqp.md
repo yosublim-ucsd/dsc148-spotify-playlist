@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,532 likes - 265 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,659 likes - 265 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,7 +252,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 242 | [Solus Iterum](https://open.spotify.com/track/4xFhPhpAFyMFMZkySfjcIC) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Solus Iterum](https://open.spotify.com/album/35rpeAjXlKdZnPbs6zrRyH) | 2:00 |
 | 243 | [Shift Of Focus](https://open.spotify.com/track/7MYziA9LrwwtlYlRGqTOTE) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Shift Of Focus](https://open.spotify.com/album/2atrHCFeptmvfEK8Q8qVBh) | 2:33 |
 | 244 | [Akturu](https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Akturu](https://open.spotify.com/album/3zPx6U036ddROrp6lG0XKV) | 3:00 |
-| 245 | [Better Days](https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:08 |
+| 245 | [Better Days](https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:08 |
 | 246 | [Alcobaça](https://open.spotify.com/track/693XrfcZwRmf6byHIUq1F4) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Alcobaça](https://open.spotify.com/album/6N91CVoXi22j22OtHFfYwk) | 2:08 |
 | 247 | [Sprössling](https://open.spotify.com/track/1g6ezK2BBrM9R97O8SlJsW) | [Clio Rene](https://open.spotify.com/artist/5VgxvrFuxQwGnqyqxGIFjo) | [Sprössling](https://open.spotify.com/album/3s2rTpIa7ZXdX2d4VrvzYy) | 2:31 |
 | 248 | [A Smooth Moment](https://open.spotify.com/track/3XXSl8HvlM8Ty0lpuTzP5I) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [A Smooth Moment](https://open.spotify.com/album/2EPE95Zf4Okgij9QOotxL7) | 3:31 |
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 264 | [Dark Blue Ocean](https://open.spotify.com/track/6p4f2BeZ6m6jn5AMAFvhYO) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [Dark Blue Ocean](https://open.spotify.com/album/5n7BwdAj4dmNmMZWb9E0Fm) | 3:11 |
 | 265 | [Everything Works](https://open.spotify.com/track/11jKvrtLFbV0xALgUCTZLe) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [Everything Works](https://open.spotify.com/album/5CC9fWU5JHy9usLNe9ZusV) | 3:31 |
 
-Snapshot ID: `MCxmNjRiOWUxYTQ1MGVlYWJjNzVjNDM1M2JkMTRkOWI4N2E3ODg5NWM1`
+Snapshot ID: `MCxlZjMwMGFmZGVhMWJmOTE1YjI3ZGQzNGM4ZjVjOWJkYzY4NzZkNTNl`

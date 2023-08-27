@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-672 songs - 1 day 4 hr 15 min
+675 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-07-03 |  |
 | [Anointed](https://open.spotify.com/track/1Rl0houECoVSeNPp8VXC1m) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Anointed](https://open.spotify.com/album/39CNJPF5pFr35SjTYMDWjE) | 2:01 | 2023-04-18 |  |
 | [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 | 2023-03-06 |  |
-| [Arabesque](https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Arabesque](https://open.spotify.com/album/5dYHa8wLpODekEUeJUNHBJ) | 2:31 | 2022-05-27 |  |
+| [Arabesque](https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Arabesque](https://open.spotify.com/album/5dYHa8wLpODekEUeJUNHBJ) | 2:31 | 2022-05-27 | 2023-08-27 |
 | [Arrival](https://open.spotify.com/track/2spEwOTf21NJD8nPxpFbsa) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Arrival](https://open.spotify.com/album/4Kz0omQwqDHEZP714wEPUK) | 2:24 | 2023-03-27 |  |
 | [As light as the air](https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [As light as the air](https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH) | 2:58 | 2023-08-07 |  |
 | [Asilah](https://open.spotify.com/track/01bBzDT79dc34s2Aj9C5Z8) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Asilah](https://open.spotify.com/album/7sbf9VjGSRCE2BOA3GCOgX) | 1:55 | 2023-02-20 | 2023-07-25 |
@@ -56,9 +56,11 @@
 | [Aurskog](https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Aurskog](https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG) | 2:05 | 2022-05-27 |  |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-05-27 | 2022-07-21 |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2022-05-27 | 2022-07-21 |
+| [Awake](https://open.spotify.com/track/6V2eoMA4cXsnYHfi058ZbX) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Awake](https://open.spotify.com/album/5ps7k2SYP9UhkCtHjscR28) | 2:29 | 2023-08-21 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-05-27 | 2023-03-14 |
 | [Balance](https://open.spotify.com/track/1HVU6DOb7GB4UPpf7TgfVL) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Balance](https://open.spotify.com/album/6zuVowgH43GihK6JnkLxKe) | 2:26 | 2022-05-27 | 2022-09-24 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2022-05-27 | 2023-03-21 |
+| [Bastione](https://open.spotify.com/track/3nMBQwUV1g1pkWxEz4kb2b) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Bastione](https://open.spotify.com/album/6Ayd2MMYR6CCAMSt10tiU3) | 2:37 | 2023-08-21 |  |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-05-27 | 2023-03-28 |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-05-27 |  |
 | [Before the War](https://open.spotify.com/track/0paObwS131dDajVtwORiYq) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:59 | 2022-05-27 | 2022-09-24 |
@@ -239,7 +241,7 @@
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2022-05-27 | 2022-07-21 |
 | [Hideaway](https://open.spotify.com/track/3poVmAGCtZCM3Y0iRO1zWA) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Deep Blue Sea](https://open.spotify.com/album/0i5XbMBrhhikBCn2ExEWSt) | 2:56 | 2022-05-27 | 2022-09-24 |
 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 | 2022-05-27 | 2022-09-24 |
-| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-05-27 |  |
+| [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-05-27 | 2023-08-27 |
 | [Hinoki](https://open.spotify.com/track/2IeuNWrM2UvBPsxPgzcW3l) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Hinoki](https://open.spotify.com/album/7JSNOlYLvEIgJp7WoJIRei) | 2:14 | 2022-05-27 | 2022-09-24 |
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2022-05-27 | 2022-09-24 |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2022-05-27 |  |
@@ -281,6 +283,7 @@
 | [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 | 2022-05-27 | 2022-09-24 |
 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 | 2022-05-27 | 2023-06-02 |
 | [It is a Beauteous Evening](https://open.spotify.com/track/3nZ31x1cLcCRnIRpiOIkPU) | [Thomasine Robinson](https://open.spotify.com/artist/0cJB6JE2hZxv7fH4XBs4dF) | [It is a Beauteous Evening](https://open.spotify.com/album/08rw1H3dmuani2VQMlDNLB) | 2:20 | 2022-05-27 | 2022-10-07 |
+| [Ivory Garden](https://open.spotify.com/track/69F9Ga0hAy5RuPgkLzTDUI) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Ivory Garden](https://open.spotify.com/album/4wIVtyIbVp9XTyptJ3ZluW) | 2:15 | 2023-08-21 |  |
 | [J'aspire](https://open.spotify.com/track/5RiejGliv0hhpEioFgjzl4) | [Romaine LaGrande](https://open.spotify.com/artist/6riCYP1IMxMHrg4bEyOGpD) | [J'aspire](https://open.spotify.com/album/7GdDGP7QS0yVNbfd0Cnac7) | 2:52 | 2022-05-27 | 2022-09-24 |
 | [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 | 2022-05-27 |  |
 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 | 2023-01-20 | 2023-04-26 |
@@ -327,7 +330,7 @@
 | [Let many flowers grow](https://open.spotify.com/track/6TAdSTLJrVdWjmuvUhTaDd) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Let many flowers grow](https://open.spotify.com/album/131d4xktQj2Jwve1yJwi0u) | 3:10 | 2022-05-27 | 2023-01-21 |
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-05-27 |  |
 | [Liefde maakt blind](https://open.spotify.com/track/1ULmtmHwHzmWqrVsYxees1) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Liefde maakt blind](https://open.spotify.com/album/7CPXA05Q0uVQgND8qMzyIN) | 2:21 | 2022-05-27 | 2023-04-22 |
-| [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-20 |  |
+| [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-20 | 2023-08-27 |
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2022-05-27 | 2022-07-29 |
 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-20 |  |
 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2022-05-27 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 215976,
+  "num_followers": 216093,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjI0MjAzYzE4OTUyMzgxNzI0YjI3NzE2NTQ2MjcyZTk2YTU2ODBl",
+  "snapshot_id": "MCw0ZjUwMjg0NTVhMGIyNDljOTk1ZGVmYjk3MzU1MmU4MGY5YWFiNmEx",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
-      },
-      "artists": [
-        {
-          "name": "Richie Havens",
-          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
-        }
-      ],
-      "duration_ms": 303573,
-      "name": "Going Back to My Roots",
-      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Icare",
         "url": "https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 222631,
       "name": "Icare",
       "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
+      },
+      "artists": [
+        {
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
+        }
+      ],
+      "duration_ms": 303573,
+      "name": "Going Back to My Roots",
+      "url": "https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Where Will You Go When The Party's Over",
-        "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
-      },
-      "artists": [
-        {
-          "name": "Archie Bell & The Drells",
-          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
-        }
-      ],
-      "duration_ms": 259653,
-      "name": "Don't Let Love Get You Down",
-      "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Island Life",
         "url": "https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 218066,
       "name": "Pull Up To The Bumper - Edit",
       "url": "https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Where Will You Go When The Party's Over",
+        "url": "https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ"
+      },
+      "artists": [
+        {
+          "name": "Archie Bell & The Drells",
+          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
+        }
+      ],
+      "duration_ms": 259653,
+      "name": "Don't Let Love Get You Down",
+      "url": "https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Island",
-        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
-      },
-      "artists": [
-        {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Whistle Bump",
-      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Watchin' Out",
         "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 195114,
       "name": "Watchin' Out",
       "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Whistle Bump",
+      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
         "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 438199,
       "name": "Haven't You Heard - 12\" Version",
       "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",

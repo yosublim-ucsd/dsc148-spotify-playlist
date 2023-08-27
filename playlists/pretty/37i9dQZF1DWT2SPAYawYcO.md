@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,834 likes - 95 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,872 likes - 95 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 18 | [Juice of the Sun](https://open.spotify.com/track/3WXys3bfKQ9x8WdPrFYO4L) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Juice of the Sun](https://open.spotify.com/album/6kdEcc6HBYp9C22Oy1LniY) | 3:24 |
 | 19 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 |
 | 20 | [TESLA](https://open.spotify.com/track/5Dc83h8elBkijH737JMUJw) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [TESLA](https://open.spotify.com/album/4SBKeIh3x7QAeIWip1DYse) | 2:44 |
-| 21 | [High School Drama](https://open.spotify.com/track/4d9fZ4YEJnK3W9zEsPmyL0) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/1ts95O4EudVSHUfOnaVxeL) | 2:52 |
+| 21 | [High School Drama](https://open.spotify.com/track/4R5Mf6PT2EwgkZIXwoKjAD) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/4MBtDxeecH2fTMfs2wSPaM) | 2:52 |
 | 22 | [Hated](https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hated](https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD) | 3:09 |
 | 23 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 |
 | 24 | [On My Soul](https://open.spotify.com/track/4eZr40clokPVb8YPgEIjnL) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0) | [On My Soul](https://open.spotify.com/album/1gpXKlkQu4jsATJAfEwJCf) | 2:46 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 94 | [Forever](https://open.spotify.com/track/4sEm5dbsLC1Lcd1OgBTPmc) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Forever](https://open.spotify.com/album/3yfaBbWFqz77aLa08TjClX) | 3:25 |
 | 95 | [Change Your Mind](https://open.spotify.com/track/3rzFBzDzdRMWP4aLmeGrJu) | [MID CITY](https://open.spotify.com/artist/5CfLIXfiqkmqz5If0yFu5E) | [Happy Ever After](https://open.spotify.com/album/0qEaHYJZBJ8TVTw7EXtjXy) | 4:26 |
 
-Snapshot ID: `MCw5NTVhMDAxYmZhYzNlNmZlOWM5MmRhNTQwM2IyNGYzMGFlMjMxZmY4`
+Snapshot ID: `MCxhZDE2ZTEyYmYxNmNkN2JhY2I5MGE2ODZmMzI1OWIxMzgwYmY4MjEx`

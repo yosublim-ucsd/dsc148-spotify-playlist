@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 47406,
+  "num_followers": 47434,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2E3NDA3OWRhYWRlNWU1NWRkYThhZmZkYTQ0M2M5Njk1MDExZWZm",
+  "snapshot_id": "MCw2MzMwODIzODU2ZjYxOGY4YzNhYjNkMTA5ZWFlYTAwOWRhNmUxZWNm",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+        "name": "Go Higher",
+        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 269893,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
     }
   ],
   "unique_name": "Chill Lah",

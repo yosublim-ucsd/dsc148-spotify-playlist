@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,276 likes - 154 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,637 likes - 154 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 74 | [My My](https://open.spotify.com/track/4rnvC8St4YDHGuQdBEByRz) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:05 |
 | 75 | [THANKS](https://open.spotify.com/track/7cbZIBLhfD9taMBgEsIhIp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’](https://open.spotify.com/album/5QpD7kgp5dpkNFuG6ez2yI) | 3:33 |
 | 76 | [Getting Closer](https://open.spotify.com/track/4CQsxHBYtQvDuNPnlDo5RE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'](https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5) | 3:03 |
-| 77 | [Happy Ending](https://open.spotify.com/track/29RpFeHrgO7cXLzAtXu51e) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Happy Ending](https://open.spotify.com/album/2SrJI9UCeYzVXYripQVnbi) | 3:30 |
+| 77 | [Happy Ending](https://open.spotify.com/track/6bk9pQwgyR4ihccicvOL9L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [ALWAYS YOURS](https://open.spotify.com/album/5Qae32LmUnMlJRqZv2BWvY) | 3:29 |
 | 78 | [Our dawn is hotter than day](https://open.spotify.com/track/2EGRE8lyfRRGuq7spra3eR) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 3:32 |
 | 79 | [Together](https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 4:04 |
 | 80 | [Fearless](https://open.spotify.com/track/1bhuTWST1TYIVdrsEaQDKa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:14 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 153 | [Miracle](https://open.spotify.com/track/0YLLRbbpq3Qte4rszcddMk) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1ocOn4sgfTUE2QiuPDC2Sm) | 3:38 |
 | 154 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |
 
-Snapshot ID: `MCw0NzVlODgxODJiNDdjOTViYzI5MGM2NjcxZTZjYTZlMTE3ZmM1Yjg2`
+Snapshot ID: `MCwzNDI4NmEzMGZiZmJiYmY1MzY2MjMxMWVmYjEzZTI2NGI4YzlkYTRm`

@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo\. Freshly picked every week\. ✨ Cover: Cuco & Aleman
 
-521 songs - 1 day 4 hr 5 min
+522 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 | 2022-01-28 | 2022-04-21 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-01-24 | 2022-07-23 |
 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 | 2022-07-22 | 2023-01-11 |
-| [i miss u](https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [i miss u](https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa) | 2:35 | 2023-08-25 |  |
+| [i miss u](https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [i miss u](https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa) | 2:35 | 2023-08-25 | 2023-08-27 |
 | [I Want It All \- Spanglish Version](https://open.spotify.com/track/53XHn6nINYUtSeZgRvx4uT) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Kat & Alex Side A](https://open.spotify.com/album/0rkSr5p4PVGM4Vss9hrpzY) | 3:21 | 2022-10-24 | 2023-02-17 |
 | [I'm Like A Bird](https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:03 | 2022-01-24 | 2023-02-03 |
 | [I've Seen Better Days](https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [I've Seen Better Days](https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL) | 3:04 | 2021-12-17 | 2022-10-29 |
@@ -342,6 +342,7 @@
 | [No Quiero Llegar](https://open.spotify.com/track/6f3jXPScNHBPi2MdaXSAbD) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [No Quiero Llegar](https://open.spotify.com/album/0sDILyPpj276t7sl9FaezS) | 3:43 | 2023-05-05 | 2023-06-07 |
 | [No Way I Wake Up \(Without You\)](https://open.spotify.com/track/51Af7WSJaBYJ8DSmYxYmP1) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Daylight](https://open.spotify.com/artist/6KKA9Dt82ybAI0G64ADodJ) | [No Way I Wake Up \(Without You\)](https://open.spotify.com/album/5UR3t0kyK73DYsKv0mg60c) | 3:15 | 2023-07-21 | 2023-08-18 |
 | [NORTE A SUR](https://open.spotify.com/track/2ghoM5KMSQUOGW0VAVaTvF) | [Cyluz](https://open.spotify.com/artist/6B2ybhyaJT5yd7V5dMX8BQ), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [NORTE A SUR](https://open.spotify.com/album/0Cfa8A3NCWF9pgPKZHbgOO) | 2:32 | 2023-02-17 | 2023-08-25 |
+| [NOS QUISIMOS](https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [NOS QUISIMOS](https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd) | 2:31 | 2023-08-25 |  |
 | [Nosotras](https://open.spotify.com/track/4nFDjLt6B26zHLmc1Tz8rn) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Contragolpe](https://open.spotify.com/album/09og5AoFa5Qq8Tlny8t0BG) | 2:47 | 2021-12-02 | 2022-05-26 |
 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 | 2021-12-02 | 2022-10-28 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2022-01-24 | 2022-01-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 64041,
+  "num_followers": 64078,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDM0YjdiZDE2NGU0YjU4OGM2MjM0MmYzNjBiYzI3ODY1NzU0OTA3",
+  "snapshot_id": "MCwxMTU2YTEzNjc0ZTIwMzJkOTI3NzhiNWMxMGQ3ZTEyZjJjMzI1NGJl",
   "tracks": [
     {
       "added_at": "2023-08-23 04:47:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
-    },
-    {
-      "added_at": "2023-08-03 08:29:31",
-      "album": {
         "name": "Raghupati",
         "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 304250,
       "name": "Raghupati",
       "url": "https://open.spotify.com/track/5v60ZNNtDn8wrRHQbe1FY6"
+    },
+    {
+      "added_at": "2023-08-03 08:29:31",
+      "album": {
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -501,6 +501,26 @@
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
     },
     {
+      "added_at": "2023-08-24 12:49:56",
+      "album": {
+        "name": "Goldfish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
+      },
+      "artists": [
+        {
+          "name": "Tapas Relia",
+          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
+        },
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Piya Padh Lena",
+      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
+    },
+    {
       "added_at": "2023-08-03 08:29:31",
       "album": {
         "name": "Grounded in Space",
@@ -535,34 +555,6 @@
       "duration_ms": 135000,
       "name": "Albela",
       "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
-    },
-    {
-      "added_at": "2023-08-03 08:29:31",
-      "album": {
-        "name": "Sargam Surge",
-        "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
-      },
-      "artists": [
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        },
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Yogesh Samsi",
-          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
-        },
-        {
-          "name": "V. Selvaganesh",
-          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
-        }
-      ],
-      "duration_ms": 141224,
-      "name": "Sargam Surge",
-      "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -603,6 +595,34 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
+        "name": "Sargam Surge",
+        "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        },
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Yogesh Samsi",
+          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
+        },
+        {
+          "name": "V. Selvaganesh",
+          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
+        }
+      ],
+      "duration_ms": 141224,
+      "name": "Sargam Surge",
+      "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
+    },
+    {
+      "added_at": "2023-08-03 08:29:31",
+      "album": {
         "name": "Yariyaan - Single",
         "url": "https://open.spotify.com/album/2EksT9ocgAiLmT4TIO15xV"
       },
@@ -623,22 +643,6 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Making Music",
-        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
-      },
-      "artists": [
-        {
-          "name": "Zakir Hussain",
-          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
-        }
-      ],
-      "duration_ms": 749466,
-      "name": "Making Music",
-      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
-    },
-    {
-      "added_at": "2023-08-03 08:29:31",
-      "album": {
         "name": "Rang",
         "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
       },
@@ -655,6 +659,22 @@
       "duration_ms": 368026,
       "name": "Rasiya",
       "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
+    },
+    {
+      "added_at": "2023-08-03 08:29:31",
+      "album": {
+        "name": "Making Music",
+        "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
+      },
+      "artists": [
+        {
+          "name": "Zakir Hussain",
+          "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
+        }
+      ],
+      "duration_ms": 749466,
+      "name": "Making Music",
+      "url": "https://open.spotify.com/track/6qqF3A8jjiS9k0Vpi8zcSa"
     },
     {
       "added_at": "2023-08-03 08:29:31",
@@ -923,26 +943,6 @@
     {
       "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Kahaani",
-        "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
-      },
-      "artists": [
-        {
-          "name": "Santanu Ghatak",
-          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
-        },
-        {
-          "name": "Anirban Chowdhury",
-          "url": "https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Kahaani",
-      "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
-    },
-    {
-      "added_at": "2023-08-03 08:29:31",
-      "album": {
         "name": "Krishna Murari",
         "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
       },
@@ -965,24 +965,24 @@
       "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
     },
     {
-      "added_at": "2023-08-24 12:49:56",
+      "added_at": "2023-08-03 08:29:31",
       "album": {
-        "name": "Goldfish (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
+        "name": "Kahaani",
+        "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
       },
       "artists": [
         {
-          "name": "Tapas Relia",
-          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
         },
         {
-          "name": "Pratibha Singh Baghel",
-          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+          "name": "Anirban Chowdhury",
+          "url": "https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w"
         }
       ],
-      "duration_ms": 201230,
-      "name": "Piya Padh Lena",
-      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
+      "duration_ms": 243750,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
     },
     {
       "added_at": "2023-08-03 08:29:31",

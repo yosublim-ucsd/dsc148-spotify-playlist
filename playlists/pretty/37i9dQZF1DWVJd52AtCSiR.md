@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,551 likes - 64 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,770 likes - 64 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 63 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 |
 | 64 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 |
 
-Snapshot ID: `MCw5ZThkNzQ5OWNjOTBlZDFiYWQ0NTM0MTI1YjBlY2Q4YmNlNDRhZDQ2`
+Snapshot ID: `MCw1ZGRhYjdjY2FjYmJjYmE5NjVlYjM3OTUxMzA3NDVmZjM5ZTI1ODky`

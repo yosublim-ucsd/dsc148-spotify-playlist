@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 63929,
+  "num_followers": 63958,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDlmZGY4NjljZjhlNjIyNzk3NWEzYTBjODg3MWU2NTkwZDNjMzYy",
+  "snapshot_id": "MCwwNjdlZjhlMTVlNjYxMjBhYjhmZDFkYWE0Mjg1MjQ5NGZjY2VmOTQz",
   "tracks": [
     {
       "added_at": "2023-08-24 09:00:11",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-08-24 09:00:11",
       "album": {
-        "name": "The Big Beat (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 385573,
-      "name": "Lester Left Town - Remastered 2005",
-      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
-    },
-    {
-      "added_at": "2023-08-24 09:00:11",
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/2E4Zyg78Slt7IyJhIbYbtW"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 297680,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/1s1UN3QMJGyhXQAuMqNcbK"
+    },
+    {
+      "added_at": "2023-08-24 09:00:11",
+      "album": {
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 385573,
+      "name": "Lester Left Town - Remastered 2005",
+      "url": "https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V"
     },
     {
       "added_at": "2023-08-24 09:00:11",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-08-24 09:00:11",
       "album": {
-        "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
+        "name": "Buhaina's Delight (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9"
       },
       "artists": [
         {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 330733,
-      "name": "Come On Home - Rudy Van Gelder Edition / Remastered",
-      "url": "https://open.spotify.com/track/5yz1LGqKaMSUqJBD3ZbP9v"
+      "duration_ms": 358440,
+      "name": "Backstage Sally - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f"
     },
     {
       "added_at": "2023-08-24 09:00:11",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-08-24 09:00:11",
       "album": {
-        "name": "Buhaina's Delight (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9"
+        "name": "Green Street (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 358440,
-      "name": "Backstage Sally - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/69k61OD5QalC2EcDgzjA8f"
+      "duration_ms": 440760,
+      "name": "No. 1 Green Street - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0dqWEPknT78MzavS5S4dLL"
     },
     {
       "added_at": "2023-08-24 09:00:11",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-08-24 09:00:11",
       "album": {
-        "name": "Green Street (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
+        "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
         }
       ],
-      "duration_ms": 440760,
-      "name": "No. 1 Green Street - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0dqWEPknT78MzavS5S4dLL"
+      "duration_ms": 330733,
+      "name": "Come On Home - Rudy Van Gelder Edition / Remastered",
+      "url": "https://open.spotify.com/track/5yz1LGqKaMSUqJBD3ZbP9v"
     },
     {
       "added_at": "2023-08-24 09:00:11",
@@ -503,6 +503,22 @@
       "duration_ms": 617487,
       "name": "Blue Minor - Remastered",
       "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
+    },
+    {
+      "added_at": "2023-08-24 09:00:11",
+      "album": {
+        "name": "The Big Beat (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 571680,
+      "name": "The Chess Players - Remastered 2005",
+      "url": "https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9"
     },
     {
       "added_at": "2023-08-24 09:00:11",
@@ -551,22 +567,6 @@
       "duration_ms": 331600,
       "name": "Sweet 'n' Sour",
       "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
-    },
-    {
-      "added_at": "2023-08-24 09:00:11",
-      "album": {
-        "name": "The Big Beat (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 571680,
-      "name": "The Chess Players - Remastered 2005",
-      "url": "https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9"
     },
     {
       "added_at": "2023-08-24 09:00:11",
@@ -635,18 +635,34 @@
     {
       "added_at": "2023-08-24 09:00:11",
       "album": {
-        "name": "Sonny Rollins",
-        "url": "https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO"
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 478453,
-      "name": "Decision - Remastered 1999",
-      "url": "https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX"
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+    },
+    {
+      "added_at": "2023-08-24 09:00:11",
+      "album": {
+        "name": "Like Someone In Love",
+        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 552000,
+      "name": "Johnny's Blue",
+      "url": "https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ"
     },
     {
       "added_at": "2023-08-24 09:00:11",
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-08-24 09:00:11",
       "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
-    },
-    {
-      "added_at": "2023-08-24 09:00:11",
-      "album": {
         "name": "Byrd In Hand",
         "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
       },
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-08-24 09:00:11",
       "album": {
+        "name": "Sonny Rollins",
+        "url": "https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 478453,
+      "name": "Decision - Remastered 1999",
+      "url": "https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX"
+    },
+    {
+      "added_at": "2023-08-24 09:00:11",
+      "album": {
         "name": "Six Pieces Of Silver",
         "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 265893,
       "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
-    },
-    {
-      "added_at": "2023-08-24 09:00:11",
-      "album": {
-        "name": "Like Someone In Love",
-        "url": "https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 552000,
-      "name": "Johnny's Blue",
-      "url": "https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ"
     },
     {
       "added_at": "2023-08-24 09:00:11",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-08-24 09:00:11",
       "album": {
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
+    },
+    {
+      "added_at": "2023-08-24 09:00:11",
+      "album": {
         "name": "The Turnaround",
         "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 565106,
       "name": "These Are Soulful Days",
       "url": "https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs"
-    },
-    {
-      "added_at": "2023-08-24 09:00:11",
-      "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
     },
     {
       "added_at": "2023-08-24 09:00:11",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-24 09:00:11",
       "album": {
-        "name": "The Turnaround",
-        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 404213,
-      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
-    },
-    {
-      "added_at": "2023-08-24 09:00:11",
-      "album": {
         "name": "My Conception",
         "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 438000,
       "name": "Blues Blue",
       "url": "https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6"
+    },
+    {
+      "added_at": "2023-08-24 09:00:11",
+      "album": {
+        "name": "The Turnaround",
+        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 404213,
+      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
     },
     {
       "added_at": "2023-08-24 09:00:11",

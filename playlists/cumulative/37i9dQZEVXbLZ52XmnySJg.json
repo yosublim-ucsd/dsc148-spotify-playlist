@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 207838,
       "name": "Aam Jahe Munde",
       "url": "https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 148188,
       "name": "Baller",
       "url": "https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ"
@@ -6994,7 +6994,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
@@ -7042,6 +7042,40 @@
       "duration_ms": 311186,
       "name": "Kalank (Title Track)",
       "url": "https://open.spotify.com/track/6vo7Y1iWyZvpjvFbf6BiZ5"
+    },
+    {
+      "album": {
+        "name": "Kalapakkaara (From \"King of Kotha\")",
+        "url": "https://open.spotify.com/album/3Q8tsdSTnGhjJ61mIWkmRf"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Joe Paul",
+          "url": "https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251999,
+      "name": "Kalapakkaara (From \"King of Kotha\")",
+      "url": "https://open.spotify.com/track/554RItg5afQv3ODGQMT29x"
     },
     {
       "album": {
@@ -11107,6 +11141,32 @@
     },
     {
       "album": {
+        "name": "Zara Hatke Zara Bachke (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Z9XfG5fDAU8Nu3GNEDhYK"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266075,
+      "name": "Phir Aur Kya Chahiye",
+      "url": "https://open.spotify.com/track/1dTwNptkk9fxuMyTE9UK91"
+    },
+    {
+      "album": {
         "name": "Phir Aur Kya Chahiye",
         "url": "https://open.spotify.com/album/76XzQiiknIF4m1OlxQyboZ"
       },
@@ -11170,7 +11230,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 266075,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS"
@@ -13920,7 +13980,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 189136,
       "name": "Tere Vaaste",
       "url": "https://open.spotify.com/track/20LfqGqyGqjOsw9YA4nOTG"
@@ -13954,7 +14014,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 189136,
       "name": "Tere Vaaste",
       "url": "https://open.spotify.com/track/5GhNEr3AQtMhHGYLRgCSV5"
@@ -14590,7 +14650,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-27",
       "duration_ms": 195360,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
@@ -16048,7 +16108,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 243953,
       "name": "Zihaal e Miskin",
       "url": "https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"

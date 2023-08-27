@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Mac Julia, Mc Luanna, ajuliacosta
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,078 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,110 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 18 | [Renc Renc](https://open.spotify.com/track/3LkOtPI3tg44XxnYdrST7B) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:22 |
 | 19 | [A noite toda](https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [A noite toda](https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL) | 3:04 |
 | 20 | [Basquiat](https://open.spotify.com/track/3d9Yt5WmVjPJQJ3suJxy40) | [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm), [JotaPills](https://open.spotify.com/artist/5EFuxQqgLKrSBURDlTsC91) | [Detroit](https://open.spotify.com/album/7Itl5hyQy9U49AdMwvjueQ) | 2:36 |
-| 21 | [Diagnóstico](https://open.spotify.com/track/7KdVFvjsLG0bBn7LO4ae2I) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:58 |
+| 21 | [Diagnóstico](https://open.spotify.com/track/7KdVFvjsLG0bBn7LO4ae2I) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:58 |
 | 22 | [Solteira Desapegada](https://open.spotify.com/track/2VA2YomrRj8hHJ7wmpoDeZ) | [Vulgo Junet](https://open.spotify.com/artist/3127oLqTIUfvCVr5y8RZ4M), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Solteira Desapegada](https://open.spotify.com/album/0nN1rl6bAR0Wocif2BkNUf) | 2:47 |
 | 23 | [Indomável](https://open.spotify.com/track/0lZp0muwBhwatS2psDYezn) | [GREGO](https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Indomável](https://open.spotify.com/album/6MBx194n7gvVy5s7KTGm4B) | 2:27 |
 | 24 | [Sereno](https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sereno](https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Me Sinto Bem](https://open.spotify.com/track/6Aw6wakQNVU0aGLOeId2fY) | [Andreo](https://open.spotify.com/artist/4Y2FfGIalhyHQq03xtWivO), [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Me Sinto Bem](https://open.spotify.com/album/6gXqtibKBNzaRmlEq9Oa1x) | 2:47 |
 | 75 | [Muda o Clima](https://open.spotify.com/track/5rRiLKbeO2Lb6FeId5eERS) | [UF GANG](https://open.spotify.com/artist/4yIsCbR2dnX4UbeAy1UDp3), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Muda o Clima](https://open.spotify.com/album/7hWHZGvxbVWN8tbxZJv3rr) | 2:30 |
 
-Snapshot ID: `MCxlY2M0NzliMjhlMzFiNmQ5NTJmYWIyNTY3OWMwYzZmNTFlMmEwYjM2`
+Snapshot ID: `MCxlMzU4MzQ4OTdjMzE1YTM0MTRiM2EzOTIwN2FhNTI4YmQ1YjBiOWNi`

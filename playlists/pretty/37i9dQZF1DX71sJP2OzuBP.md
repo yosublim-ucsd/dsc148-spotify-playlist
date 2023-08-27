@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,586 likes - 103 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,590 likes - 103 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 102 | [一直都在 \- 《我的麻吉4個鬼》電影主題曲](https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [一直都在 \(《我的麻吉4個鬼》電影主題曲\)](https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a) | 3:41 |
 | 103 | [Roselia](https://open.spotify.com/track/4xMVyWjK7rvXNkUAVXCd3S) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [Roselia](https://open.spotify.com/album/21hUr3pkaozv93pAovUwBN) | 3:55 |
 
-Snapshot ID: `MCxlZGMxNjExMzQ1ZGQ4MGVkNmUxYzBlNjljYTVhMDhlOTI2YmY4OGJl`
+Snapshot ID: `MCxhZjdkYTYyMWUyOWM5NjQ3NGZlZjYzMTljYWJlZjI0YmZkOGMxZTE0`

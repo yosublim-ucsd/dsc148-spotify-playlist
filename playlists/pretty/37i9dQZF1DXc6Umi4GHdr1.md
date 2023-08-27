@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,086 likes - 91 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,104 likes - 91 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 25 | [Harvest](https://open.spotify.com/track/3cx5cOuPaj3Yi0rRA5qSeu) | [Esther Lopez](https://open.spotify.com/artist/0Lt4RoVhvgZx1byuzqMAQc) | [Harvest](https://open.spotify.com/album/5b7JGt4Rm4J5OLwg0vN5Mc) | 2:19 |
 | 26 | [Fairplex](https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Fairplex](https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu) | 2:07 |
 | 27 | [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 |
-| 28 | [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 |
+| 28 | [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 |
 | 29 | [Verano](https://open.spotify.com/track/1XrG2glXzkEisIbtNIFQq8) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Verano](https://open.spotify.com/album/0nEzBM5pySgrM3ovEI382k) | 3:34 |
 | 30 | [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 |
 | 31 | [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 81 | [Rio De Los Sauces](https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Rio De Los Sauces](https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I) | 2:49 |
 | 82 | [Airstream](https://open.spotify.com/track/4Dh7eyJf2nJgPfpQAOiL7z) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Airstream](https://open.spotify.com/album/4SBHi1gf4x4rlDr6DEHw16) | 3:44 |
 | 83 | [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 |
-| 84 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
+| 84 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
 | 85 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 |
 | 86 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 |
 | 87 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 90 | [Is It Worth The Sacrifice](https://open.spotify.com/track/1sEQxb89LCu1u1WtjSOxNL) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Is It Worth The Sacrifice](https://open.spotify.com/album/3acE1KO951uFGG7x2Z7WzQ) | 3:46 |
 | 91 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 |
 
-Snapshot ID: `MCxkZjdkZjk3ODNlYzRiOGQ2Nzg0MWI4OGFkYmVjYjMxYzBiMTI5ZTEy`
+Snapshot ID: `MCwyYzRlMWMzMGI4ZDVlNGY2ZTFlZDkyZDgxZmY4Nzc2ZjlhNWUyMDhl`

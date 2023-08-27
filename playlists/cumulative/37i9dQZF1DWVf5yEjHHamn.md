@@ -4,7 +4,7 @@
 
 > Replongez dans les plus grands tubes d'été
 
-58 songs - 3 hr 27 min
+59 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Infinity 2008 \- Klaas Vocal Edit](https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE) | [Guru Josh Project](https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy), [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Infinity 2008](https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY) | 3:12 | 2022-12-16 |  |
 | [Jubel](https://open.spotify.com/track/5CqgPrK3V7GpSSaXDLc0qa) | [raphy](https://open.spotify.com/artist/5irOBYegrzJAoGK3HPWUyH), [3ario](https://open.spotify.com/artist/0nOwCPOHcanMZndiBiFzil), [Reaxys](https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI) | [Jubel](https://open.spotify.com/album/1OyFMLnshlXyukK5i7HPNT) | 3:20 | 2023-05-22 | 2023-08-23 |
 | [Jubel](https://open.spotify.com/track/1cIIW3j6p4SxyAK4XmHqR9) | [roggie](https://open.spotify.com/artist/61gmjPlX3uejvEetDY5OUm), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [Jubel](https://open.spotify.com/album/6PPoHgOC4luShJIh0p7urJ) | 3:21 | 2022-12-16 | 2023-05-05 |
-| [Jubel \- Radio Edit](https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel EP](https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R) | 3:18 | 2022-12-16 |  |
+| [Jubel](https://open.spotify.com/track/4UwpKYztFyNF4gFGXsev87) | [umutlopes](https://open.spotify.com/artist/0PrzK1viPdHVBRgyVucdyW), [Emirhan Bodur](https://open.spotify.com/artist/6V3XomqoP1eGs7vEVSPLzB), [pasa michaelson](https://open.spotify.com/artist/1my2pvFvefZsP1uRUeby6X), [Alperen INC](https://open.spotify.com/artist/5mMnEzf64O9ciQUKLs64jy) | [Jubel](https://open.spotify.com/album/185Zv9iUq9iMQJ02I9529o) | 3:21 | 2023-08-01 |  |
+| [Jubel \- Radio Edit](https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel EP](https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R) | 3:18 | 2022-12-16 | 2023-08-27 |
 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2022-12-16 | 2023-05-23 |
 | [Lambada \- Original Version 1989](https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm) | [Kaoma](https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu) | [Lambada \- Les originaux No\. 1 de l'été \(Original 1989\)](https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm) | 3:27 | 2022-12-16 |  |
 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 | 2022-12-16 |  |

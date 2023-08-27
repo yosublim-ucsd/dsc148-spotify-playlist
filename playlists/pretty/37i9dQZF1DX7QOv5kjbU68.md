@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain]
 
 > Hear all of Drake's biggest and best hits in one playlist\. Thank us later.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,901,790 likes - 122 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,902,845 likes - 122 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QOv5kjbU68.md) - [plain]
 | 121 | [That’s How You Feel](https://open.spotify.com/track/41a7dZcq30Ss5kPMayWRV0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 2:37 |
 | 122 | [Finesse](https://open.spotify.com/track/2WP8G2pdddDmnh1xbfKBOI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:02 |
 
-Snapshot ID: `MCw3NjM1YjA3ZDAyODc5Y2Y0MmUzZTQ4YTJjNzQ4ODQ4OWFjNDYxZjQ0`
+Snapshot ID: `MCw2ZDU4YmVkZGJlZGI4ZDBkMDUyNWQ5ZWQwOGRmMWRmN2NlMjk1YjIy`

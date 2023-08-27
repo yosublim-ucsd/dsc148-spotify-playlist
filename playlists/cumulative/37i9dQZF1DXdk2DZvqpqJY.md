@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-369 songs - 22 hr 58 min
+370 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 | 2022-06-02 | 2022-09-01 |
 | [Synchronized Swigging](https://open.spotify.com/track/3akI3Xo8cyRrPbKAALJENF) | [ALEXANDER](https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor) | [Synchronized Swigging](https://open.spotify.com/album/2XWqGPWSN4EI4PQfGfhPB7) | 3:51 | 2022-02-17 | 2023-03-21 |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2022-06-02 | 2023-05-05 |
-| [Tangerine](https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Tangerine](https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL) | 2:59 | 2023-03-20 |  |
+| [Tangerine](https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Tangerine](https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL) | 2:59 | 2023-03-20 | 2023-08-27 |
 | [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 | 2023-03-09 | 2023-03-21 |
 | [That Roy](https://open.spotify.com/track/7G035a84qdhNfjm2pV29Zx) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Justin Brown](https://open.spotify.com/artist/4YzUifC19loaHMPE0MdGNv) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 2:16 | 2022-03-31 | 2022-10-27 |
 | [The American Negro](https://open.spotify.com/track/4zmcdNHswlPehBWqsMEijS) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [The American Negro](https://open.spotify.com/album/7hfUy5lE0q1Zh7YBgNKGto) | 4:36 | 2022-02-17 | 2022-04-21 |
@@ -359,6 +359,7 @@
 | [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-03-20 |  |
 | [We Are Many](https://open.spotify.com/track/5ZlpFprbeqNU8ye8mPomAX) | [Soothsayers](https://open.spotify.com/artist/4iJspDSUsyFWGNada2wdVx) | [We Are Many](https://open.spotify.com/album/70h4SD70wNkNpbPkIG4unt) | 4:41 | 2022-02-17 | 2022-10-12 |
 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 | 2023-03-20 |  |
+| [What I’m doing wrong?](https://open.spotify.com/track/68HHUsKYMa5g3KSIHFfa3V) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [What I’m doing wrong?](https://open.spotify.com/album/71g2tsTFYn27gJM0T5HVVP) | 2:57 | 2023-08-25 |  |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2023-03-20 |  |
 | [What's the Matter](https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [What's the Matter](https://open.spotify.com/album/5sqBcX9zowe2A8la0IdQkC) | 2:21 | 2022-02-17 | 2022-02-21 |
 | [when there's love around](https://open.spotify.com/track/4TM2biU9mX2XG3MiSTcH4b) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:03 | 2022-04-22 | 2023-03-21 |

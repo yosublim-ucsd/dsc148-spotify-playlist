@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 288269,
+  "num_followers": 288507,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzY1ZjBkN2EzYzI5OTMxYjk1YjZhYmVhZGJmZmYzZjg2ZWU3NTU4",
+  "snapshot_id": "MCxkNDY0ZTdjYWMzZTU2ZjhiMDg3YmRlZTU4Mzk0NGQxZDJmNGEwNTk3",
   "tracks": [
     {
       "added_at": "2023-06-22 01:44:05",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "The Concrete Confessional",
         "url": "https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Clayman",
+        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Only for the Weak",
+      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Dark Void",
-        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Dark Void",
-      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Piece of Mind (2015 - Remaster)",
         "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Wake The Dead",
-        "url": "https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu"
-      },
-      "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        }
-      ],
-      "duration_ms": 187629,
-      "name": "Wake The Dead",
-      "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 203680,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Wake The Dead",
+        "url": "https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "duration_ms": 187629,
+      "name": "Wake The Dead",
+      "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Brotherhood of the Snake",
         "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 253988,
       "name": "Brotherhood of the Snake",
       "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Berserker",
-        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 269088,
-      "name": "Beast In Black",
-      "url": "https://open.spotify.com/track/0ngSk8aGEjWS6fsHIV9KKj"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 209453,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 269088,
+      "name": "Beast In Black",
+      "url": "https://open.spotify.com/track/0ngSk8aGEjWS6fsHIV9KKj"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 225705,
+      "name": "Wash It All Away",
+      "url": "https://open.spotify.com/track/5k0KjsgX1ETIAQWVBRHzq3"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 239946,
       "name": "The Mirror And The Ripper",
       "url": "https://open.spotify.com/track/13jk0QqK6PzfgK9qtkT8jm"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
-        "name": "I Don't Wanna Be Me",
-        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 228712,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
     }
   ],
   "unique_name": "Energy Booster: Metal",

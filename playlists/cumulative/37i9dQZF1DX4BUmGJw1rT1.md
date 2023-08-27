@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-203 songs - 14 hr 8 min
+204 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [London Bridge](https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ) | 5:27 | 2023-04-21 | 2023-06-20 |
 | [London Bridge](https://open.spotify.com/track/2AABmyao5FVwAm8ZnveJ4m) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 5:27 | 2023-06-16 |  |
 | [Lonely Fool](https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ) | [John Lyons](https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2) | [John Lyons Band](https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh) | 7:18 | 2022-10-03 |  |
-| [Long Time No See](https://open.spotify.com/track/5s40RWy8SY50RXy0xdulRp) | [Sister Cookie](https://open.spotify.com/artist/6XKmTFkgxCVctqRxptLMLM) | [In the Blue Corner](https://open.spotify.com/album/5NxTQpuGIJS2zYPFXOA7mL) | 5:54 | 2023-08-25 |  |
+| [Long Road Ahead](https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Long Road Ahead](https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2) | 3:22 | 2023-08-25 |  |
+| [Long Time No See](https://open.spotify.com/track/5s40RWy8SY50RXy0xdulRp) | [Sister Cookie](https://open.spotify.com/artist/6XKmTFkgxCVctqRxptLMLM) | [In the Blue Corner](https://open.spotify.com/album/5NxTQpuGIJS2zYPFXOA7mL) | 5:54 | 2023-08-25 | 2023-08-27 |
 | [Lost Count \- Live](https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa) | [Ebba Forsberg](https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk) | [Live](https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2) | 2:29 | 2023-08-18 |  |
 | [Love At First Sight](https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Love At First Sight](https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF) | 3:28 | 2022-05-25 |  |
 | [Love Sweet Love](https://open.spotify.com/track/3UBfEl291sMVsSJ15wSbeg) | [Yirrmal](https://open.spotify.com/artist/4rHLbr6edktdv6RnVrf0Y7) | [Love Sweet Love](https://open.spotify.com/album/5CNyK9cASsu2cB16j0bise) | 2:44 | 2023-08-18 |  |

@@ -4,13 +4,13 @@
 
 > indie tunes to make you shine bby :\)
 
-197 songs - 11 hr 4 min
+198 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la Madrugada](https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 4:21 | 2021-12-29 |  |
 | [A No Llorar](https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [A No Llorar](https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB) | 3:52 | 2021-12-29 |  |
-| [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 | 2021-12-29 |  |
+| [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 | 2021-12-29 | 2023-08-27 |
 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 | 2021-12-29 | 2022-12-03 |
 | [Alejémonos](https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Alejémonos](https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK) | 2:45 | 2022-12-02 |  |
 | [All That I Said](https://open.spotify.com/track/2HuCVtmbXGPjWrCbnhElDf) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [All That I Said](https://open.spotify.com/album/62QiCnsViAGeHZo31aecbi) | 2:35 | 2021-12-29 | 2022-11-13 |
@@ -98,6 +98,7 @@
 | [La Magia](https://open.spotify.com/track/6NALumxGj6tUkYdk5HYpla) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/4dZrXK5ZpbZmILTlFjbPuM) | 4:05 | 2021-12-29 | 2022-07-25 |
 | [La Mujer Perfecta](https://open.spotify.com/track/5XR1WyZ0uOSHRNhP85QxT4) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:37 | 2021-12-29 | 2023-03-04 |
 | [La Sombra](https://open.spotify.com/track/3monG9SQApxiOwivspTANk) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY) | [La Sombra](https://open.spotify.com/album/1byXfg4uGQecfZKo9AjziF) | 3:46 | 2021-12-29 | 2023-05-08 |
+| [La Ternura](https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [La Ternura](https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL) | 3:06 | 2023-08-25 |  |
 | [Laberinto](https://open.spotify.com/track/4Qj4s4DZCwH3hAbva1cxPm) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Laberinto](https://open.spotify.com/album/1gfLz7QU3keeYmbggpXq3q) | 3:42 | 2021-12-29 | 2022-07-29 |
 | [Lava](https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Lava](https://open.spotify.com/album/0P7BNrKeRNCFyuUHtmK5KY) | 3:22 | 2023-04-21 | 2023-05-25 |
 | [Liberado por un sueño](https://open.spotify.com/track/0YiyRdU3egpWq0ULQxKAA4) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:28 | 2023-05-19 | 2023-06-13 |

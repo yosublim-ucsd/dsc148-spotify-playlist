@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: SOFT PLAY",
-  "num_followers": 49740,
+  "num_followers": 49761,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjg5OTFhNzhmZWMyYTQ2NWI2MzdkN2UwNzY4YmU3MzllNDBlOTE4",
+  "snapshot_id": "MCw4NmVlN2NlN2M1MzBhOWU2MmQ4ZjUwNWMxMjlmMzBlZmRiOGNjM2Q5",
   "tracks": [
     {
       "added_at": "2023-08-23 14:08:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "New York Transit Queen",
-        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 109387,
-      "name": "New York Transit Queen",
-      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
-    },
-    {
-      "added_at": "2023-08-23 14:08:00",
-      "album": {
         "name": "Resolution/Revolution",
         "url": "https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 202992,
       "name": "Resolution/Revolution",
       "url": "https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5"
+    },
+    {
+      "added_at": "2023-08-23 14:08:00",
+      "album": {
+        "name": "New York Transit Queen",
+        "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 109387,
+      "name": "New York Transit Queen",
+      "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "Groundhog Day",
-        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 217989,
-      "name": "Groundhog Day",
-      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
-    },
-    {
-      "added_at": "2023-08-23 14:08:00",
-      "album": {
         "name": "The King and Queen of Gasoline",
         "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "Pah!",
-        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+        "name": "Groundhog Day",
+        "url": "https://open.spotify.com/album/415iY0uDENvjox5USnF9uC"
       },
       "artists": [
         {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 105000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+      "duration_ms": 217989,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -563,6 +547,42 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2023-08-23 14:08:00",
+      "album": {
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+    },
+    {
+      "added_at": "2023-08-23 14:08:00",
+      "album": {
+        "name": "The Delicate Nature",
+        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        },
+        {
+          "name": "Laurie Vincent",
+          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "The Delicate Nature",
+      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -599,38 +619,18 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "The Delicate Nature",
-        "url": "https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY"
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
       "artists": [
         {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        },
-        {
-          "name": "Laurie Vincent",
-          "url": "https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 182407,
-      "name": "The Delicate Nature",
-      "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
-    },
-    {
-      "added_at": "2023-08-23 14:08:00",
-      "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/76bNx7PEK7pqPCBST2Nkmj"
-      },
-      "artists": [
-        {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "Slip",
-      "url": "https://open.spotify.com/track/29ARSUD6mqI5Wjk6A6qEuL"
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/76bNx7PEK7pqPCBST2Nkmj"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
         }
       ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+      "duration_ms": 163600,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/29ARSUD6mqI5Wjk6A6qEuL"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-08-23 14:08:00",
+      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-08-23 14:08:00",
-      "album": {
         "name": "Girl God Gun",
         "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
         }
       ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+      "duration_ms": 190543,
+      "name": "Bubblegum Infinity",
+      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
       },
       "artists": [
         {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 190543,
-      "name": "Bubblegum Infinity",
-      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "Cave World (Deluxe)",
-        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 283187,
-      "name": "It Ain't Enough",
-      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
-    },
-    {
-      "added_at": "2023-08-23 14:08:00",
-      "album": {
         "name": "All The Problems",
         "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 176907,
       "name": "All The Problems",
       "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
+    },
+    {
+      "added_at": "2023-08-23 14:08:00",
+      "album": {
+        "name": "Cave World (Deluxe)",
+        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 283187,
+      "name": "It Ain't Enough",
+      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -1119,6 +1119,22 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+    },
+    {
+      "added_at": "2023-08-23 14:08:00",
+      "album": {
+        "name": "Nah, That Ain't It / Phone Lines Down",
+        "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "duration_ms": 123205,
+      "name": "Phone Lines Down",
+      "url": "https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "Nah, That Ain't It / Phone Lines Down",
-        "url": "https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P"
+        "name": "Here's What You Could Have Won",
+        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
       "artists": [
         {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
         }
       ],
-      "duration_ms": 123205,
-      "name": "Phone Lines Down",
-      "url": "https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi"
+      "duration_ms": 134640,
+      "name": "Rob the Supermarket",
+      "url": "https://open.spotify.com/track/68iMBNCqEia8BQ3DxdGld8"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 258250,
       "name": "Demolition Row",
       "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
-    },
-    {
-      "added_at": "2023-08-23 14:08:00",
-      "album": {
-        "name": "Here's What You Could Have Won",
-        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 134640,
-      "name": "Rob the Supermarket",
-      "url": "https://open.spotify.com/track/68iMBNCqEia8BQ3DxdGld8"
     },
     {
       "added_at": "2023-08-23 14:08:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-08-23 14:08:00",
       "album": {
-        "name": "BIG HIT SINGLE",
-        "url": "https://open.spotify.com/album/63heAOtxjx6cQtNnRPKR5D"
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/3HV7no3piIbAJsyfpSpb3l"
       },
       "artists": [
         {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
         }
       ],
-      "duration_ms": 189600,
-      "name": "BIG HIT SINGLE",
-      "url": "https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD"
+      "duration_ms": 161279,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/5kmBAp1D2G0vNZUdbXu0vM"
     }
   ],
   "unique_name": "The Punk List",

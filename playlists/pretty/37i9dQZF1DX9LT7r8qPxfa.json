@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 258812,
+  "num_followers": 258855,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTEwYTU0YmFjYTNhYjdmYzEzOTAyODYxZmUxYjk3Njg1YTBjNmNm",
+  "snapshot_id": "MCxjYTA0ZTAwN2VmNjFmM2Y3OGJmMjhiY2Q4YzY1MTYwZTEzMDBiNzAz",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "People Pleaser",
         "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 252291,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "In the Magic Hour",
-        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "The King of All Birds",
-      "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Bullseye",
         "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "The King of All Birds",
+      "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Thumbs",
-        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Unmoved (A Black Woman Truth)",
         "url": "https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Love of Her Life",
-        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+        "name": "Thumbs",
+        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
       },
       "artists": [
         {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 241503,
-      "name": "Love of Her Life",
-      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
+      "duration_ms": 265440,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Love of Her Life",
+        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "Love of Her Life",
+      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "My Love Is Cool",
         "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 187933,
       "name": "Turn To Dust",
       "url": "https://open.spotify.com/track/6M1lGjZRnXL4vZvY0p3kTv"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "I Don't Want To Let You Down b/w All Over Again",
-        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "I Don't Want to Let You Down",
-      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "I Don't Want To Let You Down b/w All Over Again",
+        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "I Don't Want to Let You Down",
+      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "New Conditions",
         "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Kitchen Table",
+        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR"
-      },
-      "artists": [
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 284951,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/6gjkQKgCWQA2ZA9froITyw"
     }
   ],
   "unique_name": "noir",

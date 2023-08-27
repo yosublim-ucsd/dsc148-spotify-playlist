@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Ludmilla
 
-525 songs - 1 day 3 hr 8 min
+526 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Falling](https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z) | 2:39 | 2020-10-20 | 2023-02-15 |
 | [Falling](https://open.spotify.com/track/2rRJrJEo19S2J82BDsQ3F7) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Nicotine](https://open.spotify.com/album/1Hy76RlNvOHe6cpih1RxXq) | 2:39 | 2020-10-20 | 2022-07-29 |
 | [Festa na Piscina](https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Festa na Piscina](https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO) | 4:28 | 2023-04-28 | 2023-06-17 |
+| [Fez a Onda](https://open.spotify.com/track/4vSzL8GxdWV26bVKYz8mNG) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Fez a Onda](https://open.spotify.com/album/4BGxB5IuRAB2zdizcNWwbU) | 2:35 | 2023-08-25 |  |
 | [Fica](https://open.spotify.com/track/0hWgqjzGQ5WhXoEs8vT6TZ) | [Vic Brow](https://open.spotify.com/artist/1GoCvVwfqLj1J5DdnVS3ZI) | [Fica](https://open.spotify.com/album/1vMmoArjmcn5WMGYmySpJq) | 3:12 | 2023-03-24 | 2023-05-27 |
 | [FICA PRO CAFÉ](https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [FICA PRO CAFÉ](https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId) | 2:30 | 2023-02-14 | 2023-04-09 |
 | [FIQUE BEM!](https://open.spotify.com/track/7Md18J8NOcpM25Vyt7N9WM) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [DISCO VOADOR \[DELUXE\]](https://open.spotify.com/album/59pai4WqNIembDQV6xcast) | 3:16 | 2023-07-14 | 2023-08-26 |
@@ -299,7 +300,7 @@
 | [NANANI NANÃO](https://open.spotify.com/track/2aruxtZqyHLdm7X3XJv7lL) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [X Sem Peita](https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY), [Luiz Brazil](https://open.spotify.com/artist/4eVBI7aLNfxuynEDNki3wk) | [NANANI NANÃO](https://open.spotify.com/album/17qu6cauxhF0yARt5aaLvT) | 2:33 | 2023-02-14 | 2023-03-18 |
 | [Narrow Road \(feat\. Lil Baby\)](https://open.spotify.com/track/3GZd1aDsgKL71Kt3VIp0hc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Narrow Road \(feat\. Lil Baby\)](https://open.spotify.com/album/0F4bzfGxyxDT5xdKUAUfhN) | 4:00 | 2020-10-20 | 2022-11-13 |
 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 | 2020-10-20 | 2023-02-15 |
-| [Nem Me Beijou](https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5) | [Marvyn](https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Nem Me Beijou](https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if) | 3:13 | 2023-08-25 |  |
+| [Nem Me Beijou](https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5) | [Marvyn](https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Nem Me Beijou](https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if) | 3:13 | 2023-08-25 | 2023-08-27 |
 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 | 2023-07-07 |  |
 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 | 2020-10-20 | 2022-05-19 |
 | [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 | 2020-10-20 | 2023-02-15 |

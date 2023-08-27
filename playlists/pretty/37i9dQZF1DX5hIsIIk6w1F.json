@@ -1,12 +1,12 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: Cris Mj.",
-  "num_followers": 326846,
+  "num_followers": 327297,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTgxMGU5NzA4MmJjMjE4MmJlZGNjNTU2MmIxMGVjMGJmZGYwYjgz",
+  "snapshot_id": "MCwwZDJkN2UxN2Y2YTQyMGJkNzk5M2VlZmQxZGE0YzEyZTFlM2FmZjNm",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -612,8 +612,8 @@
       },
       "artists": [
         {
-          "name": "Lokate",
-          "url": "https://open.spotify.com/artist/6TT6ROMubk5Q4ANQlhnjSb"
+          "name": "lokate",
+          "url": "https://open.spotify.com/artist/1A2ygx3G6GR96LVXJitbEv"
         },
         {
           "name": "Sayian Jimmy",
@@ -1358,6 +1358,10 @@
         {
           "name": "Gino Mella",
           "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/24gSkXV5aSI1WbcZh2XtT5"
         }
       ],
       "duration_ms": 164724,
@@ -1550,6 +1554,10 @@
         {
           "name": "El BAI",
           "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/24gSkXV5aSI1WbcZh2XtT5"
         }
       ],
       "duration_ms": 176713,

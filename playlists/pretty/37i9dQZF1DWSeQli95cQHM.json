@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 9576,
+  "num_followers": 9591,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTVhY2I1MzBkZWYzOTg3YWQ2OTYxMjYxZTEzODY1NzkxMGUxYjU1",
+  "snapshot_id": "MCxlMmZlMDM1N2Y1ODYwNDZkOWFmZGRhYzZkYTZjMzkwZWMzYWExNjJj",
   "tracks": [
     {
       "added_at": "2023-08-18 03:03:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
+        "name": "Energy Sync",
+        "url": "https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0"
+      },
+      "artists": [
+        {
+          "name": "Terr",
+          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
+        }
+      ],
+      "duration_ms": 397107,
+      "name": "Energy Sync - Club Mix",
+      "url": "https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
         "name": "Rita Lee & Roberto - Classix Remix Vol. III",
         "url": "https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 421463,
       "name": "Caso S\u00e9rio - L_cio & Tessuto Remix",
       "url": "https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "Energy Sync",
-        "url": "https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0"
-      },
-      "artists": [
-        {
-          "name": "Terr",
-          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
-        }
-      ],
-      "duration_ms": 397107,
-      "name": "Energy Sync - Club Mix",
-      "url": "https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -500,6 +500,22 @@
       },
       "artists": [
         {
+          "name": "Diaz",
+          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
+        }
+      ],
+      "duration_ms": 247083,
+      "name": "Passa a Lata de L\u00f3lo",
+      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
+        "name": "Kengaral Eletrohits, Vol. 2",
+        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
+      },
+      "artists": [
+        {
           "name": "Cashu",
           "url": "https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q"
         },
@@ -511,22 +527,6 @@
       "duration_ms": 665738,
       "name": "Espinheira Santa",
       "url": "https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "Kengaral Eletrohits, Vol. 2",
-        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
-      },
-      "artists": [
-        {
-          "name": "Diaz",
-          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
-        }
-      ],
-      "duration_ms": 247083,
-      "name": "Passa a Lata de L\u00f3lo",
-      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Rock The Box",
-        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
-      },
-      "artists": [
-        {
-          "name": "Vermelho",
-          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
-        },
-        {
-          "name": "Ivana Wonder",
-          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
-        }
-      ],
-      "duration_ms": 382204,
-      "name": "Rock The Box - Original",
-      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
         "name": "Laiarai\u00e1 (Remixes)",
         "url": "https://open.spotify.com/album/737UVySDRItiHv1XQIqygV"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 308000,
       "name": "Laiarai\u00e1 - LOV.ini Remix",
       "url": "https://open.spotify.com/track/7tlQjeD17zGnhKfg9YLwgK"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
+        "name": "Rock The Box",
+        "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
+      },
+      "artists": [
+        {
+          "name": "Vermelho",
+          "url": "https://open.spotify.com/artist/2zYmmCfO526zTJnHlNB9tL"
+        },
+        {
+          "name": "Ivana Wonder",
+          "url": "https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7"
+        }
+      ],
+      "duration_ms": 382204,
+      "name": "Rock The Box - Original",
+      "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
+        "name": "Sem Sono",
+        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
+      },
+      "artists": [
+        {
+          "name": "Martinelli",
+          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
+        }
+      ],
+      "duration_ms": 337643,
+      "name": "Sem Sono",
+      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
         "name": "Flame of the Pine Cone",
         "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 409258,
       "name": "Flame of the Pine Cone - Spaniol's Blue Note Remix",
       "url": "https://open.spotify.com/track/5juJXWm2B17gJBvMq7Gr6r"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "Sem Sono",
-        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
-      },
-      "artists": [
-        {
-          "name": "Martinelli",
-          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
-        }
-      ],
-      "duration_ms": 337643,
-      "name": "Sem Sono",
-      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Kengaral Eletrohits, Vol. 1",
-        "url": "https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk"
+        "name": "Nocturnal Fear",
+        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
       },
       "artists": [
         {
-          "name": "Mari Herzer",
-          "url": "https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw"
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
         }
       ],
-      "duration_ms": 329500,
-      "name": "Autoconstru\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU"
+      "duration_ms": 336400,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Nocturnal Fear",
-        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+        "name": "Kengaral Eletrohits, Vol. 1",
+        "url": "https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk"
       },
       "artists": [
         {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+          "name": "Mari Herzer",
+          "url": "https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw"
         }
       ],
-      "duration_ms": 336400,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
+      "duration_ms": 329500,
+      "name": "Autoconstru\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU"
     },
     {
       "added_at": "2023-08-18 03:03:00",
