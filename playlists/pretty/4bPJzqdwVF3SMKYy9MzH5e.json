@@ -6,7 +6,7 @@
     "name": "\u2606 maria \u2605",
     "url": "https://open.spotify.com/user/yom8mary"
   },
-  "snapshot_id": "NjM5LDQ1MGU3MDliN2VlNWRhODY0ZDNkNDdjMjI1ZDk3ZDJhZTYzMGEzZTg=",
+  "snapshot_id": "NjQ3LDliYmQ5Yzk2YWI3NjY2MGU2YjE3NDIxODZjNjgyNDFlZDJlZDA0MTQ=",
   "tracks": [
     {
       "added_at": "2021-08-05 02:05:05",
@@ -11758,6 +11758,10 @@
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
         }
       ],
       "duration_ms": 191412,
@@ -30263,6 +30267,134 @@
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
+    },
+    {
+      "added_at": "2023-08-21 01:08:16",
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
+    },
+    {
+      "added_at": "2023-08-21 02:19:57",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Deer Dance",
+      "url": "https://open.spotify.com/track/2SpGXD7EbexndFmmThrnsy"
+    },
+    {
+      "added_at": "2023-08-21 02:45:38",
+      "album": {
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "I-E-A-I-A-I-O",
+      "url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5"
+    },
+    {
+      "added_at": "2023-08-23 04:44:44",
+      "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 106340,
+      "name": "What the Fuck is Happening",
+      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
+    },
+    {
+      "added_at": "2023-08-24 10:50:28",
+      "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "duration_ms": 159434,
+      "name": "This, If Anything",
+      "url": "https://open.spotify.com/track/1hRRp3uMap1ZfN7ulNal3T"
+    },
+    {
+      "added_at": "2023-08-24 10:54:12",
+      "album": {
+        "name": "Sacrament",
+        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 328200,
+      "name": "Blacken the Cursed Sun",
+      "url": "https://open.spotify.com/track/7gNqCN4EK3B0mnklBp7EqP"
+    },
+    {
+      "added_at": "2023-08-27 04:06:32",
+      "album": {
+        "name": "God Complex",
+        "url": "https://open.spotify.com/album/6Z9q5kePQHDkL7Nh3dpr58"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 179473,
+      "name": "God Complex",
+      "url": "https://open.spotify.com/track/7zoF1WCREeVmUgO9J9xlbf"
+    },
+    {
+      "added_at": "2023-08-27 04:35:30",
+      "album": {
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 179680,
+      "name": "I Hate Myself And Want To Die - 2013 Mix",
+      "url": "https://open.spotify.com/track/1kwsUMjFuePZBNB56gQYoA"
     }
   ],
   "unique_name": "\ud835\ude5b\ud835\ude68\ud835\ude5d \ud835\ude63\ud835\ude59 \ud835\ude58\ud835\ude5d\ud835\ude65 \ud835\ude5f\ud835\ude62\ud835\ude68 ",

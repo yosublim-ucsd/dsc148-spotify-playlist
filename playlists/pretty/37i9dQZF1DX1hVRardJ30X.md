@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Fuerza Regida, Los Tucanes de Tijuana & Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,233 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,325 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 50 | [NO SOY SANTA](https://open.spotify.com/track/3dWRxCMhqPqsGXLRakmjFH) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [NO SOY SANTA](https://open.spotify.com/album/275IzYNzmSQbZc3V6h9bHY) | 2:30 |
 | 51 | [Solo](https://open.spotify.com/track/2Egw4s2Lc6h6T3tD8h0qXq) | [Geo](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh) | [Solo](https://open.spotify.com/album/0FSjwriQ2SekFn3mMi5RRd) | 2:10 |
 
-Snapshot ID: `MCw1OGY0NGFlNjg2Y2E2YzU4MzYxZTc5ODU4MGM1NjM2YmU3NjllMWRl`
+Snapshot ID: `MCwxNzUzM2VhYjc5ZmUxNzcxZGRhY2FhYzcyNjEyMzU4NDJlMjFkMjBj`

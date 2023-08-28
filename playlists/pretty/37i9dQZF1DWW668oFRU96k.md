@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: D.O.D x Jax Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,491 likes - 72 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,512 likes - 72 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 71 | [Feels So Right \- Radio Mix](https://open.spotify.com/track/0yWWMRp88HJAfLZmFxkQ4h) | [Lizzy Wang](https://open.spotify.com/artist/5bqSaq38eVpgUktEQLcPNp), [TOM KING](https://open.spotify.com/artist/6ESVK7OII4SIQg4EEyFahi) | [Feels So Right](https://open.spotify.com/album/5OIskHMk4oedsZSbnqr5qZ) | 3:14 |
 | 72 | [Ends With Us](https://open.spotify.com/track/6SC1B5qJfAlgBZUT4BXUxB) | [Now O Later](https://open.spotify.com/artist/7mXiVh1xuK89jd1QX0JuHS), [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Ends With Us](https://open.spotify.com/album/1cc009ZFxNL6udltua7p6m) | 2:33 |
 
-Snapshot ID: `MCw2MDU5YjU0MjZhZmY0MDAyZmViN2UzM2ViNDY1NWE2ZWYwNjkwZjFm`
+Snapshot ID: `MCxmZWQxYTVlZTFmZDYyMjVjZGQ5YzMzMjBlNzZmNWRjYzgxNjA4NjRi`

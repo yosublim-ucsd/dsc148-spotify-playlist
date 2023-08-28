@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,169 songs - 2 day 16 hr 27 min
+1,170 songs - 2 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [DFK](https://open.spotify.com/track/4ihktjAjr08cr3lyIuUMrM) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:40 | 2023-01-07 | 2023-01-24 |
 | [DFK](https://open.spotify.com/track/5e0Zz8vWUS6J5oKodFtZdb) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:40 | 2023-01-08 | 2023-01-10 |
 | [DFK \- Inter'lol](https://open.spotify.com/track/0Ddjx5CNvX3yWnIYkPxk7L) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [Direction L'Album](https://open.spotify.com/album/2HvxrVBZCopoor6ckgbFS5) | 0:57 | 2021-11-13 | 2021-11-19 |
+| [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 | 2023-08-27 |  |
 | [Diamantes y oro](https://open.spotify.com/track/0uTtSyNsbjgCDoS8LAgz7o) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Cheb Khaled](https://open.spotify.com/album/07qAVChyoX0i1O5L5dv7GJ) | 3:17 | 2022-08-20 | 2022-08-22 |
 | [Diamond](https://open.spotify.com/track/5ZWTPl9SNP5HG7eZZxV8qK) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Hamza15\-3](https://open.spotify.com/artist/4KakN50EORWP9ML1bXhyWF) | [Diamond](https://open.spotify.com/album/4TmNR3ZS70JdZCrCX6QyNr) | 2:57 | 2022-05-07 | 2022-05-11 |
 | [Diamond](https://open.spotify.com/track/5qMtuivmlLWhyMc9Ez1MEu) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Hamza15\-3](https://open.spotify.com/artist/4KakN50EORWP9ML1bXhyWF) | [Diamond](https://open.spotify.com/album/6ZD7JqXlhqJ7ffrOEoVTIq) | 2:57 | 2021-11-11 | 2021-11-19 |
@@ -945,7 +946,7 @@
 | [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 | 2023-01-28 | 2023-06-25 |
 | [Siba](https://open.spotify.com/track/2uqByr5b5Aci3ZQsAlMKN9) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 4\)](https://open.spotify.com/album/6MkkXPfbn9JhriUgIzFfIV) | 3:54 | 2022-12-23 | 2022-12-29 |
 | [Sid Lghram](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Sid Lghram](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 | 2023-01-02 | 2023-02-01 |
-| [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 | 2022-08-09 |  |
+| [Sigue](https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [K y B](https://open.spotify.com/artist/1enXMVomlMi88CZFYL1m2f) | [Capítulo 1](https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb) | 3:31 | 2022-08-09 | 2023-08-28 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-17 |
 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 | 2022-11-15 | 2023-07-10 |
 | [Silicone](https://open.spotify.com/track/0CIOL8FDW8LSceHDXSpE07) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:18 | 2021-10-03 | 2021-12-13 |

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMTYwODMsMDAwMDAwMDBmN2YzOWQ5ZTgzZjJhNjkxY2Q3MTMwY2JlZjQ1MGIwYQ==",
+  "snapshot_id": "MjgyMTg5ODYsMDAwMDAwMDA1ZTYyY2U2NzM3N2JmYzVkNjZiOWIzMmNmNjVhYmYxNg==",
   "tracks": [
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6DiFE5a3ApjWhMGhMmKO9r"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/5wTpvQI8cLNl1MqQH9IHOA"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
-      "album": {
-        "name": "Just Beyond (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4KXlP5OHXybdqq7ul913r1"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 78674,
-      "name": "Arrival to School",
-      "url": "https://open.spotify.com/track/0uyHHhKlmYgwmUiEFi0Puk"
-    },
-    {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "Chupa (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
+      "album": {
+        "name": "Just Beyond (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KXlP5OHXybdqq7ul913r1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 78674,
+      "name": "Arrival to School",
+      "url": "https://open.spotify.com/track/0uyHHhKlmYgwmUiEFi0Puk"
+    },
+    {
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "Hacks: Season 1 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
@@ -137,39 +137,7 @@
       "url": "https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
-      "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "Welcome To LaBelle",
-      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
-    },
-    {
-      "added_at": "2023-08-25 12:03:51",
-      "album": {
-        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
-        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 127615,
-      "name": "Beth's Story",
-      "url": "https://open.spotify.com/track/2hMmh9DiAcBjSw59vmYkTo"
-    },
-    {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
@@ -185,7 +153,39 @@
       "url": "https://open.spotify.com/track/2RA6or9ARt4HvluVyETjBo"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
+      "album": {
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 127615,
+      "name": "Beth's Story",
+      "url": "https://open.spotify.com/track/2hMmh9DiAcBjSw59vmYkTo"
+    },
+    {
+      "added_at": "2023-08-27 12:26:06",
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 135493,
+      "name": "Welcome To LaBelle",
+      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
+    },
+    {
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/5fLJks68YQXC1tPngFZn88"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1qBXkDmnMZXaumaaxwmdYu"
     },
     {
-      "added_at": "2023-08-25 12:03:51",
+      "added_at": "2023-08-27 12:26:06",
       "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 132026,
-      "name": "Blackdom",
-      "url": "https://open.spotify.com/track/2IK8rm1hS9aR3d1WGYUaGQ"
+      "duration_ms": 81493,
+      "name": "Mary Agnes & Callie",
+      "url": "https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

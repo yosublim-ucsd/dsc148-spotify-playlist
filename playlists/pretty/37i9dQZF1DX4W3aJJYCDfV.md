@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Burna Boy \(pictured\), Selena Gomez, Joel Corry and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,039 likes - 145 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,095 likes - 145 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 144 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 |
 | 145 | [10,000](https://open.spotify.com/track/0HZKX7ZFA339Da0IA2EpVq) | [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [10,000](https://open.spotify.com/album/70L9lYw6QhFfP4qdU59WKL) | 3:46 |
 
-Snapshot ID: `MCxhMmI1ZmZiODMxOTExMjQzY2EwZmUzM2M1YTUxNjMxNWRmMTBiMDll`
+Snapshot ID: `MCwwYTMyZWJlMWYwODhhMDI2NDVmNzQwMTdmZDk5M2I2MzYzMTkxMmJj`

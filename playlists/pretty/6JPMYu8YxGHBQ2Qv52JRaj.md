@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/6JPMYu8YxGHBQ2Qv52JRaj.md) - [plain]
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 31 min 54 sec
+[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 33 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Be My Love](https://open.spotify.com/track/7juwa1sp4Mvova0zojCFal) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Feel Alive / Be My Love](https://open.spotify.com/album/3aKodtgO1n014PgiOyg8Xj) | 3:35 |
-| 2 | [Life Alert \(feat\. Tima Dee\)](https://open.spotify.com/track/7icesKbzByVjuQ3WKseTff) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Modern Mechanics](https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD) | 3:35 |
-| 3 | [Calling Through The Fire](https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Safety First](https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp) | 3:05 |
-| 4 | [Fiya \- Curbi Edit](https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Fiya \(Curbi Edit\)](https://open.spotify.com/album/296eebCCSymVYHR6fjiISA) | 4:40 |
-| 5 | [Call Me](https://open.spotify.com/track/4soXgnLGNNHkrPfUouig5Z) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Call Me](https://open.spotify.com/album/3oCS0kj9EWXwUU0wcM5FKt) | 1:55 |
-| 6 | [In My Bag](https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [In My Bag](https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9) | 3:04 |
-| 7 | [Bodibop](https://open.spotify.com/track/7qsxOpPpISexxjGhSyazpG) | [NAØ](https://open.spotify.com/artist/4WPTQlsGkmMFfBgmLBZUPA), [ElmyX](https://open.spotify.com/artist/3HE2rmc5yd27lV668hRPEV) | [Bodibop](https://open.spotify.com/album/2t617S7iv4bIB5q5M3hruT) | 3:08 |
-| 8 | [Pump It Up](https://open.spotify.com/track/3LBjEgzayDLlB72ItAfFMP) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Pump It Up](https://open.spotify.com/album/4JG7RhBm4wxPCPG3ZUBl3T) | 2:24 |
-| 9 | [Familia](https://open.spotify.com/track/0dipXHiCMwh09laeECYCQB) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [MULTIPLICITY](https://open.spotify.com/album/1ej8yqRN2IM5SVUHXYgq0O) | 2:43 |
-| 10 | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 |
+| 1 | [Stereo Function](https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Stereo Function](https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts) | 3:26 |
+| 2 | [Outlaw](https://open.spotify.com/track/7yFfFSxMZKLiirS1r0TZEK) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [NAØ](https://open.spotify.com/artist/4WPTQlsGkmMFfBgmLBZUPA) | [Outlaw](https://open.spotify.com/album/4yiFV421AV4gBN8cotNt7z) | 2:45 |
+| 3 | [Outer Space \- ElmyX Remix](https://open.spotify.com/track/1s7yJ9OYlHpCPEZyJaEXP4) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy), [ElmyX](https://open.spotify.com/artist/3HE2rmc5yd27lV668hRPEV) | [Outer Space \(Remixes\)](https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j) | 3:02 |
+| 4 | [Let U Have It](https://open.spotify.com/track/4ZhbxBYEqsuyk61ZBhgrBW) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Charlotte X](https://open.spotify.com/artist/5KEaTilneqGJ2SUc6ilfDS) | [Let U Have It](https://open.spotify.com/album/59ioF1E2Sbpfwy5Rwpt3Sj) | 2:55 |
+| 5 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
+| 6 | [Harder](https://open.spotify.com/track/2L8wOlTh3wDW57JaY3rV5W) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [Face](https://open.spotify.com/artist/2TRss5Am5d740WVZ1UB0pQ), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Be Mine / Harder](https://open.spotify.com/album/3GVb1oZONNtDwxmCoPyOt2) | 3:35 |
+| 7 | [Do It](https://open.spotify.com/track/7M67voKjoqqDqnfrY8H4UG) | [Dexplicit](https://open.spotify.com/artist/3JbZkcDvIx60UNIq32f4qY) | [Dubz, Vol\. 3](https://open.spotify.com/album/5KBXpV9fwqhwIZ3PG0QC2B) | 3:56 |
+| 8 | [Overrated](https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Overrated](https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g) | 3:47 |
+| 9 | [Wild Out \(Badjokes Remix\)](https://open.spotify.com/track/3bGifsJGPnUVzP6d8XznsV) | [Aazar](https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG), [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD) | [Wild Out \(Badjokes Remix\)](https://open.spotify.com/album/2cic6k8McGmzybpXAvUzQa) | 3:20 |
+| 10 | [Trouble](https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 2:49 |
 
-Snapshot ID: `NTI0LDkxMWJlNjI4YjU1ZDlkZmU4ODFkNzkyNTNkNzYwZTNkMDUwZDMzMGU=`
+Snapshot ID: `NTUwLDVmNGE2YTJlY2FkMTYwZTEzYTJkN2YwNWRlYjQzNWM0ODZhMmMwNTI=`

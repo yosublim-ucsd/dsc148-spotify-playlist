@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: ゆいにしお
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,773 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,776 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 16 | [abon](https://open.spotify.com/track/6JrnGrFFPMF0VSi1mp5X0R) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [abon](https://open.spotify.com/album/31N1srmLj3VGR277i4FiUw) | 2:35 |
 | 17 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 |
 | 18 | [Michi\-tono\-Sogu](https://open.spotify.com/track/3YbwKcZvwPm6DfqQTjek13) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [Michi\-tono\-Sogu](https://open.spotify.com/album/7tTLJFKEI9MjjZ3MX2jCgQ) | 4:30 |
-| 19 | [Highway Star, Speed Star](https://open.spotify.com/track/24mssXlFWI2yqDxIKyxdOz) | [Cymbals](https://open.spotify.com/artist/6SMP2z9rViDs6YNCXtCj29), [内田晴元](https://open.spotify.com/artist/0tyFs1AR7CN6SJktxcE11Z), [小泉一郎](https://open.spotify.com/artist/2kTBUEN2ycoPRCxkfR1mVo), [米山美弥子](https://open.spotify.com/artist/1RY91WE9NFfgt9eqPYINLB) | [Mr.Noone Special\(通常盤\)](https://open.spotify.com/album/44fNzdefeOROF0CrZkGTqI) | 4:21 |
+| 19 | [Highway Star, Speed Star](https://open.spotify.com/track/24mssXlFWI2yqDxIKyxdOz) | [Cymbals](https://open.spotify.com/artist/6SMP2z9rViDs6YNCXtCj29), [内田晴元](https://open.spotify.com/artist/0tyFs1AR7CN6SJktxcE11Z), [小泉一郎](https://open.spotify.com/artist/2kTBUEN2ycoPRCxkfR1mVo), [米山美弥子](https://open.spotify.com/artist/1RY91WE9NFfgt9eqPYINLB) | [Mr.Noone Special（通常盤）](https://open.spotify.com/album/44fNzdefeOROF0CrZkGTqI) | 4:21 |
 | 20 | [スウィート・ソウル・レヴュー](https://open.spotify.com/track/4QOeo7TtiJntEz9oehagTV) | [ピチカート・ファイヴ](https://open.spotify.com/artist/0IQalWuw5NBk1xXG5GK0Bv) | [スウィート・ソウル・レヴュー](https://open.spotify.com/album/4tKYKtZAFWhgwD3UA4EJs2) | 4:16 |
 | 21 | [Love You!!!!!!](https://open.spotify.com/track/0yBv5KMvxpcb9H3LXhWfJP) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8) | 2:05 |
 | 22 | [LEFT RIGHT](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [RIGHT MIND](https://open.spotify.com/track/2p9XZr10ES5yeUD0EcBBpu) | [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien), [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV) | [RIGHT MIND](https://open.spotify.com/album/6ldLs2zl3f6apTqijFEw0E) | 4:07 |
 | 50 | [G.A.D.](https://open.spotify.com/track/2ODzC7a4omg68Yj6BzrKIu) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [G.A.D.](https://open.spotify.com/album/2hv367X3TlSbK1lT9XWlVl) | 4:14 |
 
-Snapshot ID: `MCxjOTc4YThhZWQyNDIzNmRkZTBiOWFhYjdiZmI5MTQxNDdjNzZjMjBk`
+Snapshot ID: `MCwxMzgyYzVhNTNjMmJkYTA5NzkxOTM4YjMxYmU3ZjM5MzMxYmMwZWFk`

@@ -6,7 +6,7 @@
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "MTA1MyxkZGU1YjhkNDk3ZDgzYmEwYTI1NGE1MmYyMDJlYjliNWRlNDIxYjkx",
+  "snapshot_id": "MTA1Niw5NGI5MjUwMjc1YmZiZjYzYTIwNzZmYjZmYTBkMjEwZWI5ZWExYzg2",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -121,6 +121,26 @@
       "url": "https://open.spotify.com/track/6uaTKOvSd4PZdHWs05r65k"
     },
     {
+      "added_at": "2023-08-24 07:56:54",
+      "album": {
+        "name": "Dance The Night",
+        "url": "https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS"
+      },
+      "artists": [
+        {
+          "name": "Phil Halo",
+          "url": "https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv"
+        },
+        {
+          "name": "Julia Ross",
+          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
+        }
+      ],
+      "duration_ms": 172710,
+      "name": "Dance The Night - Acoustic",
+      "url": "https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4"
+    },
+    {
       "added_at": "2019-10-13 06:38:53",
       "album": {
         "name": "Came Here for Love (Acoustic)",
@@ -139,6 +159,22 @@
       "duration_ms": 216015,
       "name": "Came Here for Love - Acoustic",
       "url": "https://open.spotify.com/track/6gBwaCbb1lKHvlN9mVOVAg"
+    },
+    {
+      "added_at": "2023-08-21 19:14:38",
+      "album": {
+        "name": "Iris (Acoustic)",
+        "url": "https://open.spotify.com/album/3C6YfaOgmdH7A40A6JHuMU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "duration_ms": 182708,
+      "name": "Iris - Acoustic",
+      "url": "https://open.spotify.com/track/2bvnbXhGaMnl8QBYqzbHdD"
     },
     {
       "added_at": "2023-04-01 05:48:56",
@@ -171,6 +207,22 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0"
+    },
+    {
+      "added_at": "2023-08-21 19:38:15",
+      "album": {
+        "name": "Don't Stop (Acoustic)",
+        "url": "https://open.spotify.com/album/2GzqGJVYPGFlz13klXHfqY"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "duration_ms": 157103,
+      "name": "Don't Stop - Acoustic",
+      "url": "https://open.spotify.com/track/4oVMAdooQBRZrhsK5tlPOm"
     },
     {
       "added_at": "2023-06-23 04:28:11",

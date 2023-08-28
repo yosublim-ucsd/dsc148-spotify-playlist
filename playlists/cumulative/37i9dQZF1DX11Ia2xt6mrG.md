@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr Pig y Mario Bautista en portada.
 
-210 songs - 12 hr 1 min
+211 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [FUEL](https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [ENCORE](https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT) | 2:01 | 2023-01-07 |  |
 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 | 2022-05-06 |  |
 | [Getaway](https://open.spotify.com/track/6kEIY1YMGoUG3WGqBzpEEq) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Getaway](https://open.spotify.com/album/1d1vnzF7rbEKA7Csc4OPo0) | 3:08 | 2022-05-06 | 2023-03-25 |
-| [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx) | [Sisster](https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF) | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/album/5lg33u4vnAOXOobeLNqyR1) | 3:29 | 2022-08-02 |  |
+| [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob) | [Sisster](https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF) | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope) | 3:29 | 2023-07-28 |  |
+| [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx) | [Sisster](https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF) | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/album/5lg33u4vnAOXOobeLNqyR1) | 3:29 | 2022-08-02 | 2023-08-28 |
 | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/track/6oQvB3BxlETB0CfrT5Vq6N) | [Sisster](https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF) | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/album/3WeALlWSg6bZdEcHIXdMto) | 3:29 | 2022-05-06 | 2022-07-28 |
 | [Hands On Your Knees](https://open.spotify.com/track/37fLAiTpfO04K91ciBndCV) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Andres Dajer](https://open.spotify.com/artist/7kOGZT11mKnkAFi7mM5TnK) | [Hands On Your Knees](https://open.spotify.com/album/0cjskFkWID5S6lsntGRkqf) | 7:04 | 2022-05-06 | 2022-07-29 |
 | [Hanging Tree](https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Hanging Tree](https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S) | 2:53 | 2022-05-06 |  |

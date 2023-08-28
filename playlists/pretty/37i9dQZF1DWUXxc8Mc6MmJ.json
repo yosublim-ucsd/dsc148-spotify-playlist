@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 683005,
+  "num_followers": 683569,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODFjZjA2NWI2MjVlN2VhZjQ0M2E0N2E2MGRjODM4NWYwMTY2ZWFl",
+  "snapshot_id": "MCwwOWMzNGY4ZWVjMTc2YjRmNmI3NTgzNDQ2ODU0NTExNzRjNzQxZmRh",
   "tracks": [
     {
       "added_at": "2023-08-16 08:28:23",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/12cDuwg8jJ4N7RokLnFWfQ"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
         "name": "While You Were Sleeping, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3Mi8XGlryJ75HOoWpbkR6x"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 226991,
       "name": "\uae34 \ubc24\uc774 \uc624\uba74",
       "url": "https://open.spotify.com/track/3j1RB91MFxn8oY9jYoQ36t"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/12cDuwg8jJ4N7RokLnFWfQ"
     },
     {
       "added_at": "2023-08-16 08:28:23",

@@ -4,7 +4,7 @@
 
 > Love songs from your favorite films
 
-146 songs - 10 hr 4 min
+147 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,8 +151,9 @@
 | [You Take My Troubles Away](https://open.spotify.com/track/0rcjkLx4X0sOB4uXfYEa9Y) | [Rachael Yamagata](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6), [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M) | [Dear John](https://open.spotify.com/album/1VHwZkuhZXlsOZsvCjoEB3) | 3:45 | 2022-01-11 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 4:16 | 2022-01-11 |  |
 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2022-01-11 |  |
-| [You've Got A Way](https://open.spotify.com/track/4FpYzosLDCvIuX7mS6qX3q) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:29 | 2022-01-11 |  |
+| [You've Got A Way](https://open.spotify.com/track/4FpYzosLDCvIuX7mS6qX3q) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:29 | 2022-01-11 | 2023-08-28 |
 | [You've Got A Way](https://open.spotify.com/track/61mXP7pqGL9g3NLpwaSNYf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/5Ji9gLL9thCA79usDNBi7M) | 3:29 | 2022-01-11 | 2022-07-29 |
+| [You've Got A Way](https://open.spotify.com/track/1OuEcnthR9ePQHtZqNcZSf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:31 | 2023-01-06 |  |
 | [Your Song \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/1rDklEm1rIKphZ7EvWinHm) | [Ewan McGregor](https://open.spotify.com/artist/105Paee9vmV5rfLSG652e1), [Alessandro Safina](https://open.spotify.com/artist/5ITJs06INM9JWxK5hROEj3) | [Moulin Rouge](https://open.spotify.com/album/1Kg7AyuyIMTfD6geg9VghI) | 3:38 | 2022-01-11 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

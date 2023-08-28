@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,354 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,364 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 31 | [Tentretiene](https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tentretiene](https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG) | 3:42 |
 | 32 | [P.O.V.](https://open.spotify.com/track/0ZoHqqfllVIYGwM7cMhJgo) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Sempiterno](https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ) | 2:39 |
 | 33 | [Baby Girl](https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Baby Girl](https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB) | 3:17 |
-| 34 | [SHISHI](https://open.spotify.com/track/3PuU3xioX7MZ68D3UMpHW9) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [SHISHI](https://open.spotify.com/album/3qBsliHciopWBbZf1BA6tJ) | 2:50 |
-| 35 | [Movie](https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Movie](https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r) | 3:36 |
-| 36 | [Lealtad x Dinero](https://open.spotify.com/track/6EMCdTDkc4jGqXy4AN4vsw) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Lealtad x Dinero](https://open.spotify.com/album/2hdaowYq1S3yEd31yGOIsp) | 3:43 |
-| 37 | [Más Grande](https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Más Grande](https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX) | 3:39 |
+| 34 | [Movie](https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Movie](https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r) | 3:36 |
+| 35 | [SHISHI](https://open.spotify.com/track/3PuU3xioX7MZ68D3UMpHW9) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [SHISHI](https://open.spotify.com/album/3qBsliHciopWBbZf1BA6tJ) | 2:50 |
+| 36 | [Más Grande](https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Más Grande](https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX) | 3:39 |
+| 37 | [Lealtad x Dinero](https://open.spotify.com/track/6EMCdTDkc4jGqXy4AN4vsw) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Lealtad x Dinero](https://open.spotify.com/album/2hdaowYq1S3yEd31yGOIsp) | 3:43 |
 | 38 | [Palestina](https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [Palestina](https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4) | 3:54 |
 | 39 | [11:11](https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir) | [11:11](https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf) | 3:11 |
 | 40 | [Juicy](https://open.spotify.com/track/7AG2CdeWrcdkhQpQuXS9nv) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Juicy](https://open.spotify.com/album/57bcr49I6EUlgp1UKzUFdg) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Los Costos](https://open.spotify.com/track/0ZAYDTMC8NhYlKehcG9uZC) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Uno X Ciento](https://open.spotify.com/album/2eIR3IdzD32qKQQuLeQOXM) | 3:09 |
 | 50 | [Quiero](https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR) | [Mhane](https://open.spotify.com/artist/7iZYxykcEg1PSVTW7cWdqK), [Robert Taylor](https://open.spotify.com/artist/1PbZZhQGxXdxgrcR1W8Ete) | [Quiero](https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f) | 2:58 |
 
-Snapshot ID: `MCwwYmQ0NDBmMTZjMGVlNzViMmY3NThmZTU4ZGRiOGE4MzA1MTUwN2Jl`
+Snapshot ID: `MCwxMzQ1MWRjMmMyNmRlOGI1YmRhYWNhZDY0ZjA0MTk5OTMwZGIzOWY2`

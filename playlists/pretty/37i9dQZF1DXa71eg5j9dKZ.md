@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Róisín Murphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,551 likes - 130 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,576 likes - 130 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 129 | [Earth](https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Earth](https://open.spotify.com/album/4tEySm30Wxlad1GJSkky3J) | 4:01 |
 | 130 | [Both](https://open.spotify.com/track/56rBmhBdKxLsFpfkMqRz5G) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Both](https://open.spotify.com/album/7q6KK2yQ6sGb3q3PJ0LiXY) | 2:53 |
 
-Snapshot ID: `MCwzNzg3NTA0NzM0YWE3OWM5MTU4NWJmNGNiNTRlMTYzZTE3ODgyM2M4`
+Snapshot ID: `MCxjOGQ0NjY5MWQzZmY0ZTVhMTQ3NGFlZjg5YjM4YThlNTFhNDg4Yjky`

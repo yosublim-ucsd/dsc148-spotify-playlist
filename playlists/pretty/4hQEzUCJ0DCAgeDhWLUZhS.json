@@ -1,12 +1,12 @@
 {
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: All Time Low",
-  "num_followers": 1636,
+  "num_followers": 1634,
   "original_name": "Plugged In",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTcyNixiNTdhZjJmMTAzZDgxN2FmNzhkODA5MjVmMzU5YjIwZDUxYmFiNTMy",
+  "snapshot_id": "MTcyOSwwZDQ4Mjc0YTg3NDMwNzdlNTRkYWJmMDViNzdjYWE4YWQ4NjhhOWYz",
   "tracks": [
     {
       "added_at": "2023-08-18 05:51:10",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU"
     },
     {
+      "added_at": "2023-08-25 06:28:13",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2PmSZ7vjteOKTVeCAf6v6A"
+      },
+      "artists": [
+        {
+          "name": "PARK RD",
+          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/6817kXZC7aNKs7jcDBpkW9"
+    },
+    {
       "added_at": "2023-08-04 06:20:57",
       "album": {
         "name": "Take Me Away (Freaky Friday)",
@@ -39,6 +55,22 @@
       "duration_ms": 187715,
       "name": "Take Me Away (Freaky Friday Cover)",
       "url": "https://open.spotify.com/track/6DgOgEPyxAAK28bkn1wfax"
+    },
+    {
+      "added_at": "2023-08-25 06:18:54",
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "added_at": "2023-07-20 23:09:09",
@@ -71,6 +103,22 @@
       "duration_ms": 274437,
       "name": "Talk Sick",
       "url": "https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy"
+    },
+    {
+      "added_at": "2023-08-25 06:21:17",
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE"
     },
     {
       "added_at": "2023-08-11 02:00:37",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8597,
+  "num_followers": 8603,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDQ0MzE2ZjMzMzU3MjgwMTg4MDg0ZDkwZDViYTAwMGQ5M2FmYTk2",
+  "snapshot_id": "MCw3ZTFmOGNkMDRhZDA4NGI0MzkxZDBkZDQ5YjFhZTgxNDUyOWJiZjMz",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "K I'm Mortal",
-        "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
-      },
-      "artists": [
-        {
-          "name": "Kimmortal",
-          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "K I'm Mortal",
-      "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Open up Babe (Perry twins remix)",
         "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "K I'm Mortal",
+        "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
+      },
+      "artists": [
+        {
+          "name": "Kimmortal",
+          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "K I'm Mortal",
+      "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Abide",
         "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
       },
@@ -635,22 +635,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Round and Round (Bright Light Bright Light Remix)",
-        "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
+        "name": "All I Have To Do Is Dream",
+        "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
       "artists": [
         {
-          "name": "Jujubee",
-          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
-        },
-        {
-          "name": "Bright Light Bright Light",
-          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
+          "name": "Polartropica",
+          "url": "https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl"
         }
       ],
-      "duration_ms": 216842,
-      "name": "Round and Round (Bright Light Bright Light Remix)",
-      "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
+      "duration_ms": 221820,
+      "name": "All I Have To Do Is Dream",
+      "url": "https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -687,18 +683,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "All I Have To Do Is Dream",
-        "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
+        "name": "Round and Round (Bright Light Bright Light Remix)",
+        "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
       "artists": [
         {
-          "name": "Polartropica",
-          "url": "https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl"
+          "name": "Jujubee",
+          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
+        },
+        {
+          "name": "Bright Light Bright Light",
+          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
         }
       ],
-      "duration_ms": 221820,
-      "name": "All I Have To Do Is Dream",
-      "url": "https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE"
+      "duration_ms": 216842,
+      "name": "Round and Round (Bright Light Bright Light Remix)",
+      "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
     },
     {
       "added_at": "2023-06-30 23:59:00",

@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168775,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
+    },
+    {
+      "album": {
         "name": "Bass A+",
         "url": "https://open.spotify.com/album/75ckzWWX6pGcVJAvzpyEwT"
       },
@@ -1359,6 +1377,28 @@
     },
     {
       "album": {
+        "name": "Drum Machine",
+        "url": "https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Drum Machine",
+      "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
+    },
+    {
+      "album": {
         "name": "Drumz",
         "url": "https://open.spotify.com/album/2Ra6oSGqv15Kq0Lkik88ss"
       },
@@ -1454,6 +1494,46 @@
       "duration_ms": 182382,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V"
+    },
+    {
+      "album": {
+        "name": "Entre Tu Y Yo",
+        "url": "https://open.spotify.com/album/6XjGiOvPTKXu55Z4x6vTlA"
+      },
+      "artists": [
+        {
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+        },
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153749,
+      "name": "Entre Tu Y Yo",
+      "url": "https://open.spotify.com/track/5FIfBuscza9UTc8WQowToi"
+    },
+    {
+      "album": {
+        "name": "Eu Que Sei",
+        "url": "https://open.spotify.com/album/7KIy63d1JnPJjLQ51MTLL8"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cartier",
+          "url": "https://open.spotify.com/artist/0Iyc9gAnfeZEwZntRBD4IS"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Eu Que Sei",
+      "url": "https://open.spotify.com/track/0eV42KLxvhEjA4XB1u4RvW"
     },
     {
       "album": {
@@ -2208,7 +2288,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 151370,
       "name": "Honey Child",
       "url": "https://open.spotify.com/track/4s8pYCTyKtpW6InPbyxj8O"
@@ -2310,7 +2390,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 161280,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/7FKU5yJyY4tIDBJJ5r2eAg"
@@ -2631,6 +2711,36 @@
     },
     {
       "album": {
+        "name": "In The Music (feat. Adam Clay)",
+        "url": "https://open.spotify.com/album/4F2hS3ziidvwr9ig2tmrNo"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        },
+        {
+          "name": "Jude & Frank",
+          "url": "https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x"
+        },
+        {
+          "name": "Lohrasp Kansara",
+          "url": "https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy"
+        },
+        {
+          "name": "Adam Clay",
+          "url": "https://open.spotify.com/artist/19jXtZ3WctjL00MMVqYrv8"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "In The Music (feat. Adam Clay)",
+      "url": "https://open.spotify.com/track/5D8gCNYs8gMUDROy8qGUeL"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/54rH8q9kD4pXHLstcdqw01"
       },
@@ -2824,7 +2934,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 211200,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
@@ -2880,6 +2990,24 @@
       "duration_ms": 142857,
       "name": "Left & Right (BYOR Remix)",
       "url": "https://open.spotify.com/track/0EWcOrTwNENx13HuPuFznq"
+    },
+    {
+      "album": {
+        "name": "Let It Drop",
+        "url": "https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193809,
+      "name": "Let It Drop",
+      "url": "https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o"
     },
     {
       "album": {
@@ -3764,7 +3892,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 192000,
       "name": "Motha Nature",
       "url": "https://open.spotify.com/track/0hpRss2zMSaUpg7BX4x1Zn"
@@ -3844,6 +3972,24 @@
       "duration_ms": 266344,
       "name": "My Barn My Rules",
       "url": "https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm"
+    },
+    {
+      "album": {
+        "name": "Jack The House 4",
+        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
     },
     {
       "album": {
@@ -4096,6 +4242,24 @@
       "duration_ms": 154285,
       "name": "Old School",
       "url": "https://open.spotify.com/track/2Li8oPaDeGowwaKK3lXoYf"
+    },
+    {
+      "album": {
+        "name": "OMEN",
+        "url": "https://open.spotify.com/album/7q5rpIjhnHhgDhooOqpFUz"
+      },
+      "artists": [
+        {
+          "name": "TARISH",
+          "url": "https://open.spotify.com/artist/14xzHAH8M0tHnfKDD2clV0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199238,
+      "name": "OMEN",
+      "url": "https://open.spotify.com/track/5rt0OLLuAwldVJJXP2SE9Z"
     },
     {
       "album": {
@@ -4847,6 +5011,28 @@
     },
     {
       "album": {
+        "name": "Rhythm Of The House",
+        "url": "https://open.spotify.com/album/1tcZs1bmF6XEYGQOTYSRGG"
+      },
+      "artists": [
+        {
+          "name": "Manuals",
+          "url": "https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo"
+        },
+        {
+          "name": "MagiK",
+          "url": "https://open.spotify.com/artist/4lHCGfS7hfmctzOHRZ4TZh"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Rhythm Of The House",
+      "url": "https://open.spotify.com/track/1HdE5rgE6uELjZdBavnVea"
+    },
+    {
+      "album": {
         "name": "Rindfleischetikettierungs\u00fcberwachungsaufgaben\u00fcbertragungsgesetz",
         "url": "https://open.spotify.com/album/5Lr5BH4c3ilG5JJ562zsRW"
       },
@@ -5045,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "Shark Teeth",
+        "url": "https://open.spotify.com/album/0rXzI1zDPMDBuDn24W5Dvl"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "Shark Teeth",
+      "url": "https://open.spotify.com/track/369h1UyxxGJUw4WRUepNgC"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/1sWUGNM4LPioPu0Ydw74so"
       },
@@ -5060,6 +5264,28 @@
       "duration_ms": 131428,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4U89t1EEap9oPaqz0p9z08"
+    },
+    {
+      "album": {
+        "name": "Si Ta Ram (feat. Drish Vee)",
+        "url": "https://open.spotify.com/album/40Vd5z6jjckQUFmdvqIcJI"
+      },
+      "artists": [
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        },
+        {
+          "name": "Drish Vee",
+          "url": "https://open.spotify.com/artist/206so0ysnvIFSYhoY4pbii"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268524,
+      "name": "Si Ta Ram (feat. Drish Vee)",
+      "url": "https://open.spotify.com/track/0iL0zDsfAYpU7E7MRTCHFA"
     },
     {
       "album": {
@@ -5206,6 +5432,24 @@
       "duration_ms": 171428,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/50er2te7txC3DkR4y8cANW"
+    },
+    {
+      "album": {
+        "name": "Soundboy",
+        "url": "https://open.spotify.com/album/1FSB0rdp9vJrhfW9Aql04O"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Soundboy",
+      "url": "https://open.spotify.com/track/5RU33jajJPKSXfqJoZpABf"
     },
     {
       "album": {
@@ -5635,6 +5879,24 @@
     },
     {
       "album": {
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
+    },
+    {
+      "album": {
         "name": "That Accordion Song",
         "url": "https://open.spotify.com/album/1AWztPIk6xvaSApmn2HxYa"
       },
@@ -5716,6 +5978,28 @@
       "duration_ms": 140175,
       "name": "The Beat",
       "url": "https://open.spotify.com/track/7pACtmPKSQzRI2gFv0Idg7"
+    },
+    {
+      "album": {
+        "name": "The Blonde One",
+        "url": "https://open.spotify.com/album/2JAAf4ZPz3Arc66nASjkB6"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "The Blonde One",
+      "url": "https://open.spotify.com/track/3NYKfmHFgGKQrHJ4SV0yLm"
     },
     {
       "album": {
@@ -5895,6 +6179,28 @@
     },
     {
       "album": {
+        "name": "The Ones",
+        "url": "https://open.spotify.com/album/69sjRPnJSvqqZS0mymH7yv"
+      },
+      "artists": [
+        {
+          "name": "Jessee",
+          "url": "https://open.spotify.com/artist/2lHCL6yjrnkU87mpTKgLuZ"
+        },
+        {
+          "name": "Ayah Marar",
+          "url": "https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "The Ones",
+      "url": "https://open.spotify.com/track/5rqOsAmL6kZtLisgFaaiV0"
+    },
+    {
+      "album": {
         "name": "U AND ME EP",
         "url": "https://open.spotify.com/album/0fz3qWe9z7C94SMQ2IAHcU"
       },
@@ -5964,7 +6270,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 170880,
       "name": "The Way You Move",
       "url": "https://open.spotify.com/track/4UrSEYzI7NB1OuHtcXAS6K"
@@ -5990,6 +6296,28 @@
       "duration_ms": 157534,
       "name": "Think",
       "url": "https://open.spotify.com/track/39Ig6IbAC01NYSORLtPsOL"
+    },
+    {
+      "album": {
+        "name": "This Is The Sound",
+        "url": "https://open.spotify.com/album/4aItb3zqJ0Jx0LdThQhpTG"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192021,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/3zr1lVIizyrrQSd7ZX709J"
     },
     {
       "album": {
@@ -6066,7 +6394,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 221142,
       "name": "Too Much Yayo",
       "url": "https://open.spotify.com/track/0fBrjGe5JD1XKifxYjwbbF"
@@ -6194,6 +6522,24 @@
       "duration_ms": 218031,
       "name": "Turn It Around Baby",
       "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
+    },
+    {
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/5aCf0aEQsfxOPMZMAyxxtK"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/3QsDrRo8jTNmqQtAPQc7iZ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/2X4KRyKAxaBezXcOXegdq2"
     },
     {
       "album": {
@@ -6492,7 +6838,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 162500,
       "name": "What's It Gonna Be (feat. Platnum)",
       "url": "https://open.spotify.com/track/5icizAXch7fTfyBM2BazOU"
@@ -6690,6 +7036,24 @@
       "duration_ms": 147428,
       "name": "You're Makin Me High",
       "url": "https://open.spotify.com/track/7vptpK5xwhWWLf9RXD3GxQ"
+    },
+    {
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/0OOgKXxPfzx5Lctgg1YgS9"
+      },
+      "artists": [
+        {
+          "name": "Ginchy",
+          "url": "https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/0FNi3IvctBQ8OH08RmsyWU"
     },
     {
       "album": {

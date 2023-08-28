@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Zach Bryan",
-  "num_followers": 46624,
+  "num_followers": 46685,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWQ2NmY1MWEzN2E0NmNlM2UzM2Y4MjRlMmE0NmM3MDhkZjE0NGE0",
+  "snapshot_id": "MCwyZmEwZjM1MzRhYTUwMjZjNWM1YmVlYjUzNTgwZjk2Njg0OWY3Yzc4",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "Broadview",
+        "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "Down Rounder",
         "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Broadview",
-        "url": "https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK"
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 245466,
-      "name": "Broadview",
-      "url": "https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe"
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 279796,
       "name": "Easy as Hello",
       "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "Say What You Like",
+        "url": "https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf"
+      },
+      "artists": [
+        {
+          "name": "Doug Paisley",
+          "url": "https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9"
+        }
+      ],
+      "duration_ms": 167819,
+      "name": "Say What You Like",
+      "url": "https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "CAMPFIRE",
         "url": "https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA"
       },
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Say What You Like",
-        "url": "https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf"
+        "name": "Hey Moon (A Campfire Song)",
+        "url": "https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj"
       },
       "artists": [
         {
-          "name": "Doug Paisley",
-          "url": "https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9"
+          "name": "Joel Plaskett",
+          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
         }
       ],
-      "duration_ms": 167819,
-      "name": "Say What You Like",
-      "url": "https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3"
+      "duration_ms": 290733,
+      "name": "Hey Moon (A Campfire Song)",
+      "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1343,22 +1359,6 @@
       "duration_ms": 259790,
       "name": "Neon Blue",
       "url": "https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Hey Moon (A Campfire Song)",
-        "url": "https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj"
-      },
-      "artists": [
-        {
-          "name": "Joel Plaskett",
-          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Hey Moon (A Campfire Song)",
-      "url": "https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "This Mess We're In",
-        "url": "https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9"
-      },
-      "artists": [
-        {
-          "name": "Arlo McKinley",
-          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
-        }
-      ],
-      "duration_ms": 203659,
-      "name": "To Die For",
-      "url": "https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Bequest",
         "url": "https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte"
       },
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "This Mess We're In",
+        "url": "https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9"
+      },
+      "artists": [
+        {
+          "name": "Arlo McKinley",
+          "url": "https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa"
+        }
+      ],
+      "duration_ms": 203659,
+      "name": "To Die For",
+      "url": "https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 178041,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Notawe (Father)",
-        "url": "https://open.spotify.com/album/4nIkOsbvUJiuWzoKQ6Ex0f"
-      },
-      "artists": [
-        {
-          "name": "Adrian Sutherland",
-          "url": "https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ"
-        }
-      ],
-      "duration_ms": 236053,
-      "name": "Notawe (Father)",
-      "url": "https://open.spotify.com/track/2wQ3tFNWGiNUMf3O0CRS9W"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 243293,
       "name": "Nomads",
       "url": "https://open.spotify.com/track/332Fsvy1zczhCgcI5dZGB4"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Notawe (Father)",
+        "url": "https://open.spotify.com/album/4nIkOsbvUJiuWzoKQ6Ex0f"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sutherland",
+          "url": "https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ"
+        }
+      ],
+      "duration_ms": 236053,
+      "name": "Notawe (Father)",
+      "url": "https://open.spotify.com/track/2wQ3tFNWGiNUMf3O0CRS9W"
     },
     {
       "added_at": "2023-08-25 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 318 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 60 | [You Fall](https://open.spotify.com/track/0vFrZO3xYina3cgFJ9WxKD) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:35 |
 | 61 | [Long Shot](https://open.spotify.com/track/0mvQBGSLFaQRgTje5MP9eS) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:13 |
 | 62 | [Disappeared](https://open.spotify.com/track/5Qp2RRwtmHEqR0oiCYuMti) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:24 |
-| 63 | [Stranger Into Starman](https://open.spotify.com/track/6yVTxxJyiUzHrqka3poTuZ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 1:31 |
-| 64 | [4th Of July](https://open.spotify.com/track/3khDK8qYSpNI5ssxhsTlfH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:21 |
+| 63 | [4th Of July](https://open.spotify.com/track/3khDK8qYSpNI5ssxhsTlfH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:21 |
+| 64 | [Stranger Into Starman](https://open.spotify.com/track/6yVTxxJyiUzHrqka3poTuZ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 1:31 |
 | 65 | [Little Bombs](https://open.spotify.com/track/4TSnXIBL47e8N5PXhivcHv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:49 |
 | 66 | [Crazytown](https://open.spotify.com/track/2sEqiUBNSaOqQ32g7zp6KC) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:21 |
 | 67 | [Soon Enough](https://open.spotify.com/track/6T5StNKrcVKGt1DMb9TKn3) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:59 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 90 | [Slip and Roll](https://open.spotify.com/track/2EKO7UUCBX6pJ6eJsCB5hq) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 4:12 |
 | 91 | [You Know the Rest](https://open.spotify.com/track/6NYLA2KwGP6vyUqzBsZqzt) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:28 |
 | 92 | [Red Flag Diver](https://open.spotify.com/track/36SYD8dYdFO6x2WNrJh4CD) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 2:31 |
-| 93 | [Columbus Avenue](https://open.spotify.com/track/3qQ122W9BSN2HOyCal7Mx7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 4:06 |
-| 94 | [Give Me Fifteen](https://open.spotify.com/track/4BsXBJGmQRdYwycT5JrNbn) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:42 |
+| 93 | [Give Me Fifteen](https://open.spotify.com/track/4BsXBJGmQRdYwycT5JrNbn) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:42 |
+| 94 | [Columbus Avenue](https://open.spotify.com/track/3qQ122W9BSN2HOyCal7Mx7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 4:06 |
 | 95 | [Gumby](https://open.spotify.com/track/1aQiwKYKIoQaCuMgBPfAoU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 2:53 |
 | 96 | [True Believer](https://open.spotify.com/track/3ys2GIJaRln9NFeFkrm4wD) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:32 |
 | 97 | [Volunteers of America](https://open.spotify.com/track/22cpblBBWOJN1yM5FMiK4l) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:43 |
@@ -136,17 +136,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 126 | [Rip In Heaven](https://open.spotify.com/track/0BKslA1XqG8HBUKBl4d7EN) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:31 |
 | 127 | [No One Is Watching You Now](https://open.spotify.com/track/1ko1dRz3L0wj0AWqsoCbQ1) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 3:53 |
 | 128 | [J For Jules](https://open.spotify.com/track/0J6nZDgEuwXtECq8Pukn1n) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:25 |
-| 129 | [Say Anything](https://open.spotify.com/track/455wWMvRblV4B5RYTCZavI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:57 |
-| 130 | [Jacob Marley's Chain](https://open.spotify.com/track/3MvkWS2gAegv8zPhci1oVL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:01 |
+| 129 | [Jacob Marley's Chain](https://open.spotify.com/track/3MvkWS2gAegv8zPhci1oVL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:01 |
+| 130 | [Say Anything](https://open.spotify.com/track/455wWMvRblV4B5RYTCZavI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:57 |
 | 131 | [Long Gone \(Buddy\)](https://open.spotify.com/track/0cAdYBuFObbGN42H0cXaye) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:31 |
 | 132 | [Brother's Keeper](https://open.spotify.com/track/7jTgrxio0BhMkyVSGwMXUz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 4:01 |
-| 133 | [Par For The Course](https://open.spotify.com/track/4bGXy2S9unA288Pf4IVRfU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 6:01 |
-| 134 | [You Could Have Been a Roosevelt](https://open.spotify.com/track/2dU0Wk5jvZmygM7qobHZ2n) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:07 |
+| 133 | [You Could Have Been a Roosevelt](https://open.spotify.com/track/2dU0Wk5jvZmygM7qobHZ2n) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:07 |
+| 134 | [Par For The Course](https://open.spotify.com/track/4bGXy2S9unA288Pf4IVRfU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 6:01 |
 | 135 | [At the Edge of the World](https://open.spotify.com/track/0EqurOMqYE3WWzjpGOJIi1) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk), [Zach Gill](https://open.spotify.com/artist/5HMFK1o5Bl9qY10PgavMhT) | [Arctic Tale \(Music from and Inspired by the Motion Picture\)](https://open.spotify.com/album/1h2jAmHIod6LY6v8IJrpEX) | 2:53 |
 | 136 | [In Mexico](https://open.spotify.com/track/2yv6OpHx8wi1vrytkoGVhj) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:33 |
 | 137 | [Mr\. Harris](https://open.spotify.com/track/4nRqXPnElMngAQjF3jGLvr) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:05 |
-| 138 | [No Sir](https://open.spotify.com/track/5wWI1B8FajA5J1LXL0yhFD) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:46 |
-| 139 | [Ray](https://open.spotify.com/track/3S7wPFQM95Z7EG0jwzHHR0) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:49 |
+| 138 | [Ray](https://open.spotify.com/track/3S7wPFQM95Z7EG0jwzHHR0) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:49 |
+| 139 | [No Sir](https://open.spotify.com/track/5wWI1B8FajA5J1LXL0yhFD) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 3:46 |
 | 140 | [Big Deal](https://open.spotify.com/track/6FwgtS0JaTg1SfyyJBWP6V) | [Central Park Cast](https://open.spotify.com/artist/2MU9NyN6HS8x0XdGsrmu7w), [Stanley Tucci](https://open.spotify.com/artist/3XZTEmxcwinCnuFcWluGai) | [Central Park Season One, The Soundtrack – Song\-tral Park \(Original Soundtrack\)](https://open.spotify.com/album/253wtagKgfFJJ1Lhp8BwJJ) | 1:59 |
 | 141 | [Why Must I](https://open.spotify.com/track/5G7NBdQLHc7GkehNmLG3yJ) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:41 |
 | 142 | [Will She Just Fall Down](https://open.spotify.com/track/5N1BJSPNNaYe4P7q0tSDu5) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 2:50 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `MjgyMTExNzEsMDAwMDAwMDAxZDdlMjRmYmQxMjE4YzY0MTI3ZTY3YTlmMDdiMWFjMA==`
+Snapshot ID: `MjgyMTk4MTAsMDAwMDAwMDA1Njc4NWI5MmQ1YjQwZmQ3ZGJjOTlhZDY0NjZiZmZjYw==`

@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195129,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6ydPTlLqw0Y1hWmEqCiRQK"
+    },
+    {
+      "album": {
         "name": "Cop Car",
         "url": "https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"

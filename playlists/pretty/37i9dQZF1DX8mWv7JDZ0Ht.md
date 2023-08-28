@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Gilsons, Lagum
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,692 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,766 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 45 | [Mundo de Papel](https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ) | 2:13 |
 | 46 | [No Passo da Saudades](https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [No Passo da Saudades](https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj) | 2:56 |
 | 47 | [Tua Voz](https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz) | [Martins](https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg) | [Tua Voz](https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2) | 3:25 |
-| 48 | [O Que Eu Devia Ter Vivido](https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:25 |
-| 49 | [Por Que Você Não Vem?](https://open.spotify.com/track/6HdrdBpN6Y8sMzEK4scQNx) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Por Que Você Não Vem?](https://open.spotify.com/album/0aBrzFzgTN18yJdycI1NHh) | 2:46 |
+| 48 | [Por Que Você Não Vem?](https://open.spotify.com/track/6HdrdBpN6Y8sMzEK4scQNx) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Por Que Você Não Vem?](https://open.spotify.com/album/0aBrzFzgTN18yJdycI1NHh) | 2:46 |
+| 49 | [O Que Eu Devia Ter Vivido](https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:25 |
 | 50 | [Se eu não te amasse tanto assim](https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Se eu não te amasse tanto assim](https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH) | 2:17 |
 | 51 | [Sanidade Mental](https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Sanidade Mental](https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY) | 1:59 |
 | 52 | [isso é tão a gente :\)](https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [isso é tão a gente :\)](https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2) | 3:10 |
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 65 | [Tempo Demais](https://open.spotify.com/track/3zsqFsBtZZZaFigmgE3ohh) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Tempo Demais](https://open.spotify.com/album/4PuaH09i9aiaXA4cx6Xlxd) | 2:48 |
 | 66 | [vida leve \- ralk remix](https://open.spotify.com/track/5S62lSdko2EO2agKz5HJZT) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Ralk](https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC) | [vida leve \(ralk remix\)](https://open.spotify.com/album/0m97vhqbom6EQvYatU77Yy) | 2:18 |
 | 67 | [Sincero](https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV) | [Fê Costa](https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1), [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Sincero](https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl) | 2:49 |
-| 68 | [deixa eu me perder](https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [deixa eu me perder](https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l) | 2:25 |
-| 69 | [Como Tinha Que Ser](https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Como Tinha Que Ser](https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg) | 3:35 |
+| 68 | [Como Tinha Que Ser](https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Como Tinha Que Ser](https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg) | 3:35 |
+| 69 | [deixa eu me perder](https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [deixa eu me perder](https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l) | 2:25 |
 | 70 | [Tarde da Noite](https://open.spotify.com/track/70mYwaFqWLYywSVPcCVynb) | [Fraterna Trip](https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [Tarde da Noite](https://open.spotify.com/album/3rBB9Rfs8jqN9YPOmisGWG) | 3:18 |
 | 71 | [Corda Bamba](https://open.spotify.com/track/5RRogbBQK33amziOlo85tg) | [Yasmim Silveira](https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s) | [Corda Bamba](https://open.spotify.com/album/572WWhgJJ3QWIw180d00DO) | 2:51 |
 | 72 | [Fim de Semana](https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Fim de Semana](https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys) | 2:34 |
 | 73 | [Me Arrependo](https://open.spotify.com/track/2AY8ZWochVcpJ4smrjXeGQ) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Me Arrependo](https://open.spotify.com/album/3C40vpn8VGTZiMQ6IYICkZ) | 3:20 |
-| 74 | [seu chá](https://open.spotify.com/track/0YpTUiaIrG1Sv5ICeFJGqj) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [seu chá](https://open.spotify.com/album/1JaHjB6V9kTODWTk0t4p55) | 2:48 |
-| 75 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 |
+| 74 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 |
+| 75 | [seu chá](https://open.spotify.com/track/0YpTUiaIrG1Sv5ICeFJGqj) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [seu chá](https://open.spotify.com/album/1JaHjB6V9kTODWTk0t4p55) | 2:48 |
 | 76 | [Eremita](https://open.spotify.com/track/1WhgrP90PSrslSYcRK4ma5) | [Renato Enoch](https://open.spotify.com/artist/6TV4EsauTqkvsZATrn2YBc) | [Eremita](https://open.spotify.com/album/3s8mB7MS1VPIckEL5nLNFm) | 3:14 |
 | 77 | [delírio coletivo](https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [delírio coletivo](https://open.spotify.com/album/5bMy8kayllIR9Kq1eYMLEx) | 2:44 |
 | 78 | [Tão Cedo](https://open.spotify.com/track/1yAXltaINGRVf72BCeHcgH) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Tão Cedo](https://open.spotify.com/album/3TRx3qK9shSrMqn6TUpgDa) | 3:03 |
 | 79 | [Você Chegou](https://open.spotify.com/track/1AIqRI9UanGxUFiMtBEALX) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Você Chegou](https://open.spotify.com/album/5nJW4qnTFw8kwQ6gxZ7gJg) | 2:21 |
 | 80 | [pele \- ao vivo](https://open.spotify.com/track/6Obz4fjPvcQJUyH2kqd3vS) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Acústico Luana Berti](https://open.spotify.com/album/0aBngiuQTX84LPbuqeJhAy) | 2:40 |
 
-Snapshot ID: `MCxjNTc1ZTczMzc4N2YyYmIyOGMzYjhmMGE2OTU0YjllZDk3MWIzNDY2`
+Snapshot ID: `MCxkOTJmNTAzOWZhNjQ0NjYwYzYyY2Q4YTgxNDM2MWQ3MzIyYTljMDMx`

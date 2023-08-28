@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Return to Carnegie Hall",
+        "url": "https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234586,
+      "name": "Ashes And Fire - Live at Carnegie Hall, May 14. 2022",
+      "url": "https://open.spotify.com/track/1aI3MHzQFVgWJey2T4pBTG"
+    },
+    {
+      "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw"
       },
@@ -574,10 +592,28 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 258973,
       "name": "Dirty Rain",
       "url": "https://open.spotify.com/track/4mOX3BzpPi3T2q1FM5Ycbj"
+    },
+    {
+      "album": {
+        "name": "Return to Carnegie Hall",
+        "url": "https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221812,
+      "name": "Dirty Rain - Live at Carnegie Hall, May 14. 2022",
+      "url": "https://open.spotify.com/track/5U9Ad4qSnKkgoRbPZoAzjZ"
     },
     {
       "album": {
@@ -682,7 +718,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 218813,
       "name": "Don't Look Back In Anger",
       "url": "https://open.spotify.com/track/5BcH2X2rAn0D3WGTGEtYWO"
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 195440,
       "name": "How Much Light",
       "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
@@ -1442,6 +1478,24 @@
       "duration_ms": 214586,
       "name": "In the Blue of the Night",
       "url": "https://open.spotify.com/track/3p2ebzditSdXjW7uJjISyA"
+    },
+    {
+      "album": {
+        "name": "Return to Carnegie Hall",
+        "url": "https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292877,
+      "name": "Invisible Riverside - Live at Carnegie Hall, May 14. 2022",
+      "url": "https://open.spotify.com/track/7CQMBzhsng2PGh5fpiOGJu"
     },
     {
       "album": {

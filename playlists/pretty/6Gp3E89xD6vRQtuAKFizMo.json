@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44496,
+  "num_followers": 44483,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjMyNSw2YWFjMjU3ZmM4MWM5ZWE4M2ZjYWI2ZWJjN2RjZjU3MTQ2MTQ0YWRl",
+  "snapshot_id": "NjMyNyxmN2IzOTFhNTliYTM3NDQ5YjA1NDMxNjA2MjI5ZmRhN2Q5YWM4NGRj",
   "tracks": [
+    {
+      "added_at": "2023-08-25 14:33:57",
+      "album": {
+        "name": "Out Of Love",
+        "url": "https://open.spotify.com/album/2C61LqHVFz12uEJDRdBZUZ"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/5jRIWngYH11xuX2HjQwacj"
+    },
+    {
+      "added_at": "2023-08-25 14:33:43",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/36ZqSNeu93bD52XjPwW4wY"
+      },
+      "artists": [
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/0ck1M3hhAqPehHPryfEWlV"
+    },
     {
       "added_at": "2023-08-18 15:12:18",
       "album": {
@@ -673,7 +705,7 @@
         },
         {
           "name": "2ka",
-          "url": "https://open.spotify.com/artist/2YxZgUNsMMQABXjllqeQC6"
+          "url": "https://open.spotify.com/artist/1pMJ813KdUF6uEBeKMPwo4"
         }
       ],
       "duration_ms": 155866,

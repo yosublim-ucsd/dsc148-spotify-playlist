@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Metalocalypse: Dethklok
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,724 likes - 86 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,998 likes - 86 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 67 | [Digital Sea](https://open.spotify.com/track/2kETSkWftrKAiljmcBMp55) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil) | [The Excuses We Cannot Make](https://open.spotify.com/album/0gJ8Q54bXOtutGVoRKlDKu) | 4:05 |
 | 68 | [Interstellar](https://open.spotify.com/track/7KFNFahbmo4wJyJvOxWSlH) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Interstellar](https://open.spotify.com/album/6jR9YFG6nF7s5UAYClr7G7) | 3:38 |
 | 69 | [Night Vision](https://open.spotify.com/track/1G4BsiensndJJs04PjFtjX) | [Knife](https://open.spotify.com/artist/2k5WPvJQocZ1nqyPjIwB1K) | [Night Vision](https://open.spotify.com/album/08T8wALYS1O5Pgcd91U65K) | 3:17 |
-| 70 | [The Siren](https://open.spotify.com/track/7lC5akqHsJrpW8VU0P7WgD) | [Marc Hudson](https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r) | [The Siren](https://open.spotify.com/album/6hkZLMgOPIFocYvmcdvCcI) | 5:40 |
+| 70 | [The Siren](https://open.spotify.com/track/4oYbOIuVc5Ir85IyccjoeI) | [Marc Hudson](https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r) | [Starbound Stories](https://open.spotify.com/album/4lHnaZ0IPLJ53TkIWITjSI) | 5:40 |
 | 71 | [The Third Fall](https://open.spotify.com/track/6rZ0tvkr1LT956nvO0PKXp) | [Profanatica](https://open.spotify.com/artist/6OGNyv8Z63eYqmkN17mpwW) | [The Third Fall](https://open.spotify.com/album/1bNxzFdkQvtsrHZ3elIU0a) | 4:10 |
 | 72 | [Spine Shatter High\-Velocity Impact](https://open.spotify.com/track/2TOa7nfBpLyvgBeVgCdzSs) | [Wormhole](https://open.spotify.com/artist/2foAanYCza7knczRDB8DFt) | [Spine Shatter High\-Velocity Impact](https://open.spotify.com/album/6efJo7RpkCViFcsu4CFVF0) | 3:10 |
 | 73 | [Privilege](https://open.spotify.com/track/6Jf6ijik1IlWTrzWcGWVwo) | [Till The Dirt](https://open.spotify.com/artist/3bJBvA9DFvhQGhCMlYrQnL) | [Outside The Spiral](https://open.spotify.com/album/1WjXvDm2pINSSOOkJxR2RI) | 4:21 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 85 | [My Hellish Hunt](https://open.spotify.com/track/5gVuv4S3EVltZBe05XtJOX) | [Grymheart](https://open.spotify.com/artist/4SlhNbOnl7dC1fSZzchJTE) | [My Hellish Hunt](https://open.spotify.com/album/4ipx6m8w4q3RJSQNKXzVYP) | 3:30 |
 | 86 | [Exile](https://open.spotify.com/track/5VT7ArOG23wCbYN6d5fbqs) | [HARP](https://open.spotify.com/artist/4ylTmXCAJ2F45zSA2YuWYY) | [Exile](https://open.spotify.com/album/4oFe0sFUIkmQfaAXFIy54C) | 4:56 |
 
-Snapshot ID: `MCw1N2Q1MjMzODI4N2MxZmRjYjQzZDFjYjg4OTJlZWNjYTc0Y2Q4ZWQx`
+Snapshot ID: `MCxjYzZhNjBiNGI0MDc5MDQ0OWUxZjA5NjllNTJmOGNhZTJlMjA5NjUw`

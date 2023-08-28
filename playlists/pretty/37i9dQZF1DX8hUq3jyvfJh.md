@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > N.I.N.A e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,725 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,717 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,17 +20,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 10 | [Neo Thang](https://open.spotify.com/track/5b1OMdOMZKPabNweOF6oug) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 2:31 |
 | 11 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
 | 12 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 |
-| 13 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
+| 13 | [Shambaralai](https://open.spotify.com/track/7q9zd2m4jFAPCl0ALBuWH1) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Shambaralai](https://open.spotify.com/album/6b7OxrDMqVYg1SybAYFi7y) | 4:08 |
 | 14 | [5 contra 1](https://open.spotify.com/track/2Ih2vXEyY9qMNt5Uq4GOHa) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:37 |
-| 15 | [Shambaralai](https://open.spotify.com/track/7q9zd2m4jFAPCl0ALBuWH1) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Shambaralai](https://open.spotify.com/album/6b7OxrDMqVYg1SybAYFi7y) | 4:08 |
+| 15 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
 | 16 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 |
 | 17 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |
 | 18 | [Je Ne Sais Quoi](https://open.spotify.com/track/6vEhRumtV8PjjLxBpfmCBl) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 2:18 |
 | 19 | [Cachorraz Kamikaze](https://open.spotify.com/track/5H8XI0FIkbQhkxNG1wxIOf) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 3:16 |
 | 20 | [Diz Quanto Custa](https://open.spotify.com/track/3u1iuSO8bTF4BmgHGYNWIN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 3:22 |
-| 21 | [Tipo Anitta](https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Tipo Anitta](https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC) | 2:31 |
-| 22 | [Espelho Meu](https://open.spotify.com/track/4fCWPeVBRRRZXKUwngXjzg) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [DIMVS](https://open.spotify.com/artist/5jQ0eRnyDLim20WIFzHNIM) | [Espelho Meu](https://open.spotify.com/album/5zLZ1RHhsbFopNls2yDPj7) | 2:43 |
-| 23 | [Medley do Submundo](https://open.spotify.com/track/0ZatDYDvbfr6Jz0DPPMin3) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Medley do Submundo](https://open.spotify.com/album/7pwmaGFzpzRKiGm7p1QP4G) | 6:32 |
+| 21 | [Medley do Submundo](https://open.spotify.com/track/0ZatDYDvbfr6Jz0DPPMin3) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Medley do Submundo](https://open.spotify.com/album/7pwmaGFzpzRKiGm7p1QP4G) | 6:32 |
+| 22 | [Tipo Anitta](https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Tipo Anitta](https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC) | 2:31 |
+| 23 | [Espelho Meu](https://open.spotify.com/track/4fCWPeVBRRRZXKUwngXjzg) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [DIMVS](https://open.spotify.com/artist/5jQ0eRnyDLim20WIFzHNIM) | [Espelho Meu](https://open.spotify.com/album/5zLZ1RHhsbFopNls2yDPj7) | 2:43 |
 | 24 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 |
 | 25 | [Me Sarra De Oitão Na Moto Roubada](https://open.spotify.com/track/5NipQS1YN9JTTkVUdhsZXF) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ J2](https://open.spotify.com/artist/64ZV1p2uqJZi2StfpemVFD) | [Me Sarra De Oitão Na Moto Roubada](https://open.spotify.com/album/5fWcLRsr4g4o93YMSyLXEw) | 2:16 |
 | 26 | [Favelinha](https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Favelinha](https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd) | 1:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [LÁBIOS PRETOS](https://open.spotify.com/track/4mMiGFnKLpay24NVEnPNHN) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX), [Bruna BG](https://open.spotify.com/artist/1djfP54UKe6svnBXiFI4HQ), [Karen Francis](https://open.spotify.com/artist/6aXHEtswFvSFtstG4jTsEU) | [LÁBIOS PRETOS](https://open.spotify.com/album/31CvR2FGEXffTHElWSOmOT) | 4:45 |
 | 50 | [Fora da Rota](https://open.spotify.com/track/72ZaPUEn3S7dFrQaZVemtL) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Fora da Rota](https://open.spotify.com/album/0vUQD3M3ALEwMud3ZC7ZyF) | 2:53 |
 
-Snapshot ID: `MCwzMDA1MTRiMGMzMDljY2M0MjNjNzk0ZmVhYTk0ODMwOTZiNDRlZGQ3`
+Snapshot ID: `MCwxNjRmZTM5MDZjYjAyNWI3YzM2NWJkNTI0YjJhNmVmNWExMzRiZjRl`

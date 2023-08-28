@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DISKOTEK DISKOTEKA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,949 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,063 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Igelkott](https://open.spotify.com/track/6ImJTRiCekTTfVRf5FDmEf) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Igelkott](https://open.spotify.com/album/7G4DnWKQz9Bc0BqJy3zUAi) | 2:21 |
 | 100 | [5 LAKAN PÅ LOGEN](https://open.spotify.com/track/73zO4aHKMK4STBOHcklcOy) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [5 LAKAN PÅ LOGEN](https://open.spotify.com/album/5wA7aNe3otrnDMTdZ4oXaV) | 2:01 |
 
-Snapshot ID: `MCw4ZTA2ZjU0ZWExYzZhZjJjYzE0MThlMWRlZTM3MDg3ODNhOTFkN2Zk`
+Snapshot ID: `MCwyOWFkN2JmNzAxNTZlMWIyN2ZjZjYxNDNhNzc2MWQ0NjBkYWMyYTZh`

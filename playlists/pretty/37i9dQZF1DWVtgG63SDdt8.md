@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=0da39df30df34d10">Brooke Ligertwood</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,073 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,202 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [No Man](https://open.spotify.com/track/2FMS6kEEfi0od4LWczCROt) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [No Man](https://open.spotify.com/album/3iu9Djn63xgZMcH8aBr5oc) | 3:34 |
 | 100 | [Glorious](https://open.spotify.com/track/69QsMKn4bx13murBz1eeOo) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [He Is Friend](https://open.spotify.com/album/3F5uGEJJEJLHH8Y240kovC) | 3:47 |
 
-Snapshot ID: `MCwwOTc5YTI0N2YxYjJiOGQwODIwZDI5NjE4MTg0ZmIxODM3YzFjZWU2`
+Snapshot ID: `MCwwYjA0NDYzYjZjNTZhMjQ5ZjM3YzU4YzEzOTYwZjk4NTUxNjkyNTc3`

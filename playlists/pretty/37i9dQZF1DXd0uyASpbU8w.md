@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=blFc6Cs4R\-iTxvYUnblhjg">Burna Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,880 likes - 69 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,931 likes - 69 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 68 | [Four Women](https://open.spotify.com/track/5AXqTvyOjkZ6lJgygsUEdi) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Spha Mdlalose](https://open.spotify.com/artist/5zgK9I4L2Nwjm4mk3lphMO), [Zarcia Zacheus](https://open.spotify.com/artist/1NpQuiq9aJAefQDEEtgsjx) | [Four Women](https://open.spotify.com/album/0G2btMDdrfof6lqNwXqfLb) | 5:23 |
 | 69 | [Gratitude](https://open.spotify.com/track/5oEQ8gEXm9jfjHxMOSKXSb) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [Gratitude](https://open.spotify.com/album/02pB8vx8VkjQCbN1rCxKS6) | 4:44 |
 
-Snapshot ID: `MCxiYzQ4MTQ2ZGU4YzIyMDk5MmNlYjAxYzMxNTlkMjY0ZThjMGYzODhh`
+Snapshot ID: `MCw0OWM3YjdiNjNmMmM5Yjc1MTQ0NTYyN2VmZWYzZWI0YTMwYjcwZjJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 
 > California dreaming\. Listen to the soundtrack that shaped a generation\. 🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,940 likes - 51 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,937 likes - 51 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9lP3B4zeE.md) - [plain]
 | 50 | [Pretty \(Ugly Before\)](https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 4:45 |
 | 51 | [Out Of Control](https://open.spotify.com/track/6zIkiZqUnSMsuRJ6acyJuD) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 7:19 |
 
-Snapshot ID: `MCxkMTJjNDI2MzYwMGU4YzZiMDNmZWZhMDIyMTdkODQ1ZWM1NGEwZTU3`
+Snapshot ID: `MCw1YTVjZGI3MmI3ZDUyYWZkZTVlNmVlZjgzNTIzNWYzNjU1ZTJmNDhm`

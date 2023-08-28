@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,598 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,643 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [drive faster](https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [drive faster](https://open.spotify.com/album/6Z819jCN4dzySQfY0HLdER) | 1:56 |
 | 100 | [Everybody’s Lonely](https://open.spotify.com/track/11Oz14NCrbx7sOLNoGEEa9) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Everybody’s Lonely](https://open.spotify.com/album/3R70FcNveS6yOfxvOpa0TX) | 2:16 |
 
-Snapshot ID: `MCwzZDc5MzdmNmM4MzA5YjQzMzIyMjE2NzljOWMxOWI3NzEyODY4MDE1`
+Snapshot ID: `MCxlYzc2YmI0ODU1ZmRhYjQwMDQ4YTcyY2JjOTZjM2UyNzE0OWYyOGQx`

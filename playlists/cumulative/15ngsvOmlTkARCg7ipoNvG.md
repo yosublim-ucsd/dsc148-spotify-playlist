@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,025 songs - 22 hr 56 min
+1,026 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [Love In Waves](https://open.spotify.com/track/1RykpvkLxvNElbBwWNuf3p) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Liminal Space](https://open.spotify.com/album/1tE3wozeYnHIJVPQeCURK3) | 1:02 | 2022-04-20 |  |
 | [Loving In The Light](https://open.spotify.com/track/3whulguc6rUnuicUrNxYMC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Inner Calling](https://open.spotify.com/album/6jz7Ss9WTWOTMh7hGZikzy) | 1:03 | 2022-02-24 |  |
 | [Loving World](https://open.spotify.com/track/51gUmm6GI54ffw7g8b6qGg) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios](https://open.spotify.com/album/3W0i0ISKNweZGXfbsCwJRH) | 1:11 | 2022-01-20 |  |
+| [Loving World Arr\. For Ambient Piano](https://open.spotify.com/track/152QVnhbR0zcq3e5NM4U7t) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Loving World Arr\. For Ambient Piano](https://open.spotify.com/album/78D0px3yw34TL5I95QDxnp) | 1:00 | 2023-08-27 |  |
 | [Lueur](https://open.spotify.com/track/18lDOhOkvuCDBqW4TqRosm) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Lueurs](https://open.spotify.com/album/2EiDbOltyCaLRXzmeDVBZe) | 3:39 | 2022-01-12 |  |
 | [Lullaby At Midnight \- Cello Version](https://open.spotify.com/track/2mleqxhDjX4bsNhlyTFUp6) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Lullaby At Midnight](https://open.spotify.com/album/3howiaVOHUe3DJAGsDZSJq) | 1:01 | 2023-04-19 |  |
 | [Lullaby In The North](https://open.spotify.com/track/6YkGu1zhXLU9P8Mj6HJkw4) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calming Piano Melodies](https://open.spotify.com/album/2AwrLqSXZuZna6B3SfsKHc) | 1:02 | 2023-05-14 |  |

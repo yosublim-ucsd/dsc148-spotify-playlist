@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: MINOE, Artwork by: Isu Kim
 
-181 songs - 9 hr 1 min
+182 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Jonah Hill](https://open.spotify.com/track/4gMoB6gWfUELAMqgvfYETa) | [Spaceman Dela](https://open.spotify.com/artist/1lhjuAx6fS3snCj8mX5Xxr), [KIN](https://open.spotify.com/artist/2uBHy8wdzJ8mmR4tBrGWrD) | [Jonah Hill](https://open.spotify.com/album/4me13R8wIMq5ygrVqS5Thr) | 3:25 | 2023-08-16 | 2023-08-24 |
 | [Kyle's Wife](https://open.spotify.com/track/2HAh6hwfK1TM54WP4ZZ8iS) | [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Kyle's Wife](https://open.spotify.com/album/4jrJDKC7M7hJ2ypjKRMG9R) | 2:40 | 2023-08-23 |  |
 | [LaSenza](https://open.spotify.com/track/4ekb6cQpOOjAGqmFpzu2J6) | [Jordel](https://open.spotify.com/artist/6Wwdgvn4VyRAFwlcJTm92h) | [LaSenza](https://open.spotify.com/album/4vrxfbyeurYiKLySHODPWc) | 2:10 | 2023-07-26 | 2023-08-17 |
-| [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-07-26 |  |
+| [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-07-26 | 2023-08-28 |
+| [Lay Down Girl](https://open.spotify.com/track/6tXe9mlIKf3NkkVNgoGqp4) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Rodeo Clown](https://open.spotify.com/album/2bfDkhDate1v4XhetA9SuM) | 2:06 | 2023-08-23 |  |
 | [Le Sud en Été](https://open.spotify.com/track/28lWQ8aJBqXzpllFPHg0DW) | [Dj Karaba](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Laurène Pierre\-Magnani](https://open.spotify.com/artist/6qh3HGcOdp8NBYh7Lr2WdE) | [Le Sud en Été](https://open.spotify.com/album/7MGGkowZz9BRLJcV93XTFX) | 3:08 | 2023-08-16 |  |
 | [Leap of Faith](https://open.spotify.com/track/0jtmXRfTe5xkiYEh2E7F6q) | [Franchize](https://open.spotify.com/artist/5kVuxWc0beQxt41B7h3AY0) | [Leap of Faith](https://open.spotify.com/album/0mDATuIFMOlOpaiCb5jb2V) | 2:37 | 2023-08-16 | 2023-08-24 |
 | [LEMON AND LIME](https://open.spotify.com/track/2BJTNiugSpTGTbesQL4FL9) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [Private Name Private Number](https://open.spotify.com/artist/6c9dagfe5XNuF6fwFRXu3A) | [LEMON AND LIME](https://open.spotify.com/album/0whU3bEkOkUIjQmc3Pkran) | 2:48 | 2023-07-26 | 2023-08-24 |
@@ -171,7 +172,7 @@
 | [The Getaway](https://open.spotify.com/track/62XMMjGkRhNyLmyRJnyxTN) | [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [The Getaway](https://open.spotify.com/album/1SrmJcntxwGRO8Yxj9a4nb) | 3:11 | 2023-08-02 | 2023-08-24 |
 | [The Rain](https://open.spotify.com/track/5s4qlxvnZTE1uSsML7Y59X) | [Trae Gold](https://open.spotify.com/artist/7annY00NYmdxtdkcmqN5s1) | [The Rain](https://open.spotify.com/album/3uyrqEJ0zSkxeiBCWqSVdX) | 3:24 | 2023-07-26 | 2023-08-17 |
 | [THERE FOR ME](https://open.spotify.com/track/5jWI1rjDOW30aCcGjI9LQF) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [THERE FOR ME](https://open.spotify.com/album/0lwWawcgNuDuWJCTbSVcfq) | 3:05 | 2023-08-02 | 2023-08-24 |
-| [there will be blood](https://open.spotify.com/track/3XyJepNwlSM2anuDKhfdZF) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [there will be blood](https://open.spotify.com/album/0GWYuyX1KiYCO7Kbo1f4S4) | 1:29 | 2023-08-23 |  |
+| [there will be blood \- demo](https://open.spotify.com/track/3XyJepNwlSM2anuDKhfdZF) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [there will be blood \(demo\)](https://open.spotify.com/album/0GWYuyX1KiYCO7Kbo1f4S4) | 1:29 | 2023-08-23 |  |
 | [Thirst Aid Kit](https://open.spotify.com/track/5N5Whw90jcfu5SPAQU2lzg) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [Thirst Aid Kit](https://open.spotify.com/album/4hhKxrIK0s6J0lwJ35UyD1) | 2:52 | 2023-07-26 | 2023-08-17 |
 | [Too Long \(feat\. Malia Laura\)](https://open.spotify.com/track/5JiQoRe7m6TciHqut9bNYG) | [Milla Thyme](https://open.spotify.com/artist/2t7K7CuQZ7CD26LPGBm9Ch), [Malia Laura](https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG) | [Too Long \(feat\. Malia Laura\)](https://open.spotify.com/album/5QPxFq0zJYa58SBGdZ9mVJ) | 3:50 | 2023-07-26 | 2023-08-17 |
 | [Too Much](https://open.spotify.com/track/4JqBaUoJk1yNMoCkd5frJz) | [Miranda Joan](https://open.spotify.com/artist/7AXlH9niNMWttTOT9WX3Xb) | [Too Much](https://open.spotify.com/album/4CtssdHONkzAKT0iyVNRrr) | 1:59 | 2023-07-26 | 2023-08-17 |

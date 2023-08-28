@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPeEyKqPM0W.md) - [plain]
 
 > スクウェア・エニックスの多彩な楽曲から、お出かけのお供にぴったりなアップテンポチューンをお届け。A variety/selection of up\-tempo tracks from SQUARE ENX to hit the town\. © 2022 SQUARE ENIX CO., LTD\. All Rights Reserved\. Illustration: TOSHIYUKI ITAHANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,606 likes - 28 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,628 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Descendant of Shinobi \- FF7R Ver.](https://open.spotify.com/track/0YBHVcrDVoAYgzsGnEGarR) | [植松 伸夫](https://open.spotify.com/artist/6pzh5XF6c5q7eCZK8JYYs8) | [FINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack](https://open.spotify.com/album/1NxU3rZIAqkRI3VFegA1yK) | 3:20 |
+| 1 | [Descendant of Shinobi \- FF7R Ver.](https://open.spotify.com/track/0YBHVcrDVoAYgzsGnEGarR) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack](https://open.spotify.com/album/1NxU3rZIAqkRI3VFegA1yK) | 3:20 |
 | 2 | [The Runaround Pt\. I \- FF7R Ver.](https://open.spotify.com/track/4wJylXvftKwNf48pSKu3uL) | [関戸 剛](https://open.spotify.com/artist/3TqbjQdp86EtuLrjPPP6Uj), [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack](https://open.spotify.com/album/1NxU3rZIAqkRI3VFegA1yK) | 2:35 |
-| 3 | [Main Theme of FINAL FANTASY VII \- Jazz Arrangement](https://open.spotify.com/track/65yrpEvk6RlGkIQWVnCJis) | [植松 伸夫](https://open.spotify.com/artist/6pzh5XF6c5q7eCZK8JYYs8) | [SQUARE ENIX JAZZ \-FINAL FANTASY VII\-](https://open.spotify.com/album/0npDaNHkvKMiwaGN0mghXa) | 6:43 |
+| 3 | [Main Theme of FINAL FANTASY VII \- Jazz Arrangement](https://open.spotify.com/track/65yrpEvk6RlGkIQWVnCJis) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [SQUARE ENIX JAZZ \-FINAL FANTASY VII\-](https://open.spotify.com/album/0npDaNHkvKMiwaGN0mghXa) | 6:43 |
 | 4 | [Song of Mana \~Opening Theme\~](https://open.spotify.com/track/4u47Dvl23rSK9yVvuUbaTQ) | [Annika](https://open.spotify.com/artist/0m67C2HYo4DuqBDBuz2Wqz) | [聖剣伝説 Legend of Mana Original Soundtrack](https://open.spotify.com/album/1LWxCpR0tECD1udMN2lHT7) | 2:49 |
 | 5 | [Octopath Traveler \-Main Theme\-](https://open.spotify.com/track/0LmbmsBNz2rMyP0rpECbwD) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/album/7CY5mNBTBbHs1a4apdKCq6) | 2:34 |
 | 6 | [Rise](https://open.spotify.com/track/2Xl9NXXsSzUtrP1PLBJg7U) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [THE FAR EDGE OF FATE:FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/73mih5aIcuQ4OaQLI7O0X9) | 4:19 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPeEyKqPM0W.md) - [plain]
 | 27 | [FFVII REMAKE: RUN RUN RUN \- Instrumental Ver.](https://open.spotify.com/track/5S5oKA4IIdQ2oPaIDF2NB1) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack \(Plus\)](https://open.spotify.com/album/4plMGSQK9DMXUecQfxpYrB) | 2:31 |
 | 28 | [FFVII REMAKE: STAND UP](https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:09 |
 
-Snapshot ID: `MCwzMjM0NWI0OTFiYWU3NTYzYjA4MGNlYjkwNGY5MzQ4NTQ1NDJhNjFk`
+Snapshot ID: `MCxiMGNiZGQzNzkyNDAwY2I0YzY5MGFlNTc3NzRiOTJlMWIxYTNlMDQw`

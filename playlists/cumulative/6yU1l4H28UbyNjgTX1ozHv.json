@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Dance The Night",
+        "url": "https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS"
+      },
+      "artists": [
+        {
+          "name": "Phil Halo",
+          "url": "https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv"
+        },
+        {
+          "name": "Julia Ross",
+          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172710,
+      "name": "Dance The Night - Acoustic",
+      "url": "https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4"
+    },
+    {
+      "album": {
         "name": "Dancing in the Moonlight (Acoustic)",
         "url": "https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq"
       },
@@ -576,6 +598,24 @@
       "duration_ms": 140128,
       "name": "Don't Speak - Acoustic",
       "url": "https://open.spotify.com/track/5x3YOV6iWvn4fe76r6uu61"
+    },
+    {
+      "album": {
+        "name": "Don't Stop (Acoustic)",
+        "url": "https://open.spotify.com/album/2GzqGJVYPGFlz13klXHfqY"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157103,
+      "name": "Don't Stop - Acoustic",
+      "url": "https://open.spotify.com/track/4oVMAdooQBRZrhsK5tlPOm"
     },
     {
       "album": {
@@ -1414,6 +1454,24 @@
       "duration_ms": 155064,
       "name": "Iris - Acoustic",
       "url": "https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ"
+    },
+    {
+      "album": {
+        "name": "Iris (Acoustic)",
+        "url": "https://open.spotify.com/album/3C6YfaOgmdH7A40A6JHuMU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182708,
+      "name": "Iris - Acoustic",
+      "url": "https://open.spotify.com/track/2bvnbXhGaMnl8QBYqzbHdD"
     },
     {
       "album": {

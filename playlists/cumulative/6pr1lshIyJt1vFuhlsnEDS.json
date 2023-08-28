@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/3HBf8xikw8byjdglO8XeaU"
+      },
+      "artists": [
+        {
+          "name": "ANDATA",
+          "url": "https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216394,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/1tp6YXrW3Asw81c1E46l7Z"
+    },
+    {
+      "album": {
         "name": "Connect",
         "url": "https://open.spotify.com/album/60dhkIiXKKLB4lU5NBrWib"
       },
@@ -424,6 +442,28 @@
       "duration_ms": 218020,
       "name": "CRESCENDO",
       "url": "https://open.spotify.com/track/3jVmXFC8HWaCGsXDvsD7Ic"
+    },
+    {
+      "album": {
+        "name": "Dimension (Metodi Hristov Remix)",
+        "url": "https://open.spotify.com/album/6Bzjcdhyyx17ClUQss05oc"
+      },
+      "artists": [
+        {
+          "name": "Oliver Huntemann",
+          "url": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+        },
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337850,
+      "name": "Dimension - Metodi Hristov Remix",
+      "url": "https://open.spotify.com/track/48nJmAnZGslYB2lCDGgXhC"
     },
     {
       "album": {
@@ -1842,6 +1882,24 @@
       "duration_ms": 429841,
       "name": "The Club",
       "url": "https://open.spotify.com/track/3ypZhP8UQrkevv7CxhcaW7"
+    },
+    {
+      "album": {
+        "name": "The Sky",
+        "url": "https://open.spotify.com/album/7BbmvQcC3x652TtB9JfJiZ"
+      },
+      "artists": [
+        {
+          "name": "LEVT",
+          "url": "https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259849,
+      "name": "The Sky",
+      "url": "https://open.spotify.com/track/6frvmUe3XRVSdFzwRgB6As"
     },
     {
       "album": {

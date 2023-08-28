@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Logan Crosby, Artwork: Fanélie Muselier
 
-1,787 songs - 4 day 1 hr 12 min
+1,788 songs - 4 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1326,7 +1326,8 @@
 | [Shortcut to Waco](https://open.spotify.com/track/5AwOZ4pd4OZmI5zrszXs7G) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Shortcut To Waco](https://open.spotify.com/album/6epdq42NeRtfPormW8twzR) | 3:50 | 2023-01-20 | 2023-01-26 |
 | [Should've Known Better](https://open.spotify.com/track/3x4iEe0NXvKKIf6717MuDM) | [Erin Viancourt](https://open.spotify.com/artist/729PYA1TLpVKMdLzfVWtL6) | [Should've Known Better](https://open.spotify.com/album/7wdsB2QJvVvhszS0TPgWQK) | 3:44 | 2023-05-10 | 2023-07-20 |
 | [Should've Listened to the Radio](https://open.spotify.com/track/1CukmS0d4g2bulxVX59CLZ) | [Johnny McGuire](https://open.spotify.com/artist/08rVq88zf9uE6G66X5ve5o) | [Should've Listened to the Radio](https://open.spotify.com/album/3dYU5GJzvnokZH5tR6LoIn) | 3:12 | 2023-02-15 | 2023-03-16 |
-| [Shoulda Known Better](https://open.spotify.com/track/6XaHVhca3v1P0P7F3bLrqs) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Shoulda Known Better](https://open.spotify.com/album/2k3BC0SBNWrdzjYarwpkrl) | 2:46 | 2023-06-28 |  |
+| [Shoulda Known Better](https://open.spotify.com/track/4br26gvkvgv1wB4gdGGMIg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 2:46 | 2023-08-23 |  |
+| [Shoulda Known Better](https://open.spotify.com/track/6XaHVhca3v1P0P7F3bLrqs) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Shoulda Known Better](https://open.spotify.com/album/2k3BC0SBNWrdzjYarwpkrl) | 2:46 | 2023-06-28 | 2023-08-28 |
 | [Shy Guy](https://open.spotify.com/track/4EDwuJyHWdt7V5E3Lq4BEU) | [Presley & Taylor](https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy) | [Shy Guy](https://open.spotify.com/album/4Ku2khJtRlMy93GQJJ1Hop) | 3:09 | 2023-04-19 | 2023-05-24 |
 | [Sideline](https://open.spotify.com/track/1NU0DyXSHdftBJy8xJGhGe) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t) | [Sideline](https://open.spotify.com/album/0EEUPNVbVd0ahWQFFWmOfY) | 3:00 | 2023-04-19 | 2023-06-01 |
 | [Sidetracked](https://open.spotify.com/track/3UKKliVx33RblV4OHILrLK) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Sidetracked](https://open.spotify.com/album/19gJgBC2mXo0VmiNGwqRqM) | 2:42 | 2022-09-28 | 2022-12-01 |

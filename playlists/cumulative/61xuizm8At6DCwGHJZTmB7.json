@@ -325,6 +325,28 @@
     },
     {
       "album": {
+        "name": "Altar in the Valley",
+        "url": "https://open.spotify.com/album/369PdHuD41Xx9PiPSrOLp9"
+      },
+      "artists": [
+        {
+          "name": "Ascent Project",
+          "url": "https://open.spotify.com/artist/4r1FGzKdQcTiDDPesf9x7Z"
+        },
+        {
+          "name": "Matthew McGinley",
+          "url": "https://open.spotify.com/artist/7lxa2m03JME8HxOMP6Aaq5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289973,
+      "name": "Altar in the Valley",
+      "url": "https://open.spotify.com/track/4hH18vTqOPYrQr5c7iNjoa"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP"
       },
@@ -1057,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "In The Light (Live)",
+        "url": "https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl"
+      },
+      "artists": [
+        {
+          "name": "AMEN Music",
+          "url": "https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383436,
+      "name": "Come As You Are - Live",
+      "url": "https://open.spotify.com/track/3ibq5jCLvK0hrMkt9NnyVt"
+    },
+    {
+      "album": {
         "name": "Come Lord Jesus (Live)",
         "url": "https://open.spotify.com/album/3c7y1XgJrqgpGPqwhgeCz4"
       },
@@ -1164,6 +1208,28 @@
       "duration_ms": 243082,
       "name": "Crazy About You",
       "url": "https://open.spotify.com/track/7yrC2QCLF2SVPQoMC7yGDH"
+    },
+    {
+      "album": {
+        "name": "Current / One Day At A Time (Medley)",
+        "url": "https://open.spotify.com/album/4i8Va3TUqrJfOHymL70Fac"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230206,
+      "name": "Current / One Day At A Time - Medley",
+      "url": "https://open.spotify.com/track/3Y9yvWKk9n80sPjxVk4maA"
     },
     {
       "album": {
@@ -1505,6 +1571,50 @@
     },
     {
       "album": {
+        "name": "Fear Of God",
+        "url": "https://open.spotify.com/album/4okOlln6a3ZLVjODMppfJI"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262467,
+      "name": "Fear Of God",
+      "url": "https://open.spotify.com/track/4suQfEsmdDRFEEGty1KBaq"
+    },
+    {
+      "album": {
+        "name": "Fill The Room (Live)",
+        "url": "https://open.spotify.com/album/40QzUvVGbFbJEwLI49aTPl"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        },
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420265,
+      "name": "Fill The Room - Live",
+      "url": "https://open.spotify.com/track/6tuoiqr1a8soQQmXtCfuAy"
+    },
+    {
+      "album": {
         "name": "Overflow (Live)",
         "url": "https://open.spotify.com/album/34ySYJ3ZOxIi3PFoydDpJi"
       },
@@ -1556,6 +1666,24 @@
       "duration_ms": 382174,
       "name": "Firm Foundation (He Won\u2019t)",
       "url": "https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (Live)",
+        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Firm Foundation (He Won\u2019t) - Live",
+      "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
     },
     {
       "album": {
@@ -1784,6 +1912,24 @@
       "duration_ms": 307134,
       "name": "Glory, Honor, Power - Live",
       "url": "https://open.spotify.com/track/4JRNwYlQyWH7askTZ6UlA3"
+    },
+    {
+      "album": {
+        "name": "God In The Valley (Live)",
+        "url": "https://open.spotify.com/album/2RU38uu7iltuReBPS8DSaG"
+      },
+      "artists": [
+        {
+          "name": "29:11 Worship",
+          "url": "https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437661,
+      "name": "God In The Valley - Live",
+      "url": "https://open.spotify.com/track/0lgf5HoniR4FAMShjKzNES"
     },
     {
       "album": {
@@ -2165,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/06XC0BeImcTzKX76fXOHEe"
+      },
+      "artists": [
+        {
+          "name": "Maranatha! Music",
+          "url": "https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298461,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/5vtJhS8AHe0aazDqa7pHbZ"
+    },
+    {
+      "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
@@ -2180,7 +2344,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 378412,
       "name": "Gratitude - Live From Passion 2023",
       "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
@@ -2740,6 +2904,28 @@
       "duration_ms": 390666,
       "name": "Hurry - Live",
       "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
+    },
+    {
+      "album": {
+        "name": "Hymn Of Healing (feat. Matt Redman)",
+        "url": "https://open.spotify.com/album/0yYZAbRsP6W96IiXnUUP0M"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322671,
+      "name": "Hymn Of Healing (feat. Matt Redman)",
+      "url": "https://open.spotify.com/track/7CkLwuJNNd7UpDEQUm8czu"
     },
     {
       "album": {
@@ -3956,6 +4142,24 @@
       "duration_ms": 307323,
       "name": "Miracle In The Works",
       "url": "https://open.spotify.com/track/6zE34AOSW5hi3x17joOECg"
+    },
+    {
+      "album": {
+        "name": "Together, With Heaven (Live)",
+        "url": "https://open.spotify.com/album/3wMhEwpiyVM7N0oHdtCjSP"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333631,
+      "name": "Miracles - Live",
+      "url": "https://open.spotify.com/track/6QF9eM4YyywJ7hydtG2U1q"
     },
     {
       "album": {
@@ -6255,7 +6459,7 @@
         },
         {
           "name": "Claire Smith",
-          "url": "https://open.spotify.com/artist/2e2bviyMnMs4Dq8iFbCO7s"
+          "url": "https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50"
         }
       ],
       "date_added": "2023-08-04",

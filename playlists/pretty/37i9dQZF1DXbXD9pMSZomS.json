@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 441089,
+  "num_followers": 441227,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmE5NDJkNGU2Y2IwZmY3MTNhNjJkNWU1ZmIyYzYzYTRhMmEyZTY2",
+  "snapshot_id": "MCxiYWViZmRkODY1ODFkZjJjY2ZlYWRkMWFkMTcxOTA4NjM1YjkyOGQ0",
   "tracks": [
     {
       "added_at": "2023-08-25 16:00:08",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "Ocean Drift",
-        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
-      },
-      "artists": [
-        {
-          "name": "Living Room",
-          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Ocean Drift",
-      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
         "name": "Back To My Place",
         "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 245863,
       "name": "Back to My Place",
       "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "Ocean Drift",
+        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Ocean Drift",
+      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
-      },
-      "artists": [
-        {
-          "name": "Prequel",
-          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
-        },
-        {
-          "name": "Cazeaux O.S.L.O",
-          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
         "name": "Sloh Remixes",
         "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 225493,
       "name": "Cami - Edamame Remix",
       "url": "https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX"
+      },
+      "artists": [
+        {
+          "name": "Prequel",
+          "url": "https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys"
+        },
+        {
+          "name": "Cazeaux O.S.L.O",
+          "url": "https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
+        "name": "We Should Chill On The Windowsill More",
+        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/52WyRvkSSoUhNeG6ldMzA9"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "We Should Chill On The Windowsill More",
-        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+        "name": "The Sayers",
+        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
       },
       "artists": [
         {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+          "name": "Klein Zage",
+          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
         }
       ],
-      "duration_ms": 326129,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+      "duration_ms": 293584,
+      "name": "The Sayers",
+      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -719,22 +735,6 @@
       "duration_ms": 117660,
       "name": "Polar Circle",
       "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
-        "name": "The Sayers",
-        "url": "https://open.spotify.com/album/68xZqClzXImxguG14MkDjk"
-      },
-      "artists": [
-        {
-          "name": "Klein Zage",
-          "url": "https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T"
-        }
-      ],
-      "duration_ms": 293584,
-      "name": "The Sayers",
-      "url": "https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "Heavy Tangled",
-        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
-      },
-      "artists": [
-        {
-          "name": "Etur Usheo",
-          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
         "name": "Longing For U",
         "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 349857,
       "name": "Longing For U",
       "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
     },
     {
       "added_at": "2023-08-25 16:00:08",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "Back In Time EP",
-        "url": "https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY"
-      },
-      "artists": [
-        {
-          "name": "Ricky Razu",
-          "url": "https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v"
-        }
-      ],
-      "duration_ms": 375483,
-      "name": "Back In Time - Original Mix",
-      "url": "https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
         "name": "Moon II Remixes Pt. II",
         "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
       },
@@ -995,22 +979,6 @@
     {
       "added_at": "2023-08-25 16:00:08",
       "album": {
-        "name": "14 Joints in a Spaceship",
-        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
-      },
-      "artists": [
-        {
-          "name": "_tillus",
-          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
-        }
-      ],
-      "duration_ms": 340645,
-      "name": "14 Joints in a Spaceship",
-      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
-    },
-    {
-      "added_at": "2023-08-25 16:00:08",
-      "album": {
         "name": "199X",
         "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
       },
@@ -1023,6 +991,38 @@
       "duration_ms": 213333,
       "name": "199X",
       "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "Back In Time EP",
+        "url": "https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY"
+      },
+      "artists": [
+        {
+          "name": "Ricky Razu",
+          "url": "https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v"
+        }
+      ],
+      "duration_ms": 375483,
+      "name": "Back In Time - Original Mix",
+      "url": "https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT"
+    },
+    {
+      "added_at": "2023-08-25 16:00:08",
+      "album": {
+        "name": "14 Joints in a Spaceship",
+        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
+      },
+      "artists": [
+        {
+          "name": "_tillus",
+          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
+        }
+      ],
+      "duration_ms": 340645,
+      "name": "14 Joints in a Spaceship",
+      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
     }
   ],
   "unique_name": "Lo-Fi House",

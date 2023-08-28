@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,097 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,263 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 40 | [Daydream cafe](https://open.spotify.com/track/3AdtUKxxIsPEV3nJC0U3Hk) | [Petit Rabbit's](https://open.spotify.com/artist/5l7xE3vT6bXnhBALsAetdE) | [｢ご注文はうさぎですか？｣キャラクターソング・セレクションアルバム／order the songs](https://open.spotify.com/album/2hI6IUBcq7Lmrpk177Gr8q) | 4:15 |
 | 41 | [Rhapsody of Blue Sky](https://open.spotify.com/track/2Y3lK46bVHAl8VBx25EMTZ) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [World Atlas](https://open.spotify.com/album/1MphSaxSuOsfndihtqlfCc) | 4:37 |
 | 42 | [ラピスラズリ](https://open.spotify.com/track/5gW0U6PfSZxs3ZqcQvIf6L) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:58 |
-| 43 | [Q&A リサイタル!](https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:49 |
+| 43 | [Q&A リサイタル！](https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:49 |
 | 44 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 |
 | 45 | [Gimme! Revolution \(From "Gonna Be the Twin\-Tail!!"\)](https://open.spotify.com/track/6prVPWb0IjxixFjwo06ADi) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Penki \(Standard Edition\)](https://open.spotify.com/album/1XY3l2HM92KroMo4ynFGQu) | 3:55 |
 | 46 | [僕らは今のなかで](https://open.spotify.com/track/3CWqynPQ19CcRK1Tk67pUN) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [μ's Best Album Best Live! Collection Ⅱ](https://open.spotify.com/album/3F84bX5oG31d2aFd8CE5CQ) | 4:36 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 65 | [ぼくのフレンド](https://open.spotify.com/track/5AH0F230K1ab9TPYUA3wR5) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [自己スキーマ](https://open.spotify.com/album/7qCWMC5KQ3SDii2P3u2Z7M) | 4:11 |
 | 66 | [ヒャダインのカカカタ☆カタオモイ\-C](https://open.spotify.com/track/3MpAKiHm0dzxRBSBwJ3PBC) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [20112012](https://open.spotify.com/album/3DW6bLcegm87OVIDKCVnZ8) | 3:54 |
 
-Snapshot ID: `MCxiN2ZiYjM1NjRiNmFhYTliZDllZmIxYmQ5MGQ3MDgxMmY1ODY0Yjdl`
+Snapshot ID: `MCxlNDMxZTU1ZTZhYzQ3YzczMTI3NzNmMTAzMjljMjYyMzQwM2Y1OTBj`

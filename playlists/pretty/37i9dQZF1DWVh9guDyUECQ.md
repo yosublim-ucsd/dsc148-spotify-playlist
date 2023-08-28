@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,957 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,032 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 64 | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe), [JMV The Producer](https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy) | 3:05 |
 | 65 | [Somos Las Voces](https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Somos Las Voces](https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj) | 4:02 |
 | 66 | [Sigo Aquí](https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Sigo Aqui](https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV) | 3:14 |
-| 67 | [Por un Momento](https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ) | [The cXurch](https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL), [Villanova](https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu) | [Por un Momento](https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs) | 3:31 |
-| 68 | [Lo Tengo](https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Lo Tengo](https://open.spotify.com/album/350OlqIrGNKrMs9cvsB6XD) | 3:32 |
+| 67 | [Lo Tengo](https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Lo Tengo](https://open.spotify.com/album/350OlqIrGNKrMs9cvsB6XD) | 3:32 |
+| 68 | [Por un Momento](https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ) | [The cXurch](https://open.spotify.com/artist/3IFfOqFyWSpSqJ4mtL7NJL), [Villanova](https://open.spotify.com/artist/4PwWDuBaJEmRwCBiMeXUsu) | [Por un Momento](https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs) | 3:31 |
 | 69 | [Para Amarte](https://open.spotify.com/track/5R1xv6pkvMCRVu7de9B1pj) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Para Amarte](https://open.spotify.com/album/2AkQCQd9z3gSs8krOGWi8C) | 3:48 |
 | 70 | [Dios, Familia & Rap](https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz) | [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Dios, Familia & Rap](https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa) | 4:17 |
 | 71 | [Apocalipsis \- Remix](https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Apocalipsis \(Remix\)](https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 |
 | 100 | [Corazón](https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW) | [Corazón](https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt) | 3:37 |
 
-Snapshot ID: `MCw1NTBiZGE2YWYzN2RkMTMzMWFkNTM0MmI2NjE5MDAyNDdlN2Q2MmU5`
+Snapshot ID: `MCw1YTUwMjllZTAyYTFkYmFmNjUzYTJkMjk1MTkzNTY0ODYzYzM0NDY1`

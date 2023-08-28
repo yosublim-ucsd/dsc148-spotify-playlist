@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6570\)
+## Playlists \(6571\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -932,6 +932,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [CAZZETTE – Eject pt\. I](/playlists/pretty/1kPmmFOfrsEk7KzW46uo8m.md)
 - [CC:DISCO!'s track IDs](/playlists/pretty/37i9dQZF1DXd9gokF77pBJ.md)
 - [CHEER UP \(치얼업\)](/playlists/pretty/37i9dQZF1DX4Z5FphlroPF.md)
+- [CHLOE's track IDs](/playlists/pretty/37i9dQZF1DXcKtDoRIriX9.md)
 - [CLASS OF 2020 mixtape](/playlists/pretty/37i9dQZF1DWVhUYCGnZTnv.md)
 - [CLASS OF 2023 mixtape](/playlists/pretty/37i9dQZF1DXcPYzOAWX8Wm.md)
 - [CMA Awards 2022 Nominees](/playlists/pretty/37i9dQZF1DX8ZfTXESa5KP.md)

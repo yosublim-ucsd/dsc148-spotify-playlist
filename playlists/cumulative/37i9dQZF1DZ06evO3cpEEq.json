@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 230706,
       "name": "Cartwheel and Climb",
       "url": "https://open.spotify.com/track/1F1kB8gBN9iguuckBQLWnj"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 171466,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/2iMbuC3ankWOtNRlKsgnzw"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 219160,
       "name": "Landing Lights",
       "url": "https://open.spotify.com/track/7EhTh6rmZY0FXnc1QFYUpE"
@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Size Up",
+        "url": "https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        },
+        {
+          "name": "Josh Cunningham",
+          "url": "https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216964,
+      "name": "Size Up",
+      "url": "https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0"
+    },
+    {
+      "album": {
         "name": "Frozen Rabbit",
         "url": "https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY"
       },
@@ -1018,7 +1040,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 280247,
       "name": "Speck of Dust",
       "url": "https://open.spotify.com/track/12HXebA19zhK2imE3q6xTD"
@@ -1036,7 +1058,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 254840,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC"
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 253976,
       "name": "Tears",
       "url": "https://open.spotify.com/track/0mGFlZSt2YDZ6EaZkdBL3C"
@@ -1484,7 +1506,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 126866,
       "name": "You Can't Break My Heart",
       "url": "https://open.spotify.com/track/4ONAoZUWmzDHrp3nLFpuxf"

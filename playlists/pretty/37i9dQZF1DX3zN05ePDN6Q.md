@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: Haikaiss
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,930 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,963 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Nômade VI](https://open.spotify.com/track/1V5nrvPDmynT2kJMJwo5FR) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA) | [Nômade VI](https://open.spotify.com/album/2aRP8ADWeTliDfTUs3NTYb) | 2:53 |
 | 75 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 
-Snapshot ID: `MCw5YjU4MWEzNWUyOWU0OWY5NzBiZjkyNGM1YjMyNDEyMTYwNWM4Mjc4`
+Snapshot ID: `MCw3YTkyMmM4YTVjYTQzNTliNWE3MzkwNzlkODhiYWU2NWRkYThlNWUw`

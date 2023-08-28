@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,908 likes - 111 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,944 likes - 111 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [boho babe](https://open.spotify.com/track/4P9VD39kOCzF02VwQ98MAv) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa), [Sunny Side Up!](https://open.spotify.com/artist/62JSntrhTQZg2buPDIoGjQ) | [boho babe](https://open.spotify.com/album/3JT6cNrOKXXoD7yH98yiSS) | 2:26 |
 | 111 | [petty things](https://open.spotify.com/track/0WreuVJFE5fRk0xb5U9kBE) | [clare inso](https://open.spotify.com/artist/4QWLW3qCUEjKfeoH6k93oW), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [petty things](https://open.spotify.com/album/4n0FeQxWBIlv8UUw3c6heH) | 3:04 |
 
-Snapshot ID: `MCwxYWNmODAwNzlkOGY5OWZkOTE2MDgxOWQwODY2NjcxNzAzMjdhMzNm`
+Snapshot ID: `MCw1ZDE5NTkwNjQwYzg5NzRkY2YwMTQxNjlhODk4NDExNjMxNzMzZGQ2`

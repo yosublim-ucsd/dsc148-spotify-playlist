@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 58929,
+  "num_followers": 59018,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2E1Y2I0ZWQ3MzNhZGU0MzMyN2QxNjA2NTI3ZGNjOTVhZWMyYzk5",
+  "snapshot_id": "MCxhZTM2NjE4ODNhNmQyOTQwMmM4YWNjYjhjNTFlZGQ2YTkwOWZmY2Yy",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 186967,
+      "name": "Sapo Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Fam\u00edlia Perfeita",
         "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
       },
@@ -395,26 +411,6 @@
       "duration_ms": 196270,
       "name": "Fam\u00edlia Perfeita",
       "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Crian\u00e7a Nota 10",
-        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Coral de Crian\u00e7as",
-          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
-        }
-      ],
-      "duration_ms": 164165,
-      "name": "Crian\u00e7a Nota 10",
-      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -451,18 +447,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+        "name": "Crian\u00e7a Nota 10",
+        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Coral de Crian\u00e7as",
+          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
         }
       ],
-      "duration_ms": 186967,
-      "name": "Sapo Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
+      "duration_ms": 164165,
+      "name": "Crian\u00e7a Nota 10",
+      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
     },
     {
       "added_at": "2023-07-28 03:00:00",

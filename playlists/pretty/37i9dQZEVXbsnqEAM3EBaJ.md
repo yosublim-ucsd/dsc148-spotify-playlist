@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 63 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 63 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 25 | [Immortal](https://open.spotify.com/track/3CzoVCSPGjuxwUyC3Md3g2) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 3:10 |
 | 26 | [Johnny B\. Goode \- Remastered](https://open.spotify.com/track/5fkosrv0WwLiDuPxYXRwZn) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Johnny B\. Goode \(Remastered\)](https://open.spotify.com/album/1eAdwGKaImN3CaufG2EGrw) | 2:38 |
 | 27 | [Bleed Out](https://open.spotify.com/track/1oNy8VAsmqlx7isSPR5oQe) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/6NyQhDlNC1CDy0WliMhCvZ) | 4:30 |
-| 28 | [Morceaux de salon, Op\. 10: I\. Nocturne in A MInor](https://open.spotify.com/track/4XfMUK8YxILr2Ucu8RCBR0) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Howard Shelley](https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg) | [Rachmaninoff, Tchaikovsky etc; Works for Piano](https://open.spotify.com/album/3Sk0rgbZiuKPowNs20LpAz) | 3:37 |
+| 28 | [Variations on a Theme of Corelli, Op\. 42: Theme\. Andante](https://open.spotify.com/track/2J3WtVMp6HnsyCredUu06n) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Howard Shelley](https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg) | [Rachmaninoff, Tchaikovsky etc; Works for Piano](https://open.spotify.com/album/3Sk0rgbZiuKPowNs20LpAz) | 0:54 |
 | 29 | [Goddamn White Trash](https://open.spotify.com/track/0JqtLoPU1i47itdwKRg2Zo) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Goddamn White Trash](https://open.spotify.com/album/2cpZVQFBguPlaCoQMQcOh6) | 4:43 |
 | 30 | [Las Mujeres](https://open.spotify.com/track/1wvxclslngApTRBA3gZFn6) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Las Mujeres](https://open.spotify.com/album/1nMJ6Cjyc6yTWoKToZoP6c) | 3:40 |
 | 31 | [U&Me](https://open.spotify.com/track/1BplQNLl74BaFZgkBqMBl8) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Los Wachos](https://open.spotify.com/album/4o6lfKCsOliUELYmCPQhAq) | 1:57 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 62 | [Sistema Solar](https://open.spotify.com/track/7K1eNzGG1lxjoua3zCBm13) | [ELECTROROBOT](https://open.spotify.com/artist/3FXfU5SW6bLVlFl43vj4zj), [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Sistema Solar](https://open.spotify.com/album/103jRkmfSxOPs2OqFWow8R) | 1:54 |
 | 63 | [Them Belly Full \(But We Hungry\)](https://open.spotify.com/track/73YF1vuiOiJ1h7RR9QJfns) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 3:10 |
 
-Snapshot ID: `MjgyMTU2MDAsMDAwMDAwMDA2MjRhNTExMGVmYmY0OGFmZGViY2Y0NWExNjAwN2Y1MQ==`
+Snapshot ID: `MjgyMTU2MDAsMDAwMDAwMDAyZDc3MWVhNTFkNjMxMjAxMDJhMTM5MmU5MGU2MTRjMQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- Guest curator: Joey Chiaramonte from Koyo \(New guest curator every 2 weeks\)
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,584 likes - 20 songs - 54 min 29 sec
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,587 likes - 20 songs - 54 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

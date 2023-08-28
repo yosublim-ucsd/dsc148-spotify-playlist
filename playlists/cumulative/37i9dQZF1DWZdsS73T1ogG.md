@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Blessd, Peso Pluma & SOG
 
-707 songs - 1 day 14 hr 2 min
+708 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Mi Lova](https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Mi Lova](https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV) | 3:40 | 2023-07-07 |  |
 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 | 2023-03-25 | 2023-05-13 |
 | [Mi Peor Error](https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mi Peor Error](https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF) | 3:03 | 2022-08-19 | 2022-11-12 |
-| [Mi Vicio \- Remix](https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Mi Vicio \(Remix\)](https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr) | 4:44 | 2023-04-28 |  |
+| [Mi Vicio \- Remix](https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Mi Vicio \(Remix\)](https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr) | 4:44 | 2023-04-28 | 2023-08-28 |
 | [Miami Beach](https://open.spotify.com/track/65QkoILdc0nkAlSErb5ZDZ) | [R1 La Esencia](https://open.spotify.com/artist/6fDScz7zLUrQFSRy4Tn7Ff), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Miami Beach](https://open.spotify.com/album/56scR1Ng2zgHTcDcK9BwzF) | 3:05 | 2023-06-02 | 2023-07-01 |
 | [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2023-03-10 | 2023-04-09 |
 | [Missionsuicida](https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Missionsuicida](https://open.spotify.com/album/4dE1TGR0mL2oACOuuAgeYQ) | 1:28 | 2023-04-21 | 2023-05-13 |
@@ -585,6 +585,7 @@
 | [Sin Carné](https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Sin Carné](https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc) | 1:57 | 2022-10-07 | 2022-12-17 |
 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 | 2023-05-26 |  |
 | [Sin Pena](https://open.spotify.com/track/1zyM7lBUZgGwZ4umEB5Pzk) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Sin Pena](https://open.spotify.com/album/4E8m3FYdXGNVB4mofcKtji) | 3:03 | 2022-07-22 | 2022-08-27 |
+| [Sin Preguntar](https://open.spotify.com/track/0tog9uUBCsPYP6zEg24wOB) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Sin Preguntar](https://open.spotify.com/album/7rRuM1AiQPiFH5T4cxpE3d) | 3:13 | 2023-08-25 |  |
 | [Sin Ropa](https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Sin Ropa](https://open.spotify.com/album/2UUSErYubfINqZTcUaizo2) | 3:07 | 2023-03-17 | 2023-05-27 |
 | [Sin Sentimientos](https://open.spotify.com/track/61MsCTegsH9eKKhzDmK6aH) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Sin Sentimientos](https://open.spotify.com/album/0S0OmQpoV4MFv12HmDII1r) | 3:46 | 2023-06-23 | 2023-07-15 |
 | [Sincero](https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd) | 3:38 | 2022-03-21 | 2022-04-02 |

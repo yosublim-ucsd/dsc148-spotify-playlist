@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in the North. Cover: Selena Gomez",
-  "num_followers": 856159,
+  "num_followers": 856313,
   "original_name": "Hot Hits Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDRkY2M0ZGI4ZDkyZTM0ZDQ3YmIyODJiNjY4ZWM4NTQ3ZTljYjI3",
+  "snapshot_id": "MCxhYmFkMGUyNjg3NjUyNWM3NGZhMzAxNTRkNTg3MTEzZGVjNWMxMDk3",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -43,8 +43,8 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY"
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 184649,
+      "duration_ms": 183635,
       "name": "Confetti",
-      "url": "https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg"
+      "url": "https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF"
     },
     {
       "added_at": "2023-08-25 04:01:00",

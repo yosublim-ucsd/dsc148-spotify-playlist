@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 
 > Find love\. Find success\. Find yourself\. Listen to the music from and inspired by The Perfect Find, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,674 likes - 22 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,716 likes - 22 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DTxbZztUAx.md) - [plain]
 | 21 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:31 |
 | 22 | [Missouri Waltz](https://open.spotify.com/track/5Lc0vzGdZ8W63D7mOLyz0y) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Fontane's Sing](https://open.spotify.com/album/5eBIHlsQyKeLpgUABGqivS) | 2:28 |
 
-Snapshot ID: `MCxjM2ZjMmZmMThkOWY3ZDNmYzExYWRmZWY1YTg0YjcyMWNkZDg2ZjU5`
+Snapshot ID: `MCwwNmFkMWE0YzA0YzI1ODhjODg5NDkyZWFkYzliZDBiZTQxNzkxODVj`

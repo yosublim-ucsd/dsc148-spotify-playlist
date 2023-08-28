@@ -4,7 +4,7 @@
 
 > Una relajante selección de sonidos de lluvia.
 
-275 songs - 12 hr 56 min
+276 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dream Rain](https://open.spotify.com/track/4nmDCD7xB5mBFsupQxcx8M) | [24H Rain Sounds](https://open.spotify.com/artist/3Gx6UNiTUubJFQzUyUjKQW) | [Dream Rain](https://open.spotify.com/album/1J0soxGBVkV0duPq6dIZ5R) | 2:47 | 2023-06-16 |  |
 | [Dreamy Rain](https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8) | [Rainded](https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW) | [Skyscraps](https://open.spotify.com/album/6GsRwYmzOWbrMDXtBUmkCN) | 2:31 | 2023-06-16 |  |
 | [Dripping Rain](https://open.spotify.com/track/0Of6J0VrkGeNm8YRpTYby9) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Dripping Rain](https://open.spotify.com/album/2B2IvBr9t2Qy0w5fjall3b) | 2:39 | 2023-06-16 |  |
-| [Dripping Rain on Garden Stones](https://open.spotify.com/track/6wO8CbViGqfobTkcCAzumO) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Summer Rains](https://open.spotify.com/album/6OsfWkLWbpN3t8T94YhPzz) | 4:41 | 2023-06-16 |  |
+| [Dripping Rain on Garden Stones](https://open.spotify.com/track/6wO8CbViGqfobTkcCAzumO) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Summer Rains](https://open.spotify.com/album/6OsfWkLWbpN3t8T94YhPzz) | 4:41 | 2023-06-16 | 2023-08-28 |
 | [Droplet Drift](https://open.spotify.com/track/5L7KXB9VytvwVTz7qcuCL9) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Droplet Drift](https://open.spotify.com/album/280YFBsxQ3p9XvxZ94RtVy) | 3:08 | 2023-06-16 |  |
 | [Earth Rain](https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Space Rain](https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K) | 3:41 | 2023-06-16 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2023-06-16 |  |
@@ -271,6 +271,7 @@
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2023-06-16 |  |
 | [The Gentle Rains Of Summer](https://open.spotify.com/track/3FVvaFKKyjafGHkwzj73o4) | [Mississippi Nature Recording Society](https://open.spotify.com/artist/3JuC7m69FBuJpCuRLt6HLo) | [Mississippi Rain](https://open.spotify.com/album/3FAYpeYN8lseVewV0dvboL) | 3:24 | 2023-06-16 |  |
 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [Moods & Water sounds](https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 | 2023-06-16 |  |
+| [Thick White Rain](https://open.spotify.com/track/2BlC1NHJ7M27NlqIqwRoKa) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [White Noise Rain](https://open.spotify.com/album/788fJUzqwO7ZUut266HJu5) | 3:35 | 2023-06-16 |  |
 | [Total Rainlax](https://open.spotify.com/track/6V6H6D9oyYKDULYGlRvG2Z) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Total Relax Rain Sounds](https://open.spotify.com/album/2gk3zCG7C6FmrRDXHuiSG1) | 2:26 | 2023-06-16 |  |
 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [I See Rainbows](https://open.spotify.com/artist/3gsxqVDwafHaGerSAf235l) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 | 2023-06-16 |  |
 | [Tuck You In Rain](https://open.spotify.com/track/2bEXK4xPzMh7Q0TQkGAE06) | [Athmospherical FX](https://open.spotify.com/artist/1sOEjr4Po1kf0wbHl6aeGr) | [Athmospherical Rain](https://open.spotify.com/album/60DQWCF0KxebBjDY5Tprgr) | 2:44 | 2023-06-16 |  |

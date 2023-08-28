@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,891 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,027 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 23 | [心絵](https://open.spotify.com/track/33CYO63qC6GGwK5WAFFFD2) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [懐\-ナツ\-エモティック J\-POP 神BUZZ HIT SONGS \(DJ KOO PLAYLIST MEGA MIX\)](https://open.spotify.com/album/07dsGzPB9gg7z3vhauSwkS) | 4:20 |
 | 24 | [I am](https://open.spotify.com/track/1JM0GXE02jU7tWEBk2L0JR) | [hitomi](https://open.spotify.com/artist/5rdloWitZKhrtedmOBdhG8) | [I am/innocence](https://open.spotify.com/album/7rYpxCkxGTFK4sQaZI7x26) | 4:45 |
 | 25 | [逆さまの蝶](https://open.spotify.com/track/7gaaMd98dW4ssle6fc1fBh) | [Snow](https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp) | [初雪](https://open.spotify.com/album/0fZVnR1Fvucd3SBKHfmBs3) | 4:33 |
-| 26 | [勇侠青春謳](https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [25周年記念ベストアルバム「愛と誠\~YAMATO & LOVE×××」](https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5) | 4:23 |
+| 26 | [勇侠青春謳](https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [25周年記念ベストアルバム「愛と誠～YAMATO & LOVE×××」](https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5) | 4:23 |
 | 27 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
 | 28 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 |
 | 29 | [Seikan Hiko](https://open.spotify.com/track/4ykxXFAQlQ4TokZcrP5M2m) | [Ranka Lee = Megumi Nakajima](https://open.spotify.com/artist/3JODQ7XeLxOZtG9cGuVPUw) | [MACROSS FRONTIER Seikan Hikou](https://open.spotify.com/album/0kK3dYuyhrFOIB2hTFj8lF) | 3:51 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 44 | [人として軸がぶれている](https://open.spotify.com/track/0D4mD3IcmPLoFFxANcWC5N) | [大槻ケンヂと絶望少女達](https://open.spotify.com/artist/4xtFnyqFy83Y1p5RTINfiI) | [人として軸がぶれている](https://open.spotify.com/album/0i1fGlZRpLA27BQO8krKsT) | 3:27 |
 | 45 | [Shangri\-La \(Y.Sunahara 2009 Remodel\)](https://open.spotify.com/track/6P6S68Ns7s48MMlgecIAsP) | [Denki Groove](https://open.spotify.com/artist/3JByu9VCNA1Rs6puGfRupj) | [電気グルーヴのゴールデンヒッツ\~Due To Contract](https://open.spotify.com/album/0IXHlr7cqACe3Y2gYyEJST) | 5:08 |
 | 46 | [Ponyo on the Cliff by the Sea](https://open.spotify.com/track/00lajXBbel7k0C8AefHwak) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Ponyo on the Cliff by the Sea Image Album](https://open.spotify.com/album/6bV3GjpvWu7Zf48GmSAnU3) | 2:46 |
-| 47 | [旅の途中](https://open.spotify.com/track/5Fs6i0rfOxchAOoDUuxZfI) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [TVアニメーション「狼と香辛料」OPテーマ 旅の途中](https://open.spotify.com/album/617Mua99b2ISaOLLuFl4wh) | 4:51 |
+| 47 | [旅の途中](https://open.spotify.com/track/5Fs6i0rfOxchAOoDUuxZfI) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [TVアニメーション「狼と香辛料」ＯＰテーマ　旅の途中](https://open.spotify.com/album/617Mua99b2ISaOLLuFl4wh) | 4:51 |
 | 48 | [アンインストール](https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [「ぼくらの」オープニングテーマ アンインストール](https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD) | 4:41 |
 | 49 | [恋せよ女の子](https://open.spotify.com/track/6MaE2CKZdGoWNQXHJOMshd) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [銀の旋律、記憶の水音。](https://open.spotify.com/album/0eDR8cIsVOjK8GjL2dGJjT) | 4:20 |
 | 50 | [空色デイズ](https://open.spotify.com/track/4EkbGJChszyxhEP0bIwBSZ) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [しょこたん☆べすと――\(°∀°\)――!!](https://open.spotify.com/album/5kgH0okVwbTC2dfpyCtnOA) | 4:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 59 | [Gamble Rumble](https://open.spotify.com/track/7wug8q76QHsvCKWEZW1nVq) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [Gamble Rumble](https://open.spotify.com/album/4S7MWhlljXKdr5IBI94kQU) | 4:27 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MCwxMWQwOTA0MDAzMTY3OTY5N2M4OGY1NDg3Mjg4YWVkYmNiMzcyOTc1`
+Snapshot ID: `MCw4ZGZkMjE0ZDRiYWQzZjc3NGQ5NDQ4YTIzOTgzMjk4ODBiM2U5ZDYw`

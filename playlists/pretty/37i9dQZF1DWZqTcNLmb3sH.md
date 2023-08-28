@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Hostel Hudugaru Bekagiddare
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,472 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,509 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Shivani \(From "Kousalya Supraja Rama"\)](https://open.spotify.com/track/28aOMbbEz3NpMmW6LOBDkE) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Shashank](https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN) | [Shivani \(From "Kousalya Supraja Rama"\) \- Single](https://open.spotify.com/album/42b0JVNY9itjdQcJNBSOjd) | 3:22 |
 | 75 | [Ee Kshana Romanchana \(From "Nodadha Putagalu"\)](https://open.spotify.com/track/6JtZ4fpPS1TgqyIP2igKL7) | [Abhishek M R](https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97), [Vignesh Menon](https://open.spotify.com/artist/3rUb0UcwcnZpNvirKf8dmP), [Prashanth Gunaki](https://open.spotify.com/artist/5vBD08awxu6cK3457kIKR1) | [Ee Kshana Romanchana \(From "Nodadha Putagalu"\)](https://open.spotify.com/album/7sC9276hbPG6mgHVZAuw7o) | 5:33 |
 
-Snapshot ID: `MCwzNmMzMzBiNDNmYmU4ZTJjMjczMTU0YzFlZjM3YTAxOTExODMzMGNh`
+Snapshot ID: `MCwyMDhlYmQ0ZGJmMGM0MDdkODczNWMyMzJiNDZkN2JlNTZjMTcyZDU5`

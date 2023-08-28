@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-318 songs - 18 hr 11 min
+319 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Control \(feat\. Add1ction\)](https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Add1ction](https://open.spotify.com/artist/4RDLjBccKYkC5mJqxDEbt6) | [Control \(feat\. Add1ction\)](https://open.spotify.com/album/58yeuRwPRp7KFoIn0uhtzw) | 3:15 | 2021-12-10 | 2022-12-13 |
 | [Core \(That's Who We Are\)](https://open.spotify.com/track/2msXxN1Ta2UiDq7orsqvKc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Core \(That's Who We Are\)](https://open.spotify.com/album/1NOroK7CIZ5CocdGBya87u) | 2:58 | 2022-06-24 |  |
 | [Core \(That's Who We Are\)](https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Core \(That's Who We Are\)](https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5) | 2:58 | 2021-12-10 | 2022-07-29 |
+| [Crash](https://open.spotify.com/track/25SwJzzyuKCAHSIIcgYEjo) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Crash](https://open.spotify.com/album/2bGQnP0JUPy0tL3MZq67kD) | 4:43 | 2023-08-25 |  |
 | [Crash & Burn](https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9), [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk) | [Crash & Burn](https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO) | 4:06 | 2021-12-10 |  |
 | [Crown](https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh) | 2:51 | 2022-04-22 | 2023-08-09 |
 | [Crown](https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ) | 2:51 | 2023-08-11 |  |
@@ -312,7 +313,7 @@
 | [Wait](https://open.spotify.com/track/64pmOdBwsj6t3hMDlWpz42) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [The Year The World Stood Still](https://open.spotify.com/album/4F3hXEsI6xyNz6C7auqAq2) | 3:38 | 2021-12-10 | 2022-07-29 |
 | [Waiting](https://open.spotify.com/track/5IctAQm39y9qiMtbKdzLzf) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Waiting](https://open.spotify.com/album/07ndCcq4Rtg94YEaEwDTKI) | 3:30 | 2021-12-10 | 2022-06-25 |
 | [Wake Up](https://open.spotify.com/track/1XP0VR8KMArstV37bfzkt8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Apex](https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im) | 5:39 | 2021-12-10 | 2022-03-22 |
-| [Walk On Water \(with Danni Carra\)](https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1) | 3:02 | 2022-11-18 |  |
+| [Walk On Water \(with Danni Carra\)](https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1) | 3:02 | 2022-11-18 | 2023-08-28 |
 | [War](https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [War](https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW) | 3:15 | 2023-01-30 |  |
 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 | 2022-02-25 |  |
 | [Watch Me Now \(feat\. Koda & VAAAL\)](https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj), [Koda](https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu), [VAAAL](https://open.spotify.com/artist/69F2d9RXVEVXH6Dhy5G7ng) | [The Trip Out](https://open.spotify.com/album/78qwuQ29QWiA4PkfF6CC2b) | 3:21 | 2022-04-15 | 2023-04-09 |

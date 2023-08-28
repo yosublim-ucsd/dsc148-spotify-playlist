@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con La Doloritas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,797 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,801 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 9 | [Los Prejuicios](https://open.spotify.com/track/56Bbpl6wbG8BnNE4D3ylgo) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Prietto](https://open.spotify.com/artist/3Xm2CjJ6i14krOHOGVDYts) | [Los Prejuicios](https://open.spotify.com/album/1zehKXJWFuBafpq12GR56U) | 4:53 |
 | 10 | [amores de cuchillo](https://open.spotify.com/track/2fB5Vrbvl1j9dA7dfx1V5J) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [amores de cuchillo](https://open.spotify.com/album/1p65q0T8HcS9VndBMxHY9q) | 2:35 |
 | 11 | [Abres el Cielo](https://open.spotify.com/track/6d5fdho8h0drwV1egg1uvY) | [El General Paz & La Triple Frontera](https://open.spotify.com/artist/2OXcnoIOjCGuv9WmCblxuB), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Abres el Cielo](https://open.spotify.com/album/2RbDQNze5ORRoiQzTC2I8v) | 3:47 |
-| 12 | [Depiértate Nena \(Herencia Lebón\)](https://open.spotify.com/track/0sVPghWdY3HdWDZnPobjni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Herencia Lebón 1](https://open.spotify.com/album/4Tl5twEpmrOihG7K566fQn) | 4:56 |
+| 12 | [Despiértate Nena \(Herencia Lebón\)](https://open.spotify.com/track/0sVPghWdY3HdWDZnPobjni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Herencia Lebón 1](https://open.spotify.com/album/4Tl5twEpmrOihG7K566fQn) | 4:56 |
 | 13 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 |
 | 14 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/21bbADKE5VtWFDe3xhW7fi) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/4PIBAHP1GHhqSLGn5c5yFh) | 4:47 |
 | 15 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteón Rococó](https://open.spotify.com/artist/6TG20v06RKoMARZzRgwzkm) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Radioactiva](https://open.spotify.com/track/6FGSxqit3jy05RsA6YjfH1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [Radioactiva](https://open.spotify.com/album/2zusAQJG3or1boIhzZAZPz) | 3:46 |
 | 50 | [Tenerte](https://open.spotify.com/track/6AwOQbNB4zFT5haYfEW8I3) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Tenerte](https://open.spotify.com/album/0VLr3VxhZiloejJmgGd68Q) | 3:59 |
 
-Snapshot ID: `MCwzMTljMWUxZThjZDVlODYyY2JkMjI5NTdiMDFhNWVlMGI5OWRjNDhh`
+Snapshot ID: `MCwzYjQ1MGViODI5NzZlNWY3MjM4ZWMyNTNjNmZlYTBkYWVjMmVjNmQ4`

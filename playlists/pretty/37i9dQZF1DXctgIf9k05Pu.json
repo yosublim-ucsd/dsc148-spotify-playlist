@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 239240,
+  "num_followers": 239317,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmM1YzlkZDdkNGE3YzM5M2JmM2RkZDdjM2U3MDM3ODM3OTQ2Nzdl",
+  "snapshot_id": "MCw3MDIxMmMzMjFkODY2YTkyMDA0YmI0YmM5NmMwNzY2ODdlMmE2YWE2",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Theres Still Us",
-        "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
-      },
-      "artists": [
-        {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Buena Vista",
         "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 99996,
       "name": "Sakura Trees",
       "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Theres Still Us",
+        "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
     },
     {
       "added_at": "2022-02-02 00:21:48",

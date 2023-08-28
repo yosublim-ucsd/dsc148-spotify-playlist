@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,237 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,281 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 67 | [Feelings](https://open.spotify.com/track/5vwt5fdPoIbNYkWPOBInfp) | [Tonny K](https://open.spotify.com/artist/337etR6tCrVdPEREaN9Qqc), [Lil Saint](https://open.spotify.com/artist/7odbCfUO9CRAZH4NE4GdU4) | [Feelings](https://open.spotify.com/album/7hJtnNxChO1mGUtdWUuG6F) | 3:04 |
 | 68 | [Bebé](https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Bebé](https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4) | 2:43 |
 | 69 | [Eu Até Percebo](https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Eu Até Percebo](https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77) | 3:30 |
-| 70 | [Contigo](https://open.spotify.com/track/6vRa0xwMWiBR8fvGd7brnb) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Contigo](https://open.spotify.com/album/1dav5pLvS9gKsxuCcH5M1j) | 2:31 |
+| 70 | [Só uma Noite](https://open.spotify.com/track/4IE65liqpq2jxwj77ih2MK) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [Só uma Noite](https://open.spotify.com/album/28PX9MrdXuq9RbiOpE8Cfw) | 2:36 |
 
-Snapshot ID: `MCw2MWNkY2ExZmUwZTExMmIyZmU0NjFiNTUyMTVlY2IxMzliZjg0ZjBm`
+Snapshot ID: `MCxiNGRjZWY1ZWZhN2RkNTlmNDNkNGY3OTY3MGY5Yjg1NWI2YzhlNzkw`

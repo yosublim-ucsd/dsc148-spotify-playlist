@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 208070,
+  "num_followers": 208169,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjA1ZjExNDFkYzFmYWExMTA4MDY2ZWZiYzcwZDQzOTg1YTlkODQz",
+  "snapshot_id": "MCxlNWNmMTIwNzllMjJmMmY2MzJjZDkyMWViNzQzNTY4NGU5YWQ5NDM1",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -867,22 +867,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Father to Son - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 295093,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Father to Son - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Yellow Moon",
-        "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
-      },
-      "artists": [
-        {
-          "name": "The Neville Brothers",
-          "url": "https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg"
-        }
-      ],
-      "duration_ms": 400266,
-      "name": "With God On Our Side",
-      "url": "https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 244066,
       "name": "Otterley",
       "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Yellow Moon",
+        "url": "https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF"
+      },
+      "artists": [
+        {
+          "name": "The Neville Brothers",
+          "url": "https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg"
+        }
+      ],
+      "duration_ms": 400266,
+      "name": "With God On Our Side",
+      "url": "https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr"
     },
     {
       "added_at": "2018-12-12 11:36:39",

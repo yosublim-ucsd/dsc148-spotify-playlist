@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: SOFT PLAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,667 likes - 124 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,753 likes - 124 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 106 | [Short Straw](https://open.spotify.com/track/3QJWvFiMtkl4B5bIc8RQRR) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [Take A Picture](https://open.spotify.com/album/1ChLWmwf2uKugRHKCtxMSM) | 3:38 |
 | 107 | [DOUBT](https://open.spotify.com/track/4yBFWWqcl9WMj5mIv4f8mq) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [DOUBT](https://open.spotify.com/album/41jsygAosEU6edZ06LFBNo) | 4:28 |
 | 108 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 |
-| 109 | [I Believe](https://open.spotify.com/track/329c0F8q0Fra2vx7FQapMw) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [A Daydream](https://open.spotify.com/album/4ukJOsBuVDR6ZWGv6gE9kv) | 3:21 |
+| 109 | [I Believe](https://open.spotify.com/track/1jmHjqrzgwlMTTnJ92QTVW) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [Bite](https://open.spotify.com/album/0iCRXAzQBsJXZyboXxhIuc) | 3:21 |
 | 110 | [Disco 1.5](https://open.spotify.com/track/0xS4zMgCLHUaaC8WRFJkbq) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Disco 1.5](https://open.spotify.com/album/2NVfjHQr7uyNWGIGFkrPpy) | 1:31 |
 | 111 | [Manic](https://open.spotify.com/track/2ezTz7Az0j90HjRS4vlogZ) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Manic](https://open.spotify.com/album/3CGo2Y2wCqaSoOUCY06fWg) | 2:41 |
 | 112 | [againagainagain](https://open.spotify.com/track/1KJao1U5lALGcswmhJLzV2) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [againagainagain](https://open.spotify.com/album/3cxnAcVLZaW3tAnIl5pfJB) | 2:35 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 123 | [LIKED U BETTER](https://open.spotify.com/track/5RxT0AN9dOEzqFTd9NHPsI) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [LIKED U BETTER](https://open.spotify.com/album/3x4FJNVhKCqmqpIbGsInlz) | 2:49 |
 | 124 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 |
 
-Snapshot ID: `MCw3OGM4NDllNzEyOWNmNWIyNWI4NzJiNTU0ZmFlMzMwYzg1MWIxODJl`
+Snapshot ID: `MCw4ZGU3YTJhMzllMGZjNTFiNDI2YjBjMjlkY2RhY2UxNzE4NzViNDcx`

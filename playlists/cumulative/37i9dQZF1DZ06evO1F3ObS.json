@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "ANIMA\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+        "url": "https://open.spotify.com/album/2MU4fbl4F3KwiR6RbVVARz"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266366,
+      "name": "ANIMA\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+      "url": "https://open.spotify.com/track/79XOaxIV8zO7Qn0jyqhpLF"
+    },
+    {
+      "album": {
         "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
         "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 352920,
       "name": "\u30cd\u30ea\u30e4\u30ab\u30ca\u30e4 ~\u7f8e\u3089\u5944\u7f8e~",
       "url": "https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi"

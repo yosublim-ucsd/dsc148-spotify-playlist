@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 66506,
       "name": "Are We Laughing?",
       "url": "https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7"
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 109933,
       "name": "Driving Home",
       "url": "https://open.spotify.com/track/5m0r7BBTv6mhkcB1ZQ6702"
@@ -8336,13 +8336,25 @@
         {
           "name": "A Tribe Called Quest",
           "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 223346,
-      "name": "Solid Wall of Sound",
+      "name": "Solid Wall of Sound (feat. Busta Rhymes, Jack White & Elton John)",
       "url": "https://open.spotify.com/track/5OzOQRssjhxaBj0xd78Z2w"
     },
     {
@@ -8632,7 +8644,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 162573,
       "name": "Steven Redecorates",
       "url": "https://open.spotify.com/track/54vKtWNvyQ4SEvGP5t2YMi"
@@ -11258,7 +11270,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 229474,
       "name": "\u010c\u00e1st Kn\u00ed\u017eky",
       "url": "https://open.spotify.com/track/30G8BhKXy9lsm3EVM9bdU9"

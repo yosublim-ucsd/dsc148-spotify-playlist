@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,177 likes - 307 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,526 likes - 307 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 55 | [surface](https://open.spotify.com/track/64p6muGOMZG5eYFdEOhI1k) | [harvest boy](https://open.spotify.com/artist/2V8pkWIxUczc3E02l6ZQ8J) | [surface](https://open.spotify.com/album/2L4yVic5JysrlCA6X0Ouzu) | 2:38 |
 | 56 | [Reflection](https://open.spotify.com/track/1Mk9H1MAwI01tUNWYZBK6p) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [Reflection](https://open.spotify.com/album/0vk3HaFJcx6Om0wMNdHl8H) | 2:33 |
 | 57 | [elevation](https://open.spotify.com/track/7spTNUW2VouHtkboiO30sF) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [elevation](https://open.spotify.com/album/6bfqiDky9JqXxkfs6VCKst) | 2:10 |
-| 58 | [Dreams Under The Stars](https://open.spotify.com/track/6cpIzYxHkuzKURy1qZEzyD) | [MonoCulture](https://open.spotify.com/artist/3NDiKU3D1dECflo0rAggGD) | [Dreams Under The Stars](https://open.spotify.com/album/7cRRZCWHYcueMBSIxN9kFU) | 2:41 |
+| 58 | [Dreams Under the Stars](https://open.spotify.com/track/43DlF2Ew0ticsL6KlXjJue) | [MonoCulture](https://open.spotify.com/artist/3NDiKU3D1dECflo0rAggGD) | [Dreams Under the Stars](https://open.spotify.com/album/66wkKdo28LYmtJU8yOhcQ4) | 2:41 |
 | 59 | [i feel warmer already](https://open.spotify.com/track/4naRK23E2oxlBnzyWG4zG2) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [i feel warmer already](https://open.spotify.com/album/55EXWcA8fgtpAJ9Jn7hwTu) | 2:30 |
 | 60 | [Underwater](https://open.spotify.com/track/7IDAOGrlarCcOv1XGebKTG) | [LBL](https://open.spotify.com/artist/0j0BXMwyoY9NJTbcviFEOp) | [Underwater](https://open.spotify.com/album/6zZNyuKMVVqOMVbkJdaKY1) | 2:21 |
 | 61 | [Always](https://open.spotify.com/track/5c2BAt25xtsJ2JlFJ1UBWW) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Always](https://open.spotify.com/album/3p5AHBYiInyA9HetYvfE2g) | 3:40 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 306 | [Port Evenings](https://open.spotify.com/track/0tPjix5HfFWwKlJJ69QnE3) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Port Evenings](https://open.spotify.com/album/1UuJTx8Tv4udt0IVrVidgz) | 2:29 |
 | 307 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MCxjYmFlMmEzZGVhYjIwZGNmNjJjMjM2Yjg5ZDg1NGZkMjI0NWRjNjZm`
+Snapshot ID: `MCw5NmI0NDkyMTMzY2VmNDQzYzI2MWFiODFkYTgxNTRmODE3N2FmN2Mz`

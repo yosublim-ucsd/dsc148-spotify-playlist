@@ -4,12 +4,12 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-479 songs - 1 day 16 hr 41 min
+480 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [666 Voices Inside](https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Attera Totus Sanctus](https://open.spotify.com/album/53m5q93sqZpTZ8NFtWHKuE) | 4:38 | 2022-07-13 | 2023-02-16 |
-| [A Crawling Feast Of Decay](https://open.spotify.com/track/6aEj5976amMbfkDso4b6F2) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [A Crawling Feast of Decay](https://open.spotify.com/album/4h88OeKLXsKtQ184ZCOKXa) | 3:15 | 2023-08-04 | 2023-08-27 |
+| [A Crawling Feast Of Decay](https://open.spotify.com/track/6aEj5976amMbfkDso4b6F2) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [A Crawling Feast of Decay](https://open.spotify.com/album/4h88OeKLXsKtQ184ZCOKXa) | 3:15 | 2023-08-04 |  |
 | [A csend hegyei](https://open.spotify.com/track/14YaVGzQho0X6zqI5Rfx5T) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [A csend hegyei](https://open.spotify.com/album/5MX3Rtz5e4kCopEkYfuRHp) | 4:10 | 2023-04-28 | 2023-05-23 |
 | [A Fine Day to Die](https://open.spotify.com/track/1nLF4GpaJe54kjjBVxIBRS) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Blood Fire Death](https://open.spotify.com/album/2QVt9UZEloRJgYqE70ACPs) | 8:36 | 2022-07-13 | 2023-08-19 |
 | [A Psylacybic Death](https://open.spotify.com/track/3gRVHf7tMrvbAZFMqZIWmD) | [Abduction](https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp) | [A Psylacybic Death](https://open.spotify.com/album/0ldAuoMKfNhTDZn9lvLDgp) | 7:08 | 2022-10-07 | 2023-01-01 |
@@ -63,7 +63,8 @@
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/07zQA8UkyxpmnRhPjHOVOB) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/3KMD4mCBn8KS8bhtwn3cnq) | 4:25 | 2022-07-13 | 2022-07-29 |
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS) | 4:25 | 2022-07-13 |  |
 | [Born from the Serpent's Eye](https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Thrice Woven](https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk) | 9:36 | 2023-02-15 |  |
-| [Bringer of Vengeance](https://open.spotify.com/track/4PV9Gly5KxQM0WColNUNZJ) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Bringer of Vengeance](https://open.spotify.com/album/2o4FnivXVJz7SnMqJKfvuO) | 3:53 | 2023-05-19 |  |
+| [Bringer of Vengeance](https://open.spotify.com/track/4PV9Gly5KxQM0WColNUNZJ) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Bringer of Vengeance](https://open.spotify.com/album/2o4FnivXVJz7SnMqJKfvuO) | 3:53 | 2023-05-19 | 2023-08-28 |
+| [Bringer of Vengeance](https://open.spotify.com/track/4Q3lr24GiSf4NALTRHjFZj) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Goliath](https://open.spotify.com/album/0wJBlM3pHLvc2JwMYXVzPv) | 3:53 | 2023-08-25 |  |
 | [Bruja Encabronada](https://open.spotify.com/track/3owfKm1HAs3FiyZ5o7DkNM) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Bruja Encabronada](https://open.spotify.com/album/0A47RiigR3Kic8hhr3zbvj) | 2:47 | 2023-08-18 |  |
 | [Brutalist Imperator](https://open.spotify.com/track/0ojJNiUQs8Uo95M91xHqvv) | [Nightmarer](https://open.spotify.com/artist/6MqL55fccEqCvqitp4Nfbx) | [Brutalist Imperator](https://open.spotify.com/album/4VRVOdVcmDGunInXBqNSz1) | 3:46 | 2023-05-05 | 2023-06-17 |
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2021-12-17 | 2022-01-22 |
@@ -235,7 +236,7 @@
 | [Into the Crypts of Rays](https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales \(Expanded Version\)](https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH) | 3:38 | 2022-09-01 | 2023-07-04 |
 | [Into the Crypts of Rays](https://open.spotify.com/track/4xQO8MVtFZOW2KJMBuAB2p) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Morbid Tales](https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859) | 3:39 | 2022-07-13 | 2022-09-04 |
 | [Into the Night](https://open.spotify.com/track/4nXWnm11xQjnDsgsKtYRti) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Into the Night](https://open.spotify.com/album/4Gbn1jOz5A5YDqOBMkqO2i) | 6:58 | 2022-01-14 | 2022-02-11 |
-| [Invocation \(Chthonic Merge\) X](https://open.spotify.com/track/2rh3w5SIH0wg5AcuS83y28) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Invocation \(Chthonic Merge\) X](https://open.spotify.com/album/66GxXX4cB2JFYdXxwWCqPQ) | 2:52 | 2023-08-25 |  |
+| [Invocation \(Chthonic Merge\) X](https://open.spotify.com/track/2rh3w5SIH0wg5AcuS83y28) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Invocation \(Chthonic Merge\) X](https://open.spotify.com/album/66GxXX4cB2JFYdXxwWCqPQ) | 2:52 | 2023-08-25 | 2023-08-28 |
 | [IRMOS I](https://open.spotify.com/track/2ogB6fMaIdNa3cQsEoHrAt) | [Batushka](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [MARIA](https://open.spotify.com/album/5XRR2Lnc7grEl7FXyrS0qz) | 4:49 | 2022-04-01 | 2023-07-04 |
 | [Island of Dead Men](https://open.spotify.com/track/1n857ftGC4pbJhFjBmf5im) | [Asinhell](https://open.spotify.com/artist/0LDCMz2as9KQgSlX3KJNYx) | [Island of Dead Men](https://open.spotify.com/album/5wpL7nK7eCM33EXe9auPt1) | 3:01 | 2023-08-18 |  |
 | [It's Darker Than You Think](https://open.spotify.com/track/24rgd0Ex8aBpmctVJHbJSF) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/4SCjDGytdNcWgtt3cMIBF2) | 4:41 | 2022-07-13 | 2022-07-29 |

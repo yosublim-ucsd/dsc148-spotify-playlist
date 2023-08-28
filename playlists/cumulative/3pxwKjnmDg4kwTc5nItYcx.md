@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-716 songs - 1 day 14 hr 32 min
+720 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [I Miss You, I'm Sorry](https://open.spotify.com/track/2sFFfkOzS68g4KCsTBeQdZ) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [I Miss You, I'm Sorry](https://open.spotify.com/album/4MdfuJD1AnnogWlEtcpayM) | 3:31 | 2020-06-29 | 2021-05-12 |
 | [I Need Love](https://open.spotify.com/track/6F8IghVtBzZYOHvqoQSKCS) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I Need Love](https://open.spotify.com/album/3JKwXUSJBPgIwBHMdsdfxt) | 3:17 | 2020-03-13 | 2021-05-12 |
 | [I Need You To Hate Me](https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [I Need You To Hate Me](https://open.spotify.com/album/1iTfzcKZxr2SEgNCIDyhol) | 2:37 | 2020-05-22 | 2021-05-12 |
+| [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 |  |
 | [I Should Be Home](https://open.spotify.com/track/5OpXp5NZvzcIrVuUaFlUHE) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [I Should Be Home](https://open.spotify.com/album/00btWJDLFEzJHq7EwuBQbM) | 3:00 | 2022-09-28 |  |
 | [I Still Do](https://open.spotify.com/track/7An3TmBnSnNnvDnh1D1oEB) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [I Still Do](https://open.spotify.com/album/0dnYSI1SXHicxSq6eRfwjB) | 3:09 | 2020-07-18 | 2021-05-12 |
 | [I WANNA BE HERE](https://open.spotify.com/track/1W54Svdz7Ennj33D6SGAEM) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [I WANNA BE HERE](https://open.spotify.com/album/3WnDcoWJUbKuBFH9atlVk0) | 2:59 | 2020-06-19 | 2021-05-12 |
@@ -320,6 +321,7 @@
 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 | 2020-10-02 | 2021-05-12 |
 | [i'm sorry](https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [i'm sorry](https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B) | 3:44 | 2022-10-21 |  |
 | [I.F.L.Y.](https://open.spotify.com/track/4R9ATNRRl1uth17i5qDCc0) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I.F.L.Y.](https://open.spotify.com/album/5Q4g8NWSgDf0AEE0Vy7bz9) | 2:45 | 2019-08-27\* | 2021-05-12 |
+| [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 | 2023-08-25 |  |
 | [Icy](https://open.spotify.com/track/4IXtbeWsD2DQWnTfjDSMjm) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [The Prelude](https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG) | 2:58 | 2020-07-18 | 2021-05-12 |
 | [IDK](https://open.spotify.com/track/0pJ3IQeSBuX85bikKFnTnH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [IDK](https://open.spotify.com/album/3scanW1YpXbmbcsQxqPgTn) | 2:42 | 2022-05-20 |  |
 | [if u love me](https://open.spotify.com/track/453C9HLS7Z8a0iW015PHEE) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [if u love me](https://open.spotify.com/album/3ETBXoezE0tkwsPf5Go5jS) | 4:14 | 2020-10-09 | 2021-05-12 |
@@ -444,7 +446,9 @@
 | [My Way](https://open.spotify.com/track/67CZNsG3SQ1S8O2BsjTo4R) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [My Way](https://open.spotify.com/album/1l9oYbtssYCsKBChiBseJm) | 3:30 | 2020-07-01 | 2021-05-12 |
 | [Navy Blue](https://open.spotify.com/track/2V5YXks1lzRLR4qx4NTADJ) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Navy Blue](https://open.spotify.com/album/3fa2dzsrpIZBgUniutmj7V) | 2:41 | 2019-09-27 | 2020-05-19 |
 | [Next to Me](https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:14 | 2021-10-25 | 2022-02-04 |
+| [Next To You](https://open.spotify.com/track/69NxIgtkxX3gk9YO5N1p9e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:25 | 2023-08-25 |  |
 | [Night Crawls](https://open.spotify.com/track/4J36A69pQBk0LQ7DWQTbAD) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [Night Crawls](https://open.spotify.com/album/382wpIAZi3e5m7oWuggBfw) | 3:46 | 2022-05-06 |  |
+| [Night Out \(feat\. Molly Payton\)](https://open.spotify.com/track/6Buo6FcEuYbBUrBwJ56rmF) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i), [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Night Out \(feat\. Molly Payton\)](https://open.spotify.com/album/1vv4b1537ILN8gNqnV4D9m) | 3:11 | 2023-08-25 |  |
 | [Nightmare](https://open.spotify.com/track/0jFRhkOuxKuSiXCgr40jdE) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61) | [Nightmare](https://open.spotify.com/album/1DJynIZMk0xKoqGy2MEc8D) | 2:46 | 2020-10-23 |  |
 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7e4KQkp5ZR1gXCAalRjX6B) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/26g9o6rTzxnnrD2VNefpye) | 3:21 | 2019-08-27\* | 2019-11-11 |
 | [NO BAD DAYS \(feat\. Collett\)](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 2:53 | 2023-03-06 |  |

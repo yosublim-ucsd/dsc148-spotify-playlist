@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 181263,
+  "num_followers": 181337,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE2NDg1YmIzMWUxNzIzNWQ5NDIwNzhiYWYxNThjNGQyZTFiYWRk",
+  "snapshot_id": "MCxjMjEyZDUzODEwNWM1ZDdmN2JmNmIwYzg2ZjkxMzkzNjMxNTg1MTJl",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "ALLIGATOR",
         "url": "https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 154730,
       "name": "ELECTRIFY TONIGHT",
       "url": "https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "JUNE",
-        "url": "https://open.spotify.com/album/6S06K8Q4tHG3FGzfx0qQbJ"
-      },
-      "artists": [
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        },
-        {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
-        }
-      ],
-      "duration_ms": 212631,
-      "name": "JUNE",
-      "url": "https://open.spotify.com/track/7J6ksWrraIusOZztXNyFdw"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Dribble (feat. RIZ LA VIE) [Remix]",
         "url": "https://open.spotify.com/album/1H8Ygnlo5pb2cuG9a9n6Hw"
       },
@@ -1047,6 +1027,26 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "JUNE",
+        "url": "https://open.spotify.com/album/6S06K8Q4tHG3FGzfx0qQbJ"
+      },
+      "artists": [
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 212631,
+      "name": "JUNE",
+      "url": "https://open.spotify.com/track/7J6ksWrraIusOZztXNyFdw"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Brave & Afraid",
         "url": "https://open.spotify.com/album/3lvjqdNNA5MufpKO2mTsi6"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Miss Understood",
-        "url": "https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln"
-      },
-      "artists": [
-        {
-          "name": "HYRA",
-          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
-        }
-      ],
-      "duration_ms": 150142,
-      "name": "Miss Understood",
-      "url": "https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/2l44jK6Q5tnQjCUHwmnv28"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 268238,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/4k1cdJCIcMXp2GzBZrI4AD"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Miss Understood",
+        "url": "https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln"
+      },
+      "artists": [
+        {
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+        }
+      ],
+      "duration_ms": 150142,
+      "name": "Miss Understood",
+      "url": "https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "BITTER",
-        "url": "https://open.spotify.com/album/5oFxHBhSxMPLC2dSJufqDw"
-      },
-      "artists": [
-        {
-          "name": "DACEY",
-          "url": "https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0"
-        }
-      ],
-      "duration_ms": 257083,
-      "name": "BITTER",
-      "url": "https://open.spotify.com/track/0DvKlrYXQsoJGotGzsqcbA"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Dotted Red",
         "url": "https://open.spotify.com/album/5TrQ9hmwpTTC8EdzsovHom"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 143157,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/78hgoPBLpMcv7Kth2TgqeA"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "BITTER",
+        "url": "https://open.spotify.com/album/5oFxHBhSxMPLC2dSJufqDw"
+      },
+      "artists": [
+        {
+          "name": "DACEY",
+          "url": "https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0"
+        }
+      ],
+      "duration_ms": 257083,
+      "name": "BITTER",
+      "url": "https://open.spotify.com/track/0DvKlrYXQsoJGotGzsqcbA"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Through Tha Night",
-        "url": "https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2"
-      },
-      "artists": [
-        {
-          "name": "Obed Padilla",
-          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
-        }
-      ],
-      "duration_ms": 196803,
-      "name": "Through Tha Night",
-      "url": "https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Rot",
         "url": "https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 274026,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/5osZESD7WPwkmbUHFpx1XU"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Through Tha Night",
+        "url": "https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "duration_ms": 196803,
+      "name": "Through Tha Night",
+      "url": "https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "BOYFRIEND KILLER",
-        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
-      },
-      "artists": [
-        {
-          "name": "Palmer",
-          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "BOYFRIEND KILLER",
-      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "BREADWINNER",
         "url": "https://open.spotify.com/album/3WNp8J85wMADkAlfzUBJEi"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 198302,
       "name": "BREADWINNER",
       "url": "https://open.spotify.com/track/6JAzDcWwzVHkfAg1ujmist"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "BOYFRIEND KILLER",
+        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
+      },
+      "artists": [
+        {
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "BOYFRIEND KILLER",
+      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Cashmere",
-        "url": "https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 183947,
-      "name": "Cashmere",
-      "url": "https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "PIE",
         "url": "https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Cashmere",
+        "url": "https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "Cashmere",
+      "url": "https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Weather Report",
-        "url": "https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn"
-      },
-      "artists": [
-        {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Fortune Cookie",
-      "url": "https://open.spotify.com/track/7I0MuhVysG7x8yYpLQPS4z"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "long way home",
         "url": "https://open.spotify.com/album/1TZzFg1iyjjJbMJow7lgwG"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 186240,
       "name": "bug bite",
       "url": "https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Weather Report",
+        "url": "https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Fortune Cookie",
+      "url": "https://open.spotify.com/track/7I0MuhVysG7x8yYpLQPS4z"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
-      },
-      "artists": [
-        {
-          "name": "Baseball Game",
-          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
-        }
-      ],
-      "duration_ms": 190346,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/6xXlKONL3IHIipu3RMrk4p"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 234230,
       "name": "Oh! Frenchy",
       "url": "https://open.spotify.com/track/6fnEjJ2pkB8q1zglXLXURh"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds"
+      },
+      "artists": [
+        {
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "He Seems Upset",
+        "url": "https://open.spotify.com/album/3St5xyx3phzZ6eRReZaQQQ"
+      },
+      "artists": [
+        {
+          "name": "The Hails",
+          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
+        }
+      ],
+      "duration_ms": 200021,
+      "name": "Sippin' on the Daylight",
+      "url": "https://open.spotify.com/track/4VzSsGiU16ph3mUiQzBKD3"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "FORTHEWORLD",
         "url": "https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr"
       },
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "He Seems Upset",
-        "url": "https://open.spotify.com/album/3St5xyx3phzZ6eRReZaQQQ"
+        "name": "Thursday Friday",
+        "url": "https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN"
       },
       "artists": [
         {
-          "name": "The Hails",
-          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
+          "name": "Valley Boy",
+          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
         }
       ],
-      "duration_ms": 200021,
-      "name": "Sippin' on the Daylight",
-      "url": "https://open.spotify.com/track/4VzSsGiU16ph3mUiQzBKD3"
+      "duration_ms": 250133,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1683,22 +1699,6 @@
       "duration_ms": 213809,
       "name": "That's How It Goes",
       "url": "https://open.spotify.com/track/11ZrmGVgoVbKE2n3j1WBcu"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Thursday Friday",
-        "url": "https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN"
-      },
-      "artists": [
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU"
     }
   ],
   "unique_name": "omw",

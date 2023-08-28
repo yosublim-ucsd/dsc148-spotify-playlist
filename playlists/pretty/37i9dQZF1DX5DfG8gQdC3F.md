@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charlotte Cardin, Selena Gomez, Zach Bryan and BABY GRAVY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,885 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,910 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [That Song](https://open.spotify.com/track/0wlkFituZp5jCUOjS35UJ1) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [That Song](https://open.spotify.com/album/6r0K1oOph3m0MlqQUQ5Ncy) | 2:41 |
 | 101 | [THREATS](https://open.spotify.com/track/2lz22EPh8EpWfKMgh9k0Wl) | [SPIRITSAVER](https://open.spotify.com/artist/3DbCiwrbBPRRuCo4UvLl8c) | [THREATS](https://open.spotify.com/album/0vpHtSwRR9OyKpMFolKRwt) | 2:34 |
 
-Snapshot ID: `MCw2MDg0NGM3MWU2M2U3MWY2YzFiNzUzZjc2YzZhZWEwYWVmY2RhZTk5`
+Snapshot ID: `MCxmNjI0ZjI5MjYyNzQ5NmNiMDczNGQyNDk2NTczNTY5ZTEwYTkzMTgx`

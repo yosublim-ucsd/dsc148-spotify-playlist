@@ -4,7 +4,7 @@
 
 > Hear how the Super Falcons soar!
 
-230 songs - 13 hr 35 min
+231 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Supporter](https://open.spotify.com/track/4K9HeuRUx1U1MpmE5a2dGP) | [Super Diamono](https://open.spotify.com/artist/7AMycMqOYq99M65svYeKLr), [Omar Pene](https://open.spotify.com/artist/4nnxyRURTnR5bO1rUWMe4N) | [Fari](https://open.spotify.com/album/3wcc9f7uvfpDuuF8zkq9OR) | 4:21 | 2022-11-29 | 2023-07-12 |
 | [Swipe Regs](https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:40 | 2023-07-11 | 2023-07-29 |
 | [Sénégal](https://open.spotify.com/track/0nfzcEx8zmGT9kUAKok6yf) | [Pape Diouf](https://open.spotify.com/artist/54SeJkg1IKFUMgXde8cgaj) | [Ràkkaaju](https://open.spotify.com/album/4FTZdFwrV3O0HK5B6qDnm5) | 6:42 | 2022-11-29 | 2023-07-12 |
-| [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-08-25 |  |
+| [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-08-25 | 2023-08-28 |
+| [Talibans II \- Bonus Track](https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:56 | 2023-08-25 |  |
 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 | 2023-07-11 | 2023-07-29 |
 | [Telemo](https://open.spotify.com/track/4xpxDfHUzG8EIxKLYvlS2n) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3), [Capasta](https://open.spotify.com/artist/0H8TqgST0J8syd64HA4itY) | [Telemo \(feat\. Capasta\)](https://open.spotify.com/album/5dXM6xMvgQr7NcUIkml7p0) | 4:14 | 2022-11-28 | 2022-11-30 |
 | [Ten Toes](https://open.spotify.com/track/3InzBS4QeY209i6YZL1Zxb) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [PeeVolution](https://open.spotify.com/album/1WCOj7IljkfhBCk6kjmeuY) | 3:32 | 2022-03-27 | 2022-11-29 |

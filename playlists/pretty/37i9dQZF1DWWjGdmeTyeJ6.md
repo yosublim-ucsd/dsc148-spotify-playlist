@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: slimdan\. Updates every Wednesday\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,382 likes - 53 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,395 likes - 53 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 52 | [Bellyful](https://open.spotify.com/track/3YpyknW4X52wtKCctSUVBt) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Bellyful](https://open.spotify.com/album/0U5xkWeqVYXT20zsLFJHWX) | 4:23 |
 | 53 | [sleepyhead](https://open.spotify.com/track/3L4UnwOaFrV8NYuQpm0G4y) | [Daphne Jane](https://open.spotify.com/artist/2mUtRX2ziq9cTa7O7MB10S) | [sleepyhead](https://open.spotify.com/album/2rNW22n72F9AaikgC4S4sy) | 3:41 |
 
-Snapshot ID: `MCw5YzA1YzE2ZWJmOGE3NzA4NjI4ZmE3OGU4YjI4OTM2NzBlYTYzMjFl`
+Snapshot ID: `MCwyYzU2ZDExNGNmNTEyNGU2MDYwZmFiOWFmZjBkOGFhNjFjZDU1MGIw`

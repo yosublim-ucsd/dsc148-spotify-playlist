@@ -1,13 +1,117 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127318,
+  "num_followers": 127336,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDM1NywwNzU4MzlkYmVlNDFiOGNhNGNhZTBmYWZhMGQzZGNiMTVmOGJiNjc1",
+  "snapshot_id": "NDM2NiwwMzQ4MDY5MDgzY2IwNjZjNjA5ZjE4ZDkxY2FlODE1YWY1NjFhMjZh",
   "tracks": [
+    {
+      "added_at": "2023-08-24 17:33:59",
+      "album": {
+        "name": "VOLPETRON ASCENDS EP",
+        "url": "https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 187034,
+      "name": "IT ISN'T ME",
+      "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
+    },
+    {
+      "added_at": "2023-08-23 19:14:42",
+      "album": {
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP"
+    },
+    {
+      "added_at": "2023-08-22 16:46:04",
+      "album": {
+        "name": "Land of the Living",
+        "url": "https://open.spotify.com/album/1Ok5c9oP3hWgunQvhIsC0e"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Land of the Living",
+      "url": "https://open.spotify.com/track/5kfnCvlXXJEa9HpFKdSczm"
+    },
+    {
+      "added_at": "2023-08-22 16:46:21",
+      "album": {
+        "name": "Leap Of Faith",
+        "url": "https://open.spotify.com/album/696TSD9rzaKK6hJbSgEPnN"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Leap Of Faith",
+      "url": "https://open.spotify.com/track/3hxpfTyfr2dU55eVGheeDp"
+    },
+    {
+      "added_at": "2023-08-21 17:26:33",
+      "album": {
+        "name": "With U",
+        "url": "https://open.spotify.com/album/3mBwB6v0WiqCNysrWmgJqj"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "Skyelle",
+          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "With U",
+      "url": "https://open.spotify.com/track/2u4dejYhJszoo17e1W2WLW"
+    },
     {
       "added_at": "2023-08-17 17:40:18",
       "album": {
@@ -1035,106 +1139,6 @@
       "duration_ms": 152888,
       "name": "BLEEP BLOOP",
       "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
-    },
-    {
-      "added_at": "2023-06-02 19:23:35",
-      "album": {
-        "name": "Blue Dream",
-        "url": "https://open.spotify.com/album/3roeq4LtJx8ke5ZOFgnqQs"
-      },
-      "artists": [
-        {
-          "name": "SKYLER",
-          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/0KhGlkZxxH5btrK6K3Wlpn"
-    },
-    {
-      "added_at": "2023-06-01 18:28:42",
-      "album": {
-        "name": "Quick Highs",
-        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
-        }
-      ],
-      "duration_ms": 194243,
-      "name": "Quick Highs",
-      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
-    },
-    {
-      "added_at": "2023-05-31 20:00:09",
-      "album": {
-        "name": "Pirate King",
-        "url": "https://open.spotify.com/album/7gBalqzr8I5dFqHpdaxzid"
-      },
-      "artists": [
-        {
-          "name": "Rameses B",
-          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
-        },
-        {
-          "name": "eerie",
-          "url": "https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV"
-        }
-      ],
-      "duration_ms": 217931,
-      "name": "Pirate King",
-      "url": "https://open.spotify.com/track/1NV11avfn4LPdPfncHxqE2"
-    },
-    {
-      "added_at": "2023-05-30 21:33:18",
-      "album": {
-        "name": "Used To The Silence",
-        "url": "https://open.spotify.com/album/1AicQE6OrucDFv8RYhB1Ho"
-      },
-      "artists": [
-        {
-          "name": "ATTLAS",
-          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
-        },
-        {
-          "name": "Jodie Knight",
-          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Used To The Silence",
-      "url": "https://open.spotify.com/track/5DEwagnzNafeFjWNIDNdgy"
-    },
-    {
-      "added_at": "2023-05-29 19:55:08",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        },
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

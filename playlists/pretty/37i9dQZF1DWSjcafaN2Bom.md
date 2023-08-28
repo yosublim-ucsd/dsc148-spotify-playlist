@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > The official playlist for Sex Education\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,769 likes - 259 songs - 16 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,854 likes - 259 songs - 16 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 258 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 259 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MCw3OWE4MmQ0NWZhNDc4NDQ5ODNmMjY2ZGZiZDVmNmJjOWNmMzUxOGFk`
+Snapshot ID: `MCw2ZGMyM2YyZmEzM2MwZWQxYmZjYzFlY2I3NTNmNDQ1MTE5ZGJjZGI0`

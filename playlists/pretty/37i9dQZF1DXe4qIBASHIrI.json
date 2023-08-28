@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Songs for Eleonor en portada. ",
-  "num_followers": 133524,
+  "num_followers": 133619,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzZlN2JhNzYyMjU3ZTg5MjI4ZmY4NGRkMTU0YTkzNTQwMjM1NjVl",
+  "snapshot_id": "MCxmN2IyNDlhNDM0MDdmNWY4MzYzODc2ODg5NjZlODA0NjlkOTM5Njc0",
   "tracks": [
     {
       "added_at": "2023-05-09 00:30:28",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-07-08 21:07:53",
       "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
-    },
-    {
-      "added_at": "2021-07-08 21:07:53",
-      "album": {
         "name": "S\u00ed, Yo Soy",
         "url": "https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 218840,
       "name": "No",
       "url": "https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau"
+    },
+    {
+      "added_at": "2021-07-08 21:07:53",
+      "album": {
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2023-01-27 00:28:09",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
     },
     {
-      "added_at": "2021-07-08 21:07:53",
-      "album": {
-        "name": "Atemahawke",
-        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Host of a Ghost",
-      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
-    },
-    {
       "added_at": "2022-05-10 03:36:05",
       "album": {
         "name": "\u00d3leos",
@@ -619,6 +603,22 @@
       "duration_ms": 230640,
       "name": "Eres",
       "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
+    },
+    {
+      "added_at": "2021-07-08 21:07:53",
+      "album": {
+        "name": "Atemahawke",
+        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "Host of a Ghost",
+      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
     },
     {
       "added_at": "2021-07-08 21:07:53",

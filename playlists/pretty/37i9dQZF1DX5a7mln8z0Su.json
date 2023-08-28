@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 6001,
+  "num_followers": 6009,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDhjMjk4ZmU3MTcwMGZkNTZjMjAwYWNlYzk0NWJmZmNlZWFkOWFm",
+  "snapshot_id": "MCxjMzBhYjUyNmQ4YmE1NzJiZGNjNGY1NDU4ZjM4ZDVjMzg3YmMyMDJi",
   "tracks": [
     {
       "added_at": "2023-08-24 02:21:28",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
+        "name": "Mondegreen",
+        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
+    },
+    {
+      "added_at": "2023-08-24 02:21:28",
+      "album": {
         "name": "White Snow",
         "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 184133,
       "name": "White Snow (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
-    },
-    {
-      "added_at": "2023-08-24 02:21:28",
-      "album": {
-        "name": "Mondegreen",
-        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
-      },
-      "artists": [
-        {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
     },
     {
       "added_at": "2023-08-24 02:21:28",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
+        "name": "I thought it was love.",
+        "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
+      },
+      "artists": [
+        {
+          "name": "Sagong",
+          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "I thought it was love.",
+      "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
+    },
+    {
+      "added_at": "2023-08-24 02:21:28",
+      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -719,34 +735,18 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
-        "name": "I thought it was love.",
-        "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX"
       },
       "artists": [
         {
-          "name": "Sagong",
-          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I thought it was love.",
-      "url": "https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU"
-    },
-    {
-      "added_at": "2023-08-24 02:21:28",
-      "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 176759,
-      "name": "20MIN",
-      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/5ioe7m0R08brQejeajiGJN"
     },
     {
       "added_at": "2023-08-24 02:21:28",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
-        "name": "babyblue",
-        "url": "https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX"
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
       "artists": [
         {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 228120,
-      "name": "babyblue",
-      "url": "https://open.spotify.com/track/5ioe7m0R08brQejeajiGJN"
+      "duration_ms": 176759,
+      "name": "20MIN",
+      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
       "added_at": "2023-08-24 02:21:28",

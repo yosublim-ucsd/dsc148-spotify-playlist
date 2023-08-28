@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 138236,
+  "num_followers": 138321,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWUxYTZhMDNlMmQ0MzZmMjJhNDRlMDhlYWNhZDQxYjIxYzAzOTI4",
+  "snapshot_id": "MCwxZjBkZGQ5OWM3MjljYjU0OWM4NmJlZWQwZWRlZTUwZGJhOTIzMWZj",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Essential Roy Acuff",
-        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
-      },
-      "artists": [
-        {
-          "name": "Roy Acuff",
-          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Tennessee Waltz",
-      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 177626,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Essential Roy Acuff",
+        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/4d03FnqYbILX3cxRgmlsP3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Stars Of The Midnight Range",
+      "url": "https://open.spotify.com/track/4Cn1pNLAXRT9CQxctRYEMx"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 148733,
       "name": "Roly-Poly",
       "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Rockabilly Gold Masters",
-        "url": "https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Hot Rod Lincoln",
-      "url": "https://open.spotify.com/track/2FvpvjHX32OLvendFImN9N"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Cool Water (With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
-      },
-      "artists": [
-        {
-          "name": "Sons of the Pioneers",
-          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
-        }
-      ],
-      "duration_ms": 129133,
-      "name": "Cool Water",
-      "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Folk Songs Of The Hills",
         "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 167600,
       "name": "Dark As A Dungeon",
       "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Cool Water (With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
+      },
+      "artists": [
+        {
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
+        }
+      ],
+      "duration_ms": 129133,
+      "name": "Cool Water",
+      "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Country and Western",
-        "url": "https://open.spotify.com/album/4d03FnqYbILX3cxRgmlsP3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Stars Of The Midnight Range",
-      "url": "https://open.spotify.com/track/4Cn1pNLAXRT9CQxctRYEMx"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 168160,
       "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
       "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Rockabilly Gold Masters",
+        "url": "https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "Hot Rod Lincoln",
+      "url": "https://open.spotify.com/track/2FvpvjHX32OLvendFImN9N"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 152733,
       "name": "Bouquet of Roses",
       "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "The Essential Gene Autry",
-        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
-      },
-      "artists": [
-        {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Jingle Jangle Jingle",
-      "url": "https://open.spotify.com/track/2aBoUu846J4ILDXmgc9tQ3"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+        "name": "The Essential Gene Autry",
+        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
       "artists": [
         {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
         }
       ],
-      "duration_ms": 159760,
-      "name": "Nine Pound Hammer",
-      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
+      "duration_ms": 157733,
+      "name": "Jingle Jangle Jingle",
+      "url": "https://open.spotify.com/track/2aBoUu846J4ILDXmgc9tQ3"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Straighten Up And Fly Right",
-      "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Columbia Country Classics Volume 1: The Golden Age",
         "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 159800,
       "name": "Born to Lose",
       "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Straighten Up And Fly Right",
+      "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Rhythm & Booze",
-        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
-      },
-      "artists": [
-        {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "Beer Drinking Blues",
-      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Presenting Patsy Montana",
         "url": "https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 174053,
       "name": "My Poncho Pony",
       "url": "https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Rhythm & Booze",
+        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
+      },
+      "artists": [
+        {
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+        }
+      ],
+      "duration_ms": 164506,
+      "name": "Beer Drinking Blues",
+      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/4d03FnqYbILX3cxRgmlsP3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 98066,
+      "name": "Headin' Down The Wrong Highway",
+      "url": "https://open.spotify.com/track/6iDIuMXj3LxDERftwGVC2U"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "America's Most Colorful Hillbilly Band",
         "url": "https://open.spotify.com/album/3xnXV1xll55o3m41ykrgeQ"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Nippers 50's-Vol.1",
-        "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee King & His Golden West Cowboys",
-          "url": "https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Slow Poke",
-      "url": "https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Country and Western",
-        "url": "https://open.spotify.com/album/4d03FnqYbILX3cxRgmlsP3"
+        "name": "Nippers 50's-Vol.1",
+        "url": "https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq"
       },
       "artists": [
         {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+          "name": "Pee Wee King & His Golden West Cowboys",
+          "url": "https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31"
         }
       ],
-      "duration_ms": 98066,
-      "name": "Headin' Down The Wrong Highway",
-      "url": "https://open.spotify.com/track/6iDIuMXj3LxDERftwGVC2U"
+      "duration_ms": 180560,
+      "name": "Slow Poke",
+      "url": "https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr"
     }
   ],
   "unique_name": "40s Country",

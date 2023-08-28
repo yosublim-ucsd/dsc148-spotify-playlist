@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Metalocalypse: Dethklok
 
-4,400 songs - 12 day 9 hr 21 min
+4,401 songs - 12 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3820,7 +3820,8 @@
 | [The Shrike](https://open.spotify.com/track/4BwS5ZI5xpRUbe0uAtfefi) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [The Shrike](https://open.spotify.com/album/3P9ZznxjcZkWLoucfVYl1g) | 4:10 | 2023-06-02 | 2023-06-10 |
 | [The Sick, The Dying… And The Dead!](https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:04 | 2022-09-02 | 2022-09-10 |
 | [The Silence](https://open.spotify.com/track/1SY5maTduANlqZIHImpDNQ) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [The Silence](https://open.spotify.com/album/1ThzBFF4yjrPsV1tAkhDD4) | 4:03 | 2022-03-18 | 2022-03-25 |
-| [The Siren](https://open.spotify.com/track/7lC5akqHsJrpW8VU0P7WgD) | [Marc Hudson](https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r) | [The Siren](https://open.spotify.com/album/6hkZLMgOPIFocYvmcdvCcI) | 5:40 | 2023-07-28 |  |
+| [The Siren](https://open.spotify.com/track/4oYbOIuVc5Ir85IyccjoeI) | [Marc Hudson](https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r) | [Starbound Stories](https://open.spotify.com/album/4lHnaZ0IPLJ53TkIWITjSI) | 5:40 | 2023-08-25 |  |
+| [The Siren](https://open.spotify.com/track/7lC5akqHsJrpW8VU0P7WgD) | [Marc Hudson](https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r) | [The Siren](https://open.spotify.com/album/6hkZLMgOPIFocYvmcdvCcI) | 5:40 | 2023-07-28 | 2023-08-28 |
 | [The Snake](https://open.spotify.com/track/03NyWg4jPCJ15oxWTXt31P) | [Ok Goodnight](https://open.spotify.com/artist/0aYVGmEupopeFTcX7aFMIc) | [The Fox and the Bird](https://open.spotify.com/album/4LmZVN6IeL6m3pFYGDDt70) | 3:42 | 2023-06-02 | 2023-06-10 |
 | [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 | 2022-06-10 | 2022-06-17 |
 | [The Spark](https://open.spotify.com/track/5SWbeJgOyelfbTvX0jwTEE) | [Balance Breach](https://open.spotify.com/artist/2sy77oZSFj4hGs76OQIsgK) | [The Spark](https://open.spotify.com/album/118yEhB0lnZOYF9yc84HRb) | 3:51 | 2022-12-09 | 2022-12-17 |

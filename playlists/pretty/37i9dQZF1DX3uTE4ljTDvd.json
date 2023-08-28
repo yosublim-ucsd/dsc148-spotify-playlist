@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Vit\u00f3ria Souza",
-  "num_followers": 113222,
+  "num_followers": 113319,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDczNDFlZjYwODFlZDFmZjZjZjA4M2VhMzg1MzdiNDcwZmEyYTNi",
+  "snapshot_id": "MCxkMTkxMzQ5YjRlNDU2ZTY3NDU3OTBlNzljOGM5M2FiYmVlZmUzYmZj",
   "tracks": [
     {
       "added_at": "2022-12-09 06:14:16",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "Quanto Amor",
+        "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+        }
+      ],
+      "duration_ms": 224550,
+      "name": "Quanto Amor",
+      "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Eu Me Rendo",
         "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
       },
@@ -355,26 +371,6 @@
       "duration_ms": 294661,
       "name": "Eu Me Rendo",
       "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "A Igreja Te Adora",
-        "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Elizeu Alves",
-          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
-        }
-      ],
-      "duration_ms": 269165,
-      "name": "A Igreja Te Adora",
-      "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -395,18 +391,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Quanto Amor",
-        "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
+        "name": "A Igreja Te Adora",
+        "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
       },
       "artists": [
         {
-          "name": "Gabriel Bulian",
-          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Elizeu Alves",
+          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
         }
       ],
-      "duration_ms": 224550,
-      "name": "Quanto Amor",
-      "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
+      "duration_ms": 269165,
+      "name": "A Igreja Te Adora",
+      "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 216131,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Ver Al\u00e9m",
         "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
       },
@@ -499,22 +479,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Deus Te Chama",
-        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
-      },
-      "artists": [
-        {
-          "name": "Samuel Miranda",
-          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
-        }
-      ],
-      "duration_ms": 263918,
-      "name": "Deus Te Chama",
-      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Andar Sobre As \u00c1guas",
         "url": "https://open.spotify.com/album/2hQPAbaRfmLotiqzdMGMuT"
       },
@@ -531,6 +495,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "Deus Te Chama",
+        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
+      },
+      "artists": [
+        {
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
+        }
+      ],
+      "duration_ms": 263918,
+      "name": "Deus Te Chama",
+      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Me Mostra Tua Face",
         "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
       },
@@ -543,26 +523,6 @@
       "duration_ms": 384724,
       "name": "Me Mostra Tua Face",
       "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Sou o Teu Altar",
-        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Sou o Teu Altar",
-      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -599,6 +559,26 @@
       "duration_ms": 288857,
       "name": "Pra Que Eu Fosse Livre",
       "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -687,22 +667,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "D\u00ea Mais uma Chance para o Mundo",
-      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Tu \u00c9s Real",
         "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
       },
@@ -715,6 +679,22 @@
       "duration_ms": 302769,
       "name": "Tu \u00c9s Real",
       "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "D\u00ea Mais uma Chance para o Mundo",
+      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -735,6 +715,42 @@
       "duration_ms": 634368,
       "name": "Meu Grande Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Sou o Teu Altar",
+        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Sou o Teu Altar",
+      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -803,22 +819,6 @@
       "duration_ms": 291967,
       "name": "Eu Vou Mergulhar",
       "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -923,6 +923,26 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "Anotando Pensamentos",
+        "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
+      },
+      "artists": [
+        {
+          "name": "Hellen Camargo",
+          "url": "https://open.spotify.com/artist/1ZIHKYRxb5VPQ4rFbS4e3f"
+        },
+        {
+          "name": "Cefas Music",
+          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
+        }
+      ],
+      "duration_ms": 271668,
+      "name": "Anotando Pensamentos",
+      "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 283235,
       "name": "Tu Me Fascinas - Ao Vivo",
       "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Anotando Pensamentos",
-        "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
-      },
-      "artists": [
-        {
-          "name": "Hellen Camargo",
-          "url": "https://open.spotify.com/artist/1ZIHKYRxb5VPQ4rFbS4e3f"
-        },
-        {
-          "name": "Cefas Music",
-          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
-        }
-      ],
-      "duration_ms": 271668,
-      "name": "Anotando Pensamentos",
-      "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
     },
     {
       "added_at": "2022-12-09 06:14:16",

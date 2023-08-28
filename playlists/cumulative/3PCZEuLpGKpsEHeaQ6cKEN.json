@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: Cedric Gervais",
+  "description": "The biggest Armada tracks of the moment! | Including Dance, Dance-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! | Updated weekly on Friday | Cover: D.O.D and Jax Jones",
   "name": "Armada Today",
   "tracks": [
     {
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 179003,
       "name": "Bodytalk",
       "url": "https://open.spotify.com/track/787zzCh99lLeOvENVzCh91"
@@ -2875,6 +2875,28 @@
     },
     {
       "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/7vD8QVe1YtN6KiuVRZm6ei"
+      },
+      "artists": [
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/63XtZdrI2TXtK6EMVQ7s9D"
+        },
+        {
+          "name": "Human Resource",
+          "url": "https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142101,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/1ANiI74xQ3bcd8VJ9WHf8q"
+    },
+    {
+      "album": {
         "name": "Warehouse Summer",
         "url": "https://open.spotify.com/album/0feKW6G3IxAn97JhLUKXdJ"
       },
@@ -4206,7 +4228,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 144000,
       "name": "Free",
       "url": "https://open.spotify.com/track/5uFQ1MJxo94U9DOEQSlpTP"
@@ -4272,7 +4294,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 209508,
       "name": "Future Call",
       "url": "https://open.spotify.com/track/3BjwyLMgRb29YRwcunLXnN"
@@ -6811,6 +6833,32 @@
     },
     {
       "album": {
+        "name": "Keloke",
+        "url": "https://open.spotify.com/album/35fOnNwB24F4S9a339bh6N"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Bla-De",
+          "url": "https://open.spotify.com/artist/1Xrr08n5RuyrzvLljE1HPa"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172857,
+      "name": "Keloke",
+      "url": "https://open.spotify.com/track/3yNYNsWY72kqDrVS3v8iB2"
+    },
+    {
+      "album": {
         "name": "Kill My Heart",
         "url": "https://open.spotify.com/album/1zz6Y1hMRNyNVc83Cn7E4H"
       },
@@ -7366,7 +7414,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 199000,
       "name": "Let's Really Have Some Fun",
       "url": "https://open.spotify.com/track/7COmInb3InhuD3er4KYrAS"
@@ -7530,7 +7578,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 178153,
       "name": "Lightning Strikes",
       "url": "https://open.spotify.com/track/5HiJ26miqlD523NhP3irc4"
@@ -8041,6 +8089,24 @@
     },
     {
       "album": {
+        "name": "Love Seeking",
+        "url": "https://open.spotify.com/album/0orT76ivSo0n3M5SW5Tm9y"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223128,
+      "name": "Love Seeking",
+      "url": "https://open.spotify.com/track/0taOpWhjPof90UrY0V3HUp"
+    },
+    {
+      "album": {
         "name": "Love Tonight",
         "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
       },
@@ -8445,6 +8511,24 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/7K3yOCbAVYKA0qOWj1U6M6"
+      },
+      "artists": [
+        {
+          "name": "Tom Staar",
+          "url": "https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195850,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/0eWuEjXeEfqmdfgQcVxEZX"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/7DAyAlObwl5f8mcrqFCeWm"
       },
@@ -8708,6 +8792,28 @@
       "duration_ms": 228011,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY"
+    },
+    {
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
     },
     {
       "album": {
@@ -9398,7 +9504,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 148095,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1UktZnwuS1reRmRtli8QS9"
@@ -9758,7 +9864,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 149760,
       "name": "Parallel Universes (That Should Be Me)",
       "url": "https://open.spotify.com/track/469kpGPbPdVljJWbQQp5gS"
@@ -11541,6 +11647,28 @@
     },
     {
       "album": {
+        "name": "Shatterproof (Infinity Ink Remix)",
+        "url": "https://open.spotify.com/album/3sBOCFXDWkYbSSVDaIlbhz"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        },
+        {
+          "name": "Infinity Ink",
+          "url": "https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196416,
+      "name": "Shatterproof - Infinity Ink Remix",
+      "url": "https://open.spotify.com/track/3Ix6jTrfQfGx8BdzJEmZvu"
+    },
+    {
+      "album": {
         "name": "Shatterproof (Sebastian Davidson Remix)",
         "url": "https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu"
       },
@@ -11884,6 +12012,28 @@
       "duration_ms": 161329,
       "name": "So Good",
       "url": "https://open.spotify.com/track/0QXcqNQkP6DctmUv31KG9L"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6sDBmrhOFwAgqs9HK3STCd"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163555,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/7p4dZT5LxcWxyvpJRW2eVw"
     },
     {
       "album": {
@@ -13653,6 +13803,28 @@
     },
     {
       "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/7083s09Camu5zbVWYuzVbo"
+      },
+      "artists": [
+        {
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+        },
+        {
+          "name": "Swedish Red Elephant",
+          "url": "https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187808,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/7axdUvn03RFWqD7mnJGoir"
+    },
+    {
+      "album": {
         "name": "WeDisappear",
         "url": "https://open.spotify.com/album/4w9lDjMD7wopSiYLBVsDgI"
       },
@@ -13738,7 +13910,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 227226,
       "name": "This Time Baby - Knox Mix",
       "url": "https://open.spotify.com/track/26MMrbndhUydR6HUWLq2P3"
@@ -14926,6 +15098,24 @@
       "duration_ms": 231732,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/7KHDWGySveDIUL8uWZrwPV"
+    },
+    {
+      "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167630,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "album": {

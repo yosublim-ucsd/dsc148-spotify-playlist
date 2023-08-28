@@ -3789,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Sacrament",
+        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328200,
+      "name": "Blacken the Cursed Sun",
+      "url": "https://open.spotify.com/track/7gNqCN4EK3B0mnklBp7EqP"
+    },
+    {
+      "album": {
         "name": "The Money Store",
         "url": "https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a"
       },
@@ -7574,6 +7592,24 @@
       "duration_ms": 162003,
       "name": "Decibel Tool",
       "url": "https://open.spotify.com/track/4ePHFEaLIVruU7IG8zKv9O"
+    },
+    {
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Deer Dance",
+      "url": "https://open.spotify.com/track/2SpGXD7EbexndFmmThrnsy"
     },
     {
       "album": {
@@ -11649,6 +11685,24 @@
     },
     {
       "album": {
+        "name": "God Complex",
+        "url": "https://open.spotify.com/album/6Z9q5kePQHDkL7Nh3dpr58"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179473,
+      "name": "God Complex",
+      "url": "https://open.spotify.com/track/7zoF1WCREeVmUgO9J9xlbf"
+    },
+    {
+      "album": {
         "name": "Everyone's Out To Get Me",
         "url": "https://open.spotify.com/album/5CPpHqMwhnMHHhTlf6bfiN"
       },
@@ -14273,6 +14327,24 @@
     },
     {
       "album": {
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "I Hate Myself And Want To Die - 2013 Mix",
+      "url": "https://open.spotify.com/track/1kwsUMjFuePZBNB56gQYoA"
+    },
+    {
+      "album": {
         "name": "Tomboyish Love for Soda Pop and Apple Sweets (Digipak)",
         "url": "https://open.spotify.com/album/4jfA37vKuQQ67J4E0UgynB"
       },
@@ -15080,6 +15152,24 @@
       "duration_ms": 164597,
       "name": "I've Wasted So Much Time",
       "url": "https://open.spotify.com/track/2FNL28i0Q3RkwSYKK1aC42"
+    },
+    {
+      "album": {
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "I-E-A-I-A-I-O",
+      "url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5"
     },
     {
       "album": {
@@ -26106,6 +26196,10 @@
         {
           "name": "David Guetta",
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
         }
       ],
       "date_added": "2021-08-05",
@@ -27876,6 +27970,24 @@
       "duration_ms": 207936,
       "name": "Suffer With Me",
       "url": "https://open.spotify.com/track/3nfj9Fdbl30TvcZE9sU0Vx"
+    },
+    {
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
     },
     {
       "album": {
@@ -30016,6 +30128,24 @@
       "duration_ms": 221533,
       "name": "This Night Has Opened My Eyes - 2011 Remaster",
       "url": "https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD"
+    },
+    {
+      "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159434,
+      "name": "This, If Anything",
+      "url": "https://open.spotify.com/track/1hRRp3uMap1ZfN7ulNal3T"
     },
     {
       "album": {
@@ -32554,6 +32684,24 @@
       "duration_ms": 117393,
       "name": "What Is Real Tho, Really?",
       "url": "https://open.spotify.com/track/5Cxx2TbG5RAm8jkRgFryCr"
+    },
+    {
+      "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106340,
+      "name": "What the Fuck is Happening",
+      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
     },
     {
       "album": {

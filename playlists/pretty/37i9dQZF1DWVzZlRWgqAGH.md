@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Charlotte Day Wilson, Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,139 likes - 108 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,299 likes - 108 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 50 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 |
 | 51 | [Snooze](https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Snooze](https://open.spotify.com/album/3Uabm1UpQehfbNoUczoWRj) | 3:39 |
 | 52 | [These Four Walls \- A COLORS SHOW](https://open.spotify.com/track/1rllCR1VL8FLZN5Q5yvW36) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [These Four Walls \(A COLORS SHOW\)](https://open.spotify.com/album/7Mi30XcnZKWzUCz4ikchvp) | 3:07 |
-| 53 | [Ojalá](https://open.spotify.com/track/7vWo3iSvgtpFtuSZeUAK7a) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/2imTMz6pOueudBTtYwfjVv) | 5:15 |
+| 53 | [Ojalá](https://open.spotify.com/track/5rebri0zyAov1vW9faM3wy) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Pearl](https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5) | 5:15 |
 | 54 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 55 | [Strawberry Skies](https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Strawberry Skies](https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09) | 3:06 |
 | 56 | [Dinner Table](https://open.spotify.com/track/6OrURxfGOLE3u7eswnSMOQ) | [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy), [Lan'do](https://open.spotify.com/artist/2CydGGDCQTBvHCjr3WEY7C) | [Dinner Table](https://open.spotify.com/album/2zo0djfVXZoleI6pGLbaGM) | 3:07 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 107 | [This Too](https://open.spotify.com/track/7E0ck3kZmSzHTsnkXRINPv) | [hxzel](https://open.spotify.com/artist/5vzywo9BwgSd4vK5hz9qA8), [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [This Too](https://open.spotify.com/album/4vtdwsnDNvj0tKjONcqA45) | 2:37 |
 | 108 | [Move](https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [At First Light](https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM) | 3:37 |
 
-Snapshot ID: `MCw1Y2MzNTc5MjBjMDI1NWVmNjYyYzg3Y2Q4NDM4ODg5NDFjOTE1YzQ1`
+Snapshot ID: `MCw0MTU2NDhjNzI3ZjBjNGY4MzE3ZmZkZTNiYWE0ZmZiZjAwMjNhNTYx`

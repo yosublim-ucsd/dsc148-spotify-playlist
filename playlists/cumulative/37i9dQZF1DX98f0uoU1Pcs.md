@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Be Your Own Pet
 
-536 songs - 1 day 4 hr 59 min
+538 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,8 +231,9 @@
 | [Human Condition](https://open.spotify.com/track/2LmFju01RfconFtiqKtmMb) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:50 | 2022-09-30 |  |
 | [Human Crime](https://open.spotify.com/track/1a1Mk18Fh0eba27uRe9fh4) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Human Crime](https://open.spotify.com/album/5t30kYZOvnKjhQPojZMpVi) | 3:07 | 2022-03-14 | 2022-06-11 |
 | [I Am Who I Think You Think I Am](https://open.spotify.com/track/2w1JajdAZoH0tlkABzR1Xv) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [I Am Who I Think You Think I Am](https://open.spotify.com/album/30BPK8DMcoasIQkKiBqwUQ) | 3:37 | 2021-10-07 | 2022-01-08 |
+| [I Believe](https://open.spotify.com/track/1jmHjqrzgwlMTTnJ92QTVW) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [Bite](https://open.spotify.com/album/0iCRXAzQBsJXZyboXxhIuc) | 3:21 | 2023-08-25 |  |
 | [I Believe](https://open.spotify.com/track/2629nMBV0YToedXJ2naMxN) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [I Believe](https://open.spotify.com/album/2NkRRWdf1T2Igxv3Y7wUYE) | 3:21 | 2023-07-14 | 2023-08-10 |
-| [I Believe](https://open.spotify.com/track/329c0F8q0Fra2vx7FQapMw) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [A Daydream](https://open.spotify.com/album/4ukJOsBuVDR6ZWGv6gE9kv) | 3:21 | 2023-07-14 |  |
+| [I Believe](https://open.spotify.com/track/329c0F8q0Fra2vx7FQapMw) | [A Giant Dog](https://open.spotify.com/artist/0PL9vFj7i7uKg74WpLohnG) | [A Daydream](https://open.spotify.com/album/4ukJOsBuVDR6ZWGv6gE9kv) | 3:21 | 2023-07-14 | 2023-08-28 |
 | [I Can't Drive](https://open.spotify.com/track/5D5YcH3dr3b53fi0F8cVsU) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Can't Drive](https://open.spotify.com/album/2G3tEj45E2F3slj2qsVAby) | 4:07 | 2022-03-25 | 2022-08-27 |
 | [I Don't Belong](https://open.spotify.com/track/5cROm5vS1sK0gM3NQL5Gr6) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Don't Belong](https://open.spotify.com/album/4No1gKG4RlwBZEShVdOwUW) | 4:31 | 2021-10-07 | 2022-03-12 |
 | [I Don't Want It](https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Don't Want It](https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm) | 2:15 | 2022-08-26 | 2022-12-10 |
@@ -282,7 +283,8 @@
 | [Let Me Be Normal](https://open.spotify.com/track/4aPd0Ce1cRiE2Yg1fty3HD) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Let Me Be Normal](https://open.spotify.com/album/6RjuNtTTG4MkTaAxxzjZIJ) | 2:22 | 2022-10-07 | 2023-03-11 |
 | [Let's Do Drugs](https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Let's Do Drugs](https://open.spotify.com/album/6dFaxMX3QrHLdUO54jID00) | 2:19 | 2023-08-21 |  |
 | [Let's Go Home](https://open.spotify.com/track/35QZ6puf9YLNQIEpKUQ8Ay) | [The Pink Spiders](https://open.spotify.com/artist/0UREuWUT6wPZoL1Gglwmm0) | [Let's Go Home](https://open.spotify.com/album/3Qg4vX2IV4MOYD25au2PKX) | 3:27 | 2023-06-16 |  |
-| [Liar 2](https://open.spotify.com/track/2tLHtwoJDqprcDpy0yi1T9) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Liar 2](https://open.spotify.com/album/2dcQdji8n4WXzHtJRiAVBi) | 3:00 | 2023-08-25 |  |
+| [Liar 2](https://open.spotify.com/track/2ibIsi1vAP7m1LQXgwwA2i) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Perfect Saviors](https://open.spotify.com/album/2QOtRB75B25O7pn6fAd3o9) | 3:00 | 2023-08-27 |  |
+| [Liar 2](https://open.spotify.com/track/2tLHtwoJDqprcDpy0yi1T9) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Liar 2](https://open.spotify.com/album/2dcQdji8n4WXzHtJRiAVBi) | 3:00 | 2023-08-25 | 2023-08-28 |
 | [Life in the Void](https://open.spotify.com/track/0b8fkzdUPsz0cVmQlTqs71) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [The Town That Cursed Your Name](https://open.spotify.com/album/4bjPoNmAvTSTURJ7PWP0B6) | 2:40 | 2023-04-14 | 2023-07-15 |
 | [Life in the Void](https://open.spotify.com/track/3PZWApSYXue8hahOGd6o2f) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [The Town That Cursed Your Name](https://open.spotify.com/album/2gp5BvkFNT3urcXjtZ22fs) | 2:40 | 2023-03-17 | 2023-04-30 |
 | [Life in the Void](https://open.spotify.com/track/5QiZwq0VvqREkkEKm2m41t) | [The Reds, Pinks and Purples](https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz) | [Life In The Void](https://open.spotify.com/album/7zeWrxLRDsvIC3zLLKrkK6) | 2:40 | 2023-02-13 | 2023-03-27 |

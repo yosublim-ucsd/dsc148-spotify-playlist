@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/6k5zU9adWTem3lqs9WuZqO"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207660,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/41BsDNNAQ4VQLdVaioOjCi"
+    },
+    {
+      "album": {
         "name": "247",
         "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
       },
@@ -1689,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/2ihvj78gSiFQ1oFbAhSnIf"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191470,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/0l9ekYnsiUpnwFb0ErXYRJ"
+    },
+    {
+      "album": {
         "name": "Hallucination",
         "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
       },
@@ -2970,7 +3006,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 117543,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/27feJmQBpvsnW4tC4M7pw4"
@@ -3786,7 +3822,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 175759,
       "name": "Stranger Phase",
       "url": "https://open.spotify.com/track/05vuFinB7jU69klIBP8UyD"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 572517,
+  "num_followers": 573291,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2ZkNDg1NDhmMzI0OTQ4NmYyZjdlM2FjY2E0NGViNDQ4MDk1ZTE2",
+  "snapshot_id": "MCwzYzM4N2QxYWU5YTkzOTRlMDUwZTJhNWNiMjNkMzBhMTVkNzIyZGVk",
   "tracks": [
     {
       "added_at": "2023-08-08 23:03:11",
@@ -227,8 +227,8 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Ranchero",
-        "url": "https://open.spotify.com/album/0AUmIwAzAwUXppgN2c7ceA"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 170840,
-      "name": "Quiero Que Sepas",
-      "url": "https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS"
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -307,8 +307,8 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Ranchero",
+        "url": "https://open.spotify.com/album/0AUmIwAzAwUXppgN2c7ceA"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+      "duration_ms": 170840,
+      "name": "Quiero Que Sepas",
+      "url": "https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "A Ti Madrecita (Remastered)",
-        "url": "https://open.spotify.com/album/2UFHUfVGw8KVqX5j7M2EcR"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Mi Linda Esposa - Remastered",
-      "url": "https://open.spotify.com/track/5yUAv2oI8yzpSYgWtTZus0"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "20 S\u00faper \u00c9xitos, Volumen 1",
         "url": "https://open.spotify.com/album/6Q4i6Sj2iURRD8jiU7n5Ge"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 139626,
       "name": "Miel Amarga",
       "url": "https://open.spotify.com/track/5yRE5GSEa7cg1ApudYMXiS"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "A Ti Madrecita (Remastered)",
+        "url": "https://open.spotify.com/album/2UFHUfVGw8KVqX5j7M2EcR"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Mi Linda Esposa - Remastered",
+      "url": "https://open.spotify.com/track/5yUAv2oI8yzpSYgWtTZus0"
     },
     {
       "added_at": "2023-08-08 23:03:11",

@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 25083,
+  "num_followers": 25120,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmViODhjNTYyNWExMjVkMTMzMWM3ZjZmODU5NDZkZDM3NjU5NGU4",
+  "snapshot_id": "MCw4MTc1ZDVjNzdlM2RlY2UyM2E1ODQ0MGI0MmVlYzNlMjg1ZGI2ZWU5",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Brighter",
-        "url": "https://open.spotify.com/album/0uaNHO3Fg6eX9tAtUBxV8q"
-      },
-      "artists": [
-        {
-          "name": "WYLD",
-          "url": "https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt"
-        },
-        {
-          "name": "SSTEDI",
-          "url": "https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK"
-        }
-      ],
-      "duration_ms": 279272,
-      "name": "Brighter",
-      "url": "https://open.spotify.com/track/44u5ggF8jOttzk8XvPGyik"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/6zDrYIeQaD7KS3HAZst1PJ"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 154624,
       "name": "Radical",
       "url": "https://open.spotify.com/track/1Y9JQO7FizZV8zLuy509I8"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Brighter",
+        "url": "https://open.spotify.com/album/0uaNHO3Fg6eX9tAtUBxV8q"
+      },
+      "artists": [
+        {
+          "name": "WYLD",
+          "url": "https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt"
+        },
+        {
+          "name": "SSTEDI",
+          "url": "https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK"
+        }
+      ],
+      "duration_ms": 279272,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/44u5ggF8jOttzk8XvPGyik"
     },
     {
       "added_at": "2023-02-18 06:22:02",

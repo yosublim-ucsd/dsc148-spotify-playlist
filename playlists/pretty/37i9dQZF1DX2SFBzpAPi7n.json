@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 219380,
+  "num_followers": 219466,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzRmY2RjZjUwMmMyNzU1M2QzZTMyNDgxYjhhZWNlNjgzZTFiNWM0",
+  "snapshot_id": "MCxhZGRlYjBjODMxNWNkNzYxMTNmN2E0YWQzMTAwZWFiMmI4ZGQyYzgx",
   "tracks": [
     {
       "added_at": "2023-08-25 09:05:05",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
+        "name": "surf.",
+        "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 225777,
+      "name": "surf.",
+      "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
+    },
+    {
+      "added_at": "2023-08-25 09:05:05",
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 241692,
       "name": "TOMBOY",
       "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
-    },
-    {
-      "added_at": "2023-08-25 09:05:05",
-      "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     },
     {
       "added_at": "2023-08-25 09:05:05",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
-        "name": "COLORFUL TRAUMA",
-        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
       },
       "artists": [
         {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
         }
       ],
-      "duration_ms": 190000,
-      "name": "I hate you",
-      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     },
     {
       "added_at": "2023-08-25 09:05:05",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
-        "name": "surf.",
-        "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 225777,
-      "name": "surf.",
-      "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
-    },
-    {
-      "added_at": "2023-08-25 09:05:05",
-      "album": {
         "name": "She",
         "url": "https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 194000,
       "name": "She",
       "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
+    },
+    {
+      "added_at": "2023-08-25 09:05:05",
+      "album": {
+        "name": "COLORFUL TRAUMA",
+        "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I hate you",
+      "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
     },
     {
       "added_at": "2023-08-25 09:05:05",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-08-25 09:05:05",
       "album": {
-        "name": "Whale",
-        "url": "https://open.spotify.com/album/33xJchEJEX9MMspAs6JY9n"
+        "name": "MONKEY HOTEL",
+        "url": "https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r"
       },
       "artists": [
         {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
-      "duration_ms": 199360,
-      "name": "Whale",
-      "url": "https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz"
+      "duration_ms": 243000,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

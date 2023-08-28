@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-244 songs - 15 hr 47 min
+246 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Far Away](https://open.spotify.com/track/13HukOYtNe0njFlMNI23kx) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [I Love You](https://open.spotify.com/album/1lr6Bw7U5CK7fVY05suiQx) | 5:09 | 2022-09-27 | 2023-07-13 |
 | [February](https://open.spotify.com/track/5jjhXS0mIHHxyclG71WN8y) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Enlightenment](https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D) | 6:06 | 2023-07-12 |  |
 | [Feed](https://open.spotify.com/track/1a9h5EvYxY6NQNr4aaSXoT) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [SURFACE](https://open.spotify.com/album/11zBjw0fW6jHj8dv8cnOpX) | 3:26 | 2022-09-27 | 2023-07-13 |
+| [Flower Tail](https://open.spotify.com/track/6PorHyMtGAV6tfuY37gGDL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Yonder](https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh) | 5:21 | 2023-08-28 |  |
 | [Flowords](https://open.spotify.com/track/3zVfJCVIVGVRDp77uNavZ4) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [For us, summer is always short](https://open.spotify.com/album/3iIP5u0xiYCdeaipxiuMZl) | 3:58 | 2023-07-12 |  |
 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 | 2023-07-12 |  |
 | [Foolish](https://open.spotify.com/track/6sjr0RGxsvJfn1olYrUBU2) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Discovery](https://open.spotify.com/album/1SP1YJnXmb53GB5rk6p6B6) | 3:05 | 2022-09-27 | 2023-07-13 |
@@ -116,7 +117,7 @@
 | [IN MY DREAMS! \(Prod\. JuNi\)](https://open.spotify.com/track/72MCMC7dgynRoNDX0x9Jrp) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [IN MY DREAMS!](https://open.spotify.com/album/6AZ83ngLsu3Nr45Rr5hr4h) | 4:02 | 2023-07-28 |  |
 | [It is U](https://open.spotify.com/track/0Cw8bY4cpgjQjwaLyy7AsN) | [2Z](https://open.spotify.com/artist/2L2BHp61HkXYMV4SSSQWnQ) | [OST \(Plz Luv Me Again\)](https://open.spotify.com/album/73Lo6xFYboCrcfSGcpFfR7) | 3:28 | 2023-07-12 |  |
 | [It's Snowing \(feat\. Earip\)](https://open.spotify.com/track/0sZzWTxbgVrlnvqrJyQYtk) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n), [earip](https://open.spotify.com/artist/0fYzE4pnLJxBOx7MsMXtAU) | [Ballad](https://open.spotify.com/album/09h2JA0QVqAIVA4cojLHjd) | 5:39 | 2022-09-27 | 2022-12-03 |
-| [Jungle Gym](https://open.spotify.com/track/4AsUeG6OBiXQo9IaSWsozL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C), [Takashi Kashikura](https://open.spotify.com/artist/6wtd4TOkA6vsvmnex0gTtY) | [Jungle Gym](https://open.spotify.com/album/6hKA6V8a72Ld7IxpIveTcR) | 4:21 | 2022-09-27 |  |
+| [Jungle Gym](https://open.spotify.com/track/4AsUeG6OBiXQo9IaSWsozL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C), [Takashi Kashikura](https://open.spotify.com/artist/6wtd4TOkA6vsvmnex0gTtY) | [Jungle Gym](https://open.spotify.com/album/6hKA6V8a72Ld7IxpIveTcR) | 4:21 | 2022-09-27 | 2023-08-28 |
 | [JUNKFOOD](https://open.spotify.com/track/6jyYkIlSOlGr1mgfgFfKQa) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Charming Lips](https://open.spotify.com/artist/7435cB9b8d5SMBEyn5eQi5) | [JUNKFOOD](https://open.spotify.com/album/1Xak11EevsFE0CM0VZvCQu) | 3:30 | 2023-07-12 |  |
 | [Keep Drinking!!](https://open.spotify.com/track/5TkEzSB1hGwj0ytAUZFMfW) | [Drinking Boys and Girls Choir](https://open.spotify.com/artist/1ZBsXLFV4kdFa0yqqNy9kx) | [Keep Drinking](https://open.spotify.com/album/5weZL40Nw4VmHCAAJtBzKv) | 0:56 | 2022-09-27 | 2023-07-13 |
 | [kk](https://open.spotify.com/track/7HYtRBGVkaka9OAvifc7g2) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 2:51 | 2022-09-27 | 2023-07-13 |
@@ -160,6 +161,7 @@
 | [NSPL](https://open.spotify.com/track/1W97gbYBUNa9psFGHiD0vR) | [Hon'z](https://open.spotify.com/artist/4IyGE6MThikFtciEqiUmpS) | [Romance](https://open.spotify.com/album/3fIhZC5e4KaT1zoKVCXOuV) | 3:25 | 2023-07-12 |  |
 | [Odoby](https://open.spotify.com/track/68AifbcSBuojvYc9dzi65u) | [Drinking Boys and Girls Choir](https://open.spotify.com/artist/1ZBsXLFV4kdFa0yqqNy9kx) | [Marriage License](https://open.spotify.com/album/5NZiSXuHXNIFtpECXLSC2u) | 1:13 | 2022-09-27 | 2023-07-13 |
 | [One day, the sky that I stood still and looked at while walking on the crosswalk in front of Dunchon\-dong Station](https://open.spotify.com/track/6b97W8MSTHi58KAqZPUi4V) | [Wings of the ISANG](https://open.spotify.com/artist/000dicAA3QWT6m118rFXLO) | [The Borderline between Hope and Despair](https://open.spotify.com/album/1AvwXkcx9xngszexcHqFN7) | 6:32 | 2022-09-27 | 2023-07-13 |
+| [One, World, Wound](https://open.spotify.com/track/7KBolE43T13MHuiPLYV5x0) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Yonder](https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh) | 5:16 | 2023-08-28 |  |
 | [OOMM \(Out of My Mind\)](https://open.spotify.com/track/1uJbIHMYly6tMAG3jLUg81) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [TRIANGLE](https://open.spotify.com/album/2iVXVWJCilB50DEsG7ou5U) | 3:20 | 2023-07-12 |  |
 | [Over The Dream](https://open.spotify.com/track/6ZPfR4CgG7KWIUb3FsJCcW) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Over The Dream](https://open.spotify.com/album/2nkhiBXj93Q95RXxxHKRjc) | 3:59 | 2023-07-12 |  |
 | [Panic Disorder](https://open.spotify.com/track/19r5OtzsnAAkPB8IlX7ycq) | [Third Stone](https://open.spotify.com/artist/1kduP6BC6njpyCIDLuQyql) | [Psychiatric Hospital](https://open.spotify.com/album/1BfsaCCYtvYL4lByG3SRiH) | 5:44 | 2023-07-12 |  |
@@ -251,6 +253,6 @@
 | [오후에 Heart](https://open.spotify.com/track/15IPM2Wpw0RXuqSs0sYrgd) | [Lee Joo Young](https://open.spotify.com/artist/2gtvKQFx17QdVlBWxN4C5n) | [이주영 Lee Joo Young](https://open.spotify.com/album/4ly25Ewq1QKLykA56eiS3M) | 7:10 | 2022-10-22 |  |
 | [파란꽃](https://open.spotify.com/track/0BTCF906qj8ewD7zeCQZBs) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [BLUE OCEAN](https://open.spotify.com/album/7BJ8X7dT0DraFJAUrELE0M) | 3:27 | 2023-07-12 |  |
 | [혼](https://open.spotify.com/track/63fnEF2CXivwsI11SDzx3u) | [DongYang Gozupa](https://open.spotify.com/artist/5DwF6Eil1DUmqdR4uiY9Qw) | [틈](https://open.spotify.com/album/1yX7JNKgiXKbbrKVQ1Y1ks) | 6:39 | 2022-09-27 | 2023-07-13 |
-| [혼자놀기 Playing Alone](https://open.spotify.com/track/5fNb4E7j0VKDPr4RkzYoKU) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [But, All The Shining Things Are](https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg) | 4:51 | 2023-07-12 |  |
+| [혼자놀기 Playing Alone](https://open.spotify.com/track/5fNb4E7j0VKDPr4RkzYoKU) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [But, All The Shining Things Are](https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg) | 4:51 | 2023-07-12 | 2023-08-28 |
 
 \*This playlist was first scraped on 2022-09-28. Prior content cannot be recovered.

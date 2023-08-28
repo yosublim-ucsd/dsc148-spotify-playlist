@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > Solfeggio Frequencies, Bowls and Chants that strike a chord
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,971 likes - 56 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,067 likes - 56 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 55 | [Dark Waves](https://open.spotify.com/track/00HRepvlnm6qcRKr7benVb) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Brown Noise](https://open.spotify.com/album/4H2iQaVz222z1FExVHOwB2) | 2:20 |
 | 56 | [Ferns](https://open.spotify.com/track/4EILGubj8yeAb5szI5BDVh) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [Ferns](https://open.spotify.com/album/1vM33GBEtobzFLRd1inD01) | 3:32 |
 
-Snapshot ID: `MCxjMjZlN2Y1NWI3ZDZhOWFlOGI1NWE2MzIyZGRiM2YyYzA3NGY2OTZk`
+Snapshot ID: `MCxlZDViYTU4ZWQ1ZGM4ZTYzYzZkMmVmODhjOWQ2ZmJkNjA1MmQ5NGVl`

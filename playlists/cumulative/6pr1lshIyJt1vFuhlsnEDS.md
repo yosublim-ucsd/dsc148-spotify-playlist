@@ -4,7 +4,7 @@
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-110 songs - 9 hr 33 min
+113 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,11 @@
 | [Chromoly \- Rave Edit](https://open.spotify.com/track/75hnRPQSi3di5xgyD4kYAt) | [Ryan Michael Robbins](https://open.spotify.com/artist/1xmsILg4EMNUiaXjx1N43k), [Jason Johnson \(DE\)](https://open.spotify.com/artist/5sCukU3sm3DGmPwAgEZVDc) | [Chromoly](https://open.spotify.com/album/4uWfYVKUhUNcTLnwX3T4IA) | 6:36 | 2023-04-04 | 2023-04-23 |
 | [Coming Up](https://open.spotify.com/track/0ryeJ0EfUfKBrKr3um6b7N) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Coming Up](https://open.spotify.com/album/5UNYVn7uEXX065NEFiq8hB) | 3:22 | 2023-04-04 | 2023-04-23 |
 | [Commodore](https://open.spotify.com/track/7qxbApmii4Mur1PNkJKzpy) | [DJ Dextro](https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO) | [Commodore](https://open.spotify.com/album/2QwPnlYUHp7rRMcGAC5g2f) | 5:29 | 2023-02-11 | 2023-05-27 |
+| [Concentrate](https://open.spotify.com/track/1tp6YXrW3Asw81c1E46l7Z) | [ANDATA](https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ) | [Concentrate](https://open.spotify.com/album/3HBf8xikw8byjdglO8XeaU) | 3:36 | 2023-08-25 |  |
 | [Connect](https://open.spotify.com/track/535uSRzWlJbFHpMdAbBtnm) | [Egbert](https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Connect](https://open.spotify.com/album/60dhkIiXKKLB4lU5NBrWib) | 6:32 | 2022-06-10 | 2023-04-23 |
 | [Cosmic Energy](https://open.spotify.com/track/6mti27ikH1UWHTNNnXk3nz) | [Martin Kinrus](https://open.spotify.com/artist/6cH1l5gG8IZhzMUa1Pg7n9) | [Cosmic Energy](https://open.spotify.com/album/3hd67IAuVMP6Ul3n9CeDLs) | 5:24 | 2023-05-26 |  |
 | [CRESCENDO](https://open.spotify.com/track/3jVmXFC8HWaCGsXDvsD7Ic) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [CRESCENDO](https://open.spotify.com/album/1LPhoR8nlHZ5EuDhwd7go0) | 3:38 | 2023-07-28 |  |
+| [Dimension \- Metodi Hristov Remix](https://open.spotify.com/track/48nJmAnZGslYB2lCDGgXhC) | [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR), [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Dimension \(Metodi Hristov Remix\)](https://open.spotify.com/album/6Bzjcdhyyx17ClUQss05oc) | 5:37 | 2023-08-24 |  |
 | [Don't Ever Stop](https://open.spotify.com/track/1Iebyy2bBApTQeZJI56bb1) | [ONYVAA](https://open.spotify.com/artist/6llL2cv7SDY7OnpzCQu8Pf) | [Valley Of Fire EP](https://open.spotify.com/album/0oF3CeO248mabZaZyn39X5) | 5:06 | 2023-04-22 |  |
 | [Dovercourt](https://open.spotify.com/track/0xEo4BjTKxj6ECkXIiOIu8) | [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci), [Charles D \(USA\)](https://open.spotify.com/artist/4JM9MtRRutmQVooyHnFTD1) | [Dovercourt / Limelight](https://open.spotify.com/album/3sEOAI2fyuXvKBs9mgjFWo) | 4:29 | 2023-02-11 | 2023-04-23 |
 | [Drugs](https://open.spotify.com/track/4SircgaOfDo7vYWXl40vy6) | [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Drugs](https://open.spotify.com/album/5mgmFyQQ7ASwPwgLnyEE6p) | 6:16 | 2023-07-28 |  |
@@ -102,6 +104,7 @@
 | [The Alchemist](https://open.spotify.com/track/5rSLRPEBdRaqDjdbcLZrUo) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Touch The Darkness](https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm) | 6:19 | 2023-05-09 | 2023-07-29 |
 | [The Beginning](https://open.spotify.com/track/0eaEjfLZ4bgi7voFGdDjl8) | [Roberto Capuano](https://open.spotify.com/artist/2XWr3TCJUE6XBKd6BQrAc1) | [When the Lights Go Down](https://open.spotify.com/album/50v574ovT1KSQBsrLU6vbe) | 4:16 | 2023-01-09 | 2023-04-05 |
 | [The Club](https://open.spotify.com/track/3ypZhP8UQrkevv7CxhcaW7) | [Enzo Monza](https://open.spotify.com/artist/1oLfQFyeD8MxJtzwplFGQ3) | [The Club](https://open.spotify.com/album/6mVdfyh2tupWXUgl4syjMz) | 7:09 | 2023-04-04 | 2023-05-10 |
+| [The Sky](https://open.spotify.com/track/6frvmUe3XRVSdFzwRgB6As) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn) | [The Sky](https://open.spotify.com/album/7BbmvQcC3x652TtB9JfJiZ) | 4:19 | 2023-08-25 |  |
 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 | 2022-10-31 | 2023-04-05 |
 | [This Is Why \- Radio Edit](https://open.spotify.com/track/03wdmJSjGOKyPjyDyi174l) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 4:36 | 2023-03-31 |  |
 | [This Side](https://open.spotify.com/track/5lWiuYDeBMaI04EtkCZFIy) | [Latour](https://open.spotify.com/artist/2DtfdK4QWxre8RDwL0j8Y7) | [Dimension](https://open.spotify.com/album/1xJFAfVPUNLw1LoRZKKjfT) | 3:50 | 2023-07-28 |  |

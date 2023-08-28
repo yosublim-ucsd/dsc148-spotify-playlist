@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Baroness",
-  "num_followers": 7923,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: The Callous Daoboys",
+  "num_followers": 7944,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "Mjc5NSxmNTFiYjY5MmUxYTUwYjEwN2U1NzAwNTAzZTg4NmQwZDU0ZGM4YTRj",
+  "snapshot_id": "MjgwNCxmZDk3ODExZDJhZTc2ZmUzZDc0MDVjYjAzMGJkYzUwNzhkMWUxYWI3",
   "tracks": [
+    {
+      "added_at": "2023-08-25 20:13:33",
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE"
+    },
+    {
+      "added_at": "2023-08-25 20:13:53",
+      "album": {
+        "name": "Waco Jesus",
+        "url": "https://open.spotify.com/album/2l85mznhWykjvZEu4Lg5MS"
+      },
+      "artists": [
+        {
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+        }
+      ],
+      "duration_ms": 221034,
+      "name": "Waco Jesus",
+      "url": "https://open.spotify.com/track/261sv3XoqTlv3TyrdL74bT"
+    },
+    {
+      "added_at": "2023-08-25 20:13:59",
+      "album": {
+        "name": "Chewing The Scenery",
+        "url": "https://open.spotify.com/album/3Mhb8bZlvkUh7QsofvZvkE"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        }
+      ],
+      "duration_ms": 229877,
+      "name": "Chewing The Scenery",
+      "url": "https://open.spotify.com/track/5BsNWRk2n7MCzm1IeugikG"
+    },
+    {
+      "added_at": "2023-08-25 20:14:04",
+      "album": {
+        "name": "Like Humans",
+        "url": "https://open.spotify.com/album/5Am5Rtlr8jlv1VQiZKakk5"
+      },
+      "artists": [
+        {
+          "name": "Myrkur",
+          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
+        }
+      ],
+      "duration_ms": 286130,
+      "name": "Like Humans",
+      "url": "https://open.spotify.com/track/3VU17hDUROfzZzHrxpiFPK"
+    },
+    {
+      "added_at": "2023-08-25 20:14:10",
+      "album": {
+        "name": "Collider",
+        "url": "https://open.spotify.com/album/5U6toqNWDTsxJiYhn1ZUVy"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221097,
+      "name": "Collider",
+      "url": "https://open.spotify.com/track/6IlKPlDPBvx11UFTfdaxOt"
+    },
+    {
+      "added_at": "2023-08-25 20:14:20",
+      "album": {
+        "name": "Under The Gun",
+        "url": "https://open.spotify.com/album/3Jo11kwZg9wtMh3dQNE2Ti"
+      },
+      "artists": [
+        {
+          "name": "Mouth for War",
+          "url": "https://open.spotify.com/artist/2XWmtvXZ0FHiRT9PGzGPaF"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Under The Gun",
+      "url": "https://open.spotify.com/track/2cfPWvkroCsCVi21YZhtUi"
+    },
     {
       "added_at": "2023-08-18 19:20:12",
       "album": {

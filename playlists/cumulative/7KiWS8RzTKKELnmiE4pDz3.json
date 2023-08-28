@@ -1221,6 +1221,28 @@
     },
     {
       "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223173,
+      "name": "Big Tipper (feat. Lil Keed)",
+      "url": "https://open.spotify.com/track/2lcJWXNJUjjL3ycoZrpU2g"
+    },
+    {
+      "album": {
         "name": "bird allegiance",
         "url": "https://open.spotify.com/album/41KloqSqoao47CGew9Pucl"
       },
@@ -1272,6 +1294,24 @@
       "duration_ms": 128000,
       "name": "Black",
       "url": "https://open.spotify.com/track/45k6Qexq0mavylcq1hNl4G"
+    },
+    {
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137197,
+      "name": "black mirror",
+      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
     },
     {
       "album": {
@@ -1624,6 +1664,28 @@
       "duration_ms": 132724,
       "name": "Can\u2019t stop it",
       "url": "https://open.spotify.com/track/1HqKqHh5iKQzz9LhQDlbgm"
+    },
+    {
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Duke",
+          "url": "https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Cartier Gucci Scarf (feat. Lil Duke)",
+      "url": "https://open.spotify.com/track/3TWSar7EBNWZVeEWqDSjpw"
     },
     {
       "album": {
@@ -2472,7 +2534,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 195057,
       "name": "Fake_0pps",
       "url": "https://open.spotify.com/track/68QWCdMKUq5JxN1R4Hj9BP"
@@ -5358,7 +5420,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 127947,
       "name": "My Way Out",
       "url": "https://open.spotify.com/track/0qiWnrmi9yBjfqyPbYXPMi"
@@ -5482,7 +5544,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 199253,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/3haDFkQVqexHwwxVNU5BHh"
@@ -7846,7 +7908,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 147120,
       "name": "Still Young Pablo",
       "url": "https://open.spotify.com/track/779gweiUnT5FA3QsKyOMNY"

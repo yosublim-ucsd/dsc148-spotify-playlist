@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 8793,
+  "num_followers": 8833,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTk2YmZkZTNiNzY3NzI1ZTBmY2U1N2M1ODY2YTE1ZTUyYmMzNGZi",
+  "snapshot_id": "MCwxZjE1YzZiYmQyYzI0OWYwZWNkZGQ3MzgzMmYwMDM4NGJmMzE3NTFj",
   "tracks": [
     {
       "added_at": "2022-10-01 04:00:00",
@@ -783,18 +783,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw"
+        "name": "Club Classics Vol. One",
+        "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
       "artists": [
         {
-          "name": "Frisco Kid",
-          "url": "https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7"
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
         }
       ],
-      "duration_ms": 191533,
-      "name": "Bashment Time Featuring Mr. Easy",
-      "url": "https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP"
+      "duration_ms": 219521,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/7fis60AUmZQI3maiU08Whd"
     },
     {
       "added_at": "2022-10-01 04:00:00",
@@ -815,22 +819,18 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
-        "name": "Club Classics Vol. One",
-        "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/4rrHtMfMBvqAKdbJtvh2Aw"
       },
       "artists": [
         {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        },
-        {
-          "name": "Caron Wheeler",
-          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+          "name": "Frisco Kid",
+          "url": "https://open.spotify.com/artist/3FQmk40XXoExWndDiA28I7"
         }
       ],
-      "duration_ms": 219521,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/7fis60AUmZQI3maiU08Whd"
+      "duration_ms": 191533,
+      "name": "Bashment Time Featuring Mr. Easy",
+      "url": "https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP"
     },
     {
       "added_at": "2022-10-01 04:00:00",

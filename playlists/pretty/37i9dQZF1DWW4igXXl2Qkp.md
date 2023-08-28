@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:6UIpxj5ggLdOebFVCOxVax">Loe Shimmy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,801 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,834 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Most Hated](https://open.spotify.com/track/6O51f6U6GckhpPh5ztbpy5) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Most Hated](https://open.spotify.com/album/3vc7nRCD7qypDXAYYsAvgW) | 2:15 |
 | 75 | [love & confessions'](https://open.spotify.com/track/5flonwLJEWr9vN6fvgCa8W) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [Westin Wednesday, Vol\. 1](https://open.spotify.com/album/5bkJWzrbEomB0Vjvp8zMc2) | 2:34 |
 
-Snapshot ID: `MCw2NjE3NDVkN2U2YTAyNDBkMmQ3NzBhNzcxNzhjNmZmMjU5MmE5MzEx`
+Snapshot ID: `MCwwNDRiYjA5NDNlYjQ1NjRhOGJhODc4MTc4NWM4YzUyZjNhNzA4MzU0`

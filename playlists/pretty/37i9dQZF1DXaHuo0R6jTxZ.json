@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 91574,
+  "num_followers": 91649,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY5MjdhZTc3MjE1ODc0ODY3YmQwZGIxY2IxN2ZmNmYzMjcyMzZm",
+  "snapshot_id": "MCxhNzNmOTYzODRkZWU3MGEwMzNlMWJlYzA1MGJjNGY4NGVhNGZjMzI0",
   "tracks": [
     {
       "added_at": "2023-04-12 09:27:22",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Shafouha Wsaroo Yegolou",
-        "url": "https://open.spotify.com/album/6EXBTvB64hbk2R6jtFiaVu"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 315612,
-      "name": "Lail Wa Raed Wa Reeh",
-      "url": "https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Ba'Ad Al Hob",
         "url": "https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 349333,
       "name": "Kolak Ala Badhak - Remastered 2000",
       "url": "https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "Shafouha Wsaroo Yegolou",
+        "url": "https://open.spotify.com/album/6EXBTvB64hbk2R6jtFiaVu"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 315612,
+      "name": "Lail Wa Raed Wa Reeh",
+      "url": "https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT"
     },
     {
       "added_at": "2023-04-12 09:27:22",

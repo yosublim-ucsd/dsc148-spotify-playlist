@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Carmen S\u00e1nchez Viamonte. Updates every Wednesday.",
-  "num_followers": 171988,
+  "num_followers": 171991,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjUyMzQ5ZmIzMzkxMzk2ZWM0MDU0NGExZDAzODk5ODIwODg5N2Ux",
+  "snapshot_id": "MCw1NzBmYjhmYTVjNmY0ZTAxMzExOWQzNTZiMjVlNjZiYzhkMTNhZDFl",
   "tracks": [
     {
       "added_at": "2023-08-23 02:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
+        "name": "La Vida No Quiso",
+        "url": "https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz"
+      },
+      "artists": [
+        {
+          "name": "Tania Matus",
+          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "La Vida No Quiso",
+      "url": "https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w"
+    },
+    {
+      "added_at": "2023-08-23 02:00:00",
+      "album": {
         "name": "Enloqueciendo",
         "url": "https://open.spotify.com/album/0RlEealRuqOhv0HvnAryUF"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "La Vida No Quiso",
-        "url": "https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz"
+        "name": "lo-fi",
+        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
       },
       "artists": [
         {
-          "name": "Tania Matus",
-          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+          "name": "Martin Oliver",
+          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
         }
       ],
-      "duration_ms": 216373,
-      "name": "La Vida No Quiso",
-      "url": "https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w"
+      "duration_ms": 175392,
+      "name": "lo-fi",
+      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
     },
     {
       "added_at": "2023-08-23 02:00:00",
@@ -455,22 +471,6 @@
       "duration_ms": 232888,
       "name": "Astronauta",
       "url": "https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk"
-    },
-    {
-      "added_at": "2023-08-23 02:00:00",
-      "album": {
-        "name": "lo-fi",
-        "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
-      },
-      "artists": [
-        {
-          "name": "Martin Oliver",
-          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
-        }
-      ],
-      "duration_ms": 175392,
-      "name": "lo-fi",
-      "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
     },
     {
       "added_at": "2023-08-23 02:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "5 MENOS 1",
-        "url": "https://open.spotify.com/album/084qaHSkGU48GZYMAXjqrI"
-      },
-      "artists": [
-        {
-          "name": "Mike Castillo",
-          "url": "https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn"
-        }
-      ],
-      "duration_ms": 127428,
-      "name": "5 MENOS 1",
-      "url": "https://open.spotify.com/track/7vXuhIc6HzLoR2ix3OGDkS"
-    },
-    {
-      "added_at": "2023-08-23 02:00:00",
-      "album": {
         "name": "Lima",
         "url": "https://open.spotify.com/album/30BjQ0xLtsv7YK53zd2V0e"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 138111,
       "name": "Lima",
       "url": "https://open.spotify.com/track/0UyCfILValztCwbv4DmbXX"
+    },
+    {
+      "added_at": "2023-08-23 02:00:00",
+      "album": {
+        "name": "5 MENOS 1",
+        "url": "https://open.spotify.com/album/084qaHSkGU48GZYMAXjqrI"
+      },
+      "artists": [
+        {
+          "name": "Mike Castillo",
+          "url": "https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn"
+        }
+      ],
+      "duration_ms": 127428,
+      "name": "5 MENOS 1",
+      "url": "https://open.spotify.com/track/7vXuhIc6HzLoR2ix3OGDkS"
     },
     {
       "added_at": "2023-08-23 02:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-23 02:00:00",
       "album": {
-        "name": "Sal\u00ed de la Depresi\u00f3n y Escrib\u00ed Esto (Interludio)",
-        "url": "https://open.spotify.com/album/0m8dJFFCwAqRG3aGLa7VWU"
-      },
-      "artists": [
-        {
-          "name": "nxrman",
-          "url": "https://open.spotify.com/artist/7KvzBXGXq71C78oD80xJyK"
-        }
-      ],
-      "duration_ms": 314437,
-      "name": "Una Flor Reverberada (Revienta)",
-      "url": "https://open.spotify.com/track/5fhnqS7dG8RmA1y2bg4CNA"
-    },
-    {
-      "added_at": "2023-08-23 02:00:00",
-      "album": {
         "name": "TANTO PA' TI",
         "url": "https://open.spotify.com/album/6o6TomNm8GemmUvEEKCt7b"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 136941,
       "name": "TANTO PA' TI",
       "url": "https://open.spotify.com/track/22mzH72Vzv9W8G7yLIteUP"
+    },
+    {
+      "added_at": "2023-08-23 02:00:00",
+      "album": {
+        "name": "Sal\u00ed de la Depresi\u00f3n y Escrib\u00ed Esto (Interludio)",
+        "url": "https://open.spotify.com/album/0m8dJFFCwAqRG3aGLa7VWU"
+      },
+      "artists": [
+        {
+          "name": "nxrman",
+          "url": "https://open.spotify.com/artist/7KvzBXGXq71C78oD80xJyK"
+        }
+      ],
+      "duration_ms": 314437,
+      "name": "Una Flor Reverberada (Revienta)",
+      "url": "https://open.spotify.com/track/5fhnqS7dG8RmA1y2bg4CNA"
     },
     {
       "added_at": "2023-08-23 02:00:00",

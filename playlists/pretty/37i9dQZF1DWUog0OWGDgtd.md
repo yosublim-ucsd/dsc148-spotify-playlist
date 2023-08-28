@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain]
 
 > Music from "Bungo Stray Dogs"\. 文豪ストレイドッグスの楽曲を1つのプレイリストで。©朝 霧 カフ カ・春 河 35 /ＫＡＤＯＫＡＷＡ /文 豪 ストレイドッ グス 製 作 委 員 会
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,643 likes - 42 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,863 likes - 42 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain]
 | 12 | [Lily](https://open.spotify.com/track/6Bt6EU8gtqCCiz18Z19mfn) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [Lily](https://open.spotify.com/album/1tdJ768pqkxcgBMF5x4vFI) | 4:23 |
 | 13 | [セツナの愛](https://open.spotify.com/track/6GppTDfQGwYVT8N9mtUQA8) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [セツナの愛](https://open.spotify.com/album/13NAoduFqCvDmjIwMTEmE2) | 4:33 |
 | 14 | [少年よ月下を疾走れ](https://open.spotify.com/track/5l9WqRgUmREg9mdWbpc22e) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/2s6eZiT6SBTPeZfJwAJ80f) | 4:09 |
-| 15 | [永遠未遂にグッド・バイ](https://open.spotify.com/track/36SgeorHbES9eOOY8NwmnE) | [太宰 治 \(CV.宮野真守\)](https://open.spotify.com/artist/67V4M0fBokE5dqx4vavdqS) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/2s6eZiT6SBTPeZfJwAJ80f) | 5:02 |
+| 15 | [永遠未遂にグッド･バイ](https://open.spotify.com/track/36SgeorHbES9eOOY8NwmnE) | [太宰 治 \(CV.宮野真守\)](https://open.spotify.com/artist/67V4M0fBokE5dqx4vavdqS) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/2s6eZiT6SBTPeZfJwAJ80f) | 5:02 |
 | 16 | [我が理想に曇り無し](https://open.spotify.com/track/5rQ4drLda1l8wUgEf48pKD) | [国木田独歩 \(CV.細谷佳正\)](https://open.spotify.com/artist/7JsyA31PxY0jlkTnKqeXQo) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/2s6eZiT6SBTPeZfJwAJ80f) | 4:08 |
 | 17 | [迷宮解読遊戯](https://open.spotify.com/track/7MyGZBcRDb0BD71AeGx4mr) | [江戸川乱歩 \(CV.神谷浩史\)](https://open.spotify.com/artist/6vwWl8ohtbAARIBiZOU7fm) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ弐](https://open.spotify.com/album/5kfFWC3c5VVnnmkFpWFCnY) | 3:35 |
 | 18 | [正直者ノ流儀](https://open.spotify.com/track/6McL6ypFd4WI7QLwHZvYRs) | [宮沢賢治 \(CV.花倉洸幸\)](https://open.spotify.com/artist/2X4vlzBxddHPXWCgATySCY) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ弐](https://open.spotify.com/album/5kfFWC3c5VVnnmkFpWFCnY) | 4:40 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain]
 | 41 | [絵描き歌わん!](https://open.spotify.com/track/752XNVzyiVE1ioO0K6bpQh) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス わん!』オリジナルサウンドトラック](https://open.spotify.com/album/6mmm5LpRB6z1t1r6vMeX0r) | 0:43 |
 | 42 | [名前を呼ぶよ \- 中島 敦ver.](https://open.spotify.com/track/3MMRow9uU0N6ZsOrWKbD3s) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス わん!』オリジナルサウンドトラック](https://open.spotify.com/album/6mmm5LpRB6z1t1r6vMeX0r) | 1:30 |
 
-Snapshot ID: `MCw2OTg5NDZmYWZkMjFmODMzYjRiZWQ0ODY5MmJhNzIwOWVkMzc3NWUz`
+Snapshot ID: `MCw4MzBjNjJlMjY4NGQyYWM1YTg5ZWFkYzBkYTBhYjdmNDg0NDFiMjcy`

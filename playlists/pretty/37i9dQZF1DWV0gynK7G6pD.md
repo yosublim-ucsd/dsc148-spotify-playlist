@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Carlos Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,861 likes - 81 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,917 likes - 81 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 80 | [I\. Vieni pur con i tuoi vezzi \(Aria\)](https://open.spotify.com/track/3XfpewRJ4KvQ8r4dA0SDo5) | [Giacomo Antonio Perti](https://open.spotify.com/artist/6sZSlSuz1VT79Pk3zb5IeZ), [Núria Rial](https://open.spotify.com/artist/03wei1gynOPSup8cERYf0Z), [Kammerorchester Basel](https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU), [Julia Schröder](https://open.spotify.com/artist/4DG29R8HPrxjYuKLi9sCK5) | [I\. Vieni pur con i tuoi vezzi \(Aria\)](https://open.spotify.com/album/5y0fihOWYiRccFIlMRE1Dl) | 3:13 |
 | 81 | [Lysning](https://open.spotify.com/track/7CYvfDXSx31vq5lqzU3Cjd) | [Per Nørgård](https://open.spotify.com/artist/10mzFTtKhsuZr5RWNBnJoY), [Bergen Philharmonic Orchestra](https://open.spotify.com/artist/7vkBnXHIvNilYcrqt9RJLD), [John Storgårds](https://open.spotify.com/artist/2TizFx4bl9T8efWXNuxWor) | [Per Nørgård: Orchestral Works](https://open.spotify.com/album/6T1wolovAdXQ2uuubPb81Q) | 4:53 |
 
-Snapshot ID: `MCwyM2I1YTM0NjdmNDJlMGY4YTE5YzczZWZhMWVjYWY4YzMwYWViMzZk`
+Snapshot ID: `MCxmZjFjOGMyOTMwMjg4OTdlMGM4NGU2YWVmMTQzMDE2OWNjMzIyMDhj`

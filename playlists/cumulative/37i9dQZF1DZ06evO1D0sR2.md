@@ -4,7 +4,7 @@
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-63 songs - 7 hr 22 min
+64 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [Reminder \(feat\. Deon Kipping\)](https://open.spotify.com/track/1GvFbttWSIESrZMbp4P4EG) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 9:04 | 2023-04-13 |  |
 | [Reminder \(feat\. Deon Kipping\)](https://open.spotify.com/track/3OsYeDXVHI7X3MeSlJUuh1) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Reminder \(feat\. Deon Kipping\) / You Deserve It \(feat\. Cecily\)](https://open.spotify.com/album/6mvkpq8gQ8DOKBjXQKHWlh) | 9:04 | 2023-04-02 | 2023-04-14 |
 | [Shift This Place](https://open.spotify.com/track/4DpG8THfiN5O5DqoZZpg5E) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 4:25 | 2023-05-09 |  |
+| [Spirit of God \- Live](https://open.spotify.com/track/6eusWdCP7AoqckgTPHGV02) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr) | 8:09 | 2023-08-27 |  |
 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 | 2023-04-02 |  |
-| [That Great Name \(feat\. Benita Jones\)](https://open.spotify.com/track/5vnPYDqATa2EDOAsgD3YCQ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 7:30 | 2023-04-02 |  |
+| [That Great Name \(feat\. Benita Jones\)](https://open.spotify.com/track/5vnPYDqATa2EDOAsgD3YCQ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 7:30 | 2023-04-02 | 2023-08-28 |
 | [The Blood](https://open.spotify.com/track/5GDfnpfmkgYuvCVcY116XE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ) | 6:12 | 2023-04-02 | 2023-07-30 |
 | [The Blood Still Works](https://open.spotify.com/track/49dXY7y9z30gIu1m24xHOQ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl) | 6:18 | 2023-04-10 | 2023-04-21 |
 | [The Victor](https://open.spotify.com/track/7yXoXKRxqVSuFWETqc7SfI) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [After This](https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ) | 6:17 | 2023-05-25 | 2023-08-10 |

@@ -617,24 +617,6 @@
     },
     {
       "album": {
-        "name": "Sunny Side Story",
-        "url": "https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj"
-      },
-      "artists": [
-        {
-          "name": "Haruka Tomatsu",
-          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
-        }
-      ],
-      "date_added": "2021-12-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289800,
-      "name": "Q&A \u30ea\u30b5\u30a4\u30bf\u30eb!",
-      "url": "https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929"
-    },
-    {
-      "album": {
         "name": "Q&A \u30ea\u30b5\u30a4\u30bf\u30eb!",
         "url": "https://open.spotify.com/album/6JlcyYhNoypfXeE97971JJ"
       },
@@ -668,6 +650,24 @@
       "duration_ms": 291173,
       "name": "Q&A \u30ea\u30b5\u30a4\u30bf\u30eb!",
       "url": "https://open.spotify.com/track/527y4BcUGW70G9ErnX3cai"
+    },
+    {
+      "album": {
+        "name": "Sunny Side Story",
+        "url": "https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj"
+      },
+      "artists": [
+        {
+          "name": "Haruka Tomatsu",
+          "url": "https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289800,
+      "name": "Q&A \u30ea\u30b5\u30a4\u30bf\u30eb\uff01",
+      "url": "https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929"
     },
     {
       "album": {

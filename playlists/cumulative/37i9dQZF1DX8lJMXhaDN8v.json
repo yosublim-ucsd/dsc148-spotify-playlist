@@ -23,7 +23,7 @@
     },
     {
       "album": {
-        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 20",
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 20",
         "url": "https://open.spotify.com/album/4ExBBEh7XOE4fCa235q7Vr"
       },
       "artists": [
@@ -123,7 +123,7 @@
     },
     {
       "album": {
-        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 02",
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 02",
         "url": "https://open.spotify.com/album/6SlAae04OWbU43IuUIJjuP"
       },
       "artists": [
@@ -395,7 +395,7 @@
     },
     {
       "album": {
-        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 15",
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 15",
         "url": "https://open.spotify.com/album/00kDDwpIxitug5XdBKAHTK"
       },
       "artists": [
@@ -420,7 +420,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 246866,
-      "name": "SAI*KOU\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5",
+      "name": "SAI\uff0aKOU\u30b9\u30bf\u30fc\u30c8\u30c0\u30c3\u30b7\u30e5",
       "url": "https://open.spotify.com/track/6WdtcRSf1YCS2lVwbsX2Yu"
     },
     {
@@ -543,7 +543,7 @@
     },
     {
       "album": {
-        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 08",
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 08",
         "url": "https://open.spotify.com/album/5TNnSZAxjxJpi3xWzBqdhQ"
       },
       "artists": [
@@ -691,7 +691,7 @@
     },
     {
       "album": {
-        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 02",
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 02",
         "url": "https://open.spotify.com/album/6SlAae04OWbU43IuUIJjuP"
       },
       "artists": [
@@ -983,28 +983,6 @@
     },
     {
       "album": {
-        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8!Re:Dive PRICONNE CHARACTER SONG 08",
-        "url": "https://open.spotify.com/album/5TNnSZAxjxJpi3xWzBqdhQ"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30ca (CV: \u9ad9\u91ce\u9ebb\u7f8e)",
-          "url": "https://open.spotify.com/artist/3k1Y9dGckHE2jGPbLKfEjC"
-        },
-        {
-          "name": "\u30ca\u30ca\u30ab (CV: \u4f73\u6751\u306f\u308b\u304b)",
-          "url": "https://open.spotify.com/artist/6OYDLIjpxqu4AjHuvX81VC"
-        }
-      ],
-      "date_added": "2023-02-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207346,
-      "name": "\u30b5\u30a4\u30c4\u30e8\u3067\u3057\u3087\u3001\u3067\u3057\u3087?",
-      "url": "https://open.spotify.com/track/2ucZXE9PiUB9eM9ore8Qzj"
-    },
-    {
-      "album": {
         "name": "PRINCESS CONNECT! Re:Dive CHARACTER SONG ALBUM VOL.2",
         "url": "https://open.spotify.com/album/1ztW1LI86uJciImEgQCueR"
       },
@@ -1024,6 +1002,28 @@
       "duration_ms": 207346,
       "name": "\u30b5\u30a4\u30c4\u30e8\u3067\u3057\u3087\u3001\u3067\u3057\u3087?",
       "url": "https://open.spotify.com/track/3NnqYQKT6h5EjZbtCkOL27"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30b3\u30cd\u30af\u30c8\uff01Re:Dive PRICONNE CHARACTER SONG 08",
+        "url": "https://open.spotify.com/album/5TNnSZAxjxJpi3xWzBqdhQ"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30ca (CV: \u9ad9\u91ce\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3k1Y9dGckHE2jGPbLKfEjC"
+        },
+        {
+          "name": "\u30ca\u30ca\u30ab (CV: \u4f73\u6751\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/6OYDLIjpxqu4AjHuvX81VC"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207346,
+      "name": "\u30b5\u30a4\u30c4\u30e8\u3067\u3057\u3087\u3001\u3067\u3057\u3087\uff1f",
+      "url": "https://open.spotify.com/track/2ucZXE9PiUB9eM9ore8Qzj"
     },
     {
       "album": {

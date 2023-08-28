@@ -4,11 +4,11 @@
 
 > Let the songs speak\. Cover: Fridayy
 
-546 songs - 1 day 4 hr 41 min
+547 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$weet n $our](https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [$weet n $our](https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ) | 3:03 | 2023-02-10 |  |
+| [$weet n $our](https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [$weet n $our](https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ) | 3:03 | 2023-02-10 | 2023-08-28 |
 | [1 of 1](https://open.spotify.com/track/2FGEr83UuG786LOFYo9y8g) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [1 of 1](https://open.spotify.com/album/4ZwQPZ5FM0OxkmGu2HaY9I) | 2:40 | 2022-07-08 | 2022-07-16 |
 | [143](https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me](https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j) | 2:12 | 2023-06-16 |  |
 | [1st Lady](https://open.spotify.com/track/4KNry6US58GNebuDaiYfHD) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [1st Lady](https://open.spotify.com/album/79gSwusnEUZB9tRNuiTVa5) | 3:12 | 2023-07-14 |  |
@@ -401,6 +401,7 @@
 | [Riptide](https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Riptide](https://open.spotify.com/album/2X6hFgJeoj4kOeSRaz731u) | 3:14 | 2023-03-31 |  |
 | [Risky](https://open.spotify.com/track/2ZSLDwHIXr5yWI9d3iZr7R) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Risky](https://open.spotify.com/album/0tskRa5YB9FfD0z9K6JvWF) | 2:39 | 2023-02-17 | 2023-03-25 |
 | [ROLE MODEL](https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:14 | 2022-07-08 | 2022-08-06 |
+| [RollBack](https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9) | [FIFTEENAFTER](https://open.spotify.com/artist/3c6du62jWz8v0jfv24Eye3), [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [RollBack](https://open.spotify.com/album/298ehDYTKeUklRTxCBjgdc) | 2:19 | 2023-08-25 |  |
 | [ROLLING STONE](https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:42 | 2022-08-05 |  |
 | [Runaway](https://open.spotify.com/track/4IQqF0UvqlzWaLcG22sOBG) | [Cheyenne Lavene](https://open.spotify.com/artist/6QTh5CJex4f7euCPUavWg0) | [Runaway](https://open.spotify.com/album/4kBzRDlKvKYD7zsWr9MVIR) | 2:25 | 2021-12-15 | 2022-07-20 |
 | [Runner Up](https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62) | [Tejy](https://open.spotify.com/artist/4mOvX6YYTQ1qdtNWPS6rmk) | [Runner Up](https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg) | 2:52 | 2023-06-02 |  |

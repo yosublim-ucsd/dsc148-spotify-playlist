@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 257145,
+  "num_followers": 257170,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzFjOGRiZTdmYmNlMDVhMDc4YWMwNDEyYjlhZTMwZmE4YmViYmFi",
+  "snapshot_id": "MCwxN2ExNDRiMzBjNmRmZGZlNWUzMWY4Y2E1NDYwNmRhZGJkOTgzNWNk",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -763,6 +763,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Swell - I'm Sorry",
+        "url": "https://open.spotify.com/album/2x6NNjyxtvDBDOv0ywIISX"
+      },
+      "artists": [
+        {
+          "name": "glophia",
+          "url": "https://open.spotify.com/artist/7lcdFVqeMSCGdl2qTHaNJY"
+        },
+        {
+          "name": "Shiloh",
+          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
+        }
+      ],
+      "duration_ms": 157338,
+      "name": "Swell - I'm Sorry",
+      "url": "https://open.spotify.com/track/2k17VNNGHPmnGwXZ8KdfPt"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
@@ -775,6 +795,22 @@
       "duration_ms": 232312,
       "name": "Yellow Dust",
       "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu"
+      },
+      "artists": [
+        {
+          "name": "Oddysseys",
+          "url": "https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd"
+        }
+      ],
+      "duration_ms": 145208,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -795,22 +831,6 @@
       "duration_ms": 259423,
       "name": "Fleur",
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu"
-      },
-      "artists": [
-        {
-          "name": "Oddysseys",
-          "url": "https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd"
-        }
-      ],
-      "duration_ms": 145208,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -899,18 +919,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Do You Feel",
-        "url": "https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy"
       },
       "artists": [
         {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Do You Feel",
-      "url": "https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba"
+      "duration_ms": 144000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -927,6 +947,22 @@
       "duration_ms": 218000,
       "name": "Brother",
       "url": "https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Do You Feel",
+        "url": "https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Do You Feel",
+      "url": "https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -979,38 +1015,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "EP 2",
-        "url": "https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4"
-      },
-      "artists": [
-        {
-          "name": "Only Emily",
-          "url": "https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT"
-        }
-      ],
-      "duration_ms": 170404,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "They Came Along",
-        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
-      },
-      "artists": [
-        {
-          "name": "Haulm",
-          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
-        }
-      ],
-      "duration_ms": 357894,
-      "name": "They Came Along",
-      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Backwater",
         "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
       },
@@ -1027,18 +1031,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy"
+        "name": "They Came Along",
+        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
       },
       "artists": [
         {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+          "name": "Haulm",
+          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy"
+      "duration_ms": 357894,
+      "name": "They Came Along",
+      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     }
   ],
   "unique_name": "Mellow Mood",

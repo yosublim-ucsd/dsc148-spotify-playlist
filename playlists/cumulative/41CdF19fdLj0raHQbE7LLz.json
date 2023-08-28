@@ -846,7 +846,7 @@
       },
       "artists": [
         {
-          "name": "Justus",
+          "name": "Just____us",
           "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
         }
       ],
@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Frantic Residents 07: Mixed by Proteus & Cally Gage",
+        "url": "https://open.spotify.com/album/5evU7ueYozNKI2kQ2BElKY"
+      },
+      "artists": [
+        {
+          "name": "Nick Sentience",
+          "url": "https://open.spotify.com/artist/6aM2tfrQgmTXX2tSOPvVf9"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494716,
+      "name": "Ride The Groove - Turmoil Mix",
+      "url": "https://open.spotify.com/track/4pNWFOBCXpBJwByKqjKSjv"
+    },
+    {
+      "album": {
         "name": "Remixes Cim",
         "url": "https://open.spotify.com/album/7nti4u4VbWHVKR2lUUQll6"
       },
@@ -2290,6 +2308,24 @@
       "duration_ms": 191363,
       "name": "Switch - Alex Stein Remix",
       "url": "https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/2zuaArGyOI7e1ERgjFs3kA"
+      },
+      "artists": [
+        {
+          "name": "Joris Turenhout",
+          "url": "https://open.spotify.com/artist/26etBHL5uUWbA3GVQSeafT"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280298,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/0wP18L2hS6exmiqccmjILe"
     },
     {
       "album": {
@@ -2678,6 +2714,24 @@
       "duration_ms": 212000,
       "name": "Unconscious Spirit",
       "url": "https://open.spotify.com/track/3o6hkK5B7OUNwEpIbY4Wjm"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/2zuaArGyOI7e1ERgjFs3kA"
+      },
+      "artists": [
+        {
+          "name": "Joris Turenhout",
+          "url": "https://open.spotify.com/artist/26etBHL5uUWbA3GVQSeafT"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239998,
+      "name": "Unholy",
+      "url": "https://open.spotify.com/track/13KIO3VJGCKKnsGgtYrhCc"
     },
     {
       "album": {

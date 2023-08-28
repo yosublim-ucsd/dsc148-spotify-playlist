@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmQ1ZGExYWMwMjE0ZjEzYjk0NGEwZWYwNjY2OWQyNTVhZDQwNThj",
+  "snapshot_id": "MCw2MDU2MGM3ZDhkNzA0ZTUzMTdmNjkxY2RjOWFjZDc4YTI0YzVjY2Qy",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Alvo Mais Que a Neve",
-        "url": "https://open.spotify.com/album/1lNIMwGKQvjDEiLZmrVU3b"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Alvo Mais Que a Neve",
-      "url": "https://open.spotify.com/track/3X2oSv1BdYiIu7ri3z0eRM"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Ra\u00edzes, Vol. 2",
         "url": "https://open.spotify.com/album/7uYZsVg4IutCgA8jHRjpq7"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 306720,
       "name": "O Rei Est\u00e1 Voltando",
       "url": "https://open.spotify.com/track/6kwrJVwxCqQaDqxLEWUFeN"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Alvo Mais Que a Neve",
+        "url": "https://open.spotify.com/album/1lNIMwGKQvjDEiLZmrVU3b"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Alvo Mais Que a Neve",
+      "url": "https://open.spotify.com/track/3X2oSv1BdYiIu7ri3z0eRM"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Louvor VII",
-        "url": "https://open.spotify.com/album/78tY0SGJ9jUGHVjsCfLjpX"
-      },
-      "artists": [
-        {
-          "name": "Vencedores por Cristo",
-          "url": "https://open.spotify.com/artist/0IDEJU0SdlmJOMtybtEoiT"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Brilha, Jesus (Shine, Jesus, Shine)",
-      "url": "https://open.spotify.com/track/2fwlsdMG2VbFa9K7Vg8MAP"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Da Eternidade",
         "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 325311,
       "name": "Faz Brilhar / Brilha Jesus",
       "url": "https://open.spotify.com/track/12xfJEKVa4WQRmpVykKXAY"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Louvor VII",
+        "url": "https://open.spotify.com/album/78tY0SGJ9jUGHVjsCfLjpX"
+      },
+      "artists": [
+        {
+          "name": "Vencedores por Cristo",
+          "url": "https://open.spotify.com/artist/0IDEJU0SdlmJOMtybtEoiT"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Brilha, Jesus (Shine, Jesus, Shine)",
+      "url": "https://open.spotify.com/track/2fwlsdMG2VbFa9K7Vg8MAP"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 396266,
+      "name": "Noite Santa (Cantique de Noel)",
+      "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "\u00d3, Vinde, Adoremos",
         "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 195000,
       "name": "\u00d3, Vinde, Adoremos",
       "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 396266,
-      "name": "Noite Santa (Cantique de Noel)",
-      "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
     },
     {
       "added_at": "2022-12-09 06:26:14",

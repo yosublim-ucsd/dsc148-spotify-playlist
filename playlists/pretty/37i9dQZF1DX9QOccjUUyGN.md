@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Froid
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,552 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,560 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [7CostaKent](https://open.spotify.com/track/4du1RlRnKlACvHxqyN8ytL) | [CostaKent](https://open.spotify.com/artist/2J0fKCb5PnAZscvbznaEK3), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Bivolt](https://open.spotify.com/artist/5XOJZxLsdUWz78pUpE665i) | [7CostaKent](https://open.spotify.com/album/5PjxaQdBJ0Ui3Pi1YWyDl3) | 4:47 |
 | 75 | [Multiplica](https://open.spotify.com/track/7ezywxyTeabkjR7ZMNkeYZ) | [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Multiplica](https://open.spotify.com/album/34uoXwUOT5k3bG5z0RGFKu) | 3:31 |
 
-Snapshot ID: `MCw3MjNkOGI2ZjNmODg5Nzg0NjFiODYyYTZiOTM4NTEyYzBmMjRhOTAw`
+Snapshot ID: `MCwxMjYzMjRhMWVlMWE1NGNlYjIwYzcwYjM0YTUyZGE1NDJlYjhkOTdi`

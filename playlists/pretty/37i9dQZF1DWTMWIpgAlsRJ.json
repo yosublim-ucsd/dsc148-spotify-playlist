@@ -1,12 +1,12 @@
 {
   "description": "The 100 greatest FIFA tracks of all time",
-  "num_followers": 276541,
+  "num_followers": 276695,
   "original_name": "Ultimate FIFA Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjY3MDc1Y2RhNzdmYTM2OGJmMDM2NzNmYTFmMjFmYjQwZGZiNTVj",
+  "snapshot_id": "MCw1Zjg4MjBmN2Y0NjA5Y2Y5MWJjNTBlNGE5NDg0MmZlMWQ5ZDFiMTk3",
   "tracks": [
     {
       "added_at": "2022-11-07 18:00:00",
@@ -587,22 +587,6 @@
       "duration_ms": 159800,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
-    },
-    {
-      "added_at": "2022-11-07 18:00:00",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
-      },
-      "artists": [
-        {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Cobrastyle",
-      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
     },
     {
       "added_at": "2022-11-07 18:00:00",
@@ -1623,6 +1607,26 @@
       "duration_ms": 219280,
       "name": "Dy-Na-Mi-Tee",
       "url": "https://open.spotify.com/track/4dc1G54hSmSL5HQuQvRNA1"
+    },
+    {
+      "added_at": "2022-11-07 18:00:00",
+      "album": {
+        "name": "Soft Machine (U.S. Version)",
+        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Mad Cobra",
+          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "Cobrastyle (feat. Mad Cobra)",
+      "url": "https://open.spotify.com/track/0aWfhiilJXkCxnoxdhv7qF"
     },
     {
       "added_at": "2022-11-07 18:00:00",

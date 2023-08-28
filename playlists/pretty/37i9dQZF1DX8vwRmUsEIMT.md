@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,479 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,499 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/track/6cU5urANuL1UYaBg5DNre4) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Number 9 \(feat\. Lil Yachty\)](https://open.spotify.com/album/0J6bZG0J9hhW3SijDBKw1B) | 3:12 |
 | 80 | [Be With You Tonight](https://open.spotify.com/track/4J3UQnSs1gWUfhh0u8o2bi) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Be With You Tonight](https://open.spotify.com/album/6S8E2IvaHwp1wrHPGVacPK) | 2:55 |
 
-Snapshot ID: `MCwxNDcyMWE1NGYyNWQ2NTc4N2YyYmZkYWRmYjYzNzcxNjdiZDFiNzJk`
+Snapshot ID: `MCxlMWFkMDU5MzRlNGZhN2I2OWVhN2ZkODBhZDg2YjgzZDBiNjEzNjQ5`

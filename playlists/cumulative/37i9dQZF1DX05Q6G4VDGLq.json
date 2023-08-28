@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 274008,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1SJEahRau4sLSZlPDl2bnr"
@@ -5093,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "In Love In Vain",
+        "url": "https://open.spotify.com/album/2Qhxe4KQqMY6vXjimJjLt2"
+      },
+      "artists": [
+        {
+          "name": "Jon Belle",
+          "url": "https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178374,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/51T3UIxjT7JFCa65LJF9u8"
+    },
+    {
+      "album": {
         "name": "In Space And Time",
         "url": "https://open.spotify.com/album/6bye45GDWXbdltU1GRSP7g"
       },
@@ -6242,6 +6260,24 @@
       "duration_ms": 232748,
       "name": "Like Naomi",
       "url": "https://open.spotify.com/track/4iSBCmDWlP2Pp30uDg34vZ"
+    },
+    {
+      "album": {
+        "name": "Lily-white",
+        "url": "https://open.spotify.com/album/7kvJgDGsdssa8n3Rv5HFNI"
+      },
+      "artists": [
+        {
+          "name": "Southside Trio",
+          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142586,
+      "name": "Lily-white",
+      "url": "https://open.spotify.com/track/68Pfz62lgw8iaV4r9rAiC5"
     },
     {
       "album": {
@@ -9176,7 +9212,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 282708,
       "name": "Sea Smoke",
       "url": "https://open.spotify.com/track/0eZ6EQ8ekEGV8URaCmS7ah"
@@ -9536,7 +9572,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 216973,
       "name": "Sleep, My Child",
       "url": "https://open.spotify.com/track/31HUwIYISANIQX4zxVMu4M"
@@ -10130,7 +10166,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 481301,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS"
@@ -11109,6 +11145,24 @@
     },
     {
       "album": {
+        "name": "They Said",
+        "url": "https://open.spotify.com/album/4QyebMBRUiYTbyOIrZux8t"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218469,
+      "name": "They Said",
+      "url": "https://open.spotify.com/track/5fxlpxZnDeUP8Gc98bwVs1"
+    },
+    {
+      "album": {
         "name": "They Say It's Wonderful",
         "url": "https://open.spotify.com/album/0tFhwfBAFd6GL9Om8jLOPj"
       },
@@ -12078,6 +12132,24 @@
       "duration_ms": 259803,
       "name": "Whereabouts",
       "url": "https://open.spotify.com/track/3Rdu91Lo2IV8DGtRxDGLUW"
+    },
+    {
+      "album": {
+        "name": "Whispering Skies",
+        "url": "https://open.spotify.com/album/2y9gWuPjoSrvNrWDOFb3aH"
+      },
+      "artists": [
+        {
+          "name": "Douglas Ruby Trio",
+          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206486,
+      "name": "Whispering Skies",
+      "url": "https://open.spotify.com/track/1paocj4BrXXNPAuCBXUYwB"
     },
     {
       "album": {

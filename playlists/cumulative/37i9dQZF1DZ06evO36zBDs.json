@@ -614,7 +614,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 227573,
       "name": "Sweet Holic",
       "url": "https://open.spotify.com/track/5jIa584Dyf6YzMFUsdWRkq"
@@ -1310,6 +1310,24 @@
       "duration_ms": 269040,
       "name": "\u51ac\u7a7a\u82b1\u706b",
       "url": "https://open.spotify.com/track/6eArFjBGBVdWlCwOIZzmi5"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30a4\u30bb\u30ab\u30a4",
+        "url": "https://open.spotify.com/album/0TfV1UDf1V32Ec211rFduu"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260265,
+      "name": "\u541b\u304c\u3044\u308b\u3068",
+      "url": "https://open.spotify.com/track/7jo8v5u93nrxjfaFIBvUYC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Subtronics & HOL!
 
-394 songs - 22 hr 29 min
+395 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Meant To Be Lonely](https://open.spotify.com/track/2VaOJEHR9U3Q6SlG8TZN5j) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Meant To Be Lonely](https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f) | 3:34 | 2023-03-17 |  |
 | [MEGAZORD](https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY), [Chrishira Perrier](https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2) | [Bangers\[7\].Zip](https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV) | 2:43 | 2022-11-11 |  |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-09-02 |  |
-| [Miles Away](https://open.spotify.com/track/5xWvRtgAxkWUZPGXqICbpx) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Miles Away](https://open.spotify.com/album/61LAgCOZQZed5PumpbhcaO) | 2:30 | 2023-02-17 |  |
+| [Miles Away](https://open.spotify.com/track/5xWvRtgAxkWUZPGXqICbpx) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Miles Away](https://open.spotify.com/album/61LAgCOZQZed5PumpbhcaO) | 2:30 | 2023-02-17 | 2023-08-28 |
 | [Mind & Body](https://open.spotify.com/track/38eFNBOXqh8FEWOkY8z9wF) | [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX), [Ethan Glass](https://open.spotify.com/artist/1QcqiiBi6BHRzdgDHvpqu9) | [Mind & Body](https://open.spotify.com/album/5zB87dPnUtR5Ch6JVQ3Ubh) | 4:09 | 2022-03-04 | 2022-07-28 |
 | [Mind & Body](https://open.spotify.com/track/6YsT7iK2yKRamjUI0Gt5Rh) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1) | [Mind & Body](https://open.spotify.com/album/3U9B2nWzZpMT8vWoVv1VSx) | 2:35 | 2022-03-18 | 2023-04-01 |
 | [Mind Pluck](https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Mind Pluck](https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz) | 4:30 | 2023-08-04 |  |
@@ -334,6 +334,7 @@
 | [SINEWS](https://open.spotify.com/track/32C0l5Z0RDRfvWVlLXwOhr) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [SINEWS](https://open.spotify.com/album/2KEkqeDzoEy0EgSIbhpnT0) | 2:36 | 2023-01-20 |  |
 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 | 2022-06-10 |  |
 | [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 | 2022-06-17 | 2023-05-13 |
+| [Solar Plexus](https://open.spotify.com/track/3cxiRmB1lT8GGrUup4E0w9) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Quorum EP](https://open.spotify.com/album/5wWG3D6UgzV13EFjSrOVjP) | 3:45 | 2023-08-25 |  |
 | [Solastalgia](https://open.spotify.com/track/3MpqvGAioZvFXQBkXuyjp6) | [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP) | [Solastalgia](https://open.spotify.com/album/0s1DT18ce8ZvQZMoUAUi93) | 3:36 | 2021-12-17 | 2022-09-05 |
 | [Someone Else](https://open.spotify.com/track/5bYBWSSkQF9QO0vSAbK3Cm) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Someone Else](https://open.spotify.com/album/66SfUtpfmIJQ5ntfPUlqKE) | 3:28 | 2022-09-30 | 2023-05-21 |
 | [Something Real](https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1) | [Prismata \(Dark\)](https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht) | 3:05 | 2022-06-24 | 2023-08-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 49397,
+  "num_followers": 49573,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWVmYTAwNjRkM2EzOTllZjBmMTczYWNjOTk3Mjk2YmE4ZTcwNDAx",
+  "snapshot_id": "MCwxNDE2MThjYjU5ZjJiMmQxM2FiNWJhM2Y1YzhhN2RkNzA5YTdjY2Fi",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Field Recordings",
-        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 468927,
-      "name": "Tracking Aeroplanes",
-      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Morning Sun, Rising Tide",
         "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Field Recordings",
+        "url": "https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 468927,
+      "name": "Tracking Aeroplanes",
+      "url": "https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Clearly",
-        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
-      },
-      "artists": [
-        {
-          "name": "Hillside Recording",
-          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
-        }
-      ],
-      "duration_ms": 223486,
-      "name": "Clearly",
-      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 264604,
       "name": "We Have Overcome",
       "url": "https://open.spotify.com/track/5kw4tBzuZmZpmlzDHjAuAn"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Clearly",
+        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
+      },
+      "artists": [
+        {
+          "name": "Hillside Recording",
+          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
+        }
+      ],
+      "duration_ms": 223486,
+      "name": "Clearly",
+      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Albatross EP",
-        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
-      },
-      "artists": [
-        {
-          "name": "Port Blue",
-          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "Into The Sea",
-      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
         "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 210480,
       "name": "The Sun Will Rise",
       "url": "https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Albatross EP",
+        "url": "https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H"
+      },
+      "artists": [
+        {
+          "name": "Port Blue",
+          "url": "https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Into The Sea",
+      "url": "https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "At the Table",
+        "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
+      },
+      "artists": [
+        {
+          "name": "Creative Culture Co.",
+          "url": "https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 217088,
+      "name": "Just Come",
+      "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Yoga Practice & Mindfulness Music",
         "url": "https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 165914,
       "name": "Water Harp",
       "url": "https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "At the Table",
-        "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
-      },
-      "artists": [
-        {
-          "name": "Creative Culture Co.",
-          "url": "https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi"
-        },
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 217088,
-      "name": "Just Come",
-      "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Nineveh (Live)",
+        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 268347,
+      "name": "Nineveh - Live",
+      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "You Are Good",
         "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 358373,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Nineveh (Live)",
-        "url": "https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 268347,
-      "name": "Nineveh - Live",
-      "url": "https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "High Level Praise",
-        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 198504,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 218129,
       "name": "How Much You Mean To Me",
       "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "High Level Praise",
+        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 198504,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "All the Bright Lights",
-        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
-      },
-      "artists": [
-        {
-          "name": "All The Bright Lights",
-          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
-        }
-      ],
-      "duration_ms": 330226,
-      "name": "Wilora Lake",
-      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Eternal Jetlag",
         "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 236172,
       "name": "I Go",
       "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "All the Bright Lights",
+        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
+      },
+      "artists": [
+        {
+          "name": "All The Bright Lights",
+          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
+        }
+      ],
+      "duration_ms": 330226,
+      "name": "Wilora Lake",
+      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
       },
       "artists": [
         {
-          "name": "Carinthia",
-          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
+          "name": "Radiant City Music",
+          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
+        },
+        {
+          "name": "Devin Strasser",
+          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
         }
       ],
-      "duration_ms": 411933,
-      "name": "Every Mountain View",
-      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
+      "duration_ms": 338504,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep"
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s"
       },
       "artists": [
         {
-          "name": "Radiant City Music",
-          "url": "https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk"
-        },
-        {
-          "name": "Devin Strasser",
-          "url": "https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI"
+          "name": "Carinthia",
+          "url": "https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU"
         }
       ],
-      "duration_ms": 338504,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
+      "duration_ms": 411933,
+      "name": "Every Mountain View",
+      "url": "https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
-        "url": "https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb"
-      },
-      "artists": [
-        {
-          "name": "SpiritFit Music",
-          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
-        }
-      ],
-      "duration_ms": 346773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 352318,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Spirit Stretch (For Christian Yoga, Relaxation and Massage)",
+        "url": "https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb"
+      },
+      "artists": [
+        {
+          "name": "SpiritFit Music",
+          "url": "https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew"
+        }
+      ],
+      "duration_ms": 346773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "A Search for Somewhere Else",
-        "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
-      },
-      "artists": [
-        {
-          "name": "Daniel Jorgensen",
-          "url": "https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ"
-        }
-      ],
-      "duration_ms": 152444,
-      "name": "A Dream Familiar",
-      "url": "https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Survive These Seas",
         "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 221626,
       "name": "Survive These Seas",
       "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "A Search for Somewhere Else",
+        "url": "https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Jorgensen",
+          "url": "https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ"
+        }
+      ],
+      "duration_ms": 152444,
+      "name": "A Dream Familiar",
+      "url": "https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
-      },
-      "artists": [
-        {
-          "name": "In Cathedrals",
-          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Undress My Heart",
         "url": "https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 225961,
       "name": "Undress My Heart",
       "url": "https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
+      },
+      "artists": [
+        {
+          "name": "In Cathedrals",
+          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1623,18 +1623,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Keeping track of the human race",
-        "url": "https://open.spotify.com/album/5hX85Wm3Ul9fZOZGxNRntt"
+        "name": "Even Here Love Comes",
+        "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
       "artists": [
         {
-          "name": "Hybrid Leisureland",
-          "url": "https://open.spotify.com/artist/2BKGxQhaUFgd8xAIkd5yb4"
+          "name": "Todd McVicker",
+          "url": "https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo"
+        },
+        {
+          "name": "Teresa Bitoy",
+          "url": "https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2"
         }
       ],
-      "duration_ms": 363627,
-      "name": "Water Position",
-      "url": "https://open.spotify.com/track/0xewZVFTSDqOri45S4MuSq"
+      "duration_ms": 267933,
+      "name": "Even Here Love Comes - Acoustic",
+      "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1675,26 +1679,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Even Here Love Comes",
-        "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
-      },
-      "artists": [
-        {
-          "name": "Todd McVicker",
-          "url": "https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo"
-        },
-        {
-          "name": "Teresa Bitoy",
-          "url": "https://open.spotify.com/artist/7gFgT2PK2y409Y3Im8B8g2"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Even Here Love Comes - Acoustic",
-      "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "I Won't Let Go",
         "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 232293,
       "name": "I Won't Let Go",
       "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Keeping track of the human race",
+        "url": "https://open.spotify.com/album/5hX85Wm3Ul9fZOZGxNRntt"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Leisureland",
+          "url": "https://open.spotify.com/artist/2BKGxQhaUFgd8xAIkd5yb4"
+        }
+      ],
+      "duration_ms": 363627,
+      "name": "Water Position",
+      "url": "https://open.spotify.com/track/0xewZVFTSDqOri45S4MuSq"
     }
   ],
   "unique_name": "The Good Cup",

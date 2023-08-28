@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,437 songs - 3 day 4 hr 30 min
+1,438 songs - 3 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,7 +651,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-25 | 2022-12-28 |
 | [Jingle Bells \(with The Ken Lane Singers\)](https://open.spotify.com/track/4MXjNlvbzwCMWHrxlya9pW) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Ken Lane Singers](https://open.spotify.com/artist/0TPlgv7eySSCChc2vKRIml) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:36 | 2022-12-25 | 2022-12-27 |
 | [Joe Pesci](https://open.spotify.com/track/2k6HLTTqqCDnymPqfiALHM) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:02 | 2021-11-07 | 2021-11-13 |
-| [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Gaule, Vol.1](https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP) | 2:39 | 2023-01-15 |  |
+| [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Gaule, Vol.1](https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP) | 2:39 | 2023-01-15 | 2023-08-28 |
 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-05-31 | 2023-06-25 |
 | [Jolie madame \(feat\. Ronisia\)](https://open.spotify.com/track/6gblTHN7eKFPvm4XxnYhl8) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Calypso](https://open.spotify.com/album/74eWRDlJkcHLp3A8kfs1ek) | 3:04 | 2021-06-06 | 2021-08-19 |
 | [Jolie madame \(feat\. Ronisia\)](https://open.spotify.com/track/2uj7OACDZUQIvAfKAwtHES) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Jolie madame \(feat\. Ronisia\)](https://open.spotify.com/album/15NtYVzzYDWhZM0QGRGhSQ) | 3:05 | 2021-04-21 | 2021-06-06 |
@@ -1237,6 +1237,7 @@
 | [Sous la Simond](https://open.spotify.com/track/4k8Gzga8HkGjxyIqXta7qm) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 3:35 | 2022-06-04 | 2022-06-10 |
 | [Soutien \(feat\. Fianso et Heuss L’Enfoiré\)](https://open.spotify.com/track/5xjaGRUx4TMcFoLNcPuWHr) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Fianso](https://open.spotify.com/artist/5mtaU1uKbVJpkeaBWK8JfQ), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Aimons\-Nous Vivants](https://open.spotify.com/album/74LPtYrPaz5EWAONfcWwby) | 3:24 | 2021-04-11 | 2021-04-13 |
 | [Soza](https://open.spotify.com/track/4TdKWdXDQlxzt8UPPIGT1i) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:41 | 2022-05-28 | 2022-06-01 |
+| [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:08 | 2023-08-27 |  |
 | [SPECIAL \(feat\. Nekfeu & Fousheé\)](https://open.spotify.com/track/11HLDMuPD3wh88XHw4udKO) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:51 | 2021-07-18 | 2022-03-21 |
 | [Spleen](https://open.spotify.com/track/55ySliodSHOGRG8hSz40a7) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 3:33 | 2021-03-27 | 2021-03-29 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-03 |  |

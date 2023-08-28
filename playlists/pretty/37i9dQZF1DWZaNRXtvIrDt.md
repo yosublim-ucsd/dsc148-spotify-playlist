@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,790 likes - 70 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,802 likes - 70 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Clam Zone](https://open.spotify.com/track/52K66oJ6ZHC73J3lJ71QTY) | [DJ Life](https://open.spotify.com/artist/04BIVyq0BJcYluY7n3Mz0t) | [Guardian](https://open.spotify.com/album/7hWlh6VCsaWkvzukc86AHn) | 5:31 |
 | 70 | [Uncover \(Komang Remix\)](https://open.spotify.com/track/4Q92GLN2X0j2az1Z7O5kXN) | [Emma Volard](https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL), [Komang](https://open.spotify.com/artist/56MwiXqdnILouLqFJPx3nT) | [Deity Remixes](https://open.spotify.com/album/1Oa3HHgQVN5I6YzZ9cq0kz) | 3:54 |
 
-Snapshot ID: `MCwyMjRhZGVkYmFhMWE4OTExOWRjMGU1NWJkMDQ0MjcwNGU3NTEwOTli`
+Snapshot ID: `MCxhNTJkY2M5NGU4YTE5YzJjYmNmOTVkZjliYzdmYzk5OWJhZjQxMzY1`

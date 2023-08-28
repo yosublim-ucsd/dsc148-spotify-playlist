@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico \u2022 <a href=\"https://www.ticketek.com.ar/festival-equal/hipodromo-de-palermo\">Compr\u00e1 tu entrada ac\u00e1</a> \n#FestivalEQUAL \u2022 16 de septiembre \u2022 Hip\u00f3dromo de Palermo ",
-  "num_followers": 34528,
+  "num_followers": 34560,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWU3MzAwZGMzZjcxOTRjMTlkMDY1MzlhYjY1MzM4MzQxMzg3YjU1",
+  "snapshot_id": "MCw1NWY4YWEwNzk2NjUzMzA3N2QzYzE4ZmFiNjA1YTJlODA5ODZjM2Y2",
   "tracks": [
     {
       "added_at": "2023-08-18 16:15:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "El Buen Gualicho",
-        "url": "https://open.spotify.com/album/4uucwPifnf35dXKEQJm3kT"
-      },
-      "artists": [
-        {
-          "name": "Natalia Doco",
-          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/0saIDjEHkPm4LgafFqsEo5"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 249217,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "El Buen Gualicho",
+        "url": "https://open.spotify.com/album/4uucwPifnf35dXKEQJm3kT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/0saIDjEHkPm4LgafFqsEo5"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -487,6 +487,38 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "MILENA",
+        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
+      },
+      "artists": [
+        {
+          "name": "Milena Salamanca",
+          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
+        }
+      ],
+      "duration_ms": 126146,
+      "name": "Pal Tiempo Del Carnaval",
+      "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Mariposa Azul",
         "url": "https://open.spotify.com/album/0u5EXmZWkofaUccSvKyx2f"
       },
@@ -519,38 +551,6 @@
       "duration_ms": 202666,
       "name": "Llueven",
       "url": "https://open.spotify.com/track/4fdEh07pr5c2f26qyohOSR"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "MILENA",
-        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
-      },
-      "artists": [
-        {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
-        }
-      ],
-      "duration_ms": 126146,
-      "name": "Pal Tiempo Del Carnaval",
-      "url": "https://open.spotify.com/track/2omFHhCN1dqCXqhfwPDnFm"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 296914,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Revolea",
         "url": "https://open.spotify.com/album/5i2gn7HRchalnvQHW5WCYI"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 296914,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 214161,
       "name": "Zoe",
       "url": "https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "LXS INFERNALES (Del Valle Encantado)",
-        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 182256,
-      "name": "TRIGAL",
-      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -847,18 +831,18 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "AMORA",
-        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+        "name": "LXS INFERNALES (Del Valle Encantado)",
+        "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
       "artists": [
         {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 186245,
-      "name": "BSOS",
-      "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
+      "duration_ms": 182256,
+      "name": "TRIGAL",
+      "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -875,6 +859,22 @@
       "duration_ms": 188320,
       "name": "Yo no lloro m\u00e1s",
       "url": "https://open.spotify.com/track/61p3ncr6aD14pvJjdmRBaG"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "BSOS",
+      "url": "https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "Llorando en la Fiesta",
+        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 191278,
+      "name": "Rothmans",
+      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "UN MONT\u00d3N",
         "url": "https://open.spotify.com/album/2JZufH3ls7984cI37E98bH"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 202500,
       "name": "UN MONT\u00d3N",
       "url": "https://open.spotify.com/track/6I2Mqnx01jGIVN7WtBpQvg"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "Llorando en la Fiesta",
-        "url": "https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7"
-      },
-      "artists": [
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
-        }
-      ],
-      "duration_ms": 191278,
-      "name": "Rothmans",
-      "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "Folk",
+        "url": "https://open.spotify.com/album/52oH9mSQNhPl2TskvtDrOM"
+      },
+      "artists": [
+        {
+          "name": "Natalia Barrionuevo",
+          "url": "https://open.spotify.com/artist/3HsEpr0lLwltdTesdpkyfC"
+        }
+      ],
+      "duration_ms": 156270,
+      "name": "Chacarera De Un Triste",
+      "url": "https://open.spotify.com/track/1Fy3NTZvDisJEACyUIpt1p"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "La de la Luna",
         "url": "https://open.spotify.com/album/3J0BhTKBAMreXusuUonzpx"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 170537,
       "name": "Todo el Amor",
       "url": "https://open.spotify.com/track/2epLlHsY5j35qieiEoEpJ4"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "Folk",
-        "url": "https://open.spotify.com/album/52oH9mSQNhPl2TskvtDrOM"
-      },
-      "artists": [
-        {
-          "name": "Natalia Barrionuevo",
-          "url": "https://open.spotify.com/artist/3HsEpr0lLwltdTesdpkyfC"
-        }
-      ],
-      "duration_ms": 156270,
-      "name": "Chacarera De Un Triste",
-      "url": "https://open.spotify.com/track/1Fy3NTZvDisJEACyUIpt1p"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Perlas y Diamantes",
-        "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
-      },
-      "artists": [
-        {
-          "name": "Viuda E Hijas De Roque Enroll",
-          "url": "https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Estoy Tocando Fondo",
-      "url": "https://open.spotify.com/track/01sEco3yGjZm6mAAZzMlKm"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Veinte Veinte",
         "url": "https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 73557,
       "name": "Farras",
       "url": "https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "Perlas y Diamantes",
+        "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
+      },
+      "artists": [
+        {
+          "name": "Viuda E Hijas De Roque Enroll",
+          "url": "https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "Estoy Tocando Fondo",
+      "url": "https://open.spotify.com/track/01sEco3yGjZm6mAAZzMlKm"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Mi Propia Casa",
-        "url": "https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx"
-      },
-      "artists": [
-        {
-          "name": "Noelia Recalde",
-          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
-        }
-      ],
-      "duration_ms": 149868,
-      "name": "Suponte",
-      "url": "https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/3od0Nq1bL9ooT7wDzyJl9r"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 222058,
       "name": "Ella",
       "url": "https://open.spotify.com/track/2mym9sPryRlsZxftEtY6MZ"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "Mi Propia Casa",
+        "url": "https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx"
+      },
+      "artists": [
+        {
+          "name": "Noelia Recalde",
+          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
+        }
+      ],
+      "duration_ms": 149868,
+      "name": "Suponte",
+      "url": "https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "SED",
+        "url": "https://open.spotify.com/album/6XmuWH28TweE6KETZfTIIx"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "duration_ms": 174308,
+      "name": "SED",
+      "url": "https://open.spotify.com/track/2bi8IcCqm8CzwVRQ2IKDrC"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
       },
@@ -1539,6 +1555,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "La Bella Indiferencia",
+        "url": "https://open.spotify.com/album/3WE1uVwb9iiErm111qdbiW"
+      },
+      "artists": [
+        {
+          "name": "Mariana Maz\u00fa",
+          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
+        }
+      ],
+      "duration_ms": 137456,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/58hBR8ozTQ7fKaCT1KyMNl"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6"
       },
@@ -1555,38 +1587,6 @@
       "duration_ms": 208502,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "SED",
-        "url": "https://open.spotify.com/album/6XmuWH28TweE6KETZfTIIx"
-      },
-      "artists": [
-        {
-          "name": "Luz Gaggi",
-          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
-        }
-      ],
-      "duration_ms": 174308,
-      "name": "SED",
-      "url": "https://open.spotify.com/track/2bi8IcCqm8CzwVRQ2IKDrC"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "La Bella Indiferencia",
-        "url": "https://open.spotify.com/album/3WE1uVwb9iiErm111qdbiW"
-      },
-      "artists": [
-        {
-          "name": "Mariana Maz\u00fa",
-          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
-        }
-      ],
-      "duration_ms": 137456,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/58hBR8ozTQ7fKaCT1KyMNl"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "Conviccion",
+        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
+      },
+      "artists": [
+        {
+          "name": "Rocio Araujo",
+          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Cuando Me Abandone el Alma",
+      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Educaci\u00f3n Sentimental",
         "url": "https://open.spotify.com/album/2XqnaBT4dXBKSq5NBy4WDi"
       },
@@ -1671,38 +1687,18 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Conviccion",
-        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7"
       },
       "artists": [
         {
-          "name": "Rocio Araujo",
-          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
         }
       ],
-      "duration_ms": 204226,
-      "name": "Cuando Me Abandone el Alma",
-      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        }
-      ],
-      "duration_ms": 287184,
-      "name": "Sue\u00f1o de Barrilete",
-      "url": "https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn"
+      "duration_ms": 233591,
+      "name": "Mi Nombre",
+      "url": "https://open.spotify.com/track/0HyUOz2Xp4d61ew3TCMkKC"
     }
   ],
   "unique_name": "EQUAL Argentina",

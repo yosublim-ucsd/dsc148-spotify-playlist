@@ -690,7 +690,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 160000,
       "name": "Deserve My Love",
       "url": "https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ"
@@ -1048,6 +1048,28 @@
       "duration_ms": 222586,
       "name": "FInally",
       "url": "https://open.spotify.com/track/2owWE178Z5yaQcJUzNgf5U"
+    },
+    {
+      "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/5nrP882U8mOIPRdkmJvjbK"
+      },
+      "artists": [
+        {
+          "name": "Ink Boy",
+          "url": "https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142733,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV"
     },
     {
       "album": {

@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 27 | [Temptations](https://open.spotify.com/track/0aUVfCApa6eicwsmY7Yw6B) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Impulses](https://open.spotify.com/album/762v86vjtRDOusybdIVEhL) | 2:09 |
 | 28 | [Whine Up](https://open.spotify.com/track/1rG8opGDxjubWjluR7glgJ) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI) | [Whine Up](https://open.spotify.com/album/566bFHgvZBabTrbbInJcSl) | 2:56 |
 | 29 | [Break You Off](https://open.spotify.com/track/3QS8vnf6Xy8UOfsagGpQAz) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [Break You Off](https://open.spotify.com/album/2ry8ryGJrwoIKiCUPjU87O) | 3:19 |
-| 30 | [Wants & Needs \- Edit](https://open.spotify.com/track/1M5MNrtgZXZqvkhOqQMkLq) | [Patient Zero](https://open.spotify.com/artist/7z6qM92XcUIwugTRs2PcmZ) | [Wants & Needs](https://open.spotify.com/album/0upxkWx9GZ8kIx05t4CmH4) | 3:49 |
+| 30 | [Wants & Needs \- Edit](https://open.spotify.com/track/1M5MNrtgZXZqvkhOqQMkLq) | [Patient Zero](https://open.spotify.com/artist/4zU2WOjeypmvtAIniW6VcZ) | [Wants & Needs](https://open.spotify.com/album/0upxkWx9GZ8kIx05t4CmH4) | 3:49 |
 | 31 | [Right Here](https://open.spotify.com/track/4nxzRm87Ubmzs0sRXwfhfd) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Right Here](https://open.spotify.com/album/6wDd5bQrqEn6EvWdEyOewA) | 3:22 |
 | 32 | [I Still C U](https://open.spotify.com/track/2bc3Y4v77pbGFI7BoFkqhp) | [Polar Youth](https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [I Still C U](https://open.spotify.com/album/4CLXuIrfqGYiYUn2wGomEx) | 2:41 |
 | 33 | [EASY](https://open.spotify.com/track/53LiivWOyjXF6qC79hmBLp) | [KingTheFreeSoul](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [EASY](https://open.spotify.com/album/3kFEgT6Tijh2mJKWdom1pg) | 2:48 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 113 | [Forget You](https://open.spotify.com/track/3ep6JwFrwefiIHxE59oopF) | [Indy Skies](https://open.spotify.com/artist/4Rb9X7RfZMiHcJF6xo9pzH) | [Forget You](https://open.spotify.com/album/4UIobTlgeRziew4Gg5gT6G) | 2:34 |
 | 114 | [Gone](https://open.spotify.com/track/0zF8KQnao8VkgTaZ89MJiy) | [So Below](https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi) | [Gone](https://open.spotify.com/album/3hmIWd4zvTjREy57GlgAfK) | 4:15 |
 
-Snapshot ID: `MCw4MTMxZjY0MjhjOTYyYTRmMjdkNjdkNDdkYzM1YmNlMWEwNTliZjZk`
+Snapshot ID: `MCw0MTk5ZTU3ZjQ3OWVkZmNjMmExOWY3YzAzYWU1NGU3OWFjNmQyMmQy`

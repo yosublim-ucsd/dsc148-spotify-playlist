@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 15429,
+  "num_followers": 15452,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTIxMzQxNmUwZjFlMjEyMjcxOGQ0MmU3YjJmMzZhNTIwMjM5NjI5",
+  "snapshot_id": "MCxiNTIyYThmOTM3MGZkY2JiZDk1ZDI0ZTA3YTNjYmVkNDcyNDZlYmQx",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Los Reyes del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4gcpaZ5fvmHylo6d019Nk9"
+        "name": "Dios Mio Amparame",
+        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
       },
       "artists": [
         {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
         }
       ],
-      "duration_ms": 250800,
-      "name": "Nereidas",
-      "url": "https://open.spotify.com/track/1K8dbgWWPoEdB6OP5bfHt0"
+      "duration_ms": 287360,
+      "name": "La Antigua",
+      "url": "https://open.spotify.com/track/03Mn7cdbPJMiv16jcaK0lQ"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Dios Mio Amparame",
-        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
+        "name": "Los Reyes del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4gcpaZ5fvmHylo6d019Nk9"
       },
       "artists": [
         {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
         }
       ],
-      "duration_ms": 287360,
-      "name": "La Antigua",
-      "url": "https://open.spotify.com/track/03Mn7cdbPJMiv16jcaK0lQ"
+      "duration_ms": 250800,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/1K8dbgWWPoEdB6OP5bfHt0"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        }
-      ],
-      "duration_ms": 293040,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "55 A\u00f1os En El Danzon",
         "url": "https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 341720,
       "name": "Mi Consuelo Es Amarte",
       "url": "https://open.spotify.com/track/0ffVXZsBEORJTRMI8VC2Yc"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        }
+      ],
+      "duration_ms": 293040,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Homenaje A Gonzalo Varela",
-        "url": "https://open.spotify.com/album/4hXkZQeGq4ucqpNYRIjHq2"
-      },
-      "artists": [
-        {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
-        }
-      ],
-      "duration_ms": 294066,
-      "name": "Juan Va Pa'l Guerra",
-      "url": "https://open.spotify.com/track/2DJDXmZcKjvSxtFbp7j97z"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "El Embrujo del Danz\u00f3n",
         "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 257893,
       "name": "Mar\u00eda Elena",
       "url": "https://open.spotify.com/track/0XCk9sZ4i4FUHHnKJHrjX9"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Homenaje A Gonzalo Varela",
+        "url": "https://open.spotify.com/album/4hXkZQeGq4ucqpNYRIjHq2"
+      },
+      "artists": [
+        {
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+        }
+      ],
+      "duration_ms": 294066,
+      "name": "Juan Va Pa'l Guerra",
+      "url": "https://open.spotify.com/track/2DJDXmZcKjvSxtFbp7j97z"
     },
     {
       "added_at": "2022-08-02 23:28:22",

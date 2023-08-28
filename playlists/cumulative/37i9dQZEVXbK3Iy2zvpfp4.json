@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Bathroom",
       "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
@@ -3192,7 +3192,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
@@ -6632,7 +6632,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
@@ -7286,7 +7286,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 161765,
       "name": "Fluxxwave (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
@@ -8042,7 +8042,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 181224,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB"
@@ -8122,6 +8122,32 @@
       "duration_ms": 127741,
       "name": "GMFU (w/ 6arelyhuman)",
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
+      "album": {
+        "name": "GMFU (GOT ME FUCKED UP)",
+        "url": "https://open.spotify.com/album/3Edjy41hgSI6efdRIU3h3R"
+      },
+      "artists": [
+        {
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "GMFU - Sped Up",
+      "url": "https://open.spotify.com/track/4QbTTCEFwxftr7mY7iSLfM"
     },
     {
       "album": {
@@ -9894,7 +9920,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
@@ -11240,7 +11266,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 192506,
       "name": "Kamar\u00e1tka n\u00e1dej",
       "url": "https://open.spotify.com/track/2367h4ZNVWZK3FM2yS4jc7"
@@ -13037,6 +13063,24 @@
     },
     {
       "album": {
+        "name": "Korpor\u00e1t",
+        "url": "https://open.spotify.com/album/3BDFaXptNILWMjqVzFp2L2"
+      },
+      "artists": [
+        {
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178390,
+      "name": "Mark\u00e9ta a Karol",
+      "url": "https://open.spotify.com/track/1YLnvc9WRk9tfb4ptunIUy"
+    },
+    {
+      "album": {
         "name": "Mary Jane",
         "url": "https://open.spotify.com/album/2GLwkH8cbEgsuya3p9p7CE"
       },
@@ -13786,7 +13830,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 203866,
       "name": "Miestna jedni\u010dka",
       "url": "https://open.spotify.com/track/1b2i1lEIinm7SfUtsOVRRW"
@@ -21472,7 +21516,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 205166,
       "name": "summer on the inside",
       "url": "https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj"
@@ -21996,7 +22040,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 231134,
       "name": "Take Me To America",
       "url": "https://open.spotify.com/track/6qnoOnDK3embwtU89Fz5XN"
@@ -23260,7 +23304,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 298266,
       "name": "Tri \u0161tvrte na jese\u0148",
       "url": "https://open.spotify.com/track/6sK2tDXuDiOMFI8DOrgu1n"
@@ -23536,7 +23580,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 273933,
       "name": "Umenie \u017ei\u0165",
       "url": "https://open.spotify.com/track/6F4eg4xszJnZamIN1sQfzf"
@@ -24150,7 +24194,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 205813,
       "name": "Vo\u0148avky diev\u010dat",
       "url": "https://open.spotify.com/track/2qagOsBeR0RCt8PfCiwULh"
@@ -25352,7 +25396,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 130785,
       "name": "XOXO (Kisses Hugs)",
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"

@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 53252,
+  "num_followers": 53267,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjM4YmZjMmJjYTQ3NzI4ZjhmZjVmMzA5YjhiMmExOGQ1OTU0Nzc3",
+  "snapshot_id": "MCxjYzk5Njk2YzRhMGJlMmIyNDAyZjdmMzg3MjljZTRhOTQzMDEzYmI5",
   "tracks": [
     {
       "added_at": "2023-07-21 16:32:57",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "S\u00e1tira",
-        "url": "https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub"
-      },
-      "artists": [
-        {
-          "name": "Chocolate Remix",
-          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
-        }
-      ],
-      "duration_ms": 143505,
-      "name": "Ni una Menos",
-      "url": "https://open.spotify.com/track/73sv7ERsv0E9dFRJkmTroF"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "Mujeres",
         "url": "https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 215579,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "S\u00e1tira",
+        "url": "https://open.spotify.com/album/4HsyhBMFmRLmTxEQeuROub"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Remix",
+          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
+        }
+      ],
+      "duration_ms": 143505,
+      "name": "Ni una Menos",
+      "url": "https://open.spotify.com/track/73sv7ERsv0E9dFRJkmTroF"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
-        "name": "Alma de Cantaora",
-        "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
-      },
-      "artists": [
-        {
-          "name": "Amparo S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
-        }
-      ],
-      "duration_ms": 290093,
-      "name": "Alma de Cantaora",
-      "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
         "name": "La Cumbia Feminazi",
         "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 229713,
       "name": "La Cumbia Feminazi",
       "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
+        "name": "Alma de Cantaora",
+        "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
+      },
+      "artists": [
+        {
+          "name": "Amparo S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
+        }
+      ],
+      "duration_ms": 290093,
+      "name": "Alma de Cantaora",
+      "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
+        "name": "Guerrera",
+        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 251739,
+      "name": "Guerrera",
+      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
         "name": "Nosotras Tenemos Otros Datos",
         "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 201290,
       "name": "Nosotras Tenemos Otros Datos",
       "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
-        "name": "Guerrera",
-        "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 251739,
-      "name": "Guerrera",
-      "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
         "name": "Mujeres Ya!",
         "url": "https://open.spotify.com/album/2TpVuHGhZIFcCDFaYUFo5z"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 187800,
       "name": "Mujeres Ya!",
       "url": "https://open.spotify.com/track/3Z7yT1rLxDZmGRy0k6WJT7"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-07-21 16:32:57",

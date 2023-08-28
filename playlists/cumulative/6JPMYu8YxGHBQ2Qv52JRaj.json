@@ -444,7 +444,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 215481,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/7juwa1sp4Mvova0zojCFal"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 188642,
       "name": "Bodibop",
       "url": "https://open.spotify.com/track/7qsxOpPpISexxjGhSyazpG"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 115000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4soXgnLGNNHkrPfUouig5Z"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 185570,
       "name": "Calling Through The Fire",
       "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Dubz, Vol. 3",
+        "url": "https://open.spotify.com/album/5KBXpV9fwqhwIZ3PG0QC2B"
+      },
+      "artists": [
+        {
+          "name": "Dexplicit",
+          "url": "https://open.spotify.com/artist/3JbZkcDvIx60UNIq32f4qY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/7M67voKjoqqDqnfrY8H4UG"
+    },
+    {
+      "album": {
         "name": "Do My Ting / Booty Duty EP",
         "url": "https://open.spotify.com/album/6oXSrqIUPsBMG2514pxBHT"
       },
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 163636,
       "name": "Familia",
       "url": "https://open.spotify.com/track/0dipXHiCMwh09laeECYCQB"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 280771,
       "name": "Fiya - Curbi Edit",
       "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
@@ -1705,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Gimme More",
+        "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
+      },
+      "artists": [
+        {
+          "name": "Distinkt",
+          "url": "https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234418,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
+    },
+    {
+      "album": {
         "name": "Gimme Some Keys (Remixes)",
         "url": "https://open.spotify.com/album/0DCYwEDewo2R9GbzwueiN6"
       },
@@ -1866,6 +1902,32 @@
       "duration_ms": 187866,
       "name": "Guttah - Dropheadz Remix",
       "url": "https://open.spotify.com/track/3MdDphs4pVOW41N54f9035"
+    },
+    {
+      "album": {
+        "name": "Be Mine / Harder",
+        "url": "https://open.spotify.com/album/3GVb1oZONNtDwxmCoPyOt2"
+      },
+      "artists": [
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        },
+        {
+          "name": "Face",
+          "url": "https://open.spotify.com/artist/2TRss5Am5d740WVZ1UB0pQ"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Harder",
+      "url": "https://open.spotify.com/track/2L8wOlTh3wDW57JaY3rV5W"
     },
     {
       "album": {
@@ -2230,7 +2292,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 184567,
       "name": "In My Bag",
       "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
@@ -2525,6 +2587,28 @@
     },
     {
       "album": {
+        "name": "Let U Have It",
+        "url": "https://open.spotify.com/album/59ioF1E2Sbpfwy5Rwpt3Sj"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Charlotte X",
+          "url": "https://open.spotify.com/artist/5KEaTilneqGJ2SUc6ilfDS"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175105,
+      "name": "Let U Have It",
+      "url": "https://open.spotify.com/track/4ZhbxBYEqsuyk61ZBhgrBW"
+    },
+    {
+      "album": {
         "name": "Heldeep Talent EP, Pt. 2",
         "url": "https://open.spotify.com/album/36Mf66r0cgl686IGkFk0p5"
       },
@@ -2558,7 +2642,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 215238,
       "name": "Life Alert (feat. Tima Dee)",
       "url": "https://open.spotify.com/track/7icesKbzByVjuQ3WKseTff"
@@ -3280,7 +3364,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 220952,
       "name": "One Chance (feat. Marlhy)",
       "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
@@ -3386,6 +3470,72 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
+    },
+    {
+      "album": {
+        "name": "Outer Space (Remixes)",
+        "url": "https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        },
+        {
+          "name": "ElmyX",
+          "url": "https://open.spotify.com/artist/3HE2rmc5yd27lV668hRPEV"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Outer Space - ElmyX Remix",
+      "url": "https://open.spotify.com/track/1s7yJ9OYlHpCPEZyJaEXP4"
+    },
+    {
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/4yiFV421AV4gBN8cotNt7z"
+      },
+      "artists": [
+        {
+          "name": "Makla",
+          "url": "https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M"
+        },
+        {
+          "name": "NA\u00d8",
+          "url": "https://open.spotify.com/artist/4WPTQlsGkmMFfBgmLBZUPA"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/7yFfFSxMZKLiirS1r0TZEK"
+    },
+    {
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
     },
     {
       "album": {
@@ -3552,7 +3702,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 144374,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/3LBjEgzayDLlB72ItAfFMP"
@@ -4107,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "Stereo Function",
+        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206904,
+      "name": "Stereo Function",
+      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "album": {
         "name": "Straight Ballin\u2019",
         "url": "https://open.spotify.com/album/4nnPAHKfJl4kUDnuVMthFF"
       },
@@ -4608,7 +4780,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 169455,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
@@ -4926,6 +5098,28 @@
       "duration_ms": 207753,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/6uIzCToTSO3iMUMpYprG6X"
+    },
+    {
+      "album": {
+        "name": "Wild Out (Badjokes Remix)",
+        "url": "https://open.spotify.com/album/2cic6k8McGmzybpXAvUzQa"
+      },
+      "artists": [
+        {
+          "name": "Aazar",
+          "url": "https://open.spotify.com/artist/7oNtf1MwhHcyXRsYXE1WsG"
+        },
+        {
+          "name": "Badjokes",
+          "url": "https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Wild Out (Badjokes Remix)",
+      "url": "https://open.spotify.com/track/3bGifsJGPnUVzP6d8XznsV"
     },
     {
       "album": {

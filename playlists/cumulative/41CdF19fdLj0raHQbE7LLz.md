@@ -4,7 +4,7 @@
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-148 songs - 13 hr 5 min
+151 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Feel Good](https://open.spotify.com/track/4dmwyyrtLrQxD6WeTsq6sn) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Feel Good](https://open.spotify.com/album/5zdyXn9AECuCPqiikwaNbo) | 6:14 | 2023-06-28 |  |
 | [Flash \- Wehbba Remix](https://open.spotify.com/track/1fCapWoH1RpiKEZHU1siAI) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri) | [Flash \(Wehbba Remix\)](https://open.spotify.com/album/2Ketv7thFn0MGG2mX7outD) | 6:27 | 2022-11-25 | 2023-04-24 |
 | [Flashback](https://open.spotify.com/track/1piLDURJz4sxyWtKDpn5uV) | [Kos:mo](https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr) | [Flashback EP](https://open.spotify.com/album/0dScobrIUwSFuDCXhmhMMU) | 3:51 | 2023-06-27 |  |
-| [Free Love](https://open.spotify.com/track/5TWhGtRzMtCNdcQUj23eVY) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Free Love](https://open.spotify.com/album/3e7MU4F0etgZ7IPc3rGGq9) | 4:01 | 2023-06-28 |  |
+| [Free Love](https://open.spotify.com/track/5TWhGtRzMtCNdcQUj23eVY) | [Just\_\_\_\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Free Love](https://open.spotify.com/album/3e7MU4F0etgZ7IPc3rGGq9) | 4:01 | 2023-06-28 |  |
 | [Free Your Mind \- Alex Stein Remix](https://open.spotify.com/track/4uU140mhIS8nZycSuW2QI1) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Free Your Mind](https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds) | 5:43 | 2023-03-09 |  |
 | [Growing Tension \- Original Mix](https://open.spotify.com/track/5pIKU41QDlwXpmYRLz3kxj) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Fire Inside](https://open.spotify.com/album/3sGW94Ai9v7OHmSk8b5g5I) | 4:32 | 2022-04-18 | 2023-06-29 |
 | [Hardwired](https://open.spotify.com/track/6S1SMFtcc1ejdWEfgnHrtv) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Hardwired](https://open.spotify.com/album/4TcaHXEDqkxIZgCHLUS94H) | 3:26 | 2022-04-18 |  |
@@ -115,6 +115,7 @@
 | [Renegade](https://open.spotify.com/track/33jUhN85Ly3yaOdSoVyp1d) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Maketech](https://open.spotify.com/artist/31jG1iSnjTnEoLgbe8uDTb) | [Renegade](https://open.spotify.com/album/7dVQk4IqAYbp15APZ5hf5v) | 3:45 | 2023-06-28 |  |
 | [Restore My Soul \- Remix](https://open.spotify.com/track/2Po3vOi0P5KxVmlR1vjzgf) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Restore My Soul \(Remix\)](https://open.spotify.com/album/7bfdsv9IXDHvBwIYrDDCDs) | 4:32 | 2022-05-17 |  |
 | [Revolt](https://open.spotify.com/track/1VuoCAvzMWUiHqEaLnO3hU) | [Inafekt](https://open.spotify.com/artist/44ixlcp2r9IHhFqGdcFjOz) | [Revolt](https://open.spotify.com/album/07e6P1U7fejbOBm0pC5Z8v) | 3:08 | 2022-04-18 | 2023-06-29 |
+| [Ride The Groove \- Turmoil Mix](https://open.spotify.com/track/4pNWFOBCXpBJwByKqjKSjv) | [Nick Sentience](https://open.spotify.com/artist/6aM2tfrQgmTXX2tSOPvVf9) | [Frantic Residents 07: Mixed by Proteus & Cally Gage](https://open.spotify.com/album/5evU7ueYozNKI2kQ2BElKY) | 8:14 | 2023-08-24 |  |
 | [Ritmo Vitale \- Pleasurekraft Ultra Deep Field Remix](https://open.spotify.com/track/5p1JJvdPhrrbHEZHnbHbeS) | [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr), [Lady Vale](https://open.spotify.com/artist/7CBgUYtjzK6YOIzPre84GK), [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Remixes Cim](https://open.spotify.com/album/7nti4u4VbWHVKR2lUUQll6) | 9:12 | 2022-11-25 | 2023-04-24 |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-04-18 |  |
 | [Sentinella Meccanica](https://open.spotify.com/track/5fyCP0uZrzFOmEU5XeL7WI) | [Mattia Saviolo](https://open.spotify.com/artist/0CHQALTC4ovqi6EU4xvUeq) | [Sentinella Meccanica](https://open.spotify.com/album/6PVzOkJ8FzqNrRKm4frP2b) | 6:33 | 2022-04-18 | 2023-06-29 |
@@ -128,6 +129,7 @@
 | [Soul Spirit](https://open.spotify.com/track/2tBsIetiH9ex7UgTz57niz) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Electric Human EP](https://open.spotify.com/album/0b3j1CYx16Lr2Hj2lJduQK) | 6:42 | 2022-04-18 | 2023-06-29 |
 | [Styx](https://open.spotify.com/track/6BGLpHleabwEG5V1xEcuVc) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Styx](https://open.spotify.com/album/4dy6VS8wNPwakQJygZaCWA) | 6:38 | 2022-05-17 |  |
 | [Switch \- Alex Stein Remix](https://open.spotify.com/track/6gNDuHiTw1wVJvYsId2PXb) | [Beckers](https://open.spotify.com/artist/0VWBw0F5CvBFM9xEqbfhDg), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [Switch \(Alex Stein Remix\)](https://open.spotify.com/album/3zuD6J3tJHwg7Ed7b55y9F) | 3:11 | 2023-06-28 |  |
+| [Take Me Away](https://open.spotify.com/track/0wP18L2hS6exmiqccmjILe) | [Joris Turenhout](https://open.spotify.com/artist/26etBHL5uUWbA3GVQSeafT) | [Take Me Away](https://open.spotify.com/album/2zuaArGyOI7e1ERgjFs3kA) | 4:40 | 2023-08-24 |  |
 | [Take Me Up](https://open.spotify.com/track/5QdVkqOYWZU83JgAPqHU6j) | [Gary Burrows](https://open.spotify.com/artist/7g4gebdPslleCHko2QBpW3) | [Take Me Up](https://open.spotify.com/album/5yZexvBI78iFXA0jTVz64G) | 5:50 | 2022-04-18 | 2023-06-29 |
 | [Tape Space](https://open.spotify.com/track/6M25z3vrIhgqND5fiZxsAm) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Tape Space](https://open.spotify.com/album/2dmDxlQpQ6nNzBfTaoZbcw) | 5:05 | 2022-04-18 | 2023-06-29 |
 | [Tensile](https://open.spotify.com/track/3jD1XhhvI6iGQOwSA7lQnl) | [Sam Kitt](https://open.spotify.com/artist/4nZj2Iwb9yJSocd8OlpKBo) | [Phantom Limb](https://open.spotify.com/album/1h5mTzaWLLIvAq67lohsut) | 4:10 | 2023-03-10 |  |
@@ -148,6 +150,7 @@
 | [Touch The Darkness](https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Touch The Darkness](https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm) | 7:33 | 2023-04-23 |  |
 | [Tropospheric \- Original Mix](https://open.spotify.com/track/2ONRJbdsHxl2ZdMQs7XxBC) | [Alex Lentini](https://open.spotify.com/artist/4p8IldEUZ3hx6mfDuHVzCX), [STOMP BOXX](https://open.spotify.com/artist/2JiR7cmdczSUV1QFwWXhrZ) | [Tropospheric](https://open.spotify.com/album/2LamuX3kaZlpWJLRHmpDUP) | 6:43 | 2022-05-17 |  |
 | [Unconscious Spirit](https://open.spotify.com/track/3o6hkK5B7OUNwEpIbY4Wjm) | [Jo Poole](https://open.spotify.com/artist/3d8oVrrMiYpjm8iHGj7CYF) | [Unconscious Spirit](https://open.spotify.com/album/3VCX2w8izEMQqMMZTQrc9K) | 3:32 | 2022-07-01 |  |
+| [Unholy](https://open.spotify.com/track/13KIO3VJGCKKnsGgtYrhCc) | [Joris Turenhout](https://open.spotify.com/artist/26etBHL5uUWbA3GVQSeafT) | [Take Me Away](https://open.spotify.com/album/2zuaArGyOI7e1ERgjFs3kA) | 3:59 | 2023-08-24 |  |
 | [Vibrant](https://open.spotify.com/track/4eP8dsBqUZam0SCFOEtOsJ) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Solar Deity](https://open.spotify.com/album/259ZhVkGqI3NqzLKn4W9ZK) | 6:24 | 2023-03-09 |  |
 | [Vorago](https://open.spotify.com/track/5uz4xzy92giVHfMgRlzAhU) | [Skober](https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2) | [Vorago](https://open.spotify.com/album/0d4cYcfOcRg8U0yrwSElmM) | 4:41 | 2022-02-03 | 2023-04-24 |
 | [Wake Up](https://open.spotify.com/track/3muMXKLJO1BYQT99CTCNRd) | [Luca Agnelli](https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq) | [Thermionic](https://open.spotify.com/album/6RgihmlSG1y8yw47F491d4) | 6:28 | 2022-04-18 | 2023-06-29 |

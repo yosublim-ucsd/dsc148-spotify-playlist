@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 38689,
+  "num_followers": 38746,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWQ0MjkyYmVkY2QzZWFjNGFkM2FhYmNjYTFmMjg5ZDY5NmIzZTM0",
+  "snapshot_id": "MCw0MDNhZDc5NDQ3Y2EyMDc5OWZjYzU2ZDZlZTliOTUyZWM2YjEzNzIx",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Presenting Trixie Smith",
-        "url": "https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu"
-      },
-      "artists": [
-        {
-          "name": "Trixie Smith",
-          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Jack I'm Mellow (Alternate Take 2)",
-      "url": "https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "The Complete Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
       },
@@ -1135,22 +1119,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Classics by Lucky Millinder Orchestra",
-        "url": "https://open.spotify.com/album/2N9wYYSikvi6QIyNopvzaq"
+        "name": "Presenting Trixie Smith",
+        "url": "https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu"
       },
       "artists": [
         {
-          "name": "Lucky Millinder Orchestra",
-          "url": "https://open.spotify.com/artist/5VuUyxdHLvgIhVzCvC65xk"
-        },
-        {
-          "name": "Annisteen Allen",
-          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
+          "name": "Trixie Smith",
+          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
         }
       ],
-      "duration_ms": 148062,
-      "name": "There's Good Blues Tonight",
-      "url": "https://open.spotify.com/track/1VqlaUqWBQQPbiU3IKOlN5"
+      "duration_ms": 165573,
+      "name": "Jack I'm Mellow (Alternate Take 2)",
+      "url": "https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1171,6 +1151,26 @@
       "duration_ms": 163133,
       "name": "Dirty Moaner Blues",
       "url": "https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Classics by Lucky Millinder Orchestra",
+        "url": "https://open.spotify.com/album/2N9wYYSikvi6QIyNopvzaq"
+      },
+      "artists": [
+        {
+          "name": "Lucky Millinder Orchestra",
+          "url": "https://open.spotify.com/artist/5VuUyxdHLvgIhVzCvC65xk"
+        },
+        {
+          "name": "Annisteen Allen",
+          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
+        }
+      ],
+      "duration_ms": 148062,
+      "name": "There's Good Blues Tonight",
+      "url": "https://open.spotify.com/track/1VqlaUqWBQQPbiU3IKOlN5"
     },
     {
       "added_at": "2023-08-23 10:15:28",

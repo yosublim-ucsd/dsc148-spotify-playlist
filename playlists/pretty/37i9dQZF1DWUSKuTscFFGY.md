@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,022 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,058 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 59 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 |
 | 60 | [Witness](https://open.spotify.com/track/5LBiQosvZoBVT5nNgSNYdX) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Lahrel](https://open.spotify.com/artist/6QLId1xjDwBhWpk9TLfvZ5) | [Witness](https://open.spotify.com/album/7Ln69kAYcJe9h3O3XWhSZ6) | 3:47 |
 
-Snapshot ID: `MCwxMjYwNTBhMTQ4NzQxMDY2YzQ3NmE3NDFkN2U0NTE0OGI2N2NiMTYy`
+Snapshot ID: `MCw1NGM2MGM0ODc1NzdmYTFmOGY4ODI5YTc1ZWJkYWU1MmE3Y2Q5NzRh`

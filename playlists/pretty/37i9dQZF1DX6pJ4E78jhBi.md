@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,247 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,255 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 27 | [The First Noel](https://open.spotify.com/track/0f9O0RNskatv4lzUK6axjy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 3:44 |
 | 28 | [I Saw Three Ships](https://open.spotify.com/track/4DHmQW2gtRc4Gx991GZrsS) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [I Saw Three Ships](https://open.spotify.com/album/7zV7gDophcjhvTynWSI9ju) | 2:28 |
 | 29 | [Santa Tell Me](https://open.spotify.com/track/2DCxWF4de4snGIze8xKw15) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Santa Tell Me](https://open.spotify.com/album/0OB5qNV3Nk6lbZpWNQI8jA) | 2:47 |
-| 30 | [Fairytale of New York](https://open.spotify.com/track/2Lef0CHyds1JR5t8oPXXzw) | [Finer](https://open.spotify.com/artist/3yqe3yOVIhznLkPAa5BLYF), [MacGowan](https://open.spotify.com/artist/3YodJpFPfyv3k86DOoAJPQ), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:12 |
+| 30 | [Fairytale of New York](https://open.spotify.com/track/2Lef0CHyds1JR5t8oPXXzw) | [Jem Finer](https://open.spotify.com/artist/5DJY4vHKN7NdsbU60GVIkW), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:12 |
 | 31 | [I'll Be Home for Christmas](https://open.spotify.com/track/2AlhKcEFRYnlvtt5FyYmR5) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [I'll Be Home for Christmas](https://open.spotify.com/album/0z3OrHSOvYlME9tNVajV8n) | 4:21 |
 | 32 | [Gabriel's Message](https://open.spotify.com/track/0QWDOBSNiPaM73Y2AxXQ4L) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Gabriel's Message](https://open.spotify.com/album/0YC5jOsmjX2LebjVZq0VMa) | 2:34 |
 | 33 | [Once In Royal David’s City](https://open.spotify.com/track/6M7DHt54sGNGyxZrMZMR8w) | [Henry John Gauntlett](https://open.spotify.com/artist/0Ywn9U6rufDhKYfZanCr6c), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Silent Nights \- Die schönsten Melodien für eine entspannte Weihnachtszeit](https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS) | 3:38 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 48 | [White Christmas](https://open.spotify.com/track/6zrXZLbL6gPCVLeodyN0bd) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance: Elegant Holiday Instrumentals Featuring Piano And Violin](https://open.spotify.com/album/59iScT5hI7Gi59PE79QnHC) | 4:09 |
 | 49 | [Feliz Navidad](https://open.spotify.com/track/6fdLagw34w7uPH65UpGe7y) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 4:23 |
 
-Snapshot ID: `MCxkYzZmZDkyNzZlMzdhYmE2MGRhYWI4ZWQ1NzNlZjgyNmNhYmJiMGJm`
+Snapshot ID: `MCwxM2JkMGUyNGYxMTZjMWRlNTM2MGQ4N2M0MDMxYzE1ZDFmNGMwM2I2`

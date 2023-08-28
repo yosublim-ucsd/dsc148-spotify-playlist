@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6f5fW2F9JIU.md) - [plain]
 
 > Music from "THE IDOLM@STER"\. アイドルマスターの楽曲を1つのプレイリストで。<br/>©窪岡俊之 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,498 likes - 105 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,510 likes - 105 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6f5fW2F9JIU.md) - [plain]
 | 5 | [空](https://open.spotify.com/track/0OWtcuqA9LbpiLmJA1dhRS) | [音無小鳥 \(CV: 滝田樹里\)](https://open.spotify.com/artist/6tfIQYbHVslYRk5V3uGLxy) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-THE IDOLM@STER HISTORY\-](https://open.spotify.com/album/6OBOQTEmTgSYPrWDUwRjqw) | 4:05 |
 | 6 | [shiny smile \- M@STER VERSION](https://open.spotify.com/track/1uzQ3XqmmBSS0SZLEiy4Lj) | [天海春香 \(CV: 中村繪里子\)](https://open.spotify.com/artist/4aRJRDARzKnNfjXfM1lYqz), [如月千早 \(CV: 今井麻美\)](https://open.spotify.com/artist/72rLeWDmVC3Sumcjj7vktd), [秋月律子 \(CV: 若林直美\)](https://open.spotify.com/artist/2iSxBnHMVPoIs6FSif3p1E) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-THE IDOLM@STER HISTORY\-](https://open.spotify.com/album/6OBOQTEmTgSYPrWDUwRjqw) | 3:56 |
 | 7 | [Colorful Days \- M@STER VERSION](https://open.spotify.com/track/1doswasFzrM55qbjWAfwqd) | [天海春香 \(CV: 中村繪里子\)](https://open.spotify.com/artist/4aRJRDARzKnNfjXfM1lYqz), [如月千早 \(CV: 今井麻美\)](https://open.spotify.com/artist/72rLeWDmVC3Sumcjj7vktd), [双海亜美 \(CV: 下田麻美\)](https://open.spotify.com/artist/27u9oLhz7n3Qr8MziCl4pi) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-THE IDOLM@STER HISTORY\-](https://open.spotify.com/album/6OBOQTEmTgSYPrWDUwRjqw) | 4:03 |
-| 8 | [L・O・B・M](https://open.spotify.com/track/5ZlQeEehpluO7LsJFlTGku) | [IM@S ALLSTARS++](https://open.spotify.com/artist/7mQ77klQFDJXQ5omAClQyW) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-THE IDOLM@STER HISTORY\-](https://open.spotify.com/album/6OBOQTEmTgSYPrWDUwRjqw) | 5:20 |
+| 8 | [L・O・B・M](https://open.spotify.com/track/5ZlQeEehpluO7LsJFlTGku) | [IM@S ALLSTARS+](https://open.spotify.com/artist/5U5yZnuzHl8u0hqPqou6Vi) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-THE IDOLM@STER HISTORY\-](https://open.spotify.com/album/6OBOQTEmTgSYPrWDUwRjqw) | 5:20 |
 | 9 | [“HELLO!!” \- M@STER VERSION](https://open.spotify.com/track/27Ya3yl9ssUcSYHF9pzTXZ) | [日高愛 \(CV: 戸松 遥\)](https://open.spotify.com/artist/0YkzZOeOwa7aNQJAackeNI), [水谷絵理 \(CV: 花澤香菜\)](https://open.spotify.com/artist/5e5GezIcTWa090GyNyIjXZ), [秋月涼 \(CV: 三瓶由布子\)](https://open.spotify.com/artist/4mPb0qxnVEXSacr2w4DNjc) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-THE IDOLM@STER HISTORY\-](https://open.spotify.com/album/6OBOQTEmTgSYPrWDUwRjqw) | 4:11 |
 | 10 | [MEGARE! \- M@STER VERSION \- REMIX](https://open.spotify.com/track/6yYBXCnJX6AYzkOAaY0pIc) | [765PRO ALLSTARS](https://open.spotify.com/artist/4snGyL0vLLZheHALUzhNlk) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-THE IDOLM@STER HISTORY\-](https://open.spotify.com/album/6OBOQTEmTgSYPrWDUwRjqw) | 3:55 |
 | 11 | [The world is all one !! \- M@STER VERSION](https://open.spotify.com/track/1ysooB028QF4Pd2otIIrH1) | [765PRO ALLSTARS](https://open.spotify.com/artist/4snGyL0vLLZheHALUzhNlk) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-THE IDOLM@STER HISTORY\-](https://open.spotify.com/album/6OBOQTEmTgSYPrWDUwRjqw) | 4:52 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6f5fW2F9JIU.md) - [plain]
 | 104 | [幸](https://open.spotify.com/track/1muZRX7OvSCRvx4yNAJdpu) | [音無小鳥 \(CV: 滝田樹里\)](https://open.spotify.com/artist/6tfIQYbHVslYRk5V3uGLxy) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-LOVE&PEACE!\-](https://open.spotify.com/album/2EKu4FCPq2X52aRzaT3lHI) | 5:40 |
 | 105 | [Vault That Borderline! \- M@STER VERSION](https://open.spotify.com/track/1ULGj7pEJXuMTwnNbO5HKK) | [天海春香 \(CV: 中村繪里子\)](https://open.spotify.com/artist/4aRJRDARzKnNfjXfM1lYqz), [如月千早 \(CV: 今井麻美\)](https://open.spotify.com/artist/72rLeWDmVC3Sumcjj7vktd), [三浦あずさ \(CV: たかはし智秋\)](https://open.spotify.com/artist/7aNiziqnu4oRctbI6SZvYn), [秋月律子 \(CV: 若林直美\)](https://open.spotify.com/artist/2iSxBnHMVPoIs6FSif3p1E) | [THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST! \-LOVE&PEACE!\-](https://open.spotify.com/album/2EKu4FCPq2X52aRzaT3lHI) | 4:43 |
 
-Snapshot ID: `MCwxOWQ0MzcxMmU2OWRiMjVhMDA1ZTVkZGFmYjEwZjU1YjJlNWRmNDlj`
+Snapshot ID: `MCxjM2RmZDc5YjQyMDA5MzY1OTVmNjZmYjk3YTkwNjMyZmVmMTFjZjQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: KIM PUREUM \(김푸름\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,035 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,074 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 98 | [our gloomy](https://open.spotify.com/track/3FYErI4z6JZYQnp9SKcdym) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [our gloomy](https://open.spotify.com/album/1jfOiaI6cBnIP4PiU9mfew) | 2:39 |
 | 99 | [Hatred](https://open.spotify.com/track/6wZAYtq58NtIuF2fhlsy8t) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Hatred](https://open.spotify.com/album/0lQvanEeBBKXPsa4sw5tbb) | 3:04 |
 
-Snapshot ID: `MCw5MjI3YjAxNDM4MTJkMjI5NDc4NzI2NzIwNWU0MTNjNzg5MTRlZjM3`
+Snapshot ID: `MCxhZTFiNDMzZDY4YjVlYzZhMGRjNTY4OGMzNjg1NmU4OThkMTcwNDA1`

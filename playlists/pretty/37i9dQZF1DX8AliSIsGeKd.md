@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: SKIY
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,986 likes - 90 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,146 likes - 90 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Magical Signs](https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 4:16 |
 | 90 | [Alone \- andhim Remix](https://open.spotify.com/track/7uUQfixTumDZwmOydFdkXE) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Alone \(andhim Remix\)](https://open.spotify.com/album/5dAIxyXI3nmT0IogiHaid6) | 4:29 |
 
-Snapshot ID: `MCw0ZWU1NGM5NzI5ZjdlNzQ3ZGVmODdhZTllMmJjYmFjMzkwMGIyODIy`
+Snapshot ID: `MCwzMjU3ODM1ODJkMzUxNDYxMTY5YzE3OGNkNDU4MWY4NjI5NjlhMDA1`

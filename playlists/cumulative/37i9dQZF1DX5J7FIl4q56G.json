@@ -71457,6 +71457,24 @@
     },
     {
       "album": {
+        "name": "Starbound Stories",
+        "url": "https://open.spotify.com/album/4lHnaZ0IPLJ53TkIWITjSI"
+      },
+      "artists": [
+        {
+          "name": "Marc Hudson",
+          "url": "https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340784,
+      "name": "The Siren",
+      "url": "https://open.spotify.com/track/4oYbOIuVc5Ir85IyccjoeI"
+    },
+    {
+      "album": {
         "name": "The Siren",
         "url": "https://open.spotify.com/album/6hkZLMgOPIFocYvmcdvCcI"
       },
@@ -71468,7 +71486,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 340784,
       "name": "The Siren",
       "url": "https://open.spotify.com/track/7lC5akqHsJrpW8VU0P7WgD"

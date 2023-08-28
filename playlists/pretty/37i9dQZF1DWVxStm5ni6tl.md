@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: MINOE, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 576 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 8 | [Kyle's Wife](https://open.spotify.com/track/2HAh6hwfK1TM54WP4ZZ8iS) | [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Kyle's Wife](https://open.spotify.com/album/4jrJDKC7M7hJ2ypjKRMG9R) | 2:40 |
 | 9 | [LORATADINE](https://open.spotify.com/track/0jeg7BqOdj8Jboznj0uWa0) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [LORATADINE](https://open.spotify.com/album/7hwHjczCniDfE5eI5iJaaR) | 3:20 |
 | 10 | [What's the Cost](https://open.spotify.com/track/0PH6i7Jr4NIsTHdvItIT4A) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [What's the Cost](https://open.spotify.com/album/4SoMl9qiZhfb8lXRZjrqFJ) | 2:58 |
-| 11 | [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 |
+| 11 | [Lay Down Girl](https://open.spotify.com/track/6tXe9mlIKf3NkkVNgoGqp4) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Rodeo Clown](https://open.spotify.com/album/2bfDkhDate1v4XhetA9SuM) | 2:06 |
 | 12 | [milkshake poem](https://open.spotify.com/track/3p2C43dgJHyT4BH9uLVP94) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [milkshake poem](https://open.spotify.com/album/5X9H0J36ZqaIssTCtBSWRj) | 2:31 |
 | 13 | [Halfway](https://open.spotify.com/track/5Elhn0sv6jPtyaBxXwHYDM) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Halfway](https://open.spotify.com/album/5mAmP7fI9tN4hokOx94sxc) | 2:29 |
 | 14 | [Spontaneous](https://open.spotify.com/track/2IqW9CZtjeLvAwLhOgt7z7) | [Exmiranda](https://open.spotify.com/artist/0lfVICBd5hDKhuTZJwj6br) | [Spontaneous](https://open.spotify.com/album/4z3VGswg0wJudon5iYPwMS) | 2:49 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 42 | [Grade 1](https://open.spotify.com/track/4DhF4hVUMKbchl8AsbXclo) | [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0) | [Grade 1](https://open.spotify.com/album/0dS87UULvznYDDh1MMRCby) | 2:53 |
 | 43 | [TORNADE](https://open.spotify.com/track/6DyYmMrd96OwJD60EHl9Zf) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [TORNADE](https://open.spotify.com/album/6ZrRqfzSG21eP04sfx6XXK) | 2:05 |
 | 44 | [do you think it was the last time?](https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [do you think it was the last time?](https://open.spotify.com/album/5GF1z8ApTTX7CgBk9Q31O4) | 2:41 |
-| 45 | [there will be blood](https://open.spotify.com/track/3XyJepNwlSM2anuDKhfdZF) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [there will be blood](https://open.spotify.com/album/0GWYuyX1KiYCO7Kbo1f4S4) | 1:29 |
+| 45 | [there will be blood \- demo](https://open.spotify.com/track/3XyJepNwlSM2anuDKhfdZF) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [there will be blood \(demo\)](https://open.spotify.com/album/0GWYuyX1KiYCO7Kbo1f4S4) | 1:29 |
 | 46 | [New Sight](https://open.spotify.com/track/7LnMwjOs9k12VORJmSTJOR) | [Super Duty Tough Work](https://open.spotify.com/artist/62C2Sg9LJoWfSw8K8EuX3u) | [New Sight](https://open.spotify.com/album/3a8kHtC5vveekfwoS7clGy) | 3:41 |
 | 47 | [Ojos de Plata](https://open.spotify.com/track/6hfaZBZofhlpnMO5pwFZzT) | [NUNNE](https://open.spotify.com/artist/57z9nfDhIwvlfoKTYXB4AL) | [Ojos de Plata](https://open.spotify.com/album/2nN5gibHNXTg4bw9cuUxAl) | 2:34 |
 | 48 | [WOW](https://open.spotify.com/track/58XtiCznK8JJ1mauYkctU3) | [$erna](https://open.spotify.com/artist/3187RfMWqoTucgA894k6s7), [Landy Garcia](https://open.spotify.com/artist/0lz4hrk7KSU9sr8WSdF9DE) | [WOW](https://open.spotify.com/album/2BEjcD2jlOJhHEVIMqU1zU) | 2:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Marionettes](https://open.spotify.com/track/0kcUGNxAsq95ON6Pp6nafS) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [No Label No Budget \(Season 5\)](https://open.spotify.com/album/3QvpYOLSIUHL3IbGmYmkB6) | 2:03 |
 | 80 | [Nightmares of my Summer Days](https://open.spotify.com/track/4w6BDvSuQQmHEYe8ANuycd) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Nightmares of my Summer Days](https://open.spotify.com/album/0pW0OxH3BTl0C9NSigoeVN) | 2:41 |
 
-Snapshot ID: `MCxhM2M5Y2U1YTYwNmIwNDdlZGNjZTE0YWY1M2EzMTNlZTA0ZjAwYjZm`
+Snapshot ID: `MCw0YTc4OTM2NTg0YzU2ZjFhZTc3M2E5MTVhMjMzZmY4MTIyMjI5NDdm`

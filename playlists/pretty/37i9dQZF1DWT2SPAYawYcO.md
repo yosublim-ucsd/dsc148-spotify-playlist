@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,872 likes - 95 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,879 likes - 95 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 94 | [Forever](https://open.spotify.com/track/4sEm5dbsLC1Lcd1OgBTPmc) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Forever](https://open.spotify.com/album/3yfaBbWFqz77aLa08TjClX) | 3:25 |
 | 95 | [Change Your Mind](https://open.spotify.com/track/3rzFBzDzdRMWP4aLmeGrJu) | [MID CITY](https://open.spotify.com/artist/5CfLIXfiqkmqz5If0yFu5E) | [Happy Ever After](https://open.spotify.com/album/0qEaHYJZBJ8TVTw7EXtjXy) | 4:26 |
 
-Snapshot ID: `MCxhZDE2ZTEyYmYxNmNkN2JhY2I5MGE2ODZmMzI1OWIxMzgwYmY4MjEx`
+Snapshot ID: `MCw5NTVhMDAxYmZhYzNlNmZlOWM5MmRhNTQwM2IyNGYzMGFlMjMxZmY4`

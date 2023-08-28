@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 195200,
       "name": "Fall",
       "url": "https://open.spotify.com/track/0KhGlkZxxH5btrK6K3Wlpn"
@@ -4913,6 +4913,28 @@
     },
     {
       "album": {
+        "name": "VOLPETRON ASCENDS EP",
+        "url": "https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "IT ISN'T ME",
+      "url": "https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK"
+    },
+    {
+      "album": {
         "name": "It's Not Love",
         "url": "https://open.spotify.com/album/3jUr6DL5fNek9PGfdKwxiE"
       },
@@ -5215,6 +5237,28 @@
     },
     {
       "album": {
+        "name": "Land of the Living",
+        "url": "https://open.spotify.com/album/1Ok5c9oP3hWgunQvhIsC0e"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Land of the Living",
+      "url": "https://open.spotify.com/track/5kfnCvlXXJEa9HpFKdSczm"
+    },
+    {
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
       },
@@ -5234,6 +5278,28 @@
       "duration_ms": 190285,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk"
+    },
+    {
+      "album": {
+        "name": "Leap Of Faith",
+        "url": "https://open.spotify.com/album/696TSD9rzaKK6hJbSgEPnN"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Leap Of Faith",
+      "url": "https://open.spotify.com/track/3hxpfTyfr2dU55eVGheeDp"
     },
     {
       "album": {
@@ -5974,7 +6040,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 183200,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
@@ -7518,7 +7584,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 217931,
       "name": "Pirate King",
       "url": "https://open.spotify.com/track/1NV11avfn4LPdPfncHxqE2"
@@ -7690,7 +7756,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 194243,
       "name": "Quick Highs",
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
@@ -8054,6 +8120,28 @@
       "duration_ms": 165857,
       "name": "Riot",
       "url": "https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O"
+    },
+    {
+      "album": {
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP"
     },
     {
       "album": {
@@ -10472,7 +10560,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 189000,
       "name": "Used To The Silence",
       "url": "https://open.spotify.com/track/5DEwagnzNafeFjWNIDNdgy"
@@ -10904,6 +10992,32 @@
       "duration_ms": 180891,
       "name": "Wish You Stayed",
       "url": "https://open.spotify.com/track/5Ab3nqZshtBT3LthZf9Kix"
+    },
+    {
+      "album": {
+        "name": "With U",
+        "url": "https://open.spotify.com/album/3mBwB6v0WiqCNysrWmgJqj"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "Skyelle",
+          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "With U",
+      "url": "https://open.spotify.com/track/2u4dejYhJszoo17e1W2WLW"
     },
     {
       "album": {

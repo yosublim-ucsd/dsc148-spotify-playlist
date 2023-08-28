@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Simple Steps",
+        "url": "https://open.spotify.com/album/5q7OjVR5Ricr2SQGvmkgca"
+      },
+      "artists": [
+        {
+          "name": "Sam Ock",
+          "url": "https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192145,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/49BiXOpGOWnIfwzGWdu96C"
+    },
+    {
+      "album": {
         "name": "As A Man Rather Than A Friend",
         "url": "https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25"
       },
@@ -186,6 +204,24 @@
       "duration_ms": 244733,
       "name": "Break up With Her",
       "url": "https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz"
+    },
+    {
+      "album": {
+        "name": "The Third Eye",
+        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207693,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
     },
     {
       "album": {
@@ -287,6 +323,46 @@
     },
     {
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Fantastic Baby",
+      "url": "https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99"
+    },
+    {
+      "album": {
+        "name": "BSS 1st Single Album 'SECOND WIND'",
+        "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
+      },
+      "artists": [
+        {
+          "name": "BSS",
+          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "Fighting (Feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
+    },
+    {
+      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/1owA0EttITvg87XbfiAPHz"
       },
@@ -328,6 +404,24 @@
       "duration_ms": 217129,
       "name": "Friday (feat.Jang Yi-jeong)",
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
+    },
+    {
+      "album": {
+        "name": "Full Album RED PLANET",
+        "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Galaxy \uc6b0\uc8fc\ub97c \uc904\uac8c",
+      "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
     },
     {
       "album": {
@@ -408,6 +502,42 @@
       "duration_ms": 225333,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/15ouO5mVTnfZnHkShDqioD"
+    },
+    {
+      "album": {
+        "name": "Romance by Romance (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4f3sJgDZOL90O6iXc1xTaO"
+      },
+      "artists": [
+        {
+          "name": "WOOBIN",
+          "url": "https://open.spotify.com/artist/6f30L8Kfp6eCfXSks9cTgY"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221556,
+      "name": "hope you stay",
+      "url": "https://open.spotify.com/track/2P0rwx1GoRmoNVXKtVJkgr"
+    },
+    {
+      "album": {
+        "name": "SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'",
+        "url": "https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159110,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/7jPev7m1RQ6gUMYIfGobAl"
     },
     {
       "album": {
@@ -520,6 +650,24 @@
       "duration_ms": 192857,
       "name": "Like We Turn the Pages",
       "url": "https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
     },
     {
       "album": {
@@ -933,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "SIGNAL",
+        "url": "https://open.spotify.com/album/28PwDunFAR71toOCTYRvkf"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/15rX80MpEJ2OqW3dPunQvI"
+    },
+    {
+      "album": {
         "name": "[#]",
         "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
       },
@@ -1273,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "\uc778\uc0ac",
+        "url": "https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255266,
+      "name": "\uadf8\ub300\ub97c \uc0ac\ub791\ud558\ub294 10\uac00\uc9c0 \uc774\uc720",
+      "url": "https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx"
+    },
+    {
+      "album": {
         "name": "Breaking Heart",
         "url": "https://open.spotify.com/album/7C3YPRZQVhmE7TStRdXshF"
       },
@@ -1396,6 +1580,42 @@
       "duration_ms": 192835,
       "name": "\uccab\ub208\uc5d0 \ubfc5!",
       "url": "https://open.spotify.com/track/3I8yVMehwPY6poafWii5Fc"
+    },
+    {
+      "album": {
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299426,
+      "name": "\uccb4\ub150",
+      "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
+    },
+    {
+      "album": {
+        "name": "\ud61c\uc131",
+        "url": "https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194821,
+      "name": "\ud61c\uc131",
+      "url": "https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7ugUAewqF7z"

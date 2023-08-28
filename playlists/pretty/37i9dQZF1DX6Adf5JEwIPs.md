@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Eden Muñoz, Los Tucanes de Tijuana & Fuerza Regida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,936 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,246 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Tu Canción](https://open.spotify.com/track/6bOSiHSjSkcatLfIxiLeSZ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Tu Canción](https://open.spotify.com/album/0DB8R7BnJbHrYIWO5sGlYO) | 2:43 |
 | 50 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 
-Snapshot ID: `MCxjYjk4NjQ5MmYzODA3MTQ2OGMyOTA4MWU2MzZiZGQ5MWRiN2YyOTJi`
+Snapshot ID: `MCwyNWU3YzE2NjYxNTRmZDk3ZGY4MGMwM2RjZTAyNzQxNjdjMDY0ZmE2`

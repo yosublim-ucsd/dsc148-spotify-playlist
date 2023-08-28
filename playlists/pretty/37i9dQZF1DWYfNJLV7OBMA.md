@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- La Signore
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,660 likes - 88 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,692 likes - 88 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 87 | [Hith Ochcham](https://open.spotify.com/track/792WeaFnWJIIEed9JnnWLW) | [Lashan Herath](https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC) | [Hith Ochcham](https://open.spotify.com/album/46s4zoRLxIbIa3UfjOKwRH) | 3:30 |
 | 88 | [Riduman](https://open.spotify.com/track/0Qh90Eu5a2MxkroJTayOl0) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes), [Themiya Thejan](https://open.spotify.com/artist/7KOQwe1vcolnuIBhMmvZo9) | [Riduman](https://open.spotify.com/album/1SN3KCEJJQtQoDnojy0PoE) | 3:30 |
 
-Snapshot ID: `MCxmNzEyMjljODk3NTQ4MjUwYzI5ZjA2ODkxNzJiNDA1ZTM3MTNkNDEw`
+Snapshot ID: `MCw3MzliZGY4YjQyYmY5YTU0MTI5YjQ3NjA5MGE1N2I0MzRmNDA2MDhh`

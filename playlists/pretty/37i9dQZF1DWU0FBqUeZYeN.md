@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,829 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,929 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 55 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
 | 56 | [Evil Hoodoo](https://open.spotify.com/track/4flhEzNprMkUR0NxsKdOgw) | [The Seeds](https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC) | [The Seeds](https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N) | 5:19 |
 | 57 | [Hidden Charms](https://open.spotify.com/track/6JWHh27jYOnwFXMe8LpQlF) | [Link Wray](https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto) | [The Best of Link Wray](https://open.spotify.com/album/66Blu13998BwD4QTdJVl6s) | 2:41 |
-| 58 | [I'm Eighteen](https://open.spotify.com/track/3YU9X8ryOR20beT7wOlDIJ) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Love It to Death](https://open.spotify.com/album/6p7jHbG5Bd6z2JgfKx0um7) | 3:00 |
+| 58 | [I'm Eighteen \- 2004 Remaster](https://open.spotify.com/track/1iNzWnJ8wbRxaCJoQz7E2r) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Mascara & Monsters: The Best of Alice Cooper](https://open.spotify.com/album/1d4QbAGdK7t9IgKQ7fI6SP) | 2:58 |
 | 59 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
 | 60 | [I'm a Bug](https://open.spotify.com/track/5g9utKqn0nJQr1MVvGbVCy) | [Urinals](https://open.spotify.com/artist/0fWJsXOUH83NNlUuVcszVK) | [Negative Capability...Check it Out!](https://open.spotify.com/album/1UN3YfkaEQN2b5qqis1J0H) | 1:12 |
 | 61 | [Search & Destroy](https://open.spotify.com/track/3X9fXH0FzBloyaUkz5qr0C) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Nude & Rude: The Best Of Iggy](https://open.spotify.com/album/6akbXeeYHLDS4DpP7IVJ67) | 3:26 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCwwZjdiZmI1YTIwOWFiNzk4YjE0ODNkODBlY2M2Njg3YmNmOTA4ZTRl`
+Snapshot ID: `MCwwMmI2MTE4YWY1YTYwNDYyZGY1MzAyYjQyMTJhYjU5ZWExM2M2YzRj`

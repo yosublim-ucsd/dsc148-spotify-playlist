@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Metallica
 
-78 songs - 5 hr 49 min
+79 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Torn Apart](https://open.spotify.com/track/4LM2zp6DJaKQfN0Gyi8Z5f) | [NervoChaos](https://open.spotify.com/artist/79Zxs7jzzD0sCwnYOUCKGx) | [Torn Apart](https://open.spotify.com/album/3jRfBgD7F6J9AhrNMiNbD4) | 3:51 | 2023-07-14 |  |
 | [Under The Sun](https://open.spotify.com/track/232zDRN94ayKlp9SZSsl8r) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7) | [Under The Sun](https://open.spotify.com/album/1oweEZoub0eQXjT0jyGPnY) | 4:54 | 2023-07-14 |  |
 | [Violent Times](https://open.spotify.com/track/1fUnlLKs0e7PrgJ2TnCxHv) | [Red Razor](https://open.spotify.com/artist/5unXbCLWuUcsnAnz4ecKbg) | [The Revolution Continues](https://open.spotify.com/album/1a6jTe9E3iX1hH4xuGT2Qp) | 2:54 | 2023-07-14 |  |
-| [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 | 2023-08-11 |  |
+| [Welcome To The Show](https://open.spotify.com/track/04OvuoFBNK4eFlcHwE1bWV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Road](https://open.spotify.com/album/2dsOdHbpajIJVKkyDBSMZT) | 3:36 | 2023-08-18 |  |
+| [Welcome To The Show](https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Welcome To The Show](https://open.spotify.com/album/4B5NV5m12cfnBDnPdu0A2u) | 3:36 | 2023-08-11 | 2023-08-28 |
 | [You Made Me Want To Live](https://open.spotify.com/track/0oTYX6tG3Nas6dzleBXbh6) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/6ZWvYdM0tNMw4GmE6YIQv0) | 4:31 | 2023-07-14 |  |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2023-07-14 |  |
 

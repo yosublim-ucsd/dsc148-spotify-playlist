@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 168483,
+  "num_followers": 168565,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGZlZjc1MzViZTYwZjJhMzA1M2ZjMzY3ZDQ5MDU5MWEzMjBjYTg3",
+  "snapshot_id": "MCwzMzg4ZmM4MmY3MzU0ODQyZTdjZGU4YTlkYTAzNDU2NmJhZmI5NDYz",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS"
+      },
+      "artists": [
+        {
+          "name": "Raphy Leavitt",
+          "url": "https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Siempre Alegre",
+      "url": "https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
         "name": "Siempre Ser\u00e9 Guajiro",
         "url": "https://open.spotify.com/album/5a7isqzKSbZ8ugfrqq8d8d"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 327497,
       "name": "Siempre Ser\u00e9 Guajiro",
       "url": "https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2GlGH2mmkFoR1mqE6CnCjS"
-      },
-      "artists": [
-        {
-          "name": "Raphy Leavitt",
-          "url": "https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Siempre Alegre",
-      "url": "https://open.spotify.com/track/4VkcFxrSHvqe1zdm8YOQyp"
     },
     {
       "added_at": "2022-02-18 16:03:15",

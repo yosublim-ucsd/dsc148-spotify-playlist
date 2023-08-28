@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,526 likes - 78 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,531 likes - 78 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 60 | [耳の聞こえなくなった恋人とそのうたうたい](https://open.spotify.com/track/1Z9PtbEYirxZx0WfbgdXrp) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [君に聞かせる物語](https://open.spotify.com/album/3dRYI5n16bkFPU7Fvkp4O4) | 5:19 |
 | 61 | [ピエロ](https://open.spotify.com/track/63twOW0iZpYY14IXH36GUf) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [大石昌良の弾き語りラボ](https://open.spotify.com/album/3LN3rh6DtZcM3Y2msQ59Zq) | 4:58 |
 | 62 | [BRAND NEW BLUE \(feat.オーイシマサヨシ\)](https://open.spotify.com/track/3WFmQpUgqoG9fKJQvyTIS2) | [沢村栄純\(CV:逢坂良太\)](https://open.spotify.com/artist/3B9T7Svm2a76E6NpvQPyKx), [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [BRAND NEW BLUE](https://open.spotify.com/album/2b3sq1TGI2I6xOFTBdmPN1) | 3:59 |
-| 63 | [Let's Go!! \~Sing For Tomorrow\~ \- 1コーラスVer.](https://open.spotify.com/track/7AvJWFWr2SwCUf5eUZdtd2) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS), [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY), [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6), [MICHI](https://open.spotify.com/artist/4yFpyuhBThsgE8gypN5v0r) | [Let's Go!! \~Sing For Tomorrow\~](https://open.spotify.com/album/4n1zdCX6uYoaLcAvc9Ej9P) | 1:57 |
+| 63 | [Let's Go!! ～Sing For Tomorrow～ \- 1コーラスVer.](https://open.spotify.com/track/7AvJWFWr2SwCUf5eUZdtd2) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS), [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY), [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6), [MICHI](https://open.spotify.com/artist/4yFpyuhBThsgE8gypN5v0r) | [Let's Go!! ～Sing For Tomorrow～](https://open.spotify.com/album/4n1zdCX6uYoaLcAvc9Ej9P) | 1:57 |
 | 64 | [Kiteretsu Poemer](https://open.spotify.com/track/1o9EK8PpExndtsmFCw1iWe) | [Arisugawa Homare \(CV: Toshiyuki Toyonaga\)](https://open.spotify.com/artist/1kgbXTQYImbycBNev44eXD) | [A3! Blooming Winter EP](https://open.spotify.com/album/77SXAIr4yBdOMSwyXUeFHG) | 3:07 |
 | 65 | [たとえ世界がそっぽ向いても](https://open.spotify.com/track/20O53DvXxXQomJGXqFicLG) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF) | [ALL TIME ROCK 'N' ROLL](https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9) | 4:27 |
 | 66 | [永遠ループ](https://open.spotify.com/track/0PJarEtcj3Y1bXIfXuNPhV) | [Ami Wajima](https://open.spotify.com/artist/7BgfftTW43AJPZiHjABtM2) | [永遠ループ](https://open.spotify.com/album/4w08dZDIB3LwmXtraluQK9) | 3:49 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 77 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 78 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCxlODJiOTI2ZTU4MmI0MGI5Njk3Zjk5ZWI5NTdiMWIzYzljYzVlYjFl`
+Snapshot ID: `MCw5NDE3ZDcyYTYwNzZmZDgwOWRjMmQxOTBiNDc2ZDQ1YjJmODg2OTQ2`

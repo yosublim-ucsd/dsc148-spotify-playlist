@@ -2,9 +2,9 @@
 
 ### [Turnt Mode – Rap Pregame](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame \| Cover: Tyla Yaweh
+> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Polo G and more\. \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame \| Cover: Tyla Yaweh
 
-276 songs - 13 hr 0 min
+277 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 | 2022-07-15 |  |
 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 | 2023-06-02 |  |
 | [Ratch \(feat\. 42 Dugg\)](https://open.spotify.com/track/4300IZycSZEP0Bn20ipbxq) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ratch \(feat\. 42 Dugg\)](https://open.spotify.com/album/46IavVcX7oBl8bSqGXteE8) | 2:27 | 2022-06-03 | 2022-08-13 |
+| [Rich On Grape Street](https://open.spotify.com/track/3F6sLMtMvTeTrREKH2Y1Od) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Rich On Grape Street](https://open.spotify.com/album/1sjghOoEKmHQ9Uucxr012N) | 3:01 | 2023-08-25 |  |
 | [Rich Shit](https://open.spotify.com/track/4OjHlfjQgDzZGi8u0hdDwg) | [Lil Bam](https://open.spotify.com/artist/3S3l1EegoGkmCrbxAmwDxu) | [Rich Shit](https://open.spotify.com/album/3lWNbzLrEhQE2UXlHnB8um) | 2:25 | 2022-11-04 | 2023-04-01 |
 | [Riot](https://open.spotify.com/track/3WjZJKJGwO4xNAbTXdy5jS) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Riot](https://open.spotify.com/album/6JzElRQ0MHpuZ4UrzH1Poc) | 2:24 | 2022-06-10 | 2023-02-25 |
 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 | 2023-07-21 |  |

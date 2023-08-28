@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf?si=njpB4P2ZSRuv40Rv\_uapqg">Jordan Ward</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,339 likes - 99 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,361 likes - 99 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 72 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 |
 | 73 | [Wetin No Good \(Remix\)](https://open.spotify.com/track/4i7WFJtcQYZEY2gIqz6pBN) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Wetin No Good \(Remix\)](https://open.spotify.com/album/0xrMCKn0ROUeUpU8XZooav) | 2:58 |
 | 74 | [Casamigos](https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Casamigos](https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed) | 2:22 |
-| 75 | [Glow On You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4), [YourSndTrk](https://open.spotify.com/artist/2f0KE1Um0D4vszSkad3J5p) | [Glow On You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 |
+| 75 | [Glow On You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4), [YOURSNDTRK](https://open.spotify.com/artist/3mK9cYGDMSXkuP8wcvYKYF) | [Glow On You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 |
 | 76 | [Just Earth with New Skin](https://open.spotify.com/track/13QRcBHGVhUERv5rTqFqk3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Terraform: The Possibility](https://open.spotify.com/album/5D1nLOVbRT9ThDfkKeeh7Q) | 3:20 |
 | 77 | [Damn, Crazy](https://open.spotify.com/track/2OJQNNnEiXyXiNRfl9Q0a2) | [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu) | [Damn, Crazy](https://open.spotify.com/album/7obgy7wcL3CgpiJGthVxuT) | 1:35 |
 | 78 | [FIND MY WAY](https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [FIND MY WAY](https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5) | 1:50 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 98 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 |
 | 99 | [For Granted](https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:41 |
 
-Snapshot ID: `MCwxODc4NTY1YzVlZDQxNjdhNWQ0M2I2NWU4ZjEyZTNhNTk5NjQ5N2Mw`
+Snapshot ID: `MCw0ODk0YmQ1NWRmYWFlNjAzMDZjZjQyN2VlMWI1ZWIzMTY5YzgwMGI4`

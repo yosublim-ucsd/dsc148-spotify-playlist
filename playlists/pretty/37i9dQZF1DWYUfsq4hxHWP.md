@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Logan Crosby, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,163 likes - 187 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,215 likes - 187 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,7 +185,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 175 | [One Song Brings You Back](https://open.spotify.com/track/3e6zezdTqFa2oAIxbGFOyS) | [Kaylens Rain](https://open.spotify.com/artist/2fYyRW0iCIGiN1ju0KcWyO) | [One Song Brings You Back](https://open.spotify.com/album/1uC6mBrguAa1nakTHissII) | 3:36 |
 | 176 | ['01](https://open.spotify.com/track/3DxTQBQcziBLi1DS67BqVD) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | ['01](https://open.spotify.com/album/0i7CY6Cd07kw0lOqacgrAO) | 3:13 |
 | 177 | [I Wish That I Could Call You](https://open.spotify.com/track/7awUoWPrD5LqYkQJCcl3Q5) | [Maddie Wilson](https://open.spotify.com/artist/10PPtrO31Yu7b1gVJ5RM4W) | [I Wish That I Could Call You](https://open.spotify.com/album/0JmrHbVhfO3zUdyjyedXRD) | 3:13 |
-| 178 | [Shoulda Known Better](https://open.spotify.com/track/6XaHVhca3v1P0P7F3bLrqs) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Shoulda Known Better](https://open.spotify.com/album/2k3BC0SBNWrdzjYarwpkrl) | 2:46 |
+| 178 | [Shoulda Known Better](https://open.spotify.com/track/4br26gvkvgv1wB4gdGGMIg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 2:46 |
 | 179 | [He Met a Girl](https://open.spotify.com/track/149UVUIvD89cFQFjiPmfkw) | [Dan Davidson](https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI) | [He Met a Girl](https://open.spotify.com/album/1cp0jUsCHUpoVFVH2EBtm9) | 3:12 |
 | 180 | [Break Itself](https://open.spotify.com/track/2oz7E5CBbelWfZ9MxQZtO6) | [On The Outside](https://open.spotify.com/artist/13Li6fzmLzxxOzMEIRr0TN) | [Break Itself](https://open.spotify.com/album/0OLlFbAMpveR9vevPEWivq) | 2:36 |
 | 181 | [Small Talk](https://open.spotify.com/track/7iktIdboIAWlvf6vLixtdG) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Small Talk](https://open.spotify.com/album/5w71QnOkMJtiVoBQ2gI4Dp) | 3:33 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 186 | [Rinse\. Repeat.](https://open.spotify.com/track/5kxVgrrXzavmgGfg7KLFDO) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Rinse\. Repeat.](https://open.spotify.com/album/1z7vFQc38L29zC0UNBmFzx) | 3:00 |
 | 187 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 |
 
-Snapshot ID: `MCwxNjEwZDRiYTZiNWNhMzUyNTQwZmIyMDdiYWMzN2E1MDRlYTFhNmRl`
+Snapshot ID: `MCxiZTlmMmZiMjk3OTk2MTc5ZmU3Mzc3Mjg2NjkxOTMxZmYxNTg3Nzhi`

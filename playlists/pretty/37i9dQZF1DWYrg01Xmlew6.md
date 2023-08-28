@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Yung Snapp in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,349 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,427 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [NUNN’È COSA](https://open.spotify.com/track/3cUb1152ZSVWm421ksV7VH) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [NUNN’È COSA](https://open.spotify.com/album/6GJZfbAYH8ZwpYv8FocESH) | 2:28 |
 | 55 | [Tu No](https://open.spotify.com/track/0rlRU7hLJNjzI7nCSj9eIP) | [Fiore](https://open.spotify.com/artist/087xYE0Vx9VAmQnkDpCq3R), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Tu No](https://open.spotify.com/album/1dU0OJ5KopEMx9dBx1VMvm) | 2:24 |
 
-Snapshot ID: `MCwzMGY4MDlkMGFjZGIwNmY4NTBkN2E3MDc3NjJjYWQ3MWNiM2Q2OTU5`
+Snapshot ID: `MCw5OWRlZmYwOGI4NTdiMDE2MjAwNzNmYzI4MTNjOTVhNjc0ZmQwNzg0`

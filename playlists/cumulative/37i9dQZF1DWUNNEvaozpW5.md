@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Fito.
 
-321 songs - 20 hr 51 min
+322 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 | 2022-05-26 |  |
 | [Calor y Tiempo](https://open.spotify.com/track/7IUCv34u5Uc3J0xMHl8bWG) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Calor y Tiempo](https://open.spotify.com/album/43qyBmrdzrnTaniiHXQ3ca) | 5:04 | 2023-01-12 | 2023-01-27 |
 | [Camiseta de Rokanrol](https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Camiseta de Rokanrol](https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l) | 3:49 | 2022-05-19 |  |
+| [Candela](https://open.spotify.com/track/5HjShrXAUChXJDyjgZka13) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Candela](https://open.spotify.com/album/3l9sGjSIG3STFT8V65JUB1) | 3:11 | 2023-08-24 |  |
 | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF) | 3:04 | 2023-04-06 | 2023-04-25 |
 | [Carolina \- En directo 2000](https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sin Enchufe](https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj) | 4:23 | 2022-05-26 |  |
 | [Chica de ayer](https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Nacha Pop](https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP) | 3:28 | 2022-05-19 |  |
@@ -239,7 +240,7 @@
 | [Pero igual](https://open.spotify.com/track/1WJMMDwWDoY92YIPEdu85X) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Pero igual](https://open.spotify.com/album/6gPnDp8sPQFIKCenarEM3p) | 3:18 | 2022-09-29 | 2022-10-14 |
 | [Perr@](https://open.spotify.com/track/6ZgbAKNcD6RpSTA3Iw6J0n) | [Javier Corcobado](https://open.spotify.com/artist/38euAah4YlEfvxaaa6kYmg), [Culto Oculto](https://open.spotify.com/artist/2WEYGiEpun91aWUiTY2XRa), [Aintzane con G de Gloria](https://open.spotify.com/artist/02i7Z9rORoCbkleLsFm4Do) | [Somos Demasiados \(Edición Deluxe\)](https://open.spotify.com/album/3M1mh5gwgz0SL1WMpdtnIi) | 2:58 | 2022-05-19 | 2022-05-27 |
 | [Perros Románticos](https://open.spotify.com/track/6K0OujXjXCdkBNUp181kkh) | [Carlos Vudú](https://open.spotify.com/artist/7HmCc2l8NOT3VjhjKGj8dQ) | [Perros Románticos](https://open.spotify.com/album/095kVg9ctC3jlnEmIExWov) | 3:57 | 2022-05-26 | 2022-06-10 |
-| [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 | 2022-05-26 |  |
+| [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 | 2022-05-26 | 2023-08-28 |
 | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj), [Juancho Sidecars](https://open.spotify.com/artist/0SbrR0n1dENC05Dg3Wt5wH) | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I) | 3:43 | 2022-10-27 | 2022-11-18 |
 | [Polvo Vacío](https://open.spotify.com/track/3R2f4sj7M5ktJ2cLyBbYan) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO), [Mastodonte](https://open.spotify.com/artist/4hXAEP4eZ8Et0UMdOdOf0E) | [Polvo Vacío](https://open.spotify.com/album/7t8TDs1aZq2XdAZoYQ3Cch) | 6:09 | 2022-06-02 | 2022-06-17 |
 | [Pongamos Que Hablo De Madrid](https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [12 Botellines Y 5 Tercios](https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd) | 2:55 | 2022-05-19 | 2022-07-29 |

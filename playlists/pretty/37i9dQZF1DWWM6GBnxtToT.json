@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 571110,
+  "num_followers": 571186,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjNlZTA2MWJkNjE5NTIyODZiYTE2MzRmZjdmZDlkYmQ0YWUwNjZh",
+  "snapshot_id": "MCwxYjA0YmU5YTBkNWZiNmNjOWYwYTE2NWFmM2JkZDQyMDM1NzhlOWQz",
   "tracks": [
     {
       "added_at": "2023-08-24 11:35:59",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 222242,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "life goes by",
         "url": "https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 153984,
       "name": "life goes by",
       "url": "https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 222242,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Walking Like That",
-        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
-      },
-      "artists": [
-        {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Walking Like That",
-      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 236119,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "Walking Like That",
+        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
+      },
+      "artists": [
+        {
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Walking Like That",
+      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "ich mags",
-        "url": "https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "ich mags",
-      "url": "https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "Good Mmornin",
         "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Right There",
-        "url": "https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz"
+        "name": "ich mags",
+        "url": "https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS"
       },
       "artists": [
         {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 182936,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/5oXj6bEvSt0piiMFZc8gpE"
+      "duration_ms": 161960,
+      "name": "ich mags",
+      "url": "https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1183,6 +1167,22 @@
       "duration_ms": 215307,
       "name": "A-Train - Edit",
       "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "Right There",
+        "url": "https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "duration_ms": 182936,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/5oXj6bEvSt0piiMFZc8gpE"
     },
     {
       "added_at": "2023-08-24 11:35:59",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-08-24 11:35:59",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
-    },
-    {
-      "added_at": "2023-08-24 11:35:59",
-      "album": {
         "name": "Hole Digger",
         "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 185076,
       "name": "Hole Digger",
       "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
+    },
+    {
+      "added_at": "2023-08-24 11:35:59",
+      "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
     },
     {
       "added_at": "2023-08-24 11:35:59",

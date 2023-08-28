@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 136712,
+  "num_followers": 137117,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTRhYTdlMTQ0Zjg5MjMyNDU2YTYzN2EwNDNkMjRiNGY5NmI5MGRi",
+  "snapshot_id": "MCw0MmZlOGY5N2M2ZDYxOTlkZTJhODA2ODNjZDA2NDA1YjRmZjEzNTdm",
   "tracks": [
     {
       "added_at": "2023-08-24 13:25:33",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-08-24 13:25:33",
       "album": {
-        "name": "The Wonderful World Of Antonio Carlos Jobim",
-        "url": "https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "A Felicidade",
-      "url": "https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq"
-    },
-    {
-      "added_at": "2023-08-24 13:25:33",
-      "album": {
         "name": "O Melhor da Parceria",
         "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 160080,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
+    },
+    {
+      "added_at": "2023-08-24 13:25:33",
+      "album": {
+        "name": "The Wonderful World Of Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 124586,
+      "name": "A Felicidade",
+      "url": "https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq"
     },
     {
       "added_at": "2023-08-24 13:25:33",
@@ -659,18 +659,22 @@
     {
       "added_at": "2023-08-24 13:25:33",
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/2A8A15YTJJEXGUNAJRKMPW"
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
       "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
         {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 180040,
-      "name": "Samba De Uma Nota S\u00f3",
-      "url": "https://open.spotify.com/track/1CKhZVUyHhXKtN6Bo68xqq"
+      "duration_ms": 102733,
+      "name": "Brigas Nunca Mais",
+      "url": "https://open.spotify.com/track/3SkLW48Xt2knevezFTs0pY"
     },
     {
       "added_at": "2023-08-24 13:25:33",
@@ -699,22 +703,18 @@
     {
       "added_at": "2023-08-24 13:25:33",
       "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/2A8A15YTJJEXGUNAJRKMPW"
       },
       "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        },
         {
           "name": "Ant\u00f4nio Carlos Jobim",
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 102733,
-      "name": "Brigas Nunca Mais",
-      "url": "https://open.spotify.com/track/3SkLW48Xt2knevezFTs0pY"
+      "duration_ms": 180040,
+      "name": "Samba De Uma Nota S\u00f3",
+      "url": "https://open.spotify.com/track/1CKhZVUyHhXKtN6Bo68xqq"
     },
     {
       "added_at": "2023-08-24 13:25:33",

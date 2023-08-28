@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 322680,
+  "num_followers": 322836,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWJlNmFmM2YzNzM3NGYxMDczYTU0YTUzMjdhZTNkYjVlZWY0ODAx",
+  "snapshot_id": "MCwwNGQ3Y2E1NjZjYmY1YWRhM2I4YTE4ODgxMmIzMDA1ZjcwYjljYjNm",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
     },
     {
-      "added_at": "2022-03-11 05:43:48",
-      "album": {
-        "name": "Resonant Bodies",
-        "url": "https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz"
-      },
-      "artists": [
-        {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
-        }
-      ],
-      "duration_ms": 144320,
-      "name": "Looking You In Silence",
-      "url": "https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq"
-    },
-    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -227,6 +211,22 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
+    },
+    {
+      "added_at": "2022-03-11 05:43:48",
+      "album": {
+        "name": "Resonant Bodies",
+        "url": "https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        }
+      ],
+      "duration_ms": 144320,
+      "name": "Looking You In Silence",
+      "url": "https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Melancholia VI",
-      "url": "https://open.spotify.com/track/7HfZJvZMAG5TRecSfLwzZN"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Sakura",
@@ -475,6 +459,22 @@
       "duration_ms": 278693,
       "name": "Tobiume",
       "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
+    },
+    {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Melancholia VI",
+      "url": "https://open.spotify.com/track/7HfZJvZMAG5TRecSfLwzZN"
     },
     {
       "added_at": "2022-10-14 13:00:12",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Los Desamores de Dewey Martino",
-        "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
-      },
-      "artists": [
-        {
-          "name": "Dewey Martino",
-          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Pipopapipo",
-      "url": "https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "When Man Fails You",
         "url": "https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 348131,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Los Desamores de Dewey Martino",
+        "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
+      },
+      "artists": [
+        {
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Pipopapipo",
+      "url": "https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
-        "url": "https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T"
-      },
-      "artists": [
-        {
-          "name": "Michiru Aoyama",
-          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
-      "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Spain",
         "url": "https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
+        "url": "https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T"
+      },
+      "artists": [
+        {
+          "name": "Michiru Aoyama",
+          "url": "https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
+      "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"
     },
     {
       "added_at": "2021-10-06 04:52:47",

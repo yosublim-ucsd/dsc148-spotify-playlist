@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Silas Magalhães
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,216 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,399 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 38 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 |
 | 39 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
 | 40 | [Filho Pródigo](https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [Filho Pródigo](https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP) | 1:54 |
-| 41 | [Labirinto](https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Labirinto](https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW) | 3:37 |
-| 42 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 41 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
+| 42 | [Labirinto](https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Labirinto](https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW) | 3:37 |
 | 43 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 |
 | 44 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
 | 45 | [Teste](https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Teste](https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi) | 3:12 |
 | 46 | [Romanos 3: 24](https://open.spotify.com/track/1BktyXmllWajvP7fP2b1Xd) | [Gabriel Pompeo](https://open.spotify.com/artist/14JFOxEqfnMf2YuYsamfe4) | [Romanos 3: 24](https://open.spotify.com/album/4zglNpaYV8KryBUTDv9YTq) | 2:06 |
-| 47 | [Esperança para o Perdido](https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Esperança para o Perdido](https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q) | 3:50 |
-| 48 | [Amor Ágape](https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Ágape](https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc) | 5:26 |
+| 47 | [Amor Ágape](https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Ágape](https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc) | 5:26 |
+| 48 | [Esperança para o Perdido](https://open.spotify.com/track/4UAfUuqFcfimpz2zyhkXPP) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Esperança para o Perdido](https://open.spotify.com/album/4ooKIy2sW48ccw5QMIh92Q) | 3:50 |
 | 49 | [Domingão](https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Domingão](https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v) | 2:23 |
 | 50 | [Me Faz Bem](https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE) | [MARCO AZAUSKI](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k) | [Me Faz Bem](https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4) | 3:06 |
 | 51 | [Nome Sobre Todo Nome](https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Nome Sobre Todo Nome](https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj) | 2:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 79 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 |
 | 80 | [Uma Missão](https://open.spotify.com/track/2bxYiuNc2hYWkuzK5HrVcZ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Uma Missão](https://open.spotify.com/album/3v56SzOs0MHmJ8Vl273i41) | 2:48 |
 
-Snapshot ID: `MCwxZDUzYTIwNWNkMWFhYTA5MWUyMjk5OGYyMzg4Y2E0YTk0YzVmN2Rj`
+Snapshot ID: `MCw2ZmU4YmUyZDdmMzIyNmY4NDdjNTQ4OWZiNzNhMmI1NGZkMjA5Mjg4`

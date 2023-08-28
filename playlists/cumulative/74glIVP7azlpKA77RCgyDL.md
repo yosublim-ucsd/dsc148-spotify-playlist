@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Baroness
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: The Callous Daoboys
 
-486 songs - 1 day 7 hr 18 min
+492 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-02-11 | 2023-07-15 |
 | [Celestial Cyst](https://open.spotify.com/track/14wL8L1F2XrdNopkBfNfRL) | [Artificial Brain](https://open.spotify.com/artist/0FJTTwSyFG3TnPYs0Gwuwr) | [Celestial Cyst](https://open.spotify.com/album/2VO1OEHxQyxYmaN58H3WvA) | 4:30 | 2022-04-08 | 2023-07-15 |
 | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/track/5vw6v6Fta7a4BwHvhMtnVW) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN), [Jacob Lilly](https://open.spotify.com/artist/3liqJR5I9qc7zYvhrM0tUx) | [CHAIN \(feat\. Jacob Lilly\)](https://open.spotify.com/album/6M7pQm8mrIcrc57XXQfNmx) | 1:11 | 2023-04-21 |  |
+| [Chewing The Scenery](https://open.spotify.com/track/5BsNWRk2n7MCzm1IeugikG) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Chewing The Scenery](https://open.spotify.com/album/3Mhb8bZlvkUh7QsofvZvkE) | 3:49 | 2023-08-25 |  |
 | [Christian Missile Crisis](https://open.spotify.com/track/7mvDc5Xwp1SMcOJUduRBA5) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Christian Missile Crisis](https://open.spotify.com/album/67DLHlnVU77iC8AszFPB5W) | 4:57 | 2022-09-30 | 2023-07-15 |
 | [Church Burns](https://open.spotify.com/track/5a6VEGwYR8xM6daWuhml9j) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Church Burns](https://open.spotify.com/album/6Ox5BbUgNycErk1kekWaMB) | 3:03 | 2022-01-21 | 2023-07-15 |
 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 | 2023-04-07 |  |
@@ -84,6 +85,7 @@
 | [Coalescence](https://open.spotify.com/track/6Q40M2CmHgZWDpCghLLhH6) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Coalescence](https://open.spotify.com/album/1yTkDFttSeUh5bKufYBGbj) | 3:13 | 2022-01-14 | 2023-07-15 |
 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 | 2023-07-15 |
 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 | 2022-02-18 | 2023-07-15 |
+| [Collider](https://open.spotify.com/track/6IlKPlDPBvx11UFTfdaxOt) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Collider](https://open.spotify.com/album/5U6toqNWDTsxJiYhn1ZUVy) | 3:41 | 2023-08-25 |  |
 | [Come Hell or High Water](https://open.spotify.com/track/1GSblkbCQSZqMQ34v09fjT) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Come Hell or High Water](https://open.spotify.com/album/5LRfZzTWHyvgnEy3uPyFiS) | 3:47 | 2023-06-23 |  |
 | [Compulsion for Cruelty](https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Compulsion for Cruelty](https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL) | 4:37 | 2022-09-02 | 2023-07-15 |
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-18 | 2023-07-15 |
@@ -232,6 +234,7 @@
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 | 2023-07-15 |
 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-04 |  |
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 | 2023-07-15 |
+| [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-08-25 |  |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-13 |  |
 | [Jesus is God](https://open.spotify.com/track/2CnfignhSXZI0gLCxASRlv) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [Jesus is God](https://open.spotify.com/album/3oaYa6fAwAcCOKtk2f8Sj9) | 2:03 | 2022-12-16 | 2023-07-15 |
 | [Journey of the Host](https://open.spotify.com/track/7fm2ipYq1hEBTdOkAGqdOm) | [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Journey of the Host](https://open.spotify.com/album/00BeFzpaDtXKCWkEoglFqz) | 2:40 | 2023-03-10 |  |
@@ -247,6 +250,7 @@
 | [Liar](https://open.spotify.com/track/09j7RIpXYTfic5Uds4CHsa) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Liar](https://open.spotify.com/album/0TMn3YSFvsM1sVl5COdjVO) | 3:22 | 2022-07-29 | 2023-07-15 |
 | [Life Unknown](https://open.spotify.com/track/0trsDMSa16iKVLvGuwoee2) | [Praise](https://open.spotify.com/artist/5pBjhwqwoCpxGm4igqvgCi) | [Life Unknown](https://open.spotify.com/album/2OHDTjpGe1QosiQiy7UVwe) | 3:37 | 2022-04-22 | 2023-07-15 |
 | [Light The Shortening Fuse](https://open.spotify.com/track/4UFpR9JKj5XIZuwOu6pdro) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Light The Shortening Fuse](https://open.spotify.com/album/50UUnWSbhJ2KMdV7ukscIe) | 4:28 | 2022-03-04 | 2023-07-15 |
+| [Like Humans](https://open.spotify.com/track/3VU17hDUROfzZzHrxpiFPK) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Like Humans](https://open.spotify.com/album/5Am5Rtlr8jlv1VQiZKakk5) | 4:46 | 2023-08-25 |  |
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-04-22 | 2023-07-15 |
 | [Loose Talk](https://open.spotify.com/track/11UO9AIzYPQfn91N093MTo) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Loose Talk](https://open.spotify.com/album/3HUFKFc1c2yA0KZq5VyORJ) | 3:26 | 2022-07-15 | 2023-07-15 |
 | [Lord Of Chaos](https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Lord Of Chaos](https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s) | 3:58 | 2022-02-11 | 2023-07-15 |
@@ -440,6 +444,7 @@
 | [Ultra\-Violence](https://open.spotify.com/track/6x2FkO3YW7zwBmgtWH6lxJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Ultra\-Violence](https://open.spotify.com/album/4hOu1sSu360iLvwL3lF5hM) | 2:10 | 2023-01-27 |  |
 | [Unbridled Fury](https://open.spotify.com/track/5KUh5cJ8iy9qu917XtfMZF) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Unbridled Fury](https://open.spotify.com/album/4Nx90Kc8txadnzrDZsO7OP) | 3:30 | 2023-02-03 |  |
 | [Under My Skin](https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo) | 2:52 | 2023-07-21 |  |
+| [Under The Gun](https://open.spotify.com/track/2cfPWvkroCsCVi21YZhtUi) | [Mouth for War](https://open.spotify.com/artist/2XWmtvXZ0FHiRT9PGzGPaF) | [Under The Gun](https://open.spotify.com/album/3Jo11kwZg9wtMh3dQNE2Ti) | 2:51 | 2023-08-25 |  |
 | [Under the Weight of a Billion Souls](https://open.spotify.com/track/1ZwssJSK0DVLZ2vrHbrvlC) | [Chrome Waves](https://open.spotify.com/artist/2R5Sry7fmvqc3QnoV2myJ4) | [Under the Weight of a Billion Souls](https://open.spotify.com/album/0L2edepdKR9dK85X70lIz1) | 8:27 | 2022-12-16 | 2023-07-15 |
 | [UNTENDED GRAVES](https://open.spotify.com/track/4t9E4wj0PHqNozXXIboLYM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [UNTENDED GRAVES](https://open.spotify.com/album/1hsYH0Y9c8o3siY9FQy1Wm) | 2:17 | 2022-12-16 | 2023-07-15 |
 | [Unwavering Vow](https://open.spotify.com/track/6GGl1K5qvkGHOVrh4pe4TW) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Unwavering Vow](https://open.spotify.com/album/2C7dVc4F38Lxu2CnHo1arQ) | 3:07 | 2022-06-03 | 2023-07-15 |
@@ -455,6 +460,7 @@
 | [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 | 2022-10-28 | 2023-07-15 |
 | [Void of Light](https://open.spotify.com/track/5Q4d2drbLswy6d35s9a0Mn) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Void of Light](https://open.spotify.com/album/45lXSwxmeq0AHX5NL9pevv) | 4:44 | 2022-08-19 | 2023-07-15 |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 | 2023-07-15 |
+| [Waco Jesus](https://open.spotify.com/track/261sv3XoqTlv3TyrdL74bT) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Waco Jesus](https://open.spotify.com/album/2l85mznhWykjvZEu4Lg5MS) | 3:41 | 2023-08-25 |  |
 | [WAIT.](https://open.spotify.com/track/5krg1N1uqaazYwjluaA0aU) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [WAIT.](https://open.spotify.com/album/3BbpccjrteaAM9cwfbgDl2) | 3:00 | 2022-11-11 | 2023-07-15 |
 | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/64rFzne9SQbMWmsVtSll0H) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake Up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/2Vh56LgTE6JXm5lo0GGAHL) | 3:43 | 2022-04-01 | 2023-07-15 |
 | [War Not Beef](https://open.spotify.com/track/6kSMJDGU9Lho9HFrw8kukI) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 3:47 | 2022-10-28 | 2023-07-15 |

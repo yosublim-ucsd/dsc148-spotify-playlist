@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 79808,
+  "num_followers": 79905,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzQxZGQxMTQxMTZiZDdkOTgyMjZjMGM1NjUxODRjNGUxODgxMzZm",
+  "snapshot_id": "MCw1ZmVhMDljNTY4ZDkzNTQwMWVjZGVlYTQ5MzUzMWZmMDFmZTc3ZDcw",
   "tracks": [
     {
       "added_at": "2023-03-27 15:42:25",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 296880,
       "name": "When Somebody Loves You Back",
       "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+      },
+      "artists": [
+        {
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Caravan of Love (Expanded Version)",
-        "url": "https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7"
-      },
-      "artists": [
-        {
-          "name": "Isley, Jasper, Isley",
-          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
-        }
-      ],
-      "duration_ms": 374920,
-      "name": "Insatiable Woman - 12\" Version",
-      "url": "https://open.spotify.com/track/005dZEnx7On15zBKACxlG7"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "As Inesquec\u00edveis De Tim Maia",
         "url": "https://open.spotify.com/album/4W5RIZq0lxqtncklhpH2hV"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 282066,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/0jlDIEbvMEFycwPA5eWBar"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Caravan of Love (Expanded Version)",
+        "url": "https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7"
+      },
+      "artists": [
+        {
+          "name": "Isley, Jasper, Isley",
+          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
+        }
+      ],
+      "duration_ms": 374920,
+      "name": "Insatiable Woman - 12\" Version",
+      "url": "https://open.spotify.com/track/005dZEnx7On15zBKACxlG7"
     },
     {
       "added_at": "2023-03-27 15:42:25",

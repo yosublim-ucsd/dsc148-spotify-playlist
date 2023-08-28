@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj?si=1O2XqTh6T5qdsBZks1oqeA">Sfarzo Rtee</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,728 likes - 51 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,341 likes - 51 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 50 | [Thando](https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Seemah](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) | [Thando](https://open.spotify.com/album/64kXhw73F5xUcVYXZerAtx) | 4:50 |
 | 51 | [Valentines \(feat\. Kabza De Small\)](https://open.spotify.com/track/4GMKUNUvrS8xkaKBgEdAcB) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Uthingo Le Nkosazana](https://open.spotify.com/album/3uJs8ecQGgEsACraT8ucQ7) | 6:22 |
 
-Snapshot ID: `MCw4MGIzYjY4YzZjNzgwY2IzYTMxYTQ2NzdlMjBjZmU0MmVlNjQxNWQz`
+Snapshot ID: `MCw2OTg1YTE5YjY1MTRmOTIwMDhlNWQyMWRhMTk2MTBiYTc0NjlmYWE4`

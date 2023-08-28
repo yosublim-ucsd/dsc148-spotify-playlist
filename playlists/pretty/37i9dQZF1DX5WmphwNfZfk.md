@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,536 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,539 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 24 | [Melanin](https://open.spotify.com/track/4Okac0NBnN75gtBGTEh6Bv) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Melanin](https://open.spotify.com/album/4GJayZNnz62Ui8PEWIOLY6) | 3:16 |
 | 25 | [Thank God](https://open.spotify.com/track/1G5HR5KwSAOdACXPGZOoCo) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Hood Olympics](https://open.spotify.com/album/0iqGtWPjeNmqJgSSMb6EG5) | 2:15 |
 | 26 | [U Want Me](https://open.spotify.com/track/2BSpspvKSbWzcs9OI1hpAE) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [U Want Me](https://open.spotify.com/album/0N8tgi5VU261bD2olFsuJl) | 2:39 |
-| 27 | [Horse Girl](https://open.spotify.com/track/1bYCvwDHqbpUqSMhJEBEL4) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Horse Girl](https://open.spotify.com/album/47bKsrsGDeGa4amY8JjmEL) | 3:30 |
+| 27 | [Horse Girl](https://open.spotify.com/track/4fSNi6pzKIbCIUmvLnEz45) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Rodeo Clown](https://open.spotify.com/album/2bfDkhDate1v4XhetA9SuM) | 3:30 |
 | 28 | [MIX IT UP](https://open.spotify.com/track/0cwh5o0rrAj4uLMu9gDmOR) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Jaay Cee](https://open.spotify.com/artist/26ediE5eaRN7qWJrt2m2lM) | [MIX IT UP](https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s) | 2:27 |
 | 29 | [Good Time](https://open.spotify.com/track/0Bnpz1CaFfX0jvsEjTpBez) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Good Time](https://open.spotify.com/album/6n4HP1Pwg3VrFhBVaPXrmF) | 2:58 |
 | 30 | [This Mess](https://open.spotify.com/track/0FQMhWb3mE3ALWgsaYlAT2) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Yarrow Lover](https://open.spotify.com/album/3ayNhLRIDKjMADyYTPqgSz) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Fatal Flaw](https://open.spotify.com/track/3APUm7NkHTlKjnNeMdAsCy) | [Allegra Jordyn](https://open.spotify.com/artist/2CVFLhroSUN5E5r8FW25LR) | [Fatal Flaw](https://open.spotify.com/album/1yBhmKGCaj9OzjRzvpY2XJ) | 3:32 |
 | 50 | [Fatiguée](https://open.spotify.com/track/6p5wW2wyB77K43YAqTeIma) | [Jeanne Laforest](https://open.spotify.com/artist/22pR3J0Y0WNrj8gS0TSaHb) | [Puisque les heures nous manquent](https://open.spotify.com/album/0V3mQctTFlwTEASUWVmRek) | 3:21 |
 
-Snapshot ID: `MCxjOGNlNmYzMzIzMWNhOThmYzk2ODFkYjEzYmJlMmI4ZjNjMmFiNmVk`
+Snapshot ID: `MCwxYWU2ODA2OWNjNjc1NzYzYmVhYmQxMWQwYjI3OTgwMTYzYjljZTRm`

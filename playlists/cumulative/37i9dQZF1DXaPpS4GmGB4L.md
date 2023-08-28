@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-171 songs - 9 hr 49 min
+172 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Hate to See You Go](https://open.spotify.com/track/57Paxn9MrW8d8FmFyndLKj) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Original Lost Elektra Sessions](https://open.spotify.com/album/1cJp20pcnm5tM2eeBhIbMz) | 4:34 | 2023-08-18 |  |
 | [Hello Little Girl](https://open.spotify.com/track/2nof4LgSAxUeJPiwLAvkND) | [Big Miller](https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn) | [Last of the Blues Shouters](https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0) | 4:09 | 2022-05-27 |  |
 | [Hey! You Know You Wanna!](https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk) | [The Delta Bombers](https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz) | [Neon Sounds](https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL) | 4:07 | 2023-08-18 |  |
+| [Hey, Hey](https://open.spotify.com/track/19gGTp7TUX1GaWw05Ji1IR) | [Big Walter Horton's Blues Harp Band](https://open.spotify.com/artist/17GMTl9pnA3XqbTwZBrlta) | [Chicago/The Blues/Today!](https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw) | 2:24 | 2023-08-25 |  |
 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 | 2021-12-20 |  |
 | [Hound Dog On a Chain](https://open.spotify.com/track/7cqji2mGT2RZLt8MdpH0Eb) | [Blue Moon Marquee](https://open.spotify.com/artist/6bVy3C1kw2FPWgpLcoBWk1) | [Hound Dog On a Chain](https://open.spotify.com/album/2sqPeDIMh2NroqCEU0DTto) | 3:21 | 2022-11-17 |  |
 | [Hungry and Ready \(feat\. Melvin Taylor\)](https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Melvin Taylor](https://open.spotify.com/artist/2JBKZGnF8j5nadn67i5B10) | [The Sun is Shining Down](https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt) | 5:00 | 2022-02-04 |  |
@@ -151,7 +152,7 @@
 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [James Bracken](https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 | 2021-12-20 |  |
 | [Stop Messin' Round](https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 3:37 | 2022-05-27 |  |
 | [Stormy Monday Blues \- Remastered 2022](https://open.spotify.com/track/0E5L3ZvZD3cGCesbYuAtnY) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 2:51 | 2023-08-18 |  |
-| [Sweet Like Sugar](https://open.spotify.com/track/44LsPNyywQt1ztLNiSXC5H) | [Jesse Ray and the Carolina Catfish](https://open.spotify.com/artist/4Qafc3GarByfVBFGCi81zy) | [Sweet Like Sugar](https://open.spotify.com/album/0IP5xdy2rkJ7wZE5mNw51y) | 2:53 | 2023-08-18 |  |
+| [Sweet Like Sugar](https://open.spotify.com/track/44LsPNyywQt1ztLNiSXC5H) | [Jesse Ray and the Carolina Catfish](https://open.spotify.com/artist/4Qafc3GarByfVBFGCi81zy) | [Sweet Like Sugar](https://open.spotify.com/album/0IP5xdy2rkJ7wZE5mNw51y) | 2:53 | 2023-08-18 | 2023-08-28 |
 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 | 2021-12-20 |  |
 | [Texas Louisiana \(feat\. Buddy Guy\)](https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 2:55 | 2023-08-18 |  |
 | [That's What Love Will Make You Do](https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [That's What Love Will Make You Do](https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp) | 4:05 | 2023-01-13 |  |

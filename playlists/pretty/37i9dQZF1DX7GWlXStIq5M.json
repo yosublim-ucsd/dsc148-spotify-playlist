@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Ludmilla",
-  "num_followers": 364817,
+  "num_followers": 365038,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOThjY2JlZDU0MjdjNDVkMWFjNzE4NDk5Y2E1N2UzZDJiNGQ5MjU0",
+  "snapshot_id": "MCw4ZjYxNjdiZmQ2NDk1M2IzMWY2YjA5Yjk2M2ZjYjE0MjY5NTA1MTg0",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -191,22 +191,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "JOIA RARA",
-        "url": "https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc Tato",
-          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 152888,
-      "name": "JOIA RARA",
-      "url": "https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp"
+      "duration_ms": 175086,
+      "name": "Me Lambe",
+      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -231,18 +227,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+        "name": "JOIA RARA",
+        "url": "https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN"
       },
       "artists": [
         {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Tato",
+          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
         }
       ],
-      "duration_ms": 175086,
-      "name": "Me Lambe",
-      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
+      "duration_ms": 152888,
+      "name": "JOIA RARA",
+      "url": "https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -371,6 +371,46 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Pilantra",
+        "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 192708,
+      "name": "Pilantra",
+      "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "miamor",
+        "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "F\u00e9 nas Maluca",
         "url": "https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA"
       },
@@ -387,6 +427,26 @@
       "duration_ms": 143221,
       "name": "F\u00e9 nas Maluca",
       "url": "https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Vai Vendo",
+        "url": "https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 162221,
+      "name": "Vai Vendo",
+      "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -427,82 +487,6 @@
       "duration_ms": 155454,
       "name": "SEREIA",
       "url": "https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Pilantra",
-        "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 192708,
-      "name": "Pilantra",
-      "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Vai Vendo",
-        "url": "https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 162221,
-      "name": "Vai Vendo",
-      "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "miamor",
-        "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "miamor",
-      "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Tudo Pra Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -555,22 +539,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Funk Generation: A Favela Love Story",
-        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 133140,
-      "name": "Casi Casi",
-      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Baile do Papato",
         "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
@@ -603,22 +571,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 204235,
-      "name": "Fiu Fiu",
-      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
+      "duration_ms": 175000,
+      "name": "Tudo Pra Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -639,6 +603,42 @@
       "duration_ms": 178295,
       "name": "Flash Volta",
       "url": "https://open.spotify.com/track/4r7ilX64LXTk5UvuWLHmSB"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 204235,
+      "name": "Fiu Fiu",
+      "url": "https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Funk Generation: A Favela Love Story",
+        "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 133140,
+      "name": "Casi Casi",
+      "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -979,54 +979,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "wet dreams",
-        "url": "https://open.spotify.com/album/4QESz2kWI20OOAeiPDjNnU"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 141966,
-      "name": "wet dreams",
-      "url": "https://open.spotify.com/track/0k9wOEjffXnwzbypcgLt1a"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Cadeado",
-      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Que Passa",
-        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 193861,
-      "name": "Que Passa",
-      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Hentai",
         "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
       },
@@ -1047,6 +999,54 @@
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Cadeado",
+      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "wet dreams",
+        "url": "https://open.spotify.com/album/4QESz2kWI20OOAeiPDjNnU"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 141966,
+      "name": "wet dreams",
+      "url": "https://open.spotify.com/track/0k9wOEjffXnwzbypcgLt1a"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Que Passa",
+        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 193861,
+      "name": "Que Passa",
+      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "J\u00e1 Era",
-        "url": "https://open.spotify.com/album/5L5tyAQX0cihzOp4d5q2JZ"
-      },
-      "artists": [
-        {
-          "name": "Paulla",
-          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "DJ Caetano",
-          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "J\u00e1 Era",
-      "url": "https://open.spotify.com/track/3A1tt0SbAa8FJAu3SUDcpw"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Anjos E Ancestrais",
         "url": "https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz"
       },
@@ -1255,22 +1231,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "S\u00f3 Sinto",
-        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
-      },
-      "artists": [
-        {
-          "name": "Cac\u00e1 Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
-        }
-      ],
-      "duration_ms": 141484,
-      "name": "Cora\u00e7\u00e3o Solto",
-      "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Um Dois",
         "url": "https://open.spotify.com/album/4YFG2PvHDejBIVpFD6HIv6"
       },
@@ -1291,22 +1251,26 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Se Entregue",
-        "url": "https://open.spotify.com/album/2uIFw8t8vjPirLoRia0yII"
+        "name": "J\u00e1 Era",
+        "url": "https://open.spotify.com/album/5L5tyAQX0cihzOp4d5q2JZ"
       },
       "artists": [
         {
-          "name": "Aya",
-          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
+          "name": "Paulla",
+          "url": "https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns"
         },
         {
-          "name": "Dj Will",
-          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "DJ Caetano",
+          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
         }
       ],
-      "duration_ms": 260887,
-      "name": "Se Entregue",
-      "url": "https://open.spotify.com/track/4OSbrWCom49jTHMhhprk0I"
+      "duration_ms": 156000,
+      "name": "J\u00e1 Era",
+      "url": "https://open.spotify.com/track/3A1tt0SbAa8FJAu3SUDcpw"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1327,22 +1291,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "DEZ EM DEZ",
-        "url": "https://open.spotify.com/album/2EvPoH55P6BNg7gn3RFFmE"
+        "name": "S\u00f3 Sinto",
+        "url": "https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA"
       },
       "artists": [
         {
-          "name": "Trist\u00e3o",
-          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+          "name": "Cac\u00e1 Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk"
         }
       ],
-      "duration_ms": 117818,
-      "name": "DEZ EM DEZ",
-      "url": "https://open.spotify.com/track/7B2R72DIxC8tftZY0eSTcU"
+      "duration_ms": 141484,
+      "name": "Cora\u00e7\u00e3o Solto",
+      "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1367,26 +1327,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "O Tempo N\u00e3o P\u00e1ra",
-        "url": "https://open.spotify.com/album/5FuERvnBsAuB0iBk99uANR"
-      },
-      "artists": [
-        {
-          "name": "Reddy Allor",
-          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 174478,
-      "name": "O Tempo N\u00e3o P\u00e1ra",
-      "url": "https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "PLAYLIST TRANSANTE 2.0",
         "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
       },
@@ -1407,38 +1347,62 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "43 Licor",
-        "url": "https://open.spotify.com/album/0rdWuWzmkYrFbiJOxgEgu2"
+        "name": "Se Entregue",
+        "url": "https://open.spotify.com/album/2uIFw8t8vjPirLoRia0yII"
       },
       "artists": [
         {
-          "name": "Isadora Vilela",
-          "url": "https://open.spotify.com/artist/7pBFXpm3z5suv9hCELSMnU"
+          "name": "Aya",
+          "url": "https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm"
         },
         {
-          "name": "Jadeco",
-          "url": "https://open.spotify.com/artist/7dpEbLilPHKGJGCTyuI9FL"
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
         }
       ],
-      "duration_ms": 176000,
-      "name": "43 Licor",
-      "url": "https://open.spotify.com/track/35cfiw0V40lXLP2LKljJY0"
+      "duration_ms": 260887,
+      "name": "Se Entregue",
+      "url": "https://open.spotify.com/track/4OSbrWCom49jTHMhhprk0I"
     },
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Tua Bitch",
-        "url": "https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY"
+        "name": "DEZ EM DEZ",
+        "url": "https://open.spotify.com/album/2EvPoH55P6BNg7gn3RFFmE"
       },
       "artists": [
         {
-          "name": "Dona Nyna",
-          "url": "https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ"
+          "name": "Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         }
       ],
-      "duration_ms": 193411,
-      "name": "TUA BITCH",
-      "url": "https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL"
+      "duration_ms": 117818,
+      "name": "DEZ EM DEZ",
+      "url": "https://open.spotify.com/track/7B2R72DIxC8tftZY0eSTcU"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "O Tempo N\u00e3o P\u00e1ra",
+        "url": "https://open.spotify.com/album/5FuERvnBsAuB0iBk99uANR"
+      },
+      "artists": [
+        {
+          "name": "Reddy Allor",
+          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 174478,
+      "name": "O Tempo N\u00e3o P\u00e1ra",
+      "url": "https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1467,6 +1431,26 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "43 Licor",
+        "url": "https://open.spotify.com/album/0rdWuWzmkYrFbiJOxgEgu2"
+      },
+      "artists": [
+        {
+          "name": "Isadora Vilela",
+          "url": "https://open.spotify.com/artist/7pBFXpm3z5suv9hCELSMnU"
+        },
+        {
+          "name": "Jadeco",
+          "url": "https://open.spotify.com/artist/7dpEbLilPHKGJGCTyuI9FL"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "43 Licor",
+      "url": "https://open.spotify.com/track/35cfiw0V40lXLP2LKljJY0"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "BROKEN HEARTS CLUB",
         "url": "https://open.spotify.com/album/43OjImDFvgDCXHysNVNhUS"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 129565,
       "name": "Quando a noite vem",
       "url": "https://open.spotify.com/track/29KMeIz2xKL26X6UzvPHd7"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Tua Bitch",
+        "url": "https://open.spotify.com/album/3kGPprFPCsh8G82UfU5nDY"
+      },
+      "artists": [
+        {
+          "name": "Dona Nyna",
+          "url": "https://open.spotify.com/artist/6PTL1TJ8Chen7iN4cQFGpQ"
+        }
+      ],
+      "duration_ms": 193411,
+      "name": "TUA BITCH",
+      "url": "https://open.spotify.com/track/72BAYk9CRm5tPSFmc33djL"
     }
   ],
   "unique_name": "Palco POP",

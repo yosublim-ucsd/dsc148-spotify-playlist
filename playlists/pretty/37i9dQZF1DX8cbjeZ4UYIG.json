@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
-  "num_followers": 291182,
+  "num_followers": 291353,
   "original_name": "Rave Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGViYWJhYTY2YjU3MTc3MThhZmIxODEyZDcyNGZjM2VmOTJmNzU1",
+  "snapshot_id": "MCwwYTIzMjFkMzM1MjM2NzBjNzdkOWRjZjU1YTlmMjgzMjcyNmIyMDQ3",
   "tracks": [
     {
       "added_at": "2020-10-06 12:32:47",
@@ -175,22 +175,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "On a Ragga Tip '97",
-        "url": "https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI"
-      },
-      "artists": [
-        {
-          "name": "SL2",
-          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
-        }
-      ],
-      "duration_ms": 309426,
-      "name": "On a Ragga Tip '97 - Original Mix",
-      "url": "https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Chime",
         "url": "https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 194760,
       "name": "Chime - Edit",
       "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "On a Ragga Tip '97",
+        "url": "https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI"
+      },
+      "artists": [
+        {
+          "name": "SL2",
+          "url": "https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn"
+        }
+      ],
+      "duration_ms": 309426,
+      "name": "On a Ragga Tip '97 - Original Mix",
+      "url": "https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -419,22 +419,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Jungle Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
-      },
-      "artists": [
-        {
-          "name": "Tom & Jerry",
-          "url": "https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Maximum Style (Lover To Lover)",
-      "url": "https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "Such A Good Feeling",
         "url": "https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 226293,
       "name": "Such A Good Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Jungle Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z"
+      },
+      "artists": [
+        {
+          "name": "Tom & Jerry",
+          "url": "https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Maximum Style (Lover To Lover)",
+      "url": "https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "Digeridoo",
-        "url": "https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 431466,
-      "name": "Digeridoo",
-      "url": "https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "80s 100 Hits - Volume 2",
         "url": "https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 202986,
       "name": "Beat Dis",
       "url": "https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "Digeridoo",
+        "url": "https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 431466,
+      "name": "Digeridoo",
+      "url": "https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU"
     },
     {
       "added_at": "2020-10-06 12:32:47",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-10-06 12:32:47",
       "album": {
-        "name": "This Style",
-        "url": "https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR"
-      },
-      "artists": [
-        {
-          "name": "SHY FX",
-          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
-        }
-      ],
-      "duration_ms": 334129,
-      "name": "This Style",
-      "url": "https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2"
-    },
-    {
-      "added_at": "2020-10-06 12:32:47",
-      "album": {
         "name": "40 Miles",
         "url": "https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 328829,
       "name": "40 Miles",
       "url": "https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo"
+    },
+    {
+      "added_at": "2020-10-06 12:32:47",
+      "album": {
+        "name": "This Style",
+        "url": "https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "duration_ms": 334129,
+      "name": "This Style",
+      "url": "https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2"
     },
     {
       "added_at": "2020-10-06 12:32:47",

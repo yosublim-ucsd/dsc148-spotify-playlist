@@ -1,12 +1,12 @@
 {
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID.",
-  "num_followers": 70218,
+  "num_followers": 70290,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTkyODgzZmExZTgyMjkyNzgzZDk3Y2Q2N2UwNDdjMzc4YzgzYWU1",
+  "snapshot_id": "MCw0ZmI2OGYyNmUzYTRjYmI0OWFmOWJjNzA4MTQyOTExMWMzYjA4ZDE2",
   "tracks": [
     {
       "added_at": "2023-08-24 16:17:52",
@@ -451,18 +451,22 @@
     {
       "added_at": "2023-08-24 16:17:52",
       "album": {
-        "name": "DAISAN WAVE",
-        "url": "https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i"
+        "name": "Young Girl A (one day After Another Remix)",
+        "url": "https://open.spotify.com/album/1olPBlVuFykQpy25lUxxOm"
       },
       "artists": [
         {
-          "name": "Mikito P",
-          "url": "https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52"
+          "name": "Siinamota",
+          "url": "https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD"
+        },
+        {
+          "name": "sasanomaly",
+          "url": "https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ"
         }
       ],
-      "duration_ms": 230400,
-      "name": "\u30ed\u30ad",
-      "url": "https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd"
+      "duration_ms": 230964,
+      "name": "Young Girl A - one day After Another Remix",
+      "url": "https://open.spotify.com/track/3rzVcHw0hwVgDEq5udhUJS"
     },
     {
       "added_at": "2023-08-24 16:17:52",
@@ -515,22 +519,18 @@
     {
       "added_at": "2023-08-24 16:17:52",
       "album": {
-        "name": "Young Girl A (one day After Another Remix)",
-        "url": "https://open.spotify.com/album/1olPBlVuFykQpy25lUxxOm"
+        "name": "Exit Tunes Presents Supernova",
+        "url": "https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X"
       },
       "artists": [
         {
-          "name": "Siinamota",
-          "url": "https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD"
-        },
-        {
-          "name": "sasanomaly",
-          "url": "https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ"
+          "name": "wowaka",
+          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
         }
       ],
-      "duration_ms": 230964,
-      "name": "Young Girl A - one day After Another Remix",
-      "url": "https://open.spotify.com/track/3rzVcHw0hwVgDEq5udhUJS"
+      "duration_ms": 194000,
+      "name": "Rollin\u2019 Girl",
+      "url": "https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2"
     },
     {
       "added_at": "2023-08-24 16:17:52",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-08-24 16:17:52",
       "album": {
-        "name": "Exit Tunes Presents Supernova",
-        "url": "https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X"
+        "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS"
       },
       "artists": [
         {
-          "name": "wowaka",
-          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Rollin\u2019 Girl",
-      "url": "https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2"
+      "duration_ms": 159000,
+      "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"
     },
     {
       "added_at": "2023-08-24 16:17:52",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-08-24 16:17:52",
       "album": {
-        "name": "\u6700\u60aa",
-        "url": "https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW"
+        "name": "DAISAN WAVE",
+        "url": "https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i"
       },
       "artists": [
         {
-          "name": "syudou",
-          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+          "name": "Mikito P",
+          "url": "https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52"
         }
       ],
-      "duration_ms": 197931,
-      "name": "\u30d3\u30bf\u30fc\u30c1\u30e7\u30b3\u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU"
+      "duration_ms": 230400,
+      "name": "\u30ed\u30ad",
+      "url": "https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd"
     },
     {
       "added_at": "2023-08-24 16:17:52",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-08-24 16:17:52",
       "album": {
+        "name": "\u6700\u60aa",
+        "url": "https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "duration_ms": 197931,
+      "name": "\u30d3\u30bf\u30fc\u30c1\u30e7\u30b3\u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU"
+    },
+    {
+      "added_at": "2023-08-24 16:17:52",
+      "album": {
         "name": "ENVY BABY",
         "url": "https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 135789,
       "name": "ENVY BABY",
       "url": "https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk"
-    },
-    {
-      "added_at": "2023-08-24 16:17:52",
-      "album": {
-        "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"
     },
     {
       "added_at": "2023-08-24 16:17:52",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-24 16:17:52",
       "album": {
-        "name": "DARLING SYNDROME",
-        "url": "https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9"
-      },
-      "artists": [
-        {
-          "name": "Kairikibear",
-          "url": "https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE"
-        }
-      ],
-      "duration_ms": 206274,
-      "name": "DARLING DANCE",
-      "url": "https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij"
-    },
-    {
-      "added_at": "2023-08-24 16:17:52",
-      "album": {
         "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"
+    },
+    {
+      "added_at": "2023-08-24 16:17:52",
+      "album": {
+        "name": "DARLING SYNDROME",
+        "url": "https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9"
+      },
+      "artists": [
+        {
+          "name": "Kairikibear",
+          "url": "https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE"
+        }
+      ],
+      "duration_ms": 206274,
+      "name": "DARLING DANCE",
+      "url": "https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij"
     },
     {
       "added_at": "2023-08-24 16:17:52",

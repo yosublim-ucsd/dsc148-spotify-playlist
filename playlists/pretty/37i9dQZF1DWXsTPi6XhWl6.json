@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33856,
+  "num_followers": 33860,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzYyZjg2NTRhZjE5NWQ0OWJjYWQyYjVjZTM3NTk4ZTU2NDdkNzVj",
+  "snapshot_id": "MCw1Nzc4ZDczM2I5ODIwYjJmYmI0OTQwODliODJiMzgwNTgwZTA5ZmVm",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "God's Favorite Customer",
-        "url": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 183532,
-      "name": "Mr. Tillman",
-      "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "God's Favorite Customer",
+        "url": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 183532,
+      "name": "Mr. Tillman",
+      "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Can't Wake Up",
-        "url": "https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 270135,
-      "name": "Mansion Door",
-      "url": "https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "The Black Dirt Sessions",
         "url": "https://open.spotify.com/album/2XsWRPltTHzmdDtzwevG0w"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 223933,
       "name": "Twenty Miles",
       "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Can't Wake Up",
+        "url": "https://open.spotify.com/album/2Wfr01LIuo5Uy5Es51Q8b5"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 270135,
+      "name": "Mansion Door",
+      "url": "https://open.spotify.com/track/0IREGCigdEmhoBup3ffrPb"
     },
     {
       "added_at": "2022-06-17 04:02:00",

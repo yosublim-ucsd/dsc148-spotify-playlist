@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: Charlotte Day Wilson, Snoh Aalegra
 
-961 songs - 2 day 8 hr 35 min
+962 songs - 2 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,7 +611,8 @@
 | [Oh My God](https://open.spotify.com/track/0UB94ZGWfTKiC0jvihgnc4) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Oh My God](https://open.spotify.com/album/3elA2Wn9aykp0bp728nm62) | 3:14 | 2020-02-12 | 2020-04-18 |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2020-10-23 | 2023-06-25 |
 | [Ojalá](https://open.spotify.com/track/4faMpESfM79zvaCQLk77jt) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/1PoyKNQHrb5P4kLYJP2w3e) | 5:15 | 2023-06-30 | 2023-07-15 |
-| [Ojalá](https://open.spotify.com/track/7vWo3iSvgtpFtuSZeUAK7a) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/2imTMz6pOueudBTtYwfjVv) | 5:15 | 2023-07-14 |  |
+| [Ojalá](https://open.spotify.com/track/5rebri0zyAov1vW9faM3wy) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Pearl](https://open.spotify.com/album/6VO0kbsASYzqsleTf3pKN5) | 5:15 | 2023-08-25 |  |
+| [Ojalá](https://open.spotify.com/track/7vWo3iSvgtpFtuSZeUAK7a) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/2imTMz6pOueudBTtYwfjVv) | 5:15 | 2023-07-14 | 2023-08-28 |
 | [On A Beach](https://open.spotify.com/track/2L5C7PD6XsSVDv7RLhoh4i) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [2 METRES APART](https://open.spotify.com/album/4aZ3411k7YWqlKH0wKAQW9) | 3:19 | 2020-06-19 | 2020-09-04 |
 | [On a Blue Sunny Day](https://open.spotify.com/track/2WEidJAW3jMLM0mtpmh0ya) | [Leo Pesci](https://open.spotify.com/artist/2JRSgE22ZVQ7pdqnv46QGQ) | [On a Blue Sunny Day](https://open.spotify.com/album/76rPJkqnXHmwgWhsVAWUUR) | 3:22 | 2020-12-11 | 2022-05-27 |
 | [On Repeat](https://open.spotify.com/track/3HXdqRgJq1PxhPyERUPx1d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Osiris EP](https://open.spotify.com/album/6yRrlH2Lw1Zlu0hxd6vq7n) | 3:01 | 2021-09-09 | 2022-05-10 |

@@ -4,7 +4,7 @@
 
 > Estamos listas para un festival único • <a href="https://www.ticketek.com.ar/festival\-equal/hipodromo\-de\-palermo">Comprá tu entrada acá</a> <br/>\#FestivalEQUAL • 16 de septiembre • Hipódromo de Palermo
 
-798 songs - 1 day 18 hr 56 min
+799 songs - 1 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Mi Cultura La Copla](https://open.spotify.com/track/2OuN858EC6856a16wvEIzP) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk) | 2:33 | 2022-09-07 | 2022-10-06 |
 | [Mi Delito](https://open.spotify.com/track/3uZw29gpuA36zZAEqheKVi) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Mi Delito](https://open.spotify.com/album/14AvZT7RpOOXcskfZjZ2jq) | 2:53 | 2022-04-06 | 2022-05-05 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-07 | 2023-01-05 |
+| [Mi Nombre](https://open.spotify.com/track/0HyUOz2Xp4d61ew3TCMkKC) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/611yD7i7O9bFuVchCzfbl7) | 3:53 | 2023-08-18 |  |
 | [mi otra mitad](https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:46 | 2023-02-01 | 2023-03-02 |
 | [Mi Poder](https://open.spotify.com/track/5u6vrXSwaWevC7udvjdGnD) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Mi Poder](https://open.spotify.com/album/4liTpNtI16hNlia7Sa841E) | 3:42 | 2022-06-01 | 2022-07-07 |
 | [Mi Propia Marca](https://open.spotify.com/track/27yjMCLWNXR4GwDnS2VA4P) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy), [manza / Mariano Esain](https://open.spotify.com/artist/0XkmUhX2g7S8uPV4DJs0V7), [Luciano Esain](https://open.spotify.com/artist/0a54l9yhecDOrqtZ62eNOe), [Federico Ghazarossian](https://open.spotify.com/artist/1WB0iSuTZzpDsMywtwK8kg) | [5 Finales para el Mismo Cuento](https://open.spotify.com/album/4LpYb5KwwGtMfFq5hlUVhU) | 4:26 | 2022-07-06 | 2022-08-04 |
@@ -691,7 +692,7 @@
 | [Subtítulo: Te Amo](https://open.spotify.com/track/04T6yie5egZkdNjOfuMOw1) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Subtítulo: Te Amo](https://open.spotify.com/album/6bW9BQdiMATcuQLXRYn8VF) | 3:29 | 2022-02-02 | 2022-08-04 |
 | [SUELTO](https://open.spotify.com/track/1wGRgZ53XqiTNmwJCYiudy) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [SUELTO](https://open.spotify.com/album/4sbivM4b9qHO8Lr9rJyEXN) | 2:37 | 2022-03-08 |  |
 | [Sueñero](https://open.spotify.com/track/3Rlbk1Mm0XndoOeZgA8yfK) | [Mili Escudero y Agus Solá](https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU) | [Cuando Vuelva a encontrarte](https://open.spotify.com/album/6QOXVaBClkF46LEXMIaGnW) | 2:55 | 2022-09-07 | 2022-10-06 |
-| [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 | 2023-07-05 |  |
+| [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 | 2023-07-05 | 2023-08-28 |
 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 | 2022-02-02 | 2022-07-07 |
 | [Suficiente](https://open.spotify.com/track/7fw3peQiSzW95Ml8qdrLLL) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Suficiente](https://open.spotify.com/album/18QNy4Oc52NDCT7k6JbMnC) | 3:45 | 2022-08-03 | 2022-09-09 |
 | [Supe Que Me Amabas](https://open.spotify.com/track/6MaTna8KTEchLEYmdzwgs5) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Supe Que Me Amabas](https://open.spotify.com/album/0WcC3WFfQKjK2V5czeyUU3) | 3:23 | 2022-11-07 | 2022-12-01 |

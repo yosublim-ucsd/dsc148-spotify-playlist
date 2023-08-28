@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,572 likes - 103 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,606 likes - 103 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 102 | [The Chant \(Live 1960\)](https://open.spotify.com/track/1mtO7k5FGRjlJmrM9nf5GH) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Live in Paris](https://open.spotify.com/album/1rNkK7VLotjAHOQJ08nQe1) | 9:02 |
 | 103 | [The People In Nassau](https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Heads Up!](https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC) | 5:39 |
 
-Snapshot ID: `MCw5MmJjNjA5Mzk1ODUyZmEyMTQ2N2IzOGUzODMzZjVmN2I2MDViYjhk`
+Snapshot ID: `MCxmMTEzYWZkYzQzYTlhZDQ1OTE1NTZlZDkwNGU5OTMxODhhYTI3OWQ4`

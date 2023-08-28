@@ -1,12 +1,12 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: SiM",
-  "num_followers": 38912,
+  "num_followers": 38943,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmViYTU3ODc3MTM1M2E5NTU1ZDEzMzk4YzA2ZmU1MTJmZDBkY2Mz",
+  "snapshot_id": "MCxiMzE1MWM5ODZkNGVjMDUzZWNjZWI2MjI0YjczNjIyZTI2ZDY5Y2Q1",
   "tracks": [
     {
       "added_at": "2023-08-24 15:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-24 15:00:00",
       "album": {
-        "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 (2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.)",
-        "url": "https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd"
-      },
-      "artists": [
-        {
-          "name": "Yabai T-Shirts Yasan",
-          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
-        }
-      ],
-      "duration_ms": 229642,
-      "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 - 2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.",
-      "url": "https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq"
-    },
-    {
-      "added_at": "2023-08-24 15:00:00",
-      "album": {
         "name": "Mountain Top",
         "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
+    },
+    {
+      "added_at": "2023-08-24 15:00:00",
+      "album": {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 (2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.)",
+        "url": "https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd"
+      },
+      "artists": [
+        {
+          "name": "Yabai T-Shirts Yasan",
+          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
+        }
+      ],
+      "duration_ms": 229642,
+      "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 - 2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.",
+      "url": "https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq"
     },
     {
       "added_at": "2023-08-24 15:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-08-24 15:00:00",
       "album": {
-        "name": "\u795e\u55b0",
-        "url": "https://open.spotify.com/album/3FoVC8Zy0jfO1StE9FZKXt"
-      },
-      "artists": [
-        {
-          "name": "Knosis",
-          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
-        }
-      ],
-      "duration_ms": 130746,
-      "name": "\u795e\u55b0",
-      "url": "https://open.spotify.com/track/2fBizJMoZl7rMkyOnOKU5e"
-    },
-    {
-      "added_at": "2023-08-24 15:00:00",
-      "album": {
         "name": "TIGHTROPE",
         "url": "https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
+    },
+    {
+      "added_at": "2023-08-24 15:00:00",
+      "album": {
+        "name": "\u795e\u55b0",
+        "url": "https://open.spotify.com/album/3FoVC8Zy0jfO1StE9FZKXt"
+      },
+      "artists": [
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "duration_ms": 130746,
+      "name": "\u795e\u55b0",
+      "url": "https://open.spotify.com/track/2fBizJMoZl7rMkyOnOKU5e"
     },
     {
       "added_at": "2023-08-24 15:00:00",

@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Acide",
+        "url": "https://open.spotify.com/album/0UjOOxQqX2guMInZQUUIsh"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159047,
+      "name": "Acide",
+      "url": "https://open.spotify.com/track/5OEKWNC6VYU1Hpc48YdgBj"
+    },
+    {
+      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/409JzsQzbj6QxKu24FtSML"
       },
@@ -206,6 +224,36 @@
       "duration_ms": 154800,
       "name": "Annihilator",
       "url": "https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI"
+    },
+    {
+      "album": {
+        "name": "Asking (feat. Clementine Douglas) [Joshwa Remix]",
+        "url": "https://open.spotify.com/album/1RotBVyL3ROSBdHQ5soI2L"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181753,
+      "name": "Asking (feat. Clementine Douglas) - Joshwa Remix",
+      "url": "https://open.spotify.com/track/3ouJdNXRk1JFjXGu11Q5BR"
     },
     {
       "album": {
@@ -828,7 +876,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 241935,
       "name": "Bump",
       "url": "https://open.spotify.com/track/2L4QGMpGhf9ZeCKHJeYsKU"
@@ -850,6 +898,28 @@
       "duration_ms": 208869,
       "name": "Bumpin'",
       "url": "https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl"
+    },
+    {
+      "album": {
+        "name": "Cadillac",
+        "url": "https://open.spotify.com/album/5TdThABVYRNR6afRUOa3N2"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Ralf",
+          "url": "https://open.spotify.com/artist/0mOvIjuw8jRTMFQy3N5jAA"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156627,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/6sr4lbYR7Nzpsrf1c0t9Cu"
     },
     {
       "album": {
@@ -893,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Catwalk",
+        "url": "https://open.spotify.com/album/2k9LatThz4DjlduXaQ2XOk"
+      },
+      "artists": [
+        {
+          "name": "Kaishi",
+          "url": "https://open.spotify.com/artist/6fasy0xC15SV7Z5yWnJtZI"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184651,
+      "name": "Catwalk",
+      "url": "https://open.spotify.com/track/5gaVKMc6nadZFqZEf59guL"
+    },
+    {
+      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/0fRcHYc1JqjTJhg90GcGW8"
       },
@@ -908,7 +996,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 210468,
       "name": "Chama",
       "url": "https://open.spotify.com/track/0VupF0wdDqSvRlwe0JLNjZ"
@@ -1212,7 +1300,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 177857,
       "name": "Do What You Want",
       "url": "https://open.spotify.com/track/2ONPus6HrSvaMODodxhMtm"
@@ -1476,7 +1564,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 192656,
       "name": "Escaping It (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
@@ -1739,6 +1827,32 @@
     },
     {
       "album": {
+        "name": "FMF",
+        "url": "https://open.spotify.com/album/2tzDCp2WcLMX5tvhFGYNPU"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Vitor Vinter",
+          "url": "https://open.spotify.com/artist/69Mveq4NwlSGijFnPnAlvD"
+        },
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "FMF - Bruno Furlan Remix",
+      "url": "https://open.spotify.com/track/6aLslHH3pTK8CGTv9Rv9N2"
+    },
+    {
+      "album": {
         "name": "Fool For Love",
         "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
       },
@@ -1762,6 +1876,24 @@
       "duration_ms": 239220,
       "name": "Fool For Love - Chris Lake Edit",
       "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
+    },
+    {
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/0DcP71YbWOF21kCQpQVR2c"
+      },
+      "artists": [
+        {
+          "name": "Lost Minds",
+          "url": "https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186648,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/1FGjH3f58LuPxDzG6Xv2rV"
     },
     {
       "album": {
@@ -2092,7 +2224,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 332459,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/1xjDEE29tMo5Vwn4DQf9hh"
@@ -2154,7 +2286,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 354461,
       "name": "Hollaback",
       "url": "https://open.spotify.com/track/3LWs50IQtW4qamQvXH0NPw"
@@ -2360,7 +2492,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 164285,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz"
@@ -2622,7 +2754,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 384000,
       "name": "Koppa",
       "url": "https://open.spotify.com/track/74YBPuKegpCE0Z8XZ6voiS"
@@ -2820,6 +2952,24 @@
       "duration_ms": 145312,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/2OQ6ZUyMQc1v1em66u8V2V"
+    },
+    {
+      "album": {
+        "name": "Underworld EP",
+        "url": "https://open.spotify.com/album/1BiAIErFeetDN887HJsFvD"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360468,
+      "name": "Loover",
+      "url": "https://open.spotify.com/track/488YwyQNBEGi7xr9idmZKT"
     },
     {
       "album": {
@@ -3109,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Jack The House 4",
+        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
+    },
+    {
+      "album": {
         "name": "NEMO",
         "url": "https://open.spotify.com/album/4aYOQcCVX4mIua85Ub8jCi"
       },
@@ -3204,6 +3372,54 @@
       "duration_ms": 243751,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4acZoDcg5neM4mAtVsTQSK"
+    },
+    {
+      "album": {
+        "name": "Outer Space (Remixes)",
+        "url": "https://open.spotify.com/album/2VljxTmjwL6AvehbFSDN1j"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        },
+        {
+          "name": "SLVR",
+          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214761,
+      "name": "Outer Space - SLVR Remix",
+      "url": "https://open.spotify.com/track/2NKQH2R0sqi4zBeQKkZ3vC"
+    },
+    {
+      "album": {
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/54sLNgzlkwJa22OGF5G56N"
+      },
+      "artists": [
+        {
+          "name": "Deeft",
+          "url": "https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6"
+        },
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173871,
+      "name": "Pablo",
+      "url": "https://open.spotify.com/track/76NTYF4tcQ7pMErL0PPpCO"
     },
     {
       "album": {
@@ -3715,6 +3931,24 @@
     },
     {
       "album": {
+        "name": "Sins and Saints",
+        "url": "https://open.spotify.com/album/4LcwAEgO6DDhwZeQn8Gqsx"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Sins and Saints",
+      "url": "https://open.spotify.com/track/4XTN88G142KDCLnRTamGcu"
+    },
+    {
+      "album": {
         "name": "\u00a5\u20ac$",
         "url": "https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j"
       },
@@ -3814,7 +4048,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 240654,
       "name": "Snogo",
       "url": "https://open.spotify.com/track/1k4KObZOwAg4Xld5At9hiV"
@@ -3915,6 +4149,24 @@
     },
     {
       "album": {
+        "name": "Soundboy",
+        "url": "https://open.spotify.com/album/1FSB0rdp9vJrhfW9Aql04O"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Soundboy",
+      "url": "https://open.spotify.com/track/5RU33jajJPKSXfqJoZpABf"
+    },
+    {
+      "album": {
         "name": "Space Trip",
         "url": "https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD"
       },
@@ -3930,6 +4182,24 @@
       "duration_ms": 170061,
       "name": "Space Trip",
       "url": "https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf"
+    },
+    {
+      "album": {
+        "name": "Spam EP",
+        "url": "https://open.spotify.com/album/4b6vJdlkIU8jbqecXaeOKa"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bahr",
+          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Spam",
+      "url": "https://open.spotify.com/track/0dEY2uCcwVSkk2Zk8q6fAm"
     },
     {
       "album": {
@@ -4006,7 +4276,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 193075,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
@@ -4256,7 +4526,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 202500,
       "name": "The Treble",
       "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
@@ -4336,7 +4606,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 405303,
       "name": "Toma",
       "url": "https://open.spotify.com/track/2ewGbmocpC9XFdDMP5F2Fi"
@@ -4554,7 +4824,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-28",
       "duration_ms": 202269,
       "name": "What?!",
       "url": "https://open.spotify.com/track/6OjuhFJWcKpvy9VsCSS0vV"

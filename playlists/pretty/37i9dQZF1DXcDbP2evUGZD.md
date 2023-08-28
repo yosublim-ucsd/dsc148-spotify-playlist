@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,185 likes - 123 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,206 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 19 | [SPARKS!](https://open.spotify.com/track/6j6fzTcFM7ZqJGVfDyRXXX) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [Delicate Daydream](https://open.spotify.com/album/5GzXv00dctraWeWB2grscY) | 2:55 |
 | 20 | [IN MY DREAMS! \(Prod\. JuNi\)](https://open.spotify.com/track/72MCMC7dgynRoNDX0x9Jrp) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [IN MY DREAMS!](https://open.spotify.com/album/6AZ83ngLsu3Nr45Rr5hr4h) | 4:02 |
 | 21 | [G CITY! \(You & Me\)](https://open.spotify.com/track/4h8tDVzQReiDPPugrDttrT) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [G CITY! \(You & Me\)](https://open.spotify.com/album/4hPy9ICn1Dpq20q4ZLWEuB) | 3:17 |
-| 22 | [Jungle Gym](https://open.spotify.com/track/4AsUeG6OBiXQo9IaSWsozL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C), [Takashi Kashikura](https://open.spotify.com/artist/6wtd4TOkA6vsvmnex0gTtY) | [Jungle Gym](https://open.spotify.com/album/6hKA6V8a72Ld7IxpIveTcR) | 4:21 |
+| 22 | [Flower Tail](https://open.spotify.com/track/6PorHyMtGAV6tfuY37gGDL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Yonder](https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh) | 5:21 |
 | 23 | [Polydream](https://open.spotify.com/track/6HNgyf3EW5WHSOPkHBbo0Q) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [But, All The Shining Things Are](https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg) | 6:41 |
-| 24 | [혼자놀기 Playing Alone](https://open.spotify.com/track/5fNb4E7j0VKDPr4RkzYoKU) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [But, All The Shining Things Are](https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg) | 4:51 |
+| 24 | [One, World, Wound](https://open.spotify.com/track/7KBolE43T13MHuiPLYV5x0) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Yonder](https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh) | 5:16 |
 | 25 | [Coupon Man](https://open.spotify.com/track/4DyOqzEp3hwg0v0RXXVQyk) | [W24](https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit) | [Born again](https://open.spotify.com/album/6w5FVqkNEvXV1uNlmbLstX) | 2:56 |
 | 26 | [Drive](https://open.spotify.com/track/3HHnrQQKAojliKyvIjQiD5) | [W24](https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit) | [Born again](https://open.spotify.com/album/6w5FVqkNEvXV1uNlmbLstX) | 3:33 |
 | 27 | [Revelations](https://open.spotify.com/track/4ZYOVMzbZp31tqnRxcSlZJ) | [W24](https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit) | [WHITE ALBUM](https://open.spotify.com/album/2DPPtLAcTzi8UVJpOTFp6F) | 3:16 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
 | 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCw2YjU4ZWQ0NTQ3NWM5YWQzYTBhNDY1ZWM4OWVjOTA5MjFhZGIyYWQ0`
+Snapshot ID: `MCxjMGZjYzVlNzgzN2I2MDYyMDVmYzUyMmFhYWU0OGFjOTQzZWJjOWM4`

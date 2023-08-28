@@ -57,6 +57,6 @@
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2013-06-27 |  |
 | [Where Do You Go](https://open.spotify.com/track/1i7Gv6yN5aCyygveod0QDH) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [No Mercy](https://open.spotify.com/album/6BOqwJHtWmGtzVra2w183C) | 4:32 | 2013-06-27 |  |
 | [Where Have All the Cowboys Gone?](https://open.spotify.com/track/2wnqgQ1gEDeD9QW6i6EqLV) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Rhino Hi\-Five: Paula Cole](https://open.spotify.com/album/7ac0j0ZtiRbUb3YWDGock8) | 4:26 | 2013-06-27 |  |
-| [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 | 2013-06-27 |  |
+| [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 | 2013-06-27 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

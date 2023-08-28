@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-141 songs - 8 hr 34 min
+142 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cougar \(feat\. Lojay\)](https://open.spotify.com/track/2a6AVT30VFGQ1ceA6PE3cA) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:29 | 2022-11-13 |  |
 | [Country Side \(feat\. Black Sherif\)](https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:40 | 2022-11-12 |  |
 | [Dear Rap](https://open.spotify.com/track/5kLuuG5Qs5upHUQCP05RoS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:22 | 2022-06-26 | 2022-09-11 |
-| [Deserve My Love](https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:40 | 2021-12-28 |  |
+| [Deserve My Love](https://open.spotify.com/track/0Z1oJJMRDfZxAi3uvRxQJQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:40 | 2021-12-28 | 2023-08-28 |
 | [Didi \(feat\. Kelvynboy & Strongman\)](https://open.spotify.com/track/0jVd212WpucXRGRR6m5Quc) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kelvynboy](https://open.spotify.com/artist/1ILezeIGUwWL0L3UT6vnEF), [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Didi \(feat\. Kelvynboy & Strongman\)](https://open.spotify.com/album/76Q4XFRm6azY8a1FzE8Dpw) | 3:50 | 2021-12-29 | 2022-10-05 |
 | [Do You \(feat\. Mr Eazi\)](https://open.spotify.com/track/26F2A18Auc3BJZxK2F0dLs) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:23 | 2021-12-28 | 2022-10-01 |
 | [Don't Cry \(feat\. Benerl\)](https://open.spotify.com/track/4gSNoczwZgkB0Wz6xxjaoT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Benerl](https://open.spotify.com/artist/6FpN7gwehZgxVAgVHUMh1L) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:52 | 2021-12-30 | 2022-08-17 |
@@ -53,6 +53,7 @@
 | [Fever](https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Fever](https://open.spotify.com/album/70gNO57xq8Anipepibg32m) | 4:13 | 2021-12-28 |  |
 | [FEZEKA \(feat\. Zuma, Sarkodie & Pabi Cooper\)](https://open.spotify.com/track/5HX1iC3WxQtCfoUnYjVbam) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Zuma](https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K) | [SR3](https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT) | 3:55 | 2022-09-22 | 2023-04-06 |
 | [FInally](https://open.spotify.com/track/2owWE178Z5yaQcJUzNgf5U) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Unlimited \(The Tape\)](https://open.spotify.com/album/15HPzfbTwAjT3ZaQXrpPnP) | 3:42 | 2022-09-10 | 2022-10-21 |
+| [For Days](https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [For Days](https://open.spotify.com/album/5nrP882U8mOIPRdkmJvjbK) | 2:22 | 2023-08-27 |  |
 | [For You \(with Sarkodie\)](https://open.spotify.com/track/3KVKxXqDAszAvmmVYR9rIv) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Melody](https://open.spotify.com/album/3oXVoYCkJbjZE632mfnSG7) | 3:30 | 2021-12-28 | 2022-11-13 |
 | [Forever \(feat\. Kranium\)](https://open.spotify.com/track/58ohyE1Axw6TJoIFqF90SV) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:33 | 2022-11-13 | 2022-12-21 |
 | [Freaky & Naughty](https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Freaky & Naughty](https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo) | 2:46 | 2023-08-05 |  |

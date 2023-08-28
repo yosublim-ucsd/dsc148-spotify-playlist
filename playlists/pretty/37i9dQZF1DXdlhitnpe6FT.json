@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 186006,
+  "num_followers": 186291,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWZkZmNkZjhiNDBiYjUwMmFjYWJjMTEwZDE5ODFjY2NlOTBkZGVi",
+  "snapshot_id": "MCxhMzU0ZTI0NGY3NDg3MmZhNDA4Mjg2NmI5ZjEwNjdjMDAzMWM3MDA3",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -543,6 +543,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Before the Rain",
+        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
+      },
+      "artists": [
+        {
+          "name": "Lee Oskar",
+          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
+        }
+      ],
+      "duration_ms": 495466,
+      "name": "Before the Rain",
+      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Music To Watch Girls By",
         "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Before the Rain",
-        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
       },
       "artists": [
         {
-          "name": "Lee Oskar",
-          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 495466,
-      "name": "Before the Rain",
-      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
+      "duration_ms": 303333,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -591,22 +607,6 @@
       "duration_ms": 166293,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La m\u00e9lodie du lac d'amour",
-        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
-      },
-      "artists": [
-        {
-          "name": "Jean Claude Borelly",
-          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Dolannes m\u00e9lodie",
-      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Playas de Ensue\u00f1o",
         "url": "https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 193213,
       "name": "Playas de Ensue\u00f1o",
       "url": "https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La m\u00e9lodie du lac d'amour",
+        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+      },
+      "artists": [
+        {
+          "name": "Jean Claude Borelly",
+          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Dolannes m\u00e9lodie",
+      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Nadia's Theme (Theme from the Young and Restless)",
-        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
-      },
-      "artists": [
-        {
-          "name": "Barry DeVorzon",
-          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Nadia's Theme (Theme from the Young and Restless)",
-      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Temas Prohibidos del Cine",
         "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 216800,
       "name": "Amore Grande Amore Libero",
       "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Nadia's Theme (Theme from the Young and Restless)",
+        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
+      },
+      "artists": [
+        {
+          "name": "Barry DeVorzon",
+          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Nadia's Theme (Theme from the Young and Restless)",
+      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Blue Navajo",
-        "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
-      },
-      "artists": [
-        {
-          "name": "Gheorghe Zamfir",
-          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
-        }
-      ],
-      "duration_ms": 213617,
-      "name": "Blue Navajo",
-      "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Ferrante & Teicher Collection",
         "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 158973,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/4RRFpTX7hQRYSTo9efZ8yg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Blue Navajo",
+        "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
+      },
+      "artists": [
+        {
+          "name": "Gheorghe Zamfir",
+          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "Blue Navajo",
+      "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Norwegian Rain",
-        "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
-      },
-      "artists": [
-        {
-          "name": "David Lanz",
-          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
-        }
-      ],
-      "duration_ms": 293853,
-      "name": "The Approaching Storm",
-      "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 159586,
       "name": "Kiss of Fire",
       "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Norwegian Rain",
+        "url": "https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B"
+      },
+      "artists": [
+        {
+          "name": "David Lanz",
+          "url": "https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c"
+        }
+      ],
+      "duration_ms": 293853,
+      "name": "The Approaching Storm",
+      "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
       },
       "artists": [
         {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
         }
       ],
-      "duration_ms": 135360,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
+      "duration_ms": 180373,
+      "name": "Saute-Mouton",
+      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
     }
   ],
   "unique_name": "Golden Instrumentals",

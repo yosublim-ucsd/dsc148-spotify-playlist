@@ -1,64 +1,48 @@
 {
   "description": "<a>https://bit.ly/2WYLxJM </a>",
-  "num_followers": 1046,
+  "num_followers": 1059,
   "original_name": "THE TECHNO METHOD",
   "owner": {
     "name": "Metodi Hristov",
     "url": "https://open.spotify.com/user/metodihristov"
   },
-  "snapshot_id": "MTQ4NywyOTRhOGYxNmE4M2MzNDIwZWQ4NWI4YWFkNmY5YTM2MWM3MTkzZjg3",
+  "snapshot_id": "MTQ5NyxiNGM1ZTlmMDljZTgxYjQ2ODZmMGIxZWQ1NTgyNWJjOWVkMjI5ZmNm",
   "tracks": [
     {
-      "added_at": "2023-07-06 22:53:39",
+      "added_at": "2023-08-24 22:00:36",
       "album": {
-        "name": "Modern Dystopia",
-        "url": "https://open.spotify.com/album/5wXhentTUReOCMVyvfhSaO"
+        "name": "Dimension (Metodi Hristov Remix)",
+        "url": "https://open.spotify.com/album/6Bzjcdhyyx17ClUQss05oc"
       },
       "artists": [
+        {
+          "name": "Oliver Huntemann",
+          "url": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+        },
         {
           "name": "Metodi Hristov",
           "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
         }
       ],
-      "duration_ms": 217218,
-      "name": "Modern Dystopia",
-      "url": "https://open.spotify.com/track/6KtS3mfmEy7DFrRixw0s1Q"
+      "duration_ms": 337850,
+      "name": "Dimension - Metodi Hristov Remix",
+      "url": "https://open.spotify.com/track/48nJmAnZGslYB2lCDGgXhC"
     },
     {
-      "added_at": "2023-07-28 22:31:04",
+      "added_at": "2023-08-25 10:51:08",
       "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/1xJFAfVPUNLw1LoRZKKjfT"
+        "name": "Concentrate",
+        "url": "https://open.spotify.com/album/3HBf8xikw8byjdglO8XeaU"
       },
       "artists": [
         {
-          "name": "Latour",
-          "url": "https://open.spotify.com/artist/2DtfdK4QWxre8RDwL0j8Y7"
+          "name": "ANDATA",
+          "url": "https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ"
         }
       ],
-      "duration_ms": 230977,
-      "name": "This Side",
-      "url": "https://open.spotify.com/track/5lWiuYDeBMaI04EtkCZFIy"
-    },
-    {
-      "added_at": "2023-07-28 22:32:57",
-      "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4dGWJQRYyJuu7ScBIMvj7B"
-      },
-      "artists": [
-        {
-          "name": "Lautaro Iba\u00f1ez",
-          "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
-        },
-        {
-          "name": "Mart.in",
-          "url": "https://open.spotify.com/artist/6qjm8nOMxSOERNOambLJRg"
-        }
-      ],
-      "duration_ms": 232722,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/1AtwatgWEt1TUdtXsKkFrG"
+      "duration_ms": 216394,
+      "name": "Concentrate",
+      "url": "https://open.spotify.com/track/1tp6YXrW3Asw81c1E46l7Z"
     },
     {
       "added_at": "2023-07-28 22:47:39",
@@ -101,6 +85,42 @@
       "url": "https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD"
     },
     {
+      "added_at": "2023-07-28 22:32:57",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4dGWJQRYyJuu7ScBIMvj7B"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Iba\u00f1ez",
+          "url": "https://open.spotify.com/artist/2PYqebwqSOYg3uhOHIIVxR"
+        },
+        {
+          "name": "Mart.in",
+          "url": "https://open.spotify.com/artist/6qjm8nOMxSOERNOambLJRg"
+        }
+      ],
+      "duration_ms": 232722,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1AtwatgWEt1TUdtXsKkFrG"
+    },
+    {
+      "added_at": "2023-07-28 22:31:04",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/1xJFAfVPUNLw1LoRZKKjfT"
+      },
+      "artists": [
+        {
+          "name": "Latour",
+          "url": "https://open.spotify.com/artist/2DtfdK4QWxre8RDwL0j8Y7"
+        }
+      ],
+      "duration_ms": 230977,
+      "name": "This Side",
+      "url": "https://open.spotify.com/track/5lWiuYDeBMaI04EtkCZFIy"
+    },
+    {
       "added_at": "2023-05-30 08:11:59",
       "album": {
         "name": "20 Years Remixes EP 1",
@@ -139,6 +159,38 @@
       "duration_ms": 204084,
       "name": "Burn It Up",
       "url": "https://open.spotify.com/track/6LxlE4D5JrTq75ctsEctMn"
+    },
+    {
+      "added_at": "2023-08-25 10:50:48",
+      "album": {
+        "name": "The Sky",
+        "url": "https://open.spotify.com/album/7BbmvQcC3x652TtB9JfJiZ"
+      },
+      "artists": [
+        {
+          "name": "LEVT",
+          "url": "https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn"
+        }
+      ],
+      "duration_ms": 259849,
+      "name": "The Sky",
+      "url": "https://open.spotify.com/track/6frvmUe3XRVSdFzwRgB6As"
+    },
+    {
+      "added_at": "2023-07-06 22:53:39",
+      "album": {
+        "name": "Modern Dystopia",
+        "url": "https://open.spotify.com/album/5wXhentTUReOCMVyvfhSaO"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "duration_ms": 217218,
+      "name": "Modern Dystopia",
+      "url": "https://open.spotify.com/track/6KtS3mfmEy7DFrRixw0s1Q"
     },
     {
       "added_at": "2023-07-28 22:32:43",

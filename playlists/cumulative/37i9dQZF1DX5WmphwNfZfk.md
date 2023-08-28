@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Aliocha Schneider
 
-1,302 songs - 2 day 18 hr 25 min
+1,303 songs - 2 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,8 @@
 | [Honey](https://open.spotify.com/track/6RVhSOj4c0drAWKyoHemQS) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Honey](https://open.spotify.com/album/692s2gPrIiqJfZbg3yMyDu) | 3:58 | 2022-06-03 | 2022-07-02 |
 | [Hood Baby](https://open.spotify.com/track/309rfG6tNqawQIXBpkZdul) | [CMDWN](https://open.spotify.com/artist/3apZw1V1xrGTSNsQ6IGDO3), [FIJI](https://open.spotify.com/artist/7oVVLTqAcBq4XEnb7NzSYt), [Ca$tro Guapo](https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Life As We Knew It](https://open.spotify.com/album/06ZbG1c7LwwZsRP563KAdB) | 2:40 | 2022-01-07 | 2022-02-05 |
 | [Hooked](https://open.spotify.com/track/2XldTQx4fPea7WkTk0Hf6n) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Hooked](https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep) | 3:04 | 2023-08-04 |  |
-| [Horse Girl](https://open.spotify.com/track/1bYCvwDHqbpUqSMhJEBEL4) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Horse Girl](https://open.spotify.com/album/47bKsrsGDeGa4amY8JjmEL) | 3:30 | 2023-08-04 |  |
+| [Horse Girl](https://open.spotify.com/track/1bYCvwDHqbpUqSMhJEBEL4) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Horse Girl](https://open.spotify.com/album/47bKsrsGDeGa4amY8JjmEL) | 3:30 | 2023-08-04 | 2023-08-28 |
+| [Horse Girl](https://open.spotify.com/track/4fSNi6pzKIbCIUmvLnEz45) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Rodeo Clown](https://open.spotify.com/album/2bfDkhDate1v4XhetA9SuM) | 3:30 | 2023-08-04 |  |
 | [HotMom.com](https://open.spotify.com/track/6leIMUV6IC5hQEvwPPdsrK) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [HotMom.com](https://open.spotify.com/album/7m4p607UjRClyEYBjPr2GN) | 2:24 | 2022-10-07 | 2022-11-12 |
 | [Hov](https://open.spotify.com/track/0TyAdWCeWxjOy4ve1AajDl) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [100m's](https://open.spotify.com/artist/3DqGUfCidr1acIyds7GWxl) | [Hov](https://open.spotify.com/album/4XJojTas5NZRk04xXbVZBc) | 2:31 | 2022-03-04 | 2022-04-02 |
 | [How Can I Get Your Love?](https://open.spotify.com/track/2LwsXVerV20K7adtb6t2mh) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [How Can I Get Your Love?](https://open.spotify.com/album/6xUznvFMCVVPeHpGMOHx8e) | 2:57 | 2021-12-06 | 2022-01-08 |

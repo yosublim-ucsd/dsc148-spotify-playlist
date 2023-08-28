@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=JHPSeMBEQXGlrqGn3vLPuw">Asake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,366 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,374 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 18 | [Apotheke](https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 4:34 |
 | 19 | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80) | 4:37 |
 | 20 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
-| 21 | [Enjoy That \- Remix](https://open.spotify.com/track/1daeMUyT9Tt7KTTjA50wQ5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Mr Brown](https://open.spotify.com/artist/4r2bAXksMyEjl3VoxJBw4c) | [Enjoy That](https://open.spotify.com/album/77gBpDJwRBd1edfN7xxsNw) | 4:36 |
+| 21 | [Enjoy That \- Remix](https://open.spotify.com/track/1daeMUyT9Tt7KTTjA50wQ5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [Enjoy That](https://open.spotify.com/album/77gBpDJwRBd1edfN7xxsNw) | 4:36 |
 | 22 | [Stop Nonsense](https://open.spotify.com/track/2PLjbUapab2cpATtNjvXmf) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Stop Nonsense](https://open.spotify.com/album/48gsJqhB5us0lFC37ImxxO) | 2:37 |
 | 23 | [Chocolati \- Amapiano Remix](https://open.spotify.com/track/61O7SPcO5NUWCEkC3uTrGf) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Larizzle](https://open.spotify.com/artist/6mmhTw2T6ai4vCudah2sXH), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Chocolati \(Amapiano Remix\)](https://open.spotify.com/album/7d7wpNvX0eIGRYcullotnp) | 3:36 |
 | 24 | [It’s Giving Summer](https://open.spotify.com/track/6yED7TjsAgeiuduj9D9yyj) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [It’s Giving Summer](https://open.spotify.com/album/0HDY9BIPgbOLbF2dgeEVPi) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 59 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
 | 60 | [Sunmomi](https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:48 |
 
-Snapshot ID: `MCxlZTkxNDBkNDc2MmQ1ODBmMTcwMDA3NWJiYjhhOWMyNzYzNTgxM2E3`
+Snapshot ID: `MCwyOGRiZjhlZTNiMTFkZTRjNzYzODdjZGIzOGU2MGIyYjZkZmE3ZTFm`
