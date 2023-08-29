@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-5,874 songs - 9 day 6 hr 43 min
+5,875 songs - 9 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,6 +662,7 @@
 | [Bones](https://open.spotify.com/track/4zGRw5NdOfbW8vxB7YjzIG) | [Flapjaques](https://open.spotify.com/artist/0jujLyW23c4YvBZR6h5vs1) | [Bones](https://open.spotify.com/album/5iHiu7WlLOfc8I7CnJBuVv) | 2:06 | 2022-08-19 | 2022-11-25 |
 | [Bonsai](https://open.spotify.com/track/7AxPETMu4AZ7oFB71QnZLz) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Bonsai](https://open.spotify.com/album/5FUWamsMBRQtz5tRMjDOfG) | 1:56 | 2022-09-02 | 2022-12-03 |
 | [bonsai](https://open.spotify.com/track/6sL97yetJIgJkrYAoGyMWS) | [kubi](https://open.spotify.com/artist/5E5wzPGQXxMIWYNhoYjZ2O) | [bonsai](https://open.spotify.com/album/4T9u3iusKSqF9ohlOHlGUD) | 2:48 | 2022-03-11 | 2022-08-12 |
+| [bonsai](https://open.spotify.com/track/1P9K1Z3DMdrN4AJNfS0HOV) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bonsai](https://open.spotify.com/album/4acexeaBUU3tsASa9cJ7lI) | 1:48 | 2023-08-25 |  |
 | [Bonsai Cutter](https://open.spotify.com/track/7IkDHrz6YhuO5rQqpVSQwv) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Bonsai Cutter](https://open.spotify.com/album/1HvIkbjw3C33Ab6k4WQYnz) | 1:39 | 2022-12-23 | 2023-04-28 |
 | [Book Club](https://open.spotify.com/track/24Tds2HlMPCUB7lTXKsPKZ) | [Rosia!](https://open.spotify.com/artist/1CWzJQYVTc2Sdkz9Thq4Zu) | [Start Your Own Band!](https://open.spotify.com/album/1bvysO1AHauiGWGrVQHLhK) | 2:55 | 2022-02-14 | 2022-07-22 |
 | [bookmark](https://open.spotify.com/track/5SYXDXkDnkIzdVjwtCw5J9) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [bookmark](https://open.spotify.com/album/3iZraU38VPUIFAbxSQ4S5y) | 2:03 | 2023-04-05 | 2023-06-16 |
@@ -851,7 +852,7 @@
 | [Carombola](https://open.spotify.com/track/0YYp2tR5zcSvj4Xng6fAhx) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Carombola](https://open.spotify.com/album/1c1FzYnyzhVO4rYzHnfLE8) | 2:32 | 2022-08-19 | 2022-11-21 |
 | [Carombola](https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:32 | 2022-11-18 | 2022-11-25 |
 | [Carpo](https://open.spotify.com/track/7HTAqdN7u1e1KbFM9KdWK4) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O) | [Carpo](https://open.spotify.com/album/0PjCTfG71aDSibVzzseWmo) | 3:01 | 2022-05-27 | 2022-09-23 |
-| [carpool lane](https://open.spotify.com/track/4Yr6oYb6llf2yvjJXiDgdb) | [Almo X](https://open.spotify.com/artist/77LNTMtPR18hlGEqqXMOgh) | [carpool lane](https://open.spotify.com/album/2MPKCuijSmE3qgkmnZxqaa) | 2:26 | 2022-11-11 |  |
+| [carpool lane](https://open.spotify.com/track/4Yr6oYb6llf2yvjJXiDgdb) | [Almo X](https://open.spotify.com/artist/77LNTMtPR18hlGEqqXMOgh) | [carpool lane](https://open.spotify.com/album/2MPKCuijSmE3qgkmnZxqaa) | 2:26 | 2022-11-11 | 2023-08-29 |
 | [Carrots & Tomatoes](https://open.spotify.com/track/2gehouzWK9NlPMpPUXa7Wg) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Carrots & Tomatoes](https://open.spotify.com/album/4S6BCC1nifNNcD2tHxP4kp) | 2:24 | 2022-12-09 | 2023-04-28 |
 | [Carrousel](https://open.spotify.com/track/6MXvV476Xg7iZViG4afY8m) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Carrousel](https://open.spotify.com/album/7IDj6FCKZdPDjdhfdZyxvy) | 2:30 | 2022-03-11 | 2022-07-29 |
 | [Caruyú](https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 2:32 | 2020-06-23 | 2021-10-02 |
@@ -1032,7 +1033,7 @@
 | [Coconut Spark](https://open.spotify.com/track/38GvOCh3zrLOJPJXPJNBPO) | [Dorothe Mosh](https://open.spotify.com/artist/1o113df4RovF87tCbszqov), [Lownas](https://open.spotify.com/artist/73eOFkJoiXKFsXIBE9Wwuv), [Sacnid](https://open.spotify.com/artist/14iDPvEpIzsD4d0zLKWOtQ) | [Island EP](https://open.spotify.com/album/34e1zmPILYBAy18etHDj4L) | 1:49 | 2021-08-22 | 2022-03-11 |
 | [Coda](https://open.spotify.com/track/12JdWwiV78PX7kk4szt9Kw) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Coda](https://open.spotify.com/album/5zfhrLtyrhVrQ3eE2E9gTF) | 2:30 | 2021-05-29 | 2022-01-14 |
 | [Codeine and Klonopin](https://open.spotify.com/track/5CrBa1Tijp07bdS51mxP9q) | [Houch](https://open.spotify.com/artist/0jjB4e12tyakyer4E2BQQQ) | [Codeine and Klonopin](https://open.spotify.com/album/6ohhsLCW5DbkbmoiHEEvCv) | 1:36 | 2019-09-08 | 2021-04-20 |
-| [Coffe grounds](https://open.spotify.com/track/7mXOjrQm3DrSACUa5TE3Qh) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Outta conteXt](https://open.spotify.com/album/2DgzOaygq4zG41UZyLwrLY) | 2:04 | 2023-05-03 |  |
+| [Coffe grounds](https://open.spotify.com/track/7mXOjrQm3DrSACUa5TE3Qh) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Outta conteXt](https://open.spotify.com/album/2DgzOaygq4zG41UZyLwrLY) | 2:04 | 2023-05-03 | 2023-08-29 |
 | [Coffee After Midnight](https://open.spotify.com/track/1a1jmPAOreXCUwMP7lQmvm) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Coffee After Midnight](https://open.spotify.com/album/0ruKXGArdRQ5NpsOty7T7p) | 1:33 | 2022-09-23 | 2022-11-20 |
 | [Coffee After Midnight](https://open.spotify.com/track/54rXR1bURHKOPSGfOEjxcU) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Coffee After Midnight](https://open.spotify.com/album/1WB7NcgyQ6x9HB3bks1Lff) | 1:33 | 2022-11-18 | 2023-01-07 |
 | [Coffee and Cigarettes](https://open.spotify.com/track/22mkGKfOluJSqU8I4Gmgg2) | [hiyasu](https://open.spotify.com/artist/7lNkPk6OeVKmPuLs1aRGNc), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Coffee and Cigarettes](https://open.spotify.com/album/29PGiwkzkK9DMkzP6P4f4m) | 2:25 | 2020-11-13 | 2021-03-06 |
@@ -4194,7 +4195,7 @@
 | [Restful](https://open.spotify.com/track/2MHrNXrORk4zdE4pcDD5Gu) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Restful](https://open.spotify.com/album/0UJ1pwN3eUGyazzppZ1ltD) | 2:38 | 2022-08-19 | 2022-11-25 |
 | [Restless Nights](https://open.spotify.com/track/7mCwDCe9zb3ber7U3KrE9R) | [Seek Shelter](https://open.spotify.com/artist/1ocQlCLuRIc3fotjIRf3R8) | [Restless Nights](https://open.spotify.com/album/1crHaPO0PBMLolvvVIe6w3) | 2:27 | 2022-02-25 | 2022-06-03 |
 | [Resurrection](https://open.spotify.com/track/1X1AsQHt0GdsIG046qoAMV) | [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj) | [Resurrection](https://open.spotify.com/album/3ZquHqKJqQMJPh8K7VKHfH) | 2:58 | 2022-11-11 | 2022-12-14 |
-| [Resurrection](https://open.spotify.com/track/2YHz6Vamqq7fNKdEwXHLpw) | [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj) | [Resurrection](https://open.spotify.com/album/3dcsLFbkuCRO6fpgf3XeQN) | 2:58 | 2022-12-09 | 2023-07-28 |
+| [Resurrection](https://open.spotify.com/track/2YHz6Vamqq7fNKdEwXHLpw) | [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj) | [Resurrection](https://open.spotify.com/album/3dcsLFbkuCRO6fpgf3XeQN) | 2:58 | 2022-12-09 |  |
 | [Retro Days](https://open.spotify.com/track/2MXFQr1vpjn0zydw33E6ZR) | [AHOSHI](https://open.spotify.com/artist/3srMUKCuz2uyIDil2av4aU) | [Retro Days](https://open.spotify.com/album/03WAKWZz7kIzkiC9IEL5Ev) | 1:44 | 2022-04-15 | 2022-10-14 |
 | [Retro Desk \- Lofi Hip Hop](https://open.spotify.com/track/4d2ntiEKzDVztM7aBP43vP) | [Retro Girl](https://open.spotify.com/artist/74zgv5Lsu8x5oJSk0CBHqy) | [Retro Desk \(Lofi Hip Hop\)](https://open.spotify.com/album/3xpMhA4ia1EDZ6Px0I2Wo1) | 3:18 | 2022-01-07 | 2022-07-08 |
 | [Retro Jam](https://open.spotify.com/track/0V85fXmfJc9ntKDdr6ghkd) | [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Retro Jam](https://open.spotify.com/album/1j0UX5DoUMifzpwA0P4nym) | 2:18 | 2022-05-27 | 2022-09-16 |

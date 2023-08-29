@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Only Murders in the Building (Original Score)",
+        "url": "https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Khosla",
+          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51500,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/253tU7JUIy3P4zfas4BCdu"
+    },
+    {
+      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },

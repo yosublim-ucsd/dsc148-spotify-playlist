@@ -1,12 +1,12 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 16831,
+  "num_followers": 16835,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjEzNmVjYzgwMmEyYmRhNGU1YTA0YWU2ZTJmY2U2ZDY4ODI2YTI5",
+  "snapshot_id": "MCw2ZGYwOTNhN2Q4YjFiMGYyN2NhMTAwNGY2ZTJkNDdhZDM5Mzc3M2Uz",
   "tracks": [
     {
       "added_at": "2023-08-07 09:26:20",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
-        "name": "Warm Pants",
-        "url": "https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Warm Pants",
-      "url": "https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
         "name": "The King Of Sudanese Jazz (Habibi Funk 013)",
         "url": "https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG"
       },
@@ -287,42 +271,6 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA"
-      },
-      "artists": [
-        {
-          "name": "Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        }
-      ],
-      "duration_ms": 134328,
-      "name": "DOPAMINE",
-      "url": "https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "Fawda | \u0641\u0648\u0636\u064a",
-        "url": "https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr"
-      },
-      "artists": [
-        {
-          "name": "Hleem Taj Alser",
-          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
-        },
-        {
-          "name": "Dj Reo",
-          "url": "https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl"
-        }
-      ],
-      "duration_ms": 255059,
-      "name": "Fawda | \u0641\u0648\u0636\u064a",
-      "url": "https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
         "name": "MaMuhim",
         "url": "https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1"
       },
@@ -335,6 +283,38 @@
       "duration_ms": 223266,
       "name": "MaMuhim",
       "url": "https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
+        "name": "Warm Pants",
+        "url": "https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Warm Pants",
+      "url": "https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/29yH3NTWxPeFUpZTfHm0nA"
+      },
+      "artists": [
+        {
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
+        }
+      ],
+      "duration_ms": 134328,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/2mX3Udxyayq72cbJhlpaho"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -371,6 +351,26 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
+        "name": "Fawda | \u0641\u0648\u0636\u064a",
+        "url": "https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        },
+        {
+          "name": "Dj Reo",
+          "url": "https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl"
+        }
+      ],
+      "duration_ms": 255059,
+      "name": "Fawda | \u0641\u0648\u0636\u064a",
+      "url": "https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
         "name": "Muslims and Christians (Habibi Funk 008)",
         "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 307500,
       "name": "Agricultural Revolution",
       "url": "https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "pretty kitten",
-        "url": "https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 142576,
-      "name": "pretty kitten",
-      "url": "https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -435,6 +419,22 @@
       "duration_ms": 181160,
       "name": "Kandaka",
       "url": "https://open.spotify.com/track/7GiLIZ1JNiq2EAzlI5pNXM"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
+        "name": "pretty kitten",
+        "url": "https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 142576,
+      "name": "pretty kitten",
+      "url": "https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -531,6 +531,42 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
+        "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
+        "url": "https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6"
+      },
+      "artists": [
+        {
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
+        {
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
+      "url": "https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
+        "name": "Ghadara",
+        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "Ghadara",
+      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
         "name": "Asly",
         "url": "https://open.spotify.com/album/7wLNRBJA0Y1AkV48IKv3Hx"
       },
@@ -551,22 +587,18 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
-        "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
-        "url": "https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6"
+        "name": "TARAT ALTAYARA",
+        "url": "https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu"
       },
       "artists": [
         {
-          "name": "Esaam Satti",
-          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
-        },
-        {
-          "name": "Ali Naseraldeen",
-          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+          "name": "Dafencii",
+          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
         }
       ],
-      "duration_ms": 181000,
-      "name": "\u0633\u0627\u0631\u064a \u0627\u0644\u0644\u064a\u0644",
-      "url": "https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25"
+      "duration_ms": 122412,
+      "name": "TARAT ALTAYARA",
+      "url": "https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -591,22 +623,6 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
-        "name": "Ghadara",
-        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
-      },
-      "artists": [
-        {
-          "name": "MarSimba",
-          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
-        }
-      ],
-      "duration_ms": 182970,
-      "name": "Ghadara",
-      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
         "name": "Caribby",
         "url": "https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6"
       },
@@ -627,50 +643,22 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
-        "name": "TARAT ALTAYARA",
-        "url": "https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu"
+        "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e (feat. Ali Naseraldeen)\u200e",
+        "url": "https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr"
       },
       "artists": [
         {
-          "name": "Dafencii",
-          "url": "https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv"
-        }
-      ],
-      "duration_ms": 122412,
-      "name": "TARAT ALTAYARA",
-      "url": "https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "Ganay Albreedo",
-        "url": "https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q"
-      },
-      "artists": [
+          "name": "Esaam Satti",
+          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
+        },
         {
-          "name": "Taha Suliman",
-          "url": "https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a"
+          "name": "Ali Naseraldeen",
+          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
         }
       ],
-      "duration_ms": 335960,
-      "name": "Ganay Albreedo",
-      "url": "https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "Matalib",
-        "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
-      },
-      "artists": [
-        {
-          "name": "Sammany",
-          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
-        }
-      ],
-      "duration_ms": 288008,
-      "name": "Matalib",
-      "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
+      "duration_ms": 182758,
+      "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e\u200e (feat. Ali Naseraldeen)",
+      "url": "https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -695,38 +683,34 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
-        "name": "Apocalypto",
-        "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
+        "name": "Matalib",
+        "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
       },
       "artists": [
         {
-          "name": "TooDope",
-          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
         }
       ],
-      "duration_ms": 177884,
-      "name": "Apocalypto",
-      "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
+      "duration_ms": 288008,
+      "name": "Matalib",
+      "url": "https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM"
     },
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
-        "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e (feat. Ali Naseraldeen)\u200e",
-        "url": "https://open.spotify.com/album/0jv9jFilvRshD4DZ61UxLr"
+        "name": "Ganay Albreedo",
+        "url": "https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q"
       },
       "artists": [
         {
-          "name": "Esaam Satti",
-          "url": "https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy"
-        },
-        {
-          "name": "Ali Naseraldeen",
-          "url": "https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c"
+          "name": "Taha Suliman",
+          "url": "https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a"
         }
       ],
-      "duration_ms": 182758,
-      "name": "\u0623\u0628\u0648\u064a \u0627\u0644\u0634\u064a\u062e\u200e (feat. Ali Naseraldeen)",
-      "url": "https://open.spotify.com/track/2LaqDKPXxtJOtIiN56G6cx"
+      "duration_ms": 335960,
+      "name": "Ganay Albreedo",
+      "url": "https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -763,6 +747,22 @@
       "duration_ms": 194841,
       "name": "Red (feat. MaMan)",
       "url": "https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
+        "name": "Apocalypto",
+        "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
+      },
+      "artists": [
+        {
+          "name": "TooDope",
+          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+        }
+      ],
+      "duration_ms": 177884,
+      "name": "Apocalypto",
+      "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
     },
     {
       "added_at": "2023-08-07 09:26:20",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-08-07 09:26:20",
       "album": {
+        "name": "Tnt: Injaz",
+        "url": "https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf"
+      },
+      "artists": [
+        {
+          "name": "Rotation",
+          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+        },
+        {
+          "name": "TooDope",
+          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
+        }
+      ],
+      "duration_ms": 220164,
+      "name": "Ejaza",
+      "url": "https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk"
+    },
+    {
+      "added_at": "2023-08-07 09:26:20",
+      "album": {
         "name": "Fan3",
         "url": "https://open.spotify.com/album/0RTNur3c132jazOHMua1wU"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 301000,
       "name": "Farrah Galbi Aljadeed",
       "url": "https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk"
-    },
-    {
-      "added_at": "2023-08-07 09:26:20",
-      "album": {
-        "name": "Tnt: Injaz",
-        "url": "https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf"
-      },
-      "artists": [
-        {
-          "name": "Rotation",
-          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
-        },
-        {
-          "name": "TooDope",
-          "url": "https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd"
-        }
-      ],
-      "duration_ms": 220164,
-      "name": "Ejaza",
-      "url": "https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk"
     }
   ],
   "unique_name": "Sudan Sounds",

@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10333,
+  "num_followers": 10339,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWViNjEyNmZjM2U4YWU5MzQxMzRmZDk2NDc4YWUzMzUxYjk4YmFj",
+  "snapshot_id": "MCxlZDk5Y2UzMjAwMmJmYjUwMTNiOTRjZmRjNjg4ZDE5YWExY2QwMTk4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 290160,
       "name": "Shakin' Shakin' Shakes",
       "url": "https://open.spotify.com/track/5SjmKLwVsxEgiuWmqVBfPA"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/41PprdpECRjIzJJX5BKd07"
     },
     {
       "added_at": "2020-12-01 05:01:00",

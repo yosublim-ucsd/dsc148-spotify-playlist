@@ -1,15 +1,35 @@
 {
   "description": "<a href=\"spotify:artist:5bKdC6382t97Qnpvs81Rqx\">Bedouin</a>'s favorite tracks. Updated regularly. Curated by Bedouin. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 15062,
+  "num_followers": 15093,
   "original_name": "Bedouin's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODkyNTU0MGRhZjVkNGQzOWQ4OWJkZTJmMTNjYjRhOTdhYmJjMDlh",
+  "snapshot_id": "MCw2ODE0NGEyYzI5NGIwMjllYzA3YjJlNjAyYjVmMmJjOTc1ZmYwYTM5",
   "tracks": [
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
+      "album": {
+        "name": "Temple Of Dreams (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        }
+      ],
+      "duration_ms": 211504,
+      "name": "Voices In My Head - Damian Lazarus Re-Shape",
+      "url": "https://open.spotify.com/track/1ekzPoFjCnIUejIPNhjaRc"
+    },
+    {
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Aliens",
         "url": "https://open.spotify.com/album/3kVuuASjIPzf7qHMus6qRP"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/7gSkM5Q3rqCoxo0lNDyKLw"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Una Pena",
         "url": "https://open.spotify.com/album/4KHVqwTF2jO1gTYHATQVMM"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/0KD97PT97Qi2a7Zuq2gJkL"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Mabruk EP",
         "url": "https://open.spotify.com/album/7Bv7AHT3lqCNkQSmZOWFhJ"
@@ -57,23 +77,27 @@
       "url": "https://open.spotify.com/track/2QBMxByChhXHhlzFLz58Ys"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/6qqH0iIEkz9tsrjjuyESDT"
+        "name": "Temple Of Dreams (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC"
       },
       "artists": [
         {
           "name": "Bedouin",
           "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 214676,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/2rKgp5Ih2eNVVGl6Yqn5VW"
+      "duration_ms": 231840,
+      "name": "Tijuana - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Feelin'",
         "url": "https://open.spotify.com/album/6g67MU2G9JmsIvuXf0yY9x"
@@ -89,7 +113,7 @@
       "url": "https://open.spotify.com/track/12Pnf23BSnTZTTOOrzYBIu"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Femme Tech",
         "url": "https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Terra Rasgada (Santiago Garcia Remix)",
         "url": "https://open.spotify.com/album/7kFv48dGaYfsVwpzBfVOWN"
@@ -125,7 +149,7 @@
       "url": "https://open.spotify.com/track/0pmAFbgm9YdB1teCoD8yY2"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Love And Hate",
         "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
@@ -141,7 +165,27 @@
       "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3MznWOMINFIhV5BZCBOdRw"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6Cnj9gUbIrhkMAsKKv4qkg"
+    },
+    {
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Wild Youngster (feat. ScHoolboy Q) [Jamie Jones' Wobble Remix]",
         "url": "https://open.spotify.com/album/3kZl4L3OT0QnRTeuRrCH4Z"
@@ -165,7 +209,7 @@
       "url": "https://open.spotify.com/track/1TtrEMyrpxqpYWKOFdDRj1"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/6my8D9w6cpBOyOVTRcMxOn"
@@ -181,7 +225,23 @@
       "url": "https://open.spotify.com/track/033gWXBGVVmWxS8bULKY9j"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/6qqH0iIEkz9tsrjjuyESDT"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 214676,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/2rKgp5Ih2eNVVGl6Yqn5VW"
+    },
+    {
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2nY6VRW3MMaQVK7SWP2Vt3"
@@ -197,7 +257,7 @@
       "url": "https://open.spotify.com/track/13mvFJBCwtcLaH8OfOiNvf"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Rhyme Dust (Nic Fanciulli Remix)",
         "url": "https://open.spotify.com/album/04lwFl9FZ6yIDVcSKabWFN"
@@ -221,7 +281,35 @@
       "url": "https://open.spotify.com/track/70v4yUr8Gv9192zZVclZiL"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
+      "album": {
+        "name": "Make a Show",
+        "url": "https://open.spotify.com/album/4jhB0sGVcd49pT7yTBGasx"
+      },
+      "artists": [
+        {
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        },
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Hadar",
+          "url": "https://open.spotify.com/artist/0WfN8Xr80cGPyNQ3yOk6lt"
+        },
+        {
+          "name": "Malandra Jr.",
+          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
+        }
+      ],
+      "duration_ms": 497459,
+      "name": "Make a Show (Malandra Jr. Remix)",
+      "url": "https://open.spotify.com/track/3TkQa2WiMWt1vRpoHCz0m2"
+    },
+    {
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Second Chances & New Romances, Vol. 3",
         "url": "https://open.spotify.com/album/5pl7NFIfAxNkMtPcUL0lnJ"
@@ -241,7 +329,7 @@
       "url": "https://open.spotify.com/track/0PQjbbMtd13OPeKm9FvyGr"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Like A Drug",
         "url": "https://open.spotify.com/album/71T3GnfLF1xO1zAMDPVCgO"
@@ -257,7 +345,7 @@
       "url": "https://open.spotify.com/track/3TdbskPWR3ZtAny7ZKZJjj"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Ayee",
         "url": "https://open.spotify.com/album/2YTu2sDRkgWG5SqYPXOvLe"
@@ -273,7 +361,7 @@
       "url": "https://open.spotify.com/track/5K3ICC1nF38eRWrmMZYMCi"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Relax Shiva",
         "url": "https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe"
@@ -293,23 +381,7 @@
       "url": "https://open.spotify.com/track/6DmuGlPIA0WcyHJQBulD3n"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Tijuana",
-      "url": "https://open.spotify.com/track/0GXNKuzGu6a5w9TcmDc6T2"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/7fwjxoj5aUkXUliu02iFKk"
@@ -325,7 +397,7 @@
       "url": "https://open.spotify.com/track/0G4QCpJMA6u8MGXxzg4gm9"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Still Can't Find You",
         "url": "https://open.spotify.com/album/0mjCuJDVMXlOjdzwrMgnym"
@@ -341,7 +413,23 @@
       "url": "https://open.spotify.com/track/1UvM3VzlwYts5IldSnJ8RT"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
+      "album": {
+        "name": "Metaphysical",
+        "url": "https://open.spotify.com/album/3r3mNtkVqo1X0TAdK4lz4g"
+      },
+      "artists": [
+        {
+          "name": "Tamir Regev",
+          "url": "https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk"
+        }
+      ],
+      "duration_ms": 452543,
+      "name": "The Old Days",
+      "url": "https://open.spotify.com/track/1i02yugRWrwxXjF6ZdLymB"
+    },
+    {
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Send Return",
         "url": "https://open.spotify.com/album/3EIYsOioUOBlxSf2tMpGsU"
@@ -365,7 +453,7 @@
       "url": "https://open.spotify.com/track/5dVNX4bu0pQImyIcsodydt"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Give It Up",
         "url": "https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U"
@@ -385,27 +473,7 @@
       "url": "https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Delaram Kamareh",
-          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
-        }
-      ],
-      "duration_ms": 302521,
-      "name": "Hokema (feat. Delaram Kamareh)",
-      "url": "https://open.spotify.com/track/1VoTZU5zicdDgvKu2DLxRv"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Duma (Radio Edit)",
         "url": "https://open.spotify.com/album/1mipzZyPS3Z6bhO5VIgXBO"
@@ -425,7 +493,7 @@
       "url": "https://open.spotify.com/track/2IEeAoSJiLCpgs05oTqqfn"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "One Love (Nandu Remix)",
         "url": "https://open.spotify.com/album/2jWHwh8o0ekuZWXLmm3ZcG"
@@ -453,51 +521,7 @@
       "url": "https://open.spotify.com/track/3jlbvbUItBBAWAjnnnc8sW"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Wish You Were Here (Bedouin Remix)",
-        "url": "https://open.spotify.com/album/2ahy9B5LOckFdgQlrVg5TZ"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 471320,
-      "name": "Wish You Were Here - Bedouin Remix",
-      "url": "https://open.spotify.com/track/2sWqYVNYIsyazFA0nDVtkn"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Iveta Mukuchyan",
-          "url": "https://open.spotify.com/artist/3GnXDBHZvRstGw7FhcsFn8"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "Crazy (feat. Iveta Mukuchyan)",
-      "url": "https://open.spotify.com/track/6XG6VKBORCSGMuWlF30YvO"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2c8F3AAuXBYz3npCbBmFRO"
@@ -517,7 +541,7 @@
       "url": "https://open.spotify.com/track/2fHtXQkRN2Mwp6nFTSxH9q"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "After Why",
         "url": "https://open.spotify.com/album/3zKtkCESpCAhfX26MNg5CW"
@@ -533,7 +557,7 @@
       "url": "https://open.spotify.com/track/4w3sX65B1jkXSsmsmwN9zB"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Meteorology",
         "url": "https://open.spotify.com/album/1UMr8nPkwRYIs5zS0Mbsc8"
@@ -549,7 +573,35 @@
       "url": "https://open.spotify.com/track/6qUOK7RqW5atuGMMAdSOoP"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
+      "album": {
+        "name": "Metaphysical",
+        "url": "https://open.spotify.com/album/3r3mNtkVqo1X0TAdK4lz4g"
+      },
+      "artists": [
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "Tamir Regev",
+          "url": "https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        },
+        {
+          "name": "KONG.",
+          "url": "https://open.spotify.com/artist/40PruyzvWcAJ1cEZG1mZ8H"
+        }
+      ],
+      "duration_ms": 372301,
+      "name": "Metaphysical",
+      "url": "https://open.spotify.com/track/7Jje3VC334uK8q5lAquuO5"
+    },
+    {
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "La Mezcla",
         "url": "https://open.spotify.com/album/223yKVq2lPSvtoLMYjFeKh"
@@ -569,7 +621,7 @@
       "url": "https://open.spotify.com/track/75kXKp2DHdZEYPv16N9r20"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Los Hermanos Del Alma EP",
         "url": "https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB"
@@ -585,7 +637,23 @@
       "url": "https://open.spotify.com/track/0TvRK8oISrIs7MVum2QldX"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/5ACHqSwWKAmPEna4XHTl0p"
+      },
+      "artists": [
+        {
+          "name": "Dumming Dum",
+          "url": "https://open.spotify.com/artist/01hg7l1HFSP3y7oSWg05mB"
+        }
+      ],
+      "duration_ms": 226341,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/7xNWF3TIV0pvYxpVAfBraJ"
+    },
+    {
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Ayee",
         "url": "https://open.spotify.com/album/2YTu2sDRkgWG5SqYPXOvLe"
@@ -601,43 +669,7 @@
       "url": "https://open.spotify.com/track/45FKshmWlKziZFcb4vajXH"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Nathan Daisy",
-          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
-        }
-      ],
-      "duration_ms": 203428,
-      "name": "Enjoy The Rain (feat. Nathan Daisy)",
-      "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Under The Moon With Me EP",
-        "url": "https://open.spotify.com/album/0jXEwzfz220T8qOfQciwLz"
-      },
-      "artists": [
-        {
-          "name": "Nandu",
-          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
-        }
-      ],
-      "duration_ms": 441999,
-      "name": "Under The Moon With Me",
-      "url": "https://open.spotify.com/track/400nDiTUkLJnGJOgqqsHJq"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/611LjdYsQvGXLI0pCOrmZk"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/3nvbuSK7WPDwpyXNAv5sYO"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Zurna",
         "url": "https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "La Vecina (feat. Lyon Monster)",
         "url": "https://open.spotify.com/album/1kBTeKxzGxjjNptfXBG7ol"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/2Db88djeQEgmh4yJIMiOFi"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Remix Crusades (2007-2013)",
         "url": "https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A"
@@ -733,7 +765,7 @@
       "url": "https://open.spotify.com/track/6XeXUKDf0GmuGPfTFEh9zF"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Here To Stay",
         "url": "https://open.spotify.com/album/4wnPNpTVeNAlsENquQPb2i"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/1YsrQrjSjCmFQbVsHBlp0X"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Kana EP",
         "url": "https://open.spotify.com/album/68akROjc9w0rBeSpJjBI0x"
@@ -773,7 +805,7 @@
       "url": "https://open.spotify.com/track/20JiYYRX4KyNPOj1ADNjd5"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Balsame Remixes",
         "url": "https://open.spotify.com/album/5jcS2BaMRrM7ZPo6pXIX1z"
@@ -797,27 +829,7 @@
       "url": "https://open.spotify.com/track/2ghtRwumqvKue1kmniTzat"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Nathan Daisy",
-          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
-        }
-      ],
-      "duration_ms": 229897,
-      "name": "Coldman (feat. Nathan Daisy)",
-      "url": "https://open.spotify.com/track/6KGUd0ub0UmCX5IFVCBnRf"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Imaginar",
         "url": "https://open.spotify.com/album/6YUmGmq4R9rje3VGUDkGBz"
@@ -833,7 +845,7 @@
       "url": "https://open.spotify.com/track/2riey7bFfZ6Pak6IKHU0JZ"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Together EP",
         "url": "https://open.spotify.com/album/2Ye44uHgBcbGZT0Jb7HFlO"
@@ -853,7 +865,7 @@
       "url": "https://open.spotify.com/track/4dhs4FM9kE1nAKPHQIjaMD"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Voices Of Youth",
         "url": "https://open.spotify.com/album/6NRMt9DJ5VYAopbXnyadl8"
@@ -873,7 +885,7 @@
       "url": "https://open.spotify.com/track/1j6czimh8KUuWcf9NcKI5F"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Hella EP",
         "url": "https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT"
@@ -889,55 +901,7 @@
       "url": "https://open.spotify.com/track/7kTxtJ5AkQns3MjQZgCQoc"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Diplo (Life and Death Remixes)",
-        "url": "https://open.spotify.com/album/2upODwjr88W3EhHghbEtDv"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Damian Lazarus",
-          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
-        },
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 232279,
-      "name": "Don't Be Afraid - DJ Tennis & Carlita Remix",
-      "url": "https://open.spotify.com/track/6Vu7uVbGQBCR5S051RPEEF"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 424323,
-      "name": "Fill The Space",
-      "url": "https://open.spotify.com/track/65FU6gTGSKvTPhaN1A9eJR"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "In My Room (feat. SHELLS)",
         "url": "https://open.spotify.com/album/7E4VRFdU8aKvZ7qVY8ekrM"
@@ -957,7 +921,7 @@
       "url": "https://open.spotify.com/track/1P5MpILPf5pgEmsZzqEVoy"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "They Frontin' Remixes 2023",
         "url": "https://open.spotify.com/album/1BEvbGxnvJQXglk1fSYKtg"
@@ -977,7 +941,7 @@
       "url": "https://open.spotify.com/track/3VfIHtCtTWJq1pgd4pQrmT"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Safe Ibiza 2022 (Selected By The Deepshakerz)",
         "url": "https://open.spotify.com/album/4UlYwmMHi1cF7K51lrAsTm"
@@ -993,23 +957,7 @@
       "url": "https://open.spotify.com/track/5KsE8PudCoHMqMUDUzLGdV"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 277894,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/1t8Q66Stnzgm6VExvVmNHG"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "What Else Is There?",
         "url": "https://open.spotify.com/album/33BQGwywIquZMN26cozXnl"
@@ -1025,7 +973,7 @@
       "url": "https://open.spotify.com/track/2eUomofxqu973hHJJuIj51"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Telling Me Something EP",
         "url": "https://open.spotify.com/album/6G1JfqlVxSeUgAmF6tdjPk"
@@ -1041,7 +989,7 @@
       "url": "https://open.spotify.com/track/2BT03uRNeofELzCkSfROay"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Love Music",
         "url": "https://open.spotify.com/album/0sGe4c9j1GvQwCSRzlsOCN"
@@ -1057,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4zfNuL0jrwRbVBqjzk2XoN"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Clove",
         "url": "https://open.spotify.com/album/7jroTF9QMpaHxNw2Z1w7eR"
@@ -1077,39 +1025,7 @@
       "url": "https://open.spotify.com/track/1cKI4oT9mG6YIFXihUz4EV"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Que Lo Que",
-        "url": "https://open.spotify.com/album/7LjzvsJT0ImNudTh8SDaQE"
-      },
-      "artists": [
-        {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Que Lo Que",
-      "url": "https://open.spotify.com/track/3tsULujkCT6HRxLqyhv9Uz"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 314181,
-      "name": "Wash Away",
-      "url": "https://open.spotify.com/track/3QL6Q8HFEhAURfU5AqOBj7"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Yauna",
         "url": "https://open.spotify.com/album/30clU1EXTshIDWwQjThY2u"
@@ -1137,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0c61iOnlEq1LPWfHdRQqqU"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
@@ -1161,7 +1077,7 @@
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Mach 2",
         "url": "https://open.spotify.com/album/1CvT2emvkVkyRfF7aMgLAO"
@@ -1177,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6kYECjwht2qnj3KT9y9Ufz"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Play EP",
         "url": "https://open.spotify.com/album/0f9gNyiCXF52T6xAgxzNIT"
@@ -1197,7 +1113,7 @@
       "url": "https://open.spotify.com/track/4MgTeDDJH4FjhaCIVwkix2"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Came To Reality EP",
         "url": "https://open.spotify.com/album/6kHffsbCuRXWw5Kpt0ytYx"
@@ -1213,23 +1129,7 @@
       "url": "https://open.spotify.com/track/73ILlfnRXoW383IblJ91NF"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 305345,
-      "name": "Medieval",
-      "url": "https://open.spotify.com/track/2BME859AuqQFpHSNvSpqWN"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Kunuaka Remixes, Pt. 2",
         "url": "https://open.spotify.com/album/5wigGtgutfTnUYX4djSE4f"
@@ -1253,7 +1153,7 @@
       "url": "https://open.spotify.com/track/1Da7GyN2bbpg2mRWEGnNVV"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "April EP",
         "url": "https://open.spotify.com/album/0cP1JVdGzZQTVV4WbbWt4P"
@@ -1269,35 +1169,7 @@
       "url": "https://open.spotify.com/track/1ObGyzfxrBrVSPNChYHRv1"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Mariposa",
-        "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
-      },
-      "artists": [
-        {
-          "name": "CANU",
-          "url": "https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU"
-        },
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Alejandro Castelli",
-          "url": "https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN"
-        },
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 515710,
-      "name": "Mariposa - Bedouin Remix",
-      "url": "https://open.spotify.com/track/6B49z0I4MU5X5himZfEEli"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Upon Burning Skies",
         "url": "https://open.spotify.com/album/5WANTczHKKfzfKSKTh28i3"
@@ -1313,23 +1185,7 @@
       "url": "https://open.spotify.com/track/0ImWqzGKxRkRD28Zlck86R"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Temple Of Dreams",
-        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 273488,
-      "name": "Rise And Fall",
-      "url": "https://open.spotify.com/track/4zjDcQXCyGUOEXL1LiwELj"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Delicate Limbs (feat. serpentwithfeet) [Bedouin Remix]",
         "url": "https://open.spotify.com/album/2A39aDg66n0js9dtSOTLuq"
@@ -1353,7 +1209,7 @@
       "url": "https://open.spotify.com/track/69wkH0lQdtpH9E6XBCOHfS"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Soltornet EP",
         "url": "https://open.spotify.com/album/3liCba1IFwIRcXv2Qrxa79"
@@ -1369,7 +1225,7 @@
       "url": "https://open.spotify.com/track/3iAVA8zThSPcZpsMlyefEj"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Horizon Red",
         "url": "https://open.spotify.com/album/5UAkI4o2tcyvoISpG0s9Wb"
@@ -1389,7 +1245,7 @@
       "url": "https://open.spotify.com/track/0PgOKL49AVmYzcdPCwpwng"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Temple Of Dreams",
         "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
@@ -1409,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4KEuR4qFFiCfnXit0db0PQ"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Temple Of Dreams",
         "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
@@ -1425,47 +1281,7 @@
       "url": "https://open.spotify.com/track/3VauKqe12IMSG01zZZQ8Bh"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/2tP0kTgAwmBAt4zkWbFQ8g"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        },
-        {
-          "name": "Tim Baresko",
-          "url": "https://open.spotify.com/artist/6Uc1kxbiSTggT6cmqjrLdp"
-        }
-      ],
-      "duration_ms": 184820,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/56I4OIGTDhBmX8ZSJJDf1k"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
-      "album": {
-        "name": "Hella EP",
-        "url": "https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT"
-      },
-      "artists": [
-        {
-          "name": "Zigan Aldi",
-          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
-        },
-        {
-          "name": "Joy Tyson",
-          "url": "https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es"
-        }
-      ],
-      "duration_ms": 318617,
-      "name": "Hella feat. Joy Tyson",
-      "url": "https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2"
-    },
-    {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Pliva",
         "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
@@ -1485,7 +1301,7 @@
       "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Two Zulu Men In Ibiza EP",
         "url": "https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz"
@@ -1505,7 +1321,7 @@
       "url": "https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8"
     },
     {
-      "added_at": "2023-07-31 12:48:08",
+      "added_at": "2023-08-28 07:32:39",
       "album": {
         "name": "Yes",
         "url": "https://open.spotify.com/album/0uDxZbREPCOFOjuT1CPlER"

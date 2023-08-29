@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 269229,
       "name": "Coeur D\u2019Alene",
       "url": "https://open.spotify.com/track/0Rn0JiS3ycW4bXqnRYeH2S"
@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/3TvmvbInPXaI6KycRA3Qgl"
+    },
+    {
+      "album": {
         "name": "Fail You",
         "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 186052,
       "name": "Fail You",
       "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
@@ -599,6 +617,24 @@
     },
     {
       "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281022,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky"
+    },
+    {
+      "album": {
         "name": "Tightrope",
         "url": "https://open.spotify.com/album/7DdfRSxj7KN1q2a7Jwu0vi"
       },
@@ -610,7 +646,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 281022,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/6HUAWdvqLh5mGPGhZGRGjx"

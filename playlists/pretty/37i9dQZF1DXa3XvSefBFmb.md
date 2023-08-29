@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Cláudia Pascoal, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,321 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,326 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Geração E](https://open.spotify.com/track/6xwcFBUZ7dQ9cYAE3XidPx) | [Miss Fine](https://open.spotify.com/artist/5DsSpwWjV3p14Q4Ao5zydR) | [Geração E](https://open.spotify.com/album/407VyfUIGcaqWlBRK1FW5b) | 3:49 |
 | 50 | [Nos Meus Lençóis](https://open.spotify.com/track/7DgpAZhwqBYWnIAfpqCfT4) | [PICAS](https://open.spotify.com/artist/2zhaNkh73UkrsEb4nGNj8f) | [Nos Meus Lençóis](https://open.spotify.com/album/307bXhnFRe9RrX1Rice2PI) | 2:41 |
 
-Snapshot ID: `MCw5ZDllOWY1NzkyNmE5ZjMxZmRmZGViYWU5M2I5MTEzZDNiYmZjNmVi`
+Snapshot ID: `MCwzMmEyZWE2YTc4ODIzYmQwOTEyMWNkYzYyZmEyMWI1ZjNmNTAwYzgy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Pilitchi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,736 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,744 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [BAMBA](https://open.spotify.com/track/5Vmf7Xb13j57RqKgk1VrGU) | [quintasz](https://open.spotify.com/artist/5rL8nsDdA5x4gJpZS40uvc) | [LUZ SOMBRIA](https://open.spotify.com/album/5uNrwA6hJVZKgxfShETeRu) | 2:19 |
 | 100 | [Cold](https://open.spotify.com/track/5XZWJb74SsAWZynDHgmiOQ) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Cold](https://open.spotify.com/album/4Qhoy7CG8M1bASrICsTmna) | 3:04 |
 
-Snapshot ID: `MCw1OGUzMzRmZjlkMDA3MzdjNzNlOGM2NGU5NzQzZGEzNTAxMzIzNDAz`
+Snapshot ID: `MCxkOTc3NzFhMmYyYTg1NmU3NmFjZjFmMDM2NmE3YjY4MDViMTg5NzY1`

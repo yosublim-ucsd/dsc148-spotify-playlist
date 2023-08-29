@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,245 songs - 2 day 17 hr 58 min
+1,246 songs - 2 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-17 | 2022-04-16 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-09 | 2022-05-15 |
 | [Abu Dhabi](https://open.spotify.com/track/6hJ4YxUN9RRUm4E08qfDcs) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Abu Dhabi](https://open.spotify.com/album/1AX2IgsU9Hau9iili97z34) | 3:02 | 2021-12-08 | 2022-07-18 |
-| [ae](https://open.spotify.com/track/2Oy2SGDK3K0rDOaiCRJWJA) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb) | [ae](https://open.spotify.com/album/2WsF40BvTPOczOKR5OeMyr) | 3:07 | 2023-06-14 |  |
+| [ae](https://open.spotify.com/track/2Oy2SGDK3K0rDOaiCRJWJA) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb) | [ae](https://open.spotify.com/album/2WsF40BvTPOczOKR5OeMyr) | 3:07 | 2023-06-14 | 2023-08-29 |
 | [AF1](https://open.spotify.com/track/2hgUqK2W6CrCsfrywpq5iD) | [CERCEL](https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR), [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2) | [AF1](https://open.spotify.com/album/5IzDdqg7ie3AE4zb5mgfkX) | 2:23 | 2022-08-18 | 2022-08-20 |
 | [Afară Ninge Liniştit](https://open.spotify.com/track/1e9213HmxfiBf3ZEmCd1dU) | [Stefan Hrusca](https://open.spotify.com/artist/6l6cvAPpAXHxNHYzSHHTCu) | [La Săvârşitu' lumii / Colinde 2](https://open.spotify.com/album/0krzbu9hmK2jIPnfR3t9x4) | 2:20 | 2021-12-24 | 2022-12-27 |
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2022-06-13 | 2022-06-17 |
@@ -149,6 +149,7 @@
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-11-29 | 2023-01-03 |
 | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B), [ZT \(3x3\)](https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx) | 4:38 | 2021-05-07 | 2021-06-13 |
 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 | 2023-08-06 | 2023-08-11 |
+| [Bonnie & Clyde](https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw) | [911](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [Bonnie & Clyde](https://open.spotify.com/album/4QAyFKSjgOz5UrotwPgJOq) | 2:25 | 2023-08-28 |  |
 | [Bonsai](https://open.spotify.com/track/1bQVPUUy0VMcqpIRtByrpN) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Kira](https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4) | 3:49 | 2022-03-26 | 2022-06-19 |
 | [Boompow](https://open.spotify.com/track/3h2UjqcpzE9PRu5Mut5Um2) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Înapoi La Viață](https://open.spotify.com/album/2N2nERQNkt2bI1xtxvPcLH) | 3:35 | 2022-08-12 | 2022-08-25 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-10-08 | 2021-10-09 |

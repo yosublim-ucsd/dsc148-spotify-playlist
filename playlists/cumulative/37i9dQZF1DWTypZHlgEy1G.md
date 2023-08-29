@@ -4,7 +4,7 @@
 
 > Le patrimoine de la chanson française\. Photo : Charles Aznavour
 
-146 songs - 7 hr 58 min
+147 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [L'aigle noir](https://open.spotify.com/track/6BUmAt5KqUCN74bgXzzrAK) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Liefde aan de Sein](https://open.spotify.com/album/46kE3wBimtaWT8ZdFZMQhy) | 4:57 | 2021-03-21 | 2022-11-13 |
 | [L'eau vive](https://open.spotify.com/track/1g5MPIG26EjcD2EalLpian) | [Guy Béart](https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7) | [Souvenirs d'un troubadour](https://open.spotify.com/album/3Y3Nir48qezCcwG33Kbvcl) | 2:57 | 2021-03-21 | 2022-11-13 |
 | [L'eau vive](https://open.spotify.com/track/5qGg8QnOSG1zik86m5Pi7S) | [Guy Béart](https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7) | [Best Of](https://open.spotify.com/album/1WX0vEaonro2LWQHVX1G1a) | 2:58 | 2021-03-21 | 2022-07-29 |
-| [L'eau vive](https://open.spotify.com/track/6OzAXj08hzooP4olZeZJ6E) | [Guy Béart](https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7) | [Les génies de la chanson : Guy Béart](https://open.spotify.com/album/3o0uMbXThu7jSYTo1lpZ52) | 3:00 | 2021-03-21 |  |
+| [L'eau vive](https://open.spotify.com/track/6OzAXj08hzooP4olZeZJ6E) | [Guy Béart](https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7) | [Les génies de la chanson : Guy Béart](https://open.spotify.com/album/3o0uMbXThu7jSYTo1lpZ52) | 3:00 | 2021-03-21 | 2023-08-29 |
+| [L'eau vive](https://open.spotify.com/track/0eziJsP0e5LCvy0Drk1u4N) | [Guy Béart](https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7) | [Les chansons de Guy Béart](https://open.spotify.com/album/4HJWBPdHKbkVRlPDJLID7B) | 3:00 | 2023-01-17 |  |
 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 | 2021-03-21 |  |
 | [La ballade des gens heureux](https://open.spotify.com/track/2I69iebe4CftqShXyRoIZh) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les indispensables](https://open.spotify.com/album/5kDBB1VYkmUQdxVlAAuIUB) | 3:17 | 2021-03-21 |  |
 | [La Ballade Des Gens Heureux](https://open.spotify.com/track/3f1kUjxpiIf6cqOn71acN9) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [100 Tubes 70s](https://open.spotify.com/album/2zs6pEnk6jffcqakWih5lW) | 3:18 | 2021-03-21 | 2022-07-29 |

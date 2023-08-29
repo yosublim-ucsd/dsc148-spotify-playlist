@@ -4,7 +4,7 @@
 
 > for a first class pre, press play
 
-155 songs - 9 hr 57 min
+156 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Rich Girl](https://open.spotify.com/track/7HDLlU5FmQ3gijvtcXXBGG) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Love Angel Music Baby \- 15th Anniversary Edition](https://open.spotify.com/album/2FCeFtMkigKLecYFX4syuH) | 3:56 | 2022-05-06 | 2022-09-17 |
 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 | 2022-05-06 |  |
 | [Shabba \(feat\. A$AP Rocky\)](https://open.spotify.com/track/7eaKWfov7b2Qa2n6HTesL3) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:35 | 2022-05-06 |  |
-| [Shake Ya Tailfeather \(feat\. Nelly & Murphy Lee\)](https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bad Boys II](https://open.spotify.com/album/4DXLSy0XusV4o9ZhDfY0Ow) | 4:53 | 2022-05-06 |  |
+| [Shake Ya Tailfeather \(feat\. Nelly & Murphy Lee\)](https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bad Boys II](https://open.spotify.com/album/4DXLSy0XusV4o9ZhDfY0Ow) | 4:53 | 2022-05-06 | 2023-08-29 |
+| [Shake Ya Tailfeather \- Radio Edit](https://open.spotify.com/track/4TJduXYW1Pg96EDNnfiwxJ) | [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Murphy's Law](https://open.spotify.com/album/5T75pyMyLZWKvDl6jFdi0F) | 4:55 | 2023-08-03 |  |
 | [Shawty Is Da Shit](https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:22 | 2022-05-06 |  |
 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 | 2022-09-16 |  |
 | [Still Fly](https://open.spotify.com/track/563vSy3HB5NHxel1VGQCW6) | [Big Tymers](https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR) | [Hood Rich](https://open.spotify.com/album/3qcWuKB3pGWcB07FWksnWr) | 5:35 | 2022-05-06 |  |

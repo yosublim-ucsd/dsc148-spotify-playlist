@@ -936,7 +936,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 157354,
       "name": "the way you wanna be",
       "url": "https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR"
@@ -1212,6 +1212,24 @@
       "duration_ms": 207272,
       "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
       "url": "https://open.spotify.com/track/7qS8UCNhleIWbdiPVntVNm"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u8d77\u8d70",
+        "url": "https://open.spotify.com/album/3QSifyxhS4nmIljCrxU3KR"
+      },
+      "artists": [
+        {
+          "name": "Pika Chiu",
+          "url": "https://open.spotify.com/artist/5SIsztzgW9ErZcWRnp2hdS"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231096,
+      "name": "\u4e00\u8d77\u8d70",
+      "url": "https://open.spotify.com/track/1G1a7LgrGs0shictQuHBn1"
     },
     {
       "album": {
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 244690,
       "name": "\u5169\u96bb\u6200\u4eba",
       "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
@@ -4192,6 +4210,28 @@
       "duration_ms": 135000,
       "name": "\u6c27\u5316\u6c22",
       "url": "https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5"
+    },
+    {
+      "album": {
+        "name": "\u5077\u5fc3\u7e3d\u52d5\u54e1",
+        "url": "https://open.spotify.com/album/1LMAlj23koO7SFSnaUfgko"
+      },
+      "artists": [
+        {
+          "name": "Ken Deng \u80af\u9127",
+          "url": "https://open.spotify.com/artist/67WEyeIvKyJEX30EzqrXoC"
+        },
+        {
+          "name": "Queen Wei",
+          "url": "https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245292,
+      "name": "\u6c92\u554f\u984c",
+      "url": "https://open.spotify.com/track/6gcHyODO5PtwxkIB26OSMe"
     },
     {
       "album": {

@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 290502,
       "name": "Hear My Prayer",
       "url": "https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn"
@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Jealous Girls",
+        "url": "https://open.spotify.com/album/3ash5oM41KWgxdrww067gO"
+      },
+      "artists": [
+        {
+          "name": "Makena Hartlin",
+          "url": "https://open.spotify.com/artist/2MzHCysoDydVG3tu8d2ItY"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317591,
+      "name": "Jealous Girls",
+      "url": "https://open.spotify.com/track/4NbdVZzizwnRTzJ3Hs0SJh"
+    },
+    {
+      "album": {
         "name": "The Deep And The Dirty",
         "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
       },
@@ -2244,7 +2262,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 354626,
       "name": "Long Time No See",
       "url": "https://open.spotify.com/track/5s40RWy8SY50RXy0xdulRp"
@@ -2610,7 +2628,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 227124,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4zZTJprxXDYv3IYkOvlp0Q"

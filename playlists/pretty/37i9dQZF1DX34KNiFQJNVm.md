@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Juliette, Ana Castela, Leo Santana, Gusttavo Lima, NATTAN, Miley Cyrus e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,718 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,912 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 34 | [Joga pra Mim](https://open.spotify.com/track/2QSbs5sNWQh1OPV9GfWpu4) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Joga pra Mim](https://open.spotify.com/album/2QWrhM9E0LvfJLlsnTXgmH) | 2:14 |
 | 35 | [Não Sou Ex de Ninguém \- Ao Vivo](https://open.spotify.com/track/2DLaZookbmJxcz1QYTZYhy) | [Thiago Aquino](https://open.spotify.com/artist/7yPoxj2lXWy7J4ixQHVubk), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Não Sou Ex de Ninguém \(Ao Vivo\)](https://open.spotify.com/album/1v20P6efENHQSwJIvLu7tT) | 2:29 |
 | 36 | [Original](https://open.spotify.com/track/58EnJnBegNgGPomCvDQExF) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Original](https://open.spotify.com/album/4LKDSnLsE9n7VXnMrjnPQq) | 4:19 |
-| 37 | [Famigerado](https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:18 |
+| 37 | [Famigerado](https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:18 |
 | 38 | [PARTy T1M3](https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PARTy T1M3](https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA) | 2:35 |
 | 39 | [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 |
 | 40 | [Eu Mereci \(Freestyle Asfalto Rec\)](https://open.spotify.com/track/30SrvC2dfGID4P7GbfK17u) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [Eu Mereci \(Freestyle Asfalto Rec\)](https://open.spotify.com/album/62g2tur7hQbVe8u6LSG2zY) | 3:16 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 102 | [Move it, Love it](https://open.spotify.com/track/15fhWIiIrQsCs6VW17W2kz) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Mc Thata](https://open.spotify.com/artist/5q8M0G3RhAnuD7bjrFLpQm) | [Move it, Love it](https://open.spotify.com/album/4k6bODAr2RBMizWzaN237f) | 3:00 |
 | 103 | [Az De Ouro](https://open.spotify.com/track/4SU0Ih4r5IdKZIHaXlQ4R0) | [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Az De Ouro](https://open.spotify.com/album/1vq05TEz1R2vcWahw78Thi) | 2:52 |
 
-Snapshot ID: `MCwwNmI3MGUwYjI1ZDA2YTA2Njk5MDFjMmQ0NWM3N2FiZGNmODdmOTg4`
+Snapshot ID: `MCwzNmEzYWQ0NGI4ZWM5YWZmMTAwNDQyYmVkNzM1NGU2ZDUzYmZlOGVl`

@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 775496,
+  "num_followers": 775534,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmJkMWEwMjI2NzBiMDZkYmQxNGEzMWM1YzU5NTMwODVlMjM2MzE1",
+  "snapshot_id": "MCxjYWQxNDhkMDUxNWY2MGM3ZmFlY2Q3YzE2NDEyNDZhMzQ1ZTAxODc2",
   "tracks": [
     {
       "added_at": "2023-08-24 15:10:34",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Repouso",
-        "url": "https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c"
-      },
-      "artists": [
-        {
-          "name": "Polysomni",
-          "url": "https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "Repouso",
-      "url": "https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Spirituale",
         "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 193777,
       "name": "Insieme",
       "url": "https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Repouso",
+        "url": "https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c"
+      },
+      "artists": [
+        {
+          "name": "Polysomni",
+          "url": "https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "Repouso",
+      "url": "https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Next to Nothing",
-        "url": "https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp"
-      },
-      "artists": [
-        {
-          "name": "Gaia Rosica",
-          "url": "https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h"
-        }
-      ],
-      "duration_ms": 166678,
-      "name": "Next to Nothing",
-      "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Distant Oceans",
         "url": "https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 138666,
       "name": "Distant Oceans",
       "url": "https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Next to Nothing",
+        "url": "https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp"
+      },
+      "artists": [
+        {
+          "name": "Gaia Rosica",
+          "url": "https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h"
+        }
+      ],
+      "duration_ms": 166678,
+      "name": "Next to Nothing",
+      "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Eudaimonia",
-        "url": "https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw"
+        "name": "Arnofio",
+        "url": "https://open.spotify.com/album/3GQ0dExzAfoddTSqpl6BLN"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Laurent Wilks",
+          "url": "https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes"
         }
       ],
-      "duration_ms": 185895,
-      "name": "Eudaimonia",
-      "url": "https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu"
+      "duration_ms": 177000,
+      "name": "Arnofio",
+      "url": "https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Arnofio",
-        "url": "https://open.spotify.com/album/3GQ0dExzAfoddTSqpl6BLN"
+        "name": "Eudaimonia",
+        "url": "https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw"
       },
       "artists": [
         {
-          "name": "Laurent Wilks",
-          "url": "https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes"
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Arnofio",
-      "url": "https://open.spotify.com/track/4xXxZogRtkKgJZxutafFqA"
+      "duration_ms": 185895,
+      "name": "Eudaimonia",
+      "url": "https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "Laze",
+        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
+      },
+      "artists": [
+        {
+          "name": "Aileen Morais",
+          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Miho no Matsubara",
         "url": "https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 490000,
       "name": "Ethereal Spaces Pt 2",
       "url": "https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
-        "name": "Laze",
-        "url": "https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k"
-      },
-      "artists": [
-        {
-          "name": "Aileen Morais",
-          "url": "https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Stillness",
-      "url": "https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Everything is Different",
-        "url": "https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX"
-      },
-      "artists": [
-        {
-          "name": "Nadia Pugh",
-          "url": "https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Everything is Different",
-      "url": "https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Make It Last",
         "url": "https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 174500,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Everything is Different",
+        "url": "https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX"
+      },
+      "artists": [
+        {
+          "name": "Nadia Pugh",
+          "url": "https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Everything is Different",
+      "url": "https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Jubran's Lake (432hz)",
-        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Jubran's Lake (432hz) - No Ambience",
-      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Zenith",
         "url": "https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 181770,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Jubran's Lake (432hz)",
+        "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Jubran's Lake (432hz) - No Ambience",
+      "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx"
-      },
-      "artists": [
-        {
-          "name": "Lulu Helensworth",
-          "url": "https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Apesanteur",
         "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "serenity (sleep)",
+        "url": "https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "duration_ms": 165891,
+      "name": "isolation",
+      "url": "https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Scarr",
         "url": "https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D"
       },
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx"
+      },
+      "artists": [
+        {
+          "name": "Lulu Helensworth",
+          "url": "https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Partly Cloudy",
         "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 223653,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
-        "name": "serenity (sleep)",
-        "url": "https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm"
-      },
-      "artists": [
-        {
-          "name": "oh, the joy.",
-          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
-        }
-      ],
-      "duration_ms": 165891,
-      "name": "isolation",
-      "url": "https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Through it All",
-        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
-      },
-      "artists": [
-        {
-          "name": "Iselinn",
-          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
-        }
-      ],
-      "duration_ms": 186559,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Nuee",
         "url": "https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 168000,
       "name": "Nuee",
       "url": "https://open.spotify.com/track/79BRFdRzq8Kbj2rNvRX18H"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Through it All",
+        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
+      },
+      "artists": [
+        {
+          "name": "Iselinn",
+          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
+        }
+      ],
+      "duration_ms": 186559,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Understanding Yourself",
-        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
-      },
-      "artists": [
-        {
-          "name": "Mikael Arvo",
-          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Deep Contemplation",
-      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Brise Apaisante",
         "url": "https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 201219,
       "name": "Brise Apaisante",
       "url": "https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Understanding Yourself",
+        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
+      },
+      "artists": [
+        {
+          "name": "Mikael Arvo",
+          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Deep Contemplation",
+      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Deep Steadiness",
-        "url": "https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX"
-      },
-      "artists": [
-        {
-          "name": "Winds Of Minds",
-          "url": "https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0"
-        }
-      ],
-      "duration_ms": 156793,
-      "name": "Deep Steadiness",
-      "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
         "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 217250,
       "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
       "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Deep Steadiness",
+        "url": "https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX"
+      },
+      "artists": [
+        {
+          "name": "Winds Of Minds",
+          "url": "https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0"
+        }
+      ],
+      "duration_ms": 156793,
+      "name": "Deep Steadiness",
+      "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
     },
     {
       "added_at": "2023-08-24 15:10:34",

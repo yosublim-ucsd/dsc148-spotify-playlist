@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-206 songs - 12 hr 34 min
+207 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [God Moves On the Water](https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 2:59 | 2022-10-10 |  |
 | [God Moves on the Water](https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ) | [Elly Wininger](https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ) | [The Blues Never End](https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1) | 3:01 | 2022-06-14 |  |
 | [Good Morning Little School Girl](https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:36 | 2023-01-20 |  |
-| [Good to You Blues](https://open.spotify.com/track/671nwzfH2ruB5CRyhNaeiw) | [Bill Hangley, Jr](https://open.spotify.com/artist/3IEHYiHIEKkU9DBxmIPujL) | [Good to You Blues](https://open.spotify.com/album/5xbLjTvVtrdVaOFFJ709iE) | 5:22 | 2023-08-25 |  |
+| [Good to You Blues](https://open.spotify.com/track/671nwzfH2ruB5CRyhNaeiw) | [Bill Hangley, Jr](https://open.spotify.com/artist/3IEHYiHIEKkU9DBxmIPujL) | [Good to You Blues](https://open.spotify.com/album/5xbLjTvVtrdVaOFFJ709iE) | 5:22 | 2023-08-25 | 2023-08-29 |
 | [Good, Good Man](https://open.spotify.com/track/7uSkpPhm94n4USbGTq9U31) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Good, Good Man](https://open.spotify.com/album/2pSMTbVb4OZqESjjjwyRRG) | 3:56 | 2023-02-24 |  |
 | [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 | 2022-05-27 |  |
 | [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 | 2022-05-27 |  |
@@ -187,6 +187,7 @@
 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 | 2022-07-08 |  |
 | [Sweet Little Angel](https://open.spotify.com/track/5OKOMO49kNKx3QfJEgNEnF) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball And Chain](https://open.spotify.com/album/2AOVcou4z2NUEEJ8p36eje) | 5:30 | 2022-05-25 | 2022-07-29 |
 | [Sweet Thang](https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 4:12 | 2022-05-25 |  |
+| [Teach Me How to Stay \- Live](https://open.spotify.com/track/2KXTHCc7NbLlR57VVaVxEN) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [Teach Me How to Stay \(Live\)](https://open.spotify.com/album/5KnOlJerBisARbyK4AAijY) | 5:23 | 2023-08-25 |  |
 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/0ldxVkKiyazLlHc6lWR10n) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [The Ballad of John Howard Griffin](https://open.spotify.com/album/29IVT0NuqSjjXKbvShXQH6) | 5:16 | 2023-02-24 | 2023-03-27 |
 | [The Ballad of John Howard Griffin](https://open.spotify.com/track/483TCXJPMDIKqygdS0gBda) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:16 | 2023-08-25 |  |
 | [The Difference](https://open.spotify.com/track/6zzZZJHUu54U93xTJ0FBYj) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Difference](https://open.spotify.com/album/0dljYSROOElwPmv67IgAbH) | 3:28 | 2023-08-18 |  |

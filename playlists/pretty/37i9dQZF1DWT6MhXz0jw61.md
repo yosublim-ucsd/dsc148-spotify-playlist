@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,837 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,234 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Diamonds](https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Diamonds](https://open.spotify.com/album/0IEZx9NrnUcoIEQCBvNxDE) | 3:31 |
 | 100 | [Hootz](https://open.spotify.com/track/4Q0QCJid9Sg0EKFfewCgw6) | [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Love Without Conditions](https://open.spotify.com/album/3pKvcDR1KlZ2uxRDVegJej) | 3:09 |
 
-Snapshot ID: `MCxmMTJlMDM3NTZkYTJjZWVmNzE0ZTU0M2JkYTNiZjA3YjgzODA3YmQw`
+Snapshot ID: `MCxhZDFhYTcxOTY1NjQyZGUzNDgyOTg1YzMyNDVlODBkYjUwYjAzOWQ2`

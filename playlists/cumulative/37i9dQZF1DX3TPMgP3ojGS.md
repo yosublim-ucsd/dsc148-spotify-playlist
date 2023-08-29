@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,734 songs - 3 day 5 hr 44 min
+1,735 songs - 3 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2021-03-18 | 2022-07-17 |
 | [Days Like These](https://open.spotify.com/track/7pwDWr9QNRAv6N63MY2mRn) | [Renard Francis](https://open.spotify.com/artist/1TQQ7EEYrOne3L7iiCObNX) | [Days Like These](https://open.spotify.com/album/207M0Mwbs6wtPdPmayBTUw) | 4:09 | 2021-03-09 | 2022-06-12 |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2021-05-08 | 2022-04-08 |
-| [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 | 2022-12-22 |  |
+| [Days Passing By](https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Passages](https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB) | 2:39 | 2022-12-22 | 2023-08-29 |
 | [De Angelis](https://open.spotify.com/track/7vF6BeR1XaVvgDVX0zpJKv) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [De Angelis](https://open.spotify.com/album/1WV4uwUBSu9Pwwr8bWv2GP) | 2:23 | 2021-03-16 | 2022-04-15 |
 | [Dear Mama](https://open.spotify.com/track/1qUVgTwfcnO0GXOD89SCwz) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Hidden Depth](https://open.spotify.com/album/7x1LzLQlWwtPTCCEH6ytbM) | 3:16 | 2021-03-21 | 2022-07-23 |
 | [Decay](https://open.spotify.com/track/5FFtJ0ygy9EniovOZIDGuK) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Piano 1 \(Extended\)](https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP) | 2:37 | 2021-03-08 | 2022-04-16 |
@@ -1564,6 +1564,7 @@
 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2021-03-22 | 2022-04-16 |
 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 | 2021-03-24 | 2022-07-28 |
 | [Tramonto Sul Mugello](https://open.spotify.com/track/3Z1iMbGEDRnQeQd5zCBSFU) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Tramonto Sul Mugello](https://open.spotify.com/album/1YjBkOBztQeKQOvRdIrrJC) | 3:54 | 2021-03-07 | 2022-04-14 |
+| [Tranquillity waltz](https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Tranquillity waltz](https://open.spotify.com/album/3QMb20fXVrYo4PcZVlkmbq) | 1:58 | 2023-08-22 |  |
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2021-05-18 | 2022-07-28 |
 | [Traunstein](https://open.spotify.com/track/3oTDoIy41rJX9ZQYURoWRt) | [Theodore Tompkins](https://open.spotify.com/artist/6q0goYsbiGF4LUqGIWrXBb) | [Traunstein](https://open.spotify.com/album/0R44nYLnFDUvN9XCk8sKGY) | 2:29 | 2021-05-26 | 2022-04-16 |
 | [Traveling](https://open.spotify.com/track/5ih49fmvqPDV9Hq7IRzf7U) | [Heinz Goldblatt](https://open.spotify.com/artist/2huinmkGMFzltmc7Pe7fgf) | [Traveling](https://open.spotify.com/album/2xDToUiJFj9bs00f7X9Q11) | 1:59 | 2021-05-07 | 2022-04-08 |

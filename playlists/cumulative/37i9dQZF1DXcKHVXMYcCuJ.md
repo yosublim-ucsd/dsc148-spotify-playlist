@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-357 songs - 22 hr 16 min
+359 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [DO YOU KNOW ME?](https://open.spotify.com/track/6wMith98wlaLshmnNw4P9R) | [VANT](https://open.spotify.com/artist/4Xxkt0tSJr1uNxGDZcJLRc) | [DUMB BLOOD](https://open.spotify.com/album/4RGI1ovRYHPyjRme2kh93L) | 2:34 | 2021-12-15 | 2022-07-29 |
 | [Dogwalk](https://open.spotify.com/track/2ZyO3MyefPnbwfnhPEthbf) | [Pity Sex](https://open.spotify.com/artist/7zYojeiCfuseHGA4IJ8qSk) | [Dark World](https://open.spotify.com/album/0cdE44lkfzdKXVyWcgNnWK) | 4:42 | 2021-12-15 | 2022-07-28 |
 | [Dogwalk](https://open.spotify.com/track/669JWthnxk4uSsnnDhEnu8) | [Pity Sex](https://open.spotify.com/artist/7zYojeiCfuseHGA4IJ8qSk) | [Dark World](https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S) | 4:42 | 2022-06-23 |  |
+| [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 | 2023-08-28 |  |
 | [Drink the Sunshine](https://open.spotify.com/track/7CFu1EG7qOdp6IdXlVAkof) | [Symposium](https://open.spotify.com/artist/3YUqeikmjlNZDLLImxLPuq) | [One Day at a Time](https://open.spotify.com/album/2TJq6nTvk4gsnUlgwNsKN2) | 3:55 | 2022-11-02 | 2022-12-12 |
 | [Driveway to Driveway](https://open.spotify.com/track/1C65EMS98C2cnJZA5DEEq8) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish \(Remastered\)](https://open.spotify.com/album/1qmuiYImHKC0qwKQXH1U1O) | 4:41 | 2021-12-15 | 2022-07-29 |
 | [Driveway to Driveway](https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS) | [Superchunk](https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP) | [Foolish](https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A) | 4:41 | 2022-06-23 |  |
@@ -130,7 +131,7 @@
 | [Hell Will Wait](https://open.spotify.com/track/6gH90ldgKSavrVGdeN6Rcm) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Lost Ghosts, Vol\. 1](https://open.spotify.com/album/2ZsBSBmRkl5OvVVOFqQWZr) | 3:50 | 2021-12-15 | 2022-07-22 |
 | [Holy](https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:39 | 2021-12-15 |  |
 | [Honky's Ladder](https://open.spotify.com/track/0IndpEG2dVS0rZS5xsLNXe) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [Black Love](https://open.spotify.com/album/2Plr11K7q3joEjDFSAOqvO) | 4:16 | 2021-12-15 | 2023-01-26 |
-| [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-11 |  |
+| [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-11 | 2023-08-29 |
 | [Hunstanton Pier](https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Fools and Worthless Liars \(Deluxe Edition\)](https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I) | 4:49 | 2022-06-23 |  |
 | [Hunstanton Pier](https://open.spotify.com/track/4ZaElTq1ZqcaHdeA2eoP2E) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Fools and Worthless Liars](https://open.spotify.com/album/4ei0RkOn29dn174wallj5w) | 4:49 | 2022-04-15 | 2022-04-21 |
 | [Husk](https://open.spotify.com/track/2rXCIP7vZhcKnARrSnwCD7) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [I'm Not Well](https://open.spotify.com/album/3CHP5LUOP2kjAGctsTD2YN) | 2:38 | 2023-05-15 |  |
@@ -252,6 +253,7 @@
 | [sanjake](https://open.spotify.com/track/61Od02a9dXArdW9bBCKUPp) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [sanjake](https://open.spotify.com/album/5pagUXzTuiWLh52rTojpSj) | 3:02 | 2022-12-29 |  |
 | [Saviour](https://open.spotify.com/track/4o5GYJNnwtWvO3Yxvmw1QF) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 3:09 | 2021-12-15 | 2022-11-14 |
 | [Savory](https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N) | [Jawbox](https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP) | [For Your Own Special Sweetheart](https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt) | 4:39 | 2021-12-15 |  |
+| [Say Nothing](https://open.spotify.com/track/6XyYSUudysDWutyxTmJkwP) | [Pianos Become The Teeth](https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C) | [Keep You](https://open.spotify.com/album/6FIG1qaWuCW4SiY2EtLJE7) | 7:03 | 2023-08-28 |  |
 | [See A Little Light](https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB) | [Bob Mould](https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A) | [Workbook](https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15) | 3:32 | 2022-04-15 |  |
 | [Shaking In The Water](https://open.spotify.com/track/2qp2GvKSEXc97ckv0zrmuX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:10 | 2021-12-15 | 2022-07-26 |
 | [Shed](https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:16 | 2022-06-23 |  |
@@ -345,7 +347,7 @@
 | [Wear It So Well](https://open.spotify.com/track/7zobj12CJdA7gfKj5re1Ik) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [Water & Solutions](https://open.spotify.com/album/1Ac8uOok8TkMmGLqaHrUhN) | 3:30 | 2021-12-15 | 2022-07-29 |
 | [Weed Pin](https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 4:42 | 2021-12-15 |  |
 | [What Is Light? Where Is Laughter?](https://open.spotify.com/track/7kGLFYBvviGs2wnDTEPYEU) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Vivarium \(Deluxe\)](https://open.spotify.com/album/37nYXtPf5sghHSBadTY4bz) | 3:38 | 2022-01-11 | 2022-04-21 |
-| [Where Are You Now?](https://open.spotify.com/track/7w53ucikSIdig3nLCi29a9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [VINYL: THE ESSENTIALS: BEST OF SEASON 1](https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu) | 2:47 | 2021-12-15 |  |
+| [Where Are You Now?](https://open.spotify.com/track/7w53ucikSIdig3nLCi29a9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [VINYL: THE ESSENTIALS: BEST OF SEASON 1](https://open.spotify.com/album/77era7gZSj4bR9olUpIcJu) | 2:47 | 2021-12-15 | 2023-08-29 |
 | [Where the City Meets the Sea](https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9) | [The Getaway Plan](https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF) | [Other Voices, Other Rooms](https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI) | 3:35 | 2022-04-15 |  |
 | [Why Bother?](https://open.spotify.com/track/4W3uLgQTUl4fXAIdAvFRzK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 2:06 | 2021-12-15 | 2022-09-22 |
 | [Why Bother?](https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:08 | 2023-03-29 | 2023-05-12 |

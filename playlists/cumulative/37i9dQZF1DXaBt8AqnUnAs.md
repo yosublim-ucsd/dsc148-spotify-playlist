@@ -4,7 +4,7 @@
 
 > aqueles papo de amor, tlgd não?
 
-327 songs - 16 hr 14 min
+328 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Mais Um Trago](https://open.spotify.com/track/38Ykj18FJ3YyyyVRIAFaxO) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [Mais Um Trago](https://open.spotify.com/album/1F3GjKuEB5kVwIlBgJQ9li) | 2:52 | 2023-03-03 | 2023-03-11 |
 | [Mal Sei Falar de Amor](https://open.spotify.com/track/1BoMpKPeITtg3HN9Ursz5T) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Mal Sei Falar de Amor](https://open.spotify.com/album/2p6554PCcGEKWrSLknXpAr) | 2:08 | 2023-01-06 |  |
 | [Mamacita](https://open.spotify.com/track/53Cwb4EiUfbmdOdNLILo1Z) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Mamacita](https://open.spotify.com/album/0ZFfNGe1r9cF23gmqpWr8H) | 3:04 | 2023-01-20 | 2023-02-04 |
-| [Manda Áudio](https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM) | 2:18 | 2023-07-14 |  |
+| [Manda Áudio](https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/51Jdr9EBtQHruGrmzNZF5h) | 2:18 | 2023-08-28 |  |
+| [Manda Áudio](https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM) | 2:18 | 2023-07-14 | 2023-08-29 |
 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 | 2023-04-21 |  |
 | [Maravilhosa](https://open.spotify.com/track/6z3j1rAvwsrGdi9dtDmL7n) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:09 | 2023-08-25 |  |
 | [Maria](https://open.spotify.com/track/3Y3TUJekHaFusRGJtWnEQW) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [Cout1nho](https://open.spotify.com/artist/2AVRzXrir2Gfb7QUNxijTv) | [Maria](https://open.spotify.com/album/67qMi4PQLIIGhkCbrLGGlA) | 2:42 | 2023-02-24 | 2023-04-29 |

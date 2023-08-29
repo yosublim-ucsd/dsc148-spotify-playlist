@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 156288,
       "name": "Antham Vittoru Pennu",
       "url": "https://open.spotify.com/track/6wRQXidgQSSd4tXtl3S7qB"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 119024,
       "name": "I Am Back",
       "url": "https://open.spotify.com/track/2ZCPrOFtAR4vPBq9dhEYE0"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 194418,
       "name": "Ne Mathram",
       "url": "https://open.spotify.com/track/2UeUcMklimRzYjmpohUPWK"
@@ -1703,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "THALAKKANAM",
+        "url": "https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36"
+      },
+      "artists": [
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "THALAKKANAM",
+      "url": "https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17"
+    },
+    {
+      "album": {
         "name": "Thalayana Manthram",
         "url": "https://open.spotify.com/album/5Cohg9TfF3ofvpNoAUsGUN"
       },
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 187449,
       "name": "Varav",
       "url": "https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX"

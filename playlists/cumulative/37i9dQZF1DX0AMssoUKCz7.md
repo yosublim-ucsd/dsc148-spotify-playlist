@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-636 songs - 1 day 8 hr 27 min
+637 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [44th and 8th](https://open.spotify.com/track/3q1dhgO6MmeA7LUoz86BPh) | [Sean Bradford](https://open.spotify.com/artist/6NH017cWdDip8d3zS2lXbD) | [44th and 8th](https://open.spotify.com/album/1AcgYj8rGqP01e3xQe149G) | 3:44 | 2022-01-14 | 2022-04-25 |
 | [5th Avenue](https://open.spotify.com/track/0mpkpO26XkXjT5t3vyl8PA) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [5th Avenue](https://open.spotify.com/album/7s1p2d7VGyvxZKuj9YWxOg) | 3:04 | 2022-04-29 |  |
 | [60s Ghost](https://open.spotify.com/track/26g2tdtXcqCaXaXEayIL4N) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [60s Ghost](https://open.spotify.com/album/3VLXC0RS09VuvdlMgZj0bO) | 2:35 | 2022-12-23 | 2023-08-01 |
-| [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 | 2022-04-01 |  |
+| [A Little Bit Closer](https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [A Little Bit Closer](https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn) | 2:35 | 2022-04-01 | 2023-08-29 |
 | [Above the Clouds](https://open.spotify.com/track/6wHdTGv5xb3HU7As15DLda) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Uncovered](https://open.spotify.com/album/4iu0toRdSjyU0qIdKTWMoY) | 3:30 | 2022-01-14 | 2022-05-04 |
 | [Across The Ocean](https://open.spotify.com/track/3FjWTQ8OoTH5wjqiuIHzAC) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Michael Hausted](https://open.spotify.com/artist/0QlmyIn6tbtm2hn8dpljom), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Across The Ocean](https://open.spotify.com/album/20poYmJr5wcewKNysHNYNv) | 2:26 | 2022-05-27 |  |
 | [Adore Me](https://open.spotify.com/track/0qWI3yyjm0pE6w27TKYA3n) | [Theodor Rosenberg](https://open.spotify.com/artist/1iwpozrddUbEbAXwVRYuof) | [Adore Me](https://open.spotify.com/album/4yVKeT1R6qDxq3S9gT4YZ8) | 2:13 | 2022-04-22 | 2022-07-29 |
@@ -308,6 +308,7 @@
 | [Like a Mystery](https://open.spotify.com/track/74E2muWug3WOPjKkw2hpq5) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Like a Mystery](https://open.spotify.com/album/2A56tnGbitndWfuakU2QKU) | 2:18 | 2022-07-15 |  |
 | [Like Heaven](https://open.spotify.com/track/1OtFo3W1yim0a67MlEkTEt) | [oomiee](https://open.spotify.com/artist/5kiu9L1QtCQJCIwQrqzsDG) | [Smores](https://open.spotify.com/album/468YF7QLxDGJYUG4OFL43q) | 2:46 | 2022-04-01 | 2022-07-29 |
 | [Like Paradise](https://open.spotify.com/track/2N5yhfoSUOBL8Yx87YlAZN) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Like Paradise](https://open.spotify.com/album/2qdyDBfmYdCjhnBN8YZP0N) | 3:09 | 2023-05-12 |  |
+| [Like The River](https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Like The River](https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ) | 2:46 | 2023-08-25 |  |
 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 | 2022-02-04 |  |
 | [Like You](https://open.spotify.com/track/2J6CSxD2YE6DCB1JvalFIi) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Like You](https://open.spotify.com/album/7kIQWyo1s4wsgG6xYDbOhx) | 2:58 | 2022-12-23 |  |
 | [Little Do You Know](https://open.spotify.com/track/5lIat5pyge2yKkV20FlgQ7) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Little Do You Know](https://open.spotify.com/album/5do9Fx2lflBZzxgup2xbTQ) | 2:48 | 2022-02-18 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Sik\-K\)
 
-965 songs - 2 day 5 hr 8 min
+967 songs - 2 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 | 2022-03-26 | 2022-04-18 |
 | [HUMAN \(Prod\. Will Not Fear\)](https://open.spotify.com/track/5lGZG3bjtSWQzqtdwWMVTf) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [HUMAN, the single](https://open.spotify.com/album/2dH0UCptGnb1GSN91IU9AW) | 3:00 | 2022-03-10 | 2022-06-14 |
 | [human changes](https://open.spotify.com/track/5yPLjnYG4FqwmEHISAx32K) | [shinsammy sj](https://open.spotify.com/artist/0JkyXXK3HMBCnjUOJNG2rs) | [human changes](https://open.spotify.com/album/2GTBu2dPRDjMoOdEo8sZY4) | 2:30 | 2022-01-13 | 2022-04-21 |
+| [HUNT \(Feat\. PSICK UNIV\)](https://open.spotify.com/track/3UJAaIdK5h9Jm6Z4svPqO2) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [PSICK UNIV](https://open.spotify.com/artist/3BkB72oWzyeNp8b16IIbbs) | [2 Kids On The Block \- Part.2](https://open.spotify.com/album/57xErJJ3FrLxw2o6j37F9B) | 4:16 | 2023-08-28 |  |
 | [HYENA](https://open.spotify.com/track/4lNTkGuzgLs5Hkt00O4wVH) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [HYENA \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6SZKcWl8cFQufTpyCsUYLq) | 3:38 | 2022-03-29 | 2022-04-18 |
 | [HYPE ENERGY](https://open.spotify.com/track/6nqHjXK2kBFCVt5iHHZMqA) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 2:25 | 2023-05-24 |  |
 | [Hyperstar](https://open.spotify.com/track/2eMgUo649JZjeZiGBECUtZ) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:18 | 2021-12-21 | 2022-07-07 |
@@ -833,6 +834,7 @@
 | [Tattoo \(feat\. Jayci yucca, YongYong\)](https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [\#LOVEMEORHATEME](https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk) | 3:15 | 2022-08-01 | 2022-08-19 |
 | [TAXI \(Feat\. gyun, RB NINE\)](https://open.spotify.com/track/7fWriiUKbUCeX12SDAjCtE) | [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk), [gyun](https://open.spotify.com/artist/6VCKn1xDNfsGomHvkG5EFF), [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p) | [Wanju 2 Seoul](https://open.spotify.com/album/0yElXJbxEu1rJH1Kf0KC07) | 3:21 | 2022-12-20 | 2022-12-28 |
 | [TEAM NY In The House \(Feat\. PUFF DAEHEE\)](https://open.spotify.com/track/54h9zrzO1pw5EdOwKV4dCO) | [TEAM NY](https://open.spotify.com/artist/6l1aV2YBZdFqWnNlsobpl7), [PUFF DAEHEE](https://open.spotify.com/artist/3JZuQV3uJJtoDkkWDNt1oJ) | [TEAM NY In The House](https://open.spotify.com/album/2UmGWWFcYHCzPijx7zKEgu) | 4:09 | 2022-08-12 | 2022-12-10 |
+| [Tear drops](https://open.spotify.com/track/6oSMbec9p39YW31XfFULOG) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [2 Kids On The Block \- Part.2](https://open.spotify.com/album/57xErJJ3FrLxw2o6j37F9B) | 3:29 | 2023-08-28 |  |
 | [Tech Fleece Freestyle \(feat\. KHAN & hangzoo\)](https://open.spotify.com/track/4mGxovGDAKhPTE8Fns9vDK) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ) | [Beauty Of The Pain](https://open.spotify.com/album/23rllHSTPitNWwQKd4VJZ2) | 3:15 | 2022-12-27 | 2023-01-04 |
 | [Thank you](https://open.spotify.com/track/7n8txCop7N6Cqdw5hhXvBQ) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Thank you](https://open.spotify.com/album/13hzcWq5bzDBiB0997zK00) | 2:16 | 2022-03-03 | 2022-06-14 |
 | [That's me be \(Feat\. TimeFeveR\)](https://open.spotify.com/track/43uFVfnm2JzlSFJ0q7InIH) | [Taeb2](https://open.spotify.com/artist/2PWVaWdOdocqnJhIdaGMRT), [TimeFeveR](https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m) | [That's me be \(Feat\. TimeFeveR\)](https://open.spotify.com/album/47jbFjVlXBMbAwNSDQCUXj) | 3:10 | 2022-02-03 | 2022-05-08 |

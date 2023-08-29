@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 66497,
+  "num_followers": 66612,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjRjZjgyMjJjYzNmY2ExYzYzZjQ1M2E5ZGMxMzY2NzQ5MWEyMWM5",
+  "snapshot_id": "MCwwMDQ2MzEwNTI2NGYzMTBkOGVkOTlkMzM3MDQ3NDU3OTM1YjMxODcw",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Bunny Is A Rider (Remix)",
+        "url": "https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 237109,
+      "name": "Bunny Is A Rider - Doss Remix",
+      "url": "https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -539,26 +559,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Bunny Is A Rider (Remix)",
-        "url": "https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 237109,
-      "name": "Bunny Is A Rider - Doss Remix",
-      "url": "https://open.spotify.com/track/2F869Vx93KD4Mtfnn1nOqH"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "h4msterb0y",
         "url": "https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 168236,
       "name": "h4msterb0y",
       "url": "https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Double Penetration",
-        "url": "https://open.spotify.com/album/5RjU9su2m8wyYQQ7cH0kU1"
-      },
-      "artists": [
-        {
-          "name": "Only Fire",
-          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Asmr",
-      "url": "https://open.spotify.com/track/3jPaqo45RVrafP6NnWMBkQ"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -627,6 +611,22 @@
       "duration_ms": 137206,
       "name": "Horsey",
       "url": "https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "Double Penetration",
+        "url": "https://open.spotify.com/album/5RjU9su2m8wyYQQ7cH0kU1"
+      },
+      "artists": [
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Asmr",
+      "url": "https://open.spotify.com/track/3jPaqo45RVrafP6NnWMBkQ"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Microdosing",
+        "url": "https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "Microdosing",
+      "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Hoe",
         "url": "https://open.spotify.com/album/2CtMkQOUMEtPUiG5pSBtQl"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 283900,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/6Alnnwoyf0MVnOZME6p6TD"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Microdosing",
-        "url": "https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW"
-      },
-      "artists": [
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Microdosing",
-      "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -823,30 +823,6 @@
       "duration_ms": 222491,
       "name": "Comme Des Gar\u00e7ons (Like The Boys) - Pabllo Vittar x Brabo Remix",
       "url": "https://open.spotify.com/track/5fMV4SvvtVNtVWar5qYgOl"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "SEXORCISM",
-        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
-      },
-      "artists": [
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 178203,
-      "name": "FMU",
-      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -899,6 +875,30 @@
       "duration_ms": 128955,
       "name": "Put Cha Back In It",
       "url": "https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "SEXORCISM",
+        "url": "https://open.spotify.com/album/0CvWFH9MMcWphYqwBNOUYv"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 178203,
+      "name": "FMU",
+      "url": "https://open.spotify.com/track/5iAWOgjcEbgUgBz2MziBXh"
     },
     {
       "added_at": "2023-07-24 14:56:33",

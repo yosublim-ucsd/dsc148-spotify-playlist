@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,895 likes - 69 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,911 likes - 69 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 2 | [光のない街](https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA) | [nano.RIPE](https://open.spotify.com/artist/1GQptL2kOEsfMXerW4OjMT) | [光のない街](https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK) | 4:13 |
 | 3 | [Itadaki Babel \- Aiobahn Remix](https://open.spotify.com/track/48tlXEm2vB0xeZxYEj9OhS) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph) | [Itadaki Babel \(Aiobahn Remix\)](https://open.spotify.com/album/4pVYpB08p4A6OQzQ0NUORQ) | 3:01 |
 | 4 | [アクアテラリウム](https://open.spotify.com/track/4EgheNrAsZTAvnnZJJmZaQ) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [アクアテラリウム](https://open.spotify.com/album/4Id9hGavU9AvOjhnsn8o0q) | 4:58 |
-| 5 | [おジャ魔女はココにいる](https://open.spotify.com/track/5AGZKN0ULmCC1DX6jmpLt8) | [MAHO堂](https://open.spotify.com/artist/4iaXf3pKcpKpWrIaPDg2li) | [おジャ魔女どれみ\# Select Best](https://open.spotify.com/album/4M8T1kxoRRGhPVGhbEJtDt) | 3:45 |
+| 5 | [おジャ魔女はココにいる](https://open.spotify.com/track/5AGZKN0ULmCC1DX6jmpLt8) | [MAHO堂](https://open.spotify.com/artist/4iaXf3pKcpKpWrIaPDg2li) | [おジャ魔女どれみ＃ Select Best](https://open.spotify.com/album/4M8T1kxoRRGhPVGhbEJtDt) | 3:45 |
 | 6 | [ドラマチック](https://open.spotify.com/track/6ozetsGsnu3ldFxXoqXddp) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [十七歳](https://open.spotify.com/album/3gQ1H54c3VDulpTPBPs4qe) | 4:11 |
 | 7 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
 | 8 | [うたかた花火](https://open.spotify.com/track/3VbpuVvobZbMJ86p1w3GKK) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [うたかた花火/星が瞬くこんな夜に](https://open.spotify.com/album/0YrYEfC8jhCObNKbDZzfpq) | 6:01 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 68 | [なにが悪い](https://open.spotify.com/track/2Ifn0MXm7x9ddBQPUabV9a) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:47 |
 | 69 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 |
 
-Snapshot ID: `MCxkYWZjYmFmMGVhY2FhM2E3MGQ3YmU0YjM1MjMwZTg3NWZlOTkwYWQ4`
+Snapshot ID: `MCw1YzYzM2FjMTU2NDliYmViMjc3NjJmNzI0YTlhYTZiZDEwN2RkMmQ3`

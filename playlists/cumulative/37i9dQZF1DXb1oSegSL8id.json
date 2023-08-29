@@ -307,6 +307,28 @@
     },
     {
       "album": {
+        "name": "Atrasadinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64LfkmEoS9FMwXuSUAWCR3"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172766,
+      "name": "Atrasadinha - Live",
+      "url": "https://open.spotify.com/track/1aPl8QT8gtcPmOwpMH2Fyj"
+    },
+    {
+      "album": {
         "name": "Baby Me Atende",
         "url": "https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V"
       },
@@ -1618,7 +1640,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 165102,
       "name": "Show Fechou",
       "url": "https://open.spotify.com/track/5TNhSOkUrdJ0TkIa2GqjeH"

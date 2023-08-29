@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Zoe Osama
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,620 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,652 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rich On Grape Street](https://open.spotify.com/track/3F6sLMtMvTeTrREKH2Y1Od) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Rich On Grape Street](https://open.spotify.com/album/1sjghOoEKmHQ9Uucxr012N) | 3:01 |
-| 2 | [She Said \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Chilli Season](https://open.spotify.com/album/5H4WujKtDwCEdP1dsvxpwh) | 1:50 |
-| 3 | [Energy](https://open.spotify.com/track/4iJRvcfE441ttFvjKyqP4M) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs), [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI) | [GOTDAMNIT BABYSTONES 2](https://open.spotify.com/album/2KUliAiO3UiJtDspsSXexx) | 2:15 |
-| 4 | [One Pic](https://open.spotify.com/track/26uouQ0wnleZOoWLhN7fMh) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [One Pic](https://open.spotify.com/album/135jcZOvD8gg1mtDXKfJmt) | 1:23 |
-| 5 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
-| 6 | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/58P9jc9vetnETNS7prGuv4) | 2:07 |
-| 7 | [Where's Remble?](https://open.spotify.com/track/5SLRlF7N8a5hH2Vl15imTV) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [Where's Remble?](https://open.spotify.com/album/03vYAvDNFVS1atHZuzRs4c) | 2:49 |
+| 1 | [She Said \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Chilli Season](https://open.spotify.com/album/5H4WujKtDwCEdP1dsvxpwh) | 1:50 |
+| 2 | [Energy](https://open.spotify.com/track/4iJRvcfE441ttFvjKyqP4M) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs), [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI) | [GOTDAMNIT BABYSTONES 2](https://open.spotify.com/album/2KUliAiO3UiJtDspsSXexx) | 2:15 |
+| 3 | [One Pic](https://open.spotify.com/track/26uouQ0wnleZOoWLhN7fMh) | [1takejay](https://open.spotify.com/artist/6vCAhgYcKSL1curqoT6eNu) | [One Pic](https://open.spotify.com/album/135jcZOvD8gg1mtDXKfJmt) | 1:23 |
+| 4 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
+| 5 | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4knQpcVbbWsFPIa6qBzTV0) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [From The Jump \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/58P9jc9vetnETNS7prGuv4) | 2:07 |
+| 6 | [Where's Remble?](https://open.spotify.com/track/5SLRlF7N8a5hH2Vl15imTV) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [Where's Remble?](https://open.spotify.com/album/03vYAvDNFVS1atHZuzRs4c) | 2:49 |
+| 7 | [Rich On Grape Street](https://open.spotify.com/track/3F6sLMtMvTeTrREKH2Y1Od) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Rich On Grape Street](https://open.spotify.com/album/1sjghOoEKmHQ9Uucxr012N) | 3:01 |
 | 8 | [The Good Kind](https://open.spotify.com/track/4z3zsKLXeru41AgS1WO9EV) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Good Kind](https://open.spotify.com/album/3XGx9vqnKOO4IgmkkUUl29) | 3:10 |
 | 9 | [Eat It Up](https://open.spotify.com/track/1PRLHyaN0XmTiXhBI6Tol2) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB), [DonnySolo](https://open.spotify.com/artist/2cKC5HJgCIXZFkZwKHORG0) | [Eat It Up](https://open.spotify.com/album/6crFEKkp5bYJNEjDrqoG1w) | 2:09 |
 | 10 | [PARTy T1M3](https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PARTy T1M3](https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 74 | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/track/5b9FYnAB7KeFOvBywwvnfO) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/album/25Zl2PLtuUGx14eqL3eaYQ) | 2:50 |
 | 75 | [4Life](https://open.spotify.com/track/6VB1KfpJzVAnFvyeiCPC4f) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [4Life](https://open.spotify.com/album/0raGZNP4IH0KrI6qdpToQP) | 2:36 |
 
-Snapshot ID: `MCxkZjJjNWFjMWM4ZTAxMGFmOGI1NTBhMDQ3MTFkMDI2ZTVmNWFiZWIw`
+Snapshot ID: `MCxmNzA1MWIyYjNhZmU2ZTE0ZjAwMWIyYzA2ZDU5N2FlMjFhZDg0OGFi`

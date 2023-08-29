@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Tim McGraw, Zach Bryan & Kacey Musgraves, Morgan Wade and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,875 likes - 72 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,129 likes - 72 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 71 | [Sun Somewhere](https://open.spotify.com/track/657syctcTkRgWSBHsEQHZl) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [Sun Somewhere](https://open.spotify.com/album/1deGXzendgAJ4wUKLkacKf) | 3:16 |
 | 72 | [Nothing Like Me](https://open.spotify.com/track/29H1Hi5w4ESFklq8cwu3Uo) | [Daniel E\. Johnson](https://open.spotify.com/artist/5oAmtF67u5TVHqbqev2DDb) | [Nothing Like Me](https://open.spotify.com/album/6s7zSzzP3ZjRVHP2B1XT92) | 3:25 |
 
-Snapshot ID: `MCxlNzVhNTk2MjAwMzQzYjU5Zjc0ZDk4MTA4ZjdlODM4NTA2NmE0NDgz`
+Snapshot ID: `MCwyZDU0Yzg1OTYzNTAyNDJjZDM1ZGIwZTQ3OTY2MDdiNzE2NjQ3NTY2`

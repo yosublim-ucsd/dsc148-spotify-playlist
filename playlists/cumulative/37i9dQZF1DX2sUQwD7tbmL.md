@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-582 songs - 1 day 8 hr 51 min
+583 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 | 2023-05-19 |  |
 | [Bon Dance](https://open.spotify.com/track/5qSXYD0fEuTOHfXZxH8arx) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [THE MILLENNIUM PARADE](https://open.spotify.com/album/5eDx77cI1mT3psVn6cUFjI) | 3:48 | 2021-05-01 | 2022-04-14 |
 | [Bored Again!](https://open.spotify.com/track/3ufH99mUTvwXajptLNsPQi) | [Buddy Ross](https://open.spotify.com/artist/5H7nJuWib5HbOYYwaAODwn), [Gabriel Delicious](https://open.spotify.com/artist/3DYynjdQqDEoGqwLtHm3Hh) | [Bored Again!](https://open.spotify.com/album/3sQW1u7UaAprUmzDOhUO18) | 4:18 | 2021-05-01 | 2022-03-22 |
+| [Boys](https://open.spotify.com/track/4nAmlRetwMEZr2TsXuHcpD) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 4:13 | 2023-07-11 |  |
 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 | 2022-04-13 | 2023-02-03 |
 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 | 2021-05-01 |  |
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2022-04-13 |  |
@@ -356,7 +357,7 @@
 | [Needle and Thread](https://open.spotify.com/track/2aq5ASfM6GbR5Rw3bhl6Nu) | [Ages and Ages](https://open.spotify.com/artist/3DozezNrsIE37kJJfHhS9M) | [Needle and Thread](https://open.spotify.com/album/17jwcTGGRRcdJa9vdoybK3) | 3:02 | 2021-05-01 | 2022-04-13 |
 | [Never Felt This Way Before](https://open.spotify.com/track/78Vx4LhX1Y85ck0GyfRyno) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:19 | 2021-05-01 | 2022-04-13 |
 | [Never Go](https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Hawaii](https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE) | 2:36 | 2022-06-17 | 2022-07-29 |
-| [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 | 2023-05-26 |  |
+| [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 | 2023-05-26 | 2023-08-29 |
 | [Never Thought I'd Feel Again](https://open.spotify.com/track/5a9zYyW6Mc4TBWyNU0uRBY) | [The Cribs](https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG) | [Never Thought I'd Feel Again](https://open.spotify.com/album/5U8tkmKXbI8FocdmVlQl4D) | 4:09 | 2021-05-01 | 2022-04-14 |
 | [Nevermind](https://open.spotify.com/track/16cfhCwNCVTmmSoLYxb2z3) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/4rqjnLn0qJ57y4WIc5aBWb) | 2:21 | 2021-05-01 | 2022-03-06 |
 | [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP) | 2:47 | 2022-07-22 | 2023-02-14 |

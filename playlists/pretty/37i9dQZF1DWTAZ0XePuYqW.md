@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 763 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 901 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 84 | [Kunkra \(feat\. Xduppy, Shaunmusiq & Ftears\)](https://open.spotify.com/track/3js04Z5R4L1ZvtLPopSG8l) | [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7) | [Kunkra \(feat\. Xduppy, Shaunmusiq & Ftears\)](https://open.spotify.com/album/0AozNkkvkSSJUREAAJAv6I) | 5:17 |
 | 85 | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0) | 3:22 |
 
-Snapshot ID: `MCw0OWEyMjRmYjE0YmIxOTlkZGU1NjMwMWIzZTJjOTE1Yjk5ZGExM2Fm`
+Snapshot ID: `MCw5NzQ3MjhkODA0N2Y1NTE5OGEyOTliNzJhZTI0NzZhZTZmMDNmZTI3`

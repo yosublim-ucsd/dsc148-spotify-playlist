@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Metalocalypse: Dethklok
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,998 likes - 86 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,280 likes - 86 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 66 | [J.'s Serenade](https://open.spotify.com/track/2PcFkPUSpHUurvWVC6yd82) | [Secret Sphere](https://open.spotify.com/artist/6RW3PIbCsvSVIB5dzx9MV8) | [J.'s Serenade](https://open.spotify.com/album/1ss7rn4uzQ2F3UJydkCeQI) | 5:52 |
 | 67 | [Digital Sea](https://open.spotify.com/track/2kETSkWftrKAiljmcBMp55) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil) | [The Excuses We Cannot Make](https://open.spotify.com/album/0gJ8Q54bXOtutGVoRKlDKu) | 4:05 |
 | 68 | [Interstellar](https://open.spotify.com/track/7KFNFahbmo4wJyJvOxWSlH) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Interstellar](https://open.spotify.com/album/6jR9YFG6nF7s5UAYClr7G7) | 3:38 |
-| 69 | [Night Vision](https://open.spotify.com/track/1G4BsiensndJJs04PjFtjX) | [Knife](https://open.spotify.com/artist/2k5WPvJQocZ1nqyPjIwB1K) | [Night Vision](https://open.spotify.com/album/08T8wALYS1O5Pgcd91U65K) | 3:17 |
+| 69 | [Night Vision](https://open.spotify.com/track/2UBHsENVv4mpkiSODZkHK4) | [Knife](https://open.spotify.com/artist/2k5WPvJQocZ1nqyPjIwB1K) | [Heaven Into Dust](https://open.spotify.com/album/0Ko2g1GyzL4DTFNrUh1voq) | 3:17 |
 | 70 | [The Siren](https://open.spotify.com/track/4oYbOIuVc5Ir85IyccjoeI) | [Marc Hudson](https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r) | [Starbound Stories](https://open.spotify.com/album/4lHnaZ0IPLJ53TkIWITjSI) | 5:40 |
 | 71 | [The Third Fall](https://open.spotify.com/track/6rZ0tvkr1LT956nvO0PKXp) | [Profanatica](https://open.spotify.com/artist/6OGNyv8Z63eYqmkN17mpwW) | [The Third Fall](https://open.spotify.com/album/1bNxzFdkQvtsrHZ3elIU0a) | 4:10 |
 | 72 | [Spine Shatter High\-Velocity Impact](https://open.spotify.com/track/2TOa7nfBpLyvgBeVgCdzSs) | [Wormhole](https://open.spotify.com/artist/2foAanYCza7knczRDB8DFt) | [Spine Shatter High\-Velocity Impact](https://open.spotify.com/album/6efJo7RpkCViFcsu4CFVF0) | 3:10 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 85 | [My Hellish Hunt](https://open.spotify.com/track/5gVuv4S3EVltZBe05XtJOX) | [Grymheart](https://open.spotify.com/artist/4SlhNbOnl7dC1fSZzchJTE) | [My Hellish Hunt](https://open.spotify.com/album/4ipx6m8w4q3RJSQNKXzVYP) | 3:30 |
 | 86 | [Exile](https://open.spotify.com/track/5VT7ArOG23wCbYN6d5fbqs) | [HARP](https://open.spotify.com/artist/4ylTmXCAJ2F45zSA2YuWYY) | [Exile](https://open.spotify.com/album/4oFe0sFUIkmQfaAXFIy54C) | 4:56 |
 
-Snapshot ID: `MCxjYzZhNjBiNGI0MDc5MDQ0OWUxZjA5NjllNTJmOGNhZTJlMjA5NjUw`
+Snapshot ID: `MCxiYWMyMTZkNTQyN2E0NGEyODk3NjRkM2ZiNGNiZTIzZTliNDFlYWFi`

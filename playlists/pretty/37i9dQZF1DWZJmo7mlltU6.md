@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Noga Erez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,779 likes - 103 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,826 likes - 103 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 29 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
 | 30 | [Boyfriend](https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Boyfriend](https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs) | 3:22 |
 | 31 | [Say My Name](https://open.spotify.com/track/0uc8dunUbcQxjqgPPTsIG8) | [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [Say My Name](https://open.spotify.com/album/18zOW95fsCYH9a7uk8PQhI) | 3:16 |
-| 32 | [What's up](https://open.spotify.com/track/5mg1creXB9VEPLYQlUpvtH) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [What's up](https://open.spotify.com/album/5QWeJmTLGFlvrwg3BmFQHL) | 2:52 |
+| 32 | [What's up](https://open.spotify.com/track/4PGZvQgg8Nd3lOl3L4Hdkb) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6xAbweCyvExMjOQmOl194h) | 2:52 |
 | 33 | [Camaraderie](https://open.spotify.com/track/4ifkFslxRF6O8n5BkQA3CJ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Masih Yuna](https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm) | 3:19 |
 | 34 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
 | 35 | [Lonely & Horny](https://open.spotify.com/track/15NiYgz7uwQZaiPrHLNVG5) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Lonely & Horny](https://open.spotify.com/album/3tpzGkK9rD0k3o9VPSYWIf) | 3:13 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 102 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 103 | [Dramatic](https://open.spotify.com/track/5IdS03tpt2M477K2rgzgoq) | [Amen Sioux](https://open.spotify.com/artist/5Xn38pfEtH8K62kpk01ZtA) | [Dramatic](https://open.spotify.com/album/7zuVkzNngf7t4HhKVedfCt) | 3:59 |
 
-Snapshot ID: `MCxmNzVmZDZhZTZjNWI5OGI4N2FjODhjMDVmYTNhODIzNDI5NjAyY2Y4`
+Snapshot ID: `MCxjNjNiMzlhYTJmMDMwYjE0OWMyYWFlYmU1ZTFlNzliMmNjZmY1OTZj`

@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 565075,
+  "num_followers": 565242,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzg1NDkwNjMwNWM4MmRjMWZjMWRhZmZlMTIxZjZiMzRiNmQ5YjIw",
+  "snapshot_id": "MCxlY2EwODIwNGFhMGM5NGQyMmMzZjIyMzJkMjdkOTJjZGM2YWJkZTQ5",
   "tracks": [
     {
       "added_at": "2023-08-08 02:35:25",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-08-08 02:35:25",
       "album": {
-        "name": "Perspektif",
-        "url": "https://open.spotify.com/album/7BkrdnCB2PqOANRu14EKEA"
-      },
-      "artists": [
-        {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
-        }
-      ],
-      "duration_ms": 220851,
-      "name": "L",
-      "url": "https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb"
-    },
-    {
-      "added_at": "2023-08-08 02:35:25",
-      "album": {
         "name": "Selamat Ulang Tahun",
         "url": "https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 315960,
       "name": "Bertaut",
       "url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX"
+    },
+    {
+      "added_at": "2023-08-08 02:35:25",
+      "album": {
+        "name": "Perspektif",
+        "url": "https://open.spotify.com/album/7BkrdnCB2PqOANRu14EKEA"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "duration_ms": 220851,
+      "name": "L",
+      "url": "https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb"
     },
     {
       "added_at": "2023-08-08 02:35:25",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-08-08 02:35:25",
       "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Remaja",
+      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
+    },
+    {
+      "added_at": "2023-08-08 02:35:25",
+      "album": {
         "name": "Rasa Cinta Ini",
         "url": "https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6"
       },
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
         }
       ],
-      "duration_ms": 218426,
-      "name": "Remaja",
-      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
+      "duration_ms": 204293,
+      "name": "Mata Ke Hati (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
     },
     {
       "added_at": "2023-08-08 02:35:25",
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-08-08 02:35:25",
       "album": {
-        "name": "Riuh",
-        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
-      },
-      "artists": [
-        {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
-        }
-      ],
-      "duration_ms": 265737,
-      "name": "Halu",
-      "url": "https://open.spotify.com/track/2dTIJVE0stqTvrhbpf7fFw"
-    },
-    {
-      "added_at": "2023-08-08 02:35:25",
-      "album": {
         "name": "MARKERS AND SUCH",
         "url": "https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-08 02:35:25",
       "album": {
+        "name": "Riuh",
+        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "duration_ms": 265737,
+      "name": "Halu",
+      "url": "https://open.spotify.com/track/2dTIJVE0stqTvrhbpf7fFw"
+    },
+    {
+      "added_at": "2023-08-08 02:35:25",
+      "album": {
         "name": "Selamanya",
         "url": "https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5"
       },
@@ -723,54 +739,6 @@
       "duration_ms": 222506,
       "name": "Sayap Pelindungmu",
       "url": "https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB"
-    },
-    {
-      "added_at": "2023-08-08 02:35:25",
-      "album": {
-        "name": "Fly Me to the Moon",
-        "url": "https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC"
-      },
-      "artists": [
-        {
-          "name": "The Macarons Project",
-          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
-        }
-      ],
-      "duration_ms": 155402,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s"
-    },
-    {
-      "added_at": "2023-08-08 02:35:25",
-      "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
-    },
-    {
-      "added_at": "2023-08-08 02:35:25",
-      "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Mata Ke Hati (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
     },
     {
       "added_at": "2023-08-08 02:35:25",
@@ -807,18 +775,34 @@
     {
       "added_at": "2023-08-08 02:35:25",
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC"
       },
       "artists": [
         {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+          "name": "The Macarons Project",
+          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
         }
       ],
-      "duration_ms": 195914,
-      "name": "Cahaya",
-      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+      "duration_ms": 155402,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s"
+    },
+    {
+      "added_at": "2023-08-08 02:35:25",
+      "album": {
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2023-08-08 02:35:25",
@@ -835,6 +819,22 @@
       "duration_ms": 287453,
       "name": "Sesuatu Di Jogja",
       "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
+    },
+    {
+      "added_at": "2023-08-08 02:35:25",
+      "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
     },
     {
       "added_at": "2023-08-08 02:35:25",
@@ -1163,30 +1163,6 @@
     {
       "added_at": "2023-08-08 02:35:25",
       "album": {
-        "name": "Ini Bukan Nosstress",
-        "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
-      },
-      "artists": [
-        {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        },
-        {
-          "name": "Dadang Sh Pranoto",
-          "url": "https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3"
-        },
-        {
-          "name": "Deny Surya",
-          "url": "https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "Semoga, Ya",
-      "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
-    },
-    {
-      "added_at": "2023-08-08 02:35:25",
-      "album": {
         "name": "Gajah",
         "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
@@ -1219,6 +1195,30 @@
     {
       "added_at": "2023-08-08 02:35:25",
       "album": {
+        "name": "Ini Bukan Nosstress",
+        "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        },
+        {
+          "name": "Dadang Sh Pranoto",
+          "url": "https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3"
+        },
+        {
+          "name": "Deny Surya",
+          "url": "https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Semoga, Ya",
+      "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
+    },
+    {
+      "added_at": "2023-08-08 02:35:25",
+      "album": {
         "name": "Ego & Fungsi Otak",
         "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2023-08-08 02:35:25",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
       },
       "artists": [
         {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        },
-        {
-          "name": "Monita Tahalea",
-          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 236394,
-      "name": "Bicara (feat. Monita Tahalea)",
-      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
+      "duration_ms": 306428,
+      "name": "Menuju Senja",
+      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
     }
   ],
   "unique_name": "Kopikustik",

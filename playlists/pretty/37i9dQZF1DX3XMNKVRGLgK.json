@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 12644,
+  "num_followers": 12692,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzczNTQzNzc4ZjQ5YzIzMmExMTNhNWQxZTI4YTk5ZjBiMjk3OWNl",
+  "snapshot_id": "MCw3YjBhYWU3NTgwNDM1NWZjMTNmYjJiNzUzOTE3NjM3ZTQ1NzYyNDM2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -247,6 +247,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Who Gon Stop Me",
+      "url": "https://open.spotify.com/track/3R1k8P1MrDdLSRhlTaaWAS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/6PMuXABPVPf11EgTxrjroO"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 310906,
       "name": "All Day",
       "url": "https://open.spotify.com/track/79reBHqpRoWXaQbjBBY3UC"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Watch The Throne (Deluxe)",
-        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Who Gon Stop Me",
-      "url": "https://open.spotify.com/track/3R1k8P1MrDdLSRhlTaaWAS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "U Don't Know",
+      "url": "https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Cafeteria (feat. Gunna)",
         "url": "https://open.spotify.com/album/01XHfJ7cuU8QjJ5pwCpMW8"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 218103,
       "name": "Otherside of America",
       "url": "https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "U Don't Know",
-      "url": "https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "champ hoody music. ep.1",
-        "url": "https://open.spotify.com/album/16wn93pdT8x632qceupGXI"
-      },
-      "artists": [
-        {
-          "name": "Remy Banks",
-          "url": "https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ"
-        }
-      ],
-      "duration_ms": 82000,
-      "name": "queens shit.",
-      "url": "https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 261742,
       "name": "Championships",
       "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "champ hoody music. ep.1",
+        "url": "https://open.spotify.com/album/16wn93pdT8x632qceupGXI"
+      },
+      "artists": [
+        {
+          "name": "Remy Banks",
+          "url": "https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ"
+        }
+      ],
+      "duration_ms": 82000,
+      "name": "queens shit.",
+      "url": "https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9"
     }
   ],
   "unique_name": "Nigel Sylvester's Taste",

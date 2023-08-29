@@ -122,10 +122,28 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 184820,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/56I4OIGTDhBmX8ZSJJDf1k"
+    },
+    {
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/5ACHqSwWKAmPEna4XHTl0p"
+      },
+      "artists": [
+        {
+          "name": "Dumming Dum",
+          "url": "https://open.spotify.com/artist/01hg7l1HFSP3y7oSWg05mB"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226341,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/7xNWF3TIV0pvYxpVAfBraJ"
     },
     {
       "album": {
@@ -454,7 +472,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 229897,
       "name": "Coldman (feat. Nathan Daisy)",
       "url": "https://open.spotify.com/track/6KGUd0ub0UmCX5IFVCBnRf"
@@ -554,7 +572,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 256773,
       "name": "Crazy (feat. Iveta Mukuchyan)",
       "url": "https://open.spotify.com/track/6XG6VKBORCSGMuWlF30YvO"
@@ -632,7 +650,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 232279,
       "name": "Don't Be Afraid - DJ Tennis & Carlita Remix",
       "url": "https://open.spotify.com/track/6Vu7uVbGQBCR5S051RPEEF"
@@ -738,7 +756,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 203428,
       "name": "Enjoy The Rain (feat. Nathan Daisy)",
       "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"
@@ -792,7 +810,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 424323,
       "name": "Fill The Space",
       "url": "https://open.spotify.com/track/65FU6gTGSKvTPhaN1A9eJR"
@@ -868,7 +886,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 277894,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/1t8Q66Stnzgm6VExvVmNHG"
@@ -930,7 +948,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 318617,
       "name": "Hella feat. Joy Tyson",
       "url": "https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 302521,
       "name": "Hokema (feat. Delaram Kamareh)",
       "url": "https://open.spotify.com/track/1VoTZU5zicdDgvKu2DLxRv"
@@ -1407,6 +1425,36 @@
     },
     {
       "album": {
+        "name": "Make a Show",
+        "url": "https://open.spotify.com/album/4jhB0sGVcd49pT7yTBGasx"
+      },
+      "artists": [
+        {
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        },
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Hadar",
+          "url": "https://open.spotify.com/artist/0WfN8Xr80cGPyNQ3yOk6lt"
+        },
+        {
+          "name": "Malandra Jr.",
+          "url": "https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497459,
+      "name": "Make a Show (Malandra Jr. Remix)",
+      "url": "https://open.spotify.com/track/3TkQa2WiMWt1vRpoHCz0m2"
+    },
+    {
+      "album": {
         "name": "Mi Mem",
         "url": "https://open.spotify.com/album/4N8s7QlUXAs0KzohCXECur"
       },
@@ -1448,7 +1496,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 515710,
       "name": "Mariposa - Bedouin Remix",
       "url": "https://open.spotify.com/track/6B49z0I4MU5X5himZfEEli"
@@ -1466,7 +1514,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 305345,
       "name": "Medieval",
       "url": "https://open.spotify.com/track/2BME859AuqQFpHSNvSpqWN"
@@ -1488,6 +1536,36 @@
       "duration_ms": 423602,
       "name": "Mentres Tant",
       "url": "https://open.spotify.com/track/0PFM3yjjDId6onZUrgJyjP"
+    },
+    {
+      "album": {
+        "name": "Metaphysical",
+        "url": "https://open.spotify.com/album/3r3mNtkVqo1X0TAdK4lz4g"
+      },
+      "artists": [
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "Tamir Regev",
+          "url": "https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        },
+        {
+          "name": "KONG.",
+          "url": "https://open.spotify.com/artist/40PruyzvWcAJ1cEZG1mZ8H"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372301,
+      "name": "Metaphysical",
+      "url": "https://open.spotify.com/track/7Jje3VC334uK8q5lAquuO5"
     },
     {
       "album": {
@@ -1786,7 +1864,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 226200,
       "name": "Que Lo Que",
       "url": "https://open.spotify.com/track/3tsULujkCT6HRxLqyhv9Uz"
@@ -1950,7 +2028,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 273488,
       "name": "Rise And Fall",
       "url": "https://open.spotify.com/track/4zjDcQXCyGUOEXL1LiwELj"
@@ -2153,6 +2231,28 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3MznWOMINFIhV5BZCBOdRw"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6Cnj9gUbIrhkMAsKKv4qkg"
+    },
+    {
+      "album": {
         "name": "Telling Me Something EP",
         "url": "https://open.spotify.com/album/6G1JfqlVxSeUgAmF6tdjPk"
       },
@@ -2190,6 +2290,24 @@
       "duration_ms": 384062,
       "name": "Terra Rasgada - Santiago Garcia Remix",
       "url": "https://open.spotify.com/track/0pmAFbgm9YdB1teCoD8yY2"
+    },
+    {
+      "album": {
+        "name": "Metaphysical",
+        "url": "https://open.spotify.com/album/3r3mNtkVqo1X0TAdK4lz4g"
+      },
+      "artists": [
+        {
+          "name": "Tamir Regev",
+          "url": "https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452543,
+      "name": "The Old Days",
+      "url": "https://open.spotify.com/track/1i02yugRWrwxXjF6ZdLymB"
     },
     {
       "album": {
@@ -2244,10 +2362,32 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 272000,
       "name": "Tijuana",
       "url": "https://open.spotify.com/track/0GXNKuzGu6a5w9TcmDc6T2"
+    },
+    {
+      "album": {
+        "name": "Temple Of Dreams (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "Tijuana - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/2WJhtbWwlKny2SOzT58JRD"
     },
     {
       "album": {
@@ -2378,7 +2518,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 441999,
       "name": "Under The Moon With Me",
       "url": "https://open.spotify.com/track/400nDiTUkLJnGJOgqqsHJq"
@@ -2461,6 +2601,28 @@
     },
     {
       "album": {
+        "name": "Temple Of Dreams (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211504,
+      "name": "Voices In My Head - Damian Lazarus Re-Shape",
+      "url": "https://open.spotify.com/track/1ekzPoFjCnIUejIPNhjaRc"
+    },
+    {
+      "album": {
         "name": "Temple Of Dreams",
         "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
       },
@@ -2472,7 +2634,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 314181,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/3QL6Q8HFEhAURfU5AqOBj7"
@@ -2608,7 +2770,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 471320,
       "name": "Wish You Were Here - Bedouin Remix",
       "url": "https://open.spotify.com/track/2sWqYVNYIsyazFA0nDVtkn"

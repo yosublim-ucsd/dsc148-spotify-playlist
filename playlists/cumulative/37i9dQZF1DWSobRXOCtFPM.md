@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-192 songs - 18 hr 58 min
+194 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Realize \- Original Mix](https://open.spotify.com/track/0WlHwzg4dnOEDaEi4jvey0) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [Repeat](https://open.spotify.com/album/6JpLEuSxYUzt0HwZMOQFmj) | 7:27 | 2022-08-15 | 2023-02-14 |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-06-20 |  |
 | [Release \- Tech Us Out Remix](https://open.spotify.com/track/23ugKR2aqOUQCNPzvXn2i2) | [Horatio](https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD), [Angelica de No](https://open.spotify.com/artist/5MINOFapmx47AHSzgeWAd4), [Tech Us Out](https://open.spotify.com/artist/4RYIvQkrR2g886yxR4ZYlM) | [Release](https://open.spotify.com/album/0ZWmp1nstHHDmZRpEGTFu5) | 7:02 | 2023-08-03 |  |
+| [Rhythm Of Future](https://open.spotify.com/track/5ByyD34KLxs9ERAQ1Khcfv) | [Kreso](https://open.spotify.com/artist/0VRutrYSwvf22nrjYf64Gr), [Just Frank](https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV) | [Rhythm Of Future](https://open.spotify.com/album/0NTbb6gFlEvf9R8s7Wh6Zk) | 6:31 | 2023-08-28 |  |
 | [Rhythm Tension](https://open.spotify.com/track/2ToQPlXkcArtp7DhUhRDFA) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Speicher 118](https://open.spotify.com/album/6u1dHk7i5c2vFy0XPt0v33) | 5:54 | 2022-08-15 | 2023-02-14 |
 | [Secondary Emotions](https://open.spotify.com/track/5IWYJmFpeumReIs6BxNtyi) | [Mike Simonetti](https://open.spotify.com/artist/39DBlSB32DrnRrqM6UUUsm) | [Secondary Emotions](https://open.spotify.com/album/3QFRYeMkA3nQG4c63RL50p) | 5:51 | 2022-08-15 | 2023-02-14 |
 | [See the Sun Rising](https://open.spotify.com/track/67KFsBsLEu5lXnrmoPKm5H) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 4:34 | 2023-02-13 | 2023-08-04 |
@@ -178,6 +179,7 @@
 | [Tales from The Real World](https://open.spotify.com/track/5JuGY5qQy5byKT3RB04bYV) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ), [Alan Watts](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b) | [33 Tours Et Puis S’en Vont](https://open.spotify.com/album/3XSKAzY7vrFudIP2aafoBE) | 10:56 | 2023-08-03 |  |
 | [The Dust Arrival](https://open.spotify.com/track/1A4d4nfAMLGhpCQmxiE1fS) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 5:19 | 2023-02-13 | 2023-08-04 |
 | [The Siren](https://open.spotify.com/track/0Oa28vZJYTvMCzVTxX7bdY) | [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Waveriders EP](https://open.spotify.com/album/38r01VO4vB927FYxYjXtTz) | 6:41 | 2023-04-18 |  |
+| [This Is](https://open.spotify.com/track/29POmyLzrgJDQZLhNJNZd0) | [Kreso](https://open.spotify.com/artist/0VRutrYSwvf22nrjYf64Gr), [Just Frank](https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV) | [Rhythm Of Future](https://open.spotify.com/album/0NTbb6gFlEvf9R8s7Wh6Zk) | 5:51 | 2023-08-28 |  |
 | [Thoughts \- Rebūke Remix](https://open.spotify.com/track/1g8ZYuTgbNJBvycYFyep0b) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Thoughts \(Rebūke Remix\)](https://open.spotify.com/album/53Lw6bLxSXxo36KsWQZJfq) | 3:29 | 2022-08-15 | 2023-02-14 |
 | [Through the Blinds \(Audiojack Remix\)](https://open.spotify.com/track/4NFOgN08yjA8XH2uoEWJQC) | [Not Just Me](https://open.spotify.com/artist/6IAdFaRWrFuLsEGsKMB1Mh), [Audiojack](https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs) | [Through the Blinds](https://open.spotify.com/album/3LhW7fogp9frPUGeiYOFo9) | 6:34 | 2022-08-15 | 2023-02-14 |
 | [Tomahawk](https://open.spotify.com/track/5sV5pp8JDNkh7CGgkRuztg) | [Aitor Ronda](https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Tomahawk](https://open.spotify.com/album/0CbheLrUB8byLWdFey98ju) | 5:41 | 2023-04-18 |  |

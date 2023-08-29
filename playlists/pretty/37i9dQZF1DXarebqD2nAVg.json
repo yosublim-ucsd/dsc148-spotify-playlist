@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 436707,
+  "num_followers": 436837,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzg4ZmY3ZTNmZDlkNjI4MmQ5MWEyMDQyMzNkM2IzZjIzNWNkYjBi",
+  "snapshot_id": "MCxkNzZhZjlhNDE1NDE2NTgyZTE0YmZiOGFhYWUwYzRmMTliNzQ1Zjc4",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 91504,
       "name": "Monday Loop",
       "url": "https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "duration_ms": 147474,
+      "name": "Memories Fade",
+      "url": "https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
@@ -771,26 +791,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
-      },
-      "artists": [
-        {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 147474,
-      "name": "Memories Fade",
-      "url": "https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 173426,
       "name": "Behind",
       "url": "https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Swell - I'm Sorry",
+        "url": "https://open.spotify.com/album/2x6NNjyxtvDBDOv0ywIISX"
+      },
+      "artists": [
+        {
+          "name": "glophia",
+          "url": "https://open.spotify.com/artist/7lcdFVqeMSCGdl2qTHaNJY"
+        },
+        {
+          "name": "Shiloh",
+          "url": "https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS"
+        }
+      ],
+      "duration_ms": 157338,
+      "name": "Swell - I'm Sorry",
+      "url": "https://open.spotify.com/track/2k17VNNGHPmnGwXZ8KdfPt"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -871,22 +891,6 @@
       "duration_ms": 154800,
       "name": "But of All We Did Together, Was It Worth It?",
       "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Keep On Going",
-        "url": "https://open.spotify.com/album/66bMNbYRV8vuMEbELg1UpD"
-      },
-      "artists": [
-        {
-          "name": "SPEECHLESS",
-          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
-        }
-      ],
-      "duration_ms": 160403,
-      "name": "Keep On Going",
-      "url": "https://open.spotify.com/track/1t2o9QX8hlJGEQ4DA1oLNw"
     }
   ],
   "unique_name": "sad lofi",

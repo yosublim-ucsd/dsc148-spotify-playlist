@@ -922,7 +922,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 175517,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1VqlpAwvOW192Th24eXenX"
@@ -1146,6 +1146,28 @@
       "duration_ms": 190387,
       "name": "Got You There",
       "url": "https://open.spotify.com/track/2rY8KKXTr9XOMn0IdpBBXm"
+    },
+    {
+      "album": {
+        "name": "head",
+        "url": "https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p"
+      },
+      "artists": [
+        {
+          "name": "Maisi",
+          "url": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137327,
+      "name": "head",
+      "url": "https://open.spotify.com/track/4rGZy1pDm0UGOYnZCI9nbb"
     },
     {
       "album": {

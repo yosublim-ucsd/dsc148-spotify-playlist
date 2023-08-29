@@ -2,9 +2,9 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Argentina en la casa! Foto: Six Sex & El Osito Wito.
+> Argentina en la casa! Foto: C.R.O.
 
-196 songs - 9 hr 29 min
+197 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Extasy](https://open.spotify.com/track/2Ltczd2xWJXX7nuKkWtKjz) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Extasy](https://open.spotify.com/album/5EhWtBLkhLzuAwZxbsSm5U) | 3:26 | 2023-04-07 |  |
 | [Fantastic](https://open.spotify.com/track/25VGPBzih52Ou2gyJkaV9e) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g), [Nico Melo](https://open.spotify.com/artist/3RRYZ1jmjvHKX6sxBP2ANo) | [Fantastic](https://open.spotify.com/album/7DrCJyYqlEVuoQi4zy27UH) | 2:47 | 2022-12-06 | 2023-05-13 |
 | [Fichaje \#1](https://open.spotify.com/track/1W0aQgl1jE9pz9k4sBdK8o) | [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Fichaje \#1](https://open.spotify.com/album/127kJoL8bE6Xuuhefxyb55) | 3:18 | 2023-02-03 |  |
-| [Fichaje \#3](https://open.spotify.com/track/7osIp4MwKMwHNqYjS9bmYM) | [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [Fichaje \#3](https://open.spotify.com/album/51OvDw3nC7mvcgaKTqzMrd) | 3:20 | 2023-05-12 |  |
+| [Fichaje \#3](https://open.spotify.com/track/7osIp4MwKMwHNqYjS9bmYM) | [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [Fichaje \#3](https://open.spotify.com/album/51OvDw3nC7mvcgaKTqzMrd) | 3:20 | 2023-05-12 | 2023-08-29 |
 | [Flow de Barrio](https://open.spotify.com/track/4IJfIFvMB3lwPW93g6Asno) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Flow de Barrio](https://open.spotify.com/album/4jjU50TCU52hjATJcXHeXw) | 2:30 | 2022-05-24 |  |
 | [FLOW DE LA MATA](https://open.spotify.com/track/4ZhVLMruwsPlwU44eXLNWt) | [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [FLOW DE LA MATA](https://open.spotify.com/album/3azyJVP4rWEDUWlY8LPZpX) | 2:31 | 2022-06-17 | 2022-07-16 |
 | [Frio Polar](https://open.spotify.com/track/7wLkEOd9Q0OzRH7i3pRMWa) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Frio Polar](https://open.spotify.com/album/2DS60bWq3zaj81tnCYEH86) | 3:12 | 2022-05-24 | 2022-06-18 |
@@ -167,6 +167,7 @@
 | [Se Me Antoja](https://open.spotify.com/track/7mk6p3Q8U01Awdg50aCQjM) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Valen Vargas](https://open.spotify.com/artist/67oZkRi3cta1wNxN3KoFt5) | [Se Me Antoja](https://open.spotify.com/album/3hDzVQ9u8UDimQtdKqEoiD) | 1:52 | 2023-02-03 |  |
 | [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-05-24 |  |
 | [Sin Culpa \(feat.DrefQuila\)](https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Sin Culpa \(feat\. DrefQuila\)](https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4) | 4:04 | 2022-05-24 |  |
+| [Sin Preguntar](https://open.spotify.com/track/0tog9uUBCsPYP6zEg24wOB) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Sin Preguntar](https://open.spotify.com/album/7rRuM1AiQPiFH5T4cxpE3d) | 3:13 | 2023-08-28 |  |
 | [Sola](https://open.spotify.com/track/5JVvWAlR9N1WDHRJ4anDcZ) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Sola](https://open.spotify.com/album/3Lqv0aJOLqRVyRwgEEG43N) | 2:27 | 2023-07-14 | 2023-08-12 |
 | [Sola](https://open.spotify.com/track/11dFlKwg74zqz13R83sZ93) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Sola](https://open.spotify.com/album/0ZwE05N0Ur1rI6jY5u78ZN) | 2:50 | 2022-05-24 |  |
 | [Sonríe](https://open.spotify.com/track/5Qh9RDNanpV6Lgkq7uO1Gn) | [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Sonríe](https://open.spotify.com/album/3jkDRbQGbD5XJm5ldd1D6F) | 3:11 | 2023-01-20 | 2023-07-29 |

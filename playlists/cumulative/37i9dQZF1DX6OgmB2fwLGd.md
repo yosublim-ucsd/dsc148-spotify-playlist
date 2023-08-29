@@ -2,7 +2,7 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> The soundtrack to the internet\. Cover: Lancey Faux
+> The soundtrack to the internet\. Cover: Lancey Foux
 
 772 songs - 1 day 7 hr 45 min
 
@@ -630,7 +630,7 @@
 | [SISTER](https://open.spotify.com/track/4P0tTboEco1lLH522iCvOh) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [SISTER](https://open.spotify.com/album/6KUJLBltg7mBCgrHxrrCIg) | 2:19 | 2022-12-16 | 2023-01-06 |
 | [Six Flags](https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Six Flags](https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk) | 2:03 | 2021-10-22 | 2022-02-05 |
 | [Skate!](https://open.spotify.com/track/5M90506wzeHSXnEwbIG98u) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Skate!](https://open.spotify.com/album/1cGoJpi10z3FXyHVnob1Xx) | 2:36 | 2022-06-17 | 2023-01-12 |
-| [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-08-18 | 2023-08-28 |
+| [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-08-18 |  |
 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2022-07-15 | 2023-05-06 |
 | [Slave](https://open.spotify.com/track/6gzEKpPDrMetHz0EVeo37I) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Limbus 3](https://open.spotify.com/album/41Llenxqo1pplBtCTiQZTv) | 2:31 | 2023-04-07 | 2023-06-17 |
 | [Sleazy Flow](https://open.spotify.com/track/5mt882Eqx22RwFOTE01jS8) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Sleazy Flow](https://open.spotify.com/album/4Qku5Zl0Smuzw2ZbupxtaV) | 1:51 | 2022-06-17 | 2022-07-30 |

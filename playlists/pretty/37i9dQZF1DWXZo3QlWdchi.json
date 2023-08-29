@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 285564,
+  "num_followers": 285680,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzIyZTU0NGRhMTkwNmI1NTk3NGQ2NjU5ODI4OGZmNTk0MGJkOTc0",
+  "snapshot_id": "MCw3ZWNmZjMxNzE0MzcwYTk4ZjM1MThlYzJhNjE0MTVhY2RiYjI5MDYz",
   "tracks": [
     {
       "added_at": "2023-08-18 03:01:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
+      },
+      "artists": [
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Acustico (Live)",
         "url": "https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s"
       },
@@ -279,42 +295,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Ac\u00fastico Ira!",
-        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
-      },
-      "artists": [
-        {
-          "name": "Ira!",
-          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        },
-        {
-          "name": "Dinho Ouro Preto",
-          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
-        }
-      ],
-      "duration_ms": 291125,
-      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Live / Unplugged",
         "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 222826,
       "name": "Take On Me - MTV Unplugged / Edit",
       "url": "https://open.spotify.com/track/2MQvD2O1ymooRTVduJTV4t"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        },
+        {
+          "name": "Dinho Ouro Preto",
+          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
+        }
+      ],
+      "duration_ms": 291125,
+      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 176973,
       "name": "Regina Let's Go - Live",
       "url": "https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Core (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 346973,
-      "name": "Plush - Live; MTV Unplugged, 11/17/93",
-      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0FVwOZ7tlwwXSymeRyPfud"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 169440,
       "name": "Feel It Still - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 346973,
+      "name": "Plush - Live; MTV Unplugged, 11/17/93",
+      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 277693,
-      "name": "S\u00f3 por hoje / Tenis Roque",
-      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
         "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 224080,
       "name": "Pra Dizer Adeus - Trio Ac\u00fastico",
       "url": "https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 277693,
+      "name": "S\u00f3 por hoje / Tenis Roque",
+      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
+        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
         "name": "Quando Eu Te Encontrar",
         "url": "https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy"
       },
@@ -939,18 +955,34 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
       },
       "artists": [
         {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
+      "duration_ms": 307233,
+      "name": "The Little Things That Give You Away - Recorded at Neptune Valley, LA",
+      "url": "https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk"
+    },
+    {
+      "added_at": "2023-08-18 03:01:00",
+      "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -971,22 +1003,6 @@
       "duration_ms": 227541,
       "name": "O Teatro dos Vampiros",
       "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 307233,
-      "name": "The Little Things That Give You Away - Recorded at Neptune Valley, LA",
-      "url": "https://open.spotify.com/track/09SVUiWffBpVGOC19bHcwk"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2023-08-18 03:01:00",
       "album": {
-        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
-        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 190651,
-      "name": "Guerra e Paz - Ac\u00fastico Live",
-      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
+      "duration_ms": 231496,
+      "name": "What's Going On - Recorded at Neptune Valley, LA",
+      "url": "https://open.spotify.com/track/2oCvlNPQ3EsLOBo1WkWz0K"
     },
     {
       "added_at": "2023-08-18 03:01:00",
@@ -1067,22 +1083,6 @@
       "duration_ms": 196023,
       "name": "Digital - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
-    },
-    {
-      "added_at": "2023-08-18 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 231496,
-      "name": "What's Going On - Recorded at Neptune Valley, LA",
-      "url": "https://open.spotify.com/track/2oCvlNPQ3EsLOBo1WkWz0K"
     },
     {
       "added_at": "2023-08-18 03:01:00",

@@ -1,12 +1,12 @@
 {
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: tanny ng, juhye; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 19206,
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Mer, Kriss Ngo; thi\u1ebft k\u1ebf: Isu Kim",
+  "num_followers": 19215,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjBiNTgyNzdlZmJlNDNlOTY3NmUzODBiOGQ3MDUwMDg0NzU0NzA3",
+  "snapshot_id": "MCw4M2ZhYjExZDU3Yjg5MzdhY2UxMzY2MmJlNGJkZWU4MTA5NTljZTA0",
   "tracks": [
     {
       "added_at": "2023-08-24 18:33:58",
@@ -87,6 +87,26 @@
     {
       "added_at": "2023-08-24 18:33:58",
       "album": {
+        "name": "sinh",
+        "url": "https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge"
+      },
+      "artists": [
+        {
+          "name": "Mer",
+          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
+        },
+        {
+          "name": "Kriss Ngo",
+          "url": "https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ"
+        }
+      ],
+      "duration_ms": 108235,
+      "name": "t\u00e2m",
+      "url": "https://open.spotify.com/track/2YkWEClnZUYazZxq6GQ8OT"
+    },
+    {
+      "added_at": "2023-08-24 18:33:58",
+      "album": {
         "name": "my, my, my",
         "url": "https://open.spotify.com/album/701FniKi8G2MPnpbryojrj"
       },
@@ -123,6 +143,22 @@
       "duration_ms": 198000,
       "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em",
       "url": "https://open.spotify.com/track/5C4ajMLziq5yB7I5K6EsLS"
+    },
+    {
+      "added_at": "2023-08-28 19:47:41",
+      "album": {
+        "name": "em kh\u00f4ng th\u1ec3 y\u00eau ai n\u1eefa",
+        "url": "https://open.spotify.com/album/5YfF98ShfWc9RlG2IT4xqX"
+      },
+      "artists": [
+        {
+          "name": "SASSY",
+          "url": "https://open.spotify.com/artist/4S4bIRzJUtv95EX72sKM1i"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "em kh\u00f4ng th\u1ec3 y\u00eau ai n\u1eefa",
+      "url": "https://open.spotify.com/track/5lbVKvOBzR0VimRrgNJigW"
     },
     {
       "added_at": "2023-08-24 18:33:58",
@@ -355,26 +391,6 @@
       "duration_ms": 258471,
       "name": "T\u00ecnh c\u1edd y\u00eau em",
       "url": "https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX"
-    },
-    {
-      "added_at": "2023-08-24 18:33:58",
-      "album": {
-        "name": "sinh",
-        "url": "https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge"
-      },
-      "artists": [
-        {
-          "name": "Mer",
-          "url": "https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5"
-        },
-        {
-          "name": "Kriss Ngo",
-          "url": "https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ"
-        }
-      ],
-      "duration_ms": 108235,
-      "name": "t\u00e2m",
-      "url": "https://open.spotify.com/track/2YkWEClnZUYazZxq6GQ8OT"
     },
     {
       "added_at": "2023-08-24 18:33:58",
@@ -1643,30 +1659,6 @@
       "duration_ms": 292000,
       "name": "Gi\u1edd L\u00e0 L\u00fac \u0110\u1ec3 Anh Nh\u1eadn Ra",
       "url": "https://open.spotify.com/track/2VLBsQYTO0hjhzqzy9GYHB"
-    },
-    {
-      "added_at": "2023-08-24 18:33:58",
-      "album": {
-        "name": "Con tim b\u00edt iu",
-        "url": "https://open.spotify.com/album/1faUhnW51CK3Q1qOr2xMiT"
-      },
-      "artists": [
-        {
-          "name": "NhiiT",
-          "url": "https://open.spotify.com/artist/5LuUfRA2eKyjdK8ucMOXwk"
-        },
-        {
-          "name": "M\u1ee1",
-          "url": "https://open.spotify.com/artist/6T870Q2zfiDi7s4aAxk3rm"
-        },
-        {
-          "name": "Kart",
-          "url": "https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3"
-        }
-      ],
-      "duration_ms": 177302,
-      "name": "Con tim b\u00edt iu",
-      "url": "https://open.spotify.com/track/7KvMPaAFnHCDulukFliZaI"
     },
     {
       "added_at": "2023-08-24 18:33:58",

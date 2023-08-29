@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xAmEtLT8c17IisGUa1f4M.md) - [plain]
 
 > 38 great tunes by female singers only!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,456 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,454 likes - 38 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/1xAmEtLT8c17IisGUa1f4M.md) - [plain]
 | 11 | [Beautiful Liar](https://open.spotify.com/track/2P5cIXejqLpHDQeCHAbbBG) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Beautiful Liar](https://open.spotify.com/album/26vwjM6FkX2nEx9I0FKmih) | 3:21 |
 | 12 | [Tell Him \(Duet with Barbra Streisand\)](https://open.spotify.com/track/4P0CExKxjxWALcYk5BcmF8) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [My Love Essential Collection](https://open.spotify.com/album/0zMOz1phwhxqDqNzttMXsw) | 4:52 |
 | 13 | [Leaving For London](https://open.spotify.com/track/25BOXV4qrfUplgnhRMITvT) | [Berit Fridahl](https://open.spotify.com/artist/4kgiiUMQWqnLxqbmO2E4qK), [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Stormtracks](https://open.spotify.com/album/1nezuBVoRiEe9TjKaeKgaN) | 4:11 |
-| 14 | [Like a Virgin / Hollywood \(feat\. Christina Aguilera, Britney Spears & Missy Elliott\) \- 2003 MTV VMA Performance](https://open.spotify.com/track/7H6muD5tyDvb5S2RlqrRUt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Remixed & Revisited](https://open.spotify.com/album/1jbvz2rOweu6nQwgygKNhK) | 5:34 |
+| 14 | [Like a Virgin / Hollywood \(feat\. Christina Aguilera, Britney Spears & Missy Elliott\) \- 2003 MTV VMA Performance](https://open.spotify.com/track/7H6muD5tyDvb5S2RlqrRUt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Remixed & Revisited](https://open.spotify.com/album/1jbvz2rOweu6nQwgygKNhK) | 5:34 |
 | 15 | [Never Be The Same Again \- Single Mix](https://open.spotify.com/track/77tfHVcjhVnMI9oyL63tWW) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Northern Star](https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ) | 4:14 |
 | 16 | [Lift Me \- Live](https://open.spotify.com/track/5yzRzp9irPyohqzU2nVTWj) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Nina Kinert](https://open.spotify.com/artist/6uRl4Lp821EvTTEYmboj8O) | [Live In Scandinavia](https://open.spotify.com/album/31IUIE5KLmWfULuFoU7dTT) | 5:22 |
 | 17 | [Fly](https://open.spotify.com/track/6mjEABpi5cQ5gqFFOkR1Cc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Pink Friday](https://open.spotify.com/album/2RfF6dGpYIN5u1mNkfG8Pb) | 3:32 |

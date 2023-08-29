@@ -2,9 +2,9 @@
 
 ### [Radar España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> Descubre hoy a los artistas de mañana\. Foto: Marta Santos
+> Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-185 songs - 9 hr 5 min
+187 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Corazón de Melón](https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Corazón de Melón](https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB) | 2:57 | 2023-02-07 |  |
 | [Cosas Que Dijimos De Hacer](https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [Cosas Que Dijimos De Hacer](https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH) | 2:55 | 2022-07-14 | 2023-05-20 |
 | [cuando anochece](https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH) | 3:05 | 2022-03-17 | 2022-12-22 |
-| [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 | 2023-02-07 |  |
+| [Cuchillos](https://open.spotify.com/track/4vEutziRAYewCT97ziq48J) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Cuchillos](https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX) | 2:42 | 2023-02-07 | 2023-08-29 |
 | [Cápsula Espacial](https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Cápsula Espacial](https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr) | 2:36 | 2023-03-01 |  |
 | [Cómo Me Voy A Olvidar](https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Que No Te Cuentan](https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz) | 2:21 | 2022-06-06 | 2023-02-08 |
 | [DAME LO MIO](https://open.spotify.com/track/6O1fqHndsqDfVYP4VEEuiY) | [C de Cama](https://open.spotify.com/artist/5sK9Bieh35VgebRY9dm7jg) | [DAME LO MIO](https://open.spotify.com/album/4JzRFMvSKawgIOWEWfnwX7) | 2:23 | 2021-12-31 | 2022-03-01 |
@@ -83,7 +83,7 @@
 | [Huracán 2.0](https://open.spotify.com/track/1vVpGcJToyVgpH2n4QkSc5) | [Ruiseñora](https://open.spotify.com/artist/5lWL0858SCbKL77z7Ff5Vs) | [Huracán 2.0](https://open.spotify.com/album/7B1QXHzOmKxNVWuNTpwLEz) | 2:28 | 2021-12-31 | 2022-01-28 |
 | [Indie esperanzador](https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Indie esperanzador](https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc) | 2:50 | 2022-07-28 | 2023-05-20 |
 | [Inercia](https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 2:59 | 2022-03-31 | 2023-02-08 |
-| [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 | 2023-02-21 |  |
+| [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 | 2023-02-21 | 2023-08-29 |
 | [Inteligencia Emocional](https://open.spotify.com/track/15xKQcRO5wIWCcKXliNwrf) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Inteligencia Emocional](https://open.spotify.com/album/6zzK6DBHzdpfdD51FiX3w7) | 2:46 | 2022-01-06 | 2022-06-07 |
 | [Invítame a Tu Casa](https://open.spotify.com/track/2RSmvIrwCr0jiNth0kdIaN) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Casa Vargas](https://open.spotify.com/album/6tRHKz0BfNOH9e1E7JvpSh) | 3:55 | 2021-12-31 | 2022-02-25 |
 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 | 2022-09-22 |  |
@@ -95,6 +95,7 @@
 | [La Historia \- \(Respuesta\)](https://open.spotify.com/track/00ezmLeUiLssWmBNTwcDC4) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe) | [La Historia \(Respuesta\)](https://open.spotify.com/album/0I4I1NFyd1b6kttvTKdsah) | 2:24 | 2022-01-06 | 2022-06-07 |
 | [La Lluvia](https://open.spotify.com/track/5aM5QibidKdtMMB8YzGhtR) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [La Lluvia](https://open.spotify.com/album/0WL9vGpQb9rw1coTXvz6o0) | 2:34 | 2022-02-24 | 2022-09-23 |
 | [la pestaña que soplé](https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la pestaña que soplé](https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r) | 2:20 | 2022-07-28 | 2023-05-20 |
+| [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 | 2023-08-28 |  |
 | [Lejos de Ti](https://open.spotify.com/track/41cjGl3GutC8CJD6iBV153) | [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Lejos de Ti](https://open.spotify.com/album/5p8mllIcbaH0YYtntJdYAV) | 3:26 | 2021-12-31 | 2022-01-28 |
 | [Leyla](https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [Leyla](https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J) | 2:31 | 2022-11-11 |  |
 | [limón y sal](https://open.spotify.com/track/34V5r1MyrcqpjCx97PI13x) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [limón y sal](https://open.spotify.com/album/4JN94nMRgfzhvdvJFTTIdh) | 3:26 | 2022-02-03 | 2022-07-15 |
@@ -167,6 +168,7 @@
 | [Solo](https://open.spotify.com/track/2JYAvxXyyubnbY4H7rrqiS) | [Mario Summers](https://open.spotify.com/artist/6pZjGGAy8faU8zEw4b3wfH) | [Solo](https://open.spotify.com/album/37tpMp9kscG5f1xTnGaN7D) | 3:53 | 2021-12-31 | 2022-02-18 |
 | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao) | 3:12 | 2023-02-07 |  |
 | [Son Ganas](https://open.spotify.com/track/0dxUEzSnXQZiJ61rIdtzt2) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [Son Ganas](https://open.spotify.com/album/5C8jNxCKQrHSWhwhHWIoby) | 3:30 | 2022-01-06 | 2022-06-07 |
+| [Soy El Único \- Spotify Singles](https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:47 | 2023-08-28 |  |
 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 | 2022-06-06 | 2023-04-20 |
 | [Starsky & Hutch](https://open.spotify.com/track/531HWzHDU2HRRmYuS0Mnvw) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Starsky & Hutch](https://open.spotify.com/album/22JFWlUVaMumJRanIIps3o) | 3:00 | 2021-12-31 | 2022-04-01 |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-04-19 |  |

@@ -4,7 +4,7 @@
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-202 songs - 12 hr 39 min
+203 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Heart Is… \(마음은\)](https://open.spotify.com/track/0khR5XMKIRR9LQVS28dYoe) | [PRIMAVERA](https://open.spotify.com/artist/2dWal20OMFlgWaEMZ3tH3i) | [Heart Is… \(마음은\)](https://open.spotify.com/album/44EfLSGEjiG7bj5jJlOzLs) | 4:51 | 2022-05-03 | 2022-07-24 |
 | [Holiday](https://open.spotify.com/track/2EiYnN1JJem3mrzvs2IOGN) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [YUMI's Cells, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CqqZ9yXSWFitudW1r70sX) | 3:56 | 2022-05-03 |  |
 | [How Is It?](https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [How Is It?](https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v) | 3:09 | 2022-05-03 |  |
-| [I don't want \(feat.So Jung of LADIES’ CODE\)](https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [So Jung of LADIES’ CODE](https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ) | [LISH](https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj) | 3:44 | 2022-05-03 |  |
+| [I don't want \(feat.So Jung of LADIES’ CODE\)](https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [So Jung of LADIES’ CODE](https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ) | [LISH](https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj) | 3:44 | 2022-05-03 | 2023-08-29 |
 | [I drink again](https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:05 | 2022-05-03 | 2022-09-09 |
 | [I know](https://open.spotify.com/track/3nZ41ylOYXcJ8ydGSSMKsf) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Even if get lost, it can flow anyway](https://open.spotify.com/album/0HRFHhuvLEfG77flcrbCI9) | 3:00 | 2022-05-03 | 2022-06-30 |
 | [I Really Didn't Know You](https://open.spotify.com/track/11yW0e3Pth5l2rTIShyDsj) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [I Really Didn't Know You](https://open.spotify.com/album/1qg7swV1Cs2SIgUvX7bmkq) | 3:43 | 2022-05-03 | 2022-07-29 |
@@ -183,6 +183,7 @@
 | [Wind](https://open.spotify.com/track/0oPiNXJVKFp3T5wo6S0nUw) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [OUTRO](https://open.spotify.com/album/6GcK8UwZU9cNBlG5pIWwjS) | 3:11 | 2022-05-03 | 2022-12-10 |
 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2022-12-24 | 2023-02-25 |
 | [Wish](https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:59 | 2022-07-22 |  |
+| [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 | 2023-07-17 |  |
 | [Wish 바람](https://open.spotify.com/track/6Bp3075Pu73PpyCYRhHQbB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/3vzUq0hnovgWpP6yfgGtXB) | 3:59 | 2022-05-03 | 2022-07-29 |
 | [With all my heart](https://open.spotify.com/track/5zhOr1qGlSEHhv5XEuzi0j) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/6o6gPj3oOu3ueWm30egKg3) | 3:05 | 2022-09-07 | 2022-12-10 |
 | [With all my heart](https://open.spotify.com/track/6gKSukMXJASu3kE6nYlpUi) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/026uWhfvMFjZyNEF6p0GBs) | 3:05 | 2022-05-03 | 2022-07-28 |

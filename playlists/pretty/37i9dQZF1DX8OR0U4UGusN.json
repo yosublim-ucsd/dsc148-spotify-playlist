@@ -1,12 +1,12 @@
 {
   "description": "tunes for walking, driving, running, flying, etc",
-  "num_followers": 181337,
+  "num_followers": 181437,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjEyZDUzODEwNWM1ZDdmN2JmNmIwYzg2ZjkxMzkzNjMxNTg1MTJl",
+  "snapshot_id": "MCw3MmI2YzczNmY3ZWJmZWU0MjVmNDcyYjE1ZmNmYThlM2RjMjg5NDAy",
   "tracks": [
     {
       "added_at": "2023-08-09 21:18:22",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "I'm Thru",
-        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
-      },
-      "artists": [
-        {
-          "name": "Luke Gomm",
-          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
-        }
-      ],
-      "duration_ms": 191335,
-      "name": "I'm Thru",
-      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Dribble (feat. RIZ LA VIE) [Remix]",
         "url": "https://open.spotify.com/album/1H8Ygnlo5pb2cuG9a9n6Hw"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 241885,
       "name": "Dribble (feat. RIZ LA VIE) - Remix",
       "url": "https://open.spotify.com/track/6XIaGWpwKY7nzPJl7YIDA5"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "I'm Thru",
+        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        }
+      ],
+      "duration_ms": 191335,
+      "name": "I'm Thru",
+      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "BITTER",
+        "url": "https://open.spotify.com/album/5oFxHBhSxMPLC2dSJufqDw"
+      },
+      "artists": [
+        {
+          "name": "DACEY",
+          "url": "https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0"
+        }
+      ],
+      "duration_ms": 257083,
+      "name": "BITTER",
+      "url": "https://open.spotify.com/track/0DvKlrYXQsoJGotGzsqcbA"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Dotted Red",
         "url": "https://open.spotify.com/album/5TrQ9hmwpTTC8EdzsovHom"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 143157,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/78hgoPBLpMcv7Kth2TgqeA"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "BITTER",
-        "url": "https://open.spotify.com/album/5oFxHBhSxMPLC2dSJufqDw"
-      },
-      "artists": [
-        {
-          "name": "DACEY",
-          "url": "https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0"
-        }
-      ],
-      "duration_ms": 257083,
-      "name": "BITTER",
-      "url": "https://open.spotify.com/track/0DvKlrYXQsoJGotGzsqcbA"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "My Demise",
-        "url": "https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot"
-      },
-      "artists": [
-        {
-          "name": "Porsh Bet$",
-          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "My Demise",
-      "url": "https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "Rot",
         "url": "https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
+        "name": "My Demise",
+        "url": "https://open.spotify.com/album/2Z1R0wuI23MhyEsi5Go4ot"
+      },
+      "artists": [
+        {
+          "name": "Porsh Bet$",
+          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "My Demise",
+      "url": "https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
         "name": "Through Tha Night",
         "url": "https://open.spotify.com/album/1D5Sl0DbkfNzlXGUjHk3A2"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 196803,
       "name": "Through Tha Night",
       "url": "https://open.spotify.com/track/6Yzdmp0OAexAej7pQmoy84"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
-        "name": "Are You Living In The Real World? - EP",
-        "url": "https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 173708,
-      "name": "Looks",
-      "url": "https://open.spotify.com/track/3f88AK7TqGIxaTjb3EdxMZ"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "BOYFRIEND KILLER",
-        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
+        "name": "Are You Living In The Real World? - EP",
+        "url": "https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB"
       },
       "artists": [
         {
-          "name": "Palmer",
-          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
         }
       ],
-      "duration_ms": 194526,
-      "name": "BOYFRIEND KILLER",
-      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
+      "duration_ms": 173708,
+      "name": "Looks",
+      "url": "https://open.spotify.com/track/3f88AK7TqGIxaTjb3EdxMZ"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1395,6 +1379,22 @@
       "duration_ms": 199060,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/3hv0c9crZAmWBqGxhDkuYF"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "BOYFRIEND KILLER",
+        "url": "https://open.spotify.com/album/00YDQwyMVeP93QPMsavGRM"
+      },
+      "artists": [
+        {
+          "name": "Palmer",
+          "url": "https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "BOYFRIEND KILLER",
+      "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "keep in touch",
-        "url": "https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK"
-      },
-      "artists": [
-        {
-          "name": "Nxtime",
-          "url": "https://open.spotify.com/artist/2960ZYqDzOYsnK0ka9Rd8J"
-        },
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 209610,
-      "name": "keep in touch",
-      "url": "https://open.spotify.com/track/4Zmz78m7P7NT5qpoTIfFwF"
-    },
-    {
-      "added_at": "2023-08-09 21:18:22",
-      "album": {
         "name": "PIE",
         "url": "https://open.spotify.com/album/6glFEczFwAjeB16GvQBoJ5"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 176552,
       "name": "PIE",
       "url": "https://open.spotify.com/track/69W17RttaPLLzfZKc5g1ey"
+    },
+    {
+      "added_at": "2023-08-09 21:18:22",
+      "album": {
+        "name": "keep in touch",
+        "url": "https://open.spotify.com/album/2vLQadIAwgChhNUu2WguFK"
+      },
+      "artists": [
+        {
+          "name": "Nxtime",
+          "url": "https://open.spotify.com/artist/2960ZYqDzOYsnK0ka9Rd8J"
+        },
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 209610,
+      "name": "keep in touch",
+      "url": "https://open.spotify.com/track/4Zmz78m7P7NT5qpoTIfFwF"
     },
     {
       "added_at": "2023-08-09 21:18:22",
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2023-08-09 21:18:22",
       "album": {
-        "name": "That's How It Goes",
-        "url": "https://open.spotify.com/album/5FGIQJ6gA0baXHJoMmtiX0"
+        "name": "love deluxe",
+        "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
       },
       "artists": [
         {
-          "name": "Nana Lourdes",
-          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
-        },
-        {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/2vFDu77B8WPAuN6gFDjfUE"
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
         }
       ],
-      "duration_ms": 213809,
-      "name": "That's How It Goes",
-      "url": "https://open.spotify.com/track/11ZrmGVgoVbKE2n3j1WBcu"
+      "duration_ms": 100714,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
     }
   ],
   "unique_name": "omw",

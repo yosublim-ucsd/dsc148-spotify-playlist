@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,547 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,575 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Charlotte](https://open.spotify.com/track/4fLWpuB8IHI0Z8UecU4p9R) | [Rose Rose](https://open.spotify.com/artist/7m5YHkCbSEVutUThNF5Lc9) | [Eye to Eye](https://open.spotify.com/album/1nPz4khN5zBQQRWQ7ClIXX) | 3:49 |
 | 50 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 |
 
-Snapshot ID: `MCw2OWYyYmEyNmZmOWZhNjc5NWFiMjFhZDk2MjI0NDY1MjdjMTI4NDI1`
+Snapshot ID: `MCw2ZjE3YTRlZjYxNmM3MmE5NjhjYTVlMjU5YTg5ZDkxNzU5ODI4YTU2`

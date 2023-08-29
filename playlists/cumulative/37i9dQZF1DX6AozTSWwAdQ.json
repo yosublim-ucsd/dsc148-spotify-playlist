@@ -987,6 +987,24 @@
     },
     {
       "album": {
+        "name": "Big Dumb Heart, Chapter 2",
+        "url": "https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202480,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw"
       },
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 162701,
       "name": "If I'm Honest",
       "url": "https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw"
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 160676,
       "name": "J-O-B",
       "url": "https://open.spotify.com/track/4Y04Y4j9y3urznHQOzMuxk"
@@ -2916,6 +2934,24 @@
       "duration_ms": 217713,
       "name": "Leap Of Faith",
       "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
+    },
+    {
+      "album": {
+        "name": "leave me for dead",
+        "url": "https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176399,
+      "name": "leave me for dead",
+      "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
     },
     {
       "album": {
@@ -3528,7 +3564,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 161000,
       "name": "More the Victim",
       "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
@@ -3924,7 +3960,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 231253,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/557jdZsn0FAltJXgenminf"
@@ -4162,6 +4198,24 @@
       "duration_ms": 206539,
       "name": "Santa's Coming for Us",
       "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
+    },
+    {
+      "album": {
+        "name": "see you in hell",
+        "url": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172430,
+      "name": "see you in hell",
+      "url": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"
     },
     {
       "album": {
@@ -5590,7 +5644,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 231653,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Dua Lipa au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,178,173 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,178,556 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [SAXO \- Anton Wick Remix](https://open.spotify.com/track/3O2zs5obj49ZzsCA5jvPR0) | [Laurent Wolf](https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn), [Anton Wick](https://open.spotify.com/artist/0vEfj3GY7PlPTD5eQG4T4S) | [SAXO \(Anton Wick Remix\)](https://open.spotify.com/album/0VULDXr15n5rPhdYh9XtMR) | 2:52 |
 | 50 | [GTB](https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ), [FLEM KGB](https://open.spotify.com/artist/2nnza2r2urV90Ykr5Sfnsi) | [Faits Divers](https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51) | 2:56 |
 
-Snapshot ID: `MCxhY2ZhNjc1YzY3NzdlMjMyN2NkNGNkZDE1NDViZGNiOTY1ZWU1MWVh`
+Snapshot ID: `MCwxZDJiNDM5Nzk5OTJiYjc4ZTg5ZDBiNzcxZGRlMDNkZGNjY2ViMGQ2`

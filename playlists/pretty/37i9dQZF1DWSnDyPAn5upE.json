@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 43640,
+  "num_followers": 43715,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmY4YjJhNTFhNTRkMDVkMzc4MThmMjJmMDFkZjc0YzI2MzRlMjY3",
+  "snapshot_id": "MCw3MjhmNWEyZmNmMjQyMzkxMTgyN2ZkY2U4ZTEzY2MyNzYwNGVmZTI2",
   "tracks": [
     {
       "added_at": "2023-08-25 00:01:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Kingdom Two Crowns: Norse Lands Soundtrack (Extended)",
+        "url": "https://open.spotify.com/album/10emOJ2FamPhHhQCMyGOhs"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "duration_ms": 183871,
+      "name": "Dr\u00f8mmefanger - Extended",
+      "url": "https://open.spotify.com/track/2nWfiM7FoHdOKAz3ZucNPe"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "fall (Hania Rani Rework) (feat. Hania Rani)",
         "url": "https://open.spotify.com/album/0jT8y9vhDBCvtDLRM42Jlk"
       },
@@ -231,18 +247,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Kingdom Two Crowns: Norse Lands Soundtrack (Extended)",
-        "url": "https://open.spotify.com/album/10emOJ2FamPhHhQCMyGOhs"
+        "name": "Nepenthe",
+        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
       },
       "artists": [
         {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
         }
       ],
-      "duration_ms": 183871,
-      "name": "Dr\u00f8mmefanger - Extended",
-      "url": "https://open.spotify.com/track/2nWfiM7FoHdOKAz3ZucNPe"
+      "duration_ms": 272960,
+      "name": "Labyrinthine",
+      "url": "https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -259,22 +275,6 @@
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Nepenthe",
-        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 272960,
-      "name": "Labyrinthine",
-      "url": "https://open.spotify.com/track/58OsQvr8IkoysLGiaLth6I"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
       "artists": [
         {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Theories",
-      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
       },
       "artists": [
         {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
         }
       ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+      "duration_ms": 132000,
+      "name": "Theories",
+      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -1115,26 +1099,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "There Up, Behind The Moon",
-        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Ana Stamp",
-          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
-        }
-      ],
-      "duration_ms": 444000,
-      "name": "Bright Girl",
-      "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
       },
@@ -1151,6 +1115,42 @@
       "duration_ms": 194706,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "There Up, Behind The Moon",
+        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Ana Stamp",
+          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+        }
+      ],
+      "duration_ms": 444000,
+      "name": "Bright Girl",
+      "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Hills Have Eyes",
-        "url": "https://open.spotify.com/album/6iyqB1HfTm68FESZYWb91F"
-      },
-      "artists": [
-        {
-          "name": "TWEAKS",
-          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
-        }
-      ],
-      "duration_ms": 168263,
-      "name": "Hills Have Eyes",
-      "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "in altar wine",
         "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
       },
@@ -1491,22 +1475,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Seeing Inside",
-        "url": "https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF"
+        "name": "Hills Have Eyes",
+        "url": "https://open.spotify.com/album/6iyqB1HfTm68FESZYWb91F"
       },
       "artists": [
         {
-          "name": "Serena Gabriel",
-          "url": "https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR"
-        },
-        {
-          "name": "Steve Roach",
-          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
         }
       ],
-      "duration_ms": 707200,
-      "name": "From the Sea",
-      "url": "https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig"
+      "duration_ms": 168263,
+      "name": "Hills Have Eyes",
+      "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1531,22 +1511,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Remission",
-        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
+        "name": "Seeing Inside",
+        "url": "https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF"
       },
       "artists": [
         {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+          "name": "Serena Gabriel",
+          "url": "https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR"
         },
         {
-          "name": "anth\u00e9ne",
-          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Remission",
-      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
+      "duration_ms": 707200,
+      "name": "From the Sea",
+      "url": "https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1563,6 +1543,26 @@
       "duration_ms": 367253,
       "name": "Stretch Your Eyes - Ambient Acapella",
       "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
+      },
+      "artists": [
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "anth\u00e9ne",
+          "url": "https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Remission",
+      "url": "https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Cr\u00e9puscule I & II",
-        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
+        "name": "My Life / Under The Moon Over The Sky",
+        "url": "https://open.spotify.com/album/014P491xuSjVhCPbMapFbt"
       },
       "artists": [
         {
-          "name": "Tujiko Noriko",
-          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
+          "name": "Matthias Vogt",
+          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
+        },
+        {
+          "name": "Johanna Klein",
+          "url": "https://open.spotify.com/artist/2SRNyDF0axecZrxNj5dArF"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Cosmic Ray",
-      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
+      "duration_ms": 205400,
+      "name": "My Life - Edit",
+      "url": "https://open.spotify.com/track/7sXmm2QoZ8qpMxzHT160lY"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1739,22 +1743,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "My Life / Under The Moon Over The Sky",
-        "url": "https://open.spotify.com/album/014P491xuSjVhCPbMapFbt"
+        "name": "Cr\u00e9puscule I & II",
+        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
       },
       "artists": [
         {
-          "name": "Matthias Vogt",
-          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
-        },
-        {
-          "name": "Johanna Klein",
-          "url": "https://open.spotify.com/artist/2SRNyDF0axecZrxNj5dArF"
+          "name": "Tujiko Noriko",
+          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
         }
       ],
-      "duration_ms": 205400,
-      "name": "My Life - Edit",
-      "url": "https://open.spotify.com/track/7sXmm2QoZ8qpMxzHT160lY"
+      "duration_ms": 206000,
+      "name": "Cosmic Ray",
+      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
     },
     {
       "added_at": "2023-08-25 00:01:00",

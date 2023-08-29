@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 204414,
       "name": "La Ni\u00f1a de la Escuela",
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
@@ -1924,6 +1924,32 @@
       "duration_ms": 152120,
       "name": "Que Te Vaya Mal",
       "url": "https://open.spotify.com/track/0zm0RvrcS4hZwIsxra4XYh"
+    },
+    {
+      "album": {
+        "name": "Quiero Todo",
+        "url": "https://open.spotify.com/album/3oRwbp1iHfkNfBQ7v6eIsU"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Natalia Oreiro",
+          "url": "https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204946,
+      "name": "Quiero Todo",
+      "url": "https://open.spotify.com/track/0yRaf2zK8CtJvNyLzg9XNy"
     },
     {
       "album": {

@@ -7353,6 +7353,24 @@
     },
     {
       "album": {
+        "name": "Cake CAKE",
+        "url": "https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ"
+      },
+      "artists": [
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81000,
+      "name": "Punchdrunklovesong",
+      "url": "https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg"
+    },
+    {
+      "album": {
         "name": "Pure \ud22c\uba85",
         "url": "https://open.spotify.com/album/5jorT0muhGjTlZ1O2xHXdk"
       },
@@ -10814,7 +10832,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 361426,
       "name": "Youth",
       "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"

@@ -2895,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "Rhythm Of Future",
+        "url": "https://open.spotify.com/album/0NTbb6gFlEvf9R8s7Wh6Zk"
+      },
+      "artists": [
+        {
+          "name": "Kreso",
+          "url": "https://open.spotify.com/artist/0VRutrYSwvf22nrjYf64Gr"
+        },
+        {
+          "name": "Just Frank",
+          "url": "https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391632,
+      "name": "Rhythm Of Future",
+      "url": "https://open.spotify.com/track/5ByyD34KLxs9ERAQ1Khcfv"
+    },
+    {
+      "album": {
         "name": "Speicher 118",
         "url": "https://open.spotify.com/album/6u1dHk7i5c2vFy0XPt0v33"
       },
@@ -3530,6 +3552,28 @@
       "duration_ms": 401777,
       "name": "The Siren",
       "url": "https://open.spotify.com/track/0Oa28vZJYTvMCzVTxX7bdY"
+    },
+    {
+      "album": {
+        "name": "Rhythm Of Future",
+        "url": "https://open.spotify.com/album/0NTbb6gFlEvf9R8s7Wh6Zk"
+      },
+      "artists": [
+        {
+          "name": "Kreso",
+          "url": "https://open.spotify.com/artist/0VRutrYSwvf22nrjYf64Gr"
+        },
+        {
+          "name": "Just Frank",
+          "url": "https://open.spotify.com/artist/6tMD9uX2BaPLnKloVrjiuV"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351871,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/29POmyLzrgJDQZLhNJNZd0"
     },
     {
       "album": {

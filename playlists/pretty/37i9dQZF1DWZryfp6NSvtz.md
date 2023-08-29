@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Hot Milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,379 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,610 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Final Lullaby](https://open.spotify.com/track/3tYZCRKCdrcrWG7dS3grMA) | [HRTLSS](https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD) | [Final Lullaby](https://open.spotify.com/album/4Un3Gvbp6UgDEzNmvOWuun) | 3:13 |
 | 50 | [Crime](https://open.spotify.com/track/0PCUCE4FQZ8SItEwX9hJc9) | [Sun Run](https://open.spotify.com/artist/26boCfBKyg7JTVCjQkg0Pd) | [Beach](https://open.spotify.com/album/2ECKNRUToOT70BLvbCVoqe) | 3:00 |
 
-Snapshot ID: `MCw0NjI1ZTIxZDUxOTI2ZTg2ZDAyMzM2NWUwOTA0YjMyY2I1M2ExNThm`
+Snapshot ID: `MCw0ODIwMDA4ZjYwYTI4MjRhNTcxMTRkZTljNjMyMWFkOTNmOWJmYjJm`

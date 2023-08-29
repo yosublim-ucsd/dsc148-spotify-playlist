@@ -4,7 +4,7 @@
 
 > Work or rest with these gems from the 80s.
 
-197 songs - 14 hr 19 min
+198 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Par Avion](https://open.spotify.com/track/1rNlOvWoVEnpMwcbpLwBtb) | [Mike & The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Mike + The Mechanics](https://open.spotify.com/album/7pXUIU9n8JXEbQS95sodGr) | 3:35 | 2018-12-12 | 2022-11-13 |
 | [Par Avion](https://open.spotify.com/track/5uo0mb0iA77V51se5Wl3ti) | [Mike & The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Mike + The Mechanics](https://open.spotify.com/album/5BrUyKkJIavGjRwYzKrF84) | 3:36 | 2018-12-12 | 2022-07-29 |
 | [Paradise](https://open.spotify.com/track/3YrCaV9Sv2K2QToEmOB81u) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:51 | 2018-12-12 | 2022-11-13 |
-| [Paris, Texas](https://open.spotify.com/track/3PxtlY1d9VbTMkveVdbMYI) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paris, Texas \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4ojAu7ZFZzFmBDiyR25sBy) | 2:52 | 2018-12-12 |  |
+| [Paris, Texas](https://open.spotify.com/track/3PxtlY1d9VbTMkveVdbMYI) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paris, Texas \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4ojAu7ZFZzFmBDiyR25sBy) | 2:52 | 2018-12-12 | 2023-08-29 |
+| [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 | 2018-12-12 |  |
 | [Polonaise](https://open.spotify.com/track/00g0LMstYkA0WyzDYmseXj) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [Private Collection](https://open.spotify.com/album/1qi65TrtdSDtJMi2qR4yyX) | 5:26 | 2018-12-12 | 2022-07-29 |
 | [Private Investigations](https://open.spotify.com/track/6wBJRGnGOrWy4sACdMekxO) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold \(Remastered\)](https://open.spotify.com/album/4sVMaNrLbkffVgd0CMSibC) | 6:46 | 2018-12-12 | 2022-07-29 |
 | [Private Investigations](https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5) | 6:46 | 2018-12-12 |  |

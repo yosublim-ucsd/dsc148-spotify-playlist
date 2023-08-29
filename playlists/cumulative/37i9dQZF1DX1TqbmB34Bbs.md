@@ -4,7 +4,7 @@
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: NSW Yoon\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,079 songs - 2 day 12 hr 7 min
+1,080 songs - 2 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,7 @@
 | [Hol' up](https://open.spotify.com/track/1A6Pr9y5e11LnLVIXYEkTF) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [SINCE 16'](https://open.spotify.com/album/6SabPv9sCG3yviXpRtgZ5T) | 2:10 | 2022-06-03 | 2022-07-28 |
 | [hold out \(Feat\. NSW yoon, Louie\)](https://open.spotify.com/track/5SzeLmbnkUHtbQkOGeZlaX) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 3:18 | 2022-06-03 | 2022-07-26 |
 | [Hold Up](https://open.spotify.com/track/2zfMaoS7QHQ8svDFxULfvW) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [I Got A Feeling](https://open.spotify.com/album/5Bj1t4XYpFEL7oGVJbJgmM) | 3:02 | 2022-05-28 | 2022-07-22 |
-| [Holiday \(Feat\. lIlBOI, GIRIBOY\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 4:07 | 2022-12-19 |  |
+| [Holiday \(Feat\. lIlBOI, GIRIBOY\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 4:07 | 2022-12-19 | 2023-08-29 |
 | [HOLLYWOOD ACTION](https://open.spotify.com/track/0bzHxAfeqMgkfp9ycGGBvB) | [Rhythm Power](https://open.spotify.com/artist/5gak9sIzatz00aPsLdHVUW), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [HOLLYWOOD ACTION](https://open.spotify.com/album/1yYrBmx2zPx64icRhgEq1e) | 2:46 | 2022-06-03 | 2022-07-10 |
 | [Holy God](https://open.spotify.com/track/6IlibQh9jNJQLaf9s49S92) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Dnsg](https://open.spotify.com/album/4xvy4Oja5dCIfA5KcnIjsB) | 2:19 | 2022-06-03 | 2022-07-22 |
 | [Home Sweet Home](https://open.spotify.com/track/6lcdmbAU9rMq3YbE81DJfH) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [F.O.B.](https://open.spotify.com/album/43P5qKsPum8FRoAQALCeXc) | 3:38 | 2023-02-16 | 2023-03-14 |
@@ -904,6 +904,7 @@
 | [TAIJI](https://open.spotify.com/track/4kTZPPL28sYltXKMJramko) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [UNDERGROUND ROCKSTAR](https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug) | 3:13 | 2022-05-31 |  |
 | [TAKE FIVE](https://open.spotify.com/track/0rOc8Ersd3PyIzbphmnEHe) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [NEVERLAND](https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5) | 3:13 | 2023-02-16 | 2023-03-14 |
 | [Take It](https://open.spotify.com/track/2VYAX2W40C5Xk5oxBQwsOD) | [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [G+Jus](https://open.spotify.com/album/1j54pJLJwyvWWitfseFlBm) | 3:54 | 2022-05-28 |  |
+| [Take It, Flip It \(Feat\. Sik\-K\)](https://open.spotify.com/track/2QazvOMRU7KdBlnPYKMMTF) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Take It, Flip It \(Feat\. Sik\-K\)](https://open.spotify.com/album/3ZK7Jptd6llgxQ1DunVmxb) | 3:02 | 2023-08-25 |  |
 | [TANG\-A](https://open.spotify.com/track/2OlOCzOckY67sUrs9P53Dh) | [Bassagong](https://open.spotify.com/artist/7j1lNIjZY1E1drWIgJloMs), [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [Tang\-A](https://open.spotify.com/album/3TW4RnUYe0UZaMJJ1vTrwd) | 3:24 | 2022-05-28 | 2022-07-22 |
 | [Tap Tap Tap \(feat\. BOBBY\)](https://open.spotify.com/track/0gZLrERC3cxIdQME2PNw6m) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Tap Tap Tap \(feat\. BOBBY\)](https://open.spotify.com/album/1ZJGg7eDhUhlMegDGhGBmV) | 2:42 | 2023-07-18 |  |
 | [TCO \(The chosen ones\)](https://open.spotify.com/track/1NgGMro5QQ3oNoQg9o27YC) | [BIG $LAM](https://open.spotify.com/artist/3z0wnklDuHErB7ErLruRPS), [Gento](https://open.spotify.com/artist/1rqiBX7YpthlwVPQPprJF5), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z) | [TCO \(The chosen ones\)](https://open.spotify.com/album/6czrxTJmxIVR98DcZ3vVbJ) | 3:06 | 2022-06-09 | 2022-07-07 |

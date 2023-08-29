@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor, tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,214 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,307 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 26 | [Saudade](https://open.spotify.com/track/5ooDUWMuGZ7PvpXLuxNPhs) | [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Saudade](https://open.spotify.com/album/39PEpHYnGdTnQpVL8rludM) | 2:15 |
 | 27 | [Feridas Abertas](https://open.spotify.com/track/6S00iFG7VSum4SgXoNXha8) | [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Feridas Abertas](https://open.spotify.com/album/4bxhpFYA9ixhMcSj7Ahx2D) | 3:35 |
 | 28 | [Diagnóstico](https://open.spotify.com/track/7KdVFvjsLG0bBn7LO4ae2I) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 2:58 |
-| 29 | [Manda Áudio](https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM) | 2:18 |
+| 29 | [Manda Áudio](https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/51Jdr9EBtQHruGrmzNZF5h) | 2:18 |
 | 30 | [Deu Vontade](https://open.spotify.com/track/1FVoxlwihhdlnxiz9Xym6e) | [Carolina Andrade](https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [48k](https://open.spotify.com/artist/607zxx4kUoATMyFz7FahmI) | [Deu Vontade](https://open.spotify.com/album/2w80JBvjFtVAtK3ZgKRcgx) | 2:40 |
 | 31 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
 | 32 | [Calma, Bebê!](https://open.spotify.com/track/0dEaaQY4pj0DB89Nx51OVJ) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Calma, Bebê!](https://open.spotify.com/album/1r9wCZceI3QoeuSU2ledD1) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Rubi](https://open.spotify.com/track/1YumR6MJyfkoHarpg2oL19) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM) | [Rubi](https://open.spotify.com/album/2lf9zogvZ4DKBWomGkoisi) | 3:27 |
 | 75 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 
-Snapshot ID: `MCxiNzg4YzdjM2FjZGZhNDg5NGRiODg3YWM4MTA0MmIwNzA2NDI3YTZh`
+Snapshot ID: `MCw5YzExZDlmMzFiMDU0YjA2ODQzYzQyNDM1YTEzNTk1M2EzM2RmYjI0`

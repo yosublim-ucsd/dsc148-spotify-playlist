@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 53435,
+  "num_followers": 53433,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzU3ZTk0YjVmOGE3NDI1MTA5NTU2NTFjMzhlZjE0MzY2NGM4ZjBh",
+  "snapshot_id": "MCw3MGJlMmIzMDgzM2ZlMjBkZWExZGMwMmIzMTAzMGY0NTllOTliMTk3",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "It's Christmas Time (with Michael Bolton)",
-        "url": "https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 203103,
-      "name": "It's Christmas Time (with Michael Bolton)",
-      "url": "https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Home Alone (On the Night Before Christmas)",
         "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 125039,
       "name": "Santa Claus is Coming to Town",
       "url": "https://open.spotify.com/track/1fsRifOL2vyZHPSrqFruo8"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "It's Christmas Time (with Michael Bolton)",
+        "url": "https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 203103,
+      "name": "It's Christmas Time (with Michael Bolton)",
+      "url": "https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz"
-      },
-      "artists": [
-        {
-          "name": "Wubbaduck",
-          "url": "https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT"
-        }
-      ],
-      "duration_ms": 150021,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Christmas Bounce",
         "url": "https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 173515,
       "name": "Christmas Bounce",
       "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz"
+      },
+      "artists": [
+        {
+          "name": "Wubbaduck",
+          "url": "https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT"
+        }
+      ],
+      "duration_ms": 150021,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Jingle Bass (VIP)",
         "url": "https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Winter Wonderland ^Bsiide",
         "url": "https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a"
       },
@@ -711,26 +711,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "An Electronic Christmas",
-        "url": "https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc"
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
       },
       "artists": [
         {
-          "name": "Dimmalou",
-          "url": "https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT"
-        },
-        {
-          "name": "Nightcore",
-          "url": "https://open.spotify.com/artist/2VtMB7jviiND1rxAWEsJm8"
-        },
-        {
-          "name": "Speed Sounds",
-          "url": "https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         }
       ],
-      "duration_ms": 125280,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/1axYNHZnGmk4CsoPZWsNNY"
+      "duration_ms": 205840,
+      "name": "Cold December",
+      "url": "https://open.spotify.com/track/7MhkmIAz4WiJKRxWbjuy7b"
     }
   ],
   "unique_name": "Electronic Christmas",

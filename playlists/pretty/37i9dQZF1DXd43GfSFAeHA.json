@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Vargas",
-  "num_followers": 123876,
+  "num_followers": 123913,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTM2MGE1YzVhM2Q0MDM1Nzk1YTcyYzkwNWQzODkzZGIxYTIxY2Q3",
+  "snapshot_id": "MCw0NjI1NjU1MjRiOTdiYzYxYzgwZDk2YzQ0MWU3MzlhZmZlNzNhNDlm",
   "tracks": [
     {
       "added_at": "2023-08-21 10:54:38",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-08-21 10:54:38",
       "album": {
+        "name": "ZAZA ELWASEEM",
+        "url": "https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        }
+      ],
+      "duration_ms": 128444,
+      "name": "SAM3 AKHINA",
+      "url": "https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
         "name": "HOWLS",
         "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2023-08-21 10:54:38",
       "album": {
-        "name": "ZAZA ELWASEEM",
-        "url": "https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD"
-      },
-      "artists": [
-        {
-          "name": "ZIAD ZAZA",
-          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
-        }
-      ],
-      "duration_ms": 128444,
-      "name": "SAM3 AKHINA",
-      "url": "https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
         "name": "3almdar",
         "url": "https://open.spotify.com/album/5VfsO3G05wH1Fr2ySj9AMO"
       },
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-08-21 10:54:38",
       "album": {
+        "name": "BAHZ",
+        "url": "https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "BAHZ",
+      "url": "https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
         "name": "6G",
         "url": "https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj"
       },
@@ -403,6 +419,22 @@
       "duration_ms": 176170,
       "name": "6G",
       "url": "https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
+        "name": "POUFA",
+        "url": "https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "duration_ms": 151575,
+      "name": "POUFA",
+      "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
     },
     {
       "added_at": "2023-08-21 10:54:38",
@@ -443,38 +475,6 @@
       "duration_ms": 255451,
       "name": "Babel",
       "url": "https://open.spotify.com/track/2GFTYKi8fUQLUdBrEQcx8b"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
-        "name": "BAHZ",
-        "url": "https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ"
-      },
-      "artists": [
-        {
-          "name": "Afroto",
-          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "BAHZ",
-      "url": "https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
-        "name": "POUFA",
-        "url": "https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 151575,
-      "name": "POUFA",
-      "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
     },
     {
       "added_at": "2023-08-21 10:54:38",
@@ -523,42 +523,6 @@
     {
       "added_at": "2023-08-21 10:54:38",
       "album": {
-        "name": "Gezira",
-        "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
-      },
-      "artists": [
-        {
-          "name": "Muhab",
-          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
-        }
-      ],
-      "duration_ms": 193743,
-      "name": "Gezira",
-      "url": "https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
-        "name": "SWITCH",
-        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
-      },
-      "artists": [
-        {
-          "name": "Husayn",
-          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
-        },
-        {
-          "name": "Lorenzoo",
-          "url": "https://open.spotify.com/artist/2xKNNvun5ikWnywLrU5Gr7"
-        }
-      ],
-      "duration_ms": 134685,
-      "name": "SAME3 EL HAKY",
-      "url": "https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
         "name": "S3ib",
         "url": "https://open.spotify.com/album/3AyOnjxyeUuCwoqrkrsVyI"
       },
@@ -571,6 +535,22 @@
       "duration_ms": 219498,
       "name": "S3ib",
       "url": "https://open.spotify.com/track/3Y6NRw8kCkZxMfWDXA4auF"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
+        "name": "Gezira",
+        "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "duration_ms": 193743,
+      "name": "Gezira",
+      "url": "https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh"
     },
     {
       "added_at": "2023-08-21 10:54:38",
@@ -623,6 +603,26 @@
     {
       "added_at": "2023-08-21 10:54:38",
       "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Lorenzoo",
+          "url": "https://open.spotify.com/artist/2xKNNvun5ikWnywLrU5Gr7"
+        }
+      ],
+      "duration_ms": 134685,
+      "name": "SAME3 EL HAKY",
+      "url": "https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-21 10:54:38",
       "album": {
-        "name": "Folaar",
-        "url": "https://open.spotify.com/album/1v1DawsyW2U6kfjVUUOsT6"
-      },
-      "artists": [
-        {
-          "name": "Bu Kolthoum",
-          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
-        }
-      ],
-      "duration_ms": 154520,
-      "name": "Folaar",
-      "url": "https://open.spotify.com/track/5zVJkHPZ0If65ZXTh6lxdC"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 157974,
       "name": "AFROTO TYPE BEAT",
       "url": "https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
+        "name": "Folaar",
+        "url": "https://open.spotify.com/album/1v1DawsyW2U6kfjVUUOsT6"
+      },
+      "artists": [
+        {
+          "name": "Bu Kolthoum",
+          "url": "https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B"
+        }
+      ],
+      "duration_ms": 154520,
+      "name": "Folaar",
+      "url": "https://open.spotify.com/track/5zVJkHPZ0If65ZXTh6lxdC"
     },
     {
       "added_at": "2023-08-21 10:54:38",

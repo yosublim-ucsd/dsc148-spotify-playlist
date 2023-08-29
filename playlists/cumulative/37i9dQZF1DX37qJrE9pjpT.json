@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Joh Makini",
+  "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Rosa Ree",
   "name": "Bongo Bars",
   "tracks": [
+    {
+      "album": {
+        "name": "(STRESS FREE) KHALI MAJONZI",
+        "url": "https://open.spotify.com/album/3ZKfEfyyly1eiHevgWENeP"
+      },
+      "artists": [
+        {
+          "name": "Msodoki Young Killer",
+          "url": "https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203769,
+      "name": "(STRESS FREE) KHALI MAJONZI",
+      "url": "https://open.spotify.com/track/1NSECJ25M3bai2rT9thl2F"
+    },
     {
       "album": {
         "name": "4 Real",
@@ -442,7 +460,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 173583,
       "name": "Feelin",
       "url": "https://open.spotify.com/track/4jRzr8vtAycrPT1FKUR4bq"
@@ -717,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Kesho Njoo Dar",
+        "url": "https://open.spotify.com/album/3X1Zk48cfTJrrCBp4vXYCq"
+      },
+      "artists": [
+        {
+          "name": "FreshlikeUhhh",
+          "url": "https://open.spotify.com/artist/6KsXeVjMePiwK5H33s3Xk1"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156342,
+      "name": "Kesho Njoo Dar",
+      "url": "https://open.spotify.com/track/4uIN98bcH2GA6ERDsfSn6h"
+    },
+    {
+      "album": {
         "name": "TOP SCORER OF ALL TIME EP",
         "url": "https://open.spotify.com/album/1Dh42XiejQ9Vvo6YdedWfA"
       },
@@ -811,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Mama Omollo",
+        "url": "https://open.spotify.com/album/1k0k3zRH1JdnoUUrPTjtKo"
+      },
+      "artists": [
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Mama Omollo",
+      "url": "https://open.spotify.com/track/6CLdAahXVBGgFVN0lnwN9b"
+    },
+    {
+      "album": {
         "name": "Masihara (Remix)",
         "url": "https://open.spotify.com/album/78B68CTt9neYQq7Hc7T2vI"
       },
@@ -852,7 +906,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 139885,
       "name": "Metaphysics",
       "url": "https://open.spotify.com/track/1f5XEWL9QF3RGlnBQ2ZqwL"
@@ -1040,6 +1094,28 @@
       "duration_ms": 195200,
       "name": "Nesa Nesa",
       "url": "https://open.spotify.com/track/1lAx9q2mKqMHBUqQoSm5l0"
+    },
+    {
+      "album": {
+        "name": "Noma",
+        "url": "https://open.spotify.com/album/4KaXlTUAGyMRbDakGCpCnC"
+      },
+      "artists": [
+        {
+          "name": "Fido Vato",
+          "url": "https://open.spotify.com/artist/7In4jyWZVcYypUhIFplOjC"
+        },
+        {
+          "name": "Banx",
+          "url": "https://open.spotify.com/artist/0BRornhoWDjWs0PP7Iw9va"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188630,
+      "name": "Noma",
+      "url": "https://open.spotify.com/track/5qNGorKpUoe3ZR9EKlsZ4q"
     },
     {
       "album": {
@@ -1365,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Sessions 5",
+        "url": "https://open.spotify.com/album/09QOXEdCD8Lt3yX5P3dHQF"
+      },
+      "artists": [
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325925,
+      "name": "Sessions 5",
+      "url": "https://open.spotify.com/track/1NSGCNsfJHFKRl702IXYDK"
+    },
+    {
+      "album": {
         "name": "SHAURI LAKO (Radio Edit)",
         "url": "https://open.spotify.com/album/7AfNjdsyrqIYiBNhzN6NPp"
       },
@@ -1482,7 +1576,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 119693,
       "name": "Stamala Wajada",
       "url": "https://open.spotify.com/track/28kyKItAKiVLl9G1ljmT1e"
@@ -1626,7 +1720,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 174786,
       "name": "Tawile",
       "url": "https://open.spotify.com/track/54X7kl16lgMzU0GAvlPkBg"

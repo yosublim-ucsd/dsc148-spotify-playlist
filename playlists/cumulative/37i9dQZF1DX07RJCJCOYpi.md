@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Gordo & Maluma
 
-257 songs - 13 hr 25 min
+258 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [El Malevo](https://open.spotify.com/track/4M6FeHLeqfJmkicHQsTRV8) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [El Malevo](https://open.spotify.com/album/39ukTi4wrf4DhhgN6XMXJz) | 3:00 | 2023-05-26 | 2023-07-15 |
 | [El Ritmo \(La Noche\)](https://open.spotify.com/track/1csgApWERAFNh0h2EUFnIz) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Ritmo \(La Noche\)](https://open.spotify.com/album/6Sdi8BIyvZq3v86vgNRC0w) | 4:15 | 2023-08-18 |  |
 | [El Vento](https://open.spotify.com/track/7HOpwF0tnh3jL1twtDw5JY) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [El Vento](https://open.spotify.com/album/5yfhtpnsttHCYXYNeZ4XBV) | 3:32 | 2023-06-16 |  |
+| [Elovrga](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Elovrga](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 | 2023-08-28 |  |
 | [En La Playa](https://open.spotify.com/track/19opgpEezHS9JZQakuz17y) | [Dj Ivanova](https://open.spotify.com/artist/62yiHlUntNf32RWYIiXB1c) | [Que Me Comprometa](https://open.spotify.com/album/7bnnpLhDmXQTPCOa7bvo4j) | 3:17 | 2022-11-12 | 2022-11-30 |
 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 | 2022-03-22 | 2023-01-14 |
 | [Encadenados](https://open.spotify.com/track/7E2tioPhEkj7BjmIqsa5LM) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Encadenados](https://open.spotify.com/album/4ctyfYDZy5hm3oaiwBYvJo) | 7:24 | 2023-07-07 | 2023-08-19 |

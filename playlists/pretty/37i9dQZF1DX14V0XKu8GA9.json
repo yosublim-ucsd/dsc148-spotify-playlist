@@ -1,123 +1,15 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 23768,
+  "num_followers": 23789,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDliODg4MWExZjk3NzFjMzk2NGZkZGI3ZWZmZTU5MWFhMjRiYTNi",
+  "snapshot_id": "MCxiNTg3ZTVkZWRjZTIxZjAwMjAxNWU0OGY1MjU2Y2NhNjVhNGNkOTM4",
   "tracks": [
     {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "Lonestar Luchador",
-        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 185736,
-      "name": "Hit List (with BigXthaPlug & Big Yavo)",
-      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "Gangsta Funktion (Remix)",
-        "url": "https://open.spotify.com/album/0XBexpmsFCalxURogbHfJd"
-      },
-      "artists": [
-        {
-          "name": "King Lil G",
-          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
-        },
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 125885,
-      "name": "Gangsta Funktion - Remix",
-      "url": "https://open.spotify.com/track/77Xk5jfJbFFZIvqdLmCqgU"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "Mane",
-        "url": "https://open.spotify.com/album/4ryE9bZrJ9dgZBba0v8zJg"
-      },
-      "artists": [
-        {
-          "name": "Daylow Dev",
-          "url": "https://open.spotify.com/artist/6zlqA18xsUxPkfKqiO9nt5"
-        },
-        {
-          "name": "DeeBaby",
-          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
-        },
-        {
-          "name": "OMB Bloodbath",
-          "url": "https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3"
-        }
-      ],
-      "duration_ms": 242468,
-      "name": "Mane",
-      "url": "https://open.spotify.com/track/39RnyIYjaiXUOVz2WLkHMc"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "Back Into It",
-        "url": "https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX"
-      },
-      "artists": [
-        {
-          "name": "Krystall Poppin",
-          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
-        },
-        {
-          "name": "Jenny69",
-          "url": "https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX"
-        },
-        {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Back Into It",
-      "url": "https://open.spotify.com/track/1Oj3Co069DI1DLxbVLU0au"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "Already Rich",
-        "url": "https://open.spotify.com/album/6K1GUtpgDr2wYCnKf1JOed"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 145528,
-      "name": "Already Rich",
-      "url": "https://open.spotify.com/track/61eJ7HqXGyHfmHIqJApX7v"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Johnny Dang (with Paul Wall & DRODi)",
         "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
@@ -141,7 +33,23 @@
       "url": "https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Already Rich",
+        "url": "https://open.spotify.com/album/6K1GUtpgDr2wYCnKf1JOed"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 145528,
+      "name": "Already Rich",
+      "url": "https://open.spotify.com/track/61eJ7HqXGyHfmHIqJApX7v"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Gangsta Funktion",
         "url": "https://open.spotify.com/album/1xJLCrKULv99mjawtglBO0"
@@ -173,7 +81,7 @@
       "url": "https://open.spotify.com/track/6zf4CGnqsjZ3ID3SljDTTe"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
@@ -189,7 +97,7 @@
       "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3"
@@ -205,7 +113,7 @@
       "url": "https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
@@ -221,7 +129,7 @@
       "url": "https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "It's Officially Done",
         "url": "https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD"
@@ -237,7 +145,7 @@
       "url": "https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
@@ -257,7 +165,51 @@
       "url": "https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Lonestar Luchador",
+        "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "duration_ms": 185736,
+      "name": "Hit List (with BigXthaPlug & Big Yavo)",
+      "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Gangsta Funktion (Remix)",
+        "url": "https://open.spotify.com/album/0XBexpmsFCalxURogbHfJd"
+      },
+      "artists": [
+        {
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+        },
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 125885,
+      "name": "Gangsta Funktion - Remix",
+      "url": "https://open.spotify.com/track/77Xk5jfJbFFZIvqdLmCqgU"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/4ZdpoOFdB3l1R06apBLXn8"
@@ -273,7 +225,7 @@
       "url": "https://open.spotify.com/track/7D70PoGMH9pSfzgaFpZryQ"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Life's Short",
         "url": "https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ"
@@ -297,7 +249,7 @@
       "url": "https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "BAG CHASER",
         "url": "https://open.spotify.com/album/1GTr5KHkZQiP2uddxsUzLC"
@@ -313,7 +265,7 @@
       "url": "https://open.spotify.com/track/1EMB4lzN4rvQvjQLy0ygl2"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "House Party",
         "url": "https://open.spotify.com/album/6elxYTEQrV4oEQ1MinHSqv"
@@ -333,7 +285,31 @@
       "url": "https://open.spotify.com/track/5dR46G1RjWElFDKTe9rGZA"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Back Into It",
+        "url": "https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX"
+      },
+      "artists": [
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        },
+        {
+          "name": "Jenny69",
+          "url": "https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX"
+        },
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Back Into It",
+      "url": "https://open.spotify.com/track/1Oj3Co069DI1DLxbVLU0au"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Little Homie",
         "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
@@ -353,7 +329,51 @@
       "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Mane",
+        "url": "https://open.spotify.com/album/4ryE9bZrJ9dgZBba0v8zJg"
+      },
+      "artists": [
+        {
+          "name": "Daylow Dev",
+          "url": "https://open.spotify.com/artist/6zlqA18xsUxPkfKqiO9nt5"
+        },
+        {
+          "name": "DeeBaby",
+          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
+        },
+        {
+          "name": "OMB Bloodbath",
+          "url": "https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3"
+        }
+      ],
+      "duration_ms": 242468,
+      "name": "Mane",
+      "url": "https://open.spotify.com/track/39RnyIYjaiXUOVz2WLkHMc"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Chingon (with Peso Peso)",
+        "url": "https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+        }
+      ],
+      "duration_ms": 125930,
+      "name": "Chingon (with Peso Peso)",
+      "url": "https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Pozole",
         "url": "https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3"
@@ -393,59 +413,7 @@
       "url": "https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
-      },
-      "artists": [
-        {
-          "name": "Conejo",
-          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "For the Hood",
-        "url": "https://open.spotify.com/album/72Qs7WVuNMwizR3mI6vEME"
-      },
-      "artists": [
-        {
-          "name": "Sadboy Loko",
-          "url": "https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD"
-        },
-        {
-          "name": "DoggyStyleeee",
-          "url": "https://open.spotify.com/artist/5IqBRBBh8xpnrvE0lkFAFb"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Good Times Bad Times",
-      "url": "https://open.spotify.com/track/1GxDH1lbE3q3wg9SWXsTHg"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi"
@@ -461,51 +429,23 @@
       "url": "https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j"
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
       },
       "artists": [
         {
-          "name": "Alexcis",
-          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
-        },
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        },
-        {
-          "name": "Tony Choc",
-          "url": "https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE"
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy"
+      "duration_ms": 165214,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "MISAWA )",
-        "url": "https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT"
-      },
-      "artists": [
-        {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
-        },
-        {
-          "name": "J(X)",
-          "url": "https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "MISAWA )",
-      "url": "https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Jugglin (feat. Mustard & Baby Stone Gorillas)",
         "url": "https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1"
@@ -533,7 +473,107 @@
       "url": "https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "For the Hood",
+        "url": "https://open.spotify.com/album/72Qs7WVuNMwizR3mI6vEME"
+      },
+      "artists": [
+        {
+          "name": "Sadboy Loko",
+          "url": "https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD"
+        },
+        {
+          "name": "DoggyStyleeee",
+          "url": "https://open.spotify.com/artist/5IqBRBBh8xpnrvE0lkFAFb"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Good Times Bad Times",
+      "url": "https://open.spotify.com/track/1GxDH1lbE3q3wg9SWXsTHg"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j"
+      },
+      "artists": [
+        {
+          "name": "Alexcis",
+          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
+        },
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        },
+        {
+          "name": "Tony Choc",
+          "url": "https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "MISAWA )",
+        "url": "https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT"
+      },
+      "artists": [
+        {
+          "name": "Speak",
+          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
+        },
+        {
+          "name": "J(X)",
+          "url": "https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "MISAWA )",
+      "url": "https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
+      "album": {
+        "name": "Rich Remedy",
+        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        },
+        {
+          "name": "Tweak on the Beat",
+          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
+        }
+      ],
+      "duration_ms": 115356,
+      "name": "Rich Remedy",
+      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
+    },
+    {
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Parkside Angle",
         "url": "https://open.spotify.com/album/14jvG7xYUt7WDR7G0lQc01"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/05UmeMHqm9OzkxjQiLL4BX"
     },
     {
-      "added_at": "2023-07-28 04:05:08",
+      "added_at": "2023-08-28 14:04:25",
       "album": {
         "name": "Hometown (Remix)",
         "url": "https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j"
@@ -571,50 +611,6 @@
       "duration_ms": 156966,
       "name": "Hometown - Remix",
       "url": "https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "Rich Remedy",
-        "url": "https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
-        }
-      ],
-      "duration_ms": 115356,
-      "name": "Rich Remedy",
-      "url": "https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw"
-    },
-    {
-      "added_at": "2023-07-28 04:05:08",
-      "album": {
-        "name": "Would You Still Love Me",
-        "url": "https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2"
-      },
-      "artists": [
-        {
-          "name": "Emilio Rojas",
-          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
-        },
-        {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
-        },
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Would You Still Love Me",
-      "url": "https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

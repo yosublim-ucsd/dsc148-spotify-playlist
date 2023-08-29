@@ -1,15 +1,15 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 15123,
+  "num_followers": 15147,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZThkZjZhNWUwMjY4NWFkNjYzNzA2OTk1MTM3NDVlOWI5Zjk0ZWVl",
+  "snapshot_id": "MCxkNGZhMzc1MjBlNzdjOGNiODAxY2Q5NzA1NDg0NjFlNzNmMzRhY2Q5",
   "tracks": [
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
         "name": "Lagan",
         "url": "https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R"
@@ -25,79 +25,7 @@
       "url": "https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Punyachi Maina",
-        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
-      },
-      "artists": [
-        {
-          "name": "Dj Abhijeet",
-          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
-        }
-      ],
-      "duration_ms": 96052,
-      "name": "Punyachi Maina",
-      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Mauli",
-        "url": "https://open.spotify.com/album/6T9tLpKAWJAzez3LvV5UXL"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 214536,
-      "name": "Dhuvun Taak",
-      "url": "https://open.spotify.com/track/68NrdN8PgrBr3U4lQWGKCU"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 305805,
-      "name": "Mauli Mauli",
-      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Govyachya Kinaryav",
-        "url": "https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv"
-      },
-      "artists": [
-        {
-          "name": "Shubhangii Kedar",
-          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
-        },
-        {
-          "name": "Pravin Koli",
-          "url": "https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU"
-        },
-        {
-          "name": "Rajneesh Patel",
-          "url": "https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Govyachya Kinaryav",
-      "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
         "name": "Pawankhind",
         "url": "https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em"
@@ -117,171 +45,7 @@
       "url": "https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Meri Madhubala",
-        "url": "https://open.spotify.com/album/1HBEFg3sdFGetJHDcFXoqh"
-      },
-      "artists": [
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 238274,
-      "name": "Meri Madhubala",
-      "url": "https://open.spotify.com/track/2dIWPmnbgVn6lmpK809l4H"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Angar Bhangar Nay Rr - Single",
-        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
-      },
-      "artists": [
-        {
-          "name": "Madhur Milind Shinde",
-          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Angaar Bhangar Nai Rr",
-      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Punyachi Maina Remix",
-        "url": "https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK"
-      },
-      "artists": [
-        {
-          "name": "Dj Lucky Yash Nsk",
-          "url": "https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY"
-        }
-      ],
-      "duration_ms": 165851,
-      "name": "Punyachi Maina Remix",
-      "url": "https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Chandramukhi",
-        "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 315653,
-      "name": "Chandra (Featuring. Shreya Ghoshal)",
-      "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Hey Pavlaay",
-        "url": "https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P"
-      },
-      "artists": [
-        {
-          "name": "Preet Bandre",
-          "url": "https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2"
-        },
-        {
-          "name": "Dhruvan Moorthy",
-          "url": "https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Hey Pavlaay",
-      "url": "https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Jatra (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv"
-      },
-      "artists": [
-        {
-          "name": "Ajay",
-          "url": "https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH"
-        }
-      ],
-      "duration_ms": 323184,
-      "name": "Ye Go Ye Ye Maina",
-      "url": "https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Ishkkachi Nauka",
-        "url": "https://open.spotify.com/album/2OV0JqiBDcMTp5DQ1G7S3F"
-      },
-      "artists": [
-        {
-          "name": "Shubhangii Kedar",
-          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
-        },
-        {
-          "name": "Keval Walanj",
-          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
-        }
-      ],
-      "duration_ms": 244934,
-      "name": "Ishkkachi Nauka",
-      "url": "https://open.spotify.com/track/1u73O8iFVCg57FxwGbfwic"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Aika Dajiba",
-        "url": "https://open.spotify.com/album/5rJeNTeUR4l1XowSGY2zTa"
-      },
-      "artists": [
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Aika Dajiba",
-      "url": "https://open.spotify.com/track/4UBC20ayn5J864fPoLp7GS"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Maharashtra Shaheer",
-        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 223831,
-      "name": "Baharla Ha Madhumas",
-      "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
         "name": "Galavar Khali Remix",
         "url": "https://open.spotify.com/album/5dB5e1CvKOg94XcKEWp0KC"
@@ -297,279 +61,167 @@
       "url": "https://open.spotify.com/track/3w0iPdts3DlIelMjWX7LrV"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
-        "name": "Majhi Baay Go",
-        "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
-      },
-      "artists": [
-        {
-          "name": "Prashant Nakti",
-          "url": "https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc"
-        },
-        {
-          "name": "Sonali Sonawane",
-          "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
-        },
-        {
-          "name": "Keval Walanj",
-          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
-        }
-      ],
-      "duration_ms": 268242,
-      "name": "Majhi Baay Go",
-      "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Once More Laav",
-        "url": "https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Shinde",
-          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
-        }
-      ],
-      "duration_ms": 177792,
-      "name": "Once More Laav",
-      "url": "https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Zindagi Virat",
-        "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
-      },
-      "artists": [
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "Malhar",
-      "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Mi Naadkhula",
-        "url": "https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l"
-      },
-      "artists": [
-        {
-          "name": "Prashant Nakti",
-          "url": "https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc"
-        },
-        {
-          "name": "Adarsh Shinde",
-          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
-        },
-        {
-          "name": "Sonali Sonawane",
-          "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
-        },
-        {
-          "name": "Vishal Phale",
-          "url": "https://open.spotify.com/artist/5WRKRK4jQ2b1fGYLLDOmqo"
-        },
-        {
-          "name": "Pratibha Joshi",
-          "url": "https://open.spotify.com/artist/50Uud5UqMWgsGHqqUoMTcx"
-        }
-      ],
-      "duration_ms": 259894,
-      "name": "Mi Naadkhula",
-      "url": "https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Ajay - Atul Hits",
-        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
-      },
-      "artists": [
-        {
-          "name": "Kunal Ganjawala",
-          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
-        }
-      ],
-      "duration_ms": 272226,
-      "name": "Baaygo Baaygo - From \"Ringa Ringa\"",
-      "url": "https://open.spotify.com/track/5clzHGXtLse37TfRK3puiq"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Ved (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 231165,
-      "name": "Ved Lavlay",
-      "url": "https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Aapli Yaari (feat. Adarsh Shinde & Sonali Sonawane)",
-        "url": "https://open.spotify.com/album/37wGTZ4QC8wVqmIRr8x5Ha"
-      },
-      "artists": [
-        {
-          "name": "Prashant Nakti",
-          "url": "https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc"
-        }
-      ],
-      "duration_ms": 294545,
-      "name": "Aapli Yaari (feat. Adarsh Shinde & Sonali Sonawane)",
-      "url": "https://open.spotify.com/track/22nv3KXCCog0nWTljg60ax"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Ajay - Atul Hits",
-        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
-      },
-      "artists": [
-        {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
-        },
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 306464,
-      "name": "Kombdi Palali - From \"Jatra\"",
-      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Angaat Aalaya (From \"Zombivli\") - Single",
-        "url": "https://open.spotify.com/album/5x16mBjk8q3rJZmgV2aUS8"
-      },
-      "artists": [
-        {
-          "name": "Rohan Pradhan",
-          "url": "https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce"
-        },
-        {
-          "name": "Rohan Rohan",
-          "url": "https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE"
-        }
-      ],
-      "duration_ms": 226008,
-      "name": "Angaat Aalaya (From \"Zombivli\")",
-      "url": "https://open.spotify.com/track/3MJXmwTHOh3F1xgvnV7kCl"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Maharashtra Shaheer",
-        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Jayesh Khare",
-          "url": "https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U"
-        },
-        {
-          "name": "Mayur Sukale",
-          "url": "https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 304001,
-      "name": "Gau Nako Kisna",
-      "url": "https://open.spotify.com/track/5frla1hLU3JgNbj3O3xb6M"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "O Sheth (Dj Remix)",
-        "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
-      },
-      "artists": [
-        {
-          "name": "Praniket Khune",
-          "url": "https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ"
-        },
-        {
-          "name": "Sandhya Keshe",
-          "url": "https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak"
-        },
-        {
-          "name": "Umesh Gawali",
-          "url": "https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "O Sheth (Dj Remix)",
-      "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "YZ",
-        "url": "https://open.spotify.com/album/5Wmz2V8EirSbGidydb4u9o"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Shinde",
-          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "O kaka",
-      "url": "https://open.spotify.com/track/3jg1uyXTLVwkdQJpMSQP0K"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Zenda",
-        "url": "https://open.spotify.com/album/2SDX8VUb6xrQ5zUyu22zmO"
+        "name": "Meri Madhubala",
+        "url": "https://open.spotify.com/album/1HBEFg3sdFGetJHDcFXoqh"
       },
       "artists": [
         {
           "name": "Avadhoot Gupte",
           "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        }
+      ],
+      "duration_ms": 238274,
+      "name": "Meri Madhubala",
+      "url": "https://open.spotify.com/track/2dIWPmnbgVn6lmpK809l4H"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Pinnak",
+        "url": "https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw"
+      },
+      "artists": [
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        }
+      ],
+      "duration_ms": 390321,
+      "name": "Pinnak",
+      "url": "https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Masuta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Shinde",
+          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
         },
+        {
+          "name": "Aboli Girhe",
+          "url": "https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM"
+        }
+      ],
+      "duration_ms": 282315,
+      "name": "Waju De Waju De",
+      "url": "https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Raagini Kavathekar",
+          "url": "https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV"
+        }
+      ],
+      "duration_ms": 198490,
+      "name": "Srivalli Marathi Version",
+      "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Rege (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        }
+      ],
+      "duration_ms": 307304,
+      "name": "Shitti Wajali Gaadi Sutali",
+      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Shantabai",
+        "url": "https://open.spotify.com/album/50vy5OvF9LLor9cAHW5wM1"
+      },
+      "artists": [
+        {
+          "name": "Sanjay Londe",
+          "url": "https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Shantabai Dj",
+      "url": "https://open.spotify.com/track/0UPVbrPxCWR41qk9uG75gJ"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Girlz",
+        "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
+      },
+      "artists": [
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        },
+        {
+          "name": "Kavita Raam",
+          "url": "https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS"
+        },
+        {
+          "name": "Mugdha Karhade",
+          "url": "https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b"
+        }
+      ],
+      "duration_ms": 216166,
+      "name": "Aaichya Gavat",
+      "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Wat Mazi Baghatoy Rikshavala",
+        "url": "https://open.spotify.com/album/1oNTgjkByWIbvZhMeW5xbP"
+      },
+      "artists": [
+        {
+          "name": "Reshma Sonawane",
+          "url": "https://open.spotify.com/artist/0us5qLUz4waTwJ7hGoBrxl"
+        }
+      ],
+      "duration_ms": 226491,
+      "name": "Baghtoy Rikshawala Ga Waat Mazhi Baghatoy Rikshawala",
+      "url": "https://open.spotify.com/track/3l8vEUmm8vh4QNoF9TeMIp"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Mast Challay Amcha",
+        "url": "https://open.spotify.com/album/5koavjbloIXwCFa69roYfm"
+      },
+      "artists": [
         {
           "name": "Vaishali Samant",
           "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
         }
       ],
-      "duration_ms": 237010,
-      "name": "Patil Aala",
-      "url": "https://open.spotify.com/track/7gb8tP4sFXyFNxn2I6eEjV"
+      "duration_ms": 295140,
+      "name": "Mast Challay Amcha",
+      "url": "https://open.spotify.com/track/0A4G85BqIqWGBbCvk8xzZ8"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
         "name": "Kajwa",
         "url": "https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0"
@@ -601,28 +253,264 @@
       "url": "https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
-        "name": "Mast Challay Amcha",
-        "url": "https://open.spotify.com/album/5koavjbloIXwCFa69roYfm"
+        "name": "Zenda",
+        "url": "https://open.spotify.com/album/2SDX8VUb6xrQ5zUyu22zmO"
       },
       "artists": [
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        },
         {
           "name": "Vaishali Samant",
           "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
         }
       ],
-      "duration_ms": 295140,
-      "name": "Mast Challay Amcha",
-      "url": "https://open.spotify.com/track/0A4G85BqIqWGBbCvk8xzZ8"
+      "duration_ms": 237010,
+      "name": "Patil Aala",
+      "url": "https://open.spotify.com/track/7gb8tP4sFXyFNxn2I6eEjV"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
-        "name": "Majhi Navri",
-        "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
+        "name": "YZ",
+        "url": "https://open.spotify.com/album/5Wmz2V8EirSbGidydb4u9o"
       },
       "artists": [
+        {
+          "name": "Adarsh Shinde",
+          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "O kaka",
+      "url": "https://open.spotify.com/track/3jg1uyXTLVwkdQJpMSQP0K"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "O Sheth (Dj Remix)",
+        "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
+      },
+      "artists": [
+        {
+          "name": "Praniket Khune",
+          "url": "https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ"
+        },
+        {
+          "name": "Sandhya Keshe",
+          "url": "https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak"
+        },
+        {
+          "name": "Umesh Gawali",
+          "url": "https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "O Sheth (Dj Remix)",
+      "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Maharashtra Shaheer",
+        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Jayesh Khare",
+          "url": "https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U"
+        },
+        {
+          "name": "Mayur Sukale",
+          "url": "https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 304001,
+      "name": "Gau Nako Kisna",
+      "url": "https://open.spotify.com/track/5frla1hLU3JgNbj3O3xb6M"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Angaat Aalaya (From \"Zombivli\") - Single",
+        "url": "https://open.spotify.com/album/5x16mBjk8q3rJZmgV2aUS8"
+      },
+      "artists": [
+        {
+          "name": "Rohan Pradhan",
+          "url": "https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce"
+        },
+        {
+          "name": "Rohan Rohan",
+          "url": "https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE"
+        }
+      ],
+      "duration_ms": 226008,
+      "name": "Angaat Aalaya (From \"Zombivli\")",
+      "url": "https://open.spotify.com/track/3MJXmwTHOh3F1xgvnV7kCl"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Ajay - Atul Hits",
+        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
+      },
+      "artists": [
+        {
+          "name": "Anand Shinde",
+          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+        },
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 306464,
+      "name": "Kombdi Palali - From \"Jatra\"",
+      "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Aapli Yaari (feat. Adarsh Shinde & Sonali Sonawane)",
+        "url": "https://open.spotify.com/album/37wGTZ4QC8wVqmIRr8x5Ha"
+      },
+      "artists": [
+        {
+          "name": "Prashant Nakti",
+          "url": "https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc"
+        }
+      ],
+      "duration_ms": 294545,
+      "name": "Aapli Yaari (feat. Adarsh Shinde & Sonali Sonawane)",
+      "url": "https://open.spotify.com/track/22nv3KXCCog0nWTljg60ax"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Ved (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 231165,
+      "name": "Ved Lavlay",
+      "url": "https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Ajay - Atul Hits",
+        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
+      },
+      "artists": [
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        }
+      ],
+      "duration_ms": 272226,
+      "name": "Baaygo Baaygo - From \"Ringa Ringa\"",
+      "url": "https://open.spotify.com/track/5clzHGXtLse37TfRK3puiq"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Mi Naadkhula",
+        "url": "https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l"
+      },
+      "artists": [
+        {
+          "name": "Prashant Nakti",
+          "url": "https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc"
+        },
+        {
+          "name": "Adarsh Shinde",
+          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
+        },
+        {
+          "name": "Sonali Sonawane",
+          "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
+        },
+        {
+          "name": "Vishal Phale",
+          "url": "https://open.spotify.com/artist/5WRKRK4jQ2b1fGYLLDOmqo"
+        },
+        {
+          "name": "Pratibha Joshi",
+          "url": "https://open.spotify.com/artist/50Uud5UqMWgsGHqqUoMTcx"
+        }
+      ],
+      "duration_ms": 259894,
+      "name": "Mi Naadkhula",
+      "url": "https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Zindagi Virat",
+        "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "Malhar",
+      "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Once More Laav",
+        "url": "https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Shinde",
+          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
+        }
+      ],
+      "duration_ms": 177792,
+      "name": "Once More Laav",
+      "url": "https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Majhi Baay Go",
+        "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
+      },
+      "artists": [
+        {
+          "name": "Prashant Nakti",
+          "url": "https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc"
+        },
         {
           "name": "Sonali Sonawane",
           "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
@@ -632,84 +520,232 @@
           "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Majhi Navri",
-      "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
+      "duration_ms": 268242,
+      "name": "Majhi Baay Go",
+      "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
-        "name": "Wat Mazi Baghatoy Rikshavala",
-        "url": "https://open.spotify.com/album/1oNTgjkByWIbvZhMeW5xbP"
+        "name": "Maharashtra Shaheer",
+        "url": "https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk"
       },
       "artists": [
         {
-          "name": "Reshma Sonawane",
-          "url": "https://open.spotify.com/artist/0us5qLUz4waTwJ7hGoBrxl"
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         }
       ],
-      "duration_ms": 226491,
-      "name": "Baghtoy Rikshawala Ga Waat Mazhi Baghatoy Rikshawala",
-      "url": "https://open.spotify.com/track/3l8vEUmm8vh4QNoF9TeMIp"
+      "duration_ms": 223831,
+      "name": "Baharla Ha Madhumas",
+      "url": "https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
-        "name": "Girlz",
-        "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
+        "name": "Aika Dajiba",
+        "url": "https://open.spotify.com/album/5rJeNTeUR4l1XowSGY2zTa"
       },
       "artists": [
         {
           "name": "Vaishali Samant",
           "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        },
-        {
-          "name": "Kavita Raam",
-          "url": "https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS"
-        },
-        {
-          "name": "Mugdha Karhade",
-          "url": "https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b"
         }
       ],
-      "duration_ms": 216166,
-      "name": "Aaichya Gavat",
-      "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
+      "duration_ms": 284653,
+      "name": "Aika Dajiba",
+      "url": "https://open.spotify.com/track/4UBC20ayn5J864fPoLp7GS"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
-        "name": "Shantabai",
-        "url": "https://open.spotify.com/album/50vy5OvF9LLor9cAHW5wM1"
+        "name": "Ishkkachi Nauka",
+        "url": "https://open.spotify.com/album/2OV0JqiBDcMTp5DQ1G7S3F"
       },
       "artists": [
         {
-          "name": "Sanjay Londe",
-          "url": "https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ"
+          "name": "Shubhangii Kedar",
+          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
+        },
+        {
+          "name": "Keval Walanj",
+          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
         }
       ],
-      "duration_ms": 179573,
-      "name": "Shantabai Dj",
-      "url": "https://open.spotify.com/track/0UPVbrPxCWR41qk9uG75gJ"
+      "duration_ms": 244934,
+      "name": "Ishkkachi Nauka",
+      "url": "https://open.spotify.com/track/1u73O8iFVCg57FxwGbfwic"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
-        "name": "Rege (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP"
+        "name": "Jatra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv"
       },
       "artists": [
         {
-          "name": "Anand Shinde",
-          "url": "https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd"
+          "name": "Ajay",
+          "url": "https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH"
         }
       ],
-      "duration_ms": 307304,
-      "name": "Shitti Wajali Gaadi Sutali",
-      "url": "https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy"
+      "duration_ms": 323184,
+      "name": "Ye Go Ye Ye Maina",
+      "url": "https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Hey Pavlaay",
+        "url": "https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P"
+      },
+      "artists": [
+        {
+          "name": "Preet Bandre",
+          "url": "https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2"
+        },
+        {
+          "name": "Dhruvan Moorthy",
+          "url": "https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Hey Pavlaay",
+      "url": "https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Chandramukhi",
+        "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 315653,
+      "name": "Chandra (Featuring. Shreya Ghoshal)",
+      "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Punyachi Maina Remix",
+        "url": "https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK"
+      },
+      "artists": [
+        {
+          "name": "Dj Lucky Yash Nsk",
+          "url": "https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY"
+        }
+      ],
+      "duration_ms": 165851,
+      "name": "Punyachi Maina Remix",
+      "url": "https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Angar Bhangar Nay Rr - Single",
+        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
+      },
+      "artists": [
+        {
+          "name": "Madhur Milind Shinde",
+          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Angaar Bhangar Nai Rr",
+      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Govyachya Kinaryav",
+        "url": "https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv"
+      },
+      "artists": [
+        {
+          "name": "Shubhangii Kedar",
+          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
+        },
+        {
+          "name": "Pravin Koli",
+          "url": "https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU"
+        },
+        {
+          "name": "Rajneesh Patel",
+          "url": "https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Govyachya Kinaryav",
+      "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 305805,
+      "name": "Mauli Mauli",
+      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Mauli",
+        "url": "https://open.spotify.com/album/6T9tLpKAWJAzez3LvV5UXL"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 214536,
+      "name": "Dhuvun Taak",
+      "url": "https://open.spotify.com/track/68NrdN8PgrBr3U4lQWGKCU"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
+      "album": {
+        "name": "Punyachi Maina",
+        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
+      },
+      "artists": [
+        {
+          "name": "Dj Abhijeet",
+          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
+        }
+      ],
+      "duration_ms": 96052,
+      "name": "Punyachi Maina",
+      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
+    },
+    {
+      "added_at": "2023-08-28 09:27:06",
       "album": {
         "name": "Jaal Jaal (From \"Chowk\")",
         "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
@@ -733,60 +769,24 @@
       "url": "https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ"
     },
     {
-      "added_at": "2023-08-17 07:56:12",
+      "added_at": "2023-08-28 09:27:06",
       "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
+        "name": "Majhi Navri",
+        "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
       },
       "artists": [
         {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          "name": "Sonali Sonawane",
+          "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
         },
         {
-          "name": "Raagini Kavathekar",
-          "url": "https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV"
+          "name": "Keval Walanj",
+          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
         }
       ],
-      "duration_ms": 198490,
-      "name": "Srivalli Marathi Version",
-      "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Masuta (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Shinde",
-          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
-        },
-        {
-          "name": "Aboli Girhe",
-          "url": "https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM"
-        }
-      ],
-      "duration_ms": 282315,
-      "name": "Waju De Waju De",
-      "url": "https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd"
-    },
-    {
-      "added_at": "2023-08-17 07:56:12",
-      "album": {
-        "name": "Pinnak",
-        "url": "https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw"
-      },
-      "artists": [
-        {
-          "name": "SAMBATA",
-          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
-        }
-      ],
-      "duration_ms": 390321,
-      "name": "Pinnak",
-      "url": "https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj"
+      "duration_ms": 240000,
+      "name": "Majhi Navri",
+      "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
     }
   ],
   "unique_name": "Marathi Workout",

@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-647 songs - 1 day 5 hr 6 min
+648 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 |  |
 | [go](https://open.spotify.com/track/6AnnJQNeDbWQmg44wzXCqh) | [Lenn](https://open.spotify.com/artist/6FMwszdpTXml16RrrJyXqh) | [go](https://open.spotify.com/album/0C7u6OZoWYJw583Jho514V) | 1:50 | 2021-12-23 | 2022-07-19 |
 | [Gohongi Blues](https://open.spotify.com/track/50EahQA09yB4uLGJIG4awJ) | [H¥NOK¥](https://open.spotify.com/artist/4hCf7jwZpqSCKNqr8ZjR7k) | [Gohongi Blues](https://open.spotify.com/album/1DJEEa7D4AhbU2PRbbaE3i) | 1:33 | 2021-12-23 | 2022-05-19 |
-| [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 | 2023-08-17 |  |
+| [Goldrush](https://open.spotify.com/track/0tvxDyHSw1Z5Ohd3ZGua19) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/6ut7wZruXbu6NRLBKkh6td) | 2:08 | 2023-08-17 | 2023-08-29 |
+| [Goldrush](https://open.spotify.com/track/1BdfLgmoreHU2chfGQHSUg) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [GOLDRUSH](https://open.spotify.com/album/5GFs9h5XRszs1Q768Aagsz) | 2:08 | 2023-08-24 |  |
 | [Goldrush](https://open.spotify.com/track/2G9CaCae1o6JoiaUs1Oj4c) | [OVERFALL](https://open.spotify.com/artist/3hEh8yUkXDSQwQLd63WRA2), [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY), [ShinyAppLe](https://open.spotify.com/artist/4TSEKs1UaAWhjGiLBekYhC) | [Goldrush](https://open.spotify.com/album/7pn2J8yn20xQulbxHLI0pk) | 2:08 | 2023-08-17 | 2023-08-19 |
 | [Good Morning My Dear](https://open.spotify.com/track/4EQ5UCyLK2Qg1g3agHdlsO) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [HOME](https://open.spotify.com/album/4saAi1XXXyNnwwIpnO6UDK) | 1:47 | 2022-06-02 | 2022-07-23 |
 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 | 2021-12-23 |  |

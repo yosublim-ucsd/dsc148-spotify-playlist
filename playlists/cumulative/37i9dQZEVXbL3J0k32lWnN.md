@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,181 songs - 2 day 13 hr 43 min
+1,182 songs - 2 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-13 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-26 | 2022-04-10 |
 | [Chart](https://open.spotify.com/track/705n1V0dBe4UOZC1oaah9a) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [LÆNGE LEVE](https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7) | 3:09 | 2023-01-28 | 2023-02-12 |
-| [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 | 2023-08-26 |  |
+| [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:42 | 2023-08-26 | 2023-08-29 |
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-15 | 2023-04-17 |
 | [Chemical](https://open.spotify.com/track/5TOgxgZrIZzvaKg9r2bvc2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [The Diamond Collection](https://open.spotify.com/album/1DsM0AOBGPPIDp0gWN8Zb4) | 3:04 | 2023-04-22 | 2023-04-30 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 | 2023-05-20 |
@@ -925,6 +925,7 @@
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-23 |
 | [Sender mig til månen \(feat\. Kidd, TopGunn, Klumben & ELOQ\)](https://open.spotify.com/track/0qUlNrJSXzvOvSCOqVwZdc) | [Cheff Records](https://open.spotify.com/artist/0i7DYzkG8u0ScquFnDUuvT), [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [Klumben](https://open.spotify.com/artist/6l2TcYHKMr6XQn5hxfD48E), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Sender mig til månen \(feat\. Kidd, TopGunn, Klumben & ELOQ\)](https://open.spotify.com/album/5jlaosUVan5Wr3mo0cCF1Y) | 2:27 | 2021-03-27\* | 2021-08-01 |
 | [Senere \(feat\. Kidd, TopGunn, Klumben & ELOQ\)](https://open.spotify.com/track/0FVdUoCbQuwr73hk7CAm6s) | [Cheff Records](https://open.spotify.com/artist/0i7DYzkG8u0ScquFnDUuvT), [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [Klumben](https://open.spotify.com/artist/6l2TcYHKMr6XQn5hxfD48E), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Senere \(feat\. Kidd, TopGunn, Klumben & ELOQ\)](https://open.spotify.com/album/0c8GvK9P4sNL7qB0ezzyLl) | 3:11 | 2021-07-11 | 2021-07-25 |
+| [Senorita](https://open.spotify.com/track/2cWTzLARzkmJXlI9M4QhFW) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [Senorita](https://open.spotify.com/album/1cJuFNvhqXYwUX2DN6fm69) | 2:20 | 2023-08-28 |  |
 | [SEXY BACK](https://open.spotify.com/track/3bdPWMmYVzi0Ri7yxX8J3b) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [SEXY BACK](https://open.spotify.com/album/4hGpzHBB7tQbG8ipVV5OsC) | 2:19 | 2022-06-11 | 2022-07-10 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-17 | 2023-02-05 |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2022-08-05 | 2022-08-10 |

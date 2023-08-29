@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 3349,
+  "num_followers": 3373,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZmZTc0OTAzYzRhZjE4N2Y1MGI0NjU1ZGYwMDJhNDQwZDExMTA3",
+  "snapshot_id": "MCxkMzVkOTJmNjE5MTE4MzJkYjgzMjJmYzhiOWI0YjIwZjdjZDBhNTk2",
   "tracks": [
     {
       "added_at": "2023-08-10 23:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "This Far by Grace",
-        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
-      },
-      "artists": [
-        {
-          "name": "Pastor Edwin Dadson",
-          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
-        }
-      ],
-      "duration_ms": 293500,
-      "name": "This Far by Grace",
-      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
@@ -279,34 +263,18 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Victory Chant",
-        "url": "https://open.spotify.com/album/2DQxNMyBTK6uJ9hULpuMx1"
+        "name": "This Far by Grace",
+        "url": "https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR"
       },
       "artists": [
         {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+          "name": "Pastor Edwin Dadson",
+          "url": "https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Victory Chant",
-      "url": "https://open.spotify.com/track/4ubQtD1YBCPCcM3swE129H"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
+      "duration_ms": 293500,
+      "name": "This Far by Grace",
+      "url": "https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -343,6 +311,38 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
+        "name": "Victory Chant",
+        "url": "https://open.spotify.com/album/2DQxNMyBTK6uJ9hULpuMx1"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Victory Chant",
+      "url": "https://open.spotify.com/track/4ubQtD1YBCPCcM3swE129H"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -355,6 +355,22 @@
       "duration_ms": 324440,
       "name": "W' asue Me",
       "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -395,22 +411,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Okrokrohene",
         "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
       },
@@ -423,38 +423,6 @@
       "duration_ms": 366107,
       "name": "Okrokrohene",
       "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 264788,
-      "name": "Awurade Ye",
-      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
-      },
-      "artists": [
-        {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
-        }
-      ],
-      "duration_ms": 203598,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -475,6 +443,38 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
+      },
+      "artists": [
+        {
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+        }
+      ],
+      "duration_ms": 203598,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 264788,
+      "name": "Awurade Ye",
+      "url": "https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
         "name": "Live in Kumasi",
         "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
       },
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+        "name": "Me Dan Wo (feat. Kweku Teye)",
+        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
       },
       "artists": [
         {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Kweku Teye",
+          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
         }
       ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+      "duration_ms": 372240,
+      "name": "Me Dan Wo (feat. Kweku Teye)",
+      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -519,6 +523,22 @@
       "duration_ms": 259752,
       "name": "Show Them",
       "url": "https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "Efiri Nyame",
+        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
+      },
+      "artists": [
+        {
+          "name": "Ceccy Twum",
+          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Me Ko M'Anim",
+      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -555,26 +575,6 @@
       "duration_ms": 368182,
       "name": "Lord Have Your Way",
       "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
-        "name": "Me Dan Wo (feat. Kweku Teye)",
-        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Kweku Teye",
-          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
-        }
-      ],
-      "duration_ms": 372240,
-      "name": "Me Dan Wo (feat. Kweku Teye)",
-      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "MOVE VOL 1",
-        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
-      },
-      "artists": [
-        {
-          "name": "Perez Musik",
-          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
-        }
-      ],
-      "duration_ms": 433646,
-      "name": "Glory Chants",
-      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 203189,
       "name": "GOD NEVER FAILS",
       "url": "https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "MOVE VOL 1",
+        "url": "https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck"
+      },
+      "artists": [
+        {
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        }
+      ],
+      "duration_ms": 433646,
+      "name": "Glory Chants",
+      "url": "https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb"
     },
     {
       "added_at": "2023-08-10 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-10 23:00:00",
       "album": {
-        "name": "My Alabaster",
-        "url": "https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl"
-      },
-      "artists": [
-        {
-          "name": "DenniS",
-          "url": "https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ"
-        }
-      ],
-      "duration_ms": 514302,
-      "name": "My Alabaster",
-      "url": "https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y"
-    },
-    {
-      "added_at": "2023-08-10 23:00:00",
-      "album": {
         "name": "Amenuveve (Grace)",
         "url": "https://open.spotify.com/album/2YVcZs92qwPnKFo0duGv6f"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 408235,
       "name": "Amenuveve (Grace)",
       "url": "https://open.spotify.com/track/7JQjnwndY82ga5gWjTzTMC"
+    },
+    {
+      "added_at": "2023-08-10 23:00:00",
+      "album": {
+        "name": "My Alabaster",
+        "url": "https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl"
+      },
+      "artists": [
+        {
+          "name": "DenniS",
+          "url": "https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ"
+        }
+      ],
+      "duration_ms": 514302,
+      "name": "My Alabaster",
+      "url": "https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y"
     }
   ],
   "unique_name": "Aseda",

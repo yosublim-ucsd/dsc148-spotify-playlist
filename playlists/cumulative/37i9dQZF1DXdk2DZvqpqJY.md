@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-371 songs - 23 hr 5 min
+372 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Electric Eclectic](https://open.spotify.com/track/4B2xWDcBUtyiifvBnXxOnE) | [Moralify](https://open.spotify.com/artist/4Ld9jKPphcNhjVH0LT2vQV) | [Electric Eclectic](https://open.spotify.com/album/6dZKFcUf0qHvfTERa5i7ZF) | 3:46 | 2022-03-03 | 2022-06-03 |
 | [Elegance](https://open.spotify.com/track/2GuALvh4GVknl4YeUbUnSj) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Elegance](https://open.spotify.com/album/26VKSuyzGXdfcBlU8Tsy2q) | 2:27 | 2022-11-23 | 2023-01-20 |
 | [Elegance](https://open.spotify.com/track/6aafuZXImh9Yvgix3ZhMIf) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Elegance](https://open.spotify.com/album/1QF0DKX7Qa1BTzXI04N5MR) | 2:27 | 2022-08-18 | 2022-11-20 |
+| [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-25 |  |
 | [Elephant & Ivory \- Vanilla's Version](https://open.spotify.com/track/7eDl54jBPJL295eBq95GIH) | [Les Loups](https://open.spotify.com/artist/3U6FqAuXdKYRrGUIyv9MWa), [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Elephant & Ivory \(Vanilla's Version\)](https://open.spotify.com/album/1SmtfuffGWMdf6MXUp8ITM) | 3:28 | 2022-08-25 | 2022-09-22 |
 | [Enlightened](https://open.spotify.com/track/26EckqdKwbnLgXPoiUgaEo) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:50 | 2022-04-22 | 2023-03-21 |
 | [Evergreen](https://open.spotify.com/track/6o6l8qajBu2ke8E7IcpRVu) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [Evergreen](https://open.spotify.com/album/2Zql1fESYIoPwFwy40zCSm) | 2:08 | 2023-03-24 | 2023-04-21 |
@@ -234,7 +235,7 @@
 | [Olivia Benson](https://open.spotify.com/track/4uOjcnam6f6tq4c6mlvC8W) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Somewhere Different](https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6) | 4:01 | 2022-02-17 | 2023-03-21 |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2023-03-20 |  |
 | [On Delancey](https://open.spotify.com/track/1sfu03jKTPkDODkKSDpcDM) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Big Apple](https://open.spotify.com/album/5fghKHhrLGGIXxg2DUgMAb) | 3:47 | 2023-03-20 | 2023-06-11 |
-| [One Day We'll Meet Again](https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [One Day We'll Meet Again](https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3) | 4:00 | 2023-03-20 |  |
+| [One Day We'll Meet Again](https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [One Day We'll Meet Again](https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3) | 4:00 | 2023-03-20 | 2023-08-29 |
 | [One More Time](https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [One More Time](https://open.spotify.com/album/75WAs6klPeLsGuW2jAvB4x) | 3:16 | 2023-05-11 | 2023-08-18 |
 | [Orange Ripples](https://open.spotify.com/track/0pjEeY82wLepex2QdCqAvW) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Orange Ripples](https://open.spotify.com/album/5kSHimNcDl5IeUmo4UflRz) | 2:40 | 2022-06-14 | 2022-09-22 |
 | [Orbit](https://open.spotify.com/track/0rAmThgNLvsC86kd3S7bBD) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Orbit](https://open.spotify.com/album/1rEFeHf8hGrb2YiSPBMr0U) | 4:10 | 2022-06-22 | 2022-11-08 |

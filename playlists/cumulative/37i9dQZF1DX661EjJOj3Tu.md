@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-305 songs - 1 day 1 hr 26 min
+306 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Con Alma](https://open.spotify.com/track/7wyznHrs1tQaeLMRdteaEh) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Afro](https://open.spotify.com/album/5ox3rUiRPzHdYPsICnq8hh) | 5:05 | 2021-12-09 | 2022-07-29 |
 | [Con Alma \- Live](https://open.spotify.com/track/2BmT47oVarEKfTOyOjiNp1) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI) | [Dizzy Con Clave: Live from Dizzy's Club Coca Cola](https://open.spotify.com/album/7bwbHc0k88oDET8KYTRtcm) | 7:10 | 2021-12-09 | 2022-07-29 |
 | [Condiciones Que Existen](https://open.spotify.com/track/6rKrh4zGSBCa7aFcyq5Gvo) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Salsa\-Jazz\-Descarga](https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3) | 4:05 | 2021-12-09 | 2023-07-27 |
+| [Conga a la Americana](https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:13 | 2023-08-28 |  |
 | [Congadanza](https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Border\-Free](https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM) | 9:09 | 2021-12-09 | 2022-07-16 |
 | [Contraste](https://open.spotify.com/track/6xiafGXauVfhGRnnKQS6Cl) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Afro](https://open.spotify.com/album/5ox3rUiRPzHdYPsICnq8hh) | 2:45 | 2021-12-09 | 2022-07-17 |
 | [Coral Way](https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:39 | 2023-08-18 |  |
@@ -102,7 +103,7 @@
 | [Descarga Valdés](https://open.spotify.com/track/2fKIOUrSKTpI6LlRRELZ7a) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 4:49 | 2022-07-26 |  |
 | [Desde Que O Samba É Samba \- Ao Vivo Em Nova York / 2019](https://open.spotify.com/track/5mVzs9ECtDIgZzMjcCi6qE) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Ivan Sacerdote](https://open.spotify.com/artist/7xiHV1zo8eXCzJWWGnU2IM), [Mosquito](https://open.spotify.com/artist/5coeM7OaiVUCX4HjNesOLO) | [Caetano Veloso & Ivan Sacerdote](https://open.spotify.com/album/4B4iz6pBrcnxVBZRdEx4QP) | 3:53 | 2021-12-09 | 2023-05-01 |
 | [Dig My Feeling](https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Dig My Feeling](https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne) | 3:40 | 2021-12-09 |  |
-| [Don't Like Goodbyes \- Bonus Track](https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Una Noche Con Rubén Blades](https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ) | 6:47 | 2021-12-09 |  |
+| [Don't Like Goodbyes \- Bonus Track](https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Una Noche Con Rubén Blades](https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ) | 6:47 | 2021-12-09 | 2023-08-29 |
 | [Don´t You Worry 'Bout A Thing](https://open.spotify.com/track/5SSN8J2KnrpW1CLpKJhXXO) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Ultimate Duets](https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A) | 4:19 | 2021-12-09 | 2022-10-16 |
 | [Dos Gardenias](https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 3:02 | 2022-07-26 | 2023-03-16 |
 | [Dos Gardenias](https://open.spotify.com/track/3Fn6K2roSmzhKzp5BBJKJl) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/2Upqk0mMh9OMIVSj9F8Xzw) | 3:03 | 2021-12-09 | 2022-07-29 |

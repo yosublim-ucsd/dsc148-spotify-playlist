@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 39423,
+  "num_followers": 39501,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmIzZjY5YWYxOGQxNDEzZTUzZDRlYWYwYzQ1NDkzNmMxYmM1YWIx",
+  "snapshot_id": "MCwzMzQ1YWIyMTNmYzdmMTgzZTAzODgwMWJjMTBjZjQzOWRiYTRiMmZi",
   "tracks": [
     {
       "added_at": "2023-04-06 15:20:30",
@@ -734,6 +734,34 @@
         {
           "name": "Grateful Dead",
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        },
+        {
+          "name": "David Nelson",
+          "url": "https://open.spotify.com/artist/4MSU1Eipz53jKozxLNxeML"
+        },
+        {
+          "name": "Debbie Eisenberg",
+          "url": "https://open.spotify.com/artist/58RFoUxMW1bvyj5SB7SVmx"
+        },
+        {
+          "name": "Marma-Duke",
+          "url": "https://open.spotify.com/artist/6uU5g1lLEfJM9BnUQCUCXr"
+        },
+        {
+          "name": "Merle Saunders",
+          "url": "https://open.spotify.com/artist/09uBVu0MVp8f1NO2LI12O9"
+        },
+        {
+          "name": "Mouse",
+          "url": "https://open.spotify.com/artist/6ajYY1loyKdWGmGlqCUeo3"
+        },
+        {
+          "name": "Pete Grant",
+          "url": "https://open.spotify.com/artist/5yUtkqTCExz039AeK2Zy8j"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
       "duration_ms": 277866,

@@ -645,6 +645,28 @@
     },
     {
       "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/65DoUqu0Ju170xKPsKLIGy"
+      },
+      "artists": [
+        {
+          "name": "Luise Najib",
+          "url": "https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0"
+        },
+        {
+          "name": "Ramcey",
+          "url": "https://open.spotify.com/artist/6yeRd57A9IoyJTODsK0H7F"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228562,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/7M9PnaNMpqqyXfSNdpYt15"
+    },
+    {
+      "album": {
         "name": "Neotheater",
         "url": "https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj"
       },
@@ -2112,7 +2134,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 162286,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"

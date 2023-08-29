@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: tanny ng, juhye; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-1,204 songs - 2 day 22 hr 44 min
+1,205 songs - 2 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Con Nhà Gia Giáo](https://open.spotify.com/track/5P6alxp1qF3z5kcARWbriK) | [Woni](https://open.spotify.com/artist/0bTZ4h4TZrOB8cHsqeW0sm), [Vy Dương](https://open.spotify.com/artist/72LLiDCylhkxp2NQnesTAE), [LUNY](https://open.spotify.com/artist/7oqfBry2GPU5vnXNH2f5Sd) | [Con Nhà Gia Giáo](https://open.spotify.com/album/7tkSorQL6ApgjHszJcZ5ie) | 4:18 | 2022-08-18 | 2023-02-16 |
 | [Con Nhà Quê](https://open.spotify.com/track/4FxXY067gF2AdcVdyNUzTF) | [Pjnboys](https://open.spotify.com/artist/3tPhATqpWFeuaZEmPMKvu1), [Big T](https://open.spotify.com/artist/4BaDWU29SQK7VZdjUrmkbS) | [Con Nhà Quê](https://open.spotify.com/album/41jPwYbEBe96KXJKtJx1X5) | 3:49 | 2022-06-07 | 2022-07-08 |
 | [Con Say Theo Mot Doi](https://open.spotify.com/track/2Jh39oyOS4DRdBNIErwsTL) | [Hades](https://open.spotify.com/artist/3zQEWWhSn1fng6zz4sgqFh), [Minh Trang](https://open.spotify.com/artist/0XMACkBYhq2KY5sv28eFzT) | [Con Say Theo Mot Doi](https://open.spotify.com/album/6b3BQ5oMqpT4OjQGdj8Gk2) | 2:44 | 2022-04-22 | 2022-05-10 |
-| [Con tim bít iu](https://open.spotify.com/track/7KvMPaAFnHCDulukFliZaI) | [NhiiT](https://open.spotify.com/artist/5LuUfRA2eKyjdK8ucMOXwk), [Mỡ](https://open.spotify.com/artist/6T870Q2zfiDi7s4aAxk3rm), [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3) | [Con tim bít iu](https://open.spotify.com/album/1faUhnW51CK3Q1qOr2xMiT) | 2:57 | 2023-07-13 |  |
+| [Con tim bít iu](https://open.spotify.com/track/7KvMPaAFnHCDulukFliZaI) | [NhiiT](https://open.spotify.com/artist/5LuUfRA2eKyjdK8ucMOXwk), [Mỡ](https://open.spotify.com/artist/6T870Q2zfiDi7s4aAxk3rm), [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3) | [Con tim bít iu](https://open.spotify.com/album/1faUhnW51CK3Q1qOr2xMiT) | 2:57 | 2023-07-13 | 2023-08-29 |
 | [CRUSH ANH](https://open.spotify.com/track/486QsTMlCWKSANShGsQrCN) | [Ly Ating](https://open.spotify.com/artist/2Sdo3rc4Yln6JX5P23w8tK) | [CRUSH ANH](https://open.spotify.com/album/6g4e9moRnBmahjKS1N1LVm) | 2:09 | 2022-01-06 | 2022-01-15 |
 | [CtrlN](https://open.spotify.com/track/07yzf6FmXnot389GJL1P2N) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [CtrlN](https://open.spotify.com/album/16QqMSjPL2EqmulDNahT0O) | 3:17 | 2022-04-19 | 2022-05-25 |
 | [Cuopnhabang](https://open.spotify.com/track/5haJ12Z9jxCI9NMqsOkANR) | [Bạn Có Tài Mà](https://open.spotify.com/artist/6FCF4ljKz7tzcsOyUExpS7), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Anh Khơ Me](https://open.spotify.com/artist/79jy4md11w90FLgTNEOw22), [Key](https://open.spotify.com/artist/2EkVb80vJNSvw96kEy2GeF), [Xám](https://open.spotify.com/artist/0RidbITP912tB7Nm85bebv), [MegaShock](https://open.spotify.com/artist/78BCjtPwVVmrolLWLArPaX), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Cuopnhabang](https://open.spotify.com/album/4MlBx3WcrVXI8ZXoABqfMK) | 6:49 | 2022-06-12 | 2022-08-24 |
@@ -347,6 +347,7 @@
 | [Em Có Ổn Không?](https://open.spotify.com/track/5oOm6ogeTck2PfZjEquluJ) | [Havan Trần](https://open.spotify.com/artist/7rrc53g4jINHsKxnisNniH) | [Em Có Ổn Không?](https://open.spotify.com/album/2j3rcgsICBT7SgGLQwA5av) | 5:11 | 2023-05-17 | 2023-05-26 |
 | [Em Không](https://open.spotify.com/track/6YndJvp5XpMuzmtWLWI8hp) | [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [Em Không](https://open.spotify.com/album/5BcRvcyxsejuhRYxiJPuHM) | 5:16 | 2023-07-28 |  |
 | [Em Không Khóc \(feat\. Vũ Phụng Tiên\)](https://open.spotify.com/track/4N99EuIjwSSFFFMDfTeOLU) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj) | [Em Không Khóc \(feat\. Vũ Phụng Tiên\)](https://open.spotify.com/album/5jDIXIxWf5W0uqPUuoKxZU) | 4:29 | 2022-03-30 | 2023-01-06 |
+| [em không thể yêu ai nữa](https://open.spotify.com/track/5lbVKvOBzR0VimRrgNJigW) | [SASSY](https://open.spotify.com/artist/4S4bIRzJUtv95EX72sKM1i) | [em không thể yêu ai nữa](https://open.spotify.com/album/5YfF98ShfWc9RlG2IT4xqX) | 4:03 | 2023-08-28 |  |
 | [em la ai ?](https://open.spotify.com/track/2arsy0iBXkgPXKM0hTVxWm) | [NP.2](https://open.spotify.com/artist/0FqdaYWdo1r4esDdZ4wA8n) | [em la ai ?](https://open.spotify.com/album/3c52EAhlV9ApknepIfSX3s) | 3:43 | 2023-02-22 | 2023-04-25 |
 | [em lai di dau day?](https://open.spotify.com/track/1JZUgjMN8onMfdCAQxb0xb) | [Cáu](https://open.spotify.com/artist/79RDZmnftJOANOKbYtEo5e) | [em lai di dau day?](https://open.spotify.com/album/1mXPFMkwnS8WP19cgIO0oy) | 2:51 | 2023-05-22 |  |
 | [Em Luôn Ở Trong Tâm Trí Anh](https://open.spotify.com/track/7lk0P6OAdZn1oiODV2BASk) | [Erin](https://open.spotify.com/artist/2KFqKJvmyR5FRdW2Ww8YeY) | [Em Luôn Ở Trong Tâm Trí Anh](https://open.spotify.com/album/1G2HoiWfZapAAbM50iP4FS) | 3:38 | 2022-07-09 | 2022-07-21 |

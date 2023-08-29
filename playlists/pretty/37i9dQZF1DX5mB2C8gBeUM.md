@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Jessie Murph
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,610 likes - 144 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,918 likes - 144 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 143 | [Wild Man](https://open.spotify.com/track/7Kjj4hsN3ykO4LW4KH5rdF) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Wild Man](https://open.spotify.com/album/7FmBtjicBhC9jrdYjicsMZ) | 2:48 |
 | 144 | [A Sinner and A Saint](https://open.spotify.com/track/5uxc8WInrKasHQAZCZwTjG) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [A Sinner and A Saint](https://open.spotify.com/album/6kIKa6DGOj391Vj6KCD156) | 2:39 |
 
-Snapshot ID: `MCxiNmM5YzA1ZmI2ZWM3NjFlZGMxYjY0MTkxMmQ5MDNkZGYwYjdiNTg2`
+Snapshot ID: `MCxhYjIxOGI1Mjc1NjUzZmZkY2ZkNTE3MzgyMjNhZjNlNWZlZjkyOTdm`

@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 253651,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/6s1k8Ry40znPtEb9ijOlnw"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 129776,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
@@ -1519,6 +1519,32 @@
     },
     {
       "album": {
+        "name": "I Am Dodo",
+        "url": "https://open.spotify.com/album/2FC1Y3WzHfyzXDA6uqagYG"
+      },
+      "artists": [
+        {
+          "name": "Magnito",
+          "url": "https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan"
+        },
+        {
+          "name": "Snr Morris",
+          "url": "https://open.spotify.com/artist/7JfOavvh4UTQuDG9oBlmsY"
+        },
+        {
+          "name": "Wizzy Flon",
+          "url": "https://open.spotify.com/artist/4IEekyeps4v1qFYz0w7lbT"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Canada",
+      "url": "https://open.spotify.com/track/2Qu5exKyrNdDMgYruK3eMK"
+    },
+    {
+      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -1976,6 +2002,24 @@
       "duration_ms": 167386,
       "name": "Con La Brisa",
       "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
+    },
+    {
+      "album": {
+        "name": "KING THE LAND (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/2ebXX351bi71c7tCkH9yiF"
+      },
+      "artists": [
+        {
+          "name": "LIM KIM",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "Confess To You",
+      "url": "https://open.spotify.com/track/0T9uzv2TqgzU2F3z54vWX7"
     },
     {
       "album": {
@@ -2464,7 +2508,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 195761,
       "name": "Elon musk",
       "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
@@ -3587,6 +3631,48 @@
     },
     {
       "album": {
+        "name": "Hotspot",
+        "url": "https://open.spotify.com/album/7vj9WtiotylvS3rKrJuBmG"
+      },
+      "artists": [
+        {
+          "name": "Combo M",
+          "url": "https://open.spotify.com/artist/5dOFdrZEOqCk0Lc6rFyL1B"
+        },
+        {
+          "name": "Mrnationthingz",
+          "url": "https://open.spotify.com/artist/76DDGfFwEZav6E1lC2QXGf"
+        },
+        {
+          "name": "Cuba Beats",
+          "url": "https://open.spotify.com/artist/2GyTwPnCWi2COPYXy6ZA5D"
+        },
+        {
+          "name": "Sickoo",
+          "url": "https://open.spotify.com/artist/5WaZy4jMXKbxEHPd8BQFmM"
+        },
+        {
+          "name": "Rockess",
+          "url": "https://open.spotify.com/artist/3DBgVmiqXyYtoxSpjbpEWX"
+        },
+        {
+          "name": "DJ Sicky",
+          "url": "https://open.spotify.com/artist/7tUGaH6Ba1CczzxvQfVXD1"
+        },
+        {
+          "name": "Ndodana",
+          "url": "https://open.spotify.com/artist/6YXeuEA7AhRZXmrZzPUWo5"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420920,
+      "name": "Hotspot",
+      "url": "https://open.spotify.com/track/28PDHCkELl8cwOtCdksjWE"
+    },
+    {
+      "album": {
         "name": "How Are You (My Friend)",
         "url": "https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq"
       },
@@ -4704,6 +4790,24 @@
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123434,
+      "name": "Like Ice Spice",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
     },
     {
       "album": {
@@ -6416,7 +6520,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 168610,
       "name": "Ogaranya",
       "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
@@ -7343,6 +7447,24 @@
     },
     {
       "album": {
+        "name": "Puff & Pass",
+        "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161462,
+      "name": "Puff & Pass",
+      "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
+    },
+    {
+      "album": {
         "name": "Puff Puff Pass",
         "url": "https://open.spotify.com/album/3Kn0IGNPhsQnO3PZCNPVYo"
       },
@@ -7758,7 +7880,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 534648,
       "name": "Shakespeare",
       "url": "https://open.spotify.com/track/5Ms6phtE3zdTYgNo5hlqzQ"
@@ -8392,6 +8514,24 @@
       "duration_ms": 413584,
       "name": "Sukakude",
       "url": "https://open.spotify.com/track/4FEi7i9oDxDzcYbx53IHwq"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/4SZZiMDDwYbgyTBEWHHzZ7"
+      },
+      "artists": [
+        {
+          "name": "DJ Benny",
+          "url": "https://open.spotify.com/artist/30aR9WMgJ6fIUGSX3tcxyW"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454068,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2nehktvGoWV427EiYnRn9W"
     },
     {
       "album": {
@@ -9632,7 +9772,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"

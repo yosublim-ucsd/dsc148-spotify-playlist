@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Anti-Fomo",
+        "url": "https://open.spotify.com/album/22yTfRdHVq3c50oZpXngIA"
+      },
+      "artists": [
+        {
+          "name": "Blue Alaska",
+          "url": "https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Anti-Fomo",
+      "url": "https://open.spotify.com/track/2AQADuVGjoShxE9gnfRMDW"
+    },
+    {
+      "album": {
         "name": "Nouvelles Aventures",
         "url": "https://open.spotify.com/album/7bdSGk7vhlADhwK0lT3VUF"
       },
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 197674,
       "name": "HEATWAVES",
       "url": "https://open.spotify.com/track/572YsanwR4obpa6xq8J4Yu"
@@ -6080,6 +6098,24 @@
       "duration_ms": 163873,
       "name": "Occhi rossi",
       "url": "https://open.spotify.com/track/2nIQIZWYXDVrjbD570hbTd"
+    },
+    {
+      "album": {
+        "name": "Ocean Cry",
+        "url": "https://open.spotify.com/album/2uP99i8rDfjIpUPEurejZv"
+      },
+      "artists": [
+        {
+          "name": "pearl moth",
+          "url": "https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217033,
+      "name": "Ocean Cry",
+      "url": "https://open.spotify.com/track/2lOLI3op0lv6kK3VrOCS1Z"
     },
     {
       "album": {

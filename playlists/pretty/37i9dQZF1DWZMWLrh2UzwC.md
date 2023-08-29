@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,065 likes - 96 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,070 likes - 96 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 95 | [petty things](https://open.spotify.com/track/0WreuVJFE5fRk0xb5U9kBE) | [clare inso](https://open.spotify.com/artist/4QWLW3qCUEjKfeoH6k93oW), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [petty things](https://open.spotify.com/album/4n0FeQxWBIlv8UUw3c6heH) | 3:04 |
 | 96 | [Parasite](https://open.spotify.com/track/4zEXOewY4f3ITJd43MZ76u) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [Eva Celia](https://open.spotify.com/album/5ytIY5JSaLVxOwYWaY7xYx) | 3:20 |
 
-Snapshot ID: `MCxlMDg1NzIzNzU5Y2ZlMzZjODE1Njc5MGUyNzE0ZjBjMTc3Njg1ZDVj`
+Snapshot ID: `MCxhZDM1MWQxMjg2YTYyNTMyOWRmNmZmYjNhMmMzZTdlZmQzMGM0ZjI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Bringing in the heat every Thursday\. 🔥 Cover: Aleman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,910,523 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,910,540 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 |
 | 25 | [¿Qué pasa?](https://open.spotify.com/track/68qLs1UE25gr5t8z8CTT6u) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [Emigrante](https://open.spotify.com/album/4ADa1RmaO1KgUQxYqmCZjm) | 3:44 |
 
-Snapshot ID: `MCwyNGMyNTE4ZGJlNGI2M2RmYTliYjI4OTVlNDdiNjAxZTZmZWNhNTFm`
+Snapshot ID: `MCxhNjI5MTNlMWYzN2JlYmFhY2VkM2MzNjdiMTE3OTU2OGNiMzdhNjMz`

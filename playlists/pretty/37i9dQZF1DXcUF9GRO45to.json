@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 27813,
+  "num_followers": 27844,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzM3YWI0ZjI4NDVmZjEyYTk4ZDY0OWI0MGQ2OTUxOTg4Nzg5OWY0",
+  "snapshot_id": "MCw0YWVhMWJkNzIwMGNjMjI4MmEzNzZiNmE5ZWQ3NTFjZmQxODg2ZjU4",
   "tracks": [
     {
       "added_at": "2023-08-24 08:17:19",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Gone Are The Good Days",
-        "url": "https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2"
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
       },
       "artists": [
         {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+          "name": "Totorro",
+          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
         }
       ],
-      "duration_ms": 191440,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK"
+      "duration_ms": 212016,
+      "name": "Chevalier Bulltoe",
+      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
-      },
-      "artists": [
-        {
-          "name": "Totorro",
-          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
-        }
-      ],
-      "duration_ms": 212016,
-      "name": "Chevalier Bulltoe",
-      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "Highmare",
         "url": "https://open.spotify.com/album/5rRaCgk5xWmQ6OCZPO6kku"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 295583,
       "name": "Clement",
       "url": "https://open.spotify.com/track/0gZledHxMOU9mcsVeW9NmF"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Gone Are The Good Days",
+        "url": "https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2"
+      },
+      "artists": [
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4vT2Fz8FEQMrKfuBoykbNO"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mafia",
-          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
-        }
-      ],
-      "duration_ms": 101586,
-      "name": "Split Tongue",
-      "url": "https://open.spotify.com/track/4AJWyrvgYnwXJVnCUrBEYe"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "Sometimes I Wanna Fight",
         "url": "https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 202719,
       "name": "Sometimes I Wanna Fight",
       "url": "https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4vT2Fz8FEQMrKfuBoykbNO"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mafia",
+          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+        }
+      ],
+      "duration_ms": 101586,
+      "name": "Split Tongue",
+      "url": "https://open.spotify.com/track/4AJWyrvgYnwXJVnCUrBEYe"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "We The People Of The Soil",
-        "url": "https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR"
-      },
-      "artists": [
-        {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "A Man Oustanding In His Field",
-      "url": "https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "Factory (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5bqAsAhjXyeM4KrsBQDwOA"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 157758,
       "name": "I'm Rollin'",
       "url": "https://open.spotify.com/track/0QYhsHnG4PNrx104D2Gavz"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "We The People Of The Soil",
+        "url": "https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "A Man Oustanding In His Field",
+      "url": "https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "FRENCH FRIES",
-        "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
-      },
-      "artists": [
-        {
-          "name": "lya!",
-          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
-        }
-      ],
-      "duration_ms": 215636,
-      "name": "SO TIRED",
-      "url": "https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 238947,
       "name": "Take It",
       "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "FRENCH FRIES",
+        "url": "https://open.spotify.com/album/5eZzXmpnC4ZpJBkBucUfdm"
+      },
+      "artists": [
+        {
+          "name": "lya!",
+          "url": "https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH"
+        }
+      ],
+      "duration_ms": 215636,
+      "name": "SO TIRED",
+      "url": "https://open.spotify.com/track/7CiD9yJIfJshJEFwvgjPEq"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Bodysick",
-        "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
-      },
-      "artists": [
-        {
-          "name": "Bison Bisou",
-          "url": "https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Hypersects",
-      "url": "https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 366417,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Bodysick",
+        "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
+      },
+      "artists": [
+        {
+          "name": "Bison Bisou",
+          "url": "https://open.spotify.com/artist/5WMurQLtfM6V3t7Gbh1ix1"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Hypersects",
+      "url": "https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -955,38 +955,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Self Doubt",
-        "url": "https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O"
-      },
-      "artists": [
-        {
-          "name": "Moonball",
-          "url": "https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Self Doubt",
-      "url": "https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/0FfGjheDjSorhabLLNoB4x"
-      },
-      "artists": [
-        {
-          "name": "Last Train",
-          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
-        }
-      ],
-      "duration_ms": 320813,
-      "name": "Disappointed",
-      "url": "https://open.spotify.com/track/0ZNaRU6cK7nGIqw4kcMeSK"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -1011,18 +979,18 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Staring At The Sun",
-        "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
+        "name": "Self Doubt",
+        "url": "https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O"
       },
       "artists": [
         {
-          "name": "Not Scientists",
-          "url": "https://open.spotify.com/artist/0fHTYbsxk3Wo0P8NgWVGCW"
+          "name": "Moonball",
+          "url": "https://open.spotify.com/artist/1zssGmXcSwzfO2eVRrHOUj"
         }
       ],
-      "duration_ms": 229429,
-      "name": "Like gods we feast",
-      "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
+      "duration_ms": 179200,
+      "name": "Self Doubt",
+      "url": "https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1043,18 +1011,34 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "The Future Is the End",
-        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
+        "name": "Staring At The Sun",
+        "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
       },
       "artists": [
         {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+          "name": "Not Scientists",
+          "url": "https://open.spotify.com/artist/0fHTYbsxk3Wo0P8NgWVGCW"
         }
       ],
-      "duration_ms": 185706,
-      "name": "Strike a Match",
-      "url": "https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2"
+      "duration_ms": 229429,
+      "name": "Like gods we feast",
+      "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/0FfGjheDjSorhabLLNoB4x"
+      },
+      "artists": [
+        {
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
+        }
+      ],
+      "duration_ms": 320813,
+      "name": "Disappointed",
+      "url": "https://open.spotify.com/track/0ZNaRU6cK7nGIqw4kcMeSK"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1071,6 +1055,22 @@
       "duration_ms": 263693,
       "name": "Zone 51",
       "url": "https://open.spotify.com/track/2lPQSkalkNnFAu1d50Wh9j"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "The Future Is the End",
+        "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Strike a Match",
+      "url": "https://open.spotify.com/track/026GCpWJE2LQQAWrq9Fxi2"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
+        "name": "Guilty Species",
+        "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
+      },
+      "artists": [
+        {
+          "name": "Jessica93",
+          "url": "https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg"
+        }
+      ],
+      "duration_ms": 278801,
+      "name": "R.I.P. In Peace",
+      "url": "https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
         "name": "Ashamed",
         "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Guilty Species",
-        "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
-      },
-      "artists": [
-        {
-          "name": "Jessica93",
-          "url": "https://open.spotify.com/artist/33MTYrs2tNhqp6WlpWGfPg"
-        }
-      ],
-      "duration_ms": 278801,
-      "name": "R.I.P. In Peace",
-      "url": "https://open.spotify.com/track/063hy7znMfqVNklWm2bCWi"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
         "name": "Houses Are Built The Same",
         "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 190508,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
+    },
+    {
+      "added_at": "2023-08-24 08:17:19",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG"
+      },
+      "artists": [
+        {
+          "name": "Sport",
+          "url": "https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx"
+        }
+      ],
+      "duration_ms": 200797,
+      "name": "Full House",
+      "url": "https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1443,22 +1459,6 @@
       "duration_ms": 187299,
       "name": "Didn\u2019t Know",
       "url": "https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT"
-    },
-    {
-      "added_at": "2023-08-24 08:17:19",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG"
-      },
-      "artists": [
-        {
-          "name": "Sport",
-          "url": "https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx"
-        }
-      ],
-      "duration_ms": 200797,
-      "name": "Full House",
-      "url": "https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO"
     },
     {
       "added_at": "2023-08-24 08:17:19",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-08-24 08:17:19",
       "album": {
-        "name": "Songs/Motion Return",
-        "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
+        "name": "DEUXI\u00c8ME \u00c9TOILE",
+        "url": "https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl"
       },
       "artists": [
         {
-          "name": "Stuffed Foxes",
-          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
+          "name": "P\u00e9niche",
+          "url": "https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
+      "duration_ms": 164026,
+      "name": "REQUIN MAKO",
+      "url": "https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG"
     }
   ],
   "unique_name": "French Noise",

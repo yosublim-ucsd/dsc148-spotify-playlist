@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2023 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,928 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,955 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 19 | [翼を広げて](https://open.spotify.com/track/6rqejjcfbRUSQ0WXhV2bg6) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [翼を広げて / 愛は暗闇の中で](https://open.spotify.com/album/2VPyIHpSzemIBnEiTrKylf) | 4:30 |
 | 20 | [ゆるぎないものひとつ](https://open.spotify.com/track/6HOj3XHDPTIPxZxvl1gn4k) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [MONSTER](https://open.spotify.com/album/1KhVnTC6ZqlGauxbrkvu1w) | 4:37 |
 | 21 | [名探偵コナン愛のテーマ](https://open.spotify.com/track/1xq00MfmWouCjGppzvy4zr) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 探偵たちの鎮魂歌 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0dDgRi3DAoAPkevbJTyPym) | 1:12 |
-| 22 | [夏を待つセイル \(帆\)のように](https://open.spotify.com/track/5fEVHZXvkFmzA59csUBgXZ) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [星のかがやきよ/夏を待つセイル\(帆\)のように](https://open.spotify.com/album/2K0gt5eUoq9Rkhb6j8xdSD) | 4:33 |
+| 22 | [夏を待つセイル \(帆\)のように](https://open.spotify.com/track/5fEVHZXvkFmzA59csUBgXZ) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [星のかがやきよ/夏を待つセイル（帆）のように](https://open.spotify.com/album/2K0gt5eUoq9Rkhb6j8xdSD) | 4:33 |
 | 23 | [想い出たち\~想い出\~ \- 水平線上ヴァージョン](https://open.spotify.com/track/6LTrISx940TTFVPdpVXuT6) | [高山みなみ](https://open.spotify.com/artist/2iIYe3elf6vwBxZN9UwAg6) | [名探偵コナン 水平線上の陰謀 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0ajo3xLjRF2DHql3L8ukNm) | 4:16 |
 | 24 | [Time after time \~花舞う街で\~ \(theater version\)](https://open.spotify.com/track/6p7zWUrMceo4GrJyFQFlGY) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:10 |
 | 25 | [ぼくがいる～コナンのテーマ～ \- 銀翼ヴァージョン](https://open.spotify.com/track/1mttCw9rm9WVgtcVM95ne3) | [高山みなみ](https://open.spotify.com/artist/2iIYe3elf6vwBxZN9UwAg6) | [名探偵コナン 銀翼の奇術師 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/40R0gMfyMtbF9cf3e0jd4v) | 2:46 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 44 | [INTERNATIONAL CASE\(INSIDENT\)](https://open.spotify.com/track/2eUhhG0b51SflzpapeSW26) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン 紺碧の棺」オリジナル・サウンドトラック](https://open.spotify.com/album/6xbpuwe49yXIlobUjuxXsv) | 2:07 |
 | 45 | [名探偵コナンメインテーマ\(ゼロの執行人ヴァージョン\)](https://open.spotify.com/track/1AgohkbIwKIyZ2V7ARhs66) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン ゼロの執行人」オリジナル・サウンドトラック](https://open.spotify.com/album/6MVxKQc17vJKQqoApjDq7R) | 2:16 |
 
-Snapshot ID: `MCxjNjNhYWE1YzQ0MGVkODdkMzQ3YjlkNWJlOWI5ZDMwZWU5ZTY0MWI1`
+Snapshot ID: `MCw3ZDQxMGZmMDAyYjFmNTg0ZjdlM2VkZjJmM2M2NGI5ZDNiNGM1ZmY1`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0x36cwEyOTG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0x36cwEyOTG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0x36cwEyOTG)
 
-### [Peaceful Indie Ambient](https://open.spotify.com/playlist/37i9dQZF1DX0x36cwEyOTG)
+### [Peaceful Ambient Indie](https://open.spotify.com/playlist/37i9dQZF1DX0x36cwEyOTG)
 
 > Relax with this mix of peaceful, ambient, indie music.
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [\-Out](https://open.spotify.com/track/7aD3SBHCmZRnXxU2vYaEEQ) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chance of Rain](https://open.spotify.com/album/0dlVirw96s48bOpC7LQDNI) | 1:29 | 2018-11-26 | 2022-07-29 |
 | [Aeroplane Bathroom](https://open.spotify.com/track/5ul1z9YxrM9MEsB8MPKJpZ) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Aeroplane Bathroom](https://open.spotify.com/album/55LTuxXSV15FHGHZxSwBd6) | 5:44 | 2020-04-03 | 2022-07-29 |
-| [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2020-04-03 |  |
+| [Aeroplane Bathroom](https://open.spotify.com/track/7h4zBf5NntSiGrYy2hmDJE) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Our Two Skins](https://open.spotify.com/album/2E9Blcx45loakuMKKsn5lw) | 5:44 | 2020-04-03 | 2023-08-29 |
 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 | 2020-10-15 | 2023-06-14 |
 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 | 2020-10-15 |  |
 | [Allocate](https://open.spotify.com/track/0Ox2MFIFzwLhkfFHuGOdbc) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Allocate](https://open.spotify.com/album/6QzjKOo8KXJb8Xqq7cCqho) | 4:42 | 2018-11-26 | 2022-07-29 |
@@ -224,7 +224,7 @@
 | [Two of Us On the Run](https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Expanded Edition\)](https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK) | 4:35 | 2018-11-26 | 2023-05-27 |
 | [Two of Us On the Run](https://open.spotify.com/track/64xZhGwmnwFyeYWZ4l4wSm) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez) | 4:35 | 2022-12-14 |  |
 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 | 2018-11-26 | 2022-07-29 |
-| [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 | 2018-11-26 | 2023-07-13 |
+| [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 | 2018-11-26 |  |
 | [Unknown](https://open.spotify.com/track/3fXbUuDBRoe0PMQ3BItnAc) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown/Running](https://open.spotify.com/album/1doaAaHu3x7uxJ6NO1nxak) | 4:10 | 2018-11-26 | 2022-07-29 |
 | [Untitled 1](https://open.spotify.com/track/4mZlbfoM261nrxvqHgmDQ5) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [The Exit Papers](https://open.spotify.com/album/2aDMw90Gv9SdZWRJN4Ar21) | 3:37 | 2018-11-26 | 2022-07-25 |
 | [Untitled 1](https://open.spotify.com/track/79fDSadl4Qs17tWm4woC99) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [The Exit Papers](https://open.spotify.com/album/03bk7xDFfgDrXlsScEUM7i) | 3:37 | 2018-11-26 | 2022-12-04 |

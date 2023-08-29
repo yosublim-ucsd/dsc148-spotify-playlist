@@ -4201,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "I Got Heaven",
+      "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
+    },
+    {
+      "album": {
         "name": "I Hate My Life",
         "url": "https://open.spotify.com/album/1Dz1Mhh2Ch8ddZYAENV8Me"
       },
@@ -9316,6 +9334,24 @@
       "duration_ms": 358282,
       "name": "Vitch",
       "url": "https://open.spotify.com/track/4M9BFaMCQE2OWglBL2RSAj"
+    },
+    {
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/5c4fN5oAuiO7geZEXF60w5"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403653,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/1bvJtmIGOW8NnI4GhPtRZ8"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Byron Messia",
-  "num_followers": 412488,
+  "num_followers": 412674,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODcxNmNhYjM4OWRkNGQ3NTFmNDc4MTVhNWVkNmVhNWEyZGI4ODE5",
+  "snapshot_id": "MCxlNDdlMGI1MDU0MGZmNTVhYzQxNmVlZjRlOWJhMmM1YjA2ZGE0NDNj",
   "tracks": [
     {
       "added_at": "2023-08-03 23:00:00",
@@ -311,30 +311,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "FIXTAPE",
-        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 259651,
-      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Shen Yeng Anthem",
         "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
       },
@@ -415,6 +391,30 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Dunce Cheque",
         "url": "https://open.spotify.com/album/0hLZJMZkIlh0dSPO39HUWi"
       },
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Nobody Has to Know",
+      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "So Mi Like It",
         "url": "https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt"
       },
@@ -443,42 +459,6 @@
       "duration_ms": 153213,
       "name": "So Mi Like It",
       "url": "https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Pull up to Mi Bumper",
-        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "J Capri",
-          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
-        }
-      ],
-      "duration_ms": 150279,
-      "name": "Pull up to Mi Bumper",
-      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 215776,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -523,6 +503,42 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 215776,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Pull up to Mi Bumper",
+        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "J Capri",
+          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
+        }
+      ],
+      "duration_ms": 150279,
+      "name": "Pull up to Mi Bumper",
+      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Nobody Has to Know",
-      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Gvnman Shift",
         "url": "https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW"
       },
@@ -571,38 +571,6 @@
       "duration_ms": 204068,
       "name": "Gvnman Shift",
       "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "My Type - Single",
-        "url": "https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 185065,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -643,6 +611,38 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "My Type - Single",
+        "url": "https://open.spotify.com/album/1IbrNSS9aKgY9M0k1wBJC7"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 185065,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6oBtzGQSirafwnRDNlloMl"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Good Comfort",
         "url": "https://open.spotify.com/album/6RF60O8kXnv9Ik21vLEOem"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Summa Hot",
-        "url": "https://open.spotify.com/album/7Fe9V0VKZ32dDxm3Qw5Mki"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 136736,
-      "name": "Summa Hot",
-      "url": "https://open.spotify.com/track/2ZZQeDeqOlsuzKQIHYhLot"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "No Games",
         "url": "https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 188200,
       "name": "No Games",
       "url": "https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Summa Hot",
+        "url": "https://open.spotify.com/album/7Fe9V0VKZ32dDxm3Qw5Mki"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 136736,
+      "name": "Summa Hot",
+      "url": "https://open.spotify.com/track/2ZZQeDeqOlsuzKQIHYhLot"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -727,6 +727,26 @@
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Speed Off",
+        "url": "https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        }
+      ],
+      "duration_ms": 174001,
+      "name": "Speed Off",
+      "url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -779,26 +799,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Speed Off",
-        "url": "https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "DJ MAC",
-          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
-        }
-      ],
-      "duration_ms": 174001,
-      "name": "Speed Off",
-      "url": "https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Calmc",
         "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Call Me If",
-      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Collie Buddz",
         "url": "https://open.spotify.com/album/2BGWnHTib774X9f7RPoato"
       },
@@ -859,6 +843,38 @@
       "duration_ms": 221506,
       "name": "Come Around",
       "url": "https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Expensive",
+        "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "duration_ms": 235128,
+      "name": "Expensive",
+      "url": "https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Call Me If",
+      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Expensive",
-        "url": "https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR"
-      },
-      "artists": [
-        {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Expensive",
-      "url": "https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Verified Choppa 2",
         "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 139093,
       "name": "Verified Choppa 2",
       "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
+      },
+      "artists": [
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Walking Trophy",
         "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
       },
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Pon Di Cocky",
+        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
+      },
+      "artists": [
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "duration_ms": 190119,
+      "name": "Pon Di Cocky",
+      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "GYALIS (Remix) [feat. Chris Brown & Popcaan]",
         "url": "https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Pon Di Cocky",
-        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
-      },
-      "artists": [
-        {
-          "name": "Aidonia",
-          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
-        }
-      ],
-      "duration_ms": 190119,
-      "name": "Pon Di Cocky",
-      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Maestro",
         "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 231266,
       "name": "Romie",
       "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Top Tier",
+        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
+      },
+      "artists": [
+        {
+          "name": "Bayka",
+          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
+        }
+      ],
+      "duration_ms": 141696,
+      "name": "Top Tier",
+      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 145794,
       "name": "Bwoii Affi\" Watch Eh Style",
       "url": "https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Top Tier",
-        "url": "https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC"
-      },
-      "artists": [
-        {
-          "name": "Bayka",
-          "url": "https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2"
-        }
-      ],
-      "duration_ms": 141696,
-      "name": "Top Tier",
-      "url": "https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Queen Radio: Volume 1",
-        "url": "https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 138567,
-      "name": "Likkle Miss (with Skeng) - Remix",
-      "url": "https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Whap Whap (feat. F.S.)",
         "url": "https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 181115,
       "name": "Whap Whap (feat. F.S.)",
       "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Queen Radio: Volume 1",
+        "url": "https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 138567,
+      "name": "Likkle Miss (with Skeng) - Remix",
+      "url": "https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "I'll Never Die",
+        "url": "https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 146311,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Tic Tac Toe",
         "url": "https://open.spotify.com/album/1L67y3BRIGj7VrT9yGT7is"
       },
@@ -1363,42 +1379,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        },
-        {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "Pieces (with Jahshii)",
-      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "I'll Never Die",
-        "url": "https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 146311,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/7IDpOUPZyWt5bLFSC1WOdR"
       },
@@ -1431,6 +1411,42 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Pieces (with Jahshii)",
+      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Roll It Gal",
+      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "One Day Riddim",
         "url": "https://open.spotify.com/album/5PkIgWAMxMDiDv1jrzkqgm"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 156951,
       "name": "Static",
       "url": "https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Roll It Gal",
-      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1539,6 +1523,22 @@
       "duration_ms": 197052,
       "name": "From Rags to Riches",
       "url": "https://open.spotify.com/track/4aiIKB4FplhLZq0TCh16Ya"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Dunce Bat",
-        "url": "https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 156081,
-      "name": "Dunce Bat",
-      "url": "https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
         "name": "Glock 40",
         "url": "https://open.spotify.com/album/7y62e7mFSyul2nTJE1swm7"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 136323,
       "name": "Glock 40",
       "url": "https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
+        "name": "Dunce Bat",
+        "url": "https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "duration_ms": 156081,
+      "name": "Dunce Bat",
+      "url": "https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo"
     },
     {
       "added_at": "2023-08-03 23:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-08-03 23:00:00",
       "album": {
+        "name": "Live n' Learn",
+        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "Live n' Learn",
+      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
+    },
+    {
+      "added_at": "2023-08-03 23:00:00",
+      "album": {
         "name": "Dunce Barbie",
         "url": "https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 165564,
       "name": "DUNCE BARBIE",
       "url": "https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Live n' Learn",
-        "url": "https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ"
-      },
-      "artists": [
-        {
-          "name": "450",
-          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "Live n' Learn",
-      "url": "https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs"
     },
     {
       "added_at": "2023-08-03 23:00:00",

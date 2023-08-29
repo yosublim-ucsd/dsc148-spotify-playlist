@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: 1tbsp\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,718 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,810 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Air Beneath](https://open.spotify.com/track/1ZOBuhQqbpKBBYAoquPpaa) | [Dylan Forbes](https://open.spotify.com/artist/2Xuub4Skf1kEJZrNo1iML2) | [BODYHI04](https://open.spotify.com/album/1IywtUfkzFrRES8l0Ss293) | 6:59 |
 | 100 | [I Got That](https://open.spotify.com/track/03ZBhDkwbFw3VPFjatNImh) | [Rob Stillekens](https://open.spotify.com/artist/7x69Nz9Wi6fX7wwJZ9snI7), [Marlon C](https://open.spotify.com/artist/0igUkTjUPcXjrL849TesmT) | [Passionate Flow EP](https://open.spotify.com/album/7jF5YNfpeSBPY61hmFUgpr) | 7:21 |
 
-Snapshot ID: `MCwyZTQ2ODRiOGMzMTQ4NzFhYzIwZmYxMTJjMjFjZGUyNjdjYTU1MWY0`
+Snapshot ID: `MCw0MDRjMDEzY2E2MTdkMzZjMjgxYzBlMDFlZDA2NThkMTA3ODMyYWJk`

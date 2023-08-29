@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: JAOKHUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,216 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,287 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 2 | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/track/6PbJuaeCtJpL52FJ55qdbq) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/album/2qk72LxifhUXZkIhDXGm3z) | 3:17 |
 | 3 | [จีบก่อนได้ไหม](https://open.spotify.com/track/7tjyoj5A5A64T66nOJ2EDG) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [จีบก่อนได้ไหม](https://open.spotify.com/album/3Blple8BFcrzO2t0z9kZft) | 4:30 |
 | 4 | [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/track/6lrMGW46YadQYHzD6mzz4E) | [Fourth Nattawat](https://open.spotify.com/artist/1O48F7zasjWhc5GodGPJEO) | [อยู่เฉย ๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/album/4IJ0gjuhqJoGQlwJiEMHH9) | 2:59 |
-| 5 | [คบแล้วห้ามเลิก \(No Return\) \-](https://open.spotify.com/track/0M4uSAa7OoMTTWuG7Aso2A) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [คบแล้วห้ามเลิก \(No Return\) \-](https://open.spotify.com/album/3qI4y3aWvcBjX4GqFZp1WG) | 3:23 |
+| 5 | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/track/0M4uSAa7OoMTTWuG7Aso2A) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [คบแล้วห้ามเลิก \(No Return\)](https://open.spotify.com/album/3qI4y3aWvcBjX4GqFZp1WG) | 3:23 |
 | 6 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 |
 | 7 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 |
 | 8 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 65 | [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 |
 
-Snapshot ID: `MCw5MWU2MTUzMjBiM2EzZTg2NzA3OGEyZGUwNWM4MTQyM2NhZWEyMjY2`
+Snapshot ID: `MCw0MTAzZGExNGYxNDdiNDJmMGI3YjI4NDQwMmRlNDUwYjRlZDQyMGMx`

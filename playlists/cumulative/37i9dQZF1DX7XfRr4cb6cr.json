@@ -818,7 +818,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 307656,
       "name": "Disregarding Time",
       "url": "https://open.spotify.com/track/6z5Wi1WMciQrg9v9J1Wz9X"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 204532,
       "name": "Full Av Tomhet",
       "url": "https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8"
@@ -1344,6 +1344,28 @@
       "duration_ms": 479953,
       "name": "Hlj\u00f3\u00f0",
       "url": "https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs"
+    },
+    {
+      "album": {
+        "name": "hoffnungslos",
+        "url": "https://open.spotify.com/album/4VXvX0ustBlGvyZ9wpp1Jj"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "hoffnungslos",
+      "url": "https://open.spotify.com/track/5MhMBqo6XXhgEqPaj4lg7G"
     },
     {
       "album": {
@@ -3632,7 +3654,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 307080,
       "name": "The Edges",
       "url": "https://open.spotify.com/track/6TFOEo0xcW0GhpVrubea9k"

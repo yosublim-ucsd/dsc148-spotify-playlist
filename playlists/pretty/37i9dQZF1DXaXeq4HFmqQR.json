@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Paz Court.\nDales PLAY, dales POWER.",
-  "num_followers": 12504,
+  "num_followers": 12505,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWM2MzRmOTM1YjYyZWQ3ZGQ1ZDdlZjgwZjI1OTllZjkwZmQwYjY3",
+  "snapshot_id": "MCwxYTE2M2U1MGMwMDc4MjFmYmQ4YWM0YjhjMjkzMzk1MDYxZjc2YzU5",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 182299,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/06xFmWwVcOUFy3RgmJWN6I"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Rectificar",
         "url": "https://open.spotify.com/album/30RXjLMWvfnWPIst1AOYwq"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 100419,
       "name": "Ya Pas\u00f3 la Vieja",
       "url": "https://open.spotify.com/track/3xIsKve8QasumCXEAJTeVK"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 182299,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/06xFmWwVcOUFy3RgmJWN6I"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Vivo imaginando cosas",
-        "url": "https://open.spotify.com/album/5xgjARuucedrnidak56nWb"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 242869,
-      "name": "Vivo imaginando cosas",
-      "url": "https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/2yb8vQapyQHxDj4t5JlaCw"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 122953,
       "name": "Picante",
       "url": "https://open.spotify.com/track/2Ll8wLJonJArsorf8oj2gI"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Vivo imaginando cosas",
+        "url": "https://open.spotify.com/album/5xgjARuucedrnidak56nWb"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 242869,
+      "name": "Vivo imaginando cosas",
+      "url": "https://open.spotify.com/track/1zojNwm9ZUOIRQc74WQuND"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Manzano",
-        "url": "https://open.spotify.com/album/5NwWXF2UL3jwK5WY5aZrdi"
-      },
-      "artists": [
-        {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
-        }
-      ],
-      "duration_ms": 192085,
-      "name": "Manzano",
-      "url": "https://open.spotify.com/track/3NOf0QLsXrP9Urv50nkA5L"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Te Fuiste",
         "url": "https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 196624,
       "name": "Te Fuiste",
       "url": "https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Manzano",
+        "url": "https://open.spotify.com/album/5NwWXF2UL3jwK5WY5aZrdi"
+      },
+      "artists": [
+        {
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
+        }
+      ],
+      "duration_ms": 192085,
+      "name": "Manzano",
+      "url": "https://open.spotify.com/track/3NOf0QLsXrP9Urv50nkA5L"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Bestia",
-        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
-      },
-      "artists": [
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 203584,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/0eeVBQ80pEKWMxKIIuwjFc"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 240771,
       "name": "Pajarillo Negro",
       "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Bestia",
+        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
+      },
+      "artists": [
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 203584,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/0eeVBQ80pEKWMxKIIuwjFc"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Rey Secreto",
-        "url": "https://open.spotify.com/album/0uvDf9ljskD5hI9XxvBIJI"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Rey secreto",
-      "url": "https://open.spotify.com/track/1KG6D1n93vB5N79MncATlg"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "No Me Detiene (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/02apW9dWBnukLEN0w4JZHs"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Quiero Estar Sola",
-        "url": "https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra"
+        "name": "Rey Secreto",
+        "url": "https://open.spotify.com/album/0uvDf9ljskD5hI9XxvBIJI"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Colores",
-          "url": "https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan"
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
         }
       ],
-      "duration_ms": 174257,
-      "name": "Quiero Estar Sola",
-      "url": "https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX"
+      "duration_ms": 199680,
+      "name": "Rey secreto",
+      "url": "https://open.spotify.com/track/1KG6D1n93vB5N79MncATlg"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -679,6 +663,22 @@
       "duration_ms": 181700,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/6OnDDDF6rvkDcYlG3ZDLxV"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Quiero Estar Sola",
+        "url": "https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Colores",
+          "url": "https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan"
+        }
+      ],
+      "duration_ms": 174257,
+      "name": "Quiero Estar Sola",
+      "url": "https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX"
     },
     {
       "added_at": "2023-08-02 04:00:00",

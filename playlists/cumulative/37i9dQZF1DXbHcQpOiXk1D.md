@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Yussef Dayes
 
-454 songs - 1 day 8 hr 38 min
+455 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Canta Y No Llores](https://open.spotify.com/track/06qGYdkmiFTDzLV2VOZt0j) | [John Rae](https://open.spotify.com/artist/09SVpoNxeMVRHY48xjqS0c) | [Canta Y No Llores](https://open.spotify.com/album/1JIxJ7pVGjhFW9xrhVYB5c) | 4:52 | 2022-01-28 | 2022-07-16 |
 | [Carry Me Home](https://open.spotify.com/track/3impbLGFvLfRkGrpJpBBX1) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/7fwo6lN8RS0xkttftMRHA6) | 5:27 | 2021-12-17 | 2022-04-09 |
 | [CD'S LAMENT](https://open.spotify.com/track/3aeDOjir25xQPcl5FW1DJA) | [Don't Problem](https://open.spotify.com/artist/4kNI75Fr3ijE8KxLFla3eP) | [CD's Lament](https://open.spotify.com/album/3TY9MWvlboa28kki59cR9z) | 3:48 | 2022-01-07 | 2022-04-12 |
-| [Champion](https://open.spotify.com/track/1vPNWcs7Ert6vHto2p6ySc) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Resynthesis](https://open.spotify.com/album/0h53lAKeUdvII1H6B4QvbQ) | 3:39 | 2022-06-10 |  |
+| [Champion](https://open.spotify.com/track/1vPNWcs7Ert6vHto2p6ySc) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Resynthesis](https://open.spotify.com/album/0h53lAKeUdvII1H6B4QvbQ) | 3:39 | 2022-06-10 | 2023-08-29 |
 | [Chandler](https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8) | 3:41 | 2022-02-04 | 2022-07-26 |
 | [Channel Your Anger](https://open.spotify.com/track/7eMzWIZCj6Q6GY1MEj1QbG) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Channel Your Anger](https://open.spotify.com/album/6S9uyhVqKUzLbxom8YMlTF) | 4:47 | 2022-09-09 | 2022-11-08 |
 | [Channels](https://open.spotify.com/track/42axdcjSXRX7golnIj1Xfv) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI), [Ty Healy](https://open.spotify.com/artist/2bgmIVNSG1wdRu0GfNmIH1) | [The Fresh Organic](https://open.spotify.com/album/3erQdHlfzhMAnwko7Eii5F) | 2:32 | 2022-03-24 | 2022-07-29 |
@@ -219,6 +219,7 @@
 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 | 2021-12-17 | 2022-05-27 |
 | [Late Night People](https://open.spotify.com/track/0ChZqycePk8nspWcIfHuGy) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 5:34 | 2023-03-08 | 2023-03-09 |
 | [Late Night People](https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Late Night People](https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo) | 5:34 | 2023-01-20 |  |
+| [Lazy Days \- Bluey Remix](https://open.spotify.com/track/4YbHhDPvq21gjwd05tDIke) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD) | 6:31 | 2023-08-25 |  |
 | [Leader](https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Leader](https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm) | 3:35 | 2022-07-28 |  |
 | [Lean In](https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Lean In](https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR) | 5:18 | 2023-07-13 |  |
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-03-31 | 2023-07-22 |

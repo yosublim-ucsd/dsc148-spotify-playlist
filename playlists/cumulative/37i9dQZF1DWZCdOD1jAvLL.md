@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Walker & Royce, Glass Petals & Elohim
 
-551 songs - 1 day 6 hr 27 min
+552 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/album/0imeEEICV87asg6t6YTv9z) | 4:16 | 2022-01-14 | 2022-02-26 |
 | [Come Back to Me](https://open.spotify.com/track/0wGFG26QzuMRH03ACmlyW7) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Come Back to Me](https://open.spotify.com/album/0eILQbXrlfdGPAWWmDAjM5) | 3:37 | 2022-12-09 | 2023-05-13 |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-05-26 |  |
-| [COUNTRY RIDDIM VIP](https://open.spotify.com/track/12P4d5GXxU1dnXNoAQjBAf) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM VIP](https://open.spotify.com/album/6P8KsYy2DkCv6hhNaTYZqV) | 2:57 | 2023-06-23 |  |
+| [COUNTRY RIDDIM VIP](https://open.spotify.com/track/12P4d5GXxU1dnXNoAQjBAf) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM VIP](https://open.spotify.com/album/6P8KsYy2DkCv6hhNaTYZqV) | 2:57 | 2023-06-23 | 2023-08-29 |
 | [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 | 2022-09-16 | 2023-02-11 |
 | [Crave The Bassline](https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Crave The Bassline](https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S) | 2:46 | 2022-02-25 | 2022-08-06 |
 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-06-30 |  |
@@ -387,6 +387,7 @@
 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 | 2022-01-14 | 2022-06-11 |
 | [Play By My Rules](https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Play By My Rules](https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p) | 3:37 | 2022-01-14 | 2022-04-16 |
 | [Play It Cool](https://open.spotify.com/track/4Uhgyf8VL7qfcSmZf6tpc5) | [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg) | [Play It Cool](https://open.spotify.com/album/2pRWNnWyBn07lBcIersFhK) | 2:33 | 2023-06-23 | 2023-08-06 |
+| [Pocketknife](https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Pocketknife](https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0) | 4:19 | 2023-08-25 |  |
 | [Polite \(feat\. Malokyo\)](https://open.spotify.com/track/0ymIxPq8P10uANAKQVCwCp) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Malokyo](https://open.spotify.com/artist/3xLrKqOIgw2kuEdaB1eWs6) | [Polite \(feat\. Malokyo\)](https://open.spotify.com/album/5rLswFt7tvu4Zh4rq2Yndt) | 3:19 | 2022-01-28 | 2022-05-07 |
 | [Pop Like](https://open.spotify.com/track/6lG6sIWzNkntKpBSBxat4V) | [KARBON](https://open.spotify.com/artist/3KQWdNzEwAMedviqUBAodQ) | [6am EP](https://open.spotify.com/album/5gllxDkktUWrcUZK0ORhmh) | 3:31 | 2022-12-16 | 2023-03-02 |
 | [Post\-Rave Heist](https://open.spotify.com/track/7fvxVumQ30aRR1RDmkiuI6) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [Post\-Rave Heist](https://open.spotify.com/album/30HXtVrHxww4WwnRgHQf5m) | 3:12 | 2023-02-24 | 2023-07-24 |

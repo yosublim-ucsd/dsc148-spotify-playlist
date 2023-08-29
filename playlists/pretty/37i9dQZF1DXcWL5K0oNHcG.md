@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Cisco Swank Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,126 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,172 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Sweet Jasmine](https://open.spotify.com/track/1UJElgaArW1jL1dWX726z3) | [Zoe Rahman](https://open.spotify.com/artist/3OTQOoagPkd3Jst4VGeXKK) | [Colour of Sound](https://open.spotify.com/album/6UzXKdRElh4oQivnqEFS1P) | 4:49 |
 | 75 | [Tame It](https://open.spotify.com/track/36LrjOrsZpubA8Lh5PnIGw) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [KiliHippie](https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX) | [Tame It](https://open.spotify.com/album/3lQBGb4hCkJ5HCdXOrh7Hn) | 3:35 |
 
-Snapshot ID: `MCwwZDBkNmU4NzFiODk4YzM1ZmRiNDk3ZGI2YjU3N2Y5ZDNkY2ZjOTVk`
+Snapshot ID: `MCxiMmU2MjM2MTkxNjA2ZTlmZjJkNWI3ODFmOGRiMTI4OWY2OTg2OTA3`

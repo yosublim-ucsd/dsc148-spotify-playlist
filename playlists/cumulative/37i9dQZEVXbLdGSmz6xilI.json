@@ -4730,7 +4730,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 179986,
       "name": "Em iu",
       "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
@@ -9720,7 +9720,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 317408,
       "name": "Ng\u00e0y Mai Ng\u01b0\u1eddi Ta L\u1ea5y Ch\u1ed3ng (feat. Voi B\u1ea3n \u0110\u00f4n)",
       "url": "https://open.spotify.com/track/2Npr9vbXuQYcpnsouBIrHU"
@@ -10476,7 +10476,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
@@ -10900,7 +10900,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/41JPN7pZMTp1sumBOHOzHd"
@@ -13984,7 +13984,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "tiny love",
       "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"
@@ -14317,24 +14317,6 @@
     },
     {
       "album": {
-        "name": "\u00e1i",
-        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "date_added": "2023-08-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133561,
-      "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
-      "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
-    },
-    {
-      "album": {
         "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
         "url": "https://open.spotify.com/album/0ptE7cwks2pwpcsP8ioEUL"
       },
@@ -14350,6 +14332,24 @@
       "duration_ms": 133561,
       "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
       "url": "https://open.spotify.com/track/6Lzlbce8Eg1dPg91VSx6kk"
+    },
+    {
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133784,
+      "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
+      "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
     },
     {
       "album": {
@@ -14502,6 +14502,28 @@
       "duration_ms": 104698,
       "name": "T\u1ed1i Nay Ta \u0110i \u0110\u00e2u Nh\u1edd",
       "url": "https://open.spotify.com/track/6Aq4aOWwYShupneZy71zE4"
+    },
+    {
+      "album": {
+        "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 14",
+        "url": "https://open.spotify.com/album/70HLgcLwKsulfRA6B8Vqpn"
+      },
+      "artists": [
+        {
+          "name": "RAP VI\u1ec6T",
+          "url": "https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL"
+        },
+        {
+          "name": "24k.Right",
+          "url": "https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197601,
+      "name": "T\u1eeb A \u0110\u1ebfn Z (feat. 24k.Right)",
+      "url": "https://open.spotify.com/track/2OBZtEg8DXhICWYd6yvicf"
     },
     {
       "album": {

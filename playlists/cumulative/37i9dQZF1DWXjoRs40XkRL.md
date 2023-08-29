@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-182 songs - 16 hr 41 min
+183 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Laage Re Nain](https://open.spotify.com/track/2CcDWQ91UP02tCJQBuYE8X) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Paras Nath](https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF) | [Laage Re Nain](https://open.spotify.com/album/4bthXByXAgc3gD1zVRF4ix) | 4:30 | 2022-05-17 |  |
 | [Laagi Lagan](https://open.spotify.com/track/1lC0VabWt3G9jSm3tLnh7B) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Anuja Zokarkar](https://open.spotify.com/artist/41nGHynGUDOWMtq9aiIJpE) | [Laagi Lagan](https://open.spotify.com/album/0pe7KWucbu7xaHnjeq1mNY) | 4:15 | 2022-05-17 | 2023-03-04 |
 | [Last Chance](https://open.spotify.com/track/4dXcDVX3HVQrHFyGE11wue) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Land Of Gold](https://open.spotify.com/album/4zPcbxBEKkZDEjsdbQoEJi) | 4:42 | 2022-05-17 | 2023-03-23 |
-| [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 | 2022-05-17 |  |
+| [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 | 2022-05-17 | 2023-08-29 |
 | [Lat Ulajhi](https://open.spotify.com/track/77477vF5I3QnC4lgpwYKS2) | [Anjali Gaikwad](https://open.spotify.com/artist/0moRS5SepzNxum0J5tpL1f) | [Lat Ulajhi](https://open.spotify.com/album/4J8ezAfeDYpEYyLaQ56JGD) | 3:50 | 2022-05-17 |  |
 | [Light](https://open.spotify.com/track/4es5MhsRNyI9fajnb7N5Pz) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Sahi Bol The Urban Transmission, Vol\. 1](https://open.spotify.com/album/3YDUTxF4GOS32TnwUtMdNR) | 5:06 | 2022-05-17 | 2023-05-16 |
 | [Lone Poet \(Aeri Aali\)](https://open.spotify.com/track/7vm4uByBujMi734s6LO3hm) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Liyaqat Ali Khan](https://open.spotify.com/artist/2wk2JsBXpShxG2IfSBmNC7) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:01 | 2022-05-17 |  |
@@ -109,6 +109,7 @@
 | [Nadiya](https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:37 | 2023-08-01 |  |
 | [Naina Bawre](https://open.spotify.com/track/2AdjRQ1xp5volT2wj2DfOq) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 4:51 | 2022-05-17 | 2023-01-11 |
 | [Naina More](https://open.spotify.com/track/5LI0yckeAhEOHODOq0VY8z) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 4:00 | 2023-08-01 |  |
+| [Naina Morey](https://open.spotify.com/track/37r1NOE7QlD2kBXwBqQCYn) | [Yugaant](https://open.spotify.com/artist/5P4Ef7EYfb7QDjck05Invv) | [Naina Morey](https://open.spotify.com/album/3uaS6Bty3Th4QLnCthfwWw) | 7:10 | 2023-08-28 |  |
 | [Naina Morey \- Redefined](https://open.spotify.com/track/4oZINaDR2CFCkacgsv0G5f) | [Umashankar Kathak](https://open.spotify.com/artist/0gn4c6YbczAGbmASu6EAor), [Jayesh Kathak](https://open.spotify.com/artist/1fyiw6fCA8sUoUQkainmWB), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Naina Morey \(Redefined\)](https://open.spotify.com/album/0uli1eOLGrt76V11eFtity) | 3:22 | 2022-05-17 |  |
 | [Naino Ke Ishaare](https://open.spotify.com/track/64lm0UUw3NLTWUBYogM27P) | [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV), [Shruti Dhasmana](https://open.spotify.com/artist/6IWgkz5oMp5pJwM7T3drvr) | [Naino Ke Ishaare](https://open.spotify.com/album/418atTbf5RwSqpLNpMVTBB) | 4:37 | 2022-05-17 | 2023-07-06 |
 | [Naked](https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Rise](https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP) | 4:16 | 2022-05-17 | 2023-05-24 |

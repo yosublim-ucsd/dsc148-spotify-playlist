@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Sukriti Kakar & Prakriti Kakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,642 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,737 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Over You](https://open.spotify.com/track/0UyZAe6XSZvUMbecCHjssx) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Over You](https://open.spotify.com/album/1eDxJy092G500x4bnQ4X9T) | 2:58 |
 | 2 | [Kyun Karu Fikar](https://open.spotify.com/track/2Dddc1vplxocIN8CKsoxQj) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Disha Patani](https://open.spotify.com/artist/0G14W4sYyxWBqmMzqBbUz7) | [Kyun Karu Fikar](https://open.spotify.com/album/6IRgQzdiJVxzSwqYgQ2FIO) | 2:53 |
 | 3 | [Soneya](https://open.spotify.com/track/4T3afa03vozVX8YVwsr34x) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Soneya](https://open.spotify.com/album/2g1M3zZPVkYSHIj73loQBV) | 2:34 |
-| 4 | [Saawan Aa Gaya](https://open.spotify.com/track/3DfWvj4uyO49r6jT65q4zK) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [Saawan Aa Gaya](https://open.spotify.com/album/6fumgvojJALJyVofOgwG8D) | 3:42 |
+| 4 | [Saawan Aa Gaya](https://open.spotify.com/track/3DfWvj4uyO49r6jT65q4zK) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl) | [Saawan Aa Gaya](https://open.spotify.com/album/6fumgvojJALJyVofOgwG8D) | 3:42 |
 | 5 | [Barbaad Kar Diya Tere Pyaar Ne](https://open.spotify.com/track/71JppswenQSDBxsGw7H0DX) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Barbaad Kar Diya Tere Pyaar Ne](https://open.spotify.com/album/4RMGzKcfpJDHglBRJ88ukK) | 4:21 |
 | 6 | [Melt](https://open.spotify.com/track/5I8LXURY4AJdZHtsUfxGlx) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Melt](https://open.spotify.com/album/3Bkkh7N0ia6j5PhpDTQlkt) | 2:52 |
 | 7 | [Dokhi Na](https://open.spotify.com/track/1FqYFTYND93fbxXjxZcGWC) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Dokhi Na](https://open.spotify.com/album/3H3uwQikqS1WpHLCK93Nfh) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Dil Bechara](https://open.spotify.com/track/1DxD7cihgQRytjJbKfMDgW) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [Dil Bechara](https://open.spotify.com/album/7bbmHgqhbJd8DwFVjKGGLx) | 3:02 |
 | 50 | [Jee Bhar Ke Tum…](https://open.spotify.com/track/1Q2Hv8Gi6tyW6dmA9AXdjK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jee Bhar Ke Tum…](https://open.spotify.com/album/3fKrqRkBw0tDgPZiaQRtfJ) | 4:19 |
 
-Snapshot ID: `MCwyNDZkNDQ3ZWY3OTQ3OTM3MjY3ZmZkNGI2ZmM1YjBkMzRmMDZhMzI4`
+Snapshot ID: `MCw5M2FhODQ4NDA2YzQxODkzYWRmZGUzOWU2ZmRlZTY1ZjY1ZTlhMjkz`

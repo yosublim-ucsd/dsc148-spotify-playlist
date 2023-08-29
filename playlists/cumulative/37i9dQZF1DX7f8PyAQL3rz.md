@@ -2,7 +2,7 @@
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> tropa do ninguém tá puro
+> tropa do ninguém tá puro muito menos o mc ig
 
 221 songs - 12 hr 45 min
 

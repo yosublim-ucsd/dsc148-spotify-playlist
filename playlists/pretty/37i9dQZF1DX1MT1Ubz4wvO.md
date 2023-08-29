@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con La Doloritas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,801 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,799 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 12 | [Despiértate Nena \(Herencia Lebón\)](https://open.spotify.com/track/0sVPghWdY3HdWDZnPobjni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Herencia Lebón 1](https://open.spotify.com/album/4Tl5twEpmrOihG7K566fQn) | 4:56 |
 | 13 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 |
 | 14 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/21bbADKE5VtWFDe3xhW7fi) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/4PIBAHP1GHhqSLGn5c5yFh) | 4:47 |
-| 15 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteón Rococó](https://open.spotify.com/artist/6TG20v06RKoMARZzRgwzkm) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
+| 15 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
 | 16 | [Los Niños Cuicos No Saben Rockear](https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Políticamente Incorrectos \(Soeces y Anacrónicos\)](https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU) | 2:41 |
 | 17 | [DE MUSICA LIGERA](https://open.spotify.com/track/47heFJw6XPefzl9Y3x8ZY3) | [Maxi Trusso](https://open.spotify.com/artist/1V7tGmh5DDSNE0VsUcorJL), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [DE MUSICA LIGERA](https://open.spotify.com/album/39PVuoSk7NCdNQe25SZBih) | 2:09 |
 | 18 | [Arrepentido \- Remastered 2023](https://open.spotify.com/track/4JbNEigPV9GAFHO5uJFkGl) | [Sôber](https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN) | [Paradÿsso \(Edición 20º Aniversario\)](https://open.spotify.com/album/5tASI4eXWl5uwv9MetIVkS) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Radioactiva](https://open.spotify.com/track/6FGSxqit3jy05RsA6YjfH1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [Radioactiva](https://open.spotify.com/album/2zusAQJG3or1boIhzZAZPz) | 3:46 |
 | 50 | [Tenerte](https://open.spotify.com/track/6AwOQbNB4zFT5haYfEW8I3) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Tenerte](https://open.spotify.com/album/0VLr3VxhZiloejJmgGd68Q) | 3:59 |
 
-Snapshot ID: `MCwzYjQ1MGViODI5NzZlNWY3MjM4ZWMyNTNjNmZlYTBkYWVjMmVjNmQ4`
+Snapshot ID: `MCxlNTU5Nzc1NjBlMGJkYzgyY2JhNzM3ZmIzY2I2M2RhMWI3YTUyMGFl`

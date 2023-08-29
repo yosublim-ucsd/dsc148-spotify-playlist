@@ -667,6 +667,32 @@
     },
     {
       "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/6geMwmmof8UzPHf1Sa601e"
+      },
+      "artists": [
+        {
+          "name": "RetroBlend",
+          "url": "https://open.spotify.com/artist/0RbBkpf8a8qyPt7hi8ouT7"
+        },
+        {
+          "name": "Vincent Lee",
+          "url": "https://open.spotify.com/artist/0cuXND9aMsZhko0y3w8uxw"
+        },
+        {
+          "name": "2Bough",
+          "url": "https://open.spotify.com/artist/5oie92RnkCpuSHGWiReZtq"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/7JcLj7YKRbjFnoMFHOPTi3"
+    },
+    {
+      "album": {
         "name": "Feelin' Cute",
         "url": "https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12"
       },
@@ -1182,6 +1208,24 @@
       "duration_ms": 111538,
       "name": "fly away",
       "url": "https://open.spotify.com/track/3nEKznjXAihwGO0KDodJYi"
+    },
+    {
+      "album": {
+        "name": "fly me to the moon",
+        "url": "https://open.spotify.com/album/428Omo1qGn6r2FzfpVGDwC"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "fly me to the moon",
+      "url": "https://open.spotify.com/track/0ZRXuSHt856z22kJtfqVjK"
     },
     {
       "album": {
@@ -2453,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/14DQcnhpNWXmOg7dw7Okfw"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/0ayze54kfOomri3f3E8AWz"
+    },
+    {
+      "album": {
         "name": "LoFi Covers of HipHop Classics, Vol. 1",
         "url": "https://open.spotify.com/album/0uQh1orWCbgR1T7yC5TtXE"
       },
@@ -3579,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "whenever wherever",
+        "url": "https://open.spotify.com/album/72aotBqlvlDMzKPclh76X9"
+      },
+      "artists": [
+        {
+          "name": "NSW Kenny",
+          "url": "https://open.spotify.com/artist/7rAgjCQMN8VOaqHzdKESzr"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142784,
+      "name": "whenever wherever",
+      "url": "https://open.spotify.com/track/5wzwJmf0lCtW1YRmceh0w6"
+    },
+    {
+      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/7AFEvC9ROODIHwNxEOpbaR"
       },
@@ -3652,6 +3732,24 @@
       "duration_ms": 118500,
       "name": "wrecking ball",
       "url": "https://open.spotify.com/track/36jFRBBQIUbLxc7LRmGfir"
+    },
+    {
+      "album": {
+        "name": "you can't hurry love",
+        "url": "https://open.spotify.com/album/6orhcxTbRoX9GUUXh855d2"
+      },
+      "artists": [
+        {
+          "name": "Miller Jones",
+          "url": "https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "you can't hurry love",
+      "url": "https://open.spotify.com/track/48BI0SejPrf5XPKJQZFUuR"
     },
     {
       "album": {

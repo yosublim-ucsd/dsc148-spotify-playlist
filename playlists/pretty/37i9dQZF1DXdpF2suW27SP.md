@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Dillaz entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,599 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,678 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Papo De Ninja](https://open.spotify.com/track/73OkPO9VFbtaHA6Fsu23ZS) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Eric Rodrigues](https://open.spotify.com/artist/28NuJ0rsVhiKovPID7OP1F), [LipeSky](https://open.spotify.com/artist/1xTBlYpqKiGEZfX1J32UPJ) | [My Life In Each Verse](https://open.spotify.com/album/4jWfvZcAhGOeVr0SV9JEzz) | 4:22 |
 | 75 | [Labirinto](https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [Balanço](https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93) | 2:36 |
 
-Snapshot ID: `MCw1ODdjZGRiMDI5MmNlMzFiMGMxOThkMWZiNTc2ZTZjODhmM2VhMGQ3`
+Snapshot ID: `MCwyNjMyMDc4ZGNiNzM5NjM0NzM3NzMyMjc5MzZlMWJjODFlYmFhNTFl`

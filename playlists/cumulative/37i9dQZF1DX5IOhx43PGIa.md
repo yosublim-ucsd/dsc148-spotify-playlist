@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Mitski.
 
-555 songs - 1 day 4 hr 37 min
+556 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Merry Midnight](https://open.spotify.com/track/2kSyqQJiVkF8H7huIDq0aH) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Merry Midnight](https://open.spotify.com/album/6I1rQClRttJ92IGbZsO8W4) | 4:29 | 2022-08-19 | 2022-09-19 |
 | [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 | 2022-11-18 | 2023-01-14 |
 | [Messy Sexy](https://open.spotify.com/track/4BetQSsVmncssPQ6aHmV3B) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [Messy Sexy](https://open.spotify.com/album/3oEpZOlOvjv2wVPmdcIXBE) | 2:55 | 2022-10-07 | 2022-10-30 |
-| [Metamorphosis](https://open.spotify.com/track/3RS6yYUhrAbxdHm2vALIwv) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Metamorphosis](https://open.spotify.com/album/6Bee4WtLGFdXUA1ylcBNZn) | 3:23 | 2023-03-18 |  |
+| [Metamorphosis](https://open.spotify.com/track/3RS6yYUhrAbxdHm2vALIwv) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Metamorphosis](https://open.spotify.com/album/6Bee4WtLGFdXUA1ylcBNZn) | 3:23 | 2023-03-18 | 2023-08-29 |
 | [METROPOLIS](https://open.spotify.com/track/5dGvEzPIFn5BVuGBmqBiqy) | [Stirfryboyz](https://open.spotify.com/artist/7kNe1jhO48NAEm4WhuOSqr), [Forrest Green](https://open.spotify.com/artist/3IGwWu3S86O6cSgDroSWFz), [Taebz](https://open.spotify.com/artist/5L6UHAq53G5zTorqTxO9Pk), [Leon Zhang](https://open.spotify.com/artist/7CaidoXFHnet3ANycYujvP) | [METROPOLIS](https://open.spotify.com/album/7wqkuWjJNleM3X3lgY9fvU) | 3:45 | 2022-05-27 | 2022-07-29 |
 | [MIC CHECK!](https://open.spotify.com/track/5uBavTE4TEJsd2haTboEHO) | [Shawn Mathews](https://open.spotify.com/artist/3MkpsN5uQhUMT9EMV1LgYL) | [MIC CHECK!](https://open.spotify.com/album/2HwieedpCxNQ5lxw6htbFR) | 3:11 | 2022-06-03 | 2022-07-19 |
 | [MIDNIGHT](https://open.spotify.com/track/7a2UmwAVHBHa9enFYVyzfm) | [Koven Wei](https://open.spotify.com/artist/2pkpqIb8x2VvL9NFeche19), [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS), [013](https://open.spotify.com/artist/4ul2gxPPMEBI3WOotvUpKy) | [MIDNIGHT](https://open.spotify.com/album/6vzZymCJxleZ6bRSqACu0h) | 1:48 | 2023-08-11 |  |
@@ -465,6 +465,7 @@
 | [Strangers](https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Strangers](https://open.spotify.com/album/6x0uRAJjOAx8BAC60QQHfj) | 2:48 | 2022-05-27 | 2023-02-18 |
 | [Subliminal](https://open.spotify.com/track/1IPeE85kJknYfd3tHNdb95) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Subliminal](https://open.spotify.com/album/4UXMYpJ0LmcG6ng47zxfNh) | 3:00 | 2022-05-27 | 2022-07-29 |
 | [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-02-18 |  |
+| [Summer went and came around](https://open.spotify.com/track/1j0KXEo3vffAUQEnF7EcPG) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Summer went and came around](https://open.spotify.com/album/0PLmsTuFzMLdP2bnUygGhl) | 2:48 | 2023-08-25 |  |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 |  |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-14 |  |
 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-05-27 | 2022-06-11 |

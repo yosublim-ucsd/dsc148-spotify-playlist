@@ -3683,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Comely",
+        "url": "https://open.spotify.com/album/6yjwtup5l6X1YFEGfXtxNk"
+      },
+      "artists": [
+        {
+          "name": "Aylah",
+          "url": "https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "Adulting",
+      "url": "https://open.spotify.com/track/6loqQEv0DKuPc4ztKG4gAR"
+    },
+    {
+      "album": {
         "name": "ADVENTURE GAME",
         "url": "https://open.spotify.com/album/1l4xqRpUL5pajvvdDjG8dO"
       },
@@ -4884,6 +4902,24 @@
       "duration_ms": 243946,
       "name": "All I Remembered",
       "url": "https://open.spotify.com/track/7BE0hb9SS4XhALyqlyQfna"
+    },
+    {
+      "album": {
+        "name": "BETTER THAN YESTERDAY",
+        "url": "https://open.spotify.com/album/7knc65j9xJuAgmkqVftchN"
+      },
+      "artists": [
+        {
+          "name": "SONIC STONES",
+          "url": "https://open.spotify.com/artist/27vfxcL067XrRhTY26A2kU"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165449,
+      "name": "ALL I WANT",
+      "url": "https://open.spotify.com/track/3m2J9zG9MchGqCLQvSnStR"
     },
     {
       "album": {
@@ -8550,6 +8586,24 @@
       "duration_ms": 144545,
       "name": "bag on you",
       "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
+    },
+    {
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211386,
+      "name": "Baggy Jeans",
+      "url": "https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek"
     },
     {
       "album": {
@@ -14914,6 +14968,24 @@
       "duration_ms": 219205,
       "name": "Butterfly on my mind",
       "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
+    },
+    {
+      "album": {
+        "name": "Buzok",
+        "url": "https://open.spotify.com/album/2ZRqPomkNSPRawzAyk9Zqt"
+      },
+      "artists": [
+        {
+          "name": "jayvito",
+          "url": "https://open.spotify.com/artist/2yZNiGKZ1tmcUgWdMKcFzI"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205317,
+      "name": "Buzok",
+      "url": "https://open.spotify.com/track/3J21DMkVyH0oKIJmbNCodV"
     },
     {
       "album": {
@@ -27945,6 +28017,32 @@
     },
     {
       "album": {
+        "name": "Easy (feat. AVND)",
+        "url": "https://open.spotify.com/album/5ZtaTcGloHnfbxCvscLsgX"
+      },
+      "artists": [
+        {
+          "name": "Thru",
+          "url": "https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH"
+        },
+        {
+          "name": "Rom",
+          "url": "https://open.spotify.com/artist/41bAKC5dtNhrtr1IcLJxGm"
+        },
+        {
+          "name": "AVND",
+          "url": "https://open.spotify.com/artist/0I7AyV5oybjdCeChQlltqm"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Easy (feat. AVND)",
+      "url": "https://open.spotify.com/track/2yiPvagNxSHbpCfc6KIsE1"
+    },
+    {
+      "album": {
         "name": "EASY (feat. ELO)",
         "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
       },
@@ -28512,6 +28610,24 @@
       "duration_ms": 250653,
       "name": "Empty Spot",
       "url": "https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8"
+    },
+    {
+      "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3FEji3XN3mqulGZGylifZq"
+      },
+      "artists": [
+        {
+          "name": "GB9",
+          "url": "https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/3Z7phyJg6cRQBPjUsml2EJ"
     },
     {
       "album": {
@@ -30452,6 +30568,24 @@
       "duration_ms": 154973,
       "name": "EXS",
       "url": "https://open.spotify.com/track/6nu5TMQFH9CKVQV7l4t1DD"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
+      },
+      "artists": [
+        {
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Extinction",
+      "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
     },
     {
       "album": {
@@ -37157,6 +37291,24 @@
     },
     {
       "album": {
+        "name": "New Recruit 2, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5RvByZIPeBB9CAQubLwvht"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Woo",
+          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179698,
+      "name": "Go Ahead",
+      "url": "https://open.spotify.com/track/18zDXw4oKZREzam8V2XhVB"
+    },
+    {
+      "album": {
         "name": "ROCKSTAR\u2032S LOVE",
         "url": "https://open.spotify.com/album/5Dot96PEUYb37lVTeTxTF5"
       },
@@ -38454,6 +38606,24 @@
       "duration_ms": 230998,
       "name": "Got You (Sung By Kep1er CHAEHYUN, DAYEON, YOUNGEUN)",
       "url": "https://open.spotify.com/track/7xHcAFTfp6ZIncvUPtxhgf"
+    },
+    {
+      "album": {
+        "name": "Behind you touch OST Part 3",
+        "url": "https://open.spotify.com/album/38UNZURAA0G4YOYbRqyrrz"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171233,
+      "name": "GOTCHA",
+      "url": "https://open.spotify.com/track/6CtCASWZDycFFBjRuQ9Nid"
     },
     {
       "album": {
@@ -52175,6 +52345,28 @@
     },
     {
       "album": {
+        "name": "It's you",
+        "url": "https://open.spotify.com/album/6dZLCwXYVRtxQE3B5dGcRE"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "JIIN",
+          "url": "https://open.spotify.com/artist/4IbgREYO4SZDFTVT4ikrgO"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "It's you (with JIIN)",
+      "url": "https://open.spotify.com/track/6Xqw3LpkpfoyDyjbcUWyAU"
+    },
+    {
+      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -54800,6 +54992,24 @@
       "duration_ms": 195067,
       "name": "L",
       "url": "https://open.spotify.com/track/5ghixPN8iRfCpbjBferGBz"
+    },
+    {
+      "album": {
+        "name": "L.D.R",
+        "url": "https://open.spotify.com/album/1CUJKoXROo2k16Hl7g6L11"
+      },
+      "artists": [
+        {
+          "name": "406 Project",
+          "url": "https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "L.D.R",
+      "url": "https://open.spotify.com/track/3AjhD9lDceJeRAzESkgMa4"
     },
     {
       "album": {
@@ -58121,6 +58331,28 @@
     },
     {
       "album": {
+        "name": "NEWRNBERA",
+        "url": "https://open.spotify.com/album/1EWG73KSFYGrnZ3InrANPo"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196624,
+      "name": "Lokuko (feat. Kid Wine)",
+      "url": "https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O"
+    },
+    {
+      "album": {
         "name": "LOL (Love On Lie)",
         "url": "https://open.spotify.com/album/4Xa6I5hwhwHzWdSdTq31fk"
       },
@@ -58414,6 +58646,24 @@
       "duration_ms": 317072,
       "name": "long night (feat. Youngbin)",
       "url": "https://open.spotify.com/track/7sQbiRojEE3mffKAgVOO39"
+    },
+    {
+      "album": {
+        "name": "Remain",
+        "url": "https://open.spotify.com/album/0TfYzWZrTfoSvaidY7bSc6"
+      },
+      "artists": [
+        {
+          "name": "ARO",
+          "url": "https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/5otH6WbZuPw2NLD5NTCC4B"
     },
     {
       "album": {
@@ -76057,6 +76307,24 @@
     },
     {
       "album": {
+        "name": "My Lovely Boxer (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/7eSmeEwwJsnWx9WVatKik2"
+      },
+      "artists": [
+        {
+          "name": "BO RA",
+          "url": "https://open.spotify.com/artist/18Np3ZnvCaDfLyfGbZszyl"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/2DM08gUnZ6i6w7vflks2lZ"
+    },
+    {
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/6FxUemBUj46Sxug7cDBJ6n"
       },
@@ -76108,6 +76376,24 @@
       "duration_ms": 150442,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4dY8EDpzU1RavTcPBzZMiL"
+    },
+    {
+      "album": {
+        "name": "Parang",
+        "url": "https://open.spotify.com/album/5bB1GGrQnCQ3KxkubGWg98"
+      },
+      "artists": [
+        {
+          "name": "\uc7a5\uc7ac\uc778(JEIN)",
+          "url": "https://open.spotify.com/artist/0ekCQwSWvk3CV9jT8cQkR0"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228014,
+      "name": "PARANG",
+      "url": "https://open.spotify.com/track/31XuzzJoJgCqFC2AGubogc"
     },
     {
       "album": {
@@ -80007,6 +80293,28 @@
     },
     {
       "album": {
+        "name": "Rain Falls (Feat. Heo Hoy Kyung)",
+        "url": "https://open.spotify.com/album/0W4fm63r9Y5I4d3HwN4LNV"
+      },
+      "artists": [
+        {
+          "name": "J'Kyun",
+          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
+        },
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "Rain Falls (Feat. Heo Hoy Kyung)",
+      "url": "https://open.spotify.com/track/6mfh3rWO06WqcZzMjinEMN"
+    },
+    {
+      "album": {
         "name": "ADAMAS, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0q6Wx5MI2K5p2dYLZEegmR"
       },
@@ -81668,6 +81976,24 @@
       "duration_ms": 182000,
       "name": "Resistance - Clean Ver.",
       "url": "https://open.spotify.com/track/3uho20WDf1wjk6Swl0rJxX"
+    },
+    {
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/2gQSqiXVrySzuSU9pmpQPD"
+      },
+      "artists": [
+        {
+          "name": "BDC",
+          "url": "https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213522,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/1wpqgj0jDvFagWrdtQe68d"
     },
     {
       "album": {
@@ -92457,6 +92783,24 @@
     },
     {
       "album": {
+        "name": "Cos_Mos",
+        "url": "https://open.spotify.com/album/788KcGReremTvtAuRf2K9b"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269200,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/0cSfmLlyAV9B47mwnQFYDw"
+    },
+    {
+      "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/1xWCeaqYgmdUQ2Cm90Z6Zk"
       },
@@ -94953,6 +95297,28 @@
     },
     {
       "album": {
+        "name": "Youth Hostel vol.2 Black&Orange",
+        "url": "https://open.spotify.com/album/3NB7izN7qO5c0sujkehmu7"
+      },
+      "artists": [
+        {
+          "name": "Youth Hostel",
+          "url": "https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK"
+        },
+        {
+          "name": "CHOIZA",
+          "url": "https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183548,
+      "name": "Surf (Feat. Choiza)",
+      "url": "https://open.spotify.com/track/6uA1hEfeJU801IyZjFe2cP"
+    },
+    {
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox"
       },
@@ -96514,6 +96880,24 @@
       "duration_ms": 182453,
       "name": "Tear Drop",
       "url": "https://open.spotify.com/track/5veIrFPNpxmYqj0tHGXUJ3"
+    },
+    {
+      "album": {
+        "name": "2 Kids On The Block - Part.2",
+        "url": "https://open.spotify.com/album/57xErJJ3FrLxw2o6j37F9B"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "Tear drops",
+      "url": "https://open.spotify.com/track/6oSMbec9p39YW31XfFULOG"
     },
     {
       "album": {
@@ -99956,6 +100340,24 @@
       "duration_ms": 160820,
       "name": "The Winner's Journal (feat. Dawon)",
       "url": "https://open.spotify.com/track/0WyS3feB5EHpry4JC1Vc9Z"
+    },
+    {
+      "album": {
+        "name": "The Wonderful Escape Rock Ver.",
+        "url": "https://open.spotify.com/album/4AeMSPBDqY9J3B1i2VR5Ao"
+      },
+      "artists": [
+        {
+          "name": "U-KISS",
+          "url": "https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212902,
+      "name": "The Wonderful Escape Rock Ver.",
+      "url": "https://open.spotify.com/track/11N66st0GH7nWdDJWxrzqc"
     },
     {
       "album": {
@@ -104759,6 +105161,24 @@
     },
     {
       "album": {
+        "name": "My Dearest (Original Television Soundtrack), Pt.5",
+        "url": "https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli"
+      },
+      "artists": [
+        {
+          "name": "YANG YO SEOP",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222013,
+      "name": "Unforgettable Love",
+      "url": "https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8"
+    },
+    {
+      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -107223,6 +107643,24 @@
     },
     {
       "album": {
+        "name": "The Uncanny Counter 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4Q6OEoMVgipIOxDH2xBBEP"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Watch",
+      "url": "https://open.spotify.com/track/7dm5J1Q3oakk1W5MKc0Jtu"
+    },
+    {
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0"
       },
@@ -108380,6 +108818,24 @@
       "duration_ms": 262520,
       "name": "We're done",
       "url": "https://open.spotify.com/track/3PrsigB8bAPowpEMoB9bCq"
+    },
+    {
+      "album": {
+        "name": "We're still the same",
+        "url": "https://open.spotify.com/album/30LIJFUisDpGuk6XJlqrot"
+      },
+      "artists": [
+        {
+          "name": "SOONHO",
+          "url": "https://open.spotify.com/artist/2UqlLjKZ5xxvBO6tmYMAp4"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "We're still the same",
+      "url": "https://open.spotify.com/track/7dYzFdz0OmwFZF5EQGgzM8"
     },
     {
       "album": {
@@ -114669,6 +115125,24 @@
     },
     {
       "album": {
+        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.1 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5E13un6pbRY3HaEv4R3SP4"
+      },
+      "artists": [
+        {
+          "name": "Ran",
+          "url": "https://open.spotify.com/artist/45WeznifMIAugR9udUQTNS"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211251,
+      "name": "You were all I had",
+      "url": "https://open.spotify.com/track/0rG5PzCoSGzgh6kx3nBYUZ"
+    },
+    {
+      "album": {
         "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
         "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
       },
@@ -115064,6 +115538,24 @@
       "duration_ms": 216725,
       "name": "You're My Pretty Star",
       "url": "https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw"
+    },
+    {
+      "album": {
+        "name": "You're not with me",
+        "url": "https://open.spotify.com/album/20a7D47PNNf5mtqYHvopeK"
+      },
+      "artists": [
+        {
+          "name": "The Daisy",
+          "url": "https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229418,
+      "name": "You're not with me",
+      "url": "https://open.spotify.com/track/05lTuxqRmUAGk4LiL5J0c0"
     },
     {
       "album": {
@@ -118341,6 +118833,24 @@
     },
     {
       "album": {
+        "name": "\ubc29\ub791\uc790",
+        "url": "https://open.spotify.com/album/7EOdAL92s1kwBSqYlJNAOX"
+      },
+      "artists": [
+        {
+          "name": "JOHA",
+          "url": "https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "\ubc29\ub791\uc790",
+      "url": "https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch"
+    },
+    {
+      "album": {
         "name": "THE FROST ON YOUR EDGE",
         "url": "https://open.spotify.com/album/3611OvwL52Wwj32NMzVc8e"
       },
@@ -121182,6 +121692,24 @@
       "duration_ms": 128000,
       "name": "\ud138\u3134\uc5c5 \ud574\uc57c\uaca0\uc5b4",
       "url": "https://open.spotify.com/track/72PefnmLpWagOP1iNn0EBz"
+    },
+    {
+      "album": {
+        "name": "\ud14c\ub9ac\uc6b0\uc2a4",
+        "url": "https://open.spotify.com/album/4sBMhXfG2G6DoE6U9CjJ7X"
+      },
+      "artists": [
+        {
+          "name": "Eungaeun",
+          "url": "https://open.spotify.com/artist/1oho82Suo8nHiOOvt8M2A5"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178825,
+      "name": "\ud14c\ub9ac\uc6b0\uc2a4",
+      "url": "https://open.spotify.com/track/0wIKXkhhXll0IaDYuabyWz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: m4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,950 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,957 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [i think i've had enough](https://open.spotify.com/track/4zZuT0iYT7J0Wafi4EsvYm) | [SHEMYYY](https://open.spotify.com/artist/5Q3ir1tmtUHBhBuP9m62uv) | [i think i've had enough](https://open.spotify.com/album/5bvcmTfy5phUjlfLbCKDtM) | 2:08 |
 | 80 | [anymore](https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [anymore](https://open.spotify.com/album/2MqtjWSDMmd1f2zQSdVk68) | 4:38 |
 
-Snapshot ID: `MCw1NzQyMzZjNWI3OWE2YjEwNWM0NmJiYmViYmJiMmM1NzhjMDZlMGVi`
+Snapshot ID: `MCwwMjM1NGFhM2ZhZjE1ZmQ0MGFiMjgxNjllYjhkOWIyNzQwMmQwODE0`

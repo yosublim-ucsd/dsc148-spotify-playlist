@@ -4,7 +4,7 @@
 
 > Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
 
-90 songs - 4 hr 20 min
+91 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Kidnap The Sandy Claws](https://open.spotify.com/track/06iUp1XbbaOvAmzrrZeT32) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Paul Reubens](https://open.spotify.com/artist/0bLeinXJM2eS7FWfqRmnIP), [Catherine O'Hara](https://open.spotify.com/artist/0KDbBK1pnCWEL33tRNwDhD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:02 | 2022-10-07 |  |
 | [Life Hereafter](https://open.spotify.com/track/05Nu7e8A2qpRd88tJ8JPSR) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu), [Will Arnett](https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn) | [Muppets Haunted Mansion \(Original Soundtrack\)](https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX) | 3:37 | 2022-10-07 |  |
 | [Main Title](https://open.spotify.com/track/7dRmMRZHF4y1ExlHguSypM) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus \(Original Score\)](https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu) | 1:31 | 2022-10-07 |  |
+| [Main Title](https://open.spotify.com/track/253tU7JUIy3P4zfas4BCdu) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 0:51 | 2023-08-28 |  |
 | [Making Christmas](https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:57 | 2022-10-07 |  |
 | [Monster Boogie \- From "Mickey Mouse Clubhouse"](https://open.spotify.com/track/1raHLnDJ491mN0myOMD2CR) | [Cast \- Mickey Mouse Clubhouse](https://open.spotify.com/artist/6HXWrbOvWkN7XkbsNPAoV3) | [Disney Junior Music Halloween Party](https://open.spotify.com/album/3BvAR0KQfu2aJTQM4RCq4R) | 1:18 | 2022-10-07 |  |
 | [Monster Mash](https://open.spotify.com/track/2LbLm24zFdRqFqRNhorfOO) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Mickey's Monster Bash](https://open.spotify.com/album/0dcoxFgMPKe0WWgmoBLGaG) | 2:48 | 2022-10-07 |  |

@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Be Your Own Pet
 
-538 songs - 1 day 5 hr 5 min
+540 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [I Don't Belong](https://open.spotify.com/track/5cROm5vS1sK0gM3NQL5Gr6) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Don't Belong](https://open.spotify.com/album/4No1gKG4RlwBZEShVdOwUW) | 4:31 | 2021-10-07 | 2022-03-12 |
 | [I Don't Want It](https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Don't Want It](https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm) | 2:15 | 2022-08-26 | 2022-12-10 |
 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 | 2022-06-17 | 2023-05-23 |
+| [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 | 2023-08-28 |  |
 | [I Hate My Life](https://open.spotify.com/track/0BFn6Tx59l6tYDge5IZ9e1) | [Mr\. Max](https://open.spotify.com/artist/4laks2a8FFBHbLUcS5Eli5) | [I Hate My Life](https://open.spotify.com/album/1Dz1Mhh2Ch8ddZYAENV8Me) | 3:10 | 2021-10-07 | 2022-09-24 |
 | [I Know Nothing At All](https://open.spotify.com/track/00lb13Y2ROaiMi3u5NPRFQ) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OTHERBODY](https://open.spotify.com/album/1FrxEEIn0BIIffAaf2Njfs) | 2:33 | 2023-05-22 |  |
 | [I Like You](https://open.spotify.com/track/50X4ve8zvAF4uMFTn3yMez) | [Bloods](https://open.spotify.com/artist/1zQBkffVEYoxt6Bg7YNCVs), [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [I Like You](https://open.spotify.com/album/56bo8byLWXWjpoZjgL4mrO) | 2:20 | 2022-04-01 | 2022-04-29 |
@@ -519,6 +520,7 @@
 | [vertigo](https://open.spotify.com/track/4P0ap7JtuISR0QqtIK9JZD) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [CACTI](https://open.spotify.com/album/5yxbBuZfpB3yMoUQqdwOjz) | 2:45 | 2023-04-14 |  |
 | [Very Aggressive](https://open.spotify.com/track/3S3ijQLue7Z5gbw1Jr9e8D) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a), [Mat Kerekes](https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB) | [Very Aggressive b/w Love Slam](https://open.spotify.com/album/6EVBIMMuTjYd6biWc5kUgo) | 3:13 | 2023-05-22 | 2023-08-26 |
 | [Vitch](https://open.spotify.com/track/4M9BFaMCQE2OWglBL2RSAj) | [The Oil Barons](https://open.spotify.com/artist/1X4k52x8IUJFfRD7F6Erbi) | [Vitch](https://open.spotify.com/album/4uqeBoeBfwrXMlZfTsSzxI) | 5:58 | 2021-10-07 | 2022-01-08 |
+| [Void](https://open.spotify.com/track/1bvJtmIGOW8NnI4GhPtRZ8) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Void](https://open.spotify.com/album/5c4fN5oAuiO7geZEXF60w5) | 6:43 | 2023-08-28 |  |
 | [Volcano](https://open.spotify.com/track/7n4ftOcvES1iE0VzrI71F3) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Kills Birds](https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF) | 2:48 | 2021-10-07 | 2022-08-06 |
 | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN) | 2:30 | 2022-08-05 | 2022-09-24 |
 | [Waiting](https://open.spotify.com/track/2TfZoYnsj6V0GAKytmNidf) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Waiting / Kill Something](https://open.spotify.com/album/7k4p5L2vlq7jdIAkB7HK8R) | 3:10 | 2021-11-12 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Enjoy music from GRIDMAN UNIVERSE!「グリッドマン」シリーズの楽曲を1つのプレイリストで。©円谷プロ ©2023 TRIGGER・雨宮哲／「劇場版グリッドマンユニバース」製作委員会
 
-65 songs - 3 hr 35 min
+66 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Dyna March 108BPM 2023](https://open.spotify.com/track/0vTKDmgIsz3PjP6GCyM0cF) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Gridman Universe Original Soundtrack](https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP) | 2:43 | 2023-05-16 |  |
 | [Glass Beads](https://open.spotify.com/track/3kmsVvcpMpxmWHOMOZkXIa) | [Takarada Rikka \(CV: Yume Miyamoto\)](https://open.spotify.com/artist/21U7H2nGyHH8MMDmtFn6Tq) | [Glass Beads](https://open.spotify.com/album/2fGuVJ5ZFsnqZjW2Bm62zy) | 4:03 | 2023-05-16 |  |
 | [Grid and Dyna 108BPM Choir Only 2023](https://open.spotify.com/track/4aKZ8GuSCYZiyDUu5Bhiix) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Gridman Universe Original Soundtrack](https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP) | 1:27 | 2023-05-16 |  |
-| [GRIDMAN UNIVERSE choir logo](https://open.spotify.com/track/2RveP7w35QwRXFUAwiMjpc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [GRIDMAN UNIVERSE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5OPOidgqX3BoLo6KQkzD1H) | 0:25 | 2023-05-16 |  |
+| [Gridman Universe Choir Logo](https://open.spotify.com/track/0kWHlbfitsCYDIB006axLj) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Gridman Universe Original Soundtrack](https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP) | 0:25 | 2023-05-16 |  |
+| [GRIDMAN UNIVERSE choir logo](https://open.spotify.com/track/2RveP7w35QwRXFUAwiMjpc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [GRIDMAN UNIVERSE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5OPOidgqX3BoLo6KQkzD1H) | 0:25 | 2023-05-16 | 2023-08-29 |
 | [Gridman Universe Full](https://open.spotify.com/track/1gaLqqihR7MjLdI7d350iM) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Gridman Universe Original Soundtrack](https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP) | 1:14 | 2023-05-16 |  |
 | [Heartbeat City](https://open.spotify.com/track/658iD4s4g3KnGdcP43z5ou) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Hikari](https://open.spotify.com/album/7B4RA5lKKIbw5sTj9Sce3B) | 4:17 | 2023-05-16 |  |
 | [Hl 29 Mysterious No Vocals 2023](https://open.spotify.com/track/6O9va6tAhk85qIO1vhZ9AJ) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Gridman Universe Original Soundtrack](https://open.spotify.com/album/0SNXGweJo8NgbjUyeBiarP) | 2:04 | 2023-05-16 |  |

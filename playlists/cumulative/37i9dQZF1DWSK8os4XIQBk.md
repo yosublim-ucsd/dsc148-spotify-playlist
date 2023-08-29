@@ -4,7 +4,7 @@
 
 > Nothing but the best in modern country music\. Cover: Tim McGraw
 
-540 songs - 1 day 5 hr 14 min
+541 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf) | 3:20 | 2023-01-20 | 2023-06-24 |
 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 | 2022-04-29 | 2023-01-06 |
 | [Back Then, Right Now](https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:02 | 2021-12-31 | 2022-09-17 |
-| [Back To Drinkin' Whiskey](https://open.spotify.com/track/1yxMabdQhQppaBocsV3oOF) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Back To Drinkin' Whiskey](https://open.spotify.com/album/4RrepOayEyZyXjaoqcTEeV) | 2:54 | 2023-03-31 |  |
+| [Back To Drinkin' Whiskey](https://open.spotify.com/track/1yxMabdQhQppaBocsV3oOF) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Back To Drinkin' Whiskey](https://open.spotify.com/album/4RrepOayEyZyXjaoqcTEeV) | 2:54 | 2023-03-31 | 2023-08-29 |
+| [Back To Drinkin' Whiskey](https://open.spotify.com/track/6Ut5qwtHlVBrLd9t6MVzAM) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Spillin' My Truth](https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r) | 2:54 | 2023-08-25 |  |
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-02-11 | 2022-03-12 |
 | [Beer Me](https://open.spotify.com/track/4seVoxjkAPDirc09rBui8F) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Beer Me](https://open.spotify.com/album/2bikHoDW1JivCLgmYy8ghD) | 3:01 | 2022-06-17 | 2023-01-28 |
 | [Beers And Sunshine](https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Beers And Sunshine](https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR) | 2:58 | 2021-12-31 | 2022-03-05 |

@@ -4,7 +4,7 @@
 
 > Listen to all your favorite Disney Princess songs including songs from The Little Mermaid.
 
-58 songs - 2 hr 45 min
+60 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Kingdom Dance \- From "Tangled"/Score](https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:20 | 2022-10-07 |  |
 | [Kiss the Girl \- Remastered 2014](https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst) | 2:40 | 2022-10-07 |  |
 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 | 2022-10-07 |  |
+| [Like a Princess](https://open.spotify.com/track/5sroJvvnv3YE63XRSiPips) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [Like a Princess](https://open.spotify.com/album/6h9bzkWa7k5BDgiJxG1KqV) | 2:47 | 2023-08-28 |  |
 | [Live Your Story](https://open.spotify.com/track/6dXkX4y7QWoTkhjAnjRw7h) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Live Your Story](https://open.spotify.com/album/4EZsKG8lQLmphvWsXFaYNx) | 3:26 | 2022-10-07 |  |
 | [Loyal Brave True](https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 2:46 | 2022-10-07 |  |
 | [Part of Your World](https://open.spotify.com/track/5UK5ZeUAzy3Am4VeU6ouV8) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 3:34 | 2023-08-04 |  |
@@ -66,5 +67,6 @@
 | [We Know The Way](https://open.spotify.com/track/6YH2r9NyEJTjlRmKOCvxgJ) | [Opetaia Foa'i](https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:21 | 2022-10-07 |  |
 | [When We're Human \- From "The Princess and the Frog"/Soundtrack Version](https://open.spotify.com/track/2g2kJZcu1cFTw4aKE7w9Iq) | [Michael\-Leon Wooley](https://open.spotify.com/artist/6W6iYN5Sz5DbA8CgLWBeoU), [Bruno Campos](https://open.spotify.com/artist/3VaV2rGbTKuqCiluNkToEd), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:22 | 2022-10-07 |  |
 | [When Will My Life Begin? \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:32 | 2022-10-07 |  |
+| [Where You Are](https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Louise Bush](https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 3:30 | 2023-08-28 |  |
 
 \*This playlist was first scraped on 2023-03-10. Prior content cannot be recovered.

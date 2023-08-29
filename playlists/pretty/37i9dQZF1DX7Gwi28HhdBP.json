@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw?si=PO2Z_KZ6Rny84J54tvSmlA\"> \u0639\u0628\u062f \u0627\u0644\u0628\u0627\u0633\u0637 \u062d\u0645\u0648\u062f\u0629 \u0648 <a href=\"https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV?si=LROac5XuRleQt23P0C_VKg\"> \u0639\u0645\u0631 \u0643\u0645\u0627\u0644",
-  "num_followers": 69578,
+  "num_followers": 69654,
   "original_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTNhYjM5MTViYTI4YmEzMDY0Njk0NDg3ZjQ0MjQzNmZmOTA5NzRm",
+  "snapshot_id": "MCw0M2Q3YTM3Y2FmZWQzY2Y3YTJiNWI3YTkyYmM2YmE4ODIzMDAzOThk",
   "tracks": [
     {
       "added_at": "2023-08-08 04:21:19",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-08-08 04:21:19",
       "album": {
-        "name": "Kol Youm",
-        "url": "https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "Kol Youm",
-      "url": "https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz"
-    },
-    {
-      "added_at": "2023-08-08 04:21:19",
-      "album": {
         "name": "\u062d\u0644\u0627\u0648\u0629 \u0631\u0648\u062d",
         "url": "https://open.spotify.com/album/3xhaV6jUYs1U7k4ZlDrkL3"
       },
@@ -287,22 +271,18 @@
     {
       "added_at": "2023-08-08 04:21:19",
       "album": {
-        "name": "Sam3t Kalamkom Any",
-        "url": "https://open.spotify.com/album/1T6PrKiCpf2OJMihEHqemY"
+        "name": "Kol Youm",
+        "url": "https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm"
       },
       "artists": [
         {
-          "name": "Reda El Bahrawy",
-          "url": "https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM"
-        },
-        {
-          "name": "Abdelsalam",
-          "url": "https://open.spotify.com/artist/52bZNntY7uZF12QFyLb6lW"
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
         }
       ],
-      "duration_ms": 297299,
-      "name": "Sam3t Kalamkom Any",
-      "url": "https://open.spotify.com/track/6hn5h9eNL9e3duK8GvhZc1"
+      "duration_ms": 205635,
+      "name": "Kol Youm",
+      "url": "https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz"
     },
     {
       "added_at": "2023-08-08 04:21:19",
@@ -339,6 +319,26 @@
       "duration_ms": 256045,
       "name": "El Gaw Hady",
       "url": "https://open.spotify.com/track/7kCztBeVbrQhat9yA3LVYL"
+    },
+    {
+      "added_at": "2023-08-08 04:21:19",
+      "album": {
+        "name": "Sam3t Kalamkom Any",
+        "url": "https://open.spotify.com/album/1T6PrKiCpf2OJMihEHqemY"
+      },
+      "artists": [
+        {
+          "name": "Reda El Bahrawy",
+          "url": "https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM"
+        },
+        {
+          "name": "Abdelsalam",
+          "url": "https://open.spotify.com/artist/52bZNntY7uZF12QFyLb6lW"
+        }
+      ],
+      "duration_ms": 297299,
+      "name": "Sam3t Kalamkom Any",
+      "url": "https://open.spotify.com/track/6hn5h9eNL9e3duK8GvhZc1"
     },
     {
       "added_at": "2023-08-08 04:21:19",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-08 04:21:19",
       "album": {
-        "name": "El 'Aawoo",
-        "url": "https://open.spotify.com/album/22mwdk588qhZDQv29y4Wf0"
-      },
-      "artists": [
-        {
-          "name": "Diab",
-          "url": "https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte"
-        }
-      ],
-      "duration_ms": 289515,
-      "name": "El 'Aawoo",
-      "url": "https://open.spotify.com/track/08lGn5TyiCCtmAgIOC6uW4"
-    },
-    {
-      "added_at": "2023-08-08 04:21:19",
-      "album": {
         "name": "Hayfout Alek",
         "url": "https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-08-08 04:21:19",
       "album": {
-        "name": "Mesh Hasebak",
-        "url": "https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV"
+        "name": "El 'Aawoo",
+        "url": "https://open.spotify.com/album/22mwdk588qhZDQv29y4Wf0"
       },
       "artists": [
         {
-          "name": "Hassan El Asmar",
-          "url": "https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax"
+          "name": "Diab",
+          "url": "https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte"
         }
       ],
-      "duration_ms": 348249,
-      "name": "Ketab Hayaty",
-      "url": "https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx"
+      "duration_ms": 289515,
+      "name": "El 'Aawoo",
+      "url": "https://open.spotify.com/track/08lGn5TyiCCtmAgIOC6uW4"
     },
     {
       "added_at": "2023-08-08 04:21:19",
@@ -663,6 +647,22 @@
       "duration_ms": 206213,
       "name": "Abtal El Kalam",
       "url": "https://open.spotify.com/track/3Op5brYrFPZHljQcN1gB4W"
+    },
+    {
+      "added_at": "2023-08-08 04:21:19",
+      "album": {
+        "name": "Mesh Hasebak",
+        "url": "https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV"
+      },
+      "artists": [
+        {
+          "name": "Hassan El Asmar",
+          "url": "https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax"
+        }
+      ],
+      "duration_ms": 348249,
+      "name": "Ketab Hayaty",
+      "url": "https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx"
     },
     {
       "added_at": "2023-08-08 04:21:19",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-08-08 04:21:19",
       "album": {
-        "name": "\u0627\u0644\u0633\u0645 \u062c\u0648\u0647 \u0627\u0644\u0639\u0633\u0644",
-        "url": "https://open.spotify.com/album/5oeVGgDGQOn7N0TcV4cjSi"
+        "name": "Aheb El Mobtasmin",
+        "url": "https://open.spotify.com/album/63UScCyYWwnAd7mAj33LsM"
       },
       "artists": [
         {
-          "name": "Semsem Shehab",
-          "url": "https://open.spotify.com/artist/7z6lX09yzAUCeEsYVCimo4"
+          "name": "Tarek El Sheikh",
+          "url": "https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN"
         }
       ],
-      "duration_ms": 260832,
-      "name": "\u0627\u0644\u0633\u0645 \u062c\u0648\u0647 \u0627\u0644\u0639\u0633\u0644",
-      "url": "https://open.spotify.com/track/7i2pvvHw2DbOxQQqdErN2H"
+      "duration_ms": 179541,
+      "name": "Aheb El Mobtasmin",
+      "url": "https://open.spotify.com/track/34f1MVGYf0HBC9TjLxRKnW"
     }
   ],
   "unique_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",

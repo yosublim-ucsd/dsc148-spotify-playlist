@@ -1,13 +1,157 @@
 {
   "description": "To the world, Here is NCT! Hi we are NCT!",
-  "num_followers": 643296,
+  "num_followers": 644321,
   "original_name": "This Is NCT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWU1ZjUxMjk2Nzg5YTIyNTQ3ODAxOWViMTFmM2EzMjQwZTgwZjA3",
+  "snapshot_id": "MCw0MWVlZjAxMTY5MzE2NTFlYzQ2MjlhNWYzOWNiYTRjNTBmODk5OWI5",
   "tracks": [
+    {
+      "added_at": "2023-08-28 09:00:00",
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "Baggy Jeans",
+      "url": "https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek"
+    },
+    {
+      "added_at": "2023-08-28 09:00:00",
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "Call D",
+      "url": "https://open.spotify.com/track/5YUUAvaJVo9j8VeWNhJshM"
+    },
+    {
+      "added_at": "2023-08-28 09:00:00",
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "PADO",
+      "url": "https://open.spotify.com/track/7mLHba9b39oYWxxGVbPBXX"
+    },
+    {
+      "added_at": "2023-08-28 09:00:00",
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 127493,
+      "name": "Interlude: Oasis",
+      "url": "https://open.spotify.com/track/5vJQ9vMJUE585xcIC5RPW9"
+    },
+    {
+      "added_at": "2023-08-28 09:00:00",
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "The BAT",
+      "url": "https://open.spotify.com/track/1MRC31VxOjOT7Lune15OjW"
+    },
+    {
+      "added_at": "2023-08-28 09:00:00",
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Alley Oop",
+      "url": "https://open.spotify.com/track/2lycyC7AIOSp811aJ5aRXR"
+    },
+    {
+      "added_at": "2023-08-28 09:00:00",
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "That's Not Fair",
+      "url": "https://open.spotify.com/track/5NXrKZbi6XlxtIGvGdqGb8"
+    },
+    {
+      "added_at": "2023-08-28 09:00:00",
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Kangaroo",
+      "url": "https://open.spotify.com/track/6b30ItDzcKL2oLwW8p7cRa"
+    },
+    {
+      "added_at": "2023-08-28 09:00:00",
+      "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Not Your Fault",
+      "url": "https://open.spotify.com/track/3OECqiMnDCzadpOtUocKbE"
+    },
     {
       "added_at": "2023-08-23 10:36:16",
       "album": {

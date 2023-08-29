@@ -2564,10 +2564,36 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 293666,
       "name": "Shake Ya Tailfeather (feat. Nelly & Murphy Lee)",
       "url": "https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym"
+    },
+    {
+      "album": {
+        "name": "Murphy's Law",
+        "url": "https://open.spotify.com/album/5T75pyMyLZWKvDl6jFdi0F"
+      },
+      "artists": [
+        {
+          "name": "Murphy Lee",
+          "url": "https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295173,
+      "name": "Shake Ya Tailfeather - Radio Edit",
+      "url": "https://open.spotify.com/track/4TJduXYW1Pg96EDNnfiwxJ"
     },
     {
       "album": {

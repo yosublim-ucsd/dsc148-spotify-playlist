@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,925 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,930 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 34 | [Return of Captain Rock](https://open.spotify.com/track/0hgZX6Vss9TjUitrDspu7u) | [Captain Rock](https://open.spotify.com/artist/6EoN0UOcwpUcv1ljI9nzAz) | [To the Future Shock](https://open.spotify.com/album/4q5We78ZSDvwkWnkOpfmWR) | 3:56 |
 | 35 | [Sticky Situation](https://open.spotify.com/track/2Uw8Ujmn5TQuziGYTn6muu) | [Tyrone Brunson](https://open.spotify.com/artist/2iOW6LuBHr1Qzb9gtu6ZMn) | [Sticky Situation \(Expanded\)](https://open.spotify.com/album/3xkIqTjIIytRAA3IZYM4ts) | 6:32 |
 | 36 | [Call Me Up](https://open.spotify.com/track/50oH96vYAuUy0PUaxY6FeW) | [Bromar](https://open.spotify.com/artist/4EG6PjDBrNbpKdQft6rk5S) | [Call Me Up](https://open.spotify.com/album/7wbGGlVNSqFOB0GXiC4S0d) | 6:43 |
-| 37 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
-| 38 | [Stellar Fungk](https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [The Concept](https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89) | 8:43 |
+| 37 | [Stellar Fungk](https://open.spotify.com/track/2NtsQwYhpOG6RQS99s7fwY) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e) | [The Concept](https://open.spotify.com/album/3hCQBRTU8qzvjeLNTzxm89) | 8:43 |
+| 38 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
 | 39 | [The Key](https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf) | [Wuf Ticket](https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ) | [Rare Preludes, Vol\. 4](https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1) | 6:42 |
 | 40 | [The Music Got Me](https://open.spotify.com/track/5lguq3Oj3xV220ku2J1zsd) | [Visual](https://open.spotify.com/artist/6hiGpaBakOgbJHS0f95lhK) | [Prelude's Greatest Hits, Vol\. 5](https://open.spotify.com/album/5TPiMDrNtfok3VDNYZpLgJ) | 7:26 |
 | 41 | [Haven't Been Funked Enough \- Original Mix](https://open.spotify.com/track/2lbEarePBP4FL2v5wtb9kv) | [King Sporty & The Ex Tras](https://open.spotify.com/artist/4fxcvsV2LdCKf4s8XbWZn7) | [Haven't Been Funked Enough](https://open.spotify.com/album/3Qc2hu9ngTfwe2UvGL5LPc) | 6:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCwyNTkwNzg2MmMwY2Q0YjE1Mzk5NDc2Yzk2MTkyYzVjZWIwN2U4OTFl`
+Snapshot ID: `MCw3YzVlODExNzI5NzljNzBhMjk4NDJiNDljNDcxZTc2NmFkMzExYjZi`

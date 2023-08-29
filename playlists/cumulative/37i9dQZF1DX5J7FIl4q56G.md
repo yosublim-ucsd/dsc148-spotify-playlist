@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Metalocalypse: Dethklok
 
-4,401 songs - 12 day 9 hr 26 min
+4,402 songs - 12 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2568,7 +2568,8 @@
 | [Night Of The Witch](https://open.spotify.com/track/4dlqjxUBx6wk5vt6N7x6hl) | [Dopelord](https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF) | [Night Of The Witch](https://open.spotify.com/album/7lVpjlDwYPVpJX6Hta7exG) | 7:20 | 2023-07-28 | 2023-08-05 |
 | [Night Ride](https://open.spotify.com/track/5QY5MBKj8mSimbvgDUvfvZ) | [Sumerlands](https://open.spotify.com/artist/5rASExwQQilVMuKmaOV2eW) | [Dreamkiller](https://open.spotify.com/album/12Yv3UWaeM3DpJT1TEnbei) | 4:14 | 2022-09-16 | 2022-09-24 |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-22 | 2022-07-30 |
-| [Night Vision](https://open.spotify.com/track/1G4BsiensndJJs04PjFtjX) | [Knife](https://open.spotify.com/artist/2k5WPvJQocZ1nqyPjIwB1K) | [Night Vision](https://open.spotify.com/album/08T8wALYS1O5Pgcd91U65K) | 3:17 | 2023-07-21 |  |
+| [Night Vision](https://open.spotify.com/track/1G4BsiensndJJs04PjFtjX) | [Knife](https://open.spotify.com/artist/2k5WPvJQocZ1nqyPjIwB1K) | [Night Vision](https://open.spotify.com/album/08T8wALYS1O5Pgcd91U65K) | 3:17 | 2023-07-21 | 2023-08-29 |
+| [Night Vision](https://open.spotify.com/track/2UBHsENVv4mpkiSODZkHK4) | [Knife](https://open.spotify.com/artist/2k5WPvJQocZ1nqyPjIwB1K) | [Heaven Into Dust](https://open.spotify.com/album/0Ko2g1GyzL4DTFNrUh1voq) | 3:17 | 2023-08-25 |  |
 | [Nightbird](https://open.spotify.com/track/61b43j7xO8B0FQOhK7uYpL) | [Magnus Karlsson’s Free Fall](https://open.spotify.com/artist/44xWxpnL7VA4R3bziyzvfh), [Michael Eriksen](https://open.spotify.com/artist/3GUTigil8AweqlUFibfsuM) | [Hunt the Flame](https://open.spotify.com/album/5YWjuSYtHou4vaYm3KXjTD) | 4:38 | 2023-04-14 | 2023-04-22 |
 | [Nightclub Canary](https://open.spotify.com/track/7deov4Ut9iNt60WL93TW7l) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [II](https://open.spotify.com/album/3HDd5hQcSSlyzhixp7B4wY) | 2:40 | 2022-10-28 | 2022-11-05 |
 | [Nightfall](https://open.spotify.com/track/0m6IB9pleRQPFmPxiwbAYn) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Nightfall](https://open.spotify.com/album/2hNLgB1zpWJV7jd45FYsqb) | 5:13 | 2022-02-11 | 2022-02-25 |

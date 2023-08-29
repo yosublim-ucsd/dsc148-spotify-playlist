@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: The Chemical Brothers, Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,585 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,624 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [I Forget](https://open.spotify.com/track/3bjnUJccfgU23pL35NdFZs) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3) | [I Forget](https://open.spotify.com/album/03KIBaIUPddEWUj5Rzq8Vj) | 4:08 |
 | 75 | [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 |
 
-Snapshot ID: `MCw3OThlMjM1NTFjYTMwMTM3ZTk2NjA2NTdjM2RlODMxYTFhODYwZThm`
+Snapshot ID: `MCw4ZGE4MjJjMjcxNWExMjc1YjI2MjRlZTNkNTlhYzU3OTVlNDY5OWMz`

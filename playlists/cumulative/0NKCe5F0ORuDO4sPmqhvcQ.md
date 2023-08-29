@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-490 songs - 1 day 3 hr 31 min
+492 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-09-17 | 2023-01-20 |
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-15 | 2022-03-10 |
 | [BLACKOUT](https://open.spotify.com/track/2bGOko2yETQVFk1YsGuvJ9) | [Siala](https://open.spotify.com/artist/74NRwx8DjZNrYjExNs7X1D) | [BLACKOUT](https://open.spotify.com/album/3eiGZXr67A3nol7CuxAlxB) | 2:47 | 2022-02-15 | 2022-03-10 |
+| [Bliss](https://open.spotify.com/track/17xeVh2ZpFfYPsC6JVeBbF) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Shylow](https://open.spotify.com/artist/0YUf68058a5Q4W0gSGOdi6), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Bliss](https://open.spotify.com/album/3BoSAkJgsGyLNTLO2eWpw0) | 3:04 | 2023-08-28 |  |
 | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA) | 3:04 | 2022-02-28 | 2022-03-31 |
 | [Blow The Socket](https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Blow The Socket](https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh) | 3:12 | 2022-09-22 | 2022-09-30 |
 | [BLUE LIGHT](https://open.spotify.com/track/0lvb2AhHFswSk5p4eC9LMJ) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [BLUE LIGHT](https://open.spotify.com/album/4GqBH0grTle1DOFgB2Jlem) | 4:42 | 2022-11-07 | 2023-01-30 |
@@ -491,6 +492,7 @@
 | [Wobbledrug](https://open.spotify.com/track/0xqRM5GuFJZgWXXkwaqMtV) | [WOBBLEBUG](https://open.spotify.com/artist/7gPfQfayKKrJ6X2zHg49Zu) | [Wobbledrug](https://open.spotify.com/album/1wYCpHXmc2NN3StQeefORi) | 2:57 | 2022-09-30 | 2023-01-30 |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-09 | 2022-09-19 |
 | [Worth My Time](https://open.spotify.com/track/2HBtlBkPLCvb35jcmuTUZF) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Clearer Now EP](https://open.spotify.com/album/62jgddV1RnTux5oI7uzuSU) | 4:20 | 2022-03-11 | 2022-03-31 |
+| [You](https://open.spotify.com/track/4bEhrJXoZuzVxZxiP8jzfs) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [You](https://open.spotify.com/album/7nLNrFYSLGQ0nDpxGBXNqz) | 2:36 | 2023-08-28 |  |
 | [You](https://open.spotify.com/track/2jn2xXESbqEL8HAfNN9VH8) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You Stay High](https://open.spotify.com/album/7nB5MqLrLkwjmf8fhfmcAN) | 2:48 | 2023-02-23 | 2023-06-23 |
 | [You](https://open.spotify.com/track/7mGMjDKyFiEvBReptdRyeG) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You](https://open.spotify.com/album/5QQq7rHmsOgNnFvWYpslmW) | 2:48 | 2023-01-12 | 2023-01-30 |
 | [YOU AND ME](https://open.spotify.com/track/1VyRpTEE3InYTwUGcjsHJm) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [YOU AND ME](https://open.spotify.com/album/1ltwxGR8bbmlFMprZmF9pH) | 3:40 | 2023-03-15 | 2023-04-01 |

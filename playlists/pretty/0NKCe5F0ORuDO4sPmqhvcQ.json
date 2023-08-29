@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA0NDcsYTE1ZWJhZjY0ODc0ZTE1NTE3ODIyNzQzODllZGFjMGFhZmEzMWU5NQ==",
+  "snapshot_id": "MTA0NDksNGE4ODMyY2RmMmUzMzZhNjdiNmQ0OWUzNjM3Zjk4ZGFhOGNlYWZhOQ==",
   "tracks": [
     {
       "added_at": "2023-08-16 15:10:22",
@@ -2035,6 +2035,46 @@
       "duration_ms": 192834,
       "name": "How High",
       "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
+    },
+    {
+      "added_at": "2023-08-28 17:57:50",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/7nLNrFYSLGQ0nDpxGBXNqz"
+      },
+      "artists": [
+        {
+          "name": "MarMar",
+          "url": "https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4bEhrJXoZuzVxZxiP8jzfs"
+    },
+    {
+      "added_at": "2023-08-28 18:30:29",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/3BoSAkJgsGyLNTLO2eWpw0"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "Shylow",
+          "url": "https://open.spotify.com/artist/0YUf68058a5Q4W0gSGOdi6"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/17xeVh2ZpFfYPsC6JVeBbF"
     }
   ],
   "unique_name": "Moving Castle Monthly",

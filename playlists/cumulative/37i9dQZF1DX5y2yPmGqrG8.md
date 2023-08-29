@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-514 songs - 2 day 0 hr 58 min
+515 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Lemon Day](https://open.spotify.com/track/4G0m7oplySbleIlWeLu3vH) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Lemon Day](https://open.spotify.com/album/5kU780ntZsCfCMhEn1DLQE) | 18:31 | 2022-08-03 | 2022-10-03 |
 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 | 2021-10-06 |  |
 | [Llanto](https://open.spotify.com/track/6E2ZWCcqDfOg1dHtzw99aA) | [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [We Used to Talk for Hours](https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr) | 4:12 | 2022-03-30 | 2022-06-15 |
-| [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2022-02-04 |  |
+| [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2022-02-04 | 2023-08-29 |
 | [Log In Your Fire](https://open.spotify.com/track/7txXo9E9GS7ioSX1g3RNSv) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 2:51 | 2022-02-04 | 2022-07-29 |
 | [Looking Forward to Something, Dude](https://open.spotify.com/track/5Zy5Ibs37sbDaVvxv6w2uA) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Aytche](https://open.spotify.com/album/5dArEEtokoCG3ycxekhFuc) | 4:01 | 2021-10-06 | 2022-07-12 |
 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 | 2022-03-11 |  |
@@ -419,6 +419,7 @@
 | [Sugi](https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ) | 3:52 | 2021-10-06 | 2022-07-18 |
 | [Sunrise \- Angel Bat Dawid Sunset Remix](https://open.spotify.com/track/6GPhG5ahvPQUPMT18ptFdf) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H), [Angel Bat Dawid](https://open.spotify.com/artist/59lypjMPo7ZILhNMCgaE19) | [Sunrise \(Angel Bat Dawid Sunset Remix\)](https://open.spotify.com/album/0o9Pd3hs9287F9Co0TDEOr) | 4:27 | 2021-10-06 | 2022-07-23 |
 | [Suspension](https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j) | [Blue Carbon](https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j) | [Control Voltage](https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL) | 4:54 | 2022-03-30 | 2022-07-26 |
+| [T1 Western](https://open.spotify.com/track/7MNM7Gqw9z0zKHGuHqyNhS) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [T1 Western / Back 2 The Area](https://open.spotify.com/album/6ty1SVGB432yqaaIhLiDVM) | 4:08 | 2023-08-29 |  |
 | [Tales From The Trash Stratum](https://open.spotify.com/track/7JIZlB5oRPiesFJpB0GIUZ) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Magic Oneohtrix Point Never](https://open.spotify.com/album/0oGzSazidykcL5XNTEuS9z) | 3:28 | 2022-10-14 | 2022-10-28 |
 | [Tanto](https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Tanto](https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm) | 3:36 | 2022-01-13 | 2022-07-13 |
 | [Tchengo](https://open.spotify.com/track/1wtQAV53Hwb6Yh0W2eAkvn) | [Loop Guru](https://open.spotify.com/artist/0y46raHPv0ngB5KfMhS7lV) | [Duniya](https://open.spotify.com/album/1I9JHmK9pK9IvMtsqEdTYe) | 6:22 | 2021-10-06 | 2022-04-20 |

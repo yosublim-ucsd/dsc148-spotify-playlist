@@ -47852,10 +47852,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 197124,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/1G4BsiensndJJs04PjFtjX"
+    },
+    {
+      "album": {
+        "name": "Heaven Into Dust",
+        "url": "https://open.spotify.com/album/0Ko2g1GyzL4DTFNrUh1voq"
+      },
+      "artists": [
+        {
+          "name": "Knife",
+          "url": "https://open.spotify.com/artist/2k5WPvJQocZ1nqyPjIwB1K"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197124,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/2UBHsENVv4mpkiSODZkHK4"
     },
     {
       "album": {

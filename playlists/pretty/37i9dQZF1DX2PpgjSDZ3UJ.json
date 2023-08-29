@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21213,
+  "num_followers": 21224,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTEwMmVlOWIwYjliOGFmN2UxNmJkOTMwOTZkZGU1MjE2ODY4MjVk",
+  "snapshot_id": "MCxiNWM1YWM0YTdkNThiNzhhZmUzZWUxOGE1MmVhYjc4ODgzM2NkY2Fk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "No Sentir Nada",
-        "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
-      },
-      "artists": [
-        {
-          "name": "Marem Ladson",
-          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
-        }
-      ],
-      "duration_ms": 224608,
-      "name": "No Sentir Nada",
-      "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "brotes (florecen)",
         "url": "https://open.spotify.com/album/0091N9PEv8YXYU351kmx5U"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
+        "name": "No Sentir Nada",
+        "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
       },
       "artists": [
         {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+          "name": "Marem Ladson",
+          "url": "https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0"
         }
       ],
-      "duration_ms": 316777,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
+      "duration_ms": 224608,
+      "name": "No Sentir Nada",
+      "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -835,6 +819,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 200869,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Cristales",
-        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
-      },
-      "artists": [
-        {
-          "name": "HOLOGRAMMA",
-          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
-        }
-      ],
-      "duration_ms": 225362,
-      "name": "Cristales",
-      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -887,6 +871,22 @@
       "duration_ms": 220750,
       "name": "7 O 9 - Ep. 11: Las vidas de los gato",
       "url": "https://open.spotify.com/track/2s5ZDuhEmW9wte8vCSrgev"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Cristales",
+        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
+      },
+      "artists": [
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+        }
+      ],
+      "duration_ms": 225362,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Panoramas",
-        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
-      },
-      "artists": [
-        {
-          "name": "Klaatu Suuns",
-          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
-        }
-      ],
-      "duration_ms": 304901,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Joderlo Todo",
         "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Como Rei Ayanami",
-        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
+        "name": "Panoramas",
+        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
       },
       "artists": [
         {
-          "name": "Dan Dan Dero",
-          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
+          "name": "Klaatu Suuns",
+          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
         }
       ],
-      "duration_ms": 177354,
-      "name": "Como Rei Ayanami",
-      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
+      "duration_ms": 304901,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -999,6 +983,22 @@
       "duration_ms": 186474,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Como Rei Ayanami",
+        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
+      },
+      "artists": [
+        {
+          "name": "Dan Dan Dero",
+          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
+        }
+      ],
+      "duration_ms": 177354,
+      "name": "Como Rei Ayanami",
+      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
     },
     {
       "added_at": "2020-12-01 05:03:00",

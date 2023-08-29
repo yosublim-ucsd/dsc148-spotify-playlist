@@ -1,12 +1,12 @@
 {
   "description": "La casa del trap chileno. Foto: King Savagge & Il Nene De Oro.",
-  "num_followers": 84831,
+  "num_followers": 84985,
   "original_name": "Trapperz Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2Y3ODE1NTczZjAwMDBiYTRmMzRlYjc4OTkwYjY2MDM5ZjExZWQ0",
+  "snapshot_id": "MCxjMDBkODllY2NjZDVhZmNhODRkNzFhOGYzMGJlNTdlNGFiZDAxODM1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 136842,
       "name": "OG's",
       "url": "https://open.spotify.com/track/2LSn8p8LjO6TB7NwtXcDx8"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Queremo Ma",
+        "url": "https://open.spotify.com/album/1semEeAcwPUyW9ad6OU7mA"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        }
+      ],
+      "duration_ms": 153273,
+      "name": "Queremo Ma",
+      "url": "https://open.spotify.com/track/6fguZ8G9c3TvJsjM1oEgwH"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -75,22 +95,38 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Queremo Ma",
-        "url": "https://open.spotify.com/album/1semEeAcwPUyW9ad6OU7mA"
+        "name": "Perco Con Mari",
+        "url": "https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA"
       },
       "artists": [
         {
-          "name": "Z Jocker",
-          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+          "name": "Kevin Martes 13",
+          "url": "https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS"
         },
         {
-          "name": "Piero 47",
-          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 153273,
-      "name": "Queremo Ma",
-      "url": "https://open.spotify.com/track/6fguZ8G9c3TvJsjM1oEgwH"
+      "duration_ms": 239412,
+      "name": "Perco Con Mari",
+      "url": "https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Trap Life",
+        "url": "https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 174785,
+      "name": "X Dinero",
+      "url": "https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -115,38 +151,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Perco Con Mari",
-        "url": "https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA"
+        "name": "12",
+        "url": "https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz"
       },
       "artists": [
         {
-          "name": "Kevin Martes 13",
-          "url": "https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS"
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         },
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
         }
       ],
-      "duration_ms": 239412,
-      "name": "Perco Con Mari",
-      "url": "https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/78pA1wKO2gtUy6oEpil36j"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 171489,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/0rYe2Q8YgxMYJU0K0P5ZCY"
+      "duration_ms": 157161,
+      "name": "12",
+      "url": "https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -171,50 +191,38 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "FILOTEAO",
-        "url": "https://open.spotify.com/album/5g0kpxa3LSsbjmMuc0UgGS"
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
       },
       "artists": [
         {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 148000,
-      "name": "FILOTEAO",
-      "url": "https://open.spotify.com/track/4OWmGj76zFIHnLgN9VAqQT"
+      "duration_ms": 154991,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/4sG7xEv5GJZlX1YOy5VYj9"
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
       },
       "artists": [
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 183121,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/5w3hon9Yeb3qehSDpkY8Y0"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Aborrecio",
-        "url": "https://open.spotify.com/album/344jAFq72ipLqCH5QSFh61"
-      },
-      "artists": [
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
         {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
         }
       ],
-      "duration_ms": 175998,
-      "name": "Aborrecio",
-      "url": "https://open.spotify.com/track/0z2Z7f3Osa9lZm3od9A47Y"
+      "duration_ms": 169448,
+      "name": "Singapur (feat. Yung Beef)",
+      "url": "https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -255,8 +263,8 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Trap Life",
-        "url": "https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf"
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/4sG7xEv5GJZlX1YOy5VYj9"
       },
       "artists": [
         {
@@ -264,49 +272,9 @@
           "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 174785,
-      "name": "X Dinero",
-      "url": "https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "12",
-      "url": "https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "S.U.N.O",
-        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "duration_ms": 169448,
-      "name": "Singapur (feat. Yung Beef)",
-      "url": "https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi"
+      "duration_ms": 183121,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/5w3hon9Yeb3qehSDpkY8Y0"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -347,174 +315,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "S.U.N.O",
-        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+        "name": "Como Lo So\u00f1amos",
+        "url": "https://open.spotify.com/album/152rAruglEOB88wWOGPxZI"
       },
       "artists": [
         {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 154991,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Mal de Amore",
-        "url": "https://open.spotify.com/album/4jRI21AKiwDc7fLQ6Nfi6o"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Acertijo",
-          "url": "https://open.spotify.com/artist/6IesInVaMMNtX7DZchRTbJ"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Capi Capichi",
-      "url": "https://open.spotify.com/track/2AM3EwEYcaDO0ZK6Z90CS2"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Flaites NY",
-        "url": "https://open.spotify.com/album/2q7TNii8WNMbkmNRbenrgV"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Dale Tu Kolin",
-      "url": "https://open.spotify.com/track/40n3urD4QnPkPi7kSlk7kx"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "WorKING",
-        "url": "https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "PFQG",
-      "url": "https://open.spotify.com/track/0TDOQOWiL6iw3xW0EF0GKc"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "001",
-        "url": "https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 161652,
-      "name": "XERATON",
-      "url": "https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "La Luz Es \u00danica",
-        "url": "https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB"
-      },
-      "artists": [
-        {
-          "name": "Piero 47",
-          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
-        },
-        {
-          "name": "King Fly",
-          "url": "https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Amiri Jeans",
-      "url": "https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "El Rey De Los Trenches",
-        "url": "https://open.spotify.com/album/0XnkIuet2kdHwNFMdKA9RX"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Drakomafia",
-          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "No Quiero Atraso",
-      "url": "https://open.spotify.com/track/105O8vW1px3oc5Di2EC4Yd"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Digame Usted",
-        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 141688,
-      "name": "Digame Usted",
-      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "El Duende Verde",
-        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "La Zowi",
-          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
-        }
-      ],
-      "duration_ms": 204590,
-      "name": "Exotica (feat. La Zowi)",
-      "url": "https://open.spotify.com/track/03zrHVbUNHve5e7eIBMBGC"
+      "duration_ms": 198000,
+      "name": "Como Lo So\u00f1amos",
+      "url": "https://open.spotify.com/track/5XrnoEO5tgKrpg2jLFoglw"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -543,34 +355,98 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "001",
-        "url": "https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1"
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
       },
       "artists": [
         {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
         }
       ],
-      "duration_ms": 146553,
-      "name": "AKRI TU ERE UN XULO",
-      "url": "https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U"
+      "duration_ms": 204590,
+      "name": "Exotica (feat. La Zowi)",
+      "url": "https://open.spotify.com/track/03zrHVbUNHve5e7eIBMBGC"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Como Lo So\u00f1amos",
-        "url": "https://open.spotify.com/album/152rAruglEOB88wWOGPxZI"
+        "name": "El Rey De Los Trenches",
+        "url": "https://open.spotify.com/album/0XnkIuet2kdHwNFMdKA9RX"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Como Lo So\u00f1amos",
-      "url": "https://open.spotify.com/track/5XrnoEO5tgKrpg2jLFoglw"
+      "duration_ms": 214800,
+      "name": "No Quiero Atraso",
+      "url": "https://open.spotify.com/track/105O8vW1px3oc5Di2EC4Yd"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "FILOTEAO",
+        "url": "https://open.spotify.com/album/5g0kpxa3LSsbjmMuc0UgGS"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "FILOTEAO",
+      "url": "https://open.spotify.com/track/4OWmGj76zFIHnLgN9VAqQT"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/78pA1wKO2gtUy6oEpil36j"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 171489,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/0rYe2Q8YgxMYJU0K0P5ZCY"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "898",
+        "url": "https://open.spotify.com/album/3H8MfVpMUsydvLI5pbVUde"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 76271,
+      "name": "Miami Vibes",
+      "url": "https://open.spotify.com/track/028ScBVIUAYXeuiFvGki1e"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -595,36 +471,8 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/7ANEdD9W9s0uaPMFkF7oty"
-      },
-      "artists": [
-        {
-          "name": "Dehilan",
-          "url": "https://open.spotify.com/artist/3TY8uR5cMZF7zX2xw5mrYI"
-        },
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        }
-      ],
-      "duration_ms": 320142,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/0Wf76ocoKFtAMlwuKRRWZu"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Jordan Bape",
-        "url": "https://open.spotify.com/album/2W0b733Gj2AgYOTWstFqwG"
+        "name": "La Luz Es \u00danica",
+        "url": "https://open.spotify.com/album/1DsJVfcNlWH0W1Ie4QxBWB"
       },
       "artists": [
         {
@@ -632,163 +480,59 @@
           "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
         },
         {
-          "name": "Galee Galee",
-          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+          "name": "King Fly",
+          "url": "https://open.spotify.com/artist/3bfahxMCLID17MMlD2DfGc"
         }
       ],
-      "duration_ms": 234335,
-      "name": "Jordan Bape",
-      "url": "https://open.spotify.com/track/5dnoALe7sZbJQhklAGMBp2"
+      "duration_ms": 136320,
+      "name": "Amiri Jeans",
+      "url": "https://open.spotify.com/track/1kavadKZM6Ah01m1rFCU0o"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Mi Trap",
-        "url": "https://open.spotify.com/album/4UM2Lb9e4MBrj0vPjZA4OQ"
+        "name": "WorKING",
+        "url": "https://open.spotify.com/album/5HIukESDGbdiiL03rL5aBl"
       },
       "artists": [
         {
           "name": "King Savagge",
           "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Moonkey",
-          "url": "https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Mi Trap",
-      "url": "https://open.spotify.com/track/1ClVzLNM120B8JIWs6aF1x"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Onward",
-        "url": "https://open.spotify.com/album/7thoKr7EPk4YBgSy1zVXmc"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Young Kieff",
-          "url": "https://open.spotify.com/artist/4A7KjkSSYRNjt9Cp9MNEx4"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Norty",
-      "url": "https://open.spotify.com/track/41WenSWfGMM2moyuFtKwAK"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Porsche",
-        "url": "https://open.spotify.com/album/4HztiO4eBWAJHWLAUQMFCN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Idarraga",
-          "url": "https://open.spotify.com/artist/3MKQRvXoGPMo9WmSqFA36A"
-        },
-        {
-          "name": "Drakomafia",
-          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
         },
         {
           "name": "Pablo Chill-E",
           "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Zewa",
-          "url": "https://open.spotify.com/artist/0b3v0MjhWKcPxVOhZhofdL"
-        },
-        {
-          "name": "Il Nene De Oro",
-          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
         }
       ],
-      "duration_ms": 403809,
-      "name": "Porsche",
-      "url": "https://open.spotify.com/track/3pxgbTB4ISycXnQZwAEb2W"
+      "duration_ms": 222720,
+      "name": "PFQG",
+      "url": "https://open.spotify.com/track/0TDOQOWiL6iw3xW0EF0GKc"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "FINALMENTE RICO",
-        "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
+        "name": "Flaites NY",
+        "url": "https://open.spotify.com/album/2q7TNii8WNMbkmNRbenrgV"
       },
       "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
         {
           "name": "Julianno Sosa",
           "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 186666,
-      "name": "RICO POBRE",
-      "url": "https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe"
+      "duration_ms": 207333,
+      "name": "Dale Tu Kolin",
+      "url": "https://open.spotify.com/track/40n3urD4QnPkPi7kSlk7kx"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Fondo de Bikini",
-        "url": "https://open.spotify.com/album/2MDf7f36XF0Tm6r3ZWLIzl"
-      },
-      "artists": [
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
-        },
-        {
-          "name": "Vishoko",
-          "url": "https://open.spotify.com/artist/2VoIm519FXqOTdQciVXLMe"
-        },
-        {
-          "name": "Ov Black",
-          "url": "https://open.spotify.com/artist/7ulWyRMgAVwTZbDBTd6e35"
-        }
-      ],
-      "duration_ms": 247015,
-      "name": "Fondo de Bikini",
-      "url": "https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Vio",
-        "url": "https://open.spotify.com/album/6WC4uEu0ZKRQbbT86dLKW1"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Vio",
-      "url": "https://open.spotify.com/track/2NLmRhd8PyUozDQRSnQ8RD"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Misiones (Remix) (feat. Duki)",
-        "url": "https://open.spotify.com/album/5Ovh7KZm4TLsJGF8JZe7uS"
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
       },
       "artists": [
         {
@@ -796,37 +540,45 @@
           "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Misiones (Remix) (feat. Duki)",
-      "url": "https://open.spotify.com/track/56EvTtsyFL3JRjgnrafZQ0"
+      "duration_ms": 201014,
+      "name": "Chinese (feat. King Savagge)",
+      "url": "https://open.spotify.com/track/3riIoSIEMCU45UDaVuc7v2"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Mami Trap",
-        "url": "https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh"
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
       },
       "artists": [
         {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        },
-        {
-          "name": "Galee Galee",
-          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
-        },
-        {
-          "name": "Piero 47",
-          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 178646,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/4ph3KcM6ofrigPKpb6mNY6"
+      "duration_ms": 241495,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Nexus",
+        "url": "https://open.spotify.com/album/2HDdAJMEazPGuWs32sJWYq"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 145957,
+      "name": "Nexus",
+      "url": "https://open.spotify.com/track/7zXQyhKHyNb2vKXESgZxSK"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -859,38 +611,378 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Inmortal",
-        "url": "https://open.spotify.com/album/2tzC3V05vkZW60Ch6G5KJW"
+        "name": "Misiones (Remix) (feat. Duki)",
+        "url": "https://open.spotify.com/album/5Ovh7KZm4TLsJGF8JZe7uS"
       },
       "artists": [
         {
-          "name": "Kevin Martes 13",
-          "url": "https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Misiones (Remix) (feat. Duki)",
+      "url": "https://open.spotify.com/track/56EvTtsyFL3JRjgnrafZQ0"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Vio",
+        "url": "https://open.spotify.com/album/6WC4uEu0ZKRQbbT86dLKW1"
+      },
+      "artists": [
         {
           "name": "Pablo Chill-E",
           "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 236287,
-      "name": "Perco Con Mari - Remastered",
-      "url": "https://open.spotify.com/track/0HKqQcmVbtXhoxLGPZRq8J"
+      "duration_ms": 132000,
+      "name": "Vio",
+      "url": "https://open.spotify.com/track/2NLmRhd8PyUozDQRSnQ8RD"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Nexus",
-        "url": "https://open.spotify.com/album/2HDdAJMEazPGuWs32sJWYq"
+        "name": "FINALMENTE RICO",
+        "url": "https://open.spotify.com/album/5w6b1S6V1hgZetL2YaQPJk"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "RICO POBRE",
+      "url": "https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/7thoKr7EPk4YBgSy1zVXmc"
       },
       "artists": [
         {
           "name": "Harry Nach",
           "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Young Kieff",
+          "url": "https://open.spotify.com/artist/4A7KjkSSYRNjt9Cp9MNEx4"
         }
       ],
-      "duration_ms": 145957,
-      "name": "Nexus",
-      "url": "https://open.spotify.com/track/7zXQyhKHyNb2vKXESgZxSK"
+      "duration_ms": 153253,
+      "name": "Norty",
+      "url": "https://open.spotify.com/track/41WenSWfGMM2moyuFtKwAK"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Mi Trap",
+        "url": "https://open.spotify.com/album/4UM2Lb9e4MBrj0vPjZA4OQ"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Moonkey",
+          "url": "https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Mi Trap",
+      "url": "https://open.spotify.com/track/1ClVzLNM120B8JIWs6aF1x"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Jordan Bape",
+        "url": "https://open.spotify.com/album/2W0b733Gj2AgYOTWstFqwG"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        }
+      ],
+      "duration_ms": 234335,
+      "name": "Jordan Bape",
+      "url": "https://open.spotify.com/track/5dnoALe7sZbJQhklAGMBp2"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/7ANEdD9W9s0uaPMFkF7oty"
+      },
+      "artists": [
+        {
+          "name": "Dehilan",
+          "url": "https://open.spotify.com/artist/3TY8uR5cMZF7zX2xw5mrYI"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "duration_ms": 320142,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/0Wf76ocoKFtAMlwuKRRWZu"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Digame Usted",
+        "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 141688,
+      "name": "Digame Usted",
+      "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 161652,
+      "name": "XERATON",
+      "url": "https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Aborrecio",
+        "url": "https://open.spotify.com/album/344jAFq72ipLqCH5QSFh61"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 175998,
+      "name": "Aborrecio",
+      "url": "https://open.spotify.com/track/0z2Z7f3Osa9lZm3od9A47Y"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "Shisosa",
+          "url": "https://open.spotify.com/artist/5RsDsSAjkrjeEekDmtbJKJ"
+        }
+      ],
+      "duration_ms": 160024,
+      "name": "Shupano (feat. Young Cister, Bryartz & Shisosa)",
+      "url": "https://open.spotify.com/track/2CIx7kjDwTdNNyMuC7sDFM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Aborrecio",
+        "url": "https://open.spotify.com/album/3mvr64wBs7lsr2jwzwlWKR"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Nikxz",
+          "url": "https://open.spotify.com/artist/1hQJhlI1r2oa893f8N6wcg"
+        }
+      ],
+      "duration_ms": 242005,
+      "name": "Aborrecio",
+      "url": "https://open.spotify.com/track/3ADriUpeN2lGE8tfcAr1oP"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "MAFFIOSO",
+        "url": "https://open.spotify.com/album/3lyHfZOWkuKvhqg2m5n8D5"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "TrapStar",
+      "url": "https://open.spotify.com/track/3YxGHS6Ggv4AgSBMNRPJf9"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Ninja",
+        "url": "https://open.spotify.com/album/7wzvfaRD20FC9S5yJYNlxQ"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 140783,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/1KA0rapksWOFfakg6nWxCz"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/1v6UyyAbeY4ZdE5wmB3yUm"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 124528,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/2TnfIvH4ywjwcJiS049sdh"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "NANANA",
+        "url": "https://open.spotify.com/album/4kb9GNszUZkwCyvjdNn6go"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 233691,
+      "name": "NANANA",
+      "url": "https://open.spotify.com/track/46v7xjMRboET7RmhbJvK5g"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 177073,
+      "name": "Asueto",
+      "url": "https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "SHISHI Mixtape",
+        "url": "https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 184359,
+      "name": "SHISHIBROKE",
+      "url": "https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "Savage Kreamly",
+          "url": "https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "TU MANUAL",
+      "url": "https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -931,178 +1023,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "El Duende Verde",
-        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 241495,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "FR\u00cdO",
-        "url": "https://open.spotify.com/album/35pPpQjgXMiiDtlJDvcOa3"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "Savage Kreamly",
-          "url": "https://open.spotify.com/artist/2fPLpBaRBMEwljraJ7FxrU"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "TU MANUAL",
-      "url": "https://open.spotify.com/track/2Ivbso5dqUKe1yLLbTcqAM"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "898",
-        "url": "https://open.spotify.com/album/3H8MfVpMUsydvLI5pbVUde"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 76271,
-      "name": "Miami Vibes",
-      "url": "https://open.spotify.com/track/028ScBVIUAYXeuiFvGki1e"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "SHISHI Mixtape",
-        "url": "https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 184359,
-      "name": "SHISHIBROKE",
-      "url": "https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Hard Style",
-        "url": "https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 122520,
-      "name": "Hard Style",
-      "url": "https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Glizzy",
-        "url": "https://open.spotify.com/album/3t0PHupmoyPbOp7e1oEZWf"
-      },
-      "artists": [
-        {
-          "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
-        }
-      ],
-      "duration_ms": 179130,
-      "name": "Glizzy",
-      "url": "https://open.spotify.com/track/5CIRCz2npiu1N57wTPp0rM"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "El Duende Verde",
-        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 201014,
-      "name": "Chinese (feat. King Savagge)",
-      "url": "https://open.spotify.com/track/3riIoSIEMCU45UDaVuc7v2"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "S.U.N.O",
-        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 177073,
-      "name": "Asueto",
-      "url": "https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "NANANA",
-        "url": "https://open.spotify.com/album/4kb9GNszUZkwCyvjdNn6go"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 233691,
-      "name": "NANANA",
-      "url": "https://open.spotify.com/track/46v7xjMRboET7RmhbJvK5g"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Mami Trap",
         "url": "https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh"
       },
@@ -1110,33 +1030,345 @@
         {
           "name": "Loyaltty",
           "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Galee Galee",
+          "url": "https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
         }
       ],
-      "duration_ms": 147849,
-      "name": "Manifiesto",
-      "url": "https://open.spotify.com/track/2aYsBCPVZqRMGcS74D6jTS"
+      "duration_ms": 178646,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/4ph3KcM6ofrigPKpb6mNY6"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Freestyle Session",
-        "url": "https://open.spotify.com/album/1YDdNdnOQ0BrUGtOWgEo17"
+        "name": "Fondo de Bikini",
+        "url": "https://open.spotify.com/album/2MDf7f36XF0Tm6r3ZWLIzl"
       },
       "artists": [
         {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Vishoko",
+          "url": "https://open.spotify.com/artist/2VoIm519FXqOTdQciVXLMe"
+        },
+        {
+          "name": "Ov Black",
+          "url": "https://open.spotify.com/artist/7ulWyRMgAVwTZbDBTd6e35"
         }
       ],
-      "duration_ms": 159503,
-      "name": "Freestyle Session",
-      "url": "https://open.spotify.com/track/6j0G8UFVuGmstwMbzATyOn"
+      "duration_ms": 247015,
+      "name": "Fondo de Bikini",
+      "url": "https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/1v6UyyAbeY4ZdE5wmB3yUm"
+        "name": "Porsche",
+        "url": "https://open.spotify.com/album/4HztiO4eBWAJHWLAUQMFCN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Idarraga",
+          "url": "https://open.spotify.com/artist/3MKQRvXoGPMo9WmSqFA36A"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Zewa",
+          "url": "https://open.spotify.com/artist/0b3v0MjhWKcPxVOhZhofdL"
+        },
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        }
+      ],
+      "duration_ms": 403809,
+      "name": "Porsche",
+      "url": "https://open.spotify.com/track/3pxgbTB4ISycXnQZwAEb2W"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/2S8NVIzCeTvVRcEPJyhSFk"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Ring",
+      "url": "https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "LA MANTECA (REMIX)",
+        "url": "https://open.spotify.com/album/6HhvKvNTFEgraWt4bLYKZ6"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Massi Nada Mas",
+          "url": "https://open.spotify.com/artist/5PTf3CTYbKbzH785tmu3WK"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Diamante Ayala",
+          "url": "https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        },
+        {
+          "name": "Papi Trujillo",
+          "url": "https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb"
+        },
+        {
+          "name": "Cuban Bling",
+          "url": "https://open.spotify.com/artist/41nImv0wbNHHsBhbBpwG8S"
+        }
+      ],
+      "duration_ms": 359500,
+      "name": "LA MANTECA - REMIX",
+      "url": "https://open.spotify.com/track/5x1wKXnbhBMDRlzpZ5chUh"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Tierra y Venus",
+        "url": "https://open.spotify.com/album/6Rd9WfSOzBTvNF8RaLaCDA"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        }
+      ],
+      "duration_ms": 226280,
+      "name": "Tierra y Venus",
+      "url": "https://open.spotify.com/track/5p9qC7CUghVEBPObrkLP1c"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "MARIL\u00da",
+        "url": "https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "MARIL\u00da",
+      "url": "https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Hip\u00f3critas",
+        "url": "https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Hip\u00f3critas",
+      "url": "https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Haciendo Billete",
+        "url": "https://open.spotify.com/album/0xxvVt3drEUc0xIHy18n6C"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Haciendo Billete",
+      "url": "https://open.spotify.com/track/4MQp8Cw2tLo2MJYDR5GUdg"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Desde el Fin del Mundo",
+        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Obie Wanshot",
+          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 280135,
+      "name": "Fifty Fifty",
+      "url": "https://open.spotify.com/track/5B84PuLYzNjHvfy5EpgsfW"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "512 (Remix)",
+        "url": "https://open.spotify.com/album/4cgQ9rirfimR3nOxZ4fXvb"
+      },
+      "artists": [
+        {
+          "name": "Maickyel",
+          "url": "https://open.spotify.com/artist/3iuxTg8tCKBuRDIrAADvqI"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 178157,
+      "name": "512 - Remix",
+      "url": "https://open.spotify.com/track/1Fs8wvSOyhNiFyMS35AufX"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Aburrido",
+        "url": "https://open.spotify.com/album/2MCIfa3wYX8ru8do68PxfJ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        },
+        {
+          "name": "Inti Illimani Hist\u00f3rico",
+          "url": "https://open.spotify.com/artist/3ofeDjH3XD66EbnLIHWk8i"
+        }
+      ],
+      "duration_ms": 229355,
+      "name": "Aburrido",
+      "url": "https://open.spotify.com/track/1QX8IaUVnmdZo8jqyGyZfZ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "VLONE",
+        "url": "https://open.spotify.com/album/6E3i0fUfZf0QseLtnot3S6"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "VLONE",
+      "url": "https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Un Par",
+        "url": "https://open.spotify.com/album/4YevGLk5uzxNsy9y5QqIDV"
+      },
+      "artists": [
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 183063,
+      "name": "Un Par",
+      "url": "https://open.spotify.com/track/1P6XcdMFWrFkjyr9DmCerA"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
       },
       "artists": [
         {
@@ -1144,31 +1376,295 @@
           "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 124528,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/2TnfIvH4ywjwcJiS049sdh"
+      "duration_ms": 118746,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "LoveDrip",
-        "url": "https://open.spotify.com/album/3S1aENeLvAtwusRPKZCdLf"
+        "name": "Vivo Como Quiero",
+        "url": "https://open.spotify.com/album/5KttP33PxDtk4076lN1h6e"
       },
       "artists": [
         {
-          "name": "Mob 550",
-          "url": "https://open.spotify.com/artist/6S3HYIuX1ncQQqcdHOUFqJ"
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
         }
       ],
-      "duration_ms": 144014,
-      "name": "LoveDrip",
-      "url": "https://open.spotify.com/track/31xSuB5yF3w8ZIrdK1TWtt"
+      "duration_ms": 182892,
+      "name": "Vivo Como Quiero",
+      "url": "https://open.spotify.com/track/7JK8Z5ETSuzCaEW2SkQhV4"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "POPCORN",
-        "url": "https://open.spotify.com/album/6RNKxVM0RlZQ3qTLV5Kbj7"
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/5c5huROnywDnMjJhSr2vIh"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Jackboy",
+          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Instinto",
+      "url": "https://open.spotify.com/track/2AK5fEIhlG6Od3P3gPxtZP"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/6kMcHwptVqA1bJdj8plMZn"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 149064,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/4ls9U6ee7CRONWg4mfWgpN"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "No Saen",
+        "url": "https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Keylon",
+          "url": "https://open.spotify.com/artist/2GxzgycJFZivGAteZpqUe5"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "El Extendo",
+      "url": "https://open.spotify.com/track/13dOCMI6S2yLVvmC3CgDW5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Viva Los ShiShi",
+        "url": "https://open.spotify.com/album/6tFwh91QTTcIn3KCwRWIll"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 176743,
+      "name": "Viva Los ShiShi",
+      "url": "https://open.spotify.com/track/2OKvnIShlUE7G5b6eff9CP"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "No Saen",
+        "url": "https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 161383,
+      "name": "Tu No Saben",
+      "url": "https://open.spotify.com/track/4P2RAk00C46M6qXvZtlSBX"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Hood",
+        "url": "https://open.spotify.com/album/79LOfwxYQhNeU2bg3EdaXr"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "Hood",
+      "url": "https://open.spotify.com/track/5dLd9IBu8aZe47JKwhKvLi"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "De Menor The Mixtape",
+        "url": "https://open.spotify.com/album/3LCwivmmmk4nW0yazWyYsO"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 163318,
+      "name": "Tu No Eres Trap",
+      "url": "https://open.spotify.com/track/3pDVwA9qF4TwmysETmgw01"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Juegos de Matel (feat. El Menor y El Barto)",
+        "url": "https://open.spotify.com/album/6N3LPbmSG9D6Of82jugIPN"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "El Menor",
+          "url": "https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        }
+      ],
+      "duration_ms": 239349,
+      "name": "Juegos de Matel (feat. El Menor y El Barto)",
+      "url": "https://open.spotify.com/track/6vdBpuktDTX4Y7JPAxgTNF"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Surprise (feat. Polim\u00e1 Westcoast)",
+        "url": "https://open.spotify.com/album/5IliKcYtvrJx1tuVN7b8KP"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 214869,
+      "name": "Surprise (feat. Polim\u00e1 Westcoast)",
+      "url": "https://open.spotify.com/track/4CFCEImu0SbRkH4WaFFK6H"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "Sismo",
+      "url": "https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/2ijGx0y4jmpC2bkhUZHrCv"
+      },
+      "artists": [
+        {
+          "name": "Yaero",
+          "url": "https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k"
+        }
+      ],
+      "duration_ms": 176678,
+      "name": "Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/1OIKecKxcQVrVUdtEbI8EP"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Like Boss (Remix) (feat. Duki, Bizarrap, Akapellah, Moonkey, Polima Westcoast, Santoz, Zanto)",
+        "url": "https://open.spotify.com/album/5nFrn5iITgj3ScvqIUcKP1"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Zanto",
+          "url": "https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Moonkey",
+          "url": "https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Santoz",
+          "url": "https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 362281,
+      "name": "Like Boss - Remix (feat. Duki, Bizarrap, Akapellah, Polima Westcoast, Moonkey, Zanto, Santoz)",
+      "url": "https://open.spotify.com/track/2H2pkZBzWDX2TzGW7sp014"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "A fuego",
+        "url": "https://open.spotify.com/album/1LKQhcknuHIBlnIsnXuQNj"
       },
       "artists": [
         {
@@ -1176,41 +1672,249 @@
           "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         }
       ],
-      "duration_ms": 224086,
-      "name": "POPCORN",
-      "url": "https://open.spotify.com/track/5ChxsXRR90JKLyOjMeTPL0"
+      "duration_ms": 233793,
+      "name": "A fuego",
+      "url": "https://open.spotify.com/track/27vwyCYHvKYjb7Wl5dJUPl"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/5CPoCagiLaJlU3ILJ65FdY"
+        "name": "Shishi Plugg",
+        "url": "https://open.spotify.com/album/0EDzLjsolQn2ON3Zn9IJ20"
       },
       "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "ALEX FATT",
+          "url": "https://open.spotify.com/artist/662AsYFCIZoKBTgrMvdSGy"
+        },
+        {
+          "name": "OldPurp",
+          "url": "https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi"
+        },
+        {
+          "name": "Left Behind",
+          "url": "https://open.spotify.com/artist/3oPnhTiVCK16n4lh2BDFVd"
+        }
+      ],
+      "duration_ms": 214644,
+      "name": "Generaciones (feat. OldPurp & Left Behind)",
+      "url": "https://open.spotify.com/track/1T4DYB11yGiuco0hAD6k9h"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "4 My Guap",
+        "url": "https://open.spotify.com/album/7E83IjQpHhPok8TRvm6Fxw"
+      },
+      "artists": [
+        {
+          "name": "Neelo",
+          "url": "https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q"
+        },
         {
           "name": "Young Cister",
           "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
         },
         {
-          "name": "Nfx",
-          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+          "name": "Sander Wazz",
+          "url": "https://open.spotify.com/artist/3O2ALOTlfmlMCabLD6YVcb"
+        }
+      ],
+      "duration_ms": 249915,
+      "name": "4 My Guap",
+      "url": "https://open.spotify.com/track/3qobz0gjII9F42kAdrvueO"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Mode On",
+        "url": "https://open.spotify.com/album/79RYVRZr0yVV0B0qid9qoy"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
         },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        }
+      ],
+      "duration_ms": 167991,
+      "name": "Mode On, Marcianeke #05",
+      "url": "https://open.spotify.com/track/6aFtRDWUyybfR3578mB3Bv"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Entre Envidia Y Muerte",
+        "url": "https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW"
+      },
+      "artists": [
+        {
+          "name": "Crucer",
+          "url": "https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 373970,
+      "name": "Entre Envidia Y Muerte",
+      "url": "https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "To' Tu Size",
+        "url": "https://open.spotify.com/album/350YEZ7qaf4m2T887RcfW2"
+      },
+      "artists": [
         {
           "name": "DrefQuila",
           "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "H Empire",
-          "url": "https://open.spotify.com/artist/5NrnVIh7EqdzSFQpWmxZUH"
-        },
-        {
-          "name": "Delay Lama",
-          "url": "https://open.spotify.com/artist/4jGrj8pcC0gKQTRB968V8P"
         }
       ],
-      "duration_ms": 223020,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/1XePyPToFkWPaqa4kksAbu"
+      "duration_ms": 176031,
+      "name": "To' Tu Size",
+      "url": "https://open.spotify.com/track/7jzJd9ZuHifdJzb64wBLKZ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "duration_ms": 240253,
+      "name": "Hablamos Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Las Cr\u00f3nicas de Ngangu",
+        "url": "https://open.spotify.com/album/2fk8VUTdS2sYc8HYyPozRE"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Brokeboi",
+      "url": "https://open.spotify.com/track/0EoolsXtSPPpapygXOv9BU"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Flow Pe$ado",
+        "url": "https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Flow Pe$ado",
+      "url": "https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "MONA XINA",
+        "url": "https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 152516,
+      "name": "MONA XINA",
+      "url": "https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "El Duende Verde",
+        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        }
+      ],
+      "duration_ms": 224649,
+      "name": "Silent Hill (feat. Flor De Rap)",
+      "url": "https://open.spotify.com/track/63ri7MQ6AxvUXHoBOuzccg"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "SIN PRONTUARIO",
+        "url": "https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx"
+      },
+      "artists": [
+        {
+          "name": "Peke\u00f1o 77",
+          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "duration_ms": 144466,
+      "name": "MaMa",
+      "url": "https://open.spotify.com/track/3bOawk8qClklX3sEhefu96"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1263,140 +1967,40 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "SIN PRONTUARIO",
-        "url": "https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx"
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/5CPoCagiLaJlU3ILJ65FdY"
       },
       "artists": [
         {
-          "name": "Peke\u00f1o 77",
-          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
         },
         {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "MaMa",
-      "url": "https://open.spotify.com/track/3bOawk8qClklX3sEhefu96"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Ninja",
-        "url": "https://open.spotify.com/album/7wzvfaRD20FC9S5yJYNlxQ"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 140783,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/1KA0rapksWOFfakg6nWxCz"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "El Duende Verde",
-        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
         },
         {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        }
-      ],
-      "duration_ms": 224649,
-      "name": "Silent Hill (feat. Flor De Rap)",
-      "url": "https://open.spotify.com/track/63ri7MQ6AxvUXHoBOuzccg"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "MONA XINA",
-        "url": "https://open.spotify.com/album/5RHQ2fzewCE9TeJNG0pQMx"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 152516,
-      "name": "MONA XINA",
-      "url": "https://open.spotify.com/track/75XPqkFdaR5zFCJNbnj7DA"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Flow Pe$ado",
-        "url": "https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX"
-      },
-      "artists": [
-        {
-          "name": "Kiddtetoon",
-          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         },
         {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Flow Pe$ado",
-      "url": "https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Las Cr\u00f3nicas de Ngangu",
-        "url": "https://open.spotify.com/album/2fk8VUTdS2sYc8HYyPozRE"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Brokeboi",
-      "url": "https://open.spotify.com/track/0EoolsXtSPPpapygXOv9BU"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "H Empire",
+          "url": "https://open.spotify.com/artist/5NrnVIh7EqdzSFQpWmxZUH"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+          "name": "Delay Lama",
+          "url": "https://open.spotify.com/artist/4jGrj8pcC0gKQTRB968V8P"
         }
       ],
-      "duration_ms": 240253,
-      "name": "Hablamos Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h"
+      "duration_ms": 223020,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/1XePyPToFkWPaqa4kksAbu"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "To' Tu Size",
-        "url": "https://open.spotify.com/album/350YEZ7qaf4m2T887RcfW2"
+        "name": "POPCORN",
+        "url": "https://open.spotify.com/album/6RNKxVM0RlZQ3qTLV5Kbj7"
       },
       "artists": [
         {
@@ -1404,117 +2008,157 @@
           "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         }
       ],
-      "duration_ms": 176031,
-      "name": "To' Tu Size",
-      "url": "https://open.spotify.com/track/7jzJd9ZuHifdJzb64wBLKZ"
+      "duration_ms": 224086,
+      "name": "POPCORN",
+      "url": "https://open.spotify.com/track/5ChxsXRR90JKLyOjMeTPL0"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Entre Envidia Y Muerte",
-        "url": "https://open.spotify.com/album/2r92jhDd12xmQSByQ1nHWW"
+        "name": "LoveDrip",
+        "url": "https://open.spotify.com/album/3S1aENeLvAtwusRPKZCdLf"
       },
       "artists": [
         {
-          "name": "Crucer",
-          "url": "https://open.spotify.com/artist/5PHDVE30e9FnYScGAsqgrv"
-        },
-        {
-          "name": "Drakomafia",
-          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "Mob 550",
+          "url": "https://open.spotify.com/artist/6S3HYIuX1ncQQqcdHOUFqJ"
         }
       ],
-      "duration_ms": 373970,
-      "name": "Entre Envidia Y Muerte",
-      "url": "https://open.spotify.com/track/00y6RixyknzrTvC8W9vK8q"
+      "duration_ms": 144014,
+      "name": "LoveDrip",
+      "url": "https://open.spotify.com/track/31xSuB5yF3w8ZIrdK1TWtt"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Mode On",
-        "url": "https://open.spotify.com/album/79RYVRZr0yVV0B0qid9qoy"
+        "name": "Freestyle Session",
+        "url": "https://open.spotify.com/album/1YDdNdnOQ0BrUGtOWgEo17"
       },
       "artists": [
         {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Nes",
-          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 167991,
-      "name": "Mode On, Marcianeke #05",
-      "url": "https://open.spotify.com/track/6aFtRDWUyybfR3578mB3Bv"
+      "duration_ms": 159503,
+      "name": "Freestyle Session",
+      "url": "https://open.spotify.com/track/6j0G8UFVuGmstwMbzATyOn"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "4 My Guap",
-        "url": "https://open.spotify.com/album/7E83IjQpHhPok8TRvm6Fxw"
+        "name": "Mami Trap",
+        "url": "https://open.spotify.com/album/1rBnUQFkExXRLnVaYJzyhh"
       },
       "artists": [
         {
-          "name": "Neelo",
-          "url": "https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Sander Wazz",
-          "url": "https://open.spotify.com/artist/3O2ALOTlfmlMCabLD6YVcb"
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
         }
       ],
-      "duration_ms": 249915,
-      "name": "4 My Guap",
-      "url": "https://open.spotify.com/track/3qobz0gjII9F42kAdrvueO"
+      "duration_ms": 147849,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/2aYsBCPVZqRMGcS74D6jTS"
     },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Shishi Plugg",
-        "url": "https://open.spotify.com/album/0EDzLjsolQn2ON3Zn9IJ20"
+        "name": "Glizzy",
+        "url": "https://open.spotify.com/album/3t0PHupmoyPbOp7e1oEZWf"
       },
       "artists": [
         {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "duration_ms": 179130,
+      "name": "Glizzy",
+      "url": "https://open.spotify.com/track/5CIRCz2npiu1N57wTPp0rM"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Hard Style",
+        "url": "https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 122520,
+      "name": "Hard Style",
+      "url": "https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Inmortal",
+        "url": "https://open.spotify.com/album/2tzC3V05vkZW60Ch6G5KJW"
+      },
+      "artists": [
+        {
+          "name": "Kevin Martes 13",
+          "url": "https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS"
         },
         {
           "name": "Pablo Chill-E",
           "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "ALEX FATT",
-          "url": "https://open.spotify.com/artist/662AsYFCIZoKBTgrMvdSGy"
-        },
-        {
-          "name": "OldPurp",
-          "url": "https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi"
-        },
-        {
-          "name": "Left Behind",
-          "url": "https://open.spotify.com/artist/3oPnhTiVCK16n4lh2BDFVd"
         }
       ],
-      "duration_ms": 214644,
-      "name": "Generaciones (feat. OldPurp & Left Behind)",
-      "url": "https://open.spotify.com/track/1T4DYB11yGiuco0hAD6k9h"
+      "duration_ms": 236287,
+      "name": "Perco Con Mari - Remastered",
+      "url": "https://open.spotify.com/track/0HKqQcmVbtXhoxLGPZRq8J"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 146553,
+      "name": "AKRI TU ERE UN XULO",
+      "url": "https://open.spotify.com/track/6eAB8tVW7rhRgggH472v9U"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Mal de Amore",
+        "url": "https://open.spotify.com/album/4jRI21AKiwDc7fLQ6Nfi6o"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Acertijo",
+          "url": "https://open.spotify.com/artist/6IesInVaMMNtX7DZchRTbJ"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Capi Capichi",
+      "url": "https://open.spotify.com/track/2AM3EwEYcaDO0ZK6Z90CS2"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "EXARTE PA TRA",
+        "url": "https://open.spotify.com/album/3i8TvAHvre7Zo6uvcAYAI7"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "EXARTE PA TRA",
+      "url": "https://open.spotify.com/track/0BmsdjXVTuO2kpKGaGaXsS"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1543,650 +2187,6 @@
       "duration_ms": 214925,
       "name": "Tate Pendiente",
       "url": "https://open.spotify.com/track/4205hBquJ1hJUjwHXxgyrW"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "A fuego",
-        "url": "https://open.spotify.com/album/1LKQhcknuHIBlnIsnXuQNj"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 233793,
-      "name": "A fuego",
-      "url": "https://open.spotify.com/track/27vwyCYHvKYjb7Wl5dJUPl"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Like Boss (Remix) (feat. Duki, Bizarrap, Akapellah, Moonkey, Polima Westcoast, Santoz, Zanto)",
-        "url": "https://open.spotify.com/album/5nFrn5iITgj3ScvqIUcKP1"
-      },
-      "artists": [
-        {
-          "name": "Frijo",
-          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Zanto",
-          "url": "https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Moonkey",
-          "url": "https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Santoz",
-          "url": "https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 362281,
-      "name": "Like Boss - Remix (feat. Duki, Bizarrap, Akapellah, Polima Westcoast, Moonkey, Zanto, Santoz)",
-      "url": "https://open.spotify.com/track/2H2pkZBzWDX2TzGW7sp014"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/2ijGx0y4jmpC2bkhUZHrCv"
-      },
-      "artists": [
-        {
-          "name": "Yaero",
-          "url": "https://open.spotify.com/artist/2FtH56XmSAFxrEDtRvS93k"
-        }
-      ],
-      "duration_ms": 176678,
-      "name": "Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/1OIKecKxcQVrVUdtEbI8EP"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O"
-      },
-      "artists": [
-        {
-          "name": "Gianluca",
-          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 157674,
-      "name": "Sismo",
-      "url": "https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Surprise (feat. Polim\u00e1 Westcoast)",
-        "url": "https://open.spotify.com/album/5IliKcYtvrJx1tuVN7b8KP"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 214869,
-      "name": "Surprise (feat. Polim\u00e1 Westcoast)",
-      "url": "https://open.spotify.com/track/4CFCEImu0SbRkH4WaFFK6H"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Juegos de Matel (feat. El Menor y El Barto)",
-        "url": "https://open.spotify.com/album/6N3LPbmSG9D6Of82jugIPN"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "El Menor",
-          "url": "https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        }
-      ],
-      "duration_ms": 239349,
-      "name": "Juegos de Matel (feat. El Menor y El Barto)",
-      "url": "https://open.spotify.com/track/6vdBpuktDTX4Y7JPAxgTNF"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "EXARTE PA TRA",
-        "url": "https://open.spotify.com/album/3i8TvAHvre7Zo6uvcAYAI7"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "EXARTE PA TRA",
-      "url": "https://open.spotify.com/track/0BmsdjXVTuO2kpKGaGaXsS"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "De Menor The Mixtape",
-        "url": "https://open.spotify.com/album/3LCwivmmmk4nW0yazWyYsO"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 163318,
-      "name": "Tu No Eres Trap",
-      "url": "https://open.spotify.com/track/3pDVwA9qF4TwmysETmgw01"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "MAFFIOSO",
-        "url": "https://open.spotify.com/album/3lyHfZOWkuKvhqg2m5n8D5"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "TrapStar",
-      "url": "https://open.spotify.com/track/3YxGHS6Ggv4AgSBMNRPJf9"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Hood",
-        "url": "https://open.spotify.com/album/79LOfwxYQhNeU2bg3EdaXr"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 151011,
-      "name": "Hood",
-      "url": "https://open.spotify.com/track/5dLd9IBu8aZe47JKwhKvLi"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "No Saen",
-        "url": "https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 161383,
-      "name": "Tu No Saben",
-      "url": "https://open.spotify.com/track/4P2RAk00C46M6qXvZtlSBX"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Viva Los ShiShi",
-        "url": "https://open.spotify.com/album/6tFwh91QTTcIn3KCwRWIll"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 176743,
-      "name": "Viva Los ShiShi",
-      "url": "https://open.spotify.com/track/2OKvnIShlUE7G5b6eff9CP"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "No Saen",
-        "url": "https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Keylon",
-          "url": "https://open.spotify.com/artist/2GxzgycJFZivGAteZpqUe5"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "El Extendo",
-      "url": "https://open.spotify.com/track/13dOCMI6S2yLVvmC3CgDW5"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/6kMcHwptVqA1bJdj8plMZn"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 149064,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/4ls9U6ee7CRONWg4mfWgpN"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Instinto",
-        "url": "https://open.spotify.com/album/5c5huROnywDnMjJhSr2vIh"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Jackboy",
-          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Instinto",
-      "url": "https://open.spotify.com/track/2AK5fEIhlG6Od3P3gPxtZP"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Vivo Como Quiero",
-        "url": "https://open.spotify.com/album/5KttP33PxDtk4076lN1h6e"
-      },
-      "artists": [
-        {
-          "name": "Carlitos Junior",
-          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 182892,
-      "name": "Vivo Como Quiero",
-      "url": "https://open.spotify.com/track/7JK8Z5ETSuzCaEW2SkQhV4"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "L.O.V.E.",
-        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 118746,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Un Par",
-        "url": "https://open.spotify.com/album/4YevGLk5uzxNsy9y5QqIDV"
-      },
-      "artists": [
-        {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 183063,
-      "name": "Un Par",
-      "url": "https://open.spotify.com/track/1P6XcdMFWrFkjyr9DmCerA"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "VLONE",
-        "url": "https://open.spotify.com/album/6E3i0fUfZf0QseLtnot3S6"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "VLONE",
-      "url": "https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Aburrido",
-        "url": "https://open.spotify.com/album/2MCIfa3wYX8ru8do68PxfJ"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        },
-        {
-          "name": "Inti Illimani Hist\u00f3rico",
-          "url": "https://open.spotify.com/artist/3ofeDjH3XD66EbnLIHWk8i"
-        }
-      ],
-      "duration_ms": 229355,
-      "name": "Aburrido",
-      "url": "https://open.spotify.com/track/1QX8IaUVnmdZo8jqyGyZfZ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "512 (Remix)",
-        "url": "https://open.spotify.com/album/4cgQ9rirfimR3nOxZ4fXvb"
-      },
-      "artists": [
-        {
-          "name": "Maickyel",
-          "url": "https://open.spotify.com/artist/3iuxTg8tCKBuRDIrAADvqI"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 178157,
-      "name": "512 - Remix",
-      "url": "https://open.spotify.com/track/1Fs8wvSOyhNiFyMS35AufX"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Desde el Fin del Mundo",
-        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Obie Wanshot",
-          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
-        },
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 280135,
-      "name": "Fifty Fifty",
-      "url": "https://open.spotify.com/track/5B84PuLYzNjHvfy5EpgsfW"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Haciendo Billete",
-        "url": "https://open.spotify.com/album/0xxvVt3drEUc0xIHy18n6C"
-      },
-      "artists": [
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "DONNER",
-          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Haciendo Billete",
-      "url": "https://open.spotify.com/track/4MQp8Cw2tLo2MJYDR5GUdg"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Hip\u00f3critas",
-        "url": "https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Hip\u00f3critas",
-      "url": "https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "MARIL\u00da",
-        "url": "https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "MARIL\u00da",
-      "url": "https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Aborrecio",
-        "url": "https://open.spotify.com/album/3mvr64wBs7lsr2jwzwlWKR"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Nikxz",
-          "url": "https://open.spotify.com/artist/1hQJhlI1r2oa893f8N6wcg"
-        }
-      ],
-      "duration_ms": 242005,
-      "name": "Aborrecio",
-      "url": "https://open.spotify.com/track/3ADriUpeN2lGE8tfcAr1oP"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "El Duende Verde",
-        "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Bryartz",
-          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
-        },
-        {
-          "name": "Shisosa",
-          "url": "https://open.spotify.com/artist/5RsDsSAjkrjeEekDmtbJKJ"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "Shupano (feat. Young Cister, Bryartz & Shisosa)",
-      "url": "https://open.spotify.com/track/2CIx7kjDwTdNNyMuC7sDFM"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Tierra y Venus",
-        "url": "https://open.spotify.com/album/6Rd9WfSOzBTvNF8RaLaCDA"
-      },
-      "artists": [
-        {
-          "name": "Kiddtetoon",
-          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
-        },
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "Tierra y Venus",
-      "url": "https://open.spotify.com/track/5p9qC7CUghVEBPObrkLP1c"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "LA MANTECA (REMIX)",
-        "url": "https://open.spotify.com/album/6HhvKvNTFEgraWt4bLYKZ6"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Massi Nada Mas",
-          "url": "https://open.spotify.com/artist/5PTf3CTYbKbzH785tmu3WK"
-        },
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        },
-        {
-          "name": "Diamante Ayala",
-          "url": "https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d"
-        },
-        {
-          "name": "Obie Wanshot",
-          "url": "https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV"
-        },
-        {
-          "name": "Papi Trujillo",
-          "url": "https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb"
-        },
-        {
-          "name": "Cuban Bling",
-          "url": "https://open.spotify.com/artist/41nImv0wbNHHsBhbBpwG8S"
-        }
-      ],
-      "duration_ms": 359500,
-      "name": "LA MANTECA - REMIX",
-      "url": "https://open.spotify.com/track/5x1wKXnbhBMDRlzpZ5chUh"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/2S8NVIzCeTvVRcEPJyhSFk"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Ring",
-      "url": "https://open.spotify.com/track/5mHEyc9rS7Oi4o07yUlOVh"
     }
   ],
   "unique_name": "Trapperz Chile",

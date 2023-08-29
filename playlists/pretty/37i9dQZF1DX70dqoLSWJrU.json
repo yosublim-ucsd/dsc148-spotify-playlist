@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 63462,
+  "num_followers": 63548,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjYxMzc1ZDA0NmQwZWVhZjY3NmNkZjQwMWE4NDA4OTAwOTA5ZDJj",
+  "snapshot_id": "MCw1OTc2NTc1YzgyMzg5Mzk1MDIzOWVhMWFlYmY5NjdlZmMxYmRkOWVi",
   "tracks": [
     {
       "added_at": "2023-08-24 07:34:03",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
         "name": "The Second Time Around",
         "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 194040,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -263,38 +263,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Blue And Sentimental - 1947 Version",
-      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
-        "name": "The End Of The World",
-        "url": "https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "The End Of The World",
-      "url": "https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "An Evening With Billie Holiday",
         "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
       },
@@ -327,6 +295,38 @@
       "duration_ms": 222866,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Blue And Sentimental - 1947 Version",
+      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "The End Of The World",
+        "url": "https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -403,70 +403,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
-        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
-        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/599FkdQJIhJfZYOSvFrJ35"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
-        "name": "Good Morning Heartache",
-        "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        },
-        {
-          "name": "Fi Mar\u00f3stica",
-          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
-        },
-        {
-          "name": "Leo Gasso",
-          "url": "https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 193177,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "Lady In Satin",
         "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
       },
@@ -499,18 +435,22 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "In The Land Of Hi-Fi",
-        "url": "https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x"
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 153706,
-      "name": "I'll Never Smile Again",
-      "url": "https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh"
+      "duration_ms": 172186,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/599FkdQJIhJfZYOSvFrJ35"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -527,6 +467,50 @@
       "duration_ms": 197666,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "Good Morning Heartache",
+        "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        },
+        {
+          "name": "Fi Mar\u00f3stica",
+          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
+        },
+        {
+          "name": "Leo Gasso",
+          "url": "https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 193177,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -551,22 +535,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -583,22 +551,34 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
+        "name": "In The Land Of Hi-Fi",
+        "url": "https://open.spotify.com/album/4dKbs1IepsLdxwHUqNFe3x"
       },
       "artists": [
         {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        },
-        {
-          "name": "Bud Shank Quintet",
-          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 260240,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+      "duration_ms": 153706,
+      "name": "I'll Never Smile Again",
+      "url": "https://open.spotify.com/track/3Sqv7KrLRowdwRwgpT4FAh"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -635,6 +615,26 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
+        }
+      ],
+      "duration_ms": 260240,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
         "name": "Once Upon A Summertime",
         "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
       },
@@ -647,26 +647,6 @@
       "duration_ms": 167200,
       "name": "Once Upon A Summertime",
       "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
-        "name": "A Certain Smile, A Certain Sadness (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Walter Wanderley",
-          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
-        }
-      ],
-      "duration_ms": 188026,
-      "name": "A Certain Sadness",
-      "url": "https://open.spotify.com/track/3vHcprrLUS7hJ7sGljPVgf"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -687,6 +667,26 @@
       "duration_ms": 290426,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "A Certain Smile, A Certain Sadness (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Walter Wanderley",
+          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
+        }
+      ],
+      "duration_ms": 188026,
+      "name": "A Certain Sadness",
+      "url": "https://open.spotify.com/track/3vHcprrLUS7hJ7sGljPVgf"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "There Must Be A Way",
-      "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 208706,
-      "name": "I Cried For You",
-      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
+      "duration_ms": 188560,
+      "name": "There Must Be A Way",
+      "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "I Cried For You",
+      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
         "name": "Around Midnight",
         "url": "https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "Pointless Nostalgic (Remastered)",
-        "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 315702,
-      "name": "I Can't Get Started - Remastered",
-      "url": "https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "Sarah Vaughan's Golden Hits",
         "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 196120,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "Pointless Nostalgic (Remastered)",
+        "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 315702,
+      "name": "I Can't Get Started - Remastered",
+      "url": "https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "If I Knew Then (What I Know Now)",
+      "url": "https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
@@ -1063,54 +1079,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 148560,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 214645,
-      "name": "I See Your Face Before Me",
-      "url": "https://open.spotify.com/track/5rkyudolG3J67mPn9WOQfK"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "If I Knew Then (What I Know Now)",
-      "url": "https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "All For You (A Dedication To The Nat King Cole Trio)",
         "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
       },
@@ -1123,6 +1091,22 @@
       "duration_ms": 297173,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 148560,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -1143,34 +1127,18 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "Helen Merill",
-        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
       "artists": [
         {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 301306,
-      "name": "What's New",
-      "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
-      },
-      "artists": [
-        {
-          "name": "Beverly Kenney",
-          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
+      "duration_ms": 214645,
+      "name": "I See Your Face Before Me",
+      "url": "https://open.spotify.com/track/5rkyudolG3J67mPn9WOQfK"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -1191,6 +1159,22 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
+        "name": "Helen Merill",
+        "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "duration_ms": 301306,
+      "name": "What's New",
+      "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
         "name": "Crazy And Mixed Up",
         "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 185000,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
+      },
+      "artists": [
+        {
+          "name": "Beverly Kenney",
+          "url": "https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "Night Lights",
-        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Too Young To Go Steady - Remastered",
-      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "She's Got It",
         "url": "https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 197253,
       "name": "Wasting My Love on You",
       "url": "https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "Night Lights",
+        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 174266,
+      "name": "Too Young To Go Steady - Remastered",
+      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
+        "name": "Somewhere over the Rainbow",
+        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Say It Isn't So",
+      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 231400,
       "name": "Spring Will Be A Little Late This Year",
       "url": "https://open.spotify.com/track/2GZwM4Pl7jbdgrHcJWu93c"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
-        "name": "Somewhere over the Rainbow",
-        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Say It Isn't So",
-      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "The Rockin' Chair Lady",
-        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Blues In My Heart",
-      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "Swedish Sensation",
         "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 145106,
       "name": "My Old Flame",
       "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "The Rockin' Chair Lady",
+        "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Blues In My Heart",
+      "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 160093,
       "name": "I'm Gonna Laugh You Right Out Of My Life - Remastered",
       "url": "https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
     },
     {
       "added_at": "2023-08-24 07:34:03",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-24 07:34:03",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "There's No Such Thing As Love",
-      "url": "https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1"
-    },
-    {
-      "added_at": "2023-08-24 07:34:03",
-      "album": {
         "name": "Roulette Sessions In Love",
         "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 145840,
       "name": "Somebody Else Is Taking My Place",
       "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
+    },
+    {
+      "added_at": "2023-08-24 07:34:03",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "There's No Such Thing As Love",
+      "url": "https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1"
     },
     {
       "added_at": "2023-08-24 07:34:03",

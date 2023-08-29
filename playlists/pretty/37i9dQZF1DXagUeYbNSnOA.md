@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Carmen Sánchez Viamonte\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,991 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,995 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 26 | [Enloqueciendo](https://open.spotify.com/track/7DjgJCvcx22XyZ5ounl1ml) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Esteban Sterling](https://open.spotify.com/artist/2I6Q1wQDqpRXkLeLR8w9oe) | [Enloqueciendo](https://open.spotify.com/album/0RlEealRuqOhv0HvnAryUF) | 4:05 |
 | 27 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 |
 | 28 | [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 |
-| 29 | [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 |
-| 30 | [Entrá](https://open.spotify.com/track/7nCEobOjhCLue88XZzhpzF) | [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2), [YOUNG KALIF](https://open.spotify.com/artist/0qLJUMYyKwh1nLfzczCzPi), [MIRACALI](https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG) | [Entrá](https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1) | 3:11 |
+| 29 | [Entrá](https://open.spotify.com/track/7nCEobOjhCLue88XZzhpzF) | [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2), [YOUNG KALIF](https://open.spotify.com/artist/0qLJUMYyKwh1nLfzczCzPi), [MIRACALI](https://open.spotify.com/artist/0QPsINUywwAT9jHWJD7SRG) | [Entrá](https://open.spotify.com/album/4yjujCVjUjlFxIpu4OaYh1) | 3:11 |
+| 30 | [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 |
 | 31 | [Anime](https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Anime](https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR) | 2:39 |
 | 32 | [Dime](https://open.spotify.com/track/19mB6i7AW9Fu8Fa6WT4dSR) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Dime](https://open.spotify.com/album/5zpToVFpV0fWUuZAbLoG4X) | 2:42 |
 | 33 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Fandango Frío](https://open.spotify.com/track/5yGJk7JAQfRAwCOsTQO21C) | [Anamaría Oramas](https://open.spotify.com/artist/44lOzk6pde1fCFa4zTQKsN), [Santiago Sandoval](https://open.spotify.com/artist/2YOId4xhJSesO3AAd0vSsl) | [Fandango Frío](https://open.spotify.com/album/4wwAcEEWUtA0XxfpOC6q75) | 6:03 |
 | 50 | [Nuevo Mundo](https://open.spotify.com/track/0rGUJt1riX1jwcGBZxodVZ) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Nuevo Mundo](https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI) | 3:23 |
 
-Snapshot ID: `MCw1NzBmYjhmYTVjNmY0ZTAxMzExOWQzNTZiMjVlNjZiYzhkMTNhZDFl`
+Snapshot ID: `MCxmYjZlNmQ0ZDQ0NjE3NmZmMjZkMzI5ZmYzMjE1N2YxYzBiOWY4N2My`

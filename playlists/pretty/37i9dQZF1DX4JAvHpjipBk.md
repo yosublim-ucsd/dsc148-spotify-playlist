@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Zach Bryan, Selena Gomez, Miley Cyrus, BLACKPINK,  Victoria Monet and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,164,608 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,165,065 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [U4EA](https://open.spotify.com/track/4AYQzjTMJTyQj6Rfh7A0Yx) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Synthesis+](https://open.spotify.com/album/6GCQOfKDbr84KCS9LX8oTb) | 3:01 |
 | 100 | [Modern Vanity](https://open.spotify.com/track/6DLYYSwlzBms2L4Dqc3gEV) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Perfect Saviors](https://open.spotify.com/album/2QOtRB75B25O7pn6fAd3o9) | 3:48 |
 
-Snapshot ID: `MCxkNzE2M2RhMWQxNWM5ZjRjNTExYzgxZjYxMzkzZTYyZmM0MmUwNDYy`
+Snapshot ID: `MCw2NjM3ODFmMDhiNGQ2YzkzNGQ3NTNmYTBiMjYzMjdjNzk1MTUwNWM4`

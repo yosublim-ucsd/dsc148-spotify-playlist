@@ -4,7 +4,7 @@
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-298 songs - 14 hr 10 min
+299 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Call Me](https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Tony Choc](https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE) | [Call Me](https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j) | 2:33 | 2023-05-27 |  |
 | [Carta Para Dios](https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Vida Por Tinta](https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ) | 4:13 | 2022-01-10 | 2022-09-12 |
 | [Chase Your Dreams](https://open.spotify.com/track/5vvCV9a2RiKo0Wg0VhCif8) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Cassette Coast](https://open.spotify.com/artist/6mobFgdJbchhnvTSmmmGN4) | [Chase Your Dreams](https://open.spotify.com/album/076lpXvWBAoaFEAXZIhSyK) | 2:57 | 2022-01-10 | 2022-03-16 |
+| [Chingon \(with Peso Peso\)](https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Chingon \(with Peso Peso\)](https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px) | 2:05 | 2023-08-28 |  |
 | [Choppa Dance](https://open.spotify.com/track/66kTzaIV240dobC7qDapPu) | [3res](https://open.spotify.com/artist/34PcmRe3AF0bKQk2SHFkjw) | [Choppa Dance](https://open.spotify.com/album/27qBQcm5fP3k1NyDV8PuIl) | 2:26 | 2022-01-10 | 2022-03-16 |
 | [City of Angels](https://open.spotify.com/track/4XySjQqanD3bo8I0QDympZ) | [DoKnow](https://open.spotify.com/artist/7MfHOPHdk1wyDTvpcHpcMv), [Jakarta $lim](https://open.spotify.com/artist/3BCCUDxiZyk4oSfYb6n7TF), [Dener](https://open.spotify.com/artist/0dOrzhYwaBzVlnwQv8pQG6), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Yelo Hill](https://open.spotify.com/artist/2vqneIo8FhrB6X4BDZTNaR) | [Doknow & Da Hawmies](https://open.spotify.com/album/229gHcRkhCvyVRSLhHmN6H) | 3:06 | 2022-01-10 | 2022-02-26 |
 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 | 2022-06-07 | 2023-01-28 |
@@ -302,7 +303,7 @@
 | [With My Homies](https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y) | [Sevens Muzik](https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [With My Homies](https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl) | 3:37 | 2023-01-27 | 2023-05-28 |
 | [Woah Woah](https://open.spotify.com/track/2FYDAdHFLmt3oy7kY5nIjW) | [J\. Bless](https://open.spotify.com/artist/5UPH35BXerZ1O8VqcazrOc) | [Bless The Streets](https://open.spotify.com/album/4KdgPdWp1agDVHhhRTPn4x) | 2:14 | 2022-01-10 | 2022-02-20 |
 | [Woke Up](https://open.spotify.com/track/6AKeP4wcLsgKvDk2K4cSX6) | [Trouble Kidd](https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw), [Lil Traphouse](https://open.spotify.com/artist/3TjIpBnhmxi42yQvOWsCRV) | [Woke Up](https://open.spotify.com/album/1ilqbReRZgqei0FMfwD41t) | 1:47 | 2022-01-10 | 2022-07-07 |
-| [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 | 2023-05-27 |  |
+| [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 | 2023-05-27 | 2023-08-29 |
 | [Yallegó](https://open.spotify.com/track/1yRbBKN6gI8xaIxf6eE4zn) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Yallegó](https://open.spotify.com/album/3orUOWHQTgWUvrc1c8yXPH) | 2:53 | 2022-01-10 | 2022-02-26 |
 | [Yung kazh\- Cocaine](https://open.spotify.com/track/37EvhqS1TI4HrLdbGi1TKC) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Yung kazh\- Cocaine](https://open.spotify.com/album/0Xu59pUWDVcFdIr8Ei85wV) | 3:19 | 2022-01-10 | 2022-07-06 |
 | [ZaZa](https://open.spotify.com/track/2RbC4sy7KNk7Jo77OvHAnL) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Fenix Flexin Vol\. 2](https://open.spotify.com/album/0uoPpxGXbIwYTEm7XW33Lu) | 2:26 | 2022-09-11 | 2023-01-28 |

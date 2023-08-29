@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Con te vi en un planetario, en portada.",
-  "num_followers": 25799,
+  "num_followers": 25822,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjUwOTFjYzQwNWM2YTM3NDEwOTNkNDNiNDE5MTUwY2Y4MTQ0MGIy",
+  "snapshot_id": "MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
         "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 188728,
       "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
       "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd"
+      },
+      "artists": [
+        {
+          "name": "Policias y Ladrones",
+          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd"
-      },
-      "artists": [
-        {
-          "name": "Policias y Ladrones",
-          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "te odio",
         "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 170126,
       "name": "te odio",
       "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
       },
       "artists": [
         {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
         }
       ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
+      "duration_ms": 182745,
+      "name": "Hazy Youth",
+      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -371,18 +371,34 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
       "artists": [
         {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
         }
       ],
-      "duration_ms": 182745,
-      "name": "Hazy Youth",
-      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -399,22 +415,6 @@
       "duration_ms": 316777,
       "name": "Wow",
       "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Ausencia",
-        "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
-      },
-      "artists": [
-        {
-          "name": "A Rose Dying In The Rain",
-          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
-        }
-      ],
-      "duration_ms": 100036,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Osa Polar",
         "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
+        "name": "Ausencia",
+        "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
       },
       "artists": [
         {
-          "name": "Se\u00f1or Kino",
-          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
+          "name": "A Rose Dying In The Rain",
+          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
         }
       ],
-      "duration_ms": 262955,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
+      "duration_ms": 100036,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Kino",
+          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
+        }
+      ],
+      "duration_ms": 262955,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Chambers",
         "url": "https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 298122,
       "name": "What\u2019s holding you?",
       "url": "https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "reina de primavera",
-        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 245840,
-      "name": "reina de primavera",
-      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "reina de primavera",
+        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "reina de primavera",
+      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Traicion / Cruz de Navajas",
         "url": "https://open.spotify.com/album/6X0R8jBws2cprXv3lIIgvr"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 318688,
       "name": "Cruz de navajas",
       "url": "https://open.spotify.com/track/3Iw2JGQOIx5LtmpPX5HTz6"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG"
+      },
+      "artists": [
+        {
+          "name": "No s\u00e9 a qui\u00e9n matar",
+          "url": "https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -807,22 +823,6 @@
       "duration_ms": 251595,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "S.O.S.",
-        "url": "https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG"
-      },
-      "artists": [
-        {
-          "name": "No s\u00e9 a qui\u00e9n matar",
-          "url": "https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

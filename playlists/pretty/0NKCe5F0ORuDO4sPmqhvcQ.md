@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,961 likes - 109 songs - 6 hr 8 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,961 likes - 111 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,5 +117,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 107 | [Alone Together](https://open.spotify.com/track/567GBv8OB00xUZ2edVn4Up) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Elysian](https://open.spotify.com/album/4TUygYUS1Y4TSIjBw63FVe) | 3:27 |
 | 108 | [feel something real](https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [feel something real](https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N) | 3:28 |
 | 109 | [How High](https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [How High](https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f) | 3:12 |
+| 110 | [You](https://open.spotify.com/track/4bEhrJXoZuzVxZxiP8jzfs) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [You](https://open.spotify.com/album/7nLNrFYSLGQ0nDpxGBXNqz) | 2:36 |
+| 111 | [Bliss](https://open.spotify.com/track/17xeVh2ZpFfYPsC6JVeBbF) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Shylow](https://open.spotify.com/artist/0YUf68058a5Q4W0gSGOdi6), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Bliss](https://open.spotify.com/album/3BoSAkJgsGyLNTLO2eWpw0) | 3:04 |
 
-Snapshot ID: `MTA0NDcsYTE1ZWJhZjY0ODc0ZTE1NTE3ODIyNzQzODllZGFjMGFhZmEzMWU5NQ==`
+Snapshot ID: `MTA0NDksNGE4ODMyY2RmMmUzMzZhNjdiNmQ0OWUzNjM3Zjk4ZGFhOGNlYWZhOQ==`

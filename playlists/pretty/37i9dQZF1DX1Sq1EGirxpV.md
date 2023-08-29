@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 965 likes - 34 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 985 likes - 34 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 | 15 | [나를 돌아봐](https://open.spotify.com/track/3T92e7pbfXFmeOmuGRUneg) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Deux](https://open.spotify.com/album/7t9nZIRd4j53LjRx8opcx3) | 3:45 |
 | 16 | [흩어진 나날들](https://open.spotify.com/track/2RjN0mgjbH0F93YiVONFlM) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 4:22 |
 | 17 | [Curated by Choi Soo Young](https://open.spotify.com/track/2JA6Hh7YC1rzSbqQlcIiNz) | [Not Others](https://open.spotify.com/artist/7gAFa9eIYVgs5KTKXYl7BW) | [Not Others audio liners](https://open.spotify.com/album/142it3I6v0EUt97ZUbxPMr) | 0:45 |
-| 18 | [Don't stay angry](https://open.spotify.com/track/5r4XV1UDXSwI3rZk8NzN2c) | [Solid](https://open.spotify.com/artist/2BDUxHuRu6XWVBmeRnbNcN) | [Light Camera Action!](https://open.spotify.com/album/3NbQoR0PIZQ0MxUuj6vl3M) | 4:28 |
+| 18 | [Don't stay angry](https://open.spotify.com/track/5r4XV1UDXSwI3rZk8NzN2c) | [Solid](https://open.spotify.com/artist/5QxwwdnZNkIl7AyFEPZxX5) | [Light Camera Action!](https://open.spotify.com/album/3NbQoR0PIZQ0MxUuj6vl3M) | 4:28 |
 | 19 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 |
 | 20 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 |
 | 21 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain]
 | 33 | [Move](https://open.spotify.com/track/4D1guAFjg5BS8Xx1aOqn3L) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Connected](https://open.spotify.com/album/3tizdmilWNGp9RQoli1Urb) | 4:00 |
 | 34 | [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 |
 
-Snapshot ID: `MCw1MTBlZGViZjI5MjQ4YTFmOGY2NTIzYmQxY2JiNmM0ZDM1Y2I5YzVh`
+Snapshot ID: `MCxjYWM1MTE0NmJjMTMzNmE3YTgyNmQwOGE0ZTVkN2M5Y2EzMmYwMTIw`

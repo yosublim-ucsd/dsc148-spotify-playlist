@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Bull Brigade in cover questa settimana!
 
-513 songs - 1 day 4 hr 29 min
+515 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Animali in cattività](https://open.spotify.com/track/7okou2nIEXf8Mj32uo0cc0) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Fammi Male](https://open.spotify.com/album/3rFKldXb0LIqgcY0TNxVAi) | 3:10 | 2023-05-18 |  |
 | [ANITA](https://open.spotify.com/track/0Q7PJdV8DZkXs0bwk5LMKM) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [ANITA](https://open.spotify.com/album/2WwGx8eZEI31EEaqAlpqyP) | 3:38 | 2023-01-19 | 2023-03-03 |
 | [Ansia Capitale](https://open.spotify.com/track/3aJ8dxraLU7aqEm1FKwhX7) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/2uGVlSPYAyexEmyNJQa15H) | 4:02 | 2022-05-09 | 2022-05-27 |
+| [Anti\-Fomo](https://open.spotify.com/track/2AQADuVGjoShxE9gnfRMDW) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [Anti\-Fomo](https://open.spotify.com/album/22yTfRdHVq3c50oZpXngIA) | 2:56 | 2023-08-28 |  |
 | [Apnea](https://open.spotify.com/track/39a6nwQYyEpjk7EMl9mA4R) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Nouvelles Aventures](https://open.spotify.com/album/7bdSGk7vhlADhwK0lT3VUF) | 4:22 | 2023-05-25 | 2023-07-21 |
 | [APNEA](https://open.spotify.com/track/07BUJz0fmgLnaDfk4WtYPf) | [FOGG](https://open.spotify.com/artist/3XJWtrpDcoofN56hKaNRCH) | [APNEA](https://open.spotify.com/album/6VbivQUqw6XpmMavkCEP0p) | 4:48 | 2023-03-31 | 2023-05-04 |
 | [around my neck](https://open.spotify.com/track/42UjxTXLgUAgBTjBoUiBpo) | [Eugenia Post Meridiem](https://open.spotify.com/artist/47wCQih5a5wC9l3LqDRySE) | [around my neck](https://open.spotify.com/album/433w6aPK6Ht3Cif62mo5WJ) | 4:09 | 2022-10-06 | 2022-10-21 |
@@ -198,7 +199,7 @@
 | [Habadash](https://open.spotify.com/track/36eksU9dcmYrFIifuZs4MU) | [V/Z](https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz), [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy), [Cathy Lucas](https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D) | [Haberdash](https://open.spotify.com/album/5CsVJEpeVIsaJ8WgvrxW8G) | 4:09 | 2023-06-01 | 2023-06-30 |
 | [Hail the Proper Karl](https://open.spotify.com/track/2KdBqtc2PFm0ptkGcEvbKk) | [Clever Square](https://open.spotify.com/artist/5Nx0K1JaqMJwJYAi2ZgKK2) | [Secret Alliance](https://open.spotify.com/album/6uFxFzfUjAWtesqxjz5dPd) | 2:24 | 2022-05-09 | 2022-06-03 |
 | [Hamsik](https://open.spotify.com/track/4KR8wGG7Z4shKUROWnafVM) | [Materazi Future Club](https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2) | [Formazione Titolare](https://open.spotify.com/album/3AIJNEf2OJddIsxmBxX9I0) | 2:34 | 2022-12-01 | 2022-12-16 |
-| [HEATWAVES](https://open.spotify.com/track/572YsanwR4obpa6xq8J4Yu) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [HEATWAVES](https://open.spotify.com/album/6NAuR8JcZBwqxlxqEfqkoz) | 3:17 | 2023-08-03 |  |
+| [HEATWAVES](https://open.spotify.com/track/572YsanwR4obpa6xq8J4Yu) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [HEATWAVES](https://open.spotify.com/album/6NAuR8JcZBwqxlxqEfqkoz) | 3:17 | 2023-08-03 | 2023-08-29 |
 | [Heavy Metallo](https://open.spotify.com/track/7jFII1yerbRImS5lkZ7ZPn) | [DOLA](https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy) | [Heavy Metallo](https://open.spotify.com/album/0FE1tX6oK8XVPD7N9iHRvM) | 2:54 | 2023-04-14 | 2023-05-10 |
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-05-12 | 2022-07-15 |
 | [HEY NOI](https://open.spotify.com/track/3zC7HuEPnmhtDvIEFgtkwZ) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [HEY NOI](https://open.spotify.com/album/5rg0nCPqqkiaHL6QXpTF4K) | 2:45 | 2023-06-22 | 2023-07-28 |
@@ -333,6 +334,7 @@
 | [Oblivion](https://open.spotify.com/track/7jePbTgyKol6gHshTbF3Xz) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [Inferno](https://open.spotify.com/album/3Hnux3n5xhBOIrIxUsO2AF) | 3:19 | 2023-06-29 |  |
 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 | 2022-05-09 | 2022-09-16 |
 | [Occhi rossi](https://open.spotify.com/track/2nIQIZWYXDVrjbD570hbTd) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Occhi rossi](https://open.spotify.com/album/1aM3xThqq4qdTRASt79Wye) | 2:43 | 2023-06-15 |  |
+| [Ocean Cry](https://open.spotify.com/track/2lOLI3op0lv6kK3VrOCS1Z) | [pearl moth](https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq) | [Ocean Cry](https://open.spotify.com/album/2uP99i8rDfjIpUPEurejZv) | 3:37 | 2023-08-28 |  |
 | [Odd Vapors](https://open.spotify.com/track/3aaXPp8wg0Nezf5V45VBOo) | [His Electro Blue Voice](https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P) | [Love Conductor](https://open.spotify.com/album/3RJaUwLebeaKGW5F82WM1S) | 3:10 | 2023-04-06 | 2023-04-21 |
 | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg) | 3:27 | 2022-05-12 | 2022-05-27 |
 | [Oki](https://open.spotify.com/track/0tQyP1NLdenjVtxa2pLGw5) | [CALMI](https://open.spotify.com/artist/1EMmg2PUpITYRwsGvpUWat) | [Una comune esperienza umana](https://open.spotify.com/album/3WGZZVgobE2JFuASTZIZxp) | 2:35 | 2023-06-08 | 2023-07-28 |

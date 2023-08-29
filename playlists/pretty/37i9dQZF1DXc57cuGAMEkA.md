@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。藤井風, Conan Gray, The Killers, ONE OK ROCK, YUNGBLUD, and more! Cover: 藤井風
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,606 likes - 66 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,623 likes - 66 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 65 | [Sonicwonderland](https://open.spotify.com/track/7gc3pcQOvzAgpNtY5y6SbB) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/7IWueag5hUcfCqB6AS6Ky2) | 8:15 |
 | 66 | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \- From "The Little Mermaid" \(Feat\. Cocomi\)](https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV) | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \[From "The Little Mermaid" \(Feat\. Cocomi\)\]](https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF) | 5:44 |
 
-Snapshot ID: `MCw4Y2M5YzEwNTgxM2VlNWNlZGIwN2JlNTFlZTkzNjg4NjU2MTYxZTY0`
+Snapshot ID: `MCxlMjUwMTM4Mjk5YTRjZmJlMTA0YmNlMWI1NmMwYjkyZGFhYWFiMzdm`

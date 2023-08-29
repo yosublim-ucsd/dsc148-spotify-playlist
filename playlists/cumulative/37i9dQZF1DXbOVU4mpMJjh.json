@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 191427,
       "name": "Don't Take Me For Granted",
       "url": "https://open.spotify.com/track/0pWw8k7ThQXQlODdT0MVkP"
@@ -4220,7 +4220,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 209712,
       "name": "Fever For The Mood",
       "url": "https://open.spotify.com/track/26ENAUpv3pVXxkPj95wW6y"
@@ -5048,7 +5048,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-29",
       "duration_ms": 156237,
       "name": "Half to the hills",
       "url": "https://open.spotify.com/track/2zPWKbfRZojow5x9ljlfUC"
@@ -6533,6 +6533,24 @@
     },
     {
       "album": {
+        "name": "In Love In Vain",
+        "url": "https://open.spotify.com/album/2Qhxe4KQqMY6vXjimJjLt2"
+      },
+      "artists": [
+        {
+          "name": "Jon Belle",
+          "url": "https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178374,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/51T3UIxjT7JFCa65LJF9u8"
+    },
+    {
+      "album": {
         "name": "In Space And Time",
         "url": "https://open.spotify.com/album/6bye45GDWXbdltU1GRSP7g"
       },
@@ -7872,6 +7890,24 @@
       "duration_ms": 232748,
       "name": "Like Naomi",
       "url": "https://open.spotify.com/track/4iSBCmDWlP2Pp30uDg34vZ"
+    },
+    {
+      "album": {
+        "name": "Lily-white",
+        "url": "https://open.spotify.com/album/7kvJgDGsdssa8n3Rv5HFNI"
+      },
+      "artists": [
+        {
+          "name": "Southside Trio",
+          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142586,
+      "name": "Lily-white",
+      "url": "https://open.spotify.com/track/68Pfz62lgw8iaV4r9rAiC5"
     },
     {
       "album": {
@@ -14052,6 +14088,24 @@
       "duration_ms": 281493,
       "name": "These Foolish Things Remind Me Of You - Instrumental",
       "url": "https://open.spotify.com/track/40JmQVnCA43uV4htsa4G4t"
+    },
+    {
+      "album": {
+        "name": "They Said",
+        "url": "https://open.spotify.com/album/4QyebMBRUiYTbyOIrZux8t"
+      },
+      "artists": [
+        {
+          "name": "Wonder Eve",
+          "url": "https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218469,
+      "name": "They Said",
+      "url": "https://open.spotify.com/track/5fxlpxZnDeUP8Gc98bwVs1"
     },
     {
       "album": {

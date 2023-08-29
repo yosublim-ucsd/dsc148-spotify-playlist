@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Joost
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,970 likes - 103 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,977 likes - 103 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 102 | [Schieblock](https://open.spotify.com/track/3sxZtIju1XvNbrNZSj996A) | [The Policy](https://open.spotify.com/artist/2G609VPYS4yzshTtyoUTS3) | [Schieblock](https://open.spotify.com/album/04m1K2wEeuRO1YG78WnDdE) | 5:35 |
 | 103 | [largo \(sonatina in f\-sharp minor, op\. 67/1: II\. largo\)](https://open.spotify.com/track/49zgQpR8OVWi8J6NWtC3Wu) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [Muses](https://open.spotify.com/album/005GBXkDc4BNPVfZQ5DvJn) | 4:43 |
 
-Snapshot ID: `MCw0NTEyNDUwMDUwOTlmYThhYzY2ZDY0MmYwYTBjMDY0YWU4MWMyZDky`
+Snapshot ID: `MCw2NmI0ZTU2MDQ4MzFiNjBjMDQ5YzY3MTFlOTFhMjVkYjNlOGE4OWZh`

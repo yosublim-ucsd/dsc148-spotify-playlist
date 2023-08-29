@@ -4,7 +4,7 @@
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-147 songs - 6 hr 25 min
+148 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 | 2021-12-16 |  |
 | [Old Dan Tucker](https://open.spotify.com/track/1ZLcb3xbst0LEkwinZ7R3Y) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [150 Toddler Favorites](https://open.spotify.com/album/0OFrQEiMbjQvgBiQ9iYXa8) | 1:02 | 2021-12-16 | 2023-07-03 |
 | [Old MacDonald had a Band](https://open.spotify.com/track/1AySRjZeiPeJpf487K2lwK) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Singable Songs for the Very Young](https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH) | 2:11 | 2021-12-16 |  |
-| [Over The Rainbow/What A Wonderful World](https://open.spotify.com/track/0Cll7d8lmNn05ZOVm5l5va) | [Israel "IZ" Kamakawiwoole](https://open.spotify.com/artist/0brWzWBfn8DhPWwdf3SWwn) | [Music From The Motion Picture Fred Claus](https://open.spotify.com/album/7cJnLV1fOwW0aX1hLekFPX) | 5:04 | 2021-12-16 |  |
+| [Over The Rainbow/What A Wonderful World](https://open.spotify.com/track/0Cll7d8lmNn05ZOVm5l5va) | [Israel "IZ" Kamakawiwoole](https://open.spotify.com/artist/0brWzWBfn8DhPWwdf3SWwn) | [Music From The Motion Picture Fred Claus](https://open.spotify.com/album/7cJnLV1fOwW0aX1hLekFPX) | 5:04 | 2021-12-16 | 2023-08-29 |
 | [Polly\-Wolly\-Doodle](https://open.spotify.com/track/5hZ7N5EWJWmvDJyDPMmWU5) | [Shirley Temple](https://open.spotify.com/artist/325LVWNjKZv6UwNq5xuPHt) | [The Very Best Of](https://open.spotify.com/album/4HYYb4rzvra5MbY59bRCXt) | 1:53 | 2021-12-16 |  |
 | [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 | 2021-12-16 | 2023-05-04 |
 | [Puff, the Magic Dragon \- 2004 Remaster](https://open.spotify.com/track/7raciFPVU5VuHmqVbw2c1h) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:28 | 2021-12-16 |  |
@@ -120,6 +120,7 @@
 | [Shortnin Bread](https://open.spotify.com/track/0brcPEEXtaXOD9jPZs639u) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n), [Fysah Thomas](https://open.spotify.com/artist/5rCquw5nHKi2hyekBM9uLm) | [Here I Am!](https://open.spotify.com/album/5rjEdo4OAe1uOuH6jvX4bN) | 1:47 | 2021-12-16 |  |
 | [Skip to My Lou](https://open.spotify.com/track/5mbwoWoIUulWO7M8ojU3RV) | [Cisco Houston](https://open.spotify.com/artist/1N5hj4BNumkXa8D3fyfMYE) | [Cisco Houston](https://open.spotify.com/album/1PBjD5r7GmDGdXv47bQMZi) | 2:51 | 2022-04-15 | 2022-11-13 |
 | [Skip To My Lou](https://open.spotify.com/track/1ycZhe1J06t6RZ0OK383f6) | [Cisco Houston](https://open.spotify.com/artist/1N5hj4BNumkXa8D3fyfMYE) | [Folk Songs For Kids](https://open.spotify.com/album/2ZWjJ7VI5aU7fxLbeV73TB) | 2:55 | 2021-12-16 | 2022-07-29 |
+| [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 | 2023-01-31 |  |
 | [Stop and Go](https://open.spotify.com/track/6UFUBoYk4c1bvVFFKfa1Fs) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [Get Moving With Ella Jenkins](https://open.spotify.com/album/0ApVj2H8jZn9NiPV7al4xb) | 3:45 | 2021-12-16 |  |
 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 | 2021-12-31 |  |
 | [Sweet Betsy From Pike](https://open.spotify.com/track/2WVsQMKqEttZBzkL6hdvsx) | [Erica Huckle](https://open.spotify.com/artist/5zhNWtHUs8nVFEz9CLfPZq) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 4:00 | 2021-12-16 | 2022-07-29 |

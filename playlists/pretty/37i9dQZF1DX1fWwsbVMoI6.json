@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 102520,
+  "num_followers": 102576,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWRjNzM0YzQzOWJkOTIwNTE3YWRiNGI3NTBjZTUyOTMwYWMxYjlk",
+  "snapshot_id": "MCwzNzNlNGMxZTI3NGU5NThlMTc3NzQ4OTg3YWQyNTJkZWE0M2Q2ZDFi",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Sonido 2000 de Tarapoto",
-        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
-      },
-      "artists": [
-        {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
-        }
-      ],
-      "duration_ms": 195696,
-      "name": "Mi Carin\u0303ito",
-      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
+        "name": "Sonido 2000 de Tarapoto",
+        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 195696,
+      "name": "Mi Carin\u0303ito",
+      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
         "name": "Los Querendones de la Cumbia, Vol. 1",
         "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 287503,
       "name": "No Se Puede Amar a Dos",
       "url": "https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6"
-      },
-      "artists": [
-        {
-          "name": "Amaya Hnos",
-          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
-        }
-      ],
-      "duration_ms": 241319,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -747,22 +731,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "El Futuro De La Cumbia",
-        "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
-      },
-      "artists": [
-        {
-          "name": "La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
-        }
-      ],
-      "duration_ms": 277296,
-      "name": "Te Burlaste de Mi",
-      "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Tu Amor Fue una Mentira, Vol. 11",
         "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 213826,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6"
+      },
+      "artists": [
+        {
+          "name": "Amaya Hnos",
+          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
+        }
+      ],
+      "duration_ms": 241319,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "El Futuro De La Cumbia",
+        "url": "https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc"
+      },
+      "artists": [
+        {
+          "name": "La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
+        }
+      ],
+      "duration_ms": 277296,
+      "name": "Te Burlaste de Mi",
+      "url": "https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg"
     },
     {
       "added_at": "2023-03-31 05:01:00",

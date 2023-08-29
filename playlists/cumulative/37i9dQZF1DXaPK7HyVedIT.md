@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-105 songs - 5 hr 30 min
+106 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Piece of Mind](https://open.spotify.com/track/077nlPyo66esQ7ZmcVxcbL) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [I Promise You \- EP](https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA) | 3:16 | 2023-07-21 |  |
 | [Please Press Play \- Radio Edit](https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk) | [Agguiar](https://open.spotify.com/artist/6TapvGfMBXqnvHSQCAuouV) | [Please Press Play](https://open.spotify.com/album/7F7lLV1T0hqmR3GOSiENan) | 2:40 | 2023-08-25 |  |
 | [Povoada \- Remix](https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Povoada \(Remix\)](https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi) | 4:17 | 2023-07-21 | 2023-07-29 |
+| [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-28 |  |
 | [Remote Control](https://open.spotify.com/track/6WxTq95ZNZ58MVTHGIKsfV) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [May 23rd](https://open.spotify.com/album/465uKcpgmFpMmcEAwIW8J1) | 3:28 | 2023-07-21 |  |
 | [Renegades](https://open.spotify.com/track/6t3DMytWrFzBnUwyxIjiFq) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Nordic Brave House](https://open.spotify.com/artist/0CVdI90FSc2KH68L8KapyN), [Dayce Williams](https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6) | [Renegades](https://open.spotify.com/album/0jguPmMqZMOFlBm0Bc6K7c) | 2:38 | 2023-07-21 |  |
 | [Right Back](https://open.spotify.com/track/04dLlhvDV0WzT456h6y4Ud) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Right Back](https://open.spotify.com/album/5AI3y0LeETKLlq5r4jBeVE) | 2:45 | 2023-07-21 |  |
