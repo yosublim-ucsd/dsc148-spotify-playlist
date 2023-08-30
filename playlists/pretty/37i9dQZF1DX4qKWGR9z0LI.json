@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1841412,
+  "num_followers": 1841556,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDRiNjNlZWM3ZTEwOWVjNWRmOThlODViNTJmZjY1MGU4NTNlNGNj",
+  "snapshot_id": "MCw5MTgxN2NkZDdhN2EyMDJhYjVkNWUxNmI4YzkwYmRkZWE1ZDE4OWY3",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Pare Cochero",
-        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
-      },
-      "artists": [
-        {
-          "name": "La Gloria Matancera",
-          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Con la Punta del Pie",
-      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Te Quise Olvidar",
         "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 209743,
       "name": "Te Quise Olvidar",
       "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Pare Cochero",
+        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+      },
+      "artists": [
+        {
+          "name": "La Gloria Matancera",
+          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Con la Punta del Pie",
+      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
     },
     {
       "added_at": "2023-08-18 04:00:00",

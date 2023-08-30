@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
-  "num_followers": 60028,
+  "num_followers": 60076,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjhhNjEyNzg1MmRjNmZiMGQwN2YzOWFlMTZmNGU5ZTk5NTM2ZmNh",
+  "snapshot_id": "MCwzY2RlYmNhYWI2ZDU4YWU3M2QxNmM1ZjQ3YjNkNGM1M2Y4N2E5MmEx",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 319401,
-      "name": "Sing - Live and in Session",
-      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Havana (Live)",
         "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 248572,
       "name": "Havana - Live",
       "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 319401,
+      "name": "Sing - Live and in Session",
+      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "How Will I Know - Live from The Brit Awards",
-      "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "BADLANDS (Live From Webster Hall)",
         "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "How Will I Know - Live from The Brit Awards",
+      "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 413776,
-      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Stadium Rockers",
         "url": "https://open.spotify.com/album/7agGSP1myDt3SSIdKUuT1y"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 299573,
       "name": "Moves Like Jagger - Live In Manchester",
       "url": "https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 413776,
+      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
     },
     {
       "added_at": "2023-08-18 04:01:00",

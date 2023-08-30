@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Armed
 
-1,735 songs - 3 day 19 hr 11 min
+1,736 songs - 3 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1576,7 +1576,8 @@
 | [Tongue Tied](https://open.spotify.com/track/6XkFFE9KJB90h1IexC16SH) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Tongue Tied](https://open.spotify.com/album/695atk1rsgPg7kLTUyCvZc) | 2:30 | 2022-04-01 | 2022-05-07 |
 | [tongues](https://open.spotify.com/track/3jbivGLXf7sguAk3P7SyOR) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [tongues](https://open.spotify.com/album/4We7nxOuoxs57oz6pbEFx2) | 3:01 | 2023-07-28 | 2023-08-26 |
 | [Toni](https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Toni](https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68) | 4:34 | 2022-04-08 | 2022-06-11 |
-| [Tonight \(demo\)](https://open.spotify.com/track/1i2secJ8Pl16d59744WFEB) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/2CY6wMGNGCESBIRaaIDF1Y) | 3:13 | 2023-08-18 |  |
+| [Tonight \(demo\)](https://open.spotify.com/track/1i2secJ8Pl16d59744WFEB) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/2CY6wMGNGCESBIRaaIDF1Y) | 3:13 | 2023-08-18 | 2023-08-30 |
+| [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 | 2023-08-25 |  |
 | [Too Good At Raising Hell](https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Too Good At Raising Hell](https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO) | 3:49 | 2023-06-30 | 2023-08-19 |
 | [TOO LITTLE TOO LATE](https://open.spotify.com/track/0MwSfAZoYz6xNDwsRovPkr) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [TOO LITTLE TOO LATE](https://open.spotify.com/album/2sDEfTzMHcVjVnB9RGXMUw) | 2:30 | 2021-11-19 | 2022-01-15 |
 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 | 2023-04-14 | 2023-04-29 |
@@ -1617,7 +1618,7 @@
 | [Undone](https://open.spotify.com/track/1V0KsuveYx6OYhngfksO2b) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Exit](https://open.spotify.com/artist/3jOKYfOuCZf19meuwqMUmj), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [Undone](https://open.spotify.com/album/1Oq4OwMQ4Zsp0QQ3oL6xS3) | 3:36 | 2022-11-04 | 2022-12-03 |
 | [Undone and Unashamed](https://open.spotify.com/track/5KfLDRKi6l31CDonKxJUtC) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Undone and Unashamed](https://open.spotify.com/album/6LFLi0KAIirs63kDkp49TA) | 3:58 | 2023-04-21 | 2023-05-23 |
 | [Undone and Unashamed](https://open.spotify.com/track/6G9IjhNLcVRIcTMSdNYcZv) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Calm Ya Farm](https://open.spotify.com/album/3K0e0lhiop6HlPHEnHkVw0) | 3:58 | 2023-05-19 | 2023-05-27 |
-| [unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-07-14 |  |
+| [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-07-14 |  |
 | [Unlovable](https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Unlovable](https://open.spotify.com/album/3feABk2LYfvJgfSXyjgqU8) | 3:30 | 2022-08-12 | 2022-10-22 |
 | [Unrequitable](https://open.spotify.com/track/5EqKaM925TBDBSEsYaTi9C) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Venus in Love](https://open.spotify.com/album/42CnVADwqa1d1xOAK9GZP2) | 3:15 | 2023-05-12 | 2023-06-17 |
 | [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 | 2023-01-20 | 2023-02-18 |

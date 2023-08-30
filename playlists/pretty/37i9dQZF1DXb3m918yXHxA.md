@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467,955 likes - 125 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468,343 likes - 125 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 124 | [I Don't Want You Anymore](https://open.spotify.com/track/6yqxaTsYO8QItIvY4NkwHh) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Supercharged](https://open.spotify.com/album/6TsjAo5OfozNTu8R5VAugT) | 4:06 |
 | 125 | [Bi\-Coastal](https://open.spotify.com/track/1JFt7RvlIgRrTs4dXYbw0o) | [Peter Allen](https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa) | [Bi\-Coastal](https://open.spotify.com/album/18q7pXVYXXcuDPkstx2yxC) | 4:21 |
 
-Snapshot ID: `MCwwNDk1ZWExMWZiMmQ5MDU2YjhkYWQ3NjE4Yjc2M2I3OWNlZDQ2ZTFh`
+Snapshot ID: `MCw4M2I3YzcyY2Q5MjhhZDUxOTcxNDRmZmQ4OTI2OGMxODQ4ZGY2YTE1`

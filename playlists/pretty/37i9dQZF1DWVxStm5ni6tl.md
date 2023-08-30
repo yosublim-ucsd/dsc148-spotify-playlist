@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: MINOE, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 586 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 612 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 79 | [Marionettes](https://open.spotify.com/track/0kcUGNxAsq95ON6Pp6nafS) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [No Label No Budget \(Season 5\)](https://open.spotify.com/album/3QvpYOLSIUHL3IbGmYmkB6) | 2:03 |
 | 80 | [Nightmares of my Summer Days](https://open.spotify.com/track/4w6BDvSuQQmHEYe8ANuycd) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Nightmares of my Summer Days](https://open.spotify.com/album/0pW0OxH3BTl0C9NSigoeVN) | 2:41 |
 
-Snapshot ID: `MCxjY2U2YjY1ZDYxZjdhZGNkYWMyMDljN2FiNmIxYzMwNDE4NjBlOWUx`
+Snapshot ID: `MCxlZWM4ODM4MzI3MTQ4NDlhNDRjYjVhNDdlNDBjODZhMzFiOGM4MWVm`

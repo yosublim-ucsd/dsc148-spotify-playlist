@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,612 songs - 2 day 23 hr 41 min
+1,615 songs - 2 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Chalet](https://open.spotify.com/track/2oXoqsL0WnuxFnX3fpGsSz) | [Michèle Lefurgey](https://open.spotify.com/artist/7ib6lMOvVIMzRc4tPCEtHV) | [Chalet](https://open.spotify.com/album/4uKDACa5QRlBZ5Qoagz42Y) | 2:03 | 2021-10-13 | 2022-09-13 |
 | [Chances](https://open.spotify.com/track/0ApqDSCbOWRSGh7gEFy2kv) | [Cindy Bellamy](https://open.spotify.com/artist/0JfQYvUds4dA0p41jg1MD2) | [Chances](https://open.spotify.com/album/5qAEgI2u2QQ2zgk5XlR4WD) | 2:42 | 2021-03-31 | 2021-08-12 |
 | [Changing Winds](https://open.spotify.com/track/2ISfaG0rITEpAUG2fe15UY) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Changing Winds](https://open.spotify.com/album/6mLB8sXi7oQRNEG1aIScPJ) | 3:13 | 2019-05-26\* | 2020-02-26 |
+| [Chanson d’été](https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Chanson d’été](https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp) | 2:43 | 2023-08-29 |  |
 | [Charon](https://open.spotify.com/track/2o6QfxsYOYWlLQbmtW5ymm) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Charon](https://open.spotify.com/album/7zvXHZlghA87OaVWO98G7W) | 1:50 | 2019-10-04 | 2020-02-26 |
 | [Chasing Stars](https://open.spotify.com/track/0Ngo7SiCaF52cyNQWghHs1) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:22 | 2019-05-26\* | 2019-08-31 |
 | [Chi cerca trova](https://open.spotify.com/track/5dm9SeBifoI3dIiWkgAYvR) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Chi cerca trova](https://open.spotify.com/album/2ekqyWVRTlwJcHhn2nz7AV) | 2:29 | 2020-01-08 | 2022-01-05 |
@@ -688,6 +689,7 @@
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-01-19 | 2022-04-01 |
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2021-08-12 | 2022-11-10 |
 | [Lamentation for a Lost Life](https://open.spotify.com/track/77O9eTcQpYwCnANBQHjGDQ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Taboo \(Music From The Original TV Series\)](https://open.spotify.com/album/6U5z9EiIl1iBdwfzAGxS0B) | 2:21 | 2019-05-26\* | 2020-09-15 |
+| [land in sight](https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [land in sight](https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3) | 3:20 | 2023-08-29 |  |
 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 | 2022-03-10 | 2022-09-24 |
 | [Laredo](https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Laredo](https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq) | 2:47 | 2022-02-23 | 2022-09-24 |
 | [Larissa](https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Larissa](https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4) | 2:38 | 2021-09-09 | 2022-09-13 |
@@ -1018,7 +1020,7 @@
 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 | 2019-07-11 | 2020-11-03 |
 | [Petit a petit, l’oiseau fait son nid](https://open.spotify.com/track/5Ze5DrTUOybbeTXgqOHFz7) | [Claire Pinette](https://open.spotify.com/artist/4cmV4jq8K9fFMqXdYQrtRP) | [Petit a petit, l’oiseau fait son nid](https://open.spotify.com/album/2oUWFui217UHBGY84n15BB) | 1:44 | 2019-08-30 | 2020-01-08 |
 | [Phantom](https://open.spotify.com/track/1PqCQoqFZWNLylRHsmUjG8) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Phantom](https://open.spotify.com/album/721GgErPvBzAlFeFjvigOH) | 1:57 | 2021-05-12 | 2022-10-14 |
-| [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 | 2022-02-16 |  |
+| [Phoneme](https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Phoneme](https://open.spotify.com/album/02qm1YKdiB7UtLI1NdK9nK) | 2:51 | 2022-02-16 | 2023-08-30 |
 | [Photograph](https://open.spotify.com/track/19qQLskmsiVPAGspwfwGGd) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Photograph](https://open.spotify.com/album/32L7KIzzmOAmcg2slINDlK) | 4:36 | 2021-08-12 | 2021-09-09 |
 | [Piha](https://open.spotify.com/track/28JVD0j9MIraxyvP7j60uy) | [Alexander Luchs](https://open.spotify.com/artist/0neAXQKhBdzCt4Si34HNzB) | [Piha](https://open.spotify.com/album/15RupUZmdLHRPgUX5PCAdf) | 3:19 | 2021-09-01 | 2022-11-22 |
 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 | 2023-02-17 |  |
@@ -1156,7 +1158,7 @@
 | [Sand Time](https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Sand Time](https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B) | 2:58 | 2022-08-19 |  |
 | [Sands Of Time](https://open.spotify.com/track/3j3puYxZ3zB9PQ7acE9mal) | [Daniel Ketchum](https://open.spotify.com/artist/6TwhBnzSvGRJBC9obv73uz) | [Sands Of Time](https://open.spotify.com/album/08ikUeZQ3YVWJ0p121ecE0) | 2:20 | 2021-03-09 | 2022-03-11 |
 | [Sans Regrets](https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Sans Regrets](https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je) | 2:21 | 2022-12-20 |  |
-| [Santolea](https://open.spotify.com/track/6X4fTprmm1elJ6LPGXJEsP) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Santolea](https://open.spotify.com/album/0IJ1We2li4qqibNwRwR2nR) | 2:31 | 2022-02-09 |  |
+| [Santolea](https://open.spotify.com/track/6X4fTprmm1elJ6LPGXJEsP) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Santolea](https://open.spotify.com/album/0IJ1We2li4qqibNwRwR2nR) | 2:31 | 2022-02-09 | 2023-08-30 |
 | [Sarah](https://open.spotify.com/track/6ICtpZePn3FKPcJJr8p9Cy) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Sarah](https://open.spotify.com/album/0qy16TSPCILCkirsddNLAX) | 3:32 | 2021-01-05 | 2021-04-22 |
 | [Sasha](https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY) | [Camilla Selezneva](https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX) | [Sasha](https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI) | 2:25 | 2020-04-14 | 2022-04-15 |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2020-10-20 | 2022-04-23 |
@@ -1600,6 +1602,7 @@
 | [Wolfpack](https://open.spotify.com/track/2uaSFwufXiS5OuuN4sqFGv) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Dear Sleep](https://open.spotify.com/album/7d5Ch69Ih3bHmDkMEo1Cic) | 3:31 | 2019-06-13 | 2020-04-21 |
 | [Wonder](https://open.spotify.com/track/0LRjR9cx8rJDYTRIHq7rxp) | [Arelius](https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH) | [Lucid Dreamin' II](https://open.spotify.com/album/7jufASRTIagXI2lw0SYz6W) | 2:42 | 2019-10-04 | 2019-12-17 |
 | [Wonderland](https://open.spotify.com/track/6E5PacZi1ckJC126CCOG30) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Distant Lovers](https://open.spotify.com/album/3GhSTFSSS851A5sykAVh0T) | 3:46 | 2020-09-15 | 2020-09-22 |
+| [Wreszcie](https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Wreszcie](https://open.spotify.com/album/68AlPgfClESbRVI28gvegI) | 2:55 | 2023-08-29 |  |
 | [Wunder](https://open.spotify.com/track/119a8rsOkvUFXPwpVCQUPW) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Wunder](https://open.spotify.com/album/0inF6HuUMAG0pdakByW83E) | 2:56 | 2021-02-09 | 2021-08-05 |
 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 | 2021-06-18 | 2022-09-24 |
 | [Yearning](https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Yearning](https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9) | 2:10 | 2022-01-26 | 2022-10-25 |

@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-755 songs - 1 day 15 hr 53 min
+756 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Döda hjärtan kan slå igen](https://open.spotify.com/track/4CZAKCH7hNagnKhJe60IyU) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Döda hjärtan kan slå igen](https://open.spotify.com/album/0XwIMEBisaLYj4SWj6wjjS) | 3:28 | 2021-12-16 | 2022-03-11 |
 | [Dör För Er Skull](https://open.spotify.com/track/6DLyHZGcyIeGPCzzTnB1o4) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Dör För Er Skull](https://open.spotify.com/album/021aTp0HEvlzTIkGKGvOTY) | 2:44 | 2022-03-10 | 2022-05-13 |
 | [Easy Go!](https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Easy Go!](https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk) | 2:30 | 2023-06-15 |  |
-| [Edelweiss](https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o) | [Signe & Hjördis](https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG) | [Edelweiss](https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh) | 2:47 | 2023-03-25 |  |
+| [Edelweiss](https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o) | [Signe & Hjördis](https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG) | [Edelweiss](https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh) | 2:47 | 2023-03-25 | 2023-08-30 |
 | [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 | 2023-04-13 | 2023-08-18 |
 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 | 2023-04-13 | 2023-07-16 |
 | [Elevator Eyes](https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Elevator Eyes](https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ) | 2:58 | 2023-08-10 |  |
@@ -384,6 +384,7 @@
 | [Lika bra](https://open.spotify.com/track/2AuOnLQFk1LCiSWuxbQona) | [råsa](https://open.spotify.com/artist/7xt4XwzlemR8yD2e3M26Wj) | [Lika bra](https://open.spotify.com/album/2uZdMOYOd3qwAzuNS0hKur) | 2:59 | 2021-12-16 | 2022-03-10 |
 | [Like a Crown](https://open.spotify.com/track/6wNrNhQiRKGymyoOH8AQ2K) | [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Like a Crown](https://open.spotify.com/album/7cY0PR9fvizhEW0y85T2FG) | 2:30 | 2021-12-16 | 2022-01-10 |
 | [Like I Don't Try](https://open.spotify.com/track/6TCRZsQg1e8rapnYdwM5CG) | [Carl Storm](https://open.spotify.com/artist/06wZ6err8NOnJK992dWO5i) | [Like I Don't Try](https://open.spotify.com/album/4RN22mc0Qts84kwfk4nsbW) | 2:35 | 2022-05-05 | 2022-07-25 |
+| [Like The River](https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Like The River](https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ) | 2:46 | 2023-08-26 |  |
 | [Liten&Lost](https://open.spotify.com/track/2K1p3thq7V9KerKSuOHAdI) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Liten&Lost](https://open.spotify.com/album/7hyYLHFyCVJrkLx8113hWo) | 3:37 | 2021-12-16 | 2022-03-11 |
 | [Little Brother](https://open.spotify.com/track/6Il1nJedTQoCPleS3hHRHQ) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Little Brother](https://open.spotify.com/album/5NDsuJO5IKsAeHEsAGxAfE) | 2:16 | 2022-05-26 | 2022-07-28 |
 | [Little Overdue](https://open.spotify.com/track/3Tfu8xQVJH4bJyMcLB7HXY) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [Enough To Get Away](https://open.spotify.com/album/0mvrLSxv6K43Y4uOJshl9k) | 3:21 | 2023-03-09 | 2023-04-07 |

@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria.",
-  "num_followers": 277585,
+  "num_followers": 277669,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2IzYjI5MTc3MWNlNjc0YWJjYWNjZmRmNWRiYzNlMTg0YmFjNjU0",
+  "snapshot_id": "MCwyMmEwMDQxNjM3ZTAwYTY4YzM1YjczYmE3ODg0ZTc2YzRiYjY1N2E5",
   "tracks": [
     {
       "added_at": "2023-08-18 03:03:00",
@@ -387,6 +387,26 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
+        "name": "You Were Loved (with OneRepublic)",
+        "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 221885,
+      "name": "You Were Loved (with OneRepublic)",
+      "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
         "name": "Move Your Body (Ti\u00ebsto Edit)",
         "url": "https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 140160,
       "name": "Move Your Body - Ti\u00ebsto Edit",
       "url": "https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "You Were Loved (with OneRepublic)",
-        "url": "https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 221885,
-      "name": "You Were Loved (with OneRepublic)",
-      "url": "https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
+        "name": "What's Up",
+        "url": "https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 147540,
+      "name": "What's Up",
+      "url": "https://open.spotify.com/track/12yj178KaJo8PrddT0StaL"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
         "name": "Esta Vida (VINNE Remix)",
         "url": "https://open.spotify.com/album/3tRAT5guWju2w4NquyECo8"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 173333,
       "name": "Esta Vida - VINNE Remix",
       "url": "https://open.spotify.com/track/3ClKsM5f06HfEpzNhmQeY0"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
-        "name": "What's Up",
-        "url": "https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 147540,
-      "name": "What's Up",
-      "url": "https://open.spotify.com/track/12yj178KaJo8PrddT0StaL"
     },
     {
       "added_at": "2023-08-18 03:03:00",
@@ -539,30 +539,6 @@
     {
       "added_at": "2023-08-18 03:03:00",
       "album": {
-        "name": "Never Be Alone (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 178670,
-      "name": "Never Be Alone (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK"
-    },
-    {
-      "added_at": "2023-08-18 03:03:00",
-      "album": {
         "name": "Human (Remix)",
         "url": "https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 211024,
       "name": "Human (Remix)",
       "url": "https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm"
+    },
+    {
+      "added_at": "2023-08-18 03:03:00",
+      "album": {
+        "name": "Never Be Alone (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 178670,
+      "name": "Never Be Alone (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK"
     },
     {
       "added_at": "2023-08-18 03:03:00",

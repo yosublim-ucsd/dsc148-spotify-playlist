@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-683 songs - 1 day 22 hr 32 min
+684 songs - 1 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 | 2023-05-05 | 2023-05-13 |
 | [Booty Remix](https://open.spotify.com/track/2eF7TPPkvk9ZCxbctuldxo) | [Jada](https://open.spotify.com/artist/1ReRIAB8F30tsxn3zanRTh), [JAYBAND$OME](https://open.spotify.com/artist/5SWHBeMjzJOXNrrhIrIJWe), [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Booty Remix](https://open.spotify.com/album/51ZKbvwl23ZajPDU3eVLki) | 2:39 | 2023-05-05 | 2023-05-28 |
 | [Born Under a Bad Sign](https://open.spotify.com/track/522tcgMzZbXPIgOXh8yLtr) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rarities 1983\-1998](https://open.spotify.com/album/30D06gnDL2ybmtALWlXsHB) | 3:49 | 2023-03-03 | 2023-03-19 |
-| [Cabalgando](https://open.spotify.com/track/0ddZU1EUOP6F8sKhtdZ9OM) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [Todo Es Posible](https://open.spotify.com/album/1EO3ZIJnQEz4VpZf98Garv) | 4:16 | 2023-08-25 |  |
+| [Cabalgando](https://open.spotify.com/track/0ddZU1EUOP6F8sKhtdZ9OM) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [Todo Es Posible](https://open.spotify.com/album/1EO3ZIJnQEz4VpZf98Garv) | 4:16 | 2023-08-25 | 2023-08-30 |
 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 | 2023-06-02 | 2023-06-25 |
 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 | 2023-03-17 | 2023-03-25 |
 | [Calm Down \(A Little Bit Calmer Now\)](https://open.spotify.com/track/1ubpxD40x6D9eI5jFqq8qq) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Calmer Now\)](https://open.spotify.com/album/3fDkswLzRGVWKXR8Mxkn3t) | 3:08 | 2023-05-26 | 2023-06-25 |
@@ -337,6 +337,7 @@
 | [Light My Fire](https://open.spotify.com/track/0uXglUjIGtNwfiZH9VAuvX) | [LM.ORG](https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW), [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [Nice Natives](https://open.spotify.com/artist/6f5R3djkODYQdTmYoRRZsP) | [Light My Fire](https://open.spotify.com/album/0SK7foo6OK5lDccWipergM) | 3:00 | 2023-03-17 | 2023-03-25 |
 | [Living in the past](https://open.spotify.com/track/1TzlQZCtmoPzsZUt1z2BZ7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Living in the past](https://open.spotify.com/album/5K7oSjHEwb8d0WKnBtUJoj) | 4:36 | 2023-03-24 | 2023-04-01 |
 | [Living on the edge of the night \(A Gothic anthem\)](https://open.spotify.com/track/4GIXwwzePSz4qxaNQLCnu7) | [Blutengel](https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR) | [Living on the edge of the night \(A Gothic anthem\)](https://open.spotify.com/album/1gLDPYPJN6vlhjeTMPg1ZH) | 4:30 | 2023-03-03 | 2023-03-25 |
+| [Llama Violeta Chamánica](https://open.spotify.com/track/5bWnTEQIoOO1mnZfHqw79K) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [Llama Violeta Chamánica](https://open.spotify.com/album/2IqPZLo79cNQwnLu8Rrjh1) | 8:28 | 2023-08-25 |  |
 | [Llegué Donde No Venía](https://open.spotify.com/track/0QgFxkXwGL7aYAUbMBZvX6) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Sin Por Qué](https://open.spotify.com/album/58ifITpwXtUlM7oAuO1UEv) | 4:21 | 2023-03-24 | 2023-03-26 |
 | [Loose Ends \- Live at Continental Airlines Arena, E\. Rutherford, NJ \- 7/18/1999](https://open.spotify.com/track/1DwjL5CZ8XNTGQg6rhozcJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs of Introspection](https://open.spotify.com/album/081au3yAEkZzrbrmjRGb1w) | 4:19 | 2023-08-25 | 2023-08-27 |
 | [Los Niños Cuicos No Saben Rockear](https://open.spotify.com/track/556pT1Sm2jwHJ8bLaXJEoR) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [Políticamente Incorrectos \(Soeces y Anacrónicos\)](https://open.spotify.com/album/2CTSh87S7pObaadO2HGovU) | 2:41 | 2023-08-25 |  |

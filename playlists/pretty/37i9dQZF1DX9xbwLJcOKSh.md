@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,788 likes - 71 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,792 likes - 71 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 50 | [Eternal Memories](https://open.spotify.com/track/0YkTlT4dN4hk4ihiGjPNCQ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [C.L.L CRYSTAL LOVER LIGHT](https://open.spotify.com/album/4FPdpim6E4EEpjcEffWQi7) | 5:08 |
 | 51 | [時には昔の話を](https://open.spotify.com/track/6doYuv4YLRc5ip4GqMUMnb) | [Tokiko Kato](https://open.spotify.com/artist/7mRR1ujyKMatcj5CjqGYAW) | [さくらんぼの実る頃](https://open.spotify.com/album/3p4X3ywzqgqzlCUZZMIXeh) | 3:57 |
 | 52 | [von](https://open.spotify.com/track/3oUgh8bLNkEF0ul6cdMW46) | [菅野 よう子 feat\. Arnor Dan](https://open.spotify.com/artist/0iUhLWdoD8Sy0TxeeAellF) | [残響のテロル オリジナル・サウンドトラック](https://open.spotify.com/album/5FzuQABR0MQBC4X60iEzSF) | 6:14 |
-| 53 | [流し目プレイ☆](https://open.spotify.com/track/0jdhf4ASJPQVB2lF6av0yq) | [Kei Kobayashi](https://open.spotify.com/artist/79kDeWonZGfPMKoubNNBx4) | [Keiスタンダード\~the best of Kei Kobayashi](https://open.spotify.com/album/5vp8PSLSp9R6qIMVccaY52) | 3:31 |
+| 53 | [流し目プレイ☆](https://open.spotify.com/track/0jdhf4ASJPQVB2lF6av0yq) | [Kei Kobayashi](https://open.spotify.com/artist/79kDeWonZGfPMKoubNNBx4) | [Keiスタンダード～the best of Kei Kobayashi](https://open.spotify.com/album/5vp8PSLSp9R6qIMVccaY52) | 3:31 |
 | 54 | [奇跡の海](https://open.spotify.com/track/3SvHpNm2zWsogFk9IVJdNQ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere I](https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G) | 4:18 |
 | 55 | [星と翼のパラドクス](https://open.spotify.com/track/0oq0LaOo8fd2P5ObNlDP7L) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [星と翼のパラドクス](https://open.spotify.com/album/1oAwJgwY8EQeNzOTBgEGWD) | 4:54 |
 | 56 | [Trigger](https://open.spotify.com/track/0WzS0gRcots1x2LscMkpNX) | [Yuuki Ozaki](https://open.spotify.com/artist/6I5wmN6pwiACzmS70UhbHy) | [Trigger](https://open.spotify.com/album/0ztjPLsdtp9GJZunoiFEaO) | 5:07 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 70 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 71 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 ～Tami～](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MCxmOTE4ZWUzNzYzZTNmNzYzODdlZTE5NjQ5MjM3N2IzMmU5M2U2NmJh`
+Snapshot ID: `MCwwM2JiMjNmZWJlMjAxY2NiYjIxZTA5NTNmNTA4ZWRmZGFkYWVkZWEw`

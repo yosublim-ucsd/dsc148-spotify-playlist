@@ -1,12 +1,12 @@
 {
   "description": "Stomping new Blues and Blues Rock. ",
-  "num_followers": 6200,
+  "num_followers": 6204,
   "original_name": "Blues Stompers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWU3MmVlYmZjNTMxMTY2ODgxN2I4N2Y0YWJkMTdlY2M4MDllZDRk",
+  "snapshot_id": "MCw1MzI3NTYwYzAxMDkyMzQ1NDcxMWM3NDAxNzVlNWFkMGFmOTRlYjA4",
   "tracks": [
     {
       "added_at": "2023-08-25 00:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "GrandVille",
-        "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
-      },
-      "artists": [
-        {
-          "name": "GrandVille",
-          "url": "https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK"
-        }
-      ],
-      "duration_ms": 368459,
-      "name": "Counting Colors",
-      "url": "https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "IDKWYCTD (I Came To Play)",
         "url": "https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Hey God",
-        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
+        "name": "GrandVille",
+        "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "GrandVille",
+          "url": "https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK"
         }
       ],
-      "duration_ms": 237120,
-      "name": "Hey God",
-      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
+      "duration_ms": 368459,
+      "name": "Counting Colors",
+      "url": "https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -611,6 +595,22 @@
       "duration_ms": 175320,
       "name": "Ramble No More",
       "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Hey God",
+        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Hey God",
+      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Endless Highway",
+        "url": "https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3"
+      },
+      "artists": [
+        {
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Endless Highway",
+      "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5XpJxe16XCSDeIJe1huefg"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Endless Highway",
-        "url": "https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3"
+        "name": "Rockabye Motel",
+        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
       },
       "artists": [
         {
-          "name": "Jonah Tolchin",
-          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
+          "name": "Blue Water Highway",
+          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
         }
       ],
-      "duration_ms": 225760,
-      "name": "Endless Highway",
-      "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
+      "duration_ms": 343800,
+      "name": "Rockabye Motel",
+      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -767,22 +783,6 @@
       "duration_ms": 255209,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2JmwjDIFspqdq83Hv77HFv"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Rockabye Motel",
-        "url": "https://open.spotify.com/album/1tGugHW3RhB2c3J52Knvdy"
-      },
-      "artists": [
-        {
-          "name": "Blue Water Highway",
-          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
-        }
-      ],
-      "duration_ms": 343800,
-      "name": "Rockabye Motel",
-      "url": "https://open.spotify.com/track/6MpXCmx5j9qGFM0ka5JqZU"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Rubber Hits the Road",
-        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
-      },
-      "artists": [
-        {
-          "name": "SUSU",
-          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Rubber Hits the Road",
-      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "A Good Thing",
         "url": "https://open.spotify.com/album/57syR4Vje7gemU7560rhtl"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
+        "name": "Rubber Hits the Road",
+        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
       },
       "artists": [
         {
-          "name": "The Dust Coda",
-          "url": "https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP"
+          "name": "SUSU",
+          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
         }
       ],
-      "duration_ms": 274612,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
+      "duration_ms": 181133,
+      "name": "Rubber Hits the Road",
+      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -979,6 +963,22 @@
       "duration_ms": 210000,
       "name": "Crime",
       "url": "https://open.spotify.com/track/56qaRQgH1k3CKQYFZwxrOG"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
+      },
+      "artists": [
+        {
+          "name": "The Dust Coda",
+          "url": "https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP"
+        }
+      ],
+      "duration_ms": 274612,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Stop Signs and Fence Lines",
-        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
-      },
-      "artists": [
-        {
-          "name": "Jericho Woods",
-          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
-        }
-      ],
-      "duration_ms": 170854,
-      "name": "Ten Beer Job",
-      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Go Down Swinging",
         "url": "https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC"
       },
@@ -1175,22 +1159,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
-      },
-      "artists": [
-        {
-          "name": "Arthur Terembula",
-          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
-        }
-      ],
-      "duration_ms": 134001,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Rag Doll",
         "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
       },
@@ -1203,6 +1171,38 @@
       "duration_ms": 169841,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Stop Signs and Fence Lines",
+        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
+      },
+      "artists": [
+        {
+          "name": "Jericho Woods",
+          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
+        }
+      ],
+      "duration_ms": 170854,
+      "name": "Ten Beer Job",
+      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
+      },
+      "artists": [
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "duration_ms": 134001,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
     },
     {
       "added_at": "2023-08-25 00:01:00",

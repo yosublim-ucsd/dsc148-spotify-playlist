@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,933 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,121 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 2 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 |
 | 3 | [Paris Paris](https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Paris Paris](https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD) | 2:56 |
 | 4 | [Da für dich](https://open.spotify.com/track/5YP1scuRzU6LOgj7u1rnvt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Da für dich](https://open.spotify.com/album/26JCG4Lq0kTAlmVOu6OBqt) | 3:16 |
-| 5 | [Ich Feier \(feat\. DISSY\)](https://open.spotify.com/track/3PjOhZBUKPJcpDFHM1yVUJ) | [VAN HOLZEN](https://open.spotify.com/artist/6KXCn6HU5WBvHN9uqkwMcn), [DISSY](https://open.spotify.com/artist/6CfRq9NZZaosSc1hEAXuwH) | [Ich Feier \(feat\. DISSY\)](https://open.spotify.com/album/2BUq5m8CkzdW7znmM41rXC) | 3:05 |
+| 5 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 |
 | 6 | [Gaga Baby](https://open.spotify.com/track/5pAZ7fEX5vA9IACYGDHFA8) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Gaga Baby](https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA) | 2:29 |
-| 7 | [Moment](https://open.spotify.com/track/79uciSS2z1jLXt9Pz4K7tQ) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Moment](https://open.spotify.com/album/439pjsVL90aeZHwvY3OhVW) | 2:43 |
-| 8 | [Bitterlemon](https://open.spotify.com/track/3MQXzVtLzCaLaScZpq9c6O) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Bitterlemon](https://open.spotify.com/album/3FLExWlp1ZLPxNwLVMmXYN) | 2:52 |
+| 7 | [Bitterlemon](https://open.spotify.com/track/3MQXzVtLzCaLaScZpq9c6O) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Bitterlemon](https://open.spotify.com/album/3FLExWlp1ZLPxNwLVMmXYN) | 2:52 |
+| 8 | [Sekundenschlaf](https://open.spotify.com/track/1nl2fmtFjDhplqdyecVIjn) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/58wvPo48VlBS9ySAYlUhGs) | 2:33 |
 | 9 | [Sprite](https://open.spotify.com/track/4ytM9tGEHg9si6PHlem15h) | [ANOKI](https://open.spotify.com/artist/3EhgyxwXCxedAWunhIwSFx) | [Sprite](https://open.spotify.com/album/1laGBRu72LIQ4NQNL3smsX) | 2:31 |
-| 10 | [Sekundenschlaf](https://open.spotify.com/track/1nl2fmtFjDhplqdyecVIjn) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Sekundenschlaf](https://open.spotify.com/album/58wvPo48VlBS9ySAYlUhGs) | 2:33 |
-| 11 | [rosa rugosa](https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08) | 2:16 |
-| 12 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
-| 13 | [Das Ende der Welt](https://open.spotify.com/track/2AGBN8LFzvKs3LTFR7wiE9) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8) | [Das Ende der Welt](https://open.spotify.com/album/2ARx5wdMe4ZFqzzajXwt0o) | 3:04 |
+| 10 | [Ich Feier \(feat\. DISSY\)](https://open.spotify.com/track/3PjOhZBUKPJcpDFHM1yVUJ) | [VAN HOLZEN](https://open.spotify.com/artist/6KXCn6HU5WBvHN9uqkwMcn), [DISSY](https://open.spotify.com/artist/6CfRq9NZZaosSc1hEAXuwH) | [Ich Feier \(feat\. DISSY\)](https://open.spotify.com/album/2BUq5m8CkzdW7znmM41rXC) | 3:05 |
+| 11 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
+| 12 | [Das Ende der Welt](https://open.spotify.com/track/2AGBN8LFzvKs3LTFR7wiE9) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8) | [Das Ende der Welt](https://open.spotify.com/album/2ARx5wdMe4ZFqzzajXwt0o) | 3:04 |
+| 13 | [rosa rugosa](https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08) | 2:16 |
 | 14 | [Gelangweilt](https://open.spotify.com/track/2KEMkFSPFldGv8zBK2wTjt) | [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM) | [Gelangweilt](https://open.spotify.com/album/5sVv4D12RA2PxmnYd85OGi) | 3:08 |
 | 15 | [Schrei Es Raus](https://open.spotify.com/track/0RV3WPpJxwxce4X5cN11V2) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Schrei Es Raus](https://open.spotify.com/album/5SLzzCL9Cse7Mo2crW0gk3) | 2:33 |
 | 16 | [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht](https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP) | 2:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Girls](https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Girls](https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL) | 3:08 |
 | 75 | [boys don’t cry](https://open.spotify.com/track/4D7gB2zqGluW3P4hU8WIEu) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [boys don’t cry](https://open.spotify.com/album/4UDlvkucIuKcxmYhExbCwL) | 2:55 |
 
-Snapshot ID: `MCw5ZGViNTRiZGM0OTA5M2RlYzc5YmNkNTc2MzI5YzBiYTNmNTI5ZWJj`
+Snapshot ID: `MCwwZTdlNTQ1N2E2OTM4ODE4NDI5ODI1ZDA1YWFiY2NmYjQ3YmFjNjIx`

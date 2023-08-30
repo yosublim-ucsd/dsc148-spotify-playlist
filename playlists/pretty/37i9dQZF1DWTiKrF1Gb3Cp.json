@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 158614,
+  "num_followers": 158722,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmUwYmZiMmM5Yzg3MWRhMTQ0NWJkOWQyYjM0YjhmZDE4M2JlYzEw",
+  "snapshot_id": "MCwwYmQxZDMzYzNlYzY3NGM3Njc2OTdiOTk1MGQyNjFlN2VmY2Q0NTFj",
   "tracks": [
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
+        "name": "99'S",
+        "url": "https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 233941,
+      "name": "99'S",
+      "url": "https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
         "name": "MEXplico",
         "url": "https://open.spotify.com/album/16kWk2uwcbxaAUjs1BwDMO"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 133899,
       "name": "MEXplico",
       "url": "https://open.spotify.com/track/1OaFL3gpHNx2PiEz0hffns"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "99'S",
-        "url": "https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH"
-      },
-      "artists": [
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 233941,
-      "name": "99'S",
-      "url": "https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 141904,
+      "name": "Modo Bestia",
+      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
         "name": "Sabadrugs",
         "url": "https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC"
       },
@@ -1855,18 +1871,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+        "name": "Robot Montana",
+        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         }
       ],
-      "duration_ms": 141904,
-      "name": "Modo Bestia",
-      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
+      "duration_ms": 175730,
+      "name": "Mariguana & Tequila",
+      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1891,26 +1911,6 @@
       "duration_ms": 227495,
       "name": "Pa Los Barrios Y Las Clikas",
       "url": "https://open.spotify.com/track/722FnPcAf2KnbXzdokciiz"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
-        "name": "Robot Montana",
-        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 175730,
-      "name": "Mariguana & Tequila",
-      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "WARZONE FREESTYLE",
-        "url": "https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "WARZONE FREESTYLE",
-      "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"
-    },
-    {
-      "added_at": "2023-07-28 20:09:33",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9"
       },
@@ -2007,6 +1987,26 @@
       "duration_ms": 188181,
       "name": "Followers",
       "url": "https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV"
+    },
+    {
+      "added_at": "2023-07-28 20:09:33",
+      "album": {
+        "name": "Miami Beach",
+        "url": "https://open.spotify.com/album/56scR1Ng2zgHTcDcK9BwzF"
+      },
+      "artists": [
+        {
+          "name": "R1 La Esencia",
+          "url": "https://open.spotify.com/artist/6fDScz7zLUrQFSRy4Tn7Ff"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 185253,
+      "name": "Miami Beach",
+      "url": "https://open.spotify.com/track/65QkoILdc0nkAlSErb5ZDZ"
     },
     {
       "added_at": "2023-07-28 20:09:33",
@@ -2027,18 +2027,22 @@
     {
       "added_at": "2023-07-28 20:09:33",
       "album": {
-        "name": "Derrochando Estilo",
-        "url": "https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt"
+        "name": "WARZONE FREESTYLE",
+        "url": "https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P"
       },
       "artists": [
         {
-          "name": "Chikis RA",
-          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 167191,
-      "name": "Derrochando Estilo",
-      "url": "https://open.spotify.com/track/4I98VytVQXNTScYphARAGH"
+      "duration_ms": 196235,
+      "name": "WARZONE FREESTYLE",
+      "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"
     }
   ],
   "unique_name": "Gaming Malandro",

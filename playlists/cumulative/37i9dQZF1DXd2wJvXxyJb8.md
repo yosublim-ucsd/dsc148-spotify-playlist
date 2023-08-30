@@ -4,7 +4,7 @@
 
 > FAKE NATTY
 
-312 songs - 14 hr 12 min
+313 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [De Love](https://open.spotify.com/track/24yhU1uQVX0u5Rvc0gProL) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [De Love](https://open.spotify.com/album/09GN4TaBw3LneSw4MBYdt6) | 3:07 | 2023-03-27 | 2023-05-30 |
 | [Deixa eu botar meu boneco \- Baile do Polly 2.0](https://open.spotify.com/track/6vtgGf9Xn7fsr6jr1aGSRt) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [Deixa eu botar meu boneco \(Baile do Polly 2.0\)](https://open.spotify.com/album/1WC0f6GW92K5JzuD2V13N8) | 3:12 | 2023-02-06 | 2023-08-04 |
 | [Dengo](https://open.spotify.com/track/2Udojaa4kCFg7vBbcIEzHK) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Dengo](https://open.spotify.com/album/4YzaJCrhY1JAiPfU1BqgOu) | 3:34 | 2022-11-07 | 2023-02-18 |
+| [DENTRO DA HILUX](https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [DENTRO DA HILUX](https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU) | 2:43 | 2023-08-29 |  |
 | [Depende](https://open.spotify.com/track/2OsPujKDKv0PgbfsMHtU7m) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR) | [Depende](https://open.spotify.com/album/3UuIipzzWhzr5ynZN4oMbW) | 2:36 | 2022-05-26 | 2022-11-10 |
 | [DESCE DESCE TALARICA COM BCT NA MINHA PIKA](https://open.spotify.com/track/4pUdg0ZNqb1AH84joX7MOf) | [RITMO CARIOCA](https://open.spotify.com/artist/09ALVvXfw7m44JTMLx7SqR) | [DESCE DESCE TALARICA COM BCT NA MINHA PIKA](https://open.spotify.com/album/1mX9RfpGJ7hORtSzze75Cy) | 1:51 | 2023-02-28 | 2023-03-02 |
 | [Desce Talarica](https://open.spotify.com/track/194Zxp5dpD84BhytBqoTIK) | [Dj Miguel Muniz](https://open.spotify.com/artist/6r5IE5GCAU7MKTmCuxihbn) | [Desce Talarica](https://open.spotify.com/album/0V3qBGRWeu1lpqGdKIk5M1) | 1:49 | 2023-02-28 | 2023-03-09 |
@@ -316,7 +317,7 @@
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-05-26 | 2022-10-20 |
 | [You Da One](https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:20 | 2022-05-26 | 2022-07-05 |
 | [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 | 2023-01-30 |  |
-| [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/track/0TdK5nwfcmX9smiLXJEeFp) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/album/1P3dEPUXXt25WxJF55T3DD) | 2:05 | 2023-01-04 |  |
+| [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/track/0TdK5nwfcmX9smiLXJEeFp) | [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [É Piru nas Meninas \- Medley das Antigas](https://open.spotify.com/album/1P3dEPUXXt25WxJF55T3DD) | 2:05 | 2023-01-04 | 2023-08-30 |
 | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/track/27zzfMfgvjQtW21nPxNy7w) | [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria](https://open.spotify.com/album/6AzO0Zn7Cl2bBqa04T4q22) | 2:13 | 2022-07-28 | 2022-09-22 |
 | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/track/2IsusePMD32LQKNU7vZiAH) | [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/album/1hZBg3LJIEeqQf3WqcbCQf) | 2:13 | 2022-05-26 | 2022-07-31 |
 | [É Só Um Lance Lero Lero](https://open.spotify.com/track/5DoYLtsVnNMcrgpMdEPOsI) | [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3), [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP), [Meno Saaint](https://open.spotify.com/artist/6JX06TYY9weAIjfnzFWqZL) | [É Só Um Lance Lero Lero](https://open.spotify.com/album/4On1CDfCz6TG3oW3BTVySP) | 1:56 | 2022-11-25 | 2023-04-12 |

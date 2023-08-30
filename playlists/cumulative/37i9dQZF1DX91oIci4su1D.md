@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-733 songs - 1 day 20 hr 37 min
+734 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Dark & Stormy](https://open.spotify.com/track/2RInAfucpwkL7daWgkkDak) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Dark & Stormy](https://open.spotify.com/album/2L34rnHuaw0PISekxAe9lw) | 3:02 | 2022-08-05 | 2023-06-10 |
 | [Darker Days](https://open.spotify.com/track/6nLRlcRKSTYzcGzCZyZVuI) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Darker Days](https://open.spotify.com/album/0VwKfzQt7vMGJUhADRyUye) | 2:57 | 2023-07-07 |  |
 | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/track/6UOw9DxwNWBVpbuYshKzIl) | [Joint Operations Centre](https://open.spotify.com/artist/1yBLCDLlLunLE5pBDt2da7) | [Darkstate \(A Dreamstate Anthem\)](https://open.spotify.com/album/4fV05qypGMoHz5BR0FMXkt) | 3:23 | 2023-04-07 | 2023-06-10 |
-| [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 |  |
+| [Dawn](https://open.spotify.com/track/4OkpB4tHyv7YmkOyiRGYij) | [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Dawn](https://open.spotify.com/album/4NnWjmwfrlQluFAwql0euW) | 3:57 | 2023-07-21 | 2023-08-30 |
 | [Deja Vu](https://open.spotify.com/track/4hpCaW3UntoXmsgTbl5FVV) | [Tensteps](https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Deja Vu](https://open.spotify.com/album/5rF0AAKnkVnlYaAYXF0eng) | 3:46 | 2023-06-09 |  |
 | [Delyo's Voyage](https://open.spotify.com/track/4cNnZvWG0RuQpVsb3jbcu8) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Delyo's Voyage](https://open.spotify.com/album/03BW71V7SXKx2drYPScy6B) | 4:26 | 2022-04-08 | 2023-04-09 |
 | [Departure](https://open.spotify.com/track/2rESTwxLf2TgzK0vpcHaq6) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Departure](https://open.spotify.com/album/2pqx5Sjc6xGWD5p87aXhUC) | 3:27 | 2023-07-14 |  |
@@ -475,6 +475,7 @@
 | [Offshore \- Evolution Mix](https://open.spotify.com/track/2O0HETfHUQNumACQ7Yg6sm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Far From The Maddening Crowds \(Evolution Mixes\)](https://open.spotify.com/album/5CR6luLHeshWtx2pgH7tAn) | 3:46 | 2022-07-08 | 2022-10-08 |
 | [On My Mind](https://open.spotify.com/track/4fbqwJ0bZTMerQtLKdMK9v) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Cristina Soto](https://open.spotify.com/artist/5BKXCIdVnAwBQKUoGNqfZj) | [On My Mind](https://open.spotify.com/album/0Q111xnolEwzNORK2QWy6w) | 4:58 | 2022-05-06 | 2023-04-09 |
 | [One Last Dance \- Farius Remix](https://open.spotify.com/track/4RvECaSz84jyRFhOfXuahJ) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ), [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [One Last Dance \(Farius Remix\)](https://open.spotify.com/album/4MTSJjAoJdaaPFUjtm6n9g) | 4:09 | 2022-03-11 | 2023-04-09 |
+| [Open Your Eyes](https://open.spotify.com/track/0fXF7HLNe5JzlvqA2lDQbf) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Open Your Eyes](https://open.spotify.com/album/1iM33sKoAHsCaGU8ty4XPb) | 2:34 | 2023-08-25 |  |
 | [Open Your Eyes](https://open.spotify.com/track/0xCdgF66ktkaVpiFXoXlp0) | [Inrayzex](https://open.spotify.com/artist/2OQGGn8Wi28QOTks6NroWf) | [Suanda Music Radio Top 20 \(May 2022\)](https://open.spotify.com/album/2qRknvwmzLJAl0TF18dTMv) | 3:23 | 2022-05-20 | 2022-07-29 |
 | [Orbit 37](https://open.spotify.com/track/40fFjxtsBoIdTEL71kbp39) | [Rub!k](https://open.spotify.com/artist/5U2wxAflSm2aCkV61rqhX2) | [Orbit 37](https://open.spotify.com/album/1F6PBJ4VSUq4KqoQVjPppM) | 2:54 | 2022-05-27 | 2023-05-20 |
 | [Orkaan](https://open.spotify.com/track/0VFjEgr9njZFDUqOYvW4lT) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Orkaan](https://open.spotify.com/album/66lxk1HRuQvpRsplqxZaOT) | 3:15 | 2023-05-19 | 2023-06-10 |

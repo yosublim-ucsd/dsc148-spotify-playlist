@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Burna Boy (pictured), Selena Gomez, Joel Corry and more!",
-  "num_followers": 837134,
+  "num_followers": 837157,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTA2NzY5MzRhZGE0ZGI2ZTBjODkxMGYwMWEzOWRhNGU4MjMyZDA4",
+  "snapshot_id": "MCwyZWY1ZmFhNTBmNzA3NmQ5ZGJmYmMzMTRiYjQxNGNkM2RiZGViY2Fi",
   "tracks": [
     {
       "added_at": "2023-08-25 10:00:21",
@@ -468,8 +468,8 @@
           "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
         },
         {
-          "name": "Enny",
-          "url": "https://open.spotify.com/artist/3adk6lhXLB2pyEu8JOCKuk"
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
       "duration_ms": 157586,
@@ -566,6 +566,14 @@
         {
           "name": "Swae Lee",
           "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
       "duration_ms": 199641,

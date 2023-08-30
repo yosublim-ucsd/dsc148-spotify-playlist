@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Burna Boy \(pictured\), Selena Gomez, Joel Corry and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,134 likes - 145 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,157 likes - 145 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 24 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 |
 | 25 | [Daddy’s a Psycho](https://open.spotify.com/track/6jYo2opycXJs1wj2jENEiq) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 4:19 |
 | 26 | [of course](https://open.spotify.com/track/67ZEHFld41PZdanUBCilfN) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [of course](https://open.spotify.com/album/0neqduBZznQHqCIHQalpoO) | 2:40 |
-| 27 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Enny](https://open.spotify.com/artist/3adk6lhXLB2pyEu8JOCKuk) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 |
+| 27 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 |
 | 28 | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa) | 4:43 |
 | 29 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 30 | [No Idea](https://open.spotify.com/track/2Qioo7UUJqOVtiiCXGgGJt) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [No Idea](https://open.spotify.com/album/0ATUPw0KWUOd6i2U5AKBJC) | 2:25 |
 | 31 | [Dreams](https://open.spotify.com/track/1bkGfkfY911sx0YZrQeuDr) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Dreams](https://open.spotify.com/album/5GNLPhiiwQNINmtQxbUCkv) | 2:48 |
-| 32 | [Wish U Well](https://open.spotify.com/track/6BWI8WNmCwYHfJC5BLvks4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:19 |
+| 32 | [Wish U Well](https://open.spotify.com/track/6BWI8WNmCwYHfJC5BLvks4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:19 |
 | 33 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 34 | [head](https://open.spotify.com/track/4rGZy1pDm0UGOYnZCI9nbb) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [head](https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p) | 2:17 |
 | 35 | [Moment Of Your Life](https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Moment Of Your Life](https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis) | 3:15 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 144 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 |
 | 145 | [10,000](https://open.spotify.com/track/0HZKX7ZFA339Da0IA2EpVq) | [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [10,000](https://open.spotify.com/album/70L9lYw6QhFfP4qdU59WKL) | 3:46 |
 
-Snapshot ID: `MCxlZTA2NzY5MzRhZGE0ZGI2ZTBjODkxMGYwMWEzOWRhNGU4MjMyZDA4`
+Snapshot ID: `MCwyZWY1ZmFhNTBmNzA3NmQ5ZGJmYmMzMTRiYjQxNGNkM2RiZGViY2Fi`

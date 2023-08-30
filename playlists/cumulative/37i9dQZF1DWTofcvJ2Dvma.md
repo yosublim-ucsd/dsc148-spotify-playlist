@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-369 songs - 15 hr 49 min
+372 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Calculator](https://open.spotify.com/track/5ge3MKqV7AvdQmwUnsWaYX) | [sonofie](https://open.spotify.com/artist/64V6VBrGxTgK5VuSIY9TVw) | [Calculator](https://open.spotify.com/album/0yrUNuuUzin7Gov8i8ApHN) | 1:48 | 2022-03-14 | 2023-01-25 |
 | [can you call me back](https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [can you call me back](https://open.spotify.com/album/081bq3A8UNs9vJIDdTtAjd) | 3:09 | 2023-06-20 |  |
 | [Cap Bénat](https://open.spotify.com/track/0ITR2dYQz1AelssrHTZ0a7) | [Zack & Alex](https://open.spotify.com/artist/5zQXrY8n5KXT1kjmNryojG) | [Cap Bénat](https://open.spotify.com/album/4EmeOCvieivOpPAKj0MhQN) | 3:14 | 2022-09-01 | 2022-10-26 |
+| [Careless](https://open.spotify.com/track/69PYB04q2aTC3i9wFzRC3T) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM) | [Careless](https://open.spotify.com/album/0QDeDHId4agJs6w0G630zO) | 2:03 | 2023-08-29 |  |
 | [chocolate milk thnx](https://open.spotify.com/track/4z8LqF5jRvM2qNG4Kzf9Bl) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [chocolate milk thnx](https://open.spotify.com/album/3uhR8os4vLjHI6U4y42ZRU) | 2:23 | 2022-06-22 | 2023-01-06 |
 | [Chpn Was Here](https://open.spotify.com/track/5d9rhmfOxV9OynydiHFqXh) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [Over and Through The Blue](https://open.spotify.com/album/2bFx3MelG038G7lM2g98kW) | 2:21 | 2022-07-28 |  |
 | [Cigar](https://open.spotify.com/track/7yD9xepeRrBa6bO3li14Gu) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Cigar](https://open.spotify.com/album/2BARicBFCobZspePy6WvhJ) | 2:31 | 2022-10-25 | 2023-01-25 |
@@ -98,6 +99,7 @@
 | [espresso](https://open.spotify.com/track/3t8TY6vB21yLUDWWA9Pp8B) | [milk beats](https://open.spotify.com/artist/0q21LrR1ploq7PhImgdhZA) | [espresso](https://open.spotify.com/album/4n3a3cRrTYPeO5bBodort9) | 2:36 | 2022-09-22 | 2022-12-22 |
 | [eternallife](https://open.spotify.com/track/5VBBhsFui4voNhwcBS7QEm) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [eternallife](https://open.spotify.com/album/5VWP0cfp4IGajOpLt9YVfl) | 1:45 | 2022-10-25 | 2023-06-21 |
 | [Etoile](https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m) | [Boyakaza](https://open.spotify.com/artist/7CwH4lMBbUZGz10FTJodF5) | [Etoile](https://open.spotify.com/album/3MQsERyDqkYLQztXDBofaV) | 2:29 | 2022-03-14 | 2023-01-06 |
+| [Excellerator](https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Excellerator](https://open.spotify.com/album/7fT89oyy3uT3bsL7QSACfF) | 2:34 | 2023-08-29 |  |
 | [eyes closed, flying](https://open.spotify.com/track/4YphuuHWU3xM2rNlXEk3yC) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [Dreamscapes](https://open.spotify.com/album/1grSb4dJHXQDo6AMkkkjk8) | 1:58 | 2022-11-25 | 2023-06-21 |
 | [Fall](https://open.spotify.com/track/6bWohy0oM550MR6phDoSAc) | [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [Talks After Ten](https://open.spotify.com/album/3ubcK42N5b7mD5F8bEHEiJ) | 3:05 | 2022-03-14 | 2022-05-11 |
 | [falling](https://open.spotify.com/track/0JwITaadgbbBnQIioNbjrD) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [falling](https://open.spotify.com/album/3YpHJzRylTi7Y3jU2KcXVS) | 2:40 | 2022-03-14 | 2022-04-22 |
@@ -272,7 +274,7 @@
 | [running into dreams](https://open.spotify.com/track/3q7nuBN4kAmqFGiP6dGUSH) | [anayys](https://open.spotify.com/artist/2TcmGbzQcGwhauOyGwxPEB) | [running into dreams](https://open.spotify.com/album/4vdzrl8ZbHfP6wcldcaV7D) | 2:40 | 2022-06-02 | 2022-12-22 |
 | [safety match](https://open.spotify.com/track/1QNezn0xbaGoNsMiSNNJeO) | [arithmetic underflow](https://open.spotify.com/artist/6uk5o7O5Wz3xVIUv3zG9Gr) | [safety match](https://open.spotify.com/album/0rUBTL4CTReuG3tx7HFjwh) | 2:54 | 2022-06-22 | 2022-10-26 |
 | [Sandy Feat](https://open.spotify.com/track/5qOnzuMUMElHcfREjI7HFu) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sandy Feat](https://open.spotify.com/album/6WczlV0AWb2UitbilF3Qi0) | 2:23 | 2023-06-20 |  |
-| [Secret Escape](https://open.spotify.com/track/59T1QsjRMjA0tdhoX20dTs) | [Frongen](https://open.spotify.com/artist/5nHpUxLu1yEHRV0aGL5t5y) | [Secret Escape](https://open.spotify.com/album/3pVDT0tiIRzs1kUm3IublH) | 2:30 | 2022-03-14 |  |
+| [Secret Escape](https://open.spotify.com/track/59T1QsjRMjA0tdhoX20dTs) | [Frongen](https://open.spotify.com/artist/5nHpUxLu1yEHRV0aGL5t5y) | [Secret Escape](https://open.spotify.com/album/3pVDT0tiIRzs1kUm3IublH) | 2:30 | 2022-03-14 | 2023-08-30 |
 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 | 2022-03-14 | 2023-01-06 |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2022-03-14 | 2022-04-22 |
 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 | 2022-03-14 | 2023-06-21 |
@@ -302,6 +304,7 @@
 | [Spirits](https://open.spotify.com/track/7cIah2OvEEfMk05ujFZxWI) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:13 | 2022-03-14 | 2023-01-25 |
 | [Spots](https://open.spotify.com/track/1smzJLamcRIHcHUT82opTR) | [Cardamom](https://open.spotify.com/artist/55z2VFr6FxKYEOctgA2ICi) | [Spots](https://open.spotify.com/album/3KntBPi6tFBDBXZHE3O1pr) | 2:35 | 2022-03-14 |  |
 | [spring](https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP) | [slowseventeen](https://open.spotify.com/artist/09h6Xfv6UuvH9rIjAASA2X) | [spring](https://open.spotify.com/album/3efxXYGDQvWZFTqarrykWX) | 2:23 | 2022-03-14 | 2022-10-26 |
+| [spring](https://open.spotify.com/track/4Rps91TJtMDCbd9Kl5GV2Z) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [spring](https://open.spotify.com/album/5CISATj4UshRfnYCPN4Tae) | 2:08 | 2023-08-29 |  |
 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 | 2022-09-01 |  |
 | [Star Waves](https://open.spotify.com/track/2I0J13l3avJt2EfLHM03Qa) | [Vandis](https://open.spotify.com/artist/1Aco6Nf3MLLDTGaiyd1Y1u) | [Star Waves](https://open.spotify.com/album/50isrbNQMokQzbzTlBriSW) | 3:23 | 2022-03-14 | 2023-01-06 |
 | [Starlight](https://open.spotify.com/track/2yUZCS5EZcYntD023zbKEw) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Starlight](https://open.spotify.com/album/2NXOFQvcObzmqBwFulkPmb) | 2:20 | 2022-07-28 | 2023-01-25 |

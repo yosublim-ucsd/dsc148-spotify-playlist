@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-106 songs - 5 hr 32 min
+107 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Renegades](https://open.spotify.com/track/6t3DMytWrFzBnUwyxIjiFq) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Nordic Brave House](https://open.spotify.com/artist/0CVdI90FSc2KH68L8KapyN), [Dayce Williams](https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6) | [Renegades](https://open.spotify.com/album/0jguPmMqZMOFlBm0Bc6K7c) | 2:38 | 2023-07-21 |  |
 | [Right Back](https://open.spotify.com/track/04dLlhvDV0WzT456h6y4Ud) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Right Back](https://open.spotify.com/album/5AI3y0LeETKLlq5r4jBeVE) | 2:45 | 2023-07-21 |  |
 | [Right Here](https://open.spotify.com/track/3BY2fLp02wGqMa2GsMTJLa) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm) | [Right Here](https://open.spotify.com/album/5Zlbsn63qOeWzxsWGBcKvu) | 2:39 | 2023-08-25 |  |
-| [RIOT](https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq) | 3:02 | 2023-08-25 |  |
+| [RIOT](https://open.spotify.com/track/3M9Ec4VZNCTXgXgpoFHgxj) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/4v3soxxbbiKWfdIrSExxNH) | 3:02 | 2023-08-28 |  |
+| [RIOT](https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq) | 3:02 | 2023-08-25 | 2023-08-30 |
 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 | 2023-07-21 |  |
 | [Rubber](https://open.spotify.com/track/5NyQ7NvT3zwisjmsUZkqTw) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Rubber](https://open.spotify.com/album/3Hlqhxneb4KFXGUsP2NEzg) | 2:55 | 2023-07-21 | 2023-08-26 |
 | [Sirene](https://open.spotify.com/track/3LakWxXfyJkveLGXV0n4yT) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [RUSHÖ](https://open.spotify.com/artist/55Ucoc9siWcgzIZLoe8m1N) | [Sirene](https://open.spotify.com/album/0h4aiXFDpKfbU7UBrs8OoW) | 4:07 | 2023-07-21 |  |

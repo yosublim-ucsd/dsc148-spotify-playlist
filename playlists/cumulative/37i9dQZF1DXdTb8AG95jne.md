@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Luli Lee\(이루리\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-596 songs - 1 day 12 hr 28 min
+597 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Everything To](https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Everything To](https://open.spotify.com/album/0KoqY8z0QLw4hwVvgEGdvn) | 4:13 | 2022-03-31 | 2022-04-08 |
 | [Excuses](https://open.spotify.com/track/5vXtXSNxkkx3VQRfJiRYI9) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 3:51 | 2022-03-31 | 2022-04-10 |
 | [Expression](https://open.spotify.com/track/3TvohDfitHnEuXSJuJyIzr) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Expression](https://open.spotify.com/album/5LTSYg2669brAmWN7bjWG2) | 3:21 | 2021-12-21 | 2022-04-12 |
+| [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 |  |
 | [Eyes on you](https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [From Late Night](https://open.spotify.com/album/3h9UBeesVQIEfWyW4djtsD) | 3:56 | 2021-12-21 | 2022-07-27 |
 | [Failure story](https://open.spotify.com/track/1uPOeYYJW6uI4BSCSPjsM1) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Flex](https://open.spotify.com/album/0xZT3BXMksrqFn0oKO33Qq) | 3:33 | 2022-01-27 | 2022-06-30 |
 | [FALL](https://open.spotify.com/track/6vUrSRRrSAcTUZMbGyds1C) | [DWIGON](https://open.spotify.com/artist/43IGet85Estmbg7gKpsOJa) | [All the Month I spent with you : OCTOBER](https://open.spotify.com/album/4DoGu8sHkPjfynT0GSA1wc) | 4:01 | 2022-03-31 | 2022-04-18 |
@@ -216,7 +217,7 @@
 | [How Can I \(feat\. Zoe Carovano\)](https://open.spotify.com/track/3L8NV1XmWMUdlSAttlJ5h5) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7), [Zoe Carovano](https://open.spotify.com/artist/58OjLCC4IqZGQBgN91m7DC) | [How Can I](https://open.spotify.com/album/4zxQtH7O7YqeBKh0ti0F22) | 3:23 | 2022-03-31 | 2022-04-11 |
 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-03-31 | 2022-04-11 |
 | [Hug](https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:06 | 2022-04-12 | 2022-04-18 |
-| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 |  |
+| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2023-08-30 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2022-07-27 |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
@@ -225,7 +226,7 @@
 | [I Don't Give A](https://open.spotify.com/track/2NmY7mgMgXewWoQLoUQC7p) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Even Though We Are Not the Same 우리의 감정이 같을 순 없지만](https://open.spotify.com/album/3isdFTW14WhOxUdOhFMHqP) | 3:10 | 2022-03-31 | 2022-04-04 |
 | [I don't know](https://open.spotify.com/track/2tjh87mXDZJJIKLOpqH97T) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [I don't know](https://open.spotify.com/album/7Dlz2hPB7zxz4nf1RFpxiy) | 4:08 | 2021-12-21 | 2022-07-29 |
 | [I know what is the love after broke up](https://open.spotify.com/track/1izGHQNj7Oh8dcGhY7xi3r) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [I know what is the love after broke up](https://open.spotify.com/album/7eUvhAWeEWVKrfnEAnlkfn) | 4:19 | 2022-04-12 | 2022-04-21 |
-| [I Know Where The Rainbow has Fallen](https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:42 | 2021-12-21 | 2023-08-25 |
+| [I Know Where The Rainbow has Fallen](https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:42 | 2021-12-21 |  |
 | [I Like You](https://open.spotify.com/track/2aON0GIWKXHxPe9zE0AD3e) | [J.Lee](https://open.spotify.com/artist/324dYLqc0sal9kI5GJdyfr) | [I Like You](https://open.spotify.com/album/0NEr71QL6BkbWoXrWUmQ2C) | 3:17 | 2022-07-22 | 2022-07-28 |
 | [I Love You \(Feat\. Silica Gel\)](https://open.spotify.com/track/7vgDknBIqfTkM2OiQQ1gXz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [I Love You](https://open.spotify.com/album/32ezQ6zwJCOmndh4V5PO4b) | 4:01 | 2023-02-16 | 2023-03-01 |
 | [I Miss You](https://open.spotify.com/track/4LdN7STvfeQCvpkCaLySWK) | [E Z Hyoung](https://open.spotify.com/artist/4vMoealzfru4Q1WOmi0aVs) | [I Miss You](https://open.spotify.com/album/7AgGa1CogEeoPi9o42X0QM) | 4:31 | 2022-03-31 | 2022-04-05 |
@@ -372,7 +373,7 @@
 | [One another \- 2020](https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [One another \(2020\)](https://open.spotify.com/album/2bxPT0H1Dxyp0TIvjV5aP7) | 3:26 | 2021-12-12 | 2022-07-16 |
 | [Only Ones Left in this World](https://open.spotify.com/track/0fhHQODEITI549NaUWqJDx) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Only Ones Left in this World](https://open.spotify.com/album/11TsV6N3xprEZVKo4haCMX) | 3:21 | 2022-09-05 | 2022-09-21 |
 | [ONLY YOU](https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 2:57 | 2021-12-12 | 2023-01-25 |
-| [Orange, You’re Not a Joke to Me!](https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Orange, You’re Not a Joke to Me!](https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o) | 3:40 | 2023-06-22 |  |
+| [Orange, You’re Not a Joke to Me!](https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Orange, You’re Not a Joke to Me!](https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o) | 3:40 | 2023-06-22 | 2023-08-30 |
 | [Ore Ore](https://open.spotify.com/track/117iiDCER0g58tWunlfR57) | [Se.A](https://open.spotify.com/artist/68Jz1SO82dTTPJyfdg6MBp) | [Ore Ore](https://open.spotify.com/album/3ylsJVPXRGtb5PQhSyjjGo) | 2:44 | 2022-03-31 | 2022-07-07 |
 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 | 2022-09-05 | 2022-09-21 |
 | [Over and Over](https://open.spotify.com/track/2yMc8rJg9XROTMtfaTgHuw) | [MOTIP](https://open.spotify.com/artist/20qBalVGALu6sj3UseuAcr) | [Over and Over](https://open.spotify.com/album/3NkbXALAlXHCwTZhx35wVm) | 3:23 | 2021-12-21 | 2022-07-10 |

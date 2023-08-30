@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 22621,
+  "num_followers": 22625,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTdkY2ZhMjU0Y2QyNDIwYWQ3ZGVkYmNlNTQ2MzBmZGU3MzFjZTRm",
+  "snapshot_id": "MCxjMWM4ZGIwNThhNThjYjM3ZThkYTFkMjBiM2JhYjkxOWZkODUzNDBl",
   "tracks": [
     {
       "added_at": "2023-07-20 14:31:09",
@@ -165,12 +165,36 @@
       "artists": [
         {
           "name": "PS Praveen",
-          "url": "https://open.spotify.com/artist/4vQ3tyl9YN6rrfCnkgp05z"
+          "url": "https://open.spotify.com/artist/2Dl133Jk9EdG3Z8lKbTMle"
         }
       ],
       "duration_ms": 236354,
       "name": "Alladsro",
       "url": "https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E"
+    },
+    {
+      "added_at": "2023-08-29 05:11:06",
+      "album": {
+        "name": "Mosagaatiye",
+        "url": "https://open.spotify.com/album/0ULYHlftPzhIqaF8hCkHHN"
+      },
+      "artists": [
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH"
+        },
+        {
+          "name": "Ismail Attar",
+          "url": "https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31"
+        },
+        {
+          "name": "Param Nirvikar",
+          "url": "https://open.spotify.com/artist/1tk2QKYPbug5bRElUoNDAU"
+        }
+      ],
+      "duration_ms": 281311,
+      "name": "Mosagaatiye",
+      "url": "https://open.spotify.com/track/0T8cfCC6HJWVzxWgnj12QP"
     },
     {
       "added_at": "2023-08-16 09:34:59",
@@ -1057,22 +1081,6 @@
       "url": "https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr"
     },
     {
-      "added_at": "2023-02-01 09:04:32",
-      "album": {
-        "name": "Thiz ma Gully",
-        "url": "https://open.spotify.com/album/2NV0yuOkoQ8TIY71Ll7KT9"
-      },
-      "artists": [
-        {
-          "name": "Manchal",
-          "url": "https://open.spotify.com/artist/1nOb34gdXcsJGvCHM34geP"
-        }
-      ],
-      "duration_ms": 194864,
-      "name": "Thiz ma Gully",
-      "url": "https://open.spotify.com/track/3Lc6Ieoi0LqtcVSkEcb6GF"
-    },
-    {
       "added_at": "2022-10-20 05:12:02",
       "album": {
         "name": "Good Night",
@@ -1415,26 +1423,6 @@
       "duration_ms": 194083,
       "name": "Soneyeah",
       "url": "https://open.spotify.com/track/7HkGqzq6taygvr8nCO721g"
-    },
-    {
-      "added_at": "2023-01-17 04:09:36",
-      "album": {
-        "name": "Test drive (featuring Swastik)",
-        "url": "https://open.spotify.com/album/0GSfdkGxOimIL0krZlateY"
-      },
-      "artists": [
-        {
-          "name": "Karna",
-          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
-        },
-        {
-          "name": "Swastik",
-          "url": "https://open.spotify.com/artist/4zrLFeeE507k2iJJMs7koZ"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Test drive (featuring Swastik)",
-      "url": "https://open.spotify.com/track/2duEvDFatZxlBpSRBXIawO"
     },
     {
       "added_at": "2023-03-06 09:23:00",

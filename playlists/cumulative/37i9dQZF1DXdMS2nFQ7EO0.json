@@ -4034,6 +4034,24 @@
     {
       "album": {
         "name": "TRES SHOT",
+        "url": "https://open.spotify.com/album/1rhgAwX7B33pMFSA0OJPpB"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "TRES SHOT",
+      "url": "https://open.spotify.com/track/10QBisUlladhpt1govhb4w"
+    },
+    {
+      "album": {
+        "name": "TRES SHOT",
         "url": "https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT"
       },
       "artists": [
@@ -4044,7 +4062,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 152640,
       "name": "TRES SHOT",
       "url": "https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k"

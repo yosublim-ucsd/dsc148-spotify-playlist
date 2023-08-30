@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 64014,
+  "num_followers": 64087,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTY5NzRhZTIzZmUzODM0MTQ4MWIyY2Y0ODMyZjM1NDViNzc2N2I2",
+  "snapshot_id": "MCxjOGI5MTQ1ZDZhYWI5MzA0YzU1ODk4ZmJmMmU3NWIxMWQwMzY5MDc4",
   "tracks": [
     {
       "added_at": "2023-08-25 00:01:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Crazy Sun",
+        "url": "https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE"
+      },
+      "artists": [
+        {
+          "name": "JT Coldfire",
+          "url": "https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "She's Crazy",
+      "url": "https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Sisters & Brothers",
         "url": "https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 204960,
       "name": "Don't Ever Let Nobody Drag Your Spirit Down",
       "url": "https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Crazy Sun",
-        "url": "https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE"
-      },
-      "artists": [
-        {
-          "name": "JT Coldfire",
-          "url": "https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j"
-        }
-      ],
-      "duration_ms": 323253,
-      "name": "She's Crazy",
-      "url": "https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Make It All Work Out",
-        "url": "https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Make It All Work Out",
-      "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Don't Let the Green Grass Fool You",
         "url": "https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 225160,
       "name": "Don't Let the Green Grass Fool You",
       "url": "https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Make It All Work Out",
+        "url": "https://open.spotify.com/album/1yp2fTsVvwlrI65in48hWX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Make It All Work Out",
+      "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart, Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Sun Records Originals: Mystery Train",
         "url": "https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 144400,
       "name": "Mystery Train - Remastered 2022",
       "url": "https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart, Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 270600,
-      "name": "River",
-      "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 295346,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/5Z8f8n8ljs1bIkXLCyxM5E"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 270600,
+      "name": "River",
+      "url": "https://open.spotify.com/track/2nn2TnyajaSRTbcZQxYVL7"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Long Road Ahead",
+        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 202143,
+      "name": "Long Road Ahead",
+      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Rise to the Grind",
         "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Gunsmoke Blues (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Things Happen That Way",
-        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
       },
       "artists": [
         {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1407,6 +1407,22 @@
       "duration_ms": 157266,
       "name": "Drivin' Wheel - Single Version",
       "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1463,22 +1479,6 @@
       "duration_ms": 326761,
       "name": "Loving Arms - (radio edit), Masterlink Sessions",
       "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Long Road Ahead",
-        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 202143,
-      "name": "Long Road Ahead",
-      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Oh Frustration",
+        "url": "https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu"
+      },
+      "artists": [
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        }
+      ],
+      "duration_ms": 226155,
+      "name": "Oh Frustration",
+      "url": "https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Love At First Sight",
         "url": "https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 227274,
       "name": "Nibbadip",
       "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Oh Frustration",
-        "url": "https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu"
-      },
-      "artists": [
-        {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        }
-      ],
-      "duration_ms": 226155,
-      "name": "Oh Frustration",
-      "url": "https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "West Coast Eyes",
-        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "West Coast Eyes",
-      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Mississippi",
         "url": "https://open.spotify.com/album/6eZrs4qARcRDdJf1I0ZUwC"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 243880,
       "name": "Better Days (feat. Dave Fenley)",
       "url": "https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "West Coast Eyes",
+        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "West Coast Eyes",
+      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2127,18 +2127,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Oh Betty (Acoustic)",
-        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
         }
       ],
-      "duration_ms": 246031,
-      "name": "Oh Betty - Acoustic",
-      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
+      "duration_ms": 317275,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2159,18 +2159,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
+        "name": "Oh Betty (Acoustic)",
+        "url": "https://open.spotify.com/album/32AiTELx9KA7FUhXIq4Ibr"
       },
       "artists": [
         {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 317275,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
+      "duration_ms": 246031,
+      "name": "Oh Betty - Acoustic",
+      "url": "https://open.spotify.com/track/1C4ayOcgsNOZY22ILwQUOs"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Am I Still Mine",
-        "url": "https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr"
-      },
-      "artists": [
-        {
-          "name": "Murphy",
-          "url": "https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN"
-        }
-      ],
-      "duration_ms": 155965,
-      "name": "Am I Still Mine",
-      "url": "https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "I'll Do It for You",
         "url": "https://open.spotify.com/album/3DXggTbZAVLrzqddCu7l6b"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 219597,
       "name": "I'll Do It for You",
       "url": "https://open.spotify.com/track/7nrhg2euCaBJ7bw3rcki0Y"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Am I Still Mine",
+        "url": "https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr"
+      },
+      "artists": [
+        {
+          "name": "Murphy",
+          "url": "https://open.spotify.com/artist/3GeAbNoHc67eZKfxO6KtdN"
+        }
+      ],
+      "duration_ms": 155965,
+      "name": "Am I Still Mine",
+      "url": "https://open.spotify.com/track/7kiIMHdCluymsCJ6DmxuyU"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "The Deep And The Dirty",
-        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
-      },
-      "artists": [
-        {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Just Like New",
-      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Connor Selby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
       },
@@ -2399,34 +2383,34 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Dusty Highway",
-        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
+        "name": "The Deep And The Dirty",
+        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
       },
       "artists": [
         {
-          "name": "David Gelman",
-          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
         }
       ],
-      "duration_ms": 242786,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
+      "duration_ms": 260866,
+      "name": "Just Like New",
+      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
     },
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Love Sweet Love",
-        "url": "https://open.spotify.com/album/5CNyK9cASsu2cB16j0bise"
+        "name": "Adobe",
+        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
       },
       "artists": [
         {
-          "name": "Yirrmal",
-          "url": "https://open.spotify.com/artist/4rHLbr6edktdv6RnVrf0Y7"
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
         }
       ],
-      "duration_ms": 164159,
-      "name": "Love Sweet Love",
-      "url": "https://open.spotify.com/track/3UBfEl291sMVsSJ15wSbeg"
+      "duration_ms": 172480,
+      "name": "Henrietta",
+      "url": "https://open.spotify.com/track/4X7ZaOPsDlhuEgKorpP6Ea"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2467,18 +2451,34 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Adobe",
-        "url": "https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT"
+        "name": "Love Sweet Love",
+        "url": "https://open.spotify.com/album/5CNyK9cASsu2cB16j0bise"
       },
       "artists": [
         {
-          "name": "Greyhounds",
-          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+          "name": "Yirrmal",
+          "url": "https://open.spotify.com/artist/4rHLbr6edktdv6RnVrf0Y7"
         }
       ],
-      "duration_ms": 172480,
-      "name": "Henrietta",
-      "url": "https://open.spotify.com/track/4X7ZaOPsDlhuEgKorpP6Ea"
+      "duration_ms": 164159,
+      "name": "Love Sweet Love",
+      "url": "https://open.spotify.com/track/3UBfEl291sMVsSJ15wSbeg"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Dusty Highway",
+        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
+      },
+      "artists": [
+        {
+          "name": "David Gelman",
+          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
     },
     {
       "added_at": "2023-08-25 00:01:00",

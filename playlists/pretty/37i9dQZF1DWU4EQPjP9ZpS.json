@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 276929,
+  "num_followers": 277125,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmExYWRiMTQxYjM1YjY5NDNjMTljODQ4MzlhOTkyZDkwMTY4YWM1",
+  "snapshot_id": "MCw0Nzc5YjYxYTU3OWU2N2MxNzA2MDYwN2MyYTRmYWY5YjRmMmJiMWE1",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -791,6 +791,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Sessions: Star Guardian Taliyah",
+        "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "3d Blast",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
+        }
+      ],
+      "duration_ms": 212079,
+      "name": "Courtwalk",
+      "url": "https://open.spotify.com/track/1EstbSPmi2aPYybH1OBKsU"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
         "url": "https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE"
       },
@@ -815,26 +835,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Sessions: Star Guardian Taliyah",
-        "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "3d Blast",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 212079,
-      "name": "Courtwalk",
-      "url": "https://open.spotify.com/track/1EstbSPmi2aPYybH1OBKsU"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Things That Fade",
         "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 251779,
       "name": "Hibiscus Pacific",
       "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv"
+      },
+      "artists": [
+        {
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+        }
+      ],
+      "duration_ms": 74000,
+      "name": "Aquascaping \u30d4\u30e9\u30df\u30c3\u30c9",
+      "url": "https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -867,22 +883,6 @@
       "duration_ms": 390787,
       "name": "\u30d0\u30a6\u30f3\u30b9\u5bb6\u306e\u4e2d\u3067\u30bb\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/2zf6n94AXCLvti0pNLioPp"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv"
-      },
-      "artists": [
-        {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
-        }
-      ],
-      "duration_ms": 74000,
-      "name": "Aquascaping \u30d4\u30e9\u30df\u30c3\u30c9",
-      "url": "https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Televised Tragedies",
-        "url": "https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9"
-      },
-      "artists": [
-        {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
-        }
-      ],
-      "duration_ms": 97906,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "get a job \u6797\u6a8e",
         "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 130693,
       "name": "Fruit That Sounds Friendly",
       "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Televised Tragedies",
+        "url": "https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9"
+      },
+      "artists": [
+        {
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+        }
+      ],
+      "duration_ms": 97906,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fever Dream (slowed + reverb)",
-        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
+        "name": "Dragonball Wave",
+        "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
       },
       "artists": [
         {
-          "name": "Sunnbrella",
-          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
+          "name": "Maitro",
+          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Fever Dream - slowed + reverb",
-      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
+      "duration_ms": 214401,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dragonball Wave",
-        "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
+        "name": "Fever Dream (slowed + reverb)",
+        "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
       "artists": [
         {
-          "name": "Maitro",
-          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
+          "name": "Sunnbrella",
+          "url": "https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB"
         }
       ],
-      "duration_ms": 214401,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
+      "duration_ms": 232000,
+      "name": "Fever Dream - slowed + reverb",
+      "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
       },
       "artists": [
         {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
+          "name": "bl00dwave",
+          "url": "https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH"
+        },
+        {
+          "name": "Riverwave",
+          "url": "https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi"
         }
       ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+      "duration_ms": 146181,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
       "artists": [
         {
-          "name": "bl00dwave",
-          "url": "https://open.spotify.com/artist/62i4qFmGjJrPoNwLuFfiCH"
-        },
-        {
-          "name": "Riverwave",
-          "url": "https://open.spotify.com/artist/1cEFUFZiMoCQsX4ufDMAVi"
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
         }
       ],
-      "duration_ms": 146181,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb"
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Downpour",
-        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
+        "name": "so be it",
+        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
       },
       "artists": [
         {
-          "name": "Sleepless-Nights",
-          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
-        },
-        {
-          "name": "Cosmic Cycler",
-          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
+          "name": "willi6m",
+          "url": "https://open.spotify.com/artist/2OUFKazBcRtkBSief5OYo8"
         }
       ],
-      "duration_ms": 484471,
-      "name": "Downpour",
-      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
+      "duration_ms": 388732,
+      "name": "so be it",
+      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "so be it",
-        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
+        "name": "Downpour",
+        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
       "artists": [
         {
-          "name": "willi6m",
-          "url": "https://open.spotify.com/artist/2OUFKazBcRtkBSief5OYo8"
+          "name": "Sleepless-Nights",
+          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
+        },
+        {
+          "name": "Cosmic Cycler",
+          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
         }
       ],
-      "duration_ms": 388732,
-      "name": "so be it",
-      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
+      "duration_ms": 484471,
+      "name": "Downpour",
+      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "CYBERIA",
-        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
-      },
-      "artists": [
-        {
-          "name": "KyonPalm",
-          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
-        }
-      ],
-      "duration_ms": 227462,
-      "name": "\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Crystal",
         "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
       },
@@ -1587,38 +1571,38 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Glass Mind",
-        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
+        "name": "CYBERIA",
+        "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
       },
       "artists": [
         {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+          "name": "KyonPalm",
+          "url": "https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Glass Mind",
-      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+      "duration_ms": 227462,
+      "name": "\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
     },
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Marina Forever",
-        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+        "name": "Baby, I Miss You",
+        "url": "https://open.spotify.com/album/5SMFDE1yT4gjp9I0rIxBX5"
       },
       "artists": [
         {
           "name": "Tupperwave",
           "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        },
+        {
+          "name": "Dan Mason",
+          "url": "https://open.spotify.com/artist/6PyfRFk5DQu2o0P74VA2ag"
         }
       ],
-      "duration_ms": 162024,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
+      "duration_ms": 176848,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4pM8IKc8qGOnKyloJyKU0T"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1639,18 +1623,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "BARBER BEATER Pt 2 \u30b7\u30e3\u30fc\u30d7\u306a\u30ab\u30c3\u30c6\u30a3\u30f3\u30b0\u30b3\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/7sJkwWBClBfYFwQHXXITtO"
+        "name": "Glass Mind",
+        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
       "artists": [
         {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
         }
       ],
-      "duration_ms": 351078,
-      "name": "The ORIGINAL \u9053\u5177",
-      "url": "https://open.spotify.com/track/5DSPwLHK9Kp83wdWKZwP2a"
+      "duration_ms": 219428,
+      "name": "Glass Mind",
+      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1687,6 +1675,38 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "BARBER BEATER Pt 2 \u30b7\u30e3\u30fc\u30d7\u306a\u30ab\u30c3\u30c6\u30a3\u30f3\u30b0\u30b3\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/7sJkwWBClBfYFwQHXXITtO"
+      },
+      "artists": [
+        {
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+        }
+      ],
+      "duration_ms": 351078,
+      "name": "The ORIGINAL \u9053\u5177",
+      "url": "https://open.spotify.com/track/5DSPwLHK9Kp83wdWKZwP2a"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Marina Forever",
+        "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 162024,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5qZ5lCqoZEEZ2BlKy5rR2d"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Screensaver",
         "url": "https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe"
       },
@@ -1703,22 +1723,6 @@
       "duration_ms": 147280,
       "name": "Screensaver",
       "url": "https://open.spotify.com/track/0xEeYkUtQlXT2r7WO0uzRP"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Music: Here To Stay",
-        "url": "https://open.spotify.com/album/3HFjXBJKFh4m3aniQCVQAA"
-      },
-      "artists": [
-        {
-          "name": "3d Blast",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 242817,
-      "name": "3rD BEST",
-      "url": "https://open.spotify.com/track/11w7UNvU8VAqssbgXqEYpp"
     },
     {
       "added_at": "2023-07-18 02:19:19",

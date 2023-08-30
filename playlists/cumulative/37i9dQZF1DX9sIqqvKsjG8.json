@@ -6071,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "Lamento",
+        "url": "https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm"
+      },
+      "artists": [
+        {
+          "name": "Sara Hoffman",
+          "url": "https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h"
+    },
+    {
+      "album": {
         "name": "Lanuza",
         "url": "https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ"
       },
@@ -10702,6 +10720,24 @@
       "duration_ms": 165000,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI"
+    },
+    {
+      "album": {
+        "name": "Stilles Sehnen (Upright Reframings)",
+        "url": "https://open.spotify.com/album/2ac5YHVhCIkDRp2D7lgswK"
+      },
+      "artists": [
+        {
+          "name": "Clemens Christian Poetzsch",
+          "url": "https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205269,
+      "name": "Stilles Sehnen - Upright Reframings",
+      "url": "https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=blFc6Cs4R\-iTxvYUnblhjg">Burna Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,953 likes - 69 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,981 likes - 69 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 17 | [Makwete](https://open.spotify.com/track/5IhXXj0YoFpqAIUXCtAwMR) | [MellowBone](https://open.spotify.com/artist/1Ij7YLGnj8pNM353d7tcb6), [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte) | [Makwete](https://open.spotify.com/album/6yqD9J9hNoaCoT3Fm8WouN) | 6:59 |
 | 18 | [Uthando](https://open.spotify.com/track/2TaGLDYGPzKdIxLvupW13h) | [Mdoovar](https://open.spotify.com/artist/1G4Rnei7H9xEN8jG4CwsgX), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [ilovelethu](https://open.spotify.com/artist/6s6sk1cuHD56i0iF6d2107) | [Isithembiso](https://open.spotify.com/album/7JRlZzUebboiZMP9Iknm5y) | 5:42 |
 | 19 | [Thanks \(feat\. J\. Cole\)](https://open.spotify.com/track/78JSv4VDMFtr3xCn9V8miW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:36 |
-| 20 | [Wish U Well \- Extended](https://open.spotify.com/track/3x43Q2uKL0Zwekouxc2p8l) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:28 |
+| 20 | [Wish U Well \- Extended](https://open.spotify.com/track/3x43Q2uKL0Zwekouxc2p8l) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:28 |
 | 21 | [Izenzo](https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z) | [Bassie](https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [T\-Man SA](https://open.spotify.com/artist/39YR6OMtIBgQxdZREgTii1) | [Izenzo](https://open.spotify.com/album/2gXRXY2SW75aDTSjsui57w) | 6:54 |
 | 22 | [what do i care?](https://open.spotify.com/track/4dUd78G324Z1YnxSjCnFl3) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [what do i care?](https://open.spotify.com/album/5BqomERv8kyvEPHY9Y2e5q) | 2:10 |
 | 23 | [Hated](https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hated](https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD) | 3:09 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 68 | [Four Women](https://open.spotify.com/track/5AXqTvyOjkZ6lJgygsUEdi) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Spha Mdlalose](https://open.spotify.com/artist/5zgK9I4L2Nwjm4mk3lphMO), [Zarcia Zacheus](https://open.spotify.com/artist/1NpQuiq9aJAefQDEEtgsjx) | [Four Women](https://open.spotify.com/album/0G2btMDdrfof6lqNwXqfLb) | 5:23 |
 | 69 | [Gratitude](https://open.spotify.com/track/5oEQ8gEXm9jfjHxMOSKXSb) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [Gratitude](https://open.spotify.com/album/02pB8vx8VkjQCbN1rCxKS6) | 4:44 |
 
-Snapshot ID: `MCw1ZTQ1ZDBmYjdlNGI1OTRlYTdmMTYzMzU0NzdlMGIyNDJhZDExNDAz`
+Snapshot ID: `MCxkMDZlZmI5NjgzM2VhM2Y3ZTk0ZTdjYjU0YmE3OWEwM2Y0Yjk1MDMw`

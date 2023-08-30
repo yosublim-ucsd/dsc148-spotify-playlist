@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Suellen Lima",
-  "num_followers": 70248,
+  "num_followers": 70296,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODdlYTZkOWY2ODllMjVhNzE3NWM4MzJjMDNiMGI2ODY1OWUzNmQw",
+  "snapshot_id": "MCwzZWRmYzczY2EyZjZiMWJlZWM5NTAwZDk4MzU5YzQyMTQ1MDkwMzNi",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "\u00c9s Tudo Que Eu Preciso",
-        "url": "https://open.spotify.com/album/2uKx5edF199099KBJClMWf"
-      },
-      "artists": [
-        {
-          "name": "Os Levitas",
-          "url": "https://open.spotify.com/artist/3YV74lQ51lbWwBSBoXsS12"
-        }
-      ],
-      "duration_ms": 319139,
-      "name": "\u00c9s Tudo Que Eu Preciso",
-      "url": "https://open.spotify.com/track/2rfL4HexD0Z2bcoYWZfRXD"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Deus Prover\u00e1",
         "url": "https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 273531,
       "name": "Deus Prover\u00e1",
       "url": "https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "\u00c9s Tudo Que Eu Preciso",
+        "url": "https://open.spotify.com/album/2uKx5edF199099KBJClMWf"
+      },
+      "artists": [
+        {
+          "name": "Os Levitas",
+          "url": "https://open.spotify.com/artist/3YV74lQ51lbWwBSBoXsS12"
+        }
+      ],
+      "duration_ms": 319139,
+      "name": "\u00c9s Tudo Que Eu Preciso",
+      "url": "https://open.spotify.com/track/2rfL4HexD0Z2bcoYWZfRXD"
     },
     {
       "added_at": "2023-07-28 03:00:00",

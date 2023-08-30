@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-571 songs - 1 day 13 hr 37 min
+572 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,10 +304,11 @@
 | [Mama Said Knock You Out \(Metal Version\)](https://open.spotify.com/track/0idGcEMzwxFcq0fIaEaw82) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Leo Metal, Vol\. 43](https://open.spotify.com/album/03EgqAmPfKglKuaJpJyEoN) | 4:10 | 2023-06-16 | 2023-06-24 |
 | [Mami](https://open.spotify.com/track/7GHzGRsozCmF7yI1fazXST) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Mami](https://open.spotify.com/album/0UJuzh4Dtev5lHXG696a1y) | 3:21 | 2023-03-03 | 2023-03-18 |
 | [Man! I Feel Like a Woman!](https://open.spotify.com/track/2Hcxw8PMQp2ydgIKyWLK4j) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc) | [The Fourth Tuning](https://open.spotify.com/album/3e3Mx9aFcd4uzqEIc4Ca9E) | 4:41 | 2023-06-16 | 2023-07-09 |
+| [MANSA MUSA](https://open.spotify.com/track/4WX2fdICHuZevsl6NS0tWz) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [MANSA MUSA](https://open.spotify.com/album/2BT4yUblsyQUtFs804MtO6) | 2:24 | 2023-08-25 |  |
 | [Many Hats](https://open.spotify.com/track/6pe89GWj5gnG3nPEhAxiti) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [To What End](https://open.spotify.com/album/1bLJelUsSvsOZ93XAtyIZm) | 3:07 | 2023-02-10 | 2023-02-15 |
 | [Marie and the Undersea](https://open.spotify.com/track/1ht61Ev8xu5vq2joimHeE6) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 4:42 | 2023-04-07 | 2023-04-15 |
 | [Master P](https://open.spotify.com/track/6tEpOijHrGLidCtHeoMhlC) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 3:32 | 2023-06-09 | 2023-06-17 |
-| [may7th2016](https://open.spotify.com/track/4ogvo6N7l8hODrXRlEqH9s) | [dear me archive](https://open.spotify.com/artist/2yMcfIEeavL6CU6LRw72q1), [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8), [Dear Me](https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS) | [may7th2016](https://open.spotify.com/album/56ftlQi2YxEAzTfoBEycCE) | 3:02 | 2023-08-25 |  |
+| [may7th2016](https://open.spotify.com/track/4ogvo6N7l8hODrXRlEqH9s) | [dear me archive](https://open.spotify.com/artist/2yMcfIEeavL6CU6LRw72q1), [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8), [Dear Me](https://open.spotify.com/artist/2YNpfkvXN1FbnjFOjFthcS) | [may7th2016](https://open.spotify.com/album/56ftlQi2YxEAzTfoBEycCE) | 3:02 | 2023-08-25 | 2023-08-30 |
 | [MAYA](https://open.spotify.com/track/5ieDiSzEdwmNW9qrz8UVqm) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:23 | 2023-04-21 | 2023-04-23 |
 | [Me Pone Mal](https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Pone Mal](https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y) | 2:57 | 2023-04-14 | 2023-04-22 |
 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-07 | 2023-04-15 |

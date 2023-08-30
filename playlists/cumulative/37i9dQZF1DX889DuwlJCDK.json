@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Conton Candy",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 345999,
       "name": "Banka no Akashi",
       "url": "https://open.spotify.com/track/3fWAGzcV3G4XYu6kEsTMU7"
@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Crop",
+        "url": "https://open.spotify.com/album/13jE6JkQjHDJTwACoWmZkn"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30ec\u30f3\u30b8\u30b9\u30d1\u30a4\u30cb\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188704,
+      "name": "Crop",
+      "url": "https://open.spotify.com/track/5sRsTvvSrYOoWY0xnJWEaV"
+    },
+    {
+      "album": {
         "name": "Dancer in the Dark",
         "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 272293,
       "name": "Even if the world hates me (2023 ver.)",
       "url": "https://open.spotify.com/track/5OtLyHGENq0YNpo6jNSo8d"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 235065,
       "name": "Gimme Your Tears",
       "url": "https://open.spotify.com/track/4beOl1uLEJ7mbdov2zvdCO"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 183637,
       "name": "Musica",
       "url": "https://open.spotify.com/track/1uZxnjv20GKkbDQwIrMgzM"
@@ -1262,6 +1280,24 @@
       "duration_ms": 268398,
       "name": "you n me",
       "url": "https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0"
+    },
+    {
+      "album": {
+        "name": "YOUTH OF EDGE",
+        "url": "https://open.spotify.com/album/0a7tm3zCW2yFRfdTjJ78Ec"
+      },
+      "artists": [
+        {
+          "name": "\u30e4\u30e6\u30e8",
+          "url": "https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "YOUTH OF EDGE",
+      "url": "https://open.spotify.com/track/3oHj3opkJTEfywxvCqQuUM"
     },
     {
       "album": {
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 243806,
       "name": "\u30be\u30c3\u30b3\u30f3",
       "url": "https://open.spotify.com/track/7kiBqs3OTw2IDjY6SRoQZ8"
@@ -1856,6 +1892,24 @@
       "duration_ms": 237400,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
       "url": "https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG"
+    },
+    {
+      "album": {
+        "name": "\u5927\u4eba\u306e\u6d99",
+        "url": "https://open.spotify.com/album/72UULR9EffVteuvT9xDIKs"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202213,
+      "name": "\u30da\u30d1\u30fc\u30df\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/3U3xD3JRHaBzrMKsrhOazB"
     },
     {
       "album": {
@@ -2212,7 +2266,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 159987,
       "name": "\u5730\u7344\u3067\u30b9\u30ad\u30c3\u30d7",
       "url": "https://open.spotify.com/track/3J4aASakUQi3c1A4H6sWNo"
@@ -2288,6 +2342,24 @@
       "duration_ms": 136693,
       "name": "\u590f\u604b\u30bb\u30f3\u30bb\u30a4\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/4jWIn8qaXFAIBssMhJQMzu"
+    },
+    {
+      "album": {
+        "name": "\u591c\u884c\u5217\u8eca",
+        "url": "https://open.spotify.com/album/3esqVMiQ0ZozcqBZbhnkdO"
+      },
+      "artists": [
+        {
+          "name": "Bocchi",
+          "url": "https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "\u591c\u884c\u5217\u8eca",
+      "url": "https://open.spotify.com/track/0DsAzRg1nlwaHsk4MzRQfd"
     },
     {
       "album": {
@@ -2450,6 +2522,24 @@
       "duration_ms": 209120,
       "name": "\u611b\u3059\u308b\u4eba",
       "url": "https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u4e7e\u71e5\u6a5f",
+        "url": "https://open.spotify.com/album/2PGNDSl1PFdTECL3AJn9VD"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "\u611b\u306e\u4e7e\u71e5\u6a5f",
+      "url": "https://open.spotify.com/track/4LB2LhjrQf7OXzO4MSSpeJ"
     },
     {
       "album": {
@@ -2882,6 +2972,24 @@
       "duration_ms": 234117,
       "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q"
+    },
+    {
+      "album": {
+        "name": "\u7fbd\u5316",
+        "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "\u904e\u547c\u5438\u611b",
+      "url": "https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2"
     },
     {
       "album": {

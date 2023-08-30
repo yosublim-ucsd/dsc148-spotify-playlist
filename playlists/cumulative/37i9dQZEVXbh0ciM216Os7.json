@@ -6349,6 +6349,28 @@
     },
     {
       "album": {
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/2BT4yUblsyQUtFs804MtO6"
+      },
+      "artists": [
+        {
+          "name": "PRICE",
+          "url": "https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144056,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/4WX2fdICHuZevsl6NS0tWz"
+    },
+    {
+      "album": {
         "name": "To What End",
         "url": "https://open.spotify.com/album/1bLJelUsSvsOZ93XAtyIZm"
       },
@@ -6434,7 +6456,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 182344,
       "name": "may7th2016",
       "url": "https://open.spotify.com/track/4ogvo6N7l8hODrXRlEqH9s"

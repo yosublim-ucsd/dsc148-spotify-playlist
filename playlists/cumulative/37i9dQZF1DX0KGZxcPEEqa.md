@@ -2,9 +2,9 @@
 
 ### [Deep Dive: 10s Pop](https://open.spotify.com/playlist/37i9dQZF1DX0KGZxcPEEqa)
 
-> Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
+> Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-707 songs - 1 day 18 hr 11 min
+711 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Anywhere](https://open.spotify.com/track/5sHlU2ejWIzJDHgSrwSxx6) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Young as the Morning Old as the Sea](https://open.spotify.com/album/3yg5NYJV92sXmJullf2Hzf) | 3:36 | 2021-08-10 | 2022-07-29 |
 | [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 | 2021-08-10 | 2022-05-12 |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2021-08-10 |  |
+| [Baby I](https://open.spotify.com/track/6NmCCgnQcxKHPOAKgd9Nth) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:17 | 2023-08-30 |  |
 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 | 2022-05-11 | 2023-08-20 |
 | [Back To December](https://open.spotify.com/track/7lxADouiWFkwR7ZV2GKUcH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Deluxe Edition\)](https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym) | 4:53 | 2022-05-11 | 2022-11-14 |
 | [Back To December](https://open.spotify.com/track/5l6GqSxplqnZbLg0LTPQeG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/6Ar2o9KCqcyYF9J0aQP3au) | 4:53 | 2021-08-10 | 2022-07-29 |
@@ -153,6 +154,7 @@
 | [Dance with Me Tonight](https://open.spotify.com/track/1FSWSs9CL01RCYxXtm08Rf) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [In Case You Didn't Know](https://open.spotify.com/album/2OvZ8JCShhvxNkptwoGjve) | 3:22 | 2021-08-10 |  |
 | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/track/4QfUafNI4ezTRvlLeOWZVr) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/3Zioqc5SIZJUUFudy9zkRk) | 3:27 | 2021-08-10 |  |
 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 | 2021-08-10 |  |
+| [Daydreamin'](https://open.spotify.com/track/2CcQDI2IDhHbmBIFup58JE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:31 | 2023-08-30 |  |
 | [Dear Darlin'](https://open.spotify.com/track/0s0JMUkb2WCxIJsRB3G7Hd) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Right Place Right Time \(Expanded Edition\)](https://open.spotify.com/album/5kU9rWhYr4MmPmaGYP5z4v) | 3:26 | 2022-05-11 |  |
 | [Dear Darlin'](https://open.spotify.com/track/1dABxUeyaNyq7RbKbT3ndo) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Right Place Right Time](https://open.spotify.com/album/2hOuWIWkhIxKXj6dUVI734) | 3:26 | 2021-08-10 | 2022-07-29 |
 | [Did It for the Fame](https://open.spotify.com/track/48SDCCacrI1hM1wImM0IZF) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Homeward Bound](https://open.spotify.com/album/4dnV2SIeaxSpNqNY2TC9QZ) | 3:30 | 2021-08-10 |  |
@@ -209,7 +211,7 @@
 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 | 2021-08-10 |  |
 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 | 2021-08-10 | 2022-05-12 |
 | [First Time](https://open.spotify.com/track/25Mf35cnnFalpVNFp0g3hW) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [First Time](https://open.spotify.com/album/3UcnupRWONQCY3yBY1Ast9) | 3:08 | 2021-08-10 |  |
-| [Focus](https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Focus](https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof) | 3:31 | 2021-08-10 |  |
+| [Focus](https://open.spotify.com/track/1cdzfFjEbUbgTm5nv3FgXR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Focus](https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof) | 3:31 | 2021-08-10 | 2023-08-30 |
 | [Follow Your Fire](https://open.spotify.com/track/5ESJINHtOXLh3KSsazEfRf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Politics of Living](https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC) | 3:58 | 2022-05-11 |  |
 | [Follow Your Fire](https://open.spotify.com/track/5s9ZfQasBGM8YLNAhXx7or) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Follow Your Fire](https://open.spotify.com/album/0MB9m8qnEKKw0E9dXNHG0j) | 3:58 | 2021-08-10 | 2022-07-29 |
 | [Forget to Forget](https://open.spotify.com/track/4E5IBDRu8kJbzUv1qaZM1t) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Forget to Forget](https://open.spotify.com/album/3GX2lFOgBOfVw4BYsINt6S) | 2:35 | 2021-08-10 |  |
@@ -225,7 +227,7 @@
 | [Get Used To It](https://open.spotify.com/track/4AMnUGvZUVJgDuY7rOPzUZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:58 | 2023-05-23 |  |
 | [Getaway Car](https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:53 | 2021-08-10 |  |
 | [Ghost Town](https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:28 | 2021-08-10 |  |
-| [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 | 2021-11-10 |  |
+| [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 | 2021-11-10 | 2023-08-30 |
 | [Ghosttown](https://open.spotify.com/track/4yDLW1kpgN7RGa6wCtxlL8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 4:09 | 2021-08-10 |  |
 | [Girl Gone Wild](https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA](https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0) | 3:43 | 2021-08-10 | 2022-07-29 |
 | [Girl Gone Wild](https://open.spotify.com/track/6FwCIKoXNRxelBBIUXMnfI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Pop Anthems](https://open.spotify.com/album/4wVAqedzv4wLdM0sapmB98) | 3:43 | 2022-05-11 | 2022-11-13 |
@@ -280,6 +282,7 @@
 | [Home](https://open.spotify.com/track/6kj2eBA1uHUrv977D84Xra) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/28eq2IhCisTvOj8m2aoXpc) | 4:28 | 2021-08-10 | 2022-07-29 |
 | [Honey](https://open.spotify.com/track/3olYZQTYOLYNImERBnZZqm) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:54 | 2021-08-10 |  |
 | [Honey, I'm Good.](https://open.spotify.com/track/4MflGTO2ZTcSQ12bWcyRgI) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Magazines Or Novels](https://open.spotify.com/album/0XUNG1cssmwHh22loRqKdJ) | 3:19 | 2021-08-10 |  |
+| [Honeymoon Avenue](https://open.spotify.com/track/5SmXEPnevlRjBPWBG7oKIi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 5:39 | 2023-08-30 |  |
 | [Hoodie](https://open.spotify.com/track/410smJMzhna1ADC2ldqVHu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:39 | 2021-08-10 |  |
 | [Hotel](https://open.spotify.com/track/1z4OnhqV4ad4FEcAwV21Fy) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Hotel \- EP](https://open.spotify.com/album/5TieoUBxMIxeUyR3ZSnPkF) | 3:47 | 2021-08-10 |  |
 | [How Long Will I Love You](https://open.spotify.com/track/0vmNI1u7ZZOqnili1cp8w3) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Valentines Day 2021](https://open.spotify.com/album/6TggYmNhal9ODV3MqXeu3y) | 2:34 | 2022-05-11 | 2022-11-13 |
@@ -418,7 +421,7 @@
 | [Miss You](https://open.spotify.com/track/0W5uDMhD0LwNu0ibe9MJ3Y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Miss You](https://open.spotify.com/album/6nuULOa2RTLwAFspmzc991) | 3:17 | 2021-08-10 | 2022-10-13 |
 | [Mistakes](https://open.spotify.com/track/0sZfuG1rArPovx9CdZ40vZ) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mistakes](https://open.spotify.com/album/7rQtGumGC7P93t9Z1gUnjd) | 3:24 | 2021-08-10 | 2022-07-29 |
 | [Mistakes](https://open.spotify.com/track/0yvpLNRWeGarNOcQzxxDw8) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:25 | 2022-05-11 |  |
-| [Moonlight](https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:22 | 2021-11-10 |  |
+| [Moonlight](https://open.spotify.com/track/1qcJdr8TYuGjFhjRoYNC3e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 3:22 | 2021-11-10 | 2023-08-30 |
 | [Mother](https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Mother](https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT) | 2:42 | 2021-08-10 |  |
 | [Move](https://open.spotify.com/track/0gsIQwgHmi1DGv1n2IipUr) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(The Deluxe Edition\)](https://open.spotify.com/album/06haetPrpbIFCY1FUWzVel) | 3:44 | 2021-08-10 | 2022-07-29 |
 | [Move](https://open.spotify.com/track/1bmtVglfmSQWfKjgPyERJ8) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:44 | 2022-05-11 |  |
@@ -592,6 +595,7 @@
 | [Take the World By Storm](https://open.spotify.com/track/5xRBYte8zzJNmRfBgYIWnX) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:11 | 2022-05-11 |  |
 | [Take The World By Storm](https://open.spotify.com/track/60BaGPl1azzysIqYL1hIrh) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\) \[International Version\]](https://open.spotify.com/album/0o2W2d2Zl7Bur5jph6phkm) | 3:11 | 2021-08-10 | 2022-07-29 |
 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 | 2021-08-10 |  |
+| [Tattooed Heart](https://open.spotify.com/track/7JmIjOsRish3vYBSLTytEC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:14 | 2023-08-30 |  |
 | [Tell Me You Love Me](https://open.spotify.com/track/1MKZaAEx8RrzoQjHhVuvgs) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH) | 3:56 | 2021-08-10 | 2022-07-29 |
 | [Tell Me You Love Me](https://open.spotify.com/track/1byoxM9yU8g1FfIXRobjPQ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Songs For The Sad & Lonely](https://open.spotify.com/album/29EQLE66vJQnXxkWVZ3ZQZ) | 3:56 | 2022-05-11 | 2022-11-13 |
 | [Tell Me You Love Me](https://open.spotify.com/track/21RCuMVSlblTmyYm2DnPCR) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 3:56 | 2022-05-11 |  |
@@ -707,7 +711,7 @@
 | [You Da One](https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:20 | 2021-08-10 |  |
 | [You Don't Know Love](https://open.spotify.com/track/3Iyzdie1LZW22Z9S2hIvHl) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [You Don't Know Love](https://open.spotify.com/album/0KkBk51wuZ5hUPwHQAiYG9) | 3:18 | 2021-08-10 | 2022-07-29 |
 | [You Don't Know Love](https://open.spotify.com/track/3gnHm6E1NkMJUJr0mbRiBS) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [24 HRS \(Expanded Edition\)](https://open.spotify.com/album/3EeOsvEKHv6dyG2x2XZJ6Q) | 3:19 | 2022-05-11 |  |
-| [You Don't Know Me](https://open.spotify.com/track/3hgl7EQwTutSm6PESsB7gZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:53 | 2021-11-10 |  |
+| [You Don't Know Me](https://open.spotify.com/track/3hgl7EQwTutSm6PESsB7gZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:53 | 2021-11-10 | 2023-08-30 |
 | [You Ruin Me](https://open.spotify.com/track/12bCzRvt0PD9CCDko2IQIL) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [You Ruin Me](https://open.spotify.com/album/1R7sI4gveZqmU3UYUkRxWd) | 3:50 | 2021-08-10 |  |
 | [You Said You'd Grow Old With Me](https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Wide Awake](https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn) | 3:44 | 2021-08-10 |  |
 | [Young Girls](https://open.spotify.com/track/3G5iN5QBqMeXx3uZPy8tgB) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:48 | 2021-11-10 |  |

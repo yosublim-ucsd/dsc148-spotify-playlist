@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,156 likes - 150 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,175 likes - 150 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 19 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
 | 20 | [All Four Winds](https://open.spotify.com/track/74M40IcCjxxY1EYzUiFJ6y) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Sticks and Stones](https://open.spotify.com/album/2GucgfY31P1y2qMJzpT99B) | 3:18 |
 | 21 | [Miles Away](https://open.spotify.com/track/2GMRJPivUIJiGLkmpWwH2O) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi), [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Miles Away](https://open.spotify.com/album/5TvqtSnghTKtTN42h6AW1N) | 5:00 |
-| 22 | [It Takes Me Back](https://open.spotify.com/track/5zOUWxeymlEE9pvADC5gXj) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [It Takes Me Back](https://open.spotify.com/album/3eMrnuF05ttxW40eTvjJDp) | 3:41 |
+| 22 | [It Takes Me Back](https://open.spotify.com/track/473SyXmf9C9w4CbIak2nM6) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Broken Sky / It Takes Me Back](https://open.spotify.com/album/6CTPYg4bUm19T50eRleWnD) | 3:41 |
 | 23 | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [California Sober \(feat\. Willie Nelson\)](https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP) | 3:50 |
 | 24 | [Lightning Bugs](https://open.spotify.com/track/5D00ktXfQ5Bkk5vhXzFNun) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9) | [Lightning Bugs](https://open.spotify.com/album/1MMTF3NpIdtSH82CbWtO3T) | 3:23 |
 | 25 | [Georgia Moon](https://open.spotify.com/track/4rccvQd9g94LPiej5ZQk4l) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Georgia Moon](https://open.spotify.com/album/1aTeIVCm5KoH9X91c1h3rR) | 4:09 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
 | 150 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
 
-Snapshot ID: `MCw3ZTg1N2YwZGU4OTE1NWI5NDFlMTZlYWM0Yjk5ZTdjYThhZWVjOWRj`
+Snapshot ID: `MCxjYzU0OTYyNGQwNmYwZjkwNmE4OTMwZDg4NDA5NDFkMjU4NzUxMDRl`

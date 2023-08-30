@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Omar Apollo
 
-1,055 songs - 2 day 11 hr 59 min
+1,056 songs - 2 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Dude In A Romantic Way](https://open.spotify.com/track/61V900hMxvHdpGdarlFbve) | [Callaway Martin](https://open.spotify.com/artist/32Om1pF9kloxRMFv1gUifZ) | [Dude In A Romantic Way](https://open.spotify.com/album/33qhi8y8l1LN1Ift6Ihc0V) | 3:01 | 2022-03-24 | 2022-04-29 |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 | 2023-07-28 |
 | [Dying In The City](https://open.spotify.com/track/1qL844cbmaVe7dlsWGq2i3) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Dying In The City](https://open.spotify.com/album/4naMqYADQer6dNkLn7dvOZ) | 2:34 | 2023-07-13 | 2023-08-25 |
+| [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 | 2023-08-30 |  |
 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 | 2022-09-08 | 2023-01-11 |
 | [Eastern Lights](https://open.spotify.com/track/0pB9l6GPqjwH46cbxLAVnJ) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Eastern Lights](https://open.spotify.com/album/1uxm5mezOuEInR9LE7By5Z) | 4:11 | 2021-12-28 | 2022-02-18 |
 | [Easy](https://open.spotify.com/track/0tDNXisoZq1GVb3Fcdjp9I) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Easy](https://open.spotify.com/album/34orrLWbT1f0FPrMkn8dh1) | 3:27 | 2022-03-07 | 2022-05-10 |
@@ -620,7 +621,7 @@
 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 | 2023-03-08 | 2023-05-02 |
 | [Mom Jeans](https://open.spotify.com/track/4Q2ccX0e7grpqZal3OuTuX) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Mom Jeans](https://open.spotify.com/album/6a2gZjOyZD9Qg8SaLKLbtt) | 1:59 | 2022-07-07 | 2022-09-30 |
 | [mona lisa](https://open.spotify.com/track/6JYN2Hd4epevdPQUr636J8) | [ioakim](https://open.spotify.com/artist/7rv4I8TmSimvUct7xd7qeE) | [mona lisa](https://open.spotify.com/album/2CGINA48NeyQeWgxkccWpY) | 3:40 | 2022-03-07 | 2022-04-15 |
-| [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-15 |  |
+| [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-15 | 2023-08-30 |
 | [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-04-27 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-23 | 2023-05-26 |
 | [More or Less](https://open.spotify.com/track/4wmr7p8BOxrtBxpsyi4nzO) | [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [More or Less](https://open.spotify.com/album/01908c4Yd6FzAyAuIMvPEc) | 2:57 | 2022-11-03 | 2022-11-18 |

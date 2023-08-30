@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 59821,
+  "num_followers": 59898,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTcwZjYxZGI0OWY2ZTY0ODkxY2Q1MDIwMWEzNzE0ZDE5MDUwMDYw",
+  "snapshot_id": "MCwwYjkwMzc5MTQxNmVmMWYxNDRlMjVjNmJkMzI2ZmQxNjNlZGE1YTQx",
   "tracks": [
     {
       "added_at": "2023-08-23 10:28:38",
@@ -227,22 +227,18 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
+        "name": "The Genius Sings the Blues",
+        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
       },
       "artists": [
         {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 297893,
-      "name": "Set Sail part I (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
+      "duration_ms": 175773,
+      "name": "Hard Times (No One Knows Better Than I)",
+      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -279,18 +275,22 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "The Genius Sings the Blues",
-        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Hard Times (No One Knows Better Than I)",
-      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
+      "duration_ms": 297893,
+      "name": "Set Sail part I (featuring Lamar Williams Jr.)",
+      "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
     },
     {
       "added_at": "2023-08-23 10:28:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-23 10:28:38",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
-    },
-    {
-      "added_at": "2023-08-23 10:28:38",
-      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 208733,
       "name": "She Caught the Katy and Left Me a Mule to Ride",
       "url": "https://open.spotify.com/track/2B8TnS5nJijlzuORGs3RKy"
+    },
+    {
+      "added_at": "2023-08-23 10:28:38",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
     },
     {
       "added_at": "2023-08-23 10:28:38",

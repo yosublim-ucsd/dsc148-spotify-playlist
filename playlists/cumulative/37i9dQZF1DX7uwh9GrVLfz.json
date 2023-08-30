@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 173960,
       "name": "Decided",
       "url": "https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5"
@@ -9458,7 +9458,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 169000,
       "name": "\u30e9\u30fc\u30e1\u30f3\u30e9\u30a4\u30b9",
       "url": "https://open.spotify.com/track/0ycQpzijGEvtlgu9qMQyn8"
@@ -10579,6 +10579,24 @@
     },
     {
       "album": {
+        "name": "\u6c38\u9060\u885d\u52d5",
+        "url": "https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz"
+      },
+      "artists": [
+        {
+          "name": "I's",
+          "url": "https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254130,
+      "name": "\u6c38\u9060\u885d\u52d5",
+      "url": "https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE"
+    },
+    {
+      "album": {
         "name": "\u30ec\u30b3\u30f3\u30ad\u30b9\u30bf",
         "url": "https://open.spotify.com/album/3KrJbIHprGRPzuVN2OI4fv"
       },
@@ -11076,7 +11094,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 210355,
       "name": "\u9650\u754c\u7a81\u7834 - 2023ver",
       "url": "https://open.spotify.com/track/5zL1aH9pHJa1BWB4qZqbRK"

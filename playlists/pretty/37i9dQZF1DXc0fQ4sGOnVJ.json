@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150128,
+  "num_followers": 150141,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODMyNTQ2OTNmMjBjMmNlMzQ0ODBkYTI0OTcwYTUyNmQ1OTMwNWFi",
+  "snapshot_id": "MCw5MWMyNjk1NWE0OTRiNmI0MDcwZGM1ZmY1OWZjMDAwNDJmNmFjNDNm",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -859,38 +859,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Tall Boy",
-        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 140128,
-      "name": "Tall Boy",
-      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Trailer Park Barbie.",
-        "url": "https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL"
-      },
-      "artists": [
-        {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
-        }
-      ],
-      "duration_ms": 170087,
-      "name": "Trailer Park Barbie",
-      "url": "https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Muddy Days Drunken Nights",
         "url": "https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK"
       },
@@ -919,6 +887,38 @@
       "duration_ms": 192214,
       "name": "Rippin It up (feat. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz)",
       "url": "https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Trailer Park Barbie.",
+        "url": "https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "duration_ms": 170087,
+      "name": "Trailer Park Barbie",
+      "url": "https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Tall Boy",
+        "url": "https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 140128,
+      "name": "Tall Boy",
+      "url": "https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Po-Dunk",
-        "url": "https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 271133,
-      "name": "Po-Dunk",
-      "url": "https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Outlaw In Me",
         "url": "https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 279880,
       "name": "Out Here",
       "url": "https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Po-Dunk",
+        "url": "https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 271133,
+      "name": "Po-Dunk",
+      "url": "https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "American Rebelution",
-        "url": "https://open.spotify.com/album/0cganQdW9Mj2mJEmNG4949"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Jack in My Coke",
-      "url": "https://open.spotify.com/track/1w1BSlPEuUFhsYLizhVE0I"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
         "url": "https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd"
       },
@@ -1127,22 +1107,6 @@
       "duration_ms": 210305,
       "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
       "url": "https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Yeah",
-        "url": "https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN"
-      },
-      "artists": [
-        {
-          "name": "Austin Tolliver",
-          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1171,6 +1135,22 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN"
+      },
+      "artists": [
+        {
+          "name": "Austin Tolliver",
+          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 192101,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "American Rebelution",
+        "url": "https://open.spotify.com/album/0cganQdW9Mj2mJEmNG4949"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 232941,
+      "name": "Jack in My Coke",
+      "url": "https://open.spotify.com/track/1w1BSlPEuUFhsYLizhVE0I"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1219,26 +1219,6 @@
       "duration_ms": 151651,
       "name": "STOMP YOUR BOOTS",
       "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Mud Digger 4",
-        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "JJ Lawhorn",
-          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Field Party",
-      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1383,6 +1363,26 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "Mud Digger 4",
+        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "JJ Lawhorn",
+          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Field Party",
+      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "Redneck Rich",
         "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
       },
@@ -1415,18 +1415,26 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Redneck for Life",
-        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
+        "name": "Lethal",
+        "url": "https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci"
       },
       "artists": [
         {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+          "name": "Moccasin Creek",
+          "url": "https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T"
+        },
+        {
+          "name": "Tommy Chayne",
+          "url": "https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO"
+        },
+        {
+          "name": "Hard Target",
+          "url": "https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf"
         }
       ],
-      "duration_ms": 172848,
-      "name": "Redneck for Life",
-      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
+      "duration_ms": 231823,
+      "name": "Watch This",
+      "url": "https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H"
     }
   ],
   "unique_name": "Field Party",

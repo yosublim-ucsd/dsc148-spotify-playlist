@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Esta semana escucha a Los Tucanes de Tijuana, Fuerza Regida y Edén Muñoz, además nuevas rolitas de Selena Gomez, Miley Cyrus y Maluma: dale play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,284 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,361 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
 | 50 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 |
 
-Snapshot ID: `MCwwYzkxMjJkM2M5OWM5ZTRiOTJkZmNiNTRlMDk2MjJkMzQ3NDhkNDk3`
+Snapshot ID: `MCw5MmY1NDVlNTIzODg1NTAzZDE5ZmU4ZDRkZjkyZjM4YTk4NGEwYTNk`

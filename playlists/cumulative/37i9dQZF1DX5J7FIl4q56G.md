@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Metalocalypse: Dethklok
 
-4,402 songs - 12 day 9 hr 30 min
+4,403 songs - 12 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,7 +1054,8 @@
 | [Digital Bliss](https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG) | [Rotten Sound](https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf) | [Apocalypse](https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg) | 1:16 | 2023-03-31 | 2023-04-09 |
 | [Digital Bullets \(feat\. Chris Motionless\)](https://open.spotify.com/track/1a7hFfEXGJKSKSFKDoufPi) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [The Call of the Void](https://open.spotify.com/album/6v472xKTGoBedRClrXfY45) | 3:58 | 2023-07-07 | 2023-07-15 |
 | [Digital Junkie](https://open.spotify.com/track/3UexiN7dco9dZtmjo5I8b1) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Digital Junkie](https://open.spotify.com/album/2GaVzUFa9vB1F3ouVefd7w) | 3:42 | 2022-02-17 | 2022-03-04 |
-| [Digital Sea](https://open.spotify.com/track/2kETSkWftrKAiljmcBMp55) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil) | [The Excuses We Cannot Make](https://open.spotify.com/album/0gJ8Q54bXOtutGVoRKlDKu) | 4:05 | 2023-08-25 |  |
+| [Digital Sea](https://open.spotify.com/track/2kETSkWftrKAiljmcBMp55) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil) | [The Excuses We Cannot Make](https://open.spotify.com/album/0gJ8Q54bXOtutGVoRKlDKu) | 4:05 | 2023-08-25 | 2023-08-30 |
+| [Digital Sea](https://open.spotify.com/track/5TjZ42d17pQfzgJ5TbByjI) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil) | [The Excuses We Cannot Make](https://open.spotify.com/album/1CHpiJDADFFbO3rzs09YXK) | 4:05 | 2023-08-25 |  |
 | [Digitalis Purpurea](https://open.spotify.com/track/5xVvPPqNNkRh6Dy5BBGyrP) | [Svart Crown](https://open.spotify.com/artist/0Jk0jmS1MIp7UZuXaRrBCF) | [Digitalis Purpurea](https://open.spotify.com/album/006n7hhAVi7DnH30DBm2fQ) | 4:10 | 2022-05-27 | 2022-06-07 |
 | [Dignity](https://open.spotify.com/track/3cXEaRUuLYDT2hzqLwBJe8) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/0w9RrU2alZeQ1BJwpvpFtP) | 8:22 | 2022-06-24 | 2022-07-01 |
 | [Dimensional Bleed](https://open.spotify.com/track/5n53nDdWK0IYXmqfsSG8nS) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Dimensional Bleed](https://open.spotify.com/album/1x4xTsdwHVjMmUE5J9fipk) | 2:39 | 2022-07-15 | 2022-07-23 |

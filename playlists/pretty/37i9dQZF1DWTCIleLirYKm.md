@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,200 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,607 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 98 | [John Beyers \(Camaro Song\)](https://open.spotify.com/track/4z5kF7eIQhc6cvdb2MxEDD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/5YFcEg0KaTy1Q20EYfsCR2) | 2:01 |
 | 99 | [God's Gonna Cut You Down](https://open.spotify.com/track/6RFkVsPmrM4pzlDkFswwJl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/40ObOkEaQKVmcJ6k1W2xMg) | 2:38 |
 
-Snapshot ID: `MCxkNTRkNjU5NWYwNzQyMWIzZTFhNzI4NWM0ZGY1YzdlMzBmM2JhMjNm`
+Snapshot ID: `MCw4Yzg0MjY0YTc0ZWE2OWZmMDY0YjA4NzA5ZGI4ZWQxYjc1N2U2ODIx`

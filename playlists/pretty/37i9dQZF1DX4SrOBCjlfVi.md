@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gucci Mane, City Girls and more\. Cover: Luh Tyler
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,964 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,041 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 2 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 |
 | 3 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 |
 | 4 | [TESLA](https://open.spotify.com/track/4NQfLaqLd1Fms4UTkkTj7J) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [TESLA](https://open.spotify.com/album/5mLthYPpxVlV9E6QPlVVZt) | 2:44 |
-| 5 | [Wish U Well \- Extended](https://open.spotify.com/track/3x43Q2uKL0Zwekouxc2p8l) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:28 |
+| 5 | [Wish U Well \- Extended](https://open.spotify.com/track/3x43Q2uKL0Zwekouxc2p8l) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:28 |
 | 6 | [PARTy T1M3](https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PARTy T1M3](https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA) | 2:35 |
 | 7 | [No Amiris](https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Amiris](https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi) | 2:26 |
 | 8 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [OUTSIDE](https://open.spotify.com/track/0uFgVAfNa7f6W3HWR8MM4g) | [Freddy Got Magic](https://open.spotify.com/artist/019TO0knm3TR0pRqesSPSW), [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D) | [OUTSIDE](https://open.spotify.com/album/7JL3x8rNQSWmogtHZvobC9) | 1:59 |
 | 49 | [On The Radar Freestyle](https://open.spotify.com/track/6jaf7Il3LkGkR0jMYmBXtv) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [On The Radar Freestyle](https://open.spotify.com/album/4WzlKTa0ZyWBoYXqnxakYp) | 1:42 |
 
-Snapshot ID: `MCw5ZGUzYzI2NzI5OWY3NDkwNGZlNDJkNThiNTIyNTcwMWZmYmE1ZjQw`
+Snapshot ID: `MCwzMjAxODNkMjJhMzFhYjI4Njk3YTg0OTc0NTUzNzI3YTdhZWUyNDM3`

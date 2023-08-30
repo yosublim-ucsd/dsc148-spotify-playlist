@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj?si=1O2XqTh6T5qdsBZks1oqeA">Sfarzo Rtee</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,914 likes - 50 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,494 likes - 50 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Kilimanjaro \(feat\. Justin99, Mema\_Percent & Mr JazziQ\)](https://open.spotify.com/track/4aAxUQUNTtBhDgDcyCfXUu) | [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Sgija'Disciples](https://open.spotify.com/artist/1ko3CeWzNE9SRQ865Sf5lQ), [Zan'Ten](https://open.spotify.com/artist/5F9w142UJBH5ZkFXWUJVsL), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Mema\_Percent](https://open.spotify.com/artist/3WqFnvVwrS29DWjMSqZJx4), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E) | [Kilimanjaro \(feat\. Justin99, Mema\_Percent & Mr JazziQ\)](https://open.spotify.com/album/2ySAO7p9iD47x5fNWKeet3) | 5:29 |
 | 50 | [Thando](https://open.spotify.com/track/74csF4EizLF5y0yT2qoSHH) | [Wanitwa Mos](https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Seemah](https://open.spotify.com/artist/0aNCy4QYgTmEt8dos9toPF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) | [Thando](https://open.spotify.com/album/64kXhw73F5xUcVYXZerAtx) | 4:50 |
 
-Snapshot ID: `MCxiNGJiOWYwMGY5YzRmZmMwNGE3YzBjNWEyOTdhZTYxOWI4ZDRjYTM0`
+Snapshot ID: `MCxiMjViZTZhNTVjYzg2YjQ5Mjc5NjdlOWY3MzMxNTRmMDM4YTFiZjQz`

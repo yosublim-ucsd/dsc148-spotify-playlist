@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > Life in plastic, it's fantastic \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,533 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,416 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [Je serai le président de tous les Français](https://open.spotify.com/track/4qYBR4KCtaTeOBwQA2wc66) | [Malto](https://open.spotify.com/artist/1oo0gAsGtsm3jXI2gk6fSc) | [Je serai le président de tous les Français](https://open.spotify.com/album/1ILQ2BrYOxWliYAUwvLSOL) | 1:56 |
 | 100 | [Manolo](https://open.spotify.com/track/3b9rx3ZUivS4DVSgLLkMZB) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Manolo](https://open.spotify.com/album/0krTlrLUv0cXIjPXwxqoel) | 2:36 |
 
-Snapshot ID: `MCxiNzc2MWI4MzQ2MTgxNTlmNGY2OWEyYTBiYmVjODhjMDQyMjkxZDY1`
+Snapshot ID: `MCxlZWZjNmMyNTdiYzMyYmU2ZWEzYjcwYTFiZTVjNjQ0ZDJlZTk1MTBi`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Burna Boy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,153 likes - 134 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,203 likes - 134 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
 | 2 | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub) | 2:52 |
 | 3 | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 |
-| 4 | [Wish U Well](https://open.spotify.com/track/6BWI8WNmCwYHfJC5BLvks4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:19 |
+| 4 | [Wish U Well](https://open.spotify.com/track/6BWI8WNmCwYHfJC5BLvks4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:19 |
 | 5 | [Money Come](https://open.spotify.com/track/09zxu55fmyg5Sd5dcQ8oyA) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Money Come](https://open.spotify.com/album/1XWaP0PAJzsSPdZOVBMINJ) | 2:38 |
 | 6 | [Lifetime \(Dimension\)](https://open.spotify.com/track/4xI9phV5erN5I7cMC00VTU) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO), [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Green Banana](https://open.spotify.com/album/2h4MnsFmmZdXsqXqPESDc8) | 3:36 |
 | 7 | [You Killed It \(feat\. NARIMIMI\)](https://open.spotify.com/track/7gOrPFwok04ytG28my8BQ4) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [NARIMIMI](https://open.spotify.com/artist/1JTdS745UntF44DnNXTS9W) | [You Killed It \(feat\. NARIMIMI\)](https://open.spotify.com/album/2hEO7gMitCQw4xELY32OlK) | 2:43 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 133 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
 | 134 | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6U3j5OLotiJlHVdiq5hfSe) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5VcFT8jQVrava7H4QDuj8S) | 2:57 |
 
-Snapshot ID: `MCw4MGM4M2VkZjIyODI4ZGFlZWQ5ZDBkYjk1MDg2YzcwNzY1Y2EwYjY0`
+Snapshot ID: `MCxlYjI3MjYzMTNhODQ4M2E2YzRmZjA3Mjc1N2ZkNTA5ODY5OWNjMzE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,349 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,362 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 20 | [Sicilian Gold](https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Soul Assassins 3: Death Valley](https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD) | 1:54 |
 | 21 | [Choose Summer \(Gold Teeth and Bamboo$\)](https://open.spotify.com/track/5TvS3frY1wTkKRYNNQMaTy) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Beyond the Uncanny Valley](https://open.spotify.com/album/6B5xlWlWF1amW6KzOzbxr0) | 2:03 |
 | 22 | [Rollie](https://open.spotify.com/track/4BoNzbMw24JlVwpJWlXgHN) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Rollie](https://open.spotify.com/album/2KoqJtvWo5H6QWf00j5uS7) | 2:24 |
-| 23 | [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:08 |
+| 23 | [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:07 |
 | 24 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HVN ON EARTH](https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify) | 3:08 |
 | 25 | [Nothing Was The Same](https://open.spotify.com/track/3ffDBgmDtNAvmNn3DcI1qI) | [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Nothing Was The Same](https://open.spotify.com/album/1DLxPoBp1fgEPHpklSt7dN) | 2:59 |
 | 26 | [Hold On](https://open.spotify.com/track/46kH5hC4qz660DGcXkTOjB) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [Hold On](https://open.spotify.com/album/6KBtmynJ7itIlYg1hEhb6U) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [6Gear](https://open.spotify.com/track/0An8BUFRTPef14PUMAYNSv) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [6Gear](https://open.spotify.com/album/0uNL1PTUIqYAi94SQtJh9F) | 3:01 |
 | 50 | [Do or Die](https://open.spotify.com/track/6X5NGQQTHJ1nnbWx3mv5mv) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Do or Die](https://open.spotify.com/album/7IhBM442YmiKjUZTH0iTpr) | 2:13 |
 
-Snapshot ID: `MCw2MDI0MTg4NDJhODJmNmZmM2QxMDY3MTlhYWE4NzNmYTdiYjQ4ZDBh`
+Snapshot ID: `MCxlMTRmMzgxZDc3NDU2ZDg1NWNhOGJhNDYyOGZmNzJlZjE5ZTM4NTUy`

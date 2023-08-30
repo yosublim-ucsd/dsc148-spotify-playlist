@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,119 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,193 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [medicine](https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [health](https://open.spotify.com/album/6RlfHyeW7fWanwGNIIKbuU) | 2:50 |
 | 50 | [California King](https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [California King](https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54) | 3:53 |
 
-Snapshot ID: `MCw5ZmYzMzVmMmQ0YTk4ZjA5NDhhYjI1OTY4MTNiM2M1NDU4YjI1NTNm`
+Snapshot ID: `MCwzNzQwNmNiNDhjOTM3ZDk3NDkyYWFmY2FjMjlmYWJmMDA3MDllYzdi`

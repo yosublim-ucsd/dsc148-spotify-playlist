@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: SKIY
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,348 likes - 90 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,521 likes - 90 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 5 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
 | 6 | [Roads Of Gold](https://open.spotify.com/track/0QNzmM3G7YUm81329OwCHF) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/6buk9gBgZX5FGqLc1PIvXo) | 8:58 |
 | 7 | [In And Out Of Love \- Innellea Remix](https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love \(Innellea Remix\)](https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD) | 3:38 |
-| 8 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/4xwKCCFwNLTXOzqhQgbwcl), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 |
+| 8 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 |
 | 9 | [R U FCKNG SERIOUS \- Moritz Hofbauer Remix](https://open.spotify.com/track/5SfyXx7eOVL3zI16uNjRRN) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [R U FCKNG SERIOUS \(2023 Remaster + Remixes\)](https://open.spotify.com/album/6DFJ1oSqV2bgw3tXiCdn22) | 6:31 |
 | 10 | [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 |
 | 11 | [Acid Robot \- Original Mix](https://open.spotify.com/track/4FOx2og4wtYIvdq1clkNmK) | [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Acid Robot \(Original Mix\)](https://open.spotify.com/album/07rD4ZVsv1vBKfQFX2ClT2) | 5:13 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Magical Signs](https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 4:16 |
 | 90 | [Alone \- andhim Remix](https://open.spotify.com/track/7uUQfixTumDZwmOydFdkXE) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Alone \(andhim Remix\)](https://open.spotify.com/album/5dAIxyXI3nmT0IogiHaid6) | 4:29 |
 
-Snapshot ID: `MCwzNDI1ZGI4Yjk3MDc5NzdlMmRkZTVkMTc2MjU3NTA4MjY1Yjk0OGQz`
+Snapshot ID: `MCxiNjI1Y2Y1NDhjMjcyNzM5YmFhNjZmMWEyNzRiNzI0NjcwZTNhOTFi`

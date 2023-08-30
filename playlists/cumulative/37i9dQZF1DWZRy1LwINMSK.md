@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-174 songs - 9 hr 24 min
+175 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [FILOTEAO](https://open.spotify.com/track/4OWmGj76zFIHnLgN9VAqQT) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [FILOTEAO](https://open.spotify.com/album/5g0kpxa3LSsbjmMuc0UgGS) | 2:28 | 2023-07-28 |  |
 | [Flip Flops](https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Flip Flops](https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0) | 2:35 | 2022-06-17 | 2023-02-25 |
 | [Flow Pe$ado](https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Flow Pe$ado](https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX) | 2:53 | 2022-01-20 |  |
-| [Fondo de Bikini](https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Vishoko](https://open.spotify.com/artist/2VoIm519FXqOTdQciVXLMe), [Ov Black](https://open.spotify.com/artist/7ulWyRMgAVwTZbDBTd6e35) | [Fondo de Bikini](https://open.spotify.com/album/2MDf7f36XF0Tm6r3ZWLIzl) | 4:07 | 2022-05-09 |  |
+| [Fondo de Bikini](https://open.spotify.com/track/68Jl8FraBQ5spMGFbZMQNG) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Vishoko](https://open.spotify.com/artist/19C1rDlK587MsGNU8wctkG), [Ov Black](https://open.spotify.com/artist/7ulWyRMgAVwTZbDBTd6e35) | [Fondo de Bikini](https://open.spotify.com/album/7pkXNxVsYdKl2AIhRYDJE2) | 4:07 | 2023-08-18 |  |
+| [Fondo de Bikini](https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Vishoko](https://open.spotify.com/artist/2VoIm519FXqOTdQciVXLMe), [Ov Black](https://open.spotify.com/artist/7ulWyRMgAVwTZbDBTd6e35) | [Fondo de Bikini](https://open.spotify.com/album/2MDf7f36XF0Tm6r3ZWLIzl) | 4:07 | 2022-05-09 | 2023-08-30 |
 | [Freestyle Session](https://open.spotify.com/track/6j0G8UFVuGmstwMbzATyOn) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Freestyle Session](https://open.spotify.com/album/1YDdNdnOQ0BrUGtOWgEo17) | 2:39 | 2022-01-20 |  |
 | [Generaciones \(feat\. OldPurp & Left Behind\)](https://open.spotify.com/track/1T4DYB11yGiuco0hAD6k9h) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ALEX FATT](https://open.spotify.com/artist/662AsYFCIZoKBTgrMvdSGy), [OldPurp](https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi), [Left Behind](https://open.spotify.com/artist/3oPnhTiVCK16n4lh2BDFVd) | [Shishi Plugg](https://open.spotify.com/album/0EDzLjsolQn2ON3Zn9IJ20) | 3:34 | 2022-01-20 |  |
 | [Glizzy](https://open.spotify.com/track/5CIRCz2npiu1N57wTPp0rM) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Glizzy](https://open.spotify.com/album/3t0PHupmoyPbOp7e1oEZWf) | 2:59 | 2023-05-05 |  |

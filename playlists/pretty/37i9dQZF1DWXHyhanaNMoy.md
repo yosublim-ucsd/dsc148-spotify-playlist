@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes! Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,015 likes - 71 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,033 likes - 71 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Juice Riddim](https://open.spotify.com/track/3nRgx6m8ExU6tlIdLzz225) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Juice Riddim](https://open.spotify.com/album/0AxEhSMtd9HEQgoarQJw8j) | 3:34 |
-| 2 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
+| 1 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
+| 2 | [Juice Riddim](https://open.spotify.com/track/3nRgx6m8ExU6tlIdLzz225) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Juice Riddim](https://open.spotify.com/album/0AxEhSMtd9HEQgoarQJw8j) | 3:34 |
 | 3 | [Only Lover](https://open.spotify.com/track/2rFfVt1pS7hmew01Q2uL2b) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Only Lover](https://open.spotify.com/album/2PrWENAZz992vvC92B129d) | 3:03 |
 | 4 | [Stout, Bad & Vies](https://open.spotify.com/track/15jJDcp0hJnpuYQz0eTf5l) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Stout, Bad & Vies](https://open.spotify.com/album/3txKVfxJiw2TQ84HvZHoFD) | 2:25 |
 | 5 | [Bottles](https://open.spotify.com/track/331ZKCTgF27kBC2W5vmRmV) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Bottles](https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq) | 2:40 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 70 | [Andale](https://open.spotify.com/track/1FlTaX2AKIEHOJOjhLoZMf) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [Respect The Pain 1](https://open.spotify.com/album/2IWDkp7lBkc1sAyIIU13P3) | 2:46 |
 | 71 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 |
 
-Snapshot ID: `MCw0ZTcxODQ3MDEzZTYwOWZmYzBlZDVhNDk5OGQ2MTIzOTYwMDg5NmVk`
+Snapshot ID: `MCxlYThhNDQ2NzhjM2IxOWVlYjNlNWMyNzNkODBlYTE2YzU3OGNmZjkz`

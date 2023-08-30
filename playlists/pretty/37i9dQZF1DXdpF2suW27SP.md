@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Dillaz entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,678 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,747 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 9 | [I'm Sorry](https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [I'm Sorry](https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj) | 3:22 |
 | 10 | [Tropa do Madruga](https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Tropa do Madruga](https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY) | 3:00 |
 | 11 | [Alcatraz](https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Alcatraz](https://open.spotify.com/album/7aFKsnwLJ7fMY90k4yVXiz) | 3:25 |
-| 12 | [Eram Amigos & Bazaram](https://open.spotify.com/track/05BR4nevn67Jy156yIgWDF) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Eram Amigos & Bazaram](https://open.spotify.com/album/46VdKSKd3UprFD8VnL2nRR) | 3:41 |
+| 12 | [Eram Amigos & Bazaram](https://open.spotify.com/track/05BR4nevn67Jy156yIgWDF) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Anthus](https://open.spotify.com/artist/7FXdxjdBlrUxkxji8vV322) | [Eram Amigos & Bazaram](https://open.spotify.com/album/46VdKSKd3UprFD8VnL2nRR) | 3:41 |
 | 13 | [Heartless](https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 2:44 |
 | 14 | [Where U @](https://open.spotify.com/track/5KX1zLcBZ5bv8iA1odyonT) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Where U @](https://open.spotify.com/album/1Zs1EZDcCtlQys0VDUg5ls) | 2:22 |
 | 15 | [Cafuné](https://open.spotify.com/track/5f4gri8xbphuUM1zuU3FKe) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Cafuné](https://open.spotify.com/album/28nSJpg47bARr21Jija0f8) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Papo De Ninja](https://open.spotify.com/track/73OkPO9VFbtaHA6Fsu23ZS) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Eric Rodrigues](https://open.spotify.com/artist/28NuJ0rsVhiKovPID7OP1F), [LipeSky](https://open.spotify.com/artist/1xTBlYpqKiGEZfX1J32UPJ) | [My Life In Each Verse](https://open.spotify.com/album/4jWfvZcAhGOeVr0SV9JEzz) | 4:22 |
 | 75 | [Labirinto](https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [Balanço](https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93) | 2:36 |
 
-Snapshot ID: `MCwyNjMyMDc4ZGNiNzM5NjM0NzM3NzMyMjc5MzZlMWJjODFlYmFhNTFl`
+Snapshot ID: `MCxjNjgzZjllMzA0ODE4NzFkMGNmOTVhZjEyZTlmYjExODIzOGFmY2I5`

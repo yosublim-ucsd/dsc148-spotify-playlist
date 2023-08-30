@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 崎山蒼志
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,559 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,034 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Special Days](https://open.spotify.com/track/4or4paBDr7wpOKosYPaz7b) | [Joint Beauty](https://open.spotify.com/artist/74RJ7LQOOa3A0FiCw15PxG), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [PeanutsKun](https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc) | [Special Days](https://open.spotify.com/album/2XsEUQBbE5ZE6XSBxHucbE) | 3:39 |
 | 50 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |
 
-Snapshot ID: `MCw3OWYxZjg0ZDkwMmEyZTY2ODY1OGI3OWM5ZmE3ZjgzOTQ3ZDlmYTRk`
+Snapshot ID: `MCxiMTVkOGNkN2RkNDUzODY4MGJlNDZhYTBhMTM1ODFkYjAyMGExZGY5`

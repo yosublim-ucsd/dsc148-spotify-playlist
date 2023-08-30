@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Harold López\-Nussa
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,025 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,121 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [BIG](https://open.spotify.com/track/29xIkYBI18k0sQLk0mmaRt) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [BIG](https://open.spotify.com/album/0sLWffIotCNNIvcStSlkQa) | 2:50 |
 | 100 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 |
 
-Snapshot ID: `MCwwYjU3MTZhMTNhMjM4YWRlMGFhOTQxZTc1ZmQxOTAyNDlkYzFjNGI4`
+Snapshot ID: `MCxjYjU4NWQxMzZhN2FkYTc2N2JkNzc0YWFjZjJhN2NlNTFiYTZlYWUz`

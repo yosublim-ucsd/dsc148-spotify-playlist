@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 599 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 49 | [Nos Soltamos](https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:34 |
 | 50 | [143](https://open.spotify.com/track/6qq9xkVrdPZBBPa7ffm4mZ) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [143](https://open.spotify.com/album/0byu0qc2O02LSaoyjOyMjE) | 2:46 |
 
-Snapshot ID: `MCxlMWU5ZTU3NWEyYWRlN2U0MDlhODVkMGFlZmI3MjAwZTc4NTk1YjM2`
+Snapshot ID: `MCwyMTQwOTEwZTBjZTU3MjNkNjg4ZDlmZWQ4ZmExMGRmMzk0NTVjY2Rl`

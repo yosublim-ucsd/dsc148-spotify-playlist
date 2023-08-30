@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 74258,
+  "num_followers": 74509,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODFlOWU0NzJhNGNkNjcxNjgyMzJkMThmY2M4ZmRkYjY2ODY5NDMz",
+  "snapshot_id": "MCw1NWFhNGYwNzZlNWE4NTZjYmEyNzc2YWQ3ODg5MDFjNmJmZDkwOGY5",
   "tracks": [
     {
       "added_at": "2023-08-05 17:03:05",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 242160,
-      "name": "What Dreams Are Made Of",
-      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "Demi",
         "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 242160,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Speak",
-        "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Lohan",
-          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 192172,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lohan",
+          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
     },
     {
       "added_at": "2023-08-05 17:03:05",

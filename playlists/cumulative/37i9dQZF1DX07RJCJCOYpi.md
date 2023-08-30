@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Gordo & Maluma
 
-258 songs - 13 hr 28 min
+259 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Tomaza](https://open.spotify.com/track/2gBKqnDeG1ouitlLH5X3QA) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Piq Montano](https://open.spotify.com/artist/1nRQgqSXHnkam4AkIk1ou1) | [Iré](https://open.spotify.com/album/0Zash2m3OvytOF24YcQMM0) | 3:13 | 2022-03-22 | 2022-04-29 |
 | [Tomaza](https://open.spotify.com/track/5myXZpBUJCh0OQv3ix6bLs) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Piq Montano](https://open.spotify.com/artist/1nRQgqSXHnkam4AkIk1ou1) | [Tomaza](https://open.spotify.com/album/1uyLzDA4rSRLuB1BkGEDtd) | 3:13 | 2022-03-22 | 2022-04-29 |
 | [Trago a Trago](https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [Trago a Trago](https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl) | 2:17 | 2022-03-22 | 2022-04-29 |
-| [TRES SHOT](https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT) | 2:32 | 2023-05-08 |  |
+| [TRES SHOT](https://open.spotify.com/track/10QBisUlladhpt1govhb4w) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/1rhgAwX7B33pMFSA0OJPpB) | 2:32 | 2023-08-25 |  |
+| [TRES SHOT](https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT) | 2:32 | 2023-05-08 | 2023-08-30 |
 | [Tropicana \(La Noche\)](https://open.spotify.com/track/23dwwFPSWj3sH6IDAgeMh7) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Cucu Diamantes](https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz) | [Tropicana \(La Noche\)](https://open.spotify.com/album/2NGYvRg59cNCPL8JfYZ1wX) | 3:20 | 2023-01-20 | 2023-08-19 |
 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 | 2023-07-07 |  |
 | [TU MIRADA](https://open.spotify.com/track/5eo0RRedwSBqOqZjZxZNZy) | [Rey Chango](https://open.spotify.com/artist/0u5bPsSeDIbLpTKr9hJCqc), [LYON808](https://open.spotify.com/artist/4HVhyLcMfhyOoJqfCpiEJc), [Noah Kickback](https://open.spotify.com/artist/67pMmFgxUhP6W7ro3mX15c) | [CNTRL](https://open.spotify.com/album/6StSmIVCCvWMiV4EHkTcdD) | 2:45 | 2023-04-14 | 2023-07-15 |

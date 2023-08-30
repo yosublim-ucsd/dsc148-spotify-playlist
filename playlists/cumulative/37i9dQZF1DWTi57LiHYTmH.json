@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 177771,
       "name": "Handel: Suite No. 11 in D Minor, HWV 437: III. Sarabande - Remastered 2022",
       "url": "https://open.spotify.com/track/4fHnQHcXdcCrVYMpP04uTR"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 221731,
       "name": "Nocturne No. 1 in E Flat Major, H.24",
       "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 83011,
       "name": "Pr\u00e9lude",
       "url": "https://open.spotify.com/track/3ZWAtpmC9UdjIZtiZ2dwp0"
@@ -2740,6 +2740,28 @@
       "duration_ms": 142638,
       "name": "Waltz No. 19 in A Minor, KK IVb (Version for Harp in A Flat Minor)",
       "url": "https://open.spotify.com/track/7i9cdG6l1lg0xAraTublsw"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/095vJUCcQB9qznxjB9i4ol"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Michael Endres",
+          "url": "https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96253,
+      "name": "Waltz, D. 1/14, \"Kupelwieser-Walzer\"",
+      "url": "https://open.spotify.com/track/0w5HZnzDgV3WgpIRZG1U6U"
     },
     {
       "album": {

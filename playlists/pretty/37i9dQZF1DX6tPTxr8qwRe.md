@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Demi Lovato
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,182 likes - 65 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,295 likes - 65 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 32 | [EXTRA EXTRA](https://open.spotify.com/track/6hTudL1V7CHBhxwV8k9oIo) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [EXTRA EXTRA](https://open.spotify.com/album/7gJ1BUgV6kkyaFzKE5LizN) | 3:25 |
 | 33 | [LOOK AT ME RIGHT NOW](https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [LOOK AT ME RIGHT NOW](https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn) | 2:08 |
 | 34 | [Super Over](https://open.spotify.com/track/2z3Kpfc7nwzK0pcBMFRMxr) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/3J03smHGuMPGEReWWUEQnq) | 2:44 |
-| 35 | [unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
+| 35 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
 | 36 | [Deja Vu You](https://open.spotify.com/track/4I7U3jsgLSAqFmLAfx6iBJ) | [Samantha Margret](https://open.spotify.com/artist/6tyLi4JY6t4BEyZHaKwApN) | [Deja Vu You](https://open.spotify.com/album/7oM9ghGzzUN86fiofWhS61) | 2:15 |
 | 37 | [Pretty Little Addict](https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Pretty Little Addict](https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8) | 2:47 |
 | 38 | [Worship](https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Worship](https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ) | 3:07 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 64 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 |
 | 65 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 
-Snapshot ID: `MCwxOWJkOGMxNTAwYzg5MDNlOWJkMTBhNDFhYzE0ZjY1YjRmMmNlMjhi`
+Snapshot ID: `MCxkNDYzYzBjODFlNzkwYzI2YTBhOTI3YTU4OGJlNDAwZTdmZmY4YzA4`

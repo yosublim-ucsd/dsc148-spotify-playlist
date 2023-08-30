@@ -430,7 +430,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 256372,
       "name": "A bientot",
       "url": "https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu"
@@ -10048,7 +10048,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 196998,
       "name": "Intro: Singularity",
       "url": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV"
@@ -17733,6 +17733,24 @@
     },
     {
       "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/42GFBLpnHzGbuROBi6B4Ab"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294252,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/1UHkDovEFqHzHCPyNe0BTy"
+    },
+    {
+      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -18650,6 +18668,28 @@
       "duration_ms": 264760,
       "name": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
       "url": "https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE"
+    },
+    {
+      "album": {
+        "name": "Snow Flower (feat. Peakboy)",
+        "url": "https://open.spotify.com/album/4w5Rzux7dz1GkLkNkMd7L3"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Peakboy",
+          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Snow Flower (feat. Peakboy)",
+      "url": "https://open.spotify.com/track/34IGOyXR6cn0YI9VBu8m0y"
     },
     {
       "album": {
@@ -21328,7 +21368,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 182148,
       "name": "UNFORGIVEN (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
@@ -22504,6 +22544,24 @@
       "duration_ms": 273499,
       "name": "Wild Flower (with youjeen)",
       "url": "https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF"
+    },
+    {
+      "album": {
+        "name": "Winter Bear",
+        "url": "https://open.spotify.com/album/14q6R8M7lDDjWuLjGNKQDj"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174824,
+      "name": "Winter Bear",
+      "url": "https://open.spotify.com/track/74ewFAgDzRkhZ7EX2eLtfZ"
     },
     {
       "album": {

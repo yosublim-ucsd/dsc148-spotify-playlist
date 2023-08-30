@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Juliette, Ana Castela, Leo Santana, Gusttavo Lima, NATTAN, Miley Cyrus e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,912 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,164 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 79 | [Velocidade](https://open.spotify.com/track/14QQZUBzohHF1BBSKZ1wfO) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Velocidade](https://open.spotify.com/album/7LmXgG6EOwRJ5468fhAbI6) | 2:38 |
 | 80 | [Menu](https://open.spotify.com/track/1rBkBn8Glsj5Rk5z74CFoo) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [Menu](https://open.spotify.com/album/4sapqhguKSfGi4pFTkGvqv) | 2:49 |
 | 81 | [Nó de Ligação](https://open.spotify.com/track/5yzO9eaFRySY6G6RjtUFZY) | [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw) | [Nó de Ligação](https://open.spotify.com/album/5odKzUoMtYzu4p4NRKH3po) | 2:55 |
-| 82 | [Quando a noite vem](https://open.spotify.com/track/29KMeIz2xKL26X6UzvPHd7) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [BROKEN HEARTS CLUB](https://open.spotify.com/album/43OjImDFvgDCXHysNVNhUS) | 2:09 |
+| 82 | [Quando a noite vem](https://open.spotify.com/track/29KMeIz2xKL26X6UzvPHd7) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU), [Chai](https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8) | [BROKEN HEARTS CLUB](https://open.spotify.com/album/43OjImDFvgDCXHysNVNhUS) | 2:09 |
 | 83 | [Holograma](https://open.spotify.com/track/274iKKBd3zMz7ycbkgfO7O) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz) | [Holograma](https://open.spotify.com/album/4XhHEJ40XqBahPPU3cAgec) | 2:44 |
 | 84 | [Lábia](https://open.spotify.com/track/5kRQSdiovNQr5wvqfL0tpo) | [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF), [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [Lábia](https://open.spotify.com/album/2YJQZOEJk0kzEg4P9MNLtl) | 2:51 |
 | 85 | [Nem Me Beijou](https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5) | [Marvyn](https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Nem Me Beijou](https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if) | 3:13 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 93 | [Segredo](https://open.spotify.com/track/4rNdkeJRBA4GQxbkI8YqR6) | [Sophia Chablau e Uma Enorme Perda de Tempo](https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj) | [Segredo](https://open.spotify.com/album/5eU1Fz5ZMApp5smsVVnLlu) | 4:04 |
 | 94 | [Meu Lugar](https://open.spotify.com/track/6TfqFXLWyslRByvwmgsOMk) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR), [Gabriel Sater](https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI) | [Meu Lugar](https://open.spotify.com/album/40rB2bt1WY6K7vuIFLAMFQ) | 3:06 |
 | 95 | [Band Aid de Garrafa \- Ao Vivo](https://open.spotify.com/track/2JTKbty7PERFvtK4bP0j9D) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Band Aid de Garrafa \(Ao Vivo\)](https://open.spotify.com/album/1PzjIvbaVnwwm45jdNs2t7) | 2:50 |
-| 96 | [No Mesmo Bar](https://open.spotify.com/track/1MLojPTt83ttWjqQUdDofV) | [Paraná](https://open.spotify.com/artist/3UjpN9eWaG8tkI8NNnWmgg), [Milionario](https://open.spotify.com/artist/1ANhlKpb3fQIXAn8NmuBM3) | [No Mesmo Bar](https://open.spotify.com/album/5pnx9k0AGeAzBpKnjHudxq) | 3:13 |
+| 96 | [No Mesmo Bar](https://open.spotify.com/track/1MLojPTt83ttWjqQUdDofV) | [Paraná](https://open.spotify.com/artist/3UjpN9eWaG8tkI8NNnWmgg), [Milionário](https://open.spotify.com/artist/1ANhlKpb3fQIXAn8NmuBM3) | [No Mesmo Bar](https://open.spotify.com/album/5pnx9k0AGeAzBpKnjHudxq) | 3:13 |
 | 97 | [Já Tô Prevendo](https://open.spotify.com/track/6kJQWLaFYfAr7omINC2OwS) | [Karol kailler](https://open.spotify.com/artist/3Uroh9qzMYt6Qo9WsrwiXg) | [Minhas Regras](https://open.spotify.com/album/4YU2LUtO2UGKjL71MXfvmL) | 2:41 |
 | 98 | [Carinha De Inocente \- Ao Vivo](https://open.spotify.com/track/5iBO9pzxtxGdeBYOPuU1RQ) | [Netto & Henrique](https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe) | [Apaixonado E Alcoolizado](https://open.spotify.com/album/1fOKJ8mJib2qvwMdj0bpT0) | 2:48 |
 | 99 | [Se Você Quiser Voltar](https://open.spotify.com/track/0WCDkJYGEZfMKhVvEAsCeU) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ), [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Se Você Quiser Voltar](https://open.spotify.com/album/4Na3ea1iiGnAmWQTVDbnTg) | 3:24 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 102 | [Move it, Love it](https://open.spotify.com/track/15fhWIiIrQsCs6VW17W2kz) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Mc Thata](https://open.spotify.com/artist/5q8M0G3RhAnuD7bjrFLpQm) | [Move it, Love it](https://open.spotify.com/album/4k6bODAr2RBMizWzaN237f) | 3:00 |
 | 103 | [Az De Ouro](https://open.spotify.com/track/4SU0Ih4r5IdKZIHaXlQ4R0) | [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Az De Ouro](https://open.spotify.com/album/1vq05TEz1R2vcWahw78Thi) | 2:52 |
 
-Snapshot ID: `MCwzNmEzYWQ0NGI4ZWM5YWZmMTAwNDQyYmVkNzM1NGU2ZDUzYmZlOGVl`
+Snapshot ID: `MCw4NTc1ZDM2YTNkYTFkM2I1ZDU3ZjhmMDNkNTc0ZDM3ZmEyMzEwYzYz`

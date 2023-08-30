@@ -1,12 +1,12 @@
 {
   "description": "New music from Charlotte Cardin, Selena Gomez, Zach Bryan and BABY GRAVY.",
-  "num_followers": 347911,
+  "num_followers": 347929,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGE2YWMyZjc2ODYwZmE5YjRiYTUzOWZmNjBhZDRlMDRhNzVjNDc5",
+  "snapshot_id": "MCw4Y2E1MzgxOTMwNjAxZTYxOGZjM2MwYjkzMzY2ODhiN2RlNWM2YTU3",
   "tracks": [
     {
       "added_at": "2023-08-25 14:35:43",
@@ -466,6 +466,14 @@
         {
           "name": "Swae Lee",
           "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
       "duration_ms": 199641,

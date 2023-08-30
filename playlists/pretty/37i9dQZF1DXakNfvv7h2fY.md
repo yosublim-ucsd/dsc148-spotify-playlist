@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 
 > Comforting Blues to warm the soul when there’s no point going outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,075 likes - 68 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,107 likes - 68 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 | 13 | [I'm In A World Of Trouble](https://open.spotify.com/track/3XnRBApjBB3YAzZnXLRAKb) | [Bob Hall](https://open.spotify.com/artist/5CqYiXk35NVbcP7kgvjkwc), [George Green](https://open.spotify.com/artist/51W66yTGrVuRVubWzW6RX9) | [Jammin' The Boogie](https://open.spotify.com/album/4VbMRQKRNu9oAdvnbRBkSB) | 5:33 |
 | 14 | [Without You \- 2013 Remaster](https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:35 |
 | 15 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 |
-| 16 | [Melancholy](https://open.spotify.com/track/7ovcofZ0IabtMg7VbJOKEA) | [Louis Armstrong Hot Seven](https://open.spotify.com/artist/0hlD91RtAP8xri39Ms1Mlx) | [The Complete Hot Five And Hot Seven Recordings Volume 2](https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v) | 3:00 |
+| 16 | [Melancholy](https://open.spotify.com/track/7ovcofZ0IabtMg7VbJOKEA) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Hot Five And Hot Seven Recordings Volume 2](https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v) | 3:00 |
 | 17 | [Please Tell Me Why](https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Jackie Sings The Blues](https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4) | 2:04 |
 | 18 | [I Put My Trust In You](https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 5:19 |
 | 19 | [Backwater Blues \(That Mean Old Twister\)](https://open.spotify.com/track/1rq1ODqNnqhz78wCWg2obj) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Country Blues](https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2) | 2:49 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 | 67 | [Sittin' Here Thinkin](https://open.spotify.com/track/5HrztaUeeQaraA5IsBWzm6) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:07 |
 | 68 | [Broke and Hungry](https://open.spotify.com/track/2LkthyImwECrhIQDmygSfC) | [Hubert Sumlin](https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9) | [My Guitar and Me \(Blues Reference\)](https://open.spotify.com/album/0KojeQ3QJNd05QIeSHQ3z3) | 5:51 |
 
-Snapshot ID: `MCwxNTBjNjE3MzBhYjBhZTIzMzBjMmZiMTY5MjBjZWJhN2JhNmY0MDRh`
+Snapshot ID: `MCxlZDYzMDZiYWU1MDY1N2JmNjY4MDY4ZGQxZWQ5MjhhZDllNmVlNjkz`

@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hiss Golden Messenger
 
-1,428 songs - 3 day 15 hr 31 min
+1,429 songs - 3 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,8 @@
 | [Is It Enough](https://open.spotify.com/track/4rRJ4gcJPol2a7YhetZ8FR) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Honest to God](https://open.spotify.com/album/4ZoULhZKE6NycCEVa2B5mT) | 3:37 | 2021-11-19 | 2022-03-18 |
 | [It All](https://open.spotify.com/track/2xaOXlZZ7T4ysLMKzIr9ac) | [Phillip LaRue](https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT) | [It All](https://open.spotify.com/album/1CYYV6XgyBku2WquX3YLsU) | 3:41 | 2022-08-05 | 2022-12-03 |
 | [It All Comes Back](https://open.spotify.com/track/6oIrO7yjtIJrKbZNx92rzC) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [It All Comes Back](https://open.spotify.com/album/3wDnQyPXIq17Om9MZaH6Bi) | 3:58 | 2023-02-24 | 2023-05-20 |
-| [It Takes Me Back](https://open.spotify.com/track/5zOUWxeymlEE9pvADC5gXj) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [It Takes Me Back](https://open.spotify.com/album/3eMrnuF05ttxW40eTvjJDp) | 3:41 | 2023-07-28 |  |
+| [It Takes Me Back](https://open.spotify.com/track/473SyXmf9C9w4CbIak2nM6) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Broken Sky / It Takes Me Back](https://open.spotify.com/album/6CTPYg4bUm19T50eRleWnD) | 3:41 | 2023-08-25 |  |
+| [It Takes Me Back](https://open.spotify.com/track/5zOUWxeymlEE9pvADC5gXj) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [It Takes Me Back](https://open.spotify.com/album/3eMrnuF05ttxW40eTvjJDp) | 3:41 | 2023-07-28 | 2023-08-30 |
 | [It's A New Life](https://open.spotify.com/track/3ku06NWgtn63zs0yGSjQoe) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [New Girl](https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK) | 4:25 | 2022-06-10 | 2022-08-06 |
 | [It's Called: Freefall](https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR) | 2:38 | 2022-07-22 | 2022-10-22 |
 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-10-14 | 2022-11-26 |

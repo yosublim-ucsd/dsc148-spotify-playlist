@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Aziz Maraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,459 likes - 71 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,502 likes - 71 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 70 | [Layla](https://open.spotify.com/track/0oXXaN5krMQ4NR0Hs2C0hJ) | [Judran](https://open.spotify.com/artist/1KC7iXkAh7Z7gX7XJqarBd) | [Layla](https://open.spotify.com/album/3Du6enmqaPYMtjYvM52UCL) | 6:03 |
 | 71 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 |
 
-Snapshot ID: `MCw3Mzg0NGZlNjQwMGYzZGIxOTM5MDg5MTg0MjgyYTEyNTI1ZGQ3ODk0`
+Snapshot ID: `MCwyZDJiNTM0NWQ0MWJiY2NlMDJjMjIyY2NkMTE0NTdhZDdkNjg3Mzkz`

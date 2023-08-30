@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bo Staloch \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,458 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,501 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [The Flood](https://open.spotify.com/track/2uCYeun5dyWfjYjBr4hUat) | [Rochelle Riser](https://open.spotify.com/artist/3JF4Dermg0clMhFhVpeKUf) | [The Flood](https://open.spotify.com/album/74lMdyGGgn6FdsvuZOlM8p) | 3:53 |
 | 100 | [Movie Scene](https://open.spotify.com/track/7GnxDkjxUmJuUmdMhuQSX9) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [Movie Scene](https://open.spotify.com/album/3P4EOQogyfdexG1OooDhnm) | 2:54 |
 
-Snapshot ID: `MCw3OTI3Mjg1NmJjYTgyOGE1ZjUzMmMwOWE4ODdmNDVhMTQzZDNiNTc5`
+Snapshot ID: `MCwwZjQxMjhkYzIzMDkwMGM0OTQyYmI0ZjlhOTQzZTNhYmI1YjlkYTU2`

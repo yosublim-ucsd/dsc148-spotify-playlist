@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 239377,
+  "num_followers": 239466,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ3NDliZjk0NmQ4MWJmYWE1Mzg0ODczNTg3YWFjYjEyODU2MzU4",
+  "snapshot_id": "MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
-        "url": "https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR"
-      },
-      "artists": [
-        {
-          "name": "DJ BYmoment",
-          "url": "https://open.spotify.com/artist/3rhFSNJH1jYyJpV7oEJiuC"
-        }
-      ],
-      "duration_ms": 121477,
-      "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
-      "url": "https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Sorry, I Like You",
         "url": "https://open.spotify.com/album/7EZ0zxMKXkJZGZBESFJZGA"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 122790,
       "name": "Sorry, I Like You",
       "url": "https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
+        "url": "https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR"
+      },
+      "artists": [
+        {
+          "name": "DJ BYmoment",
+          "url": "https://open.spotify.com/artist/3rhFSNJH1jYyJpV7oEJiuC"
+        }
+      ],
+      "duration_ms": 121477,
+      "name": "I J u s t W a n t t o B e t h e O n e Y o u L o v e e e",
+      "url": "https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm"
     },
     {
       "added_at": "2022-02-02 00:21:48",

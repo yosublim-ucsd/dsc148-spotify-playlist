@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music\. Cover: Charlie Puth
+> Current favorites and exciting new music\. Cover: Miley Cyrus
 
 987 songs - 2 day 3 hr 0 min
 

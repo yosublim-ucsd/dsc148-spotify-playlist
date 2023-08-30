@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 51945,
+  "num_followers": 51954,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGFhNjEzMTFkMmZkMjIxYTQ2MzgzYWMzNjhmMjgxNzI0MzhjMDk0",
+  "snapshot_id": "MCw5ZjA1NTMzNGY0YTRlMzc0N2UwMmFhM2UzYjk5MmNhMTE5YzcwMGUz",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Dreamland - Solo Piano Version",
-      "url": "https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Traces",
         "url": "https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 128333,
       "name": "Onthou",
       "url": "https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Dreamland - Solo Piano Version",
+      "url": "https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Moments of Tomorrow",
-        "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
-      },
-      "artists": [
-        {
-          "name": "Jean Petri",
-          "url": "https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G"
-        }
-      ],
-      "duration_ms": 110434,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Mantric Melody",
         "url": "https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Light of The Moon",
-        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
+        "name": "Moments of Tomorrow",
+        "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
       },
       "artists": [
         {
-          "name": "Naturally Recurring",
-          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+          "name": "Jean Petri",
+          "url": "https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G"
         }
       ],
-      "duration_ms": 249818,
-      "name": "Sunrise Glory",
-      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
+      "duration_ms": 110434,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -791,6 +775,22 @@
       "duration_ms": 130541,
       "name": "Sentiment",
       "url": "https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Light of The Moon",
+        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
+      },
+      "artists": [
+        {
+          "name": "Naturally Recurring",
+          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+        }
+      ],
+      "duration_ms": 249818,
+      "name": "Sunrise Glory",
+      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "unspoken",
-        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
-      },
-      "artists": [
-        {
-          "name": "Rosetta Arroyo",
-          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "anywhere",
-      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "After The Silence",
         "url": "https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 143277,
       "name": "After The Silence",
       "url": "https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "unspoken",
+        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Arroyo",
+          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "anywhere",
+      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
-        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
-      },
-      "artists": [
-        {
-          "name": "Meditation Music Zone",
-          "url": "https://open.spotify.com/artist/7zwiFdY90oXzLh1Wz22oEq"
-        }
-      ],
-      "duration_ms": 249300,
-      "name": "REM Phase",
-      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Eternal Thoughts",
         "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 241438,
       "name": "Eternal Thoughts",
       "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
+        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
+      },
+      "artists": [
+        {
+          "name": "Meditation Music Zone",
+          "url": "https://open.spotify.com/artist/7zwiFdY90oXzLh1Wz22oEq"
+        }
+      ],
+      "duration_ms": 249300,
+      "name": "REM Phase",
+      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e"
-      },
-      "artists": [
-        {
-          "name": "T. Landley",
-          "url": "https://open.spotify.com/artist/4sWE38K3uQqp3ZmyMSFyJW"
-        }
-      ],
-      "duration_ms": 131605,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e"
       },
       "artists": [
         {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+          "name": "T. Landley",
+          "url": "https://open.spotify.com/artist/4sWE38K3uQqp3ZmyMSFyJW"
         }
       ],
-      "duration_ms": 219716,
-      "name": "Bloom Bliss",
-      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
+      "duration_ms": 131605,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1431,6 +1415,22 @@
       "duration_ms": 322520,
       "name": "Soothing Mountain Winds - Massage Music With Tibetan Flute & Restful Winds",
       "url": "https://open.spotify.com/track/7Jif3bSrhQXySnfLtCaLmC"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+      },
+      "artists": [
+        {
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+        }
+      ],
+      "duration_ms": 219716,
+      "name": "Bloom Bliss",
+      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+      },
+      "artists": [
+        {
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+        }
+      ],
+      "duration_ms": 222916,
+      "name": "Lorimar",
+      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "New Romantic Classical Piano and Violin Duets",
         "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 92307,
       "name": "Dim Lights",
       "url": "https://open.spotify.com/track/2RBDkr6kokpZ4cTQy5efWm"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 222916,
-      "name": "Lorimar",
-      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
     },
     {
       "added_at": "2021-06-24 10:58:44",

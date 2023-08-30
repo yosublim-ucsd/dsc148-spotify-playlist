@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S.",
-  "num_followers": 23789,
+  "num_followers": 23819,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTg3ZTVkZWRjZTIxZjAwMjAxNWU0OGY1MjU2Y2NhNjVhNGNkOTM4",
+  "snapshot_id": "MCwzOWJjOTc0ZWY1ZjRlN2U0YTFmN2E4MGE4NWI3YzY4ZWUwN2QwNzhh",
   "tracks": [
     {
       "added_at": "2023-08-28 14:04:25",
@@ -575,18 +575,26 @@
     {
       "added_at": "2023-08-28 14:04:25",
       "album": {
-        "name": "Parkside Angle",
-        "url": "https://open.spotify.com/album/14jvG7xYUt7WDR7G0lQc01"
+        "name": "Would You Still Love Me",
+        "url": "https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2"
       },
       "artists": [
         {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+          "name": "Emilio Rojas",
+          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
+        },
+        {
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
         }
       ],
-      "duration_ms": 83474,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/05UmeMHqm9OzkxjQiLL4BX"
+      "duration_ms": 256532,
+      "name": "Would You Still Love Me",
+      "url": "https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq"
     },
     {
       "added_at": "2023-08-28 14:04:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Sadie Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,564 likes - 102 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,598 likes - 102 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 101 | [Something In My Eye](https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Something In My Eye](https://open.spotify.com/album/4b19y9VplmgR8kOXFpH3B1) | 2:44 |
 | 102 | [Nonstop](https://open.spotify.com/track/2a0VKLIiTq8LeTFvGpMCL9) | [Inas X](https://open.spotify.com/artist/3COqbK91CX9dQ8T2CsAaR8) | [Nonstop](https://open.spotify.com/album/5cNXoHmQf4hqEdYebRi2Pj) | 2:12 |
 
-Snapshot ID: `MCxiNTY0ODYyYzliNGZjOTY2ODI0NzcwMmQ1MTdhMTJjNDM0NzVjMzEz`
+Snapshot ID: `MCxhZjM3MWYxZjZhODg4N2FiNThhYmMzNTdhZmM4ODg2M2M0ZTNhNWI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Yung Lean & Bladee
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,506 likes - 109 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,518 likes - 109 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 108 | [Let's Break It Down](https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Let's Break It Down](https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL) | 3:10 |
 | 109 | [Anywhere The Wind Blows](https://open.spotify.com/track/6oijQ5vpP4R21M5UlxOLdh) | [L I F E / L I N E](https://open.spotify.com/artist/5oGx8PvzXwgguezHDVRakQ), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Anywhere The Wind Blows](https://open.spotify.com/album/73iJyHhIkDxkfBzTHL5dtn) | 3:36 |
 
-Snapshot ID: `MCwyMDk1ZmJhZTQ0YmM4OTY0NWQwNjc2ZjdiZTU3YzllNDAyY2I2OWM3`
+Snapshot ID: `MCw3ZjBhNDNlZTdmMjMzMTg0NzRlNGE2YWMwM2E0NmYzNTRlNDExNTNl`

@@ -1,12 +1,12 @@
 {
   "description": "Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.",
-  "num_followers": 2571,
+  "num_followers": 2573,
   "original_name": "Love Back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTkxMTNkYjMzOWIzOGY2N2RiMzkwYTllYTVjZGYxNWQzYjRhNGZm",
+  "snapshot_id": "MCwzNzYyZTkxNTlhNmUwNGRlNmViMDc5MmUzOTU2MWZjMzA0Yjk3N2Uy",
   "tracks": [
     {
       "added_at": "2023-02-10 08:14:45",
@@ -695,10 +695,14 @@
     {
       "added_at": "2023-02-10 08:14:45",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/4Ma1FmoFdf61NPhjF67flT"
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/4Q3VwhKvE2slDyveEFIiNr"
       },
       "artists": [
+        {
+          "name": "Kelly Khumalo",
+          "url": "https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no"
+        },
         {
           "name": "Robbie Malinga",
           "url": "https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD"
@@ -706,7 +710,7 @@
       ],
       "duration_ms": 284680,
       "name": "Baby Please",
-      "url": "https://open.spotify.com/track/40cDcD8uvaE060MednQPaN"
+      "url": "https://open.spotify.com/track/47dCbfshKYkbw40Wb49VKO"
     },
     {
       "added_at": "2023-02-10 08:14:45",

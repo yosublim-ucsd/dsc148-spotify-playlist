@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,327 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,377 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [Eu Até Percebo](https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Eu Até Percebo](https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77) | 3:30 |
 | 70 | [Só uma Noite](https://open.spotify.com/track/4IE65liqpq2jxwj77ih2MK) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [Só uma Noite](https://open.spotify.com/album/28PX9MrdXuq9RbiOpE8Cfw) | 2:36 |
 
-Snapshot ID: `MCxiYmIzY2U1OWRmYmZiOWYyYTkzMjc4MDMxYjgyMzgxZjRlZjgxOTEz`
+Snapshot ID: `MCw4OTRhYWI1ZjQ3N2E2MjI2YmEzN2YxZWJjMWUwYmQxZTI5ODI1YzVh`

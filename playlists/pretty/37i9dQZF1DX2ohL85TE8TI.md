@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: King the Land\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 킹더랜드\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,539,126 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,539,425 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Breath](https://open.spotify.com/track/6XHM5qjDlcJVT1afJZXUId) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z) | 3:41 |
 | 100 | [Alone](https://open.spotify.com/track/4UVa6uMDD4ngcd2CXVQZ47) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/41qO8KPuWWoGOzQYJ8ObV4) | 2:50 |
 
-Snapshot ID: `MCxiNmZhNGYyZjk4NjVmYTgyODExNDc5ODFjOGQxZjdhNTk5ZTNjN2Fh`
+Snapshot ID: `MCw2OGM2MTNhYmViYjAxYWVjOTRkYzYzYWI4ZDg3ODczODI0MDA3YmQy`

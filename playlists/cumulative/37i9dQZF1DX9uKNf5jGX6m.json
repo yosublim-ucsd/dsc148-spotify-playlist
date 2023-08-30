@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 159676,
       "name": "Apricus",
       "url": "https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 153777,
       "name": "At Night I Fly",
       "url": "https://open.spotify.com/track/1kOo4z14fQRQdnYXU8VDcv"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 184500,
       "name": "Brief Moment",
       "url": "https://open.spotify.com/track/5OfZLjDUzrke9xWALBYVD7"
@@ -3246,6 +3246,24 @@
       "duration_ms": 199200,
       "name": "Drommenes Verden",
       "url": "https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7"
+    },
+    {
+      "album": {
+        "name": "Droplet of Grace",
+        "url": "https://open.spotify.com/album/2Fp93WU1JUHpRmtEknRne7"
+      },
+      "artists": [
+        {
+          "name": "South Noon",
+          "url": "https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Droplet of Grace",
+      "url": "https://open.spotify.com/track/3W2UlaHx93we9YqM1BvjFZ"
     },
     {
       "album": {
@@ -5240,7 +5258,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 151530,
       "name": "In The Distance",
       "url": "https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp"
@@ -5510,7 +5528,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 138636,
       "name": "Isen",
       "url": "https://open.spotify.com/track/2EUk3A93TmU67EPrv1OgWH"
@@ -5654,7 +5672,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 220000,
       "name": "Jij bent alles",
       "url": "https://open.spotify.com/track/0zkpPgcFpSXqjjWSLmSkDa"
@@ -6846,7 +6864,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 164249,
       "name": "Meditations Pt 2",
       "url": "https://open.spotify.com/track/4KD2z4bhdHCbUafCtznElu"
@@ -6976,6 +6994,24 @@
       "duration_ms": 168984,
       "name": "Mesmerized",
       "url": "https://open.spotify.com/track/0C6XD0Qel6ZE1poJ7buaDm"
+    },
+    {
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/0aWHdB87jdYmkjHfQU32gh"
+      },
+      "artists": [
+        {
+          "name": "Celestial Echoes",
+          "url": "https://open.spotify.com/artist/2kPdGnJr2JeSSlSsyjS41v"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170855,
+      "name": "Metamorphic",
+      "url": "https://open.spotify.com/track/6S5TAvYjNKzaVI5KR6DomW"
     },
     {
       "album": {
@@ -7573,6 +7609,24 @@
     },
     {
       "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/0JuOM1FiY5sNZCpgetmPSH"
+      },
+      "artists": [
+        {
+          "name": "Zamphire",
+          "url": "https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172449,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL"
+    },
+    {
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/1bMCk09m3q6MSrhba1dBuA"
       },
@@ -7822,6 +7876,24 @@
       "duration_ms": 184590,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/5dhf443YVdBpZZOGutxjsx"
+    },
+    {
+      "album": {
+        "name": "One Drope On World",
+        "url": "https://open.spotify.com/album/1zQSTded6rxRs9eTj42mml"
+      },
+      "artists": [
+        {
+          "name": "SWAMP&STAR",
+          "url": "https://open.spotify.com/artist/3l9cGKVRvyJHWSNDOb6fd5"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "One Drope On World",
+      "url": "https://open.spotify.com/track/14lFQ2ennhUQyDvS7LIxB8"
     },
     {
       "album": {
@@ -9456,7 +9528,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 192899,
       "name": "Sacred Spirit",
       "url": "https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO"
@@ -9816,7 +9888,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 165229,
       "name": "Seda",
       "url": "https://open.spotify.com/track/1VEGUwRnImIqt1JsV8j7aE"
@@ -9996,7 +10068,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 156740,
       "name": "Serene Lake",
       "url": "https://open.spotify.com/track/5j7x0N6j0TH6Tq6RuiKtnj"
@@ -10554,7 +10626,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 229714,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq"
@@ -11256,7 +11328,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 159750,
       "name": "Tao of Flow",
       "url": "https://open.spotify.com/track/6RbXL8mNfFDeW0DFgroGHU"
@@ -11472,7 +11544,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 166527,
       "name": "The First Light",
       "url": "https://open.spotify.com/track/4LHU2ae5wv5SN7KNwZFM9d"
@@ -11940,7 +12012,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 215122,
       "name": "Time's Mystery",
       "url": "https://open.spotify.com/track/5UH3kw1qs5V3xHLHlgELvW"

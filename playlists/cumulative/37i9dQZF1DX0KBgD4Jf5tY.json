@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Anice",
+        "url": "https://open.spotify.com/album/4v6Pr3gBmWksZKV0M5UU3f"
+      },
+      "artists": [
+        {
+          "name": "Paul Giorgi",
+          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171468,
+      "name": "Anice",
+      "url": "https://open.spotify.com/track/20ZVUbuDl5ywxuKfKTGDUA"
+    },
+    {
+      "album": {
         "name": "DA FIRENZE CON AMORE",
         "url": "https://open.spotify.com/album/2K2tS5FCPcBFPzI4mhxWdp"
       },
@@ -1416,6 +1434,24 @@
       "duration_ms": 187821,
       "name": "ansiaaaaa",
       "url": "https://open.spotify.com/track/0L1WqAM6GIJrkPRjqYlSjI"
+    },
+    {
+      "album": {
+        "name": "Anti-Fomo",
+        "url": "https://open.spotify.com/album/22yTfRdHVq3c50oZpXngIA"
+      },
+      "artists": [
+        {
+          "name": "Blue Alaska",
+          "url": "https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Anti-Fomo",
+      "url": "https://open.spotify.com/track/2AQADuVGjoShxE9gnfRMDW"
     },
     {
       "album": {
@@ -3534,10 +3570,32 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 235102,
       "name": "COLA",
       "url": "https://open.spotify.com/track/2r0aY2D02ANBMwtNBFN9Um"
+    },
+    {
+      "album": {
+        "name": "Colibr\u00ec",
+        "url": "https://open.spotify.com/album/6QUKuQGSZrlzgYDmYeghmv"
+      },
+      "artists": [
+        {
+          "name": "Vesuviano",
+          "url": "https://open.spotify.com/artist/3zWZiuJpuHeA18luNoAxgS"
+        },
+        {
+          "name": "Me3o",
+          "url": "https://open.spotify.com/artist/1yB3wVPkajZGhOdRs8n3mJ"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204644,
+      "name": "Colibr\u00ec",
+      "url": "https://open.spotify.com/track/3fPBScT5S1Bryl2COxBTAv"
     },
     {
       "album": {
@@ -3874,7 +3932,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 189473,
       "name": "coseporno",
       "url": "https://open.spotify.com/track/4U9oZvVsZBzVVVCcvuRSPp"
@@ -4272,7 +4330,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 188160,
       "name": "Di Noi",
       "url": "https://open.spotify.com/track/6lYmZFUK9rw1Ua06mhawnZ"
@@ -6656,6 +6714,36 @@
       "duration_ms": 169516,
       "name": "Il mare in una scatola",
       "url": "https://open.spotify.com/track/6eQIPKnlI2i6JXwm43wn9v"
+    },
+    {
+      "album": {
+        "name": "il mio lato migliore",
+        "url": "https://open.spotify.com/album/4XRZozYeqW4hjVzh7p2nfN"
+      },
+      "artists": [
+        {
+          "name": "d/rose",
+          "url": "https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta"
+        },
+        {
+          "name": "ggiovanni",
+          "url": "https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9"
+        },
+        {
+          "name": "Luke Lecomte",
+          "url": "https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc"
+        },
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141444,
+      "name": "il mio lato migliore",
+      "url": "https://open.spotify.com/track/6lU5Q0dWDQ2GJjg8dUqA3s"
     },
     {
       "album": {
@@ -9116,7 +9204,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 139813,
       "name": "monocromo",
       "url": "https://open.spotify.com/track/5YZfmc8O3lxWq6EqrONHHv"
@@ -10693,6 +10781,24 @@
     },
     {
       "album": {
+        "name": "Ocean Cry",
+        "url": "https://open.spotify.com/album/2uP99i8rDfjIpUPEurejZv"
+      },
+      "artists": [
+        {
+          "name": "pearl moth",
+          "url": "https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217033,
+      "name": "Ocean Cry",
+      "url": "https://open.spotify.com/track/2lOLI3op0lv6kK3VrOCS1Z"
+    },
+    {
+      "album": {
         "name": "oceano di lacrime",
         "url": "https://open.spotify.com/album/6BIetlE8TeXrXU5A6JTo0z"
       },
@@ -10968,7 +11074,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 210300,
       "name": "orso",
       "url": "https://open.spotify.com/track/73AtLu6D34F9MBD7gDEnb7"
@@ -14267,6 +14373,28 @@
     },
     {
       "album": {
+        "name": "Spent\u00f8 & Stanc\u00f8",
+        "url": "https://open.spotify.com/album/0JbnMskkKVUFFIczLSidmw"
+      },
+      "artists": [
+        {
+          "name": "Nefil",
+          "url": "https://open.spotify.com/artist/0MGwBbvdr6smmVDpKee1kw"
+        },
+        {
+          "name": "Skins",
+          "url": "https://open.spotify.com/artist/1NFOVT7B71RKx6ysFKA0OF"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207741,
+      "name": "Spent\u00f8 & Stanc\u00f8",
+      "url": "https://open.spotify.com/track/2ei3Ki6ygpBcG1eUrbndux"
+    },
+    {
+      "album": {
         "name": "Spero di Star Male",
         "url": "https://open.spotify.com/album/16bT7x95aKRXsjyrQ8iFBB"
       },
@@ -14336,7 +14464,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 172553,
       "name": "Spettro",
       "url": "https://open.spotify.com/track/7pmb6GbnwFNU9uUsBoF7wG"
@@ -15574,7 +15702,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 160496,
       "name": "Tutto Ok",
       "url": "https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw"
@@ -16146,6 +16274,24 @@
       "duration_ms": 172771,
       "name": "variazioni sul tema elysi",
       "url": "https://open.spotify.com/track/0RGLCsDEjY7rR3Fjnq31M8"
+    },
+    {
+      "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/2oDt8ji4RSwpjImc66YvvD"
+      },
+      "artists": [
+        {
+          "name": "pablo murphy",
+          "url": "https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/056jYB4VJ8j4YbwRniD4Hr"
     },
     {
       "album": {

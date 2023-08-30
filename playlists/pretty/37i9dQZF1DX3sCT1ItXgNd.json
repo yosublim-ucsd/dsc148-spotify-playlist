@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana, Rels B",
-  "num_followers": 990066,
+  "num_followers": 990175,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDQ4NzM1MWJiNTIyZDhlYzJmNmQ0N2ViNzY2MjIzZDI2NWQ2ZDU4",
+  "snapshot_id": "MCxiY2U3MmUzYzUyNGJjNmZhZGUyMjYwNDIxNmRiMmU0NTM0YTk3MWNl",
   "tracks": [
     {
       "added_at": "2023-08-28 11:17:41",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-08-28 11:17:41",
       "album": {
+        "name": "DE LUNES A LUNES",
+        "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "DE LUNES A LUNES",
+      "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
+    },
+    {
+      "added_at": "2023-08-28 11:17:41",
+      "album": {
         "name": "D\u00e9jalo En Visto",
         "url": "https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 201044,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/2q3rW2AraFNeMCpOsqKRRB"
-    },
-    {
-      "added_at": "2023-08-28 11:17:41",
-      "album": {
-        "name": "DE LUNES A LUNES",
-        "url": "https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "DE LUNES A LUNES",
-      "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
     },
     {
       "added_at": "2023-08-28 11:17:41",
@@ -1111,26 +1111,18 @@
     {
       "added_at": "2023-08-28 11:17:41",
       "album": {
-        "name": "Frenes\u00ed",
-        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
+        "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
+        "url": "https://open.spotify.com/album/0bM0pHTfKHh5BcNpxcvuFw"
       },
       "artists": [
         {
-          "name": "Danny Romero",
-          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
-        },
-        {
-          "name": "Fabbio",
-          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
-        },
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 204492,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
+      "duration_ms": 170600,
+      "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
+      "url": "https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl"
     },
     {
       "added_at": "2023-08-28 11:17:41",
@@ -1151,18 +1143,26 @@
     {
       "added_at": "2023-08-28 11:17:41",
       "album": {
-        "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
-        "url": "https://open.spotify.com/album/0bM0pHTfKHh5BcNpxcvuFw"
+        "name": "Frenes\u00ed",
+        "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Danny Romero",
+          "url": "https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM"
+        },
+        {
+          "name": "Fabbio",
+          "url": "https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
         }
       ],
-      "duration_ms": 170600,
-      "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
-      "url": "https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl"
+      "duration_ms": 204492,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
     },
     {
       "added_at": "2023-08-28 11:17:41",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-28 11:17:41",
       "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/241E4UnDjEnTS7KUGvPxCT"
-      },
-      "artists": [
-        {
-          "name": "Ainoa Buitrago",
-          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
-        }
-      ],
-      "duration_ms": 179542,
-      "name": "TE QUIERO",
-      "url": "https://open.spotify.com/track/3joDSTDSPrKoEB1TxCFDHv"
-    },
-    {
-      "added_at": "2023-08-28 11:17:41",
-      "album": {
         "name": "Oye Baby",
         "url": "https://open.spotify.com/album/6N2Gr1KqfA69oL8Xeu2v0d"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 135262,
       "name": "Oye Baby",
       "url": "https://open.spotify.com/track/3oAhnCXtDYMFyjCDRu7Glg"
+    },
+    {
+      "added_at": "2023-08-28 11:17:41",
+      "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/241E4UnDjEnTS7KUGvPxCT"
+      },
+      "artists": [
+        {
+          "name": "Ainoa Buitrago",
+          "url": "https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7"
+        }
+      ],
+      "duration_ms": 179542,
+      "name": "TE QUIERO",
+      "url": "https://open.spotify.com/track/3joDSTDSPrKoEB1TxCFDHv"
     },
     {
       "added_at": "2023-08-28 11:17:41",

@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 232571,
       "name": "A Friend Like You",
       "url": "https://open.spotify.com/track/2sqlp1pcVhCR4rGPHie3bF"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 145219,
       "name": "CUTIE",
       "url": "https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC"
@@ -10186,7 +10186,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 345943,
       "name": "Nothing And Everything",
       "url": "https://open.spotify.com/track/0Wg3WsiL8g0mfbmrysUo2w"
@@ -14147,6 +14147,24 @@
     },
     {
       "album": {
+        "name": "To summer didn\u2019t shine for us",
+        "url": "https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179571,
+      "name": "To summer didn\u2019t shine for us",
+      "url": "https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l"
+    },
+    {
+      "album": {
         "name": "Toast",
         "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
       },
@@ -14162,6 +14180,24 @@
       "duration_ms": 154105,
       "name": "Toast",
       "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "TOGETHER!",
+      "url": "https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1"
     },
     {
       "album": {
@@ -15802,7 +15838,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 412000,
       "name": "YANG KAU HINDARI TERJADI",
       "url": "https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB"

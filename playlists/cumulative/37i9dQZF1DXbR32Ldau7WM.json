@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock bands/artists in Japan right now! Cover: THE SPELLBOUND",
+  "description": "The biggest rock bands/artists in Japan right now! Cover: GRAPEVINE",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -652,6 +652,24 @@
       "duration_ms": 206999,
       "name": "Better Left Unsaid",
       "url": "https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH"
+    },
+    {
+      "album": {
+        "name": "Bitter Sweet",
+        "url": "https://open.spotify.com/album/6FKtwyMZi2YeQsQPAvKzo2"
+      },
+      "artists": [
+        {
+          "name": "D'ERLANGER",
+          "url": "https://open.spotify.com/artist/0nYrpm7D3gcQEcP7i84ABO"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218263,
+      "name": "Bitter Sweet",
+      "url": "https://open.spotify.com/track/3vZs0XaH2UZTG5oBHCunKZ"
     },
     {
       "album": {
@@ -1791,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "EMA (alt ver.)",
+        "url": "https://open.spotify.com/album/2eU4oSMy8U0s80C1Y96hIC"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "EMA (alt ver.)",
+      "url": "https://open.spotify.com/track/3RgRthwq2xYgJ8ysOVzblu"
+    },
+    {
+      "album": {
         "name": "Intergalactic",
         "url": "https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2"
       },
@@ -2767,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6R0xlPxbRThYm3Xc3teGNF"
+      },
+      "artists": [
+        {
+          "name": "HOTEI",
+          "url": "https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241093,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2UeeixjhUudFsmKTU1jEXl"
+    },
+    {
+      "album": {
         "name": "AXIS",
         "url": "https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ"
       },
@@ -3308,7 +3362,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 173282,
       "name": "Kaiho Carnival",
       "url": "https://open.spotify.com/track/3zxvC1onsj0MzcFSrM241u"
@@ -3640,7 +3694,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 180211,
       "name": "Let Me Let You Go",
       "url": "https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw"
@@ -3982,7 +4036,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 261385,
       "name": "LOVE ROCKETS",
       "url": "https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi"
@@ -7601,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "Ub(You bet on it)",
+        "url": "https://open.spotify.com/album/6GKmhzJBNPlLfEuCQT8n1m"
+      },
+      "artists": [
+        {
+          "name": "GRAPEVINE",
+          "url": "https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243835,
+      "name": "Ub(You bet on it)",
+      "url": "https://open.spotify.com/track/2ngC902SQTz5T5asA3sj8n"
+    },
+    {
+      "album": {
         "name": "UGOKE",
         "url": "https://open.spotify.com/album/7Cd0pDNe1s5qhk5EsKvsRj"
       },
@@ -8636,7 +8708,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 276588,
       "name": "\u304a\u3082\u3044\u3064\u304f\u304b\u304e\u308a\u306e\u3059\u3079\u3066",
       "url": "https://open.spotify.com/track/01EbADTLRUtT9qvfmSXxan"
@@ -11196,7 +11268,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 89563,
       "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
       "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
@@ -13031,6 +13103,24 @@
     },
     {
       "album": {
+        "name": "Version 5.0",
+        "url": "https://open.spotify.com/album/5E257eQJYcjeqPapr7JSHr"
+      },
+      "artists": [
+        {
+          "name": "WANDS",
+          "url": "https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217075,
+      "name": "\u7a7a\u3078\u5411\u304b\u3046\u6728\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/6Gv6FWMPMipoJPgMbSdQWT"
+    },
+    {
+      "album": {
         "name": "\u7a93\u306e\u4e2d\u304b\u3089",
         "url": "https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd"
       },
@@ -13042,7 +13132,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 399418,
       "name": "\u7a93\u306e\u4e2d\u304b\u3089",
       "url": "https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7"
@@ -13266,6 +13356,24 @@
       "duration_ms": 267363,
       "name": "\u8703\u6c17\u697c",
       "url": "https://open.spotify.com/track/2pedGdJaB5160FLTCCz2g2"
+    },
+    {
+      "album": {
+        "name": "\u5f0f\u65e5\u6563\u82b1",
+        "url": "https://open.spotify.com/album/5UwYVbkJL3whWkNQIkLGpa"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "\u8972\u6483",
+      "url": "https://open.spotify.com/track/4lKGembiDBdYHSCWfxOKIQ"
     },
     {
       "album": {

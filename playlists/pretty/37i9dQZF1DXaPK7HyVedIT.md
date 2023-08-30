@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,856 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,964 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 7 | [The Sound Of San Francisco \- 2023 Brazil Mix](https://open.spotify.com/track/6tkJc0PnU2srkTzczhzUYO) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Sound Of San Francisco \(2023 Brazil Mix\)](https://open.spotify.com/album/3ycvr7h9pmQUloGCwRzyt1) | 2:20 |
 | 8 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 | 9 | [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 |
-| 10 | [RIOT](https://open.spotify.com/track/7gVupg9e91rPs7jmWG1otP) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/1VlD4nQefFpgAlw3eQdPOq) | 3:02 |
+| 10 | [RIOT](https://open.spotify.com/track/3M9Ec4VZNCTXgXgpoFHgxj) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/4v3soxxbbiKWfdIrSExxNH) | 3:02 |
 | 11 | [The Way You Lie](https://open.spotify.com/track/2pKSx4iITnvmewjPzsAu8l) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Way You Lie](https://open.spotify.com/album/7s1z9ixqcgzAu8HvOYvilP) | 2:41 |
 | 12 | [Chaos 32](https://open.spotify.com/track/1FkbT2goO7NBjyJzrV6b9K) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Chaos 32](https://open.spotify.com/album/17appExbNIbdc4aPRcAZ6E) | 1:50 |
 | 13 | [Groovemasta](https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Groovemasta / Beat It Up](https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J) | 4:12 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 65 | [Genie in a Bottle](https://open.spotify.com/track/1PBh9mw1ROf1vxuKWJ4zTg) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Genie in a Bottle](https://open.spotify.com/album/6EI31wxrHDbGEWegbXohiE) | 2:24 |
 | 66 | [Mami Mami](https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Mami Mami](https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85) | 2:01 |
 
-Snapshot ID: `MCxkMzI4Y2YzMWMyYTk4NjY5MDk5YjU1Y2M4OWM5OGRlMmUxNGRjNWRk`
+Snapshot ID: `MCwzNDMzNDkzZDE2MjVmZDE0NTcyM2EzNzNmZmEwMzAzMWYyM2NlN2Vk`

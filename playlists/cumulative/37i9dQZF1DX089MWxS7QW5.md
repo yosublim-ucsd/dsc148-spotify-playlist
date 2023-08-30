@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Izykite\(이지카이트\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: oceanfromtheblue\)
 
-224 songs - 12 hr 41 min
+226 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A to Z](https://open.spotify.com/track/3XwXsckFbi3WjsI4SYcOdp) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:50 | 2023-02-14 | 2023-08-18 |
 | [a u r o r a ✧ \(feat\. sooon\)](https://open.spotify.com/track/0B5Q4mi41Ht5xYTpIaXpyf) | [sweetch](https://open.spotify.com/artist/3PS40CD9LRfOPNoDMqns9L), [sooon](https://open.spotify.com/artist/3GemDSocaoRcYZeDHBdmHO) | [light \#1](https://open.spotify.com/album/39YKRrb64v8yPpD25dSPra) | 3:28 | 2022-11-08 | 2023-03-28 |
 | [About Us \(Feat\. Filipe Santos\)](https://open.spotify.com/track/45E8aSa1AI4Yyd0XClOGpu) | [vvav](https://open.spotify.com/artist/7yphCtMHUx2eL5hHrpQnGx), [Filipe Santos](https://open.spotify.com/artist/6ZiJkBamnBr4DjuJ79thgP) | [About Us](https://open.spotify.com/album/0LhNmfYsvEH53AnyyUVCE4) | 3:16 | 2022-05-28 | 2022-07-08 |
+| [Adulting](https://open.spotify.com/track/6loqQEv0DKuPc4ztKG4gAR) | [Aylah](https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP) | [Comely](https://open.spotify.com/album/6yjwtup5l6X1YFEGfXtxNk) | 2:40 | 2023-08-29 |  |
 | [After you’ve gone](https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [After you’ve gone](https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey) | 3:50 | 2022-08-02 | 2023-01-14 |
 | [AhChoo!](https://open.spotify.com/track/6wIZ0Yct9aMra5kHMDk5mG) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [AhChoo!](https://open.spotify.com/album/07X66xfc5A1CWDzgHRs2gU) | 2:55 | 2022-05-28 | 2022-08-19 |
 | [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 | 2023-05-05 |  |
@@ -124,6 +125,7 @@
 | [LEMON \(Feat\. SOLE, MINO\)](https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [LEMON](https://open.spotify.com/album/6zfZDAVgp6WPIKkg1b0tdF) | 3:20 | 2023-03-30 |  |
 | [Let me know \(Feat\. YEOHO\)](https://open.spotify.com/track/2canhObXy3qADDzIDMqtf5) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Trello](https://open.spotify.com/album/1TSNJCcZXubDO54usy3hQ6) | 2:59 | 2023-08-16 |  |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-07 | 2022-11-15 |
+| [Lokuko \(feat\. Kid Wine\)](https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [NEWRNBERA](https://open.spotify.com/album/1EWG73KSFYGrnZ3InrANPo) | 3:16 | 2023-08-29 |  |
 | [Loner \(Feat\. g0nny\)](https://open.spotify.com/track/5z71sbduBfZcSWdgdx4Gfk) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Loner \(Feat\. g0nny\)](https://open.spotify.com/album/1n6h9eUFPgRcDVxPxy40CT) | 3:33 | 2022-10-28 | 2023-01-11 |
 | [Look at the Sky](https://open.spotify.com/track/2xCb6yQWQexnqBj15IU6sh) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Look at the Sky \(Single Edition 3\)](https://open.spotify.com/album/3qfywpeo4Jch6bALjKWdYn) | 4:07 | 2022-05-28 | 2022-07-06 |
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-09-06 |

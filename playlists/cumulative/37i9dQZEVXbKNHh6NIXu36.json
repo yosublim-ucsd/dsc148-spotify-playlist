@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
@@ -20615,6 +20615,24 @@
     },
     {
       "album": {
+        "name": "Naomi",
+        "url": "https://open.spotify.com/album/0zps5by4Tc7NYgpNDam4Eo"
+      },
+      "artists": [
+        {
+          "name": "Gardien & Schumii",
+          "url": "https://open.spotify.com/artist/0ZMS82WVItdgMs5zm2WsIW"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209797,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/2BSmhEzgVR3R6G5Nx97kzt"
+    },
+    {
+      "album": {
         "name": "Sonny Black 2",
         "url": "https://open.spotify.com/album/1s8z509klXIjrfYqV6qC4B"
       },
@@ -24694,7 +24712,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 152195,
       "name": "Reminds Me Of You",
       "url": "https://open.spotify.com/track/762jSO6S09ufQ5ZfD6JmDk"
@@ -24894,7 +24912,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -25834,7 +25852,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 189800,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n"
@@ -29258,6 +29276,28 @@
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "album": {
+        "name": "The Feeling (Remix Pack)",
+        "url": "https://open.spotify.com/album/2upRxot9PsC3mletR2gbb7"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194831,
+      "name": "The Feeling - Lost Frequencies & Andromedik Deluxe Mix",
+      "url": "https://open.spotify.com/track/3rFHJDslBgt9rHu8p22aFN"
     },
     {
       "album": {

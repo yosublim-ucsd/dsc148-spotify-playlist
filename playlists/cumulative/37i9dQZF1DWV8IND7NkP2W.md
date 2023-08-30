@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-648 songs - 1 day 5 hr 8 min
+649 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Arigato Mama](https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce) | 3:09 | 2023-05-11 |  |
 | [ARUKAS](https://open.spotify.com/track/2Xz31K3sBzPdec0AE696Jl) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [ARUKAS](https://open.spotify.com/album/33OiJXL1eRdwzz9nmjQyRA) | 5:41 | 2022-01-06 | 2022-07-28 |
 | [ARUKAS](https://open.spotify.com/track/6JZvi1dibOiGyJ8yBsGYUq) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Garden](https://open.spotify.com/album/7x5O7JrQUeqy45LEDkxXW5) | 5:41 | 2022-12-01 | 2023-03-27 |
+| [August](https://open.spotify.com/track/70k46TfLjn6qblZCUCf9bH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4), [Chillin' Spot](https://open.spotify.com/artist/2m2qscBJxMvD2sWSijVHwd) | [August](https://open.spotify.com/album/5wzbMXEUG0Nk5tPmzWceiS) | 3:49 | 2023-08-29 |  |
 | [August](https://open.spotify.com/track/0My6Dyc0r3CmybSjOS925M) | [Qindnesic](https://open.spotify.com/artist/2Nt6Q3Rj1de4HX7jn1NOba) | [August](https://open.spotify.com/album/2cibXowpQl5M6R4AC1x9MY) | 2:14 | 2022-01-06 | 2022-07-25 |
 | [Awash](https://open.spotify.com/track/52yJEEIQMe7WbhGGqR8myV) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Nutrients](https://open.spotify.com/album/7ApnDVqkJTEWUB7ye95jVd) | 1:54 | 2022-01-13 | 2022-07-08 |
 | [B\-Boy Meets B\-Girl](https://open.spotify.com/track/5n0NIb4O98klpL6E0vSs0F) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0) | [B\-Boy Meets B\-Girl](https://open.spotify.com/album/5ORiWIvK84Z1wE5V5o2jEe) | 4:24 | 2022-07-21 | 2022-07-29 |
@@ -515,7 +516,7 @@
 | [sleeping](https://open.spotify.com/track/6vLM2Mnx7TSprGz0sN5lsl) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [sleeping](https://open.spotify.com/album/4pt1aDvcYSMz2UIFpyLkTT) | 3:09 | 2021-12-23 | 2022-07-29 |
 | [Slice](https://open.spotify.com/track/7rwCEAFT5ffObK2pWxx3d7) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [Slice](https://open.spotify.com/album/6JKDszJZhXoXUptZLfeL9I) | 2:41 | 2022-01-13 | 2022-04-30 |
 | [Sliding Doors](https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sliding Doors](https://open.spotify.com/album/0UeWO6sRVzCZba6R69kBRO) | 2:09 | 2022-01-06 | 2023-07-14 |
-| [Slow Jam](https://open.spotify.com/track/4Vobs6itOWf1ylmTfu1IMd) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Little Bit Blues](https://open.spotify.com/album/75VH43yE690hoaEvImFv5T) | 1:40 | 2023-03-23 |  |
+| [Slow Jam](https://open.spotify.com/track/4Vobs6itOWf1ylmTfu1IMd) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Little Bit Blues](https://open.spotify.com/album/75VH43yE690hoaEvImFv5T) | 1:40 | 2023-03-23 | 2023-08-30 |
 | [Smiling World](https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Smiling World](https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS) | 2:06 | 2022-01-06 |  |
 | [SMOKY BANANA](https://open.spotify.com/track/2CKC1hxTqsasAycaaHFptf) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Fruit Panaché Tape](https://open.spotify.com/album/7kmQIiVm8pO92iiUiuUKlo) | 3:22 | 2022-01-13 | 2022-05-30 |
 | [snow in the park](https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [snow in the park](https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3) | 3:18 | 2021-12-23 | 2022-12-24 |

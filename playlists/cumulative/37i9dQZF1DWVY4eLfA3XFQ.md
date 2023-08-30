@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Andruss
 
-1,244 songs - 2 day 23 hr 43 min
+1,245 songs - 2 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Get Mad](https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Get Mad](https://open.spotify.com/album/2wfPevhgjDq94RcShPIfL2) | 3:45 | 2023-04-07 | 2023-06-01 |
 | [Get Real High](https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Get Real High](https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p) | 3:06 | 2023-04-28 | 2023-08-12 |
 | [Ghost \- Cloverdale Remix](https://open.spotify.com/track/4sd13Wkerj62pdgkMHBBUd) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Ghost \- Cloverdale Remix](https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW) | 3:24 | 2022-05-06 | 2022-06-04 |
-| [Gibberish](https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Gibberish](https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq) | 2:33 | 2023-06-02 |  |
+| [Gibberish](https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Gibberish](https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq) | 2:33 | 2023-06-02 | 2023-08-30 |
 | [Gimme More](https://open.spotify.com/track/34j6PD501kYByTTjWtYjOl) | [Jaksan](https://open.spotify.com/artist/62kJlPY22K322WwqspIIec) | [Gimme More](https://open.spotify.com/album/1iDSLPZqq0diRa0tMPFR97) | 3:35 | 2022-04-22 | 2022-07-09 |
 | [Gimme Some Keys \- Tom & Collins Remix](https://open.spotify.com/track/5tduGasgVWxKsezC3xzAYg) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Gimme Some Keys \(Remixes\)](https://open.spotify.com/album/0DCYwEDewo2R9GbzwueiN6) | 3:12 | 2022-12-16 | 2023-02-04 |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-01-27 | 2023-05-20 |
@@ -682,6 +682,7 @@
 | [Metaphysical \(feat\. Bipolar Sunshine\)](https://open.spotify.com/track/1iD9Iftc9ptjqycUNTxCQw) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Metaphysical \(feat\. Bipolar Sunshine\)](https://open.spotify.com/album/7MRab4I8gcv1RLVpNJ4B4c) | 3:12 | 2022-10-07 | 2023-04-22 |
 | [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2021-11-26 | 2022-01-06 |
 | [Mi Corazón](https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Mi Corazón](https://open.spotify.com/album/2pkTafpbdFPdC1tEDeZfCo) | 3:07 | 2022-02-25 | 2022-06-18 |
+| [Miami](https://open.spotify.com/track/5B6UaQ9YMeL8tjeJx5pp3D) | [Lekota](https://open.spotify.com/artist/4DXQ3UFHciEdLjwwJe3gEU), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Miami](https://open.spotify.com/album/5wcIhftmcdts35b5flSXfP) | 3:39 | 2023-08-11 |  |
 | [Mic Rock](https://open.spotify.com/track/6KMaAGryHWdddXqteE3B4K) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Mic Rock](https://open.spotify.com/album/5cgOp4B4L4QFtQa46ySIye) | 3:09 | 2022-09-09 | 2022-10-29 |
 | [Midnight Dancer](https://open.spotify.com/track/0LRshqJ0jIzQXIzSqIPsEt) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Midnight Dancer](https://open.spotify.com/album/5C2U7iLuip83fseS5ZQa4h) | 4:00 | 2021-11-26 | 2022-01-06 |
 | [Mine To Give](https://open.spotify.com/track/4MhtTGIHqEUzJ2tfKNDPyq) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Solaris](https://open.spotify.com/album/3gHlQ2mYGcwVoqnhcVQUCo) | 6:41 | 2022-12-28 | 2023-01-06 |

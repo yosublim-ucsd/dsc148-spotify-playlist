@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: King Calaway
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,882 likes - 167 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,903 likes - 167 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 109 | [THE DRILL](https://open.spotify.com/track/7FdVVD2WD45K7gLnN3ly41) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [THE DRILL](https://open.spotify.com/album/0YK0h0tRUflzEx4LrmjcSg) | 3:31 |
 | 110 | [Take Me Home](https://open.spotify.com/track/1I0feQSDS1NraRdSFTpAIO) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Take Me Home](https://open.spotify.com/album/1s5YEE17J1ZqCkcSnpxO9A) | 3:25 |
 | 111 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 |
-| 112 | [Broke It Down](https://open.spotify.com/track/6ZdihJGxUzaM8BHCpSWLxO) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down](https://open.spotify.com/album/6qRYlTlWMwzlhGqiE9w7yR) | 3:21 |
+| 112 | [Broke It Down \- Remastered](https://open.spotify.com/track/7g3XsZcztJW1i7pD3RacWt) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down \(Remastered\)](https://open.spotify.com/album/4kb0SKbENUF550V4mMo1b3) | 3:21 |
 | 113 | [Truth Is](https://open.spotify.com/track/583ttvNmwL6fX30F5VYlc0) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Truth Is](https://open.spotify.com/album/1IF0OBglPImicWSoaPyESK) | 2:58 |
 | 114 | [Fix You Too](https://open.spotify.com/track/5omVNcqZuJUeAP6WUOMaXA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:07 |
 | 115 | [I Could Use A Drink](https://open.spotify.com/track/26754eQNqDxCnQWwLoqFoD) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [I Could Use A Drink](https://open.spotify.com/album/2ROQ9qQLVrAPsJ5R4SSoGt) | 3:05 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 166 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 167 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCwyZWI3ZjRmNTY4MTcxMmM0MGZkYmNmMzM5OGEwNDU0YmUzNDM5YWYy`
+Snapshot ID: `MCxmMWE1ZjgzM2Q2ODA0YjJlOWYwMjQxNzI4NzA0ZWVhMTVkY2Q4ZTI1`

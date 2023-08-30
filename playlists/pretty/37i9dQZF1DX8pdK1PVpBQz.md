@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: WHO SHOT SCOTT\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,376 likes - 112 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,390 likes - 112 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 111 | [RTF](https://open.spotify.com/track/0hB0ue8ahXRdh1rmbWDcEj) | [Beso Palma](https://open.spotify.com/artist/02v3H49YbNJx59EgaiLL6G) | [RTF](https://open.spotify.com/album/5RPc1yWKSptqiL9OTePw61) | 3:12 |
 | 112 | [Blind Surgeon](https://open.spotify.com/track/4TIiK2i7PFlHFTYEgb40Sj) | [THEÅDORE](https://open.spotify.com/artist/5g77htaAYDVJnQ70hBkdR1) | [Blind Surgeon](https://open.spotify.com/album/78Nr3p7YcQw1jjDl38VWYM) | 3:30 |
 
-Snapshot ID: `MCw4ODk2NjBhNDAxZDhjYTZmYzg5OTlmNmM1NGE0OWVmODJhZDMzNzBl`
+Snapshot ID: `MCxlZTRjZmU5NWUyZTgzYTU3OTlmYTI3MGRiNWY5NDhlMjU2ZTQ3YzJm`

@@ -2,7 +2,7 @@
 
 ### [Metalcore Classics](https://open.spotify.com/playlist/37i9dQZF1DX6P51sFpSo2r)
 
-> The perfect mix between old\-school and modern Metalcore\. Cover: Bullet For My Valentine
+> The perfect mix between old\-school and modern Metalcore\. Cover: Avenged Sevenfold
 
 80 songs - 5 hr 17 min
 

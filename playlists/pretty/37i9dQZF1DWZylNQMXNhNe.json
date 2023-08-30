@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Kika Boom, Kaya Conky",
-  "num_followers": 222986,
+  "num_followers": 223000,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjAwYWFjYWFmNWNkYTgzZmY5OWFkY2Y4YmE3ZWVhOTA4MGQ1MGZl",
+  "snapshot_id": "MCxhZWQzYzU5NGUxNTcyYzg3ZjYyODZjODI4ODI3NmNmOTk2MWJmMTA3",
   "tracks": [
     {
       "added_at": "2023-08-04 16:31:13",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-04 16:31:13",
       "album": {
-        "name": "TAQUEI",
-        "url": "https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv"
-      },
-      "artists": [
-        {
-          "name": "Kika Boom",
-          "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
-        }
-      ],
-      "duration_ms": 120242,
-      "name": "TAQUEI",
-      "url": "https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1"
-    },
-    {
-      "added_at": "2023-08-04 16:31:13",
-      "album": {
         "name": "BRINCA COM A...",
         "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 182709,
       "name": "BRINCA COM A...",
       "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
+    },
+    {
+      "added_at": "2023-08-04 16:31:13",
+      "album": {
+        "name": "TAQUEI",
+        "url": "https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv"
+      },
+      "artists": [
+        {
+          "name": "Kika Boom",
+          "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
+        }
+      ],
+      "duration_ms": 120242,
+      "name": "TAQUEI",
+      "url": "https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1"
     },
     {
       "added_at": "2023-08-04 16:31:13",

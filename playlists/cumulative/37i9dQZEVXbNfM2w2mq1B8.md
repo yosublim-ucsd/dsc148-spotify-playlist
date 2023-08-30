@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,207 songs - 2 day 19 hr 55 min
+1,208 songs - 2 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2021-05-23 | 2021-05-24 |
 | [100 zhivota](https://open.spotify.com/track/2rFZhVHWOwDxAy59qLUzLy) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [100 zhivota](https://open.spotify.com/album/6AsPohoipqH8MK3lYwYErf) | 4:13 | 2021-04-19 | 2022-01-04 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-03-08 | 2023-03-10 |
-| [117](https://open.spotify.com/track/4dlvu78hiWiAdaFHZSDsF3) | [Papi Hans](https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY) | [117](https://open.spotify.com/album/3PQnZ0sHy2XaXxeR0ujMUr) | 3:30 | 2023-04-21 |  |
+| [117](https://open.spotify.com/track/4dlvu78hiWiAdaFHZSDsF3) | [Papi Hans](https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY) | [117](https://open.spotify.com/album/3PQnZ0sHy2XaXxeR0ujMUr) | 3:30 | 2023-04-21 | 2023-08-30 |
 | [15 септември](https://open.spotify.com/track/5zZcV0deppwR9Vra2AIG5J) | [Grigovor](https://open.spotify.com/artist/0zPqnt6HE9KMcndhYl0U9R), [Gena](https://open.spotify.com/artist/3MqzFFAm4gc6nzAcWE2gjT) | [Цех Депресия](https://open.spotify.com/album/76ARQ8ww7bG6Gi9VXYpMli) | 3:47 | 2021-09-12 | 2021-09-18 |
 | [2,3,4,5](https://open.spotify.com/track/2g0jnPzeSYh9wcYmWW6hGx) | [VessoU](https://open.spotify.com/artist/0Ir6FZsHm17HwKqLAaTz2B) | [2,3,4,5](https://open.spotify.com/album/4Oe6FNebS1lTEvnlzQ8vqF) | 3:57 | 2022-01-31 | 2022-03-15 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-08-17 | 2021-10-30 |
@@ -198,6 +198,7 @@
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-03 |  |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:41 | 2022-12-04 | 2022-12-09 |
 | [Crown](https://open.spotify.com/track/2IwbW2jd0Ncv99Aroe77Ru) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:24 | 2022-05-14 | 2022-05-16 |
+| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-29 |  |
 | [Crush Em](https://open.spotify.com/track/11pn4LFXCIXyprWQk8RSlM) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:45 | 2023-07-01 | 2023-07-03 |
 | [Cry Your Heart Out](https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 4:15 | 2021-11-21 | 2021-11-22 |
 | [Crying Lightning](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:44 | 2022-08-13 | 2022-08-15 |
@@ -832,7 +833,7 @@
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-10-16 |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2021-04-06 | 2021-04-07 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-31 |
-| [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-26 |  |
+| [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-08-26 | 2023-08-30 |
 | [SIR BAUDELAIRE \(feat\. DJ Drama\)](https://open.spotify.com/track/4ydmav4vl7hebadtfZtMrg) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 1:28 | 2021-06-27 | 2021-06-28 |
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-08-02 |
 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 | 2021-04-18 | 2021-04-19 |
@@ -1123,7 +1124,7 @@
 | [Има кой](https://open.spotify.com/track/2P06Kf0MWVRPQ0n1PQWEba) | [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Има кой](https://open.spotify.com/album/2Cg9b4OZogb6ETnVKf197m) | 3:30 | 2022-07-29 | 2022-07-31 |
 | [Името ти](https://open.spotify.com/track/2UPWn6Sjpmbq9FT8TXZkCp) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [Името ти](https://open.spotify.com/album/6bXmjXUSflFKl42TejDZoR) | 3:10 | 2023-04-01 | 2023-07-23 |
 | [Името ти](https://open.spotify.com/track/5NiOXQipgtTWT7BSDJz8eg) | [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u) | [Името ти](https://open.spotify.com/album/7Jh9LuSFGZOghAGvFPsyTD) | 3:11 | 2023-03-25 | 2023-08-09 |
-| [Инсомния](https://open.spotify.com/track/5YUoAdftTG918Oxq13bNEW) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Инсомния](https://open.spotify.com/album/7blZ4R0nhWS7agy1p2ByYM) | 3:38 | 2023-08-21 | 2023-08-28 |
+| [Инсомния](https://open.spotify.com/track/5YUoAdftTG918Oxq13bNEW) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Инсомния](https://open.spotify.com/album/7blZ4R0nhWS7agy1p2ByYM) | 3:38 | 2023-08-21 |  |
 | [Искат Да Падна](https://open.spotify.com/track/4P0FfsXHy77aIzR4HJCuZV) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Искат Да Падна](https://open.spotify.com/album/5hJfnjxVdAezOzSmnTcpeE) | 3:34 | 2022-01-18 | 2022-02-13 |
 | [К'ъв съм як](https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [К'ъв съм як](https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl) | 3:15 | 2023-07-31 |  |
 | [Какво ми трябва](https://open.spotify.com/track/3B7LBJdFeaTFL9url5b7uG) | [Alex Robov](https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA) | [Какво ми трябва](https://open.spotify.com/album/55fjHXPiPhm0icSHiELVSp) | 3:02 | 2023-04-28 | 2023-05-16 |

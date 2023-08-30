@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 65972,
+  "num_followers": 66013,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDFlNDVjZTU0OTRhZThjZmViNzlhMWE4NmU3MjRmMDdjNzI0ODdk",
+  "snapshot_id": "MCw0NjY3MzU5NDg4NzU3ZGMxMmNjOTdkMmVlYjRhNGUyMzVlOTdhZmNk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "KicK iii",
+        "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 141364,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 185625,
       "name": "Strut",
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "KicK iii",
-        "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 141364,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "One More",
-        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 202537,
-      "name": "One More",
-      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 283424,
       "name": "Heaven Scent",
       "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 202537,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Pick Up (Even Shorter Version)",
-        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Pick Up - Even Shorter Version",
-      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "ANIMA",
         "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 317986,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Pick Up (Even Shorter Version)",
+        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Pick Up - Even Shorter Version",
+      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Burner",
+        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 308858,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Burner",
-        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 308858,
-      "name": "Burner",
-      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 321000,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Fuck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "Fuck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 216706,
       "name": "Beograd - Edit",
       "url": "https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Fuck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "Fuck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2023-07-07 04:00:00",

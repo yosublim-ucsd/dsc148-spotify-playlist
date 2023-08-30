@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,670 likes - 115 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,669 likes - 115 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 68 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 |
 | 69 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
 | 70 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
-| 71 | [For What It's Worth](https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [For What It's Worth](https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji) | 3:18 |
-| 72 | [The Middle](https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [The Middle](https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW) | 3:43 |
-| 73 | [Coming Around Again](https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Coming Around Again](https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl) | 3:34 |
+| 71 | [The Middle](https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [The Middle](https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW) | 3:43 |
+| 72 | [For What It's Worth](https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [For What It's Worth](https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji) | 3:18 |
+| 73 | [Let Down](https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Let Down](https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP) | 3:57 |
 | 74 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
-| 75 | [Let Down](https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Let Down](https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP) | 3:57 |
+| 75 | [Coming Around Again](https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Coming Around Again](https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl) | 3:34 |
 | 76 | [Sparks](https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Sparks](https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG) | 3:38 |
 | 77 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
 | 78 | [Free Fallin'](https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Free Fallin'](https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX) | 4:51 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 89 | [Hello Sunshine](https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4), [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [Other People's Songs Volume One](https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On) | 3:04 |
 | 90 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 |
 | 91 | [Cotton Eye Joe](https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Covers, Ch\. 1](https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8) | 2:39 |
-| 92 | [My Happiness \(feat\. Fiona Prine\)](https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Fiona Prine](https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI) | [For Better, Or Worse](https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT) | 2:55 |
-| 93 | [To Ramona](https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [To Ramona](https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU) | 3:37 |
+| 92 | [To Ramona](https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [To Ramona](https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU) | 3:37 |
+| 93 | [My Happiness \(feat\. Fiona Prine\)](https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Fiona Prine](https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI) | [For Better, Or Worse](https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT) | 2:55 |
 | 94 | [Pink Moon](https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 2:25 |
 | 95 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
 | 96 | [Fade into You](https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX) | [Korey Dane](https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf) | [Fade into You](https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl) | 4:34 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS) | [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Southern Family](https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x) | [Southern Family](https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi) | 6:13 |
 | 115 | [There Is A War \[Feat\. Kevin Morby & Sam Cohen\]](https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Sam Cohen](https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP) | [There Is A War \[Feat\. Kevin Morby & Sam Cohen\]](https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP) | 3:42 |
 
-Snapshot ID: `MCw1N2YyZTNlYmJmYTA3M2RiNDUzZTYwMDFlZDIwMWI1YjIxOGFlM2M4`
+Snapshot ID: `MCw5MGQ1ODU0ZGY0MGIzYjM3MmNmZTFkZGZkNDkyNjlmOGM3NDFhNTAx`

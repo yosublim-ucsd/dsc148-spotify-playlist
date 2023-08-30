@@ -1,12 +1,12 @@
 {
   "description": "A flow of white water noise, let go to the soothing rush of cascading waterfall sounds. ",
-  "num_followers": 7086,
+  "num_followers": 7121,
   "original_name": "Waterfall Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGIzNDNmNzMyNTNkNzVjODc4YWE0ZTFiYjkxNzRjZGE5YjgxY2Nm",
+  "snapshot_id": "MCw4ZTFjZjZjZjI4ZjlmMWY5OTJmMmFjOTA0OTQxMzRiNzViNDYwMDU4",
   "tracks": [
     {
       "added_at": "2023-06-19 11:07:49",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-06-19 11:07:49",
       "album": {
+        "name": "Waterfall in the distance",
+        "url": "https://open.spotify.com/album/2on28DnTVwyWX5gfG3G4dy"
+      },
+      "artists": [
+        {
+          "name": "Waterfall in the distance",
+          "url": "https://open.spotify.com/artist/4lcG2wz9oZuu1VdEcBG6Nj"
+        }
+      ],
+      "duration_ms": 184784,
+      "name": "Waterfall for Deep Sleep",
+      "url": "https://open.spotify.com/track/0F56cp7Le8p7iPydxUeTlJ"
+    },
+    {
+      "added_at": "2023-06-19 11:07:49",
+      "album": {
         "name": "Relaxing River",
         "url": "https://open.spotify.com/album/4BfNInTI5qDoJX4yRgh6mv"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": "2023-06-19 11:07:49",
       "album": {
-        "name": "At the Waterfall",
-        "url": "https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP"
-      },
-      "artists": [
-        {
-          "name": "Natural Waters",
-          "url": "https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD"
-        }
-      ],
-      "duration_ms": 144425,
-      "name": "Waterfall Stream",
-      "url": "https://open.spotify.com/track/6C8eyK8mC1cmqaTx99v36x"
-    },
-    {
-      "added_at": "2023-06-19 11:07:49",
-      "album": {
         "name": "White Noise Waterfall",
         "url": "https://open.spotify.com/album/2GDuZr3FnB4iuAx1SFdLB3"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 120374,
       "name": "White Noise Waterfall",
       "url": "https://open.spotify.com/track/3oHAizOmW93Q8eIZ3W0xg7"
+    },
+    {
+      "added_at": "2023-06-19 11:07:49",
+      "album": {
+        "name": "At the Waterfall",
+        "url": "https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP"
+      },
+      "artists": [
+        {
+          "name": "Natural Waters",
+          "url": "https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD"
+        }
+      ],
+      "duration_ms": 144425,
+      "name": "Waterfall Stream",
+      "url": "https://open.spotify.com/track/6C8eyK8mC1cmqaTx99v36x"
     },
     {
       "added_at": "2023-06-19 11:07:49",
@@ -347,22 +363,6 @@
     {
       "added_at": "2023-06-19 11:07:49",
       "album": {
-        "name": "Waterfall Sleep Noises",
-        "url": "https://open.spotify.com/album/6cyRxitvNynnQFZqkZLNuE"
-      },
-      "artists": [
-        {
-          "name": "Noise and Nature",
-          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
-        }
-      ],
-      "duration_ms": 262823,
-      "name": "Big Waterfall Noise",
-      "url": "https://open.spotify.com/track/0pO9qE6D7shEievEUJtCld"
-    },
-    {
-      "added_at": "2023-06-19 11:07:49",
-      "album": {
         "name": "Wilderness Trail",
         "url": "https://open.spotify.com/album/3C16hqCiTAmMeJVET66Mx0"
       },
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-06-19 11:07:49",
       "album": {
-        "name": "Winter Creek",
-        "url": "https://open.spotify.com/album/74Rv58s1O45Ct35N3BUpks"
+        "name": "Waterfall Sleep Noises",
+        "url": "https://open.spotify.com/album/6cyRxitvNynnQFZqkZLNuE"
       },
       "artists": [
         {
-          "name": "Water Meditations",
-          "url": "https://open.spotify.com/artist/1DPlfmeS7GBX9w1GvOqR6D"
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
         }
       ],
-      "duration_ms": 138948,
-      "name": "Clear Creek",
-      "url": "https://open.spotify.com/track/0LWU1WCVMmEP4Tgt94xI9q"
+      "duration_ms": 262823,
+      "name": "Big Waterfall Noise",
+      "url": "https://open.spotify.com/track/0pO9qE6D7shEievEUJtCld"
     },
     {
       "added_at": "2023-06-19 11:07:49",
@@ -407,6 +407,22 @@
       "duration_ms": 196000,
       "name": "Take Me Down the River",
       "url": "https://open.spotify.com/track/0dUdMzVlqyCZzrLr2eCkyB"
+    },
+    {
+      "added_at": "2023-06-19 11:07:49",
+      "album": {
+        "name": "Winter Creek",
+        "url": "https://open.spotify.com/album/74Rv58s1O45Ct35N3BUpks"
+      },
+      "artists": [
+        {
+          "name": "Water Meditations",
+          "url": "https://open.spotify.com/artist/1DPlfmeS7GBX9w1GvOqR6D"
+        }
+      ],
+      "duration_ms": 138948,
+      "name": "Clear Creek",
+      "url": "https://open.spotify.com/track/0LWU1WCVMmEP4Tgt94xI9q"
     },
     {
       "added_at": "2023-06-19 11:07:49",
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-06-19 11:07:49",
       "album": {
-        "name": "Waterfall in the distance",
-        "url": "https://open.spotify.com/album/2on28DnTVwyWX5gfG3G4dy"
-      },
-      "artists": [
-        {
-          "name": "Waterfall in the distance",
-          "url": "https://open.spotify.com/artist/4lcG2wz9oZuu1VdEcBG6Nj"
-        }
-      ],
-      "duration_ms": 184784,
-      "name": "Waterfall for Deep Sleep",
-      "url": "https://open.spotify.com/track/0F56cp7Le8p7iPydxUeTlJ"
-    },
-    {
-      "added_at": "2023-06-19 11:07:49",
-      "album": {
         "name": "Cascading Water",
         "url": "https://open.spotify.com/album/18pUis5CO7ljukwfgO9BI4"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-06-19 11:07:49",
       "album": {
+        "name": "Shallow River Sounds",
+        "url": "https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "duration_ms": 179452,
+      "name": "Laying by the River",
+      "url": "https://open.spotify.com/track/68YKMwrRM0oHatS3oRH8Lq"
+    },
+    {
+      "added_at": "2023-06-19 11:07:49",
+      "album": {
         "name": "Baby Sleep Pink Noise",
         "url": "https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 136698,
       "name": "Bright Waterfall",
       "url": "https://open.spotify.com/track/0uPc7gpCCNSRRoVab7lTeB"
-    },
-    {
-      "added_at": "2023-06-19 11:07:49",
-      "album": {
-        "name": "Shallow River Sounds",
-        "url": "https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00"
-      },
-      "artists": [
-        {
-          "name": "Outdoor Field Recorders",
-          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
-        }
-      ],
-      "duration_ms": 179452,
-      "name": "Laying by the River",
-      "url": "https://open.spotify.com/track/68YKMwrRM0oHatS3oRH8Lq"
     },
     {
       "added_at": "2023-06-19 11:07:49",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-19 11:07:49",
       "album": {
-        "name": "Meditation Waterfall",
-        "url": "https://open.spotify.com/album/78efjczcIzHjNV12gdwgku"
-      },
-      "artists": [
-        {
-          "name": "The Nature Songs",
-          "url": "https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF"
-        }
-      ],
-      "duration_ms": 211678,
-      "name": "Sleeping Waterfall",
-      "url": "https://open.spotify.com/track/2210L8BNV1VdyCfz4C1DlP"
-    },
-    {
-      "added_at": "2023-06-19 11:07:49",
-      "album": {
         "name": "Serene Waterfall",
         "url": "https://open.spotify.com/album/1chUKjNIU3dbDSPl9ny23T"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 175000,
       "name": "Serene Waterfall - Seamless",
       "url": "https://open.spotify.com/track/2cEZ7TKsBYpfbSpQKJh1T3"
+    },
+    {
+      "added_at": "2023-06-19 11:07:49",
+      "album": {
+        "name": "Meditation Waterfall",
+        "url": "https://open.spotify.com/album/78efjczcIzHjNV12gdwgku"
+      },
+      "artists": [
+        {
+          "name": "The Nature Songs",
+          "url": "https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF"
+        }
+      ],
+      "duration_ms": 211678,
+      "name": "Sleeping Waterfall",
+      "url": "https://open.spotify.com/track/2210L8BNV1VdyCfz4C1DlP"
     },
     {
       "added_at": "2023-06-19 11:07:49",

@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 180000,
       "name": "Ichi",
       "url": "https://open.spotify.com/track/0UkREomqApLByCfaqCkLIU"
@@ -4743,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "meringue doll",
+        "url": "https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253057,
+      "name": "meringue doll",
+      "url": "https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ"
+    },
+    {
+      "album": {
         "name": "Dance Fever (Complete Edition)",
         "url": "https://open.spotify.com/album/6a15PoOmOueHCdogzhHRbh"
       },
@@ -5018,7 +5036,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 229600,
       "name": "Mother\u2019s Broom - from 'Kiki's Delivery Service'",
       "url": "https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w"
@@ -8144,7 +8162,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 1370026,
       "name": "Wayfinder - Viola Concerto - (Ensemble Version)",
       "url": "https://open.spotify.com/track/1G9QsKn11TbI34XDiwCR5b"
@@ -8946,6 +8964,32 @@
       "duration_ms": 257906,
       "name": "\u30c1\u30a7\u30ed\u30bd\u30ca\u30bf \u30c8\u77ed\u8abf Op. 65 - \u7b2c3\u697d\u7ae0 Largo",
       "url": "https://open.spotify.com/track/3Qbu91uGOGN4NOtCGRyrJg"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30c0\u30fc\u30a4\uff0f\u7121\u4f34\u594f\u30c1\u30a7\u30ed\u30fb\u30bd\u30ca\u30bf\uff06\u30b7\u30e7\u30d1\u30f3\uff0f\u30c1\u30a7\u30ed\u30fb\u30bd\u30ca\u30bf",
+        "url": "https://open.spotify.com/album/6QICFqLDufbtk4176FNKld"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "\u6c34\u91ce\u512a\u4e5f",
+          "url": "https://open.spotify.com/artist/0G50Xtrs142AylaMwCrkoc"
+        },
+        {
+          "name": "Kyohei Sorita",
+          "url": "https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 982357,
+      "name": "\u30c1\u30a7\u30ed\u30fb\u30bd\u30ca\u30bf \u30c8\u77ed\u8abf \u4f5c\u54c165: \u2160. Allegro moderato",
+      "url": "https://open.spotify.com/track/54UqbT95EJOwRyyXG8tIc2"
     },
     {
       "album": {
@@ -9766,6 +9810,28 @@
       "duration_ms": 143226,
       "name": "\u7f8e\u3057\u304d\u5915\u66ae\u308c(\u30c1\u30a7\u30ed\u3068\u30cf\u30fc\u30d7\u7de8)",
       "url": "https://open.spotify.com/track/6jNeHhrtL9lPcsQSNWU8so"
+    },
+    {
+      "album": {
+        "name": "\u80ce\u76e4",
+        "url": "https://open.spotify.com/album/38MzJB6nvCe0cNEVwfNDDR"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        },
+        {
+          "name": "Salyu",
+          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224022,
+      "name": "\u80ce\u76e4",
+      "url": "https://open.spotify.com/track/1OFGAUOysHC4VEn1gzx6Bu"
     },
     {
       "album": {

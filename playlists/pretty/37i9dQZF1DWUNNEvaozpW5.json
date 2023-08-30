@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Fito.",
-  "num_followers": 565146,
+  "num_followers": 565289,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODZjYTNjMTZhNjQ3MzcyMzMwOWUwYTg0ZjM5YmNhYmQ4YTBjZWQy",
+  "snapshot_id": "MCw3Y2YyZDIxZWQ2OGE4MjBhYWEyYjI5MTg1MjRkNWFlNWMyZDdjOTZi",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Corre Corre",
-        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f1o",
-          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
-        }
-      ],
-      "duration_ms": 245440,
-      "name": "Sorprendente",
-      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Un d\u00eda nada m\u00e1s",
         "url": "https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 249791,
       "name": "Fr\u00edo (con Fito y Fitipaldis, Tarque y Rosendo)",
       "url": "https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Corre Corre",
+        "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f1o",
+          "url": "https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ"
+        }
+      ],
+      "duration_ms": 245440,
+      "name": "Sorprendente",
+      "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Esencial Estopa",
-        "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Como Camar\u00f3n",
-      "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Burning (Singles Collection)",
         "url": "https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 247401,
       "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
       "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Esencial Estopa",
+        "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Como Camar\u00f3n",
+      "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Candela",
         "url": "https://open.spotify.com/album/3l9sGjSIG3STFT8V65JUB1"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 191871,
       "name": "Candela",
       "url": "https://open.spotify.com/track/5HjShrXAUChXJDyjgZka13"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
     },
     {
       "added_at": "2023-08-24 22:00:00",

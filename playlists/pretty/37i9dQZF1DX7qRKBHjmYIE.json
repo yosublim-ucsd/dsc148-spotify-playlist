@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked every week. \u2728 Cover: Cuco & Aleman",
-  "num_followers": 764375,
+  "num_followers": 764372,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTk4ODBjYWM3MTBjMWZlMTZmOTZhOTJmMGEwN2ExNDlhNTAxOWQ4",
+  "snapshot_id": "MCxlZWM1M2E0NDlhMzVhMDYyMDJlYTYxYmY0OTVkMTFjNTRiZDQwMjg2",
   "tracks": [
     {
       "added_at": "2023-08-25 04:17:43",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-08-25 04:17:43",
       "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
         "name": "Labios",
         "url": "https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 134884,
       "name": "El Rio",
       "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -623,6 +623,38 @@
     {
       "added_at": "2023-08-25 04:17:43",
       "album": {
+        "name": "NOS QUISIMOS",
+        "url": "https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 151612,
+      "name": "NOS QUISIMOS",
+      "url": "https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
+        "name": "Bagels y Caf\u00e9",
+        "url": "https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4"
+      },
+      "artists": [
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 166496,
+      "name": "Bagels y Caf\u00e9",
+      "url": "https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj"
       },
@@ -651,22 +683,6 @@
       "duration_ms": 178064,
       "name": "Terciopelo",
       "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
-        "name": "Bagels y Caf\u00e9",
-        "url": "https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4"
-      },
-      "artists": [
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 166496,
-      "name": "Bagels y Caf\u00e9",
-      "url": "https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -703,22 +719,6 @@
       "duration_ms": 139688,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
-        "name": "NOS QUISIMOS",
-        "url": "https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd"
-      },
-      "artists": [
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        }
-      ],
-      "duration_ms": 151612,
-      "name": "NOS QUISIMOS",
-      "url": "https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y"
     },
     {
       "added_at": "2023-08-25 04:17:43",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-08-25 04:17:43",
       "album": {
-        "name": "VCR",
-        "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
-      },
-      "artists": [
-        {
-          "name": "Atomic Rose",
-          "url": "https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI"
-        }
-      ],
-      "duration_ms": 215974,
-      "name": "VCR",
-      "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
-    },
-    {
-      "added_at": "2023-08-25 04:17:43",
-      "album": {
         "name": "i miss u",
         "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 155812,
       "name": "i miss u",
       "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
+    },
+    {
+      "added_at": "2023-08-25 04:17:43",
+      "album": {
+        "name": "VCR",
+        "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
+      },
+      "artists": [
+        {
+          "name": "Atomic Rose",
+          "url": "https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI"
+        }
+      ],
+      "duration_ms": 215974,
+      "name": "VCR",
+      "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
     },
     {
       "added_at": "2023-08-25 04:17:43",

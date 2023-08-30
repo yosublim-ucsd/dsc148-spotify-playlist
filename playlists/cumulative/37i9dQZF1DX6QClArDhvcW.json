@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 176000,
       "name": "9 2 5",
       "url": "https://open.spotify.com/track/3lmgbvnKKErNuuJG7bGeKA"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 174461,
       "name": "Above and Beyond",
       "url": "https://open.spotify.com/track/0qJu4CH53vfwJcrfG3teZt"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 146128,
       "name": "Angel Number",
       "url": "https://open.spotify.com/track/0nwUtqy8TOnRahAzCmL42A"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 117901,
       "name": "another LOOK",
       "url": "https://open.spotify.com/track/3ujm2z1mOalAvVyE0yDLbF"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 141336,
       "name": "Aurora Borealis - slowed down",
       "url": "https://open.spotify.com/track/6Ezv5yO2jl1a1E1qX07fLq"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 143459,
       "name": "chocolate milk thnx",
       "url": "https://open.spotify.com/track/4z8LqF5jRvM2qNG4Kzf9Bl"
@@ -1109,6 +1109,32 @@
     },
     {
       "album": {
+        "name": "Cosmic Girl",
+        "url": "https://open.spotify.com/album/4IeWmLnr82G5DUyp9kHHpc"
+      },
+      "artists": [
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        },
+        {
+          "name": "lightheart",
+          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Cosmic Girl",
+      "url": "https://open.spotify.com/track/0FiPuxSq2LrAEyvgbCzBhp"
+    },
+    {
+      "album": {
         "name": "Cozy Jazz",
         "url": "https://open.spotify.com/album/3CF3bR4wY1w9tktFA2Fj73"
       },
@@ -1268,6 +1294,28 @@
       "duration_ms": 206052,
       "name": "Dewdrop Lemonade",
       "url": "https://open.spotify.com/track/4SKRNfT7WI73MJho3suqYl"
+    },
+    {
+      "album": {
+        "name": "Dingo Dance",
+        "url": "https://open.spotify.com/album/76Zg2pEODn4TR0SYFSLpqX"
+      },
+      "artists": [
+        {
+          "name": "Christoh",
+          "url": "https://open.spotify.com/artist/7MxstLzysTndAiPsCVpAJ4"
+        },
+        {
+          "name": "Fel\u00eds",
+          "url": "https://open.spotify.com/artist/2SrYn66wEOFeIJWJ61u4K9"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Dingo Dance",
+      "url": "https://open.spotify.com/track/6ifINF2JIahpAnLXpNqFKS"
     },
     {
       "album": {
@@ -1604,7 +1652,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 164500,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/0N8xcgJldOu3c7sOM3xo7K"
@@ -1702,6 +1750,24 @@
       "duration_ms": 117073,
       "name": "First Prize",
       "url": "https://open.spotify.com/track/588MsHiGYnRKr7GIkgFQSm"
+    },
+    {
+      "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/1h3wj5vrlL444G6n8niaOI"
+      },
+      "artists": [
+        {
+          "name": "Veiva",
+          "url": "https://open.spotify.com/artist/1p7qeEg0md2NDp79AQTx1k"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135562,
+      "name": "Flamingo",
+      "url": "https://open.spotify.com/track/1oHzeB9icPNP6e1hoCFxbL"
     },
     {
       "album": {
@@ -1918,7 +1984,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 136296,
       "name": "Free as a Bird",
       "url": "https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g"
@@ -2044,7 +2110,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 104470,
       "name": "Give in to you",
       "url": "https://open.spotify.com/track/2GYrasXjMJuZKD5WMKrLHs"
@@ -3098,7 +3164,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 132830,
       "name": "left staring",
       "url": "https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I"
@@ -3350,7 +3416,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 133333,
       "name": "lucking out",
       "url": "https://open.spotify.com/track/6f8bZWdO64g2cgCJle01OD"
@@ -3412,7 +3478,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 135529,
       "name": "Lycium",
       "url": "https://open.spotify.com/track/6UN9NdeZ6xoVrTeXOcgj8t"
@@ -3430,7 +3496,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 145813,
       "name": "Main Source",
       "url": "https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF"
@@ -3532,7 +3598,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 116571,
       "name": "Meditative State",
       "url": "https://open.spotify.com/track/0YXyIpdq9ZFvCH6ZsaGfwE"
@@ -3988,7 +4054,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 124799,
       "name": "Neon Sea",
       "url": "https://open.spotify.com/track/2Eloe1ZdrlK29u1fNKQMRO"
@@ -4122,7 +4188,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 105600,
       "name": "No Spice",
       "url": "https://open.spotify.com/track/4CXxhPs3BHYbw1zpCxOt7E"
@@ -4176,7 +4242,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 158571,
       "name": "Notification",
       "url": "https://open.spotify.com/track/27FbD1YqrxGg9zhSv3X91R"
@@ -4292,7 +4358,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 144000,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/09vBEVadtYbIHxdKsOlsLL"
@@ -4472,7 +4538,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 141176,
       "name": "Pillow Head",
       "url": "https://open.spotify.com/track/0ISbKdCQjZ3RYF30RBrCbY"
@@ -4508,7 +4574,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 152339,
       "name": "play it",
       "url": "https://open.spotify.com/track/78WfketyVicKm5FjIUlnjU"
@@ -4910,7 +4976,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 137470,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/3gYn7Jul0vLyATg45b5gcx"
@@ -5004,7 +5070,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 130397,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/0q7hWEmXW4wFGo4u1RrriA"
@@ -5152,7 +5218,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 127058,
       "name": "Silk Lips",
       "url": "https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc"
@@ -5434,7 +5500,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 148166,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/5GFro8JfW7Scx4XsgS5e32"
@@ -5770,7 +5836,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 148650,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/70TwGLRXDWgOi5govpWGMF"
@@ -6102,7 +6168,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 176000,
       "name": "Through the fields",
       "url": "https://open.spotify.com/track/0GyZq3mNQYAPDTWJUVWB4V"
@@ -6192,7 +6258,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 132260,
       "name": "tomorrow, 2 am",
       "url": "https://open.spotify.com/track/1AjIq7D644IjbeekXoe64u"
@@ -6388,7 +6454,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 128764,
       "name": "Tulip Town",
       "url": "https://open.spotify.com/track/6WLH03pRffbNXkGfUEDmpU"
@@ -6544,7 +6610,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 147000,
       "name": "Upward Falling",
       "url": "https://open.spotify.com/track/6YsXDpB5gqbNZiAIn8T4Ty"
@@ -6566,7 +6632,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 94166,
       "name": "Urban Eyes",
       "url": "https://open.spotify.com/track/7GrhuhTGk6KBeZQToeIAa2"
@@ -6624,7 +6690,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 103200,
       "name": "Vanilla Envelopes",
       "url": "https://open.spotify.com/track/6M9evzQ2VJWR9LQgRqQ0GH"
@@ -6798,7 +6864,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 121600,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/39Sa33g3e6ILORXGjjQ6y0"
@@ -7000,7 +7066,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 115200,
       "name": "Wondering 5",
       "url": "https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY"

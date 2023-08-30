@@ -4,12 +4,13 @@
 
 > Electronic tunes for your virtual world.
 
-381 songs - 21 hr 52 min
+382 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#4u](https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [\#4u](https://open.spotify.com/album/7lSFPJJSetFsOVLPvRqeP4) | 1:48 | 2022-05-27 | 2022-07-25 |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-10 |  |
+| [4ever1](https://open.spotify.com/track/0GxANOXWo9oJRjH32EOYkW) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [4ever1](https://open.spotify.com/album/07D2Gq848vkcj5T1Gpfoyl) | 2:36 | 2023-08-25 |  |
 | [A Cyber's World](https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [A Cyber's World](https://open.spotify.com/album/4Skl8xv9LILiUM5CS4yk8T) | 2:52 | 2022-01-07 |  |
 | [A CYBER'S WORLD? \(From "Deltarune"\) \- Electro House Version](https://open.spotify.com/track/7s9VjAWhf8ypPqdOCR3hcn) | [Mykah](https://open.spotify.com/artist/3VYxuvrdxNbXmDIxiHYDqz) | [A CYBER'S WORLD? \(From "Deltarune"\) \[Electro House Version\]](https://open.spotify.com/album/38WxY9cf0avPDxehC3ubmL) | 4:29 | 2022-01-07 | 2022-07-29 |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 | 2023-02-24 |
@@ -357,7 +358,7 @@
 | [Unfold](https://open.spotify.com/track/36kCSJg8ZBwiSCUECFKGUy) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:45 | 2022-01-07 |  |
 | [Victory \(F.O.O.L Remix\)](https://open.spotify.com/track/6uOvYTdwIuKMs7Ci3C61Xb) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM), [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Victory \(F.O.O.L Remix\)](https://open.spotify.com/album/6ByWKss2Ip2gVGj9SWppGc) | 3:48 | 2022-01-07 | 2022-11-13 |
 | [Visionary](https://open.spotify.com/track/2zdIRSdlzfUP3BYVQdMcSG) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [modus.](https://open.spotify.com/artist/1ASCCDEpi3FWTb0jVDJhA2), [Miss Lina](https://open.spotify.com/artist/1YWIbcvuqzWzPyxyrVTMJv) | [Visionary](https://open.spotify.com/album/1HAfK7WeUVwpDeHywMPQAf) | 6:12 | 2022-01-07 | 2022-03-26 |
-| [VLONE](https://open.spotify.com/track/0jYBQcR3imgLDhSZN9npPL) | [Vymvn](https://open.spotify.com/artist/6x1eUD956FxAtUWADmudQW) | [VLONE](https://open.spotify.com/album/4jZ0m9OBSZ3E2mwsb1OsCF) | 2:48 | 2022-01-07 |  |
+| [VLONE](https://open.spotify.com/track/0jYBQcR3imgLDhSZN9npPL) | [Vymvn](https://open.spotify.com/artist/6x1eUD956FxAtUWADmudQW) | [VLONE](https://open.spotify.com/album/4jZ0m9OBSZ3E2mwsb1OsCF) | 2:48 | 2022-01-07 | 2023-08-30 |
 | [VOLC4NO](https://open.spotify.com/track/5aPVwcXawK8A066VqnsQti) | [CHOMPO](https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [CHOMPO I](https://open.spotify.com/album/6P6m7fqCHXDwAFSq7iqzGZ) | 2:23 | 2023-05-12 | 2023-08-20 |
 | [Voyager](https://open.spotify.com/track/7cMFjxhbXBpOlais7KMF3j) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:47 | 2022-07-14 | 2022-08-06 |
 | [wait for me](https://open.spotify.com/track/4m1RCS5sMrgDX3zj4RIVKP) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/45m3UHYn9qrhkjB9Q3y9du) | 3:19 | 2022-01-07 | 2022-07-29 |

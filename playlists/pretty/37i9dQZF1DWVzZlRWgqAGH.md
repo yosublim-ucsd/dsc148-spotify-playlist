@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Charlotte Day Wilson, Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,462 likes - 108 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,592 likes - 108 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 9 | [Bewilderment](https://open.spotify.com/track/5PAS1dyZn7mb7Eq3JM0ejK) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:38 |
 | 10 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 |
 | 11 | [EQUINOX](https://open.spotify.com/track/7c4xla1DQCKSv8VLKfap9X) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [GOOD MORNING](https://open.spotify.com/album/2yFm7FOGOPPfyqxVu6FG6m) | 6:43 |
-| 12 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Enny](https://open.spotify.com/artist/3adk6lhXLB2pyEu8JOCKuk) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 |
+| 12 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 |
 | 13 | [balloons \(feat\. Jay Electronica & Eryn Allen Kane\)](https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 3:44 |
 | 14 | [AUDACITY.](https://open.spotify.com/track/3bivhIP60Suj1majOReYxZ) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [AUDACITY.](https://open.spotify.com/album/36ESydK52IrPRJ84PeavDI) | 2:41 |
 | 15 | [BETTER \(feat\. Jay Prince & Billy Davis\)](https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Songs To Come Home To](https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN) | 2:45 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 107 | [This Too](https://open.spotify.com/track/7E0ck3kZmSzHTsnkXRINPv) | [hxzel](https://open.spotify.com/artist/5vzywo9BwgSd4vK5hz9qA8), [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [This Too](https://open.spotify.com/album/4vtdwsnDNvj0tKjONcqA45) | 2:37 |
 | 108 | [Move](https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [At First Light](https://open.spotify.com/album/79tpuDKAhZgKTwv2OE6kPM) | 3:37 |
 
-Snapshot ID: `MCxiMDkyODVlNTI3NDZlMDA5ZDE5YzJmZjE3Y2Y5Yjc1YzE2NDBlNThm`
+Snapshot ID: `MCxhODkwZDdkNDhiMDM3MzdiMmNjMmJmN2VlNmFmZjI1ZTg2MGY5NWNm`

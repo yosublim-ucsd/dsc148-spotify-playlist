@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Joost
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,977 likes - 103 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,981 likes - 103 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 62 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 |
 | 63 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 | 64 | [Houden Van Mij](https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Houden Van Mij](https://open.spotify.com/album/0H1bolHYB0kTUHvs7cc7Zd) | 2:38 |
-| 65 | [Wish U Well](https://open.spotify.com/track/6BWI8WNmCwYHfJC5BLvks4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:19 |
+| 65 | [Wish U Well](https://open.spotify.com/track/6BWI8WNmCwYHfJC5BLvks4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:19 |
 | 66 | [Million Places](https://open.spotify.com/track/3rCuELlVNqzcG8JHDJh76m) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Million Places](https://open.spotify.com/album/0FDi6UKrT6OaQuzY0a4Hna) | 2:37 |
 | 67 | [Nooit Meer](https://open.spotify.com/track/7i0MUcZAOBy71LSbFv75cL) | [WEF](https://open.spotify.com/artist/1dM4b6mWjcPqIoICG8DZBh), [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G), [Roxy Rosa](https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg) | [Nooit Meer](https://open.spotify.com/album/5fGVLyb9pGhUjCcgDDYkJk) | 2:57 |
 | 68 | [Moving](https://open.spotify.com/track/6G6ZRdY51J76WLRUzl36TO) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Moving](https://open.spotify.com/album/39SqeXIt0zqCdSq3bxeZIE) | 2:57 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 102 | [Schieblock](https://open.spotify.com/track/3sxZtIju1XvNbrNZSj996A) | [The Policy](https://open.spotify.com/artist/2G609VPYS4yzshTtyoUTS3) | [Schieblock](https://open.spotify.com/album/04m1K2wEeuRO1YG78WnDdE) | 5:35 |
 | 103 | [largo \(sonatina in f\-sharp minor, op\. 67/1: II\. largo\)](https://open.spotify.com/track/49zgQpR8OVWi8J6NWtC3Wu) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [Muses](https://open.spotify.com/album/005GBXkDc4BNPVfZQ5DvJn) | 4:43 |
 
-Snapshot ID: `MCw2NmI0ZTU2MDQ4MzFiNjBjMDQ5YzY3MTFlOTFhMjVkYjNlOGE4OWZh`
+Snapshot ID: `MCw1MTVmNDIxNGY3NTljMTJlNGZmZDZlMmNmODg2NzhkNzBjYWMyNTFm`

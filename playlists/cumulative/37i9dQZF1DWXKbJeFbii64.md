@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-84 songs - 4 hr 0 min
+85 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Luscious Rain](https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Luscious Rain](https://open.spotify.com/album/4HGhxEOSzvVuaXAb39qhkX) | 2:12 | 2022-10-28 |  |
 | [Medium Rain and Intense NJ Thunder](https://open.spotify.com/track/67P3hjyYGjth8lNBl1gDsI) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 4:00 | 2023-01-13 | 2023-08-14 |
 | [Medium rain, Thunder Threatening](https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 3:15 | 2022-10-28 | 2023-04-16 |
-| [Midnight Rumble](https://open.spotify.com/track/4g38l5vKQZ3LrEYSMJW7R3) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:19 | 2023-02-13 |  |
+| [Midnight Rumble](https://open.spotify.com/track/4g38l5vKQZ3LrEYSMJW7R3) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:19 | 2023-02-13 | 2023-08-30 |
 | [Mountain Thunderstorm](https://open.spotify.com/track/29XSvNdu4rTuvWgxeiMDM7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 | 2022-12-09 |  |
 | [Night Thunder](https://open.spotify.com/track/16HCJtRKmMbKKflHHQ7oJZ) | [David Struck](https://open.spotify.com/artist/4k2SHabbAKcyqgXrLpVPVn) | [Night Thunder](https://open.spotify.com/album/13ayzWPy1dkOGDb9uTEdoI) | 1:38 | 2022-10-28 |  |
 | [Nuage Froid](https://open.spotify.com/track/5Bwc0m1mEGgtMOTtJell0T) | [Elise Édouard](https://open.spotify.com/artist/5BCk7QdCsT8O9EO3EF18SB) | [Nuage Froid](https://open.spotify.com/album/6I0XXsyriPTf9gRdK9MOlQ) | 2:07 | 2022-10-28 |  |
@@ -48,6 +48,7 @@
 | [Rain On The Porch](https://open.spotify.com/track/0bXYBIzlncmj0LwOd3J5wn) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Relaxing Rain Sounds](https://open.spotify.com/album/1MvTpPYBFMJNYkThlmdC2l) | 2:47 | 2022-10-28 |  |
 | [Rain with Rolling and Clapping Thunder](https://open.spotify.com/track/4ndtxpFn1DfrKoXwsSnNug) | [In Natura](https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7) | [ETERNAL RAIN](https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF) | 2:08 | 2022-10-28 |  |
 | [Raining Rolling Thunder](https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:42 | 2022-10-28 |  |
+| [Relaxing Thunder Rain](https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:04 | 2023-02-13 |  |
 | [Schläfriger Donner](https://open.spotify.com/track/28KswoQztifTUjKJxujGWV) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen über Hamburg](https://open.spotify.com/album/5gJA1OBF1KRxBbu2mfYN0s) | 3:28 | 2022-10-28 |  |
 | [Shelter Rain](https://open.spotify.com/track/2LlSkv5N137jn1rvqs39vA) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 3:37 | 2022-12-09 | 2023-04-14 |
 | [Sitting on the Porch During a Thunderstorm](https://open.spotify.com/track/3eauTrySTM6lllpECM7akg) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:48 | 2022-10-28 |  |

@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Jungle
 
-899 songs - 2 day 10 hr 28 min
+900 songs - 2 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Gabo's Last Resort](https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Gabo's Last Resort / Hyakutake](https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV) | 3:48 | 2023-03-10 | 2023-05-28 |
 | [Gemini](https://open.spotify.com/track/0WAOLXpWWl3oescKBLC37q) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Gemini](https://open.spotify.com/album/6MEueTIlNbBmgwD1UHGSpR) | 3:31 | 2021-12-30 | 2022-07-21 |
 | [Get Close](https://open.spotify.com/track/4VlHhqkB6TCdL9AuOm9r1B) | [Elvin T](https://open.spotify.com/artist/5AR0CrzzhodjlpQhTMIIuE) | [Get Close](https://open.spotify.com/album/0QyUaQmtuNoE0d72wo8m3H) | 7:39 | 2022-01-28 | 2022-02-12 |
-| [Ghost On The Mend \- veggi remix](https://open.spotify.com/track/5c3sjghivRZjMd0nvSGPUR) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [Ghost On The Mend \(veggi remix\)](https://open.spotify.com/album/6UlbyAtzBx0AXaYedDTp9d) | 2:49 | 2023-02-24 |  |
+| [Ghost On The Mend \- veggi remix](https://open.spotify.com/track/5c3sjghivRZjMd0nvSGPUR) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [Ghost On The Mend \(veggi remix\)](https://open.spotify.com/album/6UlbyAtzBx0AXaYedDTp9d) | 2:49 | 2023-02-24 | 2023-08-30 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-17 | 2022-11-05 |
 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2022-07-01 | 2022-08-06 |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2022-09-17 | 2022-10-06 |
@@ -830,6 +830,7 @@
 | [Tunnel](https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tunnel](https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX) | 5:10 | 2021-06-04 | 2023-07-29 |
 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2022-03-25 | 2023-07-29 |
 | [Turn Back Time](https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Turn Back Time](https://open.spotify.com/album/0i6K3XnM3mjLlCKa2kPNIp) | 3:51 | 2023-07-28 |  |
+| [turn it all the way up](https://open.spotify.com/track/40FhKFG0SIUpxE7doxifpZ) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [turn it all the way up](https://open.spotify.com/album/5TGDbBxkgpfVtjZF6FTyUX) | 2:36 | 2023-08-25 |  |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-24 | 2022-08-05 |
 | [U Already Know](https://open.spotify.com/track/5AyANSMqfkoI2HtZQ5ikPL) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [U Already Know](https://open.spotify.com/album/67zbNHgYUej6u9dNUlV4Gr) | 4:12 | 2021-06-11 | 2022-07-28 |
 | [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-01-27 | 2023-08-26 |

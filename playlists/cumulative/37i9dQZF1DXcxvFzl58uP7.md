@@ -4,7 +4,7 @@
 
 > The coziest rooms produce the most comforting tunes\. Cover: Spill Tab
 
-887 songs - 1 day 22 hr 10 min
+888 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Fresh Green at the Gallery](https://open.spotify.com/track/24sjsXy0RaFHP6znElPOM7) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Fresh Green at the Gallery](https://open.spotify.com/album/2fIUralisTxfs6AQiKLHEQ) | 2:46 | 2022-03-04 | 2022-04-06 |
 | [Friday](https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Friday](https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO) | 3:24 | 2022-09-14 |  |
 | [Friday](https://open.spotify.com/track/6PiAyNmUy6UEtI3MhOg2tb) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS), [niquo](https://open.spotify.com/artist/1NdjUWVsLvRmiJmtrynbKF) | [Friday](https://open.spotify.com/album/0dIB2oX15JwkO9eEcRynDw) | 3:24 | 2020-09-25 | 2022-07-29 |
-| [Friday Night With The Neighbours](https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Friday Night With The Neighbours](https://open.spotify.com/album/03VSyL9ungqFQzJ5EY74Se) | 2:53 | 2023-04-21 |  |
+| [Friday Night With The Neighbours](https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Friday Night With The Neighbours](https://open.spotify.com/album/03VSyL9ungqFQzJ5EY74Se) | 2:53 | 2023-04-21 | 2023-08-30 |
 | [Friends](https://open.spotify.com/track/5MDcP8dPi8jVK2QpuVDmap) | [Chief Cleopatra](https://open.spotify.com/artist/4JtoyhF0vrGEvOh0O6z2vK) | [Friends](https://open.spotify.com/album/6BrLNk6H3gJSWx9AtPLLcB) | 3:32 | 2021-04-29 | 2021-07-16 |
 | [Friends](https://open.spotify.com/track/0q0fJWjbiK5DSKCSN1GKsK) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/2ylgkcYanTrAeBdqQSSDBE) | 3:06 | 2019-07-30\* | 2021-05-26 |
 | [friends or not](https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [friends or not](https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT) | 3:12 | 2021-09-10 | 2022-11-13 |
@@ -426,6 +426,7 @@
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 | 2022-12-21 |  |
 | [It's Got To Be You](https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 3:55 | 2021-03-26 | 2022-12-08 |
 | [It's Got To Be You](https://open.spotify.com/track/3IL9AKqwVNsMHUruNXgbmE) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [It's Got To Be You](https://open.spotify.com/album/1QEylt2WvPjzYVfjRdVNKz) | 3:55 | 2021-03-26 | 2022-07-24 |
+| [it's not feeling good anymore](https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [it's not feeling good anymore](https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy) | 2:25 | 2023-08-25 |  |
 | [Jamz](https://open.spotify.com/track/1FvnH3avKvSZRqNM7yCoRc) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:29 | 2019-07-31 | 2021-05-28 |
 | [JENN!FER AN!STON](https://open.spotify.com/track/3SVIlaVLrgKd4U6EWkMLbl) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [JENN!FER AN!STON](https://open.spotify.com/album/3JvMIMuoDRyqYCEhJOJSia) | 3:30 | 2021-04-02 | 2021-08-28 |
 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 | 2022-12-14 | 2023-04-18 |

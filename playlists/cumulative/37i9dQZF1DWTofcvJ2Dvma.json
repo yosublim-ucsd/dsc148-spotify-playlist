@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/0QDeDHId4agJs6w0G630zO"
+      },
+      "artists": [
+        {
+          "name": "Wolf Schranze",
+          "url": "https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Careless",
+      "url": "https://open.spotify.com/track/69PYB04q2aTC3i9wFzRC3T"
+    },
+    {
+      "album": {
         "name": "chocolate milk thnx",
         "url": "https://open.spotify.com/album/3uhR8os4vLjHI6U4y42ZRU"
       },
@@ -1638,6 +1656,24 @@
       "duration_ms": 149647,
       "name": "Etoile",
       "url": "https://open.spotify.com/track/3NhKzgs0nq8YNsxFcydt3m"
+    },
+    {
+      "album": {
+        "name": "Excellerator",
+        "url": "https://open.spotify.com/album/7fT89oyy3uT3bsL7QSACfF"
+      },
+      "artists": [
+        {
+          "name": "OMOZO",
+          "url": "https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154354,
+      "name": "Excellerator",
+      "url": "https://open.spotify.com/track/11M7ebTCTSmTaFLUfF3zob"
     },
     {
       "album": {
@@ -4800,7 +4836,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 150400,
       "name": "Secret Escape",
       "url": "https://open.spotify.com/track/59T1QsjRMjA0tdhoX20dTs"
@@ -5342,6 +5378,28 @@
       "duration_ms": 143406,
       "name": "spring",
       "url": "https://open.spotify.com/track/6mpcfOpE6QGqRKHlaJuRkP"
+    },
+    {
+      "album": {
+        "name": "spring",
+        "url": "https://open.spotify.com/album/5CISATj4UshRfnYCPN4Tae"
+      },
+      "artists": [
+        {
+          "name": "Yedai",
+          "url": "https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU"
+        },
+        {
+          "name": "\u00d8NEMOR3",
+          "url": "https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128070,
+      "name": "spring",
+      "url": "https://open.spotify.com/track/4Rps91TJtMDCbd9Kl5GV2Z"
     },
     {
       "album": {

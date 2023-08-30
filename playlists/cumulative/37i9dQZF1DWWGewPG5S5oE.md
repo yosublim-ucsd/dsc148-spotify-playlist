@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: igloo
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 山中千尋
 
-197 songs - 16 hr 15 min
+199 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/track/6bU0xA0rcv4BUhiCUeSpga) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/album/1DRsv2J8yzJqte4iM47vP7) | 4:10 | 2022-09-06 | 2022-09-21 |
 | [Danny Boy](https://open.spotify.com/track/5V4DDq4TAn5UPrJBbKl5M2) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Danny Boy](https://open.spotify.com/album/5edIjcQxIfRjLDKplE8edG) | 2:52 | 2022-09-06 | 2022-09-15 |
 | [dawn highway](https://open.spotify.com/track/54s18WiYM4XlfFDfUOvIa3) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [dawn highway](https://open.spotify.com/album/5anIBZvF2hBoS8rnRgAYsL) | 3:29 | 2023-08-08 |  |
+| [Daydream](https://open.spotify.com/track/1SGuM7OqpvyU4F5vIUEfTU) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Landed on the Moon](https://open.spotify.com/album/77VLkt74v9MQlxa3i83ZJC) | 4:46 | 2023-08-29 |  |
 | [Death by Glamour \(with Jacob Koller\)](https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw) | [瀬戸一王](https://open.spotify.com/artist/05QyI8tKAUSMa2H8WRI8v1), [Jacob Koller](https://open.spotify.com/artist/5WurrE6cmmCQDP151eki1o) | [PIANOTALE](https://open.spotify.com/album/0FtP1dhqgP2gS2hKkSAMnO) | 2:18 | 2022-10-25 | 2022-12-07 |
 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 | 2023-02-28 |  |
 | [Eugene's Waltz](https://open.spotify.com/track/3zcmpzBM0j16wtM53nDGWB) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [Eugene's Waltz](https://open.spotify.com/album/4fOmwDWX5Ay54r8eqkMPDm) | 3:57 | 2023-05-16 | 2023-05-24 |
@@ -124,7 +125,7 @@
 | [Serendipity](https://open.spotify.com/track/0j7iNGrIc7Sye3rMbpPn8h) | [小沢咲希](https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1) | [Serendipity](https://open.spotify.com/album/54t9EAdUVqNEPyZTD0y43y) | 5:56 | 2023-05-23 |  |
 | [Session zero \- Feat\. 馬場智章](https://open.spotify.com/track/5RDAfd9hVQA9IqlAaxpVIP) | [HHMM](https://open.spotify.com/artist/1XPTvuhra2ygPO1E9UQcfi), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [Session zero \(Feat\. 馬場智章\)](https://open.spotify.com/album/4TFS3YoYDhYzieXw6PQWms) | 3:16 | 2023-02-21 | 2023-04-19 |
 | [She's A Rainbow \- Live](https://open.spotify.com/track/4o0FeJv0qP71n5JfgKZSgL) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Making Us Alive \(Live\)](https://open.spotify.com/album/6XKlNZcHNiWIh0T1bKcr6y) | 5:52 | 2022-09-27 | 2022-11-16 |
-| [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 | 2023-06-20 |  |
+| [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 | 2023-06-20 | 2023-08-30 |
 | [Sky](https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Sky](https://open.spotify.com/album/6p8sF3aFRqLzasMfcMpjoz) | 3:40 | 2023-05-02 | 2023-07-17 |
 | [Skyscrapers](https://open.spotify.com/track/00E0F6S41u75kegMAnTiXd) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Skyscrapers / Another World](https://open.spotify.com/album/2shCDrFWKMqzL4ZnE08Pus) | 3:59 | 2022-09-06 | 2022-09-13 |
 | [SMILE](https://open.spotify.com/track/7gIJ23wc4OAoJAEr8PKl1P) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [SMILE](https://open.spotify.com/album/0kIBnznQgEMiBqF5C6RKtg) | 5:05 | 2023-08-01 |  |
@@ -154,7 +155,8 @@
 | [Tiger Rag](https://open.spotify.com/track/1vIrFpbVFbdDNoELavkLhz) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Eiji Kitamura](https://open.spotify.com/artist/3ObcIjZXcEvPEGqSJxI8KM), [中川喜弘](https://open.spotify.com/artist/3oi4zctKJg8k5J3NuBEgkX), [中川英二郎](https://open.spotify.com/artist/5n3EOyRF5yPU67VVCCefpx), [中村健吾](https://open.spotify.com/artist/1GT3yeZxbeiNfLoTwYw6pq), [高橋信之介](https://open.spotify.com/artist/2ird8pw3KnFYmCcMJKWdcb) | [PARK STREET KIDS](https://open.spotify.com/album/7DL4EnsqFanSVPyjZS1zLa) | 6:01 | 2022-12-27 | 2023-01-11 |
 | [Time After Time](https://open.spotify.com/track/4bc7kYSSKRDeFJGYEzNJAp) | [小沢咲希](https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1) | [Time After Time](https://open.spotify.com/album/6nDbJwLVkoi5z4Y3VwLulm) | 5:03 | 2023-04-18 | 2023-06-14 |
 | [Timeless Groove](https://open.spotify.com/track/6M0TjQ5VZGWrykqbrKFhFM) | [T\-GROOVE & GEORGE KANO EXPERIENCE](https://open.spotify.com/artist/1Afm2ZSmz3Vuof17bZeW25), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U), [YUMA HARA](https://open.spotify.com/artist/5ysAjkLc0t3f6SmiE0Reyz), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Lady Champagne](https://open.spotify.com/album/2idn5UHb0zcPRATU0Bi9ET) | 4:08 | 2022-09-06 | 2022-11-08 |
-| [Today Is Another Day](https://open.spotify.com/track/26rrOxH88bdp9Eq3nw5A8O) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Today Is Another Day](https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf) | 5:21 | 2022-12-20 |  |
+| [To S.](https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Dolce Vita](https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg) | 4:26 | 2023-08-29 |  |
+| [Today Is Another Day](https://open.spotify.com/track/26rrOxH88bdp9Eq3nw5A8O) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Today Is Another Day](https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf) | 5:21 | 2022-12-20 | 2023-08-30 |
 | [Tokyo Portage](https://open.spotify.com/track/3CNv1GuxQLN1f4vdvUsBJ3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/0PrT9gC39VNVdxo1odhjmm) | 3:13 | 2023-05-16 | 2023-05-18 |
 | [Tokyo Portage](https://open.spotify.com/track/45UTp7ium3cTgGO5zb2xR3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/2mD5jItxhFupy9zAv4XdbH) | 3:13 | 2023-05-16 |  |
 | [tomali](https://open.spotify.com/track/4yBzh8MWJ565XnqZ3qsRJI) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [tomali](https://open.spotify.com/album/2zA14R3kYzejS6pcb9W0Si) | 3:36 | 2023-08-01 |  |

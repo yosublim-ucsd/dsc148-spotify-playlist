@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 890990,
+  "num_followers": 891086,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDMxNmUzZTcxMmVmMGQzNDYwMDk2MWEzNzEwMGQxOTJhODY2ZWI5",
+  "snapshot_id": "MCxlZGVlODM5NjVmY2U3MmQ5MTIzNGUxMWNlZDg5ZDFiNTcyOTEzM2Rm",
   "tracks": [
     {
       "added_at": "2023-08-11 13:35:31",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
-    },
-    {
-      "added_at": "2023-08-11 13:35:31",
-      "album": {
         "name": "Me and You",
         "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 226285,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
+    },
+    {
+      "added_at": "2023-08-11 13:35:31",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2023-08-11 13:35:31",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
+        "name": "Starman",
+        "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
+      },
+      "artists": [
+        {
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        {
+          "name": "Crystalline",
+          "url": "https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Kaleidoscope (Feat. Crystalline)",
+      "url": "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
+    },
+    {
+      "added_at": "2023-08-11 13:35:31",
+      "album": {
         "name": "OCCULT CLASSIC",
         "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 226973,
       "name": "I Do Coke",
       "url": "https://open.spotify.com/track/3PvhJcV5xv7E1ImIfbRYeM"
-    },
-    {
-      "added_at": "2023-08-11 13:35:31",
-      "album": {
-        "name": "6 FEET UNDER",
-        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
-      },
-      "artists": [
-        {
-          "name": "GRAVEDGR",
-          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
-        },
-        {
-          "name": "City Morgue",
-          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "WARDOGZ",
-      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2023-08-11 13:35:31",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
-        "name": "Starman",
-        "url": "https://open.spotify.com/album/1ICtb6Z2tf7ZgVZy9VTp8Z"
+        "name": "6 FEET UNDER",
+        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
       },
       "artists": [
         {
-          "name": "Champagne Drip",
-          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
         },
         {
-          "name": "Crystalline",
-          "url": "https://open.spotify.com/artist/4NRLMX0IRHkm2qI1WFLxHZ"
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Kaleidoscope (Feat. Crystalline)",
-      "url": "https://open.spotify.com/track/10dLRZ7GCIXEuUuONkNcxI"
+      "duration_ms": 154616,
+      "name": "WARDOGZ",
+      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2023-08-11 13:35:31",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2023-08-11 13:35:31",
       "album": {
-        "name": "Sable Valley Summer Vol. 3",
-        "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Hex Cougar",
-          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Silo (feat. fknsyd)",
-      "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
-    },
-    {
-      "added_at": "2023-08-11 13:35:31",
-      "album": {
         "name": "Good Times Ahead",
         "url": "https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 214714,
       "name": "Feel It (feat. Tunji Ige)",
       "url": "https://open.spotify.com/track/3Vad9kkHv0DZZ0ioJdRrYV"
+    },
+    {
+      "added_at": "2023-08-11 13:35:31",
+      "album": {
+        "name": "Sable Valley Summer Vol. 3",
+        "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Silo (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
     },
     {
       "added_at": "2023-08-11 13:35:31",

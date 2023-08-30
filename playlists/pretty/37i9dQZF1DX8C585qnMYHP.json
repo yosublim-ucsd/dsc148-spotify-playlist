@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Astoria on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 112121,
+  "num_followers": 112177,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTFhZGIwNTc5MTg0NzYwN2RjZWIyNzljNzlkZTJhZmVhZmZjNmZh",
+  "snapshot_id": "MCxmMmM0ZjBlNjJkNTc4MzU1NGQ4YThmMTQ1MTBkY2RmNzdkNGRjYWNk",
   "tracks": [
     {
       "added_at": "2023-08-02 14:55:57",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/5EFssJc6Liga3EDx3ZKyt2"
     },
     {
+      "added_at": "2023-08-10 05:46:09",
+      "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "humanus",
@@ -127,22 +143,6 @@
       "duration_ms": 286546,
       "name": "Blow Up Yr Life (U Need To)",
       "url": "https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy"
-    },
-    {
-      "added_at": "2023-08-10 05:46:09",
-      "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/2wLRsTZsKnJUjQlY0tZi9x"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "The Shuttle Bus",
-        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
-      },
-      "artists": [
-        {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
-        }
-      ],
-      "duration_ms": 215974,
-      "name": "The Shuttle Bus",
-      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
-    },
-    {
       "added_at": "2023-06-28 01:00:55",
       "album": {
         "name": "Island Family (Deluxe Edition)",
@@ -477,20 +461,20 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "Whisper, Vol. 4 Ultimate Edition",
-        "url": "https://open.spotify.com/album/7eLqjMxaatQnzGTfnFs7Nz"
+        "name": "The Shuttle Bus",
+        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
       },
       "artists": [
         {
-          "name": "Cam Lasky",
-          "url": "https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph"
+          "name": "group O",
+          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
         }
       ],
-      "duration_ms": 260571,
-      "name": "West Peak",
-      "url": "https://open.spotify.com/track/11woWQDGXwLOKQ4ofuPdqj"
+      "duration_ms": 215974,
+      "name": "The Shuttle Bus",
+      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -507,6 +491,22 @@
       "duration_ms": 231133,
       "name": "Festive Day",
       "url": "https://open.spotify.com/track/4pAy9DqbUt8SvNb3QbbYsM"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Whisper, Vol. 4 Ultimate Edition",
+        "url": "https://open.spotify.com/album/7eLqjMxaatQnzGTfnFs7Nz"
+      },
+      "artists": [
+        {
+          "name": "Cam Lasky",
+          "url": "https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "West Peak",
+      "url": "https://open.spotify.com/track/11woWQDGXwLOKQ4ofuPdqj"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -605,6 +605,22 @@
       "url": "https://open.spotify.com/track/1BardFdFDKjEjeKTq4wzid"
     },
     {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Show You My World",
+        "url": "https://open.spotify.com/album/7iSAdOWLZGc1VGIBhf4hI7"
+      },
+      "artists": [
+        {
+          "name": "\u017bY\u0143Y",
+          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Show You My World",
+      "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
+    },
+    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "behind the waterfall",
@@ -635,22 +651,6 @@
       "duration_ms": 277273,
       "name": "hit",
       "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Show You My World",
-        "url": "https://open.spotify.com/album/7iSAdOWLZGc1VGIBhf4hI7"
-      },
-      "artists": [
-        {
-          "name": "\u017bY\u0143Y",
-          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Show You My World",
-      "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Eating food and fighting Wizards",
-        "url": "https://open.spotify.com/album/2U4aJvTvTvK1JnyxiBTYD7"
-      },
-      "artists": [
-        {
-          "name": "Big Lad",
-          "url": "https://open.spotify.com/artist/55ni0EJ4HeQre982XxyKkd"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Eating food and fighting Wizards",
-      "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
         "name": "Tinnitus",
         "url": "https://open.spotify.com/album/1Ql9iOzse7nbLemXldLd1J"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 122368,
       "name": "Tinnitus Titles (Tinnitus OST)",
       "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Eating food and fighting Wizards",
+        "url": "https://open.spotify.com/album/2U4aJvTvTvK1JnyxiBTYD7"
+      },
+      "artists": [
+        {
+          "name": "Big Lad",
+          "url": "https://open.spotify.com/artist/55ni0EJ4HeQre982XxyKkd"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Eating food and fighting Wizards",
+      "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -749,20 +749,20 @@
       "url": "https://open.spotify.com/track/50w9wN70lWHaIe8atNxDtn"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
+      "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+        "name": "Weird backwards path",
+        "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
       },
       "artists": [
         {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+          "name": "Tek lintowe",
+          "url": "https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx"
         }
       ],
-      "duration_ms": 303216,
-      "name": "humanus",
-      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
+      "duration_ms": 142584,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/6l67hHSaUL7hvBUv8HqwuA"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -781,6 +781,38 @@
       "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
     },
     {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Snapdragon",
+        "url": "https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 303216,
+      "name": "humanus",
+      "url": "https://open.spotify.com/track/019NusGqCRxlJ8NSwILgyt"
+    },
+    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Everything I Was, Burning Slow",
@@ -795,22 +827,6 @@
       "duration_ms": 69899,
       "name": "Interlude i (oscillated)",
       "url": "https://open.spotify.com/track/5oFeDLjJeXkPxigBjU2etE"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Weird backwards path",
-        "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
-      },
-      "artists": [
-        {
-          "name": "Tek lintowe",
-          "url": "https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx"
-        }
-      ],
-      "duration_ms": 142584,
-      "name": "Speak",
-      "url": "https://open.spotify.com/track/6l67hHSaUL7hvBUv8HqwuA"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -865,38 +881,6 @@
       "url": "https://open.spotify.com/track/0HUEBcBp620kPLyjuoiXcg"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 452207,
-      "name": "500 ascended",
-      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Snapdragon",
-        "url": "https://open.spotify.com/album/2MyGNZFL8YJ1tAvN6gryt8"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Gatherings",
@@ -911,6 +895,22 @@
       "duration_ms": 163320,
       "name": "Window",
       "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 452207,
+      "name": "500 ascended",
+      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "Path Integral VII - 4",
-        "url": "https://open.spotify.com/album/4SiyvWP7jyE6jSRAm3sVGf"
-      },
-      "artists": [
-        {
-          "name": "G\u00e1me (MX)",
-          "url": "https://open.spotify.com/artist/3DG8ncTGcqgOIXpEFIdh3j"
-        }
-      ],
-      "duration_ms": 384965,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/0I3Lw6POSM0MAVDkwPqWMJ"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "RPG",
@@ -1007,6 +991,22 @@
       "duration_ms": 205000,
       "name": "Real World",
       "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+    },
+    {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "Path Integral VII - 4",
+        "url": "https://open.spotify.com/album/4SiyvWP7jyE6jSRAm3sVGf"
+      },
+      "artists": [
+        {
+          "name": "G\u00e1me (MX)",
+          "url": "https://open.spotify.com/artist/3DG8ncTGcqgOIXpEFIdh3j"
+        }
+      ],
+      "duration_ms": 384965,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/0I3Lw6POSM0MAVDkwPqWMJ"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -1073,20 +1073,20 @@
       "url": "https://open.spotify.com/track/3qxG1irZ76FC4Qs0koRt1k"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-08-23 14:01:12",
       "album": {
-        "name": "Conversations in Ritual",
-        "url": "https://open.spotify.com/album/1NiKxZldfhyHtajtv1IoEf"
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
       },
       "artists": [
         {
-          "name": "Balladeste",
-          "url": "https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50"
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
         }
       ],
-      "duration_ms": 313986,
-      "name": "Rising",
-      "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
+      "duration_ms": 294636,
+      "name": "home",
+      "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1109,20 +1109,20 @@
       "url": "https://open.spotify.com/track/0bMIJUMXalCoA9KC2NHxtH"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
+      "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
+        "name": "Conversations in Ritual",
+        "url": "https://open.spotify.com/album/1NiKxZldfhyHtajtv1IoEf"
       },
       "artists": [
         {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+          "name": "Balladeste",
+          "url": "https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50"
         }
       ],
-      "duration_ms": 294636,
-      "name": "home",
-      "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
+      "duration_ms": 313986,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6"
+        "name": "Sophia Oscillations",
+        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
       },
       "artists": [
         {
-          "name": "AIKA",
-          "url": "https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m"
+          "name": "Mission To The Sun",
+          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
         }
       ],
-      "duration_ms": 114886,
-      "name": "Room of Fear",
-      "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
+      "duration_ms": 261433,
+      "name": "Attrition",
+      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6"
+      },
+      "artists": [
+        {
+          "name": "AIKA",
+          "url": "https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m"
+        }
+      ],
+      "duration_ms": 114886,
+      "name": "Room of Fear",
+      "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
         "name": "SC46kop",
         "url": "https://open.spotify.com/album/59CiMFG1pKHZREQnKg5n1b"
       },
@@ -1315,38 +1331,6 @@
       "duration_ms": 256000,
       "name": "SC46kop",
       "url": "https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Eel II (reduction)",
-        "url": "https://open.spotify.com/album/4fl7flDLyBjDpFoBn4DKJ0"
-      },
-      "artists": [
-        {
-          "name": "Hyunhye Seo",
-          "url": "https://open.spotify.com/artist/1smQb0kXgM0YKw0cEnTLpO"
-        }
-      ],
-      "duration_ms": 237938,
-      "name": "Eel II (reduction)",
-      "url": "https://open.spotify.com/track/1nFCWcGCm6vYuOMsjptQgD"
-    },
-    {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Fascinating Rhythm",
-        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
-      },
-      "artists": [
-        {
-          "name": "Janon Panic Push",
-          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Fascinating Rhythm Remix",
-      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -1365,6 +1349,22 @@
       "url": "https://open.spotify.com/track/5dJZ45VpKjXE6McWZSqFnh"
     },
     {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Eel II (reduction)",
+        "url": "https://open.spotify.com/album/4fl7flDLyBjDpFoBn4DKJ0"
+      },
+      "artists": [
+        {
+          "name": "Hyunhye Seo",
+          "url": "https://open.spotify.com/artist/1smQb0kXgM0YKw0cEnTLpO"
+        }
+      ],
+      "duration_ms": 237938,
+      "name": "Eel II (reduction)",
+      "url": "https://open.spotify.com/track/1nFCWcGCm6vYuOMsjptQgD"
+    },
+    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "Variable Happiness",
@@ -1381,20 +1381,20 @@
       "url": "https://open.spotify.com/track/3tNzbH4X3O5KxgFcPJANPt"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "Sophia Oscillations",
-        "url": "https://open.spotify.com/album/4oqNidSgmpDNdm0XbRZuWu"
+        "name": "Fascinating Rhythm",
+        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
       },
       "artists": [
         {
-          "name": "Mission To The Sun",
-          "url": "https://open.spotify.com/artist/4xYUhkQrEDVfK3Zq1MAuU1"
+          "name": "Janon Panic Push",
+          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
         }
       ],
-      "duration_ms": 261433,
-      "name": "Attrition",
-      "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
+      "duration_ms": 203500,
+      "name": "Fascinating Rhythm Remix",
+      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/0ZrSKZdcURiYrk85Z3XrT6"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "The Rot",
-        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
-      },
-      "artists": [
-        {
-          "name": "fibril",
-          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
-        }
-      ],
-      "duration_ms": 122258,
-      "name": "vie",
-      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
-    },
-    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "drizzy drone",
@@ -1511,6 +1495,22 @@
       "duration_ms": 156415,
       "name": "Alien Farmer",
       "url": "https://open.spotify.com/track/383StcK6uDHtzkVUFfogqf"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "The Rot",
+        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
+      },
+      "artists": [
+        {
+          "name": "fibril",
+          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
+        }
+      ],
+      "duration_ms": 122258,
+      "name": "vie",
+      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/1Ifm02tflyx53arFi8u5LU"
     },
     {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Space Mirror",
+        "url": "https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY"
+      },
+      "artists": [
+        {
+          "name": "Infinite River",
+          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
+        }
+      ],
+      "duration_ms": 297989,
+      "name": "Summer Session #2",
+      "url": "https://open.spotify.com/track/3s4cyKx2GqEcBNWzchZcKG"
+    },
+    {
       "added_at": "2023-05-24 14:03:48",
       "album": {
         "name": "Dancing Like Dust",
@@ -1615,22 +1631,6 @@
       "duration_ms": 270651,
       "name": "Inverted",
       "url": "https://open.spotify.com/track/0Yt7OVK0cS9IwyqTvoZTxu"
-    },
-    {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Space Mirror",
-        "url": "https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY"
-      },
-      "artists": [
-        {
-          "name": "Infinite River",
-          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
-        }
-      ],
-      "duration_ms": 297989,
-      "name": "Summer Session #2",
-      "url": "https://open.spotify.com/track/3s4cyKx2GqEcBNWzchZcKG"
     },
     {
       "added_at": "2023-05-17 15:25:53",

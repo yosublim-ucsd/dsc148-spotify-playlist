@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-142 songs - 8 hr 37 min
+143 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Maya Chesave](https://open.spotify.com/track/2aoxZTjUBAqTmUz2X9Azo0) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz) | [Maya Chesave](https://open.spotify.com/album/0CmdXTK4VV4P462yDR4THw) | 3:36 | 2023-01-10 | 2023-06-01 |
 | [Modhatisari](https://open.spotify.com/track/6yUJX6h3v12PMAD1T6dsev) | [Madhu Mady](https://open.spotify.com/artist/3XXYrOqQ1xzKsuDgvTun6A), [DaKrish](https://open.spotify.com/artist/3loSOILEnkRrBpuwUnjxaD) | [Modhatisari](https://open.spotify.com/album/3rPCSsZ3lM53VPC9qzYcKu) | 3:22 | 2023-02-10 |  |
 | [Mounam](https://open.spotify.com/track/3COqF1lLItjkhOSGJPRtA2) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:40 | 2022-07-18 | 2023-05-27 |
-| [Myra](https://open.spotify.com/track/6cTmSsKgWdcYOGRMdBF2hF) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Myra](https://open.spotify.com/album/2t1lor0NlAVEmiWKZSWtpS) | 4:21 | 2023-02-16 |  |
+| [Myra](https://open.spotify.com/track/6cTmSsKgWdcYOGRMdBF2hF) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm) | [Myra](https://open.spotify.com/album/2t1lor0NlAVEmiWKZSWtpS) | 4:21 | 2023-02-16 | 2023-08-30 |
 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 | 2023-05-18 |  |
 | [Naa Kallalona](https://open.spotify.com/track/3VTflnVXTdm1L14hgP3AqR) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly) | 3:46 | 2023-05-23 |  |
 | [Naalo Kalisave](https://open.spotify.com/track/4gurofjle2L1VbQPzAmZyL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Naalo Kalisave](https://open.spotify.com/album/3iuXBy218ITzay6mc72Oaz) | 5:12 | 2023-03-31 | 2023-06-01 |
@@ -93,6 +93,7 @@
 | [Ninne Ne Choosina Nimishana](https://open.spotify.com/track/6AxR54ZY7DawzNWrFhoptL) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Ninne Ne Choosina Nimishana](https://open.spotify.com/album/7vrGbY7lSIcTEN3lQsjTkP) | 4:19 | 2023-05-18 | 2023-05-26 |
 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 | 2023-03-06 |  |
 | [Nuv Lenide](https://open.spotify.com/track/0Cz5N91JbdypWxGoQMCSLd) | [K S Harisankar](https://open.spotify.com/artist/5xChfd59lzEVrY85cCQHeU) | [Nuv Lenide](https://open.spotify.com/album/2YTVIdEEygqyJF969Va698) | 3:43 | 2022-07-18 | 2023-05-23 |
+| [Nuvve Kada Na Pranam](https://open.spotify.com/track/2qi73fWzCmtgf6ObJEvliy) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nuvve Kada Na Pranam](https://open.spotify.com/album/5mBu2KuE00fe7FBxUKyXR2) | 3:50 | 2023-08-29 |  |
 | [Nuvve Naa Lokam](https://open.spotify.com/track/7F1p60yC1Gb7De3omM8335) | [Pavan Kumar Harisomayajula](https://open.spotify.com/artist/1AATURikxHdk3SN6OEcF5l) | [Nuvve Naa Lokam](https://open.spotify.com/album/2kjrdeVEGpLxC4KIrQSxz6) | 4:27 | 2023-07-10 | 2023-07-25 |
 | [Nuvve Oka Sainyam](https://open.spotify.com/track/3BF1XYVHGSB1ijw3qDVwZ5) | [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb) | [Nuvve Oka Sainyam](https://open.spotify.com/album/6ypkqH11ztrhbFQXTDYoDP) | 2:31 | 2023-03-16 | 2023-05-26 |
 | [Nuvvele](https://open.spotify.com/track/3KAAehMv5l1x239SONwaDw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Nee Kosam](https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO) | 3:39 | 2023-06-27 |  |

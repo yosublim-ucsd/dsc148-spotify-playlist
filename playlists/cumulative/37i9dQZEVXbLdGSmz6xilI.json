@@ -5784,7 +5784,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 207163,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
@@ -7394,7 +7394,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 200202,
       "name": "kho b\u00e1u \u0111\u00e1nh r\u01a1i (feat. GREY D)",
       "url": "https://open.spotify.com/track/5HuDnBhNLj5m865LowtgZQ"
@@ -9090,7 +9090,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 180022,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq"
@@ -9720,7 +9720,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 317408,
       "name": "Ng\u00e0y Mai Ng\u01b0\u1eddi Ta L\u1ea5y Ch\u1ed3ng (feat. Voi B\u1ea3n \u0110\u00f4n)",
       "url": "https://open.spotify.com/track/2Npr9vbXuQYcpnsouBIrHU"
@@ -11901,6 +11901,24 @@
     },
     {
       "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/42GFBLpnHzGbuROBi6B4Ab"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294252,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/1UHkDovEFqHzHCPyNe0BTy"
+    },
+    {
+      "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
@@ -12506,6 +12524,28 @@
       "duration_ms": 264760,
       "name": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
       "url": "https://open.spotify.com/track/4j3M8NrbGSXdMPwEVsnfHE"
+    },
+    {
+      "album": {
+        "name": "Snow Flower (feat. Peakboy)",
+        "url": "https://open.spotify.com/album/4w5Rzux7dz1GkLkNkMd7L3"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Peakboy",
+          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Snow Flower (feat. Peakboy)",
+      "url": "https://open.spotify.com/track/34IGOyXR6cn0YI9VBu8m0y"
     },
     {
       "album": {
@@ -13984,7 +14024,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 158400,
       "name": "tiny love",
       "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"
@@ -15268,6 +15308,24 @@
       "duration_ms": 220433,
       "name": "Wildest Dreams (Taylor's Version)",
       "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
+    },
+    {
+      "album": {
+        "name": "Winter Bear",
+        "url": "https://open.spotify.com/album/14q6R8M7lDDjWuLjGNKQDj"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174824,
+      "name": "Winter Bear",
+      "url": "https://open.spotify.com/track/74ewFAgDzRkhZ7EX2eLtfZ"
     },
     {
       "album": {

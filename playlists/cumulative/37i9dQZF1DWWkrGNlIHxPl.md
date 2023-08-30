@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-297 songs - 16 hr 36 min
+298 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 | 2023-04-01 | 2023-05-27 |
 | [CIGARETTE](https://open.spotify.com/track/6cTnqwqOJYKo5Guf3oAQLZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [CIGARETTE](https://open.spotify.com/album/2v4NGjh9jS0T9hPofUcUD7) | 1:47 | 2023-04-27 | 2023-08-01 |
 | [CLONES](https://open.spotify.com/track/20Qs2YytFIhWlw278Pd8B8) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [CLONES](https://open.spotify.com/album/4eAI0f1nna07Mz5v86KgNe) | 2:04 | 2022-12-07 | 2023-08-15 |
-| [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-08-02 |  |
+| [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-08-02 | 2023-08-30 |
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-07 | 2022-08-06 |
 | [complicated\_5](https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [complicated\_5](https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml) | 3:12 | 2023-03-29 |  |
 | [D4M](https://open.spotify.com/track/4jkP3gAU9o4ZcDDk4JRFdr) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 4:04 | 2021-12-16 | 2022-03-08 |
@@ -293,6 +293,7 @@
 | [Why Lie to Me ?](https://open.spotify.com/track/5goo9FGyGlOMD24BdippCs) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Why Lie to Me ?](https://open.spotify.com/album/0Ne2F8JgYKBxjY1zVYA6aA) | 2:33 | 2022-06-23 | 2022-12-08 |
 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 | 2022-03-29 | 2023-06-15 |
 | [Wild Trance](https://open.spotify.com/track/3v6BuQKmmwaWxuaKX4O7Lq) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Wild Trance](https://open.spotify.com/album/4KY5L36S4tzI3lX5lXxdML) | 1:44 | 2022-01-24 | 2022-12-08 |
+| [WORK](https://open.spotify.com/track/72gAZIf8wnbOuz1GqGUtGF) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [WORK](https://open.spotify.com/album/7rFFhUon9lIWtvSSH5XYHy) | 2:44 | 2023-08-29 |  |
 | [worth it](https://open.spotify.com/track/3uri8HATRCxWRjKzmy1jSS) | [Guy Manoukian](https://open.spotify.com/artist/7cSr0LrHabJyfJRCEfoB00), [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [worth it](https://open.spotify.com/album/5QJ4wWEc71vfryxrU9COhE) | 3:24 | 2022-07-28 | 2022-11-20 |
 | [worth it](https://open.spotify.com/track/4l1IwENWYhTx0PGnPhRHXV) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE), [Guy Manoukian](https://open.spotify.com/artist/7cSr0LrHabJyfJRCEfoB00) | [worth it](https://open.spotify.com/album/5rFVbxtfvGLdyjaaU1K4gu) | 3:24 | 2021-12-16 | 2022-07-29 |
 | [Xbox](https://open.spotify.com/track/0D96Qm09CDTxfu85rkpZwO) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [Xbox](https://open.spotify.com/album/0VTpElYxz599FWApgxZk86) | 1:51 | 2022-05-04 | 2022-05-27 |

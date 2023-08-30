@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,817 likes - 181 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,852 likes - 181 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 180 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 |
 | 181 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 |
 
-Snapshot ID: `MCwzNmMzYzNlYzQyZjFjNzYzNDFlMDYyZjYyN2NiOTY2YzBjN2ZhM2Iw`
+Snapshot ID: `MCwzMjAyY2VlMmI2NjExMWIwOGU1ZThmYjBhN2Y5NmIxZDgxNTBmNjRj`

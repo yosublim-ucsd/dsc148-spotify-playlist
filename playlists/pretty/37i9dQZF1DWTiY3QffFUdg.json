@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 3308,
+  "num_followers": 3527,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjE0NjFjYmZhNjM1NWM1MTBmY2RhYTY0ZTE1YjgzYTU1YjFhOGVm",
+  "snapshot_id": "MCw2MmMwNmM1ZGJhN2NhMDMyYTU0YTZkYzk1ZmJhYTkyOGU5MWVlZTk1",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -463,22 +463,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "The Procedure EP",
-        "url": "https://open.spotify.com/album/1nKD4vwGp5TJPRsKjFCKiQ"
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
       "artists": [
         {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "Heerhorst",
-          "url": "https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR"
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
         }
       ],
-      "duration_ms": 193082,
-      "name": "The Procedure - Original Mix",
-      "url": "https://open.spotify.com/track/4ECckb5B0UtR6f9RbKL5SS"
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -499,22 +499,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+        "name": "The Procedure EP",
+        "url": "https://open.spotify.com/album/1nKD4vwGp5TJPRsKjFCKiQ"
       },
       "artists": [
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
         },
         {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+          "name": "Heerhorst",
+          "url": "https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR"
         }
       ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+      "duration_ms": 193082,
+      "name": "The Procedure - Original Mix",
+      "url": "https://open.spotify.com/track/4ECckb5B0UtR6f9RbKL5SS"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -579,22 +579,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM"
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
       "artists": [
         {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         }
       ],
-      "duration_ms": 203999,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ"
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -615,6 +611,42 @@
       "duration_ms": 208427,
       "name": "BARBEE - On Acid",
       "url": "https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 203999,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Rock With Me",
+        "url": "https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        }
+      ],
+      "duration_ms": 205696,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -643,18 +675,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Rock With Me",
-        "url": "https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP"
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
       },
       "artists": [
         {
-          "name": "Will Clarke",
-          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
         }
       ],
-      "duration_ms": 205696,
-      "name": "Rock With Me",
-      "url": "https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah"
+      "duration_ms": 144000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -679,38 +711,6 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Lollipop",
-        "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
-      },
-      "artists": [
-        {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "It's That Time",
-        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "It's That Time",
-      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -775,26 +775,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Industria",
-        "url": "https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0"
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         }
       ],
-      "duration_ms": 211384,
-      "name": "Industria",
-      "url": "https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM"
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -835,38 +827,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "The Theory EP",
-        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 270476,
-      "name": "The Blaze",
-      "url": "https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Acid (All Night Long)",
         "url": "https://open.spotify.com/album/1iZJz3tgPcn04UT643eH0x"
       },
@@ -879,26 +839,6 @@
       "duration_ms": 153690,
       "name": "Acid (All Night Long)",
       "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "CRESCENDO",
-        "url": "https://open.spotify.com/album/2WAxjTUkv403ujorGiYcOE"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 205668,
-      "name": "OPEN YOUR MIND",
-      "url": "https://open.spotify.com/track/6zQ2emOrf68vYJiaQxwJNV"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -919,6 +859,62 @@
       "duration_ms": 197933,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 270476,
+      "name": "The Blaze",
+      "url": "https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Industria",
+        "url": "https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 211384,
+      "name": "Industria",
+      "url": "https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Embrace Me Now",
+        "url": "https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Embrace Me Now - Techno Radio Edit",
+      "url": "https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -963,18 +959,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Embrace Me Now",
-        "url": "https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70"
+        "name": "CHORMA",
+        "url": "https://open.spotify.com/album/2HVE0ZmEDKkasHZhWVmImV"
       },
       "artists": [
         {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt"
+        },
+        {
+          "name": "Greg Willen",
+          "url": "https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Embrace Me Now - Techno Radio Edit",
-      "url": "https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT"
+      "duration_ms": 183428,
+      "name": "CHORMA",
+      "url": "https://open.spotify.com/track/78sIUhDEOuD5mpSr1zwDwg"
     }
   ],
   "unique_name": "techno party",

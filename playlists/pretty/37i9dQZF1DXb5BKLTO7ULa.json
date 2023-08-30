@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Joost",
-  "num_followers": 257977,
+  "num_followers": 257981,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmI0ZTU2MDQ4MzFiNjBjMDQ5YzY3MTFlOTFhMjVkYjNlOGE4OWZh",
+  "snapshot_id": "MCw1MTVmNDIxNGY3NTljMTJlNGZmZDZlMmNmODg2NzhkNzBjYWMyNTFm",
   "tracks": [
     {
       "added_at": "2023-08-25 08:52:40",
@@ -1150,6 +1150,14 @@
         {
           "name": "Swae Lee",
           "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
       "duration_ms": 199641,

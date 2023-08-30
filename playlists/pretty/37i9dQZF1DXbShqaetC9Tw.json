@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 91720,
+  "num_followers": 91752,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2NkN2IwNjljM2JmYmI3YTJhMmY4NmNhNzAwZDJkNzNlZTI0ZjUy",
+  "snapshot_id": "MCw5YTAzOTYzMWIwNDdlNzI4ZjFlM2E4NmRiMWE0ZDhkMjdlZjMzMTVj",
   "tracks": [
     {
       "added_at": "2023-07-21 03:24:44",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 229570,
-      "name": "LA VIE",
-      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
-    },
-    {
-      "added_at": "2023-07-21 03:24:44",
-      "album": {
         "name": "Seoul Vibes Pt.1",
         "url": "https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 182062,
       "name": "Sad Love Song (feat. slchld & Rheehab)",
       "url": "https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr"
+    },
+    {
+      "added_at": "2023-07-21 03:24:44",
+      "album": {
+        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 229570,
+      "name": "LA VIE",
+      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
     },
     {
       "added_at": "2023-07-21 03:24:44",

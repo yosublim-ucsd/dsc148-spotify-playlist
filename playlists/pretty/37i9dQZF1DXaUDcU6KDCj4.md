@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hiss Golden Messenger
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,354 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,482 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 68 | [Little Garden](https://open.spotify.com/track/0nY7lJI0SySrNUPuRads9Q) | [Ayla Nereo](https://open.spotify.com/artist/4gJMOPjz1OUnD6TysFPUr1) | [Little Garden](https://open.spotify.com/album/0X7BR6bOqzQP3Ie436o6xW) | 4:42 |
 | 69 | [Mine All Mine](https://open.spotify.com/track/5o13Gc4qCdj9HMUR8HL98I) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Mine All Mine](https://open.spotify.com/album/3H1VOdpgW6H50VsLx49kCY) | 4:05 |
 | 70 | [20 Years and a Nickel](https://open.spotify.com/track/7r9vDVsRNL2h9MHdrsNVBD) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [20 Years and a Nickel](https://open.spotify.com/album/02bhRp09k7erA3JsN8BHTz) | 3:09 |
-| 71 | [It Takes Me Back](https://open.spotify.com/track/5zOUWxeymlEE9pvADC5gXj) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [It Takes Me Back](https://open.spotify.com/album/3eMrnuF05ttxW40eTvjJDp) | 3:41 |
+| 71 | [It Takes Me Back](https://open.spotify.com/track/473SyXmf9C9w4CbIak2nM6) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Broken Sky / It Takes Me Back](https://open.spotify.com/album/6CTPYg4bUm19T50eRleWnD) | 3:41 |
 | 72 | [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 |
 | 73 | [In My Arms](https://open.spotify.com/track/7pLbQqyLFRtC4GjS58feiI) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [In My Arms](https://open.spotify.com/album/4UXTYwFb2x5tv6xVAbP7Pj) | 3:20 |
 | 74 | [bloomington](https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [what we leave behind](https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM) | 4:19 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
 | 150 | [Strong Swimmer \- Duet](https://open.spotify.com/track/7pb95dEU3dbzOVPsutghXg) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Strong Swimmer \(Duet\)](https://open.spotify.com/album/3keiK30tDnYStiY0BPQEAB) | 3:07 |
 
-Snapshot ID: `MCxjZDJiZTQ3YjU4MDBmYTMyZTA4ZTIzNDA3NmQ2NGEwNjIzM2Q1ZjY4`
+Snapshot ID: `MCxhY2Y2YzIzMmFiZTM1ZGI2MjE3MTVlZjU1ZjE0OTE3NzEwZDhjMTcw`

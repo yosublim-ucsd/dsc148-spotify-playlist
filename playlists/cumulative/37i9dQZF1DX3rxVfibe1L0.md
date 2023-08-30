@@ -4,7 +4,7 @@
 
 > Get happy with today's dose of feel\-good songs!
 
-439 songs - 23 hr 14 min
+440 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-10-16 |  |
 | [Lights Up](https://open.spotify.com/track/2plLJpUcYPFrl1sW2pMG63) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Lights Up](https://open.spotify.com/album/4Aag1alBrdk2TFnATVmn8D) | 2:52 | 2019-10-11 | 2020-07-31 |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-07-24 |  |
+| [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-08-29 |  |
 | [Little Bit of Love](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love \(Acoustic\)](https://open.spotify.com/album/4TFniUvcapARz1DzhdKPas) | 3:46 | 2021-03-14 |  |
 | [Little Bit Of Love \- Indian Summer Remix](https://open.spotify.com/track/7piFoJog4nNUCfnpOzFzSO) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [Mark Ralph](https://open.spotify.com/artist/03lPYuQmwUUUtR1dNLjgoc) | [Little Bit Of Love \(Indian Summer Remix\)](https://open.spotify.com/album/5mwiATjJ271pTlihyhQuCL) | 3:25 | 2020-06-06 | 2020-10-02 |
 | [Live Forever \(With Cheat Codes\)](https://open.spotify.com/track/3HuUmYXZw4t4u3RvbfQgfK) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [LP1](https://open.spotify.com/album/41K9itFFAUyNf92LOhx4Br) | 2:54 | 2019-12-07 | 2020-02-07 |

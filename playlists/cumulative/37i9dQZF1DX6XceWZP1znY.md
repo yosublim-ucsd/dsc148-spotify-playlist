@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-808 songs - 2 day 5 hr 0 min
+809 songs - 2 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [from the edge](https://open.spotify.com/track/7LNsUhex5MXY66jiYGCxFT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 4:40 | 2023-04-21 |  |
 | [From The Seeds](https://open.spotify.com/track/7rv0QQvLHZH8wvJIZ1gO3G) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [From The Seeds](https://open.spotify.com/album/0PQ1rfMi5f98NdWILp3NOH) | 3:28 | 2022-06-07 | 2022-07-04 |
 | [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 | 2023-01-07 | 2023-07-28 |
+| [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 | 2023-08-15 |  |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-06-07 | 2022-10-04 |
 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2022-06-07 |  |
 | [Glitter](https://open.spotify.com/track/4N7q20wGjD32efYY5r9G09) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Glitter](https://open.spotify.com/album/3lSsvZCA16bhwPUgoq7TT3) | 3:20 | 2022-08-11 | 2022-11-13 |
@@ -527,7 +528,7 @@
 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-04-20 |  |
 | [コガネゾラ](https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ](https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy) | 3:23 | 2022-06-07 | 2022-07-25 |
 | [コガネゾラ \(TV size\)](https://open.spotify.com/track/0lINpdNxhDeWmPseWeKJJX) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ \(TV size\)](https://open.spotify.com/album/7BUZqoyy6UjD8XqL7HXyJs) | 1:30 | 2022-06-07 | 2022-07-28 |
-| [ゴールデンレイ](https://open.spotify.com/track/2FyEQ8GVybmQQUvNuY1BZj) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ゴールデンレイ](https://open.spotify.com/album/5wlli6KCnWqdMNLAsIaNDY) | 3:17 | 2023-07-07 |  |
+| [ゴールデンレイ](https://open.spotify.com/track/2FyEQ8GVybmQQUvNuY1BZj) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ゴールデンレイ](https://open.spotify.com/album/5wlli6KCnWqdMNLAsIaNDY) | 3:17 | 2023-07-07 | 2023-08-30 |
 | [サイカ](https://open.spotify.com/track/5KeBlrUAZVEh4A0TeUUfKl) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [サイカ](https://open.spotify.com/album/4VI8I3XQhiKhVDXqXImOox) | 4:15 | 2022-06-07 | 2022-06-28 |
 | [サイダーのように言葉が湧き上がる](https://open.spotify.com/track/70rIBnhQtO2ON2RX9GGd6H) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [サイダーのように言葉が湧き上がる](https://open.spotify.com/album/6Hjzg5YyqGatZ3M4sCWKRx) | 3:26 | 2022-06-07 | 2022-07-17 |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-06-07 | 2022-06-21 |

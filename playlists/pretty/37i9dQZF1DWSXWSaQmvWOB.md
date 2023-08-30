@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Joy Denalane
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,917 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,990 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 79 | [Streets of Love](https://open.spotify.com/track/2yi9NHHXXy7T7tkk7rQGgc) | [Malaramu](https://open.spotify.com/artist/1EKii5dqTcJpT4CUYerkII) | [Streets of Love](https://open.spotify.com/album/0mCQMVAYbkxSWcYSPzJ95F) | 3:05 |
 | 80 | [All A Share Together Now](https://open.spotify.com/track/6jfdwBdHyJkxSdgZrPCI8Y) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [All A Share Together Now](https://open.spotify.com/album/4buyOrbqG380Urv8cdCH4i) | 3:46 |
 
-Snapshot ID: `MCxjNGNlZmIxMzRmNWM3YjE5MGZmMGQ4ZTI4MDY0ZDgzNzQwY2FmNjIx`
+Snapshot ID: `MCwyMWE4YWMzZjZmNTY5OTljMzBjMGQzNzhkMWYzMGE3YjZkMzQ5NDU3`

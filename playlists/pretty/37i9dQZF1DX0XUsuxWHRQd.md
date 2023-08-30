@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Gucci Mane, J\. Cole and Lil Durk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,594,132 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,596,226 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 |
 | 50 | [PARTy T1M3](https://open.spotify.com/track/5h6eWFlGK7NVcliVsmsV4L) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [PARTy T1M3](https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA) | 2:35 |
 
-Snapshot ID: `MCw4Y2ZiMWRiMjdiNDc5NTBhNDg5NGQ0ZjM3YzQ3YjJhZGQyODQ2Mzgz`
+Snapshot ID: `MCxiYzllNDdmYjBkN2UxNGM0MmRhYjhmYjE1NThhZGFhMjkyZTY3MjJi`

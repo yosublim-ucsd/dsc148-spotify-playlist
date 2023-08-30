@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: 李佳歡 \(Kaia Lee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,461 likes - 69 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,463 likes - 69 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 37 | [你從來不曾屬於我 \(Please Make Me Stay\)](https://open.spotify.com/track/5DL9Mh2fk5Wz2KgFZY2Iwf) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc), [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [你從來不曾屬於我 \(Please Make Me Stay\)](https://open.spotify.com/album/6nN66Mp7ny8MjuWtDCstUW) | 3:29 |
 | 38 | [Get Out Of My Life](https://open.spotify.com/track/5os91GLjmBf8xYlqg7w5uu) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [Get Out Of My Life](https://open.spotify.com/album/1DzjVFvnV2ubg8rfGYrcPZ) | 2:42 |
 | 39 | [就算世界終結](https://open.spotify.com/track/1KOxYSLeEUj4NSrFk2HLsg) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [就算世界終結](https://open.spotify.com/album/61CFT40tVHe5JcCpUjdaGC) | 2:23 |
-| 40 | [景美](https://open.spotify.com/track/703QKP05wHYmeRvr8MGQ80) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/6amaZpNGeX8DfC5XnbMeNV) | 3:35 |
+| 40 | [景美](https://open.spotify.com/track/703QKP05wHYmeRvr8MGQ80) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN) | [景美](https://open.spotify.com/album/6amaZpNGeX8DfC5XnbMeNV) | 3:35 |
 | 41 | [烏雲日記](https://open.spotify.com/track/0fbfA04v5Ia6MFj0mkj0XN) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [獨角獸](https://open.spotify.com/album/77XIclsPGzypTBUzk5ieOa) | 4:11 |
 | 42 | [不遠處](https://open.spotify.com/track/7GuLOwT5EWHUzf6xm1Paw7) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不遠處](https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA) | 5:00 |
 | 43 | [Hate Myself](https://open.spotify.com/track/49CaHLWJB8Ot1vB2vAUcca) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Hate Myself](https://open.spotify.com/album/6wps8G72MkvfLlY1iLThn3) | 3:23 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 49 | [0.001 \(Prod\. Jinbo\)](https://open.spotify.com/track/4RUak9qjYrKB1PRJIEkbtv) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [0.001](https://open.spotify.com/album/7zOtxK1KihlZ3mmlwdy6ob) | 3:10 |
 | 50 | [for all this savin’](https://open.spotify.com/track/7LVsxInZbRLYucWpNCgx7A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [for all this savin’](https://open.spotify.com/album/0HYTco54WqzpbJiiZJ3ym0) | 3:26 |
 | 51 | [热带雨 \- 《热带雨》电影同名主题曲](https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [热带雨 \(《热带雨》电影同名主题曲\)](https://open.spotify.com/album/6JHeFZxMEsEbnTAqK8cK2O) | 4:06 |
-| 52 | [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 |
+| 52 | [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [Edisong](https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 |
 | 53 | [Baby Cakes](https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:48 |
 | 54 | [輸了怎樣](https://open.spotify.com/track/5CdiPjubMoVfyG08Bczktk) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [輸了怎樣](https://open.spotify.com/album/64wfH7ifhnBn8YM9yiPUrx) | 3:32 |
 | 55 | [走散](https://open.spotify.com/track/5fpUpJyan6L055gFMRDUjG) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [規定情境](https://open.spotify.com/album/3xlEyPCruVZ58Z9KYKL1Du) | 4:25 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 68 | [笨蛋](https://open.spotify.com/track/6IeWsmiTBpHv6zmV1CDtt1) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [笨蛋](https://open.spotify.com/album/0EpBEMnAxBm58kUDQBc2dm) | 3:49 |
 | 69 | [你說這叫天秤座但你喜歡](https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [Be a Lover](https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq) | 3:16 |
 
-Snapshot ID: `MCwyYjlmM2IxNzJlNDZjYmUzNWI5ODc3OGM5MjBkYTEzYjZkNjcwOTQ0`
+Snapshot ID: `MCwxMDUwNDI3NzE0NzA2MGJlYWY1NWI2YjliMGJmZGNjOGU5Y2E2MzQ1`

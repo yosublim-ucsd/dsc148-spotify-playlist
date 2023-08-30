@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,789 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,819 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 26 | [Call Me](https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Tony Choc](https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE) | [Call Me](https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j) | 2:33 |
 | 27 | [MISAWA \)](https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL) | [MISAWA \)](https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT) | 3:51 |
 | 28 | [Rich Remedy](https://open.spotify.com/track/6CRGFL8UgsWCLidRWTvcgw) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B) | [Rich Remedy](https://open.spotify.com/album/7uLICnkfGRS9rAKzUI1ROv) | 1:55 |
-| 29 | [MONEY](https://open.spotify.com/track/05UmeMHqm9OzkxjQiLL4BX) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Angle](https://open.spotify.com/album/14jvG7xYUt7WDR7G0lQc01) | 1:23 |
+| 29 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 |
 | 30 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
 
-Snapshot ID: `MCxiNTg3ZTVkZWRjZTIxZjAwMjAxNWU0OGY1MjU2Y2NhNjVhNGNkOTM4`
+Snapshot ID: `MCwzOWJjOTc0ZWY1ZjRlN2U0YTFmN2E4MGE4NWI3YzY4ZWUwN2QwNzhh`

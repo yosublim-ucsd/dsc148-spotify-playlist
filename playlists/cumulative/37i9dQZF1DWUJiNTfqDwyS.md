@@ -2,7 +2,7 @@
 
 ### [Metal Covers](https://open.spotify.com/playlist/37i9dQZF1DWUJiNTfqDwyS)
 
-> A collection of the best Metal covers out there\. Cover: Metallica
+> A collection of the best Metal covers out there\. Cover: Ghost
 
 174 songs - 12 hr 16 min
 

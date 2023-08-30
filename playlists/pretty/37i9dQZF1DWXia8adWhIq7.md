@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Lito Atalaia, Eyshila
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,081 likes - 85 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,151 likes - 85 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 11 | [Eu Vou](https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr) | [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Eu Vou](https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp) | 3:29 |
 | 12 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 |
 | 13 | [Eu Vou Correr](https://open.spotify.com/track/3iCAoeQUcbK7bXmwbFV1N9) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Eu Vou Correr](https://open.spotify.com/album/5SG58E8VnndS1SkrpGn3X8) | 3:59 |
-| 14 | [Achei um Bom Amigo](https://open.spotify.com/track/0vr7Aa6arlPy6LuraqouKJ) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt), [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Samuel Antunes](https://open.spotify.com/artist/7krk5pJJFAugqmfVGt3U5Q) | [Achei um Bom Amigo](https://open.spotify.com/album/7mbMDc3z8S7zaTlZMJ9bDE) | 3:28 |
-| 15 | [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 |
+| 14 | [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 |
+| 15 | [Achei um Bom Amigo](https://open.spotify.com/track/0vr7Aa6arlPy6LuraqouKJ) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt), [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Samuel Antunes](https://open.spotify.com/artist/7krk5pJJFAugqmfVGt3U5Q) | [Achei um Bom Amigo](https://open.spotify.com/album/7mbMDc3z8S7zaTlZMJ9bDE) | 3:28 |
 | 16 | [Resultado](https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Resultado](https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH) | 3:20 |
 | 17 | [Sopro de Deus](https://open.spotify.com/track/1gDFq8cOSG6NLTCxdrF6p6) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Sopro de Deus](https://open.spotify.com/album/7bKnZnhZYll8ysyoeofg1c) | 4:21 |
 | 18 | [Me Ensina a Viver](https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Me Ensina a Viver](https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w) | 5:10 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 31 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 |
 | 32 | [Pequenas Coisas](https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe) | [Louisy Cim](https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et) | [Pequenas Coisas](https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ) | 2:39 |
 | 33 | [Nasce o Sol \- Remix](https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [Nasce o Sol \(Remix\)](https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT) | 2:53 |
-| 34 | [Minha Cura \(The Healing\)](https://open.spotify.com/track/3YOfwYkQDKZDfVT8qCtAbK) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Minha Cura \(The Healing\)](https://open.spotify.com/album/424928PBVycQwfKKhk2oPj) | 3:49 |
+| 34 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 |
 | 35 | [Só o Começo](https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Gustavo Barrinovo](https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL) | [Só o Começo](https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO) | 4:44 |
-| 36 | [SOCORRO](https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [SOCORRO](https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU) | 4:05 |
-| 37 | [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 |
+| 36 | [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 |
+| 37 | [Minha Cura \(The Healing\)](https://open.spotify.com/track/3YOfwYkQDKZDfVT8qCtAbK) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Minha Cura \(The Healing\)](https://open.spotify.com/album/424928PBVycQwfKKhk2oPj) | 3:49 |
 | 38 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 |
 | 39 | [Agora](https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Agora](https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn) | 3:16 |
 | 40 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 | 85 | [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 |
 
-Snapshot ID: `MCwzMjBjOWY0ZGJjOWUyMTFiN2EwM2QzYjk1OThiNmQ5ZTI3YzA4ODFl`
+Snapshot ID: `MCw5YzY1ZGI5MDcyMDk1MWUwZTU2MzU3YWIzMzZlNjA3MjdjNDM3MzU0`

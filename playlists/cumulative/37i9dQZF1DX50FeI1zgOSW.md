@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-126 songs - 7 hr 12 min
+127 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Hey Mudhal Siripey](https://open.spotify.com/track/1dOy2vIAWMPR3pUWrUp0E8) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6), [Hemanth Kumar MHD](https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV), [Tamil Mani](https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8) | [Hey Mudhal Siripey](https://open.spotify.com/album/4yHFrEJp5lyht4Z1NwvpL5) | 3:45 | 2023-06-15 |  |
 | [Hira](https://open.spotify.com/track/6p86AjnKC7OKAbby5d2WlL) | [Sirokshan](https://open.spotify.com/artist/4gvX7j0D2LACF9lZWqMJmN), [Sriram Aravindh](https://open.spotify.com/artist/3UOQqJd6piOEm9QOk4dHV8) | [Hira](https://open.spotify.com/album/6H9Ebmu1KY48Rruyr0wPu1) | 4:09 | 2023-07-17 |  |
 | [i Aval](https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ) | 2:49 | 2023-04-06 |  |
+| [I SEE / LIGHT](https://open.spotify.com/track/3RmQl1DaiK7Tfkpqv8sQX9) | [Akroniim](https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4), [JBE](https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ) | [I SEE / LIGHT](https://open.spotify.com/album/5j9W2g8zxIvWEquGIXWPsi) | 3:41 | 2023-08-29 |  |
 | [Idhan da Life\-u](https://open.spotify.com/track/24G2oiRwA28lHKPte7z9qp) | [Shridhar Ramesh](https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y) | [Idhan da Life\-u](https://open.spotify.com/album/4wjpUrReORkoVTriAQbRNq) | 2:58 | 2023-03-21 | 2023-08-17 |
 | [Idhan Gaana](https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs) | [Kaimalu Gokul](https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs), [Joy Sanjay](https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB) | [Idhan Gaana](https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ) | 2:53 | 2023-07-12 |  |
 | [Idhayam \- Tune In For Love](https://open.spotify.com/track/3BfXgDsVD042HtzGkuVbjR) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Tamil Mani](https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8) | [Idhayam \- Tune In For Love](https://open.spotify.com/album/0q6MhFUORMR0rOaLM7tRKq) | 3:31 | 2023-05-26 | 2023-05-28 |

@@ -8444,7 +8444,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 153321,
       "name": "Gibberish",
       "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
@@ -13878,6 +13878,28 @@
       "duration_ms": 187619,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2oNMdd8UJcwDYxLQ4BBc9W"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/5wcIhftmcdts35b5flSXfP"
+      },
+      "artists": [
+        {
+          "name": "Lekota",
+          "url": "https://open.spotify.com/artist/4DXQ3UFHciEdLjwwJe3gEU"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/5B6UaQ9YMeL8tjeJx5pp3D"
     },
     {
       "album": {

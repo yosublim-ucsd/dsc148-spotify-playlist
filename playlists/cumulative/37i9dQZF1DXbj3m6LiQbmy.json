@@ -3035,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "Lost When I\u2019m Around You",
+        "url": "https://open.spotify.com/album/3Ga5TCkXDbC5vHPIZWv9Tn"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Lost When I'm Around You",
+      "url": "https://open.spotify.com/track/5u5lUvwZiPBHqVSJuXpxjd"
+    },
+    {
+      "album": {
         "name": "Diana Ross (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO"
       },

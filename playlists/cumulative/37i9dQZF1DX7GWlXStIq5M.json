@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 141484,
       "name": "Cora\u00e7\u00e3o Solto",
       "url": "https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY"
@@ -6396,7 +6396,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 193768,
       "name": "Nem Me Beijou",
       "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
@@ -8472,6 +8472,10 @@
         {
           "name": "Magyn",
           "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
+        },
+        {
+          "name": "Chai",
+          "url": "https://open.spotify.com/artist/0qmpXpjY0ofSr1J7H2G6a8"
         }
       ],
       "date_added": "2023-08-25",

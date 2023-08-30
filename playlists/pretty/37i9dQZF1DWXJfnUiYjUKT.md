@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,761 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,977 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 19 | [You're Beautiful](https://open.spotify.com/track/6Ca2C9ycBna1WXfL5cB6Gn) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [You're Beautiful](https://open.spotify.com/album/1WAhLhtqvSSjspHe2kzYhF) | 3:55 |
 | 20 | [Heaven](https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 3:44 |
 | 21 | [Quiet Storm](https://open.spotify.com/track/4kxWObbqqWeazNTK5ESCxg) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Sidharth](https://open.spotify.com/album/5sLDE06hTPUsBajUxNN8tM) | 5:40 |
-| 22 | [Wish U Well \- Extended](https://open.spotify.com/track/3x43Q2uKL0Zwekouxc2p8l) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:28 |
+| 22 | [Wish U Well \- Extended](https://open.spotify.com/track/3x43Q2uKL0Zwekouxc2p8l) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:28 |
 | 23 | [ZOOMIES](https://open.spotify.com/track/7CqIleB7ogeQFT00U8MuD1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [moreward\(FORWARD\)](https://open.spotify.com/album/4dz4CiyJKCoHWyA7MuHbBx) | 2:09 |
 | 24 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
 | 25 | [No Amiris](https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Amiris](https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Childhood Dreams](https://open.spotify.com/track/4iVw5xhBCq3SE45d7K5T1O) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Childhood Dreams](https://open.spotify.com/album/2NyPWRjLfQZjejlgVidDAf) | 3:03 |
 | 100 | [COMEDOWN](https://open.spotify.com/track/5uYViosjAmKH1Auq3zvZL1) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [COMEDOWN](https://open.spotify.com/album/1IqxYZcc2DxAaOyqEOdGnR) | 2:09 |
 
-Snapshot ID: `MCw4OTM3ZjY3ZDBjYTBhN2M3OTEzYzRhNjNhMmU3N2YyYmY0YTg5NzM5`
+Snapshot ID: `MCxjYWZjNjNmZTBiNGZmY2MxZTJmNzU5ZmFjMWM0YTU0NTczNTY3NmI0`

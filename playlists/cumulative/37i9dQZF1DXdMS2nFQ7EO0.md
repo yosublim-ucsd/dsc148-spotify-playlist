@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-186 songs - 9 hr 45 min
+187 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Tra Tra](https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Tra Tra](https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt) | 2:06 | 2023-05-08 |  |
 | [Treasure Bay](https://open.spotify.com/track/6pAwFeJKrLPWKZZp2FEoDV) | [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Treasure Bay](https://open.spotify.com/album/2gLAVCPy8mai2eVVwa09J1) | 2:30 | 2022-05-11 | 2023-05-09 |
 | [Tremor \- Sensation 2014 Anthem](https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:54 | 2022-04-07 | 2022-05-12 |
-| [TRES SHOT](https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT) | 2:32 | 2023-05-08 |  |
+| [TRES SHOT](https://open.spotify.com/track/10QBisUlladhpt1govhb4w) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/1rhgAwX7B33pMFSA0OJPpB) | 2:32 | 2023-07-14 |  |
+| [TRES SHOT](https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT) | 2:32 | 2023-05-08 | 2023-08-30 |
 | [Tu Tambor \(feat\. Totó La Momposina\) \- Kryder Mix](https://open.spotify.com/track/4xg7KmW7WsUcGOvOvxZyWV) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [RS\|AM](https://open.spotify.com/artist/7IhIXy6dqLPZsX5iXfkVUh), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk), [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Tu Tambor \(feat\. Totó La Momposina\) \[Kryder Mix\]](https://open.spotify.com/album/6PoZfF9R0pgNHERPvB8P2M) | 2:56 | 2022-04-07 | 2022-05-12 |
 | [Tóxica](https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tóxica](https://open.spotify.com/album/0yBwP7KmTOqkzhLDzUfQRe) | 2:20 | 2022-04-07 | 2022-05-12 |
 | [un x100to \- Remix](https://open.spotify.com/track/2Lb5QgVeyA2VGcwhtw16D9) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [DIGITAL KINGZ](https://open.spotify.com/artist/57KTCkLFeUtf1TdKiRMGnG) | [un x100to \(Remix\)](https://open.spotify.com/album/1bEntR9HSAWqKSNtVF8EVg) | 3:25 | 2023-05-08 | 2023-05-10 |

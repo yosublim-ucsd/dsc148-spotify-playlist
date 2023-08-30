@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 164775,
+  "num_followers": 165037,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWY1Y2U0YjM3NDBhMzBkZGUxODBmNDAwZTRjNTczNzJjNDQ3MDRk",
+  "snapshot_id": "MCxkNGNhMmVkZjgxN2FjMTcxZDcxZjVkZmVhN2Q1YWYwYWI0NGEwYzU5",
   "tracks": [
     {
       "added_at": "2023-08-24 02:18:13",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
+        "name": "TREASURE EP.3: One To All",
+        "url": "https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 196160,
       "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
       "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
-        "name": "TREASURE EP.3: One To All",
-        "url": "https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 210549,
-      "name": "We Lost The Summer",
-      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
+      "duration_ms": 212136,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "Offset",
-        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 212136,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
+      "duration_ms": 210549,
+      "name": "We Lost The Summer",
+      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "Golden Hourglass",
-        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
+        "name": "4 Walls - The 4th Album",
+        "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
       },
       "artists": [
         {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Summer Comes",
-      "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
+      "duration_ms": 207477,
+      "name": "4 Walls",
+      "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "4 Walls - The 4th Album",
-        "url": "https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH"
+        "name": "Golden Hourglass",
+        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
       },
       "artists": [
         {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
         }
       ],
-      "duration_ms": 207477,
-      "name": "4 Walls",
-      "url": "https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E"
+      "duration_ms": 200493,
+      "name": "Summer Comes",
+      "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
-      },
-      "artists": [
-        {
-          "name": "YooA",
-          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "Bon voyage",
-      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
         "name": "IN ITS TIME",
         "url": "https://open.spotify.com/album/3uMb3hF3aAlK7wPU4w8o9D"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 213293,
       "name": "A Song Written Easily",
       "url": "https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
+      },
+      "artists": [
+        {
+          "name": "YooA",
+          "url": "https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "Bon voyage",
+      "url": "https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "Summer Magic - Summer Mini Album",
-        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Blue Lemonade",
-      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
         "name": "WE",
         "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 176906,
       "name": "AH YEAH",
       "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
+        "name": "Summer Magic - Summer Mini Album",
+        "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
     },
     {
       "added_at": "2023-08-24 02:18:13",

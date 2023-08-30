@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-190 songs - 9 hr 9 min
+191 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2023-03-29 | 2023-07-15 |
 | [Jaan](https://open.spotify.com/track/4fWxieoPIFyOJxzXwdlFuQ) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Jaan](https://open.spotify.com/album/3N87c6BhUiUYqIsz8xKhZ7) | 2:29 | 2023-03-29 | 2023-04-09 |
 | [Jaan Vaardi](https://open.spotify.com/track/5vFYS7eKsrq4HdeKrzZhfu) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Jaan Vaardi](https://open.spotify.com/album/0knl45XLCOvvGfiJWoTjkq) | 2:28 | 2023-04-24 | 2023-07-21 |
+| [Jail](https://open.spotify.com/track/4vq09IiRwg2EdJtovCl5H2) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 3:27 | 2023-08-29 |  |
 | [Jatt Da Nishana](https://open.spotify.com/track/6N9A8SUlqnGQghsclChU5x) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:29 | 2023-03-29 | 2023-04-21 |
 | [Jatt Life Zone](https://open.spotify.com/track/6V3RLScZlL8Bim7KyqW2cA) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Jatt Life Zone](https://open.spotify.com/album/5VdJWuu3ixHuZsqpMrkbUa) | 3:17 | 2023-03-29 |  |
 | [Jatt Naal Yaari](https://open.spotify.com/track/2P3foCzLxJPobVTVzQGIQ7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jatt Naal Yaari](https://open.spotify.com/album/6q2iZjYKWC4gNHfb6C6cHr) | 3:00 | 2023-03-29 | 2023-04-25 |

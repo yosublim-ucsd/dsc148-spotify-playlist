@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: H3F \(Thailand\)
 
-937 songs - 2 day 8 hr 15 min
+939 songs - 2 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [7 Years](https://open.spotify.com/track/03IkbWWtLydmBuo9jQYC2Z) | [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [7 Years](https://open.spotify.com/album/2qmux3wpZ1Xs6Qr44SYZel) | 5:05 | 2022-10-28 | 2023-01-20 |
 | [A Change in Seasons](https://open.spotify.com/track/5oZ4I9J2ILqIyd7M3eBsWL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [A Change in Seasons](https://open.spotify.com/album/3rq8PzE5IqmkRK8LzhdooK) | 2:34 | 2023-02-09 | 2023-04-01 |
 | [A Dream of Wings](https://open.spotify.com/track/4WOSqKjvEJfkzM7I2UfVMV) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [A Dream of Wings](https://open.spotify.com/album/4dIl9q8HabZF7ZJ0UdCZa9) | 3:24 | 2022-10-06 | 2022-12-16 |
-| [A Friend Like You](https://open.spotify.com/track/2sqlp1pcVhCR4rGPHie3bF) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq), [Steffani BPM](https://open.spotify.com/artist/3xP1VXBTlRZZsDuJNcQg8A) | [A Friend Like You](https://open.spotify.com/album/6Wus2ML1XGxQkDXUkMKDMv) | 3:52 | 2023-08-03 |  |
+| [A Friend Like You](https://open.spotify.com/track/2sqlp1pcVhCR4rGPHie3bF) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq), [Steffani BPM](https://open.spotify.com/artist/3xP1VXBTlRZZsDuJNcQg8A) | [A Friend Like You](https://open.spotify.com/album/6Wus2ML1XGxQkDXUkMKDMv) | 3:52 | 2023-08-03 | 2023-08-30 |
 | [A GOOD LIFE](https://open.spotify.com/track/01W7dCP5o2mfyUl62Ybz81) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:21 | 2022-08-04 | 2022-08-26 |
 | [A GOOD LIFE](https://open.spotify.com/track/4sU5lJ3OPMgVUsxDtboyAW) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [A GOOD LIFE](https://open.spotify.com/album/4EK9cdwzHswGwCXeuwiRxE) | 1:21 | 2022-07-21 | 2022-08-06 |
 | [A Little of Autumn](https://open.spotify.com/track/3QLpDswqTh1i8uxHPDFlQR) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [A Little of Autumn](https://open.spotify.com/album/6LgekICVsAfC9GV5rIFKPE) | 3:42 | 2022-06-02 | 2022-07-15 |
@@ -173,7 +173,7 @@
 | [Crystal Sand](https://open.spotify.com/track/044boO65yZsvrJxa8lCWuT) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Crystal Sand](https://open.spotify.com/album/1UNudptTf9hJ0efxxHZtKQ) | 3:29 | 2023-01-26 | 2023-02-10 |
 | [Cue Sign](https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Cue Sign](https://open.spotify.com/album/4VWFmbeJULZek7Pmyg0bTO) | 3:36 | 2023-03-16 | 2023-04-29 |
 | [Cultivation](https://open.spotify.com/track/0xHiVZ6UcONGic2PgIeu55) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Benjamin Varney](https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX) | [Cultivation](https://open.spotify.com/album/6TLAPS18p4RNBH1HsIX7dn) | 4:52 | 2022-10-30 | 2022-11-11 |
-| [CUTIE](https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [CUTIE](https://open.spotify.com/album/58NklkNH8BSsUiah3F4Yzh) | 2:25 | 2023-06-15 |  |
+| [CUTIE](https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [CUTIE](https://open.spotify.com/album/58NklkNH8BSsUiah3F4Yzh) | 2:25 | 2023-06-15 | 2023-08-30 |
 | [Cá Đuối](https://open.spotify.com/track/7mXhhwuJSi7ymaHhp4HFag) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Cá Đuối](https://open.spotify.com/album/2bAlCgGwk13Mv164quGunk) | 4:03 | 2022-06-02 | 2022-07-17 |
 | [Dalam Nirvana](https://open.spotify.com/track/5bE7ej5pcyP2QBuKGLbHpp) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [POP SEBLAY](https://open.spotify.com/album/4QUd17mSKbu7lOHBcPtiCW) | 4:15 | 2023-04-20 | 2023-06-23 |
 | [Damn](https://open.spotify.com/track/1QwudZWY8vblm2FxnB5T6q) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl) | [Damn](https://open.spotify.com/album/5bOTQffztbHEb5hmVUsEMw) | 3:07 | 2022-09-29 | 2023-01-20 |
@@ -543,7 +543,7 @@
 | [NOISY](https://open.spotify.com/track/6Rt1Bc95ecZQZPdOGtY7fK) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [NOISY](https://open.spotify.com/album/6cl9qpMSPUljRaiAicAQgm) | 3:25 | 2023-04-20 | 2023-05-21 |
 | [Non\-Satisfaction](https://open.spotify.com/track/2JBKto9PeVMKcgnYuMVRX6) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Non\-Satisfaction](https://open.spotify.com/album/5FMycpbu55cMAWprBG4qm6) | 3:39 | 2022-04-14 | 2022-05-20 |
 | [Nostalgia](https://open.spotify.com/track/6ofybwTF7Xrreqz8cMVXk4) | [Golden Mammoth](https://open.spotify.com/artist/4ILzCq6Jt8Ykmth9ZuLSqb) | [Nostalgia](https://open.spotify.com/album/6k7eXIeW8UthcDcPmMKQkA) | 4:29 | 2023-08-17 |  |
-| [Nothing And Everything](https://open.spotify.com/track/0Wg3WsiL8g0mfbmrysUo2w) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Nothing And Everything](https://open.spotify.com/album/47gPq3W3W8PD0namaGWmtC) | 5:45 | 2023-08-03 |  |
+| [Nothing And Everything](https://open.spotify.com/track/0Wg3WsiL8g0mfbmrysUo2w) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Nothing And Everything](https://open.spotify.com/album/47gPq3W3W8PD0namaGWmtC) | 5:45 | 2023-08-03 | 2023-08-30 |
 | [November Blue](https://open.spotify.com/track/0PVVLuxXLWf4Sw7zjV6rd8) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/3ApfPiXonK9F6KiJQSeYeN) | 4:02 | 2022-10-06 | 2022-11-25 |
 | [November Blue](https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN) | 4:02 | 2022-10-06 | 2022-10-09 |
 | [Nuggets](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 | 2022-04-21 | 2022-06-10 |
@@ -753,7 +753,9 @@
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 |  |
 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 | 2023-07-14 |  |
 | [To Dream](https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/5NbBrlCBc57yURIgJwYxLn) | 4:32 | 2022-04-21 | 2022-05-13 |
+| [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 | 2023-08-29 |  |
 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2023-06-15 |  |
+| [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 | 2023-08-29 |  |
 | [Told You So](https://open.spotify.com/track/44oV4Lbj57EoORRzSNWCRX) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Genesis](https://open.spotify.com/album/1uIG9MSyXNBiq3cgH6Und5) | 5:13 | 2022-06-23 | 2022-07-15 |
 | [Tomorrow](https://open.spotify.com/track/4oN2UKsK6rDsYsKuhUGArm) | [Sunny Summer Day](https://open.spotify.com/artist/6qXg5xXMLAVhGJpXU3oVy9) | [Dreams and Memories](https://open.spotify.com/album/1ylXA5sQ1B6YAdJCm23kwv) | 4:27 | 2023-07-06 | 2023-07-15 |
 | [Too Far](https://open.spotify.com/track/45HLGBHegbepv8pcUsR7wI) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Too Far](https://open.spotify.com/album/5uekioXuMtE3YiBbMscBQu) | 3:31 | 2022-09-22 | 2022-10-07 |
@@ -837,7 +839,7 @@
 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-01 | 2022-12-09 |
 | [XOXO](https://open.spotify.com/track/556gAhB2GfQeqOrJPGh0Hf) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [XOXO](https://open.spotify.com/album/6NOpCPMMhjM3yx9HzPeRuU) | 3:41 | 2023-05-18 | 2023-08-25 |
 | [Xylo \(Shouldn't Have Called It\)](https://open.spotify.com/track/7IMQuX237UE0BgT3eXj3Xw) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Xylo \(Shouldn't Have Called It\)](https://open.spotify.com/album/2hBDHksfKvzXLbPAFY6BrM) | 2:42 | 2022-08-11 | 2022-09-09 |
-| [YANG KAU HINDARI TERJADI](https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [YANG KAU HINDARI TERJADI](https://open.spotify.com/album/4NMWT25Q26qQ8OCCbt0VoV) | 6:52 | 2023-06-08 | 2023-07-15 |
+| [YANG KAU HINDARI TERJADI](https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [YANG KAU HINDARI TERJADI](https://open.spotify.com/album/4NMWT25Q26qQ8OCCbt0VoV) | 6:52 | 2023-06-08 |  |
 | [Yearning](https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Yearning](https://open.spotify.com/album/1JPJ2SDY9CshZ7m6bNcyE9) | 3:40 | 2023-07-27 | 2023-08-18 |
 | [Yellow Light](https://open.spotify.com/track/2xTthDrC8bvxrZUKWWks1O) | [diondjokoadi](https://open.spotify.com/artist/3whzsIqAkpNv0rxyARK82D) | [Yellow Light](https://open.spotify.com/album/3DIl4oQDEz5X1s19h1vRHZ) | 3:05 | 2022-03-24 | 2022-05-13 |
 | [YES \- vanguard mix](https://open.spotify.com/track/0RNmlHZm28K6l9yKAqhGS3) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [YES \(vanguard mix\)](https://open.spotify.com/album/1ro49FQ5xgl9pIINxlRozK) | 4:29 | 2022-04-14 | 2022-05-27 |

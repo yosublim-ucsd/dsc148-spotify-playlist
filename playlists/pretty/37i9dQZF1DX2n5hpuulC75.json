@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 257216,
+  "num_followers": 257271,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2FiMTc4MmIyZTc2NjQ4MTRjNzg1ZmNiMzE2MzFhN2NlNWE1ZWY2",
+  "snapshot_id": "MCwzZDQ1YjVlZmMwNDAwNzlmOTYxNDU3YWE0M2YwNmVkZmIyZTZkZDM1",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -479,26 +479,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Unusable Love",
-        "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
-      },
-      "artists": [
-        {
-          "name": "El Ten Eleven",
-          "url": "https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0"
-        },
-        {
-          "name": "E. Mosseri",
-          "url": "https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI"
-        }
-      ],
-      "duration_ms": 281110,
-      "name": "I'm Right Here",
-      "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Swell - I'm Sorry",
         "url": "https://open.spotify.com/album/2x6NNjyxtvDBDOv0ywIISX"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 157338,
       "name": "Swell - I'm Sorry",
       "url": "https://open.spotify.com/track/2k17VNNGHPmnGwXZ8KdfPt"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Unusable Love",
+        "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
+      },
+      "artists": [
+        {
+          "name": "El Ten Eleven",
+          "url": "https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0"
+        },
+        {
+          "name": "E. Mosseri",
+          "url": "https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI"
+        }
+      ],
+      "duration_ms": 281110,
+      "name": "I'm Right Here",
+      "url": "https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -639,22 +639,6 @@
     {
       "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
-      },
-      "artists": [
-        {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
         "name": "Your Own Truth",
         "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 293613,
       "name": "Your Own Truth",
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
       "added_at": "2019-03-18 20:29:35",
@@ -717,24 +717,20 @@
       "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
-      "added_at": "2019-05-24 08:01:00",
+      "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "another time (world$tar money)",
-        "url": "https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy"
       },
       "artists": [
         {
-          "name": "simon eng",
-          "url": "https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC"
-        },
-        {
-          "name": "duendita",
-          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
         }
       ],
-      "duration_ms": 181681,
-      "name": "another time (world$tar money)",
-      "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
+      "duration_ms": 144000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -779,6 +775,26 @@
       "duration_ms": 114929,
       "name": "I've Always Been",
       "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "another time (world$tar money)",
+        "url": "https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV"
+      },
+      "artists": [
+        {
+          "name": "simon eng",
+          "url": "https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC"
+        },
+        {
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        }
+      ],
+      "duration_ms": 181681,
+      "name": "another time (world$tar money)",
+      "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -867,22 +883,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy"
-      },
-      "artists": [
-        {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 189445,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Wave001",
-        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -931,6 +915,22 @@
       "duration_ms": 198776,
       "name": "Home (feat. LEES)",
       "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Wave001",
+        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Backwater",
-        "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
-      },
-      "artists": [
-        {
-          "name": "Kllo",
-          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
-        }
-      ],
-      "duration_ms": 254010,
-      "name": "Nylon",
-      "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "They Came Along",
         "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 357894,
       "name": "They Came Along",
       "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Backwater",
+        "url": "https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "duration_ms": 254010,
+      "name": "Nylon",
+      "url": "https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm"
     }
   ],
   "unique_name": "Mellow Mood",

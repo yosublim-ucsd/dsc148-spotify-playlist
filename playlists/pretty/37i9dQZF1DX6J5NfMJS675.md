@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,302,267 likes - 60 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302,808 likes - 60 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Brunt](https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Brunt](https://open.spotify.com/album/3SY8NzLDUQuQFbRuezNpzY) | 6:30 |
 | 60 | [Experience](https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Experience](https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1) | 5:48 |
 
-Snapshot ID: `MCwwMGQyYWQ0MjEwZTRiNWY2ODZmYmUwYzNkMzNmNDY3Yjg3NWUxYTE5`
+Snapshot ID: `MCxlYmYyZjNmYTAyYmZmMzM3NTNjOGEyNWM5NjJhZGMxOWYwZGExMzA4`

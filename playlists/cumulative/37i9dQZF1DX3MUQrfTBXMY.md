@@ -2,9 +2,9 @@
 
 ### [Bangla Rock](https://open.spotify.com/playlist/37i9dQZF1DX3MUQrfTBXMY)
 
-> Headbangers of Bangladesh\. Cover \- Aftermath
+> Headbangers of Bangladesh\. Cover \- Shunno
 
-270 songs - 23 hr 23 min
+271 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Lukao](https://open.spotify.com/track/7GBEnD2kXpIhXjIIXdL7rf) | [Bangla Five](https://open.spotify.com/artist/2mt61gxTSTC56E4wgosOIj) | [Lukiye Thakar Shomoy](https://open.spotify.com/album/4CwcRaZ32l3ErtEtdPUUiy) | 4:43 | 2023-01-20 | 2023-02-18 |
 | [Ma](https://open.spotify.com/track/68KWhhmv23G9qb2Tlvrvcy) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Ma](https://open.spotify.com/album/6sQBAHIAzfVLLdSfrhQHUO) | 5:11 | 2023-04-03 | 2023-04-29 |
 | [Maa Go Bhabna Keno](https://open.spotify.com/track/2BwUnAP2QhfFjtN0Ah7nPX) | [Shishir Ahmed](https://open.spotify.com/artist/7B9OMl4OkifBonxyDNBJ2A), [Bakhtiar Hossain](https://open.spotify.com/artist/5BixMBi6zYuMQ3suvrT6LF), [Ishmamul Farhad](https://open.spotify.com/artist/3a3SXVCQIAqiC8jIQ5S6en) | [Maa Go Bhabna Keno](https://open.spotify.com/album/5DrJc56e982XXy1ZfjQ9iV) | 1:57 | 2022-06-16 | 2022-07-16 |
-| [Manush \- 1](https://open.spotify.com/track/4XnqzQJMamzhjNn5IU6myH) | [Avash](https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd) | [Manush \- 1](https://open.spotify.com/album/3AZ7tQUxsqBnFHLaIXFfQP) | 5:16 | 2023-08-23 |  |
+| [Manush \- 1](https://open.spotify.com/track/4XnqzQJMamzhjNn5IU6myH) | [Avash](https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd) | [Manush \- 1](https://open.spotify.com/album/3AZ7tQUxsqBnFHLaIXFfQP) | 5:16 | 2023-08-23 | 2023-08-30 |
 | [Masranga](https://open.spotify.com/track/2WheD9I12IlaPFgidqcf57) | [Shohojia](https://open.spotify.com/artist/7ImlbtGXKIeyQWQWOZuDtx) | [Masranga](https://open.spotify.com/album/7knKeANWWtsYflQieVtyMh) | 4:25 | 2023-07-20 | 2023-08-15 |
 | [Matir Roud \(Bonus Track\)](https://open.spotify.com/track/0JnTceZvCOPnRcRiGQvWEj) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [JED](https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ) | 4:29 | 2023-07-17 |  |
 | [Maya](https://open.spotify.com/track/0pNFYOj2eRAvIBX5cFrmHc) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Maya](https://open.spotify.com/album/2ccWwV3F8ExvbQ258jCaj8) | 6:44 | 2023-08-14 |  |
@@ -200,6 +200,7 @@
 | [Oporanho](https://open.spotify.com/track/44QWuAwI92irD0HNDRyheR) | [Icons](https://open.spotify.com/artist/3tEw3hDETkxsewEVCd93Os) | [Ishshoronio](https://open.spotify.com/album/1CAv5DdqyzFcYOvDpoaeu1) | 4:09 | 2023-07-17 | 2023-08-24 |
 | [Ore Nil Doriya](https://open.spotify.com/track/633EJpBKhPns6Z6Tp4K9a7) | [A\. I\. Razu](https://open.spotify.com/artist/67ShnJ9ENhvPwmWymi4zYB) | [Ore Nil Doriya](https://open.spotify.com/album/1BHqOSF6p6Qzn70vOkNtsv) | 5:43 | 2022-06-16 | 2023-01-21 |
 | [Oshohay](https://open.spotify.com/track/28EuVI2lZ9lPQvxqkTocQ5) | [Noble Man](https://open.spotify.com/artist/3AsC2cKcBmoayjRPDMSMTO) | [Oshohay](https://open.spotify.com/album/4dg0rruUNCarEoAF59s9Dt) | 4:28 | 2023-08-07 | 2023-08-15 |
+| [Oshomapto Shantona](https://open.spotify.com/track/7JS8bTlmaZpWZEExJnwZlD) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 5:52 | 2023-08-29 |  |
 | [Otithi Pakhi \- 2021 Remastered version](https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Otithi Pakhi \(2021 Remastered Version\)](https://open.spotify.com/album/02JtyTUKhl9CJS1QbXS2kt) | 1:25 | 2022-06-16 | 2022-09-24 |
 | [Otritio](https://open.spotify.com/track/3V3zYOMZblcmx6Ql8zJ7Ey) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 11:11 | 2023-03-15 | 2023-04-04 |
 | [Oviman](https://open.spotify.com/track/5Hu2p0WTdAMz81RwgqR8AT) | [Unique Bond](https://open.spotify.com/artist/6Mz5djl2JRwJUn6WvDgx7T), [Udayan Nath](https://open.spotify.com/artist/5Y3NQEwwfFLQ3SvbLpN6Dh) | [Oviman](https://open.spotify.com/album/6DiS9vBOK6vqUlkzCC3XOo) | 5:21 | 2022-11-30 | 2023-02-18 |

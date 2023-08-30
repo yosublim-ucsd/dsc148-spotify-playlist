@@ -4,7 +4,7 @@
 
 > Vintage soul gems from the archives.
 
-183 songs - 10 hr 11 min
+184 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [I Learned the Hard Way](https://open.spotify.com/track/0NZRAjB2V4dIjZpLZJQgpu) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/4FZCwaWGcFqd2CBiJUcHnx) | 3:46 | 2022-05-11 | 2023-04-30 |
 | [I Learned the Hard Way](https://open.spotify.com/track/6EfzMRn24usWjFgykZWLl2) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6) | 3:46 | 2022-05-11 |  |
 | [I Learned the Hard Way](https://open.spotify.com/track/4yGKuj0prNvMW7ikeXv57x) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Daptone Summer Jams](https://open.spotify.com/album/5SXUzvribtNUgJ5UXsoU1H) | 3:47 | 2021-04-23 | 2022-07-29 |
-| [I Love You Secretly](https://open.spotify.com/track/1JyKnipwxepbTo7OeqqO17) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 4:18 | 2021-04-23 |  |
+| [I Love You Secretly](https://open.spotify.com/track/1JyKnipwxepbTo7OeqqO17) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 4:18 | 2021-04-23 | 2023-08-30 |
+| [I Love You Secretly](https://open.spotify.com/track/2ykNJxkcqdKFl2qJyaRUVr) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Renaissance](https://open.spotify.com/album/3AMyDc8FYYxJ84ogCzJrwB) | 4:24 | 2022-05-11 |  |
 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 | 2021-07-20 |  |
 | [I Wanna Know Your Name](https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 5:49 | 2021-07-20 |  |
 | [I'll Come Running](https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW) | [Carolyn Crawford](https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS) | [The Complete Motown Singles Vol\. 4: 1964](https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk) | 2:37 | 2021-04-23 |  |

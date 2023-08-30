@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 52982,
+  "num_followers": 53099,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjU0OWQ1ZGRmN2U5ZjE4MWJkMWEyNjdjMmQ0ZjE2N2RjZDk3MGE5",
+  "snapshot_id": "MCw2MzQ3NzkzYzQzZGU1MWM2NGExYmY2NzZlZWFlY2Y1ZDNiZGM0Zjdh",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
         "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 235734,
       "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
       "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Sky Ablaze",
-        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
       },
       "artists": [
         {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Sky Ablaze",
-      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+        "name": "Sky Ablaze",
+        "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
       },
       "artists": [
         {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
         }
       ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+      "duration_ms": 175271,
+      "name": "Sky Ablaze",
+      "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1835,18 +1835,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "TH3 FL0W",
-        "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
+        "name": "Demonic Playgrounds",
+        "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
       },
       "artists": [
         {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        },
+        {
+          "name": "Disarray",
+          "url": "https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke"
         }
       ],
-      "duration_ms": 154272,
-      "name": "TH3 FL0W",
-      "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
+      "duration_ms": 188404,
+      "name": "Demonic Playgrounds",
+      "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
     }
   ],
   "unique_name": "Hardcore Rage 2023",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
   "description": "Chill instrumental ambient for slow, focused movement.",
-  "name": "Mind & Body",
+  "name": "Morning Chill",
   "tracks": [
     {
       "album": {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 199085,
       "name": "Apogee",
       "url": "https://open.spotify.com/track/4rE5DyWiZPeowXDEkkceeH"
@@ -2245,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Droplet of Grace",
+        "url": "https://open.spotify.com/album/2Fp93WU1JUHpRmtEknRne7"
+      },
+      "artists": [
+        {
+          "name": "South Noon",
+          "url": "https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Droplet of Grace",
+      "url": "https://open.spotify.com/track/3W2UlaHx93we9YqM1BvjFZ"
+    },
+    {
+      "album": {
         "name": "Dr\u00f8mmende",
         "url": "https://open.spotify.com/album/786ZDMgiNEMHHTqEm376n5"
       },
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 148285,
       "name": "Fade To Green",
       "url": "https://open.spotify.com/track/7g6H3w5ZR6LltDkD2iRISL"
@@ -4711,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/0aWHdB87jdYmkjHfQU32gh"
+      },
+      "artists": [
+        {
+          "name": "Celestial Echoes",
+          "url": "https://open.spotify.com/artist/2kPdGnJr2JeSSlSsyjS41v"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170855,
+      "name": "Metamorphic",
+      "url": "https://open.spotify.com/track/6S5TAvYjNKzaVI5KR6DomW"
+    },
+    {
+      "album": {
         "name": "Story Teller",
         "url": "https://open.spotify.com/album/1CI6TJiLlOC0sbWE5xEIBU"
       },
@@ -5215,6 +5251,24 @@
     },
     {
       "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/0JuOM1FiY5sNZCpgetmPSH"
+      },
+      "artists": [
+        {
+          "name": "Zamphire",
+          "url": "https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172449,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL"
+    },
+    {
+      "album": {
         "name": "Northbound",
         "url": "https://open.spotify.com/album/2sT6JfcIOzh6w6iNI17LAi"
       },
@@ -5374,6 +5428,24 @@
       "duration_ms": 184590,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/5dhf443YVdBpZZOGutxjsx"
+    },
+    {
+      "album": {
+        "name": "One Drope On World",
+        "url": "https://open.spotify.com/album/1zQSTded6rxRs9eTj42mml"
+      },
+      "artists": [
+        {
+          "name": "SWAMP&STAR",
+          "url": "https://open.spotify.com/artist/3l9cGKVRvyJHWSNDOb6fd5"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "One Drope On World",
+      "url": "https://open.spotify.com/track/14lFQ2ennhUQyDvS7LIxB8"
     },
     {
       "album": {
@@ -5820,7 +5892,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 177391,
       "name": "Protection",
       "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
@@ -6360,7 +6432,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 157333,
       "name": "Seguro",
       "url": "https://open.spotify.com/track/33jgsXDccgPQ6C4LLLPwhp"
@@ -6436,6 +6508,24 @@
       "duration_ms": 155142,
       "name": "Serenade of Sleep",
       "url": "https://open.spotify.com/track/17acvRlK1CgobLmpPVGCXK"
+    },
+    {
+      "album": {
+        "name": "Serenade",
+        "url": "https://open.spotify.com/album/3AfPQxx0pD4kUpOOnhp0ek"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238038,
+      "name": "Serenede",
+      "url": "https://open.spotify.com/track/59RgVD5OaEP23JhlmmMyiF"
     },
     {
       "album": {

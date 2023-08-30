@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-515 songs - 2 day 1 hr 2 min
+516 songs - 2 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 | 2023-05-09 |  |
 | [Enviada](https://open.spotify.com/track/48uTgKxNsCGG4LZc2gk1Iz) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Enviada](https://open.spotify.com/album/6fTRT9hUtP1tmLpDKdfcA6) | 4:03 | 2022-09-29 | 2022-10-15 |
 | [Episodes](https://open.spotify.com/track/2Yk3u2Hqr4VvUy7ERCwha4) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 6:01 | 2021-10-06 | 2022-07-29 |
+| [Escape Wheel](https://open.spotify.com/track/6WwHK93jWaQ2dPRTwfvw9F) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here? \(Expanded Remaster\)](https://open.spotify.com/album/5rUs6wwi3ARImuk1iPXM4M) | 6:42 | 2023-08-29 |  |
 | [Espiral](https://open.spotify.com/track/4scyVaCVRmvUzjace2yuPO) | [Superfície](https://open.spotify.com/artist/471b45YUpKWhk18HCoyNQR) | [Nxâme](https://open.spotify.com/album/6SoNmBHrYIuC9Ni0yz1Bot) | 2:09 | 2021-10-06 | 2022-07-14 |
 | [Eternal Loop](https://open.spotify.com/track/0dHnH4HDjXI1Z8hXMxLzpB) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Eternal Loop](https://open.spotify.com/album/2wKnMHMzOVKg1IRRAKK7q9) | 4:44 | 2021-10-06 | 2022-07-05 |
 | [Everything Without Shadow](https://open.spotify.com/track/4sFeyU8zQIg1k6W5kuxOyt) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:04 | 2022-03-30 | 2022-07-22 |
@@ -182,7 +183,7 @@
 | [figure profane](https://open.spotify.com/track/5eibZ6ynR9JNS40QmSstwc) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Zach Frampton](https://open.spotify.com/artist/7FpvWkmacEAy2mmeCA0yLr) | [figure profane](https://open.spotify.com/album/60nhWK5jV15FUKzhwff7J5) | 4:23 | 2022-02-18 | 2022-07-29 |
 | [Fin août, début septembre](https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [Afterpoem](https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl) | 1:58 | 2023-03-03 | 2023-04-23 |
 | [Fine Life](https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4) | [Yoshihiro Sawasaki](https://open.spotify.com/artist/5AX6UPab3nPPyoK9cdUjSV) | [Naturally Gushing vol.2](https://open.spotify.com/album/5RzuwWt2lWqkJZY7efjM0x) | 6:01 | 2022-03-30 | 2022-08-01 |
-| [First Chakra Keynote C \(Red\) \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc) | 2:51 | 2021-10-06 |  |
+| [First Chakra Keynote C \(Red\) \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc) | 2:51 | 2021-10-06 | 2023-08-30 |
 | [Flux](https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Flux](https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR) | 1:41 | 2022-08-24 | 2022-10-05 |
 | [Flying to America](https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp) | [Marco Parisi](https://open.spotify.com/artist/2cyi32bBtDCapFqWrgwANu) | [Flying to America](https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji) | 7:48 | 2021-10-06 | 2022-07-29 |
 | [For Gato](https://open.spotify.com/track/7H95nk7sGoZloUbuetU4PM) | [SPARKLE DIVISION](https://open.spotify.com/artist/2qJTi04qBpG3C0RR62l1Du) | [To Feel Embraced](https://open.spotify.com/album/3mAE83dKTwjGmGaK2wP3tu) | 3:06 | 2021-10-06 | 2022-07-05 |

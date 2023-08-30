@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=dipYElmRTMeQ8UsJM\_ZGVQ">Theresa Phondo </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,254 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,311 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Onjagala \- Acoustic](https://open.spotify.com/track/0j9jsddtgxA79gxtoFodU9) | [KEDI](https://open.spotify.com/artist/3MHFc62uVV1SoSxWEyMG0c) | [Onjagala \(Acoustic\)](https://open.spotify.com/album/2HdABaFCoEFNaoAOTaRIxp) | 3:54 |
 | 100 | [Daily](https://open.spotify.com/track/3gtW4dM2ckIypEJESJJcUy) | [Mayolee](https://open.spotify.com/artist/0Jr2Tiv1vD924vvUH5JEdG) | [Daily](https://open.spotify.com/album/1CcB5U2YAwPa955v3C7oEh) | 2:54 |
 
-Snapshot ID: `MCw4MWM3YTkxNzA2YmI3NWEyYTQ1NDk3NmJmOTk4NTkzOWY0ZTJjNzYy`
+Snapshot ID: `MCw2NjRhODEzNWRjMmEwMDM1Yzk4OTMxNDA0ZThkZmRlMDEyODIxNGE5`

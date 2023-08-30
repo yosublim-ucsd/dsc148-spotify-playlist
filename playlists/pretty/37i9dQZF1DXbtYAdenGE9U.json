@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 457260,
+  "num_followers": 457742,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDIxMmMxYjU1MTFiY2I0MTVmYWFlYzQ3NGQwN2M1ZmIzNTkwZjgy",
+  "snapshot_id": "MCwxZmIxNDQzOTI3ZTMzYzdmODJhOTAyYmI5MWYxYzE5NmVlOWI1YTZl",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -247,6 +247,26 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Moya Brennan",
+          "url": "https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 197160,
       "name": "On The Beach - Mauro Picotto's CRW Remix",
       "url": "https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Moya Brennan",
-          "url": "https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Saltwater",
-      "url": "https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -419,6 +419,26 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Vocal Trance Hits - The Anthems",
         "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 259200,
       "name": "Feel the Beat",
       "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Hard Hop Superstars",
+        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
+      },
+      "artists": [
+        {
+          "name": "Public Domain",
+          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Operation Blade (7\" Radio Edit)",
+      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Coming On Strong (ReOrder Remix)",
         "url": "https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 199719,
       "name": "Coming On Strong",
       "url": "https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Hard Hop Superstars",
-        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
-      },
-      "artists": [
-        {
-          "name": "Public Domain",
-          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Operation Blade (7\" Radio Edit)",
-      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
     },
     {
       "added_at": "2023-08-11 10:02:57",

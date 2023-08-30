@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,546 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,550 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
 | 2 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 |
-| 3 | [unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
+| 3 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
 | 4 | [Me And You, Anywhere](https://open.spotify.com/track/2YyvOCmxDpyTkovTmA86XY) | [Deadharrie](https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX) | [Me And You, Anywhere](https://open.spotify.com/album/6Ae3GMu40g4zisALlypWZz) | 3:22 |
 | 5 | [how's it feel to be a boy](https://open.spotify.com/track/2kzfmR5NzxcJdp2yMAhZE2) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [how's it feel to be a boy](https://open.spotify.com/album/4sHzSRwp8ALK3b6itOJvrA) | 2:21 |
 | 6 | [8AM FLIGHTS](https://open.spotify.com/track/4rKIx2lRFIxDQiK1tIjj2r) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [8AM FLIGHTS](https://open.spotify.com/album/1pqfKg3FNopnK6kEHxFB6r) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Fatal Flaw](https://open.spotify.com/track/3APUm7NkHTlKjnNeMdAsCy) | [Allegra Jordyn](https://open.spotify.com/artist/2CVFLhroSUN5E5r8FW25LR) | [Fatal Flaw](https://open.spotify.com/album/1yBhmKGCaj9OzjRzvpY2XJ) | 3:32 |
 | 50 | [Fatiguée](https://open.spotify.com/track/6p5wW2wyB77K43YAqTeIma) | [Jeanne Laforest](https://open.spotify.com/artist/22pR3J0Y0WNrj8gS0TSaHb) | [Puisque les heures nous manquent](https://open.spotify.com/album/0V3mQctTFlwTEASUWVmRek) | 3:21 |
 
-Snapshot ID: `MCwxOGRkZDE1ZDZmZGM5YTc5MzBkZmM3NjRlYTFmMGRlMzhhODQ3NGRi`
+Snapshot ID: `MCwwMDMyZTRlZTg1YTBhMTJkM2NiMmUwYTdmODRiZDliYjczMGEzNWY0`

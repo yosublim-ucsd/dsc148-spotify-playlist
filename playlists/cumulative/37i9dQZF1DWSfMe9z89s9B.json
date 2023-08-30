@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 169687,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm"
@@ -8255,6 +8255,24 @@
     },
     {
       "album": {
+        "name": "it's not feeling good anymore",
+        "url": "https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145549,
+      "name": "it's not feeling good anymore",
+      "url": "https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK"
+    },
+    {
+      "album": {
         "name": "Bound",
         "url": "https://open.spotify.com/album/0alzQ77np9vExPaQChtWZX"
       },
@@ -10872,7 +10890,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 176456,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM"
@@ -16244,6 +16262,24 @@
       "duration_ms": 310455,
       "name": "transit",
       "url": "https://open.spotify.com/track/4jooqGSJoluFI6TttmEhLq"
+    },
+    {
+      "album": {
+        "name": "TRAVELIN'",
+        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "TRAVELIN'",
+      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "album": {

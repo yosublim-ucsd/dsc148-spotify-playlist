@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,884 likes - 95 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,896 likes - 95 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 57 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
 | 58 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 |
 | 59 | [Too Much](https://open.spotify.com/track/2EphCkHwxnplLCvPslzS74) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Too Much](https://open.spotify.com/album/41p1g2DoL55ttVaqfQ9mpM) | 2:33 |
-| 60 | [Wish U Well](https://open.spotify.com/track/6BWI8WNmCwYHfJC5BLvks4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:19 |
+| 60 | [Wish U Well](https://open.spotify.com/track/6BWI8WNmCwYHfJC5BLvks4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Wish U Well](https://open.spotify.com/album/3o8vbZtaT6pPtRJ6y6l0lB) | 3:19 |
 | 61 | [growing pains](https://open.spotify.com/track/7BOoSqdeANMIO1xwHpQJ89) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [spark\_\_space](https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS) | 3:31 |
 | 62 | [One with the Wolves](https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 3:00 |
 | 63 | [subtle\. prod by GANZ](https://open.spotify.com/track/56yRIFUMrofh2dfIjem9DK) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [subtle\. prod by GANZ](https://open.spotify.com/album/2dpYExcFio7EoF4ITW31Et) | 1:56 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 94 | [Forever](https://open.spotify.com/track/4sEm5dbsLC1Lcd1OgBTPmc) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Forever](https://open.spotify.com/album/3yfaBbWFqz77aLa08TjClX) | 3:25 |
 | 95 | [Change Your Mind](https://open.spotify.com/track/3rzFBzDzdRMWP4aLmeGrJu) | [MID CITY](https://open.spotify.com/artist/5CfLIXfiqkmqz5If0yFu5E) | [Happy Ever After](https://open.spotify.com/album/0qEaHYJZBJ8TVTw7EXtjXy) | 4:26 |
 
-Snapshot ID: `MCxmNDcyMmE4OGJhZGZmYWM2NmUxNWZmZTk5NDA1N2E5NjFmNzcyODUy`
+Snapshot ID: `MCw4OTFjNmMyM2UyYjQ3ZjE1OTQzZGMyN2VjMGY5ZmE3M2JmNGY1ZDA2`

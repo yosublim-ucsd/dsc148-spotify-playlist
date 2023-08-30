@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Miley Cyrus",
-  "num_followers": 381761,
+  "num_followers": 381977,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTM3ZjY3ZDBjYTBhN2M3OTEzYzRhNjNhMmU3N2YyYmY0YTg5NzM5",
+  "snapshot_id": "MCxjYWZjNjNmZTBiNGZmY2MxZTJmNzU5ZmFjMWM0YTU0NTczNTY3NmI0",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -390,6 +390,14 @@
         {
           "name": "Swae Lee",
           "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
         }
       ],
       "duration_ms": 208913,

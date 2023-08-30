@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 317140,
+  "num_followers": 317177,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzIzYWZmMDBlNjYzOWJiOThkOGMyYmFkZGVjYzVjOTQ4NWZhOGRk",
+  "snapshot_id": "MCw5MWU1ODUzNTY1ZmMzMjdmYWUxNzFiY2VkN2JhN2ZkZWJlNzVjYjc1",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "10 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/3TqROuIEoAYivO3pCfiiBA"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 476200,
-      "name": "As\u00ed Fue - En Vivo",
-      "url": "https://open.spotify.com/track/15GZJvSbdP8BpwZHjA6PsA"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Amanecida Con Todo y Con Todos",
         "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 215882,
       "name": "La Farsante",
       "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "10 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/3TqROuIEoAYivO3pCfiiBA"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 476200,
+      "name": "As\u00ed Fue - En Vivo",
+      "url": "https://open.spotify.com/track/15GZJvSbdP8BpwZHjA6PsA"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/4mmaQPVzYMBlUKGehvrfOB"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 242840,
       "name": "Gracias A Dios",
       "url": "https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/4mmaQPVzYMBlUKGehvrfOB"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 484706,
-      "name": "Popurr\u00ed Juan Gabriel / Ya Lo S\u00e9 Que T\u00fa Te Vas / La Diferencia / Te Sigo Amando - En Vivo",
-      "url": "https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv"
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 170685,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
+      "duration_ms": 484706,
+      "name": "Popurr\u00ed Juan Gabriel / Ya Lo S\u00e9 Que T\u00fa Te Vas / La Diferencia / Te Sigo Amando - En Vivo",
+      "url": "https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 175359,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Non-Stop: Mexico to Jamaica",
         "url": "https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 189666,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        }
-      ],
-      "duration_ms": 175359,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Sensibilidad",
-        "url": "https://open.spotify.com/album/4mdlun9NX07tuIjGKPZQhL"
-      },
-      "artists": [
-        {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
-        }
-      ],
-      "duration_ms": 205985,
-      "name": "Yo no nac\u00ed para amar",
-      "url": "https://open.spotify.com/track/3CUh3kQB11EP4ST9gZnAaU"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Canciones Que Recuerdo",
         "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 311216,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/0URvtXxnBiJKzgl0pOauhy"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Sensibilidad",
+        "url": "https://open.spotify.com/album/4mdlun9NX07tuIjGKPZQhL"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "duration_ms": 205985,
+      "name": "Yo no nac\u00ed para amar",
+      "url": "https://open.spotify.com/track/3CUh3kQB11EP4ST9gZnAaU"
     },
     {
       "added_at": "2023-05-05 18:26:22",

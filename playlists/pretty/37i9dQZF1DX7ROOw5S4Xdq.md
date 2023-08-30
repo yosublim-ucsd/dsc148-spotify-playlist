@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Arthur Callazans, Bruna Karla
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,366 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,502 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 59 | [Vitorioso És](https://open.spotify.com/track/6CCwJUqpwqFy7EDpyGn9nj) | [Pagode Restaura](https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C) | [Vitorioso És](https://open.spotify.com/album/78wlfqXp3pdbQd19lb948r) | 4:36 |
 | 60 | [Carolina Se Converteu](https://open.spotify.com/track/1knS3ViIgA8bR2lUMnVJO1) | [Xote Santo](https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE) | [Carolina Se Converteu](https://open.spotify.com/album/0yWJi3wCrZDUAIyYy3EhAu) | 3:35 |
 
-Snapshot ID: `MCxjY2NlOTI1YTk1OGM4NjQ2NTA0NGVjZWQ1MDYzM2I0YzU0MWMyZmFi`
+Snapshot ID: `MCw3ZWE2Zjk0NmExZmEwZGNjYTdiMzA5M2Y4ZjUwNDZkNGU1ZDM5ZGU1`

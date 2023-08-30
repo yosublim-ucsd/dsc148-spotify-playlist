@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-281 songs - 23 hr 10 min
+282 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All My Love](https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [All My Love](https://open.spotify.com/album/31hSeksEGpMamJ3hUKAmJ1) | 3:58 | 2022-11-10 | 2022-12-08 |
 | [Almost Blue](https://open.spotify.com/track/5VMVG1XzdiIY8dGnwaKiDJ) | [Fay Claassen](https://open.spotify.com/artist/5NRdz3sJhdfzGhHE9zK5Lz) | [Sings Two Portraits Of Chet Baker](https://open.spotify.com/album/7CgSA98wX3HgocA6IL5F9T) | 5:36 | 2022-05-18 | 2022-08-27 |
 | [Alone Together](https://open.spotify.com/track/3lBFgKoGy3rAHejRPzeeTM) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 6:49 | 2022-05-18 | 2022-11-11 |
+| [An Evening In Vienna](https://open.spotify.com/track/3bop0vSSbniMVgkYuOCEKR) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [An Evening In Vienna](https://open.spotify.com/album/3WfIRV65RyKAJeVTXR4WEr) | 3:04 | 2023-08-24 |  |
 | [Anse Source d'Argent](https://open.spotify.com/track/4jl1mBMyPdpDh0mYadTZhR) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Anse Source d'Argent](https://open.spotify.com/album/78HJ40CFyeOvdOhGy9LItG) | 3:58 | 2023-01-12 |  |
 | [At Dusk](https://open.spotify.com/track/0XVdTFUuT5GpxURuICaFKK) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [At Dusk](https://open.spotify.com/album/5uRwkihneepvVSGokwLDNO) | 3:24 | 2022-11-10 | 2022-12-24 |
 | [Autumn Leaves](https://open.spotify.com/track/4cBpmIjCDJ9k5o0EHaDZkp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole \- Unforgettable](https://open.spotify.com/album/5UF70dBT0xrMvQkPj4nJqk) | 2:41 | 2022-05-18 | 2022-06-23 |
@@ -155,7 +156,7 @@
 | [Left Alone](https://open.spotify.com/track/66EfRZTVNbOU5hQasXP1dK) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Left Alone](https://open.spotify.com/album/6R6AEilPIJEoPSDITHiJIn) | 6:04 | 2022-05-18 | 2022-07-29 |
 | [Left Alone](https://open.spotify.com/track/1S3iCPwpLZGi2Usp3fJWpy) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Cat Walk](https://open.spotify.com/album/3PtjzG5e4nTStVE0347nFb) | 6:07 | 2022-06-29 | 2022-09-23 |
 | [Life And Death](https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [Into The Silence](https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD) | 9:18 | 2022-06-03 |  |
-| [Little Girl Blue](https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Standards In Norway](https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt) | 6:43 | 2022-06-03 |  |
+| [Little Girl Blue](https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Standards In Norway](https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt) | 6:43 | 2022-06-03 | 2023-08-30 |
 | [Little Person](https://open.spotify.com/track/4ahjjiW9EWNwJKiOcCjb12) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 3:53 | 2022-05-18 |  |
 | [Lonnie's Lament](https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 11:47 | 2022-05-18 | 2023-03-18 |
 | [Losing You](https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S) | 3:24 | 2022-06-29 | 2022-08-27 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI?si=9U767o32QpWdJZviq\-frcw">Sibusiso Mashiloane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,058 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,068 likes - 50 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 |
-| 2 | [Mabaphile](https://open.spotify.com/track/041J8KXn8xjhQCcgfBQWsR) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Cwaka](https://open.spotify.com/album/5x2pAfzkEpcmudXzuVPvyV) | 4:48 |
+| 1 | [Mabaphile](https://open.spotify.com/track/041J8KXn8xjhQCcgfBQWsR) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Cwaka](https://open.spotify.com/album/5x2pAfzkEpcmudXzuVPvyV) | 4:48 |
+| 2 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 |
 | 3 | [Amazing Grace](https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Blk Elijah & The Children of Meroë](https://open.spotify.com/album/2HUrxmQV5x6i6FQTr6950S) | 7:06 |
-| 4 | [Voice](https://open.spotify.com/track/4i0JGQjQ0A0rq6NtzDmEBl) | [Mthunzi Mvubu](https://open.spotify.com/artist/6oOo5M8BQsi01kxDE3sKT6) | [The 1st Gospel](https://open.spotify.com/album/2r8YjJrjJzslaSWemjQhdB) | 8:15 |
-| 5 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 |
-| 6 | [Hymn For Hani](https://open.spotify.com/track/1dyINry7aQw296piLxPzUB) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Hymn For Hani](https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg) | 11:56 |
+| 4 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 |
+| 5 | [Hymn For Hani](https://open.spotify.com/track/1dyINry7aQw296piLxPzUB) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Hymn For Hani](https://open.spotify.com/album/1ii3szb5NzB9ssDm4Vghvg) | 11:56 |
+| 6 | [Voice](https://open.spotify.com/track/4i0JGQjQ0A0rq6NtzDmEBl) | [Mthunzi Mvubu](https://open.spotify.com/artist/6oOo5M8BQsi01kxDE3sKT6) | [The 1st Gospel](https://open.spotify.com/album/2r8YjJrjJzslaSWemjQhdB) | 8:15 |
 | 7 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
 | 8 | [Heart Like A Wheel \(Radio Edit\)](https://open.spotify.com/track/65VznwzRGUWgyTCjitI9M7) | [Nicky Schrire](https://open.spotify.com/artist/0Of9Llbb7iRx5VChztCJdb) | [Heart Like a Wheel \(Radio Edit\)](https://open.spotify.com/album/3fPymuw7Kp8bewYmYqbMPP) | 3:25 |
 | 9 | [Aunty B \- Live](https://open.spotify.com/track/4B0SAa1Qh18m6LkRRUqtCE) | [Keenan Ahrends](https://open.spotify.com/artist/6ESm50MFOfkEqAaWEgVKiQ) | [Perseverance: Live at the Bird's Eye](https://open.spotify.com/album/5ALMv6JHL1KO7SVaeilQiD) | 8:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [Nandi's Suite \(1st Mov\)](https://open.spotify.com/track/1O1qPvS595hMv3WxXprDlx) | [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Umgidi Ensemble](https://open.spotify.com/artist/3urMiFwlK23Hjs6zd9Wr5S), [Afrika Mkhize](https://open.spotify.com/artist/6BxxONpaeoIFqbZXzlbzGf), [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Ngari Ndong](https://open.spotify.com/artist/3hSbU7bsDQSnZSZhbDEpAO), [Njabulo Shabalala](https://open.spotify.com/artist/0rwnXBO4t7iivrfkI6qbsq), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Siya Charles](https://open.spotify.com/artist/1QZspTSI3KM0AArNidhH3g), [Sphelelo Mazibuko](https://open.spotify.com/artist/0GueyvsufjRXgZBARevbZT) | [Queen Nandi: The African Symphony](https://open.spotify.com/album/5zXUIyeSDzpj1oCohjCZii) | 17:09 |
 | 50 | [Kucheza](https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 4:32 |
 
-Snapshot ID: `MCwyZmYyZTgwY2ZlZGNkNTBhZjhiYWExNzAzOGFjOTY3OTI5MjQ2ZGQ1`
+Snapshot ID: `MCw1YzY2YTk4NDJjN2VhZDdlYzE2MDE2ZDU0YTgzZmYxOGQ3NDUzODI1`

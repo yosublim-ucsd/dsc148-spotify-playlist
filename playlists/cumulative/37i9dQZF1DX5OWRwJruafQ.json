@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Naveezy",
+        "url": "https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/4vq09IiRwg2EdJtovCl5H2"
+    },
+    {
+      "album": {
         "name": "Jatt Da Nishana",
         "url": "https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 443365,
+  "num_followers": 443728,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWRjODE0Mjk3ZjAwY2U3NmQxNWZhOWI3NTU2ZTg1YWQ2N2E5OTc1",
+  "snapshot_id": "MCwwZWZjY2RlOGU3ZDFiMzMzNzUxMjA2OGY1MjRlOWFmZTBiY2ViYThh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:16:06",
@@ -599,8 +599,8 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Gajah",
-        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+        "name": "Labirin",
+        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 219284,
-      "name": "Sepatu",
-      "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
+      "duration_ms": 182656,
+      "name": "Labirin",
+      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
+        "name": "Satu-Satu",
+        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 284988,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
         "name": "Mesin Waktu",
         "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
       },
@@ -667,24 +683,8 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Melawan Restu",
-        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 219896,
-      "name": "Melawan Restu",
-      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
-        "name": "Labirin",
-        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 182656,
-      "name": "Labirin",
-      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
+      "duration_ms": 219284,
+      "name": "Sepatu",
+      "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Satu-Satu",
-        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
+        "name": "Melawan Restu",
+        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
       },
       "artists": [
         {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
         }
       ],
-      "duration_ms": 284988,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+      "duration_ms": 219896,
+      "name": "Melawan Restu",
+      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Ruang Tunggu",
-        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
+        "name": "Film Favorit",
+        "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
       },
       "artists": [
         {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
         }
       ],
-      "duration_ms": 329865,
-      "name": "Di Atas Meja",
-      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
+      "duration_ms": 223500,
+      "name": "Film Favorit",
+      "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Film Favorit",
-        "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
+        "name": "Ruang Tunggu",
+        "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
       "artists": [
         {
-          "name": "Sheila On 7",
-          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 223500,
-      "name": "Film Favorit",
-      "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
+      "duration_ms": 329865,
+      "name": "Di Atas Meja",
+      "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
-      },
-      "artists": [
-        {
-          "name": "Rafi Sudirman",
-          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
-        }
-      ],
-      "duration_ms": 283311,
-      "name": "That Somebody",
-      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
         "name": "The Best of Dewa 19",
         "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "duration_ms": 283311,
+      "name": "That Somebody",
+      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1215,22 +1215,22 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Dengan Caraku",
-        "url": "https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo"
+        "name": "Marion",
+        "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
       },
       "artists": [
         {
-          "name": "Arsy Widianto",
-          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
         },
         {
-          "name": "Brisia Jodie",
-          "url": "https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb"
+          "name": "Laleilmanino",
+          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
         }
       ],
-      "duration_ms": 272631,
-      "name": "Dengan Caraku",
-      "url": "https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq"
+      "duration_ms": 221381,
+      "name": "Rayu",
+      "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1251,22 +1251,22 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Marion",
-        "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
+        "name": "Dengan Caraku",
+        "url": "https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo"
       },
       "artists": [
         {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
         },
         {
-          "name": "Laleilmanino",
-          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+          "name": "Brisia Jodie",
+          "url": "https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb"
         }
       ],
-      "duration_ms": 221381,
-      "name": "Rayu",
-      "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
+      "duration_ms": 272631,
+      "name": "Dengan Caraku",
+      "url": "https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq"
     },
     {
       "added_at": "2023-08-18 04:16:06",

@@ -1,33 +1,13 @@
 {
   "description": "New music off the beaten track. Cover: The Chemical Brothers, Beck",
-  "num_followers": 435624,
+  "num_followers": 435657,
   "original_name": "OFF POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGE4MjJjMjcxNWExMjc1YjI2MjRlZTNkNTlhYzU3OTVlNDY5OWMz",
+  "snapshot_id": "MCxmNGUxZTkyNmYxMDY4ODE3MTQwNDM0OWJiNDkyODM2ODQ3ODU3YzA2",
   "tracks": [
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Skipping Like A Stone (feat. Beck)",
-        "url": "https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Skipping Like A Stone (feat. Beck)",
-      "url": "https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2"
-    },
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
@@ -67,6 +47,26 @@
       "duration_ms": 232258,
       "name": "Discoproof",
       "url": "https://open.spotify.com/track/0CQcUsyDEfKsHWDDF3h2C1"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Skipping Like A Stone (feat. Beck)",
+        "url": "https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Skipping Like A Stone (feat. Beck)",
+      "url": "https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2"
     },
     {
       "added_at": "2023-08-24 22:00:00",

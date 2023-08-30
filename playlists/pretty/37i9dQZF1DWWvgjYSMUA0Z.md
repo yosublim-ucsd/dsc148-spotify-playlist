@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,443 likes - 124 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,575 likes - 124 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 123 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 |
 | 124 | [The Source of Life](https://open.spotify.com/track/7lsw1FcjPgrfFt2enr4Gcf) | [Florence Sunday](https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc) | [The Source of Life](https://open.spotify.com/album/5VrZDu1NZf4AL6U5CHHGbz) | 3:05 |
 
-Snapshot ID: `MCw1ZGQwODU5OGUxMGUzMWEzNDYwMDM2YjE3MmE2OTZiOWQzMGViYmM4`
+Snapshot ID: `MCw3MGFlOTFkZjI2MTcwYTg4Njk3MzQ4MmJiOWFhNDZhMDBiMzM0MDFj`

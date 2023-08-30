@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,982 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,099 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 43 | [Hell Boy](https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Hell Boy](https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk) | 3:44 |
 | 44 | [Funky Fat Beat](https://open.spotify.com/track/2hmQgMkndqDueyACwxRLN3) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Funky Fat Beat](https://open.spotify.com/album/6djg59GSUTyLJRhoZL8qyy) | 4:15 |
 | 45 | [Burn MF](https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Burn MF](https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh) | 3:03 |
-| 46 | [The Roots \- Official Harmony of Hardcore 2023 Anthem](https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dave Revan](https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ) | [The Roots \(Official Harmony of Hardcore 2023 Anthem\)](https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA) | 3:55 |
-| 47 | [Take Me High](https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Take Me High](https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V) | 2:51 |
+| 46 | [Take Me High](https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Take Me High](https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V) | 2:51 |
+| 47 | [The Roots \- Official Harmony of Hardcore 2023 Anthem](https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4), [Dave Revan](https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ) | [The Roots \(Official Harmony of Hardcore 2023 Anthem\)](https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA) | 3:55 |
 | 48 | [Crazy, Like Me!](https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Crazy, Like Me!](https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g) | 2:54 |
 | 49 | [Kick Creator](https://open.spotify.com/track/2mLYAPAPlfMGMjpHHjVPJo) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Order & Chaos](https://open.spotify.com/album/1VTmqBZu6npbGJ25S5Xi9U) | 4:52 |
 | 50 | [Game Breaker](https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Game Breaker](https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H) | 3:18 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 81 | [Adrenaline \- Never Surrender Remix](https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5) | [Neophyte Records All Stars](https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Adrenaline \(Never Surrender Remix\)](https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9) | 2:47 |
 | 82 | [Born To React](https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Born To React](https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe) | 2:25 |
 | 83 | [Bang Bang](https://open.spotify.com/track/2MQgYQVaVBexty64nnPh7t) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [Bang Bang](https://open.spotify.com/album/4e7zOzTdkaTkdVjPZxYLjG) | 4:54 |
-| 84 | [Sky Ablaze](https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Sky Ablaze](https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5) | 2:55 |
+| 84 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
 | 85 | [BOW DOWN](https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [BOW DOWN](https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv) | 2:59 |
-| 86 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
+| 86 | [Sky Ablaze](https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Sky Ablaze](https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5) | 2:55 |
 | 87 | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [The Resurrection \(Official Toxicator 2022 Anthem\)](https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC) | 4:14 |
 | 88 | [Demonic Rage](https://open.spotify.com/track/5Dymvc81gnshh6B60HRH7B) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Sovereign King](https://open.spotify.com/artist/4Ub0mdQEa3RhAfwWgVXp46) | [Demonic Rage](https://open.spotify.com/album/1D2OnKYOf8srzp1kTGvi0w) | 3:16 |
 | 89 | [Til The AM](https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Animal Side](https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531) | [Til The AM](https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8) | 3:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 97 | [Loco](https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Loco](https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g) | 3:33 |
 | 98 | [Somebody Scream](https://open.spotify.com/track/4CdpHd15INaUXln3uZYwYN) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Somebody Scream](https://open.spotify.com/album/3aEuF7m8JR9bl3h7QFaURf) | 3:04 |
 | 99 | [Enemy Contact](https://open.spotify.com/track/5oJdYr7cuIWUENpb0CD0J8) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Enemy Contact](https://open.spotify.com/album/7fUZMLkFdZpwSHtleZQkDu) | 3:40 |
-| 100 | [TH3 FL0W](https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [TH3 FL0W](https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J) | 2:34 |
+| 100 | [Demonic Playgrounds](https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:08 |
 
-Snapshot ID: `MCxmYjU0OWQ1ZGRmN2U5ZjE4MWJkMWEyNjdjMmQ0ZjE2N2RjZDk3MGE5`
+Snapshot ID: `MCw2MzQ3NzkzYzQzZGU1MWM2NGExYmY2NzZlZWFlY2Y1ZDNiZGM0Zjdh`

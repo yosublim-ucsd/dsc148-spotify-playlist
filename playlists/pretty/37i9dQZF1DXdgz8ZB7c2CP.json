@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring OddKidOut, San Holo & artemis orion",
-  "num_followers": 761580,
+  "num_followers": 761703,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWVjMTEzZDQ0ZDAyYjA3MDM0ODIyODIxNTZkYmQ4MTE0NDAwMTE2",
+  "snapshot_id": "MCw4YmQ4YjI0NjdlYmNmNjAyMjFhOTk3N2YzMTM3ZTYxMmFjN2JkMTVh",
   "tracks": [
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7nlCJDlqUxqV8opm2WNfbx"
-      },
-      "artists": [
-        {
-          "name": "Koastle",
-          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
-        },
-        {
-          "name": "Talia Rose",
-          "url": "https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/5LQKxgiin9UDvg8GUaRXXu"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "Need U (feat. Madishu)",
         "url": "https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 206341,
       "name": "Need U (feat. Madishu)",
       "url": "https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7nlCJDlqUxqV8opm2WNfbx"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "Talia Rose",
+          "url": "https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5LQKxgiin9UDvg8GUaRXXu"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
       },
@@ -1379,22 +1359,6 @@
       "duration_ms": 246315,
       "name": "I Love You.",
       "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "feel something real",
-        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 208676,
-      "name": "feel something real",
-      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1419,6 +1383,26 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
         "name": "Down The Line",
         "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 208440,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "feel something real",
+        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 208676,
+      "name": "feel something real",
+      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
+        "name": "TALK2MUCH",
+        "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
         "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 218581,
       "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
       "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "TALK2MUCH",
-        "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
-      },
-      "artists": [
-        {
-          "name": "JEV",
-          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Tennis Skirt (feat. Ella Boh)",
-        "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
+        "name": "Social Jungle (Remixes)",
+        "url": "https://open.spotify.com/album/1ieAAhsCYApk763sKtTgCB"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+          "name": "Herizen",
+          "url": "https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv"
         },
         {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
         }
       ],
-      "duration_ms": 186363,
-      "name": "Tennis Skirt (feat. Ella Boh)",
-      "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
+      "duration_ms": 280975,
+      "name": "Social Jungle - Hippie Sabotage Remix",
+      "url": "https://open.spotify.com/track/0MiWH0qt7s1NaLywTKAB7q"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1831,26 +1831,6 @@
       "duration_ms": 152557,
       "name": "I like u (ELIO Remix)",
       "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Social Jungle (Remixes)",
-        "url": "https://open.spotify.com/album/1ieAAhsCYApk763sKtTgCB"
-      },
-      "artists": [
-        {
-          "name": "Herizen",
-          "url": "https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv"
-        },
-        {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
-        }
-      ],
-      "duration_ms": 280975,
-      "name": "Social Jungle - Hippie Sabotage Remix",
-      "url": "https://open.spotify.com/track/0MiWH0qt7s1NaLywTKAB7q"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1891,6 +1871,26 @@
       "duration_ms": 262682,
       "name": "Decision",
       "url": "https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Tennis Skirt (feat. Ella Boh)",
+        "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 186363,
+      "name": "Tennis Skirt (feat. Ella Boh)",
+      "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -1947,6 +1947,22 @@
       "duration_ms": 176560,
       "name": "Overcome (feat. Frances)",
       "url": "https://open.spotify.com/track/7nCkmSULSB9Ia5UC2NC7S5"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Feeble Games",
+        "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "Feeble Games",
+      "url": "https://open.spotify.com/track/4PZFQgPQy4bNmEztzaPzUQ"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -2039,22 +2055,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Feeble Games",
-        "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Feeble Games",
-      "url": "https://open.spotify.com/track/4PZFQgPQy4bNmEztzaPzUQ"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "Empress (Zeds Dead Remix)",
         "url": "https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG"
       },
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Today Tomorrow Forever (feat. fknsyd)",
-        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
-      },
-      "artists": [
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 155175,
-      "name": "Today Tomorrow Forever (feat. fknsyd)",
-      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "PLASTIC",
         "url": "https://open.spotify.com/album/0la5wm4k6MJJylzdxo3exf"
       },
@@ -2131,6 +2111,26 @@
       "duration_ms": 164545,
       "name": "PLASTIC",
       "url": "https://open.spotify.com/track/5InVD4HUCVlE7hDXm7xqL6"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Today Tomorrow Forever (feat. fknsyd)",
+        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 155175,
+      "name": "Today Tomorrow Forever (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "A Mere Blip In Your Timeline",
-        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
-      },
-      "artists": [
-        {
-          "name": "OBLVYN",
-          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
-        }
-      ],
-      "duration_ms": 206390,
-      "name": "A Mere Blip In Your Timeline",
-      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
       },
@@ -2275,42 +2259,18 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
+        "name": "A Mere Blip In Your Timeline",
+        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
       },
       "artists": [
         {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
         }
       ],
-      "duration_ms": 172991,
-      "name": "High",
-      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Better Luck",
-        "url": "https://open.spotify.com/album/2YsoBpYkOm3GF3Ve5GIRTa"
-      },
-      "artists": [
-        {
-          "name": "Sam Day",
-          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
-        },
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        },
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 193235,
-      "name": "Better Luck",
-      "url": "https://open.spotify.com/track/5stLAx1TzmdPRTwFqc9mSh"
+      "duration_ms": 206390,
+      "name": "A Mere Blip In Your Timeline",
+      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -2339,18 +2299,18 @@
     {
       "added_at": "2023-08-24 22:01:00",
       "album": {
-        "name": "Fuck Right Off",
-        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+        "name": "High",
+        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
       },
       "artists": [
         {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         }
       ],
-      "duration_ms": 159252,
-      "name": "Fuck Right Off",
-      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+      "duration_ms": 172991,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
     },
     {
       "added_at": "2023-08-24 22:01:00",
@@ -2371,6 +2331,46 @@
       "duration_ms": 170095,
       "name": "Forever - Pauline Herr Rework",
       "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Fuck Right Off",
+        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+      },
+      "artists": [
+        {
+          "name": "Aliiias",
+          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+        }
+      ],
+      "duration_ms": 159252,
+      "name": "Fuck Right Off",
+      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+    },
+    {
+      "added_at": "2023-08-24 22:01:00",
+      "album": {
+        "name": "Better Luck",
+        "url": "https://open.spotify.com/album/2YsoBpYkOm3GF3Ve5GIRTa"
+      },
+      "artists": [
+        {
+          "name": "Sam Day",
+          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
+        },
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        },
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 193235,
+      "name": "Better Luck",
+      "url": "https://open.spotify.com/track/5stLAx1TzmdPRTwFqc9mSh"
     },
     {
       "added_at": "2023-08-24 22:01:00",

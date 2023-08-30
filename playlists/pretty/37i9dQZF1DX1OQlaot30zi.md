@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani de Il Tre, Il Ghost e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,564 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,579 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [Visa](https://open.spotify.com/track/0H8DXivg0BpsmcC3X9ZYin) | [Novantuno](https://open.spotify.com/artist/16gBTQVgiH0BNLSuCR0NCI) | [Visa](https://open.spotify.com/album/6kIbpmd8LF8ZWZEvFGRfvk) | 1:28 |
 | 80 | [Brucia](https://open.spotify.com/track/323tjKMDvjoQqxz3QfdXNV) | [Mudimbi](https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR) | [Brucia](https://open.spotify.com/album/3RSSQw6znEoriNnTUdfgLT) | 2:09 |
 
-Snapshot ID: `MCxlZTViMTNlMGRlYWM1ZTYyYjUyOGE1YTFiYWZmYjQwZWUwODc3NGZi`
+Snapshot ID: `MCw3MjM0Zjg3ZTY4YzJhMTVmOGYwNjYzZDBjMWYyYjExYjg3NjA0ZWE0`

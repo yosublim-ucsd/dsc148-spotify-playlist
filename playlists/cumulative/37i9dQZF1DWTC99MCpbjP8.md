@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTC99MCpbjP8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTC99MCpbjP8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTC99MCpbjP8)
 
-### [Calm](https://open.spotify.com/playlist/37i9dQZF1DWTC99MCpbjP8)
+### [Calming Piano](https://open.spotify.com/playlist/37i9dQZF1DWTC99MCpbjP8)
 
-> Slow down and relax with a mix of calming piano music.
+> Slow down and relax with soft, calming piano music.
 
 481 songs - 20 hr 52 min
 

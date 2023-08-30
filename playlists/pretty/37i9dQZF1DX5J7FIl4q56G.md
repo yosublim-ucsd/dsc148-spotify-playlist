@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Metalocalypse: Dethklok
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,280 likes - 86 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,554 likes - 86 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 64 | [Hesitate](https://open.spotify.com/track/2mb0JxyspfoipSuTzKU3L0) | [Another Day Dawns](https://open.spotify.com/artist/3iiWib88qMEYbSvpREAf8k) | [Hesitate](https://open.spotify.com/album/0JQxaLM5eXnuaHIrwgIXp5) | 3:32 |
 | 65 | [Spiralled Icon \(feat\. Jason Evans\)](https://open.spotify.com/track/2vTau8TR1QoXTSR6cgvqkY) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB), [Jason Evans](https://open.spotify.com/artist/5Enu3T2B6AUXWhqVHFOxK4) | [Ominous](https://open.spotify.com/album/7MuaLY8DDhWJVYGWvT5mpQ) | 4:21 |
 | 66 | [J.'s Serenade](https://open.spotify.com/track/2PcFkPUSpHUurvWVC6yd82) | [Secret Sphere](https://open.spotify.com/artist/6RW3PIbCsvSVIB5dzx9MV8) | [J.'s Serenade](https://open.spotify.com/album/1ss7rn4uzQ2F3UJydkCeQI) | 5:52 |
-| 67 | [Digital Sea](https://open.spotify.com/track/2kETSkWftrKAiljmcBMp55) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil) | [The Excuses We Cannot Make](https://open.spotify.com/album/0gJ8Q54bXOtutGVoRKlDKu) | 4:05 |
+| 67 | [Digital Sea](https://open.spotify.com/track/5TjZ42d17pQfzgJ5TbByjI) | [Lions At The Gate](https://open.spotify.com/artist/2w31BeEjUAUda4Qya5wtil) | [The Excuses We Cannot Make](https://open.spotify.com/album/1CHpiJDADFFbO3rzs09YXK) | 4:05 |
 | 68 | [Interstellar](https://open.spotify.com/track/7KFNFahbmo4wJyJvOxWSlH) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Interstellar](https://open.spotify.com/album/6jR9YFG6nF7s5UAYClr7G7) | 3:38 |
 | 69 | [Night Vision](https://open.spotify.com/track/2UBHsENVv4mpkiSODZkHK4) | [Knife](https://open.spotify.com/artist/2k5WPvJQocZ1nqyPjIwB1K) | [Heaven Into Dust](https://open.spotify.com/album/0Ko2g1GyzL4DTFNrUh1voq) | 3:17 |
 | 70 | [The Siren](https://open.spotify.com/track/4oYbOIuVc5Ir85IyccjoeI) | [Marc Hudson](https://open.spotify.com/artist/2m7BvPHT3mu5jau2VzOu1r) | [Starbound Stories](https://open.spotify.com/album/4lHnaZ0IPLJ53TkIWITjSI) | 5:40 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 85 | [My Hellish Hunt](https://open.spotify.com/track/5gVuv4S3EVltZBe05XtJOX) | [Grymheart](https://open.spotify.com/artist/4SlhNbOnl7dC1fSZzchJTE) | [My Hellish Hunt](https://open.spotify.com/album/4ipx6m8w4q3RJSQNKXzVYP) | 3:30 |
 | 86 | [Exile](https://open.spotify.com/track/5VT7ArOG23wCbYN6d5fbqs) | [HARP](https://open.spotify.com/artist/4ylTmXCAJ2F45zSA2YuWYY) | [Exile](https://open.spotify.com/album/4oFe0sFUIkmQfaAXFIy54C) | 4:56 |
 
-Snapshot ID: `MCxiYWMyMTZkNTQyN2E0NGEyODk3NjRkM2ZiNGNiZTIzZTliNDFlYWFi`
+Snapshot ID: `MCw1NDBkZWE4M2Y3MDgwODc2MzYxOTdjYzM2OGZjMjg2ZTkyMmMzMmZh`

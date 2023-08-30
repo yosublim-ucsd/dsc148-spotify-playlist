@@ -1217,6 +1217,54 @@
     },
     {
       "album": {
+        "name": "Ai Que Delicia o Ver\u00e3o",
+        "url": "https://open.spotify.com/album/3deh2ncfGFYC8CKzpbQFCd"
+      },
+      "artists": [
+        {
+          "name": "Mts No Beat",
+          "url": "https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7"
+        },
+        {
+          "name": "Roni Bruno",
+          "url": "https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Chic\u00e3o do Piseiro",
+          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115992,
+      "name": "Ai Que Delicia o Ver\u00e3o",
+      "url": "https://open.spotify.com/track/0clo2HfL2gpiEpiE5mA3q5"
+    },
+    {
+      "album": {
+        "name": "Ai Que Delicia o Ver\u00e3o (Remix)",
+        "url": "https://open.spotify.com/album/7bLyvkDhEEx0fpr73LPNif"
+      },
+      "artists": [
+        {
+          "name": "Os Feras do Pizeiro",
+          "url": "https://open.spotify.com/artist/7dXypG6kRSJnd1H6f3VCKD"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117379,
+      "name": "Ai Que Delicia o Ver\u00e3o - Remix",
+      "url": "https://open.spotify.com/track/4OfgVoUaAGiLBmiVqGKYBs"
+    },
+    {
+      "album": {
         "name": "Ai Que Sorte (feat. Dj Wendel Czr)",
         "url": "https://open.spotify.com/album/6kgcMoxeViozOL8JrOrSUk"
       },
@@ -6352,7 +6400,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 170802,
       "name": "Chove Chuva",
       "url": "https://open.spotify.com/track/1zPrPaYao8QKaGRimp68ZM"
@@ -6942,7 +6990,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 256426,
       "name": "Congratulations (feat. Bilal)",
       "url": "https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO"
@@ -8830,6 +8878,36 @@
       "duration_ms": 185600,
       "name": "Do not touch",
       "url": "https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL"
+    },
+    {
+      "album": {
+        "name": "O Mais Novo Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Do Seu Lado",
+      "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
     },
     {
       "album": {
@@ -11395,6 +11473,24 @@
     },
     {
       "album": {
+        "name": "GAME PLAN",
+        "url": "https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160578,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "album": {
         "name": "Favela Vive 5",
         "url": "https://open.spotify.com/album/0HIqiDgY7xzP0vzbg8aGT8"
       },
@@ -13412,7 +13508,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 143999,
       "name": "Halls na L\u00edngua - Remix",
       "url": "https://open.spotify.com/track/2uGk60j3LR5bp6tGq9vtII"
@@ -14290,7 +14386,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 154137,
       "name": "Idiota Raiz (Deixa Ir)",
       "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd"
@@ -18476,6 +18572,32 @@
       "duration_ms": 183716,
       "name": "Melodia Alucin\u00f3gena",
       "url": "https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3ria",
+        "url": "https://open.spotify.com/album/5bSs0TxVHidQunHZr6D3TD"
+      },
+      "artists": [
+        {
+          "name": "Aklipe44",
+          "url": "https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "WMBR",
+          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135175,
+      "name": "Mem\u00f3ria",
+      "url": "https://open.spotify.com/track/2C8WT7zLMLEvHV3QzuXwXy"
     },
     {
       "album": {
@@ -22813,6 +22935,24 @@
     },
     {
       "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
         "name": "PAINTING PICTURES",
         "url": "https://open.spotify.com/album/2etmOpS2sIksLvcbAzTDpJ"
       },
@@ -25199,6 +25339,28 @@
     },
     {
       "album": {
+        "name": "Ciclone",
+        "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135456,
+      "name": "Quase N\u00e3o Namoro",
+      "url": "https://open.spotify.com/track/33Q8doEKwVKd0MZtlLWOWu"
+    },
+    {
+      "album": {
         "name": "QUE EU VOU TE BOTAR",
         "url": "https://open.spotify.com/album/5fUkvbwQFcdsOHtEd1IkC3"
       },
@@ -25296,7 +25458,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 190000,
       "name": "Que Tal",
       "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"
@@ -25877,6 +26039,28 @@
     },
     {
       "album": {
+        "name": "Ritmada da Laura",
+        "url": "https://open.spotify.com/album/37RCdDr57J1BYsYI9denZV"
+      },
+      "artists": [
+        {
+          "name": "DJ VINI ORIGINAL",
+          "url": "https://open.spotify.com/artist/0veIDjfOwkxKOzABHbUHqu"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177191,
+      "name": "Ritmada da Laura",
+      "url": "https://open.spotify.com/track/4MFGqdbmN23Doa9cHATo4V"
+    },
+    {
+      "album": {
         "name": "RITMADA DOS DEUSES",
         "url": "https://open.spotify.com/album/6QWDuoejDVh5mWoXatKX6W"
       },
@@ -25936,6 +26120,24 @@
       "duration_ms": 125508,
       "name": "RITMADINHA DAN\u00c7ANTE",
       "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
+    },
+    {
+      "album": {
+        "name": "RITMO BRUTALISMO",
+        "url": "https://open.spotify.com/album/0cqTIJzzTPD9d7hnt9qx5a"
+      },
+      "artists": [
+        {
+          "name": "Xllie!",
+          "url": "https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136005,
+      "name": "RITMO BRUTALISMO",
+      "url": "https://open.spotify.com/track/5iPWVa2YCsEyGDPlnYtN7H"
     },
     {
       "album": {
@@ -27212,7 +27414,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 346258,
       "name": "Sentimento Louco / O Que Falta Em Voc\u00ea Sou Eu / Aus\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/6Z4Ku7jErQ2sOmPrxQWffq"
@@ -28740,7 +28942,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 134068,
       "name": "Succubus Imortal",
       "url": "https://open.spotify.com/track/7plwzRRKiLgjtkB6LQU2Yk"
@@ -28830,7 +29032,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
@@ -29506,7 +29708,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 173319,
       "name": "Te Amo Infinito (Amor de M\u00e3e)",
       "url": "https://open.spotify.com/track/1cMzMCXLUG4XEUwJfZ1ojw"
@@ -29612,7 +29814,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 128371,
       "name": "Te vi de canto",
       "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
@@ -29812,6 +30014,24 @@
       "duration_ms": 244897,
       "name": "Tem Cabar\u00e9 Essa Noite",
       "url": "https://open.spotify.com/track/677KBsV3TouvfOk4czlRzc"
+    },
+    {
+      "album": {
+        "name": "Ciclone",
+        "url": "https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129692,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0"
     },
     {
       "album": {
@@ -30290,7 +30510,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
@@ -30330,6 +30550,40 @@
       "duration_ms": 93664,
       "name": "Time de Lula",
       "url": "https://open.spotify.com/track/4iFJhgQ83sJiVMTNUJBKMp"
+    },
+    {
+      "album": {
+        "name": "Tira a Roupa",
+        "url": "https://open.spotify.com/album/5aK2XMbRO9lJRHxm3GACHr"
+      },
+      "artists": [
+        {
+          "name": "Lekinho no Beat",
+          "url": "https://open.spotify.com/artist/0fVY6ib28shhHeWonJ3nDQ"
+        },
+        {
+          "name": "MC CH da Z.O",
+          "url": "https://open.spotify.com/artist/5cPFz5IHZH7LE8h2DOuhDA"
+        },
+        {
+          "name": "Anderson Neiff",
+          "url": "https://open.spotify.com/artist/0DLzO3qfGGEJyXwLflcgXK"
+        },
+        {
+          "name": "Mc Jajau",
+          "url": "https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm"
+        },
+        {
+          "name": "Trov\u00e3o no Beat",
+          "url": "https://open.spotify.com/artist/6kS3lGSFbGHJbvsnD4MRl1"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136916,
+      "name": "Tira a Roupa",
+      "url": "https://open.spotify.com/track/3FB6FIh3OqLOhji5QD94O1"
     },
     {
       "album": {

@@ -1,15 +1,43 @@
 {
   "description": "<a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>'s best songs, remixes and compilations.",
-  "num_followers": 409903,
+  "num_followers": 410072,
   "original_name": "This Is Ti\u00ebsto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzU4N2ZlMDE1NTY1NWI0NGEzZjdjODYyNmZlMDlkMDg5YzJlMjk4",
+  "snapshot_id": "MCw3YWVmNmI1YjQ2M2I5MDJiZjMzNmZhODFhMzFhZDA1ZTY4NjYxZDgy",
   "tracks": [
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
+      "album": {
+        "name": "Car Keys (Ayla) (feat. Ayla) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/5jviRuWm6ZKaJds1qd1zPr"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Ayla",
+          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 136201,
+      "name": "Car Keys (Ayla) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2sNevT0WU7NXnkm1jnGENF"
+    },
+    {
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
@@ -25,7 +53,31 @@
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
+      "album": {
+        "name": "Disconnect (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/1GnRx7KBUiUNl1wk7bzNwA"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 155041,
+      "name": "Disconnect - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/72SLU59ZmI3zsWUkkiOi6Q"
+    },
+    {
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
@@ -41,7 +93,7 @@
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/5MZ8KBGWztnBxBlrLPRBZB"
@@ -57,7 +109,7 @@
       "url": "https://open.spotify.com/track/3BuHeeCEqJ41hBkiK069RA"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Good Love (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ"
@@ -81,7 +133,27 @@
       "url": "https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
+      "album": {
+        "name": "Bittersweet Goodbye (Ti\u00ebsto\u2019s Hardcore Remix)",
+        "url": "https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 158723,
+      "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
+      "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
+    },
+    {
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
@@ -97,7 +169,7 @@
       "url": "https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
@@ -117,7 +189,7 @@
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
@@ -137,7 +209,7 @@
       "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Feel Your Ghost",
         "url": "https://open.spotify.com/album/1CTxgZIYbDoSltqjBmwxyK"
@@ -157,7 +229,7 @@
       "url": "https://open.spotify.com/track/64HfvrHpMhaPArBsmo5QTf"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Baila Conmigo",
         "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
@@ -173,7 +245,7 @@
       "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Pump It Louder",
         "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
@@ -193,7 +265,7 @@
       "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Hot In It",
         "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
@@ -213,7 +285,7 @@
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Yumi (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
@@ -233,7 +305,7 @@
       "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -253,7 +325,7 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Round & Round (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/7IA4lD5vGoot4n53qHMWAn"
@@ -273,7 +345,7 @@
       "url": "https://open.spotify.com/track/1XwtgTkJmXWiMOOoPJVeZM"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Another Love (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
@@ -293,7 +365,7 @@
       "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
@@ -309,7 +381,7 @@
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
@@ -329,7 +401,7 @@
       "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Jackie Chan",
         "url": "https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt"
@@ -357,7 +429,7 @@
       "url": "https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
@@ -377,7 +449,7 @@
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "A Town Called Paradise (Deluxe)",
         "url": "https://open.spotify.com/album/1116PKIKlArm87HVaPtonW"
@@ -393,7 +465,7 @@
       "url": "https://open.spotify.com/track/4mOrY7hgUeSUK4JVD9FkYb"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Can U Dance (To My Beat)",
         "url": "https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA"
@@ -409,7 +481,7 @@
       "url": "https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Barbie Girl (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
@@ -429,7 +501,7 @@
       "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
@@ -449,7 +521,7 @@
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Head & Heart (feat. MNEK) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/1UK3zb3VPzjcTT9MBN9mAa"
@@ -473,7 +545,7 @@
       "url": "https://open.spotify.com/track/1ohLQfIwj9NUN7e5UKeDl9"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "WOW",
         "url": "https://open.spotify.com/album/1GGYP9NKuM7vSkvj0msOdH"
@@ -489,7 +561,7 @@
       "url": "https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
@@ -513,7 +585,7 @@
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99"
@@ -537,7 +609,7 @@
       "url": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Higher Power (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/31uapL5Q92IadPRWycdPKK"
@@ -557,7 +629,7 @@
       "url": "https://open.spotify.com/track/04zCkONaIDxTx2gDjV1yCd"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
@@ -577,7 +649,7 @@
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/4VQTonYI4isi3H2prtuKOX"
@@ -601,7 +673,7 @@
       "url": "https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Tomorrow (feat. 433)",
         "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
@@ -621,7 +693,7 @@
       "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
@@ -641,7 +713,7 @@
       "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Oohla Oohla",
         "url": "https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs"
@@ -661,7 +733,7 @@
       "url": "https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
@@ -685,7 +757,7 @@
       "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Coffee (Give Me Something)",
         "url": "https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe"
@@ -705,7 +777,7 @@
       "url": "https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Nothing Really Matters",
         "url": "https://open.spotify.com/album/11w55rGZhuTqiEWGwb7psj"
@@ -725,7 +797,7 @@
       "url": "https://open.spotify.com/track/1horDZRb64nwbtDXymIzLw"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "5 Seconds Before Sunrise",
         "url": "https://open.spotify.com/album/1K2ATTJF7dA45WWBAHs4md"
@@ -745,7 +817,7 @@
       "url": "https://open.spotify.com/track/0hz9lCgIKOtZthsP2JTPAL"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
@@ -765,7 +837,7 @@
       "url": "https://open.spotify.com/track/4FpsZqiM5vdrCh8QpCKJQd"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "God Is A Dancer (with Mabel)",
         "url": "https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R"
@@ -785,7 +857,7 @@
       "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Acorde\u00e3o",
         "url": "https://open.spotify.com/album/3s0VDNOSXqUsCg1IPIvD6B"
@@ -805,7 +877,7 @@
       "url": "https://open.spotify.com/track/4P7F3kb2Ze1YleD6lUYwJo"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Grapevine",
         "url": "https://open.spotify.com/album/7jrQbFx0ttru2gtSZ4lhuX"
@@ -821,7 +893,7 @@
       "url": "https://open.spotify.com/track/3bYLRndI3qoLQqgPalT8CY"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Split (Only U)",
         "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
@@ -841,7 +913,7 @@
       "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Pulverturm (Ti\u00ebsto's Big Room Remix)",
         "url": "https://open.spotify.com/album/3zHIoWlJIqlihQvijlx2M6"
@@ -861,7 +933,7 @@
       "url": "https://open.spotify.com/track/5cNLc9PNhzbGC3DKZeWGSL"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
@@ -877,7 +949,7 @@
       "url": "https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
@@ -897,7 +969,7 @@
       "url": "https://open.spotify.com/track/7txV7LsVsYFUZWKupu7XF5"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
@@ -921,7 +993,7 @@
       "url": "https://open.spotify.com/track/0pMyrECfSI1yq2NXxZyLmA"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
@@ -941,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0MOkTR1nUs2F0Ux05TUqcR"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
@@ -961,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3Ak6t93rQhbgjSsaNwxwoq"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
@@ -985,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6cQgcgInVx1zRQpSCnnBUU"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
@@ -1005,7 +1077,7 @@
       "url": "https://open.spotify.com/track/7aFj8SWg3eTkxCQGE82NOs"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ"
@@ -1029,7 +1101,7 @@
       "url": "https://open.spotify.com/track/3q0JDvA9RJMNgZGvKJByyk"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/69OdQhfLDTV4qICCPeCQ47"
@@ -1049,7 +1121,7 @@
       "url": "https://open.spotify.com/track/3JcwDdIuTnybfejL2i3wJx"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Harder (feat. Talay Riley)",
         "url": "https://open.spotify.com/album/5d543rApFKtE98MigkM1lN"
@@ -1073,7 +1145,7 @@
       "url": "https://open.spotify.com/track/2BqABA2hfI6cNOqogEDnwO"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Phoenix (Color Switch Soundtrack)",
         "url": "https://open.spotify.com/album/2W2MaOFVijq9fFaNjyU4Ap"
@@ -1089,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3Z6ujaEKPoPMY5tAdUYj9x"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Carry You Home (feat. StarGate & Aloe Blacc)",
         "url": "https://open.spotify.com/album/7apwmztwcRn7DpWVx69VDr"
@@ -1113,7 +1185,7 @@
       "url": "https://open.spotify.com/track/6bolfjXj78EIQRB48C6QTc"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
@@ -1133,7 +1205,7 @@
       "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "CLUBLIFE, VOL. 5: CHINA",
         "url": "https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0"
@@ -1153,7 +1225,7 @@
       "url": "https://open.spotify.com/track/6r74sRwWCW5UOVfmOkhpIE"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Chemicals (feat. Thomas Troelsen)",
         "url": "https://open.spotify.com/album/5ahoJwdRxEV11glfqkF5zX"
@@ -1177,7 +1249,7 @@
       "url": "https://open.spotify.com/track/5hZz0GjweCU7v0u5VU6KlT"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "CLUBLIFE, VOL. 5: CHINA",
         "url": "https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0"
@@ -1197,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2MxMwKtn5vK7urJf4pb4KR"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Coming Over (Remixes) (feat. James Hersey)",
         "url": "https://open.spotify.com/album/1zD8iiROzxhMBwJ1WH2GGT"
@@ -1225,7 +1297,7 @@
       "url": "https://open.spotify.com/track/65FULc2OTNAOCfNl5RFTk3"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Wombass",
         "url": "https://open.spotify.com/album/4fb7waBlbxdo27oW09QrUg"
@@ -1245,7 +1317,7 @@
       "url": "https://open.spotify.com/track/6etVFDSbFabj0tPY10MAXR"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Magikal Journey -The Hits Collection 1998 - 2008",
         "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
@@ -1261,7 +1333,7 @@
       "url": "https://open.spotify.com/track/00Hlym039AB1cZPzgJVi5s"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Club Life - Volume One Las Vegas (Continuous DJ Mix)",
         "url": "https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe"
@@ -1281,7 +1353,7 @@
       "url": "https://open.spotify.com/track/3XU0Yroic44ga05pKlGDy4"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "I Like It Loud (feat. Marshall Masters & The Ultimate MC)",
         "url": "https://open.spotify.com/album/2yTw9o45xlnNyqaqSJVFCz"
@@ -1309,7 +1381,7 @@
       "url": "https://open.spotify.com/track/4BCshMRdHkNlYQgZVo7e4D"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/5oMpubfXIECZIqTG36gGyc"
@@ -1329,7 +1401,7 @@
       "url": "https://open.spotify.com/track/3wgy25SMsB5g2DpAmODnf9"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Summer Nights (Ti\u00ebsto\u2019s Deep House Remix)",
         "url": "https://open.spotify.com/album/28JcXxUTKCpMnoBjem7KH8"
@@ -1349,7 +1421,7 @@
       "url": "https://open.spotify.com/track/3fvNrRsXutjz8ZuMS67eBN"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "What You're Waiting For",
         "url": "https://open.spotify.com/album/2bXp7Xqxcxb47yfzICwnkN"
@@ -1369,7 +1441,7 @@
       "url": "https://open.spotify.com/track/0mUtN2a5yIHZrXv1aEUF9I"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/2GjY3TzxH3SPMWRlHY8HEx"
@@ -1389,7 +1461,7 @@
       "url": "https://open.spotify.com/track/4BpMEmysttF6z7BjSCUmU9"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Infected",
         "url": "https://open.spotify.com/album/3dPPpdnocbIZTaxsuagUzo"
@@ -1409,7 +1481,7 @@
       "url": "https://open.spotify.com/track/6DlpWCFx1fsv0LCa3AQ81D"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/3L7HojVI3ELv05boMWUKDv"
@@ -1429,7 +1501,7 @@
       "url": "https://open.spotify.com/track/30V9djJPVNe97IEWrXDWkG"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Club Life - Volume 2 Miami",
         "url": "https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc"
@@ -1445,7 +1517,7 @@
       "url": "https://open.spotify.com/track/7aT2HFws6awkUXdrBAtIqR"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "A Town Called Paradise (Deluxe)",
         "url": "https://open.spotify.com/album/1116PKIKlArm87HVaPtonW"
@@ -1465,7 +1537,7 @@
       "url": "https://open.spotify.com/track/42d4hW3lrMIxf2R1IgxoJx"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "A Town Called Paradise (Deluxe)",
         "url": "https://open.spotify.com/album/1116PKIKlArm87HVaPtonW"
@@ -1485,7 +1557,7 @@
       "url": "https://open.spotify.com/track/7m3povhdMDLZwuEKak0l0n"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "CLUBLIFE, VOL. 5: CHINA",
         "url": "https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0"
@@ -1505,7 +1577,7 @@
       "url": "https://open.spotify.com/track/4cs99TEADEOcGm5DRRFyOw"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/3L7HojVI3ELv05boMWUKDv"
@@ -1525,7 +1597,7 @@
       "url": "https://open.spotify.com/track/3OrsObfQCy9kCdbZQLT4W0"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/3L7HojVI3ELv05boMWUKDv"
@@ -1545,7 +1617,7 @@
       "url": "https://open.spotify.com/track/6K9GLISAUJtCCno9cuCASa"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/3L7HojVI3ELv05boMWUKDv"
@@ -1565,7 +1637,7 @@
       "url": "https://open.spotify.com/track/3WfoQvWG7u6BtwtfURGv8F"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Elements Of Life",
         "url": "https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF"
@@ -1585,7 +1657,7 @@
       "url": "https://open.spotify.com/track/0YDAD0Mlkb9fbt5mvNlQfQ"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Elements Of Life",
         "url": "https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF"
@@ -1601,7 +1673,7 @@
       "url": "https://open.spotify.com/track/6VM07TmzYJWb4MUEkxRplr"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
@@ -1621,7 +1693,7 @@
       "url": "https://open.spotify.com/track/23x1l5fneuI3tfw52NftWH"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
@@ -1637,7 +1709,7 @@
       "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Club Life - Volume One Las Vegas (Continuous DJ Mix)",
         "url": "https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe"
@@ -1657,7 +1729,7 @@
       "url": "https://open.spotify.com/track/49QZutJ2Cc6wcjm6elYZYd"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Club Life - Volume 2 Miami",
         "url": "https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc"
@@ -1673,7 +1745,7 @@
       "url": "https://open.spotify.com/track/4lM7ZLoaasvHytXG1KpU5X"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Club Life, Vol. 3 - Stockholm",
         "url": "https://open.spotify.com/album/5pbsUGC9LpIf2r9QSfJpGZ"
@@ -1693,7 +1765,7 @@
       "url": "https://open.spotify.com/track/25QlMgHaJEpIGZEiml3u90"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Club Life, Vol. 4 - New York City",
         "url": "https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU"
@@ -1717,7 +1789,7 @@
       "url": "https://open.spotify.com/track/0NIC4unbe5KZOp1d9T7OaF"
     },
     {
-      "added_at": "2023-08-03 07:34:19",
+      "added_at": "2023-08-29 07:35:12",
       "album": {
         "name": "Club Life, Vol. 4 - New York City",
         "url": "https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU"

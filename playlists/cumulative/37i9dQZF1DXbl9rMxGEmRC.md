@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-480 songs - 1 day 16 hr 45 min
+481 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Endless November](https://open.spotify.com/track/3TDGJ4EWmZFEMA8B4wnTZ6) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Endless November](https://open.spotify.com/album/3sGToMcgvwofekr6XdIkw9) | 7:43 | 2021-12-17 | 2022-01-15 |
 | [Erasure](https://open.spotify.com/track/0bsQEcdbZPUAv33cVrxUNW) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Erasure](https://open.spotify.com/album/5huhY847S7cVpUPVZmmG1q) | 4:45 | 2022-01-14 | 2022-04-23 |
 | [Esaiah](https://open.spotify.com/track/50TtG7RA5yBa1RI4tLGhU7) | [Gomorran](https://open.spotify.com/artist/2gYZWsir5p6qtSkTDF7Qkt) | [Excerpts from the Dark Age](https://open.spotify.com/album/07DJUKMAxbTzfM3cWnAVUn) | 4:35 | 2021-12-17 | 2022-02-11 |
-| [Et smelter](https://open.spotify.com/track/6WMv9iP4O2tvl8hfW5cHVW) | [Dødheimsgard](https://open.spotify.com/artist/4EzPNgGmh8l2xPoTEgivT8) | [Black Medium Current](https://open.spotify.com/album/6lJ8c7QFGE0x32KaslsRCE) | 10:19 | 2023-04-28 |  |
+| [Et smelter](https://open.spotify.com/track/6WMv9iP4O2tvl8hfW5cHVW) | [Dødheimsgard](https://open.spotify.com/artist/4EzPNgGmh8l2xPoTEgivT8) | [Black Medium Current](https://open.spotify.com/album/6lJ8c7QFGE0x32KaslsRCE) | 10:19 | 2023-04-28 | 2023-08-30 |
 | [Eternal Disguise](https://open.spotify.com/track/5Pv4IXVuDQ2BVDMKpTVrJy) | [Dark Archive](https://open.spotify.com/artist/0eV0wbQfEyZTQe9tPAh3aF) | [Reunite the Darkness](https://open.spotify.com/album/36fZ7ArMTxnTdeTv9auYh9) | 2:41 | 2022-05-20 | 2022-07-27 |
 | [Ethnogenese](https://open.spotify.com/track/71Y8PGb5uicatooZb7Yot1) | [Obscurity](https://open.spotify.com/artist/1O6WsZT2io58x15CXAQVBO) | [Ethnogenese](https://open.spotify.com/album/2TOEbYty0peTaPXBw6EicO) | 4:10 | 2021-12-17 | 2022-01-29 |
 | [Event Horizon](https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Event Horizon](https://open.spotify.com/album/42gPwQ8a9gO5C2pSQpXrPm) | 3:51 | 2021-12-17 | 2022-07-29 |
@@ -284,6 +284,7 @@
 | [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 | 2023-07-17 |
 | [Myr](https://open.spotify.com/track/45zV1C4nVWMRz7yLcQ5Rmo) | [Taake](https://open.spotify.com/artist/2CofVEvqc6hhyKwYsLiuN9) | [Noregs Vaapen](https://open.spotify.com/album/2FgD3CoDJYPtEKbtKY5e6Y) | 5:33 | 2022-07-13 | 2022-07-29 |
 | [Mysterium Tremendum](https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX) | [Hideous Divinity](https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH) | [Mysterium Tremendum](https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4) | 4:38 | 2023-03-10 | 2023-04-30 |
+| [Nameless Rites](https://open.spotify.com/track/5VikgujdfbIJRuUAMQ2zei) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [​Disharmonium \- Nahab](https://open.spotify.com/album/2spORRGVutsk0KwxPhd3eU) | 4:55 | 2023-08-25 |  |
 | [Nauseating Oblivion](https://open.spotify.com/track/7JYPEnhWA1jthT9QihGnQi) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Nauseating Oblivion](https://open.spotify.com/album/2tXlcUe6UTMOSfMnjtfS6a) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Necrobionics](https://open.spotify.com/track/3AaLvR5xPbeewAElRzRMdB) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Necrobionics](https://open.spotify.com/album/4XekYCMN88wxtjOxkfrOlN) | 3:31 | 2022-03-18 | 2022-07-29 |
 | [Necrotica](https://open.spotify.com/track/2AdSg9Fpi2zKtkjboSQmgb) | [Exhumed](https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu) | [To the Dead](https://open.spotify.com/album/4O4krXb7DWdic7axPxg4UC) | 4:30 | 2022-10-21 | 2022-11-26 |

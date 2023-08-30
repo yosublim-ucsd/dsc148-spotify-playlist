@@ -4281,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "Chanson d\u2019\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163027,
+      "name": "Chanson d\u2019\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
+    },
+    {
+      "album": {
         "name": "Charon",
         "url": "https://open.spotify.com/album/7zvXHZlghA87OaVWO98G7W"
       },
@@ -12301,6 +12319,24 @@
     },
     {
       "album": {
+        "name": "land in sight",
+        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200550,
+      "name": "land in sight",
+      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
+    },
+    {
+      "album": {
         "name": "Lanuza",
         "url": "https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ"
       },
@@ -18296,7 +18332,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 171500,
       "name": "Phoneme",
       "url": "https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c"
@@ -20792,7 +20828,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-30",
       "duration_ms": 151250,
       "name": "Santolea",
       "url": "https://open.spotify.com/track/6X4fTprmm1elJ6LPGXJEsP"
@@ -28818,6 +28854,24 @@
       "duration_ms": 226500,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/6E5PacZi1ckJC126CCOG30"
+    },
+    {
+      "album": {
+        "name": "Wreszcie",
+        "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
+      },
+      "artists": [
+        {
+          "name": "Zuzana Kudov\u00e1",
+          "url": "https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175825,
+      "name": "Wreszcie",
+      "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
     },
     {
       "album": {

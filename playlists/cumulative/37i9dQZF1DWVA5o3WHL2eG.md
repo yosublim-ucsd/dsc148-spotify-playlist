@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: AYLIVA
 
-1,034 songs - 2 day 6 hr 2 min
+1,035 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,8 @@
 | [Lips](https://open.spotify.com/track/0cKMA2YicFxfLdSYAzPzQX) | [Kaisa Rya](https://open.spotify.com/artist/3DKQxloVrGAEwgW23JKOaQ) | [Lips](https://open.spotify.com/album/3zhdIuDGIW8mctvaJaHpMA) | 2:52 | 2022-08-02 | 2022-09-07 |
 | [Liquid Gold](https://open.spotify.com/track/1Z4VOvSD3Nqj7hbXAnLKpZ) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Liquid Gold](https://open.spotify.com/album/6lST92SbnENOzxLTtSFgWn) | 5:49 | 2022-03-07 | 2022-04-06 |
 | [Living a Lie](https://open.spotify.com/track/546osMlb87EeCWeIM0r4IR) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Living a Lie](https://open.spotify.com/album/7hnuKOdhFHlWqbA1vGeqnd) | 7:02 | 2023-07-04 | 2023-08-02 |
-| [Loneliness](https://open.spotify.com/track/0EX7O1fUvcIJeWsbE5UVfN) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Loneliness](https://open.spotify.com/album/1pKvju0BnwcxXNaPstmMGi) | 3:33 | 2023-08-01 |  |
+| [Loneliness](https://open.spotify.com/track/0EX7O1fUvcIJeWsbE5UVfN) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Loneliness](https://open.spotify.com/album/1pKvju0BnwcxXNaPstmMGi) | 3:33 | 2023-08-01 | 2023-08-30 |
+| [Loneliness](https://open.spotify.com/track/2YFqmrKmsQwiFFmmRThKjv) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Reflections](https://open.spotify.com/album/1xq4HxMLEtAEAgmy8ZocoR) | 3:33 | 2023-08-08 |  |
 | [Lonely](https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Lonely](https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR) | 2:19 | 2022-10-04 | 2022-11-08 |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-04-05 | 2023-01-04 |
 | [Looking For Love](https://open.spotify.com/track/3iUmoy21qlRY1VdNEtJJlx) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Looking For Love](https://open.spotify.com/album/32CnxZefcziX2MQDBhzAOy) | 2:39 | 2022-07-05 | 2023-01-04 |

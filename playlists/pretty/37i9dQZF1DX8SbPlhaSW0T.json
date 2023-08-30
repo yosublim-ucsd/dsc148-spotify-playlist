@@ -1,12 +1,12 @@
 {
   "description": "Los mejores del Trap de todos los tiempos! \ud83d\udc10 Cover: Noriel",
-  "num_followers": 835,
+  "num_followers": 871,
   "original_name": "Latin Trap GOATs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzk2NTQ5YzJlZjNjNDYxNzBhZDdjMjBmYTIwY2JkOTM3MzNhYzQ3",
+  "snapshot_id": "MCw2NzJhYjUzZWU3MDgwZjU1ZTY5MDExYzc4YzAzNjIxODU3ODU3NTFl",
   "tracks": [
     {
       "added_at": "2023-08-02 22:03:02",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-08-02 22:03:02",
       "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
-    },
-    {
-      "added_at": "2023-08-02 22:03:02",
-      "album": {
         "name": "Netflixxx",
         "url": "https://open.spotify.com/album/3oqNx43mmo2oRt7nkIwJKK"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 219007,
       "name": "Netflixxx",
       "url": "https://open.spotify.com/track/4WDSPCfr60K0HI7YYhEHKu"
+    },
+    {
+      "added_at": "2023-08-02 22:03:02",
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2023-08-02 22:03:02",

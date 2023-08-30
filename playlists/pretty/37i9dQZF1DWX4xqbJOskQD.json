@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1712,
+  "num_followers": 1713,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDI1MDBkOWNjMGI0MGE1NmZiOWVmZjY5YmIzODQxOGJhYWFlODgy",
+  "snapshot_id": "MCw3ZjA5ZGJmMGIyYzcyMTM1N2UyNjc5ZDRjOGMxYjY1ZjBhZWMwNjNl",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -483,6 +483,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Bachelors - The Decca Years",
+        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
+      },
+      "artists": [
+        {
+          "name": "The Bachelors",
+          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The Board Of Directors",
         "url": "https://open.spotify.com/album/7cgj7WQBm6SlACUXiJR3lH"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Bachelors - The Decca Years",
-        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
       },
       "artists": [
         {
-          "name": "The Bachelors",
-          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
+          "name": "The Dinning Sisters",
+          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
         }
       ],
-      "duration_ms": 139840,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
+      "duration_ms": 160173,
+      "name": "Fun And Fancy Free",
+      "url": "https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -531,22 +547,6 @@
       "duration_ms": 170666,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz"
-      },
-      "artists": [
-        {
-          "name": "The Dinning Sisters",
-          "url": "https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Fun And Fancy Free",
-      "url": "https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ"
     },
     {
       "added_at": "2020-08-17 22:49:59",

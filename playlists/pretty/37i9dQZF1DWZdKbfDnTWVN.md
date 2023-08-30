@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=LJke8bmwSjeu4whf3N\_9HA">Khaligraph Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,199 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,216 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [2 Step Gliding](https://open.spotify.com/track/3LCisn5gOFXlwHR6CCJH1h) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Michael Carpenter](https://open.spotify.com/artist/2zxCiaufpb0PVlWb9iRBDz), [lloco](https://open.spotify.com/artist/2WTWVfASuVDEfdKWjTomXH), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di) | [2 Step Gliding](https://open.spotify.com/album/6ZnGv3LJi8W90QoaqNlMRh) | 1:44 |
 | 60 | [Pretty Overload](https://open.spotify.com/track/6a2WQeQHhW1xUiIjskV672) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Pretty Overload](https://open.spotify.com/album/2b03wQZzmqqtIcguqZfgqR) | 2:37 |
 
-Snapshot ID: `MCxiNDNhNzc2N2NmZDYzYjQxZDIyNThjNjQ2ZDJkYjUyODNjNzFmODUy`
+Snapshot ID: `MCxkYjVjNDVjODBmZDE3NzQ0MWJjN2NkOGU0ODY1YWNkZjg3ZjZlNmEw`

@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 54636,
+  "num_followers": 54642,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2ZiYjY3ZGE0Zjg4ZTllN2JjZWE4OThmOTg1OTcyM2E4OWY4NDA2",
+  "snapshot_id": "MCw5NTcwNDc2NjU0N2ZkYzg3NmE3MmRlMzAwMGE5M2NhMjc4YjQ2Mjlm",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
+      },
+      "artists": [
+        {
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+        },
+        {
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
+        }
+      ],
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Mr. Selector",
         "url": "https://open.spotify.com/album/5mmeQAuCj0HnfEAybnpbAM"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 198680,
       "name": "Puede Parecer",
       "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
-      },
-      "artists": [
-        {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        },
-        {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Aguas Frescas De Jamaica",
+        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Tan Distante",
+      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Desenvaina",
         "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 218048,
       "name": "Lo Mas Lindo (777 Remix)",
       "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Aguas Frescas De Jamaica",
-        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Tan Distante",
-      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Primaveras",
-        "url": "https://open.spotify.com/album/6YSYJyoNdNOFzZnSf88soO"
+        "name": "SIG RAGGA (Remaster 2023)",
+        "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
       },
       "artists": [
         {
-          "name": "Toby Deltin",
-          "url": "https://open.spotify.com/artist/5NWVeyZSNXkufVv5W5xNDr"
-        },
-        {
-          "name": "La Skandalosa Tripulaci\u00f3n",
-          "url": "https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G"
+          "name": "Sig Ragga",
+          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Primaveras",
-      "url": "https://open.spotify.com/track/38WEdyXzzj63zhClgLaUgq"
+      "duration_ms": 308980,
+      "name": "Resistencia ind\u00edgena - Remaster 2023",
+      "url": "https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1139,22 +1135,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "SIG RAGGA (Remaster 2023)",
-        "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
-      },
-      "artists": [
-        {
-          "name": "Sig Ragga",
-          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
-        }
-      ],
-      "duration_ms": 308980,
-      "name": "Resistencia ind\u00edgena - Remaster 2023",
-      "url": "https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Como la Flor",
         "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 209007,
       "name": "Como la Flor",
       "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Primaveras",
+        "url": "https://open.spotify.com/album/6YSYJyoNdNOFzZnSf88soO"
+      },
+      "artists": [
+        {
+          "name": "Toby Deltin",
+          "url": "https://open.spotify.com/artist/5NWVeyZSNXkufVv5W5xNDr"
+        },
+        {
+          "name": "La Skandalosa Tripulaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Primaveras",
+      "url": "https://open.spotify.com/track/38WEdyXzzj63zhClgLaUgq"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "La Tierra del Desencanto",
+        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
+      },
+      "artists": [
+        {
+          "name": "BlackDali",
+          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
+        },
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 249542,
+      "name": "La Tierra del Desencanto",
+      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Raices y Cultura",
         "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 281920,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "La Tierra del Desencanto",
-        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
-      },
-      "artists": [
-        {
-          "name": "BlackDali",
-          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
-        },
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 249542,
-      "name": "La Tierra del Desencanto",
-      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
     },
     {
       "added_at": "2023-08-18 03:00:00",

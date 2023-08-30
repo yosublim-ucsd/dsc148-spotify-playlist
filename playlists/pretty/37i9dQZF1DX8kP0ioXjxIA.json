@@ -1,13 +1,29 @@
 {
   "description": "BLACKPINK in our area! Are you ready to Shut Down?",
-  "num_followers": 3074093,
+  "num_followers": 3075461,
   "original_name": "This Is BLACKPINK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDQ3YzFiYWE1ZTNkY2M1YTk1NTcyNjEzYjFhZjE1ZDFhNzk1ZjVh",
+  "snapshot_id": "MCwyYzk5ZTZlY2QzM2EyZDc5ZDVmMzRjYWU3MTc5ZmExNTMwNTUzNTdl",
   "tracks": [
+    {
+      "added_at": "2023-08-29 06:38:37",
+      "album": {
+        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
+        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "THE GIRLS - BLACKPINK THE GAME OST",
+      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
+    },
     {
       "added_at": "2023-04-03 05:24:35",
       "album": {

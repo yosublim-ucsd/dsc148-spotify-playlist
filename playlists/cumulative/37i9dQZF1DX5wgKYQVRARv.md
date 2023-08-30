@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: TesseracT
 
-637 songs - 2 day 6 hr 59 min
+638 songs - 2 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [He and the Sea](https://open.spotify.com/track/5Lxr2tr0kXmS6DcxKu4mXP) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [He and the Sea](https://open.spotify.com/album/1Luv5ZG2CQtOw1EdbLzWhL) | 4:26 | 2022-01-21 | 2023-05-13 |
 | [Head Mounted Sideways](https://open.spotify.com/track/6LUEFnKiyb6A7RKO1OA1o3) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Witness](https://open.spotify.com/album/3FVRmhZVaZfLvqHupMbJ6V) | 5:33 | 2022-07-08 | 2022-09-03 |
 | [Head Mounted Sideways](https://open.spotify.com/track/55kwtXkyaWf9X77Zl5cMSW) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Head Mounted Sideways](https://open.spotify.com/album/5MVC7GzxnLBUOAn1nfgVzq) | 5:34 | 2021-12-17 | 2022-07-29 |
+| [Head Mounted Sideways \- Live From The Pool](https://open.spotify.com/track/0KRH0CPCQH6WVnJl3btaup) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Live From The Pool](https://open.spotify.com/album/67CqhE5qHn9g8Eyepndxa9) | 5:45 | 2023-08-18 |  |
 | [Head Mounted Sideways \- Live From The Pool](https://open.spotify.com/track/4FQTC43CEgeZpZfrsYkGAE) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Head Mounted Sideways \(Live From The Pool\)](https://open.spotify.com/album/7f0FMxMSGA29AFeqGI678l) | 5:45 | 2022-03-11 | 2023-05-13 |
 | [Healing Grounds](https://open.spotify.com/track/17XKmvVXawG9zhsuISPAdQ) | [Dawn of Ouroboros](https://open.spotify.com/artist/10QeC2Z1BJ2nywykFZZ5JX) | [Velvet Incandescence](https://open.spotify.com/album/3FdWU5Dwuh59UmUEUn15D8) | 5:29 | 2023-05-12 | 2023-06-17 |
 | [Heart in Hand](https://open.spotify.com/track/5UQGhfrLVNfjqY6gHDBRMR) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Heart in Hand](https://open.spotify.com/album/7AgpLs3nPQLP5UoY2kNVIN) | 8:29 | 2021-12-17 | 2022-07-29 |
@@ -388,7 +389,7 @@
 | [Paralyzed](https://open.spotify.com/track/7DCLX6EC3qcwW9Cz38DJ8O) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Distance Over Time \(Bonus track version\)](https://open.spotify.com/album/1sRDi0MSGOy91fHhcpXIu4) | 4:17 | 2021-12-17 | 2022-09-03 |
 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 | 2021-12-17 | 2022-05-13 |
 | [Pendulum](https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Pendulum](https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM) | 3:52 | 2023-04-07 |  |
-| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 |  |
+| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 | 2023-08-30 |
 | [Perennial Philosophy](https://open.spotify.com/track/2PSI1KGrynoogbYLnoTybJ) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Hidden Worship](https://open.spotify.com/album/7fHg4wRjf0m5MA6e3IuROT) | 4:03 | 2021-12-17 | 2023-01-21 |
 | [Periscope](https://open.spotify.com/track/77nsctL8EWneiHnnyTBXl5) | [Andromeda](https://open.spotify.com/artist/46U3e36KOitRTJchc1SqFu) | [Chimera](https://open.spotify.com/album/5N1vbVOrAyU7qqTTkpNc5u) | 6:11 | 2021-12-17 | 2022-01-23 |
 | [Peruvian Skies \(Basic Tracks\)](https://open.spotify.com/track/7lXJWraADeGngycPUcBngY) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 1:44 | 2023-04-07 |  |

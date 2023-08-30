@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Limited Express \(has gone?\)
 
-612 songs - 1 day 8 hr 56 min
+613 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Deadhead](https://open.spotify.com/track/2Nr5rkzcAbtEHtc4l9odhc) | [MEGA X](https://open.spotify.com/artist/0sq7iGTs5qsWEq4fvMf45m) | [NEW MYTHTAKES](https://open.spotify.com/album/6s4vcH9Bf5VtA09WN3PlWq) | 2:26 | 2022-05-12 | 2022-07-26 |
 | [Dear my songs](https://open.spotify.com/track/5NMwkyRm1azQWdeBrfuNnM) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Songs \-what I sing when a war resounds this\-](https://open.spotify.com/album/3AShfnFUfzEQEGgofiLecD) | 5:18 | 2022-05-12 | 2022-07-25 |
 | [Deception](https://open.spotify.com/track/4bFq5BWHDFPS90EPHAWYoq) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Otherside](https://open.spotify.com/album/0lNBLtCeStZBRSQhARH6ur) | 3:02 | 2022-06-07 | 2022-08-19 |
-| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 | 2023-08-23 |
+| [Decided](https://open.spotify.com/track/65hoodf3Tzd6pDXPnxkbq5) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [PUNK ROCK PRINCESS](https://open.spotify.com/album/5GL4N7eGn2Nr7rhvwRS3vY) | 2:53 | 2023-05-23 |  |
 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 | 2022-05-19 |  |
 | [DESTINATION UNKNOWN](https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 2:49 | 2023-06-09 | 2023-06-28 |
 | [dingdong jungle](https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [dingdong jungle](https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh) | 2:53 | 2022-08-02 | 2022-08-10 |
@@ -527,7 +527,7 @@
 | [メロディー](https://open.spotify.com/track/4mO8Q2xq2Qubo10LAQCtci) | [古墳シスターズ](https://open.spotify.com/artist/2huN0hENOUQCQTGp2y6Wi4) | [ハブ・ア・グッドバイ](https://open.spotify.com/album/6AvLMxfZudBb8cflhCnqZa) | 2:54 | 2022-06-30 | 2022-07-03 |
 | [メロディー](https://open.spotify.com/track/6mhx3RQGyRnyySxOSjiZDj) | [古墳シスターズ](https://open.spotify.com/artist/2huN0hENOUQCQTGp2y6Wi4) | [メロディー](https://open.spotify.com/album/475kHGADzl51GNWvBDlZ8b) | 2:54 | 2022-05-12 | 2022-07-09 |
 | [ラブソングはいらない](https://open.spotify.com/track/6PT9GI9KfOytFFcK82ZpC6) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [ラブソングはいらない](https://open.spotify.com/album/1IyWrwgeRCsTveiU5s9WyT) | 2:22 | 2022-05-12 | 2022-07-25 |
-| [ラーメンライス](https://open.spotify.com/track/0ycQpzijGEvtlgu9qMQyn8) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [ラーメンライス](https://open.spotify.com/album/18HtNNzMaq7c53ClhkIwiq) | 2:49 | 2023-05-30 |  |
+| [ラーメンライス](https://open.spotify.com/track/0ycQpzijGEvtlgu9qMQyn8) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [ラーメンライス](https://open.spotify.com/album/18HtNNzMaq7c53ClhkIwiq) | 2:49 | 2023-05-30 | 2023-08-30 |
 | [レイジー](https://open.spotify.com/track/6g4uuGkIaqT1wrrH7uzEuy) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/4IYmBLtPsWV9hwGIl5gvHM) | 3:43 | 2023-05-16 | 2023-05-18 |
 | [ロスタイム](https://open.spotify.com/track/4MBgEjXDDB2oPvX5PYg2TM) | [メメタァ](https://open.spotify.com/artist/1T20xglqzXdTMykiOTUTjG) | [ロスタイム](https://open.spotify.com/album/4Z6Y3IVRxjSeRp2IMLZ9zp) | 3:58 | 2022-05-17 | 2022-07-27 |
 | [ロックスター人生](https://open.spotify.com/track/0yyKxMFrG3PUzrGmIjcSbT) | [Newrotica](https://open.spotify.com/artist/5BfvdZ7bZpIREbvHOjQtUh) | [LOVE☆SONG \~唄を愛したピエロのロックスター人生\~ \(Special Edition\)](https://open.spotify.com/album/7rnYwUX2E8FgJauLauQv7i) | 3:16 | 2022-05-12 | 2022-07-29 |
@@ -589,6 +589,7 @@
 | [極彩色の夜へ\(Remastered\)](https://open.spotify.com/track/5RXTd9C3TYxXSaFAA73slU) | [climbgrow](https://open.spotify.com/artist/1VbfBuY3YBwQ5431bDLBD7) | [EL\-RODAR\(Selected Edition\)](https://open.spotify.com/album/4q3Sp4FtxrZ8c2s3kBsxEV) | 5:15 | 2022-05-12 | 2022-08-19 |
 | [欠けボタンの浜](https://open.spotify.com/track/1w4z24d1WsNzAiSgvMegOe) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [FOUR COLOR PROBLEM](https://open.spotify.com/album/6UPDZijSd4tsuTQnp1cvRh) | 3:15 | 2022-05-12 | 2022-07-27 |
 | [永久に](https://open.spotify.com/track/4bqBqH6zYVgIZXQO4ZyZJ7) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [永久に](https://open.spotify.com/album/0VeAIIbyFuQS7WeWqxa0PP) | 4:06 | 2023-08-08 | 2023-08-10 |
+| [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 | 2023-08-29 |  |
 | [決意の歌](https://open.spotify.com/track/32HxsGp4jX5URUmulu5dHd) | [bacho](https://open.spotify.com/artist/6ERhWmTmbMG8FQGYfFIIgc) | [レコンキスタ](https://open.spotify.com/album/3KrJbIHprGRPzuVN2OI4fv) | 5:21 | 2022-05-12 | 2022-07-27 |
 | [泣き虫デスマッチ](https://open.spotify.com/track/0N9uFmMjZLBK28fwYxbFtZ) | [Garlicboys](https://open.spotify.com/artist/6nPBc3gSUZ1rQaMvD0VXZz) | [再録ベスト](https://open.spotify.com/album/39cFpk3zsEtX8aE0Mgs7WU) | 2:36 | 2022-05-12 | 2022-07-24 |
 | [火花](https://open.spotify.com/track/5sqCFj25fms531Jx41FhoX) | [SULLIVAN's FUN CLUB](https://open.spotify.com/artist/03d8MZYqxq7mS9DDxWV18U) | [Panta rhei](https://open.spotify.com/album/5yYOvOyzsVLy8AYDIENgOT) | 1:37 | 2022-05-19 | 2022-07-11 |
@@ -616,7 +617,7 @@
 | [金色グラフティー](https://open.spotify.com/track/4sHj1jEbYuKGy6zM2LKXOI) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/album/09O9X6o3DJfUCgB2PEP4ZB) | 4:17 | 2022-07-21 | 2022-08-19 |
 | [金色グラフティー](https://open.spotify.com/track/3Qs3O0rc4R0hl7WkTuMJ6U) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Walk](https://open.spotify.com/album/2ZPTCQBG8YLgf83T8W3Bfh) | 4:18 | 2022-05-12 | 2022-07-27 |
 | [銀河鉄道の夜](https://open.spotify.com/track/3gjTlJclAZCTa2IP2tn6wW) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 5:41 | 2022-05-12 |  |
-| [限界突破 \- 2023ver](https://open.spotify.com/track/5zL1aH9pHJa1BWB4qZqbRK) | [虎の子ラミー](https://open.spotify.com/artist/4uxbGvHpQJ9uKKDoOjlEjk) | [DRIP OF RAMMY](https://open.spotify.com/album/4bgwaDZGObqdJbRkZnqFjw) | 3:30 | 2023-08-22 |  |
+| [限界突破 \- 2023ver](https://open.spotify.com/track/5zL1aH9pHJa1BWB4qZqbRK) | [虎の子ラミー](https://open.spotify.com/artist/4uxbGvHpQJ9uKKDoOjlEjk) | [DRIP OF RAMMY](https://open.spotify.com/album/4bgwaDZGObqdJbRkZnqFjw) | 3:30 | 2023-08-22 | 2023-08-30 |
 | [離れていても](https://open.spotify.com/track/0sdriTFzyjr41idOSiCaPu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [離れていても](https://open.spotify.com/album/6gRGlknpmx8N0Kq5N2Iqvm) | 3:45 | 2022-05-12 | 2022-07-05 |
 | [雨上がり東京は](https://open.spotify.com/track/6kdTopvZh57DMGrLnJguwT) | [チロと衛星](https://open.spotify.com/artist/2eVec80RY2CazpycCwLuxT) | [ロマンス全共闘](https://open.spotify.com/album/4nDTon1WD4b8AAs9S2zt28) | 2:29 | 2022-05-19 | 2022-07-12 |
 | [青春](https://open.spotify.com/track/7fxnqHwjsuocgLat0GmJPw) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [若者よ、耳を貸せ](https://open.spotify.com/album/2w8HkSorIkDDWCdVTsSHw3) | 4:26 | 2022-05-17 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AAiNzeZDgc.md) - [plain]
 
 > This Is STAYC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,787 likes - 33 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,894 likes - 33 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AAiNzeZDgc.md) - [plain]
 | 32 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/7aQOA3ggmKpjleEtabVYbI) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8) | 2:59 |
 | 33 | [ASAP \- Japanese Ver.](https://open.spotify.com/track/3Wt0F41P9eevGDvBSIIqhE) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8) | 3:14 |
 
-Snapshot ID: `MCwyZTk1Nzg1OWJkMGI0N2YwNjRmY2M3M2RjNTE5MWQ0MDU3ODA4ZWRi`
+Snapshot ID: `MCxjN2ZjNzM0Yjg5YTg3MGVjMTk4ZTE2NmUzNDQ4NjJlNWQ1ZTAzNDM4`

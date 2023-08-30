@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 369,
+  "num_followers": 368,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
+  "snapshot_id": "MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -731,22 +731,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "No la Controles",
-        "url": "https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy"
+        "name": "Si T\u00fa Quieres M\u00e1s",
+        "url": "https://open.spotify.com/album/1xU1Zj9cCqcRKkORRF71zw"
       },
       "artists": [
         {
-          "name": "Vic Contreras",
-          "url": "https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev"
-        },
-        {
-          "name": "La Alucinante Banda",
-          "url": "https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo"
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
         }
       ],
-      "duration_ms": 205114,
-      "name": "No la Controles",
-      "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
+      "duration_ms": 264760,
+      "name": "Si T\u00fa Quieres M\u00e1s",
+      "url": "https://open.spotify.com/track/4dfDK5mveASz4gFx3XzQGH"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -783,6 +779,26 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "No la Controles",
+        "url": "https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy"
+      },
+      "artists": [
+        {
+          "name": "Vic Contreras",
+          "url": "https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev"
+        },
+        {
+          "name": "La Alucinante Banda",
+          "url": "https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo"
+        }
+      ],
+      "duration_ms": 205114,
+      "name": "No la Controles",
+      "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "La Cabra Jala Pal Monte",
         "url": "https://open.spotify.com/album/1dBySlCgtNn1GTcvceaWiZ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 186727,
       "name": "La Cabra Jala Pal Monte",
       "url": "https://open.spotify.com/track/5F7BVBpJmYpZ9Z9yfl3YlI"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Si T\u00fa Quieres M\u00e1s",
-        "url": "https://open.spotify.com/album/1xU1Zj9cCqcRKkORRF71zw"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 264760,
-      "name": "Si T\u00fa Quieres M\u00e1s",
-      "url": "https://open.spotify.com/track/4dfDK5mveASz4gFx3XzQGH"
     },
     {
       "added_at": "2022-08-13 03:00:56",

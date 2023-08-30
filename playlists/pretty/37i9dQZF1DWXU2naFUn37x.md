@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Tony Boy, Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,566 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,839 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Scappa da Milano](https://open.spotify.com/track/1AJ3ncdtj5leTKdgHkyVEn) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Scappa da Milano](https://open.spotify.com/album/1IFSeuBowZAGUsjVyHMAgG) | 2:59 |
 | 50 | [TUTA FAKE \(feat\. Don Pero\)](https://open.spotify.com/track/5PT8q7q0VFRA0YL1AbVaiP) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [TUTA FAKE \(feat\. Don Pero\)](https://open.spotify.com/album/6QalFNzRnlYZ6KEYLLIKUZ) | 2:40 |
 
-Snapshot ID: `MCwzM2VhNDRkZjE5YjRjZDZjYjBjNzA3NTliNDA3OWJkNzI5YjU5MjA4`
+Snapshot ID: `MCw2YjQyOTZkMmU0MjgxYWI0ZGQ0MzFlYTU5Yzg1ZTc3OWFlNmEwZDgy`

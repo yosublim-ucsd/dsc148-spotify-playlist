@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,533 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,557 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 53 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 | 54 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 |
 | 55 | [Perto do Sol](https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib) | [RNT](https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d) | [Perto do Sol](https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r) | 2:48 |
-| 56 | [Nossas Mídias](https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6), [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA) | [Nossas Mídias](https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt) | 3:26 |
-| 57 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 |
+| 56 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 |
+| 57 | [Nossas Mídias](https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6), [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA) | [Nossas Mídias](https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt) | 3:26 |
 | 58 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 |
 | 59 | [Lua](https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Lua](https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd) | 2:44 |
 | 60 | [Vento Bom](https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Mc Tekáda\-B](https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU) | [Vento Bom](https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l) | 2:49 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 66 | [27 Dias](https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6) | [Douriel](https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF), [Dracko](https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [27 Dias](https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX) | 2:19 |
 | 67 | [Adaptar](https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Cartas ao Divino](https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi) | 3:10 |
 | 68 | [Nada comum](https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh) | [Nada Comum](https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO) | 3:19 |
-| 69 | [Meia Hora](https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [NOX](https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO) | [Meia Hora](https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV) | 3:17 |
-| 70 | [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 |
+| 69 | [Vários Planos](https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Vários Planos](https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI) | 3:00 |
+| 70 | [Meia Hora](https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [NOX](https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO) | [Meia Hora](https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV) | 3:17 |
 | 71 | [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 |
 | 72 | [Pelo Mundo](https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo) | [Pelo Mundo](https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI) | 2:46 |
 | 73 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 |
 | 74 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 |
 | 75 | [Te Ver De Novo](https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny) | [Te Ver De Novo](https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI) | 2:48 |
 
-Snapshot ID: `MCxkZDIxNDdmMDE5ZWMwZTNjZjBiMWU4YThmMDFiNTQ1MGYxNWU1MjM2`
+Snapshot ID: `MCw1NTFmMGUxYTJiNGU2MGRhMDFiMjk3NTJhMGZjY2UzZjg4NjIwOGQw`

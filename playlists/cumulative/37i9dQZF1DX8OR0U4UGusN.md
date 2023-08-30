@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-265 songs - 14 hr 34 min
+266 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ah Uh Oh](https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Mixtape](https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg) | 1:31 | 2023-08-09 | 2023-08-27 |
 | [All Hallows Grieve](https://open.spotify.com/track/4tt0CNzQuMHcdKyF2RCPZY) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [All Hallows Grieve](https://open.spotify.com/album/7Bq7CAwEJ1BxTcMAEvypFm) | 3:51 | 2021-08-05 | 2022-07-29 |
 | [All My Time Is Wasted](https://open.spotify.com/track/22nUVnTCm4FlOpVgaTc9sC) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [All My Time Is Wasted](https://open.spotify.com/album/3RVFlen5Oj1NdRjW1ELxOM) | 3:20 | 2023-08-09 | 2023-08-21 |
-| [Aloha](https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 4:10 | 2023-08-09 |  |
+| [Aloha](https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 4:10 | 2023-08-09 | 2023-08-30 |
 | [Altopalo](https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 3:06 | 2023-08-09 |  |
 | [Amnesia](https://open.spotify.com/track/5UBCzEjj6I6nQt6nKzbpcw) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Amnesia](https://open.spotify.com/album/6RIvXxoFJ3qgQSJolPobav) | 3:17 | 2021-08-05 | 2022-07-22 |
 | [Andromeda \(feat\. DRAM\) \- Purple Disco Machine Remix](https://open.spotify.com/track/2LczIiNTOfbD4yxohajgjB) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Andromeda \(feat\. D.R.A.M.\) \[Purple Disco Machine Remix\]](https://open.spotify.com/album/106oSRdZYwswMFOAPwROxf) | 6:03 | 2022-07-25 |  |
@@ -159,6 +159,7 @@
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-08-05 |  |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-08-05 | 2023-01-27 |
 | [Malibu](https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Malibu](https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc) | 1:32 | 2021-11-12 |  |
+| [Mean Girl](https://open.spotify.com/track/3sbjrdgu7GEau6kvjWGL54) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:32 | 2023-08-09 |  |
 | [MICHELLE](https://open.spotify.com/track/25CsbJSuItQQnhyC02vnnk) | [G Luné](https://open.spotify.com/artist/11IkPAEv36afGTiydLyDI0) | [MICHELLE](https://open.spotify.com/album/3ConwnTDycEVM2S0bnYMf1) | 2:34 | 2022-05-03 | 2022-11-13 |
 | [Miss Understood](https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Miss Understood](https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln) | 2:30 | 2021-11-12 |  |
 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 | 2021-12-16 | 2023-01-27 |

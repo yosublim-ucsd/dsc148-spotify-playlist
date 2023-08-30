@@ -4,7 +4,7 @@
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: BENR
 
-302 songs - 14 hr 35 min
+303 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,9 +297,10 @@
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-23 | 2023-03-18 |
 | [We Vieren Het Toch](https://open.spotify.com/track/0lGq8CN6aFfJ7LuOQbZn8f) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Uit Het Hoofd](https://open.spotify.com/album/1e9Woi0cizyIT1Emfmiw8Q) | 3:30 | 2023-08-17 |  |
 | [Wild Wild West](https://open.spotify.com/track/4pGud1eTrk6mWSOUw33u9o) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Wild Wild West](https://open.spotify.com/album/3ifeNIgF6ce5nNDW9uKlR9) | 2:56 | 2023-02-23 | 2023-05-12 |
+| [Ze Is Pas Net Begonnen \(Leerstage / Werkstage\)](https://open.spotify.com/track/05MA2ZgaV5d1AGMs0LpJ0O) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Moderne Manieren](https://open.spotify.com/album/4BoxopluUiPxKaF7jpUOhB) | 4:11 | 2023-08-29 |  |
 | [Ze Is Pas Net Begonnen \(Leerstage / Werkstage\)](https://open.spotify.com/track/3oZYSdQ1tCqi8uoRqGAext) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Ze Is Pas Net Begonnen \(Leerstage / Werkstage\)](https://open.spotify.com/album/6dCuGy0Vmc6QQkeW5zZroi) | 4:11 | 2023-05-04 | 2023-06-09 |
 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 | 2023-03-23 | 2023-08-11 |
-| [Zeg Hem Dat Het Goed Gaat](https://open.spotify.com/track/291F9nIoCvpnDLjXCpOXbk) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Zeg Hem Dat Het Goed Gaat](https://open.spotify.com/album/4g1R7DADArViw4J1ZERU7f) | 3:42 | 2023-07-13 |  |
+| [Zeg Hem Dat Het Goed Gaat](https://open.spotify.com/track/291F9nIoCvpnDLjXCpOXbk) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Zeg Hem Dat Het Goed Gaat](https://open.spotify.com/album/4g1R7DADArViw4J1ZERU7f) | 3:42 | 2023-07-13 | 2023-08-30 |
 | [Zie Haar Gaan](https://open.spotify.com/track/1Y04IOxtfXx9J3vyy1dEGo) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Zie Haar Gaan](https://open.spotify.com/album/46QGaDM02l1OOJptgLFZ1P) | 2:29 | 2023-08-10 |  |
 | [Zij Heeft Alles](https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Zij Heeft Alles](https://open.spotify.com/album/69jSlMa042sypmsAS7rORE) | 3:03 | 2023-03-16 | 2023-07-11 |
 | [Zolang Dit Liedje Duurt](https://open.spotify.com/track/4yzvrn5hlJBTbLvOrjGSvv) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Zolang Dit Liedje Duurt](https://open.spotify.com/album/06dgQlNUalqNxkOC2t73bl) | 2:43 | 2023-05-04 | 2023-08-25 |

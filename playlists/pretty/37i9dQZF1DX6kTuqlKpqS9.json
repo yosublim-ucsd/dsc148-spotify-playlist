@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 67391,
+  "num_followers": 67428,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDA0OTIyOTdhMWExMmNlMmRhNTZmMjExNzc5Yzk2M2ZjNTJjMzEy",
+  "snapshot_id": "MCxhNDE1N2RjODRlNjYzNTExZWQ1YzMyYjVkMDMxYjZhNjk0YWNlNTYz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mariachi Hit Parade",
-        "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "En El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "La Familia Aguilar En Vivo (Live At The Plaza De Toro / Mexico City, MX / July 1998)",
         "url": "https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 195253,
       "name": "Ac\u00e1 Entre Nos - En Vivo",
       "url": "https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Mariachi Hit Parade",
+        "url": "https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "En El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/1WdmbYpsCVwFTNxbmgF44G"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -767,18 +767,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Los Valedores de la Sierra con Mariachi (En vivo)",
-        "url": "https://open.spotify.com/album/5rBdxOzPkKkV7dpcc47M3y"
+        "name": "Lucero En Vivo Auditorio Nacional",
+        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
       },
       "artists": [
         {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 174725,
-      "name": "Devu\u00e9lveme la vida - En vivo",
-      "url": "https://open.spotify.com/track/3Jdz6xdtlZc3LSBMFVUEWh"
+      "duration_ms": 187177,
+      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mariachi Ranchera Y Tradicional",
-        "url": "https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 307626,
-      "name": "Sufriendo a Solas",
-      "url": "https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
       },
@@ -831,18 +815,34 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lucero En Vivo Auditorio Nacional",
-        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
+        "name": "Mariachi Ranchera Y Tradicional",
+        "url": "https://open.spotify.com/album/4ON3WQPvu6TI22DnBiF9Pg"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         }
       ],
-      "duration_ms": 187177,
-      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
+      "duration_ms": 307626,
+      "name": "Sufriendo a Solas",
+      "url": "https://open.spotify.com/track/253straZSUiYbEJ6Oorc6B"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Los Valedores de la Sierra con Mariachi (En vivo)",
+        "url": "https://open.spotify.com/album/5rBdxOzPkKkV7dpcc47M3y"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 174725,
+      "name": "Devu\u00e9lveme la vida - En vivo",
+      "url": "https://open.spotify.com/track/3Jdz6xdtlZc3LSBMFVUEWh"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -879,34 +879,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
-        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Tatuajes - En Vivo",
-      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
-        "name": "Los Valedores de la Sierra con Mariachi (En vivo)",
-        "url": "https://open.spotify.com/album/5rBdxOzPkKkV7dpcc47M3y"
-      },
-      "artists": [
-        {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
-        }
-      ],
-      "duration_ms": 236464,
-      "name": "Adicto a ti - En vivo",
-      "url": "https://open.spotify.com/track/76C7mwUjz3AvECGmC24oXK"
+      "duration_ms": 250200,
+      "name": "Cartas Marcadas - En Vivo",
+      "url": "https://open.spotify.com/track/3oRknjYGTdRmvhHVuYdoNI"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -927,18 +911,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+        "name": "En Vivo Desde La Plaza El Progreso De Guadalajara",
+        "url": "https://open.spotify.com/album/6gKQyReexz4apWSmp53v0j"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Cartas Marcadas - En Vivo",
-      "url": "https://open.spotify.com/track/3oRknjYGTdRmvhHVuYdoNI"
+      "duration_ms": 236186,
+      "name": "Tatuajes - En Vivo",
+      "url": "https://open.spotify.com/track/0TchGuutCU00E8sw8E6XWX"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -955,6 +939,22 @@
       "duration_ms": 266821,
       "name": "Cielo Rojo - En Vivo Auditorio Nacional",
       "url": "https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Los Valedores de la Sierra con Mariachi (En vivo)",
+        "url": "https://open.spotify.com/album/5rBdxOzPkKkV7dpcc47M3y"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 236464,
+      "name": "Adicto a ti - En vivo",
+      "url": "https://open.spotify.com/track/76C7mwUjz3AvECGmC24oXK"
     },
     {
       "added_at": "2021-12-29 23:15:19",

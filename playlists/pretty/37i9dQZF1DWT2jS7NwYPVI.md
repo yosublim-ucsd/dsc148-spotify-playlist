@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Armed
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,553 likes - 125 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,606 likes - 125 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 70 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |
 | 71 | [Punk's Dead](https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/26CBoch8r0WmpjOYQedOnM) | 3:12 |
 | 72 | [lungs](https://open.spotify.com/track/7hQmgR3ssV8Racno82rkB1) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [so close to ok](https://open.spotify.com/album/7eaSpxWkxWWYc3rSfHVfuv) | 2:01 |
-| 73 | [Tonight \(demo\)](https://open.spotify.com/track/1i2secJ8Pl16d59744WFEB) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/2CY6wMGNGCESBIRaaIDF1Y) | 3:13 |
+| 73 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
 | 74 | [What Would You Do To Get Ahead\(line\)?](https://open.spotify.com/track/0E5Jg9wyBz28oDA63zFMsJ) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [What Would You Do To Get Ahead\(line\)?](https://open.spotify.com/album/5i4tS5Bm4eeYdo9CdXRT4u) | 2:54 |
 | 75 | [Lovesick](https://open.spotify.com/track/2jXervPgB2n6IWIPqnkLkg) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 3:12 |
 | 76 | [hit your knees](https://open.spotify.com/track/4kDjBnWtTLha2uRCg7axuv) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [hit your knees](https://open.spotify.com/album/2Rvci45HjLE1xfTh495pem) | 3:33 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 113 | [You Spent All Your Love \- Anniversary Edition](https://open.spotify.com/track/7rloJtE977NlkIk4xX7V4s) | [Mega Mango](https://open.spotify.com/artist/4O2iP6l7paJ9tThXxFVZXJ) | [You Spent All Your Love \(Anniversary Edition\)](https://open.spotify.com/album/2AGoHfsNzYZAEIqhkuoecv) | 4:17 |
 | 114 | [All The Way](https://open.spotify.com/track/1IeZNPzTSzX9eglmpXaslX) | [The Criticals](https://open.spotify.com/artist/6ArhcOX0zzUe8GDzLTgBrK) | [Front Door Confrontations](https://open.spotify.com/album/5iElRfNy6beN0M7xR3hBBx) | 3:21 |
 | 115 | [S.O.S.](https://open.spotify.com/track/0SQS6XyIuDs6iwPEFteS4p) | [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [S.O.S.](https://open.spotify.com/album/0KiAemTyG7SKZXmbIS9wC9) | 2:34 |
-| 116 | [unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
+| 116 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
 | 117 | [Riot](https://open.spotify.com/track/04ozu87GNHVPVgd8qhBUJU) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Cult Classic](https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3) | 2:17 |
 | 118 | [Athene](https://open.spotify.com/track/02pXk68MbRpG26YFRxWzJh) | [The Velveteins](https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN) | [Athene](https://open.spotify.com/album/6pqA7APcsNeUqI7Nqj9Vde) | 3:21 |
 | 119 | [Running](https://open.spotify.com/track/70Ihkxi5xu9AEWBob1JBX7) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Super Snõõper](https://open.spotify.com/album/2zgNt2Z61ZncG9IPbEiWQL) | 5:22 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Money](https://open.spotify.com/track/5rlfh1uoDFgbycSkX0Dms5) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Money](https://open.spotify.com/album/3WSZtZRBRJVoAljZAaip2m) | 2:54 |
 | 125 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 
-Snapshot ID: `MCwzNjdkZWE0NGQ5Yzc0NzY4MTRiNzcyMTg0NGRhZDVkODEzMTIyNTIx`
+Snapshot ID: `MCw4MGQ4NzVkNDczMTU3NzExOGFkNDJiZjhmZmMwMDIzNDU0ODExZTE5`

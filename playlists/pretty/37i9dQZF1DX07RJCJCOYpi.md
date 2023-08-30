@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Gordo & Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,192 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,190 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 15 | [Segunda](https://open.spotify.com/track/54MmZwaLe5MTp3YYPpQBRh) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Jonjon](https://open.spotify.com/artist/5l8xCiqHtpk3XDXJ2ZfgK7) | [Segunda](https://open.spotify.com/album/4AGrIMZD92OHMNe5orb3Ik) | 2:48 |
 | 16 | [VOLVERÁS](https://open.spotify.com/track/0GlBekgy9Z2YEKCHxj33T2) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:37 |
 | 17 | [Elovrga](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Elovrga](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 |
-| 18 | [TRES SHOT](https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT) | 2:32 |
+| 18 | [TRES SHOT](https://open.spotify.com/track/10QBisUlladhpt1govhb4w) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/1rhgAwX7B33pMFSA0OJPpB) | 2:32 |
 | 19 | [MONTE](https://open.spotify.com/track/37PacxDrLWaHtYMPV8IYse) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [MONTE](https://open.spotify.com/album/7FbQjXpnUM5ZlShOY0xHCt) | 5:21 |
 | 20 | [Cancún](https://open.spotify.com/track/5Jr7BOw2riYNc8olJg0mnj) | [DREILU](https://open.spotify.com/artist/69RRyee3xnmXy5Dcr3N5hH) | [Cancún](https://open.spotify.com/album/7vO5qKEBE5qxKC75cqW0D7) | 2:56 |
 | 21 | [Candela](https://open.spotify.com/track/0WR1IwdoZvOe9eyvIiOsxN) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [TECHOLOGY](https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s) | [Candela](https://open.spotify.com/album/06Sv0nfkDslR2zt14sArMZ) | 2:08 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 50 | [Papi](https://open.spotify.com/track/0SmL6t4DXfjEsTiGtTEUSV) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn) | [L.O.C.](https://open.spotify.com/album/06tcSzwgaQTwOwmxIUcU9J) | 3:32 |
 | 51 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 |
 
-Snapshot ID: `MCxlYmIxZTA0ODVlOWYyMDdhOTVjNjUyNmQ4NjY5ZjE2ZmMwYWVhMzQw`
+Snapshot ID: `MCw1OGRlNzM3ZDBjOWM1ZGE5YTRhMjVlZDA5Njg4ZTE3Yzg5MmVhZTU2`

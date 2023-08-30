@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! ✨
 
-303 songs - 18 hr 20 min
+304 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Lolita](https://open.spotify.com/track/3izyPpgjYjbKEFtng3IEcS) | [PRISTINE BABE](https://open.spotify.com/artist/0X8u1C9pKwm2tdvMKMVc31) | [Lolita](https://open.spotify.com/album/5CcDEtm147K0SuKsALChfM) | 3:49 | 2021-11-19 | 2022-02-01 |
 | [Lose You](https://open.spotify.com/track/2xKJ1lp7QG8E9VqpXSu1i6) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/6kceeYJdBMthVBI7VLKpoQ) | 3:31 | 2022-06-26 | 2022-07-16 |
 | [Lose You](https://open.spotify.com/track/7zKh8PCaBAtPaKmYxTVlAG) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/7DiMBetpYNLaLbmcpcorGl) | 3:31 | 2022-09-08 | 2023-01-25 |
+| [Lost When I'm Around You](https://open.spotify.com/track/5u5lUvwZiPBHqVSJuXpxjd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Lost When I’m Around You](https://open.spotify.com/album/3Ga5TCkXDbC5vHPIZWv9Tn) | 2:54 | 2023-08-29 |  |
 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 | 2022-06-26 | 2023-01-25 |
 | [Luca \(Protopapa Remix\)](https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Luca \(Protopapa Remix\)](https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW) | 3:13 | 2023-06-22 |  |
 | [LURIDONA](https://open.spotify.com/track/5jk0Jko1G8b9ZtiN7rOBhM) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN) | [LURIDONA](https://open.spotify.com/album/1HKWCTcbfRowpc9N6r2sSc) | 1:45 | 2021-11-19 | 2023-07-07 |

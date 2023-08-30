@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-317 songs - 18 hr 30 min
+320 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 | 2023-02-23 | 2023-04-26 |
 | [Divide](https://open.spotify.com/track/0PbCOBEUjlnvBCe5uCdLlw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:23 | 2023-02-23 | 2023-06-20 |
 | [Divide](https://open.spotify.com/track/56gDMsPfzD6UNG318InjIU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:23 | 2023-06-06 |  |
+| [Dog in the Park](https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Dog in the Park](https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD) | 3:00 | 2023-08-29 |  |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2023-02-23 |  |
 | [Don't Like Him On You](https://open.spotify.com/track/4TOP8xLFxbAwQSy5oU1HpS) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Don't Like Him On You](https://open.spotify.com/album/2AogRugkmAgA0gyDeSivWe) | 2:41 | 2023-08-17 |  |
 | [Don't Mess With Love](https://open.spotify.com/track/5b5QTqakCuGZhVhPBBBqrA) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Don't Mess With Love](https://open.spotify.com/album/4MyriGlKItrboh6pR9C4C7) | 3:22 | 2023-02-23 |  |
@@ -110,6 +111,7 @@
 | [Head Over Heels](https://open.spotify.com/track/3StL2jKfcfZBD1oc1tm25j) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Head Over Heels](https://open.spotify.com/album/4FlcewSj4imHL8Fjc3lJbb) | 2:32 | 2023-02-23 |  |
 | [Heart And Soul](https://open.spotify.com/track/2qsxxtgNo91XMsz6fZjFYs) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Heart And Soul](https://open.spotify.com/album/2BgRGjEHjI4mCsBtIir7Up) | 2:54 | 2023-04-06 |  |
 | [Heartbeat \- Acoustic Version](https://open.spotify.com/track/7ktXVuy3bi3Dd2WMmN4UTt) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat \(Acoustic Version\)](https://open.spotify.com/album/6SpveBzKj1xeTK4vTS9SKu) | 3:22 | 2023-03-09 |  |
+| [Hello](https://open.spotify.com/track/6WOWlW3yUqyobe5t60CMNu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Hello](https://open.spotify.com/album/5ktE0WaMW40T9mcr7MM6Ic) | 3:34 | 2023-08-29 |  |
 | [Here With You \- Acoustic](https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Y O U](https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr) | 3:41 | 2023-04-25 |  |
 | [Hi\-Lo](https://open.spotify.com/track/3rPvqdTUROO6eFGFJnY6Jr) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [SKYVIEW](https://open.spotify.com/album/7nkAfiUqBFSD19EwyvCShv) | 2:57 | 2023-02-23 |  |
 | [High Five](https://open.spotify.com/track/1KNfDol8Thjs1dNXPPppBy) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [High Five](https://open.spotify.com/album/3G3sIi4NccAcwsZwUC537k) | 3:29 | 2023-02-23 |  |
@@ -178,6 +180,7 @@
 | [Midnight](https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Midnight](https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf) | 3:22 | 2023-02-23 |  |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2023-02-23 | 2023-04-26 |
 | [Mine](https://open.spotify.com/track/15PYP1uYMArFbSWs9DCWi2) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l), [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Mine](https://open.spotify.com/album/0ledL4lHNdwMeln9TUdzmM) | 2:49 | 2023-02-23 | 2023-04-26 |
+| [Miracle](https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Miracle](https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S) | 2:31 | 2023-08-29 |  |
 | [Miracle Love](https://open.spotify.com/track/3pjeJVSQXB2aaZOIEKNYvd) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Rainbow Valley](https://open.spotify.com/album/5k2ppB8SwrTTFyHUoqRzBW) | 4:22 | 2023-02-23 |  |
 | [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 | 2023-08-17 |  |
 | [Miracles](https://open.spotify.com/track/6LTULqwZrAFfdzJnsOaEmy) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [Beste Zangers 2021 \(Joe Buck\)](https://open.spotify.com/album/0VcY5kRBSi02BjPs314Aze) | 2:27 | 2023-02-23 |  |
