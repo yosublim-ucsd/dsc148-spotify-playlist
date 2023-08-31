@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music by Bakar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,362 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,392 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 63 | [Drivin \(feat\. Field Medic\)](https://open.spotify.com/track/00uUhSnmZOLJqq79mYoC2y) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Drivin \(feat\. Field Medic\)](https://open.spotify.com/album/6DGU0jhIhF8SmuATk0mQGc) | 3:27 |
 | 64 | [Arcade](https://open.spotify.com/track/3gZHd2vSxknZBvNXaKsdOE) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Arcade](https://open.spotify.com/album/5SLCLGN4Gq2Jx3R27bz0nL) | 3:59 |
 | 65 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 |
-| 66 | [Library \(feat\. Purr\)](https://open.spotify.com/track/0vdrHnhtRum6HGlsTlUXmL) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library \(feat\. Purr\)](https://open.spotify.com/album/3TJ5rdwJK40WRdzTMMK0gs) | 2:39 |
+| 66 | [Library](https://open.spotify.com/track/7dxjxc3cL7fO2zFPdVZdwx) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library](https://open.spotify.com/album/2LuHMMKawbuifCE7p1HZKv) | 2:39 |
 | 67 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
 | 68 | [Roly Poly](https://open.spotify.com/track/7uqvt9TCztQgtyQZoQdjrF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 2:36 |
 | 69 | [Slowburn](https://open.spotify.com/track/1VPE8fiA7AeycpjG7HfdJL) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Slowburn](https://open.spotify.com/album/4uNVAFeEBTT9faHponCGf2) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
 | 100 | [Hey Anna](https://open.spotify.com/track/23ROfLTmpk2Q1baIETAdeD) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Hey Anna](https://open.spotify.com/album/4tOCYcl7aroF3Kb1vfcLdY) | 2:50 |
 
-Snapshot ID: `MCxjY2JiYmM5MDRjY2QzMzgyOTc3MTg4YWVmYzg0MThhMDFkZDIzMTBl`
+Snapshot ID: `MCxmZGEyYzcwYmNkNzQ2ZDkxN2E2ZmFmODc1YjA4ZTYyMmJmODNkN2I0`

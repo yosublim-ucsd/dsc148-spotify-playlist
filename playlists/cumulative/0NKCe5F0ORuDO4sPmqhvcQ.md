@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-492 songs - 1 day 3 hr 36 min
+494 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Drifting](https://open.spotify.com/track/7uToGdhcxRZ5lo9WCVVQdx) | [London Topaz](https://open.spotify.com/artist/2QNu1AjQAl2trTfbVMovyd), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Drifting](https://open.spotify.com/album/62BaTuGHN2cqQvah1IhuZ0) | 3:46 | 2023-02-23 | 2023-04-01 |
 | [Droves](https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj) | 3:50 | 2022-04-01 |  |
 | [Drug Designer](https://open.spotify.com/track/1ulIKIorxYJR1gdNa8DPE8) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:41 | 2021-11-23 | 2022-02-05 |
+| [Dry Lungs](https://open.spotify.com/track/0Zv1cAT5U7r257yvtzlTyL) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Xtra Pop](https://open.spotify.com/album/6KSljbq3i1XPjyLDN5bSau) | 3:50 | 2023-08-30 |  |
 | [Dusk](https://open.spotify.com/track/0f0MYJ1C8IPN46v921wzFx) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:55 | 2022-07-21 | 2022-07-23 |
 | [Dusk](https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Dusk](https://open.spotify.com/album/1yPM7AaWWLW9yxUxlwYizI) | 2:55 | 2022-05-21 |  |
 | [earthquake](https://open.spotify.com/track/43Mws6pQGKCUeJ5bDaSmFR) | [kennedyxoxo](https://open.spotify.com/artist/4zJGVaqPKqkN3dEpC31E04), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [earthquake](https://open.spotify.com/album/4LqfMmufo20rLpXvQ8Ua3g) | 2:09 | 2022-02-28 | 2022-03-31 |
@@ -382,6 +383,7 @@
 | [Sever](https://open.spotify.com/track/4U5lpQaRmPRYOgisXSivUw) | [BARDZ](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk) | [The Allegory](https://open.spotify.com/album/06hNmVsWLyxiGMgriOz8l4) | 3:01 | 2023-04-06 |  |
 | [Sexy Rave Boy](https://open.spotify.com/track/1m6iGcpFTtKTvsvukOL4Du) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Sexy Rave Boy](https://open.spotify.com/album/3BH8U4Mht7RaoqeTY3GAyB) | 2:12 | 2022-07-13 | 2023-07-20 |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-22 | 2023-06-23 |
+| [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-30 |  |
 | [Silent Water](https://open.spotify.com/track/7xV2E7ImOGtmunBMiCWdHM) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi), [Sooski](https://open.spotify.com/artist/1GZJ0FyOSt0HTW5Zxxz78K) | [Unison](https://open.spotify.com/album/102nhWXRWFzwAKLqkVzMUX) | 4:18 | 2022-01-18 | 2022-02-05 |
 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 | 2022-09-02 | 2022-09-19 |
 | [SIN](https://open.spotify.com/track/07UgTBVnVv7NnnJZynZVvX) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [SIN](https://open.spotify.com/album/4LYixRI9Z6wYnsJ6NwKgzH) | 3:18 | 2023-05-26 | 2023-07-20 |

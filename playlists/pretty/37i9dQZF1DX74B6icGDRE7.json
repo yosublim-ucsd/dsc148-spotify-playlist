@@ -1,12 +1,12 @@
 {
   "description": "my intrusive thoughts \ud83e\udd1d this playlist. para esas horas nost\u00e1lgicas & melanc\u00f3licas de la noche.",
-  "num_followers": 1373,
+  "num_followers": 1423,
   "original_name": "de madrugada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmY1NTliZmRkY2MzZTRlOTE5Njk2NWFlNDc4MjQ1ODMwMjYzMzU3",
+  "snapshot_id": "MCw0N2ViNTBiNWYwMWU5MDQxYzBlNDg5M2MwZTM2ZmE4MTA5NDNmNDA3",
   "tracks": [
     {
       "added_at": "2023-08-18 20:49:49",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-08-18 20:49:49",
       "album": {
-        "name": "Lo que elegiste",
-        "url": "https://open.spotify.com/album/7zV1JgdA6e8nt8wJKSeXtJ"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 64666,
-      "name": "Lo que elegiste.",
-      "url": "https://open.spotify.com/track/3wsiNOSGIKbU5JKxcqUPvg"
-    },
-    {
-      "added_at": "2023-08-18 20:49:49",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 187520,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3"
+    },
+    {
+      "added_at": "2023-08-18 20:49:49",
+      "album": {
+        "name": "Lo que elegiste",
+        "url": "https://open.spotify.com/album/7zV1JgdA6e8nt8wJKSeXtJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 64666,
+      "name": "Lo que elegiste.",
+      "url": "https://open.spotify.com/track/3wsiNOSGIKbU5JKxcqUPvg"
     },
     {
       "added_at": "2023-08-18 20:49:49",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-18 20:49:49",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 230386,
-      "name": "tuviste",
-      "url": "https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7"
-    },
-    {
-      "added_at": "2023-08-18 20:49:49",
-      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/3woQ2AxMJRfEJaEV9BIDR1"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 174053,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/4bKKVfhH3pmMEWCMTViBVf"
+    },
+    {
+      "added_at": "2023-08-18 20:49:49",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "tuviste",
+      "url": "https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7"
     },
     {
       "added_at": "2023-08-18 20:49:49",

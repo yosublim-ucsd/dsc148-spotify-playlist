@@ -2033,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "i met sarah in the bathroom",
+        "url": "https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ"
+      },
+      "artists": [
+        {
+          "name": "awfultune",
+          "url": "https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121374,
+      "name": "i met sarah in the bathroom",
+      "url": "https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx"
+    },
+    {
+      "album": {
         "name": "heavy hearted",
         "url": "https://open.spotify.com/album/1ikxInxCu69qvY7Xuwzvx2"
       },
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 121374,
       "name": "I Met Sarah in the Bathroom",
       "url": "https://open.spotify.com/track/3yXoqAiLWYQi5oNJN2MA4l"

@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-212 songs - 13 hr 16 min
+215 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Burying Secrets](https://open.spotify.com/track/125nLemIP1mkNCUqigwUIP) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 3:23 | 2019-06-27 |  |
 | [Butter](https://open.spotify.com/track/2HffKiqwE9cMKcRLwO03km) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Butter](https://open.spotify.com/album/6Rgrxb2rmHgJJE3RfDBQt9) | 3:27 | 2020-07-16 |  |
 | [Caravan of Fools](https://open.spotify.com/track/0XP9ngwJpoFXVEeA7xcKHU) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 2:28 | 2021-11-15 |  |
-| [Caroline](https://open.spotify.com/track/7rwKNqgVO0OfdOLNSKfYR4) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx), [Belle Plaine](https://open.spotify.com/artist/5bCjjNx0wXytkKko9jlaLl) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 2:53 | 2020-06-22 |  |
+| [Caroline](https://open.spotify.com/track/7rwKNqgVO0OfdOLNSKfYR4) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx), [Belle Plaine](https://open.spotify.com/artist/5bCjjNx0wXytkKko9jlaLl) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 2:53 | 2020-06-22 | 2023-08-31 |
+| [Caroline \(feat\. Belle Plaine\)](https://open.spotify.com/track/7DTJLfd4Yd4Mz0A0q6L4d5) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx), [Belle Plaine](https://open.spotify.com/artist/5bCjjNx0wXytkKko9jlaLl) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 2:53 | 2020-06-22 |  |
 | [Chess](https://open.spotify.com/track/7AYbl1Auq495a2BUcc5Xf5) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/37WoevP8269NwUSQ370NVV) | 2:32 | 2022-12-07 |  |
 | [Chess](https://open.spotify.com/track/4QEX5xovdi7LpxPucf99aX) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/1Hsjz9l68sZbrKuZP8Ofq9) | 2:32 | 2021-12-28 | 2022-12-08 |
 | [Cigarette](https://open.spotify.com/track/2U3DpE3tZk504wqtUs9jbA) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Cigarette](https://open.spotify.com/album/7sbNpqAePuSfznP3AMCpdc) | 3:34 | 2020-06-22 |  |
@@ -45,7 +46,8 @@
 | [Claudia's Theme \- Version Eight](https://open.spotify.com/track/42KZ8Ico4auwb8jSijJtI1) | [Lennie Niehaus](https://open.spotify.com/artist/574GaJ6fESbIpMNPvL61Af), [Clint Eastwood](https://open.spotify.com/artist/5NfaORyb548xmt85LGHYFV) | [Unforgiven \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ae3Z1g2G35RSOFkHL3SBt) | 5:41 | 2019-06-27 |  |
 | [Conquer](https://open.spotify.com/track/6ZMnmTmhfIKMQAD7crAQfJ) | [KiND](https://open.spotify.com/artist/5FtxRQV23bl8eKmKdxtxbv) | [Conquer](https://open.spotify.com/album/7pvY4eXxlxci8gIvi7zFoc) | 4:18 | 2019-06-27 |  |
 | [Cover Me Up](https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Southeastern](https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4) | 4:53 | 2021-12-20 |  |
-| [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 | 2021-11-29 |  |
+| [Cowpoke](https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t) | 3:12 | 2021-11-29 |  |
+| [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 | 2021-11-29 | 2023-08-31 |
 | [Daddy Doesn't Pray Anymore](https://open.spotify.com/track/21aD24K6JOf0F0qx6HJ0dy) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:09 | 2019-08-29 |  |
 | [Dance the Night Away](https://open.spotify.com/track/4Ez6kcErbQw2IBjm62i3Fg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Coast](https://open.spotify.com/album/3Q6idrlnc5UQwg1RKKIglL) | 4:22 | 2022-11-14 |  |
 | [Dark Thoughts Ride](https://open.spotify.com/track/3lJgfrGHujVhRmU28KwQNa) | [Kevin Costner & Modern West](https://open.spotify.com/artist/3UKhW4CbRv9wZvfT5oodNH) | [Tales from Yellowstone](https://open.spotify.com/album/5vnnXCMIdQFJ2818PxJAt5) | 1:47 | 2020-06-22 |  |
@@ -138,7 +140,8 @@
 | [Party Like You](https://open.spotify.com/track/30tNJbzSwy4FGyOJu4cD86) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Bury Me In My Boots \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3UpMLqTSQhzYPunjM1oFYW) | 3:07 | 2020-06-29 |  |
 | [Peace in the Pines](https://open.spotify.com/track/3Aw7AkVsRDZfcJ4LfGCDj0) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Everything Has Changed](https://open.spotify.com/album/0A0R2bKlLS2U3uICL3nwFn) | 3:39 | 2022-01-03 |  |
 | [Pearl Snaps](https://open.spotify.com/track/04yO1WqGaIxTk3QJIVyncw) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Pearl Snaps](https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ) | 3:24 | 2019-08-01 |  |
-| [Plain to See Plainsman](https://open.spotify.com/track/1tScrLohhBQSwuHRk6wkkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/5YFcEg0KaTy1Q20EYfsCR2) | 3:49 | 2021-11-08 |  |
+| [Plain to See Plainsman](https://open.spotify.com/track/1tScrLohhBQSwuHRk6wkkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/5YFcEg0KaTy1Q20EYfsCR2) | 3:49 | 2021-11-08 | 2023-08-31 |
+| [Plain to See Plainsman](https://open.spotify.com/track/4pKmkKqR9lBaOBvtPazIGT) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/6DzYh2Z00xNWG8wtfB6kIY) | 3:49 | 2021-11-08 |  |
 | [Prayers](https://open.spotify.com/track/67SZVaLGhOhCg2siYjv43l) | [Pete Sands & the Drifters](https://open.spotify.com/artist/6DnpI5V4pE8jEJaWgiWLVs) | [Prayers](https://open.spotify.com/album/5wsa4sCcEdG43zIYin1xNw) | 2:08 | 2019-08-08 |  |
 | [Questions \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/track/0SjMWvh37MxfcxWfRxzZ2U) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Questions \(Music from the Original TV Series Yellowstone Season 2\)](https://open.spotify.com/album/05Gz0lrbVWZhNWxt22RtD1) | 3:21 | 2019-08-01 |  |
 | [Quittin' Time](https://open.spotify.com/track/50Emgupm363qIrYBe20FR3) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 | 2022-12-19 |  |

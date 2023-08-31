@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-650 songs - 1 day 8 hr 26 min
+651 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Down in History](https://open.spotify.com/track/7vk6KtY9Hp6O2zGNgPv6Xv) | [The Speakeasy](https://open.spotify.com/artist/2rgyTqUjhmKC1AerI9IXln) | [Tales from the Moonshiner Part Two: Requiem](https://open.spotify.com/album/0c1lxjh9AXS2Ec1wdn2c9n) | 3:20 | 2020-10-24 | 2021-01-15 |
 | [DRACULADS](https://open.spotify.com/track/1uck0mNOg9sUn8nCO3iMc2) | [Salem](https://open.spotify.com/artist/71seHBxiwcD6QOoSZ9P8Tf) | [DRACULADS](https://open.spotify.com/album/7MNsBniLuSpV1yohVbPPox) | 2:17 | 2021-06-11 | 2022-05-10 |
 | [Dragged Down](https://open.spotify.com/track/2ZIVSz7SjiUOW0rVZLcTzb) | [Hitch & Go](https://open.spotify.com/artist/0rT0FGXbu6AbRy4pgScYpa) | [Dragged Down](https://open.spotify.com/album/3kW2pVxEZOe4VwLpzZvnKx) | 2:34 | 2020-03-21 | 2021-07-21 |
-| [Drain the Blood](https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 3:09 | 2021-01-23 |  |
+| [Drain the Blood](https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 3:09 | 2021-01-23 | 2023-08-31 |
 | [Dress the Wounds](https://open.spotify.com/track/2NDwOTPi2Bjuq5mTcTAoix) | [Strike Anywhere](https://open.spotify.com/artist/5rWh48V4824rLBdMja6sO8) | [Dress the Wounds](https://open.spotify.com/album/1WwsIKVq9AlqUDshOq05EH) | 2:50 | 2020-05-18 | 2022-05-03 |
 | [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 | 2021-10-10 | 2021-10-11 |
 | [Drowned And Drained](https://open.spotify.com/track/04PUMUPLWkxIR8afP1hJLo) | [Two and a Half Girl](https://open.spotify.com/artist/2UtI8wV9ZLGkemasmx6P09) | [Drowned And Drained](https://open.spotify.com/album/1KAyet0zZauT6n3koT8yRk) | 3:31 | 2020-09-26 | 2022-02-11 |
@@ -587,6 +587,7 @@
 | [Thrash Metal Cassette](https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Thrash Metal Cassette](https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY) | 3:39 | 2020-03-20\* | 2022-07-29 |
 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 | 2020-03-21 |  |
 | [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2021-01-23 | 2023-08-25 |
+| [Time Bomb](https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:24 | 2022-07-26 |  |
 | [To Have And To Have Not](https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7) | [Lars Frederiksen and the Bastards](https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG) | [Lars Frederiksen And The Bastards](https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP) | 2:46 | 2020-03-20 | 2022-11-13 |
 | [Tokyo](https://open.spotify.com/track/4fkxd0oZ18Sxj6o5m8hUo2) | [I Am The Avalanche](https://open.spotify.com/artist/60uj1W8gsOriVqdoqLcR2O) | [DIVE](https://open.spotify.com/album/7B6Sd0hhxfBOLbbVzcnvCU) | 2:34 | 2020-11-22 | 2021-01-19 |
 | [Too Drunk to Fuck](https://open.spotify.com/track/0gJ4X2ojTykeaoDEDEE1Xj) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 2:40 | 2021-10-09 | 2022-11-13 |

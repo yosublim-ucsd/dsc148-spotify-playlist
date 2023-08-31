@@ -4,7 +4,7 @@
 
 > Hits written and produced by Max Martin.
 
-168 songs - 10 hr 12 min
+169 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Bon appétit](https://open.spotify.com/track/61WbtB6ujkpNAsAf5LjF4b) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Witness](https://open.spotify.com/album/03ntx95u0wotf68NnE3aGw) | 3:47 | 2018-06-21 | 2022-01-12 |
 | [Break Free](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:34 | 2022-01-10 |  |
 | [break up with your girlfriend, i'm bored](https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:10 | 2022-01-10 |  |
-| [Break You](https://open.spotify.com/track/2fzbo8JwGAKS0ZC3ImXRll) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt) | [Set Me Free](https://open.spotify.com/album/3Fl1x1yjAlgYld0ZF5ZJCK) | 3:12 | 2022-01-10 |  |
+| [Break You](https://open.spotify.com/track/2YHP2n1IUmx3J1SsnHDD25) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt) | [Set Me Free](https://open.spotify.com/album/1oBRxIupjimC0XnNgJpWDG) | 3:12 | 2022-07-20 |  |
+| [Break You](https://open.spotify.com/track/2fzbo8JwGAKS0ZC3ImXRll) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt) | [Set Me Free](https://open.spotify.com/album/3Fl1x1yjAlgYld0ZF5ZJCK) | 3:12 | 2022-01-10 | 2023-08-31 |
 | [Break You](https://open.spotify.com/track/5NEXHyy890n7cuhD61rtVK) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt) | [HERE I AM \(Jap/Aust/NZ Version\)](https://open.spotify.com/album/6wexDWls491QSiZiLviYWn) | 3:12 | 2018-06-21 | 2022-01-12 |
 | [C'Mon](https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:34 | 2022-01-10 |  |
 | [California Gurls](https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:54 | 2022-01-10 |  |

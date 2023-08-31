@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: Santamonica",
+  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: White Shoes & The Couples Company",
   "name": "Memorindie",
   "tracks": [
     {
@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Album Vakansi",
+        "url": "https://open.spotify.com/album/6pwO0FlmvK6Ny1zXJpYv6P"
+      },
+      "artists": [
+        {
+          "name": "White Shoes & The Couples Company",
+          "url": "https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251826,
+      "name": "Matahari",
+      "url": "https://open.spotify.com/track/3gdqotXTAfRcBgCMP9fQ0q"
+    },
+    {
+      "album": {
         "name": "Matraman",
         "url": "https://open.spotify.com/album/04W8ZfHK51vMEqT1Pjg32p"
       },
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 343906,
       "name": "Romantic Purple - Remix by Homogenic",
       "url": "https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf"
@@ -1988,6 +2006,24 @@
       "duration_ms": 224000,
       "name": "Tipu Jalanan",
       "url": "https://open.spotify.com/track/455lrM7CINDST62QTXwc4O"
+    },
+    {
+      "album": {
+        "name": "Topstar Collection",
+        "url": "https://open.spotify.com/album/7GQQVzcfWoxWQzIcsG305K"
+      },
+      "artists": [
+        {
+          "name": "White Shoes & The Couples Company",
+          "url": "https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "Topstar",
+      "url": "https://open.spotify.com/track/3YgYfnCjpnN0oSZv3bkaX7"
     },
     {
       "album": {

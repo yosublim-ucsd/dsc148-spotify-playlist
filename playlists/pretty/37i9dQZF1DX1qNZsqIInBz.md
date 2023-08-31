@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,300 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,785 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 13 | [ZEMLYA](https://open.spotify.com/track/6ykmd9ifNFPlKFdjePXLUb) | [EDWXRDX](https://open.spotify.com/artist/7d0TKChRUOvzyn7UGzJR6N) | [ZEMLYA](https://open.spotify.com/album/4Oy3RyBfpG5G13efSVzLHG) | 2:24 |
 | 14 | [SOFT PHONK](https://open.spotify.com/track/1avPaaXMn8UfvnxWX5xCYP) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [SOFT PHONK](https://open.spotify.com/album/1Aar4MD4qlBtTmnDd7EuHk) | 1:39 |
 | 15 | [Aria Math](https://open.spotify.com/track/0QeYTfxC3BchP1Hzn5HGPd) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Aria Math](https://open.spotify.com/album/4hIpj10UfZXzkhbocSxDXh) | 4:05 |
-| 16 | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL) | [KMJ](https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI) | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V) | 3:02 |
+| 16 | [Beat Mágico Que Mexe Com a Sua Mente](https://open.spotify.com/track/13fBl5rmFLuEeIdYlpq5kR) | [SX69NINE](https://open.spotify.com/artist/1lgF7NWWqnVY6U76lCEDKF) | [Beat Mágico Que Mexe Com a Sua Mente](https://open.spotify.com/album/2UHvLyiO7eKqKyXoHKUv11) | 3:02 |
 | 17 | [EASY PEAZY](https://open.spotify.com/track/1e6ZXuLRtWnXhwvJftJYuB) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6), [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK) | [EASY PEAZY](https://open.spotify.com/album/2gcyMDMKwpT4kpZ1HhITH8) | 2:49 |
 | 18 | [NIGHT PHONK](https://open.spotify.com/track/0ze8n8jr6UP7n09NKxWCWn) | [COWBELL DYNASTY](https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p) | [NIGHT PHONK](https://open.spotify.com/album/0AcaL7E1MdTZsMCwRK4MQz) | 1:22 |
 | 19 | [GET AWAY II](https://open.spotify.com/track/3aI4COsiNptuCDITxvTRCq) | [MXRGX](https://open.spotify.com/artist/6gbsXeoeYTUXGlYlxcKAMP), [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [GET AWAY II](https://open.spotify.com/album/7I7F1c3tOML8rUpki5pVfZ) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [Spacewave](https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu) | [Confirmbackup](https://open.spotify.com/artist/6Da2INMo1oIn9flRNiIZqk) | [Spacewave](https://open.spotify.com/album/5BWydJ3ORPcf5Z7cCmFuyJ) | 3:26 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MCwxN2I1YTkxODhiMmE0OGQxZDFmOWRjZWY3MjM5NWQ5NDlkYTRmYmE2`
+Snapshot ID: `MCxmM2M3NWZiZDFhNTdlODM2ZGRmM2EzMzhkNjQxNTlkY2U2MmMxMzQ3`

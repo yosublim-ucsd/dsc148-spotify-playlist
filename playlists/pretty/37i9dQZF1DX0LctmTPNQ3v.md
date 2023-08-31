@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Time to headbang around the Christmas tree! Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,436 likes - 69 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,446 likes - 69 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 36 | [No Presents for Christmas](https://open.spotify.com/track/1UNyNWe03mb3RGZmkcu7lr) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [The Dark Sides](https://open.spotify.com/album/0JXKB69mOVC0qVNKz4VMlO) | 4:21 |
 | 37 | [Merry Blah Blah Blah](https://open.spotify.com/track/1OOPUbMuiP64MSWZUNWNJd) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Merry Blah Blah Blah](https://open.spotify.com/album/3uSQOTSTrxjzdCHjwQnDAw) | 4:04 |
 | 38 | [The Joy of Christmas](https://open.spotify.com/track/4vCCjkUK3TngTc9uHbLY2h) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [A Christmas Carol](https://open.spotify.com/album/2ctzCcSgotPQKues1laJWj) | 5:35 |
-| 39 | [Auld Lang Syne](https://open.spotify.com/track/3NoelPInS57vLRx6qVwE4S) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Auld Lang Syne](https://open.spotify.com/album/3AuGeHVBNgGFoH0lNH75fY) | 3:37 |
+| 39 | [Auld Lang Syne](https://open.spotify.com/track/29WgoS3yvkl62MwOLQlT3Q) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Auld Lang Syne](https://open.spotify.com/album/31Z5P9kwY8HbUZNnZl5LeR) | 3:37 |
 | 40 | [Jingle Hell](https://open.spotify.com/track/7wKOOVdySGGYeCB5MHhhqY) | [Christopher Lee](https://open.spotify.com/artist/2anYzFDecFa10y1rfZH44b) | [A Heavy Metal Christmas Too](https://open.spotify.com/album/3LkzHEuobNQNHZ9kDjjhhi) | 3:42 |
 | 41 | [Kidnap the Sandy Claws](https://open.spotify.com/track/4IhcTCymItOCN0d8kSLJFo) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Jack 2 Pack \(The Nightmare Before Christmas\)](https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT) | 3:37 |
 | 42 | [Mary Did You Know](https://open.spotify.com/track/5mvByjQpP60Peg80DURkXa) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Mary Did You Know](https://open.spotify.com/album/6RvqLASS8YpPUuF41STGR1) | 3:03 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 68 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3YRXVd1lusaMPCJYav3pRz) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Paul Samson \(Samson\)](https://open.spotify.com/artist/4vbpbFeVJouo8UvJT6jKA3) | [Heavy Metal Christmas](https://open.spotify.com/album/3s5PHvys0oH8inYn8WUEgl) | 3:30 |
 | 69 | [White Christmas](https://open.spotify.com/track/6xUPF0cpNS3lL1Q4c5k9fa) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Lea Hart](https://open.spotify.com/artist/6F7TZJPVHTlpG9jCYKw7h3) | [A Very Metal Xmas](https://open.spotify.com/album/4yIcXXvkfOTl58xvAjBslh) | 4:14 |
 
-Snapshot ID: `MCxjN2Q5NzM4ZDIxZjQ3MDhhYWQ0Zjk5Y2E4MDBhNGI5MmUyMmE0YTE3`
+Snapshot ID: `MCwxNWIzYjQ3MDE5ZTRmYzU5OGU4YTgyODI2MWQzOWRhNTUzZGNkNzdm`

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:3dA6K34y5FCgngffHJTjpY">MAGENTA FLORA</a>
+> Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0Ys2AuB4wwgGpHxZSSKvZB">pablo murphy</a>
 
 881 songs - 1 day 19 hr 57 min
 

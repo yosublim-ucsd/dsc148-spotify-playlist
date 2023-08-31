@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,082 likes - 100 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,118 likes - 100 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 35 | [Settin' Sail](https://open.spotify.com/track/34bpCZJYVa0YxUxENbVXWU) | [Desert Jellies](https://open.spotify.com/artist/0d2tTkLVOJzwlirrcISQX0) | [Nautical Nonsense](https://open.spotify.com/album/7LTdiWx72gqlfLPMd6dInK) | 4:47 |
 | 36 | [Breathless](https://open.spotify.com/track/4f9U0iMBjmcBzguVEu2xaP) | [Shambala](https://open.spotify.com/artist/1wFNBQylnepwBAVoEcL7l8) | [Breathless](https://open.spotify.com/album/0pyhlYwLsvjX72hCOTSJHy) | 3:19 |
 | 37 | [Unchained](https://open.spotify.com/track/6fK9qzWh0uM4JZRdKhiaLN) | [Hedonistas](https://open.spotify.com/artist/75pLAZ0NsopVsrFUHN1Mn1) | [Unchained](https://open.spotify.com/album/7eYgDcaqyfI4ZGn0cZseoo) | 3:55 |
-| 38 | [The $1000 Question](https://open.spotify.com/track/5ZtQFLmOlYAd16NgGZDACL) | [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Raymond Paczkowski](https://open.spotify.com/artist/4qUkl3o89oPUOpFxm3NPDg), [Russell Lawton](https://open.spotify.com/artist/1yb00XX9NeNeVGXrOUQZP8) | [The $1000 Question](https://open.spotify.com/album/7sblF3Uewbjd1cal6qUOa1) | 6:54 |
+| 38 | [The $1000 Question](https://open.spotify.com/track/5ZtQFLmOlYAd16NgGZDACL) | [RAAR Trio](https://open.spotify.com/artist/60DVLOx4jVE86vJSSPoUcl), [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Raymond Paczkowski](https://open.spotify.com/artist/4qUkl3o89oPUOpFxm3NPDg), [Russell Lawton](https://open.spotify.com/artist/1yb00XX9NeNeVGXrOUQZP8), [Soule Monde](https://open.spotify.com/artist/7sag5QujhVfDU0hGeGDl3x) | [The $1000 Question](https://open.spotify.com/album/7sblF3Uewbjd1cal6qUOa1) | 6:54 |
 | 39 | [Lessons](https://open.spotify.com/track/12tRRP8jnBGOc3eQMFpcxk) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Seasons](https://open.spotify.com/album/22TcmPpJuX1tOlSw4fheP8) | 4:10 |
 | 40 | [Sweater Weather](https://open.spotify.com/track/67PW34NuiTcwvLJzTHJF5k) | [Desmond Jones](https://open.spotify.com/artist/0UU2zglZ7Rk4v2FIY9OMOv) | [Rays of Light and Stardust](https://open.spotify.com/album/4ILXLVxldlo4VkvJNQz09S) | 3:49 |
 | 41 | [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 99 | [The Wheel](https://open.spotify.com/track/1gQYm7VKVjc9ExTKVT409f) | [Plantasia](https://open.spotify.com/artist/7ahksytqjF7OhN0kFEZ2Du) | [The Wheel & The Witness](https://open.spotify.com/album/5ZXpDefilGS1vQOgV3P5vG) | 4:05 |
 | 100 | [Railroad City](https://open.spotify.com/track/1cY5P52MED6HxdgZCLHrnJ) | [Lost Ox](https://open.spotify.com/artist/0teB6cQnhex8MyjtX1RhfX) | [Stuck](https://open.spotify.com/album/5X3DDdA3ezjDcqiETPZLkR) | 4:46 |
 
-Snapshot ID: `MCwyOGNlMGY2NjY3YWE1MzMyMTRjYmMyNDVhNzkwYzM4MjRkOGY4MTFi`
+Snapshot ID: `MCxmODk5NDdkOGNlZTU4NDk0NDY4YmJmMDgzODI3MDJhNGJlOTI2NTZi`

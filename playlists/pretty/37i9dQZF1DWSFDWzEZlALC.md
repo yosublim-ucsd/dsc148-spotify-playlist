@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,121 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,308 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Girls](https://open.spotify.com/track/1ekbaHcYd9fUMvRVWT1IHF) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Girls](https://open.spotify.com/album/3iQ4meV1NB6JdhEEKm05CL) | 3:08 |
 | 75 | [boys don’t cry](https://open.spotify.com/track/4D7gB2zqGluW3P4hU8WIEu) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [boys don’t cry](https://open.spotify.com/album/4UDlvkucIuKcxmYhExbCwL) | 2:55 |
 
-Snapshot ID: `MCwwZTdlNTQ1N2E2OTM4ODE4NDI5ODI1ZDA1YWFiY2NmYjQ3YmFjNjIx`
+Snapshot ID: `MCxiNGZmYzVkOTk1MWJlYThiYmYyNGMyYzc4NTRjOGM2OGUwNjI5MjBk`

@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Gilsons, Lagum",
-  "num_followers": 430872,
+  "num_followers": 430920,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTcwYWE4ODExNjBjNDBmODVhOWQ3YWJkZDZlYjE2NTRiZmZhODUw",
+  "snapshot_id": "MCwyZGFlYzM0YjIxZDgyYjhmYmEzMjkyM2ExMmZmMzhlOWI1ZTZiYzE5",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -355,22 +355,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "REWIND DOIS",
-        "url": "https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ"
+        "name": "X\u00edcara",
+        "url": "https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Guilherme Castel",
+          "url": "https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX"
         }
       ],
-      "duration_ms": 184000,
-      "name": "REWIND DOIS",
-      "url": "https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK"
+      "duration_ms": 151867,
+      "name": "X\u00edcara",
+      "url": "https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -391,18 +387,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "X\u00edcara",
-        "url": "https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX"
+        "name": "REWIND DOIS",
+        "url": "https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ"
       },
       "artists": [
         {
-          "name": "Guilherme Castel",
-          "url": "https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 151867,
-      "name": "X\u00edcara",
-      "url": "https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra"
+      "duration_ms": 184000,
+      "name": "REWIND DOIS",
+      "url": "https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -779,18 +779,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Cultivar",
-        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
+        "name": "No Passo da Saudades",
+        "url": "https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj"
       },
       "artists": [
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        },
+        {
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
         }
       ],
-      "duration_ms": 133222,
-      "name": "Mundo de Papel",
-      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
+      "duration_ms": 176869,
+      "name": "No Passo da Saudades",
+      "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -811,22 +815,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "No Passo da Saudades",
-        "url": "https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj"
+        "name": "Cultivar",
+        "url": "https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ"
       },
       "artists": [
         {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        },
-        {
-          "name": "\u00cdtalo Ribeiro",
-          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 176869,
-      "name": "No Passo da Saudades",
-      "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
+      "duration_ms": 133222,
+      "name": "Mundo de Papel",
+      "url": "https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Com.Fuso",
-        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 169539,
-      "name": "Terminou Bem",
-      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "M\u00faltipla",
         "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 161540,
       "name": "Nem Eu Me Entendo",
       "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Com.Fuso",
+        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 169539,
+      "name": "Terminou Bem",
+      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Corda Bamba",
+        "url": "https://open.spotify.com/album/572WWhgJJ3QWIw180d00DO"
+      },
+      "artists": [
+        {
+          "name": "Yasmim Silveira",
+          "url": "https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s"
+        }
+      ],
+      "duration_ms": 171100,
+      "name": "Corda Bamba",
+      "url": "https://open.spotify.com/track/5RRogbBQK33amziOlo85tg"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 169275,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Corda Bamba",
-        "url": "https://open.spotify.com/album/572WWhgJJ3QWIw180d00DO"
-      },
-      "artists": [
-        {
-          "name": "Yasmim Silveira",
-          "url": "https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s"
-        }
-      ],
-      "duration_ms": 171100,
-      "name": "Corda Bamba",
-      "url": "https://open.spotify.com/track/5RRogbBQK33amziOlo85tg"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
+        "name": "que se fosse",
+        "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
       },
       "artists": [
         {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
         }
       ],
-      "duration_ms": 154603,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
+      "duration_ms": 139666,
+      "name": "que se fosse",
+      "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1295,18 +1295,34 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "que se fosse",
-        "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
       },
       "artists": [
         {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
         }
       ],
-      "duration_ms": 139666,
-      "name": "que se fosse",
-      "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "T\u00e3o Cedo",
+        "url": "https://open.spotify.com/album/3TRx3qK9shSrMqn6TUpgDa"
+      },
+      "artists": [
+        {
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+        }
+      ],
+      "duration_ms": 183222,
+      "name": "T\u00e3o Cedo",
+      "url": "https://open.spotify.com/track/1yAXltaINGRVf72BCeHcgH"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "T\u00e3o Cedo",
-        "url": "https://open.spotify.com/album/3TRx3qK9shSrMqn6TUpgDa"
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/5nJW4qnTFw8kwQ6gxZ7gJg"
       },
       "artists": [
         {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         }
       ],
-      "duration_ms": 183222,
-      "name": "T\u00e3o Cedo",
-      "url": "https://open.spotify.com/track/1yAXltaINGRVf72BCeHcgH"
+      "duration_ms": 141130,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/1AIqRI9UanGxUFiMtBEALX"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1371,22 +1387,6 @@
       "duration_ms": 164000,
       "name": "del\u00edrio coletivo",
       "url": "https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/5nJW4qnTFw8kwQ6gxZ7gJg"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/1AIqRI9UanGxUFiMtBEALX"
     },
     {
       "added_at": "2023-08-25 03:00:00",

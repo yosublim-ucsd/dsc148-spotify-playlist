@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-506 songs - 1 day 1 hr 52 min
+507 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [Hey Shaa](https://open.spotify.com/track/7JumBFy1ngjLjfQyDsCraw) | [MJ Wemoto](https://open.spotify.com/artist/1K4l5pezBhs1hisWkoRbTe) | [Hey Shaa](https://open.spotify.com/album/4ZxR5fE5ydK8MAcCqFRpkN) | 4:35 | 2023-06-27 | 2023-07-27 |
 | [Hey, Stunner](https://open.spotify.com/track/6l7vf1NGO0GK0Y6IN5cFlK) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [A Night in The Hills](https://open.spotify.com/album/2x28Q8UJfZ4QK75QMqdMew) | 1:49 | 2023-06-05 | 2023-06-28 |
 | [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 | 2023-07-26 | 2023-08-04 |
-| [high](https://open.spotify.com/track/5qCpepbxfQr8Tjd81hqtq3) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [high](https://open.spotify.com/album/4Yx5Fulw5mJuDhzlCgCDiZ) | 1:59 | 2023-07-26 |  |
+| [high](https://open.spotify.com/track/5GNPphbCNMao6UUT6KMfuT) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [UNDER 20](https://open.spotify.com/album/5IH5BY0dtTXWEBrOTfUPOx) | 1:59 | 2023-08-18 |  |
+| [high](https://open.spotify.com/track/5qCpepbxfQr8Tjd81hqtq3) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [high](https://open.spotify.com/album/4Yx5Fulw5mJuDhzlCgCDiZ) | 1:59 | 2023-07-26 | 2023-08-31 |
 | [Higher Mountains](https://open.spotify.com/track/2mvkApHbNkRGy6z33rRMzi) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS) | [Higher Mountains](https://open.spotify.com/album/0T2UhpspiNpb9ok07NUjeO) | 3:17 | 2023-02-22 | 2023-03-30 |
 | [Hii](https://open.spotify.com/track/2NybYJnrhNVE41MoRaN9hR) | [Hanstone](https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw) | [Hii](https://open.spotify.com/album/5nwakyBA2Yhl1joVx5gp7F) | 2:52 | 2023-01-25 | 2023-02-23 |
 | [Hillary](https://open.spotify.com/track/6I1oMY6NrE8Iqx7bx0gIw2) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Hillary](https://open.spotify.com/album/3KUbmSvjvHH5Qxf1A9lS09) | 2:51 | 2023-03-29 | 2023-06-28 |
@@ -235,7 +236,7 @@
 | [isokayy](https://open.spotify.com/track/4KllMRS8PusIOli57We3Ro) | [Nayytan](https://open.spotify.com/artist/47490MMNgWEGtEQWlgEp32) | [isokayy](https://open.spotify.com/album/5hqQNQaXt1bGp9UTbBkabi) | 2:33 | 2022-09-30 | 2023-01-26 |
 | [It Worked.](https://open.spotify.com/track/6szsPoJlK8bkp5UW8mvNHK) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [It Worked.](https://open.spotify.com/album/280siucpH9HGDWOOrLoHBH) | 2:56 | 2023-06-27 | 2023-07-27 |
 | [It's Just Us \(taona Remix\)](https://open.spotify.com/track/1QvHxNzmuIP4h6tMJqt2jd) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [taona](https://open.spotify.com/artist/6VdATb3XFyCH8GLLXU5aIG) | [It's Just Us \(taona Remix\)](https://open.spotify.com/album/7K4j9t6z1TXYZthxR96h5Q) | 2:53 | 2023-06-27 | 2023-07-27 |
-| [It's You](https://open.spotify.com/track/75E0pvft2uh1tLwJ1O9Sli) | [Petrooz](https://open.spotify.com/artist/4HLTPLigcbloihqAWILZ7C) | [Love Under Construction](https://open.spotify.com/album/1ovQhwj5S5nyVczB9ArRpN) | 3:53 | 2023-07-26 |  |
+| [It's You](https://open.spotify.com/track/75E0pvft2uh1tLwJ1O9Sli) | [Petrooz](https://open.spotify.com/artist/4HLTPLigcbloihqAWILZ7C), [Adasa](https://open.spotify.com/artist/4aEgTXOBT546LytjJmUegy) | [Love Under Construction](https://open.spotify.com/album/1ovQhwj5S5nyVczB9ArRpN) | 3:53 | 2023-07-26 |  |
 | [Jara Joro](https://open.spotify.com/track/1HZd6S5XRpOqUTqQI4yH0Y) | [Mo'Believe](https://open.spotify.com/artist/2JZT6fRSlCQFOnSvkwJ8PW) | [Odù](https://open.spotify.com/album/6qzkMjuDOVxqdYv9bYqPIS) | 2:50 | 2022-09-30 | 2023-01-26 |
 | [Jegede](https://open.spotify.com/track/53kf8QMQZjndWLf4L7teFx) | [Hitboy Kellz](https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf) | [Pure Sin](https://open.spotify.com/album/4cg4q3smAdAOZ8J1JNhe1Q) | 2:42 | 2022-09-30 | 2022-10-29 |
 | [Jersey Shore](https://open.spotify.com/track/3vT2IdQrA4kaAb2T8cHty7) | [Shima](https://open.spotify.com/artist/0Y95vyqH0ymzvUrtqahZsw) | [Jersey Shore](https://open.spotify.com/album/1WnyDcdOJYXY1zl8fi9u9U) | 3:26 | 2022-10-28 | 2023-01-26 |

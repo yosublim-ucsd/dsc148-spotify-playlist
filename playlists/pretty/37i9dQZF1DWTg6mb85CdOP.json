@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11751,
+  "num_followers": 11753,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzMyY2NkMzkwNDUyNmI4N2QxZDcyMzBhMTI2NjQ4M2I5MjQ0MDFm",
+  "snapshot_id": "MCw2YTIzZmNkMzE0ODZiZTMwNmQxMDJjOTRiYjA4YzUzZGI0YzkzMGIz",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Vida Ventura",
+        "url": "https://open.spotify.com/album/5VosrSVY4pQ56SCZ83L8NI"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 254211,
+      "name": "Dos Amantes",
+      "url": "https://open.spotify.com/track/43UQT0PI9nO4vs8HDNF3O1"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 249600,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2dTF9YQQT27wzJMZnaCcYh"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Vida Ventura",
-        "url": "https://open.spotify.com/album/5VosrSVY4pQ56SCZ83L8NI"
-      },
-      "artists": [
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 254211,
-      "name": "Dos Amantes",
-      "url": "https://open.spotify.com/track/43UQT0PI9nO4vs8HDNF3O1"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Zora's Moon (Natasha Diggs Remix)",
+        "url": "https://open.spotify.com/album/0gOIU3or0bIE19dQ2e6hLe"
+      },
+      "artists": [
+        {
+          "name": "Candice Hoyes",
+          "url": "https://open.spotify.com/artist/2ogBwLfGCzYpXDis8THsKA"
+        },
+        {
+          "name": "Natasha Diggs",
+          "url": "https://open.spotify.com/artist/0DqGIKEEj1pOGrOTrYUwPt"
+        }
+      ],
+      "duration_ms": 488720,
+      "name": "Zoras's Moon - Natasha Diggs Remix",
+      "url": "https://open.spotify.com/track/4TWRxDQX1ZcgfgvFEtflVp"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 300000,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Zora's Moon (Natasha Diggs Remix)",
-        "url": "https://open.spotify.com/album/0gOIU3or0bIE19dQ2e6hLe"
-      },
-      "artists": [
-        {
-          "name": "Candice Hoyes",
-          "url": "https://open.spotify.com/artist/2ogBwLfGCzYpXDis8THsKA"
-        },
-        {
-          "name": "Natasha Diggs",
-          "url": "https://open.spotify.com/artist/0DqGIKEEj1pOGrOTrYUwPt"
-        }
-      ],
-      "duration_ms": 488720,
-      "name": "Zoras's Moon - Natasha Diggs Remix",
-      "url": "https://open.spotify.com/track/4TWRxDQX1ZcgfgvFEtflVp"
     },
     {
       "added_at": "2023-02-03 06:30:00",

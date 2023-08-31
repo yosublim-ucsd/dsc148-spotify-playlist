@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists in the UK + Ireland. Cover: Jianbo",
-  "num_followers": 19959,
+  "num_followers": 19996,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDJjOTUxYTVmMDM4MzY1OTM1YmNhYmU0OWFhNDhjZTcyNzk5NDI2",
+  "snapshot_id": "MCw1MzQxZjI0ZjBiMjUwODQ3NmZlZTI2Mzg5MTBkZWE3YzAyYTZhZmVl",
   "tracks": [
     {
       "added_at": "2023-08-29 23:00:00",
@@ -239,7 +239,7 @@
     {
       "added_at": "2023-08-29 23:00:00",
       "album": {
-        "name": "Cherry cola",
+        "name": "Cherry Cola",
         "url": "https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ"
       },
       "artists": [
@@ -249,7 +249,7 @@
         }
       ],
       "duration_ms": 164533,
-      "name": "Cherry cola",
+      "name": "Cherry Cola",
       "url": "https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv"
     },
     {

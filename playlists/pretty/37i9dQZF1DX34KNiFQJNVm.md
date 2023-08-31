@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Juliette, Ana Castela, Leo Santana, Gusttavo Lima, NATTAN, Miley Cyrus e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,164 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,414 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 102 | [Move it, Love it](https://open.spotify.com/track/15fhWIiIrQsCs6VW17W2kz) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Mc Thata](https://open.spotify.com/artist/5q8M0G3RhAnuD7bjrFLpQm) | [Move it, Love it](https://open.spotify.com/album/4k6bODAr2RBMizWzaN237f) | 3:00 |
 | 103 | [Az De Ouro](https://open.spotify.com/track/4SU0Ih4r5IdKZIHaXlQ4R0) | [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Az De Ouro](https://open.spotify.com/album/1vq05TEz1R2vcWahw78Thi) | 2:52 |
 
-Snapshot ID: `MCw4NTc1ZDM2YTNkYTFkM2I1ZDU3ZjhmMDNkNTc0ZDM3ZmEyMzEwYzYz`
+Snapshot ID: `MCwzNmEzYWQ0NGI4ZWM5YWZmMTAwNDQyYmVkNzM1NGU2ZDUzYmZlOGVl`

@@ -1,12 +1,12 @@
 {
   "description": "Unwind to the real beauty of Instrumentals!",
-  "num_followers": 44646,
+  "num_followers": 44664,
   "original_name": "Indie Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMThjZTE5ODZmODYzMjQ2YzE0NmI3OGI1ODlhYjIyMjNjZWVmZmE3",
+  "snapshot_id": "MCxmYjljMzg5ZjA3NTIzMDhjYjNiYzkwNTY3Njk5NjUxYmY2ZDQzOTkx",
   "tracks": [
     {
       "added_at": "2022-06-10 07:23:31",
@@ -805,6 +805,34 @@
       "url": "https://open.spotify.com/track/5V0thaq4RnmZDC26yrvVZG"
     },
     {
+      "added_at": "2023-08-23 13:17:24",
+      "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS"
+      },
+      "artists": [
+        {
+          "name": "Alam Khan",
+          "url": "https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG"
+        },
+        {
+          "name": "Arjun K. Verma",
+          "url": "https://open.spotify.com/artist/7zRwN2RRNF3NJ0YjBprXDk"
+        },
+        {
+          "name": "Del Sol Quartet",
+          "url": "https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH"
+        },
+        {
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        }
+      ],
+      "duration_ms": 119850,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/4i6XRMX1DRgJVZIRHjGHYe"
+    },
+    {
       "added_at": "2022-06-10 07:23:31",
       "album": {
         "name": "Of Agency and Abstraction",
@@ -839,22 +867,6 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "Hindsight Is 2020",
-        "url": "https://open.spotify.com/album/4JqFv2qEGyJylss14D0BYM"
-      },
-      "artists": [
-        {
-          "name": "Blackstratblues",
-          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
-        }
-      ],
-      "duration_ms": 177531,
-      "name": "Hey 2020",
-      "url": "https://open.spotify.com/track/4nVNpumEiHV7TrK2Y5d04E"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
         "name": "It Could be Rain",
         "url": "https://open.spotify.com/album/6nbpfPyyk6ifJNekEevxM1"
       },
@@ -867,6 +879,22 @@
       "duration_ms": 251000,
       "name": "It Could Be Rain",
       "url": "https://open.spotify.com/track/1MEiH1yGTZVFXA3bsFooj7"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Hindsight Is 2020",
+        "url": "https://open.spotify.com/album/4JqFv2qEGyJylss14D0BYM"
+      },
+      "artists": [
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        }
+      ],
+      "duration_ms": 177531,
+      "name": "Hey 2020",
+      "url": "https://open.spotify.com/track/4nVNpumEiHV7TrK2Y5d04E"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -885,32 +913,36 @@
       "url": "https://open.spotify.com/track/7MQBHGabpM1KU2ZtjCpPHb"
     },
     {
-      "added_at": "2023-08-23 13:17:24",
+      "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS"
+        "name": "Naked on a Train",
+        "url": "https://open.spotify.com/album/1Nd6oKZfCjqr2RzLfCRB6i"
       },
       "artists": [
         {
-          "name": "Alam Khan",
-          "url": "https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG"
-        },
-        {
-          "name": "Arjun K. Verma",
-          "url": "https://open.spotify.com/artist/7zRwN2RRNF3NJ0YjBprXDk"
-        },
-        {
-          "name": "Del Sol Quartet",
-          "url": "https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH"
-        },
-        {
-          "name": "Ojas Adhiya",
-          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+          "name": "Vinay Kaushal",
+          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
         }
       ],
-      "duration_ms": 119850,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/4i6XRMX1DRgJVZIRHjGHYe"
+      "duration_ms": 224455,
+      "name": "A Tune for Peace - an Interlude",
+      "url": "https://open.spotify.com/track/1IsJo7jMClxOoNCpfQuiBs"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "This is Carnatic Fusion, Vol. 4",
+        "url": "https://open.spotify.com/album/6a8P91f5BM5eykZPz7M2jV"
+      },
+      "artists": [
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "duration_ms": 261626,
+      "name": "Bantureethi Koluvu - Instrumental",
+      "url": "https://open.spotify.com/track/54cexJUIswXGxlfR2eky8y"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -939,54 +971,6 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "This is Carnatic Fusion, Vol. 4",
-        "url": "https://open.spotify.com/album/6a8P91f5BM5eykZPz7M2jV"
-      },
-      "artists": [
-        {
-          "name": "Phani Narayana",
-          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "Bantureethi Koluvu - Instrumental",
-      "url": "https://open.spotify.com/track/54cexJUIswXGxlfR2eky8y"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Naked on a Train",
-        "url": "https://open.spotify.com/album/1Nd6oKZfCjqr2RzLfCRB6i"
-      },
-      "artists": [
-        {
-          "name": "Vinay Kaushal",
-          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
-        }
-      ],
-      "duration_ms": 224455,
-      "name": "A Tune for Peace - an Interlude",
-      "url": "https://open.spotify.com/track/1IsJo7jMClxOoNCpfQuiBs"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "My Journey with Ebony & Ivory",
-        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
-      },
-      "artists": [
-        {
-          "name": "Avik Ganguly",
-          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
-        }
-      ],
-      "duration_ms": 183637,
-      "name": "Mon Kharaper Bristi",
-      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
         "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
         "url": "https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 268157,
       "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
       "url": "https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
+      },
+      "artists": [
+        {
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
+        }
+      ],
+      "duration_ms": 183637,
+      "name": "Mon Kharaper Bristi",
+      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "St.",
-        "url": "https://open.spotify.com/album/2NBFBbCFVhFDOTAEMZg4kw"
-      },
-      "artists": [
-        {
-          "name": "Sanjeev T",
-          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
-        }
-      ],
-      "duration_ms": 308970,
-      "name": "Wake up Rama",
-      "url": "https://open.spotify.com/track/5bNZHTX9GlngnP0tyRbDZ8"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
         "name": "The Lost Cause",
         "url": "https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
+        "name": "St.",
+        "url": "https://open.spotify.com/album/2NBFBbCFVhFDOTAEMZg4kw"
+      },
+      "artists": [
+        {
+          "name": "Sanjeev T",
+          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
+        }
+      ],
+      "duration_ms": 308970,
+      "name": "Wake up Rama",
+      "url": "https://open.spotify.com/track/5bNZHTX9GlngnP0tyRbDZ8"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
         "name": "Vynikam, Vol. 1",
         "url": "https://open.spotify.com/album/5Pp7uLokr2VML2RLaGMl2D"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 442853,
       "name": "Kondalalo Nelakonna",
       "url": "https://open.spotify.com/track/5AISJvIwHAQeErVjr13SAi"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Abhay Nayampally",
+        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
+      },
+      "artists": [
+        {
+          "name": "Abhay Nayampally",
+          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
+        }
+      ],
+      "duration_ms": 309818,
+      "name": "So\u2026Now Hear This",
+      "url": "https://open.spotify.com/track/2sxZfnXAqdEK5d0wdfPOzt"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1155,22 +1171,6 @@
       "duration_ms": 215722,
       "name": "Mind In Wonderland",
       "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Abhay Nayampally",
-        "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
-      },
-      "artists": [
-        {
-          "name": "Abhay Nayampally",
-          "url": "https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa"
-        }
-      ],
-      "duration_ms": 309818,
-      "name": "So\u2026Now Hear This",
-      "url": "https://open.spotify.com/track/2sxZfnXAqdEK5d0wdfPOzt"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
+        "name": "Imperfect Things",
+        "url": "https://open.spotify.com/album/0so0Y8UzBKc7aiGTuhdxo7"
+      },
+      "artists": [
+        {
+          "name": "Sridhar Varadarajan",
+          "url": "https://open.spotify.com/artist/6Jy10JIWhSv5VvFzi6sHwg"
+        },
+        {
+          "name": "Prakash Sontakke",
+          "url": "https://open.spotify.com/artist/0ITgqMxxKYSUZNUOGVBX2X"
+        }
+      ],
+      "duration_ms": 185685,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/6jBKigEE4UpWHuTitAqAdG"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
         "name": "Abhay Nayampally",
         "url": "https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 424373,
       "name": "Carmina Burana, O Fortuna (Orff)",
       "url": "https://open.spotify.com/track/3UIma3jo9jbfcvbBJxAUAB"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Imperfect Things",
-        "url": "https://open.spotify.com/album/0so0Y8UzBKc7aiGTuhdxo7"
-      },
-      "artists": [
-        {
-          "name": "Sridhar Varadarajan",
-          "url": "https://open.spotify.com/artist/6Jy10JIWhSv5VvFzi6sHwg"
-        },
-        {
-          "name": "Prakash Sontakke",
-          "url": "https://open.spotify.com/artist/0ITgqMxxKYSUZNUOGVBX2X"
-        }
-      ],
-      "duration_ms": 185685,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/6jBKigEE4UpWHuTitAqAdG"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
-        "name": "Electric Ganesha Land",
-        "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
-      },
-      "artists": [
-        {
-          "name": "Prasanna",
-          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
-        }
-      ],
-      "duration_ms": 410893,
-      "name": "Dark Sundae in Triplicane",
-      "url": "https://open.spotify.com/track/17FtPFUyO6v4VwdYKR2Vl1"
-    },
-    {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2022-06-10 07:23:31",
       "album": {
+        "name": "Electric Ganesha Land",
+        "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
+      },
+      "artists": [
+        {
+          "name": "Prasanna",
+          "url": "https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ"
+        }
+      ],
+      "duration_ms": 410893,
+      "name": "Dark Sundae in Triplicane",
+      "url": "https://open.spotify.com/track/17FtPFUyO6v4VwdYKR2Vl1"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
         "name": "Acoustic Pasanga - 100 Secs'HOPE",
         "url": "https://open.spotify.com/album/2IKp7F6bgfXTLPrJUB4Pkg"
       },
@@ -1587,6 +1587,26 @@
       "duration_ms": 105855,
       "name": "Acoustic Pasanga - 100 Secs'HOPE",
       "url": "https://open.spotify.com/track/4Grji4PmopcGloCI5bXn0Y"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Pustaka: Origins (Instrumental Version)",
+        "url": "https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB"
+        }
+      ],
+      "duration_ms": 248727,
+      "name": "Rupantara - Instrumental Version",
+      "url": "https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1673,26 +1693,6 @@
       "url": "https://open.spotify.com/track/1fSASLRRwjPfVPF4vpQ3Gu"
     },
     {
-      "added_at": "2022-06-10 07:23:31",
-      "album": {
-        "name": "Pustaka: Origins (Instrumental Version)",
-        "url": "https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA"
-      },
-      "artists": [
-        {
-          "name": "TED",
-          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
-        },
-        {
-          "name": "Yohanan",
-          "url": "https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB"
-        }
-      ],
-      "duration_ms": 317538,
-      "name": "Suka - Instrumental Version",
-      "url": "https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V"
-    },
-    {
       "added_at": "2023-04-19 08:20:40",
       "album": {
         "name": "Synergy",
@@ -1711,6 +1711,26 @@
       "duration_ms": 743595,
       "name": "Shuddh Sarang",
       "url": "https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP"
+    },
+    {
+      "added_at": "2022-06-10 07:23:31",
+      "album": {
+        "name": "Pustaka: Origins (Instrumental Version)",
+        "url": "https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB"
+        }
+      ],
+      "duration_ms": 317538,
+      "name": "Suka - Instrumental Version",
+      "url": "https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V"
     },
     {
       "added_at": "2022-06-10 07:23:31",
@@ -1797,24 +1817,20 @@
       "url": "https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU"
     },
     {
-      "added_at": "2022-06-10 07:23:31",
+      "added_at": "2023-08-30 06:44:43",
       "album": {
-        "name": "Pustaka: Origins (Instrumental Version)",
-        "url": "https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA"
+        "name": "Arabic Crown BGM",
+        "url": "https://open.spotify.com/album/3ca4uNqIIyobiFiG9mWWTf"
       },
       "artists": [
         {
-          "name": "TED",
-          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
-        },
-        {
-          "name": "Yohanan",
-          "url": "https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB"
+          "name": "Allan Preetham",
+          "url": "https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03"
         }
       ],
-      "duration_ms": 248727,
-      "name": "Rupantara - Instrumental Version",
-      "url": "https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur"
+      "duration_ms": 113842,
+      "name": "Arabic Crown BGM",
+      "url": "https://open.spotify.com/track/7sjWSMqVTtp64OyWQP6mHy"
     },
     {
       "added_at": "2023-04-19 08:20:40",

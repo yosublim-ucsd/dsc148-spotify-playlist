@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All new surf rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,275 likes - 74 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,257 likes - 74 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 73 | [El Pollo Loco](https://open.spotify.com/track/3b0fmQkUTH4jYD7IzhbXxl) | [Seven Seventy](https://open.spotify.com/artist/5fB5DQX8yOXY0NL900eDEa) | [El Pollo Loco](https://open.spotify.com/album/2HhlSKDNrG0mtp3HN1p9UW) | 3:32 |
 | 74 | [Carol](https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd) | [SweetLipp](https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV) | [Carol](https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7) | 2:40 |
 
-Snapshot ID: `MCw4YzJiZDNmYzY0Yzc3YmE2OWQ5MzI0YTIyNTQwOGI0NTA5ZWIzZjJk`
+Snapshot ID: `MCxhMDA1ZjNmZjIxZTk0MmZjY2ViYjUzYzhiMWM2NWYzNzI4OWFmMzk5`

@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 289947,
       "name": "Kehedo Sanam",
       "url": "https://open.spotify.com/track/5oJgaEPgb8n6oG6E7rlL5T"
@@ -2228,6 +2228,24 @@
       "duration_ms": 291000,
       "name": "Nami Danam",
       "url": "https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY"
+    },
+    {
+      "album": {
+        "name": "Naya Jahaan - Stripped",
+        "url": "https://open.spotify.com/album/6V61uR9ixr8BOxYo84Xso3"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Adwani",
+          "url": "https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135410,
+      "name": "Naya Jahaan - Stripped",
+      "url": "https://open.spotify.com/track/3OUmQlsuMxUxcapjTotHMB"
     },
     {
       "album": {

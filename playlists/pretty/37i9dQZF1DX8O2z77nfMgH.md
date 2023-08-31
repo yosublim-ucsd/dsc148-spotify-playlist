@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,964 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,009 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 64 | [Principalmente Me Sinto Arrasada](https://open.spotify.com/track/01rHeOr2LuMzcfwUrFYgiI) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Principalmente Me Sinto Arrasada](https://open.spotify.com/album/0nGT3dSLevJUiziHzMlWKU) | 2:53 |
 | 65 | [Nota Dó](https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DJ DuBom](https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt) | [Nota Dó](https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP) | 3:22 |
 
-Snapshot ID: `MCw0NWY0ODhlZjUzZWFlNTc4YzczYmUxMDA1MTYxNjNmMTFmN2M4MmI5`
+Snapshot ID: `MCxlMWM2NWUxMDU3ZDc2NmJiZjE2N2QxMTBkOGY3OGE4YTlhM2FiNTc3`

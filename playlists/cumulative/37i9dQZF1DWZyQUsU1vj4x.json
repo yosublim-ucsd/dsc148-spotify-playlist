@@ -1398,10 +1398,28 @@
       ],
       "date_added": "2019-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 184595,
       "name": "Kill Me Now",
       "url": "https://open.spotify.com/track/3Vsf6UhaGqYhgcExMhzinG"
+    },
+    {
+      "album": {
+        "name": "Lake Bottom Lp",
+        "url": "https://open.spotify.com/album/58I9jyn49tQaGB12nxNRf9"
+      },
+      "artists": [
+        {
+          "name": "The Chapin Sisters",
+          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184618,
+      "name": "Kill Me Now",
+      "url": "https://open.spotify.com/track/2F7ZIfjsdaQoBKm6uSyTwO"
     },
     {
       "album": {

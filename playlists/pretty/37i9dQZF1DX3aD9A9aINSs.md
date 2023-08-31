@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Derya Uluğ
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,168 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,156 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 49 | [Asian Side](https://open.spotify.com/track/1djQX4Tc0p7hFmEznvCPZa) | [Allie Foe](https://open.spotify.com/artist/6BmH9X5TiiwtrRwKkIGpWn) | [Overthinker EP](https://open.spotify.com/album/1WtUkhyyfYhwylSC2Kj7ap) | 3:34 |
 | 50 | [Son Defa](https://open.spotify.com/track/4EuFlsHDMfrXFK32j2P4uW) | [NVZ](https://open.spotify.com/artist/5EPTeGinAnGxr6mX3M2vbp) | [Son Defa](https://open.spotify.com/album/6YPzIhiR4LqVwU1SfskKd5) | 2:30 |
 
-Snapshot ID: `MCw1ZmJhYjM0MGQ1MmU2MjQyNmM5MDQ3MTZhMzI0NjMzNDVlNDE2ZjBh`
+Snapshot ID: `MCw3ZjM3YmNhOGQ1MjMxYjdhNWU0OTZkNDIyMjQ0MWI4M2Q2YjVjNmQ2`

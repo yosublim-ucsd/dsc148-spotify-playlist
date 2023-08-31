@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=blFc6Cs4R\-iTxvYUnblhjg">Burna Boy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,981 likes - 69 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,018 likes - 69 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 25 | [ithemba \(Litsomo Version\)](https://open.spotify.com/track/0L40hQoFVhcdkkDftKhoNd) | [Kekelingo](https://open.spotify.com/artist/4tNXPWxHHch1TCCXilE1q2), [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk), [Leomile](https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [Pula EP](https://open.spotify.com/album/5N4dc7uW6ZLkDdzHBVc59E) | 4:06 |
 | 26 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
 | 27 | [ultimatejutsu\_1644.wav](https://open.spotify.com/track/1tuXIa2dInm5AE4Prxyhbi) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ultimate jutsu](https://open.spotify.com/album/2K6f6oH8L3oKQlObx3Huds) | 2:49 |
-| 28 | [Kwelizayo](https://open.spotify.com/track/4BFqlyJ1VDhjlKQgUWTuAv) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Mazet](https://open.spotify.com/artist/5wDZdzgXcE6hcmeAzqxmFA), [Thakzin](https://open.spotify.com/artist/7yeFflZm3MFVkTAsWblS44) | [Kwelizayo](https://open.spotify.com/album/3IYubCYubDfE0pDOmZ3Ouf) | 7:05 |
+| 28 | [Kwelizayo](https://open.spotify.com/track/4BFqlyJ1VDhjlKQgUWTuAv) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [Mazet](https://open.spotify.com/artist/5wDZdzgXcE6hcmeAzqxmFA), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Kwelizayo](https://open.spotify.com/album/3IYubCYubDfE0pDOmZ3Ouf) | 7:05 |
 | 29 | [Desha](https://open.spotify.com/track/0aOHXMiQ5lCPHn7BT06gX6) | [PRVIS3](https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz), [Shishiliza](https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj), [P L U T O](https://open.spotify.com/artist/5zrTBvChan1Ci70rAcznAG), [Ntwana\_R](https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO) | [Desha](https://open.spotify.com/album/4SQD02hnObCvIqyM0JtqoE) | 7:37 |
 | 30 | [Fresh Stop](https://open.spotify.com/track/7quyJp2Pg9kwHefhIxOOpP) | [TeraphoniQue](https://open.spotify.com/artist/04oIjchSi05edEVbMQr64m), [DrummeRTee924](https://open.spotify.com/artist/7EBRU9cmJ711l9hh7uxTNR), [DNZL444](https://open.spotify.com/artist/1aBBAzFrklsARDCrA7Qpe9) | [Fresh Stop](https://open.spotify.com/album/7MDhmQessc41rx4csWbrYs) | 6:30 |
 | 31 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 68 | [Four Women](https://open.spotify.com/track/5AXqTvyOjkZ6lJgygsUEdi) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Spha Mdlalose](https://open.spotify.com/artist/5zgK9I4L2Nwjm4mk3lphMO), [Zarcia Zacheus](https://open.spotify.com/artist/1NpQuiq9aJAefQDEEtgsjx) | [Four Women](https://open.spotify.com/album/0G2btMDdrfof6lqNwXqfLb) | 5:23 |
 | 69 | [Gratitude](https://open.spotify.com/track/5oEQ8gEXm9jfjHxMOSKXSb) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [Gratitude](https://open.spotify.com/album/02pB8vx8VkjQCbN1rCxKS6) | 4:44 |
 
-Snapshot ID: `MCxkMDZlZmI5NjgzM2VhM2Y3ZTk0ZTdjYjU0YmE3OWEwM2Y0Yjk1MDMw`
+Snapshot ID: `MCw1ZTQ1ZDBmYjdlNGI1OTRlYTdmMTYzMzU0NzdlMGIyNDJhZDExNDAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,149 likes - 167 songs - 1 day 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,160 likes - 167 songs - 1 day 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 149 | [Drama Track\[Don't Play No Game That I Can't Win\]](https://open.spotify.com/track/4QJyVIRVvMsDRemHpudY9Y) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [Enter the Hypnosis Microphone](https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j) | 54:03 |
 | 150 | [Drama Track\[aikata back again\]](https://open.spotify.com/track/2ORw2q9RIeMcPmJrPd8niz) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY) | [あゝオオサカdreamin'night](https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX) | 40:47 |
 | 151 | [Drama Track\[不退転の心は撃ち砕けない\]](https://open.spotify.com/track/6mgGWSAA7msILVHxoCsghx) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup) | [ヒプノシスマイク ナゴヤ・ディビジョン 「Bad Ass Temple Funky Sounds」](https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt) | 43:53 |
-| 152 | [Drama Track「Helter Skelter」](https://open.spotify.com/track/2V1howFtvMmArwLngAhzsK) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [Buster Bros!!! \-Before The 2nd D.R.B\-](https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo) | 46:14 |
-| 153 | [Drama Track「All in the same boat」](https://open.spotify.com/track/51NFBhTPe6FqqzzHj9xl1q) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [MAD TRIGGER CREW \-Before The 2nd D.R.B\-](https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk) | 36:27 |
+| 152 | [Drama Track｢Helter Skelter｣](https://open.spotify.com/track/2V1howFtvMmArwLngAhzsK) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [Buster Bros!!! \-Before The 2nd D.R.B\-](https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo) | 46:14 |
+| 153 | [Drama Track｢All in the same boat｣](https://open.spotify.com/track/51NFBhTPe6FqqzzHj9xl1q) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [MAD TRIGGER CREW \-Before The 2nd D.R.B\-](https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk) | 36:27 |
 | 154 | [Drama Track「マリオネットの孤独と涙と希望と」](https://open.spotify.com/track/79MIqoEZx5gxVjQPQilngb) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [Fling Posse \-Before The 2nd D.R.B\-](https://open.spotify.com/album/1yAIhDerk6njh4K4JAi41i) | 41:42 |
 | 155 | [Drama Track「過去からのchaser」](https://open.spotify.com/track/13QMaRgR5OI1mPph8Q3Xua) | [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [麻天狼 \-Before The 2nd D.R.B\-](https://open.spotify.com/album/6MDKhdY7JRI5ACH9zvlurd) | 46:09 |
 | 156 | [Drama Track「Aikata\(s\)Back Again」](https://open.spotify.com/track/5LWSH8nTMC2867OACHpOTC) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『どついたれ本舗 VS Buster Bros!!!』](https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d) | 28:08 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 166 | [Drama Track「The Block Party \-前半\-」](https://open.spotify.com/track/1SBltxCSVpDGhp7rDRAWDn) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 46:04 |
 | 167 | [Drama Track「The Block Party \-後半\-」](https://open.spotify.com/track/65gKBHXFNvjelDHDPAmEwg) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 53:48 |
 
-Snapshot ID: `MCwyNGQ3NzdlODFjODZmY2RkZTE4YWUzMjAwYTg3ZGJlMGE3Y2JkYTky`
+Snapshot ID: `MCwyMWY3NTYzNjVhMzlhMmZlZmRmZjhmOGVkNDcxMGVkYWM0NjY3MTlk`

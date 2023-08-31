@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=0da39df30df34d10">Brooke Ligertwood</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,465 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,585 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 82 | [Christ Is The Center \- Live](https://open.spotify.com/track/3BmnZfapXOFmWSfNcj740D) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Christ Is The Center \(Live\)](https://open.spotify.com/album/1jDtoHYnjjxY5Cy8eiCybz) | 8:59 |
 | 83 | [Sing With All Your Heart \- Live](https://open.spotify.com/track/5VCisb9TbLJebeT0alrFEs) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Sing With All Your Heart \(Live\)](https://open.spotify.com/album/43n2tZF2uMwAsQemqIOrf9) | 3:34 |
 | 84 | [Christ Our King \- Live](https://open.spotify.com/track/5RAAMMD8jJ4kVJCaX2hrNk) | [Village Lights](https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Ricky Vazquez](https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb), [Ike Ndolo](https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W) | [Christ Our King \(Live\)](https://open.spotify.com/album/5vpeWPldeLp2SAREf4qD0v) | 4:05 |
-| 85 | [Thank You \- Live](https://open.spotify.com/track/5gB8fWV3shX1qSGIF0nu5P) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Thank You \(Live\)](https://open.spotify.com/album/5X7EtUR7UCAdH97YIJCuiT) | 4:12 |
+| 85 | [Thank You \- Live](https://open.spotify.com/track/3iubQenTgqEUX0K6qWdcWJ) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Together, With Heaven \(Live\)](https://open.spotify.com/album/3wMhEwpiyVM7N0oHdtCjSP) | 4:12 |
 | 86 | [Wilderness](https://open.spotify.com/track/5v53SxJ00XAmYN9hn78mXo) | [Josh Yeoh](https://open.spotify.com/artist/3Tc2FLW6aD9eMcd4uyxqOP), [Isaac Ong](https://open.spotify.com/artist/63zn7wuzyLwH09q97QZvYH), [Abigail Yeo](https://open.spotify.com/artist/4h308aZOygxtABlcjcao9y) | [Wilderness](https://open.spotify.com/album/4oQuJC9h8R4BhAlc7F3qF2) | 7:17 |
 | 87 | [For All To See \- Live](https://open.spotify.com/track/6rhkegIMOQ9ImEecKWQ7Ra) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG), [Jazmine French](https://open.spotify.com/artist/0LLGQ8ex5PnoEC3XMNFpT9) | [For All To See \(Live\)](https://open.spotify.com/album/0UommNCSbK1vMhOOfmuTXo) | 6:13 |
 | 88 | [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [No Man](https://open.spotify.com/track/2FMS6kEEfi0od4LWczCROt) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [No Man](https://open.spotify.com/album/3iu9Djn63xgZMcH8aBr5oc) | 3:34 |
 | 100 | [Glorious](https://open.spotify.com/track/69QsMKn4bx13murBz1eeOo) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [He Is Friend](https://open.spotify.com/album/3F5uGEJJEJLHH8Y240kovC) | 3:47 |
 
-Snapshot ID: `MCxmZmVmNjliMTAyMWZiZDc2NDFhZmQzYTljNmI3ODEyNWNjYzQyODBk`
+Snapshot ID: `MCxmMjliNGE1Yjc1ZmVjMjYyY2U4NmIwMThjMzRkYjczNTg2YjVlOTg4`

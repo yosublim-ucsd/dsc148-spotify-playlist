@@ -1,29 +1,13 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Matilda Lyn ",
-  "num_followers": 186916,
+  "num_followers": 187186,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjJkNWU2YzkwMjEzZWNkMDNlMzdlZDhjYzY2YTI3OWFlNmE2N2U2",
+  "snapshot_id": "MCw0YjMwM2IxODBhMmY4NGIzOWNhNDliYTU2OGI0MjNkNTg5OTZlZmM3",
   "tracks": [
-    {
-      "added_at": "2023-08-08 23:33:32",
-      "album": {
-        "name": "865",
-        "url": "https://open.spotify.com/album/1cBLYaQDehnktc3DVdWsfg"
-      },
-      "artists": [
-        {
-          "name": "Cece Coakley",
-          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
-        }
-      ],
-      "duration_ms": 225725,
-      "name": "865",
-      "url": "https://open.spotify.com/track/08BZ9zZVpoyPUqHx73G1h5"
-    },
     {
       "added_at": "2023-08-23 05:27:37",
       "album": {
@@ -41,36 +25,148 @@
       "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
     },
     {
-      "added_at": "2023-08-23 05:27:37",
+      "added_at": "2023-08-30 15:40:56",
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/4IlD8dZVC7hLmUZR289g2q"
+        "name": "Soon We'll Make It",
+        "url": "https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL"
       },
       "artists": [
         {
-          "name": "Mali Velasquez",
-          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
         }
       ],
-      "duration_ms": 247792,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/1CYrOahjNKvUshii3vqQ1o"
+      "duration_ms": 139500,
+      "name": "Soon We'll Make It",
+      "url": "https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE"
     },
     {
-      "added_at": "2023-08-23 05:27:37",
+      "added_at": "2023-08-30 15:40:56",
       "album": {
-        "name": "Around Around Around",
-        "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
+        "name": "Satan Loves You",
+        "url": "https://open.spotify.com/album/6xrANcAOKHnc8SMRRh3FBn"
       },
       "artists": [
         {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+          "name": "Chlo\u00eb Doucet",
+          "url": "https://open.spotify.com/artist/4wKCXloIwBDiO9eUGe1QpW"
         }
       ],
-      "duration_ms": 321460,
-      "name": "Around Around Around",
-      "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
+      "duration_ms": 195936,
+      "name": "Satan Loves You",
+      "url": "https://open.spotify.com/track/3LdXoKD1oTAsRxHLJGEEOE"
+    },
+    {
+      "added_at": "2023-08-30 15:40:56",
+      "album": {
+        "name": "I'd Be Lying If I Said I Didn't Care",
+        "url": "https://open.spotify.com/album/3085uAArHIBVLNMRDPGOBt"
+      },
+      "artists": [
+        {
+          "name": "Hannah Georgas",
+          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
+        }
+      ],
+      "duration_ms": 295513,
+      "name": "Not The Name You Say",
+      "url": "https://open.spotify.com/track/6WZJj80hgLtuJQqsi2jIIh"
+    },
+    {
+      "added_at": "2023-08-30 15:40:56",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/2QUwP0oMrCf7qBSylH3BRP"
+      },
+      "artists": [
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        }
+      ],
+      "duration_ms": 151117,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/5lxAbSXw7clZnNHyo0AmEi"
+    },
+    {
+      "added_at": "2023-08-08 23:33:32",
+      "album": {
+        "name": "865",
+        "url": "https://open.spotify.com/album/1cBLYaQDehnktc3DVdWsfg"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "duration_ms": 225725,
+      "name": "865",
+      "url": "https://open.spotify.com/track/08BZ9zZVpoyPUqHx73G1h5"
+    },
+    {
+      "added_at": "2023-08-30 15:40:56",
+      "album": {
+        "name": "red lights",
+        "url": "https://open.spotify.com/album/3eO3zGY58zGFSEyTQWfFQA"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "red lights",
+      "url": "https://open.spotify.com/track/3mklwlSrZAYcG2iByZI0cM"
+    },
+    {
+      "added_at": "2023-08-30 15:40:56",
+      "album": {
+        "name": "Dystopia Girl",
+        "url": "https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu"
+      },
+      "artists": [
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Dystopia Girl",
+      "url": "https://open.spotify.com/track/2tAr4OkKQRfkeQcSXaJ7sK"
+    },
+    {
+      "added_at": "2023-08-30 15:40:56",
+      "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/4ZSH9lQWU0Fam5cFPcffeG"
+      },
+      "artists": [
+        {
+          "name": "Tyrer",
+          "url": "https://open.spotify.com/artist/7frgKOQYzrHKVG7Zqemwi6"
+        }
+      ],
+      "duration_ms": 148874,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/5eKzRLree0eW8vrTmIGAGO"
+    },
+    {
+      "added_at": "2023-08-30 15:40:56",
+      "album": {
+        "name": "Hear You Calling",
+        "url": "https://open.spotify.com/album/5bwrOqoWSx2ty34QZuJIhR"
+      },
+      "artists": [
+        {
+          "name": "PAWWS",
+          "url": "https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT"
+        }
+      ],
+      "duration_ms": 229318,
+      "name": "Hear You Calling",
+      "url": "https://open.spotify.com/track/4kpAWvnP4j9ddwl6EOYF1C"
     },
     {
       "added_at": "2023-08-16 04:36:26",
@@ -89,6 +185,22 @@
       "url": "https://open.spotify.com/track/78lUOrSoLCeran06lDIgfK"
     },
     {
+      "added_at": "2023-08-30 15:40:56",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6gjW6IETdWXGmJLQPMT7ZT"
+      },
+      "artists": [
+        {
+          "name": "Knife Girl",
+          "url": "https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L"
+        }
+      ],
+      "duration_ms": 279256,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/0twVtYBVwNXIA15brQRf5y"
+    },
+    {
       "added_at": "2023-08-23 23:49:44",
       "album": {
         "name": "Celebrity Lookalikes",
@@ -103,6 +215,70 @@
       "duration_ms": 212458,
       "name": "Celebrity Lookalikes",
       "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
+    },
+    {
+      "added_at": "2023-08-30 15:40:56",
+      "album": {
+        "name": "george's shelter",
+        "url": "https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY"
+      },
+      "artists": [
+        {
+          "name": "Planet Ibiza",
+          "url": "https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "george's shelter",
+      "url": "https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2"
+    },
+    {
+      "added_at": "2023-08-23 05:27:37",
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/4IlD8dZVC7hLmUZR289g2q"
+      },
+      "artists": [
+        {
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+        }
+      ],
+      "duration_ms": 247792,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/1CYrOahjNKvUshii3vqQ1o"
+    },
+    {
+      "added_at": "2023-08-30 15:40:56",
+      "album": {
+        "name": "You Won The Man",
+        "url": "https://open.spotify.com/album/1iLQ31fklrbw33E5jJ2hfE"
+      },
+      "artists": [
+        {
+          "name": "Teri Gender Bender",
+          "url": "https://open.spotify.com/artist/1gCFXILfdAiZcFAwGsfj9Z"
+        }
+      ],
+      "duration_ms": 118209,
+      "name": "You Won The Man",
+      "url": "https://open.spotify.com/track/3zk3q4x58iQlAz6ZzyP26v"
+    },
+    {
+      "added_at": "2023-08-23 05:27:37",
+      "album": {
+        "name": "Around Around Around",
+        "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "duration_ms": 321460,
+      "name": "Around Around Around",
+      "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
     },
     {
       "added_at": "2023-08-23 05:27:37",
@@ -155,22 +331,6 @@
       "duration_ms": 150052,
       "name": "Putting On Airs",
       "url": "https://open.spotify.com/track/6PmVjN1ZywIq4LBejE0kD5"
-    },
-    {
-      "added_at": "2023-08-09 15:12:26",
-      "album": {
-        "name": "Wasted Summers",
-        "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
-      },
-      "artists": [
-        {
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "duration_ms": 130384,
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
     },
     {
       "added_at": "2023-08-23 05:27:37",
@@ -1208,7 +1368,7 @@
       "added_at": "2023-08-02 14:57:53",
       "album": {
         "name": "Easier",
-        "url": "https://open.spotify.com/album/0ObajpVFegSZ1RycAXlTtj"
+        "url": "https://open.spotify.com/album/2hukynYvrVhF89yn9ojYtu"
       },
       "artists": [
         {
@@ -1218,7 +1378,7 @@
       ],
       "duration_ms": 208943,
       "name": "Easier",
-      "url": "https://open.spotify.com/track/5MvKOapT6fBQC4iWmJIWOM"
+      "url": "https://open.spotify.com/track/08DjyHrmJn7qtxpw3OH6Il"
     },
     {
       "added_at": "2023-08-08 23:33:32",

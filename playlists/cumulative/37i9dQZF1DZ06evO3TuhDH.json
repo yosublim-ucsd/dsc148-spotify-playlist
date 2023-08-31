@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 187469,
       "name": "Everything BoZ",
       "url": "https://open.spotify.com/track/2WbLZ6T8lsA1pQ22tPKXDG"
@@ -496,6 +496,32 @@
       "duration_ms": 205701,
       "name": "Everything BoZ",
       "url": "https://open.spotify.com/track/1WnKJJKMtnmPdvFGOxcRVZ"
+    },
+    {
+      "album": {
+        "name": "Everything BoZ (Slowed Down)",
+        "url": "https://open.spotify.com/album/2CNibpscKX53TF4fRAriaw"
+      },
+      "artists": [
+        {
+          "name": "10X",
+          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231470,
+      "name": "Everything BoZ - Slowed Down",
+      "url": "https://open.spotify.com/track/4bYFbsSO4gccFD4XW2y8L1"
     },
     {
       "album": {

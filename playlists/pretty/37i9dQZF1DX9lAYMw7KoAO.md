@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > As part of the Lagos Afrogospel  Community Hangout, Limoblaze takes over African Gospel Hits with the Afrogospel songs he is listening to\.  Cover:  <a href="https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahTg">Limoblaze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,067 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,151 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 29 | [What we Have](https://open.spotify.com/track/5lb8ZlddmJG9LdLhohwyYO) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:45 |
 | 30 | [Early pai pai](https://open.spotify.com/track/1lnwHcyPWBCgEtV97Ugnw5) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Purpose](https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16) | 2:47 |
 | 31 | [Elijah Level](https://open.spotify.com/track/5IjmyW8WYcxQ7apbudLqo9) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [A Decade After](https://open.spotify.com/album/2pxHAlyrr3PYW8jQPYxmg5) | 3:15 |
-| 32 | [Superman](https://open.spotify.com/track/7dCp9hIWqx0PitT2TLbpqT) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Superman](https://open.spotify.com/album/0SRH0lP8hdHHR8pqMl7sMB) | 2:07 |
+| 32 | [Superman](https://open.spotify.com/track/7dCp9hIWqx0PitT2TLbpqT) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Superman](https://open.spotify.com/album/0SRH0lP8hdHHR8pqMl7sMB) | 2:07 |
 | 33 | [Chocolate](https://open.spotify.com/track/5ss1S0QYAv6s9dDwOMfmKP) | [Kingzkid](https://open.spotify.com/artist/1diRu0YCEDsV4uvsw4IFHi), [Monie Beatz](https://open.spotify.com/artist/1mRV4xwwXsHuk57Gf5gwcO) | [Chocolate](https://open.spotify.com/album/6sOEtkDmKBv8OpQMogdGi1) | 3:02 |
 | 34 | [Mon ami](https://open.spotify.com/track/1oF5GGhDR8gwhqAyKHaJZY) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [1er amour](https://open.spotify.com/album/0fqCEJ1f2Hdb1rJMtROfS5) | 2:44 |
 | 35 | [Greenlight \(Official Audio\)](https://open.spotify.com/track/1Hl69y48VaTv2GbIJe1tFO) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Greenlight \(Official Audio\)](https://open.spotify.com/album/4Ssk3NrtkLvR2KCAHCOnp1) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Daily](https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Daily](https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj) | 2:56 |
 | 50 | [Kulu Down](https://open.spotify.com/track/27O2ebDiwX3Xo265b795eD) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Kulu Down](https://open.spotify.com/album/6H1OrJt1M8dbHrhj2jVFA8) | 2:37 |
 
-Snapshot ID: `MCwyZDA0NTRlNTJlMjgwNWEwOTQ3Yzc5MDgxOGU3MDMxNjAxYzcwMmRl`
+Snapshot ID: `MCxiNTJhODQyMmViZTczMDJkZDhkNDlmOTI3MTBiNTFmZGViMGRhNzhk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,406 likes - 108 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,475 likes - 108 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 51 | [Tumbleweeds](https://open.spotify.com/track/5CQFNX7cWQggHcTvCiGW5B) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [For You](https://open.spotify.com/album/72jR4MclaesjIdpdouVmYq) | 3:18 |
 | 52 | [Lead Me Home \- Live At Spotify House](https://open.spotify.com/track/1FL0VdCrrqc0UL8Uhrs2bH) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Spotify Sessions](https://open.spotify.com/album/2Fp0EDcJifEPk83CFrl6t9) | 2:31 |
 | 53 | [Widow's Peak](https://open.spotify.com/track/7HZXCvX14bnNOW0o8AbAmA) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/32Qe8dNUwWqPzsXn9efgz8) | 3:51 |
-| 54 | [Kill Me Now](https://open.spotify.com/track/3Vsf6UhaGqYhgcExMhzinG) | [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Lake Bottom Lp](https://open.spotify.com/album/5wqWiTzzqH6DDkQsUXW1m0) | 3:04 |
+| 54 | [Kill Me Now](https://open.spotify.com/track/2F7ZIfjsdaQoBKm6uSyTwO) | [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Lake Bottom Lp](https://open.spotify.com/album/58I9jyn49tQaGB12nxNRf9) | 3:04 |
 | 55 | [Rodeo Queen](https://open.spotify.com/track/0QbVHMdkKg1sUJnnCfqMXQ) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [The Ghost of Escondido](https://open.spotify.com/album/5y3B2J9840NAzcmATOe5Lb) | 3:01 |
 | 56 | [My Match](https://open.spotify.com/track/3hWVPkxb1qBoH5SkR0cAQl) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 4:38 |
 | 57 | [A Ghost \(feat\. Elena Coats\)](https://open.spotify.com/track/64vZERXqNgRhOl8JQK5xt4) | [Nicknervous](https://open.spotify.com/artist/1JFR5VfeBudog43OLHXreR), [Elena Coats](https://open.spotify.com/artist/76rOhzdFrZx37hyeA5cQgZ) | [A Ghost \(feat\. Elena Coats\)](https://open.spotify.com/album/2S8B8XsaqBe10EFrd0DIsR) | 3:23 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 107 | [A Church In Ruins \- From The HBO Series True Detective](https://open.spotify.com/track/1nOX0ALAjpYGys5keet5JJ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [A Church In Ruins \(From The HBO Series True Detective\)](https://open.spotify.com/album/1QHLQdd9J4JcJ8FomKvz1v) | 2:52 |
 | 108 | [Sunrise](https://open.spotify.com/track/6Zg0Vuj81fvyCwn7SlUMYV) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs) | 2:31 |
 
-Snapshot ID: `MCxkYTIzOTkwN2VjZmY1NDM5ZDY4MWZkMTczMGE0ZWJjMGMyMGM4MmI2`
+Snapshot ID: `MCw3MWEzNjg2MDYwNjE2NzYzMzdkZDNkMDVkYzJhNDRmNWM0NTZmN2U3`

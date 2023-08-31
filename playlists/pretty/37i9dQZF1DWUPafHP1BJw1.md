@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,390 likes - 124 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,623 likes - 124 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 39 | [Numb \- Piano Version](https://open.spotify.com/track/6leIpO0toh6VjmmqnFNgqP) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Numb \(Piano Version\)](https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT) | 3:09 |
 | 40 | [Señorita](https://open.spotify.com/track/5IUkEKXYrAzIhgHeAyU6gE) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Señorita](https://open.spotify.com/album/5fMUj1mTQwHCPfloI8071G) | 3:04 |
 | 41 | [Bloodstream \- Acoustic Version](https://open.spotify.com/track/6RvQoBITPQHjx7MKCG3ya3) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Billy Watman](https://open.spotify.com/artist/5npqfvzYEvgXzVzdLYPskb) | [Bloodstream \(Acoustic Version\)](https://open.spotify.com/album/0a5HUKkzFXx0G1K4DOLKs5) | 3:12 |
-| 42 | [Never Enough \(From "The Greatest Showman"\)](https://open.spotify.com/track/3hz0FkSMzk9lvBqmYwiOIC) | [Justin Paul](https://open.spotify.com/artist/31k3xHULLQ3baqc2yNf0ic), [Jenny Oaks Baker](https://open.spotify.com/artist/6u6cDYW0wy9KRhsuyUadVb), [The Shadow Mountain Symphony](https://open.spotify.com/artist/4YLMkJaoIMy481Gf4n5UdX) | [Epic](https://open.spotify.com/album/6rsxJNPhDo0ABe5PYYk43u) | 3:33 |
+| 42 | [Never Enough \(From "The Greatest Showman"\)](https://open.spotify.com/track/3hz0FkSMzk9lvBqmYwiOIC) | [Justin Paul](https://open.spotify.com/artist/1A2uplrPcSu6bqDaRp7Xs9), [Jenny Oaks Baker](https://open.spotify.com/artist/6u6cDYW0wy9KRhsuyUadVb), [The Shadow Mountain Symphony](https://open.spotify.com/artist/4YLMkJaoIMy481Gf4n5UdX) | [Epic](https://open.spotify.com/album/6rsxJNPhDo0ABe5PYYk43u) | 3:33 |
 | 43 | [I Want It That Way](https://open.spotify.com/track/6QylIoQHgQGE4YE7tYlkAt) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [I Want It That Way](https://open.spotify.com/album/7l4Dt8NNDtsAEGTlqmmqDY) | 3:27 |
 | 44 | [Love Me Like I Am](https://open.spotify.com/track/43izAMB4XyHkEghLzaxnKi) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Love Me Like I Am](https://open.spotify.com/album/7v728oCxcPTk0T41T23V1D) | 4:34 |
 | 45 | [Material Girl](https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:04 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 123 | [Such Great Heights](https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/6obah2tloYKurr25coxtTm) | 4:38 |
 | 124 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `MCw0YzY2MmVmZjhhNjMyMzNkYmQ2OWQ0YzJkNzY0ZDk1YTViYTYwZTg5`
+Snapshot ID: `MCxjNGZmOGUwMTUwMjZiOGU0MjgxYmZiOGQ3NTY2ODc4N2Q2YmZjNmMx`

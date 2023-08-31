@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 231700,
       "name": "Aku Memilihmu",
       "url": "https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 193036,
       "name": "Asing",
       "url": "https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J"
@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "Di Mana Janjimu Dulu",
+        "url": "https://open.spotify.com/album/0LKlZ1pepM4vk9ZUuAxvvs"
+      },
+      "artists": [
+        {
+          "name": "Tajul",
+          "url": "https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v"
+        },
+        {
+          "name": "Afieq Shazwan",
+          "url": "https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264699,
+      "name": "Di Mana Janjimu Dulu",
+      "url": "https://open.spotify.com/track/4NEMUxrbkH7VTSHPPYaF3c"
+    },
+    {
+      "album": {
         "name": "Di Sebalik Rahsia",
         "url": "https://open.spotify.com/album/1LweEZf8kLWPwmS7xpyPWd"
       },
@@ -1270,7 +1292,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 189600,
       "name": "Gimme That Crown",
       "url": "https://open.spotify.com/track/3p3RPVrPSUyrtLk6VWiuCO"
@@ -1621,6 +1643,28 @@
     },
     {
       "album": {
+        "name": "Hingga Hujung Hayati (feat. Zainal Abidin)",
+        "url": "https://open.spotify.com/album/4jCCsspE9oKzQbPsqt7wFA"
+      },
+      "artists": [
+        {
+          "name": "Tuju",
+          "url": "https://open.spotify.com/artist/3DpduguWUTtn3NQ1PFr2Kd"
+        },
+        {
+          "name": "Zainal Abidin",
+          "url": "https://open.spotify.com/artist/5uAHFXjk9esE82qEW6xMFp"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255419,
+      "name": "Hingga Hujung Hayati (feat. Zainal Abidin)",
+      "url": "https://open.spotify.com/track/1lQHK9zbLnOTtaNcEDotVJ"
+    },
+    {
+      "album": {
         "name": "Hingga Tua Bersama",
         "url": "https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR"
       },
@@ -1658,6 +1702,24 @@
       "duration_ms": 140816,
       "name": "I LAB U",
       "url": "https://open.spotify.com/track/1gl1lndIHDDpQeYuUrrMoU"
+    },
+    {
+      "album": {
+        "name": "IGAU",
+        "url": "https://open.spotify.com/album/6t0uHKqcis1MZqjAg6gdA1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Reynauld",
+          "url": "https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "IGAU",
+      "url": "https://open.spotify.com/track/0Znif19DuUdJyhk3o1L1eC"
     },
     {
       "album": {
@@ -1832,6 +1894,24 @@
       "duration_ms": 255409,
       "name": "Jangan Lepas Tanganku",
       "url": "https://open.spotify.com/track/0SQtAYM5mBBaEKGDHi2mdM"
+    },
+    {
+      "album": {
+        "name": "Jangan Mati Rasa Itu",
+        "url": "https://open.spotify.com/album/4IjHQwUjvEYogpdBSmPdVq"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305680,
+      "name": "Jangan Mati Rasa Itu",
+      "url": "https://open.spotify.com/track/2Gylos7ElhD3bFsw7vt6gt"
     },
     {
       "album": {
@@ -3754,7 +3834,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 215576,
       "name": "Romansa Kita",
       "url": "https://open.spotify.com/track/6FS84HTUkgEgkQ37bBHlwc"

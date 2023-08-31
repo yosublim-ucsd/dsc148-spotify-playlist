@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: GRAPEVINE
 
-755 songs - 2 day 2 hr 3 min
+756 songs - 2 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,8 @@
 | [type\-A \- Remastered 2023](https://open.spotify.com/track/6iLPPIQ7Bdf0B03vELr8xZ) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Loop \(Remastered 2023\)](https://open.spotify.com/album/3DqrPCax9rJ6BYl93mwrhO) | 3:34 | 2023-08-08 | 2023-08-16 |
 | [Typhoon](https://open.spotify.com/track/310g5w5TN0oMQGpkhjeclF) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [Double Circle I](https://open.spotify.com/album/4slJzsQV3ULrJOvOxVEqhD) | 3:04 | 2022-09-13 | 2022-09-28 |
 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2022-05-10 | 2022-11-18 |
-| [Ub\(You bet on it\)](https://open.spotify.com/track/2ngC902SQTz5T5asA3sj8n) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Ub\(You bet on it\)](https://open.spotify.com/album/6GKmhzJBNPlLfEuCQT8n1m) | 4:03 | 2023-08-29 |  |
+| [Ub\(You bet on it\)](https://open.spotify.com/track/2ngC902SQTz5T5asA3sj8n) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Ub\(You bet on it\)](https://open.spotify.com/album/6GKmhzJBNPlLfEuCQT8n1m) | 4:03 | 2023-08-29 | 2023-08-31 |
+| [Ub\(You bet on it\)](https://open.spotify.com/track/58IZzlhuaxPKp50jdrxPnp) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Ub\(You bet on it\)](https://open.spotify.com/album/5tDFk6M0V0gW7tbqCamTsx) | 4:03 | 2023-08-29 |  |
 | [UGOKE](https://open.spotify.com/track/6sFS9uxrjOsw92LQZEWgca) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [UGOKE](https://open.spotify.com/album/7Cd0pDNe1s5qhk5EsKvsRj) | 3:57 | 2022-09-20 | 2022-09-28 |
 | [UK](https://open.spotify.com/track/0v64fID8K31ZcxQeb7sFqL) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [UK](https://open.spotify.com/album/59lRDiU4fyHPMG1jiH42bO) | 3:30 | 2022-10-11 | 2022-10-29 |
 | [Umi ni Naritai part.3](https://open.spotify.com/track/2mspLmFrpyqd4DCxGjN3Sz) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Umi ni Naritai part.3](https://open.spotify.com/album/2W9C8HL0Rkp2SwCLw4ySuh) | 3:36 | 2022-10-11 | 2022-10-29 |

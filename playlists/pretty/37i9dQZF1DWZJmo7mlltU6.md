@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Noga Erez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,867 likes - 103 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,918 likes - 103 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 2 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 3 | [Together Above](https://open.spotify.com/track/3EIxuXLSUxxnHRtS9bfCA9) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Together Above](https://open.spotify.com/album/3N53vASzqRQZhD47Py538m) | 2:58 |
 | 4 | [l\-o\-v\-e](https://open.spotify.com/track/1ML8rcXL01drra8Aut0nMF) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [l\-o\-v\-e](https://open.spotify.com/album/3PHwiMN0H4vbsrqo4gxarQ) | 3:34 |
-| 5 | [Cherry cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
+| 5 | [Cherry Cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry Cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
 | 6 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
 | 7 | [So Good](https://open.spotify.com/track/0LLsfeo4VRuHHlaWkNVpBI) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Close to the Sun](https://open.spotify.com/album/3lYAyUT4gBWtPRTytq9eLZ) | 2:41 |
 | 8 | [Quiet \[from the Netflix Film ‘Heart of Stone’\]](https://open.spotify.com/track/0ir6hnTJdwudrna8HJSHPN) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Quiet \[from the Netflix Film ‘Heart of Stone’\]](https://open.spotify.com/album/1XVaTJKPLDku4QGu0bZoXL) | 3:09 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 21 | [Once Again](https://open.spotify.com/track/3RdoYo0F1bVSOWJb32pL9C) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [Once Again](https://open.spotify.com/album/4GUHqh1xPFnFW5vhGut5uA) | 4:22 |
 | 22 | [Tout le monde oublie](https://open.spotify.com/track/4aBe7DaSxkXuWicfCgzlpc) | [Cosmophone](https://open.spotify.com/artist/7mLFikX4xNVtYm0XEcr9MC) | [Tout le monde oublie](https://open.spotify.com/album/5tuSdPzDaCQS3DzZRZ8ZoO) | 2:49 |
 | 23 | [Daydream](https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Daydream](https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0) | 3:38 |
-| 24 | [End Of The World](https://open.spotify.com/track/25JnZYGNwdJg9MB9eaQ8TU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5s2IqfqzXdVUrI1YcZ8XBN) | 2:38 |
+| 24 | [End Of The World](https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy) | 2:38 |
 | 25 | [En Otra Ciudad](https://open.spotify.com/track/4GkDgA5mTkGanHgQKV0AH6) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [En Otra Ciudad](https://open.spotify.com/album/1ebRwkND5yz4EwTOWNvdus) | 2:45 |
 | 26 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 |
 | 27 | [XOXO](https://open.spotify.com/track/556gAhB2GfQeqOrJPGh0Hf) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [XOXO](https://open.spotify.com/album/6NOpCPMMhjM3yx9HzPeRuU) | 3:41 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 102 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 | 103 | [Dramatic](https://open.spotify.com/track/5IdS03tpt2M477K2rgzgoq) | [Amen Sioux](https://open.spotify.com/artist/5Xn38pfEtH8K62kpk01ZtA) | [Dramatic](https://open.spotify.com/album/7zuVkzNngf7t4HhKVedfCt) | 3:59 |
 
-Snapshot ID: `MCxiZjAwNWIyOGZjNjMwMjI3NzNjMDgxOWQ5MjdlOTcwYTVhNjBjMzQ0`
+Snapshot ID: `MCxjNjNiMzlhYTJmMDMwYjE0OWMyYWFlYmU1ZTFlNzliMmNjZmY1OTZj`

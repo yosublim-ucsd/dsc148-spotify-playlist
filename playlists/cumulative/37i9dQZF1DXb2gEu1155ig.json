@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Su Majestad la Brissa Puros Exitos",
+        "url": "https://open.spotify.com/album/20MsJ3sAUcfkaChOvXOmlP"
+      },
+      "artists": [
+        {
+          "name": "La Brissa",
+          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186148,
+      "name": "Bota la Bata",
+      "url": "https://open.spotify.com/track/24WCqEUzGi4fEUCbChJVLl"
+    },
+    {
+      "album": {
         "name": "El Soltero",
         "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
       },
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 98092,
       "name": "Quiero Amanecer",
       "url": "https://open.spotify.com/track/1yhoppn03RhuWge08NDqKR"

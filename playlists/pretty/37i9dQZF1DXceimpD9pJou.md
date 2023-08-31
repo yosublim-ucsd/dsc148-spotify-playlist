@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:  <a href="https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO?si=7a7b4a86cbb4493a">Blanca</a> y <a href="https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ?si=c54b0b598d5c4275">Montesanto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,690 likes - 99 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,777 likes - 99 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Hay Veces](https://open.spotify.com/track/03nHDVpay7q2opZQdEq50V) | [Jaime Murrell](https://open.spotify.com/artist/52UuWTjtPwZTQ4Y0lL8F5k) | [Hay Veces](https://open.spotify.com/album/0QGj6C50z3iW9UcNhBdkT8) | 5:28 |
 | 99 | [El Rey Se Encuentra Aquí](https://open.spotify.com/track/6ywdzlrq045lD417PqBp9x) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Nick Gaggero](https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S) | [Él Viene](https://open.spotify.com/album/7tVmNIGnxnd5paIJeynwKi) | 10:14 |
 
-Snapshot ID: `MCw0ODdhZTA1Nzk2ZWM5YWYyN2QzN2U1MWQ1ZDkxN2ZhNjYxZjIzYTI4`
+Snapshot ID: `MCxhMzUzNmE3MGI0OTA0ZmRkMWUyZjRmYjZlY2QxNzA1ZGZkYWZhYjE0`

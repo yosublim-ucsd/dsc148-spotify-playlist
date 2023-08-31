@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Cry Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,068 likes - 63 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,103 likes - 63 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hocus Pocus](https://open.spotify.com/track/0aMebRpfIBk1MHghAONBdy) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [Hocus Pocus](https://open.spotify.com/album/1g78UwhhX6I0fjlnSd8dui) | 3:05 |
 | 2 | [WW3](https://open.spotify.com/track/11TpsX9rehEgUapDZ9UvrY) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [WW3](https://open.spotify.com/album/1mXJyuOU2nGhBzvOxW8RH2) | 3:12 |
 | 3 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
-| 4 | [I Met Sarah in the Bathroom](https://open.spotify.com/track/3yXoqAiLWYQi5oNJN2MA4l) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [heavy hearted](https://open.spotify.com/album/1ikxInxCu69qvY7Xuwzvx2) | 2:01 |
+| 4 | [i met sarah in the bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [i met sarah in the bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 |
 | 5 | [if you ever leave long island](https://open.spotify.com/track/4LrWxEW9PSZqeYfKPhsTF3) | [Ryan Cassata](https://open.spotify.com/artist/0tFlCZaGI6bC1XxtfzIhmG) | [if you ever leave long island](https://open.spotify.com/album/4MR52XCG0hk3jXtPRaMNh4) | 3:45 |
 | 6 | [Wet](https://open.spotify.com/track/2NycCPD0A2gqpBsPc9dINN) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:58 |
 | 7 | [Lili](https://open.spotify.com/track/38zhkcKqpewDo3MrMF2G0E) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 4:19 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 62 | [Snow Globe](https://open.spotify.com/track/0HIgjxzpOhYH63sSu8Fy3f) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Snow Globe](https://open.spotify.com/album/3fkg3Lc4FhrTwzkDVnquzo) | 3:23 |
 | 63 | [Rendezvous](https://open.spotify.com/track/5UNRCb1mKJHiU6iQlGlKuv) | [Miss Benny](https://open.spotify.com/artist/4tcbyfp5CTM0m9AQYGduIX) | [Rendezvous](https://open.spotify.com/album/7jWbadSB4MhmBmt5ZgpW1e) | 3:16 |
 
-Snapshot ID: `MCxjMjQ4ZGI4NGM2Y2FmMTYwMTk4NGE2ZWMyNDViMjU3ODEyYTNiNjZi`
+Snapshot ID: `MCxiMGUwZDNjMjEyNjFhMzVlZmI0ODZhNTU4NTJhMDE5ODU2ZGY4ZjM4`

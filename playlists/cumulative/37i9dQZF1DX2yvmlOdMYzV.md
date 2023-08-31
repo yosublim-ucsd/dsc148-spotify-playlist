@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-491 songs - 1 day 3 hr 1 min
+492 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 | 2023-01-27 | 2023-08-12 |
 | [Say It](https://open.spotify.com/track/65Z2lFJMMVdHpBCL0k5Qub) | [Oliv Blu](https://open.spotify.com/artist/68iX9SpJQmbuaDfBjJSOlr) | [Say It](https://open.spotify.com/album/3s7NZeo46K9lNNre5Cvpdw) | 3:33 | 2021-12-15 | 2022-07-26 |
 | [Scrimmage \- Remix](https://open.spotify.com/track/4RLpPmjpcuXdOVqizQVnc5) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu), [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Scrimmage \(Remix\)](https://open.spotify.com/album/29QSUuMItml4GM3ktc4M2m) | 4:43 | 2021-12-15 | 2022-07-29 |
-| [Seconds](https://open.spotify.com/track/7brqqadnLsTc56YzyQ1QQk) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Seconds](https://open.spotify.com/album/0DXyNcS7WjGAVJsCMv6Pco) | 2:49 | 2023-03-10 |  |
+| [Seconds](https://open.spotify.com/track/7brqqadnLsTc56YzyQ1QQk) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Seconds](https://open.spotify.com/album/0DXyNcS7WjGAVJsCMv6Pco) | 2:49 | 2023-03-10 | 2023-08-31 |
 | [Secrets](https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Secrets](https://open.spotify.com/album/5hUNtJVGbyh8eJfulPr7Sx) | 3:26 | 2023-03-24 | 2023-08-30 |
 | [Shadow Man](https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [telefone](https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M) | 5:11 | 2022-09-05 | 2022-11-17 |
 | [Shadow Man](https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC) | [Noname feat\. Smino, Phoelix, Saba](https://open.spotify.com/artist/0sN6V0DZiCbB1exRjapMNo) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 5:11 | 2022-11-09 | 2023-01-28 |
@@ -470,6 +470,7 @@
 | [Verbs \(feat\. Steve Lacy\)](https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Verbs \(feat\. Steve Lacy\)](https://open.spotify.com/album/7oh3RIfZdxMGTNgkN6HBNB) | 3:33 | 2022-11-09 | 2023-07-15 |
 | [VIBE SAY](https://open.spotify.com/track/6yQUG8HINCCkIWullY9tS1) | [ChessNotCheckers](https://open.spotify.com/artist/35C9Tuf8JXyEJbf4qUmlTV), [Lache](https://open.spotify.com/artist/7FwwPsRUl3AdbnxpcXh4VP), [Bari](https://open.spotify.com/artist/3IrrjuvOPa1KFxq0Kk8pvN) | [VIBE SAY](https://open.spotify.com/album/2B7WRxtWlm9glu6cTTMwG9) | 3:11 | 2021-12-15 | 2022-07-29 |
 | [Waiting For \(feat\. Jamila Woods\)](https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:20 | 2021-12-15 | 2023-01-28 |
+| [Waiting Room](https://open.spotify.com/track/1ZZ9Z2bKmoGNsFUjvM7RDJ) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 2:49 | 2023-08-25 |  |
 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 | 2021-12-15 | 2022-09-17 |
 | [Waste My Time](https://open.spotify.com/track/5OXjnUpU6Skq07ZkpDeW7c) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY) | 3:01 | 2023-06-10 | 2023-06-17 |
 | [Wasteland](https://open.spotify.com/track/3yhlH8lhTpS03d91kuwjpf) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Wasteland](https://open.spotify.com/album/4yzJgsOpjCGoH4jjcUvNTc) | 3:03 | 2021-12-15 | 2022-04-07 |

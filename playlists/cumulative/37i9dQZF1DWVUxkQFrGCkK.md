@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-267 songs - 20 hr 38 min
+268 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Buzz](https://open.spotify.com/track/7jc3wS97mxIBkodncdVwKN) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Buzz](https://open.spotify.com/album/5uDtmYd30zW7VpjW6l6gpx) | 2:49 | 2023-04-13 |  |
 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 | 2023-04-13 |  |
 | [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee) | 3:05 | 2023-04-13 |  |
-| [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 | 2023-08-24 |  |
+| [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 | 2023-08-24 |  |
 | [Changes](https://open.spotify.com/track/5o3sxlnEcM5M9lnav6DAiZ) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Changes](https://open.spotify.com/album/6OwDyAPg2sKKWCwICtmZ2P) | 3:32 | 2023-06-29 | 2023-08-25 |
 | [chilibanana](https://open.spotify.com/track/1b0LyKFGBsRDU4VNhoAXuf) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [chilibanana](https://open.spotify.com/album/2o3CV6d9DlMFH2sai1BFgt) | 3:51 | 2023-06-29 | 2023-08-02 |
 | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/track/3VnDDruJDou1AIVjloQBzh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Chucks \(feat\. Channel Tres\)](https://open.spotify.com/album/1EI3034vDdMkoMD2NgV9z1) | 2:55 | 2023-04-13 | 2023-08-25 |
@@ -263,7 +263,8 @@
 | [Wave](https://open.spotify.com/track/5aH41smzTehoCIqj7VmAT3) | [Kill Them With Colour](https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU) | [Wave](https://open.spotify.com/album/0EHVHLmFiIgxxVSeqEtaci) | 3:14 | 2023-04-13 |  |
 | [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 | 2023-04-13 | 2023-08-02 |
 | [what the hell is lofi house?](https://open.spotify.com/track/4LoUp759ZRqbpzXpryqyub) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [what the hell is lofi house?](https://open.spotify.com/album/0jnEIIGSChsF3129A2d3bv) | 5:42 | 2023-06-29 |  |
-| [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 | 2023-04-13 |  |
+| [When U Came into My Life](https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH) | 8:07 | 2023-04-13 | 2023-08-31 |
+| [When U Came Into My Life](https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Fort Bellefleur](https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF) | 8:07 | 2023-08-24 |  |
 | [When U Go \- MoBlack Remix \[Mixed\]](https://open.spotify.com/track/5Zv6uAZcEARhZRvJOnkHS1) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs) | [Defected Radio Episode 081 \(hosted by Sam Divine\)](https://open.spotify.com/album/7CyhqBMBjRXnbLRO44gkvv) | 2:07 | 2023-06-22 |  |
 | [Whensday](https://open.spotify.com/track/5hMN4LswnajnvL18diECH4) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Whensday](https://open.spotify.com/album/1nPHoTAtmZEryYYjBXcsc4) | 6:01 | 2023-08-01 | 2023-08-25 |
 | [White Sauce Hot Sauce](https://open.spotify.com/track/0VFf3bXeWbhFoKLGyas57P) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Supervibe EP](https://open.spotify.com/album/6MGnRW8prPmHvrvk4z1v91) | 3:06 | 2023-06-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,345 likes - 57 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,413 likes - 57 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 38 | [Alien Tek](https://open.spotify.com/track/1gNXsxP6jac7aRfOCSkMUb) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Alien Tek](https://open.spotify.com/album/6ZIb6JLvP1ykwCwm2xTdDV) | 5:18 |
 | 39 | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/track/3vkvUKTZt14o8IYdT6YAzo) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Poem for the Planet \(Christopher Coe Remix\)](https://open.spotify.com/album/7zKLxDFtxc4HRNOY6bJnFo) | 7:18 |
 | 40 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
-| 41 | [Body Sweat](https://open.spotify.com/track/3rYdmZ90weUjvLRapJlaPb) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE), [yanzo](https://open.spotify.com/artist/2rnFMim0VQS6LCDgbuwbEH) | [Body Sweat](https://open.spotify.com/album/7JDs614E0yuIcfycO16M9S) | 7:06 |
+| 41 | [Body Sweat](https://open.spotify.com/track/3rYdmZ90weUjvLRapJlaPb) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE), [Yani Harris](https://open.spotify.com/artist/2rnFMim0VQS6LCDgbuwbEH) | [Body Sweat](https://open.spotify.com/album/7JDs614E0yuIcfycO16M9S) | 7:06 |
 | 42 | [Die Zeit](https://open.spotify.com/track/7efDsVyiM3A3YNMkDSgkkQ) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Die Zeit](https://open.spotify.com/album/1ICdlPnj6NC7x5AjIv5v45) | 7:16 |
 | 43 | [Light of the Universe](https://open.spotify.com/track/3MbHnU1WGGpaF2SzMN58sX) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Light of the Universe](https://open.spotify.com/album/5yTwUr6JPFUkAbZeJF1k37) | 3:56 |
 | 44 | [Perception](https://open.spotify.com/track/3ll4L5Dd6LIdYRvJnp9l7a) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Perception](https://open.spotify.com/album/3kKpXacCqn5kUo5wSbP93Z) | 6:44 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 56 | [Intentionally \- Carl Cox Remix](https://open.spotify.com/track/2CnbcGoBNtbSjgF8pYJ71Y) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Intentionally](https://open.spotify.com/album/6BZvZr6rHBJEOFABiAjqxz) | 6:10 |
 | 57 | [Cluster](https://open.spotify.com/track/2Bjbr5y63hEVubSpfPFbik) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 7:37 |
 
-Snapshot ID: `MCxhZDkwOGUzMmZiYTQ5ZDMxM2M4ZjAzZjg5ZTc1MmY4ODZjYzg5MDUy`
+Snapshot ID: `MCxkYWI4ODkzZDkyMzFiMGQ0ZmZjMzAxNTMzMGU0NzRjMmMwNmJiZjVm`

@@ -2483,6 +2483,28 @@
     },
     {
       "album": {
+        "name": "Can You Feel My Heart",
+        "url": "https://open.spotify.com/album/2XUHKoiiVlLnsmFavfU82t"
+      },
+      "artists": [
+        {
+          "name": "Misfit",
+          "url": "https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH"
+        },
+        {
+          "name": "ChillPanic",
+          "url": "https://open.spotify.com/artist/2cZmZp99gOL1nqHWm7VN39"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "Can You Feel My Heart",
+      "url": "https://open.spotify.com/track/3bqH4PjIkNwFlKuf80UrpV"
+    },
+    {
+      "album": {
         "name": "Can't Do This Much Longer",
         "url": "https://open.spotify.com/album/2qB1XAKwCFxZTRR1agtHQx"
       },
@@ -3040,6 +3062,28 @@
       "duration_ms": 186000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/2Nshfrn35tC9Brncf8W3G3"
+    },
+    {
+      "album": {
+        "name": "COPY!",
+        "url": "https://open.spotify.com/album/7eyd7dUpH7g92K8TNShX7Z"
+      },
+      "artists": [
+        {
+          "name": "Grioten",
+          "url": "https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt"
+        },
+        {
+          "name": "-Prey",
+          "url": "https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104524,
+      "name": "COPY!",
+      "url": "https://open.spotify.com/track/5dszRYjBrBpSeXo7E7LiDC"
     },
     {
       "album": {
@@ -9292,7 +9336,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 243200,
       "name": "Lost My Mind",
       "url": "https://open.spotify.com/track/4RWa0yikVR7JeEFhhfoq7A"
@@ -13600,6 +13644,24 @@
       "duration_ms": 166821,
       "name": "Sense",
       "url": "https://open.spotify.com/track/6oGDyyUzQzTa1JtInKONav"
+    },
+    {
+      "album": {
+        "name": "SENTA",
+        "url": "https://open.spotify.com/album/33oP61TYgKGKj6HjlGBDNI"
+      },
+      "artists": [
+        {
+          "name": "NOIXES",
+          "url": "https://open.spotify.com/artist/4YeITwoqeIks45gELm488B"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "SENTA",
+      "url": "https://open.spotify.com/track/3P4UHcYF2WvDoqOBbrYPr5"
     },
     {
       "album": {

@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Dream Eater",
+        "url": "https://open.spotify.com/album/3jWielR7DCaifyUVPy13jR"
+      },
+      "artists": [
+        {
+          "name": "I Satan",
+          "url": "https://open.spotify.com/artist/6a97Q9WrO0RsSCcXHwNaPM"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301557,
+      "name": "Dream Eater",
+      "url": "https://open.spotify.com/track/548QFtRn14cTtRA6Zw2TzM"
+    },
+    {
+      "album": {
         "name": "Duplicity",
         "url": "https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing"
       },

@@ -2,7 +2,7 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Rossa
+> Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
 87 songs - 5 hr 30 min
 

@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-370 songs - 23 hr 30 min
+371 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2022-11-24 |  |
 | [Bloom](https://open.spotify.com/track/1MiyL0rmMSzUzgpHvovqtz) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Rocco](https://open.spotify.com/album/12IMbwbPoiFTbvphfCqNn2) | 5:13 | 2021-09-01 |  |
 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 | 2021-09-01 | 2023-08-27 |
-| [Bo$$day](https://open.spotify.com/track/5Ffwxh0yiixJq4vb1RIwqs) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/5bJG3i8JuLi4XoXMg7aO5w) | 2:25 | 2021-09-01 |  |
+| [Bo$$day](https://open.spotify.com/track/5Ffwxh0yiixJq4vb1RIwqs) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/5bJG3i8JuLi4XoXMg7aO5w) | 2:25 | 2021-09-01 | 2023-08-31 |
+| [Bo$$say](https://open.spotify.com/track/0fDfYGkutAZiD6ukpaOFwZ) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$say](https://open.spotify.com/album/0Eutm1B5tRvxbEyzMKUpYu) | 2:25 | 2021-09-01 |  |
 | [Boom Shaka](https://open.spotify.com/track/3gxUBykZcSjxCqIqo63lqy) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Boom Shaka](https://open.spotify.com/album/3TOmp0iecoQZL4CcwjsaP0) | 3:07 | 2021-09-01 |  |
 | [Bounty](https://open.spotify.com/track/486TM1WRQHYRWCj5heYnVU) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Cameo](https://open.spotify.com/album/3p4cI1NS8IGXwbg7DFowD7) | 3:15 | 2022-04-08 |  |
 | [Breathe For Me](https://open.spotify.com/track/0B9MMdHFOFFhqFVbVS8Irg) | [Attic Lights](https://open.spotify.com/artist/53I53JqO0ELxsVxEu9v1p4) | [Say You Love Me](https://open.spotify.com/album/0R1GkMTHWdc33OHicmxGSo) | 4:23 | 2021-09-01 |  |

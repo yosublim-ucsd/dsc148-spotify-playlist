@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-446 songs - 17 hr 12 min
+447 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Good Things Coming](https://open.spotify.com/track/0BZiMl6Z2kEtSByrJM8pCF) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Good Things Coming](https://open.spotify.com/album/6BQEOgTe5bo6XNfGYgyolp) | 2:36 | 2022-05-13 | 2022-09-09 |
 | [Goodbye](https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0) | 3:15 | 2022-09-16 |  |
 | [Grapefruit Park](https://open.spotify.com/track/3yEYawa3IMccZnBfvsAvp3) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Grapefruit Garden](https://open.spotify.com/album/7cGS9vNywltuBBmpKdcf55) | 1:39 | 2022-09-23 |  |
-| [Green Apple](https://open.spotify.com/track/5IpOjBwwzJ9bBF0iYynrvs) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/4blv62dlpmGnG2NWpcLALl) | 2:45 | 2022-10-28 |  |
+| [Green Apple](https://open.spotify.com/track/5IpOjBwwzJ9bBF0iYynrvs) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/4blv62dlpmGnG2NWpcLALl) | 2:45 | 2022-10-28 | 2023-08-31 |
+| [Green Apple](https://open.spotify.com/track/75lI8teC4XoCbFosoDGrRk) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/44GAx3WI8GBIrTzBn4vB5e) | 2:45 | 2023-07-13 |  |
 | [grey](https://open.spotify.com/track/7hsBr3KD0MYwyqVrABtn0e) | [ThinkChill](https://open.spotify.com/artist/0UFcspQ3mJJHtvaU43z460), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [grey](https://open.spotify.com/album/2QZLDT2OG2f0MzQvWQp1EY) | 2:19 | 2022-09-09 |  |
 | [Growing Mind](https://open.spotify.com/track/2CwCf5ttFE2Ffkeg7z0YuU) | [milow](https://open.spotify.com/artist/5Fhirk5jON5pzTHB3BJaAo) | [Growing Mind](https://open.spotify.com/album/0VxszT15NOsmJBp6GXKteI) | 1:57 | 2023-06-06 |  |
 | [Growing Up](https://open.spotify.com/track/1Cvq5cD9E221rkFkqWJikD) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Growing Up](https://open.spotify.com/album/1EqzxAnLs3MBuwDrdjM2Xv) | 2:16 | 2023-04-11 |  |

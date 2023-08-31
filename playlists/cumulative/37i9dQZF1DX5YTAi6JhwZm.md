@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-154 songs - 13 hr 6 min
+155 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Honey Dripper](https://open.spotify.com/track/0V75nAVrYddcZA41d8MtKn) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:22 | 2022-04-13 | 2022-11-17 |
 | [Honeysuckle Rose](https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:50 | 2022-02-03 |  |
 | [HOP](https://open.spotify.com/track/5Irw0xyFo1FB6qD1x8DDcl) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [HOP](https://open.spotify.com/album/3No8sszndBhwqacWUARKAv) | 2:20 | 2021-12-17 | 2022-03-02 |
-| [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-03 |  |
+| [Hope](https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:01 | 2023-08-30 |  |
+| [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-03 | 2023-08-31 |
 | [Hot Mallets](https://open.spotify.com/track/3Bj1fTJC5zIqAUybuCyRl2) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [The Complete Victor Lionel Hampton Sessions, Vol\. 2](https://open.spotify.com/album/2cDa78D61i3gH89oELnQ1r) | 2:16 | 2022-08-19 |  |
 | [How it feels pt\. 2](https://open.spotify.com/track/4IBfnogykVhpiDLiQ7OPm0) | [Harald Lassen](https://open.spotify.com/artist/5S7kHKrpKHvzpQSYw9SMx1), [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG) | [How It Feels Pt\. 2](https://open.spotify.com/album/63cCSdLjj0LDiZTP1WhTcB) | 4:26 | 2021-12-17 | 2022-03-02 |
 | [I Got Rhythm](https://open.spotify.com/track/3p4C7vCwkqOD3bSlh96pls) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [The Hard Swing](https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz) | 3:07 | 2022-03-04 |  |

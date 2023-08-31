@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Krishnakali Saha, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Soham, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 258642,
       "name": "Aao",
       "url": "https://open.spotify.com/track/0kUTSj4qTINZJp2kB35Dmr"
@@ -2443,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "Can't Go Falling Again",
+        "url": "https://open.spotify.com/album/13dVoTe6zCqCwmVNZxujSO"
+      },
+      "artists": [
+        {
+          "name": "O Daapun",
+          "url": "https://open.spotify.com/artist/7i6f41FyWpXAKKN5WU4mMD"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284272,
+      "name": "Can't Go Falling Again",
+      "url": "https://open.spotify.com/track/2qVsbs1RYhQkUwDEfhuqnn"
+    },
+    {
+      "album": {
         "name": "Can't Help It",
         "url": "https://open.spotify.com/album/4jIg4neVTSi6qJ4czsUGvq"
       },
@@ -3695,6 +3713,24 @@
     },
     {
       "album": {
+        "name": "Don't Come Back",
+        "url": "https://open.spotify.com/album/4enIcTU0Ho49PsSH3Rglen"
+      },
+      "artists": [
+        {
+          "name": "Jhalli",
+          "url": "https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245836,
+      "name": "Don't Come Back",
+      "url": "https://open.spotify.com/track/1Fx6gQUQtEvv7ZAtsEsDPG"
+    },
+    {
+      "album": {
         "name": "Don't Let Go",
         "url": "https://open.spotify.com/album/7jSiJ20GFZiawGyemRA3OL"
       },
@@ -3724,7 +3760,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 167225,
       "name": "Door",
       "url": "https://open.spotify.com/track/0lMixoUCAHneWbYrB1iSH2"
@@ -5506,7 +5542,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 271701,
       "name": "Hindi Bole",
       "url": "https://open.spotify.com/track/6yAVgyH1iGHeN1ycvETTVb"
@@ -6542,7 +6578,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 210384,
       "name": "Ishqaan",
       "url": "https://open.spotify.com/track/4r1pAjnFVIftR2u8dyJz50"
@@ -7740,7 +7776,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 216744,
       "name": "Kahaniyaan",
       "url": "https://open.spotify.com/track/3K7LMKRmC4Dg6yLx9iw9Qg"
@@ -7784,7 +7820,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 234200,
       "name": "Kahaniyan",
       "url": "https://open.spotify.com/track/04tiRFjYqhFZ71VVzzYwQx"
@@ -8298,7 +8334,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 185581,
       "name": "Khushiyo Ke Geet",
       "url": "https://open.spotify.com/track/5Wnp5EwUGhQJjV8RSPqB5T"
@@ -9430,7 +9466,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 246325,
       "name": "Main Chala",
       "url": "https://open.spotify.com/track/2P0gVOLsDfO8z2pkN0G8TC"
@@ -10025,6 +10061,24 @@
     },
     {
       "album": {
+        "name": "Mere Qareeb",
+        "url": "https://open.spotify.com/album/0tRR1l3Pv8Bfr2qsRs51E1"
+      },
+      "artists": [
+        {
+          "name": "Aakriti Bhutani",
+          "url": "https://open.spotify.com/artist/77bsmee5idsXl2Tyw5Tx7x"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Mere Qareeb",
+      "url": "https://open.spotify.com/track/3xkYg80DLOoOvYsDSBBPuR"
+    },
+    {
+      "album": {
         "name": "Mere Tum",
         "url": "https://open.spotify.com/album/3NuhHBLbR2Ggi8uoQJM7Ax"
       },
@@ -10128,6 +10182,24 @@
       "duration_ms": 260568,
       "name": "Meri Zameen",
       "url": "https://open.spotify.com/track/4ecmL9zAkvXNoJtuioM961"
+    },
+    {
+      "album": {
+        "name": "Message",
+        "url": "https://open.spotify.com/album/3bZJVzAYD65IUGMy19sin8"
+      },
+      "artists": [
+        {
+          "name": "Te chi",
+          "url": "https://open.spotify.com/artist/7fyWxOtGPcQjLyksEPY26f"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209108,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/2wDckDVyZKljixy9Rryxka"
     },
     {
       "album": {
@@ -13199,6 +13271,28 @@
     },
     {
       "album": {
+        "name": "Sahib-E-Dil",
+        "url": "https://open.spotify.com/album/7vZXwE42v9o4fHrkQpRh1w"
+      },
+      "artists": [
+        {
+          "name": "Dhaval Kothari",
+          "url": "https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt"
+        },
+        {
+          "name": "Vishal Khatri",
+          "url": "https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195015,
+      "name": "Sahib-E-Dil",
+      "url": "https://open.spotify.com/track/0g0XGGRkVBxxBrYYfLonre"
+    },
+    {
+      "album": {
         "name": "Saiyaan Bina (feat. Anshuman Sharma)",
         "url": "https://open.spotify.com/album/5rrQPgEyjaB3CN527qAs9r"
       },
@@ -14006,6 +14100,28 @@
       "duration_ms": 178530,
       "name": "Sombre Valley",
       "url": "https://open.spotify.com/track/5YLgjQFodijfE9A2iDPGkW"
+    },
+    {
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/0MZRAWBq6PB6zdWIi83H1A"
+      },
+      "artists": [
+        {
+          "name": "Mukkubhai",
+          "url": "https://open.spotify.com/artist/1ULlEpbYOlz2e3spXa1sYi"
+        },
+        {
+          "name": "Zinnia Chaturvedi",
+          "url": "https://open.spotify.com/artist/0GT9zLr7PvrD4i96TboPIx"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210692,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/0SIdTuka1ipqTUh6RuHNpI"
     },
     {
       "album": {
@@ -14945,6 +15061,24 @@
     },
     {
       "album": {
+        "name": "Teri Saheli",
+        "url": "https://open.spotify.com/album/4QBxazHDdSc0chEVBEMAQv"
+      },
+      "artists": [
+        {
+          "name": "Mayank Thakur",
+          "url": "https://open.spotify.com/artist/6aw1MJxB9XqzxPow8DINiV"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Teri Saheli",
+      "url": "https://open.spotify.com/track/1FYUYGKM7cRIewO7AzT2gb"
+    },
+    {
+      "album": {
         "name": "Teri Yaadein Reh Gayi",
         "url": "https://open.spotify.com/album/1EyDQ95cwKyWQ62LKFTurS"
       },
@@ -15751,6 +15885,28 @@
     },
     {
       "album": {
+        "name": "Tu Mili Nahi",
+        "url": "https://open.spotify.com/album/5uv6JrxD5Z8ju3xDYckElz"
+      },
+      "artists": [
+        {
+          "name": "Fazal Khan",
+          "url": "https://open.spotify.com/artist/5q3UFMKuHtLJ0uzi2XRnWu"
+        },
+        {
+          "name": "Charu Vikram Singh",
+          "url": "https://open.spotify.com/artist/6NlsitJCxzaBeVQ9XTr8LV"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172083,
+      "name": "Tu Mili Nahi",
+      "url": "https://open.spotify.com/track/36a4inXaFue39J7K6P534m"
+    },
+    {
+      "album": {
         "name": "Tu Na Jaane (From \"Gulmohar\")",
         "url": "https://open.spotify.com/album/4x3kbxgtHEXRpfO8v3cAHo"
       },
@@ -16459,6 +16615,24 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/6L9UmJraKH1b9AU2eE03sD"
+      },
+      "artists": [
+        {
+          "name": "Soham",
+          "url": "https://open.spotify.com/artist/2VWlTHS1YfU7p9zMPPGw78"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184499,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3DvXWSw1RsdRYOutyqMZ7n"
+    },
+    {
+      "album": {
         "name": "Waari Waari",
         "url": "https://open.spotify.com/album/3osAV9Y5dJyZwSYN9q45YR"
       },
@@ -16496,7 +16670,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 215294,
       "name": "Wajah",
       "url": "https://open.spotify.com/track/2DpO2Cf45Ms1M9YipLfhSg"

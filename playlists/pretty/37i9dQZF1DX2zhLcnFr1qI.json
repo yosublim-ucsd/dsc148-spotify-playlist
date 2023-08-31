@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2I1M2UwYzFjMGYxYThiOWNjMjk4YWE4ZTYzZmRkOWIzODI4ZTI4",
+  "snapshot_id": "MCw3MGJlMmIzMDgzM2ZlMjBkZWExZGMwMmIzMTAzMGY0NTllOTliMTk3",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -695,18 +695,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Winter Wonderland ^Bsiide",
-        "url": "https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a"
+        "name": "Christmas Days",
+        "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
       },
       "artists": [
         {
-          "name": "L\u00f6Kii",
-          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Josh Cumbee",
+          "url": "https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E"
         }
       ],
-      "duration_ms": 178739,
-      "name": "Winter Wonderland ^Bsiide",
-      "url": "https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE"
+      "duration_ms": 196636,
+      "name": "Christmas Days",
+      "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
     },
     {
       "added_at": "2022-12-16 05:00:00",

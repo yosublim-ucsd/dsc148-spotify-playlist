@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-509 songs - 1 day 10 hr 49 min
+510 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-15 | 2023-06-14 |
 | [T\_\_\_\_h\_eDw\_\_\_T,mn\_](https://open.spotify.com/track/6VWbl7ByMrLjYrLWqEZBmB) | [soejima takuma](https://open.spotify.com/artist/44CDiqPtSg1pkVHZ7TwfD3), [delgir sarin](https://open.spotify.com/artist/0jL3AV0GdDvC6vtXaE1Uqc) | [α](https://open.spotify.com/album/1usXqtv8suCg1r3paAz3Wu) | 2:27 | 2023-07-25 |  |
 | [Tableaux タブローズ](https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 4:29 | 2023-05-23 | 2023-07-13 |
+| [Taiban](https://open.spotify.com/track/0Y1h4vHrIQASEX0I9KOH2G) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W) | [Taiban](https://open.spotify.com/album/1R90ou1rdQdFPWYR4CZqFU) | 3:44 | 2023-08-29 |  |
 | [Take Your Time \- Haruomi Hosono Remix](https://open.spotify.com/track/1DN5nFDJYO0UFKOI9OeiSZ) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Take Your Time\(Haruomi Hosono Remix\)](https://open.spotify.com/album/15Xt6Ru30ddbjQMxTDWRDY) | 4:31 | 2022-10-25 | 2022-12-02 |
 | [tandem ii](https://open.spotify.com/track/0Nu6gw1W83em50FluWzGRq) | [Fuyuni wakarete](https://open.spotify.com/artist/46ZmKgBKBAlVL5jP8P3Wqi) | [flow](https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf) | 3:00 | 2023-05-29 | 2023-06-14 |
 | [tasogare](https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [tasogare](https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR) | 2:16 | 2022-10-20 | 2023-03-28 |
@@ -504,7 +505,7 @@
 | [石の教会 \- 雨音の二重奏](https://open.spotify.com/track/65SWWSNv8prKy3UCF4oJLX) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [石の教会 \-雨音の二重奏\-](https://open.spotify.com/album/3EGtWWXcd5jJWM6qTjxnDa) | 5:29 | 2023-02-02 | 2023-03-01 |
 | [私を呼んだ 夏の空のような \- feat\. 兼松衆, 須原杏, 関口将史](https://open.spotify.com/track/5dQ8lzqlmJedzovrH8WsLq) | [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [兼松 衆](https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1), [須原杏](https://open.spotify.com/artist/0ekqoA1GGFwC9lalszdIJR), [関口将史](https://open.spotify.com/artist/5Q5qAs7kOYA3gloFl5gAzs) | [私を呼んだ 夏の空のような \(feat\. 兼松衆, 須原杏, 関口将史\)](https://open.spotify.com/album/7k9LWhjXNPB6g2Q1cRU2Im) | 4:39 | 2023-08-01 |  |
 | [美しき夕暮れ\(チェロとハープ編\)](https://open.spotify.com/track/6jNeHhrtL9lPcsQSNWU8so) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [Naoko Yoshino](https://open.spotify.com/artist/1zfl6prcMarqvXpCksIK99) | [SOUVENIR\~ドビュッシー&フランク作品集](https://open.spotify.com/album/43bKpNPSG2JMQTHqeDpxmH) | 2:23 | 2023-02-28 | 2023-05-17 |
-| [胎盤](https://open.spotify.com/track/1OFGAUOysHC4VEn1gzx6Bu) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W) | [胎盤](https://open.spotify.com/album/38MzJB6nvCe0cNEVwfNDDR) | 3:44 | 2023-08-29 |  |
+| [胎盤](https://open.spotify.com/track/1OFGAUOysHC4VEn1gzx6Bu) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W) | [胎盤](https://open.spotify.com/album/38MzJB6nvCe0cNEVwfNDDR) | 3:44 | 2023-08-29 | 2023-08-31 |
 | [花水木の咲く頃 \- 辻井伸行](https://open.spotify.com/track/7Hn9C68R48KK9pj07ys2ak) | [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [debut](https://open.spotify.com/album/7l7gvZUvLdohGVIs4KjYZ8) | 3:29 | 2022-10-20 | 2022-11-23 |
 | [花紺青色の夢](https://open.spotify.com/track/0iZQqdnE6Stdc8VdcJ03eW) | [青木慶則](https://open.spotify.com/artist/0rb8Q1ctJ25z9P64TgKXWy) | [今宵きりの光景](https://open.spotify.com/album/4AxbX3NnR2xyYCw236UctB) | 2:34 | 2023-04-18 | 2023-04-20 |
 | [花降る時の彼方](https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花降る時の彼方](https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx) | 6:04 | 2023-03-14 | 2023-06-14 |

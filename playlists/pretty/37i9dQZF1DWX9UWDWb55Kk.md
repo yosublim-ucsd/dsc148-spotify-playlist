@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,818 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,834 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 95 | [Who We Are](https://open.spotify.com/track/56cqmGid7J5wMyfXJzOEOd) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Spectrum of Love](https://open.spotify.com/album/50rgN4NAnnRqFzl7TTtnQv) | 2:55 |
 | 96 | [05:00AM JUNGLE CHASE](https://open.spotify.com/track/24Khki7bV2D9aqHqJt1Wzt) | [SACRE](https://open.spotify.com/artist/68nJ4J8L6X6HZNTuZ9e7yT) | [LOVE REVOLUTION](https://open.spotify.com/album/1TnfqP8TNRa2FtCNBXJHnl) | 3:35 |
 | 97 | [Daylight](https://open.spotify.com/track/79Ei5D8itIHqbATIYWoQmD) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [darkDark](https://open.spotify.com/artist/11GGe7fWhCxU6C8iWoX34E) | [Daylight \(feat\. DarkDark\)](https://open.spotify.com/album/6FS2mwrcBk3fNGyrQBHY73) | 3:35 |
-| 98 | [Bo$$day](https://open.spotify.com/track/5Ffwxh0yiixJq4vb1RIwqs) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/5bJG3i8JuLi4XoXMg7aO5w) | 2:25 |
+| 98 | [Bo$$say](https://open.spotify.com/track/0fDfYGkutAZiD6ukpaOFwZ) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$say](https://open.spotify.com/album/0Eutm1B5tRvxbEyzMKUpYu) | 2:25 |
 | 99 | [Vapor](https://open.spotify.com/track/6tn3fIfyGXs1CZFv9zPdc8) | [Da Octopusss](https://open.spotify.com/artist/5ZVaaZrPK9OKNjH3D6SnDC) | [The Rise \- EP](https://open.spotify.com/album/2BQcvFYf6lfHTLTUTHxe3N) | 3:54 |
 | 100 | [Wild Child](https://open.spotify.com/track/23tpyGXk9j1TAw7NzxvTDd) | [Damn the Witch Siren](https://open.spotify.com/artist/7cNpzcG39DLaQWrGqlIlBx) | [Red Magic](https://open.spotify.com/album/2Ax5t9l1FrlQtnMYxI9JNO) | 4:37 |
 | 101 | [Repeater](https://open.spotify.com/track/4lLEBo0rP2IblyqA0gsqA1) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Repeater / Space Dust](https://open.spotify.com/album/74ZH1AbY1CRIFK4mPXzZtd) | 3:41 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCw5YjcwNzkyMTg0ZWM5YjQwYjg1YjQ0NjcwNGQ3ZWQ3ODU0MWIxMzlk`
+Snapshot ID: `MCxhMjk2NGZkMTYwMDA5M2YxOTNhYzExYjYxNDYwMWFmNDRlNzZhYWU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,146 likes - 84 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,196 likes - 84 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 47 | [CHECKMATE](https://open.spotify.com/track/4q1GHje15U7ViWDWSLydPR) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Road to Kingdom FINAL](https://open.spotify.com/album/4TgA5simte3kvIacVDDBEj) | 3:11 |
 | 48 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 |
 | 49 | [Very Good](https://open.spotify.com/track/6svBgFCnXYst3N8OJJ1XAB) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Very Good](https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww) | 3:20 |
-| 50 | [Shut up!!](https://open.spotify.com/track/2ZUrBRLYyMo5SJHA8z8lEg) | [U\-KISS](https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z) | [BREAK TIME](https://open.spotify.com/album/2b9KWUiZayjQgc0HiC9uLr) | 3:12 |
-| 51 | [Am I too easy?](https://open.spotify.com/track/4rESBYQ63FtklA67GT0C5c) | [U\-KISS](https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z) | [CONTI UKISS](https://open.spotify.com/album/4qQoNriNZarXJIIk4nZ4JS) | 3:31 |
+| 50 | [Shut up!!](https://open.spotify.com/track/2ZUrBRLYyMo5SJHA8z8lEg) | [UKISS](https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z) | [BREAK TIME](https://open.spotify.com/album/2b9KWUiZayjQgc0HiC9uLr) | 3:12 |
+| 51 | [Am I too easy?](https://open.spotify.com/track/4rESBYQ63FtklA67GT0C5c) | [UKISS](https://open.spotify.com/artist/2GB76Lm833jVI5kLvKEB7Z) | [CONTI UKISS](https://open.spotify.com/album/4qQoNriNZarXJIIk4nZ4JS) | 3:31 |
 | 52 | [Hold On](https://open.spotify.com/track/15ouO5mVTnfZnHkShDqioD) | [Kim Soo Cheol](https://open.spotify.com/artist/1a53QOnOG1EJ6ppKrnM97t) | [Kim Soo Chul One Man Band](https://open.spotify.com/album/2srwhj4UhJ3qe0fK1gHj3n) | 3:45 |
 | 53 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 |
 | 54 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Jang Yi\-jeong](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 83 | [Why Not?](https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Why Not?](https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6) | 3:28 |
 | 84 | [Beginning of Love](https://open.spotify.com/track/1X4dEyCWKnHS6cMA1n02n7) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [As A Man Rather Than A Friend](https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25) | 3:28 |
 
-Snapshot ID: `MCxkNTIyNjk0ZGFkY2IyZjAzOTU5YmVkN2MwODU5ZTk0MTE1YjI3MzAw`
+Snapshot ID: `MCxhMGZlYzdlM2M3YTcyNDczZjMxM2NkZmMwNmI0MDFhODQ4ODExZTVh`

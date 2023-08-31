@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 435154,
+  "num_followers": 435276,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjFmZDY1NmVmMjg2Nzk5ZWQzZjI3MmM2NDExOTRlMzFjOWM0OTU5",
+  "snapshot_id": "MCxkNzRmNzM4MDM4N2E1NmY3NDZhOTFiMjg2Njc3MmIxNDcxYjY5N2Q1",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1399,8 +1399,8 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Mugre",
-        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
       },
       "artists": [
         {
@@ -1408,9 +1408,9 @@
           "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 222373,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Liguei Sem Querer",
-        "url": "https://open.spotify.com/album/06C61f2nBOvhu5xzpDO97e"
-      },
-      "artists": [
-        {
-          "name": "Canela'",
-          "url": "https://open.spotify.com/artist/1TvwwBBcYKbg3AXy6Vfc3a"
-        }
-      ],
-      "duration_ms": 165717,
-      "name": "Liguei Sem Querer",
-      "url": "https://open.spotify.com/track/3RjaZCXV3P7L13gtqY3jQO"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Todo Alg\u00fan D\u00eda Termina",
         "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
       },
@@ -1479,8 +1463,24 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+        "name": "Liguei Sem Querer",
+        "url": "https://open.spotify.com/album/06C61f2nBOvhu5xzpDO97e"
+      },
+      "artists": [
+        {
+          "name": "Canela'",
+          "url": "https://open.spotify.com/artist/1TvwwBBcYKbg3AXy6Vfc3a"
+        }
+      ],
+      "duration_ms": 165717,
+      "name": "Liguei Sem Querer",
+      "url": "https://open.spotify.com/track/3RjaZCXV3P7L13gtqY3jQO"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Mugre",
+        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
       },
       "artists": [
         {
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+      "duration_ms": 222373,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
     },
     {
       "added_at": "2023-07-28 06:00:00",

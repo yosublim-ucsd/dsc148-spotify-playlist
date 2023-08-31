@@ -4,7 +4,7 @@
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-143 songs - 8 hr 14 min
+144 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Lets Go Surfing](https://open.spotify.com/track/5g127reXmYqHrWHIJ8TJvC) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Indie Rock](https://open.spotify.com/album/6JrppNJBxpKvGTRyVYXDuV) | 2:55 | 2021-04-09 | 2023-06-30 |
 | [Lets Go Surfing](https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l) | 2:55 | 2021-04-09 | 2023-06-23 |
 | [Lick the Bag](https://open.spotify.com/track/07iJL5aTEPKh4YGrUIBOsb) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/7m1Sb6fRqT30QdNr0tjdDP) | 3:18 | 2021-04-09 | 2022-10-13 |
-| [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 | 2021-04-09 |  |
+| [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 | 2021-04-09 | 2023-08-31 |
 | [Loose \- 2005 Remaster](https://open.spotify.com/track/4jYeoH1fAXq5yRcOKOs1Df) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Fun House \(Deluxe Edition\)](https://open.spotify.com/album/3FTcomSFg2zWSqWLRgBYpv) | 3:34 | 2021-04-09 | 2022-11-13 |
 | [Love Fuzz](https://open.spotify.com/track/7EkDukn0DSarGxnpQS5Ymq) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Love Fuzz](https://open.spotify.com/album/1PBA8BAkM4RRM80RCsvZjj) | 7:36 | 2021-04-09 | 2022-07-28 |
 | [Love Supreme \(Work Together!\)](https://open.spotify.com/track/3hdWuSgCuJKxBCrm0GSxVE) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [Stardust Birthday Party](https://open.spotify.com/album/37BmBj2brWfP9HezMAebdH) | 3:11 | 2021-04-09 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 | 2021-04-09 |  |
 | [Sick Shit](https://open.spotify.com/track/14q1CWouLEjFT6zu5re8hR) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 4:06 | 2021-04-09 |  |
 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 | 2021-04-09 |  |
+| [Space Cadet](https://open.spotify.com/track/0GHu2NmkPSq5xqbSSD1tZ0) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/7u501T7f4RfLPuRQCXEcDe) | 3:10 | 2021-04-09 |  |
 | [Space Cadet](https://open.spotify.com/track/3bkP8LtaC6fWnBPkuqDlQa) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/3Jwlm2yPSjIld9S1sCNw4G) | 3:10 | 2021-04-09 | 2023-07-28 |
 | [Space Cadet](https://open.spotify.com/track/4VAWLjoHleIvg2Dnkyv7PH) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/6VfxatIFLxyyXVmhTMBZsl) | 3:10 | 2021-04-09 | 2022-07-29 |
 | [Spoonman](https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4K8bxkPDa5HENw0TK7WxJh) | 4:06 | 2022-03-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Nic Hanson
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,300 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,401 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 5 | [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 |
 | 6 | [Try \(Rework\)](https://open.spotify.com/track/6QlbAS3CdT8IgvFMUs5A04) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2), [The Wildcardz](https://open.spotify.com/artist/5pcPCj25V5zH3ly8v6JF8L), [SoundKid](https://open.spotify.com/artist/2hMyfhXffc8i7BJjZHZWvt) | [Try \(Rework\)](https://open.spotify.com/album/6tg2NnY0qWlPW5Z6w3Jxrg) | 3:06 |
 | 7 | [Lover \(Love Her\)](https://open.spotify.com/track/25peL25ddKWMVkiS50jlAy) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Lover \(Love Her\)](https://open.spotify.com/album/4E0hwdPcKQzlOT35qDtcQ6) | 3:18 |
-| 8 | [Higher \(Escalators\)](https://open.spotify.com/track/3oUiNUmZ5ONKmITWEpcT4h) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Higher \(Escalators\)](https://open.spotify.com/album/37E0mCzR5jbqIWX1EM4VFE) | 2:19 |
+| 8 | [Higher \(Escalators\)](https://open.spotify.com/track/3oUiNUmZ5ONKmITWEpcT4h) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Higher \(Escalators\)](https://open.spotify.com/album/37E0mCzR5jbqIWX1EM4VFE) | 2:19 |
 | 9 | [Awesome Ways](https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Awesome Ways](https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL) | 3:08 |
 | 10 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 |
 | 11 | [U R Freak \- Jafunk Remix](https://open.spotify.com/track/2acq8EiIi5PH3ukPiYIdDB) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [U R Freak \(Jafunk Remixes\)](https://open.spotify.com/album/4FUwC2onCU2MWwtSRPqSXW) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Gigantic Energy](https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Gigantic Energy](https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw) | 4:24 |
 | 100 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 |
 
-Snapshot ID: `MCw5YzYyNDZhNzY2MTMzMTU0ZTRmNTY2NzRmNDllYjYyMjBmMzk0Mjk1`
+Snapshot ID: `MCw2OGQzMDFhYjBmMGY4NDZlMWM3M2Y4M2RlMzBjOGUyYTQ3MjQ2MGUx`

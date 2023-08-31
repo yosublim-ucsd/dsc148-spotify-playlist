@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 239 songs - 16 hr 36 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 240 songs - 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,5 +247,6 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 237 | [Boy](https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 3:50 |
 | 238 | [Serpent of Eden](https://open.spotify.com/track/43LpIP9zB2CQ5pCLTyfsYE) | [Reptilian Civilian](https://open.spotify.com/artist/1hNjyYqrL9ktyo8LZFZX9Q) | [Oblitus Scientia](https://open.spotify.com/album/7D8jTrxCZrz5uD65Slnb85) | 3:33 |
 | 239 | [Avarice](https://open.spotify.com/track/5UHmdE56RGE1yiLNZ8OJkH) | [WATCHLIST](https://open.spotify.com/artist/6xjPWlyX9WcVCVjVl4IC9b) | [Avarice](https://open.spotify.com/album/6puhZhHAFEpwd9BFPv31yY) | 3:35 |
+| 240 | [Dream Eater](https://open.spotify.com/track/548QFtRn14cTtRA6Zw2TzM) | [I Satan](https://open.spotify.com/artist/6a97Q9WrO0RsSCcXHwNaPM) | [Dream Eater](https://open.spotify.com/album/3jWielR7DCaifyUVPy13jR) | 5:01 |
 
-Snapshot ID: `MzQ2LGZhZjE5OTgyZWZkMWVjNDI4MDFkMGY1Y2Q5MmEzY2FkNmViNDljYTY=`
+Snapshot ID: `MzQ3LGFjNDEzYzE1N2M2ZTkwYzhmYThlZDQyMzJjZGIyZTJjOWEzNGI1ZTM=`

@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Raw and Unfiltered",
+        "url": "https://open.spotify.com/album/2gaW2Y3JhRCSNZC2FSibZk"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38638,
+      "name": "Have and Have Nots",
+      "url": "https://open.spotify.com/track/7uEAkXWCsmzQcquphkzAgZ"
+    },
+    {
+      "album": {
         "name": "Combat Rock + The People's Hall",
         "url": "https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh"
       },

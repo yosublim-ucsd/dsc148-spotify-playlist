@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hiss Golden Messenger
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,482 likes - 150 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,589 likes - 150 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |
 | 150 | [Strong Swimmer \- Duet](https://open.spotify.com/track/7pb95dEU3dbzOVPsutghXg) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Strong Swimmer \(Duet\)](https://open.spotify.com/album/3keiK30tDnYStiY0BPQEAB) | 3:07 |
 
-Snapshot ID: `MCxhY2Y2YzIzMmFiZTM1ZGI2MjE3MTVlZjU1ZjE0OTE3NzEwZDhjMTcw`
+Snapshot ID: `MCxjZDJiZTQ3YjU4MDBmYTMyZTA4ZTIzNDA3NmQ2NGEwNjIzM2Q1ZjY4`

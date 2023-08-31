@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,585 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,629 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 70 | [Dejala Corre](https://open.spotify.com/track/6s4WiH3x3f9TZdfumWTZ10) | [Banda Los Hijos de La Niña Luz](https://open.spotify.com/artist/3BT4HmMIyquactzeWgv3ql) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 3:27 |
 | 71 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/2ep9FW2KBErhsl6HXAlgzr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:46 |
 | 72 | [Cojeme la casa](https://open.spotify.com/track/6BH4MEJbWT2KncSQGIPRUy) | [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Colombia 45s](https://open.spotify.com/album/0FtvKqe3ypGZTq2OUHjRwD) | 2:55 |
-| 73 | [Caill la mandé rousé](https://open.spotify.com/track/15Qd6qpxKMuoYbQeiO4wRN) | [Toto Nécessité](https://open.spotify.com/artist/2FuKS7GsD89q336FtXQW05) | [Nova le grand mix 2016](https://open.spotify.com/album/0Z2YGsDjlivawT1h8iTJwx) | 5:59 |
+| 73 | [Cail la mandé rousé](https://open.spotify.com/track/7D2rJBbARrD781fy6zPsdl) | [Toto Nécessité](https://open.spotify.com/artist/2FuKS7GsD89q336FtXQW05) | [Antilles chéries \(Compa / Cadence\)](https://open.spotify.com/album/11DyRgPu2XHyUt72U2gMKH) | 5:59 |
 | 74 | [Pra Trás](https://open.spotify.com/track/6YMBLfjQilTvqdWpeUbySG) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:11 |
 | 75 | [Lagos Sisi](https://open.spotify.com/track/6yM82PxMywRHehdoQgQT8p) | [Bola Johnson](https://open.spotify.com/artist/7CfyXrIeIEd05s0nEPvjW1) | [Man No Die](https://open.spotify.com/album/0oQKeXlY2O4QAP83DUn2n5) | 3:23 |
 | 76 | [Show Me The Way, My Brother \(Iph'Indlela\)](https://open.spotify.com/track/1xjlABbsrIRwA5FXOzQ5zZ) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 3:12 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxkODIwYzA5MTMyNzU2M2MwODg0MDUwYWFiNzhiMmJhNTJmOTM0ZThj`
+Snapshot ID: `MCwzMzg2MWUxMTU1ODI2ODk5NzYwMTAwY2YzMTA2MjhmMzljYjQ3ZTlj`

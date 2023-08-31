@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Cozy Syndrome
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,927 likes - 149 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,929 likes - 149 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 13 | [轉個身擁抱](https://open.spotify.com/track/4Lr6oJWXDw4dH9j6Gx9DKr) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [轉個身擁抱](https://open.spotify.com/album/4Bxi1DFRqMZ4ZgZup60baS) | 3:57 |
 | 14 | [羊 \(feat\. TXMIYAMA\)](https://open.spotify.com/track/0mlV6AhzUdpW3jc5WvU3ux) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS), [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw) | [Oh my.](https://open.spotify.com/album/3kdzxVZUeTJxf4F9Ud263O) | 2:38 |
 | 15 | [轆轆 \- World Vision \- Let the Hungry Be Heard 原創歌曲](https://open.spotify.com/track/3Mhzxp8xj5dhRZUNqrl0Lw) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [轆轆 \(World Vision \- Let the Hungry Be Heard 原創歌曲\)](https://open.spotify.com/album/1MdzZQ2Ol5653dDLYxwE3A) | 2:01 |
-| 16 | [FALL4U](https://open.spotify.com/track/2J8wZHOeDCvGc3ePzgRCXE) | [HEi\-Z](https://open.spotify.com/artist/2En6rTX3nAc3ZW4VtDAsrX), [Tiab](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [POIZON 777](https://open.spotify.com/album/3GdKZ0H6MdNLNxIn6qdse8) | 3:30 |
+| 16 | [FALL4U](https://open.spotify.com/track/2J8wZHOeDCvGc3ePzgRCXE) | [HEi\-Z](https://open.spotify.com/artist/2En6rTX3nAc3ZW4VtDAsrX), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [POIZON 777](https://open.spotify.com/album/3GdKZ0H6MdNLNxIn6qdse8) | 3:30 |
 | 17 | [fOoL\#\#](https://open.spotify.com/track/3mYyUU2ZXDtA9I0YG8zWpi) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [fOoL\#\#](https://open.spotify.com/album/73L9KxkHzTRg4QSUXYMMG9) | 2:43 |
 | 18 | [STREET FIGHTER](https://open.spotify.com/track/6FI1pixuCnBIItD9rLwU5M) | [ANGO](https://open.spotify.com/artist/3Q0FYDdtPoEKD16g9XBPjG), [DRAGON](https://open.spotify.com/artist/4iDLHFAB55d1nBjCctTvge), [SID22](https://open.spotify.com/artist/687Afh5UMC1dbKeH8WwD51) | [STREET FIGHTER](https://open.spotify.com/album/66s4ZUNAHA62CnZ6F1B0UO) | 3:48 |
 | 19 | [Lucky Girl Syndrome](https://open.spotify.com/track/3cjzj5M52Jl0u6JHNTU7z8) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lucky Girl Syndrome](https://open.spotify.com/album/4LA9YSzUkfXimeP4Tq7xmC) | 2:36 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 148 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 149 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxhNGM4M2JjYTljNWIxMmIzYTViODlhNDYwMmI0NTUxNjJjMjczNWY4`
+Snapshot ID: `MCxhMzVmMmY5ZTEzZDZmZjNlNGJjNGExYTA5YjRhMGQxYWQzNjQ0MzRi`

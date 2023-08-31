@@ -1,12 +1,12 @@
 {
   "description": "Stomping new Blues and Blues Rock. ",
-  "num_followers": 6204,
+  "num_followers": 6203,
   "original_name": "Blues Stompers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzI3NTYwYzAxMDkyMzQ1NDcxMWM3NDAxNzVlNWFkMGFmOTRlYjA4",
+  "snapshot_id": "MCw1YWU3MmVlYmZjNTMxMTY2ODgxN2I4N2Y0YWJkMTdlY2M4MDllZDRk",
   "tracks": [
     {
       "added_at": "2023-08-25 00:01:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Sneakin' Around",
-        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 220869,
-      "name": "Sneakin\u2019 Around",
-      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Devil Claims His Prize",
         "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 162176,
       "name": "Devil Claims His Prize",
       "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Sneakin' Around",
+        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 220869,
+      "name": "Sneakin\u2019 Around",
+      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Bad Luck & The Blues",
-        "url": "https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p"
+        "name": "Sweet & Low",
+        "url": "https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE"
       },
       "artists": [
         {
-          "name": "Laurence Jones",
-          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
         }
       ],
-      "duration_ms": 249493,
-      "name": "Bad Luck & The Blues",
-      "url": "https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs"
+      "duration_ms": 235560,
+      "name": "Sweet & Low",
+      "url": "https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Bad Luck & The Blues",
+        "url": "https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "Bad Luck & The Blues",
+      "url": "https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Peace...Like A River",
         "url": "https://open.spotify.com/album/251yYklVfkeGg5TP3xssV2"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 216845,
       "name": "What Goes Around (Comes Around)",
       "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Sweet & Low",
-        "url": "https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Sweet & Low",
-      "url": "https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Drivin' On",
+        "url": "https://open.spotify.com/album/6ytus8irgjlbAfqnCWimCw"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Drivin' On",
+      "url": "https://open.spotify.com/track/2yf6oK3G0uVpvubcyGxz3p"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "GrandVille",
         "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Drivin' On",
-        "url": "https://open.spotify.com/album/6ytus8irgjlbAfqnCWimCw"
-      },
-      "artists": [
-        {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Drivin' On",
-      "url": "https://open.spotify.com/track/2yf6oK3G0uVpvubcyGxz3p"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Guadalupe Plata 2023",
         "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
       },
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
+        "name": "Endless Highway",
+        "url": "https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3"
       },
       "artists": [
         {
-          "name": "Jonathan Plevyak",
-          "url": "https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO"
+          "name": "Jonah Tolchin",
+          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
         }
       ],
-      "duration_ms": 131354,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5"
+      "duration_ms": 225760,
+      "name": "Endless Highway",
+      "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Plevyak",
+          "url": "https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO"
+        }
+      ],
+      "duration_ms": 131354,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 124218,
       "name": "Walk The Wire",
       "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Endless Highway",
-        "url": "https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3"
-      },
-      "artists": [
-        {
-          "name": "Jonah Tolchin",
-          "url": "https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Endless Highway",
-      "url": "https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK"
+      },
+      "artists": [
+        {
+          "name": "Nathan Cavaleri",
+          "url": "https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY"
+        }
+      ],
+      "duration_ms": 322743,
+      "name": "Broken Lines",
+      "url": "https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Gotta Bleed (Remix)",
         "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 214500,
       "name": "Gotta Bleed - Remix",
       "url": "https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/0J0KUFFKsjbeuUKpQS0NSK"
-      },
-      "artists": [
-        {
-          "name": "Nathan Cavaleri",
-          "url": "https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY"
-        }
-      ],
-      "duration_ms": 322743,
-      "name": "Broken Lines",
-      "url": "https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Jam With Me",
-        "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
-      },
-      "artists": [
-        {
-          "name": "Lance Lopez",
-          "url": "https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Jam With Me",
-      "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Bound To Get The Blues",
         "url": "https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 300548,
       "name": "Got To Get Out",
       "url": "https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Jam With Me",
+        "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
+      },
+      "artists": [
+        {
+          "name": "Lance Lopez",
+          "url": "https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm"
+        }
+      ],
+      "duration_ms": 201233,
+      "name": "Jam With Me",
+      "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
+      },
+      "artists": [
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "duration_ms": 134001,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Rag Doll",
         "url": "https://open.spotify.com/album/2v3CiLH9Kvj8n7HMMq3hF6"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 170854,
       "name": "Ten Beer Job",
       "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
-      },
-      "artists": [
-        {
-          "name": "Arthur Terembula",
-          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
-        }
-      ],
-      "duration_ms": 134001,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
     },
     {
       "added_at": "2023-08-25 00:01:00",

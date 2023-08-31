@@ -4,7 +4,7 @@
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-76 songs - 5 hr 10 min
+77 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Dust and Iron](https://open.spotify.com/track/5Jolry4jIBmVEBrdL268IG) | [Red Robyn](https://open.spotify.com/artist/1gmG7dYsuax63KvUXYEwt2) | [Dust and Iron](https://open.spotify.com/album/2R72KnQgtOPlujq4DcwA0E) | 3:39 | 2020-05-20 |  |
 | [Electric](https://open.spotify.com/track/1oGD1YPvrnwBIWHNQaqgv4) | [Carlos Bryant](https://open.spotify.com/artist/3yND6YH8X1GVlidbW7hcAn) | [Like Never B4](https://open.spotify.com/album/3gblvC91ZmyZzN9X4oDSdo) | 2:34 | 2022-11-29 |  |
 | [Ewe Kwedini](https://open.spotify.com/track/0SSkytDTTZyANk2zmVqK1e) | [T\. Em](https://open.spotify.com/artist/34SG9KNrqrqPkCe4SJlRZH), [uFezekile](https://open.spotify.com/artist/60MEpj4GxzCgSVEWoPY2kw) | [Ewe Kwedini](https://open.spotify.com/album/2PyW1PhtCGj4Lk9cgmgm6E) | 6:12 | 2022-11-29 |  |
-| [Flex](https://open.spotify.com/track/3TmCAGXkhoDlB52vmAJA5g) | [Lex LaFoy](https://open.spotify.com/artist/2HmJN5BrqcRqtzJ8BCMTbM), [Ifani](https://open.spotify.com/artist/2tZaBvH4Jet46VVqDYYgqR) | [Honey Bass](https://open.spotify.com/album/5ZVP9DGnlpulLM9Dj1D7X1) | 4:01 | 2022-11-29 |  |
+| [Flex](https://open.spotify.com/track/3TmCAGXkhoDlB52vmAJA5g) | [Lex LaFoy](https://open.spotify.com/artist/2HmJN5BrqcRqtzJ8BCMTbM), [Ifani](https://open.spotify.com/artist/2tZaBvH4Jet46VVqDYYgqR) | [Honey Bass](https://open.spotify.com/album/5ZVP9DGnlpulLM9Dj1D7X1) | 4:01 | 2022-11-29 | 2023-08-31 |
+| [Flex](https://open.spotify.com/track/2wkIdHkqm1ciA7PI6BuENS) | [Lex LaFoy](https://open.spotify.com/artist/2HmJN5BrqcRqtzJ8BCMTbM), [Ifani](https://open.spotify.com/artist/2tZaBvH4Jet46VVqDYYgqR), [RubyGold](https://open.spotify.com/artist/6iT35bdjoxy90x3Cgcp5IW), [Fiesta Black](https://open.spotify.com/artist/5jg9SaU7GAWbPyG4oK2dS5) | [Honey Bass](https://open.spotify.com/album/72rOqAiY9jmLvmXDZLnBEQ) | 4:01 | 2022-11-29 |  |
 | [FROZE \(feat\. BELO SALO & Jordan Baker\)](https://open.spotify.com/track/5K1m4XswH44TsiN5fkoxqf) | [NOTBENJAMIN](https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN), [BELO SALO](https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu), [Jordan Baker](https://open.spotify.com/artist/2VLgYF7w5rxBReeF8G1URc) | [NOTBENJAMIN & FRIENDS](https://open.spotify.com/album/0vJNtb9Mqk5Irn4Hzo8SFj) | 2:35 | 2022-11-29 |  |
 | [Get the Money](https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [CITIZEN OF THE WORLD](https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe) | 2:58 | 2022-11-29 |  |
 | [God Flow](https://open.spotify.com/track/1rS5draMAK7Eep7Cc1aPkd) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [crownedYung](https://open.spotify.com/artist/0GtgdJ7DF3gH8f2029g1WW) | [God Flow](https://open.spotify.com/album/05K48ZBHmNCJmkOdbPhD6z) | 4:22 | 2020-05-20 |  |

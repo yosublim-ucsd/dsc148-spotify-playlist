@@ -11271,6 +11271,28 @@
     },
     {
       "album": {
+        "name": "Library",
+        "url": "https://open.spotify.com/album/2LuHMMKawbuifCE7p1HZKv"
+      },
+      "artists": [
+        {
+          "name": "Rebounder",
+          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+        },
+        {
+          "name": "Purr",
+          "url": "https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159954,
+      "name": "Library",
+      "url": "https://open.spotify.com/track/7dxjxc3cL7fO2zFPdVZdwx"
+    },
+    {
+      "album": {
         "name": "Library (feat. Purr)",
         "url": "https://open.spotify.com/album/3TJ5rdwJK40WRdzTMMK0gs"
       },
@@ -11286,7 +11308,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 159954,
       "name": "Library (feat. Purr)",
       "url": "https://open.spotify.com/track/0vdrHnhtRum6HGlsTlUXmL"

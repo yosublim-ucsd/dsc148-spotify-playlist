@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,265 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,338 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 86 | [Chefin](https://open.spotify.com/track/30g0zKIzhdwdJBSgiBA9gg) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Chefin](https://open.spotify.com/album/6z7TV8IZMGmMkVzg2c6dVt) | 3:06 |
 | 87 | [Espanha](https://open.spotify.com/track/0hcXSJ2MOEVxlzTLtRunJl) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Doka Language](https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH) | 2:48 |
 | 88 | [212 Vip](https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [212 Vip](https://open.spotify.com/album/0RmoblwYMgWfsr6DlNiIms) | 2:12 |
-| 89 | [Bad bad bad](https://open.spotify.com/track/3ybpfJJRAHZL7NKuUwL1EP) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I) | [Bad Bad Bad](https://open.spotify.com/album/0c0TPdWKG5DFewBDhdJxpx) | 2:34 |
-| 90 | [Cheat Code](https://open.spotify.com/track/2Db7e4OXyzQFjMC34RdCOj) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 3:00 |
-| 91 | [Rodeo](https://open.spotify.com/track/0uJVofbOhvogYQ2mRqsbaZ) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [237 Deluxe](https://open.spotify.com/album/0aK2N757Ttao233hGz4CUI) | 2:06 |
-| 92 | [Preto de Gueto](https://open.spotify.com/track/2YHdQVG5x6XI8HmdcqGJnn) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Intocável](https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw) | 2:35 |
+| 89 | [Cheat Code](https://open.spotify.com/track/2Db7e4OXyzQFjMC34RdCOj) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Diretoria](https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO) | 3:00 |
+| 90 | [Bad bad bad](https://open.spotify.com/track/3ybpfJJRAHZL7NKuUwL1EP) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I) | [Bad Bad Bad](https://open.spotify.com/album/0c0TPdWKG5DFewBDhdJxpx) | 2:34 |
+| 91 | [Preto de Gueto](https://open.spotify.com/track/2YHdQVG5x6XI8HmdcqGJnn) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Intocável](https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw) | 2:35 |
+| 92 | [Rodeo](https://open.spotify.com/track/0uJVofbOhvogYQ2mRqsbaZ) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [237 Deluxe](https://open.spotify.com/album/0aK2N757Ttao233hGz4CUI) | 2:06 |
 | 93 | [Flutuo](https://open.spotify.com/track/3VpRIboJg2oXebe8LNto7O) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Flutuo](https://open.spotify.com/album/3893W2jIaByc6Xk0lziixq) | 3:25 |
 | 94 | [Ouro Rosé](https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Real G](https://open.spotify.com/artist/4VBvroduJdLVzx7N0gKKO8), [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Peunubeat](https://open.spotify.com/artist/17E8w3INI7HVddLkdDKYVA) | [Ouro Rosé](https://open.spotify.com/album/3hRlp9PlDxPTJd5c1X3lJL) | 4:50 |
 | 95 | [Vírgula](https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:11 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 97 | [Disfarce](https://open.spotify.com/track/4Rx0VjnR16gkAuA322epk4) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Disfarce](https://open.spotify.com/album/6tMKjaduCP1Xts8Norkiy6) | 2:56 |
 | 98 | [Multiplica](https://open.spotify.com/track/2XNHvopgh1zs5fyEcMcUjE) | [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Multiplica](https://open.spotify.com/album/2PuH7jAtbiymoThAoWVHIx) | 3:10 |
 | 99 | [Baby Hair](https://open.spotify.com/track/7mtGQwe1XBh3A9BgVainvb) | [Recayd Mob](https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71) | [Baby Hair](https://open.spotify.com/album/3mH7zs57PG8YdYX9JLoIbO) | 3:41 |
-| 100 | [Aquela](https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Aquela](https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs) | 2:01 |
+| 100 | [Uo\*L](https://open.spotify.com/track/4hVSWdyWtnowu9MWLPa0KF) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq) | [Uo\*L](https://open.spotify.com/album/4UgjKTwjLKEs8VqFZvqckb) | 2:13 |
 
-Snapshot ID: `MCxjY2YzN2Q3MDA5MGMzM2ZjM2VmZWFhYzQwMjJkNzYzMmNkNDVmMGVm`
+Snapshot ID: `MCw5ZDllY2ZhOGE1YjU0YWVlZmJmM2VlZTM1ZmE1MTI2N2UwYWRmNGJh`

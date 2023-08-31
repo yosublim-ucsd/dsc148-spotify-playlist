@@ -1,12 +1,12 @@
 {
   "description": "Find the path back to an era of enlightenment.",
-  "num_followers": 74627,
+  "num_followers": 74719,
   "original_name": "Early New Age",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTJmYWFjMTAyNGZiYjE2ZmYxNDllMzBkN2U5NWNlMDI5MDllNjZl",
+  "snapshot_id": "MCw3NDkyYjdlYTg4ODBjMDMxZTQxYmU2YjlhYTQyOTgxZTRmYjg3ZjVl",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:54",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Planet Voyage",
+        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Ursa Minor",
+      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 288333,
       "name": "Carnation Lily Lily Rose",
       "url": "https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Planet Voyage",
-        "url": "https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Ursa Minor",
-      "url": "https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
-        "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 455333,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Seven Waves",
         "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 347626,
       "name": "The Fifth Wave - Water Lullaby",
       "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Sands of Time: Selected Studio & Concert Recordings 1974-1990",
+        "url": "https://open.spotify.com/album/4B9rJo0KUUVkWkyCeb7hpI"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 455333,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/6rOvoAtGJrlHavLh73Vgsu"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ki",
-        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
+        "name": "Quiet Joy / Domestic Peace",
+        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
       },
       "artists": [
         {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 418666,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
+      "duration_ms": 182453,
+      "name": "Quiet Joy",
+      "url": "https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1219,38 +1219,34 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Quiet Joy / Domestic Peace",
-        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
+        "name": "Ki",
+        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
       },
       "artists": [
         {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
         }
       ],
-      "duration_ms": 182453,
-      "name": "Quiet Joy",
-      "url": "https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI"
+      "duration_ms": 418666,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
     },
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "The Best of the Golden Voyage",
-        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
+        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
+        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
       },
       "artists": [
         {
-          "name": "Robert Bearns",
-          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
-        },
-        {
-          "name": "Ron Dexter",
-          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
+          "name": "Michael Garrison",
+          "url": "https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU"
         }
       ],
-      "duration_ms": 308360,
-      "name": "Flowers of Our Childhood",
-      "url": "https://open.spotify.com/track/71pXxbHZstxr3b6zTtgFPy"
+      "duration_ms": 274733,
+      "name": "To the Other Side of the Sky",
+      "url": "https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1287,6 +1283,26 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "The Best of the Golden Voyage",
+        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
+      },
+      "artists": [
+        {
+          "name": "Robert Bearns",
+          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
+        },
+        {
+          "name": "Ron Dexter",
+          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
+        }
+      ],
+      "duration_ms": 308360,
+      "name": "Flowers of Our Childhood",
+      "url": "https://open.spotify.com/track/71pXxbHZstxr3b6zTtgFPy"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Alpha Centauri",
         "url": "https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 261906,
       "name": "Sunrise in the Third System",
       "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
-        "url": "https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI"
-      },
-      "artists": [
-        {
-          "name": "Michael Garrison",
-          "url": "https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "To the Other Side of the Sky",
-      "url": "https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Images of Flutes in Nature",
+        "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vandroogenbroeck",
+          "url": "https://open.spotify.com/artist/6RAwMfx5Bxyfg50pzLAnrS"
+        },
+        {
+          "name": "Carole Muriel",
+          "url": "https://open.spotify.com/artist/36Rm9QDv8917PvW0eosGLt"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Forest Spirit",
+      "url": "https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Open Like a Flute",
         "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
@@ -1403,46 +1423,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "The Best of the Golden Voyage",
-        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
-      },
-      "artists": [
-        {
-          "name": "Robert Bearns",
-          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
-        },
-        {
-          "name": "Ron Dexter",
-          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/6foq1vyWppNQuytR8OgSbI"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Images of Flutes in Nature",
-        "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vandroogenbroeck",
-          "url": "https://open.spotify.com/artist/6RAwMfx5Bxyfg50pzLAnrS"
-        },
-        {
-          "name": "Carole Muriel",
-          "url": "https://open.spotify.com/artist/36Rm9QDv8917PvW0eosGLt"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Forest Spirit",
-      "url": "https://open.spotify.com/track/5KxWYjy5CR43hyUdNAiOV8"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Spectrum Suite 45th Anniversary Collector's Edition",
         "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
       },
@@ -1463,6 +1443,42 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "The Best of the Golden Voyage",
+        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
+      },
+      "artists": [
+        {
+          "name": "Robert Bearns",
+          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
+        },
+        {
+          "name": "Ron Dexter",
+          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/6foq1vyWppNQuytR8OgSbI"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Hear and Be Yonder",
+        "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
+      },
+      "artists": [
+        {
+          "name": "David Casper",
+          "url": "https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI"
+        }
+      ],
+      "duration_ms": 465986,
+      "name": "Carmel Valley Sunset",
+      "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Rainbow Dome Musick",
         "url": "https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz"
       },
@@ -1475,6 +1491,22 @@
       "duration_ms": 1394160,
       "name": "Garden Of Paradise - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Open Like a Flute",
+        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
+      },
+      "artists": [
+        {
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
+        }
+      ],
+      "duration_ms": 348880,
+      "name": "Arrival - Remastered",
+      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1511,22 +1543,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Open Like a Flute",
-        "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 348880,
-      "name": "Arrival - Remastered",
-      "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "A Rainbow Path",
         "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
@@ -1539,26 +1555,6 @@
       "duration_ms": 394826,
       "name": "Soaring: Crown Chakra",
       "url": "https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "The Best of the Golden Voyage",
-        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
-      },
-      "artists": [
-        {
-          "name": "Robert Bearns",
-          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
-        },
-        {
-          "name": "Ron Dexter",
-          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Timeless Love",
-      "url": "https://open.spotify.com/track/3QyirqEICgWcawoOTLF6nC"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1595,18 +1591,70 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Hear and Be Yonder",
-        "url": "https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0"
+        "name": "Astral Travels",
+        "url": "https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S"
       },
       "artists": [
         {
-          "name": "David Casper",
-          "url": "https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI"
+          "name": "Cobalt",
+          "url": "https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp"
         }
       ],
-      "duration_ms": 465986,
-      "name": "Carmel Valley Sunset",
-      "url": "https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr"
+      "duration_ms": 177373,
+      "name": "Inside Celeste",
+      "url": "https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "The Best of the Golden Voyage",
+        "url": "https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh"
+      },
+      "artists": [
+        {
+          "name": "Robert Bearns",
+          "url": "https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM"
+        },
+        {
+          "name": "Ron Dexter",
+          "url": "https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Timeless Love",
+      "url": "https://open.spotify.com/track/3QyirqEICgWcawoOTLF6nC"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Dragon Wings and Wizard Tales",
+        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
+      },
+      "artists": [
+        {
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Lifeforce Celebration",
+      "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 116440,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1643,54 +1691,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Aum",
-        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 116440,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Dragon Wings and Wizard Tales",
-        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
-      },
-      "artists": [
-        {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Lifeforce Celebration",
-      "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "A Rainbow Path",
-        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
-      },
-      "artists": [
-        {
-          "name": "Kay Gardner",
-          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
-        }
-      ],
-      "duration_ms": 323693,
-      "name": "Processional: Root Chakra",
-      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Open Like a Flute",
         "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Procession",
-        "url": "https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3"
+        "name": "A Rainbow Path",
+        "url": "https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY"
       },
       "artists": [
         {
-          "name": "Bernard Xolotl",
-          "url": "https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e"
+          "name": "Kay Gardner",
+          "url": "https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3"
         }
       ],
-      "duration_ms": 936000,
-      "name": "Mirador",
-      "url": "https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP"
+      "duration_ms": 323693,
+      "name": "Processional: Root Chakra",
+      "url": "https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76"
     },
     {
       "added_at": "2023-08-18 14:02:54",

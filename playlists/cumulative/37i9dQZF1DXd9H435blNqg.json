@@ -1172,10 +1172,28 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 214818,
       "name": "In the Middle",
       "url": "https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8"
+    },
+    {
+      "album": {
+        "name": "In the Middle",
+        "url": "https://open.spotify.com/album/4eb63eOvz7b1hNOHiwfUtK"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217222,
+      "name": "In the Middle",
+      "url": "https://open.spotify.com/track/7dvOiRrwoIWa5mDVd07zQP"
     },
     {
       "album": {
@@ -2032,6 +2050,24 @@
     {
       "album": {
         "name": "Third World War",
+        "url": "https://open.spotify.com/album/5vAI9F59s6GZWwLwl41Tqt"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202908,
+      "name": "Third World War",
+      "url": "https://open.spotify.com/track/1cEta0956o1pABDppqWJxX"
+    },
+    {
+      "album": {
+        "name": "Third World War",
         "url": "https://open.spotify.com/album/2YQos92O3jYWeCfWeVywuv"
       },
       "artists": [
@@ -2042,7 +2078,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 202908,
       "name": "Third World War",
       "url": "https://open.spotify.com/track/6bNhMOHw8kGRHw9lVbLRme"

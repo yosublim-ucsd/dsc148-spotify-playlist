@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 553570,
+  "num_followers": 553940,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjZlYjFiNThmZTkzYTg4NTZkZmZkMWVmYmUyNmMzYTZjZjllYThl",
+  "snapshot_id": "MCw0Y2ZlYmJkN2I0MTYzMjJjMzcxMTRhNzU4MzRhNzk4MDMxMTE0ODRh",
   "tracks": [
     {
       "added_at": "2021-02-24 08:50:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Buy out Riddim",
+        "url": "https://open.spotify.com/album/0YnW0VxELVkjA1GlQSeTWb"
+      },
+      "artists": [
+        {
+          "name": "Notch",
+          "url": "https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Nuttin Nuh Go So",
+      "url": "https://open.spotify.com/track/2eKcAEvYtwcuK4zFcYdtX3"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "Whine & Kotch",
         "url": "https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 217200,
       "name": "Whine & Kotch",
       "url": "https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Buy out Riddim",
-        "url": "https://open.spotify.com/album/0YnW0VxELVkjA1GlQSeTWb"
-      },
-      "artists": [
-        {
-          "name": "Notch",
-          "url": "https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Nuttin Nuh Go So",
-      "url": "https://open.spotify.com/track/2eKcAEvYtwcuK4zFcYdtX3"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Lava Ground",
+        "url": "https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp"
+      },
+      "artists": [
+        {
+          "name": "I Wayne",
+          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "Cant Satisfy Her",
+      "url": "https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "Art And Life",
         "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 257893,
       "name": "Girls Dem Sugar",
       "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Lava Ground",
-        "url": "https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp"
-      },
-      "artists": [
-        {
-          "name": "I Wayne",
-          "url": "https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "Cant Satisfy Her",
-      "url": "https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Many Moods Of Moses",
-        "url": "https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2"
+        "name": "Only Man She Want",
+        "url": "https://open.spotify.com/album/0xYKErJkWgfurZHmZo0blf"
       },
       "artists": [
         {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH"
+      "duration_ms": 205560,
+      "name": "Only Man She Want",
+      "url": "https://open.spotify.com/track/5tdl56mOgdZeY6RNF5jLwT"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Only Man She Want",
-        "url": "https://open.spotify.com/album/0xYKErJkWgfurZHmZo0blf"
+        "name": "Many Moods Of Moses",
+        "url": "https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
         }
       ],
-      "duration_ms": 205560,
-      "name": "Only Man She Want",
-      "url": "https://open.spotify.com/track/5tdl56mOgdZeY6RNF5jLwT"
+      "duration_ms": 196000,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Ms. Thing",
-          "url": "https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Dude",
-      "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Pon Di Cocky",
         "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 239786,
       "name": "Pon De River Pon De Bank",
       "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Ms. Thing",
+          "url": "https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Dude",
+      "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "King Of The Dancehall",
-      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "King Of The Dancehall",
+      "url": "https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "Kingston Story (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Ekq3FY8u4AMUDmgoK5FJU"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 214160,
       "name": "Tight Up Skirt",
       "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Maestro",
-        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Romie",
-      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -919,22 +903,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Pon Di Gaza 2.0",
-        "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Gal a Weh Do You",
-      "url": "https://open.spotify.com/track/0a4zxSLBnluX4aNHlBQWcn"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Raw as Eva",
         "url": "https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha"
       },
@@ -947,6 +915,38 @@
       "duration_ms": 162377,
       "name": "Gyal Bruk Out",
       "url": "https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Romie",
+      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Pon Di Gaza 2.0",
+        "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Gal a Weh Do You",
+      "url": "https://open.spotify.com/track/0a4zxSLBnluX4aNHlBQWcn"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
+        "name": "Things Mi Love",
+        "url": "https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        },
+        {
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
+        }
+      ],
+      "duration_ms": 207047,
+      "name": "Things Mi Love",
+      "url": "https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
         "name": "Bad Man Forward, Bad Man Pull Up",
         "url": "https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT"
       },
@@ -1047,42 +1067,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "No Holding Back",
-        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
-      },
-      "artists": [
-        {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
-        }
-      ],
-      "duration_ms": 290493,
-      "name": "Bounce Along",
-      "url": "https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
-        "name": "Things Mi Love",
-        "url": "https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        },
-        {
-          "name": "Notnice",
-          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
-        }
-      ],
-      "duration_ms": 207047,
-      "name": "Things Mi Love",
-      "url": "https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Dancehall Hero Raw: Deluxe",
         "url": "https://open.spotify.com/album/3XROPn9zW3o0RnwkZCCEbs"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 137021,
       "name": "Bicycle",
       "url": "https://open.spotify.com/track/1jUuRNEIHITr1xecjeG5So"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "No Holding Back",
+        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "Bounce Along",
+      "url": "https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6"
     },
     {
       "added_at": "2021-02-24 08:50:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2021-02-24 08:50:00",
       "album": {
-        "name": "Pon Di Gaza 2.0",
-        "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Nah Let Go",
-      "url": "https://open.spotify.com/track/39ThJ78YJf1Ouyb63rjYFu"
-    },
-    {
-      "added_at": "2021-02-24 08:50:00",
-      "album": {
         "name": "Ghetto Story (Explicit Content U.S. Version)",
         "url": "https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 134452,
       "name": "Nuh Boring Gyal",
       "url": "https://open.spotify.com/track/09EmEP62OJa0anCob6k0pl"
+    },
+    {
+      "added_at": "2021-02-24 08:50:00",
+      "album": {
+        "name": "Pon Di Gaza 2.0",
+        "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Nah Let Go",
+      "url": "https://open.spotify.com/track/39ThJ78YJf1Ouyb63rjYFu"
     },
     {
       "added_at": "2021-02-24 08:50:00",

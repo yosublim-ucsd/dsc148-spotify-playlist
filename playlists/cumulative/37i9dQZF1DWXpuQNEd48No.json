@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 164000,
       "name": "3B2",
       "url": "https://open.spotify.com/track/4OKhBPMo7JzLlACGxm8gMr"
@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/6cEaAwxDU0JPzApMzVFcEZ"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194950,
+      "name": "Circle",
+      "url": "https://open.spotify.com/track/5d3cpUagWngKLiIwtHSLKV"
+    },
+    {
+      "album": {
         "name": "DAD",
         "url": "https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C"
       },
@@ -613,6 +631,28 @@
     },
     {
       "album": {
+        "name": "Four Seater",
+        "url": "https://open.spotify.com/album/1tmM6WfooyH9jvAyAlney3"
+      },
+      "artists": [
+        {
+          "name": "Dussi Thakur",
+          "url": "https://open.spotify.com/artist/2jmPbgfxS1Iq4pAAnAJCFG"
+        },
+        {
+          "name": "DK Thakur",
+          "url": "https://open.spotify.com/artist/5C8nnMAJJgoLewlz08YjOK"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Four Seater",
+      "url": "https://open.spotify.com/track/55M3qbsvxy8wIu6pvEaqYM"
+    },
+    {
+      "album": {
         "name": "Game",
         "url": "https://open.spotify.com/album/5TxFY3lFpW98eErT56vUW0"
       },
@@ -650,7 +690,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 213343,
       "name": "Ghani Syaani",
       "url": "https://open.spotify.com/track/1Cb0T2tnApa38jg8DOUF0B"
@@ -774,6 +814,24 @@
       "duration_ms": 183356,
       "name": "Haryana Zone",
       "url": "https://open.spotify.com/track/2zVR7bexpJ8wP1ewN4r5II"
+    },
+    {
+      "album": {
+        "name": "Headshot",
+        "url": "https://open.spotify.com/album/237fwmNkFmLaypCScLiRN8"
+      },
+      "artists": [
+        {
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147374,
+      "name": "Headshot",
+      "url": "https://open.spotify.com/track/4dlDoH3H44W5X0y8lG99mX"
     },
     {
       "album": {
@@ -1559,6 +1617,28 @@
     },
     {
       "album": {
+        "name": "Rao Sahab Drill",
+        "url": "https://open.spotify.com/album/7rF3h3c0Eyj6xXMCZgQyvf"
+      },
+      "artists": [
+        {
+          "name": "Vkey",
+          "url": "https://open.spotify.com/artist/0xTf08e7MLw7TnnCNKXoBv"
+        },
+        {
+          "name": "SDEE",
+          "url": "https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Rao Sahab Drill",
+      "url": "https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4"
+    },
+    {
+      "album": {
         "name": "Raosahab",
         "url": "https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK"
       },
@@ -1874,7 +1954,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 129998,
       "name": "System Tedda Se",
       "url": "https://open.spotify.com/track/5yZ77HXLAx330lFs3gUF5k"
@@ -2008,7 +2088,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 371555,
       "name": "The Haryanvi Mashup 13",
       "url": "https://open.spotify.com/track/58RrIwnTYX6uKBj53ght8Q"

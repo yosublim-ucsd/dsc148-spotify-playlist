@@ -4,7 +4,7 @@
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-396 songs - 18 hr 47 min
+397 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [Ten Crack Commandments \- 2007 Remaster](https://open.spotify.com/track/4xtq6uY0ofikksLWN37pT4) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:23 | 2022-06-03 | 2022-06-19 |
 | [Ten Crack Commandments \- 2014 Remaster](https://open.spotify.com/track/1Z7C8ClE8UEaH70jCCeJH2) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:24 | 2023-06-05 | 2023-07-15 |
 | [Terpalation](https://open.spotify.com/track/2ItI24yglCAAnbiVCclgEp) | [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Love Without Conditions](https://open.spotify.com/album/3pKvcDR1KlZ2uxRDVegJej) | 3:36 | 2023-05-05 | 2023-06-06 |
-| [That's My Bitch](https://open.spotify.com/track/3TJxCXkL774hhGUmzFLUgy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:22 | 2023-08-08 |  |
+| [That's My Bitch](https://open.spotify.com/track/1BMzxGds8WSK39p4y432fl) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:22 | 2023-08-08 |  |
+| [That's My Bitch](https://open.spotify.com/track/3TJxCXkL774hhGUmzFLUgy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:22 | 2023-08-08 | 2023-08-31 |
 | [The God Hour](https://open.spotify.com/track/0JEefF2thwTsgWE2Wv0IsC) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [The God Hour](https://open.spotify.com/album/1K4fHsLMyPi7iQUfvxczF6) | 2:35 | 2022-04-15 | 2023-05-06 |
 | [The God Hour](https://open.spotify.com/track/4Acntw4W2FfI7CDAIsCBjq) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Lil Black Jean Jacket 3](https://open.spotify.com/album/1mFoolgRsDNPx9aizPSYDn) | 2:35 | 2022-07-01 | 2022-08-23 |
 | [The Sound or Drown "On The Radar" Cypher](https://open.spotify.com/track/28reLaWAXRzDXbPnElZncm) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [MHPG Sound](https://open.spotify.com/artist/5aRmys2yJVIQZQFaiWtJRV), [Matthew Ali](https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E), [Mali Smith](https://open.spotify.com/artist/59fuLqecuZV7xw51nRUq3G), [98 Keem](https://open.spotify.com/artist/6Nvp4qdL4rBZiZdgqOxIV3), [BRIZ!](https://open.spotify.com/artist/6oeKgEVkpSdm7frMEXaQOH), [SPACELI](https://open.spotify.com/artist/3qK3yBzXuCeEvoS9pzAmvP), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [2219 Lee](https://open.spotify.com/artist/3XXYpceux5ZlQd91NQhf8U) | [The Sound or Drown "On The Radar" Cypher](https://open.spotify.com/album/3Al0GvrZWOUDiaiEG57XxX) | 5:45 | 2023-05-05 | 2023-06-06 |

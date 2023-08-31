@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:3dA6K34y5FCgngffHJTjpY">MAGENTA FLORA</a>
+> Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0Ys2AuB4wwgGpHxZSSKvZB">pablo murphy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,233 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,237 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Galatine](https://open.spotify.com/track/7fB1NvgFvoupOUVvJZmcYQ) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [Galatine](https://open.spotify.com/album/4HaskkZcwaUEd2dctlCnyj) | 2:48 |
+| 1 | [VENERE](https://open.spotify.com/track/056jYB4VJ8j4YbwRniD4Hr) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [VENERE](https://open.spotify.com/album/2oDt8ji4RSwpjImc66YvvD) | 2:17 |
 | 2 | [FACETIME](https://open.spotify.com/track/6sQFxf7r1RQv9Rc4MAYYrH) | [Red Roses](https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY) | [FACETIME](https://open.spotify.com/album/0KgrYKEicvfHzFBIg6Nfpb) | 2:13 |
-| 3 | [Anti\-Fomo](https://open.spotify.com/track/2AQADuVGjoShxE9gnfRMDW) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [Anti\-Fomo](https://open.spotify.com/album/22yTfRdHVq3c50oZpXngIA) | 2:56 |
-| 4 | [DA PAURA](https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [DA PAURA](https://open.spotify.com/album/2Q4126DBdA4sZV5X5xdoiW) | 2:16 |
-| 5 | [Ocean Cry](https://open.spotify.com/track/2lOLI3op0lv6kK3VrOCS1Z) | [pearl moth](https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq) | [Ocean Cry](https://open.spotify.com/album/2uP99i8rDfjIpUPEurejZv) | 3:37 |
-| 6 | [Cherie](https://open.spotify.com/track/7tqqfZnZuNwVwKmQxlCMvN) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Cherie](https://open.spotify.com/album/0xEaAqphKRU7JkT4AKtQ03) | 2:47 |
-| 7 | [Anice](https://open.spotify.com/track/20ZVUbuDl5ywxuKfKTGDUA) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Anice](https://open.spotify.com/album/4v6Pr3gBmWksZKV0M5UU3f) | 2:51 |
-| 8 | [VENTI](https://open.spotify.com/track/5rmBjPx18n0LEFx1b86HO6) | [Sara Zais](https://open.spotify.com/artist/2SWKqo9IFOTHpselJA9646) | [VENTI](https://open.spotify.com/album/11dPawzBDhJ3cTnKOC5tOU) | 2:49 |
-| 9 | [Spentø & Stancø](https://open.spotify.com/track/2ei3Ki6ygpBcG1eUrbndux) | [Nefil](https://open.spotify.com/artist/0MGwBbvdr6smmVDpKee1kw), [Skins](https://open.spotify.com/artist/1NFOVT7B71RKx6ysFKA0OF) | [Spentø & Stancø](https://open.spotify.com/album/0JbnMskkKVUFFIczLSidmw) | 3:27 |
-| 10 | [Doll](https://open.spotify.com/track/5ui2a683na4h9zeIHoOGbo) | [Fuck Pop](https://open.spotify.com/artist/2EOQo8wyiH2Td1VVXgTKGW), [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Doll](https://open.spotify.com/album/4KHDnxCN7Sbsket4V1BiOu) | 2:22 |
-| 11 | [il mio lato migliore](https://open.spotify.com/track/6lU5Q0dWDQ2GJjg8dUqA3s) | [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta), [ggiovanni](https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [il mio lato migliore](https://open.spotify.com/album/4XRZozYeqW4hjVzh7p2nfN) | 2:21 |
-| 12 | [Konya Tonya](https://open.spotify.com/track/71l0tmjM93jM6LimI91qV4) | [Palazzi D'Oriente](https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH), [Michael Mills](https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV) | [Drop Tactics](https://open.spotify.com/album/0LMVR5R6QwLWw78iNRp3xd) | 2:57 |
-| 13 | [VENERE](https://open.spotify.com/track/056jYB4VJ8j4YbwRniD4Hr) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [VENERE](https://open.spotify.com/album/2oDt8ji4RSwpjImc66YvvD) | 2:17 |
+| 3 | [Galatine](https://open.spotify.com/track/7fB1NvgFvoupOUVvJZmcYQ) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [Galatine](https://open.spotify.com/album/4HaskkZcwaUEd2dctlCnyj) | 2:48 |
+| 4 | [Anti\-Fomo](https://open.spotify.com/track/2AQADuVGjoShxE9gnfRMDW) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [Anti\-Fomo](https://open.spotify.com/album/22yTfRdHVq3c50oZpXngIA) | 2:56 |
+| 5 | [DA PAURA](https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [DA PAURA](https://open.spotify.com/album/2Q4126DBdA4sZV5X5xdoiW) | 2:16 |
+| 6 | [Ocean Cry](https://open.spotify.com/track/2lOLI3op0lv6kK3VrOCS1Z) | [pearl moth](https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq) | [Ocean Cry](https://open.spotify.com/album/2uP99i8rDfjIpUPEurejZv) | 3:37 |
+| 7 | [Cherie](https://open.spotify.com/track/7tqqfZnZuNwVwKmQxlCMvN) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Cherie](https://open.spotify.com/album/0xEaAqphKRU7JkT4AKtQ03) | 2:47 |
+| 8 | [Anice](https://open.spotify.com/track/20ZVUbuDl5ywxuKfKTGDUA) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Anice](https://open.spotify.com/album/4v6Pr3gBmWksZKV0M5UU3f) | 2:51 |
+| 9 | [VENTI](https://open.spotify.com/track/5rmBjPx18n0LEFx1b86HO6) | [Sara Zais](https://open.spotify.com/artist/2SWKqo9IFOTHpselJA9646) | [VENTI](https://open.spotify.com/album/11dPawzBDhJ3cTnKOC5tOU) | 2:49 |
+| 10 | [Spentø & Stancø](https://open.spotify.com/track/2ei3Ki6ygpBcG1eUrbndux) | [Nefil](https://open.spotify.com/artist/0MGwBbvdr6smmVDpKee1kw), [Skins](https://open.spotify.com/artist/1NFOVT7B71RKx6ysFKA0OF) | [Spentø & Stancø](https://open.spotify.com/album/0JbnMskkKVUFFIczLSidmw) | 3:27 |
+| 11 | [Doll](https://open.spotify.com/track/5ui2a683na4h9zeIHoOGbo) | [Fuck Pop](https://open.spotify.com/artist/2EOQo8wyiH2Td1VVXgTKGW), [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Doll](https://open.spotify.com/album/4KHDnxCN7Sbsket4V1BiOu) | 2:22 |
+| 12 | [il mio lato migliore](https://open.spotify.com/track/6lU5Q0dWDQ2GJjg8dUqA3s) | [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta), [ggiovanni](https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9), [Luke Lecomte](https://open.spotify.com/artist/0R9RQ7VasOltY6d8I5g2Mc), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [il mio lato migliore](https://open.spotify.com/album/4XRZozYeqW4hjVzh7p2nfN) | 2:21 |
+| 13 | [Konya Tonya](https://open.spotify.com/track/71l0tmjM93jM6LimI91qV4) | [Palazzi D'Oriente](https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH), [Michael Mills](https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV) | [Drop Tactics](https://open.spotify.com/album/0LMVR5R6QwLWw78iNRp3xd) | 2:57 |
 | 14 | [Stefania](https://open.spotify.com/track/7lF6ElEf4uPfzN6Wk5KENT) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Stefania](https://open.spotify.com/album/0ci2nfXDyChKuNXjLPElx9) | 3:02 |
 | 15 | [CHIAMAMI](https://open.spotify.com/track/6CjZPtMBuQPBKYj2Sz2ObT) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [CHIAMAMI](https://open.spotify.com/album/5dkHtUJw9XOSGjrFhnJo3A) | 2:35 |
 | 16 | [Colibrì](https://open.spotify.com/track/3fPBScT5S1Bryl2COxBTAv) | [Vesuviano](https://open.spotify.com/artist/3zWZiuJpuHeA18luNoAxgS), [Me3o](https://open.spotify.com/artist/1yB3wVPkajZGhOdRs8n3mJ) | [Colibrì](https://open.spotify.com/album/6QUKuQGSZrlzgYDmYeghmv) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Ultima Volta](https://open.spotify.com/track/2JmznHCl5H3yxPy0djtb7L) | [Sunken](https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm), [K beezy 28](https://open.spotify.com/artist/5SbWJnRRbZQU024VlOPWly) | [Ultima Volta](https://open.spotify.com/album/48bb7vDwxbvadcnpR5gRt2) | 3:29 |
 | 50 | [quando ci sarà il sole](https://open.spotify.com/track/4Cyo9YFjvKOpfM14gw1GEY) | [Amdrea\(\-.\-\)](https://open.spotify.com/artist/1mPh5zrftjcjmBE3RYvRZ6), [Jiri](https://open.spotify.com/artist/5i5K0P6QOlVp04wgku2ve7) | [quando ci sarà il sole](https://open.spotify.com/album/4uI0dbZa6S6Ag63vaKgO7K) | 2:30 |
 
-Snapshot ID: `MCxkZGJlODc2YTRlMTQ2Mjg3N2RhOTA0NmY5ZmZiOTc5NzgwNWY0OGM0`
+Snapshot ID: `MCxhODE4YjlhMzE0MjBhZmZjMTJmOWFkZTU3MTMwYTkwZGI4OGFhMTFj`

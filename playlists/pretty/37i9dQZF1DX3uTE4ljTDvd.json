@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Vit\u00f3ria Souza",
-  "num_followers": 113455,
+  "num_followers": 113553,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODAzZDQ5ODgwZTY5NTQ4NzY1MDkwNmE0Y2QyYjE1ZjA2NjExYzUw",
+  "snapshot_id": "MCxlYjM0ZjQzNzE1YzMxNjkyYzRlNWRhMTBjNDQ5OGVmNzhlM2NhYjUx",
   "tracks": [
     {
       "added_at": "2022-12-09 06:14:16",
@@ -683,18 +683,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
+        "name": "Meu Grande Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI"
       },
       "artists": [
         {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+          "name": "Giselle Knevitz",
+          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
+        },
+        {
+          "name": "Brasa Church Music",
+          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
         }
       ],
-      "duration_ms": 180600,
-      "name": "D\u00ea Mais uma Chance para o Mundo",
-      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
+      "duration_ms": 634368,
+      "name": "Meu Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -719,38 +723,18 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Meu Grande Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI"
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
       },
       "artists": [
         {
-          "name": "Giselle Knevitz",
-          "url": "https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM"
-        },
-        {
-          "name": "Brasa Church Music",
-          "url": "https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A"
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         }
       ],
-      "duration_ms": 634368,
-      "name": "Meu Grande Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
+      "duration_ms": 180600,
+      "name": "D\u00ea Mais uma Chance para o Mundo",
+      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -767,6 +751,22 @@
       "duration_ms": 209000,
       "name": "Eterno",
       "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Sua Vida Em Mim",
-        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Sua Vida Em Mim",
-      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Daqui N\u00e3o Saio",
         "url": "https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 558500,
       "name": "Daqui N\u00e3o Saio",
       "url": "https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Sua Vida Em Mim",
+        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Sua Vida Em Mim",
+      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Quem Disse? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
-      },
-      "artists": [
-        {
-          "name": "Julliana Silva",
-          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
-        }
-      ],
-      "duration_ms": 330005,
-      "name": "Quem Disse? - Ao Vivo",
-      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Boa Gra\u00e7a (Good Grace) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/3FcZsTAT49tBKp3T3um5W9"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 303750,
       "name": "Boa Gra\u00e7a (Good Grace) [Ac\u00fastico]",
       "url": "https://open.spotify.com/track/4eYfddvw1Xc1mGbrCLIzXB"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Quem Disse? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
+      },
+      "artists": [
+        {
+          "name": "Julliana Silva",
+          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
+        }
+      ],
+      "duration_ms": 330005,
+      "name": "Quem Disse? - Ao Vivo",
+      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado de Partir",
-        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
-      },
-      "artists": [
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Cora\u00e7\u00e3o Cansado de Partir",
-      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Em Nome de Jesus",
         "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Kethelen Baittinger",
-        "url": "https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5"
+        "name": "Cora\u00e7\u00e3o Cansado de Partir",
+        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
       },
       "artists": [
         {
-          "name": "Kethelen Baittinger",
-          "url": "https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA"
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
         }
       ],
-      "duration_ms": 366222,
-      "name": "Em uma s\u00f3 voz",
-      "url": "https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY"
+      "duration_ms": 291500,
+      "name": "Cora\u00e7\u00e3o Cansado de Partir",
+      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -1039,6 +1023,22 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Kethelen Baittinger",
+        "url": "https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5"
+      },
+      "artists": [
+        {
+          "name": "Kethelen Baittinger",
+          "url": "https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA"
+        }
+      ],
+      "duration_ms": 366222,
+      "name": "Em uma s\u00f3 voz",
+      "url": "https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY"
     },
     {
       "added_at": "2022-12-09 06:14:16",

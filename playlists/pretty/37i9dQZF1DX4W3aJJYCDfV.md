@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Burna Boy \(pictured\), Selena Gomez, Joel Corry and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,157 likes - 145 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,175 likes - 145 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 59 | [Shark Teeth](https://open.spotify.com/track/369h1UyxxGJUw4WRUepNgC) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Shark Teeth](https://open.spotify.com/album/0rXzI1zDPMDBuDn24W5Dvl) | 3:38 |
 | 60 | [Let Go](https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 4:13 |
 | 61 | [Did It For Love](https://open.spotify.com/track/3yEpXQaQolfnLjXRvOdEqK) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Did It For Love](https://open.spotify.com/album/1pd3c32yOSdMXrabjNt0bd) | 2:52 |
-| 62 | [Outside](https://open.spotify.com/track/0mmLfscPCZPUp0zAb2mhW1) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP) | [Outside](https://open.spotify.com/album/3nnCQKMep5nm4sRlrK1gFh) | 2:30 |
+| 62 | [Outside](https://open.spotify.com/track/0mmLfscPCZPUp0zAb2mhW1) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Massappeals](https://open.spotify.com/artist/2rekHx1wB1Iy4v4ZKJjJ4j) | [Outside](https://open.spotify.com/album/3nnCQKMep5nm4sRlrK1gFh) | 2:30 |
 | 63 | [Rabbit Hole](https://open.spotify.com/track/22oHfzhTUzNJ8WubJseaZ5) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [Rabbit Hole](https://open.spotify.com/album/0GdPILZ3O74ne7nNuAE6Ln) | 3:12 |
 | 64 | [We Should Get Married](https://open.spotify.com/track/2syH39iwALerO994Pod9dB) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [We Should Get Married](https://open.spotify.com/album/5DqiJn6X0JGXhP3JMM9C3I) | 3:41 |
 | 65 | [ROYALE](https://open.spotify.com/track/2av7d4HqKii7a9deQeuo5V) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [ROYALE](https://open.spotify.com/album/1dRTXhMyrcfx1qE11K50x4) | 2:08 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 144 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 |
 | 145 | [10,000](https://open.spotify.com/track/0HZKX7ZFA339Da0IA2EpVq) | [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [10,000](https://open.spotify.com/album/70L9lYw6QhFfP4qdU59WKL) | 3:46 |
 
-Snapshot ID: `MCwyZWY1ZmFhNTBmNzA3NmQ5ZGJmYmMzMTRiYjQxNGNkM2RiZGViY2Fi`
+Snapshot ID: `MCxlZTA2NzY5MzRhZGE0ZGI2ZTBjODkxMGYwMWEzOWRhNGU4MjMyZDA4`

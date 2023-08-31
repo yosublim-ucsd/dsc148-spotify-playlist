@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMTU2MDAsMDAwMDAwMDBiNTI1NTZhZDM5ZDNkODJlYzUyMzlmMmMxMDdlZTI3ZA==",
+  "snapshot_id": "MjgyMTU2MDAsMDAwMDAwMDAwZmM2ZjZhOTY4YjZjOTNhZjQ2Mzc1ZDA3ZGI4ZGNlNw==",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -59,58 +59,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Dumptruck",
-        "url": "https://open.spotify.com/album/4NfcikeRcHAduFCsBLneVr"
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/5Fi81yu2mZDF8m136BRS6v"
       },
       "artists": [
         {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 172213,
-      "name": "Dumptruck",
-      "url": "https://open.spotify.com/track/5ADiwjcccncgVcYem16lkn"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Sentry (feat. MIKE)",
-        "url": "https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 141186,
-      "name": "Sentry (feat. MIKE)",
-      "url": "https://open.spotify.com/track/5L2zGgJi9BlL3CjVF4KL7W"
+      "duration_ms": 273626,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -139,22 +99,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/5S0eXl1GZ3SAZfQ2HM5QyW"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/3JHNieO8JATU24quh4tbPf"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Hella Good (Metal Version)",
         "url": "https://open.spotify.com/album/5CfBbX5MpZ8q4lEPtDsYWY"
       },
@@ -171,6 +115,62 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Dumptruck",
+        "url": "https://open.spotify.com/album/4NfcikeRcHAduFCsBLneVr"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 172213,
+      "name": "Dumptruck",
+      "url": "https://open.spotify.com/track/5ADiwjcccncgVcYem16lkn"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Sentry (feat. MIKE)",
+        "url": "https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 141186,
+      "name": "Sentry (feat. MIKE)",
+      "url": "https://open.spotify.com/track/5L2zGgJi9BlL3CjVF4KL7W"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Castaway",
+        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Wild Side",
         "url": "https://open.spotify.com/album/5Bqrj8CTNu9Hz8ypS0Kqfu"
       },
@@ -183,6 +183,26 @@
       "duration_ms": 132858,
       "name": "Wild Side",
       "url": "https://open.spotify.com/track/3Mz00Nif49qbRP44Vexdp9"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Saint Teresa",
+        "url": "https://open.spotify.com/album/6Ogj81elwzB4RoIQGnTACl"
+      },
+      "artists": [
+        {
+          "name": "Devon Church",
+          "url": "https://open.spotify.com/artist/7CBzDKeqUsPOqLyYwpvT1g"
+        },
+        {
+          "name": "Delicate Steve",
+          "url": "https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "Saint Teresa",
+      "url": "https://open.spotify.com/track/1Xbdoqkt8YpTSELtUyFgNL"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -223,26 +243,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/2BT4yUblsyQUtFs804MtO6"
-      },
-      "artists": [
-        {
-          "name": "PRICE",
-          "url": "https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 144056,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/4WX2fdICHuZevsl6NS0tWz"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Dookie (30th Anniversary 4-Track Demos)",
         "url": "https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd"
       },
@@ -279,26 +279,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Blood Moon (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
       },
@@ -315,6 +295,42 @@
       "duration_ms": 169411,
       "name": "Blood Moon (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Forgiven",
+        "url": "https://open.spotify.com/album/0BAaDFunOx1UkznLUdBMsG"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 205497,
+      "name": "Forgiven",
+      "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -339,22 +355,6 @@
       "duration_ms": 295755,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4pvvJGvOvtGje3rbKhGZJz"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Forgiven",
-        "url": "https://open.spotify.com/album/0BAaDFunOx1UkznLUdBMsG"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 205497,
-      "name": "Forgiven",
-      "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -391,6 +391,78 @@
       "duration_ms": 218859,
       "name": "Realest (with Eminem)",
       "url": "https://open.spotify.com/track/2r00b713EahQGlSYQY9FWw"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "YUPP! (feat. Remy Ma)",
+        "url": "https://open.spotify.com/album/1rbMc48YDSl6fc8NQp7rHu"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "duration_ms": 182267,
+      "name": "YUPP! (feat. Remy Ma)",
+      "url": "https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Clockwork",
+        "url": "https://open.spotify.com/album/1yF7u9oYr18P4XkwR1EbmU"
+      },
+      "artists": [
+        {
+          "name": "Humble Soles",
+          "url": "https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv"
+        },
+        {
+          "name": "DJ Clue",
+          "url": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf"
+        },
+        {
+          "name": "Tyre Hakim",
+          "url": "https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Tish Hyman",
+          "url": "https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K"
+        }
+      ],
+      "duration_ms": 204796,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/1XMXIdPHXXoTI48rQEBp9V"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Oh, You Crazy Moon (Ornithology Remix)",
+        "url": "https://open.spotify.com/album/6Na3I8ff7sDx2I8uj0nMMR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Ornithology",
+          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
+        }
+      ],
+      "duration_ms": 67764,
+      "name": "Oh, You Crazy Moon - Ornithology Remix",
+      "url": "https://open.spotify.com/track/2p4S9TzGVVo6ABhlLGjGl5"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -459,78 +531,6 @@
       "duration_ms": 208124,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/6RXAdmP1IjUWZxDHOqnUpa"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Oh, You Crazy Moon (Ornithology Remix)",
-        "url": "https://open.spotify.com/album/6Na3I8ff7sDx2I8uj0nMMR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Ornithology",
-          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
-        }
-      ],
-      "duration_ms": 67764,
-      "name": "Oh, You Crazy Moon - Ornithology Remix",
-      "url": "https://open.spotify.com/track/2p4S9TzGVVo6ABhlLGjGl5"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "YUPP! (feat. Remy Ma)",
-        "url": "https://open.spotify.com/album/1rbMc48YDSl6fc8NQp7rHu"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Remy Ma",
-          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
-        }
-      ],
-      "duration_ms": 182267,
-      "name": "YUPP! (feat. Remy Ma)",
-      "url": "https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/1yF7u9oYr18P4XkwR1EbmU"
-      },
-      "artists": [
-        {
-          "name": "Humble Soles",
-          "url": "https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv"
-        },
-        {
-          "name": "DJ Clue",
-          "url": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf"
-        },
-        {
-          "name": "Tyre Hakim",
-          "url": "https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Tish Hyman",
-          "url": "https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K"
-        }
-      ],
-      "duration_ms": 204796,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/1XMXIdPHXXoTI48rQEBp9V"
     },
     {
       "added_at": "2023-08-25 04:00:00",

@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 159560,
       "name": "Booty Drop",
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
@@ -3065,7 +3065,7 @@
     },
     {
       "album": {
-        "name": "Go Getter (feat. M Huncho)",
+        "name": "Go Getter",
         "url": "https://open.spotify.com/album/76eLGzP486W8xcfnR6FXVh"
       },
       "artists": [
@@ -3082,7 +3082,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158222,
-      "name": "Go Getter (feat. M Huncho)",
+      "name": "Go Getter",
       "url": "https://open.spotify.com/track/2fbll0OSNaePTCitaM2dnt"
     },
     {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMTU2MDAsMDAwMDAwMDAwMGNmZjM4MmExNWRlNjEwMTgxZWYzOTZkNWJiZjM0Nw==",
+  "snapshot_id": "MjgyMTU2MDAsMDAwMDAwMDAxYjBkYTdjNDkyNDY5MGZkNWE1ZmVhOGRkNTg2OWZhMA==",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
         }
       ],
-      "duration_ms": 217960,
-      "name": "Morceaux de salon, Op. 10: I. Nocturne in A MInor",
-      "url": "https://open.spotify.com/track/4XfMUK8YxILr2Ucu8RCBR0"
+      "duration_ms": 54800,
+      "name": "Variations on a Theme of Corelli, Op. 42: Theme. Andante",
+      "url": "https://open.spotify.com/track/2J3WtVMp6HnsyCredUu06n"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -651,30 +651,6 @@
       "duration_ms": 270539,
       "name": "Greenwich - Daniel Avery Interpolation",
       "url": "https://open.spotify.com/track/3H7wG9CzVXdiYcarxBnYb1"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "The Last Remnant",
-        "url": "https://open.spotify.com/album/1SE73kaAP98yTjjr0eAcdT"
-      },
-      "artists": [
-        {
-          "name": "SHIVA",
-          "url": "https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj"
-        },
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        },
-        {
-          "name": "Fullmetal Jessie",
-          "url": "https://open.spotify.com/artist/7MEOsCmZzAe5CMP2FefopH"
-        }
-      ],
-      "duration_ms": 286167,
-      "name": "The Last Remnant",
-      "url": "https://open.spotify.com/track/4KPoIuoi3CGWeDcHv290mg"
     },
     {
       "added_at": "2023-08-25 04:00:00",

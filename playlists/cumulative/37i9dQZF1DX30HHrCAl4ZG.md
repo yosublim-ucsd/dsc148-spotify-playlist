@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music by Bakar.
 
-1,155 songs - 2 day 14 hr 54 min
+1,156 songs - 2 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,8 @@
 | [Let Em Talk](https://open.spotify.com/track/3pJWlIHb7HNvVrzPmH0A9Z) | [King Garbage](https://open.spotify.com/artist/2ziuYXYq2WG6cZpa43fWpX) | [Heavy Metal Greasy Love](https://open.spotify.com/album/0xbWAcPqKnN0zi4Fb7E5tD) | 4:02 | 2022-04-01 | 2022-04-21 |
 | [Let's Go](https://open.spotify.com/track/4zBFWizKHRrrgHmb3VQvuJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Let's Go](https://open.spotify.com/album/2ihzFPvG24siD95PTwp2nB) | 4:00 | 2022-06-16 | 2022-09-24 |
 | [Levels](https://open.spotify.com/track/19317BXBu7jgBfuZvzsPya) | [Quon](https://open.spotify.com/artist/4imMTIlAYPS7dd1YfzLSel) | [Levels](https://open.spotify.com/album/7odS1Jx0CfMysO9z1gDII4) | 3:52 | 2022-04-01 | 2022-04-21 |
-| [Library \(feat\. Purr\)](https://open.spotify.com/track/0vdrHnhtRum6HGlsTlUXmL) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library \(feat\. Purr\)](https://open.spotify.com/album/3TJ5rdwJK40WRdzTMMK0gs) | 2:39 | 2023-07-21 |  |
+| [Library](https://open.spotify.com/track/7dxjxc3cL7fO2zFPdVZdwx) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library](https://open.spotify.com/album/2LuHMMKawbuifCE7p1HZKv) | 2:39 | 2023-08-25 |  |
+| [Library \(feat\. Purr\)](https://open.spotify.com/track/0vdrHnhtRum6HGlsTlUXmL) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Library \(feat\. Purr\)](https://open.spotify.com/album/3TJ5rdwJK40WRdzTMMK0gs) | 2:39 | 2023-07-21 | 2023-08-31 |
 | [Lies](https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Lies](https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG) | 2:50 | 2022-06-10 | 2022-09-03 |
 | [Life](https://open.spotify.com/track/01YuUwKN7RFa09q72o0hBF) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Life](https://open.spotify.com/album/3fiPEJT6tp9blTffNsRPgi) | 3:06 | 2021-11-19 | 2022-02-12 |
 | [Lights](https://open.spotify.com/track/45BCN2ZnfUXXMff0uxxLFe) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Lights](https://open.spotify.com/album/194YVQymXITzrDxVAfOZ8N) | 3:35 | 2022-01-28 | 2022-04-16 |

@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 561625,
+  "num_followers": 561729,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjMzYWQ1NTYxZTNkZmU0YmNlNGEyYjdkZmFmOWZjODdmMTZkYjdj",
+  "snapshot_id": "MCw4ZWIyYTk4NmQyZjk4NmFlYzQxMzQxYTBkOWUwNGM5YzQ2ZTI0MjA4",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "The Civil Wars",
-        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Devil\u2019s Backbone",
-      "url": "https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Sketches for My Sweetheart The Drunk (Expanded Edition)",
         "url": "https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 286706,
       "name": "Everybody Here Wants You",
       "url": "https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "The Civil Wars",
+        "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Devil\u2019s Backbone",
+      "url": "https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Cherry Plum",
-        "url": "https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh"
-      },
-      "artists": [
-        {
-          "name": "Astronauts, etc.",
-          "url": "https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Cherry Plum",
-      "url": "https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "A Mouthful",
         "url": "https://open.spotify.com/album/3L2s5VsbuOKnIdkfz8vE7J"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 144400,
       "name": "Song for lovers",
       "url": "https://open.spotify.com/track/6MS1VErb239jImgEbtIMgs"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Cherry Plum",
+        "url": "https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh"
+      },
+      "artists": [
+        {
+          "name": "Astronauts, etc.",
+          "url": "https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Cherry Plum",
+      "url": "https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I"
     },
     {
       "added_at": "2023-06-30 04:00:00",

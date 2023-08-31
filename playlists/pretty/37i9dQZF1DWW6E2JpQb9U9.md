@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,157 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,176 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 95 | [Silencio \(Ft\. Fito Páez\) \- En Vivo Teatro Ópera](https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Silencio \(Ft\. Fito Páez\) \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg) | 5:01 |
 | 96 | [A Tu Lado](https://open.spotify.com/track/7tgIEyaowzPNqSQo9x8b4t) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [En el Ojo del Huracán](https://open.spotify.com/album/6Js0JG5tVnqoBcWnJT21ZV) | 3:14 |
 | 97 | [Maradó \- En Vivo](https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 6:54 |
-| 98 | [Me Mata](https://open.spotify.com/track/4TOkJHPplwaJPmrhvLDZ6O) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Kapangstock](https://open.spotify.com/album/5q9atOWoewQnrNG3t4mU5p) | 4:09 |
-| 99 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 |
+| 98 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 |
+| 99 | [Me Mata](https://open.spotify.com/track/4TOkJHPplwaJPmrhvLDZ6O) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Kapangstock](https://open.spotify.com/album/5q9atOWoewQnrNG3t4mU5p) | 4:09 |
 | 100 | [Vida de Topos \- En Vivo](https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Vivo Acá](https://open.spotify.com/album/2EzmMJuPwDj8CSpSL7TieY) | 5:21 |
 
-Snapshot ID: `MCw4YWE0NjAyOTQ3NGQ2ZDdmYTc0ZDQ0YmE0ZDY0ZjRiOWRjZDA4OWM2`
+Snapshot ID: `MCw5MGM2MjBhZmI0NzY4Y2FmZGIyMjUzMDBmZTUxMTBmNzlmMzY4YjU1`

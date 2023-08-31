@@ -4,7 +4,7 @@
 
 > Time to headbang around the Christmas tree! Cover: Sabaton
 
-116 songs - 7 hr 23 min
+117 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [All I Want For Christmas Is You](https://open.spotify.com/track/3R8St06LJzL7SoneXQy7tL) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [All I Want For Christmas Is You](https://open.spotify.com/album/1DbZpAbmGi5WL9dkPiELx8) | 3:09 | 2022-12-09 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0pyQo1PdONXpHPe9maPrr3) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [All I Want for Christmas Is You](https://open.spotify.com/album/4wVgm80aNC8S8XwxpDakws) | 3:48 | 2021-11-26 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/2KpS37udVvcVTP8lkKyYjG) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [All I Want For Christmas Is You](https://open.spotify.com/album/4yYRCfrUG8Ck6nkqOEJDtQ) | 3:27 | 2021-12-21 |  |
-| [Auld Lang Syne](https://open.spotify.com/track/3NoelPInS57vLRx6qVwE4S) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Auld Lang Syne](https://open.spotify.com/album/3AuGeHVBNgGFoH0lNH75fY) | 3:37 | 2021-11-26 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/29WgoS3yvkl62MwOLQlT3Q) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Auld Lang Syne](https://open.spotify.com/album/31Z5P9kwY8HbUZNnZl5LeR) | 3:37 | 2022-12-23 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/3NoelPInS57vLRx6qVwE4S) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Auld Lang Syne](https://open.spotify.com/album/3AuGeHVBNgGFoH0lNH75fY) | 3:37 | 2021-11-26 | 2023-08-31 |
 | [Carol of the Bells](https://open.spotify.com/track/2UxVAx0Ydcn4xs9FIRBczz) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [August Burns Red Presents: Sleddin' Hill, A Holiday Album](https://open.spotify.com/album/0KFHRTPO0Na2urb69czjhM) | 2:48 | 2021-11-26 |  |
 | [Carol of the Bells](https://open.spotify.com/track/6Fccwz5z0P8jFH9RnTZDcW) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [August Burns Red Presents: Sleddin' hill, a Holiday Album](https://open.spotify.com/album/2azUcKhTf99EHIJEK6Co6F) | 2:48 | 2021-11-26 | 2022-07-29 |
 | [Carol Of The Bells](https://open.spotify.com/track/5Awe7avyVaXwZEfgdKqBsN) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Carol of The Bells](https://open.spotify.com/album/5PHDePBPQQM5VsXO98L3Pc) | 2:52 | 2022-11-25 |  |

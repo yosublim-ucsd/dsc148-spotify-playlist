@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 264866,
       "name": "Declaration (This Is It!)",
       "url": "https://open.spotify.com/track/5vPnMZd9Ms9srd6rfd14jN"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 180678,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 341706,
       "name": "Gonna Be A Lovely Day",
       "url": "https://open.spotify.com/track/5jxCllQyFj1KhkQIJyk7Wy"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 309066,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/4IyemaA2yUElYlOiCV1vGC"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 337893,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7"
@@ -1854,6 +1854,24 @@
       "duration_ms": 206103,
       "name": "TOGETHER",
       "url": "https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH"
+    },
+    {
+      "album": {
+        "name": "Try Love",
+        "url": "https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272593,
+      "name": "Try Love",
+      "url": "https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt"
     },
     {
       "album": {

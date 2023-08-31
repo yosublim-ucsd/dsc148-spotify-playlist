@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Mauri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,561 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,577 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 26 | [Las Grecas](https://open.spotify.com/track/4MRtMIh8HOuLqyOTArfag7) | [Michael Foster](https://open.spotify.com/artist/5OmNL8cD7wnxaG0808fYXG) | [Las Grecas](https://open.spotify.com/album/66L6sMvbvoXgBGCbISfpzu) | 3:13 |
 | 27 | [Por cada lágrima](https://open.spotify.com/track/6bkScEPmFcsUeK6nV8F990) | [Ivan Hidra](https://open.spotify.com/artist/7B0zeX05g1h9HZhQngumgF) | [Por cada lágrima](https://open.spotify.com/album/1ZrD6SFdK8RtyNga7wPVqK) | 3:49 |
 | 28 | [Una Flor Y Un Murmuro](https://open.spotify.com/track/7nFlyuNaHhGvdO1YWnMmee) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [Una Flor Y Un Murmuro](https://open.spotify.com/album/0F4LS079eCViqZx5ocbm02) | 2:56 |
-| 29 | [t'encanta](https://open.spotify.com/track/3DbtqVxpHh7MKyygamtIa6) | [Xescu Pera](https://open.spotify.com/artist/3IJ5aKIrNu4uMfOsT1FxGo) | [t'encanta](https://open.spotify.com/album/2qWlCbPApzIKWbT9f5bN48) | 1:51 |
+| 29 | [pq estic trigant tant a trobar\-te?](https://open.spotify.com/track/3DbtqVxpHh7MKyygamtIa6) | [Xescu Pera](https://open.spotify.com/artist/3IJ5aKIrNu4uMfOsT1FxGo) | [pq estic trigant tant a trobar\-te?](https://open.spotify.com/album/2qWlCbPApzIKWbT9f5bN48) | 1:51 |
 | 30 | [ChatGePeTo](https://open.spotify.com/track/4uavzbNo5z2sOs5g3DhpID) | [Vosotras Veréis](https://open.spotify.com/artist/2aBHCc3JRmzbNxCSvl6jfu) | [ChatGePeTo](https://open.spotify.com/album/5E9jzwseBzw6zgTtn5mEyi) | 2:05 |
 | 31 | [Jota Flamenca](https://open.spotify.com/track/1SKhqxiOeJ964qm0IgtyCn) | [Indica Sound](https://open.spotify.com/artist/64ztB1HA4yaTmSsfcmNWUr), [ZAHRA](https://open.spotify.com/artist/27rHObW0C4kgEazd0VUzQ3), [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV) | [Jota Flamenca](https://open.spotify.com/album/3kM20kL2qJySKvNmsUowmY) | 2:54 |
 | 32 | [Ye Ye Ye \(Orilla\)](https://open.spotify.com/track/6OM3UJSNDQNrzRErvtLOk5) | [Sesentay6](https://open.spotify.com/artist/79Q1pSFzZxBxwHxKRhMwmM) | [Ye Ye Ye \(Orilla\)](https://open.spotify.com/album/6YmhAA6YHk9rqoWJlzP632) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Lagartos](https://open.spotify.com/track/49dEMyXHanDQeWkzF4sVPa) | [Oliver Enigma](https://open.spotify.com/artist/7wvZWIcQasZJ9lMaZTzYMg), [Ravenger.](https://open.spotify.com/artist/2PANiwk7wg13SSkvflsJTE) | [Lagartos](https://open.spotify.com/album/0BlL2oHotsJ5RGAm1Dlir3) | 2:18 |
 | 50 | [AETANA](https://open.spotify.com/track/2vrjyGDYWx8vecCsp4eDrh) | [exit303](https://open.spotify.com/artist/3B77kZJvJq4OR9qsC7UXNW), [COCO M](https://open.spotify.com/artist/0obEl6zeIkV1zTIkoYujYC) | [AETANA](https://open.spotify.com/album/0ZEZBn3P4GRhHYGxc9GmSR) | 2:07 |
 
-Snapshot ID: `MCw5YjM3OWM2NDNjMTFjODg2Y2QwMGUxNjY1MjlmYzk3YTc4NjkyZWY4`
+Snapshot ID: `MCxmNWI5MDNlNGUxNGY0MDczNjdlZjAwM2U1MDQ2MGNlOGZlZWYyNDhl`

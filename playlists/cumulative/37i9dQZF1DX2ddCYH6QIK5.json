@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Meagre Martin, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: BL\u016aM\u0112, Flaming Gorge, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
+    {
+      "album": {
+        "name": "Fadeout",
+        "url": "https://open.spotify.com/album/4D5VD564HwWroy78dcADVh"
+      },
+      "artists": [
+        {
+          "name": "Jamila",
+          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213168,
+      "name": "17",
+      "url": "https://open.spotify.com/track/6bmiDWvLMOJToIujv306Iy"
+    },
     {
       "album": {
         "name": "2 Nights",
@@ -258,7 +276,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 240560,
       "name": "Abrasion",
       "url": "https://open.spotify.com/track/46fGgFPDNzrDwRcV4fo9y5"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 221744,
       "name": "Alles ist verg\u00e4nglich",
       "url": "https://open.spotify.com/track/7HlnQDVX07Gv4rQr1ExdMx"
@@ -735,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Always With Me",
+        "url": "https://open.spotify.com/album/3erdNiLwLT8JtlEWkA8si2"
+      },
+      "artists": [
+        {
+          "name": "Blue Babe",
+          "url": "https://open.spotify.com/artist/48hoYHqoPDRwOXzJXOwVCd"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190742,
+      "name": "Always With Me",
+      "url": "https://open.spotify.com/track/5hojGljXdFw2aGuKXZYbBS"
+    },
+    {
+      "album": {
         "name": "Alysia",
         "url": "https://open.spotify.com/album/0qyVPeEEJIRXdkZxgGnVBf"
       },
@@ -854,7 +890,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 192375,
       "name": "Apartment 110",
       "url": "https://open.spotify.com/track/7rlpQrrUSYErdHUzZhQTXz"
@@ -908,7 +944,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 209239,
       "name": "Art und Weise",
       "url": "https://open.spotify.com/track/1yh0I7f6gMQLZF5wr7RHLx"
@@ -2481,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/7cgLvatZuJ39TAwa68g8r3"
+      },
+      "artists": [
+        {
+          "name": "Moritz Ley",
+          "url": "https://open.spotify.com/artist/5w9vA7OEPcc2atrMUKjwGd"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189442,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/65unoQYVXozpWh4x3A3JGE"
+    },
+    {
+      "album": {
         "name": "Casper",
         "url": "https://open.spotify.com/album/7BtNhA8Y4jrXmJiQkO1LEp"
       },
@@ -2832,7 +2886,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 201451,
       "name": "Confession",
       "url": "https://open.spotify.com/track/63rcli8BBqokoWyMNaCK0p"
@@ -4074,7 +4128,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 396865,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/66sBQP4haQGislypMN3reX"
@@ -5552,7 +5606,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 192332,
       "name": "Give Me",
       "url": "https://open.spotify.com/track/4GTHQUI8z2EXUJEWLnBPme"
@@ -6841,6 +6895,24 @@
     },
     {
       "album": {
+        "name": "I Don't Like London",
+        "url": "https://open.spotify.com/album/2mWM6oeN4gqM9vQEgaSA49"
+      },
+      "artists": [
+        {
+          "name": "Erik Peers",
+          "url": "https://open.spotify.com/artist/5cEMUiJDC4B0MxJoa0X92G"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190162,
+      "name": "I Don't Like London",
+      "url": "https://open.spotify.com/track/2vPTshC5WASIhCUwJhmPU9"
+    },
+    {
+      "album": {
         "name": "Das Grell in meinem Kopf",
         "url": "https://open.spotify.com/album/1qqUSSCTmOmDFhASMkahqY"
       },
@@ -7018,6 +7090,28 @@
       "duration_ms": 178201,
       "name": "I Wanna Leave",
       "url": "https://open.spotify.com/track/0tyb4R408TWXTM3s06pJjn"
+    },
+    {
+      "album": {
+        "name": "i will be better the next time i see you",
+        "url": "https://open.spotify.com/album/2NjZdR7VSYDLeU6pCIBaXS"
+      },
+      "artists": [
+        {
+          "name": "BL\u016aM\u0112",
+          "url": "https://open.spotify.com/artist/1EmsrlbtiFQyIuRa3ovjFN"
+        },
+        {
+          "name": "Flaming Gorge",
+          "url": "https://open.spotify.com/artist/3ZoqB9sm7680HN9V2VOFAi"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154965,
+      "name": "i will be better the next time i see you",
+      "url": "https://open.spotify.com/track/7preZ2Xe57JYFqRCWSVxna"
     },
     {
       "album": {
@@ -7825,6 +7919,24 @@
     },
     {
       "album": {
+        "name": "Keine Bewegung",
+        "url": "https://open.spotify.com/album/2GJFokVHqeNWRArAnQkpwW"
+      },
+      "artists": [
+        {
+          "name": "Mamor\u00e9",
+          "url": "https://open.spotify.com/artist/2a6Sq96x1AYBfPTFr9js17"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226658,
+      "name": "Keine Bewegung",
+      "url": "https://open.spotify.com/track/50CELGRHg9DlDXIRXjykxt"
+    },
+    {
+      "album": {
         "name": "Keine Maschine",
         "url": "https://open.spotify.com/album/2MMoVor86HKwGJtRxODqS3"
       },
@@ -7854,7 +7966,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 209146,
       "name": "Keine Panik",
       "url": "https://open.spotify.com/track/6LH0YQyj12KPaFTe3PRO1S"
@@ -8450,6 +8562,24 @@
       "duration_ms": 137000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/30903SVcxddVIQG89To0nj"
+    },
+    {
+      "album": {
+        "name": "Little Mug",
+        "url": "https://open.spotify.com/album/39nkA7A6jaWkJ9y5PHfUtb"
+      },
+      "artists": [
+        {
+          "name": "Crow Baby",
+          "url": "https://open.spotify.com/artist/7cBPTTqPfTOtwNwXJ2YFK1"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "Little Mug",
+      "url": "https://open.spotify.com/track/5olVPGwH0AiHkXLMeR5S9o"
     },
     {
       "album": {
@@ -9178,7 +9308,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 152216,
       "name": "Money",
       "url": "https://open.spotify.com/track/1DSv4BWoifizJcHYeYreR3"
@@ -9334,7 +9464,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 161458,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/44goDC3WP1oEtbUJoOR88g"
@@ -9904,6 +10034,28 @@
       "duration_ms": 354800,
       "name": "Noiseless Noise",
       "url": "https://open.spotify.com/track/6bAuq7rBeyX8x0qIbIvHKK"
+    },
+    {
+      "album": {
+        "name": "None Of Us Cannot Be Wrong",
+        "url": "https://open.spotify.com/album/4FWK1aVwTMcScFDVbTHXqG"
+      },
+      "artists": [
+        {
+          "name": "Maria De Val",
+          "url": "https://open.spotify.com/artist/14t4JWt7FQ37GHCl9HZxax"
+        },
+        {
+          "name": "ME + MARIE",
+          "url": "https://open.spotify.com/artist/10F6QWhKms2ET0Ptjdk31k"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180194,
+      "name": "None Of Us Cannot Be Wrong",
+      "url": "https://open.spotify.com/track/1OuQcvuG8ANnmpZmBXuy3R"
     },
     {
       "album": {
@@ -11167,6 +11319,24 @@
     },
     {
       "album": {
+        "name": "Raise My Glass",
+        "url": "https://open.spotify.com/album/4zjijMaqWre5fKBGVlAc6n"
+      },
+      "artists": [
+        {
+          "name": "Joy Bogat",
+          "url": "https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200072,
+      "name": "Raise My Glass",
+      "url": "https://open.spotify.com/track/1x9KbcTkVKr2tMtaeQDK3W"
+    },
+    {
+      "album": {
         "name": "Randomness",
         "url": "https://open.spotify.com/album/3iaOpaP0VB2jwc7GVM3ohO"
       },
@@ -11954,6 +12124,24 @@
       "duration_ms": 175470,
       "name": "Save My Soul",
       "url": "https://open.spotify.com/track/4GEQaWchQApNxs9w2ecROe"
+    },
+    {
+      "album": {
+        "name": "Say!",
+        "url": "https://open.spotify.com/album/272jFpPHVdElSVhApcRapx"
+      },
+      "artists": [
+        {
+          "name": "Post Meridiem",
+          "url": "https://open.spotify.com/artist/4nXTmOzMhTsRt6vNjelLZN"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Say!",
+      "url": "https://open.spotify.com/track/0uLtK2oYlZ1Lhvbe8JuEeB"
     },
     {
       "album": {

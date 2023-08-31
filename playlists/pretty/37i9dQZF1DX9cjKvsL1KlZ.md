@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,868 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,011 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 12 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/7jr6fz888xjUlsAD2tZzKR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:40 |
 | 13 | [Big Drip](https://open.spotify.com/track/3hbZsQXQNbPMBmgI7O0CTv) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [800 BC](https://open.spotify.com/album/2F8sqO6n3U3NO8t1qVLWs0) | 2:48 |
 | 14 | [Leave it at That](https://open.spotify.com/track/2px7QflhWF3UMeMXmtHO6e) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [Leave it at That](https://open.spotify.com/album/5qZE3FDaYGUsjhc9CYzXdl) | 2:36 |
-| 15 | [That's My Bitch](https://open.spotify.com/track/3TJxCXkL774hhGUmzFLUgy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:22 |
+| 15 | [That's My Bitch](https://open.spotify.com/track/1BMzxGds8WSK39p4y432fl) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:22 |
 | 16 | [World In My Hands](https://open.spotify.com/track/2ioIEWGvazLwBfz1OBgpJ3) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [You Made A Big Mistake](https://open.spotify.com/album/2DCU3YNuwMQEJo6mgzK3hK) | 3:14 |
 | 17 | [No Adlibs](https://open.spotify.com/track/03xmi6J5kE6lnr4BfokGBu) | [Wan Billz](https://open.spotify.com/artist/4ptT7PqXaXDwMBZdiOq3ge) | [No Adlibs](https://open.spotify.com/album/1AATPemo63RsvrpQMg24b0) | 2:14 |
 | 18 | [Look Back at It](https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0wdlLb695gFP3CSiUAqxls) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:32 |
 | 50 | [Don't Start Pt\. 2](https://open.spotify.com/track/4J1CPErx9yCZFirUXAxQVp) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [GMTO Vol\. 1 \(Get Money Take Over\)](https://open.spotify.com/album/4UDPZgxZy3VnIFQ8os0G29) | 3:14 |
 
-Snapshot ID: `MCxhNjM4MjBlMGRiNWNlODU2MmEwMjRhN2MzNzAxYzkxNjM0MGY3YzVk`
+Snapshot ID: `MCxiZDIxNDU1ODlkMjY0YWQ3N2Q2Y2ViMzg1MGQ3ZmFkZTcyOGRmMjky`

@@ -4,7 +4,7 @@
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-28 songs - 1 hr 54 min
+29 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Standing in the Headlights](https://open.spotify.com/track/0C4NHwuJdQn6b5SZB0ewUF) | [Eric Strickland & the B Sides](https://open.spotify.com/artist/5ITwDrWvrtMxVRlR10QYFn) | [Honky Tonk Till I Die](https://open.spotify.com/album/7FOBfMubIyN5ywBlQQldth) | 3:32 | 2021-05-06 |  |
 | [That Box](https://open.spotify.com/track/0s77c1ThyBrs35oXKGUUc4) | [Tech N9ne Collabos](https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t), [Big Krizz Kaliko](https://open.spotify.com/artist/0BWaIw0Ns1a7e51l3DminD), [Greed](https://open.spotify.com/artist/0rHMSWop2zjzzy8tDETdui), [Kutt Calhoun](https://open.spotify.com/artist/78nL8LitGR7vO0qp2iZF9E), [Snug Brim](https://open.spotify.com/artist/4qoda7nfDZu2VPP9MWPx2h), [Skatterman](https://open.spotify.com/artist/7j737JHxqSvr0ELJXhHgNq) | [Misery Loves Kompany](https://open.spotify.com/album/6ZQsfsE3X900PjZeomO4VY) | 5:49 | 2021-05-06 |  |
 | [The Ecstasy of Gold \(Live\)](https://open.spotify.com/track/0L5ZW54haCFM84is0UhLjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [S&M2](https://open.spotify.com/album/4vxkHVyS6D66Rwt0mpz0cS) | 2:41 | 2021-05-06 |  |
-| [Wolf Totem](https://open.spotify.com/track/5hISmTJXBXdOes4htbUhGk) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/6YIA45KnCATXRzPFOeA9S8) | 5:38 | 2021-05-06 |  |
+| [Wolf Totem](https://open.spotify.com/track/4YV9G5dIiOBGtWNG6AMRgG) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ) | 5:38 | 2021-10-08 |  |
+| [Wolf Totem](https://open.spotify.com/track/5hISmTJXBXdOes4htbUhGk) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/6YIA45KnCATXRzPFOeA9S8) | 5:38 | 2021-05-06 | 2023-08-31 |
 | [Work Hard](https://open.spotify.com/track/6DSdSwWlQF30DkuRPvBkQn) | [Frankie Paul](https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u) | [Hard Work](https://open.spotify.com/album/7kkZyqCkWIOQs4JHuWFSTg) | 3:40 | 2021-05-06 | 2022-11-12 |
 | [Work Hard](https://open.spotify.com/track/7AxLkHObRt76cLyte1VyGv) | [Frankie Paul](https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u) | [Hard Work](https://open.spotify.com/album/1Z6OZ6k6PkjiOC65QWiiQy) | 3:40 | 2021-10-08 |  |
 

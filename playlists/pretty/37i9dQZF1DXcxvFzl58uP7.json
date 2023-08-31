@@ -1,12 +1,12 @@
 {
   "description": "The coziest rooms produce the most comforting tunes. Cover: Spill Tab ",
-  "num_followers": 1093043,
+  "num_followers": 1093087,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGI2YTVhZGUzYTQxMzQxNmZiNTNhOWNlYjk4MDIyZDZhMTdiNmI4",
+  "snapshot_id": "MCw4ZWE4N2ZlZWY4NzYzNDdlMTJjYjAyMTI2MGRkMzlkMzNjZWNlYmY4",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Saviour Complex",
-        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Saviour Complex",
-      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 193478,
       "name": "July",
       "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/69ULhU2AqPoZXphQpI9h1X"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Lily",
-        "url": "https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W"
-      },
-      "artists": [
-        {
-          "name": "Francisco Martin",
-          "url": "https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE"
-        }
-      ],
-      "duration_ms": 204455,
-      "name": "Lily",
-      "url": "https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
         "name": "an extended play",
@@ -1235,6 +1219,22 @@
       "duration_ms": 298477,
       "name": "seabirds",
       "url": "https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Lily",
+        "url": "https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W"
+      },
+      "artists": [
+        {
+          "name": "Francisco Martin",
+          "url": "https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE"
+        }
+      ],
+      "duration_ms": 204455,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1353,24 +1353,20 @@
       "url": "https://open.spotify.com/track/7n8bTcvJbZbdTxT9aCDNQ4"
     },
     {
-      "added_at": "2023-07-07 18:32:34",
+      "added_at": "2023-04-28 05:06:47",
       "album": {
-        "name": "DUBBLE BUBBLE",
-        "url": "https://open.spotify.com/album/3QJD2R7ZulglwWFICcVTgi"
+        "name": "the way you looked",
+        "url": "https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV"
       },
       "artists": [
         {
-          "name": "Zack Villere",
-          "url": "https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh"
-        },
-        {
-          "name": "454",
-          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
         }
       ],
-      "duration_ms": 226295,
-      "name": "DUBBLE BUBBLE",
-      "url": "https://open.spotify.com/track/3QVYo25Sctw3gCNQTQ1iu5"
+      "duration_ms": 287274,
+      "name": "the way you looked",
+      "url": "https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1405,20 +1401,24 @@
       "url": "https://open.spotify.com/track/0lxFZBVq0k071RSSl4oCJa"
     },
     {
-      "added_at": "2023-04-28 05:06:47",
+      "added_at": "2023-07-07 18:32:34",
       "album": {
-        "name": "the way you looked",
-        "url": "https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV"
+        "name": "DUBBLE BUBBLE",
+        "url": "https://open.spotify.com/album/3QJD2R7ZulglwWFICcVTgi"
       },
       "artists": [
         {
-          "name": "juno roome",
-          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+          "name": "Zack Villere",
+          "url": "https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh"
+        },
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
         }
       ],
-      "duration_ms": 287274,
-      "name": "the way you looked",
-      "url": "https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA"
+      "duration_ms": 226295,
+      "name": "DUBBLE BUBBLE",
+      "url": "https://open.spotify.com/track/3QVYo25Sctw3gCNQTQ1iu5"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1435,22 +1435,6 @@
       "duration_ms": 225123,
       "name": "i'm yours",
       "url": "https://open.spotify.com/track/5zQsdone0i50L5BbjmrrBU"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Rosie",
-        "url": "https://open.spotify.com/album/3GJ9haDGL5iCKfeHdjG00C"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 200411,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/7EKWWTPclVRF5iQatYe5Zz"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1485,6 +1469,54 @@
       "url": "https://open.spotify.com/track/7pFeq7Itvy8BM68NIu5VUZ"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Rosie",
+        "url": "https://open.spotify.com/album/3GJ9haDGL5iCKfeHdjG00C"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/7EKWWTPclVRF5iQatYe5Zz"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "it's not feeling good anymore",
+        "url": "https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 145549,
+      "name": "it's not feeling good anymore",
+      "url": "https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "baggage",
+        "url": "https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE"
+      },
+      "artists": [
+        {
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "baggage",
+      "url": "https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "50/50",
@@ -1515,22 +1547,6 @@
       "duration_ms": 223266,
       "name": "Coffee's on Me",
       "url": "https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "baggage",
-        "url": "https://open.spotify.com/album/2YyXh7wZTETiXZankSIYWE"
-      },
-      "artists": [
-        {
-          "name": "Current Blue",
-          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "baggage",
-      "url": "https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1597,36 +1613,28 @@
       "url": "https://open.spotify.com/track/22lOyosVUdyq7X0P7rzbWy"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "it's not feeling good anymore",
-        "url": "https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 145549,
-      "name": "it's not feeling good anymore",
-      "url": "https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Floating Sun",
-        "url": "https://open.spotify.com/album/6zHqfxThvhCt7dV0xdgnmb"
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS"
       },
       "artists": [
         {
-          "name": "Froogle",
-          "url": "https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso"
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        },
+        {
+          "name": "Lhasa Petik",
+          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
+        },
+        {
+          "name": "Towerz",
+          "url": "https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG"
         }
       ],
-      "duration_ms": 146823,
-      "name": "Floating Sun",
-      "url": "https://open.spotify.com/track/3t0xEA4jxxiDNdUOo2Ri7x"
+      "duration_ms": 173856,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6"
     }
   ],
   "unique_name": "Bedroom Pop",

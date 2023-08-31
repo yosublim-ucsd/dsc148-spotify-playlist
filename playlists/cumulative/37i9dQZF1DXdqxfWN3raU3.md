@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B hecho en español\. Noa Sainz y Nsqk en portada.
 
-270 songs - 14 hr 19 min
+271 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [CL€AN¡](https://open.spotify.com/track/0DTVUW8PXSYFUUQpdn8FnH) | [Astrid Canales](https://open.spotify.com/artist/6G9WeQxcyitRK6pQ5WboQD) | [CL€AN¡](https://open.spotify.com/album/3ZpMamW5ItEBKIVZIVF88J) | 3:12 | 2023-06-02 | 2023-06-10 |
 | [COLOGNE](https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:45 | 2022-11-24 | 2023-03-10 |
 | [como te va?](https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [como te va?](https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V) | 2:34 | 2023-05-12 |  |
-| [Completa](https://open.spotify.com/track/56UwPuOsLHYgb0c04tNY3h) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Emi Muñiz](https://open.spotify.com/artist/19NZ579epNEbAxEuUlDUUj) | [Completa](https://open.spotify.com/album/6UeQLxvjp6AqO6whrw5Lyc) | 3:21 | 2023-07-14 |  |
+| [Completa](https://open.spotify.com/track/56UwPuOsLHYgb0c04tNY3h) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Emi Muñiz](https://open.spotify.com/artist/19NZ579epNEbAxEuUlDUUj) | [Completa](https://open.spotify.com/album/6UeQLxvjp6AqO6whrw5Lyc) | 3:21 | 2023-07-14 | 2023-08-31 |
 | [Corre Que Se Quema](https://open.spotify.com/track/36aP83QLSwTi1yqDZouAbb) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Corre Que Se Quema](https://open.spotify.com/album/5d3vxGM2GMWOYaWXz3IQVd) | 3:15 | 2021-12-13 | 2022-01-11 |
 | [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 | 2023-04-14 |  |
 | [CREEL](https://open.spotify.com/track/21dgLlkmrWomLtXJHizLFO) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [CREEL](https://open.spotify.com/album/1dWkvKX5alMZDEGcBpS9IM) | 2:33 | 2023-08-04 |  |
@@ -190,6 +190,7 @@
 | [No Voy a Dudar](https://open.spotify.com/track/2J6OGTVgvgipKATyti8QrL) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Karloz](https://open.spotify.com/artist/1K1pt9uJfTMyJYaoiz1fdJ), [Franz Mesko](https://open.spotify.com/artist/1wMmRP78FDRAIV0eehnlXS) | [Sigma](https://open.spotify.com/album/5pKjEUByReFjFH8vwiQNgb) | 2:27 | 2022-04-25 | 2023-01-27 |
 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-16 | 2023-06-24 |
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-09 | 2023-04-09 |
+| [Nébula](https://open.spotify.com/track/36DtAUpzBLwsjsBZxLJAfc) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Nébula](https://open.spotify.com/album/7k1iOpE7ZFoRVuzA5H7jFq) | 2:30 | 2023-08-04 |  |
 | [Nébula](https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Nébula](https://open.spotify.com/album/1ZZwFyP0WM5IphedsSgS44) | 2:30 | 2022-05-12 | 2023-07-01 |
 | [Odiame o Quiereme](https://open.spotify.com/track/1rLwwHaXkZUOBQU1vd2pPt) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Odiame o Quiereme](https://open.spotify.com/album/0cMIt86ttp5wqaYlhlk83N) | 4:34 | 2021-12-13 | 2023-01-21 |
 | [Olvídate de mi](https://open.spotify.com/track/1FDTx9qFA8I5d7VsQdXNC3) | [Jv01](https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Olvídate de mi](https://open.spotify.com/album/02U5XvAvtLyA3YgDMoRwI2) | 3:48 | 2023-06-30 | 2023-07-26 |

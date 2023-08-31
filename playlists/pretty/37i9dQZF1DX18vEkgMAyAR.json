@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 61005,
+  "num_followers": 61031,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2MwNmE5YWM0ZjVmNzFmMTY0ZDhjZWI1NjczMDc0OTFjNzg5NTVj",
+  "snapshot_id": "MCxhMzczNzQ3YzEzY2U3MmZkOTY4MzNlYjIzNWRhNzkwOTZkMDc4MmQx",
   "tracks": [
     {
       "added_at": "2023-04-21 11:39:07",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "\u2018Til I Found You (Montmartre Remix)",
-        "url": "https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn"
+        "name": "\u2018Til I Found You",
+        "url": "https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE"
       },
       "artists": [
         {
           "name": "Jeremy Loops",
           "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        },
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
         }
       ],
-      "duration_ms": 166906,
-      "name": "'Til I Found You - Montmartre Remix",
-      "url": "https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp"
+      "duration_ms": 172182,
+      "name": "'Til I Found You",
+      "url": "https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo"
     },
     {
       "added_at": "2023-04-21 11:39:07",

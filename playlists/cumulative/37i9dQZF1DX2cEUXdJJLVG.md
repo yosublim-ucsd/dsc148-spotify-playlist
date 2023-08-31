@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-266 songs - 16 hr 4 min
+267 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Face Me](https://open.spotify.com/track/2w0iO1KhpyaFL1dhwot8Ac) | [Tim Wes](https://open.spotify.com/artist/3a4fZr4yelBfPivBYeM73T) | [Pink Dolls Blue Trucks](https://open.spotify.com/album/1GW4Z3JSzV8xATOvm4n3tr) | 2:20 | 2022-09-09 |  |
 | [Fascination \- La Felix Remix](https://open.spotify.com/track/101rfMOaDybX3vBEBCu7BG) | [Reggie Got Beats](https://open.spotify.com/artist/23tus21ldeakyJwF2NMRhQ), [Vebjørn Mamen](https://open.spotify.com/artist/1DrjCiWLznLFQnsPie6fBX), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Fascination \(La Felix Remix\)](https://open.spotify.com/album/1WAH4gGgj4C9hJ5qbssEcE) | 4:07 | 2022-09-09 | 2022-10-15 |
 | [Fearless](https://open.spotify.com/track/4gwDxpAtGNezq7u3BXdMmS) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [Fearless](https://open.spotify.com/album/6F62edIK4IsvQ2k0ttPCC4) | 4:58 | 2022-09-15 |  |
+| [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-08-30 |  |
 | [Feelings Mutual?](https://open.spotify.com/track/7J1Zusa5GedbeBAtGrvFoC) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Feelings Mutual?](https://open.spotify.com/album/1X8csoHCSCdhiM37VtKGM6) | 3:09 | 2022-09-09 |  |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-09-09 |  |
 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 |  |

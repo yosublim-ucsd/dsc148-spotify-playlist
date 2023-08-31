@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 
 > Mental strength begins here—Dwayne Johnson’s Iron Paradise Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,920 likes - 25 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,934 likes - 25 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 9 | [The Ecstasy of Gold \(Live\)](https://open.spotify.com/track/0L5ZW54haCFM84is0UhLjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [S&M2](https://open.spotify.com/album/4vxkHVyS6D66Rwt0mpz0cS) | 2:41 |
 | 10 | [Standing in the Headlights](https://open.spotify.com/track/0C4NHwuJdQn6b5SZB0ewUF) | [Eric Strickland & the B Sides](https://open.spotify.com/artist/5ITwDrWvrtMxVRlR10QYFn) | [Honky Tonk Till I Die](https://open.spotify.com/album/7FOBfMubIyN5ywBlQQldth) | 3:32 |
 | 11 | [Life by the Drop](https://open.spotify.com/track/4baw6m9OhZ1W8fPqWinZ3L) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 2:27 |
-| 12 | [Wolf Totem](https://open.spotify.com/track/5hISmTJXBXdOes4htbUhGk) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/6YIA45KnCATXRzPFOeA9S8) | 5:38 |
+| 12 | [Wolf Totem](https://open.spotify.com/track/4YV9G5dIiOBGtWNG6AMRgG) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Gereg](https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ) | 5:38 |
 | 13 | [No More Pain](https://open.spotify.com/track/7xeh81c3bxTgqUgy2WN56u) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 6:14 |
 | 14 | [POP STAR \(feat\. Kevin Gates\)](https://open.spotify.com/track/2TsD9kSbgYx5fSNRsoNURE) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 3:03 |
 | 15 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdGxYPVUKPf.md) - [plain]
 | 24 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 |
 | 25 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
 
-Snapshot ID: `MCwxNzc2ZmViNmRiYzU0YjQ0NmVhMDc2NWJhNDJmZTdmMjJmNGYyMjk0`
+Snapshot ID: `MCw5NzJlOTlhYzg5OTE4NWI3ZmRlMzRhYWQ5ZjI2NWU5OTRhYTNkZTU3`

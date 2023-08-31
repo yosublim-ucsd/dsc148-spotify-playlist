@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> Groove to the rhythm of OPM's R&B tunes\. Cover: DĖMI
+> Groove to the rhythm of OPM's R&B tunes\. Cover: DENȲ
 
-140 songs - 8 hr 18 min
+141 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Kailangan](https://open.spotify.com/track/6T4S0dtryTeI5TOqhTYWHP) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Kailangan](https://open.spotify.com/album/6x8VAVkEo2VlH4ATAFhKgl) | 3:01 | 2023-07-18 |  |
 | [Kailangan ko ng…](https://open.spotify.com/track/3adl1iFtTa7KU31A7s1DtR) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [Kailangan ko ng…](https://open.spotify.com/album/4vSgXSM5OqxanzpJQqhFET) | 3:45 | 2022-10-12 | 2023-07-29 |
 | [Katabi](https://open.spotify.com/track/3Ey3JBGEBcGFc7zbnSZwji) | [a.v.d.i](https://open.spotify.com/artist/5PWqgLVse2O4ANi7UDk3nV) | [Katabi](https://open.spotify.com/album/2HfhCh4lth0Z4tjZv7iqI2) | 3:44 | 2022-10-12 | 2023-07-29 |
-| [Kulang](https://open.spotify.com/track/6uGRcwf0z3FV9CGC5jOrxX) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kulang](https://open.spotify.com/album/43yikgeYnQWXUzMfqN4j9i) | 4:00 | 2022-12-14 |  |
+| [Kulang](https://open.spotify.com/track/6uGRcwf0z3FV9CGC5jOrxX) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kulang](https://open.spotify.com/album/43yikgeYnQWXUzMfqN4j9i) | 4:00 | 2022-12-14 | 2023-08-31 |
 | [Kusa](https://open.spotify.com/track/58V8gsbmm9RxVeCzbn9Tbz) | [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Kusa](https://open.spotify.com/album/6qhqfpUcoJiYusxKWOTWI7) | 2:20 | 2023-04-06 |  |
 | [Labis](https://open.spotify.com/track/3sDoNhKtVJvUnkZMK51MAN) | [Ichan](https://open.spotify.com/artist/3U65jtJ0G4RudAEsuanoQA), [Lee](https://open.spotify.com/artist/3eQtpy0MqPUf6GNDIIut3T) | [Labis](https://open.spotify.com/album/05vUTwC0R27PEPwj91rZE3) | 4:17 | 2022-10-12 | 2023-05-18 |
 | [Lalayo O Tatabi](https://open.spotify.com/track/6Mxh4RBf3BA3hNzaqHseqR) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Lalayo O Tatabi](https://open.spotify.com/album/1103FsKVzZZnObhDt0cHLn) | 2:31 | 2023-08-03 |  |
@@ -125,6 +125,7 @@
 | [Sa Iyo \- Diwata](https://open.spotify.com/track/4jqKGlGuRDxV1Eyah6Brw3) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Sa Iyo \(Diwata\)](https://open.spotify.com/album/0AsdvGRMxu6mbVzGHgb7jy) | 4:12 | 2022-10-12 | 2023-07-29 |
 | [Sabik](https://open.spotify.com/track/0NCkmYgdIkUd3iimgMHtfB) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Liwanag](https://open.spotify.com/album/3TvO2eqaYYjgzackJSY5rX) | 3:29 | 2022-10-12 | 2023-07-29 |
 | [SABLAY](https://open.spotify.com/track/2ch6UhuJXbSTIpFBZgsU66) | [No Boys Please](https://open.spotify.com/artist/457xF0tijqFkLW4d4hxqrC) | [SABLAY](https://open.spotify.com/album/7cKaus2PC0X7Rp1zY3p83M) | 3:49 | 2023-02-23 | 2023-07-29 |
+| [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 | 2023-08-30 |  |
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-07-28 |  |
 | [self talk](https://open.spotify.com/track/3h83G3DtJTNxYZrnvrEK2z) | [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [self talk](https://open.spotify.com/album/0pXuT6nfO7jEPaG90OjBht) | 2:01 | 2022-10-12 | 2023-05-03 |
 | [Sigurado](https://open.spotify.com/track/4RuwsMJHRsB4gIzLBnnjqo) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5) | [Sigurado](https://open.spotify.com/album/28TgQT58FujmQoZ796M4Ma) | 3:32 | 2023-08-16 |  |

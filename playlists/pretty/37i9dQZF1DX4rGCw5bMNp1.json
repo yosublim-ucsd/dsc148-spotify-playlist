@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 130924,
+  "num_followers": 130973,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTdkNjA4MjgxZGFlMDNmZjJjM2RlMWY4Y2VkMjNmYjNhZTVjMmYy",
+  "snapshot_id": "MCw5ZTEyYzcwMzIxYmFjYWFmZmU5OGNlN2FiOWIxMTc2ZDJlNzg2YjFi",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
     },
     {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
-    },
-    {
       "added_at": "2018-02-27 18:08:29",
       "album": {
         "name": "Blowin' Like Hell",
@@ -359,6 +343,22 @@
       "duration_ms": 345666,
       "name": "Lonesome Bedroom Blues",
       "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -707,22 +707,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "When The Blues Hit You",
-        "url": "https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331"
-      },
-      "artists": [
-        {
-          "name": "Lester Davenport",
-          "url": "https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF"
-        }
-      ],
-      "duration_ms": 358200,
-      "name": "Slow Down Baby",
-      "url": "https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Change My Blues",
         "url": "https://open.spotify.com/album/6U3s4tNpNDKygphGvQnmye"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 288880,
       "name": "Night Life",
       "url": "https://open.spotify.com/track/6tbhUMSYaqy5Enl0XDkJkO"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "When The Blues Hit You",
+        "url": "https://open.spotify.com/album/6rxjk3V22DyOH6nTNcd331"
+      },
+      "artists": [
+        {
+          "name": "Lester Davenport",
+          "url": "https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF"
+        }
+      ],
+      "duration_ms": 358200,
+      "name": "Slow Down Baby",
+      "url": "https://open.spotify.com/track/3hEqk9Uh4SBj0TZLcwxixB"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -759,22 +759,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Blues Legend",
-        "url": "https://open.spotify.com/album/7KXkrjLNQwj33DTXrVVCtJ"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 171985,
-      "name": "Cut That Out",
-      "url": "https://open.spotify.com/track/7ettn7nIUjM7Koqh7WwOaF"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Earl Hooker: Simply The Best",
         "url": "https://open.spotify.com/album/0TGgq70vAHg6mvS51TjYKH"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 298200,
       "name": "Farther Up The Road",
       "url": "https://open.spotify.com/track/0NqQU0BPlVb8HMNmcHnQPD"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Blues Legend",
+        "url": "https://open.spotify.com/album/7KXkrjLNQwj33DTXrVVCtJ"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 171985,
+      "name": "Cut That Out",
+      "url": "https://open.spotify.com/track/7ettn7nIUjM7Koqh7WwOaF"
     },
     {
       "added_at": "2018-02-27 18:08:29",

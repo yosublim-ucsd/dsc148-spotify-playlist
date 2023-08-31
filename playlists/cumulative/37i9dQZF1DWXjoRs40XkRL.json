@@ -173,6 +173,36 @@
     },
     {
       "album": {
+        "name": "Aja Sawariya (Remix)",
+        "url": "https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf"
+      },
+      "artists": [
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        },
+        {
+          "name": "Gurbax",
+          "url": "https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "The Spindoctor",
+          "url": "https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Aja Sawariya - Remix",
+      "url": "https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM"
+    },
+    {
+      "album": {
         "name": "Albela",
         "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
       },
@@ -3584,7 +3614,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 649360,
       "name": "The Search",
       "url": "https://open.spotify.com/track/6voH23DtEAO7RPtSm3JRTm"

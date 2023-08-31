@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 192719,
+  "num_followers": 193291,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGVmZjdiZGE3MjRkYmUzZTYwMWY5MTQ5YTBiODkyOWE0ZjdjMGQx",
+  "snapshot_id": "MCw2YjBlOGZjMjNlZTlkYTQ4ZTkzOTUxNWRiMjJhODI1Y2VlNGQ4YjY3",
   "tracks": [
     {
       "added_at": "2023-08-24 22:01:00",
@@ -22,6 +22,10 @@
         {
           "name": "Sparrow & Barbossa",
           "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
         }
       ],
       "duration_ms": 381322,
@@ -968,7 +972,7 @@
       "added_at": "2023-08-24 22:01:00",
       "album": {
         "name": "Fort Bellefleur",
-        "url": "https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH"
+        "url": "https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF"
       },
       "artists": [
         {
@@ -977,8 +981,8 @@
         }
       ],
       "duration_ms": 487752,
-      "name": "When U Came into My Life",
-      "url": "https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT"
+      "name": "When U Came Into My Life",
+      "url": "https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ"
     },
     {
       "added_at": "2023-08-24 22:01:00",

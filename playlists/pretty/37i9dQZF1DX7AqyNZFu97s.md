@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Jianbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,959 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,996 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 12 | [On The Internet](https://open.spotify.com/track/0JGFEJFVfBqJrlHL3tjKwj) | [Midé](https://open.spotify.com/artist/1G7hgFTdqcExPWkc9FmYrg) | [On The Internet](https://open.spotify.com/album/6CZzKQq3ylQv7idQOrrdqg) | 3:32 |
 | 13 | [Saturday](https://open.spotify.com/track/1pKKk3iHUA1ZeNbXyjF86a) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Saturday](https://open.spotify.com/album/2P8C75kv0y8CzGcRPFNjtc) | 2:48 |
 | 14 | [All of the Pretty Things](https://open.spotify.com/track/4G56BCrGXiYR1FcpA0GlWm) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [All of the Pretty Things](https://open.spotify.com/album/2srh2Ibr5zWFKxiqCGm89Z) | 4:00 |
-| 15 | [Cherry cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
+| 15 | [Cherry Cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry Cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
 | 16 | [Two’s a Crowd](https://open.spotify.com/track/4MPnyc7iCEOq7l2KFnIe9n) | [Cartwright](https://open.spotify.com/artist/3ZgEf1qY1T2Ik1MhUvCanM) | [Two’s a Crowd](https://open.spotify.com/album/1IzgRGFFb3pluws2rDEBuy) | 3:08 |
 | 17 | [Adrenaline](https://open.spotify.com/track/7s4VhBKX9tnGOOefeTc5vF) | [Matilda Shakes](https://open.spotify.com/artist/129mbD4ax2n7S6xFPmN9Fi) | [Adrenaline](https://open.spotify.com/album/6PJR089PZLN1iIrwbZ5KqL) | 2:47 |
 | 18 | [Fires](https://open.spotify.com/track/7gVvF5s1HGNTXXqFCBMxTo) | [KAELI](https://open.spotify.com/artist/5HTzeU6fX2Q7SibvmGz1c6) | [Fires](https://open.spotify.com/album/3NtFX8thj4sej954QvZWlC) | 4:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Spill the Tea](https://open.spotify.com/track/6o4BnNLndQTte5dBB0IM0T) | [Bareface](https://open.spotify.com/artist/3szOHasfEbgVJ0CnmugcyS) | [Spill the Tea](https://open.spotify.com/album/0LzQUFYZDcqjcnINUJI6ZX) | 3:24 |
 | 80 | [Green Light](https://open.spotify.com/track/3pK8YjdB2827WRRvEAEUgC) | [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL) | [Green Light](https://open.spotify.com/album/3kH2nsB9EnNFOi3AScxR5I) | 2:13 |
 
-Snapshot ID: `MCxlMDJjOTUxYTVmMDM4MzY1OTM1YmNhYmU0OWFhNDhjZTcyNzk5NDI2`
+Snapshot ID: `MCw1MzQxZjI0ZjBiMjUwODQ3NmZlZTI2Mzg5MTBkZWE3YzAyYTZhZmVl`

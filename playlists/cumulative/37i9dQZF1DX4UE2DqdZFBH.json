@@ -163,6 +163,24 @@
     },
     {
       "album": {
+        "name": "Arabic Crown BGM",
+        "url": "https://open.spotify.com/album/3ca4uNqIIyobiFiG9mWWTf"
+      },
+      "artists": [
+        {
+          "name": "Allan Preetham",
+          "url": "https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113842,
+      "name": "Arabic Crown BGM",
+      "url": "https://open.spotify.com/track/7sjWSMqVTtp64OyWQP6mHy"
+    },
+    {
+      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTU1NTIwZWUxYzA1NGYzZWVjMzBiMDdmOTg5NGQyYjM4MmU3M2Vl",
+  "snapshot_id": "MCw1YjBjMTM2Njg5MjJjMDk1Y2JlZWY5NTQ4NWEyZGVkZWFmZTQ4MDc1",
   "tracks": [
     {
       "added_at": "2022-12-20 15:48:25",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc (Birthday Ver.)",
-        "url": "https://open.spotify.com/album/3FqqdgpB5is8oIgNPtd253"
-      },
-      "artists": [
-        {
-          "name": "\u308b\u3045\u3068",
-          "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc - Birthday Ver.",
-      "url": "https://open.spotify.com/track/281eQz1w4dcWgaPWTU93a5"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u50d5\u306f\u96e8\u306b\u6fe1\u308c\u305f",
         "url": "https://open.spotify.com/album/7i1aLkKF1UPJBCG85DpKqH"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 150426,
       "name": "\u30a2\u30a4\u30c7\u30a3\u30fc",
       "url": "https://open.spotify.com/track/4ugz2sWaFEpueOjHAMR0jR"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc (Birthday Ver.)",
+        "url": "https://open.spotify.com/album/3FqqdgpB5is8oIgNPtd253"
+      },
+      "artists": [
+        {
+          "name": "\u308b\u3045\u3068",
+          "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc - Birthday Ver.",
+      "url": "https://open.spotify.com/track/281eQz1w4dcWgaPWTU93a5"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3059\u305f\u30fc\u3068",
-        "url": "https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "\u306f\u308a\u30fc\u306f\u308a\u30fc\u3089\u3076",
-      "url": "https://open.spotify.com/track/1TxIOOB16wgtqlZCzAHgpC"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3089\u3076\u3063\uff01",
         "url": "https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 241746,
       "name": "\u50d5\u3089\u3060\u3051\u306e\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9",
       "url": "https://open.spotify.com/track/5MBOUl4Cbn1YhdU135mjxO"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3059\u305f\u30fc\u3068",
+        "url": "https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "\u306f\u308a\u30fc\u306f\u308a\u30fc\u3089\u3076",
+      "url": "https://open.spotify.com/track/1TxIOOB16wgtqlZCzAHgpC"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "\u72ac\u7cfb\u7537\u5b50\u7559\u5b88\u756a\u4e2d",
-      "url": "https://open.spotify.com/track/3mHxAkv73HkKcFCxRKHKOx"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u306d\u304f\u3059\u3068\u3063\uff01",
         "url": "https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 289453,
       "name": "Next Stage!!",
       "url": "https://open.spotify.com/track/4CTuceahOjQhaEYFtCIciE"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "\u72ac\u7cfb\u7537\u5b50\u7559\u5b88\u756a\u4e2d",
+      "url": "https://open.spotify.com/track/3mHxAkv73HkKcFCxRKHKOx"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "\u5e0c\u671b\u306e\u30c1\u30e5\u30fc\u3057\u3088\u3063",
-      "url": "https://open.spotify.com/track/13itvOxVMK2kmSTc3RQKu0"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u306d\u304f\u3059\u3068\u3063\uff01",
         "url": "https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 281920,
       "name": "\u30a2\u30e2\u30fc\u30ec\u30fb\u30df\u30aa",
       "url": "https://open.spotify.com/track/2eKA779bIfY6nzcDfsoyBd"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "\u5e0c\u671b\u306e\u30c1\u30e5\u30fc\u3057\u3088\u3063",
+      "url": "https://open.spotify.com/track/13itvOxVMK2kmSTc3RQKu0"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc\uff01",
-      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u306d\u304f\u3059\u3068\u3063\uff01",
         "url": "https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 185760,
       "name": "\u6eb6\u89e3\u30a6\u30a9\u30c3\u30c1",
       "url": "https://open.spotify.com/track/1Ar4PDbZHNT2LckPNLgpGo"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc\uff01",
+      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
     },
     {
       "added_at": "2022-12-20 15:48:25",

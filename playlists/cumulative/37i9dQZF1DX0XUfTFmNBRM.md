@@ -2,9 +2,9 @@
 
 ### [Hot Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here\. Cover \- Rocky Aur Rani Kii Prem Kahaani
+> Hottest Hindi music served here\. Cover \- Jawan
 
-277 songs - 18 hr 33 min
+278 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,11 +42,12 @@
 | [Bhula Dunga](https://open.spotify.com/track/7pmY8QjqZP8GRV6qBRpheu) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Bhula Dunga](https://open.spotify.com/album/4DcFYtjt3WdLqZtBbCk3wa) | 3:17 | 2021-01-25\* | 2021-10-23 |
 | [BurjKhalifa \(From "Laxmii"\)](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [Shashi](https://open.spotify.com/artist/5EXIQQjCaCnRPJ68SxYURB), [DJ Khushi](https://open.spotify.com/artist/6xElGyunMSlnuJ2vabDUWA), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Madhubanti](https://open.spotify.com/artist/4x4Q6d60hC0ZuLloMeCLoS) | [BurjKhalifa \(From "Laxmii"\)](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 3:07 | 2021-01-25\* | 2021-12-08 |
 | [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 | 2023-07-05 | 2023-07-17 |
-| [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 | 2023-07-05 |  |
+| [Bye](https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8) | 2:54 | 2023-07-05 | 2023-08-31 |
 | [Care Ni Karda](https://open.spotify.com/track/04ozdnFWUpW7L1VJl3yTQQ) | [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Chhalaang](https://open.spotify.com/album/2iDf7ItgmdUJbErUMz1CLM) | 3:12 | 2021-01-25\* | 2021-11-09 |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-02-28 |  |
 | [Chaka Chak \(From "Atrangi Re"\)](https://open.spotify.com/track/5pbOpE6CfRgGnPPZJSDfME) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Chaka Chak \(From "Atrangi Re"\)](https://open.spotify.com/album/7bpePuWB0HBjVcosNkaVWd) | 4:29 | 2021-12-04 | 2022-12-20 |
 | [Chal Ghar Chalen \(From "Malang \- Unleash The Madness"\) \[Mithoon feat\. Arijit Singh\]](https://open.spotify.com/track/2U0BLmYoSESYOdwMxW2yA9) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chal Ghar Chalen \(From "Malang \- Unleash The Madness"\) \[Mithoon feat\. Arijit Singh\]](https://open.spotify.com/album/5SipVGOTd69oEJb3W84HYd) | 5:40 | 2021-01-25\* | 2021-10-24 |
+| [Chale Jaana Phir \(Humko Tere Bina\)](https://open.spotify.com/track/04ChFQZCKl2yRcvc0VR7qN) | [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Chale Jaana Phir \(Humko Tere Bina\)](https://open.spotify.com/album/7Co0Nyse7oM3Us1KCulBpn) | 3:28 | 2023-08-30 |  |
 | [Chaleya \(From "Jawan"\)](https://open.spotify.com/track/4nc6XiUze2Yh7wFueGOPv7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Chaleya \(From "Jawan"\)](https://open.spotify.com/album/7zAITOBN6eG4UBm4IapAik) | 3:20 | 2023-08-21 |  |
 | [Character Dheela 2.0 \(From "Shehzada"\)](https://open.spotify.com/track/0QT9B8Yfrz0vi66oXMrKJg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4), [Ashish Pandit](https://open.spotify.com/artist/03veJpSIc7GAx0mPLcskjI) | [Character Dheela 2.0 \(From "Shehzada"\)](https://open.spotify.com/album/4e4MkpVHb3EZKjBVxNoFQj) | 2:37 | 2023-02-15 |  |
 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 | 2021-02-11 | 2021-10-05 |

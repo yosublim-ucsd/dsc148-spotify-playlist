@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0xWkMSvVSUq5WvvijluVNW">2Shoes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,857 likes - 48 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,929 likes - 48 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 2 | [Possessed](https://open.spotify.com/track/1DcNtYSP4pTARn2tYGJmv9) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Possessed](https://open.spotify.com/album/0x834cvJwd2lSbQ3Fa4a9I) | 6:32 |
 | 3 | [Waves](https://open.spotify.com/track/3OscqkhDRo7AixWCMzLVQg) | [2Shoes](https://open.spotify.com/artist/0xWkMSvVSUq5WvvijluVNW) | [The Real African Summer \(Volume 1\)](https://open.spotify.com/album/7IctWKhli9RLmZcMMf0rNe) | 4:20 |
 | 4 | [Umhle \(Lebzin & Dr Feel AfroSoul Remix\) \- Radio Edit](https://open.spotify.com/track/5N0Uukn963YBASMXuCL26q) | [Semitone](https://open.spotify.com/artist/4sNX911AuXLrqMUP1IpPtz), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY), [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Umhle \(Lebzin & Dr Feel AfroSoul Remix\)](https://open.spotify.com/album/2KzQQVMOyvct2rpZIVDx4C) | 4:29 |
-| 5 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
+| 5 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
 | 6 | [December](https://open.spotify.com/track/0boqQgW7g8MBJuWJznREYq) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Nomakhosini](https://open.spotify.com/artist/2KroEihE6rLeggqXnVHRgl), [Siph3](https://open.spotify.com/artist/75e0THMOTFQIx7tcHoq4go), [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc) | [December](https://open.spotify.com/album/6pkVIkVlOcg62zNckOzhai) | 5:19 |
 | 7 | [Ngibambe \- Jayda G Remix](https://open.spotify.com/track/73FtRvqWb77kuYk40DYNNS) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [Gaba Cannal](https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Ngibambe \(Jayda G Remix\)](https://open.spotify.com/album/2o0QaLNDnvx7Zoe9erwOzp) | 3:34 |
 | 8 | [African Prayer \- Radio Edit](https://open.spotify.com/track/3OC5eq62b3qYY64XxzYqAZ) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [OX Sounds](https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy) | [African Prayer \(Radio Edit\)](https://open.spotify.com/album/7qTpMSJoBybyDga1uJ8Cuy) | 3:51 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 47 | [Indlela](https://open.spotify.com/track/20biXVfOt8Fm1Mxo123d5c) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Indlela](https://open.spotify.com/album/4SHct7kn98G7DW5KanqFO2) | 6:08 |
 | 48 | [Inkumbulo](https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Inkumbulo](https://open.spotify.com/album/2edkP9y6Fy7PbkQiXGlbWt) | 5:22 |
 
-Snapshot ID: `MCw0NjgyMjNmMTBjNjNhNzBkNzYxZTY1MjRjZDE1OWMwNmVmYWIwOTQy`
+Snapshot ID: `MCwxZTcwNjcxYzYwZGEzMTgzZDVmZjM0MjgxNTM3MzVhYTFlYjg2NDE1`

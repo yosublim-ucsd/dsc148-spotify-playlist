@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 149 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 441 likes - 149 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,9 +127,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 117 | [Z4 \(Z4\)](https://open.spotify.com/track/7IIBCmGzZRbbu9j4PsZvBO) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:07 |
 | 118 | [La Llovizna](https://open.spotify.com/track/4kaAnwEEPtruQuOrrDUh7V) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:24 |
 | 119 | [Más Que Tu Dinero](https://open.spotify.com/track/6mmbhl3Kk4G5rBhEPjYDc5) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Ya Terminé](https://open.spotify.com/album/42c96MawCtXwnoVpBRbvK9) | 3:21 |
-| 120 | [En Exclusiva \- Remix](https://open.spotify.com/track/4vSMpEwHZPX542mhWAvx6o) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Mr\. Sonic](https://open.spotify.com/artist/4dhJ3zznY2Toxn7EZHM6kX) | [En Exclusiva \(Remix\)](https://open.spotify.com/album/0LFBZUCoxIPN6T8imqKXZL) | 3:36 |
-| 121 | [Todo lo que tengo](https://open.spotify.com/track/1eGO7bb7HcfyTCtdfXz7vR) | [Alejandro Montaner](https://open.spotify.com/artist/0dZlVKiQoLq5mAoAHpxNXb) | [Todo lo que tengo](https://open.spotify.com/album/2xurHZmgn9cUY10aTHmrkR) | 4:39 |
-| 122 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
+| 120 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
+| 121 | [En Exclusiva \- Remix](https://open.spotify.com/track/4vSMpEwHZPX542mhWAvx6o) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Mr\. Sonic](https://open.spotify.com/artist/4dhJ3zznY2Toxn7EZHM6kX) | [En Exclusiva \(Remix\)](https://open.spotify.com/album/0LFBZUCoxIPN6T8imqKXZL) | 3:36 |
+| 122 | [Todo lo que tengo](https://open.spotify.com/track/1eGO7bb7HcfyTCtdfXz7vR) | [Alejandro Montaner](https://open.spotify.com/artist/0dZlVKiQoLq5mAoAHpxNXb) | [Todo lo que tengo](https://open.spotify.com/album/2xurHZmgn9cUY10aTHmrkR) | 4:39 |
 | 123 | [Mejor Con Ella](https://open.spotify.com/track/42ABF5T4ARHBKOf5MNLN0u) | [Aarón Emanuel](https://open.spotify.com/artist/0BD7DTOU04QLbX5bmRY1ZK) | [Espectacular](https://open.spotify.com/album/4MBaCsoX2HKPr9ERbTylJb) | 4:08 |
 | 124 | [Amigo \(Amigo\)](https://open.spotify.com/track/3izyCk5xCDVVxp4Mq0qJeq) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:58 |
 | 125 | [Till Next Time](https://open.spotify.com/track/6zsfUtgk38IjKZcg8ujrdO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Até Logo / Hasta Luego / Till Next Time](https://open.spotify.com/album/6fnRq3GngeFEZiKr25Rp7j) | 3:55 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 148 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 149 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 |
 
-Snapshot ID: `MjgyMTk4MTAsMDAwMDAwMDBlYThiZTlhYzg1YWRmMTIxZDgzNThkMjVkZjM4NWRiNQ==`
+Snapshot ID: `MjgyMjQxMzAsMDAwMDAwMDBiZTlmYjQ3ZTlkOTZhMzY1MTM3ZjQ0ZDNmNDVkZWNkZA==`

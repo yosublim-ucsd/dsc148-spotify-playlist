@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-259 songs - 14 hr 17 min
+260 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [SLUMP \("Tower of God" ED\)](https://open.spotify.com/track/2GpRNFluKholHzpWM7t0t8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:14 | 2022-03-18 | 2022-07-29 |
 | [SLUMP \- "Tower of God" ED](https://open.spotify.com/track/7clTWebfXxZG2lQYe24luY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:14 | 2022-03-18 |  |
 | [SLUMP \- "Tower of God" ED](https://open.spotify.com/track/6tYFtqCatUdOxBYBCUzOnR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [TOP](https://open.spotify.com/album/4sqF1G0YC20GtlzXNCKGQN) | 2:14 | 2022-10-07 | 2022-11-14 |
+| [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 | 2023-08-30 |  |
 | [Sorry, I Love You](https://open.spotify.com/track/5kkOHHTccylnkYxDRgDWMs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 2:57 | 2022-03-18 |  |
 | [Sorry, I Love You](https://open.spotify.com/track/7FV6MOPNv5m1zUpWhN6oTJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 2:57 | 2022-03-18 | 2022-07-29 |
 | [Spread My Wings](https://open.spotify.com/track/0cYKULL0oKenKk6IkubNUn) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:22 | 2022-03-18 |  |

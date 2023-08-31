@@ -1045,6 +1045,36 @@
     },
     {
       "album": {
+        "name": "Raju Gari Ammayi Naidu Gari Abbayi",
+        "url": "https://open.spotify.com/album/1uZ2kMEP9HM0YAsBMCVT97"
+      },
+      "artists": [
+        {
+          "name": "Roshan Salur",
+          "url": "https://open.spotify.com/artist/3mz0Zu1iKlvkuS9pBK8IAD"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Nutana Mohan",
+          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
+        },
+        {
+          "name": "Rehman",
+          "url": "https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288990,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2lkLsQueH2Lhb60JuVxtPJ"
+    },
+    {
+      "album": {
         "name": "Inthandham [From \"Sita Ramam (Telugu)\"]",
         "url": "https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX"
       },
@@ -2498,7 +2528,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 234825,
       "name": "Nelamedha Lene (From \"O Saathiya\")",
       "url": "https://open.spotify.com/track/0Ptqn0HsG8MQhsBQatbihj"

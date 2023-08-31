@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster. Cover: Yung Lean & Bladee",
-  "num_followers": 123518,
+  "num_followers": 123537,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjBhNDNlZTdmMjMzMTg0NzRlNGE2YWMwM2E0NmYzNTRlNDExNTNl",
+  "snapshot_id": "MCwyMDk1ZmJhZTQ0YmM4OTY0NWQwNjc2ZjdiZTU3YzllNDAyY2I2OWM3",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -42,6 +42,10 @@
         {
           "name": "Sparrow & Barbossa",
           "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
         }
       ],
       "duration_ms": 381322,

@@ -4,7 +4,7 @@
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-62 songs - 5 hr 10 min
+63 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,13 +32,14 @@
 | [Intense Relaxation Pt.2](https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Intense Relaxation](https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8) | 7:27 | 2021-11-12 |  |
 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 | 2021-11-12 |  |
 | [It's Just You and Me](https://open.spotify.com/track/1E15ykxdCHlUENEsqIOe7K) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/4MDMFBvoD63cpWzPhYOWPW) | 3:38 | 2022-07-21 | 2023-08-05 |
+| [It's Just You and Me](https://open.spotify.com/track/1wUoJueIuf0OL3jagKRt8D) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/3IXSl8QI6bTxwUyk1wGBL2) | 3:38 | 2023-08-24 |  |
 | [It's Just You and Me](https://open.spotify.com/track/7AmkjYnKthAdWlsisckn75) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/5CRBoC6jLGPsxOpkcxKVRz) | 3:38 | 2021-11-12 | 2022-07-29 |
 | [KKW Beauty Unboxing, Pt\. 1](https://open.spotify.com/track/69m3nD9Ju1Vo4rXxjfZrfr) | [Chynaunique ASMR](https://open.spotify.com/artist/6Z9u1ESUuHk9m66KVYFZa6) | [KKW Beauty Unboxing](https://open.spotify.com/album/1FwLj8SygHzhFh660eZBn7) | 1:54 | 2021-11-12 |  |
 | [Laura Says ASMR](https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp) | [Laura Love ASMR](https://open.spotify.com/artist/6c7yzb478ujKAlv9YjD6tn) | [Laura Says ASMR](https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8) | 3:44 | 2022-10-07 |  |
 | [Liquid Bubble Hourglass & Whispering, Pt\. 4](https://open.spotify.com/track/4MoJG4kECK0KoPMPNbnLmL) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [3Dio Ear Touching ASMR \- Liquid Bubble Hourglass](https://open.spotify.com/album/7npzqkuDloJNEyEgxcy6yj) | 4:22 | 2021-11-12 | 2022-07-13 |
 | [Making Your Eyes Heavy](https://open.spotify.com/track/01Zuq3xB12zBwqfbPT55r8) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Sounds To Help You Sleep in 15 Minutes](https://open.spotify.com/album/7FBQgbJXAqYIQGvrHWsF3j) | 5:02 | 2021-11-12 |  |
 | [Measuring and Examining Your Face Pt.1](https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Measuring and Examining Your Face](https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4) | 6:16 | 2021-11-12 |  |
-| [Milk Bath](https://open.spotify.com/track/4Dph1YEGoMe8mw6Kze3c0u) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 6:44 | 2021-11-12 |  |
+| [Milk Bath](https://open.spotify.com/track/4Dph1YEGoMe8mw6Kze3c0u) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 6:44 | 2021-11-12 | 2023-08-31 |
 | [Nase](https://open.spotify.com/track/6kWaWKqVpNtvIdHTVY8vA0) | [Pelagea ASMR](https://open.spotify.com/artist/40f0MzS4yBApX9ljSWcZkR) | [Insanely Breathy Trigger Words](https://open.spotify.com/album/0vD19eMiArWFikdxQ6JDBa) | 2:01 | 2021-11-12 |  |
 | [Okay, Good, Stipple](https://open.spotify.com/track/4yjGib7nCw7bbM6lXZCPMi) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [12 Trigger Words to Help You Sleep](https://open.spotify.com/album/1POequBnZcHlvAtAPQFjWj) | 8:27 | 2021-11-12 |  |
 | [Painting Your Lips](https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 1:14 | 2021-11-12 |  |

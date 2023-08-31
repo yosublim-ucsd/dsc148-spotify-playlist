@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-372 songs - 1 day 3 hr 19 min
+374 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Midget Saw](https://open.spotify.com/track/12uMeU8BXPtwdFhBEniXZM) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Back Through Time](https://open.spotify.com/album/2Q4W4EUKHBC1VQvWWi9YJq) | 3:18 | 2022-07-13 | 2022-07-27 |
 | [Midway](https://open.spotify.com/track/176KqQctKgo5GsQWhbRcYl) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Coat of Arms](https://open.spotify.com/album/6ipBiXi944SLCxJhLFFS37) | 2:29 | 2022-07-13 | 2022-07-23 |
 | [Mjolner, Hammer of Thor](https://open.spotify.com/track/3GvRpPjF9Dby6YOgr8i0cQ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Berserker](https://open.spotify.com/album/0svoIboyRzqgRpvBDbJtUE) | 4:42 | 2022-07-13 | 2022-07-29 |
-| [Moth](https://open.spotify.com/track/0r3ur5jBMpjkcrqbVVvgs7) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Blood For Blood](https://open.spotify.com/album/6O24vHd68xPWQZGU9ppv7G) | 4:51 | 2022-01-03 |  |
+| [Moth](https://open.spotify.com/track/0r3ur5jBMpjkcrqbVVvgs7) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Blood For Blood](https://open.spotify.com/album/6O24vHd68xPWQZGU9ppv7G) | 4:51 | 2022-01-03 | 2023-08-31 |
+| [Moth](https://open.spotify.com/track/5az2KaF9Xn0orTrkYYQzuj) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Blood For Blood](https://open.spotify.com/album/3svczQXB77gdDAIse5qUoe) | 4:51 | 2023-03-09 |  |
 | [Moth Into Flame](https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 5:50 | 2022-04-24 |  |
 | [Moth Into Flame](https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct \(Deluxe\)](https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV) | 5:50 | 2022-01-03 | 2022-07-29 |
 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 | 2022-04-24 |  |
@@ -337,7 +338,8 @@
 | [Third Day Of A Seven Day Binge](https://open.spotify.com/track/5A5ixwUtbW01F4vFDYKRjS) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Pale Emperor](https://open.spotify.com/album/0F9brQbQ3vLDYyTElx9f9n) | 4:26 | 2022-04-24 | 2022-07-01 |
 | [This Is My War](https://open.spotify.com/track/4aWL4YCyNJ64m7Rd2OqBwj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 2:55 | 2022-07-13 | 2022-07-29 |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2022-01-03 | 2023-03-10 |
-| [Through It All](https://open.spotify.com/track/4Vai27xbSu7N9K7RNxVmG8) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Day One \(Deluxe\)](https://open.spotify.com/album/1RiSdYoSP9FX5CKG7JYYbr) | 3:33 | 2022-01-03 |  |
+| [Through It All](https://open.spotify.com/track/4Vai27xbSu7N9K7RNxVmG8) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Day One \(Deluxe\)](https://open.spotify.com/album/1RiSdYoSP9FX5CKG7JYYbr) | 3:33 | 2022-01-03 | 2023-08-31 |
+| [Through It All](https://open.spotify.com/track/4WTQHDAVAzbibRUcwzQfpp) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Day One \(Deluxe\)](https://open.spotify.com/album/5qGSlDcYzNFjIgnPWMAooU) | 3:33 | 2023-03-09 |  |
 | [To Hell and Back](https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:26 | 2022-04-24 |  |
 | [To Hell And Back](https://open.spotify.com/track/5XMc5tKC1OkXsxwprNwy2W) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes \(Bonus Version\)](https://open.spotify.com/album/5EigDkziY0nhBI6UbZuXVb) | 3:26 | 2022-01-03 | 2022-07-29 |
 | [Toast To The Ghost](https://open.spotify.com/track/66UTHVpVfB9t7dCaBOB0Mw) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/5hDwXxawZfYuNxylzGXcqt) | 5:30 | 2022-07-13 | 2022-07-19 |

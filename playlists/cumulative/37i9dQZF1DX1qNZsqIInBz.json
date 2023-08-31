@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente",
+        "url": "https://open.spotify.com/album/2UHvLyiO7eKqKyXoHKUv11"
+      },
+      "artists": [
+        {
+          "name": "SX69NINE",
+          "url": "https://open.spotify.com/artist/1lgF7NWWqnVY6U76lCEDKF"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182125,
+      "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente",
+      "url": "https://open.spotify.com/track/13fBl5rmFLuEeIdYlpq5kR"
+    },
+    {
+      "album": {
         "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente (Slowed)",
         "url": "https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V"
       },
@@ -226,7 +244,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 182021,
       "name": "Beat M\u00e1gico Que Mexe Com a Sua Mente (Slowed)",
       "url": "https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL"

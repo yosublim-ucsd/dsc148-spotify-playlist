@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,446 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,448 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 3 | [Make Me Believe \(Nana\)](https://open.spotify.com/track/6tCXMkEeYrlU2fKf1YhNZO) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Make Me Believe \(Nana\)](https://open.spotify.com/album/03MqZoZQMFlQ6XiM2HalZ0) | 3:11 |
 | 4 | [Tampico](https://open.spotify.com/track/1QAxGsBmTuOO2WZ7TeClVu) | [Nú Baby](https://open.spotify.com/artist/4Is1LTg2XUkE3NCiOiLyWi) | [Tampico](https://open.spotify.com/album/6qXaYOy2ZGTC4taGPzCKYT) | 2:24 |
 | 5 | [Fashion Killa](https://open.spotify.com/track/0RMwoTN2Hqu200NrggjNVY) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 2:46 |
-| 6 | [high](https://open.spotify.com/track/5qCpepbxfQr8Tjd81hqtq3) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [high](https://open.spotify.com/album/4Yx5Fulw5mJuDhzlCgCDiZ) | 1:59 |
+| 6 | [high](https://open.spotify.com/track/5GNPphbCNMao6UUT6KMfuT) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [UNDER 20](https://open.spotify.com/album/5IH5BY0dtTXWEBrOTfUPOx) | 1:59 |
 | 7 | [The Girl Wants a Big Boy](https://open.spotify.com/track/49Gw7CR2UNL9oX55XecN7d) | [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [The Girl Wants a Big Boy](https://open.spotify.com/album/2QyNrFYzDIEIl78Boyk9KR) | 2:28 |
 | 8 | [Heartbreaker](https://open.spotify.com/track/73DLxK3dXVqy37MZcIY3zP) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Heartbreaker](https://open.spotify.com/album/72C7xboUSQLQAJgILsuYXN) | 3:28 |
 | 9 | [Hamba Wena](https://open.spotify.com/track/0Yx0dpXq9K6vIkRWxPvKWI) | [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT), [Pro Tee](https://open.spotify.com/artist/0y4RBCciLIHdZESz40TaLy), [Qveen\-rsa](https://open.spotify.com/artist/6D1N5l5dWca4qiwcyBRzj5), [Mzwilili](https://open.spotify.com/artist/6hFXBf1EU52jzIb3x9BOq7), [Kitso Nave](https://open.spotify.com/artist/4I2gNmIO64o4EOzBIKfyfl) | [Hamba Wena](https://open.spotify.com/album/4VOqLcMcg7hDCPBhGNFPrl) | 5:08 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 41 | [NOX!](https://open.spotify.com/track/1BQgzLOfJRzqxa8TLMYAjC) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [NOX!](https://open.spotify.com/album/0Q82AQNEKOXBoZqQDmtr7m) | 1:33 |
 | 42 | [Feel So Right](https://open.spotify.com/track/2pKM0v34uiyv7fEKWfARxR) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z), [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv) | [Feel So Right](https://open.spotify.com/album/4s0PMOiNGkO4wukgX8SgQc) | 3:16 |
 | 43 | [Lagbaja](https://open.spotify.com/track/4FW8rTluyTmcf3uYAm8qrC) | [Dimi Keye](https://open.spotify.com/artist/4efVJ70KH16hdCL57EL7UN) | [Lagbaja](https://open.spotify.com/album/1iTFgbalclhMSBNDS3lbdq) | 2:40 |
-| 44 | [It's You](https://open.spotify.com/track/75E0pvft2uh1tLwJ1O9Sli) | [Petrooz](https://open.spotify.com/artist/4HLTPLigcbloihqAWILZ7C) | [Love Under Construction](https://open.spotify.com/album/1ovQhwj5S5nyVczB9ArRpN) | 3:53 |
+| 44 | [It's You](https://open.spotify.com/track/75E0pvft2uh1tLwJ1O9Sli) | [Petrooz](https://open.spotify.com/artist/4HLTPLigcbloihqAWILZ7C), [Adasa](https://open.spotify.com/artist/4aEgTXOBT546LytjJmUegy) | [Love Under Construction](https://open.spotify.com/album/1ovQhwj5S5nyVczB9ArRpN) | 3:53 |
 | 45 | [Binkolele](https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ) | [Kataleya & Kandle](https://open.spotify.com/artist/1a93I0beev2mbujNJiNuA4) | [Binkolele](https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w) | 3:11 |
 | 46 | [SUV](https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [SUV](https://open.spotify.com/album/54RojlSYjybyjnpiwy18tE) | 2:58 |
 | 47 | [Nenda](https://open.spotify.com/track/3mcdgAe8e8oA0kzbJOSoUt) | [Recho Shakes](https://open.spotify.com/artist/67XODfuqyfVG4GGHjvscbL) | [Nenda](https://open.spotify.com/album/74Qv9OajvM0LMdkUWf5Lfg) | 3:21 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 51 | [Falling in Love](https://open.spotify.com/track/0Tnzjifkv9W8xm0wXy7gOh) | [Choccy Chox](https://open.spotify.com/artist/1Il8vHCOT51z2KfQXPJNJv) | [Falling in Love](https://open.spotify.com/album/1awIuzfs8WL23tLUeBnEf1) | 3:09 |
 | 52 | [half day](https://open.spotify.com/track/1M3TkNfhGSGnox2Xbh5GQk) | [ETB](https://open.spotify.com/artist/7ycml9pvXVpp2GYLr4l672) | [Road To PsychaHomies I](https://open.spotify.com/album/2iZgbDtVOW7MgWPwzfj31f) | 2:25 |
 
-Snapshot ID: `MCw1ZDZhY2E2NjNjZWE5ZWJmNjJkYTY2ZWEzN2ZkNzQ2Zjk4NDI0ZDUx`
+Snapshot ID: `MCw4MTUzN2I5ODI1MDU5MGZlMzE0NWI5ZmZlYWI4YmYzOGRhY2I4OWFj`

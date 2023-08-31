@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: ATARASHII GAKKO! \(新しい学校のリーダーズ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,085 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,992 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [ほろよい](https://open.spotify.com/track/6vMQPwSKJWc4q272mUPqeJ) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [ほろよい](https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q) | 3:23 |
 | 75 | [MONONOFU NIPPON feat\. 布袋寅泰](https://open.spotify.com/track/2Jp8TKibZMeNH7rUnERfHh) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [MONONOFU NIPPON feat\. 布袋寅泰](https://open.spotify.com/album/4xX4Q5OGZ00WNauhglHT8I) | 4:22 |
 
-Snapshot ID: `MCxjZGJiZTEwMTA1YjJiYmFmZjlmNzRmYmE2ODE0ZDc5YTBlMTI1Yjgz`
+Snapshot ID: `MCxlNWQ2NTk0YWMyYjRmY2I1ZDZiYjc4Y2Q4Mzc1NTU2ZTA0OTBlMWJh`

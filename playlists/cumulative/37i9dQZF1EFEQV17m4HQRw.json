@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Aladim",
+        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145588,
+      "name": "Aladim",
+      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
+    },
+    {
+      "album": {
         "name": "La Dr\u00e1cula",
         "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
       },
@@ -822,7 +844,7 @@
           "url": "https://open.spotify.com/artist/2XJDdlk2Dcn3REYUBkCr9Y"
         },
         {
-          "name": "Londu",
+          "name": "LONDU",
           "url": "https://open.spotify.com/artist/5yoxOZdS49jlMH8zbJOu4q"
         }
       ],

@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-187 songs - 11 hr 7 min
+188 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Bitter Leaf](https://open.spotify.com/track/4NfmgQBtbe0YesCwGHU8Ne) | [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [twentyseven](https://open.spotify.com/album/0v2z0fKHodbzjESXdmEEEt) | 3:10 | 2023-06-08 |  |
 | [Blinded](https://open.spotify.com/track/518u9Zufj4iy2bwFMgTqKR) | [Mint Julep](https://open.spotify.com/artist/60xrFrkTS0lvRRpbS1cpnr) | [Stray Fantasies](https://open.spotify.com/album/3Sa6zvka2JPNFU5B6DPdyI) | 3:47 | 2023-06-08 |  |
 | [Boca Chica](https://open.spotify.com/track/37FhgBYZizPXUhn2pJmuS3) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Boca Chica](https://open.spotify.com/album/4jqVqNXX04QQpdAMsEEsGd) | 2:58 | 2023-06-08 |  |
-| [Boxes](https://open.spotify.com/track/6xb0ex1Y10CXq0QPylFqJJ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 2:50 | 2023-06-08 |  |
+| [Boxes](https://open.spotify.com/track/6xb0ex1Y10CXq0QPylFqJJ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 2:50 | 2023-06-08 | 2023-08-31 |
+| [Boxes](https://open.spotify.com/track/761bRfbulbqga0Sm60GGhG) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/2TQASXqfYqFMTsrWBVhWWl) | 2:50 | 2023-06-08 |  |
 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 | 2023-06-08 |  |
 | [Breaking Apart](https://open.spotify.com/track/5OPRQwlJJpW71T2F3YIdpy) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Heaven's Just A Flight](https://open.spotify.com/album/74XAANgs1sgl5VmiDxJLd6) | 3:18 | 2023-06-08 |  |
 | [Bubblegum](https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Liquid](https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps) | 2:46 | 2023-06-08 |  |

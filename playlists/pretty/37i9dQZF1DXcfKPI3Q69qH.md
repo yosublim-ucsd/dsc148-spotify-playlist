@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,992 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,993 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 | 31 | [Save South Africa](https://open.spotify.com/track/2ipraSAl9NkMLb3OnuYhpJ) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt) | [The Third](https://open.spotify.com/album/3zvun5QyXRLt5N2iteMnIM) | 7:20 |
 | 32 | [Paris \(feat\. Afriikan Papi\)](https://open.spotify.com/track/6yCfjMCxxqrMTwGTOfnkoa) | [Q\-Mark](https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj), [TpZee](https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ), [Afriikan Papi](https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO), [Cloud9ne](https://open.spotify.com/artist/4US1sAYad203m0GNVxgJUi) | [Paris](https://open.spotify.com/album/30abU8JfitXclHINTdT7xE) | 6:55 |
 | 33 | [Get the Money](https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [CITIZEN OF THE WORLD](https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe) | 2:58 |
-| 34 | [Flex](https://open.spotify.com/track/3TmCAGXkhoDlB52vmAJA5g) | [Lex LaFoy](https://open.spotify.com/artist/2HmJN5BrqcRqtzJ8BCMTbM), [Ifani](https://open.spotify.com/artist/2tZaBvH4Jet46VVqDYYgqR) | [Honey Bass](https://open.spotify.com/album/5ZVP9DGnlpulLM9Dj1D7X1) | 4:01 |
+| 34 | [Flex](https://open.spotify.com/track/2wkIdHkqm1ciA7PI6BuENS) | [Lex LaFoy](https://open.spotify.com/artist/2HmJN5BrqcRqtzJ8BCMTbM), [Ifani](https://open.spotify.com/artist/2tZaBvH4Jet46VVqDYYgqR), [RubyGold](https://open.spotify.com/artist/6iT35bdjoxy90x3Cgcp5IW), [Fiesta Black](https://open.spotify.com/artist/5jg9SaU7GAWbPyG4oK2dS5) | [Honey Bass](https://open.spotify.com/album/72rOqAiY9jmLvmXDZLnBEQ) | 4:01 |
 | 35 | [Mollo](https://open.spotify.com/track/0ZRFMzP2Q7kDzKU6YkGLbV) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Sjava](https://open.spotify.com/artist/0pler4gM73k7jCyFL06hSV) | [Karabo](https://open.spotify.com/album/4ro6ViOnBmGwVdkuwIvOZc) | 3:26 |
 | 36 | [Wamuhle](https://open.spotify.com/track/2QXy2Boct78JseFVlEnR7C) | [Slade](https://open.spotify.com/artist/7im3nOBoglJ3cmb6fl7Gkl), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Tweezy](https://open.spotify.com/artist/25siXbZn4L4BKHPwZQmTI7), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [My Turn](https://open.spotify.com/album/258cdpLnvAW9YaxL8d0wNt) | 7:33 |
 | 37 | [Mamma](https://open.spotify.com/track/4KrWcLip76seNBnjVlUgxg) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Season One](https://open.spotify.com/album/6rUy6shxvIZsrLRwLgJD3b) | 3:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 | 74 | [Yasis](https://open.spotify.com/track/2eTT5Ayr27aFhsBh2hlIrG) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Yasis](https://open.spotify.com/album/7tJxAH5vflixnj7bFdabUg) | 3:46 |
 | 75 | [John Cena](https://open.spotify.com/track/07xpeB1txX9bPKTwkuflMg) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [John Cena](https://open.spotify.com/album/5VQoz4FBYZsfmm09XlpOVh) | 3:01 |
 
-Snapshot ID: `MCw5ZGQwNTRjMjRkMzIwY2RiYzZmMDcyM2VhY2M1YjFiMmU3MjkwNGI2`
+Snapshot ID: `MCwwMzU0NDgzY2YzMTU0ZjVhMWYzZjMzYWNkMTJiMGM4OGNkMjI3NTA0`

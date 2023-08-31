@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,245 likes - 51 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,317 likes - 51 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sweet Nothings \- Original Mix](https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3) | [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC) | [Sweet Nothings](https://open.spotify.com/album/0hiiBQLCfX1xy8zNk4D58e) | 4:33 |
 | 2 | [Ngizimisele](https://open.spotify.com/track/40HxAjzO8wpe578MCVBMcy) | [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn) | [Ngizimisele](https://open.spotify.com/album/0J5lDjlxCM515GQeS1JO8h) | 6:34 |
-| 3 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
+| 3 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
 | 4 | [Makwande](https://open.spotify.com/track/2MpkUFQpd7zYRGZt4BQ8bz) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [AEDM: Interstellar](https://open.spotify.com/album/7bNztZqGIRCaALpnDsDB4W) | 5:52 |
 | 5 | [Breakfast In Soweto](https://open.spotify.com/track/3aYv0tyHlIYUwCq2SwZDlT) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq), [Mandlin Beams](https://open.spotify.com/artist/7nR1JD6ljztZrEuxTNijpk) | [Breakfast In Soweto](https://open.spotify.com/album/3NfgQFaqUzxBCrvUME1iu7) | 7:14 |
 | 6 | [Suka](https://open.spotify.com/track/4ETqxUieEXrUru8B1fiXKk) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S), [104 BPM](https://open.spotify.com/artist/2EK50Q6gOwRcZgfvlv3tVi) | [Suka](https://open.spotify.com/album/3DIvPF7rZfvZMCQJUpUON7) | 6:19 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 50 | [Monomotapa](https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL) | [Alexsir](https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Next Generation](https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb) | 5:42 |
 | 51 | [Xelela Abazali](https://open.spotify.com/track/2URYteekU6AYCIuEYxHJXk) | [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa), [KnightSA](https://open.spotify.com/artist/0Zn2gTUEoVSwXsuZ3v2aoq), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [Xelela Abazali](https://open.spotify.com/album/3Ud3F9eyj8if4o7TSbtZHA) | 6:34 |
 
-Snapshot ID: `MCw4ZjJiNDg0YjVlM2Y5M2U5YzMxOTQzYzkxNzVjMzdjZDgxNzc2YmNm`
+Snapshot ID: `MCxiNDE1NzU0NGQxZDAwOWE3YzZmYTNmOWRhODMxMjdiMTAzZjI0YTI1`

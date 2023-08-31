@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=0da39df30df34d10">Brooke Ligertwood</a>
 
-4,290 songs - 11 day 23 hr 41 min
+4,291 songs - 11 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3558,7 +3558,8 @@
 | [thank you](https://open.spotify.com/track/6cf0agH2MqxT8t4ea1FSD7) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [simplicity](https://open.spotify.com/album/5SuCJyVXZNHggwXo5XKyH9) | 2:30 | 2022-09-02 | 2022-09-17 |
 | [Thank You](https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy) | [Kelechi](https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7) | [Thank You](https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR) | 3:25 | 2022-02-25 | 2022-03-12 |
 | [Thank You \(Famine Or Feast\)](https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Thank You \(Famine Or Feast\)](https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q) | 3:23 | 2022-10-21 | 2022-11-05 |
-| [Thank You \- Live](https://open.spotify.com/track/5gB8fWV3shX1qSGIF0nu5P) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Thank You \(Live\)](https://open.spotify.com/album/5X7EtUR7UCAdH97YIJCuiT) | 4:12 | 2023-08-18 |  |
+| [Thank You \- Live](https://open.spotify.com/track/3iubQenTgqEUX0K6qWdcWJ) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Together, With Heaven \(Live\)](https://open.spotify.com/album/3wMhEwpiyVM7N0oHdtCjSP) | 4:12 | 2023-08-25 |  |
+| [Thank You \- Live](https://open.spotify.com/track/5gB8fWV3shX1qSGIF0nu5P) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Thank You \(Live\)](https://open.spotify.com/album/5X7EtUR7UCAdH97YIJCuiT) | 4:12 | 2023-08-18 | 2023-08-31 |
 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 | 2022-04-22 | 2022-05-07 |
 | [Thank You Lord for Grace](https://open.spotify.com/track/7pX0LN3zWyH3TgONtkbk2v) | [Authentic Unlimited](https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO) | [Thank You Lord for Grace](https://open.spotify.com/album/4yk9L0yBv9CeiLeAkKojhG) | 3:47 | 2023-08-04 | 2023-08-19 |
 | [Thank You, Lord](https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Ordinary Ways](https://open.spotify.com/album/5No8eVyIA1jOyKOUOfG94I) | 3:25 | 2023-05-12 | 2023-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Omar Apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,606 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,627 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Hurricane Chaser](https://open.spotify.com/track/1i0RLrkqLcs80cj6BtCdk3) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Should We Go Dance?](https://open.spotify.com/album/0E4h4WNuQeqlXk0JTqvSVN) | 3:23 |
 | 75 | [Pulse](https://open.spotify.com/track/6XNoI3L5h2ONamtxyMCkWI) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V), [Lisa Grace](https://open.spotify.com/artist/5bp3KSMBNtOvTW6OvrnwpO) | [Pulse](https://open.spotify.com/album/0OJHV3RMeL31ReoYiTtssB) | 3:19 |
 
-Snapshot ID: `MCwwZWViZTU1ZjIxNTViZGUzZDE0MjY2OWY4MDcyNGYyYjY4MjM2NzA2`
+Snapshot ID: `MCxmOGFiYmExOWJhOTE0OWZjZmQ1OTM2ODU0YzZhMDhlMjc3M2ExYzQz`

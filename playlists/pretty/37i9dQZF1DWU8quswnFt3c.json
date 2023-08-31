@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 920691,
+  "num_followers": 920631,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWI5ODkwYzkzYmQyOWI4YWU3ZmViMWY4ZmYwZjE5ZmZkMTNmYjA4",
+  "snapshot_id": "MCw2MjhiZDg3ODM5MjAzZDU0MWMxZDYxYTM2Y2Y2NDcyNmM3MzJiOWM2",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 162098,
-      "name": "Qui\u00e9nes Son?",
-      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Can I Shower At Yours",
         "url": "https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 114004,
       "name": "Can I Shower At Yours",
       "url": "https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 162098,
+      "name": "Qui\u00e9nes Son?",
+      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Sajna",
-        "url": "https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p"
-      },
-      "artists": [
-        {
-          "name": "Yashal Shahid",
-          "url": "https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53"
-        }
-      ],
-      "duration_ms": 157048,
-      "name": "Sajna",
-      "url": "https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "WILLY",
         "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165000,
       "name": "WILLY",
       "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p"
+      },
+      "artists": [
+        {
+          "name": "Yashal Shahid",
+          "url": "https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53"
+        }
+      ],
+      "duration_ms": 157048,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Autodeadma (Solo Version)",
-        "url": "https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH"
-      },
-      "artists": [
-        {
-          "name": "Maymay Entrata",
-          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Autodeadma - Solo Version",
-      "url": "https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/54nMFixoNCgEKQANOd6CjS"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 167629,
       "name": "Cumbiecitas Elegantes",
       "url": "https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Autodeadma (Solo Version)",
+        "url": "https://open.spotify.com/album/5FsAARRcSyeb62vQ8EDwXH"
+      },
+      "artists": [
+        {
+          "name": "Maymay Entrata",
+          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Autodeadma - Solo Version",
+      "url": "https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
+        "url": "https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG"
+      },
+      "artists": [
+        {
+          "name": "Gunna Chorna",
+          "url": "https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1"
+        }
+      ],
+      "duration_ms": 124750,
+      "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
+      "url": "https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "A Dream of Bonnie and Clyde",
         "url": "https://open.spotify.com/album/5Gk01vK87HZ4EQ52xTeyZ1"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 174503,
       "name": "A Dream of Bonnie and Clyde (feat. JADE)",
       "url": "https://open.spotify.com/track/2IUXNnuWKre9DXp8nUpVDZ"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
-        "url": "https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG"
-      },
-      "artists": [
-        {
-          "name": "Gunna Chorna",
-          "url": "https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1"
-        }
-      ],
-      "duration_ms": 124750,
-      "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
-      "url": "https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "za wcze\u015bnie",
-        "url": "https://open.spotify.com/album/6k9mMccxYIYw9KNc6aF7Ty"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 129565,
-      "name": "za wcze\u015bnie",
-      "url": "https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Funkari",
         "url": "https://open.spotify.com/album/7e7NCY6IHKBuyureY3Jges"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 173524,
       "name": "Funkari",
       "url": "https://open.spotify.com/track/6iB96FNcb4t3d72Fhc58u2"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "za wcze\u015bnie",
+        "url": "https://open.spotify.com/album/6k9mMccxYIYw9KNc6aF7Ty"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "duration_ms": 129565,
+      "name": "za wcze\u015bnie",
+      "url": "https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Gipsy chic // \u0254\u0131\u0265\u0254 \u028esd\u0131\u0183",
+        "url": "https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi"
+      },
+      "artists": [
+        {
+          "name": "Assurdit\u00e8",
+          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
+        }
+      ],
+      "duration_ms": 168300,
+      "name": "Figlie della Luna",
+      "url": "https://open.spotify.com/track/4SceTQLARIDQbsI5AT25iu"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Assim Assim",
         "url": "https://open.spotify.com/album/0PYk0DGSjgfEOTdzKZMnxb"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 169180,
       "name": "Assim Assim",
       "url": "https://open.spotify.com/track/6NhKVVIfnuRTFRXZtjtJZo"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Gipsy chic // \u0254\u0131\u0265\u0254 \u028esd\u0131\u0183",
-        "url": "https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi"
-      },
-      "artists": [
-        {
-          "name": "Assurdit\u00e8",
-          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
-        }
-      ],
-      "duration_ms": 168300,
-      "name": "Figlie della Luna",
-      "url": "https://open.spotify.com/track/4SceTQLARIDQbsI5AT25iu"
     },
     {
       "added_at": "2023-08-02 04:00:00",

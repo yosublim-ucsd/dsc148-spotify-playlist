@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-239 songs - 16 hr 36 min
+240 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Downcast](https://open.spotify.com/track/7sRWb3WteOa21eV9uLCto7) | [Ghost Lights](https://open.spotify.com/artist/3A6P5LkpSfMTTbihK2ngpI) | [Zero Dark One](https://open.spotify.com/album/7HX8AMjdHv5OSjmNCVTUeQ) | 3:42 | 2018-10-06 |  |
 | [Dragged Through The Inferno](https://open.spotify.com/track/0Jt5yaQNFysMytyc8aXiwg) | [Immortal Disfigurement](https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK) | [Dragged Through The Inferno](https://open.spotify.com/album/6wvOcthjZXW5r82LvTjuCW) | 6:24 | 2022-07-11 |  |
 | [Dread](https://open.spotify.com/track/6r1prdIaOh7DA9Yyyuwev2) | [I Killed Everyone](https://open.spotify.com/artist/7xitleTYPEOOij1YBqzArX) | [Lamenting Hymns](https://open.spotify.com/album/6Q3tXbrj5MGa2pX4p9kE6q) | 3:05 | 2020-12-05 |  |
+| [Dream Eater](https://open.spotify.com/track/548QFtRn14cTtRA6Zw2TzM) | [I Satan](https://open.spotify.com/artist/6a97Q9WrO0RsSCcXHwNaPM) | [Dream Eater](https://open.spotify.com/album/3jWielR7DCaifyUVPy13jR) | 5:01 | 2023-08-30 |  |
 | [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2020-05-04 |  |
 | [Dystopian Visions](https://open.spotify.com/track/0n4uHCTgBLTqdzPxXHiBnb) | [I, Pariah](https://open.spotify.com/artist/08OgBekLbEPhIgF8fjeSe2), [Andy Thomas](https://open.spotify.com/artist/5574Ui3ybdLwvkJce6VCdn) | [Dystopian Visions](https://open.spotify.com/album/3N9NU83RenYGl8fUdReAsp) | 5:15 | 2021-04-08 |  |
 | [Eclipse](https://open.spotify.com/track/6Zhrp4Xi1zJTcrkTxLcDVJ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [The Interstice](https://open.spotify.com/album/0wa1Nz13Q2SyShf4wBG7Tt) | 2:23 | 2020-05-02 |  |

@@ -4,7 +4,7 @@
 
 > A new story begins...Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-169 songs - 9 hr 54 min
+170 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 | 2023-05-18 |  |
 | [Something Like This](https://open.spotify.com/track/02j4nqTmaNzb9dJnqJTtRI) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Reservoir](https://open.spotify.com/album/7MVNwVgywHDy4hv7MQ2n1E) | 5:00 | 2022-02-09 | 2023-05-19 |
 | [Something Like This](https://open.spotify.com/track/7iPo9XtZD2eJ77IoqO2yIw) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Reservoir](https://open.spotify.com/album/27CcSt3j7OxhWVcCPZBYLq) | 5:00 | 2022-02-09 | 2022-07-29 |
-| [Spinning](https://open.spotify.com/track/6dzib0KiTMNx1TSvvDodoR) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 3:08 | 2023-05-18 |  |
+| [Spinnin'](https://open.spotify.com/track/25MhgWrnPhh94z0g11Qd5o) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/2TQASXqfYqFMTsrWBVhWWl) | 3:08 | 2023-07-07 |  |
+| [Spinning](https://open.spotify.com/track/6dzib0KiTMNx1TSvvDodoR) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 3:08 | 2023-05-18 | 2023-08-31 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2023-05-18 |  |
 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 | 2022-02-09 | 2023-05-19 |
 | [Tal Uno](https://open.spotify.com/track/7eXDhsMpOFdsJWauZgq9qv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/2JzXJknJh0hzHPbh8KAQ2r) | 4:27 | 2022-02-09 | 2022-07-29 |

@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 246400,
       "name": "^^",
       "url": "https://open.spotify.com/track/0zngjITKiudJ1mBYmrOnu8"
@@ -2105,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/4H5dag8yAUOysdwou5NrVi"
+      },
+      "artists": [
+        {
+          "name": "Sakurako Ohara",
+          "url": "https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "bitter sweet cinema",
+      "url": "https://open.spotify.com/track/0Xzd0W2J09fQcWU3DQ8hJo"
+    },
+    {
+      "album": {
         "name": "\u30b9\u30dd\u30c3\u30c8\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/1ZkTpuLO7zPSo53ht4Ia2W"
       },
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 214133,
       "name": "bitter sweet cinema",
       "url": "https://open.spotify.com/track/5cmotFQGWattL45cHRB9Vh"
@@ -8421,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "Kono Taikutsu na Hibi o",
+        "url": "https://open.spotify.com/album/4OAdfLLGLATHcMZuHoscqG"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326800,
+      "name": "Kono Taikutsu na Hibi o",
+      "url": "https://open.spotify.com/track/2UEsZONjOITOjVRO9Elh6l"
+    },
+    {
+      "album": {
         "name": "Konomama",
         "url": "https://open.spotify.com/album/6qYCirlWlPRxuypTWp30KB"
       },
@@ -13595,6 +13631,24 @@
     },
     {
       "album": {
+        "name": "Senpai",
+        "url": "https://open.spotify.com/album/3a9z2tnR8VQlJ3jYhHRLUg"
+      },
+      "artists": [
+        {
+          "name": "noa",
+          "url": "https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201710,
+      "name": "Senpai",
+      "url": "https://open.spotify.com/track/1141uIU9WDqLCjbIbet1eu"
+    },
+    {
+      "album": {
         "name": "Sentimental (Neon Mix)",
         "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
       },
@@ -15345,6 +15399,24 @@
     },
     {
       "album": {
+        "name": "Summer Tune / Sun Shade / Spice Girl / An Easy Girl (Acoustic Guitar Ver.)",
+        "url": "https://open.spotify.com/album/1EEN5IfviFOcqTW2LCPF1p"
+      },
+      "artists": [
+        {
+          "name": "Yuinishio",
+          "url": "https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277066,
+      "name": "Sun Shade - Acoustic Guitar Ver.",
+      "url": "https://open.spotify.com/track/2DMXgkCUQQaZaLDB8JolJz"
+    },
+    {
+      "album": {
         "name": "SUMMER TUNE / sun shade / \u30b9\u30d1\u30a4\u30b9\u30ac\u30fc\u30eb / \u4f1a\u3044\u305f\u3044\u306a\u4eca\u591c (Acoustic Guitar Ver.)",
         "url": "https://open.spotify.com/album/7eQwl6EQiv0LUP9I8I9URq"
       },
@@ -15356,7 +15428,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 277066,
       "name": "sun shade - Acoustic Guitar Ver.",
       "url": "https://open.spotify.com/track/4FFPkjsdJZhyHxZrzrsgb3"
@@ -19572,7 +19644,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 326800,
       "name": "\u3053\u306e\u9000\u5c48\u306a\u65e5\u3005\u3092",
       "url": "https://open.spotify.com/track/08XOZolTmloSXiwMhwPqt8"
@@ -24758,7 +24830,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 201710,
       "name": "\u5148\u8f29",
       "url": "https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3"
@@ -27894,7 +27966,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 197529,
       "name": "\u6625\u4e00\u756a",
       "url": "https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP"
@@ -28592,6 +28664,24 @@
       "duration_ms": 138107,
       "name": "\u6cb9\u305d\u3070",
       "url": "https://open.spotify.com/track/3ZOFJgcE6oZ7MHoF1VsOzQ"
+    },
+    {
+      "album": {
+        "name": "\u6ce2\u9593\u306b\u3066",
+        "url": "https://open.spotify.com/album/0O5iAHM0Bbrg5fuui6DEv7"
+      },
+      "artists": [
+        {
+          "name": "\u5f71\u5c71\u670b\u5b50",
+          "url": "https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216974,
+      "name": "\u6ce2\u9593\u306b\u3066",
+      "url": "https://open.spotify.com/track/7LnJsDQaaJW3ATtIjsDHdk"
     },
     {
       "album": {
@@ -30312,7 +30402,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 191988,
       "name": "\u84b2\u516c\u82f1",
       "url": "https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2"

@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=7587eb4fd9b141f9">KB</a>
 
-817 songs - 1 day 16 hr 57 min
+818 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Graves \- Acoustic](https://open.spotify.com/track/0yMxVz4bq58UKTRVaBt2ub) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves \(Acoustic\)](https://open.spotify.com/album/6yp8tnxFB1gXNUHpF52iqP) | 4:18 | 2023-01-27 | 2023-08-26 |
 | [Green](https://open.spotify.com/track/67FJB6nXIjaloYiTbJ0PZq) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Green](https://open.spotify.com/album/0ZtLNlIvbhkM0enzUsDR3l) | 2:53 | 2022-07-17 | 2022-07-29 |
 | [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 | 2023-01-27 | 2023-03-25 |
-| [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/2h3jxkJKn7aBCd9WimAJiq) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-10-03 |  |
+| [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/track/3EVYGJMre02KMtDbnvBLI8) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Kaleb Mitchell](https://open.spotify.com/artist/2h3jxkJKn7aBCd9WimAJiq) | [Grind \(feat\. Kaleb Mitchell\)](https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk) | 3:06 | 2022-10-03 | 2023-08-31 |
 | [Haha!](https://open.spotify.com/track/2ewSOGpFKYTpwT4BIWt5ZJ) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Haha!](https://open.spotify.com/album/6AnawoBHFzOSJRPqBhCNiW) | 1:58 | 2022-04-29 | 2022-05-28 |
 | [Half Way Woke](https://open.spotify.com/track/672EwWJ3SHK7rXIHKlc9PM) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [Render Unto Caesar](https://open.spotify.com/album/3ZYXYnHdSPaDXfHrHZJsMJ) | 3:13 | 2021-12-11 | 2022-05-29 |
 | [hands in the sky](https://open.spotify.com/track/09gYvizeUBuxfu6AvUUU54) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB) | [hands in the sky](https://open.spotify.com/album/1ot0hpjxI1r37z3OwzWvRa) | 2:58 | 2022-04-29 | 2022-07-24 |
@@ -662,6 +662,7 @@
 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 | 2022-08-06 |  |
 | [Start Right Here \(HGA Version\)](https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Start Right Here \(HGA Version\)](https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ) | 2:53 | 2021-12-11 | 2022-02-04 |
 | [Stay Low](https://open.spotify.com/track/6ukXI3mLkRXwTbf3KxwqAR) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Reece Lache](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Stay Low](https://open.spotify.com/album/1VJi0mAyEF2VG0V8Gp1d5I) | 3:17 | 2023-08-25 |  |
+| [Step Into the Light](https://open.spotify.com/track/0Rf66EMPXCwEcTDjL6qKQK) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Step Into the Light](https://open.spotify.com/album/5k5aCR5aCmXpr1ehNRpOJf) | 2:33 | 2023-08-25 |  |
 | [Stickin](https://open.spotify.com/track/7Bch9LNK8Ukbi6yKoMBV6W) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Foolie Vision](https://open.spotify.com/artist/2nDlD7zB6lFms9wIabvCfd) | [Stickin](https://open.spotify.com/album/3U8Vj4e07qmOWWcs2O3uBX) | 1:51 | 2022-10-04 | 2022-12-08 |
 | [Still 2020](https://open.spotify.com/track/4Fn7sPRvR16EF0WNbPzQMg) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Rooftop Prophet](https://open.spotify.com/album/6HPNUsdNjGaWE386HK519l) | 2:27 | 2022-09-16 | 2022-10-30 |
 | [Still 40 Deep](https://open.spotify.com/track/5yqhWeJnZWf8lYY8OTBAMP) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Still 40 Deep](https://open.spotify.com/album/55WJJhhkdRw4V3JKCPfz5b) | 2:05 | 2021-12-11 | 2022-01-31 |

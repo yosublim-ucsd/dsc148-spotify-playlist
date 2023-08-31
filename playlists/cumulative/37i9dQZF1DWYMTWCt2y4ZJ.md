@@ -4,7 +4,7 @@
 
 > Bring in the new day.
 
-166 songs - 8 hr 57 min
+167 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Danaus Genutia](https://open.spotify.com/track/0vRHzTymALeCeAL1l5dw5q) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Lines of Mauve](https://open.spotify.com/album/3f7SSz5LBqvz1Vqmkffk4V) | 3:34 | 2022-10-25 |  |
 | [Deep Meditation](https://open.spotify.com/track/1KkiMB3T1IRvxwP9DCBZWt) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Enter the Spirit World \- Shamanic Drumming Meditation](https://open.spotify.com/album/3qFC7eIbzF9nBD79xX47rH) | 3:09 | 2022-05-17 | 2022-11-26 |
 | [Dreamer Lounge](https://open.spotify.com/track/2cAp2tBDCzIXqiqiKe0IMa) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Dreamer Lounge](https://open.spotify.com/album/5tMWJnbD4bwaZYQKq2Chke) | 4:55 | 2022-05-17 | 2022-09-03 |
-| [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-17 |  |
+| [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 | 2022-05-17 | 2023-08-31 |
 | [Early Bright](https://open.spotify.com/track/0yT6mUjUs7CiFeO3kXDEAB) | [Rhia Medina](https://open.spotify.com/artist/0l1AWcJLnjRdZx1XLVki2p) | [Early Bright](https://open.spotify.com/album/3L7tcCyYDAAVUkcNe9Nl7i) | 4:08 | 2022-06-01 | 2023-08-11 |
 | [Edasi](https://open.spotify.com/track/7ytnlVd8PmIQKbIz0xDEls) | [Lõhmus](https://open.spotify.com/artist/3TybHE2vGmjjIgpEpoogjE) | [Edasi](https://open.spotify.com/album/60g34Dm8jNth4tptfiYAr4) | 3:42 | 2022-09-02 |  |
 | [Elephant Trail](https://open.spotify.com/track/5SQga7WH3w5wr1OjaraB6W) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Morning Mist](https://open.spotify.com/album/0OM5gMRY7eOCCupk3nImmo) | 2:34 | 2022-06-01 | 2023-06-22 |
@@ -167,6 +167,7 @@
 | [Walk of the spirits](https://open.spotify.com/track/4JACIMZAYI7XVct3neUH90) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Walk of the spirits](https://open.spotify.com/album/5tuWm6iduv819xKUFhPDao) | 2:39 | 2023-08-10 |  |
 | [Well of Hope](https://open.spotify.com/track/1nL2bxBSNHt8tFI9T80XWn) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Well Of Hope](https://open.spotify.com/album/53dEbBBAkicA0G4mBDPkxc) | 3:08 | 2022-11-25 |  |
 | [Wild Rhythms](https://open.spotify.com/track/2zpLkW4Qb6mWm2cXErEe6T) | [Mysterious World Music](https://open.spotify.com/artist/1M25cy1w92G4Sf3Xnjogki) | [African Dance: Traditional Drums Music](https://open.spotify.com/album/4iyuNvRNniCwhh3oolXQ31) | 3:48 | 2022-05-17 | 2022-12-24 |
+| [Wind In My Sail](https://open.spotify.com/track/0RiSPCpSQvoNNCvlH8x1gT) | [Alxndr Julius](https://open.spotify.com/artist/0aFutwTiQmoC6utZBRgJxg) | [Wind In My Sail](https://open.spotify.com/album/2vY0L2idocwUjWQc9I24bg) | 2:40 | 2023-08-30 |  |
 | [Winds Of Hope](https://open.spotify.com/track/7Fk9G56CT7oAyqPRHCR54V) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:16 | 2022-05-17 |  |
 | [Woodworkings](https://open.spotify.com/track/762tPXLug1WSdhiTZiIcSm) | [Bengretzi Beat](https://open.spotify.com/artist/61vzuFv6SWUHKMlFpyhVzI) | [Woodworkings](https://open.spotify.com/album/2480lNUq7sdZZpUeriN50w) | 2:32 | 2022-08-12 |  |
 | [Yin Rhythmatism](https://open.spotify.com/track/5nhIw5ibl4jJ1Uu9Z4zg8q) | [Ahamkara](https://open.spotify.com/artist/0KriRLi8cRLqZU8SJQUgOf) | [Yin Rhythmatism](https://open.spotify.com/album/2L9IuGburCtgwiwxfCWlcT) | 4:06 | 2023-01-19 |  |

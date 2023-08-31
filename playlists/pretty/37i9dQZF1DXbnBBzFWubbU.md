@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,065 likes - 70 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,095 likes - 70 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 69 | [Chidiya](https://open.spotify.com/track/5YBz5gtNazOtbkQjUYWTjY) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Chidiya](https://open.spotify.com/album/7aVh40LYkpShPxOeGqRJis) | 6:08 |
 | 70 | [Khushboo](https://open.spotify.com/track/6jCdGmypAOe6o60FzDvMfU) | [Lost Boy](https://open.spotify.com/artist/6yukRPg1yk3DN6AiDYk48a) | [Khushboo](https://open.spotify.com/album/6e9cvzosWQiiUbnQ3kZmvJ) | 6:12 |
 
-Snapshot ID: `MCw2MWVkMDcyMTQ0OGU2MGIyMDgxNTMyYWJhYjc4NWRmMDNmMDNlMzIz`
+Snapshot ID: `MCxmNjUxZGQ2NmQxNmJiY2ZkYjc0Y2RlMjJhZTE3ODc5ZWVjN2Q0NzBj`

@@ -6364,7 +6364,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 144056,
       "name": "MANSA MUSA",
       "url": "https://open.spotify.com/track/4WX2fdICHuZevsl6NS0tWz"
@@ -7104,10 +7104,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 273626,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/3JHNieO8JATU24quh4tbPf"
+    },
+    {
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/5Fi81yu2mZDF8m136BRS6v"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273626,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
     },
     {
       "album": {
@@ -8604,6 +8622,28 @@
       "duration_ms": 156122,
       "name": "SAIGON VELOUR Pt. II",
       "url": "https://open.spotify.com/track/3PMetpagouPjdjk9C50Cb7"
+    },
+    {
+      "album": {
+        "name": "Saint Teresa",
+        "url": "https://open.spotify.com/album/6Ogj81elwzB4RoIQGnTACl"
+      },
+      "artists": [
+        {
+          "name": "Devon Church",
+          "url": "https://open.spotify.com/artist/7CBzDKeqUsPOqLyYwpvT1g"
+        },
+        {
+          "name": "Delicate Steve",
+          "url": "https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230709,
+      "name": "Saint Teresa",
+      "url": "https://open.spotify.com/track/1Xbdoqkt8YpTSELtUyFgNL"
     },
     {
       "album": {

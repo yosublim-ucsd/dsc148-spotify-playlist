@@ -1,13 +1,29 @@
 {
   "description": "All in us! ITZY is here to take their CAKE!",
-  "num_followers": 291398,
+  "num_followers": 291508,
   "original_name": "This Is ITZY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjVjNzJhOWIxM2RmZDJhNzY1ODc1YjlhNzVhM2FlNTExMjZmZTJm",
+  "snapshot_id": "MCxlMzIwNDlhODA3NzY0OGU3Njc4MTJiYWU5MjcwMTE4M2VjOGVkMGQ3",
   "tracks": [
+    {
+      "added_at": "2023-08-30 05:15:11",
+      "album": {
+        "name": "Trust Me (MIDZY) [Japanese ver.]",
+        "url": "https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 221638,
+      "name": "Trust Me (MIDZY) - Japanese ver.",
+      "url": "https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy"
+    },
     {
       "added_at": "2023-07-31 09:00:00",
       "album": {

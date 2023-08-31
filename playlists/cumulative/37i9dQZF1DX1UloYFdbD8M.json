@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Giddh",
+        "url": "https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO"
+      },
+      "artists": [
+        {
+          "name": "Thaikkudam Bridge",
+          "url": "https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Giddh",
+      "url": "https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP"
+    },
+    {
+      "album": {
         "name": "Co Creation Project: Kappa Originals x Bloom In Green '22",
         "url": "https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL"
       },

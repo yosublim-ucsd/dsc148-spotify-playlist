@@ -4,7 +4,7 @@
 
 > The top hits coming out of the G.O.O.D\. camp with <a href="spotify:artist:5K4W6rqBFWDnAN6FQUkS6x">Yeezy</a> at the helm.
 
-99 songs - 7 hr 7 min
+100 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [Movin' Around](https://open.spotify.com/track/6qxoXzFzKoM2eyiw9wXJQS) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Movin' Around](https://open.spotify.com/album/1ayhGw2cmjGmScRvdSF1cV) | 4:18 | 2018-06-20 | 2022-07-29 |
 | [Movin' Around \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/58CGJJUIKdbS1ptTaTaish) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [No Dope On Sundays](https://open.spotify.com/album/41eY9OdEmEw07TArIGYG4O) | 4:18 | 2018-06-20 |  |
 | [New God Flow](https://open.spotify.com/track/1DbeslBYnckTqqTcc1Y2Tg) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [New God Flow](https://open.spotify.com/album/3gFzpNzh1Kb48CwztWkeLu) | 4:54 | 2018-06-20 |  |
+| [Ni\*\*as In Paris](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:39 | 2022-09-23 |  |
 | [Ni\*\*as In Paris](https://open.spotify.com/track/2Zb7wnGUnNPCas2E0wWSQ5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d) | 3:39 | 2018-06-20 | 2022-07-29 |
-| [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 | 2018-06-20 |  |
+| [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 | 2018-06-20 | 2023-08-31 |
 | [Ordinary People](https://open.spotify.com/track/7BSnwGH37ggErkQbDPBXIq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Throwback Thursday R&B Jams](https://open.spotify.com/album/13Eiw8EAMPWby4QLHtkbFz) | 4:41 | 2022-09-23 | 2022-11-13 |
 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2018-06-20 |  |
 | [Ordinary People](https://open.spotify.com/track/58CrldAc1Z5WIBozT1NMJH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV) | 4:41 | 2018-06-20 | 2022-07-29 |

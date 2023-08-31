@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,960 likes - 111 songs - 6 hr 14 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,960 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 109 | [How High](https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [How High](https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f) | 3:12 |
 | 110 | [You](https://open.spotify.com/track/4bEhrJXoZuzVxZxiP8jzfs) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [You](https://open.spotify.com/album/7nLNrFYSLGQ0nDpxGBXNqz) | 2:36 |
 | 111 | [Bliss](https://open.spotify.com/track/17xeVh2ZpFfYPsC6JVeBbF) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Shylow](https://open.spotify.com/artist/0YUf68058a5Q4W0gSGOdi6), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Bliss](https://open.spotify.com/album/3BoSAkJgsGyLNTLO2eWpw0) | 3:04 |
+| 112 | [Dry Lungs](https://open.spotify.com/track/0Zv1cAT5U7r257yvtzlTyL) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [Xtra Pop](https://open.spotify.com/album/6KSljbq3i1XPjyLDN5bSau) | 3:50 |
+| 113 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 |
 
-Snapshot ID: `MTA0NDksNGE4ODMyY2RmMmUzMzZhNjdiNmQ0OWUzNjM3Zjk4ZGFhOGNlYWZhOQ==`
+Snapshot ID: `MTA0NTEsNmI0YjRjNDliZjZjNWIwZTA0MGIyMGZjYWY5Yjk2YzZjNmI0ZTUzYw==`

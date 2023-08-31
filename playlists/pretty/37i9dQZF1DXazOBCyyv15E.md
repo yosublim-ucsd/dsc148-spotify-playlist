@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Deyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,002 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,019 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 21 | [Strange Neighbour](https://open.spotify.com/track/6pHUXTAkA0oeZjUQNYkwWN) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Strange Neighbour](https://open.spotify.com/album/1hygYn9jF3ZldHAhFacnza) | 3:21 |
 | 22 | [The Notion](https://open.spotify.com/track/2J0X3sbHnMhUUsTqZLJsdn) | [Spector](https://open.spotify.com/artist/34nBPbcVc9F9eizQC4a5aT) | [The Notion](https://open.spotify.com/album/2F0nztkgzBMrgHpNqZQeH3) | 4:54 |
 | 23 | [Sweat](https://open.spotify.com/track/7HwP0lytsnQo4MKdqfVQt2) | [JAWS](https://open.spotify.com/artist/3E3NOIlw2s1ZPU9GRB9jaq) | [Sweat](https://open.spotify.com/album/7BXae87zZyq9Y1nDcHDJjU) | 3:46 |
-| 24 | [Cherry cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
+| 24 | [Cherry Cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry Cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
 | 25 | [Manhattan](https://open.spotify.com/track/0WMkBDaWr13JBRaIGMNyQu) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Manhattan](https://open.spotify.com/album/3iWkBhtKdPdzo7opnJRmTX) | 5:19 |
 | 26 | [Out There](https://open.spotify.com/track/106uRhMksIxm1FmlP6rcnP) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Soft Landing](https://open.spotify.com/album/6JafE12iZoyCQQkSN8muem) | 4:22 |
 | 27 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 |
 | 80 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 |
 
-Snapshot ID: `MCw4MzFiNmNhZWUxNmNkZTJjNzdlMmRlMjgzYzVjOTEyNDdkMDJkMmU0`
+Snapshot ID: `MCwwZDYyN2UzNTY1M2U2YTdlOTYzMjU4MDgxNWY5ZWVmZTEzNTUzMTNl`

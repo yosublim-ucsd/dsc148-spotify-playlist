@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Live now: die personal Picks eurer Lieblings\-Creator\*innen im "MEGA\-Playlist\-Takeover"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,161 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,993 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 |
 | 100 | [Montag](https://open.spotify.com/track/1aWcCv2d71eilvrUDNPwJr) | [Akutkarl](https://open.spotify.com/artist/2vPC9V7lUTVG0iGwztvWWz), [DJ Testö](https://open.spotify.com/artist/5IDfYJZqdTt1pnOyol6JIJ) | [Musik an, Welt aus Tape](https://open.spotify.com/album/5kqM78MuXcctyZHT2G0BHL) | 3:14 |
 
-Snapshot ID: `MCwxNTAzYjhjZDdmYTAzZDAxN2E4OWNiOTk2ZTg3ZDY4NTk4OTIwY2Q4`
+Snapshot ID: `MCxlMDIzOTZjMjZlNDc4ZGVlZWNhMWIxZjM2YTQ0YzYwZjYwMjMyMDEw`

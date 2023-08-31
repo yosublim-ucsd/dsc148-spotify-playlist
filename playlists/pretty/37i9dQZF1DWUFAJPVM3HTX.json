@@ -1,13 +1,193 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: Gareth Donkin. Updates every Wednesday.",
-  "num_followers": 208436,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a?si=n17uk_oWR_2qe6Z6WyHLtQ\">theARTi$t</a>. Updates every Wednesday.",
+  "num_followers": 208657,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTI3YjhlZmI0N2VkNDQ4YmI4NzdkMDE5Yzc2M2ZhMGEyYmQ3Mjcz",
+  "snapshot_id": "MCxjZGRiOTFkZDNhMTUxZDU1OWJjZWQ5YTRlZjhlNDkzM2QyNTg4M2Yx",
   "tracks": [
+    {
+      "added_at": "2023-08-30 07:52:02",
+      "album": {
+        "name": "ARTchives",
+        "url": "https://open.spotify.com/album/0gb4DvjQAURA9LEu7RQr9A"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Love Outloud",
+      "url": "https://open.spotify.com/track/0jj4TBUdZK5IekIzzYnqyU"
+    },
+    {
+      "added_at": "2023-08-30 07:52:02",
+      "album": {
+        "name": "Get Back",
+        "url": "https://open.spotify.com/album/6ECWMYaP6WjVX8IUdtnfaf"
+      },
+      "artists": [
+        {
+          "name": "Frank Sativa",
+          "url": "https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2"
+        }
+      ],
+      "duration_ms": 101333,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/4lgaAcJuVx9HpAq86PA41J"
+    },
+    {
+      "added_at": "2023-08-30 07:52:02",
+      "album": {
+        "name": "Wishes Love Could Stand On",
+        "url": "https://open.spotify.com/album/1YCjioNSKFBzvxwIcKR6xV"
+      },
+      "artists": [
+        {
+          "name": "sectiontoo",
+          "url": "https://open.spotify.com/artist/3AfDFNOpXAPEPlFFrBMOL3"
+        },
+        {
+          "name": "loe4t",
+          "url": "https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe"
+        }
+      ],
+      "duration_ms": 205900,
+      "name": "Wishes Love Could Stand On",
+      "url": "https://open.spotify.com/track/24AZ0QtDphqW23S1ceNZUY"
+    },
+    {
+      "added_at": "2023-08-30 07:52:02",
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3mkncf9tteEk1EhGuH74uK"
+      },
+      "artists": [
+        {
+          "name": "7TEN",
+          "url": "https://open.spotify.com/artist/1HwqBieupHIE95yfdPxLge"
+        },
+        {
+          "name": "Aniya Teno",
+          "url": "https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/57XmGSfCeU9Q1dhznMcvt5"
+        },
+        {
+          "name": "JoshSimmons",
+          "url": "https://open.spotify.com/artist/0JFppXf80RNwxZ2nrtdh4H"
+        }
+      ],
+      "duration_ms": 213797,
+      "name": "In Due Time",
+      "url": "https://open.spotify.com/track/5tDNtILTVMWi41s4dXXRkB"
+    },
+    {
+      "added_at": "2023-08-30 07:52:02",
+      "album": {
+        "name": "five more",
+        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "five more",
+      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+    },
+    {
+      "added_at": "2023-08-30 15:33:34",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/6o3EiOe6XB06mZzikAO82m"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "duration_ms": 139263,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/6FG4SDaXTFG80ZPU20NoIh"
+    },
+    {
+      "added_at": "2023-08-30 07:52:02",
+      "album": {
+        "name": "Sweetest Sin",
+        "url": "https://open.spotify.com/album/0r0wYYuSewUIkkQdyQi1KK"
+      },
+      "artists": [
+        {
+          "name": "Tyler Loyal",
+          "url": "https://open.spotify.com/artist/7pgbjv3FWqKcMKQckkbd3j"
+        }
+      ],
+      "duration_ms": 217888,
+      "name": "Sweetest Sin",
+      "url": "https://open.spotify.com/track/5QudFQ4x0fO9e4gmN6lTSt"
+    },
+    {
+      "added_at": "2023-08-30 07:52:02",
+      "album": {
+        "name": "100 BPM",
+        "url": "https://open.spotify.com/album/6BZzsMI4kKCEDvVOnZ6Vhp"
+      },
+      "artists": [
+        {
+          "name": "Sage Harris",
+          "url": "https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2"
+        }
+      ],
+      "duration_ms": 172450,
+      "name": "100 BPM",
+      "url": "https://open.spotify.com/track/7iE0AVFYGnkAAiIIQDLU7R"
+    },
+    {
+      "added_at": "2023-08-30 07:52:02",
+      "album": {
+        "name": "Safe Than Sorry (MajorStage Live)",
+        "url": "https://open.spotify.com/album/2cO4RIWkvEZ1mk3HGZLLSi"
+      },
+      "artists": [
+        {
+          "name": "Eric Penn",
+          "url": "https://open.spotify.com/artist/2zteg0RniUJB7gWVm9LfO1"
+        },
+        {
+          "name": "MajorStage",
+          "url": "https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI"
+        }
+      ],
+      "duration_ms": 211948,
+      "name": "Safe Than Sorry (MajorStage Live)",
+      "url": "https://open.spotify.com/track/2RDHbrWTCkdmRneF1WlQJP"
+    },
+    {
+      "added_at": "2023-08-30 07:52:02",
+      "album": {
+        "name": "despite me",
+        "url": "https://open.spotify.com/album/0woG7JBmCVLhQ6ViaiyIZZ"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        }
+      ],
+      "duration_ms": 158959,
+      "name": "despite me",
+      "url": "https://open.spotify.com/track/3WlUBJONyiSprTZ7IrAzRz"
+    },
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {

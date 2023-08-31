@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DISKOTEK DISKOTEKA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,172 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,225 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 43 | [SEXA JÄGER](https://open.spotify.com/track/6mxteJyEcyzPZa5G2i23yM) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [SEXA JÄGER](https://open.spotify.com/album/5KC25kQk6g0g5M6VVZ9PSD) | 2:06 |
 | 44 | [DotA](https://open.spotify.com/track/2fVXj4OsaU6OG3gFROCzLe) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [DotA](https://open.spotify.com/album/3YdQwpnZdbUn9Pumk6Ul4N) | 2:35 |
 | 45 | [KAN INTE HÄNGA MÄ](https://open.spotify.com/track/2zThZucARCmrOaTahouYLf) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [KAN INTE HÄNGA MÄ](https://open.spotify.com/album/1MJthfnqt2KEQHmbRukjXu) | 2:13 |
-| 46 | [INGEN BOLIBOMPA](https://open.spotify.com/track/06lbGxp1frwKe5btqQv0mI) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [INGEN BOLIBOMPA](https://open.spotify.com/album/0jry7nGa0xIbXFPW13k5OG) | 2:03 |
+| 46 | [INGEN](https://open.spotify.com/track/0hGL1aJyyMSYxkPgWPSsr4) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [INGEN](https://open.spotify.com/album/2Snw2WT2Koxg85odaDLBB6) | 2:03 |
 | 47 | [Letkis\-Jenka \- J.O.X Remix](https://open.spotify.com/track/4ohlsV71gpOkHUykUphfE9) | [Lill\-Babs](https://open.spotify.com/artist/1YlYLkI3GlVDFSQGjMXWbt), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Letkis\-Jenka \(J.O.X Remix\)](https://open.spotify.com/album/6aNAIk2omYBIFdv81UP2kZ) | 2:21 |
 | 48 | [5 SHOTS](https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [5 SHOTS](https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln) | 2:08 |
 | 49 | [DET REGNAR OCH REGNAR](https://open.spotify.com/track/2jArM9FF44WSlruXIFDkOE) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [DET REGNAR OCH REGNAR](https://open.spotify.com/album/4Lr0wvVcohJXN6ujP4x4DT) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Igelkott](https://open.spotify.com/track/6ImJTRiCekTTfVRf5FDmEf) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Igelkott](https://open.spotify.com/album/7G4DnWKQz9Bc0BqJy3zUAi) | 2:21 |
 | 100 | [5 LAKAN PÅ LOGEN](https://open.spotify.com/track/73zO4aHKMK4STBOHcklcOy) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [5 LAKAN PÅ LOGEN](https://open.spotify.com/album/5wA7aNe3otrnDMTdZ4oXaV) | 2:01 |
 
-Snapshot ID: `MCxlMmVlZTM2ZWQ0Y2Y0YmM5ODViMGNmMmM4OTNkOTNmMTM3YTQyMTVm`
+Snapshot ID: `MCw1NTgwYTU4ZDYyZWI4YWEyZDI2Y2M0MzhkNjkwYTMyOWEyNWM1OWEw`

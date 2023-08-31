@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,651 likes - 284 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,804 likes - 284 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,7 +199,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 189 | [Sunset](https://open.spotify.com/track/1oeQdhUgs8S5URBj4NH47H) | [d\_biggles](https://open.spotify.com/artist/2hNBICbgDFRR7DzXcWXVak) | [Sunset](https://open.spotify.com/album/6drmcy7aPLHFOegYzMhb61) | 2:25 |
 | 190 | [Argue](https://open.spotify.com/track/3MAmLnvAhpUrUQA9M3Hh9E) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Argue](https://open.spotify.com/album/5i6KZtEr9LXM351MRHW9nm) | 2:15 |
 | 191 | [Moonlight](https://open.spotify.com/track/3dImuarueZwBVTILr3Co6Q) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Moonlight](https://open.spotify.com/album/0AzYXLBK5NA1BaDM2gcsRw) | 2:24 |
-| 192 | [Green Apple](https://open.spotify.com/track/5IpOjBwwzJ9bBF0iYynrvs) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/4blv62dlpmGnG2NWpcLALl) | 2:45 |
+| 192 | [Green Apple](https://open.spotify.com/track/75lI8teC4XoCbFosoDGrRk) | [Cone & The Cones](https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ) | [In the Kitchen](https://open.spotify.com/album/44GAx3WI8GBIrTzBn4vB5e) | 2:45 |
 | 193 | [yugen](https://open.spotify.com/track/4EoHSd3lQ0rxtpudzXmiwp) | [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [Yugen](https://open.spotify.com/album/5mEko7sUy7vTn7Yvlmx0ij) | 1:45 |
 | 194 | [Hiking in the Jungle](https://open.spotify.com/track/6Oo8Di9ZSgWVVFVpAl4B8p) | [Chilled Empire](https://open.spotify.com/artist/5o2nLTAv9McjAI3phAtyst), [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [satunes](https://open.spotify.com/artist/6JPsu6BEY3JvPucBOeBCQY) | [Hiking in the Jungle](https://open.spotify.com/album/2lgwadMTpNgbp5NVYWPy4N) | 1:51 |
 | 195 | [Two Apples](https://open.spotify.com/track/6hn0Gp7uwCqKseMDMlzaAV) | [Kokta beats](https://open.spotify.com/artist/2ETiol5Kw5v2LFEjGLnlbS) | [Two Apples](https://open.spotify.com/album/6xmghNjvKSvsBrKmilzZeu) | 2:09 |
@@ -293,4 +293,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 283 | [Saint Remi](https://open.spotify.com/track/6b0HoYY2sBYrdrCHkIkMjC) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Saint Remi](https://open.spotify.com/album/4mcHYh8nyGb0jPd66pwkmC) | 1:42 |
 | 284 | [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 |
 
-Snapshot ID: `MCwxNmIyODM4NDQzYTM1NTk2OTljMmMwZjRhNzhiNWYyZGJiMmMxODY1`
+Snapshot ID: `MCxjNTFjYzI0N2M5YzJlMDFhOWExYTgwNjI0ODliZDJmMWM3MTBkNTli`

@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-147 songs - 9 hr 57 min
+148 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 | 2022-11-25 |  |
 | [Aires Navideños](https://open.spotify.com/track/5aXFP07TGvWno27s3YNSS1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7) | [Pa' mi Gente](https://open.spotify.com/album/4h29hT64GDgOUwoNbaJTsp) | 4:45 | 2022-11-25 |  |
 | [Al Niño Dios](https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Al Niño Dios](https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo) | 2:33 | 2022-12-13 |  |
-| [Alegre Vengo Cantando](https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu) | [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:50 | 2022-12-18 |  |
+| [Alegre Vengo Cantando](https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu) | [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:50 | 2022-12-18 | 2023-08-31 |
 | [Alegría y Paz](https://open.spotify.com/track/2iRGYU4rlm2X52oxYdAyki) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 3:03 | 2022-11-25 | 2022-12-14 |
 | [Alma Navideña](https://open.spotify.com/track/2y4NSNVGItmbIcfa7yiI5w) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Grandes Exitos de Salsa, Vol\. 2](https://open.spotify.com/album/2htqg9e6AGwnIoVc0kceDU) | 4:24 | 2022-11-25 | 2022-12-19 |
 | [Amarga Navidad](https://open.spotify.com/track/4fZBE3doOyCXbWbpsN6JHN) | [Melina Leon](https://open.spotify.com/artist/5oj50e6WeS3yFv92YDOfXA), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cantares de Navidad](https://open.spotify.com/album/5QVUro4ilT7jzJ7o7cQWNF) | 4:47 | 2022-11-25 | 2022-12-19 |
@@ -118,6 +118,7 @@
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-11-25 |  |
 | [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 | 2022-12-18 |  |
 | [Montados en Bicicleta](https://open.spotify.com/track/7vK2y43KQm04iH0C3DHI2T) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Montados en Bicicleta](https://open.spotify.com/album/2Zih48eHIEcLOgJdZopLkS) | 4:00 | 2023-08-16 | 2023-08-29 |
+| [Navidad](https://open.spotify.com/track/3JH8P81S1bWU4CDsIBDzYl) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Bachatero En Navidad](https://open.spotify.com/album/700I6ALf2ZqgfZvquxrjFM) | 4:39 | 2023-08-16 |  |
 | [Navidad](https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Aniversario, Vol\. 2](https://open.spotify.com/album/3dfbVFrxtpZyz4KNmOq7oe) | 5:05 | 2023-08-16 |  |
 | [Navidad Con Mi Gente](https://open.spotify.com/track/4wHHRsP2Ifxnj0AhsjEyNQ) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Navidad Con Mi Gente](https://open.spotify.com/album/0hnilJiSbfzm9EoTgeZQjl) | 3:45 | 2022-11-25 |  |
 | [Navidad en Mi Barrio](https://open.spotify.com/track/2p4NQR05RqzwHsUVXRTNeB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 5:18 | 2022-12-18 | 2023-08-17 |

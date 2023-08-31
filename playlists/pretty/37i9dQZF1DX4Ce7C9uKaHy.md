@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,604 likes - 80 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,610 likes - 80 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 69 | [Meet You in the Park](https://open.spotify.com/track/4it9vYyCde5RrYXxqBbxKo) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Calm Lands](https://open.spotify.com/album/4dglmAUDnppEU1kx3zRCPJ) | 2:31 |
 | 70 | [Pure Imagination](https://open.spotify.com/track/6redzaZ6sGkqvZiUxKLYB8) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Discography](https://open.spotify.com/album/6d5aTFlnrl6n2U9Q7f8HNV) | 1:52 |
 | 71 | [Sometimes](https://open.spotify.com/track/5tAp0bYvWzBQqTWCBiAwf8) | [Kilmalu](https://open.spotify.com/artist/62UCV3nYWbWpXRNXbBjU4G) | [Sometimes](https://open.spotify.com/album/46z9nN5SP1D4W4JR0Ff6Rp) | 2:10 |
-| 72 | [Both of Us](https://open.spotify.com/track/1ADffIiBVfqDSRb8LKE3pU) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Both of Us](https://open.spotify.com/album/3zY1NSZAdVDljcs0SeG63K) | 1:55 |
+| 72 | [Both of Us](https://open.spotify.com/track/4hnhSZTKf77tZjOBjzL5BM) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Raw Cuts 2](https://open.spotify.com/album/1FxqDi3bJ8tL1nyQz1MHY1) | 1:53 |
 | 73 | [What If It All Turned out Fine](https://open.spotify.com/track/5gcOwfYRvWbDwho79MwpR5) | [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA) | [Before You Go](https://open.spotify.com/album/6rZmtp1Bc9n0rN20uqsLea) | 2:41 |
 | 74 | [sleep static](https://open.spotify.com/track/3Y7o45SbDTvzKrlkVLut4y) | [luvwn](https://open.spotify.com/artist/7nVUUnsqtNsHsClBi5gPwl) | [sleep static](https://open.spotify.com/album/7kxWQptPxIOHYQklLsvuFg) | 1:38 |
 | 75 | [Lonely Place](https://open.spotify.com/track/3TK5Af29Ba9pjE0eSsujGe) | [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Lonely Place](https://open.spotify.com/album/4knByOxlegNO6AIipucQXp) | 2:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 79 | [Take Five](https://open.spotify.com/track/11ppb9MvpzxbmChaakrKKK) | [Channel Blue](https://open.spotify.com/artist/7KJsrz0B4NjLsJMcyW3HZ8) | [Take Five](https://open.spotify.com/album/1lIfPSq2TmUxaGOiUKmUP0) | 2:18 |
 | 80 | [Moonlight](https://open.spotify.com/track/0fgWMwqn3me97RFl2CTOKP) | [A L E X](https://open.spotify.com/artist/3nCJkmgdZQ6l8o828Y3vNQ) | [Growing Up, Vol\. 3](https://open.spotify.com/album/2AldFXJiuHfti8YgkUNQTG) | 3:38 |
 
-Snapshot ID: `MCxmNGMzNTQ1NWIxODgyNWQyNTVkZWI4ZGU3ZGFjY2RhYTUxZWE1YjYw`
+Snapshot ID: `MCxiNjFjYTM5YjJmYjQxMTUyZGNlZWFiMmUxODhhMTcxMWM5MzY3NmU2`

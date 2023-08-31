@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,478 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,596 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 7 | [Deux Pensées](https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Deux Pensées](https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA) | 2:49 |
 | 8 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 2:56 |
 | 9 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 |
-| 10 | [Kinderszenen, Op\. 15: 7\. Träumerei](https://open.spotify.com/track/3WUgND9BFNDFEbkCB9AzHg) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Gina Alice](https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb) | [Schumann: Kinderszenen, Op\. 15: 7\. 梦幻曲](https://open.spotify.com/album/0KLbEsucZJHClx3bjLeZbu) | 3:14 |
+| 10 | [7\. 梦幻曲](https://open.spotify.com/track/3WUgND9BFNDFEbkCB9AzHg) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Gina Alice](https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb) | [Schumann: Kinderszenen, Op\. 15: 7\. 梦幻曲](https://open.spotify.com/album/0KLbEsucZJHClx3bjLeZbu) | 3:14 |
 | 11 | [Unveiled Heart](https://open.spotify.com/track/12TZ1udjVPTow1wa2Blz4v) | [Kris Baines](https://open.spotify.com/artist/0DnefNy8Mz9NsSXV8YjsuO) | [Unveiled Heart](https://open.spotify.com/album/4fsaBBklXYGdGgU0lWBzsr) | 1:57 |
 | 12 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 |
 | 13 | [Still Day](https://open.spotify.com/track/1505n8rEQ4XBoiEXDoSbLc) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ) | [Rarities \- Piano](https://open.spotify.com/album/4uSxyDvTRZUvSElk9Rasza) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 99 | [Piano Sonata No\. 9: II\. Lento](https://open.spotify.com/track/28E9jz4D9f3j4pkLo67ZFe) | [Anis Fuleihan](https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E), [Tatiana Primak\-Khoury](https://open.spotify.com/artist/1erZzEQ3UqiP7kNDe2rQy6) | [Lebanese Piano Music](https://open.spotify.com/album/6C6FXqvkxp62ZmImOXuHPz) | 4:08 |
 | 100 | [Aria variata in A Minor, BWV 989: Var\. 10, —](https://open.spotify.com/track/4U9G8GTbNsResg1stwT3BK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tamara Stefanovich](https://open.spotify.com/artist/3j715uRkAjPRwIvUB7ruMC) | [Influences](https://open.spotify.com/album/4Ue2myfhYRmIcbowoQCAnY) | 2:32 |
 
-Snapshot ID: `MCw1MzZhYjVjZDM4ZjExNzA5MTFlYjFhMmIyZjBmYmI2ZTAzMzA1YWI5`
+Snapshot ID: `MCxmNzhhMDVkYzhhMDUzZTkyZGY0YWM4OThiOTMxZjFmODQwNDlkMmJj`

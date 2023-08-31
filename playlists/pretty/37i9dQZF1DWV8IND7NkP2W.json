@@ -1,12 +1,12 @@
 {
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 429855,
+  "num_followers": 429890,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDlhMzBhY2M1ZDdjNWI2NzYwY2Q5NWFjY2FlMWE2NTZmOWI5ZGQ5",
+  "snapshot_id": "MCw0MmFmYzA2OWIxMDg0OGI5YWZhMTk2YTlhMDc2NDA2MTk3ZTk0YWE4",
   "tracks": [
     {
       "added_at": "2023-08-29 15:00:00",
@@ -347,26 +347,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Hizuru (Jazztronik Remix)",
-        "url": "https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd"
+        "name": "choppy",
+        "url": "https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh"
       },
       "artists": [
         {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        },
-        {
-          "name": "Excursions",
-          "url": "https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o"
-        },
-        {
-          "name": "Hizuru",
-          "url": "https://open.spotify.com/artist/0KMviWZDLVXQvl1Hl3RDoe"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 241369,
-      "name": "Hizuru - Jazztronik Remix",
-      "url": "https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU"
+      "duration_ms": 133968,
+      "name": "choppy",
+      "url": "https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -499,18 +491,26 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Arigato Mama",
-        "url": "https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce"
+        "name": "Hizuru (Jazztronik Remix)",
+        "url": "https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd"
       },
       "artists": [
         {
-          "name": "Dj Yutaka",
-          "url": "https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn"
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        },
+        {
+          "name": "Excursions",
+          "url": "https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o"
+        },
+        {
+          "name": "Hizuru",
+          "url": "https://open.spotify.com/artist/0KMviWZDLVXQvl1Hl3RDoe"
         }
       ],
-      "duration_ms": 189058,
-      "name": "Arigato Mama",
-      "url": "https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi"
+      "duration_ms": 241369,
+      "name": "Hizuru - Jazztronik Remix",
+      "url": "https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "choppy",
-        "url": "https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh"
+        "name": "Arigato Mama",
+        "url": "https://open.spotify.com/album/70gkTjKai4oN4fEtDXL8Ce"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "Dj Yutaka",
+          "url": "https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn"
         }
       ],
-      "duration_ms": 133968,
-      "name": "choppy",
-      "url": "https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk"
+      "duration_ms": 189058,
+      "name": "Arigato Mama",
+      "url": "https://open.spotify.com/track/2yxnnVeeS0s4hUqhFiDEdi"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Hey",
-        "url": "https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx"
-      },
-      "artists": [
-        {
-          "name": "Noji",
-          "url": "https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Gift of love",
         "url": "https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 126826,
       "name": "Gift of love",
       "url": "https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx"
+      },
+      "artists": [
+        {
+          "name": "Noji",
+          "url": "https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "gentle rain",
-        "url": "https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "gentle rain",
-      "url": "https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/4MkRP9wJ457pLUwL4RIEo4"
       },
@@ -1111,6 +1079,22 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I"
       },
@@ -1127,22 +1111,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Origami Skizzen",
-        "url": "https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF"
+        "name": "gentle rain",
+        "url": "https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP"
       },
       "artists": [
         {
-          "name": "Midan",
-          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
-        },
-        {
-          "name": "AHNAMUSICA",
-          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
         }
       ],
-      "duration_ms": 152156,
-      "name": "Jazz Neko",
-      "url": "https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda"
+      "duration_ms": 90000,
+      "name": "gentle rain",
+      "url": "https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1167,6 +1147,26 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
+        "name": "Origami Skizzen",
+        "url": "https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "AHNAMUSICA",
+          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
+        }
+      ],
+      "duration_ms": 152156,
+      "name": "Jazz Neko",
+      "url": "https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "City of light",
-        "url": "https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        }
-      ],
-      "duration_ms": 209412,
-      "name": "City of light",
-      "url": "https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "City of light",
+        "url": "https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        }
+      ],
+      "duration_ms": 209412,
+      "name": "City of light",
+      "url": "https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "ameagari",
-        "url": "https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 252473,
-      "name": "ameagari",
-      "url": "https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "ode to N",
         "url": "https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 134789,
       "name": "ode to N",
       "url": "https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "ameagari",
+        "url": "https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 252473,
+      "name": "ameagari",
+      "url": "https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY"
-      },
-      "artists": [
-        {
-          "name": "JABBERLOOP",
-          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Sir",
-      "url": "https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
       },
@@ -1367,34 +1351,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "NOTE",
-        "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY"
       },
       "artists": [
         {
-          "name": "Shin Sakiura",
-          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+          "name": "JABBERLOOP",
+          "url": "https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2"
         }
       ],
-      "duration_ms": 222433,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/60nkYijW61SLHlTPls1yIJ"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
-        "name": "Toucan",
-        "url": "https://open.spotify.com/album/1AybPKANweher1ysHuXOC7"
-      },
-      "artists": [
-        {
-          "name": "NOA NOA",
-          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Toucan",
-      "url": "https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT"
+      "duration_ms": 216440,
+      "name": "Sir",
+      "url": "https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1415,18 +1383,34 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "In A Dream",
-        "url": "https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y"
+        "name": "Toucan",
+        "url": "https://open.spotify.com/album/1AybPKANweher1ysHuXOC7"
       },
       "artists": [
         {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "NOA NOA",
+          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
         }
       ],
-      "duration_ms": 159370,
-      "name": "In A Dream",
-      "url": "https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM"
+      "duration_ms": 214000,
+      "name": "Toucan",
+      "url": "https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "NOTE",
+        "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
+      },
+      "artists": [
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        }
+      ],
+      "duration_ms": 222433,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/60nkYijW61SLHlTPls1yIJ"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 96000,
       "name": "A Dream About Ice Skating",
       "url": "https://open.spotify.com/track/2y5sDyzoEDreMgZ9bZcXGS"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "In A Dream",
+        "url": "https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 159370,
+      "name": "In A Dream",
+      "url": "https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1507,50 +1507,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+        "name": "Waterfall Dreams",
+        "url": "https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA"
       },
       "artists": [
         {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
         }
       ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
-        "name": "JUST KEEP IT",
-        "url": "https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE"
-      },
-      "artists": [
-        {
-          "name": "DJ FRIP a.k.a. BeatLab",
-          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
-        }
-      ],
-      "duration_ms": 193411,
-      "name": "JUST KEEP IT",
-      "url": "https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
-        "name": "Cross the Bridge",
-        "url": "https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 138913,
-      "name": "Cross the Bridge",
-      "url": "https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs"
+      "duration_ms": 114000,
+      "name": "Ryukyu",
+      "url": "https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1575,18 +1543,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+        "name": "JUST KEEP IT",
+        "url": "https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE"
       },
       "artists": [
         {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
         }
       ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+      "duration_ms": 193411,
+      "name": "JUST KEEP IT",
+      "url": "https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1607,18 +1575,50 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Waterfall Dreams",
-        "url": "https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA"
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
       "artists": [
         {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Ryukyu",
-      "url": "https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16"
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+      },
+      "artists": [
+        {
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+        }
+      ],
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs"
     },
     {
       "added_at": "2023-08-29 15:00:00",

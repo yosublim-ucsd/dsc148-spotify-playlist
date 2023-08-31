@@ -6513,6 +6513,28 @@
     },
     {
       "album": {
+        "name": "Ser\u00e1 Que Sentes",
+        "url": "https://open.spotify.com/album/76Hyfry2p94YnfTJrnbh64"
+      },
+      "artists": [
+        {
+          "name": "BiDU",
+          "url": "https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg"
+        },
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172229,
+      "name": "Ser\u00e1 Que Sentes",
+      "url": "https://open.spotify.com/track/2XeXwzaBmXXHq2yQvvvqJE"
+    },
+    {
+      "album": {
         "name": "Sil\u00eancio",
         "url": "https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8"
       },
@@ -6948,7 +6970,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 156134,
       "name": "S\u00f3 uma Noite",
       "url": "https://open.spotify.com/track/4IE65liqpq2jxwj77ih2MK"

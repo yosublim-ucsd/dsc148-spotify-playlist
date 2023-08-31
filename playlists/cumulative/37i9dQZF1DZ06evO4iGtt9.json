@@ -702,7 +702,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 262478,
       "name": "Gbo Se Wo (feat. Timaya)",
       "url": "https://open.spotify.com/track/0boSTKIwz0fuPrWegoMqXs"
@@ -1382,6 +1382,24 @@
       "duration_ms": 244052,
       "name": "One Chance (feat. Timaya)",
       "url": "https://open.spotify.com/track/7E51qlKkIS4DJEoieDDM2A"
+    },
+    {
+      "album": {
+        "name": "Best Of Timaya",
+        "url": "https://open.spotify.com/album/6TqxXp18xYFYqwxXR6qCOE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246120,
+      "name": "Plantain Boy",
+      "url": "https://open.spotify.com/track/2meBCVaypff9yy1jhnqqv0"
     },
     {
       "album": {

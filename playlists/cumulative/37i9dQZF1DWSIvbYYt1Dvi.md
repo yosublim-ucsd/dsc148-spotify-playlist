@@ -2,7 +2,7 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> pumapji e sonotws é AULAS
+> pumapjl e sonotws é AULAS
 
 216 songs - 12 hr 12 min
 

@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Karen Souza
 
-338 songs - 1 day 0 hr 27 min
+339 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Hedwig’s Theme from "Harry Potter and the Sorcerer’s Stone"](https://open.spotify.com/track/4GAYD9V2N7i4duF2wDfPDF) | [Benjamin Petit](https://open.spotify.com/artist/7thiPAfYOfJoDeroIQxaKQ), [Julia Perminova](https://open.spotify.com/artist/7t2BzzV0E1usdCusZIST72), [Raphaël Pannier](https://open.spotify.com/artist/5C9hm95fwfcWi7vioKUI9x), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj), [Sylvain Gontard](https://open.spotify.com/artist/70mElInIklqBRDipzilh2P) | [Dear John](https://open.spotify.com/album/6RlGEJ7lvJllvCu4bt80kA) | 4:24 | 2022-12-08 | 2023-02-10 |
 | [Herbie’s Dance](https://open.spotify.com/track/7hesAzyUW6ObSHGqX2NUbx) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF), [Nguyên Lê](https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Herbie's Dance](https://open.spotify.com/album/1clnxwZjzbtYExWQXrdBhR) | 4:52 | 2023-01-12 | 2023-04-07 |
 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 | 2022-04-14 | 2022-06-03 |
-| [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-07 |  |
+| [Hope](https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:01 | 2023-08-24 |  |
+| [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-07 | 2023-08-31 |
 | [How Did You Get In My Dreams?](https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [How Did You Get In My Dreams?](https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7) | 3:37 | 2023-08-07 |  |
 | [I Am The Walrus](https://open.spotify.com/track/1FQ36swxT2Zn0K5xlwkxUg) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [I Am The Walrus](https://open.spotify.com/album/4Py5viNf0Lzt14Od4iTCNJ) | 4:14 | 2023-01-12 | 2023-02-17 |
 | [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 | 2023-07-13 |  |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Return to Carnegie Hall",
+        "url": "https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221768,
+      "name": "16 Days - Live at Carnegie Hall, May 14. 2022",
+      "url": "https://open.spotify.com/track/0701MUEpMENWGuyYIW1IvP"
+    },
+    {
+      "album": {
         "name": "Chris",
         "url": "https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 252075,
       "name": "Burning Photographs",
       "url": "https://open.spotify.com/track/6PKNfjoN5MLXoqdTSjq6I4"
@@ -488,6 +506,24 @@
       "duration_ms": 219139,
       "name": "Chris - Live at Carnegie Hall, May 14, 2022",
       "url": "https://open.spotify.com/track/4NSemr6oNuIcVCioLgo1r8"
+    },
+    {
+      "album": {
+        "name": "Return to Carnegie Hall",
+        "url": "https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206246,
+      "name": "Chris - Live at Carnegie Hall, May 14. 2022",
+      "url": "https://open.spotify.com/track/6PiCMlI8V5DjaSOdej5Cmn"
     },
     {
       "album": {
@@ -628,7 +664,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 180640,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/3TVSDKECnlWmmGLyX6jEm1"
@@ -754,7 +790,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 174120,
       "name": "Doylestown Girl",
       "url": "https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh"
@@ -1928,6 +1964,24 @@
       "duration_ms": 261065,
       "name": "Outbound Train",
       "url": "https://open.spotify.com/track/6eGBTRiVkcrSHDr5S4Xf4T"
+    },
+    {
+      "album": {
+        "name": "Return to Carnegie Hall",
+        "url": "https://open.spotify.com/album/2owktfAn8N3ZeiQl75G58Q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252207,
+      "name": "Outbound Train - Live at Carnegie Hall, May 14. 2022",
+      "url": "https://open.spotify.com/track/1QCxDteS6iTc60cQXbivZw"
     },
     {
       "album": {

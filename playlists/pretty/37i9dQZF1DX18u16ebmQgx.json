@@ -1,13 +1,349 @@
 {
   "description": "\u00a1Brillando baldosa! Foto: Grupo Niche",
-  "num_followers": 126365,
+  "num_followers": 126417,
   "original_name": "Salsa Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2UwYTM2MGU0YThhMDE3NjNhMDIwNGMzNzYxNWMxYzBjOThmNzBi",
+  "snapshot_id": "MCxlYjMzZDljOTMzMjIxZDgxOWI4ZjMyNTFjMjA1M2E5MzYwYmY2MGJj",
   "tracks": [
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "32 Ca\u00f1onazos",
+        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 312480,
+      "name": "En Barranquilla Me Quedo",
+      "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Niche Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        },
+        {
+          "name": "Orquesta Sinf\u00f3nica Nacional de Colombia",
+          "url": "https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W"
+        }
+      ],
+      "duration_ms": 376951,
+      "name": "Ese D\u00eda - Versi\u00f3n Sinf\u00f3nica",
+      "url": "https://open.spotify.com/track/5FmxyYJlL2VA2Bc0lN6xrG"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Antioque\u00f1a",
+        "url": "https://open.spotify.com/album/6XC3sy2ZJvlDj6ezJLx8eb"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Timbiqui",
+          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
+        }
+      ],
+      "duration_ms": 269777,
+      "name": "Antioque\u00f1a",
+      "url": "https://open.spotify.com/track/0q9gWhv4K5GKzkJW80PYgS"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Hagamos Lo Que Diga el Coraz\u00f3n (Versi\u00f3n Sinf\u00f3nica)",
+        "url": "https://open.spotify.com/album/4oQHXfUffQUYqRgb6zc4A2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        },
+        {
+          "name": "Orquesta Sinf\u00f3nica Nacional de Colombia",
+          "url": "https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W"
+        }
+      ],
+      "duration_ms": 338800,
+      "name": "Hagamos Lo Que Diga el Coraz\u00f3n - Versi\u00f3n Sinf\u00f3nica",
+      "url": "https://open.spotify.com/track/4hylk17Bo5u7qK7FfjNz7v"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Soy la Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt"
+      },
+      "artists": [
+        {
+          "name": "Manyoma Brothers",
+          "url": "https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3"
+        }
+      ],
+      "duration_ms": 267541,
+      "name": "Logr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/0xzD4fqCgoO8PJ7mvVtJ7K"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 257631,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/1FL6Q7hHgcdeTqGWvvVZYE"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Dilema",
+        "url": "https://open.spotify.com/album/7174cMsFU58E6JGbi3XOFK"
+      },
+      "artists": [
+        {
+          "name": "Janco Janner",
+          "url": "https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/4oNLeMYQUM4qfmZvfrToA0"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "La \u00danica",
+        "url": "https://open.spotify.com/album/1SCjBabL3glZMAXCwqC5W7"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Ensamble",
+          "url": "https://open.spotify.com/artist/2D6mQmDTdaLcA9BZytb4yk"
+        }
+      ],
+      "duration_ms": 177179,
+      "name": "La \u00danica",
+      "url": "https://open.spotify.com/track/4ecq0bpcAfBzdAwA20Sy5M"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287441,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Sin Par",
+        "url": "https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 256053,
+      "name": "Un Amor Bonito",
+      "url": "https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 325642,
+      "name": "Oiga, Mire, Vea",
+      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Ya No Me Llames Mas",
+        "url": "https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh"
+      },
+      "artists": [
+        {
+          "name": "Janco Janner",
+          "url": "https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn"
+        }
+      ],
+      "duration_ms": 253062,
+      "name": "Ya No Me Llames Mas",
+      "url": "https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/29NP640fImq9OjFZRrYmFx"
+      },
+      "artists": [
+        {
+          "name": "La Radio Bemb\u00e9 Orquesta",
+          "url": "https://open.spotify.com/artist/6cajshs06v9KvBLZuJZhfW"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/24rWaJaf238EktE0rQrtyj"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/6HQT2gNczONK7fKPZSB15i"
+      },
+      "artists": [
+        {
+          "name": "Anddy Caicedo",
+          "url": "https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC"
+        }
+      ],
+      "duration_ms": 265637,
+      "name": "Dime Si Te Pasa Igual Que a Mi",
+      "url": "https://open.spotify.com/track/56UoCFdugowdNQhQzKHdaN"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Bogot\u00e1 Salsera",
+        "url": "https://open.spotify.com/album/6rPVrfdAbEwP1t5hJVR1Pu"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 290459,
+      "name": "Bogot\u00e1 Salsera",
+      "url": "https://open.spotify.com/track/06afPlVcnfVAjWnI6GuBtI"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "La Flor de los Lindos Campos",
+        "url": "https://open.spotify.com/album/2BUtJVFArByIESwG092wHR"
+      },
+      "artists": [
+        {
+          "name": "Manyoma Brothers",
+          "url": "https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 233811,
+      "name": "La Flor de los Lindos Campos",
+      "url": "https://open.spotify.com/track/5jrB7AWwtAdW1mGae1mFNN"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Oilo",
+        "url": "https://open.spotify.com/album/5H3hmHChsscULagmYNt73Y"
+      },
+      "artists": [
+        {
+          "name": "La Mambanegra",
+          "url": "https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Oilo",
+      "url": "https://open.spotify.com/track/79DsYCHCMihzx83nrt20Ww"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Salsa para Bailar y Escuchar",
+        "url": "https://open.spotify.com/album/219yFFR6LIC25aUrJKVuNF"
+      },
+      "artists": [
+        {
+          "name": "Clandeskina",
+          "url": "https://open.spotify.com/artist/7eju6INRck56la5RLUvMFD"
+        }
+      ],
+      "duration_ms": 222667,
+      "name": "Sonando el Tambor",
+      "url": "https://open.spotify.com/track/5NQIW2mWH1qVlpxLN9JoAJ"
+    },
+    {
+      "added_at": "2023-08-04 05:48:00",
+      "album": {
+        "name": "Justa Calma",
+        "url": "https://open.spotify.com/album/0DRfIvaLRYHJmlo2b555M9"
+      },
+      "artists": [
+        {
+          "name": "La Gente Pide",
+          "url": "https://open.spotify.com/artist/0SBZ8cqWJimTrGqpL4ecDr"
+        }
+      ],
+      "duration_ms": 253429,
+      "name": "La Gente Pide",
+      "url": "https://open.spotify.com/track/2FG1vENJylGnBFapXAWi57"
+    },
     {
       "added_at": "2023-08-04 05:48:00",
       "album": {

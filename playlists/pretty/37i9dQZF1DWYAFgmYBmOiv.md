@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: the playlist to the bat mitzvah you were so NOT invited to, curated by Sammi Cohen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,918 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,088 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 50 | [Hold Me Down](https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:43 |
 | 51 | [Over You](https://open.spotify.com/track/29YWkTKunqjKhTD9nB0yBA) | [HOLYCHILD](https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ) | [The Theatrical Death of Julie Delicious](https://open.spotify.com/album/019KS476KEobO6Ca7Cq9IG) | 4:00 |
 
-Snapshot ID: `MCwyNTQ1YjY4YWEwZDZhNmU3ZDc3ZTVhYmNjY2U1MDEyOGRjMmVjMTBi`
+Snapshot ID: `MCw2M2RhZGYyM2Y2YWQ5ZDlhZmJkYWMwZjFkMmI2NWVhOThjYWM5MDM1`

@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: MC Maneirinho",
-  "num_followers": 121001,
+  "num_followers": 121077,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmE4NzY5MjM2ZmUwMGM0YjIxYWI1Zjk0YTg3MDYxZjc4ZTRmOTI3",
+  "snapshot_id": "MCw0MTc3ZTgxY2Y5YTMyMTMzYTZiZjJhZjhlYjgwOThiYTNmMjU4ZDc4",
   "tracks": [
     {
       "added_at": "2023-08-25 03:01:00",
@@ -887,18 +887,30 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Shots&Shots",
-        "url": "https://open.spotify.com/album/3UsReLmMGbNBS1Dgqhyh6s"
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
       "artists": [
         {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
         }
       ],
-      "duration_ms": 245203,
-      "name": "Shots&Shots",
-      "url": "https://open.spotify.com/track/5yaFcw2ORM3Mwtdfe7ko4z"
+      "duration_ms": 160000,
+      "name": "Desfile na Favela",
+      "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -931,30 +943,18 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+        "name": "Shots&Shots",
+        "url": "https://open.spotify.com/album/3UsReLmMGbNBS1Dgqhyh6s"
       },
       "artists": [
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Desfile na Favela",
-      "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
+      "duration_ms": 245203,
+      "name": "Shots&Shots",
+      "url": "https://open.spotify.com/track/5yaFcw2ORM3Mwtdfe7ko4z"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -1079,26 +1079,30 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Sereno",
-        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
+        "name": "24 por 48",
+        "url": "https://open.spotify.com/album/79joqzdkoCRIGtHGiBt8PB"
       },
       "artists": [
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
-          "name": "Did Brock",
-          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+          "name": "Dazz",
+          "url": "https://open.spotify.com/artist/4NgSQ0eSMFB9HjBMEal1rA"
         },
         {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
         }
       ],
-      "duration_ms": 136072,
-      "name": "Sereno",
-      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
+      "duration_ms": 180923,
+      "name": "24 por 48",
+      "url": "https://open.spotify.com/track/22akDLsI3H34M0Lc4upxKJ"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -1167,50 +1171,26 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "24 por 48",
-        "url": "https://open.spotify.com/album/79joqzdkoCRIGtHGiBt8PB"
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
       },
       "artists": [
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "Dazz",
-          "url": "https://open.spotify.com/artist/4NgSQ0eSMFB9HjBMEal1rA"
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
         },
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 180923,
-      "name": "24 por 48",
-      "url": "https://open.spotify.com/track/22akDLsI3H34M0Lc4upxKJ"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Babal\u00fa",
-        "url": "https://open.spotify.com/album/3jryV1YzSn8RAxxgCtaDoc"
-      },
-      "artists": [
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "Babal\u00fa",
-      "url": "https://open.spotify.com/track/0ytXiW13nB8clgHdr0hQ1z"
+      "duration_ms": 136072,
+      "name": "Sereno",
+      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -1235,6 +1215,26 @@
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Babal\u00fa",
+        "url": "https://open.spotify.com/album/3jryV1YzSn8RAxxgCtaDoc"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "Babal\u00fa",
+      "url": "https://open.spotify.com/track/0ytXiW13nB8clgHdr0hQ1z"
     },
     {
       "added_at": "2023-08-25 03:01:00",

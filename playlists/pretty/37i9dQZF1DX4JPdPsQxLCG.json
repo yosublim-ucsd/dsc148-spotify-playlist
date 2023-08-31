@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road.",
-  "num_followers": 64024,
+  "num_followers": 64121,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2VlMzZiNGIxMjc5NzZhMjA5M2M3N2IwZmFhNTEyY2VkNTY4NTk0",
+  "snapshot_id": "MCxkNzIwNWZkOGJlYjNkMjZkZjA0YzI5Zjk1NDY1YThiZGIzNTFkYWY1",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Born on a Pirate Ship (Enhanced Edition)",
-        "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
-      },
-      "artists": [
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "The Old Apartment",
-      "url": "https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Knock 'Em Dead Kid",
-        "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
+        "name": "Born on a Pirate Ship (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
       },
       "artists": [
         {
-          "name": "Trooper",
-          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
         }
       ],
-      "duration_ms": 214253,
-      "name": "We're Here For A Good Time (Not A Long Time)",
-      "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
+      "duration_ms": 209960,
+      "name": "The Old Apartment",
+      "url": "https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -967,6 +951,22 @@
       "duration_ms": 233000,
       "name": "Astray",
       "url": "https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Knock 'Em Dead Kid",
+        "url": "https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ"
+      },
+      "artists": [
+        {
+          "name": "Trooper",
+          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "We're Here For A Good Time (Not A Long Time)",
+      "url": "https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "99 Nights",
+      "url": "https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "The Thin Red Line (Deluxe)",
         "url": "https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 167979,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Yer Favourites",
-        "url": "https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "Wheat Kings",
-      "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"
     }
   ],
   "unique_name": "Canadian Road Trip",

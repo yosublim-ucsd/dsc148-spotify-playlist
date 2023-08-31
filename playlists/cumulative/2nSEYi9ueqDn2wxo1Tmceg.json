@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "103",
+        "url": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245812,
+      "name": "103",
+      "url": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+    },
+    {
+      "album": {
         "name": "145",
         "url": "https://open.spotify.com/album/5OaUvGQjXWK4R5CMhsP1Wt"
       },
@@ -341,6 +359,32 @@
     },
     {
       "album": {
+        "name": "New Heart Designs",
+        "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222741,
+      "name": "Alien Love Call",
+      "url": "https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3"
+    },
+    {
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4YQ31lCyIyjNX1s6iCLMxH"
       },
@@ -388,7 +432,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 263946,
       "name": "All Of The People",
       "url": "https://open.spotify.com/track/2iXFX4oPBXFVIADlUuHIgq"
@@ -1020,7 +1064,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 130774,
       "name": "Beginner's Luck",
       "url": "https://open.spotify.com/track/1aGHJWuMcqXA3occrRcTll"
@@ -1194,7 +1238,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 206133,
       "name": "Blameless - Bonus Version",
       "url": "https://open.spotify.com/track/78Owt2xOxgUKc9m2E3vjSo"
@@ -2286,7 +2330,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 260021,
       "name": "Cut Me Off",
       "url": "https://open.spotify.com/track/3M4cMrOmTEeC438J7CypNT"
@@ -2566,7 +2610,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 1318174,
       "name": "Defeat",
       "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
@@ -2614,6 +2658,24 @@
       "duration_ms": 234906,
       "name": "Did You Know",
       "url": "https://open.spotify.com/track/0YUlIpR3e3JApw2I3xVdaB"
+    },
+    {
+      "album": {
+        "name": "Haunted Mountain",
+        "url": "https://open.spotify.com/album/0Dw5lEKTJgSULnuv7iYBKg"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253792,
+      "name": "Didn't Know You Then",
+      "url": "https://open.spotify.com/track/6oyDy1XJfGKBjvwdQMWpOX"
     },
     {
       "album": {
@@ -4072,7 +4134,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 360000,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/4KP8lgC1pKjpzmkhQoK6nU"
@@ -6234,10 +6296,28 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 260277,
       "name": "Love Me A Little",
       "url": "https://open.spotify.com/track/3Mj5x4DRYGYgK6nggCy78t"
+    },
+    {
+      "album": {
+        "name": "Loveher",
+        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "Loveher",
+      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
     },
     {
       "album": {
@@ -6346,7 +6426,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 339609,
       "name": "Math of You",
       "url": "https://open.spotify.com/track/6uhjxe81Ma9hhdFulcKc36"
@@ -6422,7 +6502,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 241552,
       "name": "Memory Palace",
       "url": "https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7"
@@ -6884,7 +6964,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 196354,
       "name": "Natural One - 2023 Live Session",
       "url": "https://open.spotify.com/track/1dJ16Kc7WYHlDlazaWU7nj"
@@ -7380,7 +7460,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 241160,
       "name": "On Pain",
       "url": "https://open.spotify.com/track/4h38jyxvT3Ue96FiOQjyVg"
@@ -7532,7 +7612,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 219829,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7Mcpr4dcL5FIrLQkAl2ThC"
@@ -7608,7 +7688,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 342346,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/79tNL18U9ZQ2dKk2BxfNp6"
@@ -7770,7 +7850,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 218664,
       "name": "Pockets",
       "url": "https://open.spotify.com/track/7t6Ss92ScHmCpFQFfPGCvs"
@@ -8016,6 +8096,24 @@
       "duration_ms": 247520,
       "name": "Quarry",
       "url": "https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4j8HoW5XeClKESKAhNHHmZ"
+      },
+      "artists": [
+        {
+          "name": "Meadow Meadow",
+          "url": "https://open.spotify.com/artist/4E931YbK4MBdiTzf0UHazk"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252017,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3mSr9nqAbo6Ai9NXtjuT9S"
     },
     {
       "album": {
@@ -8808,7 +8906,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 186466,
       "name": "Slugs",
       "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
@@ -8908,6 +9006,24 @@
       "duration_ms": 169386,
       "name": "Some Things You\u2019ll Never Know",
       "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
+    },
+    {
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3qAtc5FWKElykiG69vTx2U"
+      },
+      "artists": [
+        {
+          "name": "Oscar Browne",
+          "url": "https://open.spotify.com/artist/4bUu22hsY40JUvqwA4dkDE"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247772,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/35LqNSSg8eWd2nOlXNlnhq"
     },
     {
       "album": {
@@ -9030,7 +9146,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 289962,
       "name": "Spirit 2.0",
       "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
@@ -9860,6 +9976,24 @@
       "duration_ms": 162176,
       "name": "The Signs",
       "url": "https://open.spotify.com/track/7Mv0LtBlIFHYF8wTGzn69d"
+    },
+    {
+      "album": {
+        "name": "the slab",
+        "url": "https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310874,
+      "name": "the slab",
+      "url": "https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp"
     },
     {
       "album": {
@@ -10814,6 +10948,24 @@
       "duration_ms": 154900,
       "name": "Waiting In The Car",
       "url": "https://open.spotify.com/track/7twbKxmUCa7CJClSytrD2I"
+    },
+    {
+      "album": {
+        "name": "Amber / Watcher",
+        "url": "https://open.spotify.com/album/3jwveDyKQRKR18bTItbRsn"
+      },
+      "artists": [
+        {
+          "name": "Maria BC",
+          "url": "https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184493,
+      "name": "Watcher",
+      "url": "https://open.spotify.com/track/2yM9xDhNKZWASkynqaOr9C"
     },
     {
       "album": {

@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 186346,
       "name": "El negrito",
       "url": "https://open.spotify.com/track/3ELx3O1UQAXAMzfobMRhyn"
@@ -338,6 +338,24 @@
     {
       "album": {
         "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197026,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/2mlnu9FhO0TQDUc9hFKIMj"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
         "url": "https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW"
       },
       "artists": [
@@ -348,7 +366,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 197026,
       "name": "Hasta el Final",
       "url": "https://open.spotify.com/track/4n8svElL8bv2ho96dTj0TU"
@@ -420,7 +438,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 193893,
       "name": "Llora el amor",
       "url": "https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9"
@@ -492,10 +510,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 176000,
       "name": "Maldita Suerte",
       "url": "https://open.spotify.com/track/3hlmOQjz6QMpG914K4SHT8"
+    },
+    {
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Maldita Suerte",
+      "url": "https://open.spotify.com/track/4kcMWe9I1GY4aTu2wx1OiE"
     },
     {
       "album": {

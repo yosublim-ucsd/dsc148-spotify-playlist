@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,391 likes - 108 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,393 likes - 108 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 61 | [UN MOMENTO](https://open.spotify.com/track/5KSSiDRKRWRHQOWJBZWTTh) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [UN MOMENTO](https://open.spotify.com/album/4IapBtwZdaBatLu5aJU3z6) | 2:14 |
 | 62 | [hyperlife](https://open.spotify.com/track/0BCrHDuPtE3uAiFkz7rdaN) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y) | [hyperlife](https://open.spotify.com/album/5xdvoItstdIlE92y2kGip9) | 4:07 |
 | 63 | [h4msterb0y <3 Canada](https://open.spotify.com/track/3tj6aTMyJBKaELb1Jj280s) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [h4msterb0y <3 Canada](https://open.spotify.com/album/68a1344ExnvtFpRfrM1aUu) | 3:22 |
-| 64 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
+| 64 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
 | 65 | [Hoops](https://open.spotify.com/track/2grtRoKLE7Ekil2ktJsuLT) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Hoops](https://open.spotify.com/album/0u61jOCQsqoPcrTgh5EtC4) | 2:35 |
 | 66 | [Childhood Dreams](https://open.spotify.com/track/4iVw5xhBCq3SE45d7K5T1O) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Childhood Dreams](https://open.spotify.com/album/2NyPWRjLfQZjejlgVidDAf) | 3:03 |
 | 67 | [Ragdoll](https://open.spotify.com/track/3tjtbPyiHve15Hr8RULO9J) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [Ragdoll](https://open.spotify.com/album/373SKtxQAt2HsC6qCARaoC) | 2:53 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 |
 | 108 | [DEADZONE](https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [DEADZONE](https://open.spotify.com/album/2VE9zs72iNOeoXZHyAMRF7) | 2:50 |
 
-Snapshot ID: `MCwxZWZiYzMzNmRiODBlNjI4MjMwZTI1YWI4YTdiMjM1YTU4MzQ3MjZj`
+Snapshot ID: `MCw4ZTYxMDcwNzY2ZjU0ZTE1NjEwY2YxODAzOTNlNzlkZWNmMzhkYmI1`

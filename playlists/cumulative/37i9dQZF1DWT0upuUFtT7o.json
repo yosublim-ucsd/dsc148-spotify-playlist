@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/2QUwP0oMrCf7qBSylH3BRP"
+      },
+      "artists": [
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151117,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/5lxAbSXw7clZnNHyo0AmEi"
+    },
+    {
+      "album": {
         "name": "anodyne",
         "url": "https://open.spotify.com/album/430mXLx0T9y9u0EtFqy4xY"
       },
@@ -8577,6 +8595,24 @@
     },
     {
       "album": {
+        "name": "Dystopia Girl",
+        "url": "https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu"
+      },
+      "artists": [
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "Dystopia Girl",
+      "url": "https://open.spotify.com/track/2tAr4OkKQRfkeQcSXaJ7sK"
+    },
+    {
+      "album": {
         "name": "Early Reflections",
         "url": "https://open.spotify.com/album/0qenlyhZHET32lkT5ecSil"
       },
@@ -8596,7 +8632,7 @@
     {
       "album": {
         "name": "Easier",
-        "url": "https://open.spotify.com/album/0ObajpVFegSZ1RycAXlTtj"
+        "url": "https://open.spotify.com/album/2hukynYvrVhF89yn9ojYtu"
       },
       "artists": [
         {
@@ -8607,6 +8643,24 @@
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208943,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/08DjyHrmJn7qtxpw3OH6Il"
+    },
+    {
+      "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/0ObajpVFegSZ1RycAXlTtj"
+      },
+      "artists": [
+        {
+          "name": "carego",
+          "url": "https://open.spotify.com/artist/3kAQ9u4vBl2uVXWtUW41FR"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
       "duration_ms": 208943,
       "name": "Easier",
       "url": "https://open.spotify.com/track/5MvKOapT6fBQC4iWmJIWOM"
@@ -10253,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/6gjW6IETdWXGmJLQPMT7ZT"
+      },
+      "artists": [
+        {
+          "name": "Knife Girl",
+          "url": "https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279256,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/0twVtYBVwNXIA15brQRf5y"
+    },
+    {
+      "album": {
         "name": "Fragments EP",
         "url": "https://open.spotify.com/album/2LVd2sUecbXALnezX842ks"
       },
@@ -10812,6 +10884,24 @@
       "duration_ms": 167142,
       "name": "Gently, Dreamer",
       "url": "https://open.spotify.com/track/0KA6ceIREcn5faI34kAkZa"
+    },
+    {
+      "album": {
+        "name": "george's shelter",
+        "url": "https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY"
+      },
+      "artists": [
+        {
+          "name": "Planet Ibiza",
+          "url": "https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "george's shelter",
+      "url": "https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2"
     },
     {
       "album": {
@@ -12264,6 +12354,24 @@
       "duration_ms": 248433,
       "name": "Head Talk",
       "url": "https://open.spotify.com/track/2Mk3CiL20ZXRVM0Kky7adJ"
+    },
+    {
+      "album": {
+        "name": "Hear You Calling",
+        "url": "https://open.spotify.com/album/5bwrOqoWSx2ty34QZuJIhR"
+      },
+      "artists": [
+        {
+          "name": "PAWWS",
+          "url": "https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229318,
+      "name": "Hear You Calling",
+      "url": "https://open.spotify.com/track/4kpAWvnP4j9ddwl6EOYF1C"
     },
     {
       "album": {
@@ -20441,6 +20549,24 @@
     },
     {
       "album": {
+        "name": "I'd Be Lying If I Said I Didn't Care",
+        "url": "https://open.spotify.com/album/3085uAArHIBVLNMRDPGOBt"
+      },
+      "artists": [
+        {
+          "name": "Hannah Georgas",
+          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295513,
+      "name": "Not The Name You Say",
+      "url": "https://open.spotify.com/track/6WZJj80hgLtuJQqsi2jIIh"
+    },
+    {
+      "album": {
         "name": "Not The Right Place",
         "url": "https://open.spotify.com/album/6xqjFr0IJxJE1vzS6kZw9f"
       },
@@ -23257,6 +23383,24 @@
     },
     {
       "album": {
+        "name": "red lights",
+        "url": "https://open.spotify.com/album/3eO3zGY58zGFSEyTQWfFQA"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "red lights",
+      "url": "https://open.spotify.com/track/3mklwlSrZAYcG2iByZI0cM"
+    },
+    {
+      "album": {
         "name": "Artifacts of Summer",
         "url": "https://open.spotify.com/album/5Hr9XshNla8vcCNtvEQYsN"
       },
@@ -24159,6 +24303,24 @@
     },
     {
       "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/4ZSH9lQWU0Fam5cFPcffeG"
+      },
+      "artists": [
+        {
+          "name": "Tyrer",
+          "url": "https://open.spotify.com/artist/7frgKOQYzrHKVG7Zqemwi6"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148874,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/5eKzRLree0eW8vrTmIGAGO"
+    },
+    {
+      "album": {
         "name": "EXTC",
         "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
       },
@@ -24372,6 +24534,24 @@
       "duration_ms": 240000,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/7b3MrbdkWwYnDTcQaQJ9g5"
+    },
+    {
+      "album": {
+        "name": "Satan Loves You",
+        "url": "https://open.spotify.com/album/6xrANcAOKHnc8SMRRh3FBn"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00eb Doucet",
+          "url": "https://open.spotify.com/artist/4wKCXloIwBDiO9eUGe1QpW"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195936,
+      "name": "Satan Loves You",
+      "url": "https://open.spotify.com/track/3LdXoKD1oTAsRxHLJGEEOE"
     },
     {
       "album": {
@@ -26192,6 +26372,24 @@
       "duration_ms": 233750,
       "name": "Song for my friend, June",
       "url": "https://open.spotify.com/track/1H9RgxG2z1JnnNb6BaNPsv"
+    },
+    {
+      "album": {
+        "name": "Soon We'll Make It",
+        "url": "https://open.spotify.com/album/0GwFm5QbuwAyc7Ag20lzhL"
+      },
+      "artists": [
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Soon We'll Make It",
+      "url": "https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE"
     },
     {
       "album": {
@@ -31364,7 +31562,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
@@ -32702,6 +32900,24 @@
       "duration_ms": 244829,
       "name": "You Want Everyone To Love You",
       "url": "https://open.spotify.com/track/1OMpWqQCH6GGmHtHJ1xeZk"
+    },
+    {
+      "album": {
+        "name": "You Won The Man",
+        "url": "https://open.spotify.com/album/1iLQ31fklrbw33E5jJ2hfE"
+      },
+      "artists": [
+        {
+          "name": "Teri Gender Bender",
+          "url": "https://open.spotify.com/artist/1gCFXILfdAiZcFAwGsfj9Z"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118209,
+      "name": "You Won The Man",
+      "url": "https://open.spotify.com/track/3zk3q4x58iQlAz6ZzyP26v"
     },
     {
       "album": {

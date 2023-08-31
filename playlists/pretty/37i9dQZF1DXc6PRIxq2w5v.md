@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Silas Magalhães
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,919 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,146 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 63 | [Mais Perto do Céu](https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Mais Perto do Céu](https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk) | 2:37 |
 | 64 | [Além](https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Notas de um Coração Amado](https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6) | 2:13 |
 | 65 | [Tempestade](https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH), [Isaac Folly](https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB) | [Tempestade](https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1) | 3:24 |
-| 66 | [Meu Primeiro Amor](https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Azero](https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN) | [Meu Primeiro Amor](https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg) | 3:00 |
+| 66 | [Yeshua Vive](https://open.spotify.com/track/5N6onJmQDASt4PCeTUCidY) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [RAFUZ](https://open.spotify.com/artist/1rwUnPhgywcnB4BsAHqFTF), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Yeshua Vive](https://open.spotify.com/album/1NwiBJNm8km14gI5PuYfdI) | 3:32 |
 | 67 | [777 na Mente](https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb) | [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [777 na Mente](https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT) | 2:45 |
 | 68 | [Em Fervente Oração \- Speed Up](https://open.spotify.com/track/2gryPafEVutE9BsfoioJqG) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Guimarães Beats](https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo) | [Harpa Cristã \(Speed Up\)](https://open.spotify.com/album/5C4XxYQqu5FWpuC6koFYPq) | 1:56 |
 | 69 | [Fluindo no Espírito](https://open.spotify.com/track/5RKMtFEbNtEn2wk6VssqP7) | [MJ](https://open.spotify.com/artist/6u4UNi50tvp4DYnzcIiD1V) | [Fluindo no Espírito](https://open.spotify.com/album/1yqUIiSUAsVnDgxsePDGRE) | 3:16 |
 | 70 | [Voz do Senhor](https://open.spotify.com/track/4dPKrzz5kzThp7UQv51BLh) | [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Voz do Senhor](https://open.spotify.com/album/0OEDbHQAt7ale9RGY3w2SX) | 2:12 |
-| 71 | [Yeshua Vive](https://open.spotify.com/track/5N6onJmQDASt4PCeTUCidY) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [RAFUZ](https://open.spotify.com/artist/1rwUnPhgywcnB4BsAHqFTF), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Yeshua Vive](https://open.spotify.com/album/1NwiBJNm8km14gI5PuYfdI) | 3:32 |
-| 72 | [LEVANTEI](https://open.spotify.com/track/4z3a6NJ7VGjSywAoXMKfk4) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [LEVANTEI](https://open.spotify.com/album/5D0HWVh3UxAINA8xFbYWfc) | 3:26 |
-| 73 | [Um Dia De Cada Vez \(feat\. Vitória Affonso\)](https://open.spotify.com/track/5GyVZmndjaXQjdfwJ6ITzb) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Vitória Affonso](https://open.spotify.com/artist/1qq4OAxJChyNYwBdqZcy6M) | [Um Dia De Cada Vez \(feat\. Vitória Affonso\)](https://open.spotify.com/album/2Wixm8NESfvYxP4eAVYIhT) | 3:40 |
+| 71 | [Meu Primeiro Amor](https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Azero](https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN) | [Meu Primeiro Amor](https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg) | 3:00 |
+| 72 | [Um Dia De Cada Vez \(feat\. Vitória Affonso\)](https://open.spotify.com/track/5GyVZmndjaXQjdfwJ6ITzb) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Vitória Affonso](https://open.spotify.com/artist/1qq4OAxJChyNYwBdqZcy6M) | [Um Dia De Cada Vez \(feat\. Vitória Affonso\)](https://open.spotify.com/album/2Wixm8NESfvYxP4eAVYIhT) | 3:40 |
+| 73 | [LEVANTEI](https://open.spotify.com/track/4z3a6NJ7VGjSywAoXMKfk4) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [LEVANTEI](https://open.spotify.com/album/5D0HWVh3UxAINA8xFbYWfc) | 3:26 |
 | 74 | [Um Dia Após o Outro](https://open.spotify.com/track/5kqoYTtSzQjFgELybzP2vv) | [Mano Sassá](https://open.spotify.com/artist/71K2lJx4XA6g8hkjGrS8l0), [Nino Rapper](https://open.spotify.com/artist/3wAdM81VScfOhQsNbOcgQs), [Tom Calvário](https://open.spotify.com/artist/6x3afvS3ZCpgpIQX0DnCRG) | [Um Dia Após o Outro](https://open.spotify.com/album/0S12rb4i0Zn4PxxUO6DZrI) | 5:48 |
 | 75 | [Telefone](https://open.spotify.com/track/41ddz03BDKqt3l6hfDvkYB) | [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Telefone](https://open.spotify.com/album/53gUYKttbO0y7tPUsk4qf7) | 2:58 |
 | 76 | [Domingão \- Speed](https://open.spotify.com/track/7DHwFBw1IDTAHsFia6XRNw) | [Kael](https://open.spotify.com/artist/2REBelsnF968ZaU1llcjiN), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Domingão \(Speed\)](https://open.spotify.com/album/03tvE8UwAV17szcsBUyvlU) | 2:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 79 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 |
 | 80 | [Uma Missão](https://open.spotify.com/track/2bxYiuNc2hYWkuzK5HrVcZ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Uma Missão](https://open.spotify.com/album/3v56SzOs0MHmJ8Vl273i41) | 2:48 |
 
-Snapshot ID: `MCxkYzJlYTYwMmRmYzIyZjc0NzRkNGViYTVjNTE5NWE0MzVhM2IxZTkx`
+Snapshot ID: `MCxjMjY5YjM5ZWZhNDFjZWFkYzg1ODdjY2MwMzg1NDRjZmUyNjFjNjlm`

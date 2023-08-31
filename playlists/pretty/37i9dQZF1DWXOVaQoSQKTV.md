@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,504 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,561 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 87 | [Higher Lows and Lower Highs](https://open.spotify.com/track/4Z0CZgpT8gQwIRwEDh5Cnf) | [Cut Off Your Hands](https://open.spotify.com/artist/3XKuC56yvsH5bnNCjqRvcS) | [Higher Lows and Lower Highs](https://open.spotify.com/album/1v2XgsrDrGzOyCUFkTlDoo) | 4:58 |
 | 88 | [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 |
 | 89 | [Bubblegum](https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Liquid](https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps) | 2:46 |
-| 90 | [Boxes](https://open.spotify.com/track/6xb0ex1Y10CXq0QPylFqJJ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 2:50 |
+| 90 | [Boxes](https://open.spotify.com/track/761bRfbulbqga0Sm60GGhG) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/2TQASXqfYqFMTsrWBVhWWl) | 2:50 |
 | 91 | [Slow Love](https://open.spotify.com/track/5bOBc05OJjuCusiPiq90Cm) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/04psVVPNcK8SHuwBWe7eL7) | 4:12 |
 | 92 | [Out There](https://open.spotify.com/track/5QqKzAuEzh9D2HYxEUvq7T) | [Froyo](https://open.spotify.com/artist/7bu1W48UCjVSIyy3qxZ0gW) | [Blue](https://open.spotify.com/album/4Juo69Ey1SGYgN0JIQfAvs) | 3:03 |
 | 93 | [You Never Leave Me](https://open.spotify.com/track/5y4Dg2q6aZAc38LWD80ryh) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:58 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCwxYWY5MDM1M2VmYjg1ZGVkOGM4NDdmZTAyNWMzNTkyYWUzYjczOGVk`
+Snapshot ID: `MCwyNjRkMjI4NjE4Nzg0MjQ1ZDNhN2IwZjIyMzE3NjE3N2Y1YmM5ZjRj`

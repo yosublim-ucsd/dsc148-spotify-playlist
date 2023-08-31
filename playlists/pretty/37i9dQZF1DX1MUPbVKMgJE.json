@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1518310,
+  "num_followers": 1518522,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWMyMWVkN2QyYzJmMTk0ZTBkYzdkZWI2ZmE5Y2Y1OTExMTc4MGZk",
+  "snapshot_id": "MCxiZjFiMDM1OGNkOTAzMDcxOWYwNzQ0YWYyN2NiZjhlZGNlNmE4Njky",
   "tracks": [
     {
       "added_at": "2022-08-31 15:13:54",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "KC & the Sunshine Band... and More",
-        "url": "https://open.spotify.com/album/6ufis2iWp3hrox9QJfg5Jq"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 317106,
-      "name": "Get Down Tonight",
-      "url": "https://open.spotify.com/track/4msPRe3NEDVL6dsBcE7AhL"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "A Taste Of Honey",
         "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 245173,
       "name": "Boogie Oogie Oogie",
       "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "KC & the Sunshine Band... and More",
+        "url": "https://open.spotify.com/album/6ufis2iWp3hrox9QJfg5Jq"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 317106,
+      "name": "Get Down Tonight",
+      "url": "https://open.spotify.com/track/4msPRe3NEDVL6dsBcE7AhL"
     }
   ],
   "unique_name": "Disco Forever",

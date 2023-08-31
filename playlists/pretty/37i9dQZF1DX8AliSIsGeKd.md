@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: SKIY
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,521 likes - 90 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,712 likes - 90 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 2 | [Euphoria](https://open.spotify.com/track/29bvDzVtefT0PDoC4BDUpQ) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Euphoria \| Tanz der Planeten](https://open.spotify.com/album/4DRNTwsmWHDch8Sizreid3) | 7:32 |
 | 3 | [Starchaser](https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Starchaser](https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL) | 4:14 |
 | 4 | [Águila Vuela](https://open.spotify.com/track/7aXrG73Gaol5K7pJwyY2yf) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J) | [Águila Vuela](https://open.spotify.com/album/2ea6IQF8ALW452y6Jdi8Ai) | 6:52 |
-| 5 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
+| 5 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
 | 6 | [Roads Of Gold](https://open.spotify.com/track/0QNzmM3G7YUm81329OwCHF) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/6buk9gBgZX5FGqLc1PIvXo) | 8:58 |
 | 7 | [In And Out Of Love \- Innellea Remix](https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love \(Innellea Remix\)](https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD) | 3:38 |
 | 8 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Magical Signs](https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 4:16 |
 | 90 | [Alone \- andhim Remix](https://open.spotify.com/track/7uUQfixTumDZwmOydFdkXE) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Alone \(andhim Remix\)](https://open.spotify.com/album/5dAIxyXI3nmT0IogiHaid6) | 4:29 |
 
-Snapshot ID: `MCxiNjI1Y2Y1NDhjMjcyNzM5YmFhNjZmMWEyNzRiNzI0NjcwZTNhOTFi`
+Snapshot ID: `MCwzNDI1ZGI4Yjk3MDc5NzdlMmRkZTVkMTc2MjU3NTA4MjY1Yjk0OGQz`

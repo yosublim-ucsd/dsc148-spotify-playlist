@@ -2950,10 +2950,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 165760,
       "name": "Green Apple",
       "url": "https://open.spotify.com/track/5IpOjBwwzJ9bBF0iYynrvs"
+    },
+    {
+      "album": {
+        "name": "In the Kitchen",
+        "url": "https://open.spotify.com/album/44GAx3WI8GBIrTzBn4vB5e"
+      },
+      "artists": [
+        {
+          "name": "Cone & The Cones",
+          "url": "https://open.spotify.com/artist/5U8bYwQu9reucYZAkdlWeQ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "Green Apple",
+      "url": "https://open.spotify.com/track/75lI8teC4XoCbFosoDGrRk"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 105676,
+  "num_followers": 105843,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWRkYWQxM2QxZGU4YzE1MzJiYzA0YWU1ODBkYmU3ZjRjNmUzOGE2",
+  "snapshot_id": "MCw1ODA3YzAxODkyNDBlNTRmZjFhOTAzM2ZjMWM5YmRhMmQ1N2I3ZTZh",
   "tracks": [
     {
       "added_at": "2023-05-09 06:55:53",
@@ -111,6 +111,34 @@
       "duration_ms": 242583,
       "name": "Naa Oopire",
       "url": "https://open.spotify.com/track/7ADBx7IH4Egcmoe9C2Qkge"
+    },
+    {
+      "added_at": "2023-08-30 09:18:21",
+      "album": {
+        "name": "Raju Gari Ammayi Naidu Gari Abbayi",
+        "url": "https://open.spotify.com/album/1uZ2kMEP9HM0YAsBMCVT97"
+      },
+      "artists": [
+        {
+          "name": "Roshan Salur",
+          "url": "https://open.spotify.com/artist/3mz0Zu1iKlvkuS9pBK8IAD"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Nutana Mohan",
+          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
+        },
+        {
+          "name": "Rehman",
+          "url": "https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7"
+        }
+      ],
+      "duration_ms": 288990,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2lkLsQueH2Lhb60JuVxtPJ"
     },
     {
       "added_at": "2022-12-20 12:37:49",
@@ -875,30 +903,6 @@
       "duration_ms": 276500,
       "name": "Yedha Pongenaa",
       "url": "https://open.spotify.com/track/2uFuVr7pangSzmAqBmULbh"
-    },
-    {
-      "added_at": "2023-03-21 06:30:28",
-      "album": {
-        "name": "Nelamedha Lene (From \"O Saathiya\")",
-        "url": "https://open.spotify.com/album/62nspj0SxdgCllIuqYBnoy"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        },
-        {
-          "name": "Vinod Kumar (Vinnu)",
-          "url": "https://open.spotify.com/artist/3xb4cUCZsdg6VqxzLT3LXl"
-        },
-        {
-          "name": "Ananta Sriram",
-          "url": "https://open.spotify.com/artist/0yzw4DhGyaUCd87BFCPjel"
-        }
-      ],
-      "duration_ms": 234825,
-      "name": "Nelamedha Lene (From \"O Saathiya\")",
-      "url": "https://open.spotify.com/track/0Ptqn0HsG8MQhsBQatbihj"
     },
     {
       "added_at": "2023-03-20 04:55:42",

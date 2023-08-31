@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 16621,
+  "num_followers": 16710,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDExM2U4M2I3OTU2MTQ0MDFkYzlhNDdmNWFjNGNmNDk2NTViODc0",
+  "snapshot_id": "MCxmYTA0ZjU3MmVlNzNjMWMzY2ViMTc1ZTA5MTRkOTEwZTcxMWRjMWVm",
   "tracks": [
     {
       "added_at": "2023-08-04 09:26:45",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
-        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
-      },
-      "artists": [
-        {
-          "name": "KIDDINX Music",
-          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
-        }
-      ],
-      "duration_ms": 95173,
-      "name": "Bl\u00fcht ein Bl\u00fcmlein",
-      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
-    },
-    {
-      "added_at": "2023-08-04 09:26:45",
-      "album": {
         "name": "Kinderlieder - umgedacht & neu gemacht",
         "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 138266,
       "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
       "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
+    },
+    {
+      "added_at": "2023-08-04 09:26:45",
+      "album": {
+        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
+        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
+      },
+      "artists": [
+        {
+          "name": "KIDDINX Music",
+          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
+        }
+      ],
+      "duration_ms": 95173,
+      "name": "Bl\u00fcht ein Bl\u00fcmlein",
+      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Unter meinem Bett 5",
-        "url": "https://open.spotify.com/album/5JYmSMR3duFBHnSIKumZtG"
+        "name": "Idas Sommerlied",
+        "url": "https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv"
       },
       "artists": [
         {
-          "name": "Christopher Annen",
-          "url": "https://open.spotify.com/artist/2WWeCEF0kF9vHGlLlsHaRE"
+          "name": "Astrid Lindgren Deutsch",
+          "url": "https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz"
         }
       ],
-      "duration_ms": 253120,
-      "name": "Ohne dich h\u00e4tt' ich mich nicht getraut",
-      "url": "https://open.spotify.com/track/5dlhNyHb5S9AuixZqnPaNY"
+      "duration_ms": 119215,
+      "name": "Idas Sommerlied",
+      "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
     },
     {
       "added_at": "2023-08-04 09:26:45",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-08-04 09:26:45",
       "album": {
-        "name": "Idas Sommerlied",
-        "url": "https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv"
+        "name": "Lern- und Spa\u00dflieder",
+        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
       },
       "artists": [
         {
-          "name": "Astrid Lindgren Deutsch",
-          "url": "https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz"
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 119215,
-      "name": "Idas Sommerlied",
-      "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
+      "duration_ms": 186000,
+      "name": "Das Farbenlied",
+      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
     }
   ],
   "unique_name": "Familienzeit: Sommer",

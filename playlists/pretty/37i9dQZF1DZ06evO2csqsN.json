@@ -1,15 +1,15 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 21471,
+  "num_followers": 21562,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMTg5ODUsMDAwMDAwMDBmMjY0OGQwYjc2MDNiOWFmZDhjM2E1YWJjZDgwOWJkMQ==",
+  "snapshot_id": "MjgyMjMzMDAsMDAwMDAwMDA5MDQyNDNiMmFkODg3MzQ5MzhhYzlmYzA1ZDFkMjUyNQ==",
   "tracks": [
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Put It On Da Floor Again (feat. Cardi B)",
         "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "I Just Called",
         "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
         "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
@@ -133,27 +133,7 @@
       "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 201979,
-      "name": "Budget (feat. Latto)",
-      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
-    },
-    {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "FreakyT (feat. Latto) [Remix]",
         "url": "https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx"
@@ -173,7 +153,27 @@
       "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+    },
+    {
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Booty (feat. Latto)",
         "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "For the Night",
         "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Wheelie (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "One Light (feat. Yung Bleu) [Remix]",
         "url": "https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Put It On Da Floor",
         "url": "https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "F.N.F. (Let's Go) [Remix]",
         "url": "https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
         "url": "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
         "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Another Nasty Song",
         "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "B*tch From Da Souf",
         "url": "https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Boom Pt. 2 (feat. Latto)",
         "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Thank You For Believing",
         "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
@@ -453,31 +453,7 @@
       "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
-      "album": {
-        "name": "Fast Lane",
-        "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172584,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
-    },
-    {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
@@ -501,7 +477,31 @@
       "url": "https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
+      "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172584,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
+    },
+    {
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Mind Yo Business (Feat. Latto)",
         "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Floor Seats II",
         "url": "https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/2GDFfYpuDzUjB7gYtNbR8n"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Muwop (feat. Gucci Mane)",
         "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Queen of Da Souf",
         "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Freaky As Me",
         "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/7gqlF5gGTO4aSZV2HPkYwm"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Top Shotta",
         "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/1ocT98kfsdrTKFvVB01cfz"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Who is Nardo Wick?? (Deluxe)",
         "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
         "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "PUSSY",
         "url": "https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "missunderstood",
         "url": "https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Energy (Latto Remix)",
         "url": "https://open.spotify.com/album/3xMIHLADVU0vpIe2d8U1U1"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/02quWjvp0fchzqa8uUXDps"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/7aQckZHyuls0Oa9LjUISDu"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "So Help Me God!",
         "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Down (feat. Latto)",
         "url": "https://open.spotify.com/album/4fN30wOcfdGOYY1BYDqUHD"
@@ -885,47 +885,7 @@
       "url": "https://open.spotify.com/track/3tLhjMOfbdRGQNudmIABp4"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
-      "album": {
-        "name": "Wet (feat. Latto) [Remix]",
-        "url": "https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 211917,
-      "name": "Wet (feat. Latto) - Remix",
-      "url": "https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf"
-    },
-    {
-      "added_at": "2023-08-27 12:25:52",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Like A Thug (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
-    },
-    {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Technique (Sprite Limelight)",
         "url": "https://open.spotify.com/album/2fXNBsNfcZUTQmoDpvXzy1"
@@ -945,7 +905,47 @@
       "url": "https://open.spotify.com/track/0E4Y7tBeOg2EhVW8y3sdSK"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Like A Thug (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
+    },
+    {
+      "added_at": "2023-08-30 12:20:13",
+      "album": {
+        "name": "Wet (feat. Latto) [Remix]",
+        "url": "https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 211917,
+      "name": "Wet (feat. Latto) - Remix",
+      "url": "https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf"
+    },
+    {
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Queen of Da Souf",
         "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "So Icy Gang: The ReUp",
         "url": "https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/0T6aFFho2pkaYJ4tqjCRxO"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4vUeHbV4moHsvwqdwZNEQo"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "I Just Called (feat. Latto) [Acoustic]",
         "url": "https://open.spotify.com/album/1Uu9vckoyHklvJUMQSs9LO"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2JDUfuNQUIeCwwydcYcHA0"
     },
     {
-      "added_at": "2023-08-27 12:25:52",
+      "added_at": "2023-08-30 12:20:13",
       "album": {
         "name": "Rain Down (feat. PnB Rock & Latto)",
         "url": "https://open.spotify.com/album/355DHb4BopJuvV7YWW0IG6"

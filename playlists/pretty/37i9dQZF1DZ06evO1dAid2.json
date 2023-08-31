@@ -1,15 +1,15 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 123802,
+  "num_followers": 123869,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMTg5ODYsMDAwMDAwMDA1ZDIzZmQwMjFkYzY3NmFkMzY0Yzk5OGEwZTljZDliOQ==",
+  "snapshot_id": "MjgyMjMzMDAsMDAwMDAwMDBhYjhiY2QwMjlkYjhlMWIyZDhjZjk5YzEyODEzNzdkOQ==",
   "tracks": [
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
@@ -25,71 +25,7 @@
       "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "Chuck Berry On Stage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 131800,
-      "name": "Memphis, Tennessee",
-      "url": "https://open.spotify.com/track/3UYtylPa55RqHS1YDGZoLs"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "Rock 'N' Roll Rarities",
-        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Nadine - Stereo Remix",
-      "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 142440,
-      "name": "Let's Do Our Thing Together",
-      "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
@@ -105,10 +41,10 @@
       "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
-        "name": "New Juke Box Hits",
-        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
       "artists": [
         {
@@ -116,12 +52,76 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 171413,
-      "name": "Route 66",
-      "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
+      "duration_ms": 169000,
+      "name": "Nadine - Stereo Remix",
+      "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Sweet Little Sixteen",
+      "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 144600,
+      "name": "Roll Over Beethoven",
+      "url": "https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 143306,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/2lDArps4owX3Q6rOIA4Osp"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "Let's Do Our Thing Together",
+      "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Maybellene",
+      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Fresh Berry's",
         "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
@@ -153,7 +169,23 @@
       "url": "https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 160693,
+      "name": "School Day (Ring Ring Goes The Bell)",
+      "url": "https://open.spotify.com/track/3RYwxAkUbHCzCmX8M0C0Zd"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Chuck Berry In Memphis",
         "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
@@ -185,23 +217,7 @@
       "url": "https://open.spotify.com/track/0j4srnVsqW8qXpZ5zlwzoI"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Chuck Berry",
         "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Chuck",
         "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
@@ -233,23 +249,7 @@
       "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Viva Viva Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "From St. Louie To Frisco",
         "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
@@ -265,7 +265,23 @@
       "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 122480,
+      "name": "Viva Viva Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Chuck Berry Twist",
         "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Rockin' At The Hops",
         "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
@@ -313,10 +329,10 @@
       "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/2U6uSo9qSTzQ9HytKNIZuO"
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
       "artists": [
         {
@@ -324,12 +340,28 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 147866,
-      "name": "House Of Blue Lights",
-      "url": "https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2"
+      "duration_ms": 137106,
+      "name": "Brown Eyed Handsome Man",
+      "url": "https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "Almost Grown",
+      "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Chuck Berry",
         "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
@@ -345,7 +377,23 @@
       "url": "https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 157320,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Live At Fillmore Auditorium",
         "url": "https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ"
@@ -365,39 +413,7 @@
       "url": "https://open.spotify.com/track/3eswSYTPy8wMVWcc05cLpv"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "Chuck Berry In London",
-        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 157320,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "The Great Twenty-Eight",
-        "url": "https://open.spotify.com/album/4hQtcgvaybCqBsTrfiL1jC"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "You Can't Catch Me - Single Version",
-      "url": "https://open.spotify.com/track/4xPPWZKEMw6u2cfmqcswSP"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/4RdZsxHKdBVjRj1PgcCe4h"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Chuck Berry In London",
         "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
@@ -445,10 +461,10 @@
       "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
-        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
-        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
       "artists": [
         {
@@ -456,12 +472,12 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 223573,
-      "name": "My Ding-A-Ling",
-      "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
+      "duration_ms": 163800,
+      "name": "Little Queenie",
+      "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
@@ -477,10 +493,10 @@
       "url": "https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
       },
       "artists": [
         {
@@ -488,12 +504,12 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Around And Around",
-      "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
+      "duration_ms": 223573,
+      "name": "My Ding-A-Ling",
+      "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Bio",
         "url": "https://open.spotify.com/album/1xp040eLv4xv5lP1JOOeFU"
@@ -509,10 +525,10 @@
       "url": "https://open.spotify.com/track/0bfxTlDQs6QGfwGNCiXVWE"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
       "artists": [
         {
@@ -520,12 +536,12 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 132973,
-      "name": "I Got To Find My Baby - Single Version",
-      "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
+      "duration_ms": 162400,
+      "name": "Around And Around",
+      "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Chuck",
         "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/2frsHNDxTSKVM7nPPUdtIk"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Welcome To The Vault",
         "url": "https://open.spotify.com/album/7i36DC6cqbbOTH9S2XktgN"
@@ -577,39 +593,7 @@
       "url": "https://open.spotify.com/track/3k0nHXQLlpb9qyXdUKiIaL"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Festival",
-      "url": "https://open.spotify.com/track/5mamyGJMka04qxtY1vtfWG"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Deep Down (Live 1988)",
         "url": "https://open.spotify.com/album/15u7l4b4ypfwVaLnMZ5UJW"
@@ -625,7 +609,23 @@
       "url": "https://open.spotify.com/track/0fxHu0a5H445sDyJzgFJXl"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/5mamyGJMka04qxtY1vtfWG"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Chuck",
         "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/3mtry5ywMoh9yz388egZb9"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/1SN4rhqg4U3mlS6oxSP1jZ"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
@@ -689,23 +689,7 @@
       "url": "https://open.spotify.com/track/3uGQF4XUYwF386cnx84Zjg"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
-      "album": {
-        "name": "Chuck Berry In London",
-        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "Butterscotch",
-      "url": "https://open.spotify.com/track/5BIE8dluPeZeets1wQ1Rjz"
-    },
-    {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Live From Blueberry Hill",
         "url": "https://open.spotify.com/album/7e9MQMnwlh4dsIujqbIYPJ"
@@ -721,7 +705,23 @@
       "url": "https://open.spotify.com/track/2KeDv0gOVD8afM2NhToKqs"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "Butterscotch",
+      "url": "https://open.spotify.com/track/5BIE8dluPeZeets1wQ1Rjz"
+    },
+    {
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "New Juke Box Hits",
         "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/4mES1b0btx9sJcIgmYQuNd"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Deep Down (Live 1988)",
         "url": "https://open.spotify.com/album/15u7l4b4ypfwVaLnMZ5UJW"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/2YgmyEnXtKdpKtLN8Yqgxj"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "Live From Blueberry Hill",
         "url": "https://open.spotify.com/album/7e9MQMnwlh4dsIujqbIYPJ"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3aE0i39IoZfDFINyQJ4SpC"
     },
     {
-      "added_at": "2023-08-27 12:26:18",
+      "added_at": "2023-08-30 12:20:40",
       "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 186706,
-      "name": "Havana Moon",
-      "url": "https://open.spotify.com/track/1dwg7tCqzs616yYWj6NJ2i"
+      "duration_ms": 182906,
+      "name": "Wee Wee Hours",
+      "url": "https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo"
     }
   ],
   "unique_name": "This Is Chuck Berry",

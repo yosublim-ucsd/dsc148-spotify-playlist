@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Burna Boy (pictured), Selena Gomez, Joel Corry and more!",
-  "num_followers": 837157,
+  "num_followers": 837175,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWY1ZmFhNTBmNzA3NmQ5ZGJmYmMzMTRiYjQxNGNkM2RiZGViY2Fi",
+  "snapshot_id": "MCxlZTA2NzY5MzRhZGE0ZGI2ZTBjODkxMGYwMWEzOWRhNGU4MjMyZDA4",
   "tracks": [
     {
       "added_at": "2023-08-25 10:00:21",
@@ -1106,6 +1106,10 @@
         {
           "name": "Snowy",
           "url": "https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP"
+        },
+        {
+          "name": "Massappeals",
+          "url": "https://open.spotify.com/artist/2rekHx1wB1Iy4v4ZKJjJ4j"
         }
       ],
       "duration_ms": 150254,

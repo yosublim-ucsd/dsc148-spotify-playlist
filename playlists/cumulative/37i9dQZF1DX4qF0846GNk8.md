@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=RhhjLiRhR\-Cdjct9GcCg4w"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV?si=ZlFCm\_S1Rym6mkwcUEMILA"> عمر كمال </a>
 
-179 songs - 10 hr 49 min
+180 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [اندال اندال](https://open.spotify.com/track/6RpPYyGGMyDL9xfRcQfffj) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [اندال اندال](https://open.spotify.com/album/3f1ig6nQAQJrR778DlzNEr) | 4:03 | 2021-12-16 | 2022-01-11 |
 | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/track/7ydZcXrYQhW0YRGsH7zgJr) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/album/4uWndJo5yNbF9jQw4MkNGU) | 4:04 | 2022-12-06 | 2023-08-03 |
 | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/track/1l4FdHo3SVXuKAzuJdqYZ1) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/album/6hBowQhPmpXID1e4oncCDZ) | 3:15 | 2021-12-16 | 2022-07-31 |
+| [ايويا يا حبيبتي وحشتيني \- مهرجان \- ايويا يا حبيبتي وحشتيني \- اسلام كابونجا \- كلوشه \- توزيع فيجو الدخلاوي \- مهرجانات 2023](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [ايويا يا حبيبتي وحشتيني \(مهرجان \- ايويا يا حبيبتي وحشتيني \- اسلام كابونجا \- كلوشه \- توزيع فيجو الدخلاوي \- مهرجانات 2023\)](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 | 2023-08-30 |  |
 | [بابا المجال](https://open.spotify.com/track/4PWyDZSIrKxRQV0ioxjrXf) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Shaheen](https://open.spotify.com/artist/6DcpnGFm5ORC758EKTT5B0) | [بابا المجال](https://open.spotify.com/album/219E4D2CXK3NYwmJ5mI8dw) | 3:30 | 2023-04-20 |  |
 | [بوم طخ طخ](https://open.spotify.com/track/5vIONI8kvsS4S6ogssrCNG) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [بوم طخ طخ](https://open.spotify.com/album/0vvArbnHsNg0TfVDzqNJyu) | 4:27 | 2021-12-16 | 2022-07-31 |
 | [تعالي شوف في ايه يا صديق](https://open.spotify.com/track/189eXZnM4jAIVST0ESW7UC) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hamo El Tikha](https://open.spotify.com/artist/4sdlH0LsKi46VZpApChqZM) | [تعالي شوف في ايه يا صديق](https://open.spotify.com/album/3CO40kFO1xDPRxnBq3416a) | 4:23 | 2022-02-01 | 2022-10-17 |

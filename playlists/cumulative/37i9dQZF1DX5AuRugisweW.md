@@ -4,7 +4,7 @@
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-78 songs - 4 hr 27 min
+79 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Standing At The Crossroads](https://open.spotify.com/track/1e6qkPMUiaWZfVk7WdRByQ) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:58 | 2020-11-13 |  |
 | [Sweet Love and Evil Women](https://open.spotify.com/track/2Ug7RPzySjonBoV0FEzefC) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Nothin' But The Blues](https://open.spotify.com/album/4ILAWjCe5fCCUmwjwmOmFM) | 2:56 | 2020-11-13 |  |
 | [The Devil Is A Busy Man](https://open.spotify.com/track/6Rt9vpmSBshbhQqLWDRTqQ) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Live in '63](https://open.spotify.com/album/1wcEYzdh2ovnd2rPoB7LvO) | 4:47 | 2020-11-13 |  |
-| [The Devil Wears a Suit and Tie](https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:56 | 2020-11-13 |  |
+| [The Devil Wears a Suit and Tie](https://open.spotify.com/track/43UV5Uk0ntzH6MP8Rx1RKh) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:56 | 2023-07-14 |  |
+| [The Devil Wears a Suit and Tie](https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:56 | 2020-11-13 | 2023-08-31 |
 | [The Devil With The Devil](https://open.spotify.com/track/6cqW0uVvurfrB83AlPGQA8) | [The Golden Gate Quartet](https://open.spotify.com/artist/182Tr1WYFcvwbVhCegi1KW) | [Golden Gate Quartet Vol\. 3 \(1939\)](https://open.spotify.com/album/7wUIKSAxaAphwol1abkQjv) | 3:04 | 2020-11-13 |  |
 | [The High Price of Inspiration](https://open.spotify.com/track/65CVlqtXiLtCSdFRHC10mU) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Rest in Chaos](https://open.spotify.com/album/4LJR9UMWLslKXpVE1q9Psz) | 3:28 | 2020-11-13 |  |
 | [When The Devil Starts Crying](https://open.spotify.com/track/5aQKw1uQIfxy84q37Ac1wU) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Silver Tones \- The Best Of John Mayall & The Bluesbreakers](https://open.spotify.com/album/5C05kJP6CrBCXyvHxyf6Ao) | 4:13 | 2020-11-13 |  |

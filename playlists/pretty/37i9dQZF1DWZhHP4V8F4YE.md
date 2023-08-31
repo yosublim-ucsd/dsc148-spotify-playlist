@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,128 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,284 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 31 | [Highs & Lows](https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Highs & Lows](https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6) | 2:04 |
 | 32 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 |
 | 33 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 |
-| 34 | [Canada](https://open.spotify.com/track/2Qu5exKyrNdDMgYruK3eMK) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Snr Morris](https://open.spotify.com/artist/7JfOavvh4UTQuDG9oBlmsY), [Wizzy Flon](https://open.spotify.com/artist/4IEekyeps4v1qFYz0w7lbT) | [I Am Dodo](https://open.spotify.com/album/2FC1Y3WzHfyzXDA6uqagYG) | 2:36 |
+| 34 | [Canada](https://open.spotify.com/track/1E3KhaXthsgAY2eK93sx2J) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan) | [Canada](https://open.spotify.com/album/25bg1Ay7Oj5R6mQNLjHa3k) | 2:36 |
 | 35 | [Dubula](https://open.spotify.com/track/35P4NcObu5fVLjKa0OBX5r) | [Harrycane](https://open.spotify.com/artist/6umjXXP7Q8i4he6WALLuOf), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [DJ Latimmy](https://open.spotify.com/artist/0bdSJtV8PfjTCfHjcb5tqG) | [Dubula](https://open.spotify.com/album/6fZMSWkByNbAlMVOVCrH2n) | 5:06 |
 | 36 | [Hamba Wena](https://open.spotify.com/track/0Yx0dpXq9K6vIkRWxPvKWI) | [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT), [Pro Tee](https://open.spotify.com/artist/0y4RBCciLIHdZESz40TaLy), [Qveen\-rsa](https://open.spotify.com/artist/6D1N5l5dWca4qiwcyBRzj5), [Mzwilili](https://open.spotify.com/artist/6hFXBf1EU52jzIb3x9BOq7), [Kitso Nave](https://open.spotify.com/artist/4I2gNmIO64o4EOzBIKfyfl) | [Hamba Wena](https://open.spotify.com/album/4VOqLcMcg7hDCPBhGNFPrl) | 5:08 |
 | 37 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Like Ice Spice](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 |
 | 50 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 
-Snapshot ID: `MCw1ZjU2ZjRkNDkzODU5Y2EwZGEwODlmYmEyYmFiZWU0ZTM4NDJmMWY3`
+Snapshot ID: `MCxhYmMwNmFhMWEzZDRjMWUwNDgyYjk3YmM3NWU2ZGU3MmNkYjkyYWNk`

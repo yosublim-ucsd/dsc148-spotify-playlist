@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 249235,
       "name": "Cinta Tak Pada Waktunya",
       "url": "https://open.spotify.com/track/3QqZEiJytmm7Av6FRoknRQ"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 247000,
       "name": "Kenangan Terindah",
       "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
@@ -850,6 +850,24 @@
       "duration_ms": 255272,
       "name": "Menjelang Pagi",
       "url": "https://open.spotify.com/track/5jpyoanoKZtRsC52toDCcM"
+    },
+    {
+      "album": {
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/2QqFeMX7L0PjVPQoYEHJs4"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225209,
+      "name": "Menunggumu",
+      "url": "https://open.spotify.com/track/4Pob03jnmgS65WbiM1Jof9"
     },
     {
       "album": {
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 302666,
       "name": "Puisi",
       "url": "https://open.spotify.com/track/4XmNQ2LLbVq8MDn8MG8HUS"
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 268855,
       "name": "Semua Tentang Kita",
       "url": "https://open.spotify.com/track/6ULZ6Hw2eYaiq1tlR5thcW"
@@ -1378,6 +1396,24 @@
       "duration_ms": 266306,
       "name": "Separuh Aku",
       "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
+    },
+    {
+      "album": {
+        "name": "Bintang Lima",
+        "url": "https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ"
+      },
+      "artists": [
+        {
+          "name": "Dewa",
+          "url": "https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300533,
+      "name": "Separuh Nafas",
+      "url": "https://open.spotify.com/track/0uxMIFFrGMKlx5wpHAUJsk"
     },
     {
       "album": {

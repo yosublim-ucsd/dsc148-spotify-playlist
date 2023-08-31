@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Bo Staloch | Visual Artist: Bailey Elder",
-  "num_followers": 45501,
+  "num_followers": 45673,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQxMjhkYzIzMDkwMGM0OTQyYmI0ZjlhOTQzZTNhYmI1YjlkYTU2",
+  "snapshot_id": "MCw5YWIxZDZlZGFiN2NiMmM3NjVjZTAwMWNhODgyMDFmMDExODkwYTk0",
   "tracks": [
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "let them eat grass",
+        "url": "https://open.spotify.com/album/1WUyJfZ7pAXimyTJg0aoca"
+      },
+      "artists": [
+        {
+          "name": "frances mistry",
+          "url": "https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG"
+        }
+      ],
+      "duration_ms": 205775,
+      "name": "in the rain",
+      "url": "https://open.spotify.com/track/1gicn1usnZflJaszZtfm2n"
+    },
     {
       "added_at": "2023-08-23 04:00:00",
       "album": {
@@ -23,6 +39,170 @@
       "duration_ms": 212458,
       "name": "Celebrity Lookalikes",
       "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "In My Cave I Am Me",
+        "url": "https://open.spotify.com/album/7CpxzZfSNT48infBGPWUOy"
+      },
+      "artists": [
+        {
+          "name": "Leponds",
+          "url": "https://open.spotify.com/artist/6PpM04CWlRZv27Sid5CiTx"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4WlybGcni55UkrPj6YkPRU"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Jimi On The Wall",
+        "url": "https://open.spotify.com/album/1RBTY3iHZhSREQjFXJaFMy"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Divic",
+          "url": "https://open.spotify.com/artist/3Pkd3Xh7WZcuf3bNSaxYyF"
+        }
+      ],
+      "duration_ms": 184616,
+      "name": "Jimi On The Wall",
+      "url": "https://open.spotify.com/track/0pcue2aASz7Knfg21QvXbS"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Another Lover",
+        "url": "https://open.spotify.com/album/3LIcHKcJvRF61TWPkvFABh"
+      },
+      "artists": [
+        {
+          "name": "mary rose",
+          "url": "https://open.spotify.com/artist/2xm9vvaxfhOaVQtDZP1z5d"
+        }
+      ],
+      "duration_ms": 253314,
+      "name": "Another Lover",
+      "url": "https://open.spotify.com/track/2UqOQ7Qvsutio7H29qn9Je"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6OZ74d3YOpcLCFL6juNSJv"
+      },
+      "artists": [
+        {
+          "name": "Zach Berkman",
+          "url": "https://open.spotify.com/artist/6xbrnDxD4saadNP0lcoNOC"
+        }
+      ],
+      "duration_ms": 257845,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6XQo2Qlbd57iU8yAJL81aF"
+    },
+    {
+      "added_at": "2023-08-23 04:00:00",
+      "album": {
+        "name": "Springtime Red Tulips",
+        "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 274976,
+      "name": "Springtime Red Tulips",
+      "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Sixth Sense",
+        "url": "https://open.spotify.com/album/724ZN9exiISvZ2Przm24Wh"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        },
+        {
+          "name": "Blake Ruby",
+          "url": "https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z"
+        }
+      ],
+      "duration_ms": 204692,
+      "name": "Sixth Sense",
+      "url": "https://open.spotify.com/track/3JLdRPaKMelMwgmpN5SENj"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Some Other Place",
+        "url": "https://open.spotify.com/album/0NAuuCTWsB2XpEVSakRK5G"
+      },
+      "artists": [
+        {
+          "name": "By The Coast",
+          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Beach Dream",
+      "url": "https://open.spotify.com/track/4hXR2jx4jCkOvBD4KYN5Z3"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5jIrySgqcujIymK4NxYoWU"
+      },
+      "artists": [
+        {
+          "name": "Aoife Nessa Frances",
+          "url": "https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX"
+        }
+      ],
+      "duration_ms": 298272,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4rAYSa93NeffeWcCgKMhGJ"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/266ym29rkt2PNY7rA3BSQs"
+      },
+      "artists": [
+        {
+          "name": "Rosie H Sullivan",
+          "url": "https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je"
+        }
+      ],
+      "duration_ms": 194437,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/0pKGktONBSFB7faPMXMcXf"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "toler",
+        "url": "https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI"
+      },
+      "artists": [
+        {
+          "name": "kaido",
+          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
+        }
+      ],
+      "duration_ms": 105004,
+      "name": "toler",
+      "url": "https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS"
     },
     {
       "added_at": "2023-08-23 04:00:00",
@@ -87,22 +267,6 @@
       "duration_ms": 244088,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/0geJfOV9dNqpdWqUT6rvyk"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Springtime Red Tulips",
-        "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
-      },
-      "artists": [
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 274976,
-      "name": "Springtime Red Tulips",
-      "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
     },
     {
       "added_at": "2023-08-23 04:00:00",
@@ -1463,166 +1627,6 @@
       "duration_ms": 150000,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/0BPpKKW9Lg5AKIagHNop77"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "on my own",
-        "url": "https://open.spotify.com/album/6bbDZKI1r4XulgvdGNYhMz"
-      },
-      "artists": [
-        {
-          "name": "Philip Brooks",
-          "url": "https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w"
-        }
-      ],
-      "duration_ms": 190902,
-      "name": "lay down",
-      "url": "https://open.spotify.com/track/6OzGSBq6nUNcYTou1zFx5w"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/1LHu52Xd1vR1xBQ5VOwtpy"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 215231,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/5VDrRxafQlpZy7Ew4HvVME"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Everything We Need",
-        "url": "https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M"
-      },
-      "artists": [
-        {
-          "name": "Wilfred",
-          "url": "https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym"
-        }
-      ],
-      "duration_ms": 213738,
-      "name": "Everything We Need",
-      "url": "https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/0y5ESvnTHcaF8McoxWYr3W"
-      },
-      "artists": [
-        {
-          "name": "Hajk",
-          "url": "https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z"
-        }
-      ],
-      "duration_ms": 140334,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/7MxAeo2fTyOaJyRFknwvVY"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Carbondale",
-        "url": "https://open.spotify.com/album/1gOlCCJqOHD9y61C3SvTtd"
-      },
-      "artists": [
-        {
-          "name": "Great Big Cow",
-          "url": "https://open.spotify.com/artist/3XbP6ICTKreFOK6X2vh8Iw"
-        }
-      ],
-      "duration_ms": 216405,
-      "name": "Carbondale",
-      "url": "https://open.spotify.com/track/20L5s543RIT4CzpmU9J0aZ"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Same Page",
-        "url": "https://open.spotify.com/album/7Hi0hHfhJL4q2g6aCq5b1l"
-      },
-      "artists": [
-        {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
-        }
-      ],
-      "duration_ms": 203413,
-      "name": "Same Page",
-      "url": "https://open.spotify.com/track/39uCoYHGaI6ShUUBfqezNQ"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Can You Hear Me Now?",
-        "url": "https://open.spotify.com/album/4hz9D1pMHcCGY8cWZGn8qt"
-      },
-      "artists": [
-        {
-          "name": "Ava Beathard",
-          "url": "https://open.spotify.com/artist/7hwnSMEIzb8Ry5i69tubcu"
-        }
-      ],
-      "duration_ms": 265993,
-      "name": "Wet T-Shirt",
-      "url": "https://open.spotify.com/track/6VvSSKj5v2gnrGNitsbe6G"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Bitemark",
-        "url": "https://open.spotify.com/album/2v7koMf96bG21Rs4pP6CLb"
-      },
-      "artists": [
-        {
-          "name": "Jane Wood",
-          "url": "https://open.spotify.com/artist/55pKqOQv3K9np3u3kWhEeR"
-        }
-      ],
-      "duration_ms": 224176,
-      "name": "Bitemark",
-      "url": "https://open.spotify.com/track/3NE4BCia78MnKm46E9c3Rz"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "The Flood",
-        "url": "https://open.spotify.com/album/74lMdyGGgn6FdsvuZOlM8p"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Riser",
-          "url": "https://open.spotify.com/artist/3JF4Dermg0clMhFhVpeKUf"
-        }
-      ],
-      "duration_ms": 233810,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/2uCYeun5dyWfjYjBr4hUat"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Movie Scene",
-        "url": "https://open.spotify.com/album/3P4EOQogyfdexG1OooDhnm"
-      },
-      "artists": [
-        {
-          "name": "Quinn Devlin",
-          "url": "https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J"
-        }
-      ],
-      "duration_ms": 174963,
-      "name": "Movie Scene",
-      "url": "https://open.spotify.com/track/7GnxDkjxUmJuUmdMhuQSX9"
     }
   ],
   "unique_name": "Fresh Finds Folk",

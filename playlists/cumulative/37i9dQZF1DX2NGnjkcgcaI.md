@@ -4,7 +4,7 @@
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-63 songs - 7 hr 32 min
+65 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,14 +14,15 @@
 | [Atlanta](https://open.spotify.com/track/5Mg1nOQU9wPn8uYmjzs3oX) | [Rex](https://open.spotify.com/artist/5tfWbJ8owvlSc1VWKiCMXH) | [Atlanta](https://open.spotify.com/album/3WdYzCX0cGKhOH3A7RFioM) | 4:05 | 2023-07-28 | 2023-08-26 |
 | [Ball Gazer](https://open.spotify.com/track/6EPdDRRE5WfWMYHgIRUaud) | [Dubtommy](https://open.spotify.com/artist/0KvdfNrhYjhS7Su3dEmPgk) | [Break Point](https://open.spotify.com/album/6IKvJb2zcNTbqlasbI6aO7) | 5:40 | 2022-11-30 |  |
 | [Black Water](https://open.spotify.com/track/1XD8GlwTWv7SaVNV5YZZxy) | [Dim4](https://open.spotify.com/artist/615xsz8sR4d9dtplVWfxzZ), [Ludvigson](https://open.spotify.com/artist/7g2bn0kAzqqzyGP1Fqa8EJ) | [Black Water](https://open.spotify.com/album/7uU5tMjOYtzG3nO8BpO3yn) | 6:17 | 2022-11-30 |  |
+| [Blossoms](https://open.spotify.com/track/41JrgzrdwKt0mXBQrJf1AM) | [Ambra Dubs](https://open.spotify.com/artist/5YXK1fJjoQxk6YkqxTSv1y) | [Blossoms](https://open.spotify.com/album/3ukq09swzYwRU86ZXETvQa) | 5:03 | 2023-08-30 |  |
 | [Blue](https://open.spotify.com/track/4LShuMp07nCqMXEgeYJxK7) | [Moritz Von Oswald Trio](https://open.spotify.com/artist/2yRfLXpz7uqOPvmpMdBqL2) | [Blue](https://open.spotify.com/album/6veME733ZWG8wKBpEeslyW) | 7:46 | 2022-11-30 |  |
 | [Ceti Aa](https://open.spotify.com/track/4i78Ov28AnoNrLJgCo4Vp9) | [Ulker](https://open.spotify.com/artist/4xvgsi0qqgd52fk433zVUa) | [Ceti Aa](https://open.spotify.com/album/3c3Yj7rm3GSaLQsCG7n9bs) | 4:58 | 2023-08-25 |  |
 | [Cold Inside](https://open.spotify.com/track/3Ik0jxcyJvYrY0JY7AXACW) | [Brickman](https://open.spotify.com/artist/2xBjIclLb9V8Q26jsZqWGj) | [The Dark](https://open.spotify.com/album/72NevgD4TY58xdvLtLppe5) | 7:24 | 2022-11-30 |  |
 | [Concrete Dub](https://open.spotify.com/track/1eopkiDHKgx8YATy1mbrDS) | [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Morning Star EP](https://open.spotify.com/album/05MqT0TbUqEujSLRB8aF7l) | 6:28 | 2022-11-30 |  |
 | [Darkness Falls](https://open.spotify.com/track/5gmXnGeozKOzIglwa8FVyX) | [Deepchord](https://open.spotify.com/artist/45g23Apmqo2x4obM7LjmpW) | [Functional Designs](https://open.spotify.com/album/65mmHlZPWc1L3wkfWzG0n9) | 7:13 | 2023-01-10 |  |
 | [Dawn](https://open.spotify.com/track/4J5JQ3xfGZGkxa78b1x9Dn) | [Faserklang](https://open.spotify.com/artist/7iVGJlT8IYlQC9o21K77sP) | [Nu Ways](https://open.spotify.com/album/45QVsvEWNzwrE4cQiA6Lb3) | 7:32 | 2022-11-30 |  |
+| [Deep In Dub \(Zzzzra Minimal Techno Mix\)](https://open.spotify.com/track/0pfmRTCjCfZKn53A5HUPVc) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE), [Zzzzra](https://open.spotify.com/artist/0Z1HUzAek6bJBuBhz8mx0q) | [DeepLife Selection 01](https://open.spotify.com/album/6W5pFubOmnJjE2zexYlhbd) | 7:24 | 2023-02-14 |  |
 | [Deep In Dub \- Zzzzra Minimal Techno](https://open.spotify.com/track/03fF86uquiqMjstKl0oxeE) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Minimal Techhouse Journey](https://open.spotify.com/album/6LDC5NWtBgI0WsMoxUAtMg) | 7:24 | 2022-11-30 | 2023-06-28 |
-| [Deep In Dub \- Zzzzra Minimal Techno Mix](https://open.spotify.com/track/0pfmRTCjCfZKn53A5HUPVc) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Deeplife Selection 01](https://open.spotify.com/album/6W5pFubOmnJjE2zexYlhbd) | 7:24 | 2023-02-14 |  |
 | [Donjon 64 \- Original Mix](https://open.spotify.com/track/7eupsoz9v0rann0SSTCHfZ) | [Zzzzra](https://open.spotify.com/artist/0Z1HUzAek6bJBuBhz8mx0q) | [Biology 004 VA](https://open.spotify.com/album/1yQ8NRBUA79qGGt3MJHezC) | 8:11 | 2022-11-30 |  |
 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 | 2022-11-30 |  |
 | [Dub Seekers](https://open.spotify.com/track/2M5lNIJiiGskmRelYftHvi) | [Coma conscience](https://open.spotify.com/artist/7tBKvZthaXQCVkOeub7FY4) | [Cascades](https://open.spotify.com/album/0VKu2h9Nmos4NcBJ4Tw4j3) | 6:48 | 2022-11-30 |  |
@@ -36,6 +37,7 @@
 | [Junkan \- Original Mix](https://open.spotify.com/track/3SSmOwgVQRSxLG8JrI4U7e) | [Primal Code](https://open.spotify.com/artist/333fTqSVizazuFfaNzwjj8) | [Ēteru](https://open.spotify.com/album/13n22Cmrdw8KKmbCytf2wo) | 6:58 | 2022-11-30 |  |
 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 | 2022-11-30 |  |
 | [Karma Baby](https://open.spotify.com/track/2mTy25zfsfHuxZyyiyFXvx) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Karma Baby EP](https://open.spotify.com/album/2EL95PlWudjVVnpnd9UOi1) | 6:52 | 2022-11-30 |  |
+| [Medis](https://open.spotify.com/track/1xaEUzt4OA6CSOzKg18JMg) | [Saul Bergamot](https://open.spotify.com/artist/3fiUt31k7Ac4kdfScjOAFc) | [Medis](https://open.spotify.com/album/65arpzIuw8uV1JN8UV1dYQ) | 5:28 | 2023-08-30 |  |
 | [Meteor](https://open.spotify.com/track/5aN2zNWyY6CICaU6G1hLSJ) | [Guzz \(Arg\)](https://open.spotify.com/artist/1iI9I5UokB8cWDnK5GbHBn) | [Legacy Volume 1](https://open.spotify.com/album/2FrO5t37vwxBNXgh3zguDM) | 5:20 | 2022-11-30 |  |
 | [Micromind](https://open.spotify.com/track/7qxIUYtvdoRCCOu7UVLqWh) | [Kirill Torno](https://open.spotify.com/artist/3fzaXkKQUAWyOgONnZfZSH) | [Symbiosis of Events](https://open.spotify.com/album/7AtAPPE6HCM5LJQAFNCQec) | 7:38 | 2022-11-30 |  |
 | [Mind in Motion](https://open.spotify.com/track/6sjXcGBcXcs5qoroNsRnaR) | [Davor Tosovic](https://open.spotify.com/artist/2sEyw8K0FUXGhspCR3HUDQ) | [Meditation Chamber](https://open.spotify.com/album/7u32iJ0iK8OvCeMQ0IOYKT) | 5:24 | 2022-11-30 |  |

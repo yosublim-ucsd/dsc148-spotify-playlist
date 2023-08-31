@@ -2,7 +2,7 @@
 
 ### [Long Live DnB](https://open.spotify.com/playlist/37i9dQZF1DXbouKezIgSHE)
 
-> Where drum & bass comes alive\. Cover: B.O.M
+> Where drum & bass comes alive\. Cover: Venbee, Rudimental
 
 136 songs - 8 hr 41 min
 
@@ -57,7 +57,7 @@
 | [Free Your Mind \- Original](https://open.spotify.com/track/2M1LSALo5PGjGeMIazRuhb) | [Zombie Cats](https://open.spotify.com/artist/5ZIAymQimYIkT08qGsRjoK) | [Free Your Mind](https://open.spotify.com/album/1HY5cRpzm4fG3yEH78C1E4) | 4:08 | 2022-06-08 | 2023-08-25 |
 | [Freedom](https://open.spotify.com/track/6x5OvGcJW0wE8tm3zFxPH8) | [Synergy](https://open.spotify.com/artist/7s83dhuGTbXkYUEDXCisbK), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Freedom](https://open.spotify.com/album/6gOc6YOCvp0WyoGXbCDXa2) | 4:13 | 2023-07-27 |  |
 | [Funk Trust](https://open.spotify.com/track/5S7Odia9qyMX0Pomscbdt7) | [DT3](https://open.spotify.com/artist/2BWYrSn8dSJayZkvCf7t9U), [Antrax](https://open.spotify.com/artist/1k5mK5ao28jCQ7CBNIpYMG) | [Funk Trust](https://open.spotify.com/album/2DxRXMnTt8CGexNiBbc4mN) | 3:28 | 2022-06-08 |  |
-| [Get Shaky](https://open.spotify.com/track/4SpNPuNZ1wXN8tixk1Jgc4) | [B.O.M](https://open.spotify.com/artist/3obWOc3Iq15TgW0pTDY2RK) | [Get Shaky](https://open.spotify.com/album/4t3Vyk87itkLUKJyFHxdbN) | 2:30 | 2023-07-30 |  |
+| [Get Shaky](https://open.spotify.com/track/4SpNPuNZ1wXN8tixk1Jgc4) | [B.O.M](https://open.spotify.com/artist/3obWOc3Iq15TgW0pTDY2RK) | [Get Shaky](https://open.spotify.com/album/4t3Vyk87itkLUKJyFHxdbN) | 2:30 | 2023-07-30 | 2023-08-31 |
 | [Giants](https://open.spotify.com/track/6YZfLjsFTrRS8EtGLDY24Y) | [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm) | [Giants](https://open.spotify.com/album/5U9rP5znc63gF2UBnoQ8Hb) | 3:37 | 2022-06-08 | 2023-06-02 |
 | [Golden Sands \(Lue\. Remix\)](https://open.spotify.com/track/5CCI7vsRrr7JRyAtNtBFh4) | [Tilly VW](https://open.spotify.com/artist/3k1wzoa766QdroI9rsVCBU), [Lue.](https://open.spotify.com/artist/68bqztJbjbjG36rYWZ0D5Y) | [Golden Sands \(Lue\. Remix\)](https://open.spotify.com/album/44yf0cXLP1WPNl9q0f3jOj) | 4:01 | 2023-05-25 |  |
 | [GOTTA GET THRU THIS](https://open.spotify.com/track/0btCtiRbKxfoSeXweQMcHr) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [GOTTA GET THRU THIS](https://open.spotify.com/album/2uQFYWvVDvDSjBnIM526DM) | 2:52 | 2023-06-01 |  |

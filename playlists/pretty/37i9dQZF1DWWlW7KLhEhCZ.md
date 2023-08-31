@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Mac Julia, Mc Luanna, ajuliacosta
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,234 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,258 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 34 | [Thc](https://open.spotify.com/track/1RvF2WLvq8xVMYksqaWALN) | [Xiz](https://open.spotify.com/artist/1D991L3SfwNKyPwzY5cLft), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Thc](https://open.spotify.com/album/6FgkcKINfsjioPVzAKfDFd) | 1:49 |
 | 35 | [Chocolate](https://open.spotify.com/track/3S9DM6rKcpHmf3Y71229Lp) | [Dougiie](https://open.spotify.com/artist/1jDAWxUaQam0omgYvhRVtS), [DJ Gui](https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK) | [Chocolate](https://open.spotify.com/album/4cV1IHe6CFV3WfFuh2Zfpq) | 3:00 |
 | 36 | [OPOSIÇÃO](https://open.spotify.com/track/5I4ezRCotFebdYTHPeQMoC) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Gelatto Neves](https://open.spotify.com/artist/1t95X4glHQeeMnUf5HOP10), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [BigJow](https://open.spotify.com/artist/5IzC2Rskm7pJIWkElHNehh), [Enzo Bala](https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3) | [OPOSIÇÃO](https://open.spotify.com/album/25w2PRfq0rfNGnuUyPOY7x) | 3:28 |
-| 37 | [Psicodelia](https://open.spotify.com/track/3gYCEEJvDJ4hWmbuEqkIBa) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Psicodelia](https://open.spotify.com/album/2E26uYY6zGUXv2d2EfScL5) | 2:36 |
+| 37 | [Psicodelia](https://open.spotify.com/track/3gYCEEJvDJ4hWmbuEqkIBa) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [L\. Abner](https://open.spotify.com/artist/79RdzpkbsduCXP2eeCQxXL) | [Psicodelia](https://open.spotify.com/album/2E26uYY6zGUXv2d2EfScL5) | 2:36 |
 | 38 | [Vinculo](https://open.spotify.com/track/78U6oE0dUCMRRmXM1iFuFN) | [Dzalles](https://open.spotify.com/artist/1g6LF0uXFYCwtHPCx1qzTm), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Vinculo](https://open.spotify.com/album/7Gtv0t9tZY7nMyUuTQANeV) | 2:17 |
 | 39 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 40 | [Ruas](https://open.spotify.com/track/1nrR52CyHa74JMSxtLEabB) | [Real Puto](https://open.spotify.com/artist/60PxwENw4FITS4hdlc3P1g), [Mc Orelha](https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD) | [Ruas](https://open.spotify.com/album/5GFDGSVxQ4MYLEIAdVPKBM) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Me Sinto Bem](https://open.spotify.com/track/6Aw6wakQNVU0aGLOeId2fY) | [Andreo](https://open.spotify.com/artist/4Y2FfGIalhyHQq03xtWivO), [Mc Vetão](https://open.spotify.com/artist/4xGAGNa46HT0pafsiecUQ5), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Me Sinto Bem](https://open.spotify.com/album/6gXqtibKBNzaRmlEq9Oa1x) | 2:47 |
 | 75 | [Muda o Clima](https://open.spotify.com/track/5rRiLKbeO2Lb6FeId5eERS) | [UF GANG](https://open.spotify.com/artist/4yIsCbR2dnX4UbeAy1UDp3), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Muda o Clima](https://open.spotify.com/album/7hWHZGvxbVWN8tbxZJv3rr) | 2:30 |
 
-Snapshot ID: `MCxjMDIyNWFjNTU1NzE5NjhlYTk5MDc1NTgzOWMwZmI4YTE0ZDc0ZjNl`
+Snapshot ID: `MCw0YzJkYTRiYzI2YThkZjEzNjUxOGJjMjg2NjVjOWNjZTI1ZmM4N2Zj`

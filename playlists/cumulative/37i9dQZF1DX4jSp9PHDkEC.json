@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "The Practice of Love",
+        "url": "https://open.spotify.com/album/29Chk1LOPq2ZZZGs2th7f1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255191,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/1geq0EI4AJRDQIkJZbkAC1"
+    },
+    {
+      "album": {
         "name": "Ashes to Ashes",
         "url": "https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894"
       },
@@ -5192,7 +5210,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 238266,
       "name": "Valentine Shmalentine",
       "url": "https://open.spotify.com/track/1wpZZJYzdXGRdYZnffm4NQ"

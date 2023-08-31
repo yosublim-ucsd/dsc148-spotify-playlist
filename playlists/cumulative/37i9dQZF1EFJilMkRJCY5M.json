@@ -265,6 +265,28 @@
     },
     {
       "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/22Kmwh0kZhMnnJn2AnSiSF"
+      },
+      "artists": [
+        {
+          "name": "Jay Dixie",
+          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "Decisions",
+      "url": "https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1"
+    },
+    {
+      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9"
       },

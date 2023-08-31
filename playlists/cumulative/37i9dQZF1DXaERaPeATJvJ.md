@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: White Shoes & The Couples Company
 
-115 songs - 7 hr 49 min
+117 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Malaikat](https://open.spotify.com/track/3LBoldNcoz7ALLUGEieC6O) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Let Me Begin](https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy) | 5:27 | 2021-11-25 |  |
 | [Masa Remadja \(Remastered\)](https://open.spotify.com/track/0iVAkXQiLOb20NIfwLdTBe) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Galih & Ratna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0KBEON1Bmw2aQBAjNU2IFn) | 4:48 | 2021-11-25 |  |
 | [Mata Berdebu](https://open.spotify.com/track/0ffIV3en4DBNZUlPXQQrRH) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Centralismo](https://open.spotify.com/album/4cgfCWFWpaUsbNouFsKdsr) | 4:15 | 2021-11-25 |  |
+| [Matahari](https://open.spotify.com/track/3gdqotXTAfRcBgCMP9fQ0q) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Album Vakansi](https://open.spotify.com/album/6pwO0FlmvK6Ny1zXJpYv6P) | 4:11 | 2023-08-30 |  |
 | [Matraman](https://open.spotify.com/track/6mvnlHczAMdRctsgfbA4tY) | [The Upstairs](https://open.spotify.com/artist/0EyRRRjkb75NnZx3G0JXul) | [Matraman](https://open.spotify.com/album/04W8ZfHK51vMEqT1Pjg32p) | 5:25 | 2021-11-25 |  |
 | [Memento Mori](https://open.spotify.com/track/4h1V3EVBYFin06loiFlWfK) | [Everybody Loves Irene](https://open.spotify.com/artist/2P7CyetvRetf7Lp4unDRoY) | [The Very First Thing You Must Learn About Flying Is Gravity](https://open.spotify.com/album/3AlH5nivhVfwEQxrZeAmS7) | 3:10 | 2021-11-25 |  |
 | [Menjadi Dewasa](https://open.spotify.com/track/0GesyQ4yRafkQoXuA1VMcT) | [VOX](https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX) | [Pada Awalnya](https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq) | 4:22 | 2021-11-25 |  |
@@ -93,7 +94,7 @@
 | [Rocket Ship Goes By](https://open.spotify.com/track/4t3xYJuEtE62BnjpkIlzdz) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd) | 4:08 | 2021-11-25 |  |
 | [Romansick](https://open.spotify.com/track/3vm6t3eFKsfpTEWTHrHeGT) | [Amazing in Bed](https://open.spotify.com/artist/2jVZ9hbmiAlkPMF2KsO66k) | [Self Titled](https://open.spotify.com/album/706VukfkZprTpoyO6RPE3P) | 4:10 | 2022-06-03 |  |
 | [Romantic Purple \- Let Me Begin Album](https://open.spotify.com/track/6JjYT1lxRn254qiQWrRXaJ) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 6:04 | 2022-04-08 |  |
-| [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 | 2022-04-08 |  |
+| [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 | 2022-04-08 | 2023-08-31 |
 | [Rules and Policy](https://open.spotify.com/track/0pJAkqb1ZHCdxohhD7M5w8) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98) | [Monkey to Millionaire](https://open.spotify.com/album/4pNR7Opym7bbZdBcDgf8DY) | 3:14 | 2021-11-25 | 2022-05-13 |
 | [Satu Di Antara Seribu](https://open.spotify.com/track/65PuD3kYlDcfarRyKtVv8w) | [Cherry Bombshell](https://open.spotify.com/artist/0Y5KhI1O7yYPbLd7vi05td) | [Jalan Masih Panjang](https://open.spotify.com/album/6HKBzzMFzGeH3XNn0DMNya) | 3:55 | 2023-01-13 |  |
 | [Satu Mimpi](https://open.spotify.com/track/4xbWESPCXzpARtbmb5hqp5) | [Waiting Room](https://open.spotify.com/artist/720vBDH1DJ0UaLXmfTMs46) | [Propaganda](https://open.spotify.com/album/6qTGWkGYvVv3Y5HtJ10cpi) | 3:19 | 2021-11-25 |  |
@@ -117,6 +118,7 @@
 | [Tidur Dimanapun Bermimpi Kapanpun](https://open.spotify.com/track/13pS8pG9NDe5yX8lptvLu9) | [Morfem](https://open.spotify.com/artist/3JoyBiTkzGqZCWwq07no59) | [Indonesia](https://open.spotify.com/album/0tkJ7mCa6Rct4HjOZAttxp) | 4:11 | 2022-06-23 | 2023-05-26 |
 | [Tidur Dimanapun Bermimpi Kapanpun](https://open.spotify.com/track/2SoF3QOlMbXVpmU90QaTMT) | [Morfem](https://open.spotify.com/artist/3JoyBiTkzGqZCWwq07no59) | [Indonesia](https://open.spotify.com/album/2ghJjKYrxvScTls6DgzahG) | 4:11 | 2023-03-02 |  |
 | [Tipu Jalanan](https://open.spotify.com/track/455lrM7CINDST62QTXwc4O) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Brandalisme](https://open.spotify.com/album/32BwVGiwZl7uTvW6EgEbtZ) | 3:44 | 2022-12-16 | 2023-01-14 |
+| [Topstar](https://open.spotify.com/track/3YgYfnCjpnN0oSZv3bkaX7) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Topstar Collection](https://open.spotify.com/album/7GQQVzcfWoxWQzIcsG305K) | 3:01 | 2023-08-30 |  |
 | [Train Song](https://open.spotify.com/track/7oEEo9d9ajxiwOyMnWnE67) | [LAIN](https://open.spotify.com/artist/7jl1uHLFhjyTBm7VhEJkfc) | [Djakarta Goodbye](https://open.spotify.com/album/1yBGzjyYGCLkPs9VwQh1qo) | 3:16 | 2021-11-25 |  |
 | [Tribute for you](https://open.spotify.com/track/6DyR1o2aSYZhvJPwAVkjVX) | [Pestolaer](https://open.spotify.com/artist/1gpfHCNfV3ODeF7f6YfsSF) | [Best of the Best](https://open.spotify.com/album/0ywMYhZ1UwaSMvuIO2HiMI) | 3:53 | 2022-04-14 |  |
 | [Waking Hour](https://open.spotify.com/track/0cs8SUKFfyO9yUPlVCY6oh) | [Hightime Rebellion](https://open.spotify.com/artist/6pdlU4FPMqLG74BWDxcTEO) | [Neurobic](https://open.spotify.com/album/6qwfwz47DEnXUQw6MD2dc6) | 4:43 | 2022-06-03 |  |

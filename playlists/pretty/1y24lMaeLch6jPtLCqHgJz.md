@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,522 likes - 112 songs - 5 hr 42 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 85,570 likes - 112 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 7 | [Flight](https://open.spotify.com/track/67keGyFWWzCELxtVSBi1em) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Flight](https://open.spotify.com/album/1sLPzmdbfT9UvHuOvBe9yE) | 2:30 |
 | 8 | [Won't Forget This Time ft\. John Martin](https://open.spotify.com/track/5q8Z8P353nbfsiXz4Jdho9) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Won't Forget This Time ft\. John Martin](https://open.spotify.com/album/1WzD4wAhcuqIFBMZSDVoH9) | 3:21 |
 | 9 | [ROOTS](https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [ROOTS](https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8) | 2:58 |
-| 10 | [Obsession](https://open.spotify.com/track/2aHVgbOvMaYhbEAaHilYdd) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm) | [Trilogy](https://open.spotify.com/album/7pe7aBKsYDFEpSSZjw0L5C) | 3:15 |
+| 10 | [Obsession](https://open.spotify.com/track/2aHVgbOvMaYhbEAaHilYdd) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm) | [Trilogy EP](https://open.spotify.com/album/7pe7aBKsYDFEpSSZjw0L5C) | 3:15 |
 | 11 | [Like Dis](https://open.spotify.com/track/4BlhVVLEJ7H2QsPcZ0v6bL) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Like Dis](https://open.spotify.com/album/2pFskPFDiMLmH3D8HHKpDl) | 2:18 |
 | 12 | [Breathless](https://open.spotify.com/track/4kydVCpanDuAzoGuHMNZBZ) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Karasso](https://open.spotify.com/artist/751zFKXhbzKTvHnxt2iIFn), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Breathless](https://open.spotify.com/album/4YNvCzLe7cq4CVIrzg976s) | 3:10 |
 | 13 | [I Break You In](https://open.spotify.com/track/7I8wDMgNS7kDfBsV1h2Pso) | [Dory Badawi](https://open.spotify.com/artist/5T3a336LavLBtqt7zH3IRi) | [I Break You In](https://open.spotify.com/album/4u7uVOVqPJvMqPmCONBZWX) | 3:00 |

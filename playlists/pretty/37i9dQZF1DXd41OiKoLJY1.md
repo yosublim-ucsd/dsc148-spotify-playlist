@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Misha De Leon Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,856 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,864 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Lambing](https://open.spotify.com/track/70QpaWGDomY4xRJu5Q0jh6) | [Fitz Shioda](https://open.spotify.com/artist/5C2w1OkTeKl8BLSwHI68dj) | [Lambing](https://open.spotify.com/album/6MVhsXVm5XdDN4TTvHb2US) | 3:46 |
 | 75 | [Say It](https://open.spotify.com/track/03z7DAjyO0PNxzckObipB8) | [Jaden Narvios](https://open.spotify.com/artist/7EktIPH8RycJVJ2Roq9vzv) | [Say It](https://open.spotify.com/album/6lno0L1vOppVszwUz6I45n) | 3:05 |
 
-Snapshot ID: `MCxhOTE2MTJiZWQ3NGNkNWRlNjIzNmRhNzhlZjljYjllMWUwY2RhZDcw`
+Snapshot ID: `MCwyZDQxOTgyODM0MTllMjdhZDg4YzZjMjZhMjlmMWQ2ZDRiMWE2Nzhh`

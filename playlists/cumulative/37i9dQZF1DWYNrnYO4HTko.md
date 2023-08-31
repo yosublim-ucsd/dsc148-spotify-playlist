@@ -4,7 +4,7 @@
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-103 songs - 5 hr 40 min
+104 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Security](https://open.spotify.com/track/19tqWReLPd4VXEetDVArLT) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:30 | 2021-10-01 |  |
 | [Security](https://open.spotify.com/track/6e71wkIE5RnT57h8k2TdAi) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Mavis Staples](https://open.spotify.com/album/69UCRo9HJBUEZDPFMgR30r) | 2:52 | 2021-10-01 |  |
 | [Security](https://open.spotify.com/track/0c0YEO0WyHta4piFvQSg74) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 2:56 | 2021-10-01 |  |
-| [Security](https://open.spotify.com/track/6rhanBKHZciWDmpqPKdQTP) | [The Young Veins](https://open.spotify.com/artist/6vjgLoIHeoblpnAKNPeF8Q) | [Take a Vacation! \(Deluxe Edition\)](https://open.spotify.com/album/5cFULX82XWt56txFZImJdS) | 2:33 | 2021-10-01 |  |
+| [Security](https://open.spotify.com/track/74cVzlQDQojkAOed15wC6I) | [The Young Veins](https://open.spotify.com/artist/6vjgLoIHeoblpnAKNPeF8Q) | [Take a Vacation! \(Deluxe Edition / Remastered\)](https://open.spotify.com/album/0aVQtk9RS7xTuKcHym1ZsY) | 2:31 | 2021-10-01 |  |
+| [Security](https://open.spotify.com/track/6rhanBKHZciWDmpqPKdQTP) | [The Young Veins](https://open.spotify.com/artist/6vjgLoIHeoblpnAKNPeF8Q) | [Take a Vacation! \(Deluxe Edition\)](https://open.spotify.com/album/5cFULX82XWt56txFZImJdS) | 2:33 | 2021-10-01 | 2023-08-31 |
 | [Sitting on the Dock of the Bay](https://open.spotify.com/track/5Ja7SS7ATazexKz4E6dgOp) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 3:15 | 2021-10-01 |  |
 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2021-10-01 | 2022-09-02 |
 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2021-10-01 |  |

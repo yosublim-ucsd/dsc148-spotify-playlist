@@ -1128,8 +1128,8 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
-      "duration_ms": 211764,
+      "date_removed": null,
+      "duration_ms": 212470,
       "name": "Do You Know",
       "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
     },
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 212470,
       "name": "Do You Know",
       "url": "https://open.spotify.com/track/3kKfPlamJ5CO6j9tA4RdyS"
@@ -2890,10 +2890,32 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 187563,
       "name": "Night Out",
       "url": "https://open.spotify.com/track/5sGk41Let4ruIs6WkyarR7"
+    },
+    {
+      "album": {
+        "name": "Nimm Thalle",
+        "url": "https://open.spotify.com/album/6AMmCNpdB7SrNOsOk7AATv"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Nimm Thalle",
+      "url": "https://open.spotify.com/track/1t0Kt7JeVFRgrCqwdsca8d"
     },
     {
       "album": {
@@ -3597,6 +3619,28 @@
     },
     {
       "album": {
+        "name": "Echoes of Emotions",
+        "url": "https://open.spotify.com/album/6ZGcsvHEjS1kC20utWkE6H"
+      },
+      "artists": [
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256363,
+      "name": "Sama",
+      "url": "https://open.spotify.com/track/2sPBFOLTThxTp98E9Sfgrj"
+    },
+    {
+      "album": {
         "name": "Satisfy",
         "url": "https://open.spotify.com/album/6RYfEZXGozNip5vEpP0Llp"
       },
@@ -3815,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "Showstopper",
+        "url": "https://open.spotify.com/album/1KVirmPrDEhMyG54GfSSWz"
+      },
+      "artists": [
+        {
+          "name": "JERRY",
+          "url": "https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146062,
+      "name": "Showstopper",
+      "url": "https://open.spotify.com/track/64mInfKzmJIbuTvcnhRgfW"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -3972,7 +4034,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 124498,
       "name": "SPACESHIP",
       "url": "https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d"
@@ -4194,7 +4256,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 114418,
       "name": "TERE TE",
       "url": "https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5"

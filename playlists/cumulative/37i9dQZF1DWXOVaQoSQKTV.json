@@ -420,10 +420,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 170486,
       "name": "Boxes",
       "url": "https://open.spotify.com/track/6xb0ex1Y10CXq0QPylFqJJ"
+    },
+    {
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/2TQASXqfYqFMTsrWBVhWWl"
+      },
+      "artists": [
+        {
+          "name": "GRAE",
+          "url": "https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170486,
+      "name": "Boxes",
+      "url": "https://open.spotify.com/track/761bRfbulbqga0Sm60GGhG"
     },
     {
       "album": {

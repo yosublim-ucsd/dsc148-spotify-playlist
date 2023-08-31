@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Nusta Paisa",
+        "url": "https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Nusta Paisa",
+      "url": "https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3"
+    },
+    {
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu"
       },

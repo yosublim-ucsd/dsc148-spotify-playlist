@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-583 songs - 1 day 23 hr 20 min
+584 songs - 1 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,8 @@
 | [Sound](https://open.spotify.com/track/5XJQxA7XUi58z58d5Z3IkJ) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [/Y\\](https://open.spotify.com/album/4vrJWnbIjBvj9j4NvsUjD6) | 1:19 | 2023-03-24 |  |
 | [Sound Control \(Edit\)](https://open.spotify.com/track/40H7GrHzdUxmc75nvZzctq) | [Randall](https://open.spotify.com/artist/7eBvRf0FT8X43nN0DAmvLl), [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Sound Control \(Edit\)](https://open.spotify.com/album/4L8M2uJ3Tpgq9wn9uEnWwf) | 4:48 | 2022-02-28 | 2022-05-04 |
 | [Spacey \- Anna Morgan Remix](https://open.spotify.com/track/0Qg30x9Bvt636Oarn2GZ56) | [Bell Curve](https://open.spotify.com/artist/1DMtZ4G72tuqMxRiJNTkQf), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Anna Morgan](https://open.spotify.com/artist/30X6dIzlcixPlRNNYesrA4) | [Unstable Orbit \(The Remixes\)](https://open.spotify.com/album/7rV8Qn3kBlN6cbOT6jLTtz) | 3:48 | 2021-11-25 | 2022-01-08 |
-| [Spacey \- Doctor Jeep Remix](https://open.spotify.com/track/1k1pfKYdhsRwWL9VOJfimM) | [Bell Curve](https://open.spotify.com/artist/1DMtZ4G72tuqMxRiJNTkQf), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Unstable Orbit \(The Remixes\)](https://open.spotify.com/album/70XksiP2lIBxRpbo0UAjSo) | 6:01 | 2023-03-07 |  |
+| [Spacey \- Doctor Jeep Remix](https://open.spotify.com/track/1k1pfKYdhsRwWL9VOJfimM) | [Bell Curve](https://open.spotify.com/artist/1DMtZ4G72tuqMxRiJNTkQf), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Unstable Orbit \(The Remixes\)](https://open.spotify.com/album/70XksiP2lIBxRpbo0UAjSo) | 6:01 | 2023-03-07 | 2023-08-31 |
+| [Spacey \- Doctor Jeep Remix](https://open.spotify.com/track/7IdvWUtnKuI3usOHI5WoVF) | [Bell Curve](https://open.spotify.com/artist/1DMtZ4G72tuqMxRiJNTkQf), [Strategy](https://open.spotify.com/artist/5EkvvANKznoDO5bi8W7nXs), [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Unstable Orbit \(The Remixes\)](https://open.spotify.com/album/2zu5uGwEgcsO309JA5aRcm) | 6:01 | 2023-08-08 |  |
 | [Spectral Frequency](https://open.spotify.com/track/3c5R1617qxlqKX0mhTY3im) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Spectral Frequency \- EP](https://open.spotify.com/album/4BcHyTvzqQ8ID7kQUGMcK3) | 6:18 | 2022-06-17 | 2022-09-24 |
 | [Speed Fever](https://open.spotify.com/track/63onZVw4zEluuu10oAzZGr) | [DJ Y](https://open.spotify.com/artist/0gbhZG1VwPDifwyRJBF6ny) | [Speed Fever](https://open.spotify.com/album/739IxNiV1KuJvgUcTelUiR) | 6:03 | 2022-05-03 | 2022-09-24 |
 | [Spiritual Aura \- DJ Rap's Get Raw Remix, 1994](https://open.spotify.com/track/4pc6AW5u6BJcKGnaUSCLwX) | [DJ Rap](https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46) | [Propa Talent Presents: Back 2 The Future, Pt\. 1 \- Spiritual Aura](https://open.spotify.com/album/75SbtmTdV4WAEYpcQH8vVD) | 6:00 | 2022-09-23 | 2022-11-22 |

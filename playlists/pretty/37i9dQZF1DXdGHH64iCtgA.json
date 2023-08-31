@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 66013,
+  "num_followers": 66065,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjY3MzU5NDg4NzU3ZGMxMmNjOTdkMmVlYjRhNGUyMzVlOTdhZmNk",
+  "snapshot_id": "MCw3MDFlNDVjZTU0OTRhZThjZmViNzlhMWE4NmU3MjRmMDdjNzI0ODdk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
+      },
+      "artists": [
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "duration_ms": 149051,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "VSOD (Velvet Sky of Dreams)",
         "url": "https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 342000,
       "name": "VSOD - Velvet Sky of Dreams",
       "url": "https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
-      },
-      "artists": [
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        }
-      ],
-      "duration_ms": 149051,
-      "name": "Composure",
-      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Adventures Beyond The Ultraworld",
+        "url": "https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Little Fluffy Clouds",
+      "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 495872,
       "name": "Ivoire (feat. Kio Amachree)",
       "url": "https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Adventures Beyond The Ultraworld",
-        "url": "https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Little Fluffy Clouds",
-      "url": "https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Iron 2021",
+        "url": "https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "duration_ms": 523453,
+      "name": "Iron 2021",
+      "url": "https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Sharevari",
         "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 351306,
       "name": "Sharevari",
       "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Iron 2021",
-        "url": "https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt"
-      },
-      "artists": [
-        {
-          "name": "Woodkid",
-          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
-        }
-      ],
-      "duration_ms": 523453,
-      "name": "Iron 2021",
-      "url": "https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Romance Noire",
+        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
+      },
+      "artists": [
+        {
+          "name": "Double Mixte",
+          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
+        }
+      ],
+      "duration_ms": 312466,
+      "name": "Romance Noire",
+      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Play In The Dark",
         "url": "https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Romance Noire",
-        "url": "https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD"
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
       },
       "artists": [
         {
-          "name": "Double Mixte",
-          "url": "https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR"
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
         }
       ],
-      "duration_ms": 312466,
-      "name": "Romance Noire",
-      "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 187000,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 246182,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "LOFF IS ALL YOU SPEED",
-        "url": "https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
-        },
-        {
-          "name": "Sita Abellan",
-          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
-        }
-      ],
-      "duration_ms": 183936,
-      "name": "LOFF IS ALL YOU SPEED",
-      "url": "https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Club Eat",
         "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 398664,
       "name": "Blessed - Virgil Abloh Future-Jazz Remix",
       "url": "https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "LOFF IS ALL YOU SPEED",
+        "url": "https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        },
+        {
+          "name": "Sita Abellan",
+          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
+        }
+      ],
+      "duration_ms": 183936,
+      "name": "LOFF IS ALL YOU SPEED",
+      "url": "https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H"
     }
   ],
   "unique_name": "Runway",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,199 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,256 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 53 | [Llename](https://open.spotify.com/track/3B9hzZyZTyTOi2d4nPI2S4) | [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Llename](https://open.spotify.com/album/4bYRZq6XgwYabQAbqVSm8M) | 3:31 |
 | 54 | [Influencer](https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Entre Nubes](https://open.spotify.com/album/33365bfVKn4qAztySXLsBm) | 3:25 |
 | 55 | [Sin Escalas](https://open.spotify.com/track/6M6Wlo6TvOOTdv2NmCw0zB) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Sin Escalas](https://open.spotify.com/album/4vhqPvtXtDQuiH2In9s0bQ) | 3:31 |
-| 56 | [Corazón de Piedra](https://open.spotify.com/track/0PImEtenba1318UQSlkmeP) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Corazón de Piedra](https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56) | 3:41 |
-| 57 | [Ando Buscando](https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Ando Buscando](https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU) | 2:40 |
+| 56 | [Ando Buscando](https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Ando Buscando](https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU) | 2:40 |
+| 57 | [Corazón de Piedra](https://open.spotify.com/track/0PImEtenba1318UQSlkmeP) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Corazón de Piedra](https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56) | 3:41 |
 | 58 | [Futuro Contigo](https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Futuro Contigo](https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe) | 3:33 |
 | 59 | [Ma' Na](https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [El Hijo del Borracho](https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8) | 3:20 |
 | 60 | [La Media Vuelta](https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd) | [La Media Vuelta](https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km) | 3:17 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 97 | [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 |
 | 98 | [Humillado](https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Relevantes](https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF) | 3:30 |
 | 99 | [Un Call](https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Un Call](https://open.spotify.com/album/41skV30829DyjovTu9BPas) | 3:34 |
-| 100 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 |
+| 100 | [Corazón](https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW) | [Corazón](https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt) | 3:37 |
 
-Snapshot ID: `MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj`
+Snapshot ID: `MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0`

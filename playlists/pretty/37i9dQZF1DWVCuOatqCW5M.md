@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Sukriti Kakar & Prakriti Kakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,820 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,877 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Dil Bechara](https://open.spotify.com/track/1DxD7cihgQRytjJbKfMDgW) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [Dil Bechara](https://open.spotify.com/album/7bbmHgqhbJd8DwFVjKGGLx) | 3:02 |
 | 50 | [Jee Bhar Ke Tum…](https://open.spotify.com/track/1Q2Hv8Gi6tyW6dmA9AXdjK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jee Bhar Ke Tum…](https://open.spotify.com/album/3fKrqRkBw0tDgPZiaQRtfJ) | 4:19 |
 
-Snapshot ID: `MCwzNzU4ZTdiMGI2MDlhNGZmNjY5MTI1OWExMzBkYTIzNjhjMWU3NWYz`
+Snapshot ID: `MCw5M2FhODQ4NDA2YzQxODkzYWRmZGUzOWU2ZmRlZTY1ZjY1ZTlhMjkz`

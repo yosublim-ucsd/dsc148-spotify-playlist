@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,897 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,007 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Hora de Adorar](https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [DJ Albery](https://open.spotify.com/artist/7llQ9fy7iFlGZPCcFncgQV), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Hora de Adorar](https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9) | 3:10 |
 | 75 | [Save Me](https://open.spotify.com/track/2k08bp82eVVRN7vy0leDCD) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [Debora Soares](https://open.spotify.com/artist/1Mf4PRtxHN9LGGH5gzuAiJ) | [Save Me](https://open.spotify.com/album/6eDChWaYW8T0UFqizpPMS5) | 2:53 |
 
-Snapshot ID: `MCw3ZDE2OTBmMDI5ZDE4MzVkODY2MTYzYTgwNmNhZDkyMWExN2RkZDdl`
+Snapshot ID: `MCwzNDQ2MWU4YzYwYzhlMWEzZDg0ZWIxY2UyOGVlZDVhMGViOWMzN2Zl`

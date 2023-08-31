@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Bad Gyalz",
+        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159299,
+      "name": "Bad Gyalz",
+      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
+    },
+    {
+      "album": {
         "name": "Balafonerra",
         "url": "https://open.spotify.com/album/5hMJmywK4dNUesJ5eWJouX"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 198095,
       "name": "dashstar*",
       "url": "https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF"
@@ -3396,7 +3414,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 194404,
       "name": "Ready (feat. Da Professor)",
       "url": "https://open.spotify.com/track/5WDpIFiww5AWqIMGG7Uz4O"
@@ -4237,6 +4255,28 @@
     },
     {
       "album": {
+        "name": "The Treble",
+        "url": "https://open.spotify.com/album/0iHPUixpramB60NDP56aar"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "The Treble",
+      "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
+    },
+    {
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/6guB22g2F0QDgRuQCT57DK"
       },
@@ -4670,7 +4710,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 318000,
       "name": "Vibsing Ting",
       "url": "https://open.spotify.com/track/7GG6MVvBndthjec7YBhz0I"
@@ -5026,6 +5066,32 @@
       "duration_ms": 176482,
       "name": "YOU CAN DO IT",
       "url": "https://open.spotify.com/track/0LvhaROdMr93mu65bCbTf4"
+    },
+    {
+      "album": {
+        "name": "You Da Shit Girl (feat. LATASH\u00c1)",
+        "url": "https://open.spotify.com/album/00X9a5p33fuzyJoffuWGX7"
+      },
+      "artists": [
+        {
+          "name": "Dave + Sam",
+          "url": "https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf"
+        },
+        {
+          "name": "LATASH\u00c1",
+          "url": "https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi"
+        },
+        {
+          "name": "Nick Godmode",
+          "url": "https://open.spotify.com/artist/1AuJTtLgvKpgJ0zkxP9nOc"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214654,
+      "name": "You Da Shit Girl (feat. LATASH\u00c1) - Nick Godmode m\u00f88b Remix",
+      "url": "https://open.spotify.com/track/4MAzJOogUwWzMB8jKTOdRP"
     },
     {
       "album": {

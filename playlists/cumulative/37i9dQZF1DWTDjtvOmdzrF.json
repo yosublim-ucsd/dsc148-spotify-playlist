@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 236394,
       "name": "Bicara (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 238000,
       "name": "Denah Rumahmu (Acoustic Version)",
       "url": "https://open.spotify.com/track/6zcqxojUVNtOcU7iD1q0zo"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 282000,
       "name": "Ijinkan Aku Menyayangimu",
       "url": "https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 242363,
       "name": "Mendarah",
       "url": "https://open.spotify.com/track/75OokMC3JzPnRNXcLTAKdr"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 306428,
       "name": "Menuju Senja",
       "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Semua Aku Dirayakan",
+        "url": "https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310625,
+      "name": "Semua Aku Dirayakan",
+      "url": "https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA"
+    },
+    {
+      "album": {
         "name": "8 Tahun",
         "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
       },
@@ -1573,6 +1591,28 @@
     },
     {
       "album": {
+        "name": "Tak Apa (feat. Nosstress)",
+        "url": "https://open.spotify.com/album/0z1bZJUqQIGVghcHJs4d7b"
+      },
+      "artists": [
+        {
+          "name": "Daun Jatuh",
+          "url": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
+        },
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239932,
+      "name": "Tak Apa (feat. Nosstress)",
+      "url": "https://open.spotify.com/track/3iZ6I95xY5YXNSinAuXgl8"
+    },
+    {
+      "album": {
         "name": "Tampar",
         "url": "https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz"
       },
@@ -1624,6 +1664,24 @@
       "duration_ms": 235643,
       "name": "Terlintas",
       "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
+    },
+    {
+      "album": {
+        "name": "Terpikat Senyummu",
+        "url": "https://open.spotify.com/album/4gl33T1veBY3TeXUgjljmq"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187012,
+      "name": "Terpikat Senyummu",
+      "url": "https://open.spotify.com/track/5AEHGqE2QT26cWTx8MNJl2"
     },
     {
       "album": {

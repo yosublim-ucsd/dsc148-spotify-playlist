@@ -4,7 +4,7 @@
 
 > All the vibes, enjoyment and future hits right here
 
-480 songs - 1 day 5 hr 10 min
+481 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Butta My Bread](https://open.spotify.com/track/0DHUdmHzkNq7GAMaDLlJnb) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/7nJP3Rmr7nBGQ3OlrAvlb8) | 2:28 | 2023-05-15 | 2023-06-18 |
 | [Butta My Bread](https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk) | 2:28 | 2023-06-12 |  |
 | [Buya Kimi](https://open.spotify.com/track/6HLuVPFx304WRA0fbVirjs) | [Dj Coach](https://open.spotify.com/artist/0kXAnE4pbMxme8h4PQndfa), [DJ Sgo](https://open.spotify.com/artist/658ZTOoDdi3wP5HcVSdJFJ), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Buya Kimi](https://open.spotify.com/album/1aE3LIBDSvHiPJvHXLHwdR) | 6:55 | 2023-05-02 | 2023-07-11 |
-| [Canada](https://open.spotify.com/track/2Qu5exKyrNdDMgYruK3eMK) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Snr Morris](https://open.spotify.com/artist/7JfOavvh4UTQuDG9oBlmsY), [Wizzy Flon](https://open.spotify.com/artist/4IEekyeps4v1qFYz0w7lbT) | [I Am Dodo](https://open.spotify.com/album/2FC1Y3WzHfyzXDA6uqagYG) | 2:36 | 2023-08-28 |  |
+| [Canada](https://open.spotify.com/track/1E3KhaXthsgAY2eK93sx2J) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan) | [Canada](https://open.spotify.com/album/25bg1Ay7Oj5R6mQNLjHa3k) | 2:36 | 2023-08-28 |  |
+| [Canada](https://open.spotify.com/track/2Qu5exKyrNdDMgYruK3eMK) | [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Snr Morris](https://open.spotify.com/artist/7JfOavvh4UTQuDG9oBlmsY), [Wizzy Flon](https://open.spotify.com/artist/4IEekyeps4v1qFYz0w7lbT) | [I Am Dodo](https://open.spotify.com/album/2FC1Y3WzHfyzXDA6uqagYG) | 2:36 | 2023-08-28 | 2023-08-31 |
 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 | 2023-04-11 |  |
 | [Casper](https://open.spotify.com/track/1dV2NyQUs4fnjIt03nsObq) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Casper](https://open.spotify.com/album/4jgelDulWcFndTEWGLyqJw) | 3:03 | 2023-06-19 | 2023-07-11 |
 | [Casper](https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 3:17 | 2022-11-08 | 2022-11-16 |

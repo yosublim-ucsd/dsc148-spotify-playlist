@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 237609,
       "name": "Arsu",
       "url": "https://open.spotify.com/track/2ASLuv2Y7q2OdGFRjPGWbm"
@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 384890,
       "name": "Brushstroke",
       "url": "https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB"
@@ -4752,7 +4752,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 255986,
       "name": "Clean Slate",
       "url": "https://open.spotify.com/track/1qjMM7qlmDnucsa5UoOCZ9"
@@ -6491,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
+      },
+      "artists": [
+        {
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92737,
+      "name": "drive thru",
+      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
+    },
+    {
+      "album": {
         "name": "dub",
         "url": "https://open.spotify.com/album/7ytdBiDlBFmjHOJG8lNGBv"
       },
@@ -7452,7 +7470,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 279375,
       "name": "Eternal Whisper",
       "url": "https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI"
@@ -7546,6 +7564,24 @@
       "duration_ms": 295844,
       "name": "Every Piano",
       "url": "https://open.spotify.com/track/5uPkZGZpAKlQh0QZWXeGY3"
+    },
+    {
+      "album": {
+        "name": "Your Problem as a Mountain",
+        "url": "https://open.spotify.com/album/32ETZyt4DObynaLJF51O90"
+      },
+      "artists": [
+        {
+          "name": "Party Milk",
+          "url": "https://open.spotify.com/artist/2oM77Kesir4L1mzaQ8O3cR"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96436,
+      "name": "Every Runner",
+      "url": "https://open.spotify.com/track/6lhPLGhKKLrPGhcV0G539S"
     },
     {
       "album": {
@@ -7836,6 +7872,24 @@
       "duration_ms": 1644221,
       "name": "False Dawn",
       "url": "https://open.spotify.com/track/28KDQ7ENkgRytD9eErP62Z"
+    },
+    {
+      "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "album": {
@@ -8660,6 +8714,24 @@
       "duration_ms": 290149,
       "name": "For seen",
       "url": "https://open.spotify.com/track/2cDw9iebO6bABTZeHF70gj"
+    },
+    {
+      "album": {
+        "name": "For The Upper Mantle",
+        "url": "https://open.spotify.com/album/3X9yEVBrw8dHTkETuvTMJy"
+      },
+      "artists": [
+        {
+          "name": "Third Space",
+          "url": "https://open.spotify.com/artist/4lrrni4g5Ll7Yltviu2JRH"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1515348,
+      "name": "For The Upper Mantle",
+      "url": "https://open.spotify.com/track/30tgD1QE4NU8wr0g81Q9BJ"
     },
     {
       "album": {
@@ -10166,6 +10238,24 @@
       "duration_ms": 545252,
       "name": "Hello, How? and Hey",
       "url": "https://open.spotify.com/track/0NWjRVk3wUYDEAZqg10YoR"
+    },
+    {
+      "album": {
+        "name": "Hint",
+        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
+      },
+      "artists": [
+        {
+          "name": "SPIME.IM",
+          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303500,
+      "name": "Hint",
+      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
     },
     {
       "album": {
@@ -12525,6 +12615,24 @@
     },
     {
       "album": {
+        "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
+        "url": "https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f"
+      },
+      "artists": [
+        {
+          "name": "Gil Dion\u00edsio",
+          "url": "https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354031,
+      "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
+      "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
+    },
+    {
+      "album": {
         "name": "KAGIROI",
         "url": "https://open.spotify.com/album/04esOevP0QsnyAg5SdsdDq"
       },
@@ -13600,7 +13708,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 161776,
       "name": "Look",
       "url": "https://open.spotify.com/track/1MtQHHR98b9oq9yYcon0RB"
@@ -14059,6 +14167,24 @@
     },
     {
       "album": {
+        "name": "Hotel *****",
+        "url": "https://open.spotify.com/album/3DS0TJ2SJKAnqjup5K5KT1"
+      },
+      "artists": [
+        {
+          "name": "julek ploski",
+          "url": "https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Main theme, Pt I",
+      "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
+    },
+    {
+      "album": {
         "name": "Pulse Of Defiance",
         "url": "https://open.spotify.com/album/6mXyg01KVXMMOvb3v9efZR"
       },
@@ -14452,7 +14578,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 748320,
       "name": "Meers & Hushes",
       "url": "https://open.spotify.com/track/5x1L1dceyEz8LQ4xW86um6"
@@ -16042,7 +16168,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 99428,
       "name": "New Challenges",
       "url": "https://open.spotify.com/track/5dJZ45VpKjXE6McWZSqFnh"
@@ -18046,7 +18172,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 115844,
       "name": "plusadea",
       "url": "https://open.spotify.com/track/3qxG1irZ76FC4Qs0koRt1k"
@@ -18230,7 +18356,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 827325,
       "name": "Portrait in Violet",
       "url": "https://open.spotify.com/track/2IIA0q9fPM5yn5W4nRe6Xb"
@@ -20655,6 +20781,24 @@
     },
     {
       "album": {
+        "name": "Opinions",
+        "url": "https://open.spotify.com/album/5mqDIJ2nEdeNjBOn1oUync"
+      },
+      "artists": [
+        {
+          "name": "Cut 989",
+          "url": "https://open.spotify.com/artist/6IajSdT5nmPTiMYdIMizWn"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322440,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/0Xidhto8UQzz9zurCQf5vj"
+    },
+    {
+      "album": {
         "name": "Skr\u0119powanie",
         "url": "https://open.spotify.com/album/6ZrCQ8nCTjwSjngVzrLsmM"
       },
@@ -20798,6 +20942,24 @@
       "duration_ms": 199666,
       "name": "Slice of Life",
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
+    },
+    {
+      "album": {
+        "name": "Slowing Everything Down",
+        "url": "https://open.spotify.com/album/7I9HdlRfhn236XbMP6mCMk"
+      },
+      "artists": [
+        {
+          "name": "Nico Less",
+          "url": "https://open.spotify.com/artist/5AoXgqcYEvfXsp9WP2chqu"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373163,
+      "name": "Slowing Everything Down",
+      "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
     },
     {
       "album": {
@@ -21318,7 +21480,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 156625,
       "name": "Soundtrack to a Life",
       "url": "https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI"
@@ -21390,7 +21552,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 142584,
       "name": "Speak",
       "url": "https://open.spotify.com/track/6l67hHSaUL7hvBUv8HqwuA"
@@ -22056,6 +22218,24 @@
       "duration_ms": 297989,
       "name": "Summer Session #2",
       "url": "https://open.spotify.com/track/3s4cyKx2GqEcBNWzchZcKG"
+    },
+    {
+      "album": {
+        "name": "Space Mirror",
+        "url": "https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY"
+      },
+      "artists": [
+        {
+          "name": "Infinite River",
+          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380695,
+      "name": "Summer Session #3",
+      "url": "https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm"
     },
     {
       "album": {
@@ -23865,6 +24045,28 @@
     },
     {
       "album": {
+        "name": "Wouldn\u2019t It Be Easy?",
+        "url": "https://open.spotify.com/album/5lSRQqXZTgiK1kYqXSOs9t"
+      },
+      "artists": [
+        {
+          "name": "Oyatan",
+          "url": "https://open.spotify.com/artist/6aQQEOm7P00EQEIt8b13om"
+        },
+        {
+          "name": "Manta",
+          "url": "https://open.spotify.com/artist/3cjopyEw6LDKNzySlKlC4L"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149674,
+      "name": "thing about a boy",
+      "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
+    },
+    {
+      "album": {
         "name": "Galaxy Heart",
         "url": "https://open.spotify.com/album/2ukv6orp6lcGR52Nw9OVsW"
       },
@@ -23930,7 +24132,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 328440,
       "name": "Though",
       "url": "https://open.spotify.com/track/2A1j7HEHpSqNXYDL0d3rps"
@@ -25636,7 +25838,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-31",
       "duration_ms": 203644,
       "name": "Vandringsl\u00e5t",
       "url": "https://open.spotify.com/track/1VydlGC5gQSv379kzZT5h8"
@@ -27420,6 +27622,24 @@
       "duration_ms": 321782,
       "name": "Zionic Mud",
       "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+    },
+    {
+      "album": {
+        "name": "MSCTY x V&A Dundee",
+        "url": "https://open.spotify.com/album/52KQDPfQuzUT5BD3j7mfno"
+      },
+      "artists": [
+        {
+          "name": "SHHE",
+          "url": "https://open.spotify.com/artist/6ZGz2mPPtMaFVKxMzjd8Pd"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2699773,
+      "name": "~",
+      "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
     },
     {
       "album": {
