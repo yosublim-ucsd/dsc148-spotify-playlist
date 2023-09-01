@@ -4,7 +4,7 @@
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-163 songs - 10 hr 0 min
+164 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Life Is Back](https://open.spotify.com/track/2HA6ZAwH7g6fy0ebKozdgi) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g) | [Truth](https://open.spotify.com/album/75FlIJdCotTnyEOZRew18J) | 5:24 | 2023-05-03 |  |
 | [Marilyn Monroe](https://open.spotify.com/track/6qXcX5uTDYKCqYuqnf5C7U) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Ison](https://open.spotify.com/album/2yjRCaDVCsAJjcavAPztVY) | 3:28 | 2021-03-16 | 2022-10-19 |
 | [Mercurial World](https://open.spotify.com/track/3NryvAEXz5SMCxPevxzNFP) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World \(Deluxe\)](https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p) | 3:01 | 2022-10-18 | 2023-05-04 |
-| [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2023-05-03 |  |
+| [Mi Amor](https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc) | 3:15 | 2023-05-03 |  |
+| [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2023-05-03 | 2023-09-01 |
 | [Musician](https://open.spotify.com/track/6uyltToZgo3MDKhCJ7F8Wc) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:58 | 2022-10-18 | 2023-05-04 |
 | [My Purple iPod Nano \- salute Remix](https://open.spotify.com/track/0RoltIfGhqICXocqnAmxKx) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/3eWgRkW0XsVUTbHCrnTkJu) | 3:17 | 2022-10-18 | 2023-05-04 |
 | [NEEDSUMBODY](https://open.spotify.com/track/5BXNZDjPaV7bpbxQJjmeMn) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [NEEDSUMBODY](https://open.spotify.com/album/4eu5lI3vWkSoFMOUVynb6Y) | 4:19 | 2021-03-16 | 2022-10-19 |

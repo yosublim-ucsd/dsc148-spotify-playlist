@@ -1,15 +1,47 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 35511,
+  "num_followers": 35522,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjMzMDAsMDAwMDAwMDBjNWRmMDY0YjA0MjcxZTdhMTY5N2Y0NWZlMzU5ZTllZg==",
+  "snapshot_id": "MjgyMjQ3NjQsMDAwMDAwMDBiY2YxNjA2MTdhN2Q5MmNhOWQ0ZTZlYjllZTM4YTFiYw==",
   "tracks": [
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "S'old",
+        "url": "https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 163493,
+      "name": "S\u2019old",
+      "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 197781,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Louder Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/6fTgbkBiMITtHUmik95ClX"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
@@ -65,7 +97,7 @@
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Louder Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
@@ -97,7 +129,7 @@
       "url": "https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
@@ -113,71 +145,7 @@
       "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 197781,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Set Phasers To Stun",
-      "url": "https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "Louder Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "What's It Feel Like To Be A Ghost?",
-      "url": "https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "Tell All Your Friends (Remastered)",
-        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Timberwolves At New Jersey - Remastered",
-      "url": "https://open.spotify.com/track/1JFPraHovseDzutd6BOIry"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
@@ -193,7 +161,7 @@
       "url": "https://open.spotify.com/track/1LX0mHhWjzv03627Qi80Qd"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
@@ -204,12 +172,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 251373,
-      "name": "This Photograph Is Proof (I Know You Know)",
-      "url": "https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z"
+      "duration_ms": 183333,
+      "name": "Set Phasers To Stun",
+      "url": "https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Louder Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
@@ -220,12 +188,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 171831,
-      "name": "Error Operator",
-      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
+      "duration_ms": 227506,
+      "name": "What's It Feel Like To Be A Ghost?",
+      "url": "https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
@@ -236,12 +204,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 201358,
-      "name": "You Know How I Do - Remastered",
-      "url": "https://open.spotify.com/track/7zqyhEbjAajHuvH2Icn1Hr"
+      "duration_ms": 205125,
+      "name": "Timberwolves At New Jersey - Remastered",
+      "url": "https://open.spotify.com/track/1JFPraHovseDzutd6BOIry"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
@@ -257,7 +225,7 @@
       "url": "https://open.spotify.com/track/3XctWgpqES8k6NcpJuS1jA"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
@@ -268,12 +236,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 229533,
-      "name": "Number Five With A Bullet",
-      "url": "https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr"
+      "duration_ms": 251373,
+      "name": "This Photograph Is Proof (I Know You Know)",
+      "url": "https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Louder Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
@@ -284,12 +252,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Spin",
-      "url": "https://open.spotify.com/track/1rnuOugmaCQNaYxMhGrSyT"
+      "duration_ms": 171831,
+      "name": "Error Operator",
+      "url": "https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
@@ -300,12 +268,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 228609,
-      "name": "There's No 'I' In Team - Remastered",
-      "url": "https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG"
+      "duration_ms": 201358,
+      "name": "You Know How I Do - Remastered",
+      "url": "https://open.spotify.com/track/7zqyhEbjAajHuvH2Icn1Hr"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
@@ -321,7 +289,7 @@
       "url": "https://open.spotify.com/track/5qHSOO5fanhbdjPaiAIeVY"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
@@ -332,12 +300,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 233866,
-      "name": "One-Eighty By Summer",
-      "url": "https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T"
+      "duration_ms": 229533,
+      "name": "Number Five With A Bullet",
+      "url": "https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Louder Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
@@ -348,12 +316,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 247226,
-      "name": "My Blue Heaven",
-      "url": "https://open.spotify.com/track/6pYzQWbPT3zw4F8Y5euTfl"
+      "duration_ms": 219800,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/1rnuOugmaCQNaYxMhGrSyT"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
@@ -364,12 +332,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 215423,
-      "name": "Great Romances Of The 20th Century - Remastered",
-      "url": "https://open.spotify.com/track/3c8n08bk0XGdL3HKro1kpD"
+      "duration_ms": 228609,
+      "name": "There's No 'I' In Team - Remastered",
+      "url": "https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
@@ -385,7 +353,7 @@
       "url": "https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
@@ -396,15 +364,15 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 186466,
-      "name": "Bonus Mosh Pt. II",
-      "url": "https://open.spotify.com/track/29zr7yJcEHQpCXz8aAZWOb"
+      "duration_ms": 233866,
+      "name": "One-Eighty By Summer",
+      "url": "https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+        "name": "Louder Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb"
       },
       "artists": [
         {
@@ -412,15 +380,15 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Call Me In The Morning",
-      "url": "https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux"
+      "duration_ms": 247226,
+      "name": "My Blue Heaven",
+      "url": "https://open.spotify.com/track/6pYzQWbPT3zw4F8Y5euTfl"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
-        "name": "Bullet With Butterfly Wings",
-        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
       },
       "artists": [
         {
@@ -428,12 +396,12 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 272093,
-      "name": "Bullet With Butterfly Wings",
-      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+      "duration_ms": 215423,
+      "name": "Great Romances Of The 20th Century - Remastered",
+      "url": "https://open.spotify.com/track/3c8n08bk0XGdL3HKro1kpD"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
@@ -449,7 +417,55 @@
       "url": "https://open.spotify.com/track/4GENwH9HjfqB6n1jiNR56D"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Bonus Mosh Pt. II",
+      "url": "https://open.spotify.com/track/29zr7yJcEHQpCXz8aAZWOb"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Call Me In The Morning",
+      "url": "https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "Bullet With Butterfly Wings",
+        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Cute Without The E (Ziri)",
         "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
@@ -469,23 +485,7 @@
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Just Us Two",
         "url": "https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck"
@@ -505,7 +505,23 @@
       "url": "https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/2WX60bCE9R6GpJWDEMUwUe"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
@@ -537,23 +553,7 @@
       "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Faith (When I Let You Down)",
-      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
@@ -569,7 +569,23 @@
       "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Faith (When I Let You Down)",
+      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
@@ -601,23 +617,7 @@
       "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Best Places To Be A Mom",
-      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Transformers: Revenge Of The Fallen The Album",
         "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
@@ -633,7 +633,23 @@
       "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Best Places To Be A Mom",
+      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Victory Style, Vol. 5",
         "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
@@ -665,39 +681,7 @@
       "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "This Is All Now",
-      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "My Name Is Jonas",
-        "url": "https://open.spotify.com/album/0Amv7DoAWRHE1nPS2LGXmw"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "My Name Is Jonas",
-      "url": "https://open.spotify.com/track/5824RecoRviXjWRAYNuFyM"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/216CNxCLlMTynBoS9uZAb2"
@@ -713,7 +697,39 @@
       "url": "https://open.spotify.com/track/0rkg1WLUTCvzYM8ViG29d8"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "This Is All Now",
+      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "My Name Is Jonas",
+        "url": "https://open.spotify.com/album/0Amv7DoAWRHE1nPS2LGXmw"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "My Name Is Jonas",
+      "url": "https://open.spotify.com/track/5824RecoRviXjWRAYNuFyM"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
@@ -729,23 +745,7 @@
       "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "El Paso",
-      "url": "https://open.spotify.com/track/0uUCGxUnbgiYDc9mnj9nZh"
-    },
-    {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
@@ -761,7 +761,23 @@
       "url": "https://open.spotify.com/track/5HS7t19RoitQdGssdOCzkf"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/0uUCGxUnbgiYDc9mnj9nZh"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/2D1i89f8JciKL4IOmUwdEy"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Tony Hawk's American Wasteland Soundtrack",
         "url": "https://open.spotify.com/album/1ttszNk2tbxuzeln1Ib7e0"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/0QAnIy8DmxJNaClLQVYlxM"
     },
     {
-      "added_at": "2023-08-30 12:20:37",
+      "added_at": "2023-08-31 12:44:05",
       "album": {
         "name": "Live From Orensanz",
         "url": "https://open.spotify.com/album/586wLbc8nvAWQXVcAAwib4"
@@ -823,6 +839,22 @@
       "duration_ms": 296906,
       "name": "Your Own Disaster - Live From Orensanz, New York, NY / 2010",
       "url": "https://open.spotify.com/track/1aggSZloUOTB3Y6vGMD8GS"
+    },
+    {
+      "added_at": "2023-08-31 12:44:05",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 322906,
+      "name": "I Felt It Too",
+      "url": "https://open.spotify.com/track/4gQGrIw38yZITh4JQNEVOO"
     }
   ],
   "unique_name": "This Is Taking Back Sunday",

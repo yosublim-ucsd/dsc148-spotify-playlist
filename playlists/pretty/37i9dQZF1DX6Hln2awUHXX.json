@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 91972,
+  "num_followers": 92022,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjJmZWY5MTllMzBlZTEyNjYzYzllMDYzYTgyNjFlN2E2ZDdmNGUz",
+  "snapshot_id": "MCw2ZDgzZWUxODQ0YzQ2NzYwZTY2ZjIxNmM4ZWEzN2M0OTRhMWQ5MmM2",
   "tracks": [
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner : Die Walk\u00fcre [Bayreuth, 1991]",
+        "url": "https://open.spotify.com/album/29lSam8Q8OOriowjX9bte4"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Bayreuth Festival Orchestra",
+          "url": "https://open.spotify.com/artist/2thIN2TDSmbYcqkHm6nQ6b"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "Wagner : Die Walk\u00fcre : Act 1 \"Winterst\u00fcrme wichen dem Wonnemond\" [Siegmund]",
+      "url": "https://open.spotify.com/track/7BpJ4Nw58bkmf2awhplYyM"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Lohengrin (Highlights)",
         "url": "https://open.spotify.com/album/6ig3L4HlpMqCs30fwhRYyJ"
       },
@@ -1331,30 +1355,6 @@
       "duration_ms": 290026,
       "name": "Lohengrin, WWV 75 / Act 3: \"Atmest du nicht mit mir die s\u00fc\u00dfen D\u00fcfte?\"",
       "url": "https://open.spotify.com/track/6WIBfonmEpRgXQiaJNXctQ"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner : Die Walk\u00fcre [Bayreuth, 1991]",
-        "url": "https://open.spotify.com/album/29lSam8Q8OOriowjX9bte4"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Bayreuth Festival Orchestra",
-          "url": "https://open.spotify.com/artist/2thIN2TDSmbYcqkHm6nQ6b"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "Wagner : Die Walk\u00fcre : Act 1 \"Winterst\u00fcrme wichen dem Wonnemond\" [Siegmund]",
-      "url": "https://open.spotify.com/track/7BpJ4Nw58bkmf2awhplYyM"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1547,6 +1547,34 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
+        "name": "Wagner",
+        "url": "https://open.spotify.com/album/0OENAdXCax4531VruXRCO9"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Donald Runnicles",
+          "url": "https://open.spotify.com/artist/3mcoDPxS0qsZgKYkNP7wua"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Wesendonck Lieder, WWV 91: Der Engel",
+      "url": "https://open.spotify.com/track/1mtAr7Xmo6OB1enxCfKYiw"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
         "name": "Wagner: Parsifal",
         "url": "https://open.spotify.com/album/2J8wkK5R3oVrOKnWQVbXCu"
       },
@@ -1603,34 +1631,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner",
-        "url": "https://open.spotify.com/album/0OENAdXCax4531VruXRCO9"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Donald Runnicles",
-          "url": "https://open.spotify.com/artist/3mcoDPxS0qsZgKYkNP7wua"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "Wesendonck Lieder, WWV 91: Der Engel",
-      "url": "https://open.spotify.com/track/1mtAr7Xmo6OB1enxCfKYiw"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Solti - Wagner - The Operas",
         "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
       },
@@ -1659,6 +1659,62 @@
       "duration_ms": 249173,
       "name": "Die Walk\u00fcre / Dritter Aufzug: \"Hier bin ich, Vater\"",
       "url": "https://open.spotify.com/track/1DfCdVh1ydSZByF1QnXR6u"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Best of Opera with Metropolitan Opera Orchestra",
+        "url": "https://open.spotify.com/album/5IcmxPTkDuNOM3wmeHXXZp"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Kurt Moll",
+          "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Parsifal / Act 3: \"Wie d\u00fcnkt mich doch die Aue heut so sch\u00f6n\" - Karfreitagszauber",
+      "url": "https://open.spotify.com/track/0K3gfWWq17A9DQiy1NhIx3"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/4GG15POfzCComI77zzBMax"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        }
+      ],
+      "duration_ms": 345840,
+      "name": "Die Meistersinger von N\u00fcrnberg, Act 3: Prelude (Orchester)",
+      "url": "https://open.spotify.com/track/58UIVzDAEgoergclBlyr4M"
     },
     {
       "added_at": "2022-06-28 08:58:25",
@@ -1715,62 +1771,6 @@
       "duration_ms": 559946,
       "name": "Parsifal, WWV 111: Act I, Scene I, \"He! Ho! Waldhueter ihr!\"",
       "url": "https://open.spotify.com/track/5vE0qrqpaO5cEa97CBBFCi"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/4GG15POfzCComI77zzBMax"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        }
-      ],
-      "duration_ms": 345840,
-      "name": "Die Meistersinger von N\u00fcrnberg, Act 3: Prelude (Orchester)",
-      "url": "https://open.spotify.com/track/58UIVzDAEgoergclBlyr4M"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
-        "name": "Best of Opera with Metropolitan Opera Orchestra",
-        "url": "https://open.spotify.com/album/5IcmxPTkDuNOM3wmeHXXZp"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Kurt Moll",
-          "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
-        },
-        {
-          "name": "Metropolitan Opera Orchestra",
-          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Parsifal / Act 3: \"Wie d\u00fcnkt mich doch die Aue heut so sch\u00f6n\" - Karfreitagszauber",
-      "url": "https://open.spotify.com/track/0K3gfWWq17A9DQiy1NhIx3"
     },
     {
       "added_at": "2022-06-28 08:58:25",

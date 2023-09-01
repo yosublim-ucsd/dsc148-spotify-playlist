@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Calm World",
+        "url": "https://open.spotify.com/album/0txToNTpKCS1WHXGBF2SXL"
+      },
+      "artists": [
+        {
+          "name": "Little Circuits",
+          "url": "https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Calm World",
+      "url": "https://open.spotify.com/track/55YaGVtmlMuuz6KyrNBY1F"
+    },
+    {
+      "album": {
         "name": "Calming Winds",
         "url": "https://open.spotify.com/album/5YFsqDM2sTjko8d0DaIath"
       },
@@ -1684,6 +1702,24 @@
       "duration_ms": 191250,
       "name": "Decumbent",
       "url": "https://open.spotify.com/track/45nNKzH7nKMfyFhUUqdyGY"
+    },
+    {
+      "album": {
+        "name": "Deep And Hollow",
+        "url": "https://open.spotify.com/album/7pYFDBdBF4Anj3eRP753pw"
+      },
+      "artists": [
+        {
+          "name": "Thoas Galla",
+          "url": "https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Deep And Hollow",
+      "url": "https://open.spotify.com/track/6z1QfP61cL5IkPCVm3BKiw"
     },
     {
       "album": {

@@ -3619,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Hachirogata Lake",
+        "url": "https://open.spotify.com/album/2mWRW0iRCW4p5y4664IIky"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389216,
+      "name": "Water And Birds",
+      "url": "https://open.spotify.com/track/3qY5SNu8HM2NNbSnCLVc0U"
+    },
+    {
+      "album": {
         "name": "Water Door (Array Mbira Version)",
         "url": "https://open.spotify.com/album/19MRcAil1ndwzXSC0y5jfs"
       },

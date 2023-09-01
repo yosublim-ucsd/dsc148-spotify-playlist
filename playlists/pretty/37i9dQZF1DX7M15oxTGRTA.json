@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 80177,
+  "num_followers": 80258,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2JlMWRjMzg3YjM5MjJkN2NhNzZiNTY4MGZlN2VkOTFlOThhNzJj",
+  "snapshot_id": "MCxiYWM4Y2M0YmNmYjJhZTQyYjU3ZWVkOTg3OGU4OWVjZGM2NjM2ZTVi",
   "tracks": [
     {
       "added_at": "2023-03-27 15:42:25",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Let's Get It On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Go for Your Guns",
         "url": "https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -603,22 +587,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "After 7",
         "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 275826,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -851,22 +835,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "You've Got It Bad Girl",
-        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Summer In The City",
-      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -927,6 +895,22 @@
       "duration_ms": 337333,
       "name": "For the Love of You, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "You've Got It Bad Girl",
+        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Summer In The City",
+      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1335,26 +1319,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Silky Soul",
-        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 405200,
-      "name": "Silky Soul",
-      "url": "https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "The Best Of Fourplay",
         "url": "https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG"
       },
@@ -1375,6 +1339,26 @@
       "duration_ms": 235733,
       "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
       "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Silky Soul",
+        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 405200,
+      "name": "Silky Soul",
+      "url": "https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 357333,
-      "name": "It's Time for Love",
-      "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
+      "duration_ms": 291360,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 357333,
+      "name": "It's Time for Love",
+      "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
         "name": "Vows Of Love",
         "url": "https://open.spotify.com/album/5CxM6SVKWudQD9C2LEkJkD"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 254000,
       "name": "Is This the End",
       "url": "https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Injoy",
+        "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
+      },
+      "artists": [
+        {
+          "name": "The Bar-Kays",
+          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Running In And Out Of My Life",
+      "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Injoy",
-        "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
+        "name": "As Inesquec\u00edveis De Tim Maia",
+        "url": "https://open.spotify.com/album/4W5RIZq0lxqtncklhpH2hV"
       },
       "artists": [
         {
-          "name": "The Bar-Kays",
-          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 287933,
-      "name": "Running In And Out Of My Life",
-      "url": "https://open.spotify.com/track/3OW48hHrhnd1yjIkPWmnFb"
+      "duration_ms": 282066,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/0jlDIEbvMEFycwPA5eWBar"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1555,22 +1571,6 @@
       "duration_ms": 374920,
       "name": "Insatiable Woman - 12\" Version",
       "url": "https://open.spotify.com/track/005dZEnx7On15zBKACxlG7"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
-        "name": "As Inesquec\u00edveis De Tim Maia",
-        "url": "https://open.spotify.com/album/4W5RIZq0lxqtncklhpH2hV"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/0jlDIEbvMEFycwPA5eWBar"
     },
     {
       "added_at": "2023-03-27 15:42:25",

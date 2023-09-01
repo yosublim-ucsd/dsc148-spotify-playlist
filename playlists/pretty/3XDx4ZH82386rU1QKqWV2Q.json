@@ -1,12 +1,12 @@
 {
-  "description": "Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!",
-  "num_followers": 995650,
+  "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media account!",
+  "num_followers": 999480,
   "original_name": "SIGMA MALE TIKTOK MUSIC",
   "owner": {
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "MjE3NCxiOTQ3OTQ0NzViNTFiZjMzZjFhODRlOWQ5MzVhYWI3Yzg1N2Y3Yzhm",
+  "snapshot_id": "MjE5Miw2Y2VmNjQ5ZmZiODRhNTQwZmI5YjFkMTUzMWY4NzA4NjE5MWVjYWZl",
   "tracks": [
     {
       "added_at": "2023-08-19 07:57:51",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/6KgD9qmWE05bMPVGhFQNzL"
     },
     {
+      "added_at": "2023-08-29 22:26:13",
+      "album": {
+        "name": "Memory Reboot",
+        "url": "https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "Narvent",
+          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
+        }
+      ],
+      "duration_ms": 209416,
+      "name": "Memory Reboot",
+      "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
+    },
+    {
       "added_at": "2023-08-26 09:04:59",
       "album": {
         "name": "MURDER FUNK",
@@ -115,22 +135,6 @@
     {
       "added_at": "2023-08-19 07:57:51",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 125608,
-      "name": "Devil's Work",
-      "url": "https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8"
-    },
-    {
-      "added_at": "2023-08-19 07:57:51",
-      "album": {
         "name": "FUNK DA MORTE",
         "url": "https://open.spotify.com/album/5Vmi4iUVfhyWSMY8mZaLof"
       },
@@ -143,22 +147,6 @@
       "duration_ms": 93023,
       "name": "FUNK DA MORTE",
       "url": "https://open.spotify.com/track/2JEqqCWsOpAa5L7hLBZcvc"
-    },
-    {
-      "added_at": "2023-08-19 07:57:51",
-      "album": {
-        "name": "Drive Forever",
-        "url": "https://open.spotify.com/album/3nw958OcSLIbilnETAD7KO"
-      },
-      "artists": [
-        {
-          "name": "T3NZU",
-          "url": "https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi"
-        }
-      ],
-      "duration_ms": 145555,
-      "name": "Drive Forever",
-      "url": "https://open.spotify.com/track/6Ede2Ta7dVhcV7QYQ3OH6N"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -179,22 +167,18 @@
     {
       "added_at": "2023-08-19 07:57:51",
       "album": {
-        "name": "Guerrilla",
-        "url": "https://open.spotify.com/album/3QNxocgwUwZuNrQfVlWy6q"
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou"
       },
       "artists": [
         {
-          "name": "Kiraw",
-          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
         }
       ],
-      "duration_ms": 109894,
-      "name": "Guerrilla",
-      "url": "https://open.spotify.com/track/0KLQj4hvOhmKcbgZYvwUgM"
+      "duration_ms": 125608,
+      "name": "Devil's Work",
+      "url": "https://open.spotify.com/track/3omcH1HGghFtzaFGgazoy8"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -295,6 +279,42 @@
       "duration_ms": 172968,
       "name": "MONTAGEM PR FUNK - Alesso Remix",
       "url": "https://open.spotify.com/track/58L5MMUqBCZROyYBrRHxsT"
+    },
+    {
+      "added_at": "2023-08-19 07:57:51",
+      "album": {
+        "name": "Guerrilla",
+        "url": "https://open.spotify.com/album/3QNxocgwUwZuNrQfVlWy6q"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 109894,
+      "name": "Guerrilla",
+      "url": "https://open.spotify.com/track/0KLQj4hvOhmKcbgZYvwUgM"
+    },
+    {
+      "added_at": "2023-08-19 07:57:51",
+      "album": {
+        "name": "Drive Forever",
+        "url": "https://open.spotify.com/album/3nw958OcSLIbilnETAD7KO"
+      },
+      "artists": [
+        {
+          "name": "T3NZU",
+          "url": "https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi"
+        }
+      ],
+      "duration_ms": 145555,
+      "name": "Drive Forever",
+      "url": "https://open.spotify.com/track/6Ede2Ta7dVhcV7QYQ3OH6N"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -403,6 +423,22 @@
       "duration_ms": 160309,
       "name": "Kreepin (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2nFrlrdIJG0mRi1rTWTLIx"
+    },
+    {
+      "added_at": "2023-08-26 07:43:17",
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/1wIZvaBKOVyPLaPcigi28n"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Playa",
+          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
+        }
+      ],
+      "duration_ms": 143666,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/558O5tR6wMeXOyf3qPRa9O"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -515,6 +551,26 @@
       "duration_ms": 106666,
       "name": "Why Not II",
       "url": "https://open.spotify.com/track/0zh8sFFJWW3NIOerhSIi3z"
+    },
+    {
+      "added_at": "2023-08-29 22:54:15",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/7twUnUpdcwT0dC8IkFm7yC"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/06W2ejsd15HNM3brgMx1b5"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -683,22 +739,6 @@
       "duration_ms": 77424,
       "name": "Funk of Suffering",
       "url": "https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN"
-    },
-    {
-      "added_at": "2023-08-26 07:43:17",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/1wIZvaBKOVyPLaPcigi28n"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Playa",
-          "url": "https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7"
-        }
-      ],
-      "duration_ms": 143666,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/558O5tR6wMeXOyf3qPRa9O"
     },
     {
       "added_at": "2023-08-21 21:44:43",
@@ -1261,6 +1301,26 @@
       "url": "https://open.spotify.com/track/0DSdoGArpea9TzBcLhQZFR"
     },
     {
+      "added_at": "2023-08-29 22:18:24",
+      "album": {
+        "name": "IDONTWANNAWAKEUP",
+        "url": "https://open.spotify.com/album/01pnnJ4Ls3pQsCnJTOWd5R"
+      },
+      "artists": [
+        {
+          "name": "Killhollow",
+          "url": "https://open.spotify.com/artist/3mZDbuKlvYt5z4forbtZX9"
+        },
+        {
+          "name": "Skill Syrup",
+          "url": "https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "IDONTWANNAWAKEUP",
+      "url": "https://open.spotify.com/track/6y5KtAkEYBZE8VQY4y3Iw6"
+    },
+    {
       "added_at": "2023-08-19 07:57:51",
       "album": {
         "name": "On My Own",
@@ -1347,6 +1407,22 @@
       "duration_ms": 188307,
       "name": "inuria 2",
       "url": "https://open.spotify.com/track/3gMwwWrcp8knZ2LNn01ddm"
+    },
+    {
+      "added_at": "2023-08-29 22:29:25",
+      "album": {
+        "name": "Pandemic",
+        "url": "https://open.spotify.com/album/5zj8VXhnMlgTiaueGAqzxM"
+      },
+      "artists": [
+        {
+          "name": "Corm!!",
+          "url": "https://open.spotify.com/artist/1IyqSGCb2d6pnbUQjt5TPM"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "House Down",
+      "url": "https://open.spotify.com/track/5TuBTdjCxrME5axAfnyPqc"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -1893,6 +1969,22 @@
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
+      "added_at": "2023-08-31 21:02:00",
+      "album": {
+        "name": "Bad Choices",
+        "url": "https://open.spotify.com/album/06lzphd0buFyApdQvf5W6h"
+      },
+      "artists": [
+        {
+          "name": "Jason Paris",
+          "url": "https://open.spotify.com/artist/2vWWmyRebvvhNCRbF1471f"
+        }
+      ],
+      "duration_ms": 208471,
+      "name": "Bad Choices",
+      "url": "https://open.spotify.com/track/5KyeY0laAazquWATolL9Bm"
+    },
+    {
       "added_at": "2023-08-19 07:57:51",
       "album": {
         "name": "(III)",
@@ -1907,26 +1999,6 @@
       "duration_ms": 184760,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH"
-    },
-    {
-      "added_at": "2023-08-19 07:57:51",
-      "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/1EXsH5cPQj9hx4PbzlcxJC"
-      },
-      "artists": [
-        {
-          "name": "FOURPL4Y",
-          "url": "https://open.spotify.com/artist/6a13Zn6lBZKeY3plcfwY0t"
-        },
-        {
-          "name": "Nessly",
-          "url": "https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/5yiVXtN9hvGKKxswqWChrU"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -2227,22 +2299,6 @@
     {
       "added_at": "2023-08-19 07:57:51",
       "album": {
-        "name": "Livin' Life",
-        "url": "https://open.spotify.com/album/3WGrYkYgqTkNl3oalLbnUL"
-      },
-      "artists": [
-        {
-          "name": "Master Yeti",
-          "url": "https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Livin' Life",
-      "url": "https://open.spotify.com/track/6K3olHszPSbi2GUGCMfXll"
-    },
-    {
-      "added_at": "2023-08-19 07:57:51",
-      "album": {
         "name": "IFeelLikeDirt",
         "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
       },
@@ -2355,22 +2411,6 @@
       "duration_ms": 130000,
       "name": "EMPEROR",
       "url": "https://open.spotify.com/track/0OkdlYNVAA9PQSm6YxVW3o"
-    },
-    {
-      "added_at": "2023-08-19 07:57:51",
-      "album": {
-        "name": "Sad Eyes",
-        "url": "https://open.spotify.com/album/16IKC0p2XMIL52IOMayVWT"
-      },
-      "artists": [
-        {
-          "name": "99HeartBreak",
-          "url": "https://open.spotify.com/artist/5Kx0kw5Q5N9Jut9hGD50xS"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/1WNmq4aQHuwMrAjwlFE2Ew"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -2523,6 +2563,26 @@
       "duration_ms": 127009,
       "name": "Keraunos Killer",
       "url": "https://open.spotify.com/track/2rdSnAJHaASxsC8EwGaM7i"
+    },
+    {
+      "added_at": "2023-08-31 20:53:49",
+      "album": {
+        "name": "Blue Slushee",
+        "url": "https://open.spotify.com/album/5uINsujN6YKf5KqWXpePAo"
+      },
+      "artists": [
+        {
+          "name": "Dr. KattyWhompus",
+          "url": "https://open.spotify.com/artist/2py8tYGg8Q57FX1qn2PfZs"
+        },
+        {
+          "name": "Dalfin",
+          "url": "https://open.spotify.com/artist/7jV8yrYXjuyX8OZuK964qy"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Blue Slushee",
+      "url": "https://open.spotify.com/track/3Bv7h7pXFCBRk1VuJVe0Q5"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -2795,22 +2855,6 @@
       "duration_ms": 93000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0DLONDYlAigtIoOUvTfq9y"
-    },
-    {
-      "added_at": "2023-08-19 07:57:51",
-      "album": {
-        "name": "Badboy Murdah",
-        "url": "https://open.spotify.com/album/47n0tvta9LsN2crOcaMKOS"
-      },
-      "artists": [
-        {
-          "name": "DJ Scottydog",
-          "url": "https://open.spotify.com/artist/6qbipg6rddpVH6auKqStzc"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Badboy Murdah",
-      "url": "https://open.spotify.com/track/3R3hBs6KST9DgKLxut3NZJ"
     },
     {
       "added_at": "2023-08-19 07:57:51",
@@ -3103,22 +3147,6 @@
     {
       "added_at": "2023-08-19 07:57:51",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f"
-    },
-    {
-      "added_at": "2023-08-19 07:57:51",
-      "album": {
         "name": "Tektroit",
         "url": "https://open.spotify.com/album/5uA7WPYDfREdjLacHolhqK"
       },
@@ -3217,7 +3245,7 @@
       "artists": [
         {
           "name": "Farizki",
-          "url": "https://open.spotify.com/artist/0SMQVlwQtRUBIkc901tYEf"
+          "url": "https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui"
         },
         {
           "name": "Sapientdreams",

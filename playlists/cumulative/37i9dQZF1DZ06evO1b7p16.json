@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 322906,
       "name": "I Felt It Too",
       "url": "https://open.spotify.com/track/4gQGrIw38yZITh4JQNEVOO"
@@ -792,6 +792,24 @@
       "duration_ms": 206106,
       "name": "Swing",
       "url": "https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj"
+    },
+    {
+      "album": {
+        "name": "S'old",
+        "url": "https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "S\u2019old",
+      "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
     },
     {
       "album": {

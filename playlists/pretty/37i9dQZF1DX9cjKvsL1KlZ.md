@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,011 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,203 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0wdlLb695gFP3CSiUAqxls) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:32 |
 | 50 | [Don't Start Pt\. 2](https://open.spotify.com/track/4J1CPErx9yCZFirUXAxQVp) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [GMTO Vol\. 1 \(Get Money Take Over\)](https://open.spotify.com/album/4UDPZgxZy3VnIFQ8os0G29) | 3:14 |
 
-Snapshot ID: `MCxiZDIxNDU1ODlkMjY0YWQ3N2Q2Y2ViMzg1MGQ3ZmFkZTcyOGRmMjky`
+Snapshot ID: `MCxhNjM4MjBlMGRiNWNlODU2MmEwMjRhN2MzNzAxYzkxNjM0MGY3YzVk`

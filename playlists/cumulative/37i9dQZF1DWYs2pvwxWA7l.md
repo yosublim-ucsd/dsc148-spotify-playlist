@@ -2,7 +2,7 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=k5m7CF0WR5ukED2FuX\_QWw"> Burna Boy</a>
+> The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=6HOFr36UQmC9CyhWrHjPhw"> Teni</a>
 
 374 songs - 19 hr 23 min
 

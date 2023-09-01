@@ -6,7 +6,7 @@
     "name": "Red Vox",
     "url": "https://open.spotify.com/user/vinnyvinesauce"
   },
-  "snapshot_id": "MTcwNCw3ZDA2Y2Q4M2ZjNjk3ODUwNDEwMWJjNzEwZjA0ZjgwYWI0YmUzNTVj",
+  "snapshot_id": "MTcwNSwwZTJkNTI3NzkxZTE1NGFmZDM3MTM0YjE3MzhhZjY5ZGUwZGZjYTRm",
   "tracks": [
     {
       "added_at": "2022-03-23 01:58:53",
@@ -11039,6 +11039,22 @@
       "duration_ms": 253689,
       "name": "We're Gonna Get There In The End",
       "url": "https://open.spotify.com/track/0jZaA1IPbLT4dgLpf6jdtE"
+    },
+    {
+      "added_at": "2023-08-29 00:34:42",
+      "album": {
+        "name": "Hesitation Marks",
+        "url": "https://open.spotify.com/album/26m96TIXkNAiL4fl4aiFvd"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 322622,
+      "name": "Copy Of A",
+      "url": "https://open.spotify.com/track/6xlsMxBuulXsX0hY37iE70"
     }
   ],
   "unique_name": "Red Vox Recent Favorites",

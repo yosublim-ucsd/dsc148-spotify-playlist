@@ -3724,7 +3724,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 100540,
       "name": "Feeling Free",
       "url": "https://open.spotify.com/track/03gUScIqSM3qxx82hWOtWf"
@@ -5780,6 +5780,24 @@
       "duration_ms": 117785,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/3dsyTAFaheGia7mzN23joQ"
+    },
+    {
+      "album": {
+        "name": "Ida's Summer Song",
+        "url": "https://open.spotify.com/album/2cQqp6CbYLtdd7OBTcSR4M"
+      },
+      "artists": [
+        {
+          "name": "Alby Graham",
+          "url": "https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Ida's Summer Song",
+      "url": "https://open.spotify.com/track/3HjJV5CYJTeaYHO6PbxwHT"
     },
     {
       "album": {
@@ -11939,6 +11957,24 @@
     },
     {
       "album": {
+        "name": "The Alphabet Song",
+        "url": "https://open.spotify.com/album/1lqFdvOELkZ9yXeeMzyDl4"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rnes H\u00f6rna",
+          "url": "https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96842,
+      "name": "The Alphabet Song",
+      "url": "https://open.spotify.com/track/5f49xMCuF1qoMVxOO0UYtT"
+    },
+    {
+      "album": {
         "name": "This Little Piggy",
         "url": "https://open.spotify.com/album/0iNSrbVgQpiS3kDKdaAnPH"
       },
@@ -13520,6 +13556,24 @@
       "duration_ms": 82191,
       "name": "Watching The Sunset",
       "url": "https://open.spotify.com/track/3ZKFFf22SwSYsQrWMLKrbq"
+    },
+    {
+      "album": {
+        "name": "We Are Three Musicians",
+        "url": "https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa"
+      },
+      "artists": [
+        {
+          "name": "Anton Bruch",
+          "url": "https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67773,
+      "name": "We Are Three Musicians",
+      "url": "https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1"
     },
     {
       "album": {

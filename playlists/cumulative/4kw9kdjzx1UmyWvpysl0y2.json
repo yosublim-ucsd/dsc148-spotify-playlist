@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 152888,
       "name": "BLEEP BLOOP",
       "url": "https://open.spotify.com/track/3HVXJpaAL8ebZxd1oo8Bzc"
@@ -2997,6 +2997,40 @@
     },
     {
       "album": {
+        "name": "Erase Me",
+        "url": "https://open.spotify.com/album/69KvZgBpQLnQJTmWT6C90D"
+      },
+      "artists": [
+        {
+          "name": "Gravas",
+          "url": "https://open.spotify.com/artist/2ucDELeg7gohUzo8kJ9Hj3"
+        },
+        {
+          "name": "Fransis Derelle",
+          "url": "https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn"
+        },
+        {
+          "name": "FRANK ZUMMO",
+          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
+        },
+        {
+          "name": "Tea Timerz",
+          "url": "https://open.spotify.com/artist/6FvBSQRYwIMdxwvMyMyQbf"
+        },
+        {
+          "name": "CRaymak",
+          "url": "https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315200,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/7lbKB1ULWaABpHWWJuaLu8"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ"
       },
@@ -4329,6 +4363,28 @@
     },
     {
       "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/2ZFsWsRhG8XFk4Srgq5qI1"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254250,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/2nGEfupnQbdQyxFjHrx0SM"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8"
       },
@@ -4735,6 +4791,32 @@
     },
     {
       "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        },
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
+    },
+    {
+      "album": {
         "name": "Ignore Them",
         "url": "https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl"
       },
@@ -5110,7 +5192,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 217440,
       "name": "k-means clustering",
       "url": "https://open.spotify.com/track/6FhTODcUxevTUTnbKelCvB"

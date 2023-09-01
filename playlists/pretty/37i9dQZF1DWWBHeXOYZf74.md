@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Charlotte Day Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,512 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,524 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Strawberry Perfume](https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Strawberry Perfume](https://open.spotify.com/album/1JloybRxPNoSQRTxPqsGxU) | 1:56 |
 | 100 | [Rebuke](https://open.spotify.com/track/4XE1StBll9KcNa8nHa3nXG) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Rebuke](https://open.spotify.com/album/4dWpQRkca47a9fA7W78rY3) | 1:58 |
 
-Snapshot ID: `MCw4NGNhMmI3OTIxMTc4N2JhNWExNThkMjM5MGI4ZDZhMGEzNzIyZjg3`
+Snapshot ID: `MCxlNmUyN2FiZGJkZWI1NWQwZWE3NzkyZjgzMTExM2ZlZDIwYzM5ZDVk`

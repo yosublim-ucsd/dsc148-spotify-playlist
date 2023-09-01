@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 
 > Songs all about cleaning up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,298 likes - 33 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,297 likes - 33 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 | 17 | [Clean up Song](https://open.spotify.com/track/2GToYdregYT3o89jbo9daC) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 2:37 |
 | 18 | [Clean Up & Tidy Up](https://open.spotify.com/track/1dsAmvY07yqWPgzeVVSJmq) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Jump Up](https://open.spotify.com/album/5xod1u7UJXKFl9tJHkpxNu) | 2:54 |
 | 19 | [Clean Up Time](https://open.spotify.com/track/7GX2IeEpBtCVDUXqMsKcE5) | [Radha & The Kiwi Kids](https://open.spotify.com/artist/6J9Lq9uvCdflqtZU3Ix2yd) | [Clean Up Time](https://open.spotify.com/album/71tt7461lEJ4Fov8P46pB3) | 3:29 |
-| 20 | [Recycling](https://open.spotify.com/track/3vYOUyYqpwIl958RlCt89w) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Recycling](https://open.spotify.com/album/3wcWxPHc9NKV7JIqkDWczI) | 2:26 |
+| 20 | [Recycling](https://open.spotify.com/track/0UjUZc2b0iwyZ5vDBcFrUa) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Adventures: The Album](https://open.spotify.com/album/2CFsI1kUrvUTpif8wBb0EY) | 2:26 |
 | 21 | [It's Time to Clean up](https://open.spotify.com/track/4uP8Seg6N41O0RTh6qbdTe) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [The Cast of Baby Shark's Big Show!](https://open.spotify.com/artist/7KN7ALlwbMsCCmwFilRzty) | [Sing, Dance and Sway the Nick Jr\. Way](https://open.spotify.com/album/4FC0qzA9OIDEA8ugligowD) | 1:13 |
 | 22 | [Clean Up!](https://open.spotify.com/track/4ei0HMUjDQT7n5UCJbI7PI) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa), [Lindsay Ryan](https://open.spotify.com/artist/1KZteRtFzCRWyfRdDKQl6v), [Katrina Jones](https://open.spotify.com/artist/6DjI6iXS7M0EOnq5WvcYLp) | [Clean Up!](https://open.spotify.com/album/5KeNemUAU29lWGFxvE3Zfl) | 1:23 |
 | 23 | [Clean Up](https://open.spotify.com/track/6YB26Hh9zYELVR01LSQpMA) | [The Montreal Children's Workshop](https://open.spotify.com/artist/0NAOoExRWvbLIrFuPzMz5x) | [For the Kids: Songs from Everyone's Favorite Children's Tv Shows](https://open.spotify.com/album/6g3KoJWI0A8rnytReVE39W) | 0:48 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 | 32 | [Cleaning Up Is Fun](https://open.spotify.com/track/3FvjTQN8pgwcXRHlywrSET) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [The BeatBuds, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5j3GHHRBYeVKht6078KwoL) | 2:17 |
 | 33 | [The Clean\-Up Song](https://open.spotify.com/track/41ROjX8HcFz3LVLMkIzzQJ) | [Jody Abboud & The New Song Kids Choir](https://open.spotify.com/artist/2VmyOyiSWOcoTzn78iGo6c) | [The Clean\-Up Song](https://open.spotify.com/album/6JzKt88LOjhyqUVnIx5V2S) | 1:30 |
 
-Snapshot ID: `MCxkZTkzY2Y5YmRiNjU5NTBkM2FjYzAwNzVhNDE2YzM4NTNkNGIyMGUy`
+Snapshot ID: `MCw5OGU2MjJjMDRjOTgyZjg3MWJmZTZjNDJjYzA5MjA3YzA0NGI2ZjE0`

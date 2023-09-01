@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3665267,
+  "num_followers": 3665735,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNThlY2VkYWNlYzRhMjgxNTE1NmM1NWJiMWEyNDU0NGY3NTRjZGM3",
+  "snapshot_id": "MCxjYjI5ZjNmNjIzZDRjM2QxNGJjMDkzOTE1ODI0ZGUzMjIzNGMxYWE0",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -275,26 +275,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
       },
       "artists": [
         {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         },
         {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         },
         {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 243176,
-      "name": "Demons - Massane Remix",
-      "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
+      "duration_ms": 222605,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -319,26 +319,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/2kXwtCv9wl1OzLU1k2b3XZ"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
         },
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
         }
       ],
-      "duration_ms": 222605,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
+      "duration_ms": 243176,
+      "name": "Demons - Massane Remix",
+      "url": "https://open.spotify.com/track/0WGelFYfITJmfOnNyhRUq7"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 220625,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Something About",
         "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 220625,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Safe (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 294009,
+      "name": "Safe - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Teenage Heart",
         "url": "https://open.spotify.com/album/4zSoenkUTcAtDPKSyyb6op"
       },
@@ -883,22 +903,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Safe (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L"
+        "name": "Why Does My Heart",
+        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "LYOD",
+          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
         }
       ],
-      "duration_ms": 294009,
-      "name": "Safe - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw"
+      "duration_ms": 172454,
+      "name": "Why Does My Heart",
+      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -923,18 +939,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Why Does My Heart",
-        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
       },
       "artists": [
         {
-          "name": "LYOD",
-          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
         }
       ],
-      "duration_ms": 172454,
-      "name": "Why Does My Heart",
-      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -959,22 +975,6 @@
       "duration_ms": 287812,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Life on Hold",
-        "url": "https://open.spotify.com/album/030x3uRQYYEtkFwpIj60ci"
+        "name": "Azure EP",
+        "url": "https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
         }
       ],
-      "duration_ms": 207540,
-      "name": "Life on Hold",
-      "url": "https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH"
+      "duration_ms": 222232,
+      "name": "Mine To Love",
+      "url": "https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Azure EP",
-        "url": "https://open.spotify.com/album/5M4iiiphjdlqSq9Yutm6QU"
+        "name": "Life on Hold",
+        "url": "https://open.spotify.com/album/030x3uRQYYEtkFwpIj60ci"
       },
       "artists": [
         {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 222232,
-      "name": "Mine To Love",
-      "url": "https://open.spotify.com/track/0T9qmOvid82TeLi4ZyyA9D"
+      "duration_ms": 207540,
+      "name": "Life on Hold",
+      "url": "https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1211,22 +1211,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Love Like We're Dying",
-        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
+        "name": "Rolling Back (Durante Remix)",
+        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
       },
       "artists": [
         {
-          "name": "Scorz",
-          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 183876,
-      "name": "Love Like We're Dying",
-      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
+      "duration_ms": 238000,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1251,22 +1251,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Rolling Back (Durante Remix)",
-        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
+        "name": "Love Like We're Dying",
+        "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "Scorz",
+          "url": "https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Rolling Back",
-      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+      "duration_ms": 183876,
+      "name": "Love Like We're Dying",
+      "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1283,26 +1283,6 @@
       "duration_ms": 248432,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy"
-      },
-      "artists": [
-        {
-          "name": "Bobby Love",
-          "url": "https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3"
-        },
-        {
-          "name": "Olive B",
-          "url": "https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1327,6 +1307,26 @@
       "duration_ms": 152298,
       "name": "Rain",
       "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy"
+      },
+      "artists": [
+        {
+          "name": "Bobby Love",
+          "url": "https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3"
+        },
+        {
+          "name": "Olive B",
+          "url": "https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Another Dawn",
         "url": "https://open.spotify.com/album/3SNNjZhX66AIm6ZNP7RKRv"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 228447,
       "name": "Closure",
       "url": "https://open.spotify.com/track/4fAOR4ky2Rb9mn2uV5Me8O"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
-      },
-      "artists": [
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1679,22 +1679,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
+        "name": "Back To The Roots",
+        "url": "https://open.spotify.com/album/5KyoaRg9SfEhKzwVyDEPnT"
       },
       "artists": [
         {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+          "name": "Makebo",
+          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
         },
         {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+          "name": "Amonita",
+          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
         }
       ],
-      "duration_ms": 212906,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
+      "duration_ms": 286229,
+      "name": "Back To The Roots",
+      "url": "https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1715,22 +1715,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Back To The Roots",
-        "url": "https://open.spotify.com/album/5KyoaRg9SfEhKzwVyDEPnT"
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
       "artists": [
         {
-          "name": "Makebo",
-          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         },
         {
-          "name": "Amonita",
-          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
         }
       ],
-      "duration_ms": 286229,
-      "name": "Back To The Roots",
-      "url": "https://open.spotify.com/track/09ctjXoWwXxYcvqIkmIFas"
+      "duration_ms": 212906,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Something Was Real",
-        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Something Was Real",
-      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp"
       },
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Rave",
-        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
+        "name": "Something Was Real",
+        "url": "https://open.spotify.com/album/282285H5zzpms9M3Bwg0c1"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 288387,
-      "name": "Rave",
-      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
+      "duration_ms": 222528,
+      "name": "Something Was Real",
+      "url": "https://open.spotify.com/track/7HXqYIF5kMN1XY52GWQKrZ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1819,6 +1803,22 @@
       "duration_ms": 273679,
       "name": "Manila Palm",
       "url": "https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 288387,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
     },
     {
       "added_at": "2023-08-25 04:00:00",

@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-90 songs - 4 hr 48 min
+91 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [City of Love](https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Nounours](https://open.spotify.com/artist/6FrEkw1iC6ljhne96c7a46) | [City of Love](https://open.spotify.com/album/6VBal2Bi7nsqo6RnXsdqBt) | 2:59 | 2022-12-20 |  |
 | [Coming Over \- filous Remix](https://open.spotify.com/track/0dnPhZsmQTLH4vkLF3mInE) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Coming Over \(filous Remix\)](https://open.spotify.com/album/43w7TPv4JtNTLfiEXBGsbF) | 3:18 | 2023-05-12 |  |
 | [Cool Kids](https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Cool Kids](https://open.spotify.com/album/7BeNCwqOUFyfWN4392UWEK) | 2:33 | 2022-12-20 | 2023-05-13 |
-| [Don't Hold Me Down](https://open.spotify.com/track/6ip3MZyHMvVJT5VUGmddVX) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Don't Hold Me Down](https://open.spotify.com/album/0gC58oCJxmvZUaoGfuBiA2) | 3:07 | 2022-12-20 |  |
+| [Don't Hold Me Down](https://open.spotify.com/track/6ip3MZyHMvVJT5VUGmddVX) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Don't Hold Me Down](https://open.spotify.com/album/0gC58oCJxmvZUaoGfuBiA2) | 3:07 | 2022-12-20 | 2023-09-01 |
+| [Everyday](https://open.spotify.com/track/1Sqj67OzLpwDRX7nzV9kS1) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Everyday](https://open.spotify.com/album/6zDYygsjWArQUi2FNDgzOS) | 3:29 | 2023-08-31 |  |
 | [Fast Car](https://open.spotify.com/track/7nAeN4bX0kzrvftoG4jag6) | [BLANDOS](https://open.spotify.com/artist/46n6pHUwgeUM9CujleOzuh), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Fast Car](https://open.spotify.com/album/74T6J0W8EAM9LZRmpZNHN5) | 2:33 | 2022-12-20 | 2023-05-13 |
 | [Feels Like Summer](https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Feels Like Summer](https://open.spotify.com/album/6URIHB3zQ2ba7msR4gqf0k) | 3:07 | 2022-12-20 | 2023-05-13 |
 | [Femme Like U \- J](https://open.spotify.com/track/4dVIIxSQlGlRQ2v1kXcSL0) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [MAYKO](https://open.spotify.com/artist/6HN3vDScmw1RmWghiRao5U) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 2:10 | 2023-05-12 |  |

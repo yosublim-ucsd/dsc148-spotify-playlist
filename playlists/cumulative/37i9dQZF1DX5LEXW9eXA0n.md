@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:HYB\(허용별\)\) \(당신의 감성에 발라드, 려요\)
 
-963 songs - 2 day 14 hr 34 min
+968 songs - 2 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 | 2023-06-06 |  |
 | [Gravity](https://open.spotify.com/track/5iflfzsLm8GwB8nXeglqbQ) | [Kim Jong Wan](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5bOcT4IKuy49u5nbDH3hnn) | 3:09 | 2022-03-24 | 2022-04-18 |
 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 | 2022-06-18 | 2022-08-19 |
+| [Hangang Gongwon](https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:58 | 2023-08-31 |  |
 | [Hangover](https://open.spotify.com/track/0vMg57uWWcnv4T3qjoXP68) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Hangover](https://open.spotify.com/album/2bil4uyovEkVkPVpEAWRBp) | 3:44 | 2021-12-20 | 2022-06-14 |
 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2021-12-20 | 2022-07-06 |
 | [Happiness](https://open.spotify.com/track/1rguO7AsN5jYbXr5POizxK) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [Happiness](https://open.spotify.com/album/2qobgmbXd3qd7RVFMFWsvU) | 4:16 | 2023-08-24 |  |
@@ -385,6 +386,7 @@
 | [I've never loved you](https://open.spotify.com/track/6AaBhKdYEma1iTvjIeWxCX) | [The Bridge](https://open.spotify.com/artist/32X9J5qMQUohF6ROtz7CfS) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.24](https://open.spotify.com/album/0bUUJZ5y3X8ZGrNIhzM1vl) | 3:35 | 2023-02-24 | 2023-05-16 |
 | [I.T.I.L.U](https://open.spotify.com/track/26mdRA51eua2K5gvFSWwcr) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 4:40 | 2022-03-31 | 2022-04-21 |
 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 | 2022-03-24 | 2022-04-21 |
+| [If i go back](https://open.spotify.com/track/7BLVD2Xu7AvAgxzdH5tLG6) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [If i go back](https://open.spotify.com/album/14CY4naLzIeXSlVtpLKwOb) | 3:43 | 2023-08-31 |  |
 | [If I Love Again](https://open.spotify.com/track/7mU6Lqaggxunr1sRgPWNsJ) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [If I Love Again](https://open.spotify.com/album/706EDOchNG8jWTCCGYK0bW) | 3:57 | 2023-04-26 |  |
 | [If I were the wind](https://open.spotify.com/track/2YNwMqQuVXbDuQxwxb2mZk) | [Y \(Golden Child\)](https://open.spotify.com/artist/15TTwJ99z8kILaEh6mHP7U) | [If I were the wind](https://open.spotify.com/album/092bvc9Ibtgp4CWlNPKABD) | 3:58 | 2023-03-15 | 2023-07-08 |
 | [If It Were Me](https://open.spotify.com/track/3lLuRmJ4i4WLS11cWRIq8V) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [If It Were Me](https://open.spotify.com/album/6M3eQQpWF5jAdLIkKb0ah1) | 4:25 | 2023-02-27 | 2023-06-23 |
@@ -488,6 +490,7 @@
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-05-25 |
 | [Lost mind](https://open.spotify.com/track/4qp9FmYIcnvJQKuYM1DyF8) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Lost mind \(Made in 4MEN\)](https://open.spotify.com/album/1pTC8VGMlc8vQ181lKJJwL) | 3:31 | 2023-03-31 | 2023-08-25 |
 | [Love](https://open.spotify.com/track/4C4NgO8wekPIHieKk7apfA) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Move On](https://open.spotify.com/album/0SMuKynMzf8sA5gxAq6BbN) | 3:53 | 2023-08-07 |  |
+| [Love after](https://open.spotify.com/track/3p5Dsp3xJAOGnBD4r5KfA3) | [Sunjin](https://open.spotify.com/artist/6rI5Eao5yul0nRLKmeOqjt) | [Love after](https://open.spotify.com/album/0vpDYK1CwYdRJRBKj1nSLh) | 4:30 | 2023-08-31 |  |
 | [Love Alone](https://open.spotify.com/track/5V0ZavoSTmk0mQlfyHiDFW) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Love Alone \(CURTAIN CALL OST Part.6\)](https://open.spotify.com/album/4XgfduD3vOgaJeolOa5Nz4) | 3:27 | 2022-11-22 | 2023-01-21 |
 | [Love Contact](https://open.spotify.com/track/4hEZIBzhFQjJ99Znqwd9y8) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Love Contact](https://open.spotify.com/album/1wtXh0pRrUTdH3hgOCTuvX) | 4:11 | 2022-12-16 | 2023-01-21 |
 | [Love from a Real Heart\(2023\)](https://open.spotify.com/track/0Muf8pCSuf50DOoWs9ABVz) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/5N1C8ku1f0eBcsPPlNOvxI) | 4:20 | 2023-06-13 |  |
@@ -690,6 +693,7 @@
 | [Snow on Christmas](https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf) | [Baek Juyeon](https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr) | [Snow on Christmas](https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH) | 4:01 | 2022-12-26 | 2023-02-09 |
 | [Snowman](https://open.spotify.com/track/7IYV48LQQiUxHzydk0hZIM) | [Lee Byeong Chan](https://open.spotify.com/artist/1DY7HbMeZuWTNB43RrdPUS) | [Firsthand, Pt.1](https://open.spotify.com/album/25WmjgBgUktJi8DRpsscTV) | 4:07 | 2023-02-24 | 2023-06-23 |
 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 | 2023-02-08 | 2023-04-27 |
+| [So far away](https://open.spotify.com/track/2pFuOSk4JzrVKxRJmiQQz3) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [RockRockparty Part.3](https://open.spotify.com/album/6AcabhHLL4EsmnZ4s110qe) | 3:07 | 2023-08-31 |  |
 | [So that my day could end \(feat\. Han Dong Geun\)](https://open.spotify.com/track/2jWT39ijINYfCPgxBveGpa) | [Yeoro](https://open.spotify.com/artist/2H33No6rbjBG2G5bQYcQJo), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [So that my day could end](https://open.spotify.com/album/2tFzFtdSaVvEptMyR6cSlc) | 3:58 | 2023-01-10 | 2023-02-25 |
 | [So to speak,Love](https://open.spotify.com/track/0kjUOLyLACpGsZP8V26nNS) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Neighborhood enemy](https://open.spotify.com/album/67B6cE29Q7bTaTkJnEVFTJ) | 4:55 | 2023-05-05 | 2023-05-16 |
 | [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 | 2022-09-29 | 2022-11-17 |
@@ -763,6 +767,7 @@
 | [The dawn light resembles you](https://open.spotify.com/track/7n6NrNYKpsl0xxgZPKl0ZA) | [Joori](https://open.spotify.com/artist/0A5FokBLN8HWzKhWxB0eZk) | [The dawn light resembles you](https://open.spotify.com/album/4ucUi8KbApK7Ov4HqP6rG7) | 3:12 | 2023-03-08 | 2023-06-23 |
 | [The day I loved you](https://open.spotify.com/track/6nj36TQtFifSg77vb9jAgP) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [The day I loved you](https://open.spotify.com/album/4aaxwBGN8GDlwEaxC44qzF) | 4:10 | 2021-12-23 | 2022-01-18 |
 | [The day was beautiful](https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The day was beautiful](https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF) | 0:29 | 2022-01-14 | 2022-07-02 |
+| [The day we broke up](https://open.spotify.com/track/2ry6V0XvWpEugIWVq4YEVg) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [The day we broke up](https://open.spotify.com/album/2fVDu45mIJtxBZKBAQwy3d) | 3:17 | 2023-08-31 |  |
 | [The Days We Loved](https://open.spotify.com/track/4cP9dl3mgXIMoX7BcXeVUe) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The World of the Married, Pt.6 \(Original Television SoundTrack\)](https://open.spotify.com/album/2CA8HkbB26gmzF1KCr5f70) | 4:01 | 2022-03-29 | 2022-04-17 |
 | [The days we were us](https://open.spotify.com/track/0ePTSwGDAWLKhDrbIzb8Qb) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [The days we were us](https://open.spotify.com/album/7vvtZbiMrqKELCfimoAP12) | 4:06 | 2022-11-22 | 2023-01-21 |
 | [The fact that we broke up \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/4PIJlapmFh8ZXCpKPvdLlU) | [Dawn window](https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [The fact that we broke up](https://open.spotify.com/album/3e00wKIxPpDz6ROLp6wTDP) | 3:49 | 2022-06-18 | 2022-08-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 208385,
+  "num_followers": 208498,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjk3MjQ4YjFlMzNmMjhmM2I0YmJhOTcxYTQ2NDQ5MjBhMjVkNjEw",
+  "snapshot_id": "MCxiYTk2ZWFjOTFkYmY0MzVmYzdjODQzOTMwMWM1Njk1MzVmMTZlOTQ3",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -767,22 +767,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "A Different Corner",
-      "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Vini Reilly",
-        "url": "https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx"
-      },
-      "artists": [
-        {
-          "name": "The Durutti Column",
-          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Requiem Again",
-      "url": "https://open.spotify.com/track/673do07xdvVTt65SIwRtc3"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 244066,
       "name": "Otterley",
       "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Vini Reilly",
+        "url": "https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Requiem Again",
+      "url": "https://open.spotify.com/track/673do07xdvVTt65SIwRtc3"
     },
     {
       "added_at": "2018-12-12 11:36:39",

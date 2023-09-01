@@ -1864,7 +1864,7 @@
     {
       "album": {
         "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu"
+        "url": "https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc"
       },
       "artists": [
         {
@@ -1879,6 +1879,28 @@
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195952,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL"
+    },
+    {
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
       "duration_ms": 195952,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe"

@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Fito.
+> Lo mejor del rock de aquí, como Rulo y la contrabanda.
 
-322 songs - 20 hr 54 min
+323 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Calle Melancolía](https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Calle Melancolía](https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD) | 6:20 | 2022-05-26 |  |
 | [Calor y Tiempo](https://open.spotify.com/track/7IUCv34u5Uc3J0xMHl8bWG) | [Revolver](https://open.spotify.com/artist/0U5P1naxYkkOsbHIGkVU9c) | [Calor y Tiempo](https://open.spotify.com/album/43qyBmrdzrnTaniiHXQ3ca) | 5:04 | 2023-01-12 | 2023-01-27 |
 | [Camiseta de Rokanrol](https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Camiseta de Rokanrol](https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l) | 3:49 | 2022-05-19 |  |
-| [Candela](https://open.spotify.com/track/5HjShrXAUChXJDyjgZka13) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Candela](https://open.spotify.com/album/3l9sGjSIG3STFT8V65JUB1) | 3:11 | 2023-08-24 |  |
+| [Candela](https://open.spotify.com/track/5HjShrXAUChXJDyjgZka13) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Candela](https://open.spotify.com/album/3l9sGjSIG3STFT8V65JUB1) | 3:11 | 2023-08-24 | 2023-09-01 |
 | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF) | 3:04 | 2023-04-06 | 2023-04-25 |
 | [Carolina \- En directo 2000](https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sin Enchufe](https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj) | 4:23 | 2022-05-26 |  |
 | [Chica de ayer](https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Nacha Pop](https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP) | 3:28 | 2022-05-19 |  |
@@ -72,6 +72,7 @@
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/0IUFjvwlh18TWiTi6kO5pP) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:38 | 2022-05-19 | 2022-09-22 |
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 | 2022-07-21 |  |
 | [Como Un Burro Amarrado En La Puerta Del Baile \- Remastered](https://open.spotify.com/track/2igMoFouNmVPGsjsIgXYgR) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Pop Español De Los 90](https://open.spotify.com/album/5Qk1y41EXPWr98u1TsH35Y) | 3:38 | 2022-11-10 | 2022-11-14 |
+| [Confeti](https://open.spotify.com/track/4jixeUK1hku6aaOlVBvB80) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [Confeti](https://open.spotify.com/album/0M1kKYU2MLoxfXuer09fC7) | 3:56 | 2023-08-31 |  |
 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 | 2022-06-16 |  |
 | [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 | 2022-05-19 |  |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-27 | 2023-05-19 |

@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Home town rain and thunder",
+        "url": "https://open.spotify.com/album/2pDEdJ0ANr2omZ1ww8jXwF"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Monday thunder",
+      "url": "https://open.spotify.com/track/6ZQb3pCXG9c7gMCxX5Sf6B"
+    },
+    {
+      "album": {
         "name": "Rainy Jazz",
         "url": "https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2"
       },

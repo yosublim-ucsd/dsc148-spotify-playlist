@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Walk of Fire",
+        "url": "https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179211,
+      "name": "Dark Imagination",
+      "url": "https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS"
+    },
+    {
+      "album": {
         "name": "Dauw",
         "url": "https://open.spotify.com/album/3XWGHJ9EcBq1MliY4ZBPZO"
       },
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 218906,
       "name": "There's No Sex Without You",
       "url": "https://open.spotify.com/track/2cfOAWMV00SWB3Eb6IzqPg"

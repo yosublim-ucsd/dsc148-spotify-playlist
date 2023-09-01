@@ -1,12 +1,12 @@
 {
   "description": "All the music from Netflix's La Casa de Papel/Money Heist.",
-  "num_followers": 388294,
+  "num_followers": 388398,
   "original_name": "La Casa de Papel Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTA1Y2NkZjM5NGQ5MGY4NzIwNTVjNmI1NjUwNDFkN2YzMTE4NTAy",
+  "snapshot_id": "MCw2OWYyNDQxYTk2NmE2Nzg2NWQ4MWZhZTc2ZjUyNTBiN2JhZDdmZDU1",
   "tracks": [
     {
       "added_at": "2021-12-03 20:01:02",
@@ -983,17 +983,17 @@
     {
       "added_at": "2021-08-26 21:03:21",
       "album": {
-        "name": "Suspiros de Espa\u00f1a - Pasodobles of Spain",
+        "name": "Suspiros de Espa\u00f1a (Pasodobles)",
         "url": "https://open.spotify.com/album/3icVxFCY1RbYvSQk5aCON0"
       },
       "artists": [
         {
-          "name": "Real Orquesta Sinf\u00f3nica de Sevilla, Spanish Folklore",
-          "url": "https://open.spotify.com/artist/2Cyylri4fgImNmVAyqZvf0"
+          "name": "Real Orquesta Sinfonica De Sevilla",
+          "url": "https://open.spotify.com/artist/4fAkGj5c8n7tfc5rYeFOD6"
         }
       ],
       "duration_ms": 246760,
-      "name": "Suspiros de Espa\u00f1a (Pasodoble)",
+      "name": "Suspiros de Espa\u00f1a - Pasodoble",
       "url": "https://open.spotify.com/track/6BigVQt0dYzoEjHLTLk83W"
     },
     {

@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "clima",
+        "url": "https://open.spotify.com/album/5mPBcbAVKlG4cG8sbdXqwh"
+      },
+      "artists": [
+        {
+          "name": "LYFE",
+          "url": "https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95384,
+      "name": "clima",
+      "url": "https://open.spotify.com/track/47hnVFWuVJW0K4tzoDfCat"
+    },
+    {
+      "album": {
         "name": "Waterfalls",
         "url": "https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO"
       },
@@ -1579,6 +1597,28 @@
     },
     {
       "album": {
+        "name": "Counting Down The Days",
+        "url": "https://open.spotify.com/album/68IaSYMMo4W68rKwfbNc7q"
+      },
+      "artists": [
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131160,
+      "name": "Counting Down The Days",
+      "url": "https://open.spotify.com/track/3Uif1z4D6V3uGc3wEd3BqG"
+    },
+    {
+      "album": {
         "name": "counting sheep",
         "url": "https://open.spotify.com/album/77vFl5Aox31AH8XroidWES"
       },
@@ -1652,6 +1692,24 @@
       "duration_ms": 132272,
       "name": "daydreamer",
       "url": "https://open.spotify.com/track/5F8AIxDJRMmr4dBo4B340I"
+    },
+    {
+      "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/5UvVPpgTqxOcHI2fNGpWzu"
+      },
+      "artists": [
+        {
+          "name": "Tophat Panda",
+          "url": "https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/2XxtZBuhO5JoLFznRp4jdo"
     },
     {
       "album": {
@@ -4089,6 +4147,28 @@
     },
     {
       "album": {
+        "name": "Margarita",
+        "url": "https://open.spotify.com/album/0qUFSMEXDM0WMEwu45axja"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140970,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/3Sf76tPsador49fyBkpzFa"
+    },
+    {
+      "album": {
         "name": "Matcha Crumbs",
         "url": "https://open.spotify.com/album/5Ef6dKmeasMNdEdrYAYzC6"
       },
@@ -5064,6 +5144,24 @@
       "duration_ms": 240000,
       "name": "peach lemonade",
       "url": "https://open.spotify.com/track/1bxSJhTnmLyZ9QMzJ2szHB"
+    },
+    {
+      "album": {
+        "name": "Perspectives",
+        "url": "https://open.spotify.com/album/4rRoOfM0KK94xnntUzVHOS"
+      },
+      "artists": [
+        {
+          "name": "Funky Fella",
+          "url": "https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114860,
+      "name": "Perspectives",
+      "url": "https://open.spotify.com/track/68wMkW7xslkxZ7xKhL19pu"
     },
     {
       "album": {

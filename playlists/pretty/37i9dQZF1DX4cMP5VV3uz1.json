@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 133602,
+  "num_followers": 133765,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTE0YTczYzQ5OWFhOTU0NmE1NDI5MjQwYTdlOGFhOWI2NmRjYThm",
+  "snapshot_id": "MCw2MmYwZTliYWEwZjg3MzU4ZWU3MjJjNDgwMmVlY2U5ZDVmNDNjNzkz",
   "tracks": [
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Heartbroken 2022",
-        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
+        "name": "We'll Be Alright EP",
+        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
       },
       "artists": [
         {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
-        },
-        {
-          "name": "ARPA",
-          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 172371,
-      "name": "Heartbroken 2022",
-      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
+      "duration_ms": 228000,
+      "name": "Daga Da",
+      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1327,6 +1323,26 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
+        "name": "Heartbroken 2022",
+        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
+      },
+      "artists": [
+        {
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+        },
+        {
+          "name": "ARPA",
+          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Heartbroken 2022",
+      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
         "name": "Sequence",
         "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 209549,
       "name": "Renaissance (Edit)",
       "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
-        "name": "We'll Be Alright EP",
-        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Daga Da",
-      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
     },
     {
       "added_at": "2023-07-27 23:00:00",

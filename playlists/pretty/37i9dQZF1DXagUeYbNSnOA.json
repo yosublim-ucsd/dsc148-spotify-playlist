@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Priscilla F\u00e9lix. Updates every Wednesday.",
-  "num_followers": 172078,
+  "num_followers": 172085,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGI5NjRkNTA2MWM1NWUyMDk0ZTEwYWM4MTE0Zjk2NTkwNmFlMWE3",
+  "snapshot_id": "MCw2NDg3MWM3MmY1OTE2ZDRlMjNjNTQ4MmMxNGI0Y2RmM2QxOGE1NDE0",
   "tracks": [
     {
       "added_at": "2023-08-31 01:02:27",
@@ -435,6 +435,26 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
+        "name": "m\u00e9todos.",
+        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        },
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 207659,
+      "name": "ando chiple <\\3",
+      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
         "name": "La Vida No Quiso",
         "url": "https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz"
       },
@@ -467,26 +487,6 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
-        "name": "m\u00e9todos.",
-        "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        },
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        }
-      ],
-      "duration_ms": 207659,
-      "name": "ando chiple <\\3",
-      "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
         "name": "Y vos dec\u00eds que me gust\u00e1s",
         "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
       },
@@ -503,38 +503,6 @@
       "duration_ms": 153320,
       "name": "Y vos dec\u00eds que me gust\u00e1s",
       "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
-        "name": "Secuela",
-        "url": "https://open.spotify.com/album/6lLNACOJ7QWeOUgKQdGUXP"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Secuela",
-      "url": "https://open.spotify.com/track/43XwC379JnUYhLhqVfpIls"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
-        "name": "Anime",
-        "url": "https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR"
-      },
-      "artists": [
-        {
-          "name": "Kid Fresco",
-          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
-        }
-      ],
-      "duration_ms": 159836,
-      "name": "Anime",
-      "url": "https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO"
     },
     {
       "added_at": "2023-08-31 01:02:27",
@@ -571,6 +539,38 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
+        "name": "Secuela",
+        "url": "https://open.spotify.com/album/6lLNACOJ7QWeOUgKQdGUXP"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Secuela",
+      "url": "https://open.spotify.com/track/43XwC379JnUYhLhqVfpIls"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
+        "name": "Anime",
+        "url": "https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR"
+      },
+      "artists": [
+        {
+          "name": "Kid Fresco",
+          "url": "https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "Anime",
+      "url": "https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
         "name": "Qui\u00e9n de los Dos?",
         "url": "https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 210190,
       "name": "Qui\u00e9n de los Dos?",
       "url": "https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
-        "name": "Amar",
-        "url": "https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531"
-      },
-      "artists": [
-        {
-          "name": "Lunaem",
-          "url": "https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr"
-        }
-      ],
-      "duration_ms": 240228,
-      "name": "Amar",
-      "url": "https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK"
     },
     {
       "added_at": "2023-08-31 01:02:27",
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
+        "name": "Amar",
+        "url": "https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531"
+      },
+      "artists": [
+        {
+          "name": "Lunaem",
+          "url": "https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr"
+        }
+      ],
+      "duration_ms": 240228,
+      "name": "Amar",
+      "url": "https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
         "name": "Pedazos",
         "url": "https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd"
       },
@@ -631,54 +631,6 @@
       "duration_ms": 177773,
       "name": "Pedazos",
       "url": "https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
-        "name": "DTB",
-        "url": "https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "DTB",
-      "url": "https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
-        "name": "Patio de Adelante",
-        "url": "https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj"
-      },
-      "artists": [
-        {
-          "name": "Playa G\u00f3tica",
-          "url": "https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz"
-        }
-      ],
-      "duration_ms": 236004,
-      "name": "Patio de Adelante",
-      "url": "https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
-        "name": "peek!",
-        "url": "https://open.spotify.com/album/33BXeFZabK1YWgJCKfGeF8"
-      },
-      "artists": [
-        {
-          "name": "unperro andaluz",
-          "url": "https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "la piedad",
-      "url": "https://open.spotify.com/track/4WRT9VV9YcsdMJEFJbHX8J"
     },
     {
       "added_at": "2023-08-31 01:02:27",
@@ -699,18 +651,34 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm"
+        "name": "DTB",
+        "url": "https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU"
       },
       "artists": [
         {
-          "name": "bistu\u00e9",
-          "url": "https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR"
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
         }
       ],
-      "duration_ms": 208207,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK"
+      "duration_ms": 185305,
+      "name": "DTB",
+      "url": "https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
+        "name": "peek!",
+        "url": "https://open.spotify.com/album/33BXeFZabK1YWgJCKfGeF8"
+      },
+      "artists": [
+        {
+          "name": "unperro andaluz",
+          "url": "https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "la piedad",
+      "url": "https://open.spotify.com/track/4WRT9VV9YcsdMJEFJbHX8J"
     },
     {
       "added_at": "2023-08-31 01:02:27",
@@ -731,18 +699,34 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
-        "name": "4 x el desamor",
-        "url": "https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr"
+        "name": "Patio de Adelante",
+        "url": "https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj"
       },
       "artists": [
         {
-          "name": "PLEIT\u00d8",
-          "url": "https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS"
+          "name": "Playa G\u00f3tica",
+          "url": "https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz"
         }
       ],
-      "duration_ms": 181340,
-      "name": "Tantas cosas que decir",
-      "url": "https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K"
+      "duration_ms": 236004,
+      "name": "Patio de Adelante",
+      "url": "https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm"
+      },
+      "artists": [
+        {
+          "name": "bistu\u00e9",
+          "url": "https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR"
+        }
+      ],
+      "duration_ms": 208207,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK"
     },
     {
       "added_at": "2023-08-31 01:02:27",
@@ -759,6 +743,22 @@
       "duration_ms": 241003,
       "name": "Sal",
       "url": "https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
+        "name": "4 x el desamor",
+        "url": "https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr"
+      },
+      "artists": [
+        {
+          "name": "PLEIT\u00d8",
+          "url": "https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS"
+        }
+      ],
+      "duration_ms": 181340,
+      "name": "Tantas cosas que decir",
+      "url": "https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K"
     },
     {
       "added_at": "2023-08-31 01:02:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
-        "name": "Sad Brillo",
-        "url": "https://open.spotify.com/album/4eN5vemrQsubJb5HVFPHbv"
-      },
-      "artists": [
-        {
-          "name": "Dan Dan Dero",
-          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
-        }
-      ],
-      "duration_ms": 182647,
-      "name": "Sad Brillo",
-      "url": "https://open.spotify.com/track/70D1DWrZqhxtiBNCs9LC8d"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
         "name": "todo lo que fui",
         "url": "https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 212702,
       "name": "casas de cart\u00f3n",
       "url": "https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
+        "name": "Sad Brillo",
+        "url": "https://open.spotify.com/album/4eN5vemrQsubJb5HVFPHbv"
+      },
+      "artists": [
+        {
+          "name": "Dan Dan Dero",
+          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
+        }
+      ],
+      "duration_ms": 182647,
+      "name": "Sad Brillo",
+      "url": "https://open.spotify.com/track/70D1DWrZqhxtiBNCs9LC8d"
     }
   ],
   "unique_name": "Fresh Finds Latin",

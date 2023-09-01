@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 ### [Peppeh](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover: Ruger
+> Tracks popping off in the Afro scene\. Cover: Nana Fofie
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,970 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,013 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Atlantis](https://open.spotify.com/track/0qlCLYmWUwebbDwRrL2x9h) | [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [WaxFiend](https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Atlantis](https://open.spotify.com/album/6Tbso6hKAJh87lbG9qnJHR) | 3:34 |
-| 2 | [Waiting](https://open.spotify.com/track/01wKrQDWcFwdWgwFR3Lpyy) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Beauty & Bliss](https://open.spotify.com/album/5BI0Q6nFg6TkkMUzlg62dL) | 3:26 |
-| 3 | [Bottles](https://open.spotify.com/track/331ZKCTgF27kBC2W5vmRmV) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Bottles](https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq) | 2:40 |
-| 4 | [Kristy](https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Kristy](https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1) | 4:20 |
-| 5 | [Hotelroom](https://open.spotify.com/track/0hE9d4xh584qa6HC3Tl4lf) | [Madagaska](https://open.spotify.com/artist/4l5hYxNzu579TIZ5XyGq6o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM) | [Hotelroom](https://open.spotify.com/album/7cte2y0L0O81G9EMZP2ynJ) | 2:48 |
-| 6 | [Roma](https://open.spotify.com/track/5HTcQgNskY36EEtdB4zMfr) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [For the Kulture](https://open.spotify.com/album/4nrewczBwXf6d8PBs3fDV6) | 2:34 |
-| 7 | [Baby Chou](https://open.spotify.com/track/3TIR75C7gNwDk4DNvvDu0n) | [YNS](https://open.spotify.com/artist/6dPTxSWRFRxE2n9DpczpG6) | [Baby Chou](https://open.spotify.com/album/5BO1LqpgYHHEVeVBgzOars) | 3:04 |
-| 8 | [Fear Love](https://open.spotify.com/track/19oxoR5S1ChfKRMd6qdRgx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Fear Love](https://open.spotify.com/album/45pBZzzVyvcLUu3pjh8BVF) | 2:55 |
-| 9 | [NOBODY](https://open.spotify.com/track/1e7ISo687yyU8cqHMQouTx) | [Martin's](https://open.spotify.com/artist/1JUh2vspiMKZOhq2e2Upj8) | [NOBODY](https://open.spotify.com/album/4r418b9a0xUwn3OCzvqzYs) | 2:33 |
-| 10 | [Rowanda](https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rowanda](https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5) | 3:32 |
-| 11 | [Runaway](https://open.spotify.com/track/5zQjsdDEqcpXaluAax1jKn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Runaway](https://open.spotify.com/album/5kdzySpTqsyQNS00JQPFff) | 2:47 |
+| 1 | [Life Is Better Now](https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 |
+| 2 | [Atlantis](https://open.spotify.com/track/0qlCLYmWUwebbDwRrL2x9h) | [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [WaxFiend](https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [CHAMOS](https://open.spotify.com/artist/2HEwUTzrG0SLQLLSQQGBWi) | [Atlantis](https://open.spotify.com/album/6Tbso6hKAJh87lbG9qnJHR) | 3:34 |
+| 3 | [Waiting](https://open.spotify.com/track/01wKrQDWcFwdWgwFR3Lpyy) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Beauty & Bliss](https://open.spotify.com/album/5BI0Q6nFg6TkkMUzlg62dL) | 3:26 |
+| 4 | [Bottles](https://open.spotify.com/track/331ZKCTgF27kBC2W5vmRmV) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Bottles](https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq) | 2:40 |
+| 5 | [Kristy](https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Kristy](https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1) | 4:20 |
+| 6 | [Hotelroom](https://open.spotify.com/track/0hE9d4xh584qa6HC3Tl4lf) | [Madagaska](https://open.spotify.com/artist/4l5hYxNzu579TIZ5XyGq6o), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM) | [Hotelroom](https://open.spotify.com/album/7cte2y0L0O81G9EMZP2ynJ) | 2:48 |
+| 7 | [Roma](https://open.spotify.com/track/5HTcQgNskY36EEtdB4zMfr) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [For the Kulture](https://open.spotify.com/album/4nrewczBwXf6d8PBs3fDV6) | 2:34 |
+| 8 | [Baby Chou](https://open.spotify.com/track/3TIR75C7gNwDk4DNvvDu0n) | [YNS](https://open.spotify.com/artist/6dPTxSWRFRxE2n9DpczpG6) | [Baby Chou](https://open.spotify.com/album/5BO1LqpgYHHEVeVBgzOars) | 3:04 |
+| 9 | [Fear Love](https://open.spotify.com/track/19oxoR5S1ChfKRMd6qdRgx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Fear Love](https://open.spotify.com/album/45pBZzzVyvcLUu3pjh8BVF) | 2:55 |
+| 10 | [NOBODY](https://open.spotify.com/track/1e7ISo687yyU8cqHMQouTx) | [Martin's](https://open.spotify.com/artist/1JUh2vspiMKZOhq2e2Upj8) | [NOBODY](https://open.spotify.com/album/4r418b9a0xUwn3OCzvqzYs) | 2:33 |
+| 11 | [Rowanda](https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rowanda](https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5) | 3:32 |
 | 12 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 |
 | 13 | [TRUST IN YOU](https://open.spotify.com/track/7nhcKRuwkTvksKE6RZ48F5) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS) | [TRUST IN YOU](https://open.spotify.com/album/6YDatD62XMNPZaszOAUz6N) | 2:35 |
 | 14 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
 | 50 | [If U Fall](https://open.spotify.com/track/4pjSVYnxltm23BRjfDoA2q) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [If U Fall](https://open.spotify.com/album/76xbewSXevqMGgMTI2WQBb) | 2:36 |
 
-Snapshot ID: `MCwzMjhiMjAzMjdlZDMzOWNiMjdmNDgxZWUxYzEyMTRiYjdlZWM3Mzdh`
+Snapshot ID: `MCwwNmU1YTRiMDEzNTRlMTA5NWRmMjBiNGY4OTY1YjM1NmQxNTZiMDRm`

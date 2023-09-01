@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 22637,
+  "num_followers": 22641,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzBmZThlM2M3OGJlOWI5ZWM3MjhmM2ZlOTA4MTk5YmMwZWZmZjg4",
+  "snapshot_id": "MCxiYTNkNmYxYWI0YTcyMmJiNzcwY2QzY2E1YWVmNDYwODNhNjA1MGMy",
   "tracks": [
     {
       "added_at": "2023-07-20 14:31:09",
@@ -101,30 +101,6 @@
       "url": "https://open.spotify.com/track/1at6I3cX5wBSRJgkwGoenk"
     },
     {
-      "added_at": "2023-07-14 06:06:39",
-      "album": {
-        "name": "Nav Irodh Hinge",
-        "url": "https://open.spotify.com/album/7jHQnws1IKppTlbm4INuPj"
-      },
-      "artists": [
-        {
-          "name": "Chirayu",
-          "url": "https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ"
-        },
-        {
-          "name": "dixit",
-          "url": "https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy"
-        },
-        {
-          "name": "Jack Michael",
-          "url": "https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF"
-        }
-      ],
-      "duration_ms": 182854,
-      "name": "Nav Irodh Hinge",
-      "url": "https://open.spotify.com/track/1DDxP3kzCvAAJpOPkdvjv5"
-    },
-    {
       "added_at": "2023-07-15 09:58:39",
       "album": {
         "name": "Thirugo Bhoomi",
@@ -155,6 +131,26 @@
       "duration_ms": 201142,
       "name": "Chaa",
       "url": "https://open.spotify.com/track/1MGXOBkxHXJACP6zm16kf2"
+    },
+    {
+      "added_at": "2023-08-31 13:05:24",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/52uN6o62Z7y2cvUD3LXZyR"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "The Aura",
+          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
+        }
+      ],
+      "duration_ms": 62918,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4bOP9QVpv7oFJEgm0xmX25"
     },
     {
       "added_at": "2023-08-25 11:40:25",
@@ -193,6 +189,46 @@
       "url": "https://open.spotify.com/track/3fibRdjawJagXWApjATWdg"
     },
     {
+      "added_at": "2023-08-31 13:05:24",
+      "album": {
+        "name": "The Bengaluru Rap",
+        "url": "https://open.spotify.com/album/6RMWhzbNAT2B1sQnwrBpGe"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "The Aura",
+          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
+        }
+      ],
+      "duration_ms": 62905,
+      "name": "The Bengaluru Rap",
+      "url": "https://open.spotify.com/track/531J3aPQNOF5MI0yq9ExwV"
+    },
+    {
+      "added_at": "2023-08-31 13:05:24",
+      "album": {
+        "name": "Chii",
+        "url": "https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ"
+      },
+      "artists": [
+        {
+          "name": "Shashi Bhat",
+          "url": "https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL"
+        },
+        {
+          "name": "D Rapper",
+          "url": "https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E"
+        }
+      ],
+      "duration_ms": 162211,
+      "name": "Chii",
+      "url": "https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV"
+    },
+    {
       "added_at": "2023-08-29 05:11:06",
       "album": {
         "name": "Mosagaatiye",
@@ -217,6 +253,30 @@
       "url": "https://open.spotify.com/track/0T8cfCC6HJWVzxWgnj12QP"
     },
     {
+      "added_at": "2023-08-31 13:05:24",
+      "album": {
+        "name": "Namma Gully",
+        "url": "https://open.spotify.com/album/5XHk8FQOyCqESGu2TSmQ0D"
+      },
+      "artists": [
+        {
+          "name": "Jack Michael",
+          "url": "https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF"
+        },
+        {
+          "name": "Naguli",
+          "url": "https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ"
+        },
+        {
+          "name": "D Rapper",
+          "url": "https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E"
+        }
+      ],
+      "duration_ms": 116160,
+      "name": "Namma Gully",
+      "url": "https://open.spotify.com/track/7t8PVG80xVXsRpxQsEiKGU"
+    },
+    {
       "added_at": "2023-08-16 09:34:59",
       "album": {
         "name": "Anthe",
@@ -231,6 +291,26 @@
       "duration_ms": 274002,
       "name": "Anthe",
       "url": "https://open.spotify.com/track/7y5RWpualkObr5ANkA0Qx1"
+    },
+    {
+      "added_at": "2023-08-31 13:05:24",
+      "album": {
+        "name": "Independent",
+        "url": "https://open.spotify.com/album/2NP9vgIrhizhRiO9Af9utW"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "The Aura",
+          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
+        }
+      ],
+      "duration_ms": 66224,
+      "name": "Independent",
+      "url": "https://open.spotify.com/track/3cj1pBPjjahupmydOCcjEL"
     },
     {
       "added_at": "2023-08-08 13:37:20",
@@ -263,6 +343,30 @@
       "duration_ms": 65386,
       "name": "Preetiye",
       "url": "https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet"
+    },
+    {
+      "added_at": "2023-08-31 13:05:24",
+      "album": {
+        "name": "Many Me",
+        "url": "https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp"
+      },
+      "artists": [
+        {
+          "name": "NUMB-URGH",
+          "url": "https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD"
+        },
+        {
+          "name": "Shastra",
+          "url": "https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34"
+        },
+        {
+          "name": "John On The Beat",
+          "url": "https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "Many Me",
+      "url": "https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ"
     },
     {
       "added_at": "2023-08-24 13:43:38",
@@ -729,26 +833,6 @@
       "url": "https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX"
     },
     {
-      "added_at": "2023-02-08 11:23:00",
-      "album": {
-        "name": "Chitte",
-        "url": "https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq"
-      },
-      "artists": [
-        {
-          "name": "John On The Beat",
-          "url": "https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS"
-        },
-        {
-          "name": "Shastra",
-          "url": "https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34"
-        }
-      ],
-      "duration_ms": 178635,
-      "name": "Chitte",
-      "url": "https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2"
-    },
-    {
       "added_at": "2023-06-29 11:31:15",
       "album": {
         "name": "Haaralu",
@@ -815,26 +899,6 @@
       "duration_ms": 146546,
       "name": "Idu Nammadu Gaali Neeru Usiru",
       "url": "https://open.spotify.com/track/3ggvwpKSmgktFC9uc3Rzs3"
-    },
-    {
-      "added_at": "2023-06-08 06:08:18",
-      "album": {
-        "name": "O Priya",
-        "url": "https://open.spotify.com/album/1nZighCTs9RhIBA5gGlxsK"
-      },
-      "artists": [
-        {
-          "name": "Pushpa Aradhya",
-          "url": "https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i"
-        },
-        {
-          "name": "Ismail Attar",
-          "url": "https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "O Priya",
-      "url": "https://open.spotify.com/track/0zM0oVvm8YBCdirTyPMAx2"
     },
     {
       "added_at": "2022-12-09 12:52:23",
@@ -1157,42 +1221,6 @@
       "url": "https://open.spotify.com/track/7LIK9xkO8r5KUsKw7UTz9O"
     },
     {
-      "added_at": "2023-03-28 05:06:49",
-      "album": {
-        "name": "Top Dawg (Red Bull 64 Bars)",
-        "url": "https://open.spotify.com/album/7Gk6KYpt7X296a85MtW7if"
-      },
-      "artists": [
-        {
-          "name": "Rahul Dit-O",
-          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
-        },
-        {
-          "name": "Karan Kanchan",
-          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
-        }
-      ],
-      "duration_ms": 181162,
-      "name": "Top Dawg (Red Bull 64 Bars)",
-      "url": "https://open.spotify.com/track/1h1yNag53gicTawGrxDa1v"
-    },
-    {
-      "added_at": "2023-04-17 08:41:49",
-      "album": {
-        "name": "Nee Nanna Jeeva",
-        "url": "https://open.spotify.com/album/4qVOsEyOFZZ281rQj3vkGU"
-      },
-      "artists": [
-        {
-          "name": "Naveen Hiremath",
-          "url": "https://open.spotify.com/artist/000WyXOWRZlAYSCHOl6vbw"
-        }
-      ],
-      "duration_ms": 278479,
-      "name": "Nee Nanna Jeeva",
-      "url": "https://open.spotify.com/track/4n4xk4fMDCz0Vam3261app"
-    },
-    {
       "added_at": "2023-04-19 13:14:03",
       "album": {
         "name": "Stacks",
@@ -1211,26 +1239,6 @@
       "duration_ms": 166744,
       "name": "Stacks",
       "url": "https://open.spotify.com/track/3j8Okv8qvgtNgTGQ7MGplv"
-    },
-    {
-      "added_at": "2023-02-13 11:05:49",
-      "album": {
-        "name": "Gadda",
-        "url": "https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv"
-      },
-      "artists": [
-        {
-          "name": "Arfaz Ullal",
-          "url": "https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH"
-        },
-        {
-          "name": "Chikkesh Hamsabhimani",
-          "url": "https://open.spotify.com/artist/4UT07rarVsghjWlBzj7iU9"
-        }
-      ],
-      "duration_ms": 272064,
-      "name": "Gadda",
-      "url": "https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p"
     },
     {
       "added_at": "2023-04-06 13:21:33",
@@ -1479,30 +1487,6 @@
       "duration_ms": 172312,
       "name": "Ninnane Bayaside",
       "url": "https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu"
-    },
-    {
-      "added_at": "2023-02-15 12:14:38",
-      "album": {
-        "name": "Hrudhaya",
-        "url": "https://open.spotify.com/album/17ipKkqA6aMzls60vOtOx0"
-      },
-      "artists": [
-        {
-          "name": "Chetan Pavate",
-          "url": "https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp"
-        },
-        {
-          "name": "Riyaz MN",
-          "url": "https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw"
-        },
-        {
-          "name": "Amogh Malakannavar",
-          "url": "https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Hrudhaya",
-      "url": "https://open.spotify.com/track/0BsTSbYtsd9heOm28EOb8G"
     }
   ],
   "unique_name": "Kannada Indie",

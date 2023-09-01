@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 162287,
       "name": "ANIME",
       "url": "https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 227333,
       "name": "Black Jean Boogie",
       "url": "https://open.spotify.com/track/2PlKI5l5CZaUNHhPAT3tqp"
@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Catch The Miracle",
+        "url": "https://open.spotify.com/album/2jHtSMczXw6jiUfFL64Vjz"
+      },
+      "artists": [
+        {
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324439,
+      "name": "Catch The Miracle",
+      "url": "https://open.spotify.com/track/0veerJcFJTSumChnxuLD0i"
+    },
+    {
+      "album": {
         "name": "Chessboard",
         "url": "https://open.spotify.com/album/6gWANFbojnrmrdNDfr4ka0"
       },
@@ -1304,6 +1322,24 @@
       "duration_ms": 223250,
       "name": "Coin Laundry",
       "url": "https://open.spotify.com/track/6XwMJeTk5r3Zd0SiSMZiGN"
+    },
+    {
+      "album": {
+        "name": "CRAZY BEAUTIFUL NIGHT",
+        "url": "https://open.spotify.com/album/67xKEMSjfmnUn628A2FvYQ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "CRAZY BEAUTIFUL NIGHT",
+      "url": "https://open.spotify.com/track/1BvsiUIXqmq0i7Fa8cC3LV"
     },
     {
       "album": {
@@ -4345,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+    },
+    {
+      "album": {
         "name": "Mujuryoku",
         "url": "https://open.spotify.com/album/5KBXENJgBKCtN3azIlcGEN"
       },
@@ -4594,6 +4648,24 @@
       "duration_ms": 172813,
       "name": "New Day Rising",
       "url": "https://open.spotify.com/track/3e0gxqtZgfYccVBaKvNR4i"
+    },
+    {
+      "album": {
+        "name": "Nimby",
+        "url": "https://open.spotify.com/album/7gZGcOXNKumRKcSOxc1qzy"
+      },
+      "artists": [
+        {
+          "name": "The Ravens",
+          "url": "https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Nimby",
+      "url": "https://open.spotify.com/track/4Gfy00cHRDU1u1uJdbOYqf"
     },
     {
       "album": {
@@ -6009,6 +6081,24 @@
     },
     {
       "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+    },
+    {
+      "album": {
         "name": "Midnight Chocolate - EP",
         "url": "https://open.spotify.com/album/6Jjha9eFKiS7bvJbxU2U7Y"
       },
@@ -7407,6 +7497,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u3084\u304c\u3089\u305b\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/6F5A1uGpepJOfUdetLgKf3"
+      },
+      "artists": [
+        {
+          "name": "Wasureranneyo",
+          "url": "https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153083,
+      "name": "\u3044\u3084\u304c\u3089\u305b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/3s6yqjQFK0loZAJPhsIk9e"
+    },
+    {
+      "album": {
         "name": "\u3046\u3056\u3002",
         "url": "https://open.spotify.com/album/4FQhXuwDDkeOnG9DjAdaAc"
       },
@@ -7872,7 +7980,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 214920,
       "name": "\u3068\u304d\u3081\u304dpart1",
       "url": "https://open.spotify.com/track/5lGNDmdvtbvwaXLkalxA9r"
@@ -8704,6 +8812,28 @@
       "duration_ms": 229029,
       "name": "\u30b5\u30e9\u30d0",
       "url": "https://open.spotify.com/track/6uvfHyztTfI1JxIx8OWkhI"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30fc\u30af\u30eb\u30b2\u30fc\u30e0 (ANOHANA Ver.)",
+        "url": "https://open.spotify.com/album/5lrkRIFuj1eWly7FtcRtJy"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        },
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355233,
+      "name": "\u30b5\u30fc\u30af\u30eb\u30b2\u30fc\u30e0 - ANOHANA Ver.",
+      "url": "https://open.spotify.com/track/2S60nkpKsY5ixPIN7mxJGx"
     },
     {
       "album": {
@@ -9796,7 +9926,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 227320,
       "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
       "url": "https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG"
@@ -9814,7 +9944,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 201893,
       "name": "\u30e1\u30ea\u30fc\u30b4\u30fc\u30e9\u30f3\u30c9",
       "url": "https://open.spotify.com/track/5e17FZpKCvOEn5296aNvLg"
@@ -12568,7 +12698,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 223320,
       "name": "\u7d46\u30ce\u5947\u8de1",
       "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"
@@ -13066,7 +13196,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 191235,
       "name": "\u9752\u6885",
       "url": "https://open.spotify.com/track/0D0RLKxs1x9BfEnaFUfKCl"

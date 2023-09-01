@@ -4,7 +4,7 @@
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-71 songs - 7 hr 56 min
+72 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Moogies Bloogies](https://open.spotify.com/track/6gaWoxdfAfB2yQKKBQeQ59) | [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI) | [Moogies Bloogies](https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6) | 2:24 | 2022-01-07 |  |
 | [Music of the Spheres](https://open.spotify.com/track/4hrm7oIlVORuJ2qeiqvgPO) | [Johanna Beyer](https://open.spotify.com/artist/4VjVHg8LhIF2HZwGqfvEu2), [Allen Strange](https://open.spotify.com/artist/5HUqej1NPFq9KPoXKK65pp), [Stephen Ruppenthal](https://open.spotify.com/artist/4ipBHCpXXpqRD0to91T5EC), [David Morse](https://open.spotify.com/artist/31ZJp9MgYihvqs3xSc2utj), [Brenda Hutchinson](https://open.spotify.com/artist/2dCp5RywShxoi5dWMZDH27), [Donald Buchla](https://open.spotify.com/artist/7eFBAP855i9FC4RddJ3FRV), [Charles Amirkhanian](https://open.spotify.com/artist/3eMMA6duPnPOQHOa59vuQK) | [New Music for Electronic and Recorded Media: Women In Electronic Music \- 1977](https://open.spotify.com/album/45IBJV76uqLXXsm9SMAFzO) | 6:01 | 2022-01-07 |  |
 | [Part I](https://open.spotify.com/track/0XjhKEJkLMygZlzXTbgFRP) | [İlhan Mimaroğlu](https://open.spotify.com/artist/7rM5G4gKtS2FN45XBljyu8) | [Tract: A Composition of Agitprop Music for Electromagnetic Tape by Ilhan Mimaroglu](https://open.spotify.com/album/3sqe1I0vscuEqV7gvU1KAd) | 18:47 | 2022-01-07 |  |
-| [Pentes \- 1974](https://open.spotify.com/track/6phMu2LfjPKujoeXdUhjTG) | [Denis Smalley](https://open.spotify.com/artist/2jfX44kEpicgeVKakcMEj1) | [Tides](https://open.spotify.com/album/1GyREbGc3KQzKHzmaRtuV7) | 13:18 | 2022-01-07 |  |
+| [Pentes](https://open.spotify.com/track/0OYyCSTLAicBotZXMHuMYI) | [Denis Smalley](https://open.spotify.com/artist/2jfX44kEpicgeVKakcMEj1) | [Tides](https://open.spotify.com/album/0Cvhe6gkTnxzGLUoSJKohS) | 13:18 | 2022-10-04 |  |
+| [Pentes \- 1974](https://open.spotify.com/track/6phMu2LfjPKujoeXdUhjTG) | [Denis Smalley](https://open.spotify.com/artist/2jfX44kEpicgeVKakcMEj1) | [Tides](https://open.spotify.com/album/1GyREbGc3KQzKHzmaRtuV7) | 13:18 | 2022-01-07 | 2023-09-01 |
 | [Piece \#1](https://open.spotify.com/track/01fu0lEF6cNRFRwoum0uTK) | [Tod Dockstader](https://open.spotify.com/artist/3I573obp4ckH9yt4EYEA6e) | [Eight Electronic Pieces](https://open.spotify.com/album/5cEeSuLl2QxwCqWZBX2bHq) | 2:00 | 2022-01-07 |  |
 | [Postlude from Music for a Sacred Service](https://open.spotify.com/track/145BSsZ7UiS66DQP3paXqY) | [Bülent Arel](https://open.spotify.com/artist/4KnXMlHb6c0xiwsmFMv1Pw) | [Columbia\-Princeton Electronic Music Center 1961\-1973](https://open.spotify.com/album/2G4IrmveiWoH0yMAZDPfbe) | 4:01 | 2022-01-07 |  |
 | [Poème Electronique](https://open.spotify.com/track/6gdOMWMd4WKHU03vfmxkIp) | [Edgard Varèse](https://open.spotify.com/artist/0enRaCZSvIUa2nVC7I4roi) | [Varèse: The Complete Works](https://open.spotify.com/album/1GVXkLXndn3JMWi9bftSZF) | 8:02 | 2022-01-07 |  |

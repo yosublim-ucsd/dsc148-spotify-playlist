@@ -4,7 +4,7 @@
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-106 songs - 3 hr 48 min
+108 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [If You're Happy](https://open.spotify.com/track/7HDs6BkJumMnN00yV9GuC4) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/5NCGJqs3KjGNEvSFwsfmYn) | 1:50 | 2021-09-23 | 2022-07-29 |
 | [If You're Happy](https://open.spotify.com/track/3i5YdzGBo5ssO9NZrDicjz) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [The Bath Song & More Kids Songs](https://open.spotify.com/album/6bOJxK69mrkyBwuzQYcUOp) | 1:50 | 2022-07-08 |  |
 | [Let's Get Ready!](https://open.spotify.com/track/2kpfbfFJxnbMysLSp8zAIc) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/2M1GALCY5qHllHs0wvA1T6) | 2:05 | 2021-09-23 | 2022-07-29 |
-| [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 | 2022-07-08 |  |
+| [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 | 2022-07-08 | 2023-09-01 |
+| [Let's Get Ready!](https://open.spotify.com/track/5rmOdU3gZptrnflhfPedCM) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 2:05 | 2023-04-21 |  |
 | [Let's Play Pack Away! \(Tidy Up Game\)](https://open.spotify.com/track/05vmTdz8fo6yVcb9gIRmXU) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 2:10 | 2021-09-23 |  |
 | [Let’s Go!](https://open.spotify.com/track/4s2e30fGKP8pzjU9Tm2Jlh) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Let’s Go!](https://open.spotify.com/album/0z61UND9eDh45w40p50rWp) | 1:13 | 2021-09-23 |  |
 | [Listening Game](https://open.spotify.com/track/4bdLb2NcJ7UXLNTAJr1G0f) | [Bert](https://open.spotify.com/artist/1T8DNeUI0R8aw3GNwvqeax), [Ernie](https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r) | [Sesame Street: Ernie's Hits](https://open.spotify.com/album/1khiMdacF2ijj0uXhsCpVf) | 2:54 | 2021-09-23 | 2022-07-29 |
@@ -69,7 +70,8 @@
 | [Look At All The Letters](https://open.spotify.com/track/66amatHrD8i2JcuQsufI05) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 2:36 | 2022-07-08 |  |
 | [Not the Bedtime Blues](https://open.spotify.com/track/0aYi1rYHSrLNHvfECrHdqf) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:41 | 2021-09-23 |  |
 | [Peppa's Lullaby](https://open.spotify.com/track/0Sm4DvlXdNiyD2qfqGK1Wx) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/2M1GALCY5qHllHs0wvA1T6) | 2:46 | 2021-09-23 | 2022-07-29 |
-| [Peppa's Lullaby](https://open.spotify.com/track/4SksREPSXHLL0QG4HLyBYD) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:46 | 2022-07-08 |  |
+| [Peppa's Lullaby](https://open.spotify.com/track/4SksREPSXHLL0QG4HLyBYD) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:46 | 2022-07-08 | 2023-09-01 |
+| [Peppa's Lullaby](https://open.spotify.com/track/05mpNCdBnlCFKhXva3ta98) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 2:46 | 2023-04-21 |  |
 | [Potties Everywhere](https://open.spotify.com/track/5AGPLE6WQThe3T5mr3z1Jr) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Family Trip](https://open.spotify.com/album/4waSd5lIVV49KspfwtyOoC) | 1:03 | 2021-09-23 | 2022-07-29 |
 | [Potties Everywhere](https://open.spotify.com/track/6kfee9Z4wWfxxPkl2Bxcmd) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Tiger Family Trip](https://open.spotify.com/album/5EC5pB1kwSggef5P44laiU) | 1:03 | 2022-07-08 |  |
 | [Potty Song](https://open.spotify.com/track/4bLWZAsy89pgfwJMZIFX9o) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Potty Song](https://open.spotify.com/album/4WpQeM7aNt1HrzK90O5Lok) | 1:36 | 2023-04-21 |  |

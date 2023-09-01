@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 110987,
+  "num_followers": 111013,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJkYzYwMDBlY2MzYWY3YTc2NzgzNzU0YjQ4OTM2N2IwZDU5NmRi",
+  "snapshot_id": "MCxmYTJjMGQwYThkNTJmZDJkNDI1NmU1ODkxYWM1YTZmYzQxYTk4MjYz",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "summer nights.",
-        "url": "https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc"
-      },
-      "artists": [
-        {
-          "name": "halberd",
-          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
-        },
-        {
-          "name": "Nion",
-          "url": "https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0"
-        }
-      ],
-      "duration_ms": 84315,
-      "name": "summer nights.",
-      "url": "https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/4iRVlAWILJK2sWOBRl18Kl"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 164800,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/4Pyfm47MwAKVNyvlzFXnav"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "summer nights.",
+        "url": "https://open.spotify.com/album/0hv3pidFBxSn1ZFLzD2irc"
+      },
+      "artists": [
+        {
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+        },
+        {
+          "name": "Nion",
+          "url": "https://open.spotify.com/artist/7J1oHSQmZhh69nOXC3RiM0"
+        }
+      ],
+      "duration_ms": 84315,
+      "name": "summer nights.",
+      "url": "https://open.spotify.com/track/7pDspg2l98EwYQRcBpmQWK"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Shanghai Nights",
+      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Directions",
         "url": "https://open.spotify.com/album/1GNYINM8gupBbSdJSPuaud"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 156000,
       "name": "Murmuration",
       "url": "https://open.spotify.com/track/6fkAGXwhsnGecBd1z3dDob"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Shanghai Nights",
-      "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Where I Met You",
+        "url": "https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY"
+      },
+      "artists": [
+        {
+          "name": "Moods",
+          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
+        }
+      ],
+      "duration_ms": 141124,
+      "name": "Where I Met You",
+      "url": "https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "Kids' Menu",
         "url": "https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 118554,
       "name": "Water",
       "url": "https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Where I Met You",
-        "url": "https://open.spotify.com/album/3iynciZnTYz1lMCKBMiXTY"
-      },
-      "artists": [
-        {
-          "name": "Moods",
-          "url": "https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez"
-        }
-      ],
-      "duration_ms": 141124,
-      "name": "Where I Met You",
-      "url": "https://open.spotify.com/track/0hohbae2D1GRZxEB51lQOJ"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 178260,
-      "name": "Joan of Arc.",
-      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Hills and Horizons",
         "url": "https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5"
       },
@@ -1099,22 +1083,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "oldies",
-        "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
-      },
-      "artists": [
-        {
-          "name": "lofi.samurai",
-          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
-        }
-      ],
-      "duration_ms": 103423,
-      "name": "hand of god",
-      "url": "https://open.spotify.com/track/17aeqWs7j6xU37MMQ6LofF"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Silience",
         "url": "https://open.spotify.com/album/0Lma145HTquzDLS6tPTtoy"
       },
@@ -1127,6 +1095,38 @@
       "duration_ms": 196923,
       "name": "Silience",
       "url": "https://open.spotify.com/track/1pOPNG0hcHwJNes7sxjlLu"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "Joan of Arc.",
+      "url": "https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "oldies",
+        "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
+      },
+      "artists": [
+        {
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
+        }
+      ],
+      "duration_ms": 103423,
+      "name": "hand of god",
+      "url": "https://open.spotify.com/track/17aeqWs7j6xU37MMQ6LofF"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "Caliber",
+        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Caliber",
+      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "no shame in my game.",
         "url": "https://open.spotify.com/album/39G2UqpSLFmV6t1Uwvef0S"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 88229,
       "name": "no shame in my game.",
       "url": "https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Caliber",
-        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
-      },
-      "artists": [
-        {
-          "name": "yeyts.",
-          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "Caliber",
-      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
     },
     {
       "added_at": "2022-04-15 12:09:52",

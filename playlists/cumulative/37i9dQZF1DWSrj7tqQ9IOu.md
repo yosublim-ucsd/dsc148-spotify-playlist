@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: Jeanne Bonjour
+> The best French indie tracks right now\. Cover: Later.
 
-378 songs - 20 hr 43 min
+379 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/album/01XHesceKpZaMt3cmXVKHv) | 3:18 | 2022-08-25 | 2023-02-17 |
 | [Dans ma tête](https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Dans ma tête](https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L) | 2:42 | 2023-05-04 |  |
 | [Dans mes rêves](https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Dans mes rêves](https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha) | 3:43 | 2021-12-16 | 2022-03-25 |
+| [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 | 2023-08-31 |  |
 | [De ta faute](https://open.spotify.com/track/5oj0j8VDbNscUAfv7acteK) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe), [Lili Poli](https://open.spotify.com/artist/0hSW0pdwbtPmPaJTOlBz8a) | [De ta faute](https://open.spotify.com/album/7Ggkx1UE9wCQ0vFu4h80Mo) | 2:53 | 2023-08-24 |  |
 | [Des nuits de ça](https://open.spotify.com/track/4Ns96VeAFjAjtTxYSdSQ2f) | [Since Charles](https://open.spotify.com/artist/7pHGQcurcGNZ2M3018eH8o) | [Des nuits de ça](https://open.spotify.com/album/6l4mLyttDO3ius8bjQN2gy) | 3:22 | 2023-01-26 | 2023-02-24 |
 | [Dessus\-dessous](https://open.spotify.com/track/2TdEBZtsNm1yd6O7zImH9x) | [Mado](https://open.spotify.com/artist/2FDZzdKv337dodxZfRgvXT), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:48 | 2022-07-07 | 2022-10-28 |
@@ -231,7 +232,7 @@
 | [Médicament](https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Médicament](https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j) | 3:22 | 2021-12-16 | 2022-09-16 |
 | [Mélodie \(with DORA\)](https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Mélodie \(with DORA\)](https://open.spotify.com/album/2scI9aMrYO9fkaIba8tUhn) | 3:36 | 2023-03-02 | 2023-03-18 |
 | [Never Get Old](https://open.spotify.com/track/2JMSqKjWQYBhmWG8yWj7DE) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/4hhy0wVU3ktRB7Siiikk29) | 2:44 | 2023-06-01 | 2023-07-31 |
-| [Never Get Old](https://open.spotify.com/track/3yz5In41ReX8WHkRaAxuob) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/73XYoAKcZhb1cmt2simbJD) | 2:44 | 2023-07-27 |  |
+| [Never Get Old](https://open.spotify.com/track/3yz5In41ReX8WHkRaAxuob) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/73XYoAKcZhb1cmt2simbJD) | 2:44 | 2023-07-27 | 2023-09-01 |
 | [Night Heights](https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw) | 4:09 | 2023-04-20 |  |
 | [Night Train](https://open.spotify.com/track/471rodBEdeDSUbo4f57boM) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The French Girl Effect](https://open.spotify.com/album/2I83COQRwyk2FtG6SWYswM) | 2:31 | 2023-03-23 | 2023-04-14 |
 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 | 2023-01-05 | 2023-01-20 |
@@ -273,7 +274,7 @@
 | [Playful](https://open.spotify.com/track/1xyFVADjQ6HQHnrIy9oXyu) | [Chillpac](https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl) | [Carefree Island](https://open.spotify.com/album/2AOSUb0aCVL7jmhyCfha64) | 2:45 | 2023-01-26 | 2023-03-03 |
 | [Plus loin](https://open.spotify.com/track/2RizyXfCW91VVmgZDWi0oY) | [Kooking](https://open.spotify.com/artist/7rLc4atM9xcjhBpACb0aIS), [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Plus loin](https://open.spotify.com/album/3OUe4BCFUFo2CCTi0w0RhW) | 2:55 | 2022-04-07 | 2022-04-22 |
 | [Postcards & Letters](https://open.spotify.com/track/1ki4jngOmaHbmyHoSABAhR) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp) | [Postcards & Letters](https://open.spotify.com/album/3ss4bwz8F6bI47Ahvm5HCv) | 4:03 | 2021-12-16 | 2022-04-15 |
-| [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 | 2022-09-22 |  |
+| [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 | 2022-09-22 | 2023-09-01 |
 | [Premier Incendie \- Edit](https://open.spotify.com/track/3zXBE7N9uJxxOq5zJDwIbh) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Premier Incendie \(Edit\)](https://open.spotify.com/album/5K14tV4cFMNGZJy4S9CgZv) | 3:01 | 2022-02-17 | 2022-05-13 |
 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 | 2022-05-19 | 2022-07-01 |
 | [Puzzle](https://open.spotify.com/track/0pg4HD7aOTTYAbv1zsskFc) | [Oré](https://open.spotify.com/artist/0VX9r6wU2vWrUg3EnKZVj4) | [Puzzle](https://open.spotify.com/album/3AQlnAfSMYUs5z4Mmru4CY) | 3:28 | 2023-03-09 |  |

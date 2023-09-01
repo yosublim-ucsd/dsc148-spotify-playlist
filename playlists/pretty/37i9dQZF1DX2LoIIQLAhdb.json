@@ -1,15 +1,31 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tayc",
-  "num_followers": 157541,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
+  "num_followers": 157632,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDJiZmE1MDdiMTRkMzA2N2RjMTM2ZmM0YTRjNzlkYmIzN2M3YTNk",
+  "snapshot_id": "MCxlODY2NTBjOGIxYmFiNjE1ZmVmMDM0MTNhNGZhZDc3Y2IxYmY0M2Yw",
   "tracks": [
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "MOOD3 (Glish)",
+        "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 211180,
+      "name": "Bolingo",
+      "url": "https://open.spotify.com/track/07l8zhiWw5NhHmd9rOmo4G"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "London Fever",
         "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Luva",
         "url": "https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Samira 3",
         "url": "https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "C'est toi",
         "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
@@ -81,23 +97,7 @@
       "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "MOOD3 (Glish)",
-        "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 211180,
-      "name": "Bolingo",
-      "url": "https://open.spotify.com/track/07l8zhiWw5NhHmd9rOmo4G"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Daddy 9",
         "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Faits Divers",
         "url": "https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Rassure-toi",
         "url": "https://open.spotify.com/album/08kXWDkoGFhwlg5NPatEXo"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Dans La Chambre / Money",
         "url": "https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Pour nous",
         "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Quelqu'un d'autre",
         "url": "https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "On vient de loin",
         "url": "https://open.spotify.com/album/12fpYUwuFUcvwCplvxNQSV"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/2hsWXtf1kKPubl90gl6PbQ"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Un peu de moi",
         "url": "https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "R\u00e9silience",
         "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Drama (Partie II)",
         "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "M\u00e8re ya Palais",
         "url": "https://open.spotify.com/album/6URO16cnGDleeYxQFZE8Yj"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/40XrmyoNFxG5KehHeFvrKT"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Zina",
         "url": "https://open.spotify.com/album/2ctn0Isyb0sySJ8tLoxb8X"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Bunker 09",
         "url": "https://open.spotify.com/album/12PLqI9BiLCPlLihhoEExV"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/4t7KDvE1AO02Jr0uDIJYY6"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "D\u00e9lire (feat. Tiakola)",
         "url": "https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Mon coco",
         "url": "https://open.spotify.com/album/6dfhAN5YdT4WpCgM048lqQ"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/5XTtRcxSLqyflaklKITjvi"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "G\u00c9 VOULAIT",
         "url": "https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "FAREWELL",
         "url": "https://open.spotify.com/album/5LjYtn7feCJfP3vpaHw7s5"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/5fZvfkA6x85Ie2YtvRrB1Q"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "BBM",
         "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "En attendant PM",
         "url": "https://open.spotify.com/album/62FGudHITMLyLr0dZFV8Xa"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1zeHHVvlytOKg37iwMBK9y"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "R\u00e9silience (R\u00e9edition)",
         "url": "https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Chou",
         "url": "https://open.spotify.com/album/2uyNkQUMUFcjx1OrNSz8jp"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/6iUiqclxAWQPVwmw0e3vYq"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Step By Step",
         "url": "https://open.spotify.com/album/7opoRFAZZnYiB8nG4gVQVA"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/4mJBWq4XbarSGfDNJ8ufF7"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Enchant\u00e9",
         "url": "https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Dernier je t'aime",
         "url": "https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "S\u00dbR ET CERTAIN",
         "url": "https://open.spotify.com/album/5lybxL3zlWlLz4eYh9Ns67"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/5o9i7yTVirTIMMQrZrtTkd"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Makele",
         "url": "https://open.spotify.com/album/4y2B5kpPU9volLqTnDDoCZ"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/3LHgc025pXKdA57Wu7tCra"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "La Vie de Roni",
         "url": "https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/6ON6G3oNKLuDYfJOshwuK6"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/7fYlVF4X0NFcU2cVMJT3ve"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "SPECIALE",
         "url": "https://open.spotify.com/album/4wZMPmutewDauGR8Yv4wxF"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/3L2nk3jh5Q25ibYEDRjRo5"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Love Story III",
         "url": "https://open.spotify.com/album/1pRv3dJ8Z46Rl5copApNpj"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/40OWsWC7SqFIK5GtqswGsP"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "UNE LARME DE +",
         "url": "https://open.spotify.com/album/5p22pIQyjHxtEU9ZflwmKc"
@@ -705,27 +705,7 @@
       "url": "https://open.spotify.com/track/3JAhkNrtJBjeAoJB2B5Aei"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Henny",
-        "url": "https://open.spotify.com/album/5uhxqK0SAwJYCulcb9ug9R"
-      },
-      "artists": [
-        {
-          "name": "$hiro",
-          "url": "https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn"
-        },
-        {
-          "name": "Samy Lrzo",
-          "url": "https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Henny",
-      "url": "https://open.spotify.com/track/5kFqyOxSzbsXVaqVfXhJ57"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Bobo",
         "url": "https://open.spotify.com/album/7nLkUKpKDd9ZUxAi2O0YKQ"

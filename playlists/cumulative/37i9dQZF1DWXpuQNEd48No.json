@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Billa Sonipat Ala, Prince Jamba & Irshad Khan",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: MC SQUARE",
   "name": "Hip-Hop Haryana",
   "tracks": [
     {
@@ -1177,6 +1177,28 @@
     },
     {
       "album": {
+        "name": "Laado",
+        "url": "https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Laado",
+      "url": "https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n"
+    },
+    {
+      "album": {
         "name": "MAHAKAAL",
         "url": "https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0"
       },
@@ -1668,7 +1690,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 245647,
       "name": "Rapgod",
       "url": "https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc"

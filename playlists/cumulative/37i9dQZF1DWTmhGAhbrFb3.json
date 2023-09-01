@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 197598,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/5IQNIj54PxmBvPVh2fLuEH"
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 182475,
       "name": "Haumea",
       "url": "https://open.spotify.com/track/2LXzGeoY2Cm8SFIaq5v0sJ"
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 233142,
       "name": "Peaceful Night",
       "url": "https://open.spotify.com/track/6d87FW26ifnIhdCWr6vmIU"
@@ -4444,7 +4444,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 171673,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ"
@@ -4732,7 +4732,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 284000,
       "name": "Storytelling",
       "url": "https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW"
@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 122892,
       "name": "The Edge of Love",
       "url": "https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl"
@@ -5333,6 +5333,24 @@
     },
     {
       "album": {
+        "name": "Valour",
+        "url": "https://open.spotify.com/album/39jXvyGezU2tSWgQc6VTao"
+      },
+      "artists": [
+        {
+          "name": "Amara Issawi",
+          "url": "https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183388,
+      "name": "Valour",
+      "url": "https://open.spotify.com/track/0CWQ7BSvB1LRY1CGZGQahh"
+    },
+    {
+      "album": {
         "name": "Vinsamlegast",
         "url": "https://open.spotify.com/album/6GuDqcR9hJL41ONab2raLE"
       },
@@ -5452,7 +5470,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 174000,
       "name": "We Owe It To Them",
       "url": "https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs"

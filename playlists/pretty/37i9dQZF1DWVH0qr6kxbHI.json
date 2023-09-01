@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 63305,
+  "num_followers": 63377,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGFmNTk5MzFmYzRlNjNlOTM5ZGI4YmQzOWEwMjUwNDY0M2E3Yjc5",
+  "snapshot_id": "MCwzMjAyNTQxMzBiMmQ3YmEyNzI3NjBhN2UyNGZjNDEyYjcyNmU0ZWFi",
   "tracks": [
     {
       "added_at": "2023-08-28 17:02:49",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Mari Trini Con los Panchos",
-        "url": "https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC"
+        "name": "En directo",
+        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
       },
       "artists": [
         {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
         }
       ],
-      "duration_ms": 204347,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK"
+      "duration_ms": 252213,
+      "name": "Beso a beso... dulcemente",
+      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -459,18 +455,22 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "En directo",
-        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
+        "name": "Mari Trini Con los Panchos",
+        "url": "https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC"
       },
       "artists": [
         {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 252213,
-      "name": "Beso a beso... dulcemente",
-      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
+      "duration_ms": 204347,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
-      },
-      "artists": [
-        {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Quizas, Quizas, Quizas",
-      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Raices de la Canci\u00f3n Espa\u00f1ola, Vol. 4",
         "url": "https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 164395,
       "name": "Coplillas de las Divisas (Americanos)",
       "url": "https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "added_at": "2023-08-28 17:02:49",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "La Violetera (Remastered)",
-        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
-      },
-      "artists": [
-        {
-          "name": "Sara Montiel",
-          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        }
-      ],
-      "duration_ms": 222125,
-      "name": "La Violetera - Remastered",
-      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Tatuaje",
         "url": "https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn"
       },
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2023-08-28 17:02:49",
       "album": {
-        "name": "Carmen Sevilla : Sus Grandes Exitos",
-        "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
-      },
-      "artists": [
-        {
-          "name": "Carmen Sevilla",
-          "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
-        }
-      ],
-      "duration_ms": 124466,
-      "name": "Cari\u00f1o Trianero",
-      "url": "https://open.spotify.com/track/2N5EguFWYgUCc5uiazKLAE"
-    },
-    {
-      "added_at": "2023-08-28 17:02:49",
-      "album": {
         "name": "Mis Mejores Canciones, Vol. I",
         "url": "https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF"
       },
@@ -1151,6 +1119,38 @@
       "duration_ms": 241986,
       "name": "C\u00e1ntame",
       "url": "https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "La Violetera (Remastered)",
+        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "duration_ms": 222125,
+      "name": "La Violetera - Remastered",
+      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
+    },
+    {
+      "added_at": "2023-08-28 17:02:49",
+      "album": {
+        "name": "Carmen Sevilla : Sus Grandes Exitos",
+        "url": "https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R"
+      },
+      "artists": [
+        {
+          "name": "Carmen Sevilla",
+          "url": "https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO"
+        }
+      ],
+      "duration_ms": 124466,
+      "name": "Cari\u00f1o Trianero",
+      "url": "https://open.spotify.com/track/2N5EguFWYgUCc5uiazKLAE"
     },
     {
       "added_at": "2023-08-28 17:02:49",

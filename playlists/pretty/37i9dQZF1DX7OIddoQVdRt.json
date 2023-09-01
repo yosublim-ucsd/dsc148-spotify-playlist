@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover:  <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a\">Pastor Mike Jr.</a>, <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards'</a> Artist of the Year ",
-  "num_followers": 628567,
+  "num_followers": 628646,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE1ZDhjZDhhOGFhM2FmOWMwM2FjNDFiNGI2MGFkMTNhMzY0Y2Y3",
+  "snapshot_id": "MCxkNjU0OTI0YTU1YjUzMmE3OTc2YWJlMTM3ZmVlNTE0YmRlZDYyNmFi",
   "tracks": [
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "No Reason To Fear - Single",
-        "url": "https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 273356,
-      "name": "No Reason To Fear (Radio Edit)",
-      "url": "https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Open Door (See You Later)",
         "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 255786,
       "name": "Open Door (See You Later)",
       "url": "https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "No Reason To Fear - Single",
+        "url": "https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 273356,
+      "name": "No Reason To Fear (Radio Edit)",
+      "url": "https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1639,50 +1639,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Melissa Bethea",
-          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
-        }
-      ],
-      "duration_ms": 747716,
-      "name": "Not Holding Back",
-      "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Brother (Mahogany x IRIS)",
         "url": "https://open.spotify.com/album/4iGPiRikSzYNxwPxfvUDxb"
       },
@@ -1715,6 +1671,26 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
         "name": "Lifted Up",
         "url": "https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd"
       },
@@ -1727,6 +1703,30 @@
       "duration_ms": 269579,
       "name": "Lifted Up",
       "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "duration_ms": 747716,
+      "name": "Not Holding Back",
+      "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
     },
     {
       "added_at": "2023-08-04 07:09:27",

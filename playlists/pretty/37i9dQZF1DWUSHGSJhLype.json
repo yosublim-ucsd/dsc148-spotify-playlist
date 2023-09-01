@@ -1,12 +1,12 @@
 {
   "description": "aquele mexid\u00e3o envolvente que o brasileiro ama / Foto: Mc Livinho",
-  "num_followers": 390372,
+  "num_followers": 390852,
   "original_name": "PURO SUCO DE BRASIL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTg2MGY4Y2VkZTMyYTAyMjFiNWVlNWM2NmVjYjliMzIyOTQzMTI0",
+  "snapshot_id": "MCwxOGZjNDFlNDEwMGJjYWJlYmMyM2RiNGUzMjcxZDI1N2RlZGM3MjZh",
   "tracks": [
     {
       "added_at": "2023-08-29 14:49:14",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
-        "name": "10 Anos (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 144298,
-      "name": "Quando Apaga A Luz - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
-    },
-    {
-      "added_at": "2023-08-29 14:49:14",
-      "album": {
         "name": "Pivete do Arrocha Funk",
         "url": "https://open.spotify.com/album/5k6n5aJv2VjVKXYtpXfWZ9"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 159276,
       "name": "Vem Morenin",
       "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"
+    },
+    {
+      "added_at": "2023-08-29 14:49:14",
+      "album": {
+        "name": "10 Anos (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/22jto4LUwVyh5A3Q3Fr4s1"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 144298,
+      "name": "Quando Apaga A Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UtFywx23D3gScleyACbgD"
     },
     {
       "added_at": "2023-08-29 14:49:14",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
-        "name": "Zona De Perigo",
-        "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Zona De Perigo",
-      "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
-    },
-    {
-      "added_at": "2023-08-29 14:49:14",
-      "album": {
         "name": "JOIA RARA",
         "url": "https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
-        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+        "name": "Zona De Perigo",
+        "url": "https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],
-      "duration_ms": 202411,
-      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
+      "duration_ms": 142151,
+      "name": "Zona De Perigo",
+      "url": "https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9"
     },
     {
       "added_at": "2023-08-29 14:49:14",
@@ -859,6 +843,22 @@
       "duration_ms": 129146,
       "name": "Marrento",
       "url": "https://open.spotify.com/track/5gH5JWzP4Iqqagm0f4UGL0"
+    },
+    {
+      "added_at": "2023-08-29 14:49:14",
+      "album": {
+        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 202411,
+      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
     },
     {
       "added_at": "2023-08-29 14:49:14",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
-        "name": "Gostosinha \u00e9 Ela",
-        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Gostosinha \u00e9 Ela",
-      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
-    },
-    {
-      "added_at": "2023-08-29 14:49:14",
-      "album": {
         "name": "Faz o Teu Nome",
         "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
+        "name": "Gostosinha \u00e9 Ela",
+        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Gostosinha \u00e9 Ela",
+      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
+    },
+    {
+      "added_at": "2023-08-29 14:49:14",
+      "album": {
         "name": "Anota A\u00ed (Ao Vivo)",
         "url": "https://open.spotify.com/album/5md8rYv1JhgQEsBMS5WREE"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
-        "name": "Decretos Reais, Vol. 3",
-        "url": "https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 201262,
-      "name": "Hackearam-me",
-      "url": "https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505"
-    },
-    {
-      "added_at": "2023-08-29 14:49:14",
-      "album": {
         "name": "Balan\u00e7o da Rede",
         "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 166435,
       "name": "Balan\u00e7o da Rede",
       "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2023-08-29 14:49:14",
+      "album": {
+        "name": "Decretos Reais, Vol. 3",
+        "url": "https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 201262,
+      "name": "Hackearam-me",
+      "url": "https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505"
     },
     {
       "added_at": "2023-08-29 14:49:14",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
+        "name": "Vulgo Mc Paiva",
+        "url": "https://open.spotify.com/album/7nAqWtxAmYqQuSMGSahW9X"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        }
+      ],
+      "duration_ms": 120115,
+      "name": "Vulgo Mc Paiva",
+      "url": "https://open.spotify.com/track/6S2336rQHx8rcEGuCETufv"
+    },
+    {
+      "added_at": "2023-08-29 14:49:14",
+      "album": {
         "name": "Ao Vivo em Fortaleza",
         "url": "https://open.spotify.com/album/3M5e9wnEYLRGlavA36KwAr"
       },
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
-        "name": "Vulgo Mc Paiva",
-        "url": "https://open.spotify.com/album/7nAqWtxAmYqQuSMGSahW9X"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Dj LK da Esc\u00f3cia",
-          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
-        }
-      ],
-      "duration_ms": 120115,
-      "name": "Vulgo Mc Paiva",
-      "url": "https://open.spotify.com/track/6S2336rQHx8rcEGuCETufv"
-    },
-    {
-      "added_at": "2023-08-29 14:49:14",
-      "album": {
         "name": "Perdoou Nada (Ao Vivo)",
         "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 163120,
       "name": "Perdoou Nada - Ao Vivo",
       "url": "https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1"
+    },
+    {
+      "added_at": "2023-08-29 14:49:14",
+      "album": {
+        "name": "Furduncinho do Rogerinho",
+        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 179701,
+      "name": "Furduncinho do Rogerinho",
+      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
     },
     {
       "added_at": "2023-08-29 14:49:14",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
-        "name": "Furduncinho do Rogerinho",
-        "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 179701,
-      "name": "Furduncinho do Rogerinho",
-      "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
-    },
-    {
-      "added_at": "2023-08-29 14:49:14",
-      "album": {
         "name": "Ah T\u00e1",
         "url": "https://open.spotify.com/album/3qzXZNCZKB7mN3yXpYdTaF"
       },
@@ -1339,6 +1339,26 @@
       "duration_ms": 163834,
       "name": "Ah T\u00e1",
       "url": "https://open.spotify.com/track/1wmJCxXIo5WRlUZhZpjtz9"
+    },
+    {
+      "added_at": "2023-08-29 14:49:14",
+      "album": {
+        "name": "Tchuco Nela",
+        "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Tchuco Nela",
+      "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
     },
     {
       "added_at": "2023-08-29 14:49:14",
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
-        "name": "Tchuco Nela",
-        "url": "https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "Tchuco Nela",
-      "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
-    },
-    {
-      "added_at": "2023-08-29 14:49:14",
-      "album": {
         "name": "Te Love (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 136220,
       "name": "A Caminho do Bega [Piseiro Remix] (feat. Dj Mizzontti)",
       "url": "https://open.spotify.com/track/6GIIq2BZtZorfS2R2Y2vAT"
+    },
+    {
+      "added_at": "2023-08-29 14:49:14",
+      "album": {
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
     },
     {
       "added_at": "2023-08-29 14:49:14",
@@ -1551,26 +1567,6 @@
     {
       "added_at": "2023-08-29 14:49:14",
       "album": {
-        "name": "Novinha do Onlyfans",
-        "url": "https://open.spotify.com/album/0lEZVgqyXJs39tbfCZGfJL"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 137660,
-      "name": "Novinha do Onlyfans",
-      "url": "https://open.spotify.com/track/4j2rdnsKXY2YvC8izJopzO"
-    },
-    {
-      "added_at": "2023-08-29 14:49:14",
-      "album": {
         "name": "Deixa Eu Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B"
       },
@@ -1587,6 +1583,26 @@
       "duration_ms": 201856,
       "name": "Deixa Eu Viver - Ao Vivo",
       "url": "https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy"
+    },
+    {
+      "added_at": "2023-08-29 14:49:14",
+      "album": {
+        "name": "Novinha do Onlyfans",
+        "url": "https://open.spotify.com/album/0lEZVgqyXJs39tbfCZGfJL"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 137660,
+      "name": "Novinha do Onlyfans",
+      "url": "https://open.spotify.com/track/4j2rdnsKXY2YvC8izJopzO"
     },
     {
       "added_at": "2023-08-29 14:49:14",
@@ -1623,22 +1639,6 @@
       "duration_ms": 175290,
       "name": "Rave e Bagaceira",
       "url": "https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A"
-    },
-    {
-      "added_at": "2023-08-29 14:49:14",
-      "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
     },
     {
       "added_at": "2023-08-29 14:49:14",

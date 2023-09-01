@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 36,242 likes - 94 songs - 5 hr 1 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 36,312 likes - 94 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let It Spray](https://open.spotify.com/track/61VB5Z61QQmcERlHfgI4ze) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Let It Spray](https://open.spotify.com/album/6olqZhsmwWGWx27MEogmk8) | 2:30 |
-| 2 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/4xwKCCFwNLTXOzqhQgbwcl), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 |
+| 2 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 |
 | 3 | [Boom Boom](https://open.spotify.com/track/1fvs69wygKjj56sDhYLSdd) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Where The Angels Fall](https://open.spotify.com/album/0XkC0lRgKhIzYR390LmNPI) | 3:05 |
 | 4 | [Dead Poets Society](https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Dead Poet's Society](https://open.spotify.com/album/4Q8Pw2jPx10y7QvWPAMPbm) | 3:43 |
 | 5 | [Temptations](https://open.spotify.com/track/0aUVfCApa6eicwsmY7Yw6B) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Impulses](https://open.spotify.com/album/762v86vjtRDOusybdIVEhL) | 2:09 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 25 | [Capri\-Sun](https://open.spotify.com/track/5r5T65MwdI0mCYSnFamnqc) | [AE](https://open.spotify.com/artist/4UWcOm40hIpudoHIcpQQxg) | [Capri\-Sun](https://open.spotify.com/album/6TN0q8rUBBC375qtkbbBi9) | 2:31 |
 | 26 | [Line Of Fire](https://open.spotify.com/track/4s1lLH74AfVoWZxvt94oZN) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Line Of Fire](https://open.spotify.com/album/72yPeqxud0IWVaMwe3dIZf) | 3:46 |
 | 27 | [Potions](https://open.spotify.com/track/5sgVPgItgWDVLwc1dN3nW6) | [Swift](https://open.spotify.com/artist/5xVULiv3wBC0T0lMG20mEC), [Smoke Boys](https://open.spotify.com/artist/0ZnmpHEiVrHpbyRqDYjnTL), [Fee Gonzales](https://open.spotify.com/artist/0yXGvYSu3nMyc3UeQR0QgY) | [Potions](https://open.spotify.com/album/1SdJlst4rEkz0UZFp5Qijq) | 2:50 |
-| 28 | [Vibrate](https://open.spotify.com/track/05VCNp9ty8SWguQwaIMzcC) | [Mehka](https://open.spotify.com/artist/5mupx18wCyptCMk8k3hgmf) | [Vibrate](https://open.spotify.com/album/7FoMRUETf2iQUuO1k7kSZA) | 2:14 |
+| 28 | [Vibrate](https://open.spotify.com/track/05VCNp9ty8SWguQwaIMzcC) | [Mehka](https://open.spotify.com/artist/4IFIFCPegZ7Q7hPFn05ZYr) | [Vibrate](https://open.spotify.com/album/7FoMRUETf2iQUuO1k7kSZA) | 2:14 |
 | 29 | [Bird Again](https://open.spotify.com/track/6c09vdZqtqQvPQNTT36huP) | [Trapstar Toxic](https://open.spotify.com/artist/7uwp4AlJTMZFYQWvJiGXUO) | [Bird Again](https://open.spotify.com/album/5RQPa4C74D1G8I85BXlATn) | 3:03 |
 | 30 | [Traphouse](https://open.spotify.com/track/4fhhUIVRnStRYNZ41Mzkc7) | [Country Dons](https://open.spotify.com/artist/76IdLCK81jcB44BTCgR7Vx), [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Traphouse](https://open.spotify.com/album/0dCuOlbPzcir2tObsvzYhV) | 3:41 |
 | 31 | [NO PIDO PERDÓN](https://open.spotify.com/track/0OjQ5QsPKzlnGaLk3clnsi) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe), [Johan V.](https://open.spotify.com/artist/77QwIYKn6SIxmP5ivKrBKF), [diselo pala](https://open.spotify.com/artist/6VhcFm13DwhIvsfe86e8tV) | [NO PIDO PERDÓN](https://open.spotify.com/album/15H06MDF8tepi0rISNjFO8) | 2:44 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 66 | [Invócame](https://open.spotify.com/track/0AsVc5ZtVRI9OQ7yLpOQ9Y) | [FIFI](https://open.spotify.com/artist/26HkYyeznVkKxgiAZrPR3A) | [Invócame](https://open.spotify.com/album/6Jw3meo7gzWExYKcL9DGQq) | 4:09 |
 | 67 | [The Fool](https://open.spotify.com/track/33ZOF6B5wyXJUEmd29Gyy0) | [Pechi Pages](https://open.spotify.com/artist/0rdOCNCzCkPvgpvrbG9J42), [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [The Fool](https://open.spotify.com/album/1VG2NJzw5LibfzfxOr6n3S) | 3:24 |
 | 68 | [Terminal Tres Cruces \- En Vivo](https://open.spotify.com/track/4JvqWyH23I1zhMdF1NtYMi) | [Camila Sapin](https://open.spotify.com/artist/4VWYsx7VsRf0Ir5UUT6pMk), [Samantha Navarro](https://open.spotify.com/artist/42bSW87StWghA8hysIh96X) | [Terminal Tres Cruces \(En Vivo\)](https://open.spotify.com/album/5b7iPN7ooFJHIJQ6Nkdhjv) | 3:22 |
-| 69 | [Cumbia en la montaña \- En Vivo](https://open.spotify.com/track/09Z3Y4M23ybfbRz0BE3JbQ) | [Folkloreta](https://open.spotify.com/artist/2eRi1l1l9z8p4ozUQaegx0) | [Cumbia en la montaña \(En Vivo\)](https://open.spotify.com/album/1u85zfBlH9GFQs2UF8JJk5) | 3:37 |
+| 69 | [Cumbia en la montaña](https://open.spotify.com/track/09Z3Y4M23ybfbRz0BE3JbQ) | [Folkloreta](https://open.spotify.com/artist/2eRi1l1l9z8p4ozUQaegx0) | [Cumbia en la montaña](https://open.spotify.com/album/1u85zfBlH9GFQs2UF8JJk5) | 3:37 |
 | 70 | [El Surco de tus Labios](https://open.spotify.com/track/32ttS8dNRJuSL8924HTomN) | [Niko Rosé](https://open.spotify.com/artist/3KHtbeQsPzZNZ7KNwneHYF), [MPV](https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0) | [El Surco de tus Labios](https://open.spotify.com/album/4QizHr3HITnVE9Cn2pGpRI) | 2:01 |
 | 71 | [Ikaw Pa Ba?](https://open.spotify.com/track/2uDQfFaTLFhQ3IuW7a8q55) | [Definitely! Not January](https://open.spotify.com/artist/1m29l0mb7CFA4stkJKgUKb) | [Ikaw Pa Ba?](https://open.spotify.com/album/6qd0DhdXU473wD5uBmaOMe) | 3:57 |
 | 72 | [Rewind](https://open.spotify.com/track/4BPfSDbLtSEWfWcmjw55AU) | [Justin Taller](https://open.spotify.com/artist/6EWxRnepcr37PGDIara8gI) | [Rewind](https://open.spotify.com/album/51cGqL0GWWB9UTLcck0TMm) | 4:13 |

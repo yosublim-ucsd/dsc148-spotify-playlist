@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 178635,
       "name": "Country Girls",
       "url": "https://open.spotify.com/track/2On2WPpT56ueZXBg1JSHSI"
@@ -942,6 +942,24 @@
       "duration_ms": 192470,
       "name": "Neon Soul",
       "url": "https://open.spotify.com/track/25Gxi8mBqLUMuEAGTzUSQc"
+    },
+    {
+      "album": {
+        "name": "Never Give Up On A Good Time",
+        "url": "https://open.spotify.com/album/7n8ypK3KRGbAVtH2NcXZBA"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Never Give Up On A Good Time",
+      "url": "https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA"
     },
     {
       "album": {

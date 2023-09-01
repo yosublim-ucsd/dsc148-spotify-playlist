@@ -4,7 +4,7 @@
 
 > Relaxing and salutary ambient music.
 
-410 songs - 21 hr 27 min
+411 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [As The Light Slowly Fades](https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl) | [Bliss Porter](https://open.spotify.com/artist/0AF3uDWnCp5CMYIl66leMm) | [As The Light Slowly Fades](https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF) | 3:13 | 2022-05-26 |  |
 | [Aura](https://open.spotify.com/track/2FkTdGg3QqJt8ufTTJWIwJ) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Peace of Mind](https://open.spotify.com/album/3CuQ15YmucUEejU8ZgcrfH) | 3:18 | 2022-05-26 | 2023-08-12 |
 | [Aurore](https://open.spotify.com/track/0Qdj3Fw4Jn71PtIksAuEGD) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Aurore](https://open.spotify.com/album/7fNUSTFRhIyxtH7nyBlBv1) | 3:00 | 2022-05-26 |  |
-| [Avalon](https://open.spotify.com/track/6dy23Jk4fxlwTLxB9o4olF) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Violin Chant](https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v) | 3:29 | 2022-05-26 |  |
+| [Avalon](https://open.spotify.com/track/6dy23Jk4fxlwTLxB9o4olF) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Violin Chant](https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v) | 3:29 | 2022-05-26 | 2023-09-01 |
 | [Awash](https://open.spotify.com/track/3WgX6oDGy5TjPEPA028sls) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Fragmented](https://open.spotify.com/album/7E5MjoqX5LSadIzFnduoUc) | 3:23 | 2022-05-26 |  |
 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 | 2022-05-26 |  |
 | [Back to the Shore](https://open.spotify.com/track/1NjlxhAGYwny0QcOdtm0ML) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 2:24 | 2022-05-26 | 2023-02-18 |
@@ -281,6 +281,7 @@
 | [Phoenix](https://open.spotify.com/track/1PKG43MUDvPgXpUODaU6mW) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Risen](https://open.spotify.com/album/2hZg7Z1DPU6XR2ofF1ljtj) | 2:13 | 2022-05-26 |  |
 | [Pneuma](https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Pneuma](https://open.spotify.com/album/3kmpm5eHmRqaAMEO3Ixgn6) | 3:47 | 2022-05-26 | 2022-06-25 |
 | [Poetic Anthems](https://open.spotify.com/track/7EsBJypTRh9ptstfZtvShL) | [Morton Stuyvesant](https://open.spotify.com/artist/2WzGyDmxHByHHzuJSXFxb8) | [Poetic Anthems](https://open.spotify.com/album/13sA2BR3OUWwBtPNtK2ChO) | 3:20 | 2022-05-26 |  |
+| [Portraits](https://open.spotify.com/track/1CAikPYiA2mFUkwCoPgLZk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Portraits](https://open.spotify.com/album/5X3zzhPritfRnLd6as5JWt) | 2:50 | 2023-09-01 |  |
 | [Portugal \(A Lift\)](https://open.spotify.com/track/5lpojl4X0KKpWtrG6bMYuL) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 6:48 | 2022-05-26 | 2022-07-29 |
 | [Portugal \(A Lift\)](https://open.spotify.com/track/7ujfmMdgm986T40j0oPRCF) | [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [S&S Presents: Dreams](https://open.spotify.com/album/4oVFo5HluwL0rnL1MVkDmH) | 6:48 | 2022-07-22 | 2022-08-16 |
 | [Power Nap](https://open.spotify.com/track/2g2cJg9FbFVmEtamXclS8L) | [Mr Pillow](https://open.spotify.com/artist/3V7GUrlrlXrhNa35wzdqUx) | [Getting Sleepy](https://open.spotify.com/album/145nFBu19qqrs9qGzElwj8) | 2:58 | 2022-05-26 | 2023-03-18 |

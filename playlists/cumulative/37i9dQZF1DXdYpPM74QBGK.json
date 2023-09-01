@@ -1584,6 +1584,24 @@
     {
       "album": {
         "name": "Here We Come",
+        "url": "https://open.spotify.com/album/6y77mrn553xhcbN9Po2XCv"
+      },
+      "artists": [
+        {
+          "name": "PJ Masks",
+          "url": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40000,
+      "name": "PJ Masks Theme Song",
+      "url": "https://open.spotify.com/track/5MDDJSZejveWvRMOYnxnpB"
+    },
+    {
+      "album": {
+        "name": "Here We Come",
         "url": "https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR"
       },
       "artists": [
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 40000,
       "name": "PJ Masks Theme Song",
       "url": "https://open.spotify.com/track/7eKpWdTDReOTNn1mXPyuzf"
@@ -1936,10 +1954,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 38723,
       "name": "Theme Music From Peppa Pig",
       "url": "https://open.spotify.com/track/2mj9A3L5BCnEPyO96IHwUj"
+    },
+    {
+      "album": {
+        "name": "Theme Music",
+        "url": "https://open.spotify.com/album/12p8HxANa15E7NtC0vXa1a"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38723,
+      "name": "Theme Music From Peppa Pig",
+      "url": "https://open.spotify.com/track/58ySBl2cnyDKKnH4c99n3h"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Rhiannon Giddens
 
-514 songs - 1 day 7 hr 50 min
+515 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,8 @@
 | [Through the Dark](https://open.spotify.com/track/45S2pGg2kr8ezWQZcfHZfr) | [Slaid Cleaves](https://open.spotify.com/artist/1mkuxdmqLdlrtCSwLQ2sUn) | [Through the Dark](https://open.spotify.com/album/7IKwphVoCQ3ULBkEEU4omX) | 3:03 | 2023-01-13 |  |
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb) | [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [To All the Girls I've Loved Before](https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q) | 3:44 | 2021-12-17 | 2022-02-05 |
 | [Tomorrow](https://open.spotify.com/track/0kUtqYfVrzdQ8eTobqaphW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [El Deafo \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7) | 2:43 | 2022-01-07 | 2022-04-02 |
-| [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 |  |
+| [Too Little, Too Late, Too Bad](https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:44 | 2023-08-25 |  |
+| [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 | 2023-09-01 |
 | [Traveling After Dark](https://open.spotify.com/track/7aPgZfsBEFutmKygEEZWTk) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Traveling After Dark](https://open.spotify.com/album/1xDzNoxT7dn9bG3uyjHRUn) | 3:49 | 2021-12-17 | 2022-01-29 |
 | [Trickaroo](https://open.spotify.com/track/4yjzbksh5X1nmKQ18hnVXA) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Trickaroo](https://open.spotify.com/album/2WEgA4UNSA25Gw3O9w3rc0) | 3:19 | 2022-08-19 |  |
 | [Trinity River](https://open.spotify.com/track/1GenEK1iRwheqmtI08QUlI) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV) | 4:29 | 2023-03-10 |  |

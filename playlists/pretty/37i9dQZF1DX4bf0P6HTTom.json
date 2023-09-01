@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 144914,
+  "num_followers": 144970,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzZlNDM2NmM5OGEwMzMyOWI1NDQyM2M3MmNkNGYwZTU2MTYwMjNm",
+  "snapshot_id": "MCxlY2FjMWI2ZDY5Njg0N2FhZmI5YjRmMTMyYTc3NzNkMTU1NDFmNGU0",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-06-01 14:18:36",
       "album": {
-        "name": "Heart Like A Wheel",
-        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
-    },
-    {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 219346,
       "name": "This Ol' Cowboy",
       "url": "https://open.spotify.com/track/0diAR6QUxrDiEBjRZSfweR"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
     },
     {
       "added_at": "2020-08-05 15:52:11",

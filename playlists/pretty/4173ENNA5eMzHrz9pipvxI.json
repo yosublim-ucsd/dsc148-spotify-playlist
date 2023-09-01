@@ -1,13 +1,29 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mike Williams x Tim Hox",
-  "num_followers": 121597,
+  "num_followers": 121629,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "Njg4NCw5N2ZiNjYwOTIxZWFmYjM4OWU3ZGEyNGE4ZDgxMTI3NDdkYTc0ZDRk",
+  "snapshot_id": "NjkxMyw5OTc5YTRiOTIzZmVjYmQ2OGU2MGEzODAzNGNiNTU3NzJlNjk4Zjc2",
   "tracks": [
+    {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
     {
       "added_at": "2023-08-24 22:05:01",
       "album": {
@@ -27,6 +43,30 @@
       "duration_ms": 152380,
       "name": "The Blonde One",
       "url": "https://open.spotify.com/track/3NYKfmHFgGKQrHJ4SV0yLm"
+    },
+    {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
     },
     {
       "added_at": "2023-08-24 22:05:01",
@@ -49,6 +89,30 @@
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
     },
     {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Se Danza (feat. Martina Camargo)",
+        "url": "https://open.spotify.com/album/4GRlSltGp5kjNuPIbePvzT"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Se Danza (feat. Martina Camargo)",
+      "url": "https://open.spotify.com/track/479URHCBuitf5Uiw17sBpG"
+    },
+    {
       "added_at": "2023-08-25 07:02:35",
       "album": {
         "name": "BANG!",
@@ -63,6 +127,22 @@
       "duration_ms": 168775,
       "name": "BANG!",
       "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
+    },
+    {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/76qRnHvqq34XmxACTFjADG"
+      },
+      "artists": [
+        {
+          "name": "jaakob",
+          "url": "https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/5S3QTObTDGDUOdIaVK2BfC"
     },
     {
       "added_at": "2023-08-24 22:05:01",
@@ -81,6 +161,26 @@
       "url": "https://open.spotify.com/track/7MtvmMSXFIjFU1W32qQCp2"
     },
     {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Go Stupid",
+        "url": "https://open.spotify.com/album/0OWesUsZENcbp2rabvV9aD"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Go Stupid",
+      "url": "https://open.spotify.com/track/34vzBrkuAZ0rLnNQyvwHXa"
+    },
+    {
       "added_at": "2023-08-25 07:02:35",
       "album": {
         "name": "Let It Drop",
@@ -97,6 +197,22 @@
       "url": "https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o"
     },
     {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/2LbIETMEAnA4xLorZw7Ajf"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "duration_ms": 201182,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2xm3Rr8oJrr91VdaVkTjmT"
+    },
+    {
       "added_at": "2023-08-25 07:02:35",
       "album": {
         "name": "Techno Sound",
@@ -111,6 +227,38 @@
       "duration_ms": 189960,
       "name": "Techno Sound",
       "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
+    },
+    {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Rock My Body (with INNA & Sash!) [Marnik & VINAI Remix]",
+        "url": "https://open.spotify.com/album/40EUsrnYmVbHkGtvSzaVPc"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 153111,
+      "name": "Rock My Body (with INNA & Sash!) [Marnik & VINAI Remix]",
+      "url": "https://open.spotify.com/track/0RLRAgdyPoS1nhC63zdkMf"
     },
     {
       "added_at": "2023-08-25 07:02:35",
@@ -137,6 +285,26 @@
       "url": "https://open.spotify.com/track/1hgHSImnsILDeuHS2VD4To"
     },
     {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "The Snake (Rework)",
+        "url": "https://open.spotify.com/album/5O8IhUcBwChaIwbiN6Wl7w"
+      },
+      "artists": [
+        {
+          "name": "Antoine Delvig",
+          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
+        },
+        {
+          "name": "Fred Pellichero",
+          "url": "https://open.spotify.com/artist/4DcL9kyPZ3ZGPfB7fNPbrg"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "The Snake (Rework)",
+      "url": "https://open.spotify.com/track/48rKy8DQRdIWzSoPiHxFk6"
+    },
+    {
       "added_at": "2023-08-25 07:02:35",
       "album": {
         "name": "Si Ta Ram (feat. Drish Vee)",
@@ -157,6 +325,26 @@
       "url": "https://open.spotify.com/track/0iL0zDsfAYpU7E7MRTCHFA"
     },
     {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/77BIEWZzIHqD5cFF5IqtZt"
+      },
+      "artists": [
+        {
+          "name": "Mon DJ",
+          "url": "https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U"
+        },
+        {
+          "name": "Groove Amigos",
+          "url": "https://open.spotify.com/artist/4gp4RcDULbCvqLbnKPD2RH"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/0L5tbVNGughYFA4isrwdCV"
+    },
+    {
       "added_at": "2023-08-25 07:02:35",
       "album": {
         "name": "You're Not Alone",
@@ -171,6 +359,30 @@
       "duration_ms": 203225,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/0FNi3IvctBQ8OH08RmsyWU"
+    },
+    {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Power In My Soul (feat. 2STRANGE) [Curol Remix]",
+        "url": "https://open.spotify.com/album/47scaIHpDmBoA2J2kKFbiF"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "2STRANGE",
+          "url": "https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi"
+        },
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "Power In My Soul (feat. 2STRANGE) [Curol Remix]",
+      "url": "https://open.spotify.com/track/4VuUIRinc0dMt3hkXQebSe"
     },
     {
       "added_at": "2023-08-25 07:02:35",
@@ -209,6 +421,26 @@
       "url": "https://open.spotify.com/track/1rPu3XMTv9MzAbo0xt32yS"
     },
     {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/6KcRdBA03TygXfLMw4k9EX"
+      },
+      "artists": [
+        {
+          "name": "Voost",
+          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 150482,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/5cabptnQNzfN9vViFnlSSC"
+    },
+    {
       "added_at": "2023-08-24 22:05:01",
       "album": {
         "name": "Close One More Door",
@@ -243,6 +475,22 @@
       "duration_ms": 155625,
       "name": "Soundboy",
       "url": "https://open.spotify.com/track/5RU33jajJPKSXfqJoZpABf"
+    },
+    {
+      "added_at": "2023-08-31 22:05:00",
+      "album": {
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/3D9SwDHB4MjhFMMZnCIikm"
+      },
+      "artists": [
+        {
+          "name": "Tigerlily",
+          "url": "https://open.spotify.com/artist/48xCatjXaoohtyOHrHTijG"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Disco Baby",
+      "url": "https://open.spotify.com/track/3fIAiG44DasK0wYAznuMlk"
     },
     {
       "added_at": "2023-08-24 22:05:01",
@@ -371,394 +619,6 @@
       "duration_ms": 181209,
       "name": "Deep Space",
       "url": "https://open.spotify.com/track/3XisBBYpK8TmL8ogBPCA8c"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 170668,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6rKg4cUeuUOvWhPOwhQRtX"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Monster (Gabry Ponte 2023 Remix)",
-        "url": "https://open.spotify.com/album/0zF4NhfvnBB3Gh7SNE9Ypb"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Monster (Gabry Ponte 2023 Remix)",
-      "url": "https://open.spotify.com/track/35fXmPRk0mHr7nptM9CTLm"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Turn It Around Baby",
-        "url": "https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Turn It Around Baby",
-      "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
-    },
-    {
-      "added_at": "2023-08-18 07:06:12",
-      "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/5W7bqUc1xKY1RneGRVu423"
-      },
-      "artists": [
-        {
-          "name": "WIN WIN",
-          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
-        },
-        {
-          "name": "FAME Sounds",
-          "url": "https://open.spotify.com/artist/47gZgELu7feCG8NwdhoNF2"
-        },
-        {
-          "name": "Lola K",
-          "url": "https://open.spotify.com/artist/4DgpZkPvuXxPMeo4jJAHl6"
-        }
-      ],
-      "duration_ms": 118125,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/2wNqCDXBv98atZ8KigYCtV"
-    },
-    {
-      "added_at": "2023-08-18 07:06:12",
-      "album": {
-        "name": "Feel Your Lovin'",
-        "url": "https://open.spotify.com/album/6itlnneZqTTW0LWjl9AUlf"
-      },
-      "artists": [
-        {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
-        },
-        {
-          "name": "KAIN",
-          "url": "https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Feel Your Lovin'",
-      "url": "https://open.spotify.com/track/0lwYzmHvA5RVKWYsNnKQ48"
-    },
-    {
-      "added_at": "2023-08-18 07:06:12",
-      "album": {
-        "name": "LET ME SEE YOU JUMP",
-        "url": "https://open.spotify.com/album/4syyYe9UU2SIkUU9xBPzQe"
-      },
-      "artists": [
-        {
-          "name": "ANGELPLAYA",
-          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
-        }
-      ],
-      "duration_ms": 170487,
-      "name": "LET ME SEE YOU JUMP",
-      "url": "https://open.spotify.com/track/0mIPRXpK5izT6QjZ1ZJyVA"
-    },
-    {
-      "added_at": "2023-08-18 07:06:12",
-      "album": {
-        "name": "Body Right",
-        "url": "https://open.spotify.com/album/40Gm07LvHNO7SGaCV0YX4K"
-      },
-      "artists": [
-        {
-          "name": "Jewel Kid",
-          "url": "https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "Body Right",
-      "url": "https://open.spotify.com/track/1D39YLfp0FubEKRw4VhEHS"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Oracle",
-        "url": "https://open.spotify.com/album/4wKyAMtEeYBDl6BeRoAdRR"
-      },
-      "artists": [
-        {
-          "name": "Prophecy",
-          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
-        }
-      ],
-      "duration_ms": 195238,
-      "name": "Oracle",
-      "url": "https://open.spotify.com/track/6LmX1HJkfTJgjqxwK7gJDR"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Crash Into Your Love (feat. David Allen)",
-        "url": "https://open.spotify.com/album/5wynnZGdroYO1Ixfj1KbU3"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Sutorius",
-          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
-        },
-        {
-          "name": "Blackcode",
-          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
-        },
-        {
-          "name": "David Allen",
-          "url": "https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe"
-        }
-      ],
-      "duration_ms": 160045,
-      "name": "Crash Into Your Love (feat. David Allen)",
-      "url": "https://open.spotify.com/track/0gtTupkcF9mVtYa7xdKLGb"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "The Creeps (Brent Anthony x ACT ON Remix)",
-        "url": "https://open.spotify.com/album/6w4Uq9mjTFxVfFA1NXvcad"
-      },
-      "artists": [
-        {
-          "name": "Camille Jones",
-          "url": "https://open.spotify.com/artist/2ikT9iKpjKsyVX9esa3AZC"
-        },
-        {
-          "name": "Brent Anthony",
-          "url": "https://open.spotify.com/artist/7qEqQcJLyMwVbPdj9Canu9"
-        },
-        {
-          "name": "ACT ON",
-          "url": "https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz"
-        }
-      ],
-      "duration_ms": 184251,
-      "name": "The Creeps (Brent Anthony x ACT ON Remix)",
-      "url": "https://open.spotify.com/track/5Uaf1EEtICPX3DfRkr2eMZ"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Fine Day",
-        "url": "https://open.spotify.com/album/1E3ZxLvPj6bJa3aT4ZuxH5"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Fine Day",
-      "url": "https://open.spotify.com/track/3LAAC4YVKoRRqzZ7mIT5Wu"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Under My Body (Sped Up Version)",
-        "url": "https://open.spotify.com/album/370Aus9Y983xmlw8xv8u5P"
-      },
-      "artists": [
-        {
-          "name": "Almero",
-          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
-        },
-        {
-          "name": "Paul Green",
-          "url": "https://open.spotify.com/artist/6p2zBJ9FLbiQQLS0HYdtb3"
-        }
-      ],
-      "duration_ms": 158274,
-      "name": "Under My Body (Sped Up Version)",
-      "url": "https://open.spotify.com/track/0dnf640ai8VBd0WqGfqNWn"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Can Can",
-        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
-      },
-      "artists": [
-        {
-          "name": "NLCK",
-          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        }
-      ],
-      "duration_ms": 128812,
-      "name": "Can Can",
-      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "GANG GANG",
-        "url": "https://open.spotify.com/album/3jlhWL3WyEtQxfSMphuhna"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 147916,
-      "name": "GANG GANG",
-      "url": "https://open.spotify.com/track/7BerPxtzf632guxMa5EMXi"
-    },
-    {
-      "added_at": "2023-08-18 07:06:12",
-      "album": {
-        "name": "Yo Quiero Una Nena",
-        "url": "https://open.spotify.com/album/7M5QnW69gj5cQ1GQ9Sd8FD"
-      },
-      "artists": [
-        {
-          "name": "Daveartt",
-          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Yo Quiero Una Nena",
-      "url": "https://open.spotify.com/track/5p0Lssj1uCyR8qF2fBiWMo"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Rock My Body (with INNA) [Sam Feldt Remix]",
-        "url": "https://open.spotify.com/album/5AD2PA4Cef5qsJZGsyj0xZ"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 169921,
-      "name": "Rock My Body (with INNA) [Sam Feldt Remix]",
-      "url": "https://open.spotify.com/track/7iLximGIlwAFgB5J7KG7pJ"
-    },
-    {
-      "added_at": "2023-08-18 07:06:12",
-      "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/1Heeg31aPculbfXb3zYJXb"
-      },
-      "artists": [
-        {
-          "name": "Sleepwalkrs",
-          "url": "https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193"
-        }
-      ],
-      "duration_ms": 157246,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/2ukg7E6voc4pPK8LlMIPYo"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Tight Condition",
-        "url": "https://open.spotify.com/album/22DpWKeEmjBForRjjxslKk"
-      },
-      "artists": [
-        {
-          "name": "DJ S.K.T",
-          "url": "https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0"
-        },
-        {
-          "name": "DJ YUKI",
-          "url": "https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB"
-        },
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        }
-      ],
-      "duration_ms": 172023,
-      "name": "Tight Condition",
-      "url": "https://open.spotify.com/track/6uuiS252nzuPcsjlbvKqpI"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Can't Believe",
-        "url": "https://open.spotify.com/album/5CL0bU9tUNavnL9rZfrc0Y"
-      },
-      "artists": [
-        {
-          "name": "OTIOT",
-          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "Can't Believe",
-      "url": "https://open.spotify.com/track/6S4yeVDYDvVuGfLtpKHqxV"
-    },
-    {
-      "added_at": "2023-08-17 23:39:01",
-      "album": {
-        "name": "Yo Quiero Una Nena (Jay Ancor Remix)",
-        "url": "https://open.spotify.com/album/43wBSsKxivAnhFBAFtGLNf"
-      },
-      "artists": [
-        {
-          "name": "Daveartt",
-          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
-        },
-        {
-          "name": "Jay Ancor",
-          "url": "https://open.spotify.com/artist/5ibxpJ4mhEDkiAc7vIqznM"
-        }
-      ],
-      "duration_ms": 332903,
-      "name": "Yo Quiero Una Nena (Jay Ancor Remix)",
-      "url": "https://open.spotify.com/track/26pWBacUgk8YW9Y3tMa216"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

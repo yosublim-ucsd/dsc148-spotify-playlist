@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Feat. La China",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Feat. Lali",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 137100,
       "name": "+ SINCERO",
       "url": "https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
     },
     {
       "album": {
@@ -68,7 +86,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 221935,
       "name": "69",
       "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
@@ -280,10 +298,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 146538,
       "name": "bien x vos",
       "url": "https://open.spotify.com/track/2vPtBcclyIpgB4KyjUvkaX"
+    },
+    {
+      "album": {
+        "name": "BONNIE & CLYDE",
+        "url": "https://open.spotify.com/album/7tkGoDNDIO4xvoWUo2sSFN"
+      },
+      "artists": [
+        {
+          "name": "Santy-P",
+          "url": "https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141960,
+      "name": "BONNIE & CLYDE",
+      "url": "https://open.spotify.com/track/7k6ntPMcM6VTJ6YJyexIci"
     },
     {
       "album": {
@@ -592,7 +628,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 118956,
       "name": "Cura' de Espanto",
       "url": "https://open.spotify.com/track/1hzSaPNL2XsYUa3nGfIbjZ"
@@ -679,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Dama",
+        "url": "https://open.spotify.com/album/0Km5dQHnEQTITFHFlcChHB"
+      },
+      "artists": [
+        {
+          "name": "joelle",
+          "url": "https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Dama",
+      "url": "https://open.spotify.com/track/2LRlONnL2PJxCMumJ4dzHZ"
+    },
+    {
+      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -692,7 +746,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176579,
-      "name": "Dance The Night (From Barbie The Album)",
+      "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
@@ -1294,10 +1348,32 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 174196,
       "name": "Incomprendida",
       "url": "https://open.spotify.com/track/4FDCXt9tFCv3T95nrQYwtR"
+    },
+    {
+      "album": {
+        "name": "Inmaduros",
+        "url": "https://open.spotify.com/album/60LIgomrMxTo2n9b5Y3wK8"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160050,
+      "name": "Inmaduros",
+      "url": "https://open.spotify.com/track/3h6S4HxsEDPKrCGnGH2iWb"
     },
     {
       "album": {
@@ -1748,6 +1824,24 @@
       "duration_ms": 178666,
       "name": "ME OYES",
       "url": "https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
     },
     {
       "album": {
@@ -2746,7 +2840,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 170869,
       "name": "Sola",
       "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
@@ -2877,6 +2971,28 @@
     },
     {
       "album": {
+        "name": "TRIP",
+        "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "TRIP",
+      "url": "https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb"
+    },
+    {
+      "album": {
         "name": "Tu Despedida",
         "url": "https://open.spotify.com/album/43Eflx0OkkvFWGvoKAg8rr"
       },
@@ -2888,7 +3004,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 154434,
       "name": "Tu Despedida",
       "url": "https://open.spotify.com/track/3nerNiWerv7awEpTdbrbiq"
@@ -2924,7 +3040,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 167636,
       "name": "Tuya",
       "url": "https://open.spotify.com/track/40EWRKr8ElC61tOm9Um26X"
@@ -3210,6 +3326,24 @@
       "duration_ms": 144491,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "album": {

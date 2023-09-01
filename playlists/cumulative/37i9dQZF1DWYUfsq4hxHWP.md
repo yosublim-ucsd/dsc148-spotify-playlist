@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Dylan Gossett, Artwork: Fanélie Muselier
 
-1,807 songs - 4 day 2 hr 18 min
+1,808 songs - 4 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,6 +820,7 @@
 | [I Wish That I Could Call You](https://open.spotify.com/track/7awUoWPrD5LqYkQJCcl3Q5) | [Maddie Wilson](https://open.spotify.com/artist/10PPtrO31Yu7b1gVJ5RM4W) | [I Wish That I Could Call You](https://open.spotify.com/album/0JmrHbVhfO3zUdyjyedXRD) | 3:13 | 2023-06-28 | 2023-08-31 |
 | [I Wonder](https://open.spotify.com/track/4i64kjHtfa7bn17eBwazrF) | [Brooke MacArthur](https://open.spotify.com/artist/0NM9Ef5oRTYion4xBijRcY) | [I Wonder](https://open.spotify.com/album/6wZaA6rHbsVVu4v3QPCPZU) | 3:28 | 2023-05-24 | 2023-07-27 |
 | [I Wouldn't Mind](https://open.spotify.com/track/2YoWztoNUZyZefyZQIuo6h) | [Timmy McKeever](https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N) | [I Wouldn't Mind](https://open.spotify.com/album/7zgTtMhq93OwSUMqc0P0SW) | 3:33 | 2023-05-03 | 2023-06-22 |
+| [I Wouldn’t Blame You](https://open.spotify.com/track/1wCAPh1rByrFrYKBYOLxgG) | [Kyler Weston](https://open.spotify.com/artist/2xsw2u5MTVk2FKa3knyFe7) | [I Wouldn’t Blame You](https://open.spotify.com/album/6aQTFFRvnWyTRixu5yZwrx) | 3:12 | 2023-08-31 |  |
 | [I'll Bet](https://open.spotify.com/track/4G4LQgAK5zEVkL0Uvud7r3) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [I'll Bet](https://open.spotify.com/album/6esULaFnVCbaHXVXogULM1) | 3:41 | 2021-12-01 | 2022-01-13 |
 | [I'm Drinkin' She's Drivin'](https://open.spotify.com/track/38GeL4oaWQR0YZTpRPDS6c) | [Wyatt McCubbin](https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf) | [I'm Drinkin' She's Drivin'](https://open.spotify.com/album/7i5Xo1smrl7vMx5s6ISF1d) | 3:15 | 2022-01-12 | 2022-02-10 |
 | [I'm Good](https://open.spotify.com/track/1Sk9xv3Cv5z7f0TFl4EUQO) | [Kelsey Bridges](https://open.spotify.com/artist/5AojaUBsu5zFnsrk3lzWwg) | [I'm Good](https://open.spotify.com/album/07nKtzGWsenkcW2AQUfqY3) | 3:00 | 2022-02-02 | 2022-03-17 |

@@ -2,7 +2,7 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Ankur Tewari
+> Hindi hai, Indie hai! Cover\- The Yellow Diary
 
 111 songs - 6 hr 9 min
 

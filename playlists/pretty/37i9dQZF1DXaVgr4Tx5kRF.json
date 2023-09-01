@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 626895,
+  "num_followers": 627104,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTdiYWUwOGExMjU5MjY2ZWYzODY5NjBjYTUxOWZjY2I4YjIxYmNk",
+  "snapshot_id": "MCxlOTRiNjgyMzdiZTBmOTYzNWMwNjE0NzUwNjFlMmFkNThjNDgyZjMz",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
-      },
-      "artists": [
-        {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The La's",
         "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 162160,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Tellin' Stories",
-        "url": "https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv"
-      },
-      "artists": [
-        {
-          "name": "The Charlatans",
-          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
-        }
-      ],
-      "duration_ms": 269773,
-      "name": "One To Another",
-      "url": "https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 199773,
       "name": "Slight Return",
       "url": "https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Tellin' Stories",
+        "url": "https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv"
+      },
+      "artists": [
+        {
+          "name": "The Charlatans",
+          "url": "https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd"
+        }
+      ],
+      "duration_ms": 269773,
+      "name": "One To Another",
+      "url": "https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc"
     },
     {
       "added_at": "2022-05-04 17:11:49",

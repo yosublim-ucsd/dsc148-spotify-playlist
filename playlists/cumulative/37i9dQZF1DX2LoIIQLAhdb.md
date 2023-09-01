@@ -2,7 +2,7 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Tayc
+> Le R&B français, nouvelle ère\. Photo : Franglish
 
 180 songs - 8 hr 47 min
 
@@ -71,7 +71,7 @@
 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 | 2023-07-20 |  |
 | [Hayati](https://open.spotify.com/track/17OnTVsTqTEGdinkMfEhPD) | [C\-lina](https://open.spotify.com/artist/4UkywnuqJOUz6YuvuCEyLm), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Foetus](https://open.spotify.com/album/5vdmZNEqPB9a69Hel2Z8J1) | 2:40 | 2023-03-02 | 2023-04-14 |
 | [Hennessy](https://open.spotify.com/track/1y0U1pZhkayeBRViBcf5zu) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Hennessy](https://open.spotify.com/album/08LXWKg1nMXfio7jtcK0jD) | 2:22 | 2023-04-13 | 2023-06-09 |
-| [Henny](https://open.spotify.com/track/5kFqyOxSzbsXVaqVfXhJ57) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Henny](https://open.spotify.com/album/5uhxqK0SAwJYCulcb9ug9R) | 2:29 | 2023-06-29 |  |
+| [Henny](https://open.spotify.com/track/5kFqyOxSzbsXVaqVfXhJ57) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn), [Samy Lrzo](https://open.spotify.com/artist/2K1JOV2mHYXJh0kpNSwER4) | [Henny](https://open.spotify.com/album/5uhxqK0SAwJYCulcb9ug9R) | 2:29 | 2023-06-29 | 2023-09-01 |
 | [Imagine](https://open.spotify.com/track/16xmMdNJM9xTusbwxpUh2J) | [YG Pablo](https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D) | [Imagine](https://open.spotify.com/album/6HuV64rdMKfeexHPDTabqN) | 2:03 | 2022-12-15 | 2023-01-27 |
 | [Inta habibi](https://open.spotify.com/track/5nspOXY1J4WLcqUJ1q9fwO) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [SOS \(Chapitre 3\)](https://open.spotify.com/album/6oCXtKVOwAtyiAncg4QVWt) | 2:39 | 2023-01-19 | 2023-03-31 |
 | [J'ai cru en toi](https://open.spotify.com/track/4p0dYYUDf1pcG8gaK9YvWK) | [Sirine Jne](https://open.spotify.com/artist/3ZZZzt75IwYr287gQ161CA) | [J'ai cru en toi](https://open.spotify.com/album/5kt9nh7Yf8qYUZ0l68nHGn) | 2:27 | 2023-03-09 | 2023-04-14 |

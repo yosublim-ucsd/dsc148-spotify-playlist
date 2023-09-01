@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-318 songs - 15 hr 47 min
+319 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Flowing Leaves](https://open.spotify.com/track/2dxQ8RJA85bwrG6QFkYaRc) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Flowing Leaves](https://open.spotify.com/album/0Yts01Uu54GMSpIc7YOK68) | 2:59 | 2023-04-06 |  |
 | [For Emmabelle](https://open.spotify.com/track/6f096qqr3TLKBEoWxy8HPg) | [Donato Manna](https://open.spotify.com/artist/7ITvoe7pKuN7DqVBje697p) | [For Emmabelle](https://open.spotify.com/album/2NbjoYfZ6toamz1EPAA4lu) | 3:29 | 2023-04-06 |  |
 | [Forms](https://open.spotify.com/track/6MePLoqcI97WjWyx5Sq2JV) | [Zonara](https://open.spotify.com/artist/66vglaSm3akRPCCPcc86mm) | [Forms](https://open.spotify.com/album/3RxxsAszW6YwW9YdPvWn8z) | 2:40 | 2023-04-06 |  |
-| [Fracture](https://open.spotify.com/track/5IQNIj54PxmBvPVh2fLuEH) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:17 | 2023-04-06 |  |
+| [Fracture](https://open.spotify.com/track/5IQNIj54PxmBvPVh2fLuEH) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:17 | 2023-04-06 | 2023-09-01 |
 | [Further Into Something](https://open.spotify.com/track/21mLKJKteB3RL3t3NUM8Jw) | [Vilhelm Brandt](https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S) | [Nordic Calmness](https://open.spotify.com/album/0fQT7eDWuxAuw7IxcdHsnk) | 2:31 | 2023-04-06 |  |
 | [Gentle Caress](https://open.spotify.com/track/1jdDQ30GtvIFNYzwJnVvzx) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 2:35 | 2023-04-06 |  |
 | [Gentle Stream](https://open.spotify.com/track/6zgklsgTYXw9pVHY2oOG81) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Signals](https://open.spotify.com/album/1CcHLjxqQLFZhybWkpohWQ) | 3:18 | 2023-04-06 |  |
@@ -134,7 +134,7 @@
 | [Grain Of Sand](https://open.spotify.com/track/2WiuZ3Hn1qqvAoX7CUSfnm) | [Sol Aurora](https://open.spotify.com/artist/3gAQNBieKjVM4cpp5W470A) | [Grain Of Sand](https://open.spotify.com/album/0NdprMBVBSlzUK0w83q0l1) | 2:54 | 2023-04-06 |  |
 | [Grounded Mind](https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [In The Stillness](https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK) | 3:04 | 2023-04-06 |  |
 | [Guide](https://open.spotify.com/track/5seZHcpzWoUqYdpniMO4nc) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [Returning](https://open.spotify.com/album/2IURCbVABsXFqFgP9ZFCd8) | 3:23 | 2023-04-06 |  |
-| [Haumea](https://open.spotify.com/track/2LXzGeoY2Cm8SFIaq5v0sJ) | [Sonic Slivers](https://open.spotify.com/artist/4DdKHvFkz6FdVks9TAdttM) | [Haumea](https://open.spotify.com/album/120dlLUe1LZ1j1X1n0Z9kH) | 3:02 | 2023-04-06 |  |
+| [Haumea](https://open.spotify.com/track/2LXzGeoY2Cm8SFIaq5v0sJ) | [Sonic Slivers](https://open.spotify.com/artist/4DdKHvFkz6FdVks9TAdttM) | [Haumea](https://open.spotify.com/album/120dlLUe1LZ1j1X1n0Z9kH) | 3:02 | 2023-04-06 | 2023-09-01 |
 | [Heaven's Shore](https://open.spotify.com/track/1pAmp7cLogyrAnOyxrTdYY) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Mindful Sleep](https://open.spotify.com/album/2kFyWqR5s7lvq8uNYGx6mj) | 3:32 | 2023-04-06 |  |
 | [Heinamaa](https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Heinamaa](https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q) | 2:32 | 2023-04-06 | 2023-07-14 |
 | [Herinneringen](https://open.spotify.com/track/0CMYUXTTTmI6Lwc0opH2XG) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen](https://open.spotify.com/album/23T1MB2c8969U4LJFrvo3B) | 2:52 | 2023-04-06 |  |
@@ -213,7 +213,7 @@
 | [Outra Noite](https://open.spotify.com/track/2mH0B6EKz3XUy1SO77wfe5) | [Fleur Harmon](https://open.spotify.com/artist/3LzyV3YGTAhie6tKAGAdh7) | [Outra Noite](https://open.spotify.com/album/0n4GsYckCir9CAVbcV3ddY) | 3:08 | 2023-04-06 |  |
 | [Passing Pt\. 2](https://open.spotify.com/track/1xI0wUyKvS6X52icQaI3jo) | [Aleisha](https://open.spotify.com/artist/7l6luxZVx54LDIfZLTzYoj) | [Passing](https://open.spotify.com/album/37v6qu611SVpd3YU08ippf) | 2:00 | 2023-04-06 |  |
 | [Peaceful Moment](https://open.spotify.com/track/4wrIugI2EGkMemvV7bEqRp) | [Ambient Euphoria](https://open.spotify.com/artist/2ZtrNChkXKPqFw2TEvvBuN) | [Peaceful Moment](https://open.spotify.com/album/3gL9A9uR0DKYqMeLCsXqsI) | 2:54 | 2023-04-06 | 2023-07-14 |
-| [Peaceful Night](https://open.spotify.com/track/6d87FW26ifnIhdCWr6vmIU) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Night](https://open.spotify.com/album/4IfVbgpBlsArlRQIlfTPby) | 3:53 | 2023-04-06 |  |
+| [Peaceful Night](https://open.spotify.com/track/6d87FW26ifnIhdCWr6vmIU) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Night](https://open.spotify.com/album/4IfVbgpBlsArlRQIlfTPby) | 3:53 | 2023-04-06 | 2023-09-01 |
 | [Perfection](https://open.spotify.com/track/1b6zd9iiSYGSCz5tYW14l6) | [Mundo Suave](https://open.spotify.com/artist/7mpuCc5RJrH5047X6M7Rcd) | [Perfection](https://open.spotify.com/album/25nMYJeMnGslko2C1Id5ps) | 2:54 | 2023-04-06 |  |
 | [Persistence](https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Persistence](https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd) | 2:46 | 2023-04-06 |  |
 | [Phaedra](https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Phaedra](https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp) | 3:16 | 2023-04-06 |  |
@@ -254,7 +254,7 @@
 | [Slumber](https://open.spotify.com/track/6A72j6HPfF8Y52nPK6BXRk) | [Richard Ramsey](https://open.spotify.com/artist/1wrKAWlJXtkD5eVfAa5IJi) | [Slumber](https://open.spotify.com/album/3RhTSEYSGcXwcDMmdx3jnx) | 1:58 | 2023-04-06 | 2023-05-06 |
 | [Soft And Quiet](https://open.spotify.com/track/3wEYRfHvBH8enJnak36lRS) | [Chymeris](https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F) | [Soft And Quiet](https://open.spotify.com/album/41Fz56qqfcIjIpEzjFh58z) | 2:49 | 2023-04-06 |  |
 | [Soft Answers](https://open.spotify.com/track/5cNxtUwvAsml2dxp4zpoVa) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Soft Answers](https://open.spotify.com/album/4n5WkZT1FkBtYkTXtlbEaE) | 3:23 | 2023-04-06 |  |
-| [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2023-04-06 |  |
+| [Soft Meadow](https://open.spotify.com/track/2rMvml0pdO4mZYPDtIc1JQ) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Green Space](https://open.spotify.com/album/7gLMuKgLpebst9bnhZnK8D) | 2:51 | 2023-04-06 | 2023-09-01 |
 | [Softly Drift](https://open.spotify.com/track/2YYvF9y9HlnvDUsqgmmI9a) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Softly Drift](https://open.spotify.com/album/7GpqbUVy8lUymLnjVEtmDL) | 3:18 | 2023-04-06 |  |
 | [Sognando Ancora](https://open.spotify.com/track/0btOwM3TAHRfPPpLGiCUOR) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Sognando Ancora](https://open.spotify.com/album/0Z9nc5fuoBEMdkDvnh6gWe) | 3:34 | 2023-04-06 |  |
 | [Solitude](https://open.spotify.com/track/1sPHdG6zyTuvpX9rWV5rEz) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Solitude](https://open.spotify.com/album/1fj611g3arEQ7KGaQxiHLo) | 2:28 | 2023-04-06 |  |
@@ -270,7 +270,7 @@
 | [Steady](https://open.spotify.com/track/089DXbcfLgJEJyuOyQWEdN) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [Look Ahead](https://open.spotify.com/album/650nklWLMUwYLTG9AVsH34) | 2:52 | 2023-04-06 |  |
 | [Stelliferous](https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Stelliferous](https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE) | 3:27 | 2023-04-06 |  |
 | [Stepping Into A Dream](https://open.spotify.com/track/0bsBttoH3LrYa60QZB201X) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [Stepping Into A Dream](https://open.spotify.com/album/4ocaDhqsCxZJcAxA5zWfFO) | 2:28 | 2023-04-06 |  |
-| [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2023-04-06 |  |
+| [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 | 2023-04-06 | 2023-09-01 |
 | [Suis moi](https://open.spotify.com/track/62RkIz0nURCnDM5qvdWXbh) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Suis moi](https://open.spotify.com/album/514jbDpJuWUoDYvbU9yyqb) | 3:13 | 2023-04-06 |  |
 | [Sunno](https://open.spotify.com/track/3M3lz4VfhjrsvinuUU4ZJ0) | [Julia Phero](https://open.spotify.com/artist/4mQarmylGStPOrvNjf2HHS) | [Sunno](https://open.spotify.com/album/1SqvAHWMwGHTW7iHSM1h6r) | 2:24 | 2023-04-06 |  |
 | [Sunyata](https://open.spotify.com/track/5sL1zebMXrBymyK6STo7n6) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Sunyata](https://open.spotify.com/album/1bXMt1obmoWbDteFpp1DY5) | 4:13 | 2023-04-06 |  |
@@ -281,7 +281,7 @@
 | [Thaka](https://open.spotify.com/track/6pJ0Pp4wUKqtxU1E5Ssf5j) | [Ammachi](https://open.spotify.com/artist/6OsvGWU797S5XC4lF9LNxj) | [Thaka](https://open.spotify.com/album/3szjMZXhGRW2MS4jVZ0ORx) | 3:20 | 2023-04-06 |  |
 | [The Broken](https://open.spotify.com/track/5zYA6XdGJbTF5zJGbLyjL3) | [Juni](https://open.spotify.com/artist/68kbxgcI5HmdfhnfW3vkbv) | [The Broken](https://open.spotify.com/album/18FKM6nTXUBpyKRE5185Fb) | 3:03 | 2023-04-06 |  |
 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 | 2023-04-06 |  |
-| [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 | 2023-04-06 |  |
+| [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 | 2023-04-06 | 2023-09-01 |
 | [The Five Times I Loved You](https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:25 | 2023-04-06 |  |
 | [The Road Back](https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [The Road Back](https://open.spotify.com/album/6yXBd5kQQujRewckYFsupC) | 4:06 | 2023-04-06 |  |
 | [The Sign of Wilderness](https://open.spotify.com/track/1vXutoJkTys1XoWZHymwuM) | [Tenant Rights](https://open.spotify.com/artist/2wOOgtpQkMdDg4QDAXF7pP) | [Glide and Tread](https://open.spotify.com/album/3L9IwhYKaqaTrDX543a8Cw) | 3:39 | 2023-04-06 | 2023-04-22 |
@@ -304,13 +304,14 @@
 | [Unveiled](https://open.spotify.com/track/4INn3PNrEaJ46wiMnjXLq6) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Face Of The Earth](https://open.spotify.com/album/0KgvZMkUou2JzuClwR2iOg) | 2:11 | 2023-04-06 |  |
 | [Utenfor](https://open.spotify.com/track/2l3IjjIko1lYKq9Q1QREyF) | [Kayla Holdt](https://open.spotify.com/artist/2CINcGSpux0n8ZPN8cMeqg) | [Utenfor](https://open.spotify.com/album/2iFk4OLEKbkmUOsLbgzVUI) | 2:52 | 2023-04-06 |  |
 | [Vakna](https://open.spotify.com/track/6GFBrLr4HbsKqra7MSiluq) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Andrum](https://open.spotify.com/album/3DEAYz5dCigP164kUJU53M) | 2:24 | 2023-04-06 |  |
+| [Valour](https://open.spotify.com/track/0CWQ7BSvB1LRY1CGZGQahh) | [Amara Issawi](https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r) | [Valour](https://open.spotify.com/album/39jXvyGezU2tSWgQc6VTao) | 3:03 | 2023-08-31 |  |
 | [Vinsamlegast](https://open.spotify.com/track/1bSIKUAxUGk2pUVctmRLrv) | [Otri Jochumsson](https://open.spotify.com/artist/4x8y3T6YzB4qB3MKPZT0mh) | [Vinsamlegast](https://open.spotify.com/album/6GuDqcR9hJL41ONab2raLE) | 2:21 | 2023-04-06 |  |
 | [Volg mij](https://open.spotify.com/track/5AGw6j8iKs4DbgEsvSqt6c) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Volg mij](https://open.spotify.com/album/1BkTxkapTckd7hkQDHggAC) | 3:27 | 2023-04-06 |  |
 | [Voyager](https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL) | [Beyond The Bubble](https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o) | [Voyager](https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq) | 3:25 | 2023-04-06 | 2023-04-14 |
 | [W.E.](https://open.spotify.com/track/3SDO8hL0wQ3Dxr6NN1CUbH) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [W.E.](https://open.spotify.com/album/3fqMLlZ31uYIz326zw9bdH) | 4:16 | 2023-04-06 |  |
 | [Water](https://open.spotify.com/track/15aAIdzt0xxazdV6abyGBC) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [Water](https://open.spotify.com/album/2iqpzaEFsjiuD4HJzu0nJw) | 2:14 | 2023-04-06 |  |
 | [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2023-04-06 |  |
-| [We Owe It To Them](https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs) | [Ensemble Cordes De La Mer](https://open.spotify.com/artist/7wSfSAUscNKOm4b1PloAXx) | [We Owe It To Them](https://open.spotify.com/album/2UbINpmfWK3ZiVBkbSyPdQ) | 2:54 | 2023-04-06 |  |
+| [We Owe It To Them](https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs) | [Ensemble Cordes De La Mer](https://open.spotify.com/artist/7wSfSAUscNKOm4b1PloAXx) | [We Owe It To Them](https://open.spotify.com/album/2UbINpmfWK3ZiVBkbSyPdQ) | 2:54 | 2023-04-06 | 2023-09-01 |
 | [What Matters Most](https://open.spotify.com/track/3rPFA1lIlvYgmQbblz3sDp) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [What Matters Most](https://open.spotify.com/album/4uKx9Kfx0M03BSYctWm3iJ) | 3:15 | 2023-04-06 |  |
 | [When I am with thee](https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [When I am with thee](https://open.spotify.com/album/2kyX5xQGvjkrJACDbeGH0U) | 2:55 | 2023-04-06 |  |
 | [When I have no other place](https://open.spotify.com/track/0G1GtPca3jZyflKA0V8O5V) | [Tranquility Spa](https://open.spotify.com/artist/4JzdBo6p2AUamkuE06pBRh) | [When I have no other place](https://open.spotify.com/album/6xc33JQjFZNHUnDa0arx1Y) | 2:59 | 2023-04-06 |  |

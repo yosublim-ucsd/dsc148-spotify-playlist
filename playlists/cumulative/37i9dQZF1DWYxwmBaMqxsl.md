@@ -4,7 +4,7 @@
 
 > Sad and gloomy Jazz for a rainy day.
 
-294 songs - 18 hr 38 min
+296 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Time for Love](https://open.spotify.com/track/2PxYJDohsBXaBLByHBITp5) | [Peter Rostov Trio](https://open.spotify.com/artist/6fbkQAxn9Df2sZWwuYQ820) | [A Portrait of Jennie](https://open.spotify.com/album/1UahARgInHkxb4fqm8455I) | 3:48 | 2021-12-14 | 2023-02-24 |
 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 | 2021-12-14 |  |
 | [After Rain](https://open.spotify.com/track/62xixWZZULL8nW0bUJAi8J) | [Morgan Coleman Quintet](https://open.spotify.com/artist/2Ntcz3nIhmiM2R6LWNsjAZ) | [After Rain](https://open.spotify.com/album/3hCG5qX46IuTorWJSBloMI) | 3:40 | 2021-12-14 |  |
+| [Airport Sadness](https://open.spotify.com/track/1GUq0NM1jtFvM092p9mSn6) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Airport Sadness](https://open.spotify.com/album/7MSn5r9bZi8PFkANlVqiRI) | 5:54 | 2023-08-31 |  |
 | [All Good](https://open.spotify.com/track/0NJL3lxVCJKyoiExs8GiTG) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [All Good](https://open.spotify.com/album/5ppmDplZFPBmfAmwFYgwCX) | 3:25 | 2023-08-10 |  |
 | [All My Love](https://open.spotify.com/track/7ncpKFg4IUzVIjnSPTD98y) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [All My Love](https://open.spotify.com/album/31hSeksEGpMamJ3hUKAmJ1) | 3:58 | 2022-09-29 |  |
 | [All Of The Little Things I Know](https://open.spotify.com/track/4Pu5Of7IBi6YWbaWzYiXeO) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All Of The Little Things I Know](https://open.spotify.com/album/2LbaxpobqmYU9CQYwtlkwG) | 4:51 | 2023-08-10 |  |
@@ -258,6 +259,7 @@
 | [The Sorcerer's Cat](https://open.spotify.com/track/35CDNotxOd2mY7PSHrUdEY) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [The Sorcerer's Cat](https://open.spotify.com/album/6w6HIvgpdwCcMtz1wrRw3J) | 4:21 | 2023-08-10 |  |
 | [The Tale of Bon Jean](https://open.spotify.com/track/0pHeCbLYoBAz88XscPh7XG) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [The Tale of Bon Jean](https://open.spotify.com/album/0fmgiGhWJG9srZC7nz8mlu) | 2:40 | 2023-01-26 |  |
 | [The Thrill Is Gone](https://open.spotify.com/track/4VWAJK3nnNvPwiluj3Y1bO) | [Philip & Friends](https://open.spotify.com/artist/0RZuTZ0nzO9iMDvGSv6kyB) | [The Thrill Is Gone](https://open.spotify.com/album/0W3gU4iLbLTAKv0hCcSLwF) | 2:18 | 2021-12-14 | 2022-04-27 |
+| [The Water Maiden](https://open.spotify.com/track/4Gj6COJPLXtgCoWen9kTiq) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [The Water Maiden](https://open.spotify.com/album/2VQ3bxCuOPtuHCzhMr2Ukm) | 3:27 | 2023-08-31 |  |
 | [The Way of the Winds](https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Mindful in Solitude](https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d) | 3:53 | 2023-02-23 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [There Will Never Be Another You](https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns) | 3:40 | 2022-08-10 | 2023-01-13 |
 | [These Empty Streets](https://open.spotify.com/track/65aPk9Q8mmd79kdNF7u4Z4) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [These Empty Streets](https://open.spotify.com/album/2sLHjSapdwQIquH70L6G5Y) | 3:04 | 2021-12-14 | 2022-06-23 |

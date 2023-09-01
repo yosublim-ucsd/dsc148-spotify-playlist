@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-338 songs - 23 hr 25 min
+339 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [BOOM](https://open.spotify.com/track/5VTVnKAbuTKWp35mLsQW4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Cycling Power](https://open.spotify.com/album/3eRT60ZWF364nFh2La1OvC) | 2:59 | 2022-11-10 | 2022-11-13 |
 | [BOOM](https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BOOM](https://open.spotify.com/album/47wyCwrChF50ZTFNOuWx99) | 2:59 | 2022-07-28 |  |
 | [BOOM](https://open.spotify.com/track/7i5sdKCjFIYlD9idhZBijJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BOOM](https://open.spotify.com/album/3oaOx9IE3LX4NC7wyzn3r5) | 2:59 | 2020-10-20\* | 2022-07-29 |
+| [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-08-31 |  |
 | [Break My Fall](https://open.spotify.com/track/21wVZ7EXBAiwyIl9z8sBo2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [Elements of Life](https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is) | 7:12 | 2020-10-20\* | 2022-07-29 |
 | [Break My Fall](https://open.spotify.com/track/6rb8J7Qux4lZ4eNZKaOZeD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [Elements Of Life](https://open.spotify.com/album/3HpyFfB42wlAuhGDiUpxfF) | 7:14 | 2022-07-28 | 2023-04-20 |
 | [Break The House Down](https://open.spotify.com/track/08Rje1UmwGCtEcdqfWTZm8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [I Like It Loud EP](https://open.spotify.com/album/1hZkooBNJOYoXBhbyVwnVf) | 2:24 | 2020-10-20\* | 2022-07-29 |

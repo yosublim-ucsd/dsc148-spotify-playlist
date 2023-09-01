@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,891 likes - 71 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,000 likes - 72 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 65 | [Neural Net](https://open.spotify.com/track/41G3eYZhncCJ4bAGbC5d7Q) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Afterlife LP](https://open.spotify.com/album/73vOuqvQHY2dc1PejsEa69) | 3:25 |
 | 66 | [Slow Waves](https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8) | [Khromi](https://open.spotify.com/artist/3rc9ONB9LXLOFeDSEqqwer) | [Slow Waves](https://open.spotify.com/album/04y570E9mDBEKHOMHvMSx6) | 4:20 |
 | 67 | [Nu Era Dub](https://open.spotify.com/track/6mD3RkOwL0sBjCAD8ky0uu) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Nu Era Dub](https://open.spotify.com/album/41IFclO5dnmbX31dgbpkaG) | 4:46 |
-| 68 | [Subconcious](https://open.spotify.com/track/49tZayx9YX7rAFwOVdwQhw) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 5:37 |
-| 69 | [Night Square](https://open.spotify.com/track/754AtYj0MT09y6q8Zm6INV) | [PHSNWSKY](https://open.spotify.com/artist/2xtQOwJMmnChneko7Rs8vW) | [Night Square EP](https://open.spotify.com/album/5a7eZfiVeUST9INkj5Y8WR) | 3:25 |
-| 70 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 |
-| 71 | [Micro Dose](https://open.spotify.com/track/5WROKHW8ddJMiRpWEux9G3) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/5bGhbn6cbkKg1abkdEYhLa) | 6:33 |
+| 68 | [Nissa](https://open.spotify.com/track/5lLdbKkK57v9L9J6OQF0SN) | [Waloox](https://open.spotify.com/artist/6iomPU1uMjIP2HcUvEVjoi) | [Nissa](https://open.spotify.com/album/52LG5fE7lcPxa5xB26fyHf) | 3:09 |
+| 69 | [Subconcious](https://open.spotify.com/track/49tZayx9YX7rAFwOVdwQhw) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 5:37 |
+| 70 | [Night Square](https://open.spotify.com/track/754AtYj0MT09y6q8Zm6INV) | [PHSNWSKY](https://open.spotify.com/artist/2xtQOwJMmnChneko7Rs8vW) | [Night Square EP](https://open.spotify.com/album/5a7eZfiVeUST9INkj5Y8WR) | 3:25 |
+| 71 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 |
+| 72 | [Micro Dose](https://open.spotify.com/track/5WROKHW8ddJMiRpWEux9G3) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Negative Space](https://open.spotify.com/album/5bGhbn6cbkKg1abkdEYhLa) | 6:33 |
 
-Snapshot ID: `MCxlYTQ3YmNhZWQ5M2MwOGNjZjM1YjkyZWY5YjI1N2MwMDkxYjMyYWQw`
+Snapshot ID: `MCw2NDc5MWI3MTM1MmM1NjFiMzA2N2MzMDA1M2Y2ODI5MWNkNThjOWJm`

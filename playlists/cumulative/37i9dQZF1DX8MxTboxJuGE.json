@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/1cWJUvXYMpNTIp7WD1aap4"
+      },
+      "artists": [
+        {
+          "name": "HELLYEAH",
+          "url": "https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201692,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4nxdJkLKOlsJQ1uQhxKiYk"
+    },
+    {
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/7blkysSNX8xNia9WoECqWk"
       },
@@ -804,7 +822,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 201692,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/7w1MrjeuciJ1cV9cowRSum"

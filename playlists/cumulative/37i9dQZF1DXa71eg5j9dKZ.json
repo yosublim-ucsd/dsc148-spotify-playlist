@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: R\u00f3is\u00edn Murphy",
+  "description": "The home for alternative electronic music. Cover: Barry Can't Swim",
   "name": "Altar",
   "tracks": [
     {
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 147455,
       "name": "Burn Dem Bridges - Nia Archives Edit",
       "url": "https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn"
@@ -2550,7 +2550,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 280208,
       "name": "Chaotic NRG",
       "url": "https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 220754,
       "name": "Circle of Light",
       "url": "https://open.spotify.com/track/6a6ui28fBRRlc0TcdXoIbM"
@@ -4627,6 +4627,32 @@
     },
     {
       "album": {
+        "name": "Fine Lines",
+        "url": "https://open.spotify.com/album/0cFM1QU0I7aQRBoSDWdP85"
+      },
+      "artists": [
+        {
+          "name": "GLXY",
+          "url": "https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT"
+        },
+        {
+          "name": "Sustance",
+          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+        },
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Fine Lines",
+      "url": "https://open.spotify.com/track/6eD6GPEiaMna96ylz395oa"
+    },
+    {
+      "album": {
         "name": "Fiorucci Made Me Hardcore",
         "url": "https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep"
       },
@@ -6532,7 +6558,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 214653,
       "name": "Icy",
       "url": "https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP"
@@ -6756,7 +6782,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 228514,
       "name": "Is U",
       "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
@@ -8781,6 +8807,28 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1j4zEZkzGbGa34peFHFare"
+      },
+      "artists": [
+        {
+          "name": "RUG",
+          "url": "https://open.spotify.com/artist/01QFGC1QsaQBzXOzthLN0g"
+        },
+        {
+          "name": "TSB",
+          "url": "https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169884,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/0sMA84maKqnwS2uuQs7Qdo"
+    },
+    {
+      "album": {
         "name": "Movin' On Over",
         "url": "https://open.spotify.com/album/3QBnEnJdL6ZnDkY6rf5fkE"
       },
@@ -8846,7 +8894,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 214000,
       "name": "Must Be Right",
       "url": "https://open.spotify.com/track/4W3H4P0nAq92uht2krBYTi"
@@ -9754,7 +9802,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 314141,
       "name": "Only If U",
       "url": "https://open.spotify.com/track/3gAGOLayBLPJEMioVXDGiO"
@@ -10542,7 +10590,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
@@ -11138,7 +11186,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 172017,
       "name": "Rush",
       "url": "https://open.spotify.com/track/011Om46G8GRULOn9PRTZ8R"
@@ -11700,7 +11748,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 310855,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/6NzCy1aUFe3VOWRdnbmQN1"
@@ -11812,7 +11860,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 284206,
       "name": "Sinkhole",
       "url": "https://open.spotify.com/track/7wQDLRHNGvu0ATxjrIy9O9"
@@ -12368,7 +12416,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 262853,
       "name": "Spring",
       "url": "https://open.spotify.com/track/1yD1YZMizn5MnINHhN4Hwr"
@@ -12474,6 +12522,24 @@
       "duration_ms": 182270,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "album": {
@@ -14804,7 +14870,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 372840,
       "name": "Will U B There?",
       "url": "https://open.spotify.com/track/3Oqk9DfH1krBlATVWywyQ8"

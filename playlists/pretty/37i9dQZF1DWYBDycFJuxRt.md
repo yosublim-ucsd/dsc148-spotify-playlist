@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: マカロニえんぴつ \*👉 <a href="https://spice.eplus.jp/articles/321611?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,452 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,570 likes - 85 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 84 | [CHIME!!!](https://open.spotify.com/track/2srhNaMYwT7tTIdXjF5bDw) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [CHIME!!!](https://open.spotify.com/album/5hUAMdL6zCHafVaWN4qeuA) | 2:25 |
 | 85 | [Don't Mean Much](https://open.spotify.com/track/0XkIxcb2bSG0FJhZ34YYLV) | [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP), [DinoJr.](https://open.spotify.com/artist/2Tjsjqtiz24545VekPM72J) | [Don't Mean Much](https://open.spotify.com/album/33YH1neSTpHHjDewZ9sGqK) | 3:40 |
 
-Snapshot ID: `MCxmZGY5NzJhMzBiMGU2ZTc2NjY2MDQyMzZmNmRjOTRiZDM2NmE2ZDJj`
+Snapshot ID: `MCwwM2I3MGJhN2M0Y2JiOGI1MWQ1NzVlNzgxMDc2NDIwZjIyN2Y1NzA4`

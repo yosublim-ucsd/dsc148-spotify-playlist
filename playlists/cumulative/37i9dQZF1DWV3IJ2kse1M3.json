@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 298426,
       "name": "\u6211\u4ee5\u70ba",
       "url": "https://open.spotify.com/track/6odiUPjUgSSdqTJEcF9uEs"
@@ -2322,6 +2322,24 @@
       "duration_ms": 266557,
       "name": "\u8eab\u5f8c",
       "url": "https://open.spotify.com/track/5AI9vJ8S0wtuqJNrgH1Oyi"
+    },
+    {
+      "album": {
+        "name": "\u5077\u6545\u4e8b\u7684\u4eba",
+        "url": "https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW"
+      },
+      "artists": [
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266557,
+      "name": "\u8eab\u5f8c",
+      "url": "https://open.spotify.com/track/5niImrS3tokLyQ8uHKswt1"
     },
     {
       "album": {

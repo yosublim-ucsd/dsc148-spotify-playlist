@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 170000,
       "name": "Cube",
       "url": "https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4"
@@ -1472,6 +1472,24 @@
       "duration_ms": 308662,
       "name": "Horn in Deep Night",
       "url": "https://open.spotify.com/track/6rsrcdXlac37j8YozUfHpT"
+    },
+    {
+      "album": {
+        "name": "Crossing the Border",
+        "url": "https://open.spotify.com/album/4p1dDiZNp0L8hmBa8PnCb2"
+      },
+      "artists": [
+        {
+          "name": "Hampus Naeselius",
+          "url": "https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Hostages in Love",
+      "url": "https://open.spotify.com/track/6SeMU5LqTGTWGVNZbfcyyv"
     },
     {
       "album": {

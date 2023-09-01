@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,060 likes - 40 songs - 2 hr 4 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,062 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 | 39 | [Where Did You Go](https://open.spotify.com/track/3XPlFMrSk6pdGX7bkWAenR) | [Larce](https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX) | [Where Did You Go](https://open.spotify.com/album/7eR7UTDYSnHzdm60bvFOpm) | 2:28 |
 | 40 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 |
 
-Snapshot ID: `MTI0OSxiNGZhN2Q1MWMwZDU3ODgyYmVkZmMxMDc2Y2IzZThhYTFlZTNkZTQ3`
+Snapshot ID: `MTI1MSwxMWI4OWE4ZDNiMTczYmYxOGZiY2FhMjhlMjZmYzUwOWU4ZWY0YTEy`

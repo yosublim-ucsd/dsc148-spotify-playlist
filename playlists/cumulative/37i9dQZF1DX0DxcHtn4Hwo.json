@@ -11807,6 +11807,24 @@
     },
     {
       "album": {
+        "name": "We Are Three Musicians",
+        "url": "https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa"
+      },
+      "artists": [
+        {
+          "name": "Anton Bruch",
+          "url": "https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67773,
+      "name": "We Are Three Musicians",
+      "url": "https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1"
+    },
+    {
+      "album": {
         "name": "Weightless Sleep",
         "url": "https://open.spotify.com/album/5yQCAsPHnjxMhaKGKLs8Ax"
       },

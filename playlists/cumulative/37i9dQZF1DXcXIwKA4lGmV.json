@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Peppa's Adventures: The Album",
+        "url": "https://open.spotify.com/album/2CFsI1kUrvUTpif8wBb0EY"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146960,
+      "name": "Recycling",
+      "url": "https://open.spotify.com/track/0UjUZc2b0iwyZ5vDBcFrUa"
+    },
+    {
+      "album": {
         "name": "Recycling",
         "url": "https://open.spotify.com/album/3wcWxPHc9NKV7JIqkDWczI"
       },
@@ -634,7 +652,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 146960,
       "name": "Recycling",
       "url": "https://open.spotify.com/track/3vYOUyYqpwIl958RlCt89w"

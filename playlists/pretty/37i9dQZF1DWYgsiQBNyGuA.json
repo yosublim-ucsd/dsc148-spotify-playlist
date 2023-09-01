@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 63936,
+  "num_followers": 64019,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTFhNTA0MzYyYzljOTcyMjYwMWE2YmJiYzdkOWRkYmUxZmRjYWZl",
+  "snapshot_id": "MCw3OTZiNTBiNDllZDc4MDllNjcyMTUxMDUwOWU2MTdlZjc5MmMwYzMz",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:23",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 195086,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "Queen Alone",
         "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 214573,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
         "name": "Pieces Of Me",
         "url": "https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C"
       },
@@ -571,38 +587,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Cornbread, Fish & Collard Greens",
-      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "Return To The 37th Chamber",
         "url": "https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 127587,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/0QgZ2k778hWtS5W1ohVKNF"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Cornbread, Fish & Collard Greens",
+      "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "Follow the Sunshine",
         "url": "https://open.spotify.com/album/6yoF9geojHAisLNofJYTwg"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 181346,
       "name": "Follow the Sunshine",
       "url": "https://open.spotify.com/track/1gbVT4Och2a9kk3mtpEYQw"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
-      },
-      "artists": [
-        {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
-        }
-      ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "Land of Possibilities",
         "url": "https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 224182,
       "name": "Who Do You Think You Are",
       "url": "https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
-      },
-      "artists": [
-        {
-          "name": "Chico DeBarge",
-          "url": "https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx"
-        }
-      ],
-      "duration_ms": 247560,
-      "name": "Oh No (Man)",
-      "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
-    },
-    {
-      "added_at": "2023-08-15 12:19:23",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
       },
@@ -1263,18 +1247,34 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "The Hope of My Soul",
-        "url": "https://open.spotify.com/album/7ghSniRwAWBJiW6PKfMbC5"
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/0l3NCq2SpDb7JGBS92WRd5"
       },
       "artists": [
         {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+          "name": "Chico DeBarge",
+          "url": "https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx"
         }
       ],
-      "duration_ms": 220161,
-      "name": "Joy In The Battle",
-      "url": "https://open.spotify.com/track/085xF3tCAXlTmaWDczmwmv"
+      "duration_ms": 247560,
+      "name": "Oh No (Man)",
+      "url": "https://open.spotify.com/track/4Sb5YjpeDNMzEMFNfZTZuj"
+    },
+    {
+      "added_at": "2023-08-15 12:19:23",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 175829,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
     },
     {
       "added_at": "2023-08-15 12:19:23",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2023-08-15 12:19:23",
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
+        "name": "The Hope of My Soul",
+        "url": "https://open.spotify.com/album/7ghSniRwAWBJiW6PKfMbC5"
       },
       "artists": [
         {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
         }
       ],
-      "duration_ms": 175829,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
+      "duration_ms": 220161,
+      "name": "Joy In The Battle",
+      "url": "https://open.spotify.com/track/085xF3tCAXlTmaWDczmwmv"
     },
     {
       "added_at": "2023-08-15 12:19:23",

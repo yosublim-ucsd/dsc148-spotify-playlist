@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-179 songs - 11 hr 57 min
+180 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Stave Peak](https://open.spotify.com/track/1Y315hvTFn1VMon294Tn7y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7nBRRZImFPLUrd0XsjzOrX) | 6:40 | 2022-08-05 | 2022-08-19 |
 | [Stave Peak](https://open.spotify.com/track/1zkg1Iy9lFRF5ZQHMEiR9y) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Coast / Range / Arc](https://open.spotify.com/album/7mPWzggbkjqPQM9tDQa64s) | 6:40 | 2022-08-11 |  |
 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 | 2022-12-02 |  |
+| [Suavizar el Dolor](https://open.spotify.com/track/16Tey0pRs8HqVFwAHbWoio) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar el Dolor](https://open.spotify.com/album/4zCajE0HiF7u1sn93Qx5wP) | 2:07 | 2023-09-01 |  |
 | [Sun](https://open.spotify.com/track/3FveIpZMWBnwKSGyOHAEAa) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [Space Station Earth](https://open.spotify.com/album/4Y5aaWrAo2QpEkYhDWZx2B) | 2:17 | 2022-08-05 |  |
 | [Sun, Moon, Stars](https://open.spotify.com/track/73se7XAwwdg3LXE9UIqqXh) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Sun, Moon, Stars](https://open.spotify.com/album/7dNZEitMscif4pihF92VLy) | 3:41 | 2022-08-05 |  |
 | [Sunlight](https://open.spotify.com/track/5BHNGD7hUrdCwlsicEKE5y) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Possible Worlds](https://open.spotify.com/album/0siXjye1POJhBOMSOeNCK7) | 3:12 | 2022-10-14 |  |

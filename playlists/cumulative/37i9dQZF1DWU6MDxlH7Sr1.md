@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-278 songs - 18 hr 6 min
+280 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 |  |
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 | 2022-12-02 |
 | [Danny Boy](https://open.spotify.com/track/1uUhX3CVXQchMVpDdR6oQ1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Mads Vinding](https://open.spotify.com/artist/7rrlGOFMo4ERCTSBsWVxEP), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Standard Collections Vol\. 1](https://open.spotify.com/album/0Z3WWNniSo85Zutv5lelLF) | 7:38 | 2022-04-26 | 2022-11-25 |
-| [Day by Day](https://open.spotify.com/track/3XEbmnM9sO4aAmwzlZoBca) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [I Wish I Knew How](https://open.spotify.com/album/1hTWsiAwmLzazoypEV1B67) | 3:50 | 2022-05-24 |  |
+| [Day by Day](https://open.spotify.com/track/3XEbmnM9sO4aAmwzlZoBca) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [I Wish I Knew How](https://open.spotify.com/album/1hTWsiAwmLzazoypEV1B67) | 3:50 | 2022-05-24 | 2023-09-01 |
 | [Daydreamer](https://open.spotify.com/track/6r5QUqMog0YlOfXFiyxyIt) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Daydreamer](https://open.spotify.com/album/2AJXWV3BUIs2PX6apTUgDo) | 3:39 | 2023-01-26 | 2023-06-16 |
 | [Dear Old Stockholm](https://open.spotify.com/track/1ZrMKSaSBxizjBCYmxf1kg) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:15 | 2022-04-26 |  |
 | [Deed I Do](https://open.spotify.com/track/7KKEgOZ5s7BzVHdkixB1wI) | [Sophia Holmes Band](https://open.spotify.com/artist/3EePJolpEJShAqsbVPPt95) | [Gloria's Step](https://open.spotify.com/album/1djIP5wgiaEERDzq0wA77c) | 3:25 | 2022-04-26 |  |
@@ -174,6 +174,7 @@
 | [My Shining Hour](https://open.spotify.com/track/0IBOhB35u9pJLdNSWFuCpM) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [My Shining Hour](https://open.spotify.com/album/7uqCrcgqBpD40AI8MrAxh1) | 2:23 | 2023-08-10 |  |
 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-12 |  |
 | [Nearness of You](https://open.spotify.com/track/28hv3qok0P0nu4K7OsmDRG) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Anything Goes](https://open.spotify.com/album/412H0mMOHjg3txzEFwBfXM) | 6:42 | 2022-04-26 | 2022-06-15 |
+| [Neither am I](https://open.spotify.com/track/0YPtESitV9bG5IYkW2IUEp) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Neither am I](https://open.spotify.com/album/4VOjaVWr7ggqYvdxliXxhI) | 3:17 | 2023-08-31 |  |
 | [Never Let Me Go](https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Never Let Me Go](https://open.spotify.com/album/19Nia0TNGcaQFU2xI86mwg) | 4:14 | 2022-12-01 |  |
 | [Nice ’n’ Easy](https://open.spotify.com/track/5So17jMxo4gJ19CwZV5Sxt) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:11 | 2022-12-01 |  |
 | [Night Shadow](https://open.spotify.com/track/1wOBMxOxr7HciBRQ798Mlw) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Midnight Shuffle](https://open.spotify.com/album/6tOSBpHbAM2VGQNEj0S0az) | 3:09 | 2023-01-12 |  |
@@ -267,7 +268,7 @@
 | [Under A Bridge and Dreaming](https://open.spotify.com/track/1NVA4xLrwF20auhmMge7Sp) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Under A Bridge and Dreaming](https://open.spotify.com/album/0ak7vmwVnS5VKDUqLYtUWB) | 3:24 | 2022-10-27 | 2023-03-02 |
 | [Walk With Me](https://open.spotify.com/track/5Bta8U48xSE7r91zzuECxq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [A Penny for Your Thoughts](https://open.spotify.com/album/2zHoGZXTMc6bdL5098LVSP) | 3:46 | 2023-04-13 | 2023-08-25 |
 | [Walking into Love](https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Walking into Love](https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2) | 3:17 | 2023-04-13 |  |
-| [Watch What Happens](https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Crossways](https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG) | 2:57 | 2022-06-08 |  |
+| [Watch What Happens](https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Crossways](https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG) | 2:57 | 2022-06-08 | 2023-09-01 |
 | [What A Difference A Day Makes](https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [What A Difference A Day Makes](https://open.spotify.com/album/56B3PMPbWgxrZis5ruTcdm) | 4:06 | 2022-11-10 |  |
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-08-10 |  |
 | [What room you in?](https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [What room you in?](https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE) | 3:17 | 2023-08-10 |  |
@@ -284,6 +285,7 @@
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 |  |
 | [Witness of Love](https://open.spotify.com/track/7zqAzOXMRtmlf0GQBtRDqJ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Witness of Love](https://open.spotify.com/album/0lm16gI9rh80rchWJ7jaDL) | 3:20 | 2022-08-10 |  |
 | [Woodland](https://open.spotify.com/track/4yy4WkYlXtrLifrEv5sXNi) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Woodland](https://open.spotify.com/album/5Lc2q83y4ktr26FlqxjQRm) | 3:12 | 2022-10-27 |  |
+| [Yearning](https://open.spotify.com/track/5VHpA5RrPEGY9NgHhahHnG) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Yearning](https://open.spotify.com/album/7boH53I2zbrw1GoeACrj8c) | 2:59 | 2023-08-31 |  |
 | [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-04-13 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 |  |
 

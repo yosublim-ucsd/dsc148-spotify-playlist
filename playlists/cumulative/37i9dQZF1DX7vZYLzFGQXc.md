@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> Fresh new Korean independent & rising talents are here\. \(Cover: KIM PUREUM \(김푸름\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
+> Fresh new Korean independent & rising talents are here\. \(Cover: YeonJeong \(연정\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,150 songs - 2 day 16 hr 54 min
+1,151 songs - 2 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [a u r o r a ✧ \(feat\. sooon\)](https://open.spotify.com/track/0B5Q4mi41Ht5xYTpIaXpyf) | [sweetch](https://open.spotify.com/artist/3PS40CD9LRfOPNoDMqns9L), [sooon](https://open.spotify.com/artist/3GemDSocaoRcYZeDHBdmHO) | [light \#1](https://open.spotify.com/album/39YKRrb64v8yPpD25dSPra) | 3:28 | 2022-11-07 | 2023-02-09 |
 | [Abilify](https://open.spotify.com/track/5fjD3Ijnjaxeexw6PXD1FK) | [Lips\-Bite](https://open.spotify.com/artist/6oOVSJ1CjIBnMZ4hADpl8h), [Long D](https://open.spotify.com/artist/621cB0IPX1hVgxnB6RqDz0) | [Abilify](https://open.spotify.com/album/6qbyQADqPMPmDbVEgQHZVe) | 3:49 | 2022-06-09 | 2022-07-05 |
 | [About](https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af) | [SoKuen](https://open.spotify.com/artist/2Tgcxy7vxvGdplDC8P93ZG) | [MBTIng \(Original Soundtrack\)](https://open.spotify.com/album/66pnxv8pCPQR9dLQYBVJFY) | 2:42 | 2022-05-11 | 2022-06-19 |
+| [About Time](https://open.spotify.com/track/2lSUPsWT6vOZQGhu70vdzr) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [About Time](https://open.spotify.com/album/6VxFH2xFkDI6cDQJYbKQCv) | 3:34 | 2023-08-31 |  |
 | [About Us \(Feat\. Filipe Santos\)](https://open.spotify.com/track/45E8aSa1AI4Yyd0XClOGpu) | [vvav](https://open.spotify.com/artist/7yphCtMHUx2eL5hHrpQnGx), [Filipe Santos](https://open.spotify.com/artist/6ZiJkBamnBr4DjuJ79thgP) | [About Us](https://open.spotify.com/album/0LhNmfYsvEH53AnyyUVCE4) | 3:16 | 2022-01-10 | 2022-02-05 |
 | [Accompanied](https://open.spotify.com/track/5kdUZJtRTNt9BfLFude62n) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr) | [Accompanied](https://open.spotify.com/album/4ILf6CGydHE3UIBTnpdqfF) | 3:08 | 2023-05-01 | 2023-07-06 |
 | [ACE](https://open.spotify.com/track/7iei7bpocXnXKWAV6ltrpu) | [Paxy](https://open.spotify.com/artist/20aItj15h3ANHCROteCoJR) | [ACE](https://open.spotify.com/album/7xxyovGB2KPLAL0Bx9MrEU) | 2:36 | 2022-03-17 | 2022-04-21 |

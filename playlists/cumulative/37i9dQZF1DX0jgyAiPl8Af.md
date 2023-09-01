@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-658 songs - 1 day 4 hr 24 min
+661 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Amarilla](https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Amarilla](https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk) | 2:27 | 2022-04-22 | 2023-03-25 |
 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 | 2022-05-13 | 2023-02-11 |
 | [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 | 2022-12-16 |  |
+| [Amor Perfeito](https://open.spotify.com/track/5Ayj1cdbFJ6d9MwFeFEREe) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Amor Perfeito](https://open.spotify.com/album/5tbZcyDOEmo4dbpes7LAlO) | 2:20 | 2023-08-31 |  |
 | [Anavilhanas](https://open.spotify.com/track/0OIW12J6IfqyQLZBe2eJ3u) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Anavilhanas](https://open.spotify.com/album/7FDvqlWnyupmAGykA4IoGc) | 2:09 | 2022-10-28 |  |
 | [Aneto](https://open.spotify.com/track/4UV0FMugzIiE8kVB8SqhrT) | [Andrea Sason](https://open.spotify.com/artist/64lOTag6a3vJGmEiW3lAJP) | [Aneto](https://open.spotify.com/album/0KFdc4Sh8UYggKtoDVao0Q) | 2:48 | 2021-12-08 | 2022-05-11 |
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-05-12 |  |
@@ -326,6 +327,7 @@
 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 | 2021-12-22 | 2022-11-18 |
 | [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2022-10-28 | 2023-06-16 |
 | [Layers](https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Layers](https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB) | 2:41 | 2023-03-10 |  |
+| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 |  |
 | [Left Unsaid](https://open.spotify.com/track/70kfWgQvwouRNgxush5oEv) | [Caro Courbet](https://open.spotify.com/artist/52zVeu3wctCuT0MKNL67hx) | [Left Unsaid](https://open.spotify.com/album/5fKMfqNLcSxp2Ec9Y2v5aL) | 2:11 | 2022-12-16 | 2023-03-25 |
 | [Lemon Butterflies](https://open.spotify.com/track/6LD3GreVtXhePn8SmPDUzm) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [Lemon Butterflies](https://open.spotify.com/album/79atPdOAmjxkB3H4bABUt4) | 1:24 | 2022-07-01 | 2022-10-07 |
@@ -545,7 +547,7 @@
 | [Sonora Sunshine](https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Sonora Sunshine](https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT) | 1:51 | 2023-08-24 |  |
 | [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 |  |
 | [Southern Wind](https://open.spotify.com/track/6dFFteAqdSmnJu6Rzb7fWV) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Southern Wind](https://open.spotify.com/album/4KOcDV0VAlSROSWy2NZvza) | 3:20 | 2021-12-08 | 2022-11-18 |
-| [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2022-12-16 |  |
+| [Sov Gott Lilla Du](https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH) | [Anna Wera](https://open.spotify.com/artist/2DBO5ylxfhyMluoQdArytI) | [Sov Gott Lilla Du](https://open.spotify.com/album/394pvy3LQZ6GOWayS8hgD9) | 2:34 | 2022-12-16 | 2023-09-01 |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-06-24 | 2022-11-18 |
 | [Spirited Away](https://open.spotify.com/track/4lE04Ccceo6nUADycSJZ4y) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Spirited Away](https://open.spotify.com/album/0IeQHK1faB5zkb1NbmCa3c) | 2:03 | 2021-12-08 | 2022-05-11 |
 | [Sprezzatura](https://open.spotify.com/track/5I1odJKbJPiYSXucPc7t5k) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Sprezzatura](https://open.spotify.com/album/2p16RcGSwaFsGqBPuWgODo) | 1:41 | 2023-01-06 | 2023-08-19 |
@@ -627,6 +629,7 @@
 | [Vesuvio](https://open.spotify.com/track/06AgHpQ0hUM1BPDgIS4R9P) | [Anila Mirela](https://open.spotify.com/artist/5ZyBxKhm8yMw8HCMWE5u3b) | [Vesuvio](https://open.spotify.com/album/06GlGF6zaU6A0EnnFOF2UB) | 1:51 | 2022-07-01 | 2023-08-19 |
 | [Via Venezia](https://open.spotify.com/track/2kjjHarIUiN5gKqk7RDUum) | [Donatella Monza](https://open.spotify.com/artist/3jP7DTsE4kq5Gi0KRmO045) | [Via Venezia](https://open.spotify.com/album/1jJcIOY6MrChG5g8961SfH) | 2:07 | 2021-12-08 | 2022-09-17 |
 | [Viaggio privato](https://open.spotify.com/track/3wXRDwVyrN8C3xCmwoidua) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Viaggio privato](https://open.spotify.com/album/2GGXn2r1cszqWSkRENLMEq) | 1:59 | 2021-12-08 | 2023-08-19 |
+| [Vigo](https://open.spotify.com/track/3y2a6TQ1cVmjiWu2ux8CBg) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Vigo](https://open.spotify.com/album/3tIQlmIRpCXwGqvxNgw0q3) | 2:19 | 2023-08-31 |  |
 | [Villa Maria](https://open.spotify.com/track/1zL1vpLtexQ4VSz0LQtVgv) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Villa Maria](https://open.spotify.com/album/3mX71krQikyhIvXAr8lLxH) | 3:05 | 2021-12-22 | 2022-11-18 |
 | [Villa Traful](https://open.spotify.com/track/0tL8cNoUgDw6Yr9GKNO6SS) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Villa Traful](https://open.spotify.com/album/2I6UeYFsvJqhwmikAXJCLF) | 3:11 | 2021-12-08 |  |
 | [Vineyard romance](https://open.spotify.com/track/0hrERSWlhyvqO1hb6EvDCS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Vineyard romance](https://open.spotify.com/album/7jXnSO5CjtNIYU6e7g3hfa) | 2:02 | 2023-03-10 |  |

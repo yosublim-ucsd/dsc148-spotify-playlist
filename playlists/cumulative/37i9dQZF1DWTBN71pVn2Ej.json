@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 191323,
       "name": "Dark Sky",
       "url": "https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Everything Blu",
+        "url": "https://open.spotify.com/album/0CWPNy15VAmkYMX8BpnR1R"
+      },
+      "artists": [
+        {
+          "name": "Day Aches",
+          "url": "https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "Everything Blu",
+      "url": "https://open.spotify.com/track/6VHRK7snwupgniSGeORQCt"
+    },
+    {
+      "album": {
         "name": "Everything's Glitter",
         "url": "https://open.spotify.com/album/7jfIaXbIaockYgpQKKubts"
       },
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 186052,
       "name": "Fail You",
       "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
@@ -2360,6 +2378,24 @@
       "duration_ms": 228451,
       "name": "Fall From Grace",
       "url": "https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/14lddxFbU85X0qQCReRlW5"
+      },
+      "artists": [
+        {
+          "name": "Nature Trip",
+          "url": "https://open.spotify.com/artist/6pgJjdomiwN8ryoe9Ukqgg"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222156,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/1SG5OMNLi4WIexCt7UDDj7"
     },
     {
       "album": {
@@ -3281,6 +3317,42 @@
     },
     {
       "album": {
+        "name": "Hypernormalisation",
+        "url": "https://open.spotify.com/album/2Meh2es5kGWqM1CcqgLt3i"
+      },
+      "artists": [
+        {
+          "name": "Crime In Stereo",
+          "url": "https://open.spotify.com/artist/4ijffQAqzpGyaWDXuIZZI7"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207213,
+      "name": "Hypernormalisation",
+      "url": "https://open.spotify.com/track/2J0rZv5OT6Sop5M52ezhwO"
+    },
+    {
+      "album": {
+        "name": "Hypodermic Sunshine",
+        "url": "https://open.spotify.com/album/6Gq2CGxhh8aEojqRgUbBfY"
+      },
+      "artists": [
+        {
+          "name": "Sick Joy",
+          "url": "https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195797,
+      "name": "Hypodermic Sunshine",
+      "url": "https://open.spotify.com/track/6XSEyo3CebbQCnUW5TJqC5"
+    },
+    {
+      "album": {
         "name": "The Warring Twenties",
         "url": "https://open.spotify.com/album/4773GkUhoAhblhtYXxX9Sb"
       },
@@ -3844,7 +3916,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 228245,
       "name": "Leave Me Be",
       "url": "https://open.spotify.com/track/3KaMmABQSuoGCtmpOcRzPh"
@@ -5317,6 +5389,24 @@
     },
     {
       "album": {
+        "name": "Proud Of You",
+        "url": "https://open.spotify.com/album/2b8gPyA3J0k2XqD0QdcNEg"
+      },
+      "artists": [
+        {
+          "name": "Wayside",
+          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236335,
+      "name": "Proud Of You",
+      "url": "https://open.spotify.com/track/0PAyt2UZAFlt8IxUm6bVSS"
+    },
+    {
+      "album": {
         "name": "Pull a Little Closer",
         "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
       },
@@ -5976,7 +6066,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 135682,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/773VTGnDzSNTZaCGfZuX45"

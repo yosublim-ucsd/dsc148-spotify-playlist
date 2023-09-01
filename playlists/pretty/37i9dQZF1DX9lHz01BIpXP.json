@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDEwMjc2MmM4N2RkZWRiNDRhYTllYjg2Y2FlNzc1M2M1ZTJiYzFm",
+  "snapshot_id": "MCxlMDUzMmVkZDIzYmE0OWY1MWUyNDBjOWFjYzc5ZDY1NmMzOWU4NGM1",
   "tracks": [
     {
       "added_at": "2023-08-04 08:38:57",
@@ -49,26 +49,6 @@
       "url": "https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI"
     },
     {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "Blokfluit",
-        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
-      },
-      "artists": [
-        {
-          "name": "Giga",
-          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
-        },
-        {
-          "name": "Die Twaalf",
-          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
-        }
-      ],
-      "duration_ms": 192783,
-      "name": "Blokfluit",
-      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
-    },
-    {
       "added_at": "2023-01-27 11:30:47",
       "album": {
         "name": "Noem My 'n Goen",
@@ -103,6 +83,22 @@
       "duration_ms": 112500,
       "name": "Awe",
       "url": "https://open.spotify.com/track/07pekB0VlTJg0tpb8qvTcH"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "3 Eye",
+        "url": "https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf"
+      },
+      "artists": [
+        {
+          "name": "G.1 J03 71D4",
+          "url": "https://open.spotify.com/artist/2VhbbO8bvfyKQCa1nmKYN6"
+        }
+      ],
+      "duration_ms": 216036,
+      "name": "3 Eye",
+      "url": "https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6"
     },
     {
       "added_at": "2023-05-05 04:30:19",
@@ -155,6 +151,22 @@
       "duration_ms": 205440,
       "name": "Trap In Die Hood",
       "url": "https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "So Laatie Dou",
+        "url": "https://open.spotify.com/album/1V91ZIjl4e6pcEp8C1Fr0T"
+      },
+      "artists": [
+        {
+          "name": "Terror MC",
+          "url": "https://open.spotify.com/artist/1yZbqrCBkdHJ2bewe0HEHG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "So Laatie Dou",
+      "url": "https://open.spotify.com/track/70AYbxLFIm9Y5jhocOiV0Y"
     },
     {
       "added_at": "2023-07-13 21:59:00",
@@ -267,6 +279,26 @@
       "duration_ms": 252395,
       "name": "Sal Alright is",
       "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Blokfluit",
+        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
+        },
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+        }
+      ],
+      "duration_ms": 192783,
+      "name": "Blokfluit",
+      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
     },
     {
       "added_at": "2023-03-10 05:48:09",
@@ -869,30 +901,6 @@
       "url": "https://open.spotify.com/track/29kYp8MB3eq1RQIXLWWQCX"
     },
     {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Innie Boland",
-        "url": "https://open.spotify.com/album/10sJICqQGgC9KQPie2It2w"
-      },
-      "artists": [
-        {
-          "name": "Middelvinger",
-          "url": "https://open.spotify.com/artist/76vCMjsvbkeG5cUXMU1jBG"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        },
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Innie Boland",
-      "url": "https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7"
-    },
-    {
       "added_at": "2022-09-08 21:59:00",
       "album": {
         "name": "Hou Jou Leka",
@@ -907,22 +915,6 @@
       "duration_ms": 263340,
       "name": "Hou Jou Leka",
       "url": "https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK"
-    },
-    {
-      "added_at": "2022-09-08 21:59:00",
-      "album": {
-        "name": "Ek Belowe, Demos (pt. 1)",
-        "url": "https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj"
-      },
-      "artists": [
-        {
-          "name": "Henru",
-          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
-        }
-      ],
-      "duration_ms": 157403,
-      "name": "okay, oraait",
-      "url": "https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t"
     },
     {
       "added_at": "2022-09-08 21:59:00",

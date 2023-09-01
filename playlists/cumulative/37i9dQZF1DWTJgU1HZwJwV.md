@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-396 songs - 16 hr 37 min
+397 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Dusk](https://open.spotify.com/track/6m5rP71LDIKQcISWQsnGfV) | [Adriana Aloysius](https://open.spotify.com/artist/0ZvNe5w7GVkxqnX5fXb6Ox) | [Dusk](https://open.spotify.com/album/61swwudZPO8pCOBzwrk7z0) | 2:00 | 2022-06-17 |  |
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2023-06-23 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-06-17 | 2023-08-25 |
-| [El Columpio](https://open.spotify.com/track/2zDmDCedzfQLKRkxqZiMdf) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Tárrega: el Columpio](https://open.spotify.com/album/4SnKI0t6cBRHuVhtmxJ66v) | 3:00 | 2022-11-18 |  |
+| [El Columpio](https://open.spotify.com/track/2zDmDCedzfQLKRkxqZiMdf) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Tárrega: el Columpio](https://open.spotify.com/album/4SnKI0t6cBRHuVhtmxJ66v) | 3:00 | 2022-11-18 | 2023-09-01 |
 | [El Sueño De La Muñeca](https://open.spotify.com/track/4DLfSsfLAwl5mrqTg745qT) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [El Sueño De La Muñeca](https://open.spotify.com/album/6tfNJGuPKy2jTQFpPhiYZL) | 2:41 | 2022-10-28 | 2023-08-25 |
 | [Elegia](https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Elegia](https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8) | 2:28 | 2022-06-17 |  |
 | [Eminence](https://open.spotify.com/track/1vTdIN54rYOds3Cf1ymCE5) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Eminence](https://open.spotify.com/album/2sm7AYwabkhNkYxx3BkaUV) | 2:45 | 2022-08-05 |  |
@@ -198,6 +198,7 @@
 | [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-03-24 | 2023-06-23 |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 | 2023-06-16 |
 | [Late Lullaby](https://open.spotify.com/track/0QT6t8v1xhNpTS365TTefJ) | [Rhys Lowe](https://open.spotify.com/artist/2SOP55SS8fB8moOlHWLROC) | [Late Lullaby](https://open.spotify.com/album/6nlaNhLk5WlJfW3lPCQcKG) | 1:46 | 2022-12-16 |  |
+| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
 | [Leaving](https://open.spotify.com/track/4zhlwkxU3siDqjyTN9obCq) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Leaving](https://open.spotify.com/album/78Ixx68Z6lBKYHUbhMjRFt) | 3:25 | 2022-06-17 | 2023-02-25 |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-02-24 | 2023-06-23 |
 | [Lilac](https://open.spotify.com/track/2ZllgmJ44JB80Xr1KkI5xK) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Lilac](https://open.spotify.com/album/5P1QxSMeZzIAaxCl3xRtDs) | 3:27 | 2022-11-18 |  |

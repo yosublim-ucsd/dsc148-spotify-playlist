@@ -4,7 +4,7 @@
 
 > Songs all about cleaning up.
 
-40 songs - 1 hr 20 min
+41 songs - 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Pack It Up](https://open.spotify.com/track/5vW3Hf45hQb6x2dkez2G6v) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:59 | 2022-04-08 |  |
 | [Put the Toys Away](https://open.spotify.com/track/2fmkSft6J6RtTdfy31OsYG) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark's Day at School \(Part 1\)](https://open.spotify.com/album/26Q2CWpJelo3TJwSOnl6aE) | 2:14 | 2022-04-08 |  |
 | [Put Them Away](https://open.spotify.com/track/76KL8ox8hfLZiNQ8QW6fNh) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Useful Songs for Little People](https://open.spotify.com/album/44nDe0SKcKPjGCwY7qSJ7G) | 3:02 | 2022-04-08 |  |
-| [Recycling](https://open.spotify.com/track/3vYOUyYqpwIl958RlCt89w) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Recycling](https://open.spotify.com/album/3wcWxPHc9NKV7JIqkDWczI) | 2:26 | 2022-04-08 |  |
+| [Recycling](https://open.spotify.com/track/0UjUZc2b0iwyZ5vDBcFrUa) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Adventures: The Album](https://open.spotify.com/album/2CFsI1kUrvUTpif8wBb0EY) | 2:26 | 2022-04-08 |  |
+| [Recycling](https://open.spotify.com/track/3vYOUyYqpwIl958RlCt89w) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Recycling](https://open.spotify.com/album/3wcWxPHc9NKV7JIqkDWczI) | 2:26 | 2022-04-08 | 2023-09-01 |
 | [The Clean\-Up Song](https://open.spotify.com/track/41ROjX8HcFz3LVLMkIzzQJ) | [Jody Abboud & The New Song Kids Choir](https://open.spotify.com/artist/2VmyOyiSWOcoTzn78iGo6c) | [The Clean\-Up Song](https://open.spotify.com/album/6JzKt88LOjhyqUVnIx5V2S) | 1:30 | 2022-04-08 |  |
 | [This Room Ain't Gonna Clean Itself](https://open.spotify.com/track/06WXjbQoDZJCqPWb63QdGp) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Songs to Sit Criss\-Cross to \(But Dance If You Want\)](https://open.spotify.com/album/5vjCoc8e6lPtnp3VjDgU0t) | 2:04 | 2022-04-08 |  |
 | [Tidy Up](https://open.spotify.com/track/7rTG4TBax6vBcpbjSdAsLK) | [nick cope](https://open.spotify.com/artist/6RR9MIMTusJiW4XvJRjWRa) | [Why Is the Sky Blue?](https://open.spotify.com/album/2dgAAfKWHxHVuLHRB0NT26) | 3:58 | 2022-04-08 |  |

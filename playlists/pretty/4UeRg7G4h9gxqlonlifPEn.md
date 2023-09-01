@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 ### [Turnt Mode – Rap Pregame](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Polo G and more\. \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame \| Cover: Tyla Yaweh
+> Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: Tyla Yaweh
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,399 likes - 140 songs - 6 hr 42 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,390 likes - 140 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 139 | [STAR](https://open.spotify.com/track/1xfFPJdRjgDAaMcDgbXwyh) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION](https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm) | 2:41 |
 | 140 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 |
 
-Snapshot ID: `MzUzNiwwNmRiZDk3MmYzNzBjMTRlY2Q2ZGExMTZkOTAwZjdkMzAzYzYwMzNj`
+Snapshot ID: `MzUzOCw1ZDkxZTRhZmVlZWRlZTFlOWYwZTQyN2ZmNTBjNGJkMGQzMzc1YzM5`

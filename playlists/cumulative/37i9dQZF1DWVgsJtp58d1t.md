@@ -4,7 +4,7 @@
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv?si=2c3HPTljQGyjrwjjWUHF5A">Victoria Monét</a>
 
-2,399 songs - 4 day 23 hr 30 min
+2,400 songs - 4 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2169,7 +2169,8 @@
 | [Tonight](https://open.spotify.com/track/5SBNMriy9hxF4I8iyooBGx) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Tonight](https://open.spotify.com/album/7m0Zgwi0sWjmoYro76oxvj) | 2:48 | 2023-02-17 | 2023-02-25 |
 | [Tony Fontana III](https://open.spotify.com/track/4AaHIZNMciJU34kFU0v90x) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Tony Fontana III](https://open.spotify.com/album/1P1hGKDVh1HloPnyM4XKZ0) | 3:04 | 2022-10-21 | 2022-11-19 |
 | [Too Hot](https://open.spotify.com/track/0r6UbYDhi7MEojd80gXH42) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Too Hot](https://open.spotify.com/album/5hqv7koMqv1vF6oy20Pbe5) | 2:04 | 2022-07-29 | 2022-08-20 |
-| [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 |  |
+| [Too Little, Too Late, Too Bad](https://open.spotify.com/track/2Bo6HLwcrHh7VbTC1CjF55) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:44 | 2023-08-25 |  |
+| [Too Little, Too Late, Too Bad](https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Too Little, Too Late, Too Bad](https://open.spotify.com/album/6eWffbV2dUIfGI1pk0G8mo) | 3:44 | 2023-08-18 | 2023-09-01 |
 | [Too Nice](https://open.spotify.com/track/6TLsYdcjgjiBAFY1Vzhl5w) | [Jabb](https://open.spotify.com/artist/7pqRXXauuwGQqzrvvz0Azl) | [Too Nice](https://open.spotify.com/album/0EWmeppHgwRfPwCDqA2gf1) | 2:10 | 2023-01-13 | 2023-01-28 |
 | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP) | 2:49 | 2022-03-25 | 2022-04-23 |
 | [Top G](https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Top G](https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK) | 3:33 | 2023-05-19 |  |

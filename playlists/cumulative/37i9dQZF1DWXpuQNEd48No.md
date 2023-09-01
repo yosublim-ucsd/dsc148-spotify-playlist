@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Haryana](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Billa Sonipat Ala, Prince Jamba & Irshad Khan
+> Yo Hai Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-104 songs - 5 hr 36 min
+105 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Kon Rok De](https://open.spotify.com/track/2u9IZUXWqFLKmS59SKbSrd) | [Dheeru Khola](https://open.spotify.com/artist/7dNzMGaaHrVkRYLj8MVNCm), [Ashwin Bidlan](https://open.spotify.com/artist/03mZJs3noM0kYWThpAzaod) | [Kon Rok De](https://open.spotify.com/album/6t4feIBghkjI1WncntRLAn) | 4:07 | 2023-04-28 | 2023-05-16 |
 | [Kulfa](https://open.spotify.com/track/4zKDlQCxNiPXzMIobrPbNh) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [Kulfa](https://open.spotify.com/album/7CmYhs6j6VNKTgDGkYQdkq) | 3:06 | 2023-04-28 | 2023-06-11 |
 | [Kurta Pajama](https://open.spotify.com/track/3bGBZ5hsWJU9WfMXeajHw7) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Kurta Pajama](https://open.spotify.com/album/1NAmbgqpAiLinz2r5d1mcQ) | 2:58 | 2023-03-28 | 2023-07-07 |
+| [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-08-31 |  |
 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 | 2023-03-28 | 2023-06-13 |
 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 | 2023-03-28 |  |
 | [Men In Black](https://open.spotify.com/track/4roeUS4FitfHH2TDf2qraX) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb), [Subtrax](https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks) | [Men In Black](https://open.spotify.com/album/5muqfU3Iij0c2PV02gw01O) | 2:00 | 2023-07-11 | 2023-08-03 |
@@ -88,7 +89,7 @@
 | [Rao Sahab](https://open.spotify.com/track/0DcgGCxSsVkjNcjUz8FyrJ) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/5QFr6gLagNVhYnLp48jD0m), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Rao Sahab](https://open.spotify.com/album/2XrTANhCjtrvTuGuQc83Pj) | 2:36 | 2023-07-27 |  |
 | [Rao Sahab Drill](https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4) | [Vkey](https://open.spotify.com/artist/0xTf08e7MLw7TnnCNKXoBv), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Rao Sahab Drill](https://open.spotify.com/album/7rF3h3c0Eyj6xXMCZgQyvf) | 3:31 | 2023-08-30 |  |
 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 | 2023-08-23 |  |
-| [Rapgod](https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Rapgod](https://open.spotify.com/album/4AnkiReAouD2pfq7GtkeE7) | 4:05 | 2023-03-28 |  |
+| [Rapgod](https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Rapgod](https://open.spotify.com/album/4AnkiReAouD2pfq7GtkeE7) | 4:05 | 2023-03-28 | 2023-09-01 |
 | [Rolex](https://open.spotify.com/track/4Ox61ir1wrVz4RWunkCkgL) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk) | [Rolex](https://open.spotify.com/album/7qJ2MwBYs1zEa0UWX9l5bE) | 2:20 | 2023-04-03 | 2023-04-29 |
 | [Ruffian](https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ruffian](https://open.spotify.com/album/3Lx35DFWiKiT8o4jvgTAMP) | 2:50 | 2023-03-28 |  |
 | [Saat Samunder](https://open.spotify.com/track/40PqdL77XGJjupj7ZP5YQ4) | [Khatri](https://open.spotify.com/artist/4FQHBinqrB0cMp6SaS06rB), [Upasna Gahlot](https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Saat Samunder](https://open.spotify.com/album/4mdHqn673uePpSOYKA8423) | 2:46 | 2023-04-03 | 2023-06-06 |

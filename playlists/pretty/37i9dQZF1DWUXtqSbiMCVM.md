@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXtqSbiMCVM.md) - [plain]
 
 > Emerging producer & DJ, <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego</a> releases a Latin & Afro House infused mix that whisks you away to paradise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,440 likes - 13 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446 likes - 13 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXtqSbiMCVM.md) - [plain]
 | 12 | [Damelo \- Mixed](https://open.spotify.com/track/12eiq9b5wlLuH6jltMo5U2) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Damelo \(Mixed\)](https://open.spotify.com/album/7L5Zm8yFzTpvohNmqpke8B) | 3:57 |
 | 13 | [Culto A La Vida \- Mixed](https://open.spotify.com/track/4zqQ7y3enFoh6nuIKps41x) | [Alejandro Molinari](https://open.spotify.com/artist/6MVmGh11Jf6bh8FfwiLblE) | [Culto A La Vida \(Mixed\)](https://open.spotify.com/album/0XAgB7pTt58AAc4LOkmNIy) | 5:23 |
 
-Snapshot ID: `MCwxZDg1ZDg2MDUwYTQ4MTFkZGYyZGQ3MWFmZTdhODAyMWVkNmQwY2Vm`
+Snapshot ID: `MCw2MDEzNWIwY2IxZTVhYTJmNjIyYTNiZTUyYTcxMzkxMDZiOTJiZGM4`

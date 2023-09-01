@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,954 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,983 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 99 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 |
 | 100 | [Dress Code \- Radio Edit](https://open.spotify.com/track/57fQJMdLNaA6excz33WY0N) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Dress Code](https://open.spotify.com/album/6H4df75uGhXNqNn9ufwRW0) | 3:20 |
 
-Snapshot ID: `MCw0NmZkOWJhODFiNDY5MWQ3MTJhNWM3MThiNGEzOWU1OWUzNjcwZGMw`
+Snapshot ID: `MCw0ZjVkOTUzNzc5MGNkNTE5ZDRlNDJhMTY5MGM3MjM1NjcxM2ViMDg1`

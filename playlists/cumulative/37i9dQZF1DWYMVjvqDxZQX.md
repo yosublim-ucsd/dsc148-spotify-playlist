@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5eitAUlYmlha3LLWg7aBn5">Kelly Lee Owens</a>'s favorite tracks\. Updated regularly\. Curated by Kelly Lee Owens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-45 songs - 4 hr 44 min
+46 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Chi Boost](https://open.spotify.com/track/6DmBXRGwA315Y4eePEs8Js) | [Zenker Brothers](https://open.spotify.com/artist/7cf2POBHeZly4brGaVWl2p) | [Mad System](https://open.spotify.com/album/1Yht9aJdiGGcTo06bi1eSA) | 6:07 | 2022-07-29 |  |
 | [Clairvoyant](https://open.spotify.com/track/1UczTFcUVrq2NZmfs6VYJl) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Wetlands](https://open.spotify.com/album/4VBqoSN7AHPojHb0zV5ham) | 7:59 | 2022-07-29 |  |
 | [Cycle](https://open.spotify.com/track/1OhuaMPNLZj0actfALmIf4) | [Human Space Machine](https://open.spotify.com/artist/4RFDfvv92V0kXTftWMUMQb) | [Cycle EP](https://open.spotify.com/album/6Bwph38agkViDAmhT4PFEo) | 7:12 | 2022-07-29 |  |
-| [Dayz](https://open.spotify.com/track/3L6srWcffyNTxepZd3Dpm0) | [No Moon](https://open.spotify.com/artist/0nfZWqBgezQiLDMwWUXaIV) | [No Moon \- 653 Miles](https://open.spotify.com/album/17c9r1yEGj9h5jxqg0jnT4) | 6:18 | 2022-07-29 |  |
+| [Dayz](https://open.spotify.com/track/3L6srWcffyNTxepZd3Dpm0) | [No Moon](https://open.spotify.com/artist/0nfZWqBgezQiLDMwWUXaIV) | [No Moon \- 653 Miles](https://open.spotify.com/album/17c9r1yEGj9h5jxqg0jnT4) | 6:18 | 2022-07-29 | 2023-09-01 |
+| [Dayz](https://open.spotify.com/track/7D13TJL6VBvGQ5IKzZNQqx) | [No Moon](https://open.spotify.com/artist/0nfZWqBgezQiLDMwWUXaIV) | [No Moon \- 653 Miles](https://open.spotify.com/album/6etuVNvGx5eovSvx2oYIqe) | 6:18 | 2022-07-29 |  |
 | [Deep In The Glowing Heart \- Night Version](https://open.spotify.com/track/3XHWFH0geNVT36j4vbiv4m) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Deep In The Glowing Heart \(Night Version\)](https://open.spotify.com/album/4VvBp7mqOnrUhqP3VOLYiJ) | 7:00 | 2022-07-29 |  |
 | [Drain](https://open.spotify.com/track/0cIrmVKxgVffsgdFpOAhOg) | [Malin Genie](https://open.spotify.com/artist/2JOHMPfKqG3Z1C9PVc6pte) | [Eschaton EP](https://open.spotify.com/album/5ur1zW87g8TonrwO7NxsVf) | 6:08 | 2022-07-29 |  |
 | [Drift](https://open.spotify.com/track/0vyWKMMOZuJfGgZqW5xVC0) | [Lost Trax](https://open.spotify.com/artist/6NwvGbJJc03PHrKDf8BHCX) | [Out of Mind](https://open.spotify.com/album/5EDBHYzyl7VNH6h2VnOOWP) | 10:24 | 2022-07-29 |  |

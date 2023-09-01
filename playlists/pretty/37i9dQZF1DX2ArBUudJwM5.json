@@ -1,12 +1,12 @@
 {
   "description": "Estamos listas para un festival \u00fanico \u2022 <a href=\"https://www.ticketek.com.ar/festival-equal/hipodromo-de-palermo\">Compr\u00e1 tu entrada ac\u00e1</a> \n#FestivalEQUAL \u2022 16 de septiembre \u2022 Hip\u00f3dromo de Palermo ",
-  "num_followers": 34842,
+  "num_followers": 34985,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2UwN2JjOGU5ZjUyYjJiZWI2ZTgzMGEwZjI3YjU2ZjVhMmNlNjY4",
+  "snapshot_id": "MCw3M2JmYWE1MTgzZjI0ZDUyMTdiNDFiZDM2YmZhMjUzMGY5MjY4ZTBm",
   "tracks": [
     {
       "added_at": "2023-08-18 16:15:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "Esta podr\u00eda ser la se\u00f1al",
+        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 77890,
+      "name": "Timba",
+      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Mensajes en el Mar",
         "url": "https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "Esta podr\u00eda ser la se\u00f1al",
-        "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 77890,
-      "name": "Timba",
-      "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Lindos Problemas",
-      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Azul Es Donde Siempre Estoy",
         "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Lindos Problemas",
+      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+        "name": "Whos That B!Tch?",
+        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
         }
       ],
-      "duration_ms": 319743,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
+      "duration_ms": 153624,
+      "name": "Whos That B!Tch?",
+      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -719,6 +719,22 @@
       "duration_ms": 203100,
       "name": "Lo Que Dicen De Mi",
       "url": "https://open.spotify.com/track/1Jydy8O36gvY6yXnjql1XD"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -931,26 +947,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "UN MONT\u00d3N",
-        "url": "https://open.spotify.com/album/2JZufH3ls7984cI37E98bH"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Juicy BAE",
-          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "UN MONT\u00d3N",
-      "url": "https://open.spotify.com/track/6I2Mqnx01jGIVN7WtBpQvg"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Canciones de tapa blanca y negra",
         "url": "https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS"
       },
@@ -967,18 +963,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Whos That B!Tch?",
-        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
+        "name": "UN MONT\u00d3N",
+        "url": "https://open.spotify.com/album/2JZufH3ls7984cI37E98bH"
       },
       "artists": [
         {
-          "name": "Soui Uno",
-          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Juicy BAE",
+          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
         }
       ],
-      "duration_ms": 153624,
-      "name": "Whos That B!Tch?",
-      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
+      "duration_ms": 202500,
+      "name": "UN MONT\u00d3N",
+      "url": "https://open.spotify.com/track/6I2Mqnx01jGIVN7WtBpQvg"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "Ni Lo Pensemos",
-        "url": "https://open.spotify.com/album/3LlG3zOCDmuSGii7KdnHZu"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Ni Lo Pensemos",
-      "url": "https://open.spotify.com/track/47WiORtatRcT5lI6EokFXe"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Y Segu\u00ed Cantando: Canciones Censuradas E Ineditas",
         "url": "https://open.spotify.com/album/2r2shJjgCrryoYCQ1GUeNa"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 157066,
       "name": "Como La Cigarra",
       "url": "https://open.spotify.com/track/4gZBUGO3IJMvRilvnOxCaK"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "Ni Lo Pensemos",
+        "url": "https://open.spotify.com/album/3LlG3zOCDmuSGii7KdnHZu"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Ni Lo Pensemos",
+      "url": "https://open.spotify.com/track/47WiORtatRcT5lI6EokFXe"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "SED",
+        "url": "https://open.spotify.com/album/6XmuWH28TweE6KETZfTIIx"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "duration_ms": 174308,
+      "name": "SED",
+      "url": "https://open.spotify.com/track/2bi8IcCqm8CzwVRQ2IKDrC"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Perlas y Diamantes",
         "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
       },
@@ -1391,38 +1407,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "SED",
-        "url": "https://open.spotify.com/album/6XmuWH28TweE6KETZfTIIx"
-      },
-      "artists": [
-        {
-          "name": "Luz Gaggi",
-          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
-        }
-      ],
-      "duration_ms": 174308,
-      "name": "SED",
-      "url": "https://open.spotify.com/track/2bi8IcCqm8CzwVRQ2IKDrC"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "Resisto/Existo",
-        "url": "https://open.spotify.com/album/4NoFgd1F0LhrpRe1Ej2saH"
-      },
-      "artists": [
-        {
-          "name": "Sol Pereyra",
-          "url": "https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A"
-        }
-      ],
-      "duration_ms": 192335,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/6lb3IdGu3LiSCPuMJyHSVV"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "Resisto/Existo",
+        "url": "https://open.spotify.com/album/4NoFgd1F0LhrpRe1Ej2saH"
+      },
+      "artists": [
+        {
+          "name": "Sol Pereyra",
+          "url": "https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A"
+        }
+      ],
+      "duration_ms": 192335,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/6lb3IdGu3LiSCPuMJyHSVV"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
-        "name": "La Bella Indiferencia",
-        "url": "https://open.spotify.com/album/3WE1uVwb9iiErm111qdbiW"
-      },
-      "artists": [
-        {
-          "name": "Mariana Maz\u00fa",
-          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
-        }
-      ],
-      "duration_ms": 137456,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/58hBR8ozTQ7fKaCT1KyMNl"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 249797,
       "name": "Coraz\u00f3n Lic\u00e1ntropo",
       "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
+        "name": "La Bella Indiferencia",
+        "url": "https://open.spotify.com/album/3WE1uVwb9iiErm111qdbiW"
+      },
+      "artists": [
+        {
+          "name": "Mariana Maz\u00fa",
+          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
+        }
+      ],
+      "duration_ms": 137456,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/58hBR8ozTQ7fKaCT1KyMNl"
     },
     {
       "added_at": "2023-08-18 16:15:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-08-18 16:15:00",
       "album": {
+        "name": "Lo Que Tenias Conmigo",
+        "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 232838,
+      "name": "Lo Que Tenias Conmigo",
+      "url": "https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1"
+    },
+    {
+      "added_at": "2023-08-18 16:15:00",
+      "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 208502,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn"
-    },
-    {
-      "added_at": "2023-08-18 16:15:00",
-      "album": {
-        "name": "Lo Que Tenias Conmigo",
-        "url": "https://open.spotify.com/album/70L9zL61EPu6WWtGLabrxr"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 232838,
-      "name": "Lo Que Tenias Conmigo",
-      "url": "https://open.spotify.com/track/5Gxso3frtSCRcmagnnRPM1"
     },
     {
       "added_at": "2023-08-18 16:15:00",

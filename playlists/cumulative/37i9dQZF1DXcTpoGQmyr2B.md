@@ -4,7 +4,7 @@
 
 > Let your stress melt away while you work up a sweat.
 
-248 songs - 13 hr 51 min
+250 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Stay with Me](https://open.spotify.com/track/3JQ71NtViPEp9utyY349ut) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Stay with Me](https://open.spotify.com/album/4tpkRxlOxQaNMPlxczThF1) | 3:10 | 2022-08-29 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2022-06-03 | 2023-06-02 |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 | 2022-03-03 | 2022-07-29 |
+| [Still The One](https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [Still The One](https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC) | 3:31 | 2023-08-31 |  |
 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 | 2023-06-02 |  |
 | [Sure Thing \- Acoustic](https://open.spotify.com/track/0NjllBNctm9XrsGOYF87jS) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Sure Thing \- Acoustic](https://open.spotify.com/album/5Jq4l0j3Bfb88zE0PjGwdD) | 3:01 | 2023-02-17 |  |
 | [Sweet Nothing](https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Sweet Nothing](https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G) | 3:21 | 2022-12-09 |  |
@@ -250,6 +251,7 @@
 | [We Found Love \- Acoustic](https://open.spotify.com/track/4qdLbr82uc46ZDr7pPsbR0) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [We Found Love \- Acoustic](https://open.spotify.com/album/0YuVbTUWFSxAPPQCGAat0u) | 2:37 | 2023-02-17 |  |
 | [What A Wonderful World \(Acoustic\)](https://open.spotify.com/track/5Ysx3C9VySsyDDlW6KilCi) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO), [TRVSTFALL](https://open.spotify.com/artist/5QYpBlaFFA7AZhFYmlxL1g) | [What A Wonderful World \(Acoustic\)](https://open.spotify.com/album/0HPbhzPpUXn2ZGmik4A76D) | 2:19 | 2022-03-03 | 2022-05-07 |
 | [what do you mean?](https://open.spotify.com/track/2ov2JFvZX3vRf2oXYiVs3i) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [what do you mean?](https://open.spotify.com/album/6wqYJ0dhfbVTvuwdHKNNys) | 3:08 | 2023-06-02 |  |
+| [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 | 2023-08-31 |  |
 | [Whatcha Say \- Acoustic](https://open.spotify.com/track/4gq1H2QM58lNLMSeKBfRgW) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Whatcha Say \- Acoustic](https://open.spotify.com/album/3EQAXU3Bz94vwmTtB6VwSR) | 3:07 | 2023-02-17 |  |
 | [Wherever You Will Go](https://open.spotify.com/track/0kQcWJTOfbktGHPEN0Gaa3) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Wherever You Will Go](https://open.spotify.com/album/6XwTT0vu0yqGtN4NVoC7HI) | 3:29 | 2022-05-06 |  |
 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 | 2022-10-14 |  |

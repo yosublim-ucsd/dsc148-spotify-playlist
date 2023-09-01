@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 117902,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/5uUBBxRCra5nkzhMDumebO"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 93374,
       "name": "Dr\u00f6mmen om Vilma",
       "url": "https://open.spotify.com/track/6h6Q68jSkRgV5FmzhcS5n2"
@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Ida's Summer Song",
+        "url": "https://open.spotify.com/album/2cQqp6CbYLtdd7OBTcSR4M"
+      },
+      "artists": [
+        {
+          "name": "Alby Graham",
+          "url": "https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Ida's Summer Song",
+      "url": "https://open.spotify.com/track/3HjJV5CYJTeaYHO6PbxwHT"
+    },
+    {
+      "album": {
         "name": "If You're Happy and You Know It",
         "url": "https://open.spotify.com/album/2SYzk7ikiP4f2hPLtnnafR"
       },
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 96880,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5jb2MPiH6lqe91EbqUa5Zi"
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 134409,
       "name": "Ponnien min",
       "url": "https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8"
@@ -3492,7 +3510,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 113124,
       "name": "Sov P\u00e5 Min Arm - Guitar Version",
       "url": "https://open.spotify.com/track/49INsxQEM7B4lAHbHXSuxD"

@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "CRAZY BEAUTIFUL NIGHT",
+        "url": "https://open.spotify.com/album/67xKEMSjfmnUn628A2FvYQ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "CRAZY BEAUTIFUL NIGHT",
+      "url": "https://open.spotify.com/track/1BvsiUIXqmq0i7Fa8cC3LV"
+    },
+    {
+      "album": {
         "name": "Dancer in the Dark",
         "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
       },
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 172458,
       "name": "True Self",
       "url": "https://open.spotify.com/track/3x0Uu5KT1NkYa07UpgbS6D"
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 186000,
       "name": "\u30a2\u30f3\u30d3\u30b7\u30e3\u30b9",
       "url": "https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR"
@@ -2326,6 +2344,24 @@
       "duration_ms": 89563,
       "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
       "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
+      },
+      "artists": [
+        {
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251400,
+      "name": "\u5bc2\u5bde -sekibaku-",
+      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
     },
     {
       "album": {

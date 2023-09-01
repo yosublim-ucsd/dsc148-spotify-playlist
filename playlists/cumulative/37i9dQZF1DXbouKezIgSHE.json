@@ -841,6 +841,28 @@
     },
     {
       "album": {
+        "name": "Far Gone",
+        "url": "https://open.spotify.com/album/3sAEf2yZVihxGrWi95FcYa"
+      },
+      "artists": [
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Degs",
+          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Far Gone",
+      "url": "https://open.spotify.com/track/3ldDEYQtNU2xqXqMRZiI7Y"
+    },
+    {
+      "album": {
         "name": "Fateful Hour",
         "url": "https://open.spotify.com/album/0jkK70i3xZ2y3qeHBWSQ4T"
       },
@@ -1533,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "LOSING CONTROL",
+        "url": "https://open.spotify.com/album/7nVBV3KH8GQ6y32pEQw3Po"
+      },
+      "artists": [
+        {
+          "name": "SCARFIE",
+          "url": "https://open.spotify.com/artist/2R8zVvvuMcLVeOYwOZ9FoY"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226896,
+      "name": "LOSING CONTROL",
+      "url": "https://open.spotify.com/track/2ttzQl3LGS6KzZzmAfsJO9"
+    },
+    {
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/5DgnHAx4WiRSEXClI0Auso"
       },
@@ -1690,6 +1730,28 @@
       "duration_ms": 245517,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1WmXeORMF1zr2susRy4o3I"
+    },
+    {
+      "album": {
+        "name": "Never B Mine",
+        "url": "https://open.spotify.com/album/090uN4F14IQk0IRqzmnDAg"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Kioto Bug",
+          "url": "https://open.spotify.com/artist/0i99tSK0Uhaagw5Y85epY3"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "Never B Mine",
+      "url": "https://open.spotify.com/track/17NH8SZGxFPpfEEAoeo7eY"
     },
     {
       "album": {

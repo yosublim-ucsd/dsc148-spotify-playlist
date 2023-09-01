@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-194 songs - 8 hr 38 min
+195 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Peekaboo!](https://open.spotify.com/track/5uqJh4Zjn8QTejV3VpjVBT) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween 2021 Songs For Children](https://open.spotify.com/album/6ACIBV4IQWkHZ78SpXFyWU) | 2:03 | 2022-10-11 | 2022-11-13 |
 | [Pokemon Theme](https://open.spotify.com/track/2VPRDWwo9NR9WcAjsLuKBl) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Kids Halloween Movie Themes](https://open.spotify.com/album/1NFW9JfxAZTDtpyB0fEQfN) | 3:18 | 2021-08-30 |  |
 | [Poor Unfortunate Souls \- From "The Little Mermaid" / Soundtrack Version](https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid](https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG) | 4:51 | 2021-08-30 |  |
-| [Pumpkin Party](https://open.spotify.com/track/6fO6QFBBG58vfmBpiFVh0X) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Pumpkin Party](https://open.spotify.com/album/3U2lgta9oCiuOUfOcRNBmS) | 3:00 | 2021-10-12 |  |
+| [Pumpkin Party](https://open.spotify.com/track/5QngzdLq2rAyeSfyOqFs97) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Pumpkin Party](https://open.spotify.com/album/74n24toiPe1cSKO962h10V) | 3:00 | 2022-10-11 |  |
+| [Pumpkin Party](https://open.spotify.com/track/6fO6QFBBG58vfmBpiFVh0X) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Pumpkin Party](https://open.spotify.com/album/3U2lgta9oCiuOUfOcRNBmS) | 3:00 | 2021-10-12 | 2023-09-01 |
 | [Purple People Eater](https://open.spotify.com/track/4qfZboSJ2RvQ1L1f1FmV2q) | [Kids Beat](https://open.spotify.com/artist/1tZqDZy9Alk30gH9hHbBUe) | [10 Best Halloween Songs 4 Kids](https://open.spotify.com/album/7bo6w5NffPhxBu5sSHVSLB) | 2:14 | 2021-08-30 |  |
 | [Purple People Eater](https://open.spotify.com/track/0PZqoFkMT5U9GRY9EvZluF) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids sing the Oldies](https://open.spotify.com/album/710xnvRhQRHXob51s3TqAZ) | 2:10 | 2022-10-11 | 2022-11-13 |
 | [Purple People Eater](https://open.spotify.com/track/6c2GhX5Gip3QamwhqSM3b0) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Halloween for Kids: Party Songs and Sound Effects](https://open.spotify.com/album/25e7mAmvjKtrgM6K3eVxnt) | 2:10 | 2021-08-30 | 2022-07-29 |

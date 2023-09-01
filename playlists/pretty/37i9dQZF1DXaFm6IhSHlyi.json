@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 141979,
+  "num_followers": 141999,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjU3MzVmNjU2ODhhZTU5OTg0YTkzNjYzOTUyNGNjYTc2ZTY3OGIx",
+  "snapshot_id": "MCwwYWRhMDYzNjQ5YjNmNmRkMjk5NTc2ZDRiNTY2Y2ZkZTU3YzFjMWQ5",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
-      },
-      "artists": [
-        {
-          "name": "Julie Anne San Jose",
-          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Your Song (My One and Only You)",
-      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 231870,
       "name": "But it's Destiny",
       "url": "https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
+      },
+      "artists": [
+        {
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Your Song (My One and Only You)",
+      "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "tere bina (Acoustic)",
-        "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
-      },
-      "artists": [
-        {
-          "name": "Zaeden",
-          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "tere bina - Acoustic",
-      "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 162726,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "tere bina (Acoustic)",
+        "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "tere bina - Acoustic",
+      "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Our Version Of Events (Special Edition)",
-        "url": "https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 283706,
-      "name": "Read All About It, Pt. III",
-      "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 169748,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4oqf6MtycHSGQ1g1q6XFwc"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Our Version Of Events (Special Edition)",
+        "url": "https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Read All About It, Pt. III",
+      "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sajni",
         "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 298000,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2139,6 +2139,38 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
+      },
+      "artists": [
+        {
+          "name": "Bigman",
+          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
+        }
+      ],
+      "duration_ms": 218501,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ang Kwento Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+      },
+      "artists": [
+        {
+          "name": "Steph",
+          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+        }
+      ],
+      "duration_ms": 272288,
+      "name": "Ang Kwento Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
         "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
       },
@@ -2159,22 +2191,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
-      },
-      "artists": [
-        {
-          "name": "Bigman",
-          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
-        }
-      ],
-      "duration_ms": 218501,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sushi Season (The First)",
         "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 243504,
       "name": "Pindirai",
       "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
-      },
-      "artists": [
-        {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2227,18 +2227,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ang Kwento Ng Pag-Ibig",
-        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
       },
       "artists": [
         {
-          "name": "Steph",
-          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
         }
       ],
-      "duration_ms": 272288,
-      "name": "Ang Kwento Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Cardamom Tea",
-        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
-      },
-      "artists": [
-        {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Cardamom Tea",
-      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Bla Bik",
         "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 175384,
       "name": "Bla Bik",
       "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Cardamom Tea",
+        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Cardamom Tea",
+      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
     },
     {
       "added_at": "2022-10-17 15:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Burna Boy",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Aya Nakamura",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -3244,7 +3244,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 206720,
       "name": "D\u00e9lire (feat. Tiakola)",
       "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
@@ -4719,6 +4719,28 @@
     },
     {
       "album": {
+        "name": "Jusqu'\u00e0 demain",
+        "url": "https://open.spotify.com/album/4ntHZfs7UQ8b2rqeCcYmA7"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157398,
+      "name": "Jusqu'\u00e0 demain",
+      "url": "https://open.spotify.com/track/5inaMIqw4pp7PtJELvraCj"
+    },
+    {
+      "album": {
         "name": "Kel bail",
         "url": "https://open.spotify.com/album/6fYcge4ihB6KfdvAGCFQyE"
       },
@@ -4976,6 +4998,24 @@
       "duration_ms": 246750,
       "name": "Laisser tomber",
       "url": "https://open.spotify.com/track/1pYLvcfZwOiRLBlLlSSl4S"
+    },
+    {
+      "album": {
+        "name": "Lanke",
+        "url": "https://open.spotify.com/album/6Di2j6dmIeMGuJDAd2m4ix"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152913,
+      "name": "Lanke",
+      "url": "https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy"
     },
     {
       "album": {
@@ -5578,7 +5618,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 204880,
       "name": "Masculine (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
@@ -5822,7 +5862,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
@@ -6884,7 +6924,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 142363,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
@@ -7161,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/2ler9sKkfETzVwEsUDJohW"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182124,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4rc2sb1NPhQjrL5e4KAtWn"
+    },
+    {
+      "album": {
         "name": "Posa na bina",
         "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
       },
@@ -7172,7 +7230,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 156500,
       "name": "Posa na bina",
       "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
@@ -8391,6 +8449,28 @@
     },
     {
       "album": {
+        "name": "T'malade (feat. Didi B)",
+        "url": "https://open.spotify.com/album/3kBNaqaE4dc6HJ6s0hOCzw"
+      },
+      "artists": [
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147253,
+      "name": "T'malade (feat. Didi B)",
+      "url": "https://open.spotify.com/track/0nFQCrF06b4s2NJ5gFHnkR"
+    },
+    {
+      "album": {
         "name": "Bayanni",
         "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
       },
@@ -8728,6 +8808,24 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172394,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
     },
     {
       "album": {
@@ -9114,7 +9212,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 181016,
       "name": "Viens b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/5T4YWAQoY0F3aX6LscU2uL"

@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 212000,
       "name": "Boys Like Me",
       "url": "https://open.spotify.com/track/7jKu9iarHPlZMCs4h2ruRp"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 177426,
       "name": "Broken",
       "url": "https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk"
@@ -1286,6 +1286,24 @@
       "duration_ms": 193250,
       "name": "City Girls In The Country",
       "url": "https://open.spotify.com/track/4R59AUuHpRuhI6A1CT6nzt"
+    },
+    {
+      "album": {
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194604,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
     },
     {
       "album": {
@@ -4589,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "Never Give Up On A Good Time",
+        "url": "https://open.spotify.com/album/7n8ypK3KRGbAVtH2NcXZBA"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Never Give Up On A Good Time",
+      "url": "https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA"
+    },
+    {
+      "album": {
         "name": "Never Wanted To Be That Girl",
         "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
       },
@@ -4752,6 +4788,24 @@
       "duration_ms": 193851,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N"
+    },
+    {
+      "album": {
+        "name": "Nothin' To Lose",
+        "url": "https://open.spotify.com/album/1qpy06v2ONW7lM0bC0wOfA"
+      },
+      "artists": [
+        {
+          "name": "Zac & George",
+          "url": "https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202786,
+      "name": "Nothin' To Lose",
+      "url": "https://open.spotify.com/track/2KFQn8jIxqqoKJrxJrxKiB"
     },
     {
       "album": {
@@ -4950,7 +5004,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 216293,
       "name": "One Song Brings You Back",
       "url": "https://open.spotify.com/track/3e6zezdTqFa2oAIxbGFOyS"

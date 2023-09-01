@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: V\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: BIBI\)
 
-616 songs - 1 day 9 hr 8 min
+618 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Chrome Hearts](https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:05 | 2022-11-03 | 2022-11-23 |
 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 | 2022-07-27 | 2023-04-02 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-10 | 2023-01-24 |
+| [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3gt8XdxuOccNIY5b2UpM1l) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission\(Sub\-leader\)](https://open.spotify.com/album/5sTeyWloN8oEUtvbV0VDNY) | 2:45 | 2023-08-31 |  |
 | [Close to the end](https://open.spotify.com/track/534of4xXNHXK9DOk0BRIK9) | [The Paradice](https://open.spotify.com/artist/0gsf1rw2Mtxc2DORnT2FQ1) | [Close to the end](https://open.spotify.com/album/0HpwI0wcsHlnGlFED3hkNG) | 3:30 | 2022-04-19 | 2022-04-21 |
 | [Close to You \(feat\. sunwoojunga\)](https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [oceanfromtheblue](https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg) | 2:55 | 2023-02-02 | 2023-02-16 |
 | [Cocktail \(feat\. SAGE, RYUKIE\)](https://open.spotify.com/track/3lz3CsUEIafW2V4VNsjCue) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [RYUKIE](https://open.spotify.com/artist/0FLz2wSeTue5lYUnLtTrj6), [SAGE](https://open.spotify.com/artist/24whPzcv8YXI53WrKoodIC) | [SEOULVIBES, FOREST](https://open.spotify.com/album/2LnlkVC3FgHqsNRZNJJ2Ym) | 3:02 | 2022-08-30 | 2022-09-04 |
@@ -253,6 +254,7 @@
 | [homesickness \(Prod\. by 0channel\)](https://open.spotify.com/track/7yVOJJfPykCO7iptggGfIc) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [ordinary.](https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k) | 4:12 | 2022-04-19 | 2022-04-21 |
 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 | 2022-07-27 | 2022-08-03 |
 | [Honeymoon](https://open.spotify.com/track/2ZPQAI9Co4ob1x5TS8kkiL) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Honeymoon](https://open.spotify.com/album/4q1e0pt969Sd4PaINKE0Tb) | 3:02 | 2023-07-25 | 2023-08-01 |
+| [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 | 2023-08-31 |  |
 | [hope you think about me](https://open.spotify.com/track/4KB7DY6xfrm9OSPA6ip4Vk) | [BLG](https://open.spotify.com/artist/0QobqfPu7petXiJQbQF3dB) | [hope you think about me](https://open.spotify.com/album/2tWn3EoabVDMVkCdBPQEJx) | 3:13 | 2022-04-19 | 2022-04-21 |
 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 | 2023-08-09 |  |
 | [How About You?](https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [How About You?](https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87) | 3:18 | 2022-04-22 | 2022-07-04 |
@@ -326,7 +328,7 @@
 | [Love Again](https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 2:59 | 2022-12-09 | 2022-12-16 |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-06-29 |  |
 | [Love Eventually](https://open.spotify.com/track/15CJ0oqfcOeF0ySnqpW05E) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Love Eventually](https://open.spotify.com/album/3I3z1EN6WoUO8TT2fJrdmg) | 3:37 | 2023-07-07 | 2023-07-15 |
-| [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 | 2023-02-13 |  |
+| [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 | 2023-02-13 | 2023-09-01 |
 | [Love Like That](https://open.spotify.com/track/3sR1RNcVEDJKUfS8rX20Lx) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/2Hj1CHpYxGpj4by92fu9iz) | 3:34 | 2022-04-22 | 2022-05-01 |
 | [Love Me A Little](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [THE UNSEEN](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) | 3:19 | 2023-07-26 |  |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
@@ -506,7 +508,7 @@
 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 | 2022-08-02 | 2023-07-04 |
 | [Stay \(Feat\. PARKJIWOO\)](https://open.spotify.com/track/7LVCquuW0xkMqeUi0B8tAz) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:52 | 2022-12-05 | 2022-12-16 |
 | [stay home](https://open.spotify.com/track/6bLwL9kTb0CyfI9cCXJ709) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [home doesn't feel like home](https://open.spotify.com/album/6GRm8QuUULXwczhB4KwLZB) | 3:14 | 2022-09-05 | 2022-09-07 |
-| [Steamy Hot](https://open.spotify.com/track/3iwE8IlOItglLGakMnQCIe) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [Steamy Hot](https://open.spotify.com/album/5ZamHxns7piRpqPUVjbQba) | 2:40 | 2023-08-21 |  |
+| [Steamy Hot](https://open.spotify.com/track/3iwE8IlOItglLGakMnQCIe) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [Steamy Hot](https://open.spotify.com/album/5ZamHxns7piRpqPUVjbQba) | 2:40 | 2023-08-21 | 2023-09-01 |
 | [Step!](https://open.spotify.com/track/6UqGjOs7CS991n848bipBC) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Step!](https://open.spotify.com/album/6m60vpr7y4UA8NmTow50GJ) | 3:17 | 2022-07-24 | 2022-07-28 |
 | [still beautiful](https://open.spotify.com/track/5MsPHSEHfSZnxgaJDnEdI6) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [still beautiful](https://open.spotify.com/album/6R1xUiVm1iCwZP2TQtimIn) | 3:45 | 2022-09-08 | 2022-09-18 |
 | [still beautiful](https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:45 | 2022-09-16 | 2022-09-21 |

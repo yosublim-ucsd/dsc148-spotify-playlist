@@ -4,7 +4,7 @@
 
 > tunes for walking, driving, running, flying, etc
 
-266 songs - 14 hr 37 min
+267 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ah Uh Oh](https://open.spotify.com/track/18Tak6ShCoGoxZhBgn2IoY) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Mixtape](https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg) | 1:31 | 2023-08-09 | 2023-08-27 |
 | [All Hallows Grieve](https://open.spotify.com/track/4tt0CNzQuMHcdKyF2RCPZY) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [All Hallows Grieve](https://open.spotify.com/album/7Bq7CAwEJ1BxTcMAEvypFm) | 3:51 | 2021-08-05 | 2022-07-29 |
 | [All My Time Is Wasted](https://open.spotify.com/track/22nUVnTCm4FlOpVgaTc9sC) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [All My Time Is Wasted](https://open.spotify.com/album/3RVFlen5Oj1NdRjW1ELxOM) | 3:20 | 2023-08-09 | 2023-08-21 |
-| [Aloha](https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 4:10 | 2023-08-09 |  |
+| [Aloha](https://open.spotify.com/track/7H3ZtXgz7Ay2elkVDAOXXU) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 4:10 | 2023-08-09 | 2023-09-01 |
 | [Altopalo](https://open.spotify.com/track/2WemKADv3m0xhqVPabjvI4) | [altopalo](https://open.spotify.com/artist/7uK0DQd6ovJfq8IjDy64fE) | [frenemy](https://open.spotify.com/album/1d8K2IIaH1MqIoAmHwfWGU) | 3:06 | 2023-08-09 |  |
 | [Amnesia](https://open.spotify.com/track/5UBCzEjj6I6nQt6nKzbpcw) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Amnesia](https://open.spotify.com/album/6RIvXxoFJ3qgQSJolPobav) | 3:17 | 2021-08-05 | 2022-07-22 |
 | [Andromeda \(feat\. DRAM\) \- Purple Disco Machine Remix](https://open.spotify.com/track/2LczIiNTOfbD4yxohajgjB) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Andromeda \(feat\. D.R.A.M.\) \[Purple Disco Machine Remix\]](https://open.spotify.com/album/106oSRdZYwswMFOAPwROxf) | 6:03 | 2022-07-25 |  |
@@ -270,6 +270,7 @@
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2021-08-05 | 2022-10-13 |
 | [Wishin](https://open.spotify.com/track/5XNBDxPwI44BnYCY2QDisQ) | [Vinny Masino](https://open.spotify.com/artist/49wfJDFAZGLI1zIW6RSQWL) | [Wishin](https://open.spotify.com/album/36bWBFGvhXRHPvOEveyQ0m) | 2:08 | 2022-07-15 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 | 2023-08-09 |  |
+| [WONDER](https://open.spotify.com/track/4JhDtr4ygpM2EsNJCepEna) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:52 | 2023-08-09 |  |
 | [Yesteryear](https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl) | 3:39 | 2021-08-05 |  |
 | [You and Me](https://open.spotify.com/track/3hv0c9crZAmWBqGxhDkuYF) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [You and Me](https://open.spotify.com/album/01OtjntAAs5CH0j9De639T) | 3:19 | 2023-08-09 |  |
 | [‎rubber ‎checks](https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/48LwULIsLq3P716zccF09g) | 1:58 | 2022-05-03 | 2022-10-13 |

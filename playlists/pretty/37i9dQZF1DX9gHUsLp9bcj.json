@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 24135,
+  "num_followers": 24178,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDc5NGNlMGI4NjQxOTBhNDMwZjI3MGRkYmI3MTVkZTI2MTg5MGQx",
+  "snapshot_id": "MCw3MjY4MzY1NDE5YmRkZWE5Y2JmZGRkMDE1ODYwNjkyMjlkNjU0MjA3",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Las Canciones de Luis Mariano",
-        "url": "https://open.spotify.com/album/1bdNIETtvmNfOHGw08CMKR"
-      },
-      "artists": [
-        {
-          "name": "Luis Mariano",
-          "url": "https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Violetas Imperiales",
-      "url": "https://open.spotify.com/track/1U9XfOxsCfuPk3J1Xak9QQ"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 212160,
       "name": "Ruega por Nosotros",
       "url": "https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Las Canciones de Luis Mariano",
+        "url": "https://open.spotify.com/album/1bdNIETtvmNfOHGw08CMKR"
+      },
+      "artists": [
+        {
+          "name": "Luis Mariano",
+          "url": "https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "Violetas Imperiales",
+      "url": "https://open.spotify.com/track/1U9XfOxsCfuPk3J1Xak9QQ"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Presentando a Ana Mar\u00eda Gonz\u00e1lez",
-        "url": "https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw"
-      },
-      "artists": [
-        {
-          "name": "Ana Mar\u00eda Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
-        }
-      ],
-      "duration_ms": 141640,
-      "name": "Espinita",
-      "url": "https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
         "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Canciones del Corazon",
-        "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
+        "name": "Presentando a Ana Mar\u00eda Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Ana Mar\u00eda Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU"
         }
       ],
-      "duration_ms": 173792,
-      "name": "Perf\u00eddia",
-      "url": "https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0"
+      "duration_ms": 141640,
+      "name": "Espinita",
+      "url": "https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -711,6 +695,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "Canciones del Corazon",
+        "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 173792,
+      "name": "Perf\u00eddia",
+      "url": "https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "The Best Of Perez Prado: The Original Mambo #5",
         "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Los Grandes Idolos: Teen Tops",
-        "url": "https://open.spotify.com/album/7xGhNr451u4c8GXzZau85m"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 176927,
-      "name": "Lucila",
-      "url": "https://open.spotify.com/track/1OiKlPrbgZdDEDt0QPHAjB"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Antonio Machin, Vol. 3 (1947-1950 Remastered)",
         "url": "https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 187129,
       "name": "Somos (Bolero) - Remastered",
       "url": "https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "Los Grandes Idolos: Teen Tops",
+        "url": "https://open.spotify.com/album/7xGhNr451u4c8GXzZau85m"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 176927,
+      "name": "Lucila",
+      "url": "https://open.spotify.com/track/1OiKlPrbgZdDEDt0QPHAjB"
     },
     {
       "added_at": "2023-02-17 20:56:35",

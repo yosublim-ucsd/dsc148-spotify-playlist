@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 444447,
       "name": "Deep In Dub (Zzzzra Minimal Techno Mix)",
       "url": "https://open.spotify.com/track/0pfmRTCjCfZKn53A5HUPVc"
@@ -284,6 +284,24 @@
       "duration_ms": 444473,
       "name": "Deep In Dub - Zzzzra Minimal Techno",
       "url": "https://open.spotify.com/track/03fF86uquiqMjstKl0oxeE"
+    },
+    {
+      "album": {
+        "name": "Deep Delights",
+        "url": "https://open.spotify.com/album/5njQGkcibxVhklPjb4SPnG"
+      },
+      "artists": [
+        {
+          "name": "Dubacid",
+          "url": "https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444465,
+      "name": "Deep In Dub - Zzzzra Minimal Techno Mix",
+      "url": "https://open.spotify.com/track/0Zv9A88noVVdqvnYLxgaGD"
     },
     {
       "album": {
@@ -624,6 +642,24 @@
       "duration_ms": 324000,
       "name": "Mind in Motion",
       "url": "https://open.spotify.com/track/6sjXcGBcXcs5qoroNsRnaR"
+    },
+    {
+      "album": {
+        "name": "Mode",
+        "url": "https://open.spotify.com/album/7b0QZnWhLLa20wscn5gGIc"
+      },
+      "artists": [
+        {
+          "name": "Zoye",
+          "url": "https://open.spotify.com/artist/66YUxzUWrBn5EExqg4c0Tj"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190327,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/0q0S5pVGXPGBFzOxOf4rGc"
     },
     {
       "album": {

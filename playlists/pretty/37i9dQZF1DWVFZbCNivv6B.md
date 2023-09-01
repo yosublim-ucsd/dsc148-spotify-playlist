@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Lefty Sm, Santa Fe Klan, Dharius, C\-Kan, MC Davo, y Neto Peña en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,134 likes - 106 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,518 likes - 106 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:43 |
+| 1 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 |
 | 2 | [Cuentas Claras…](https://open.spotify.com/track/3TP0WQJEPwcp8oHLOh1Di8) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuentas Claras…](https://open.spotify.com/album/530ppwheQIoDV0lOtjJydA) | 3:57 |
 | 3 | [Erick Sermón](https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Haciéndolo Fino](https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl) | 2:46 |
 | 4 | [Feria en el Sobre](https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Feria en el Sobre](https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc) | 3:14 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 105 | [Mitolo G's](https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7) | [Mitolo G's](https://open.spotify.com/album/4f0hu5GxLyap7KPUld6rX1) | 3:16 |
 | 106 | [Tótem](https://open.spotify.com/track/6zqxCCofqxC6bABUMEut84) | [Mike Diaz](https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz), [Fermín](https://open.spotify.com/artist/0gtxCM2JXhYWzyiV0hDPw2) | [Tótem](https://open.spotify.com/album/3G3ktn73qmGgVeueICfQhN) | 3:08 |
 
-Snapshot ID: `MCw3MWQwMDE1Nzc4MDEwNDliZGU2OWU0MWVjOWFlNjc3MDMyZjFjMGM3`
+Snapshot ID: `MCwyY2QwNmJmYzhmNTcyNGJmZmJhOGNhMGIxMGJlYTRjYjU2OWY2Njcx`

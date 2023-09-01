@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: CLIPZ, KAM-BU, Tia Carys & Lady Ice",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: venbee, Hybrid Minds ",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 259764,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/46OCS9qV8Vsa9PNFV95bTL"
@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Blinded By The Lights 23",
+        "url": "https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ"
+      },
+      "artists": [
+        {
+          "name": "Mixtress",
+          "url": "https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il"
+        },
+        {
+          "name": "Pete Cannon",
+          "url": "https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Blinded By The Lights 23",
+      "url": "https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD"
+    },
+    {
+      "album": {
         "name": "Blocklist",
         "url": "https://open.spotify.com/album/0GeFmFqYfRwN2uPco1n4q2"
       },
@@ -1266,7 +1288,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 231720,
       "name": "Calling For A Sign",
       "url": "https://open.spotify.com/track/2P0HeCVtqPswUozzV6pBrP"
@@ -1702,7 +1724,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 142720,
       "name": "Conveniency",
       "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
@@ -2576,7 +2598,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 224914,
       "name": "F*ck Jump Up (feat. B Live)",
       "url": "https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB"
@@ -2986,7 +3008,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 180251,
       "name": "Flight Mode",
       "url": "https://open.spotify.com/track/4Fan29soluSX5Xf6A1RTBU"
@@ -3581,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/50nbWtinvZNMWnuho2OFtx"
+      },
+      "artists": [
+        {
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181242,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/04OnsBlFeWEO8z4vwEPQQI"
+    },
+    {
+      "album": {
         "name": "Hear Me",
         "url": "https://open.spotify.com/album/5ZLcICWBpcvj2BwIlq3w4h"
       },
@@ -4004,10 +4044,32 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 149345,
       "name": "I Watch The Moon",
       "url": "https://open.spotify.com/track/4RcM5BgE5N5oMU0EDNT8kr"
+    },
+    {
+      "album": {
+        "name": "If Love Could Have Saved You",
+        "url": "https://open.spotify.com/album/6h00scGXHmjeGfQDWjy8A3"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181414,
+      "name": "If Love Could Have Saved You",
+      "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
     },
     {
       "album": {
@@ -4040,7 +4102,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 248576,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL"
@@ -4348,7 +4410,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Killer",
       "url": "https://open.spotify.com/track/1z0X1bUL9zQ3cwzpsIqiqT"
@@ -5844,7 +5906,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 197832,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
@@ -6394,7 +6456,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 204500,
       "name": "Ready To Fly - Sub Focus & Dimension",
       "url": "https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL"
@@ -6870,7 +6932,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 241511,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/7FWsKdyrdo1drLeVDPPFZi"
@@ -7348,7 +7410,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 227426,
       "name": "So Tell Me\u2026",
       "url": "https://open.spotify.com/track/3GJbXOYweOltxSiOsCNkMd"
@@ -7824,7 +7886,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/0YFQ2syQ37ZXHtSJCdM2nx"
@@ -8118,7 +8180,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 244224,
       "name": "Tell Me Why - 1991 Remix",
       "url": "https://open.spotify.com/track/6tGtFeIO3yYuVvNLAdHU0A"
@@ -8889,6 +8951,28 @@
     },
     {
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/4eHNQZYULsjZqcoqhh0y8R"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193104,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/7BmE2mwDV8prI6JQg8Ofv4"
+    },
+    {
+      "album": {
         "name": "Wasting My Time (Tim Reaper Remix)",
         "url": "https://open.spotify.com/album/70BxJfCCdQom0DSxCgCQHT"
       },
@@ -8960,7 +9044,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 202758,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/2398MESeCtzwLjjjJGIFl3"
@@ -9026,7 +9110,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 184000,
       "name": "Weed & Wine (Relax, Rewind)",
       "url": "https://open.spotify.com/track/1eAdTClFtvmuGheritC6VF"
@@ -9347,6 +9431,24 @@
     },
     {
       "album": {
+        "name": "Y'all Ready For Dis",
+        "url": "https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Y'all Ready For Dis",
+      "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"
+    },
+    {
+      "album": {
         "name": "Edition 1",
         "url": "https://open.spotify.com/album/7DCnz6yVbVES8649PY5wi3"
       },
@@ -9428,6 +9530,28 @@
       "duration_ms": 199779,
       "name": "You Don't Understand (feat. Jamie McCool) - Radio Edit",
       "url": "https://open.spotify.com/track/6qAHDU8cIqz7XJcQCwNATF"
+    },
+    {
+      "album": {
+        "name": "you don\u2019t want love (in the club)",
+        "url": "https://open.spotify.com/album/2RlKzPi1Ekl9MbmcRMYZlY"
+      },
+      "artists": [
+        {
+          "name": "Robin Knightz",
+          "url": "https://open.spotify.com/artist/7zmMLJIDnDu5yQjJwWWYS8"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136101,
+      "name": "you don't want love (in the club)",
+      "url": "https://open.spotify.com/track/38ASpHzf1kXpko2TSlhTof"
     },
     {
       "album": {

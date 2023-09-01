@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. ",
-  "num_followers": 237652,
+  "num_followers": 237812,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjdhZTg5NjViMzAyZGMyZDY0NTgyMDY2YWRlMzRlNWQ3NmJjNjA1",
+  "snapshot_id": "MCwyYjc5ZjIyZWY5YTM1ZWI0YmUzNzZiNzk0OGRhZTU0ZjRhNjgzNjRm",
   "tracks": [
     {
       "added_at": "2023-08-21 00:25:02",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-08-21 00:25:02",
       "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 177083,
-      "name": "Settle Me Down",
-      "url": "https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9"
-    },
-    {
-      "added_at": "2023-08-21 00:25:02",
-      "album": {
         "name": "Love Me Instead",
         "url": "https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 181560,
       "name": "Mine All Mine",
       "url": "https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn"
+    },
+    {
+      "added_at": "2023-08-21 00:25:02",
+      "album": {
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 177083,
+      "name": "Settle Me Down",
+      "url": "https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9"
     },
     {
       "added_at": "2023-08-21 00:25:02",

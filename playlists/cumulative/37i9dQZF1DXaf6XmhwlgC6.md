@@ -4,14 +4,15 @@
 
 > Music from the ether to focus and study to.
 
-230 songs - 12 hr 6 min
+231 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Journey Within](https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [A Journey Within](https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38) | 2:58 | 2022-03-30 | 2023-01-14 |
 | [A Memory of Sunday](https://open.spotify.com/track/6qmfW6vNga0M3yV9hoCGsf) | [Plaice Commes](https://open.spotify.com/artist/103iNifaFqCDUVVglaXb7D) | [Focuses](https://open.spotify.com/album/0f8yANLtuGimQ18mzOKJUG) | 2:44 | 2023-06-30 |  |
 | [Alaska](https://open.spotify.com/track/6SfeqlQllT5pLCr4uCmkVK) | [The Yené](https://open.spotify.com/artist/4JxRczlzeGuDkMmpun9jXu) | [Alaska](https://open.spotify.com/album/07BDWmcQOd33q7Pbk8aO2e) | 2:00 | 2023-06-02 |  |
-| [Another Routine Day Breaks](https://open.spotify.com/track/3zgpJfyPtpX38aZUnu4peT) | [Brokeback](https://open.spotify.com/artist/2iQyHU4IeFpP9lU6OTtfKE) | [Field Recordings from the Cook County Water Table](https://open.spotify.com/album/32zOl1bVoUW35RlXQ9sGu1) | 5:00 | 2022-03-30 |  |
+| [Amethyst](https://open.spotify.com/track/3ACNWsevsO9zXh5L4dgKR1) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Amethyst](https://open.spotify.com/album/5VMk8IyUX8Pf5sDw1e8Xzc) | 3:34 | 2023-09-01 |  |
+| [Another Routine Day Breaks](https://open.spotify.com/track/3zgpJfyPtpX38aZUnu4peT) | [Brokeback](https://open.spotify.com/artist/2iQyHU4IeFpP9lU6OTtfKE) | [Field Recordings from the Cook County Water Table](https://open.spotify.com/album/32zOl1bVoUW35RlXQ9sGu1) | 5:00 | 2022-03-30 | 2023-09-01 |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/16CsL4rZzbx3MttvLucFs8) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 3:05 | 2022-03-30 | 2022-07-29 |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 | 2023-07-22 |
 | [Aquarious](https://open.spotify.com/track/6g7keElPVodgBUw450CRWO) | [FoaM](https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu) | [Aquarious](https://open.spotify.com/album/1Hw4krAnuUAfTWWNI4tnDW) | 1:44 | 2023-08-04 |  |

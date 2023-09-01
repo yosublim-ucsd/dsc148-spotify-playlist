@@ -4,7 +4,7 @@
 
 > Songs to make your Zumba workout extra fun.
 
-64 songs - 3 hr 57 min
+65 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Tu Meri](https://open.spotify.com/track/2E2G88mTTJjbbmEpqTkbaV) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OPaPfgLzRn30767pjwfY3) | 4:17 | 2021-11-18 | 2023-03-15 |
 | [Tu Meri](https://open.spotify.com/track/39TJkE0AEkfWii8VB3JqSV) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Bang Bang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zhx5FG1P3Rc9Ufbr9bIgF) | 4:17 | 2021-11-18 | 2022-07-29 |
 | [Tum Hi Ho Bandhu](https://open.spotify.com/track/1IOk1Cz69BasUkFgsyVxp3) | [Beatrice](https://open.spotify.com/artist/1dpqTYhm668HHTWSvE9jyM), [yusha571](https://open.spotify.com/artist/4USN2fYVJnUWvtNu9dRaIa), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [Tum Hi Ho Bandhu](https://open.spotify.com/album/6DLy76kjeCrKoXJUeUy4AI) | 4:42 | 2023-06-16 | 2023-08-19 |
-| [Tum Hi Ho Bandhu](https://open.spotify.com/track/0F7SLEIzDQFAMYrC3hDrQg) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS) | 4:43 | 2023-06-16 |  |
+| [Tum Hi Ho Bandhu](https://open.spotify.com/track/0F7SLEIzDQFAMYrC3hDrQg) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS) | 4:43 | 2023-06-16 | 2023-09-01 |
+| [Tum Hi Ho Bandhu](https://open.spotify.com/track/5Kf1mP8ppKNi7C72Qi35IF) | [umutlopes](https://open.spotify.com/artist/0PrzK1viPdHVBRgyVucdyW), [pasa michaelson](https://open.spotify.com/artist/1my2pvFvefZsP1uRUeby6X), [Alperen INC](https://open.spotify.com/artist/5mMnEzf64O9ciQUKLs64jy) | [Tum Hi Ho Bandhu](https://open.spotify.com/album/2TxuiIWOBKR5teNFB8UQIP) | 4:43 | 2023-06-16 |  |
 | [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2F57zuLuz5JiDSzzb8b1gg) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Coz I'm Happy](https://open.spotify.com/album/6HDeJQvXp2WlhzMYW194ZT) | 4:42 | 2021-11-18 | 2022-11-13 |
 | [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/4pE05HNzmVFGpCOfNKE3w6) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/6Wu6m82JvVQvsa3kRhRebR) | 4:42 | 2021-11-18 | 2023-08-04 |
 | [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 | 2021-11-18 | 2023-03-11 |

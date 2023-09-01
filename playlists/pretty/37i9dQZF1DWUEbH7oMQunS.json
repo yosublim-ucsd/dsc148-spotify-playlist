@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 50025,
+  "num_followers": 50148,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
+  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Graves Into Gardens (Acoustic)",
-        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 278035,
-      "name": "Graves Into Gardens - Acoustic",
-      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Hold You Tight",
         "url": "https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 175133,
       "name": "Hold You Tight",
       "url": "https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Graves Into Gardens (Acoustic)",
+        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 278035,
+      "name": "Graves Into Gardens - Acoustic",
+      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
+        "name": "From the Valley",
+        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+          "name": "Shamina",
+          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
         }
       ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
+      "duration_ms": 279451,
+      "name": "God Who Saves",
+      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "From the Valley",
-        "url": "https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H"
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
       },
       "artists": [
         {
-          "name": "Shamina",
-          "url": "https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
         }
       ],
-      "duration_ms": 279451,
-      "name": "God Who Saves",
-      "url": "https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP"
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Attention (a Devotional Project)",
+        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 222613,
+      "name": "Rest with Me",
+      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Attention (a Devotional Project)",
-        "url": "https://open.spotify.com/album/5chqAKF6a1mqAVtJt76pWW"
+        "name": "Jesus Is___. Music Project",
+        "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "The City Church",
+          "url": "https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ"
         }
       ],
-      "duration_ms": 222613,
-      "name": "Rest with Me",
-      "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
+      "duration_ms": 277853,
+      "name": "Jesus Is___.",
+      "url": "https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -771,22 +787,6 @@
       "duration_ms": 261500,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Jesus Is___. Music Project",
-        "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
-      },
-      "artists": [
-        {
-          "name": "The City Church",
-          "url": "https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ"
-        }
-      ],
-      "duration_ms": 277853,
-      "name": "Jesus Is___.",
-      "url": "https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
-      },
-      "artists": [
-        {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
-        }
-      ],
-      "duration_ms": 143453,
-      "name": "10,000 Reasons (Bless the Lord)",
-      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "those lil god songs i posted on ig",
         "url": "https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "'90s Kids",
-        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
       },
       "artists": [
         {
-          "name": "LaPeer",
-          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
         }
       ],
-      "duration_ms": 206987,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
+      "duration_ms": 143453,
+      "name": "10,000 Reasons (Bless the Lord)",
+      "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -923,6 +907,22 @@
       "duration_ms": 60944,
       "name": "Mother's Love",
       "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "'90s Kids",
+        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+      },
+      "artists": [
+        {
+          "name": "LaPeer",
+          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+        }
+      ],
+      "duration_ms": 206987,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Contemporary Worship Hits",
-        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+        "name": "High Level Praise",
+        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
       },
       "artists": [
         {
-          "name": "Holy Communion Instrumental Duo",
-          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
         }
       ],
-      "duration_ms": 179678,
-      "name": "Lord I need You",
-      "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
+      "duration_ms": 198504,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "High Level Praise",
-        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 198504,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "You & I Again",
         "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 160264,
       "name": "You & I Again",
       "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Contemporary Worship Hits",
+        "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
+      },
+      "artists": [
+        {
+          "name": "Holy Communion Instrumental Duo",
+          "url": "https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr"
+        }
+      ],
+      "duration_ms": 179678,
+      "name": "Lord I need You",
+      "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "The Universal Christ",
+        "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
+      },
+      "artists": [
+        {
+          "name": "Corey Kilgannon",
+          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
+        }
+      ],
+      "duration_ms": 231424,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Fantasize",
         "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
       },
@@ -1131,18 +1147,34 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Universal Christ",
-        "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
       "artists": [
         {
-          "name": "Corey Kilgannon",
-          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
         }
       ],
-      "duration_ms": 231424,
-      "name": "Lord Have Mercy",
-      "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Spirit Of God",
+        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Something About The Name - Live",
+      "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1175,38 +1207,6 @@
       "duration_ms": 447355,
       "name": "Pomegranates",
       "url": "https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Spirit Of God",
-        "url": "https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 290813,
-      "name": "Something About The Name - Live",
-      "url": "https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Freedom Fighter (Jimmy James Remix)",
-        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
-      },
-      "artists": [
-        {
-          "name": "NIRVA",
-          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
-        },
-        {
-          "name": "Jimmy James",
-          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Freedom Fighter (Jimmy James Remix)",
-      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4"
       },
@@ -1283,22 +1263,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Worship Initiative, Vol. 28 (Live)",
-        "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
+        "name": "Freedom Fighter (Jimmy James Remix)",
+        "url": "https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb"
       },
       "artists": [
         {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+          "name": "NIRVA",
+          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
         },
         {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+          "name": "Jimmy James",
+          "url": "https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D"
         }
       ],
-      "duration_ms": 391413,
-      "name": "Abba - Live",
-      "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
+      "duration_ms": 210461,
+      "name": "Freedom Fighter (Jimmy James Remix)",
+      "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1323,6 +1303,26 @@
       "duration_ms": 352318,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "The Worship Initiative, Vol. 28 (Live)",
+        "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 391413,
+      "name": "Abba - Live",
+      "url": "https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
-      },
-      "artists": [
-        {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
-        }
-      ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Survive These Seas",
         "url": "https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 221626,
       "name": "Survive These Seas",
       "url": "https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
+      },
+      "artists": [
+        {
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
+        }
+      ],
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I Won't Let Go",
-        "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "I Won't Let Go",
-      "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Even Here Love Comes",
         "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "I Won't Let Go",
+        "url": "https://open.spotify.com/album/0ACc9AF4bVDlR4zETVFCgn"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "I Won't Let Go",
+      "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
     },
     {
       "added_at": "2023-07-28 04:02:00",

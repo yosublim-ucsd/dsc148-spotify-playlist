@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: WHYLUCAS\. Artwork: Isu Kim.
 
-509 songs - 1 day 3 hr 53 min
+514 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [always summertime](https://open.spotify.com/track/6DRhRdtVHMPnc2amhMiWSy) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [The Morning After](https://open.spotify.com/album/6y8NCfY19sEVFahTwtnlnt) | 3:05 | 2023-05-04 | 2023-06-23 |
 | [Angel](https://open.spotify.com/track/3KNDc2QCNN6BoGrWiecSae) | [Cactus Cactus](https://open.spotify.com/artist/51x2pHGxvd8eEeOK4FBFYJ) | [Life is Short](https://open.spotify.com/album/1C2cbAU8vcCX6MSvrqyuDA) | 4:48 | 2023-05-26 |  |
 | [Anima Bella](https://open.spotify.com/track/0PjdhMgWgx3IJ5cUT13tiz) | [Mia Lateefa](https://open.spotify.com/artist/2iPmNcNNer1SRignvfsjQE) | [Anima Bella](https://open.spotify.com/album/4zzVg82fXthMeN3BZf6Kel) | 3:13 | 2022-01-13 | 2022-06-17 |
+| [Anxiety](https://open.spotify.com/track/3VY294BowMa8tWNu1MrVg9) | [Naomi G](https://open.spotify.com/artist/26QQ1WkFkynFLtkcTULKLP) | [Anxiety](https://open.spotify.com/album/3hPck6L3LHzRBeLZuHZx1K) | 2:27 | 2023-08-31 |  |
 | [Anxious In The Daytime](https://open.spotify.com/track/0OhaGOmebd12R1YgizXObP) | [Astor Walk](https://open.spotify.com/artist/6eCaI5ppOeDrr7zs2VZtVg) | [Anxious In The Daytime](https://open.spotify.com/album/3do4OVA2U4zsc1sgiIWyRJ) | 2:57 | 2022-06-30 | 2022-09-23 |
 | [April](https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01) | [IZZY DANIYA](https://open.spotify.com/artist/4YTuQxRYY33qBIb7z9XG19) | [April](https://open.spotify.com/album/0wmXjCIz9FynQsAnIfQgLc) | 3:48 | 2023-06-22 |  |
 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 | 2022-03-17 |  |
@@ -111,6 +112,7 @@
 | [Dead Inside](https://open.spotify.com/track/5LlHSLqNAwH9pK9nwcYTlD) | [July Hassan](https://open.spotify.com/artist/4XceFDslWVdjIybsTgBuOC) | [Dead Inside](https://open.spotify.com/album/2OD2qTGu1n8QG36VDJKyja) | 3:28 | 2022-01-13 | 2022-06-17 |
 | [Dear Me](https://open.spotify.com/track/3ll2fcUdTctm1iiANOROPV) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [Dear Me](https://open.spotify.com/album/3Reqvkct21MojbLYGTumiC) | 3:05 | 2023-08-10 |  |
 | [Death of Me](https://open.spotify.com/track/1OwcfknkQamRu167BVpi7F) | [Dreebsby](https://open.spotify.com/artist/67NYMUIA5uSZPXuDXtCPRj) | [Death of Me](https://open.spotify.com/album/1y6gDFx1J7TIgaHHPG7tEY) | 2:49 | 2022-01-13 | 2022-03-11 |
+| [Delorean](https://open.spotify.com/track/6GLuYP7cXv91HyyPUy7jdq) | [Perry](https://open.spotify.com/artist/6xmUouQAgFHw0sIiIdBf0L), [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [Delorean](https://open.spotify.com/album/6w97lrGzG41UxqiP53rhmj) | 3:30 | 2023-08-31 |  |
 | [Delusional](https://open.spotify.com/track/2a0NpvZSso8Kp2jKHdV3Ud) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [Delusional](https://open.spotify.com/album/7jy7fZsDWAhjGGJTBhuvIm) | 3:23 | 2023-01-12 |  |
 | [Desire](https://open.spotify.com/track/4enRXp0XqK8Xy6FJyPuuaf) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Desire](https://open.spotify.com/album/7eaUeXoBSNWdxDM44yOHkP) | 2:44 | 2022-03-17 | 2022-07-08 |
 | [Devil's Bargain](https://open.spotify.com/track/0a3IlLkvg1FaUAs4QR1Yse) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Devil's Bargain](https://open.spotify.com/album/5gRd0zhPpH4TUmfMTBKZNg) | 4:57 | 2023-06-15 |  |
@@ -382,6 +384,7 @@
 | [Sick Sad Love Song](https://open.spotify.com/track/69OA949QUIJh51PXeHbsYn) | [St\. Humain](https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y) | [Sick Sad Love Song](https://open.spotify.com/album/5ZyGPSv12xrGf1tyFbk7n4) | 3:07 | 2022-01-13 | 2022-06-17 |
 | [silence](https://open.spotify.com/track/6enNRlLvl1HKnfPq8PM58M) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [Apriltwentyfifth](https://open.spotify.com/artist/0nIW8FTnhYJhShO7cDR3PL) | [silence](https://open.spotify.com/album/3Q8wQYhmg8NaCm6xd3u2dp) | 3:55 | 2023-05-26 |  |
 | [simon says](https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [simon says](https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U) | 2:34 | 2023-05-11 |  |
+| [Sisyphus](https://open.spotify.com/track/5fhLRgatAlalPlqAev8LXP) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [Sisyphus](https://open.spotify.com/album/4OQLkWiI7YewgBC7u2ikYv) | 3:12 | 2023-08-31 |  |
 | [Situations](https://open.spotify.com/track/222sLcHSr2G02KO2UsDvD5) | [FAIZ NAJIB](https://open.spotify.com/artist/78hQ6M1odAot8GMRUWHiWw), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [Situations](https://open.spotify.com/album/0jx0nDMQUOFzMEropctFLZ) | 3:00 | 2023-06-22 |  |
 | [SLIDE](https://open.spotify.com/track/3mxTCFQ5GCAvhkFBt1lJPb) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [SLIDE](https://open.spotify.com/album/7ASEKgcGL4UUFArYgUXiXk) | 2:33 | 2023-02-17 | 2023-06-23 |
 | [Slingshots](https://open.spotify.com/track/5iTJowNzGllNmELFkMJpzH) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Slingshots](https://open.spotify.com/album/2wTMhdrkdGxDT9deaVgaFq) | 4:43 | 2022-03-10 | 2022-06-17 |
@@ -456,6 +459,7 @@
 | [U and I](https://open.spotify.com/track/4RZMBoYbadMcnMCY32Kci8) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [U and I](https://open.spotify.com/album/5zNQh4dSqFG4U9x0LbNM5c) | 3:28 | 2022-01-13 | 2022-06-17 |
 | [u lose](https://open.spotify.com/track/3HyTBOfVyVLYjJsqYl1JYx) | [Killmeslow](https://open.spotify.com/artist/0leX5B96n67GDEQDfR2boJ), [Jenk$](https://open.spotify.com/artist/3CpTCMakEJSO8OadsMg47J) | [u lose](https://open.spotify.com/album/35ut9NeqfTU43hqAeyzzhs) | 2:49 | 2022-09-09 | 2023-02-10 |
 | [Unavailable](https://open.spotify.com/track/6eK8zC4iPZ8cUfvEpUsBUC) | [Sappy Chill](https://open.spotify.com/artist/71gi5I6xsgPqS9KOFRBdKx), [Mars B](https://open.spotify.com/artist/3WmvQooo0fKwYMFuCpa7yo), [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Unavailable](https://open.spotify.com/album/7DnyOAloyHsCXONGGo7bYJ) | 2:57 | 2023-01-12 | 2023-06-23 |
+| [Undecided](https://open.spotify.com/track/60qSc5wM9vKB1oIktWsUAA) | [KEAT](https://open.spotify.com/artist/5lzooGwfNsjMjk96wHkZJg) | [Undecided](https://open.spotify.com/album/0aknYPltHqav39QyNPDX6q) | 3:12 | 2023-08-31 |  |
 | [Undercurrent](https://open.spotify.com/track/0AXJ6rid73LOa8YzFXcoKI) | [Sun Eater](https://open.spotify.com/artist/6hm01MFd7ylbd8d3WXn9Tp) | [Undercurrent](https://open.spotify.com/album/4sav8VkbtXhsdgA8YhkBGh) | 3:40 | 2022-01-13 | 2022-06-17 |
 | [Understand](https://open.spotify.com/track/1R3S9HZQP9jJjodyD4BtMe) | [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [Understand](https://open.spotify.com/album/4YUBwu5YknZvRrBqhYCT1J) | 3:37 | 2022-06-30 | 2022-09-23 |
 | [Up](https://open.spotify.com/track/6MvHpnVZk3onTWdGTTlJWO) | [Yaung](https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12) | [Up](https://open.spotify.com/album/0At5I86fWOkZDokz1BDd8C) | 3:09 | 2023-05-11 |  |
@@ -463,6 +467,7 @@
 | [Utopia](https://open.spotify.com/track/60hiLsYGpC5RnyKZQ6aaY4) | [Pokok](https://open.spotify.com/artist/4MoiOz6WZwMyW1RXR0wHW9) | [Utopia](https://open.spotify.com/album/7xKHffhGr9fRADalZdKkjg) | 5:02 | 2022-01-13 | 2022-06-17 |
 | [Utopia Reimagined: These Corners](https://open.spotify.com/track/26dUYggoH8t7nv8qNMbFHy) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Utopia Reimagined: These Corners](https://open.spotify.com/album/6YB9B98Kmum6oN6jqoIlxv) | 5:09 | 2023-02-23 | 2023-05-12 |
 | [Venus](https://open.spotify.com/track/0VJh933Nhkk8VEUzqp74b0) | [ROYAL ESTATE](https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh) | [Venus](https://open.spotify.com/album/5cpB46g92ndv8OtQVoVoFK) | 4:04 | 2023-07-27 |  |
+| [VIRTUAL LOVE](https://open.spotify.com/track/0gpW3xS2XXGGR74FPi7lI5) | [Mia Insyirah](https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2) | [VIRTUAL LOVE](https://open.spotify.com/album/1vkoHzonGuzIPr8gMwbJQ2) | 2:44 | 2023-08-31 |  |
 | [VISITOR](https://open.spotify.com/track/7mx5vfxsKjRv22PY7zq5Rk) | [GOTHMYSTERYMAFIA](https://open.spotify.com/artist/4Q3ZnXR3AKynGk7zK8l2GB) | [VISITOR](https://open.spotify.com/album/17G2nrijiEDT3w0bSNM1Qp) | 3:30 | 2023-05-26 | 2023-08-18 |
 | [WAGMI](https://open.spotify.com/track/4ZC9FJH7b9MsmQR9DowTjM) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [WAGMI](https://open.spotify.com/album/2eq1IdDsUQy6QU7RpbnsMx) | 2:22 | 2022-01-13 | 2022-01-21 |
 | [wait.](https://open.spotify.com/track/78Th4cT1tR277M7iiQmv7b) | [Icebox](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [nateli](https://open.spotify.com/artist/1DCZyNPLSPO7adhzk388oS) | [wait.](https://open.spotify.com/album/5CxHl5N0JJsYazJAc7MDAq) | 3:20 | 2023-01-12 | 2023-05-12 |

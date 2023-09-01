@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-690 songs - 20 hr 32 min
+691 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [Vargsången](https://open.spotify.com/track/6yTfAEsifDE2HSFmsk57YX) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [Babblarnas vaggvisa](https://open.spotify.com/album/4gNojEh1nck10cN21lkIf4) | 1:21 | 2022-10-28 | 2023-02-18 |
 | [Videvisan, sov du lilla videung](https://open.spotify.com/track/6YbCKS0x1KLR0cPqPQ0P80) | [Joen Brahe](https://open.spotify.com/artist/2gtqUlH6q4j2Pc7uVQsaoV) | [Videvisan, sov du lilla videung](https://open.spotify.com/album/1RmdToFyMqDM9ygtVLu26n) | 1:51 | 2023-01-27 | 2023-03-25 |
 | [Warm Breeze](https://open.spotify.com/track/2By5z0SpEoqzQ6sslvZWfp) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [Warm Breeze](https://open.spotify.com/album/31SAPV5z9PJ8SZqru2yGFf) | 1:33 | 2023-08-10 |  |
+| [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 | 2023-08-31 |  |
 | [Weightless Sleep](https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Weightless Sleep](https://open.spotify.com/album/5yQCAsPHnjxMhaKGKLs8Ax) | 2:19 | 2022-09-02 |  |
 | [Wer hat die schönsten Schäfchen?](https://open.spotify.com/track/0JBFJj0Nu7CoDnzSpNelXo) | [Finn Müller](https://open.spotify.com/artist/3Qg2TTPVf77Xb9jwI9Qs35) | [Wer hat die schönsten Schäfchen?](https://open.spotify.com/album/20HcCUrPq2LudI6Xiq6Asr) | 1:56 | 2021-10-05 | 2022-09-03 |
 | [When All Stars Twinkle](https://open.spotify.com/track/4HqQVrPQ1xEsVzxqE4bSqp) | [Marilyn Giffard](https://open.spotify.com/artist/0YtmZt6O5eRRqHAmDjtOwC) | [When All Stars Twinkle](https://open.spotify.com/album/6eP3L801NVxtdwB0i8M3Zl) | 1:26 | 2021-10-05 | 2022-10-29 |

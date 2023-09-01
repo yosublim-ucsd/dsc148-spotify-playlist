@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,973 likes - 132 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,118 likes - 132 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 131 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 132 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 
-Snapshot ID: `MCwwMDA5MmQ1Nzg0ZDZiY2Y0YjJmYmQyMjRlNjAzZDYyNmNlYWJmYzBh`
+Snapshot ID: `MCwzM2IzY2E4Mzk1MmNkMzc2NGUyYzRmYzdmZmQzMDA5NTNmMWNiZWVi`

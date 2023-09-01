@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 920631,
+  "num_followers": 920593,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjhiZDg3ODM5MjAzZDU0MWMxZDYxYTM2Y2Y2NDcyNmM3MzJiOWM2",
+  "snapshot_id": "MCw2MWI5ODkwYzkzYmQyOWI4YWU3ZmViMWY4ZmYwZjE5ZmZkMTNmYjA4",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 217263,
       "name": "Faz Assim",
       "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy"
-      },
-      "artists": [
-        {
-          "name": "BELL WARISARA",
-          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
-        }
-      ],
-      "duration_ms": 251365,
-      "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Flori de mai",
         "url": "https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP"
       },
@@ -711,18 +695,34 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
-        "url": "https://open.spotify.com/album/655zW7iobyhpQhXePSOCnh"
+        "name": "Vas de Salida",
+        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
       },
       "artists": [
         {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 229762,
-      "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
-      "url": "https://open.spotify.com/track/3DqUsFARdSFgGeBPOVM7OQ"
+      "duration_ms": 182160,
+      "name": "Vas de Salida",
+      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy"
+      },
+      "artists": [
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "duration_ms": 251365,
+      "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Vas de Salida",
-        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
+        "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/655zW7iobyhpQhXePSOCnh"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
         }
       ],
-      "duration_ms": 182160,
-      "name": "Vas de Salida",
-      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
+      "duration_ms": 229762,
+      "name": "\u89aa\u611b\u7684\u5c0d\u8c61 - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/3DqUsFARdSFgGeBPOVM7OQ"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Gejsza",
-        "url": "https://open.spotify.com/album/6id487flXcclOKki3ffxf6"
-      },
-      "artists": [
-        {
-          "name": "nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Gejsza",
-      "url": "https://open.spotify.com/track/66u9QTPZwOdJjGQ2vby65p"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
         "url": "https://open.spotify.com/album/0DL3Ezm71ane1ngMyUxLxG"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 124750,
       "name": "\u041d\u0430 \u0442\u0443\u0441\u0456",
       "url": "https://open.spotify.com/track/7uYrEOHgq2ZHgLkmSvZ9cp"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Gejsza",
+        "url": "https://open.spotify.com/album/6id487flXcclOKki3ffxf6"
+      },
+      "artists": [
+        {
+          "name": "nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Gejsza",
+      "url": "https://open.spotify.com/track/66u9QTPZwOdJjGQ2vby65p"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Funkari",
-        "url": "https://open.spotify.com/album/7e7NCY6IHKBuyureY3Jges"
-      },
-      "artists": [
-        {
-          "name": "Aima Baig",
-          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
-        }
-      ],
-      "duration_ms": 173524,
-      "name": "Funkari",
-      "url": "https://open.spotify.com/track/6iB96FNcb4t3d72Fhc58u2"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "za wcze\u015bnie",
         "url": "https://open.spotify.com/album/6k9mMccxYIYw9KNc6aF7Ty"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 129565,
       "name": "za wcze\u015bnie",
       "url": "https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Funkari",
+        "url": "https://open.spotify.com/album/7e7NCY6IHKBuyureY3Jges"
+      },
+      "artists": [
+        {
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+        }
+      ],
+      "duration_ms": 173524,
+      "name": "Funkari",
+      "url": "https://open.spotify.com/track/6iB96FNcb4t3d72Fhc58u2"
     },
     {
       "added_at": "2023-08-02 04:00:00",

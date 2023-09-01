@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 444028,
+  "num_followers": 444338,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWRjODE0Mjk3ZjAwY2U3NmQxNWZhOWI3NTU2ZTg1YWQ2N2E5OTc1",
+  "snapshot_id": "MCwwZWZjY2RlOGU3ZDFiMzMzNzUxMjA2OGY1MjRlOWFmZTBiY2ViYThh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:16:06",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Lelaku",
-        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
+        "name": "Satu-Satu",
+        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
       },
       "artists": [
         {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
         }
       ],
-      "duration_ms": 229986,
-      "name": "Aku Tenang",
-      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
+      "duration_ms": 284988,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Satu-Satu",
-        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
+        "name": "Lelaku",
+        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
       },
       "artists": [
         {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
         }
       ],
-      "duration_ms": 284988,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
+      "duration_ms": 229986,
+      "name": "Aku Tenang",
+      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
-      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
         "name": "Tempat Aku Pulang",
         "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 263746,
       "name": "April",
       "url": "https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
+      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
-      },
-      "artists": [
-        {
-          "name": "Rafi Sudirman",
-          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
-        }
-      ],
-      "duration_ms": 283311,
-      "name": "That Somebody",
-      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
         "name": "Ello",
         "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
       },
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Penantian Berharga",
-        "url": "https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 218910,
-      "name": "Penantian Berharga",
-      "url": "https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6"
-    },
-    {
-      "added_at": "2023-08-18 04:16:06",
-      "album": {
         "name": "Dengan Caraku",
         "url": "https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo"
       },
@@ -1271,18 +1239,34 @@
     {
       "added_at": "2023-08-18 04:16:06",
       "album": {
-        "name": "Handmade",
-        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+        "name": "Penantian Berharga",
+        "url": "https://open.spotify.com/album/4qsujxuNSgTvt6xd8oMvt1"
       },
       "artists": [
         {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 257252,
-      "name": "Kali Kedua",
-      "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
+      "duration_ms": 218910,
+      "name": "Penantian Berharga",
+      "url": "https://open.spotify.com/track/16kiuKjacDC4bFX9flnLA6"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "duration_ms": 283311,
+      "name": "That Somebody",
+      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
     },
     {
       "added_at": "2023-08-18 04:16:06",
@@ -1299,6 +1283,22 @@
       "duration_ms": 212026,
       "name": "11 Januari",
       "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
+    },
+    {
+      "added_at": "2023-08-18 04:16:06",
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 257252,
+      "name": "Kali Kedua",
+      "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
     },
     {
       "added_at": "2023-08-18 04:16:06",

@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 59148,
+  "num_followers": 59253,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGFjMjRiY2M4NmU4YWM0YTRiZGUyZGE1NDM5Mzc3OTJkMWU2Nzhj",
+  "snapshot_id": "MCxiMTdkMGYwNzAxYzAyN2IxNTQ2YzRmZjdmNzIxYmY2YWUxYWFmYjNj",
   "tracks": [
     {
       "added_at": "2023-08-24 15:00:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-08-24 15:00:00",
       "album": {
-        "name": "How My Heart Sings",
-        "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
+        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Shiho Yabuki",
+          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
         }
       ],
-      "duration_ms": 289320,
-      "name": "Light Dance",
-      "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
+      "duration_ms": 227973,
+      "name": "Energy Flow (Ki No Nagare)",
+      "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
     },
     {
       "added_at": "2023-08-24 15:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-08-24 15:00:00",
       "album": {
-        "name": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
-        "url": "https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC"
+        "name": "How My Heart Sings",
+        "url": "https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg"
       },
       "artists": [
         {
-          "name": "Shiho Yabuki",
-          "url": "https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Energy Flow (Ki No Nagare)",
-      "url": "https://open.spotify.com/track/4Yif8pWIvQlvTBgFsQJRDA"
+      "duration_ms": 289320,
+      "name": "Light Dance",
+      "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
     },
     {
       "added_at": "2023-08-24 15:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-24 15:00:00",
       "album": {
-        "name": "vi (almost equal to) ix",
-        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 224298,
-      "name": "vi (almost equal to) ix",
-      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
-    },
-    {
-      "added_at": "2023-08-24 15:00:00",
-      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-08-24 15:00:00",
       "album": {
+        "name": "Ake",
+        "url": "https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "duration_ms": 127120,
+      "name": "Ake",
+      "url": "https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47"
+    },
+    {
+      "added_at": "2023-08-24 15:00:00",
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-08-24 15:00:00",
       "album": {
+        "name": "vi (almost equal to) ix",
+        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 224298,
+      "name": "vi (almost equal to) ix",
+      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
+    },
+    {
+      "added_at": "2023-08-24 15:00:00",
+      "album": {
         "name": "heavenly tone",
         "url": "https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 296000,
       "name": "a beautiful day",
       "url": "https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC"
-    },
-    {
-      "added_at": "2023-08-24 15:00:00",
-      "album": {
-        "name": "\u4e07\u5f15\u304d\u5bb6\u65cf\u300c\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300d",
-        "url": "https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ"
-      },
-      "artists": [
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 97866,
-      "name": "Going To The Sea",
-      "url": "https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI"
     }
   ],
   "unique_name": "Ambient Tokyo",

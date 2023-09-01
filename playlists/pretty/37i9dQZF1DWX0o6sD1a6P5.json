@@ -1,35 +1,63 @@
 {
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Burna Boy",
-  "num_followers": 816328,
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Aya Nakamura",
+  "num_followers": 816882,
   "original_name": "Afro Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzFjMzI2NjM2MWUwMTQ2ZjgwOWJkZjg4NDEwMTcyZWFjYzRmNjBi",
+  "snapshot_id": "MCxiZDZkZjk5NmE4ZDg4OGIzNzNiMmQxNWVkOGNmNDhkN2YzYjAzNWM1",
   "tracks": [
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Cheat On Me (feat. Dave)",
-        "url": "https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi"
+        "name": "DNK (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Cheat On Me (feat. Dave)",
-      "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
+      "duration_ms": 188973,
+      "name": "Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Lonely At The Top",
+      "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD"
@@ -61,39 +89,91 @@
       "url": "https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "YAWA",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
         }
       ],
-      "duration_ms": 180000,
-      "name": "YAWA",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "DNK (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf"
+        "name": "Cheat On Me (feat. Dave)",
+        "url": "https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 188973,
-      "name": "Ch\u00e9rie",
-      "url": "https://open.spotify.com/track/0GTO1m0ZbLNvsl6EAMXpj7"
+      "duration_ms": 222640,
+      "name": "Cheat On Me (feat. Dave)",
+      "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 172394,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 131480,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Butta My Bread",
         "url": "https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk"
@@ -113,59 +193,23 @@
       "url": "https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+        "name": "Chop Time, No Friend",
+        "url": "https://open.spotify.com/album/7lwDFyzcdCZpjUzpDku6dY"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 183865,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
+      "duration_ms": 168150,
+      "name": "Chop Time, No Friend",
+      "url": "https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5483pcvbfX7Ii7gO5JGUpF"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Business (feat. Naza)",
         "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
@@ -185,7 +229,135 @@
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5483pcvbfX7Ii7gO5JGUpF"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "T'malade (feat. Didi B)",
+        "url": "https://open.spotify.com/album/3kBNaqaE4dc6HJ6s0hOCzw"
+      },
+      "artists": [
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 147253,
+      "name": "T'malade (feat. Didi B)",
+      "url": "https://open.spotify.com/track/0nFQCrF06b4s2NJ5gFHnkR"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "YAWA",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "YAWA",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "THIS YEAR (Blessings) [French Remix]",
+        "url": "https://open.spotify.com/album/1Fut8RnDlNYmDLb5oqDySz"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 134972,
+      "name": "THIS YEAR (Blessings) - French Remix",
+      "url": "https://open.spotify.com/track/4cVnXm3iHSlOYRtHZcEEbj"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/2ler9sKkfETzVwEsUDJohW"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 182124,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4rc2sb1NPhQjrL5e4KAtWn"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 195659,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
@@ -205,55 +377,59 @@
       "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+        "name": "N\u00e9cessaire",
+        "url": "https://open.spotify.com/album/4rB43sS6cMhR3wHnd3xwkG"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
         }
       ],
-      "duration_ms": 174480,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
+      "duration_ms": 172800,
+      "name": "N\u00e9cessaire",
+      "url": "https://open.spotify.com/track/2R4IBED2WnT3bTkJYcALpl"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 204750,
-      "name": "Charm",
-      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+        "name": "Jusqu'\u00e0 demain",
+        "url": "https://open.spotify.com/album/4ntHZfs7UQ8b2rqeCcYmA7"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
         }
       ],
-      "duration_ms": 195659,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
+      "duration_ms": 157398,
+      "name": "Jusqu'\u00e0 demain",
+      "url": "https://open.spotify.com/track/5inaMIqw4pp7PtJELvraCj"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
@@ -273,23 +449,27 @@
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "N\u00e9cessaire",
-        "url": "https://open.spotify.com/album/4rB43sS6cMhR3wHnd3xwkG"
+        "name": "Honey Damoiseau",
+        "url": "https://open.spotify.com/album/1GPWD5I6jTD5dtzTBpGFxO"
       },
       "artists": [
         {
-          "name": "Says'z",
-          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 172800,
-      "name": "N\u00e9cessaire",
-      "url": "https://open.spotify.com/track/2R4IBED2WnT3bTkJYcALpl"
+      "duration_ms": 147597,
+      "name": "Honey Damoiseau",
+      "url": "https://open.spotify.com/track/2d9sh26IEyYOGWGPp3HdXB"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "INTOXYCATED (feat. Dave)",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
@@ -309,23 +489,31 @@
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "C'est toi",
-        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
+        "name": "My Baby (feat. Ayra Starr) [Remix]",
+        "url": "https://open.spotify.com/album/7aWjCu9japCJ2x9Lci5ITj"
       },
       "artists": [
         {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 131480,
-      "name": "C'est toi",
-      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
+      "duration_ms": 197382,
+      "name": "My Baby (feat. Ayra Starr) [Remix]",
+      "url": "https://open.spotify.com/track/5eZ0obGIbQMMokxCzBzdMA"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
@@ -341,7 +529,7 @@
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Soweto (with Don Toliver, Rema and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
@@ -369,7 +557,7 @@
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "ATTENTION",
         "url": "https://open.spotify.com/album/71wf9J4UBnb0fZJ0vFtbKW"
@@ -385,83 +573,7 @@
       "url": "https://open.spotify.com/track/1Hvh6husFx6kY3Yv1jY3Pg"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "THIS YEAR (Blessings) [French Remix]",
-        "url": "https://open.spotify.com/album/1Fut8RnDlNYmDLb5oqDySz"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 134972,
-      "name": "THIS YEAR (Blessings) - French Remix",
-      "url": "https://open.spotify.com/track/4cVnXm3iHSlOYRtHZcEEbj"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "D\u00e9lire (feat. Tiakola)",
-        "url": "https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "D\u00e9lire (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Lonely At The Top",
-      "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "S\u00e9n\u00e9gal",
-        "url": "https://open.spotify.com/album/0qVnVWvaBRuyhr7IFEeR6p"
-      },
-      "artists": [
-        {
-          "name": "Youka",
-          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "S\u00e9n\u00e9gal",
-      "url": "https://open.spotify.com/track/6qQVjM3TxqEumTtIiCl3wb"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Ojapiano",
         "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
@@ -477,283 +589,39 @@
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Viens b\u00e9b\u00e9",
-        "url": "https://open.spotify.com/album/6HOV3HPssgnbD8Ran4DTr1"
+        "name": "S\u00e9n\u00e9gal",
+        "url": "https://open.spotify.com/album/0qVnVWvaBRuyhr7IFEeR6p"
       },
       "artists": [
         {
-          "name": "Dy La Mano",
-          "url": "https://open.spotify.com/artist/3KDuwGij0fDmQj7KlXWVnr"
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
         }
       ],
-      "duration_ms": 181016,
-      "name": "Viens b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/5T4YWAQoY0F3aX6LscU2uL"
+      "duration_ms": 162061,
+      "name": "S\u00e9n\u00e9gal",
+      "url": "https://open.spotify.com/track/6qQVjM3TxqEumTtIiCl3wb"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Notice Me",
-        "url": "https://open.spotify.com/album/4zh7c9O9yMVpR9xxvajv1g"
+        "name": "Lanke",
+        "url": "https://open.spotify.com/album/6Di2j6dmIeMGuJDAd2m4ix"
       },
       "artists": [
         {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        },
-        {
-          "name": "Loud Behaviour",
-          "url": "https://open.spotify.com/artist/4oOVF1aER8uPJlayORQ0OJ"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 139432,
-      "name": "Notice Me",
-      "url": "https://open.spotify.com/track/0sMRKQTCPf3zHOrF33nL2t"
+      "duration_ms": 152913,
+      "name": "Lanke",
+      "url": "https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Posa na bina",
-        "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
-      },
-      "artists": [
-        {
-          "name": "Hulk Van JMF",
-          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Posa na bina",
-      "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/28jNjVNo0Sw3D9LWtPwiTF"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "My Baby (feat. Ayra Starr) [Remix]",
-        "url": "https://open.spotify.com/album/7aWjCu9japCJ2x9Lci5ITj"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 197382,
-      "name": "My Baby (feat. Ayra Starr) [Remix]",
-      "url": "https://open.spotify.com/track/5eZ0obGIbQMMokxCzBzdMA"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "\u00c7a va !",
-        "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
-      },
-      "artists": [
-        {
-          "name": "DJ Bens",
-          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 154580,
-      "name": "\u00c7a va !",
-      "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Peppermint",
-        "url": "https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Peppermint",
-      "url": "https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Honey Damoiseau",
-        "url": "https://open.spotify.com/album/1GPWD5I6jTD5dtzTBpGFxO"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "Honey Damoiseau",
-      "url": "https://open.spotify.com/track/2d9sh26IEyYOGWGPp3HdXB"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Acc\u00e9l\u00e8re",
-        "url": "https://open.spotify.com/album/3obQ0SEqU3GohpfuOBxtks"
-      },
-      "artists": [
-        {
-          "name": "Olivyah",
-          "url": "https://open.spotify.com/artist/1RWFgAXpkRkDhovaib8Bt5"
-        },
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        }
-      ],
-      "duration_ms": 188567,
-      "name": "Acc\u00e9l\u00e8re",
-      "url": "https://open.spotify.com/track/6m70gILFez0tvkx5dCFPbZ"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Sans moi",
-        "url": "https://open.spotify.com/album/6DKViO9P1UwmMJI4UA5loY"
-      },
-      "artists": [
-        {
-          "name": "Titai",
-          "url": "https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT"
-        },
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
-        }
-      ],
-      "duration_ms": 174188,
-      "name": "Sans moi",
-      "url": "https://open.spotify.com/track/3kYTLEQwQx0oWu9Ws4uckJ"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Sad Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "capture my soul (feat. Joeboy)",
-      "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Masculine (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Carr\u00e9 (feat. Fally Ipupa)",
         "url": "https://open.spotify.com/album/4oG5nKIyQXVKVozGUbOlnA"
@@ -773,7 +641,171 @@
       "url": "https://open.spotify.com/track/558wwMmRlaCXruzBg7s1QG"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "\u00c7a va !",
+        "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 154580,
+      "name": "\u00c7a va !",
+      "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Notice Me",
+        "url": "https://open.spotify.com/album/4zh7c9O9yMVpR9xxvajv1g"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        },
+        {
+          "name": "Loud Behaviour",
+          "url": "https://open.spotify.com/artist/4oOVF1aER8uPJlayORQ0OJ"
+        }
+      ],
+      "duration_ms": 139432,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/0sMRKQTCPf3zHOrF33nL2t"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Sans moi",
+        "url": "https://open.spotify.com/album/6DKViO9P1UwmMJI4UA5loY"
+      },
+      "artists": [
+        {
+          "name": "Titai",
+          "url": "https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "duration_ms": 174188,
+      "name": "Sans moi",
+      "url": "https://open.spotify.com/track/3kYTLEQwQx0oWu9Ws4uckJ"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/28jNjVNo0Sw3D9LWtPwiTF"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Acc\u00e9l\u00e8re",
+        "url": "https://open.spotify.com/album/3obQ0SEqU3GohpfuOBxtks"
+      },
+      "artists": [
+        {
+          "name": "Olivyah",
+          "url": "https://open.spotify.com/artist/1RWFgAXpkRkDhovaib8Bt5"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 188567,
+      "name": "Acc\u00e9l\u00e8re",
+      "url": "https://open.spotify.com/track/6m70gILFez0tvkx5dCFPbZ"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Sad Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "capture my soul (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Personne",
+      "url": "https://open.spotify.com/track/1a2iA1NgFnmnQ8YhisT2Rz"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Jah",
         "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
@@ -789,7 +821,75 @@
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
     },
     {
-      "added_at": "2023-08-24 22:01:00",
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Diamant",
+        "url": "https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W"
+      },
+      "artists": [
+        {
+          "name": "MASIDI",
+          "url": "https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 168859,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "\ufeff\ufeffAnchovy",
+      "url": "https://open.spotify.com/track/2YX36JGUeTOzGEwjsAQd1U"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Bloqu\u00e9 (Tableau n\u00b02)",
+        "url": "https://open.spotify.com/album/5ZBphS1rQyDJgijNZWAjqr"
+      },
+      "artists": [
+        {
+          "name": "Dr. Yaro & La Folie",
+          "url": "https://open.spotify.com/artist/7lR8WBYvyK9iTHuv5HwUpe"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Bloqu\u00e9 - Tableau n\u00b02",
+      "url": "https://open.spotify.com/track/1xD2uyZqKFAtP4sFb5azYt"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "My Matter",
         "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
@@ -811,122 +911,6 @@
       "duration_ms": 173290,
       "name": "My Matter",
       "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ"
-      },
-      "artists": [
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Personne",
-      "url": "https://open.spotify.com/track/1a2iA1NgFnmnQ8YhisT2Rz"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Ogaranya",
-        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 168610,
-      "name": "Ogaranya",
-      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Diamant",
-        "url": "https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W"
-      },
-      "artists": [
-        {
-          "name": "MASIDI",
-          "url": "https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 168859,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "\ufeff\ufeffAnchovy",
-      "url": "https://open.spotify.com/track/2YX36JGUeTOzGEwjsAQd1U"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Bloqu\u00e9 (Tableau n\u00b02)",
-        "url": "https://open.spotify.com/album/5ZBphS1rQyDJgijNZWAjqr"
-      },
-      "artists": [
-        {
-          "name": "Dr. Yaro & La Folie",
-          "url": "https://open.spotify.com/artist/7lR8WBYvyK9iTHuv5HwUpe"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Bloqu\u00e9 - Tableau n\u00b02",
-      "url": "https://open.spotify.com/track/1xD2uyZqKFAtP4sFb5azYt"
-    },
-    {
-      "added_at": "2023-08-24 22:01:00",
-      "album": {
-        "name": "Chop Time, No Friend",
-        "url": "https://open.spotify.com/album/7lwDFyzcdCZpjUzpDku6dY"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168150,
-      "name": "Chop Time, No Friend",
-      "url": "https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz"
     }
   ],
   "unique_name": "Afro Hits",

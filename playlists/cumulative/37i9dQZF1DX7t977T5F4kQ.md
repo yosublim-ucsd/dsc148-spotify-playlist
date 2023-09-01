@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=MIJ4gUVgSQilplA68rEQFQ">Kelvyn Boy</a>
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S?si=shPnXqyhTT\-G7lLUAqHk\-Q">Wendy Shay</a>
 
-220 songs - 11 hr 40 min
+221 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bambambila](https://open.spotify.com/track/0pra2tzfUFD43rP2VwVOHT) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Bambambila](https://open.spotify.com/album/1DQxKutWIFmjepMVav6FBh) | 2:34 | 2023-08-17 | 2023-08-19 |
 | [BAYIN'YAA \(Mad Dog\)](https://open.spotify.com/track/2XXZpGsijSDPEh5opFFvvX) | [Fancy Gadam](https://open.spotify.com/artist/3uDHTGGaPazfBhlfXtQyzc) | [BAYIN'YAA \(Mad Dog\)](https://open.spotify.com/album/3PwhfGA64MMYAZjdqnDzsJ) | 3:40 | 2022-12-18 | 2023-01-13 |
 | [Beautiful](https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Beautiful](https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST) | 3:07 | 2023-03-02 | 2023-06-03 |
-| [Because of Money](https://open.spotify.com/track/5kHiZGMCGtNFYOzHNXALcU) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Because of Money](https://open.spotify.com/album/3crewNeNq67trTPOYc4bPw) | 2:54 | 2023-08-17 |  |
+| [Because of Money](https://open.spotify.com/track/5kHiZGMCGtNFYOzHNXALcU) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Because of Money](https://open.spotify.com/album/3crewNeNq67trTPOYc4bPw) | 2:54 | 2023-08-17 | 2023-09-01 |
 | [Billionaire](https://open.spotify.com/track/67BVAiOqovJtuKUMpqfFXM) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Billionaire](https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH) | 3:11 | 2022-11-18 | 2023-02-24 |
 | [Blessed](https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Blessed](https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7) | 2:55 | 2022-11-04 |  |
 | [Blessed](https://open.spotify.com/track/3qBGf7ZlkiT9FRgxigUYOT) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Blessed](https://open.spotify.com/album/6zjTiaL3Q1WdSmDhJtXPxg) | 3:24 | 2022-12-18 | 2023-01-13 |
@@ -201,6 +201,7 @@
 | [Super Super](https://open.spotify.com/track/5uTchNrLEREPxobWrFQHx8) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Super Super](https://open.spotify.com/album/3dZj1zWLCn0LlGIUNayrUT) | 2:20 | 2023-05-12 | 2023-06-10 |
 | [Survivor](https://open.spotify.com/track/2FUyod5LVoX1JcgesHVfKk) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Survivor](https://open.spotify.com/album/4dhy5PaAbgs0hloWYFWkmO) | 2:25 | 2022-11-04 | 2023-02-24 |
 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 | 2022-11-04 |  |
+| [Taxi Man](https://open.spotify.com/track/1mTqMAquA9C5GmhuxL9LE9) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [DJ Lara Fraser](https://open.spotify.com/artist/15m07VNwsg2P2RqwcvEZc4) | [Taxi Man](https://open.spotify.com/album/5c5ygfhZh0L7EEQeEgB7ml) | 3:07 | 2023-08-31 |  |
 | [Temptation](https://open.spotify.com/track/1wZfdwMq8dgacs2CF1mT7x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [PITJ](https://open.spotify.com/album/2YLTD3ctvprBZqF3nBspik) | 2:15 | 2023-08-10 |  |
 | [The End \(Nicotine\)](https://open.spotify.com/track/5l1DdcMPmSbN3qfTDbArj8) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [The End \(Nicotine\)](https://open.spotify.com/album/1655zT6VbJkNL5UJPCr4NS) | 2:35 | 2023-02-16 | 2023-03-11 |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-11-04 |  |

@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-299 songs - 12 hr 49 min
+300 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,13 +39,13 @@
 | [Best friends](https://open.spotify.com/track/0yU9Qy2A7tCrhobBuKnnvE) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Best friends](https://open.spotify.com/album/4ALkcz004EhEw7PlFRFEBk) | 1:23 | 2023-05-09 | 2023-08-26 |
 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 | 2022-06-17 | 2023-05-10 |
 | [Blank Stare Happy](https://open.spotify.com/track/2Vqg7SshnMUZJskFoxcYSE) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Seeking Song](https://open.spotify.com/album/1iIIoca3SIMmfa4hqgeyod) | 2:56 | 2023-08-24 |  |
-| [Bliss](https://open.spotify.com/track/6wAqgXF6Ev4V1Fd2EhZ03e) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Portalegre](https://open.spotify.com/album/5HJun0OOsQdgTZt5ixK5K6) | 3:24 | 2022-03-04 |  |
+| [Bliss](https://open.spotify.com/track/6wAqgXF6Ev4V1Fd2EhZ03e) | [Josiah Mitchell](https://open.spotify.com/artist/6ADi5pFQDjbPqV3V1z4iUZ) | [Portalegre](https://open.spotify.com/album/5HJun0OOsQdgTZt5ixK5K6) | 3:24 | 2022-03-04 | 2023-09-01 |
 | [Blue Saints](https://open.spotify.com/track/4xGURmgS8X18XGw07hK9OQ) | [Paris Pompey](https://open.spotify.com/artist/2Kt6borByO4ARxCSf9hOfq) | [Blue Saints](https://open.spotify.com/album/4kLAWZXLS2h4IyfGSq9qp8) | 2:00 | 2022-07-08 | 2022-11-18 |
 | [Blush](https://open.spotify.com/track/02lN91c8sceWQBD7JVhYaz) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Blush](https://open.spotify.com/album/6Gcvlj6eQHvDSpU9nMM3M2) | 2:29 | 2023-04-21 |  |
 | [Bonfire Blues](https://open.spotify.com/track/75pGTQsLr1M2nQWrNQxBSn) | [James Saunder](https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB) | [Bonfire Blues](https://open.spotify.com/album/0aYVVLBqWT6v5s7hHk4r5n) | 1:27 | 2022-10-07 | 2023-06-14 |
 | [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 | 2022-05-27 | 2022-12-10 |
 | [Bright River](https://open.spotify.com/track/1cChixGcMwJEJHyNWY4zqj) | [Kari Peterson](https://open.spotify.com/artist/0g8tWO2SWoLIRaCiXWky5w) | [Bright River](https://open.spotify.com/album/1Tjpg01wo1NwaGTE6vkYFn) | 3:21 | 2022-03-04 |  |
-| [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 | 2023-05-09 |  |
+| [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 | 2023-05-09 | 2023-09-01 |
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2022-03-04 | 2022-09-17 |
 | [By Your Side](https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 3:11 | 2022-03-04 | 2022-07-22 |
 | [Caledonia](https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ) | [Selena Dominguez](https://open.spotify.com/artist/2NixYvC1pTi52NazQO8zq6) | [Caledonia](https://open.spotify.com/album/4g2vl00ThtZT3xQW8BJIdz) | 3:28 | 2022-03-04 | 2023-03-10 |
@@ -70,7 +70,7 @@
 | [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Benjamin Fitzpatrick](https://open.spotify.com/artist/3IXaliW54FH8AanaBHlqnW) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 | 2022-03-04 | 2022-10-29 |
 | [Courtyard Caverns](https://open.spotify.com/track/5NV09w1TsRYEndFnbnGDrB) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:30 | 2022-03-04 | 2022-07-22 |
 | [Cozy](https://open.spotify.com/track/0X0h2w5ZSArxZOcs3k2HAV) | [Marucs Winford](https://open.spotify.com/artist/4olra7Ebf6ENkggpYzVJtW) | [Cozy](https://open.spotify.com/album/0e8TxgBqfiCWhbLPjaaKA7) | 2:04 | 2022-05-27 |  |
-| [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-04-21 |  |
+| [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-04-21 | 2023-09-01 |
 | [Desert Rose](https://open.spotify.com/track/0MPgkoIlmnaSH5VYDMpSNe) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy) | 1:51 | 2022-03-04 | 2022-05-27 |
 | [Dew](https://open.spotify.com/track/2AgbBeirZsQscZYJuZYO8t) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Dew](https://open.spotify.com/album/1ihmY5wn40fLchhW60Ibjg) | 2:02 | 2022-10-07 | 2023-05-10 |
 | [Diguil](https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Diguil](https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2) | 3:17 | 2022-03-04 | 2022-07-22 |
@@ -132,7 +132,7 @@
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-03-04 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-04 |  |
 | [Highway 62](https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Highway 62](https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD) | 2:41 | 2023-03-10 |  |
-| [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 |  |
+| [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 | 2023-09-01 |
 | [Home](https://open.spotify.com/track/6xidiG4MYukn4scIc8z9ya) | [Pacecamp](https://open.spotify.com/artist/1k3YN6p4gb48dCrbLgwbht) | [Pacecamp](https://open.spotify.com/album/6Zqz556VwtsGihABRGb30i) | 2:16 | 2022-03-04 | 2022-04-22 |
 | [Hometown](https://open.spotify.com/track/5lvCd2cod6ehTI6rCXgW9x) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/0PXK9FNnsHU72wTz7uMMRA) | 2:02 | 2022-10-28 | 2022-12-10 |
 | [Hometown](https://open.spotify.com/track/6CB44WdB5DhGtzMiaQ11Rr) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/6ooTLhKe5yD5LC4bL4fI7f) | 2:02 | 2022-09-02 | 2022-11-05 |
@@ -283,7 +283,8 @@
 | [Valle](https://open.spotify.com/track/5mXnKbqYinLRA5SRD9KNjY) | [Tones Of Essence](https://open.spotify.com/artist/0o4w1evQJCmD1a4YCwU9oA) | [Valle](https://open.spotify.com/album/2QSWVrj5I0tIOTb39jgQZA) | 2:22 | 2022-06-10 | 2022-07-22 |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-03-04 | 2022-07-08 |
 | [Vedana](https://open.spotify.com/track/1DxPQ0ZGbg6uJyBApXwYRP) | [Eugenia Russo](https://open.spotify.com/artist/1ozt8bFZUS8nHkKQ5eMr4O) | [Vedana](https://open.spotify.com/album/2VSWEzLFtAmsDUgeb9fEPM) | 2:33 | 2022-05-27 | 2022-12-10 |
-| [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-03-04 |  |
+| [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |
+| [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-03-04 | 2023-09-01 |
 | [Waiting](https://open.spotify.com/track/6Zq6tANmR79uUWS58OUglp) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Waiting](https://open.spotify.com/album/0wZfKkKEbZ89LjEPIqxLJE) | 2:07 | 2022-12-09 |  |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2022-03-04 | 2023-01-20 |
 | [Waterfall](https://open.spotify.com/track/4yfJrK5whv2XCvp6JEwayO) | [Pether Walth](https://open.spotify.com/artist/7KsO5zRoKDB9DumlFYRNW1) | [Waterfall](https://open.spotify.com/album/1F5ltuidSbJFydkutXmMMl) | 1:52 | 2023-05-09 | 2023-08-26 |
@@ -297,7 +298,7 @@
 | [When You Hold Me](https://open.spotify.com/track/4mDch7mKVDPFcF8TD5v6p6) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Everythings Better With You](https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf) | 2:10 | 2022-03-04 |  |
 | [When You´re Gone](https://open.spotify.com/track/3eRslDh4lTtUFdMhttb6gc) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [When You´re Gone](https://open.spotify.com/album/7DpMvQz3HxBdJMMaGvZtsf) | 3:45 | 2022-06-10 | 2022-07-08 |
 | [While You Waited](https://open.spotify.com/track/6HRH0Y8gia8VPbWC016Om3) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [While You Waited](https://open.spotify.com/album/3NIH1WpZiLV1eQo3UhlM7b) | 1:58 | 2022-03-04 | 2022-10-07 |
-| [Whisper](https://open.spotify.com/track/6FNat5nqFlDpksBlvTX4n2) | [Marty Defough](https://open.spotify.com/artist/5IeOpT1hJjJsbhpQTpErpt) | [Whisper](https://open.spotify.com/album/0CSv2I9G6woAROWzuNAGCw) | 2:07 | 2023-04-21 |  |
+| [Whisper](https://open.spotify.com/track/6FNat5nqFlDpksBlvTX4n2) | [Marty Defough](https://open.spotify.com/artist/5IeOpT1hJjJsbhpQTpErpt) | [Whisper](https://open.spotify.com/album/0CSv2I9G6woAROWzuNAGCw) | 2:07 | 2023-04-21 | 2023-09-01 |
 | [Wholeness](https://open.spotify.com/track/1jjZPPUTXBkvAzohTyFyKR) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wholeness](https://open.spotify.com/album/2A6ZqxxcjPGoCkl8299S39) | 3:18 | 2022-03-04 | 2022-04-06 |
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-03-04 | 2022-07-22 |
 | [Windward Breath](https://open.spotify.com/track/65o5SX8EGxCoPhTh31YI94) | [Playfall](https://open.spotify.com/artist/0pqHT6ERaAgl6rawFnytRS) | [Situations](https://open.spotify.com/album/5jhBDjpYs8hBJTBR1HVxxp) | 2:35 | 2022-03-04 | 2022-07-22 |
@@ -305,7 +306,7 @@
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 |  |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 |  |
 | [Wordless](https://open.spotify.com/track/5X5sk7uUFqDYQSUXhJP2jg) | [Mell Woods](https://open.spotify.com/artist/4JapX3Eh1ncrfxZBaNvc6I) | [Wordless](https://open.spotify.com/album/7rfTvJgJZhlG5e5zeUrZtI) | 4:33 | 2022-10-07 | 2023-03-25 |
-| [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-24 |  |
+| [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-24 | 2023-09-01 |
 | [Zenith](https://open.spotify.com/track/1kinFdrDDnmBhrGyCIGrM3) | [Maxime La Pierre](https://open.spotify.com/artist/2cEK29tjbvZltwtXcXhq8w) | [Caleidoscope](https://open.spotify.com/album/1X5bu0XoGfIZGOlWhkbxam) | 2:55 | 2022-03-04 | 2022-07-22 |
 
 \*This playlist was first scraped on 2022-03-15. Prior content cannot be recovered.

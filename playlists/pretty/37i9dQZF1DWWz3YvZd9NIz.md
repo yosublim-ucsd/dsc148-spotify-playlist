@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,762 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,303 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 |
 | 70 | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/track/6dHfWCHrgS2edtCqfMDnrf) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [ARK8](https://open.spotify.com/artist/6kTcTX6mM97SiF8D64B6AT) | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/album/4LjPuviAC9iGENpSNZ2jZv) | 2:27 |
 
-Snapshot ID: `MCxkY2E4Y2I4ZDk2NWY3MzRiNmQ4ZDA4MmIwNDM2NTc2NWY1ZjAwZmM1`
+Snapshot ID: `MCxhYzE3Nzg3NmJjNzg1NDNhYWQzMDExODFmZGEzYWI0ZmUyNGFhNTYw`

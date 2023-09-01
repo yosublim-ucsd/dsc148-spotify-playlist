@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Il Ghost in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Vins in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 149118,
       "name": "4LOCOS",
       "url": "https://open.spotify.com/track/2ikdZFKR2sEKlvbjwSs1ya"
@@ -1621,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "BICRAVE",
+        "url": "https://open.spotify.com/album/61SKXlunB3YD9qhW4LHecp"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        },
+        {
+          "name": "MALTY 2BZ",
+          "url": "https://open.spotify.com/artist/5A7u47fziMdcEMunHjT8Kf"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "BICRAVE",
+      "url": "https://open.spotify.com/track/1HysCrlm9lxpFdCxeKHw0c"
+    },
+    {
+      "album": {
         "name": "Big Don Dada",
         "url": "https://open.spotify.com/album/00Q0BOTspDIZXFgZ4qHAHG"
       },
@@ -1768,7 +1790,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 142222,
       "name": "Bipolare",
       "url": "https://open.spotify.com/track/6gvJmi8NRtWKOFZgemB97X"
@@ -3060,6 +3082,24 @@
       "duration_ms": 171958,
       "name": "Click",
       "url": "https://open.spotify.com/track/4RXh5hSHOujWqnbYNcqL4m"
+    },
+    {
+      "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/6MquyToGeCjLfBucQFz6b2"
+      },
+      "artists": [
+        {
+          "name": "Ramzes",
+          "url": "https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/1OISpjS8zoP8HcGyFghGRK"
     },
     {
       "album": {
@@ -7134,7 +7174,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 136850,
       "name": "LA MULA",
       "url": "https://open.spotify.com/track/5WcctLfufHRiiAJsH946my"
@@ -9843,6 +9883,28 @@
     },
     {
       "album": {
+        "name": "OH MIO DIO",
+        "url": "https://open.spotify.com/album/5zFDxiDnv7dk7xmcwpfjVO"
+      },
+      "artists": [
+        {
+          "name": "Delaru\u00e0",
+          "url": "https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt"
+        },
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3HRMe06vdRgaES4eEh1Pwo"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112131,
+      "name": "OH MIO DIO",
+      "url": "https://open.spotify.com/track/4oy0YfpS0jl68DD0QBNyzX"
+    },
+    {
+      "album": {
         "name": "Oh M\u00e0",
         "url": "https://open.spotify.com/album/0CS2ggLHqLMTbotnb1Hney"
       },
@@ -11464,7 +11526,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 151090,
       "name": "RIGOR MORTIS",
       "url": "https://open.spotify.com/track/4FdpcG6VIdvt1UBPWQmCYs"
@@ -11816,6 +11878,24 @@
       "duration_ms": 133103,
       "name": "SACRIFICIO (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6WGyWEsaTmhqnWFkaMFjV0"
+    },
+    {
+      "album": {
+        "name": "Salmo (sono il diavolo)",
+        "url": "https://open.spotify.com/album/3uqlIzPXhOur8F0eXJMQex"
+      },
+      "artists": [
+        {
+          "name": "Dot Valentino",
+          "url": "https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "Salmo (sono il diavolo)",
+      "url": "https://open.spotify.com/track/0EDJG68dKUTD1Xr3R0MLiy"
     },
     {
       "album": {
@@ -12358,6 +12438,28 @@
       "duration_ms": 129032,
       "name": "SIDE HOE",
       "url": "https://open.spotify.com/track/5OjDS0tM4rmKe677fLvBL5"
+    },
+    {
+      "album": {
+        "name": "Sidequest",
+        "url": "https://open.spotify.com/album/3jbF8eJkQo7UZwqhVgPqyu"
+      },
+      "artists": [
+        {
+          "name": "Kidhakku",
+          "url": "https://open.spotify.com/artist/0SXyvXgEtR9aXwFJzuBBjU"
+        },
+        {
+          "name": "Ervie",
+          "url": "https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138556,
+      "name": "Sidequest",
+      "url": "https://open.spotify.com/track/5Mbfx9Qzo1xSEQqtMyHX4y"
     },
     {
       "album": {
@@ -13256,7 +13358,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 95663,
       "name": "TEMPORALE",
       "url": "https://open.spotify.com/track/5Wv9d4rqwtsTvAkeJHVjRf"

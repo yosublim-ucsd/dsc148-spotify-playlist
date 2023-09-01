@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "En Vivo En El Emergente 02.06.2023",
+        "url": "https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl"
+      },
+      "artists": [
+        {
+          "name": "Winona Riders",
+          "url": "https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 617491,
+      "name": "Dorado y P\u00farpura - En Vivo",
+      "url": "https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB"
+    },
+    {
+      "album": {
         "name": "Una Noche de Rock en Medallo (En Vivo)",
         "url": "https://open.spotify.com/album/3D9lOWSIxUG37alYDOACB3"
       },
@@ -3401,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Ojos Rojos (En Vivo)",
+        "url": "https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200136,
+      "name": "Ojos Rojos - En vivo",
+      "url": "https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19"
+    },
+    {
+      "album": {
         "name": "Once (En Vivo)",
         "url": "https://open.spotify.com/album/50CiSjlh8UQmAlViVVy2E8"
       },
@@ -4110,7 +4146,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 230528,
       "name": "Se Fue al Cielo - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 284756,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
@@ -4606,7 +4642,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 231111,
       "name": "Te Quedas",
       "url": "https://open.spotify.com/track/0JRyH48L4R0xpMBD3G71nV"
@@ -5140,7 +5176,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 321253,
       "name": "Vida de Topos - En Vivo",
       "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"

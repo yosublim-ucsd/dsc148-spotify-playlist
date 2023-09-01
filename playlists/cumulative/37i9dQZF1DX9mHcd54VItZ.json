@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY?si=45WvUFO9R5G2H8_5yJFU8w\">Aya Nixon</a>",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=GelQWYzpTk-l2uPtHFRCzA\">Spoegwolf</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Bietjie Bipol\u00ear",
+        "url": "https://open.spotify.com/album/2kw0oaEV8IeAtfJ3PBRA3t"
+      },
+      "artists": [
+        {
+          "name": "Brigite Duvenhage",
+          "url": "https://open.spotify.com/artist/0UBwRVPVLHsViFuFcpiPB4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Bietjie Bipol\u00ear",
+      "url": "https://open.spotify.com/track/6vxQqhd7fTIKVOa9CT3WYd"
+    },
+    {
+      "album": {
         "name": "Big Mistakes",
         "url": "https://open.spotify.com/album/6k4QPx0m28c6UlXqkiPnlC"
       },
@@ -863,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Lente",
+        "url": "https://open.spotify.com/album/0npVagHg875j2gbr4CAvzS"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179391,
+      "name": "Cloetesville",
+      "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
+    },
+    {
+      "album": {
         "name": "Cocoon",
         "url": "https://open.spotify.com/album/083Wk2aDbhui5sU7eDyjDi"
       },
@@ -910,7 +946,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 116241,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/0bDjAsvbqxoR75Te8SqU8P"
@@ -986,6 +1022,24 @@
       "duration_ms": 172189,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/2N0OwIqsXpeV4IGvOBUyhD"
+    },
+    {
+      "album": {
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/0JBFWuICgQnyvb6rjDsA0d"
+      },
+      "artists": [
+        {
+          "name": "Dream Demon",
+          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192290,
+      "name": "Contagious",
+      "url": "https://open.spotify.com/track/5JtXQeRS0pznrpwKWRHmk3"
     },
     {
       "album": {
@@ -1347,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Bo Dorp",
+        "url": "https://open.spotify.com/album/0ob0rVAs13K2PSZeJ8P49w"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Visagie",
+          "url": "https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162180,
+      "name": "Die Man",
+      "url": "https://open.spotify.com/track/0UOflpM3Q5WGmigPr4W2We"
+    },
+    {
+      "album": {
         "name": "Die Son",
         "url": "https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ"
       },
@@ -1412,7 +1484,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 240000,
       "name": "Doomsday Clock",
       "url": "https://open.spotify.com/track/49zvyx4iOb0l18rPXkfC8a"
@@ -1870,7 +1942,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 257407,
       "name": "Feeding the Feeling",
       "url": "https://open.spotify.com/track/4vTXU11OaLJVFsZGJfY6eB"
@@ -2018,7 +2090,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 224476,
       "name": "Garden of the Snake",
       "url": "https://open.spotify.com/track/2tykrr9Rl5xR3Mb7IoNjMG"
@@ -2344,6 +2416,24 @@
       "duration_ms": 216450,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/31oIFvE1Vc8wnKqPyRdIgu"
+    },
+    {
+      "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/7eHKq7xyL3UBRP0hwPUGq1"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245638,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/2em2HgEcpE1OAJevg8suiw"
     },
     {
       "album": {
@@ -3120,7 +3210,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 207525,
       "name": "Maksimum Volume",
       "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
@@ -3214,7 +3304,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 225733,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/1QxazQmnrfG3tiKGp8mHlZ"
@@ -3567,6 +3657,28 @@
     },
     {
       "album": {
+        "name": "O, My Donner",
+        "url": "https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Hanu De Jong",
+          "url": "https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172750,
+      "name": "O, My Donner",
+      "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
+    },
+    {
+      "album": {
         "name": "Oh No!",
         "url": "https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3"
       },
@@ -3657,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "ONE MORE DAY",
+        "url": "https://open.spotify.com/album/29Agk5eMCnSKWzasCi6XH0"
+      },
+      "artists": [
+        {
+          "name": "Fortunes Fool",
+          "url": "https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "ONE MORE DAY",
+      "url": "https://open.spotify.com/track/3dBlMjiGarWFzOdYevS2xs"
+    },
+    {
+      "album": {
         "name": "Two of a Kind, Pt. 2",
         "url": "https://open.spotify.com/album/1WyS8TcOhUmN6XZdlJtYcc"
       },
@@ -3726,7 +3856,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 183000,
       "name": "Oud Geword",
       "url": "https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz"
@@ -3914,7 +4044,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 209140,
       "name": "Pink Codeine",
       "url": "https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp"
@@ -4968,10 +5098,28 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 233622,
       "name": "Synesthesia",
       "url": "https://open.spotify.com/track/0hBQalBDzf9sjhvXpQUqEh"
+    },
+    {
+      "album": {
+        "name": "Rising After Midnight",
+        "url": "https://open.spotify.com/album/7vWHO6IMU8NqLDrNvN5GRZ"
+      },
+      "artists": [
+        {
+          "name": "Marene",
+          "url": "https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223103,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/6mMLPWw1Dc8sNu8yJOhsOZ"
     },
     {
       "album": {
@@ -5124,7 +5272,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 167679,
       "name": "The Colour and the Shape",
       "url": "https://open.spotify.com/track/6SCNjryU6mK5Fm1St3YcHG"
@@ -5396,7 +5544,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 225160,
       "name": "Toe Roep Ek Jou Naam",
       "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
@@ -5624,6 +5772,42 @@
       "duration_ms": 190066,
       "name": "Verlede",
       "url": "https://open.spotify.com/track/4Rv72ElRdcLDMi7r5ENtRz"
+    },
+    {
+      "album": {
+        "name": "Victim of Data",
+        "url": "https://open.spotify.com/album/3Q1NdGdXpdVh3DRXlQ3wrb"
+      },
+      "artists": [
+        {
+          "name": "Shameless Band",
+          "url": "https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Victim of Data",
+      "url": "https://open.spotify.com/track/5DESqCo3i23bSBUg9r3p7a"
+    },
+    {
+      "album": {
+        "name": "Vir Ewig",
+        "url": "https://open.spotify.com/album/6vFklUu7QaerJHZdwOjpXZ"
+      },
+      "artists": [
+        {
+          "name": "William Wolf",
+          "url": "https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234979,
+      "name": "Vir Ewig",
+      "url": "https://open.spotify.com/track/4duchzNuzguXiPND75nVGr"
     },
     {
       "album": {

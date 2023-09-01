@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy",
+  "snapshot_id": "MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Natal Real",
         "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 256217,
       "name": "Natal Real",
       "url": "https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 267911,
+      "name": "O Melhor Presente",
+      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "#TBT",
         "url": "https://open.spotify.com/album/53aePMus3r7215h43aChgx"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 212175,
       "name": "A Hist\u00f3ria de Cristo",
       "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 267911,
-      "name": "O Melhor Presente",
-      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
     }
   ],
   "unique_name": "Louvores de Natal",

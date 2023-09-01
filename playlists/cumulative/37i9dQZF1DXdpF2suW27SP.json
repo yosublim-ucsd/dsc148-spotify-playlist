@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/0CNJOtFbMOLsah2QqmN9Sh"
+      },
+      "artists": [
+        {
+          "name": "Harley KSD",
+          "url": "https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213139,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/40Ck76s3N3tWOtc1Me4ey3"
+    },
+    {
+      "album": {
         "name": "Abranda (feat. Regula)",
         "url": "https://open.spotify.com/album/6TpLHdnEVcCFdLUDdLri2M"
       },
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 218288,
       "name": "Gorillaz",
       "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
@@ -3492,7 +3510,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 156205,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC"
@@ -5141,6 +5159,24 @@
     },
     {
       "album": {
+        "name": "Paz",
+        "url": "https://open.spotify.com/album/2s1TkBbHp7JxsQGCG9cVKg"
+      },
+      "artists": [
+        {
+          "name": "Apollo G",
+          "url": "https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200006,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/3JSoWtmODOEyZG9MQP6PQQ"
+    },
+    {
+      "album": {
         "name": "Peso",
         "url": "https://open.spotify.com/album/5wDWNP3B0t6ptHtUGNIhza"
       },
@@ -5821,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "Saudades",
+        "url": "https://open.spotify.com/album/71v5WtAmhAec4TaepatISH"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "Saudades",
+      "url": "https://open.spotify.com/track/23l4pQCiOq8QwMXVzVIIvc"
+    },
+    {
+      "album": {
         "name": "Seguran\u00e7a",
         "url": "https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx"
       },
@@ -6338,7 +6392,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 161000,
       "name": "TELELE",
       "url": "https://open.spotify.com/track/6icQRKoMeolKYBV5WKIBv3"

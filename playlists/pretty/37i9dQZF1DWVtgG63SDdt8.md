@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=0da39df30df34d10">Brooke Ligertwood</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,585 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,717 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 30 | [God Had Other Plans](https://open.spotify.com/track/1vRmUeWtU33b7NbNnpPhLc) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [God Had Other Plans](https://open.spotify.com/album/6JRzQqL0lB9lfozC4OZXRd) | 2:03 |
 | 31 | [Help!](https://open.spotify.com/track/7lxxnK2IspUkgdgNwvi43W) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK) | [Help!](https://open.spotify.com/album/5G8lpUlWQbQ8s9P4ey3ZDW) | 2:37 |
 | 32 | [Price](https://open.spotify.com/track/67cCjP8dlKUSksGSUMSLYv) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Summer TKE](https://open.spotify.com/album/4pDg3A1H6ndti3NwXjrfHH) | 2:55 |
-| 33 | [Blessing \(Everywhere I Go\)](https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessing \(Everywhere I Go\)](https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg) | 3:03 |
+| 33 | [Blessings \(Everywhere I Go\)](https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings \(Everywhere I Go\)](https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg) | 3:03 |
 | 34 | [No Limit](https://open.spotify.com/track/3Uhr4IQ0nIHix153cy3yeI) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [No Limit](https://open.spotify.com/album/4E81YM3V5QOwOeWldadMwQ) | 2:11 |
 | 35 | [Nothin](https://open.spotify.com/track/6lFSPsEOgfFxfE3PJOmyXO) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [Dreamers](https://open.spotify.com/album/2ccTA4VvgMt6O3dAXtQDqU) | 3:16 |
 | 36 | [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 90 | [For Kanye](https://open.spotify.com/track/1tZl3gUVPmR8APqBrQn7i6) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [For Kanye](https://open.spotify.com/album/65VugZKk4WpMv1QnIkenOQ) | 2:17 |
 | 91 | [Bend The Whip](https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bend The Whip](https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB) | 2:43 |
 | 92 | [Get Out The Way](https://open.spotify.com/track/1YVt8oina9APslIHQjIjOI) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Get Out The Way](https://open.spotify.com/album/5tu0jIj10M3NQ5aUVRBpeo) | 1:55 |
-| 93 | [MMA Freestyle](https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [MMA Freestyle](https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv) | 2:31 |
+| 93 | [MMA FREESTYLE](https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [MMA FREESTYLE](https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv) | 2:31 |
 | 94 | [WORKOUT](https://open.spotify.com/track/0wapads1fnPZcykH4lHyFU) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Dkg Kie](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [WORKOUT](https://open.spotify.com/album/7AwxTm0N1wwfdSsfdR0kip) | 1:56 |
 | 95 | [Rule Number 1](https://open.spotify.com/track/52xAgN3PBba0B6x7gecG6P) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [Rule Number 1](https://open.spotify.com/album/4rYg1eijKmbBEJIvzWBhS4) | 2:34 |
 | 96 | [Step Into the Light](https://open.spotify.com/track/0Rf66EMPXCwEcTDjL6qKQK) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Step Into the Light](https://open.spotify.com/album/5k5aCR5aCmXpr1ehNRpOJf) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [No Man](https://open.spotify.com/track/2FMS6kEEfi0od4LWczCROt) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [No Man](https://open.spotify.com/album/3iu9Djn63xgZMcH8aBr5oc) | 3:34 |
 | 100 | [Glorious](https://open.spotify.com/track/69QsMKn4bx13murBz1eeOo) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [He Is Friend](https://open.spotify.com/album/3F5uGEJJEJLHH8Y240kovC) | 3:47 |
 
-Snapshot ID: `MCxmMjliNGE1Yjc1ZmVjMjYyY2U4NmIwMThjMzRkYjczNTg2YjVlOTg4`
+Snapshot ID: `MCxmZmVmNjliMTAyMWZiZDc2NDFhZmQzYTljNmI3ODEyNWNjYzQyODBk`

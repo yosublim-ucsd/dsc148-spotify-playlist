@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Paz Court.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,508 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,507 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 8 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 |
 | 9 | [Horas contigo](https://open.spotify.com/track/6Nmqg6NayPzIHUpWDGUSyL) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 2:39 |
 | 10 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 |
-| 11 | [Divina](https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Divina](https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe) | 2:39 |
-| 12 | [Ya Pasó la Vieja](https://open.spotify.com/track/3xIsKve8QasumCXEAJTeVK) | [AlmenDra DelPilar](https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4) | [Rectificar](https://open.spotify.com/album/30RXjLMWvfnWPIst1AOYwq) | 1:40 |
+| 11 | [Ya Pasó la Vieja](https://open.spotify.com/track/3xIsKve8QasumCXEAJTeVK) | [AlmenDra DelPilar](https://open.spotify.com/artist/3Hw6f6nZQytsgW29Hy3gG4) | [Rectificar](https://open.spotify.com/album/30RXjLMWvfnWPIst1AOYwq) | 1:40 |
+| 12 | [Divina](https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Divina](https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe) | 2:39 |
 | 13 | [BIG BANG](https://open.spotify.com/track/06xFmWwVcOUFy3RgmJWN6I) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
-| 14 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 |
-| 15 | [Ulalá](https://open.spotify.com/track/3Iv6BQHkwA6zMUbqNm88Yz) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Qween C.](https://open.spotify.com/album/5R4Nti3wX2RFHX2qhzhEkv) | 4:03 |
+| 14 | [Ulalá](https://open.spotify.com/track/3Iv6BQHkwA6zMUbqNm88Yz) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Qween C.](https://open.spotify.com/album/5R4Nti3wX2RFHX2qhzhEkv) | 4:03 |
+| 15 | [Amarte así](https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Amarte así](https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub) | 3:35 |
 | 16 | [ANTICUECA](https://open.spotify.com/track/4eLdTaWTE9qBjo4957vlQc) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [001](https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1) | 0:55 |
 | 17 | [El Muchacho de los Ojos Tristes \- Sesión Jeanette](https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sesión Jeanette](https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg) | 3:27 |
 | 18 | [Picante](https://open.spotify.com/track/2Ll8wLJonJArsorf8oj2gI) | [22RUZZ](https://open.spotify.com/artist/53IGsPIDPEJbw5PbHdGgaO) | [22](https://open.spotify.com/album/2yb8vQapyQHxDj4t5JlaCw) | 2:02 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 44 | [Negra yo soy](https://open.spotify.com/track/1ZnD15I1GJjIMRcbNzKOIs) | [NEKKI](https://open.spotify.com/artist/15QBk1448CF1yi0sRWffl8), [Bibie Clarel](https://open.spotify.com/artist/7gETaFkd7xN3tvmXsqApIW), [Yinesiya](https://open.spotify.com/artist/3bOpEEWctyiWvEQK6PRqNB) | [Negra yo soy](https://open.spotify.com/album/38cTodODEGLlw1Il6vbDO4) | 4:06 |
 | 45 | [Y Desaparezco](https://open.spotify.com/track/4VCqd7HlmBylZg9IuBNwuB) | [Valü](https://open.spotify.com/artist/6TCcFwuoh0WrNqwmipKXH1) | [Y Desaparezco](https://open.spotify.com/album/4CnVbor1eGuSxaFlQUKBr8) | 3:23 |
 | 46 | [Están Sacrificando](https://open.spotify.com/track/3U9RFMsbcCuX19x7C4YJnv) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Están Sacrificando](https://open.spotify.com/album/51UToZhC87oVvvwaK1edAX) | 3:08 |
-| 47 | [Para que más](https://open.spotify.com/track/2zXUr2usxiKNdaV8uyMh6k) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 3:37 |
-| 48 | [Amores](https://open.spotify.com/track/4cJX9kGnbP7teehHWiYECy) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Hay un fuego](https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V) | 3:56 |
+| 47 | [Amores](https://open.spotify.com/track/4cJX9kGnbP7teehHWiYECy) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Hay un fuego](https://open.spotify.com/album/63ZcAWqpRxNFHsFfxyE67V) | 3:56 |
+| 48 | [Para que más](https://open.spotify.com/track/2zXUr2usxiKNdaV8uyMh6k) | [Luta Cruz](https://open.spotify.com/artist/6Fzbkrh3lrfCZYK8xzZLm7) | [Primera Mujer](https://open.spotify.com/album/5Y4PCUyOZ643BqblohiBjE) | 3:37 |
 | 49 | [Margarita](https://open.spotify.com/track/0mEj8Bj8CQnmNDzdxGhntx) | [CATAROH](https://open.spotify.com/artist/7G090Dm7RJ1lb7riAprrxq) | [Inamable](https://open.spotify.com/album/0wUXGXAL8piK9uq27upBt3) | 2:52 |
 | 50 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 
-Snapshot ID: `MCwxYTE2M2U1MGMwMDc4MjFmYmQ4YWM0YjhjMjkzMzk1MDYxZjc2YzU5`
+Snapshot ID: `MCwzY2U1ZDI5N2FlM2Y1ZmM1NTYyZGIyNWRmMDRhOTU3Njg3NWE4NzM2`

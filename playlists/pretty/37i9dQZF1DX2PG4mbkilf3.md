@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Dylan Sinclair.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,327 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,412 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 67 | [Fever](https://open.spotify.com/track/3uQCVzVNoHISBw5VHvqscY) | [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Fever](https://open.spotify.com/album/6u2P1FApJTEd74ZixHCXRd) | 2:22 |
 | 68 | [LEMON AND LIME](https://open.spotify.com/track/2BJTNiugSpTGTbesQL4FL9) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [Private Name Private Number](https://open.spotify.com/artist/6c9dagfe5XNuF6fwFRXu3A) | [LEMON AND LIME](https://open.spotify.com/album/0whU3bEkOkUIjQmc3Pkran) | 2:48 |
 | 69 | [Healing](https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Healing](https://open.spotify.com/album/7AgjKJQUmWxEcNH0v83tBz) | 1:47 |
-| 70 | [Refill \(feat\. Chiiild and Aáyanna\)](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 |
+| 70 | [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 |
 | 71 | [nothing but the best](https://open.spotify.com/track/4GokiQ2fvDBKcDFcY0Oa8w) | [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [nothing but the best](https://open.spotify.com/album/6agho5mzuin38scgISUKXK) | 2:51 |
 | 72 | [Country Gyal](https://open.spotify.com/track/5TVL1BMpJeXiDxm74LWVBb) | [Chelsea Russell](https://open.spotify.com/artist/5pHdxXO9K1Od0ZKP7Sh6iD) | [Country Gyal](https://open.spotify.com/album/6bn8dl0EeKUP3HlEhkg5r6) | 3:21 |
 | 73 | [Mad At Me](https://open.spotify.com/track/5rDlvQe5W9TjAPsCZJiC0v) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [Mad At Me](https://open.spotify.com/album/19YZWqjzdB21eSPKmqdBVH) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Feeling Like Me](https://open.spotify.com/track/59wIybl7u9hNc2jdwl9U4E) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [Good Problems](https://open.spotify.com/album/3QqJ84wfXrhiVlwsqp8l9N) | 4:17 |
 | 100 | [What's Left?](https://open.spotify.com/track/1x4CYMn8vexAXb5ZgenZqu) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 2:51 |
 
-Snapshot ID: `MCxkYWM2NDdjNDI4MjM4ZDVhMGM2ZmFhYzY0NmZiOTE0OTU0ZTYwMjAz`
+Snapshot ID: `MCxjMjI0NzFkMDA3NWVjYTA0ZWNkOTU3MmNhYjE5ZmFkYmMwZmQ2NTBm`

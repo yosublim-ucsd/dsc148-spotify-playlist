@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-1,093 songs - 2 day 18 hr 44 min
+1,094 songs - 2 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Breathe \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:54 | 2022-01-19 |  |
 | [Bridge over Troubled Water \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/0b0Q8bYchJLk4fCIyJhC0i) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Spotify Singles](https://open.spotify.com/album/6Q9QCXE8F7ubD0PE2bialv) | 5:00 | 2022-01-19 |  |
 | [Broccoli \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6TdtffAIKX1VlGeDtadh2E) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Spotify Singles](https://open.spotify.com/album/2wxppKhtOtdVmulah3qxow) | 2:43 | 2022-01-19 |  |
-| [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-19 |  |
+| [BRUTAL](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-19 |  |
 | [Bubble Gum \- Spotify Singles](https://open.spotify.com/track/2kWvxORGE9opGvBigmJsRq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Spotify Singles](https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF) | 3:06 | 2023-03-29 |  |
 | [Buena Sera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spotify Singles](https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl) | 3:14 | 2022-01-19 |  |
 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 | 2022-01-19 |  |
@@ -744,7 +744,8 @@
 | [Over and Over and Over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0xifWW42VYaKL2kTJ7b07X) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Spotify Singles](https://open.spotify.com/album/5QBJSK8CPp0MQZBst4cdni) | 3:51 | 2022-01-19 |  |
 | [Own Light \(What Hearts Are For\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2LIVAGWrIwOoY0LMhI7vwu) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Spotify Singles](https://open.spotify.com/album/319mxXyK6WMtGjiRrZV8J1) | 4:10 | 2022-07-05 |  |
 | [Own Light \(What Hearts Are For\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6pBwSf09BuKnTPDsy6BBqY) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Spotify Singles](https://open.spotify.com/album/7Kk6sx9YaaYs3LQ6FlnZui) | 4:10 | 2022-01-19 | 2022-07-29 |
-| [Oxygen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3ljlhcv55VyRMSK9Vh84PY) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4) | 3:32 | 2022-01-19 |  |
+| [Oxygen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3ljlhcv55VyRMSK9Vh84PY) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4) | 3:32 | 2022-01-19 | 2023-09-01 |
+| [Oxygen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/73giS0qGdJBZfjzEExxQuq) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/1j86WtctFE7fCDSJFux5Zt) | 3:32 | 2023-05-31 |  |
 | [P's and Q's \- Live from Abbey Road Studios, London](https://open.spotify.com/track/08UIshEdTPA9OoWj1tkFkI) | [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Spotify Singles](https://open.spotify.com/album/2mkBVk2lN6uS2vqXXaM03O) | 4:15 | 2022-01-19 |  |
 | [Pablo Picasso \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1rCBSWN2vjJ8C7qnxnmw3m) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Spotify Singles](https://open.spotify.com/album/5QBJSK8CPp0MQZBst4cdni) | 6:28 | 2022-01-19 |  |
 | [Painting \(Masterpiece\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Spotify Singles](https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq) | 4:21 | 2022-01-19 |  |

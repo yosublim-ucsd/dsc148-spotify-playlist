@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,774,074 likes - 300 songs - 14 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,774,408 likes - 300 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 9 | [Rest And Sleep](https://open.spotify.com/track/1dP2Rd9ViYTNv3yVO2KEY1) | [Youssouf Yaro](https://open.spotify.com/artist/7pFjwqCdPUodEXf6mfoM7g) | [Rest And Sleep](https://open.spotify.com/album/0DTIAeAIV5iLToCDdrdsyG) | 3:23 |
 | 10 | [All Is Still](https://open.spotify.com/track/3TsffbDvNE3vlSujA6Q3zl) | [Sayono](https://open.spotify.com/artist/0LABSw5NxTGsqlRQxlGQHD) | [Embra](https://open.spotify.com/album/7GJ74L6ueowc6xXR2HzyVa) | 2:39 |
 | 11 | [Into Oblivion](https://open.spotify.com/track/2pleiYX4N2GUW4BkFw1bxz) | [Mikkel Boyer](https://open.spotify.com/artist/1HhdV78nBxhhXAnJKVDEu8) | [Into Oblivion](https://open.spotify.com/album/1Y2cUUmY6i4jUtm6vCMxeu) | 3:04 |
-| 12 | [Spiritual](https://open.spotify.com/track/1aZQokBzBRVdm8d24yPi8P) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Spiritual](https://open.spotify.com/album/1pgpTTjwE9HEdkK9RYQ2VG) | 3:18 |
-| 13 | [Before The Full Moon](https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Before The Full Moon.](https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf) | 3:18 |
-| 14 | [Liquid Rainbow](https://open.spotify.com/track/3ex8tsDC5KYifvmmoxc3il) | [Santana Ruiz](https://open.spotify.com/artist/3OswQADkQvdWSqFtNH2YqQ) | [Liquid Rainbow](https://open.spotify.com/album/0w6ObU4TyxzkVQNEHWd1JK) | 3:28 |
-| 15 | [Szeretet](https://open.spotify.com/track/2DSwyVUVFR80p19iJe1q3G) | [Csaba Vitez](https://open.spotify.com/artist/1DSUjK31Vgu7ejMVSxhJfL) | [Szeretet](https://open.spotify.com/album/1zKgegS1nwzcAR0mW1ACHZ) | 3:01 |
-| 16 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
-| 17 | [After Dark Ram](https://open.spotify.com/track/08CEcXp5nqHcv4d72cGJW3) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [After Dark Ram](https://open.spotify.com/album/5rto44fN3emc6lQcC1KxOc) | 2:43 |
-| 18 | [Prosperum](https://open.spotify.com/track/1qoWYQ6l3g4b7D6eJhzkjt) | [Yara Blom](https://open.spotify.com/artist/45MwI8cnjr9zaf9BKwfoKr) | [Prosperum](https://open.spotify.com/album/3RKzmtRaGOKBt0Fn53r3au) | 2:40 |
-| 19 | [I Believe I Can Fly](https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Floating On Clouds](https://open.spotify.com/album/5blLnf493gd6RQGPreukch) | 3:14 |
-| 20 | [My Safest Place To Hide](https://open.spotify.com/track/1NlkwVK9fM87f3MCudK3LF) | [Tiara Greenfield](https://open.spotify.com/artist/3PiRnA3K7grsa4ZQ41OGUO) | [My Safest Place To Hide](https://open.spotify.com/album/1rxmhMvsTedir8x8hFjcTH) | 3:09 |
-| 21 | [Red Night](https://open.spotify.com/track/0lXSZCwqt14UPBeNxA45Ou) | [Torpor Snooze](https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx) | [Red Night](https://open.spotify.com/album/7oMHfYD5H0hWMy2q3kWzxY) | 3:25 |
+| 12 | [Pilgrimage](https://open.spotify.com/track/1zezNbZhyMmqWNrhOplWCW) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Pilgrimage](https://open.spotify.com/album/5AwVLeZaasm9k837iDF71g) | 2:50 |
+| 13 | [Spiritual](https://open.spotify.com/track/1aZQokBzBRVdm8d24yPi8P) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Spiritual](https://open.spotify.com/album/1pgpTTjwE9HEdkK9RYQ2VG) | 3:18 |
+| 14 | [Before The Full Moon](https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Before The Full Moon.](https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf) | 3:18 |
+| 15 | [Liquid Rainbow](https://open.spotify.com/track/3ex8tsDC5KYifvmmoxc3il) | [Santana Ruiz](https://open.spotify.com/artist/3OswQADkQvdWSqFtNH2YqQ) | [Liquid Rainbow](https://open.spotify.com/album/0w6ObU4TyxzkVQNEHWd1JK) | 3:28 |
+| 16 | [Szeretet](https://open.spotify.com/track/2DSwyVUVFR80p19iJe1q3G) | [Csaba Vitez](https://open.spotify.com/artist/1DSUjK31Vgu7ejMVSxhJfL) | [Szeretet](https://open.spotify.com/album/1zKgegS1nwzcAR0mW1ACHZ) | 3:01 |
+| 17 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 |
+| 18 | [After Dark Ram](https://open.spotify.com/track/08CEcXp5nqHcv4d72cGJW3) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [After Dark Ram](https://open.spotify.com/album/5rto44fN3emc6lQcC1KxOc) | 2:43 |
+| 19 | [Prosperum](https://open.spotify.com/track/1qoWYQ6l3g4b7D6eJhzkjt) | [Yara Blom](https://open.spotify.com/artist/45MwI8cnjr9zaf9BKwfoKr) | [Prosperum](https://open.spotify.com/album/3RKzmtRaGOKBt0Fn53r3au) | 2:40 |
+| 20 | [I Believe I Can Fly](https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Floating On Clouds](https://open.spotify.com/album/5blLnf493gd6RQGPreukch) | 3:14 |
+| 21 | [My Safest Place To Hide](https://open.spotify.com/track/1NlkwVK9fM87f3MCudK3LF) | [Tiara Greenfield](https://open.spotify.com/artist/3PiRnA3K7grsa4ZQ41OGUO) | [My Safest Place To Hide](https://open.spotify.com/album/1rxmhMvsTedir8x8hFjcTH) | 3:09 |
 | 22 | [Encore Une Fois](https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN) | [Alanna Brooks](https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH) | [Heaven On Earth](https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA) | 3:20 |
 | 23 | [In Balance](https://open.spotify.com/track/5ipYoy8xS7FCAZqGJl0cvg) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [The Deep Blue](https://open.spotify.com/album/2v3A2xyIhcjed6SeROftkB) | 2:46 |
 | 24 | [Amber](https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Into The Dawn](https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1) | 3:22 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 299 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 |
 | 300 | [Ruhig](https://open.spotify.com/track/3zElUjNtIsgfRmC0r7ETgB) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Ruhig](https://open.spotify.com/album/5Qon2Hkc9b73ZkWBfnYXYC) | 2:46 |
 
-Snapshot ID: `MCw4MzA2YWVjN2E3OWVjNGQ3YjM5OTc1ZDRiZDM4NjMyOWE5MGQyODdi`
+Snapshot ID: `MCxkOWQxYmRhOGNlY2FiMjk0YzJlZmI2ZjljOGQ2YWM0Y2JmMDQ3ZWE1`

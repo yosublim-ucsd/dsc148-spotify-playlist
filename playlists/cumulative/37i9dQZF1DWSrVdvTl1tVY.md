@@ -2,9 +2,9 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: D.O.D & Jax Jones
+> The biggest house bangers popping off in the UK, let's go! Leftwing : Kody
 
-580 songs - 1 day 10 hr 34 min
+584 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Don't Stop](https://open.spotify.com/track/1F1cCUl7LcUB57Q5W4MszE) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Don't Stop](https://open.spotify.com/album/1WdCTzOv2fUER2VZB3awFA) | 3:28 | 2022-07-20 | 2022-07-22 |
 | [Don't Stop Movin'](https://open.spotify.com/track/5lc7Fkqt3GdHbM8F77CJ1E) | [ACT ON](https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Don’t Stop Movin’](https://open.spotify.com/album/2PFGnH4cnaZFay0b5pEJi0) | 2:38 | 2022-04-08 | 2022-06-10 |
 | [Don't Tell Me](https://open.spotify.com/track/38CuN4CRLP5s76gE2PVmgD) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Don't Tell Me](https://open.spotify.com/album/0UkxPgr1xYlGMxzm6GiLK6) | 2:49 | 2023-05-05 |  |
+| [Don't Ya Want It](https://open.spotify.com/track/0hAKAySNyqvjMyjMFG0lY9) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Garage Queen EP](https://open.spotify.com/album/32SCg0bTY5tdRUGyUeQZig) | 3:03 | 2023-09-01 |  |
 | [Don’t Walk Away](https://open.spotify.com/track/2TNkWEQkEj1ksOydBwurwF) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Don’t Walk Away](https://open.spotify.com/album/3YnMECirAZJqx2e40IiEC2) | 2:33 | 2022-10-21 | 2023-01-13 |
 | [Down \(feat\. Akua\)](https://open.spotify.com/track/7G1l8cG18odMvuDFczh1WH) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Akua](https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi) | [Down \(feat\. Akua\)](https://open.spotify.com/album/1c14Z3NLNcsPmU8P5xg4OO) | 2:38 | 2021-12-17 | 2022-01-07 |
 | [DRMR](https://open.spotify.com/track/4UgVrmgkzGFf6eQQEfUd1r) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [DRMR](https://open.spotify.com/album/3m0QwDurxW1DYa0Vb0LWN3) | 5:00 | 2022-06-16 | 2022-07-22 |
@@ -181,6 +182,7 @@
 | [Feels](https://open.spotify.com/track/7eJholoRepkkrXmXmPTo4g) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Just Aaron](https://open.spotify.com/artist/3P0enmC2QzJvz1alkJydUk), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Feels EP](https://open.spotify.com/album/2SGuIvWlWhB2M7xKXbFm8F) | 3:57 | 2022-01-07 | 2022-04-23 |
 | [Feels Darker](https://open.spotify.com/track/11UMhOKrwShiukxOnRX2mp) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Feels Darker](https://open.spotify.com/album/0PNLjzbkEvzQBKYVwTgnNI) | 3:15 | 2023-03-03 | 2023-08-04 |
 | [Feels Darker \(Feel It\)](https://open.spotify.com/track/4BbBV9dK1kMqD7gGypB5WO) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Feels Darker \(Feel It\)](https://open.spotify.com/album/4CM6i2MQ9dm8kIjk0wh55g) | 3:23 | 2023-08-03 |  |
+| [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2023-09-01 |  |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-03-18 | 2022-07-29 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-22 | 2022-08-12 |
 | [Fever](https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fever](https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM) | 2:52 | 2023-04-06 | 2023-07-21 |
@@ -295,6 +297,7 @@
 | [La Murga \- Michael's Midnight Mix](https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [La Murga \(Michael's Midnight Mix\)](https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M) | 3:26 | 2022-07-07 | 2022-10-01 |
 | [Last All Night](https://open.spotify.com/track/7JRnlLPASSHnwz9ntzvqfC) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Last All Night](https://open.spotify.com/album/622SMJPYsk5LiMxckqN1dE) | 3:37 | 2022-02-18 | 2022-06-17 |
 | [Last Thought \(feat\. MKLA\) \- Jodie Harsh Remix](https://open.spotify.com/track/6BEoZqhw19Zo684zAd9jVT) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Last Thought \(feat\. MKLA\) \[Jodie Harsh Remix\]](https://open.spotify.com/album/3RUU7Meco8O6lg0Q2bGK0R) | 2:57 | 2022-01-14 | 2022-02-18 |
+| [Lemon & Lime](https://open.spotify.com/track/3tJrMqKlgX81AkZnSUG8AO) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Mandalo](https://open.spotify.com/artist/7tqyHG5xJS1EqlXzl78eM4) | [Lemon & Lime](https://open.spotify.com/album/5xCWWknMlnS1qnU9ryzkkD) | 3:04 | 2023-09-01 |  |
 | [Lennon](https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Lennon](https://open.spotify.com/album/4Whx04xrZZSzMWhKduRWFI) | 3:25 | 2023-01-06 | 2023-05-27 |
 | [Let Go](https://open.spotify.com/track/7qcSgxqwo2HWEKBHy7Rj6I) | [L'Étranger](https://open.spotify.com/artist/2dUL2pPThe3zZWRTWvGN9m) | [Let Go](https://open.spotify.com/album/3BDoH104fPr6Q2Qy1Oc2Bh) | 3:53 | 2023-01-13 | 2023-04-07 |
 | [Let Me In](https://open.spotify.com/track/63TnIai4KFF6E2D2PNvyWo) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W), [Shania](https://open.spotify.com/artist/23kMR41KbDiyLWUKrp8ZVG) | [Let Me In](https://open.spotify.com/album/5K9O0DctnDZLUuAexCpccK) | 3:01 | 2022-05-13 | 2022-09-02 |
@@ -530,6 +533,7 @@
 | [The Sequel](https://open.spotify.com/track/3f0C4VBTbLlEsCyybHELPW) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [The Sequel](https://open.spotify.com/album/2tvps9wX8kLJebdFgvFVST) | 3:09 | 2022-03-08 | 2022-03-10 |
 | [The Way To Do It](https://open.spotify.com/track/18gn195iZFHDeLX7PiBkfp) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [The Way To Do It](https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ) | 5:20 | 2022-11-04 | 2023-03-31 |
 | [There’s Nothing Else](https://open.spotify.com/track/3379x2xu9JNFFjY3XFn61Z) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [There’s Nothing Else](https://open.spotify.com/album/0xZtYRqv5nZfnBvFpZjTmi) | 3:06 | 2022-08-18 | 2022-10-28 |
+| [They Call It Acid](https://open.spotify.com/track/1RSwNDtLpLpVyx3lrsbpM1) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [They Call It Acid](https://open.spotify.com/album/2dcaLVqWXfzevvAYcjQDZg) | 4:00 | 2023-09-01 |  |
 | [This Beat](https://open.spotify.com/track/4onagusNvGUXp4OWSs13OM) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [This Beat EP](https://open.spotify.com/album/4SrNCRDDdBrzXI5ggewHcJ) | 2:56 | 2022-06-02 | 2022-09-02 |
 | [This Dance Isn't Over \- Edit](https://open.spotify.com/track/2hoGEGsFVMzzz0TDjaer9n) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Disco Machine Sound / This Dance Isn’t Over](https://open.spotify.com/album/49qrTIPhXEndH93olUNl2B) | 3:21 | 2022-12-02 | 2023-01-06 |
 | [This Feeling](https://open.spotify.com/track/6lQw8YVh9sXbzcOBzyQPmK) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [This Feeling](https://open.spotify.com/album/48tb5NDXMlVci0v01LyRus) | 3:14 | 2022-01-28 | 2022-03-25 |

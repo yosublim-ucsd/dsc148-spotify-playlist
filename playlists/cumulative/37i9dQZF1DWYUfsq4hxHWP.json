@@ -14777,6 +14777,24 @@
     },
     {
       "album": {
+        "name": "I Wouldn\u2019t Blame You",
+        "url": "https://open.spotify.com/album/6aQTFFRvnWyTRixu5yZwrx"
+      },
+      "artists": [
+        {
+          "name": "Kyler Weston",
+          "url": "https://open.spotify.com/artist/2xsw2u5MTVk2FKa3knyFe7"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192656,
+      "name": "I Wouldn\u2019t Blame You",
+      "url": "https://open.spotify.com/track/1wCAPh1rByrFrYKBYOLxgG"
+    },
+    {
+      "album": {
         "name": "I'll Bet",
         "url": "https://open.spotify.com/album/6esULaFnVCbaHXVXogULM1"
       },

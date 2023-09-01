@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8603,
+  "num_followers": 8605,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTNiZDhmZmFiODhhZWE1YmIwMjFiZWEwMDU3MDJkODdiZjNiYTg2",
+  "snapshot_id": "MCw5MTdmYTU4ZWFkY2JlOWQ4YjhkMzc0YjQ1MDJiM2NlYzg4ZjhiMDVl",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "You Look so Good",
-        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 170728,
-      "name": "You Look so Good",
-      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
         "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
       },
@@ -535,8 +519,24 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Hyperdome",
-        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
+        "name": "You Look so Good",
+        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 170728,
+      "name": "You Look so Good",
+      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Goals_",
+        "url": "https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Hyperdome",
-      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
+      "duration_ms": 209361,
+      "name": "Goals_",
+      "url": "https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
       },
       "artists": [
         {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+          "name": "Summer C",
+          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
+      "duration_ms": 191684,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -635,8 +635,8 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Goals_",
-        "url": "https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a"
+        "name": "Hyperdome",
+        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
       },
       "artists": [
         {
@@ -644,25 +644,25 @@
           "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
         }
       ],
-      "duration_ms": 209361,
-      "name": "Goals_",
-      "url": "https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND"
+      "duration_ms": 193333,
+      "name": "Hyperdome",
+      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
     },
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
       },
       "artists": [
         {
-          "name": "Summer C",
-          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
         }
       ],
-      "duration_ms": 191684,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2023-06-30 23:59:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,083 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,416 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 6 | [El Fieston](https://open.spotify.com/track/3dieJ76FVSIvpVssUlME5w) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Merca Xin Corte](https://open.spotify.com/artist/7jmtZgZygzmC35GMHpcM1z) | [El Fieston](https://open.spotify.com/album/3XHXxnzLAemR2oCIZhcQpd) | 3:19 |
 | 7 | [Vago y Malandron](https://open.spotify.com/track/4tL0mzhGVhtjuodcWozQrE) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Vago y Malandron](https://open.spotify.com/album/55bWBioZ8hf4SDJsvwNOx8) | 2:55 |
 | 8 | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/track/6yWZvj6xQW6axcJtns5Cba) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Yo Fui El 4 De Los Antrax](https://open.spotify.com/album/7ygPV1gBmEI8nJinZpQ7Cn) | 3:09 |
-| 9 | [El Del Rosario \(En Vivo\)](https://open.spotify.com/track/2wq86i7dcJt1U6Q8RSdpm5) | [La C´rteza](https://open.spotify.com/artist/2yeDPPgxQT4b2wFgwTzMWv), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Del Rosario \(En Vivo\)](https://open.spotify.com/album/6OpqrEOezbLJ3HPFwJ3fmY) | 2:35 |
+| 9 | [El Del Rosario \(En Vivo\)](https://open.spotify.com/track/2wq86i7dcJt1U6Q8RSdpm5) | [La Crteza](https://open.spotify.com/artist/2yeDPPgxQT4b2wFgwTzMWv), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Del Rosario \(En Vivo\)](https://open.spotify.com/album/6OpqrEOezbLJ3HPFwJ3fmY) | 2:35 |
 | 10 | [DIFÍCIL NO ES LLEGAR](https://open.spotify.com/track/6b2AZRlCbZQExIhyF6Bd1W) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [DIFÍCIL NO ES LLEGAR](https://open.spotify.com/album/1O5GWBqovCDsdmIrKCb0rS) | 2:15 |
 | 11 | [Dinero No Tenia \- En Vivo](https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Dinero No Tenia \(En Vivo\)](https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F) | 3:28 |
 | 12 | [El Rey Del Pop \(En Vivo\)](https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Respaldo y Apoyo](https://open.spotify.com/track/1q5EjO5bleDZ40TFUp4d1p) | [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Respaldo y Apoyo](https://open.spotify.com/album/7HNAEGrSZ4Uv5GQ9Fny7CS) | 1:58 |
 | 75 | [En Un Corvette](https://open.spotify.com/track/0EbNmjE3fD4kQYLejbQpTI) | [Niño Armado](https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ) | [En Un Corvette](https://open.spotify.com/album/3XY5zabnjR7uDCvSV9HQBV) | 2:52 |
 
-Snapshot ID: `MCw1ZjMzOTViNjM0ZmVhODdkZjQyM2VjNWNjOTQ0NGM3MGJiMGVhNWU3`
+Snapshot ID: `MCw1ZjVhYjA3NmNlYzkwN2JlYjk2MDM1MTIyZjYyOGJmYmIyMGI4OWVl`

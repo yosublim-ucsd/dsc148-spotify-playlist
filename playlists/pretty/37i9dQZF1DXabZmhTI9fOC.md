@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,337 likes - 189 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,373 likes - 189 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 188 | [Wild Over You](https://open.spotify.com/track/1xZNBg2c8miCrJTb35iFV4) | [Warcub](https://open.spotify.com/artist/3PwkBLtR0b4m6NcdnLrim9) | [Warcub EP](https://open.spotify.com/album/4DMqdop4Qc4l4441EHipUs) | 3:51 |
 | 189 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 |
 
-Snapshot ID: `MCxmZGQ4ZTY5NjBhNDk1NWIxMzRhOWM5NmMyMmVmZmI0ZGRhODI0Njgz`
+Snapshot ID: `MCxmYWUyNDdkMGNjMDFjMGFlZDllNjkxMmU2MmQ2ZGY1ZDNlYjExOWE3`

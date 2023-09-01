@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits \| 2023 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \| Cover: Icona Pop
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 116,673 likes - 147 songs - 7 hr 30 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 116,663 likes - 147 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

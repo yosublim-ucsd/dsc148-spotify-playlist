@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 121072,
       "name": "A Sailor Went To Sea",
       "url": "https://open.spotify.com/track/6QaXlu332fGX6nL1GDv8G7"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 96039,
       "name": "All the Pretty Little Horses",
       "url": "https://open.spotify.com/track/1NBYtzmfz98tvulySWcqXs"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 85500,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/3F9MddqpygKDUUkIqcydsT"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 107704,
       "name": "Do Re Mi",
       "url": "https://open.spotify.com/track/03rZlJKeFdFPg8UNYPtyfy"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 118547,
       "name": "Elder",
       "url": "https://open.spotify.com/track/3zIeAw0QM8l0mElw7BnPV9"
@@ -2252,6 +2252,24 @@
       "duration_ms": 60330,
       "name": "First Lullaby",
       "url": "https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6"
+    },
+    {
+      "album": {
+        "name": "Five Little Monkeys",
+        "url": "https://open.spotify.com/album/3HRkbBG3qmjPJY6XO3nV6S"
+      },
+      "artists": [
+        {
+          "name": "Roly-Poly",
+          "url": "https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125891,
+      "name": "Five Little Monkeys",
+      "url": "https://open.spotify.com/track/0QQ4BTJR6sylRCSOgcwhKs"
     },
     {
       "album": {
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 102889,
       "name": "I Gave my Love a Cherry",
       "url": "https://open.spotify.com/track/3KaA1A8cvZsQQugNj8eQDg"
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 127952,
       "name": "I stilhed",
       "url": "https://open.spotify.com/track/2xy71tw29P53B6jO3w69T2"
@@ -3130,7 +3148,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 97659,
       "name": "I trollskogen",
       "url": "https://open.spotify.com/track/5kz2PDCQ8kTkSyT3jhZdn8"
@@ -3206,6 +3224,24 @@
       "duration_ms": 145993,
       "name": "I'm Just Happy You Are Here",
       "url": "https://open.spotify.com/track/5THYwLZSyxQmriI7TQiXG7"
+    },
+    {
+      "album": {
+        "name": "Ida's Summer Song",
+        "url": "https://open.spotify.com/album/2cQqp6CbYLtdd7OBTcSR4M"
+      },
+      "artists": [
+        {
+          "name": "Alby Graham",
+          "url": "https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Ida's Summer Song",
+      "url": "https://open.spotify.com/track/3HjJV5CYJTeaYHO6PbxwHT"
     },
     {
       "album": {
@@ -3616,7 +3652,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 147210,
       "name": "Kling och klang",
       "url": "https://open.spotify.com/track/183VkWkmFqG7iv6AbtbW5H"
@@ -4606,7 +4642,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 93000,
       "name": "Mother's Day",
       "url": "https://open.spotify.com/track/7HJeC6sf7KlqgTimSJ64im"
@@ -4876,7 +4912,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 162191,
       "name": "My Puppy Loves Me",
       "url": "https://open.spotify.com/track/1HQFb9m1APRmWfqtlEtNm6"
@@ -7558,7 +7594,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 114250,
       "name": "Wacky hair day",
       "url": "https://open.spotify.com/track/7m8f8zywfYjwG5WH68F103"
@@ -7720,7 +7756,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 87589,
       "name": "What Dreams Mean",
       "url": "https://open.spotify.com/track/0skwKXU5D4nF6LFItCTViY"

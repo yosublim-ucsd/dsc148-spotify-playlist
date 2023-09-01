@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,935 likes - 63 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,970 likes - 63 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 31 | [Cinq etudes de bruits \- Etude aux tourniquets](https://open.spotify.com/track/2OiHxXNRzhu654unoQfo9P) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [The French Avant\-Garde in the 20th Century](https://open.spotify.com/album/7bwmOoEpj4IhcviXUeRShT) | 1:55 |
 | 32 | [Cinq etudes de bruits \- Etude noire](https://open.spotify.com/track/29EDiUOYeqEWQV3Ae22Sap) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [The French Avant\-Garde in the 20th Century](https://open.spotify.com/album/7bwmOoEpj4IhcviXUeRShT) | 3:56 |
 | 33 | [Cinq etudes de bruits \- Etude pathetique](https://open.spotify.com/track/5Y38bFhKpBbFNU7peTe2Hv) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl) | [The French Avant\-Garde in the 20th Century](https://open.spotify.com/album/7bwmOoEpj4IhcviXUeRShT) | 4:04 |
-| 34 | [Pentes \- 1974](https://open.spotify.com/track/6phMu2LfjPKujoeXdUhjTG) | [Denis Smalley](https://open.spotify.com/artist/2jfX44kEpicgeVKakcMEj1) | [Tides](https://open.spotify.com/album/1GyREbGc3KQzKHzmaRtuV7) | 13:18 |
+| 34 | [Pentes](https://open.spotify.com/track/0OYyCSTLAicBotZXMHuMYI) | [Denis Smalley](https://open.spotify.com/artist/2jfX44kEpicgeVKakcMEj1) | [Tides](https://open.spotify.com/album/0Cvhe6gkTnxzGLUoSJKohS) | 13:18 |
 | 35 | [Fanfare](https://open.spotify.com/track/1EDH57CTAQM2EIsH7FDBA8) | [Trevor Wishart](https://open.spotify.com/artist/7AyCfOaRuQNCsc5CkM8w44) | [Fanfare And Contrapunctus / Imago](https://open.spotify.com/album/3YAr1O88J0pTfYHRT5OJcX) | 6:52 |
 | 36 | [Magnetic Storm](https://open.spotify.com/track/0R54MfZWGVcmzvj9ENqcwv) | [Christian Zanési](https://open.spotify.com/artist/3ellcfQKaQGsPfsbzBW7bn) | [Paysages Magnétiques Magnetic Landscapes](https://open.spotify.com/album/76RbmQFyC2yHfAIqisCusU) | 3:44 |
 | 37 | [Awakening of a City](https://open.spotify.com/track/64tNZbBSOZXEueOBILY1vZ) | [Luigi Russolo](https://open.spotify.com/artist/3UQ7xESfjsa932tpBngbgZ), [Antonio Russolo](https://open.spotify.com/artist/5t2sFKaprL2CwobmRlolTv) | [Awakening of a City](https://open.spotify.com/album/772tGTfSeunEDmA5rCJs4W) | 3:49 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 62 | [The 4 Beasts' Amen: Communion: Scala angelica](https://open.spotify.com/track/1ui3g44yhB54q49SJew7dT) | [Hans\-Ola Ericsson](https://open.spotify.com/artist/7hyDap4bASASc6FEB4AwGE), [Susanne Rydén](https://open.spotify.com/artist/0nOPGVvHRYzJW76c3OiWaX), [Tommy Bjork](https://open.spotify.com/artist/5J58YZbJGx52On04YhsyEo), [Anders Hannus](https://open.spotify.com/artist/73RsH4cR30T8nmEsxgLa3d) | [Ericsson: the Four Beasts' Amen / Melody To the Memory of Lost Friend Xiii](https://open.spotify.com/album/6b6VzFCC4rpMkkTaBMr9iZ) | 8:04 |
 | 63 | [Synchronisms No\. 6](https://open.spotify.com/track/3I0gtCsE6xQtyp0jgCPouV) | [Mario Davidovsky](https://open.spotify.com/artist/0RkeeCvii56vYCER2jY5IH), [Aleck Karis](https://open.spotify.com/artist/5infXBnDBbGBPoWNBslhRH) | [Secret Geometry](https://open.spotify.com/album/5ATviy3QWhI6OuzJiN9tr3) | 7:06 |
 
-Snapshot ID: `MCwzZTlmOWYwMzkxNGJhODMyOWMwNjljOWJjOGU0ZmZjMzQ4NjU3NWE5`
+Snapshot ID: `MCxlZjI2MTc1NjEwOGYxOGIxYWU2ZWQzNThjYjE5YjNiMWRiOTlhZmIw`

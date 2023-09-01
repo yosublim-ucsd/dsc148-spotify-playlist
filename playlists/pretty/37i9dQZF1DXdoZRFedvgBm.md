@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,525 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,554 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 | 5 | [You Move Me \(feat\. SUNG SI KYUNG\)](https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:40 |
 | 6 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:05 |
 | 7 | [GANJI \(feat\. Jessi\)](https://open.spotify.com/track/5INgNRiLfTyTGTXt3eIr2r) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:51 |
-| 8 | [Now \(feat\. Hwa Sa\)](https://open.spotify.com/track/77agEdLYGWCAhSmwtkPlCs) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:27 |
+| 8 | [Now \(feat\. Hwa Sa\)](https://open.spotify.com/track/77agEdLYGWCAhSmwtkPlCs) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:27 |
 | 9 | [Happier \(feat\. Crush\)](https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 4:11 |
 | 10 | [Hello Monday](https://open.spotify.com/track/4vRAw1075rBKojk4dMkDZn) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:51 |
 | 11 | [Everyday](https://open.spotify.com/track/1hGNbzBfOktozwRrvWmYJM) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 4:36 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 | 105 | [Gangnam Style \(강남스타일\) \- Diplo Remix \(Instrumental\)](https://open.spotify.com/track/627xBFaO4u6mgNkYakPYfG) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:27 |
 | 106 | [Gangnam Style \(강남스타일\) \- Instrumental](https://open.spotify.com/track/7cuBwxBkmy3njuq50Df9x8) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/3V9e90jaA4vyV7dkO8dwND) | 3:40 |
 
-Snapshot ID: `MCwyYWM0MGZiMTIwMGE1MDFiYzI0MDY5MzVlODkxNzQxMzhhMDUxNjJh`
+Snapshot ID: `MCxmZjUyNmNlN2JiNTJhMDNmZDRkNTFlNWQxMmQyOGZhZDA4MDJjNGFl`

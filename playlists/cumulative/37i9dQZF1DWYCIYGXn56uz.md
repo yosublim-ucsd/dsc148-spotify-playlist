@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Pepe, Samurai Jay
 
-202 songs - 9 hr 23 min
+204 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [CONCERTO](https://open.spotify.com/track/2ysCFTZocsMr672oxUUsAl) | [Calma](https://open.spotify.com/artist/56sJBZ0NubEJ6Y6QOldl1T), [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [CONCERTO](https://open.spotify.com/album/0byn2frtBA5gvoiTGZQcfr) | 2:28 | 2023-05-18 | 2023-06-09 |
 | [Conosciuti ad una festa](https://open.spotify.com/track/6FdzapNtOI7AwSqV3N6yKX) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Conosciuti ad una festa](https://open.spotify.com/album/1rKyOWRJqsskIkiW8RYIN6) | 2:36 | 2023-05-25 | 2023-06-30 |
 | [Contro Corrente](https://open.spotify.com/track/5iI9da3MXSRmMmA2JBzWHu) | [Marquisslove](https://open.spotify.com/artist/2OtLUQ1TBgbtR2BCqnANWd), [Tempoxso](https://open.spotify.com/artist/1iVTp6WbD6ajQlBHtGoOUq) | [Contro Corrente](https://open.spotify.com/album/5szQXnNjtUmInWTZPhj8ZW) | 2:02 | 2023-06-15 | 2023-07-07 |
-| [Cose Irrisolte](https://open.spotify.com/track/1Qce0xOIZkROcZ9WdkkolH) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Cose Irrisolte](https://open.spotify.com/album/2GXUbX988I5nxVRQKTywWO) | 2:41 | 2023-08-24 |  |
+| [Cose Irrisolte](https://open.spotify.com/track/1Qce0xOIZkROcZ9WdkkolH) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Cose Irrisolte](https://open.spotify.com/album/2GXUbX988I5nxVRQKTywWO) | 2:41 | 2023-08-24 | 2023-09-01 |
 | [Così Come Sei](https://open.spotify.com/track/39refPH7JbYZZZ1NrBEa0f) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Così Come Sei](https://open.spotify.com/album/6a4FSCfn5xOXi2TSTH03DR) | 2:28 | 2023-05-25 |  |
 | [Creatura bellissima](https://open.spotify.com/track/0X8RXxTg4p2Uxn1QMaPaqR) | [Drama](https://open.spotify.com/artist/2h16TAqr8VkUs8ddUxOS6w), [PATRIK](https://open.spotify.com/artist/5Mwqi2MUNHBzXIVuOuO8ca) | [Creatura bellissima](https://open.spotify.com/album/2dD8MKY6wdNvCv1hgM3LDX) | 3:39 | 2023-05-18 | 2023-06-09 |
 | [Cuori di ghiaccio](https://open.spotify.com/track/33D5qp6MGqApwcSja17gE1) | [3win$](https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY), [Nasty](https://open.spotify.com/artist/6qVd6sJa9iGbakgovgExKC), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Cuori di ghiaccio](https://open.spotify.com/album/3CmNrgMOnTXUfLQY7TDRtd) | 2:59 | 2023-03-23 | 2023-03-31 |
@@ -75,6 +75,7 @@
 | [Fantasmi](https://open.spotify.com/track/2ImM7bA7uRBvTamJv5GCHn) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Fantasmi](https://open.spotify.com/album/0yv4DljPJommutGY0gmnZW) | 2:08 | 2023-03-23 | 2023-04-14 |
 | [Favole all'alba](https://open.spotify.com/track/643Xnq3NRexYXtXdlFeiBf) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax) | [Favole all'alba](https://open.spotify.com/album/1Ibtmefy3hsMJYJjB9jiOE) | 2:50 | 2023-04-27 | 2023-05-19 |
 | [Felicemente Triste](https://open.spotify.com/track/4rPqz2otjZ7RMfKAGBTtCB) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck) | [Felicemente Triste](https://open.spotify.com/album/3CwgGP5ayBvWOhw7irCh6s) | 2:56 | 2023-07-13 | 2023-07-28 |
+| [Fiore Sulla Luna](https://open.spotify.com/track/6Sinn7z9DmUQPY3oQcMKcV) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Fiore Sulla Luna](https://open.spotify.com/album/6Kz7JnUf9h5yqQDtt6R5Ag) | 2:27 | 2023-08-31 |  |
 | [fiume di parole](https://open.spotify.com/track/19RZHhzIgCrnUBFJfGzexj) | [Anima](https://open.spotify.com/artist/78KLSh5jP52tMwFeDpR5Ml), [Poet](https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs), [Pi Greco](https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b) | [fiume di parole](https://open.spotify.com/album/1vfdwQ7JuTqGrWdYjJQEAp) | 2:31 | 2023-04-20 | 2023-05-19 |
 | [fluo](https://open.spotify.com/track/2F6uEtSu7h6QUjgenM86K7) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [fluo](https://open.spotify.com/album/7H6plhkpevG4P0dF05CMnt) | 2:55 | 2023-03-23 | 2023-04-21 |
 | [Fulmini](https://open.spotify.com/track/70ZxpUnMJjJwr2I3hXHi7b) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [Fulmini](https://open.spotify.com/album/4tXExS7JYMwZ6bqntI0YqV) | 2:45 | 2023-06-15 | 2023-07-28 |
@@ -144,6 +145,7 @@
 | [ORO](https://open.spotify.com/track/3f6m6RH8jUn5vKUtiXAoMc) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ORO](https://open.spotify.com/album/6XV7d3iJxLHdHUGDYy5GlG) | 2:19 | 2023-07-13 |  |
 | [Pane e Burro \(feat\. Ascanio\)](https://open.spotify.com/track/77TD6EFSrQjolUvGHImg6t) | [Charlotte M](https://open.spotify.com/artist/6v839swiOjpjUxeXJ3l78M), [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [Pane e Burro \(feat\. Ascanio\)](https://open.spotify.com/album/5AXe8ItdrXgeTCNJKBwRNu) | 2:35 | 2023-04-20 | 2023-05-19 |
 | [Panico](https://open.spotify.com/track/614dam3LpnYxlJlZAl6Kem) | [Federico Baroni](https://open.spotify.com/artist/3RURcBFBQifZM2MyA4frZr) | [Panico](https://open.spotify.com/album/0TMPKsKcwdtyYNVLkrlrAU) | 3:13 | 2023-05-04 | 2023-05-19 |
+| [Papaya](https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Papaya](https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ) | 2:19 | 2023-08-31 |  |
 | [PARANOIA \(48h\)](https://open.spotify.com/track/03B7LASAbnyBdfybCxCuEw) | [Gianluca Modanese](https://open.spotify.com/artist/3EvOGKxwzDenIvnfwmOgIT) | [\(tra parentesi\)](https://open.spotify.com/album/2cavlI3WwEcr1mJeyVC4ZV) | 2:41 | 2023-04-06 | 2023-04-14 |
 | [Parigi](https://open.spotify.com/track/3moOAzfOC32TI8k0qyfVWc) | [Sergi](https://open.spotify.com/artist/2mR7bH8m4JaoCtI4czxcSP), [YLY](https://open.spotify.com/artist/39RZFrsACGBnWyTb4diU10) | [Parigi](https://open.spotify.com/album/6nf3jw1VqPW3H158XMApUK) | 2:24 | 2023-03-23 | 2023-04-14 |
 | [Parlami](https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Parlami](https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N) | 2:49 | 2023-03-23 |  |

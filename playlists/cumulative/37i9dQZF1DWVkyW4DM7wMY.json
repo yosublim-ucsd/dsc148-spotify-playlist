@@ -922,10 +922,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 108000,
       "name": "Habibi Only Live Once",
       "url": "https://open.spotify.com/track/2ttKPD84VNMDgTZXsE2jpS"
+    },
+    {
+      "album": {
+        "name": "Habibi Only Live Once",
+        "url": "https://open.spotify.com/album/1A2o7xaKtkPDwz275Otlzo"
+      },
+      "artists": [
+        {
+          "name": "Aslxm",
+          "url": "https://open.spotify.com/artist/7fUWAw0ao8BbaJ5ehk3Gqz"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Habibi Only Live Once",
+      "url": "https://open.spotify.com/track/4yI4Rezf3Mp0QRns4O10x4"
     },
     {
       "album": {

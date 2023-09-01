@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Hesitation Marks",
+        "url": "https://open.spotify.com/album/26m96TIXkNAiL4fl4aiFvd"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322622,
+      "name": "Copy Of A",
+      "url": "https://open.spotify.com/track/6xlsMxBuulXsX0hY37iE70"
+    },
+    {
+      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/7xSi5UDcfXAzR7NWSpFJiL"
       },

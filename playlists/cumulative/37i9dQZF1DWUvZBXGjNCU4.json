@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 165545,
       "name": "A Quiet Message",
       "url": "https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 202153,
       "name": "Dust and Ashes - Guitar Instrumental",
       "url": "https://open.spotify.com/track/1YSkQpcby9nfzBowrz00wC"
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 200902,
       "name": "Golden Coast",
       "url": "https://open.spotify.com/track/0waUQx6xGwUQALnhBt9Hr8"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 188239,
       "name": "Journey Home",
       "url": "https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 186092,
       "name": "Keirin",
       "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 202431,
       "name": "Long Ago",
       "url": "https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv"
@@ -3228,7 +3228,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 181174,
       "name": "Past & Present",
       "url": "https://open.spotify.com/track/43dy9gJMpgJmuhCS9fXreR"
@@ -4654,6 +4654,24 @@
       "duration_ms": 153644,
       "name": "Vanek",
       "url": "https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr"
+    },
+    {
+      "album": {
+        "name": "Letting the Light In",
+        "url": "https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J"
+      },
+      "artists": [
+        {
+          "name": "Roots and Recognition",
+          "url": "https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194067,
+      "name": "View of the Park",
+      "url": "https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC"
     },
     {
       "album": {

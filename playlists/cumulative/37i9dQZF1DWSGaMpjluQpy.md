@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-103 songs - 5 hr 55 min
+104 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Midnight midtown](https://open.spotify.com/track/3A4bXk6EoP2nR6LyHnMecm) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Midnight Midtown Jazz \(Rain\)](https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC) | 4:36 | 2023-04-27 |  |
 | [Mist](https://open.spotify.com/track/5iM3nPaF06Dp4dGEzEKA1U) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Mist](https://open.spotify.com/album/32wjNexQ2ZLD5qU9SQRzo7) | 4:15 | 2023-08-24 |  |
 | [Misty Morning](https://open.spotify.com/track/7wYnL2pk7S3VqiiraH0DIi) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Midnight Midtown Jazz \(Rain\)](https://open.spotify.com/album/1QtTb0IwI9KNA34sEoI1jC) | 3:16 | 2023-04-27 |  |
+| [Monday thunder](https://open.spotify.com/track/6ZQb3pCXG9c7gMCxX5Sf6B) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town rain and thunder](https://open.spotify.com/album/2pDEdJ0ANr2omZ1ww8jXwF) | 2:56 | 2023-09-01 |  |
 | [My Roses](https://open.spotify.com/track/2iY8BxUCYmtQkqU9igxNp4) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:39 | 2023-04-27 |  |
 | [My Tears](https://open.spotify.com/track/00cOVMkWHzwMWzYNGOBmF2) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [My Tears](https://open.spotify.com/album/1QAWyemipLW254r7eEbgov) | 3:53 | 2023-04-27 |  |
 | [Myren](https://open.spotify.com/track/4JLkZzfYVaXBi1JtXTOdje) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:38 | 2023-04-27 |  |

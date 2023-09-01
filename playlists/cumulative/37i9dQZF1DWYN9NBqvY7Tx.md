@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-409 songs - 22 hr 0 min
+410 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [MONEY ON THE DASH \- Diplo Remix](https://open.spotify.com/track/5J8LKvW84WII4ZzOz0zAQf) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [MONEY ON THE DASH \- Diplo Remix](https://open.spotify.com/album/6tQbwu7HWigKSOVuQOa0os) | 3:43 | 2023-06-09 | 2023-07-28 |
 | [Monody \(feat\. Laura Brehm\)](https://open.spotify.com/track/3VvBPkc24zC7x05mgJTyGO) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Monody \(feat\. Laura Brehm\)](https://open.spotify.com/album/6M9lhBLGRYYP6kaL5jJuz2) | 4:50 | 2022-07-14 | 2023-07-19 |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-07-18 |  |
+| [MONTAGEM PR FUNK \- Alesso Remix](https://open.spotify.com/track/58L5MMUqBCZROyYBrRHxsT) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [MONTAGEM PR FUNK \(Alesso Remix\)](https://open.spotify.com/album/5747O7ajEWPobMtjJ2HkFx) | 2:52 | 2023-08-25 |  |
 | [Mortals](https://open.spotify.com/track/11uvudmvZBzG2ztQsOB5sF) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals](https://open.spotify.com/album/0JhCeDwLctpO8clf63QtZs) | 3:48 | 2022-07-14 |  |
 | [Mortals](https://open.spotify.com/track/3Fg5uhtWBlW0es8GSqQ6Ff) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals](https://open.spotify.com/album/2l3Ej2zh336Zp6gAvqbq2y) | 3:48 | 2022-07-12 | 2022-07-29 |
 | [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 | 2023-07-18 |  |
@@ -379,7 +380,7 @@
 | [Unity](https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Unity](https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4) | 2:48 | 2023-02-14 |  |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2022-06-03 | 2023-08-02 |
 | [Unleashed](https://open.spotify.com/track/3EQFXygBuRViHpx64ZPsjy) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab) | [Unleashed](https://open.spotify.com/album/3AeIE3pK62Qiu4sO9g8Vzy) | 2:31 | 2022-06-24 | 2022-07-29 |
-| [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 | 2022-05-06 |  |
+| [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 | 2022-05-06 | 2023-09-01 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2023-07-18 |  |
 | [Vibration \(One More Time\) \(feat\. AR/CO\)](https://open.spotify.com/track/2t3iFlsIkaoV7GmVC2ptuM) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Vibration \(One More Time\) \(feat\. AR/CO\)](https://open.spotify.com/album/7bGuN31tBDnZiKxpQsa58S) | 4:02 | 2023-05-15 | 2023-07-19 |
 | [Violence](https://open.spotify.com/track/2raUfi0wM6gDa3RDKNQySD) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Violence](https://open.spotify.com/album/4wBwT46IH2CMytFxJTZsME) | 3:33 | 2022-05-06 | 2022-07-29 |

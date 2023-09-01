@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Dos Carnales en portada.
 
-372 songs - 20 hr 10 min
+373 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [El Jardinero](https://open.spotify.com/track/6N1LXswqO0QnflAxwbqKqm) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [El Jardinero](https://open.spotify.com/album/6uzA4VoeyKgGABDuEuNKnw) | 3:57 | 2023-01-20 | 2023-01-28 |
 | [El JP \(En Vivo\)](https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El JP \(En Vivo\)](https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl) | 3:22 | 2023-02-24 | 2023-03-09 |
 | [El M\-60](https://open.spotify.com/track/2e1jH2poOhLwLC3vKWebgM) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [El M\-60](https://open.spotify.com/album/4D17PHNU3OWPvGuerjVynt) | 2:47 | 2023-03-09 | 2023-03-11 |
+| [El Malo](https://open.spotify.com/track/2UIlgB8kZVaSCc7mFJckAW) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Malo](https://open.spotify.com/album/0QGJMzZa6EbFWhWaEdARxg) | 2:54 | 2023-08-25 |  |
 | [El Mayor](https://open.spotify.com/track/1O6V373NcGqZ27jpCtGdsP) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Mayor](https://open.spotify.com/album/3VwSLI8R7PAzDHfqG7pEWX) | 2:48 | 2022-07-01 | 2022-08-06 |
 | [El Mero Jefe](https://open.spotify.com/track/7x8zB0fCcGX2Laz7aOdX8d) | [Grupo DH](https://open.spotify.com/artist/1hsSik9MaFxsUbimuleDxZ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Mero Jefe](https://open.spotify.com/album/7I18KlTao7kD9zzaiHJA0U) | 2:50 | 2023-01-13 | 2023-01-21 |
 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 | 2023-05-26 |  |
@@ -263,7 +264,7 @@
 | [No Quiero Perderte](https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH) | 2:39 | 2023-05-12 |  |
 | [No Quiso Conmigo](https://open.spotify.com/track/4Paa8cDttPTXgJbnoXzWkB) | [Carlo Mora](https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze), [Freddy Vega Jr.](https://open.spotify.com/artist/5tIHbtAWCSJ774Eckp2LCL) | [No Quiso Conmigo](https://open.spotify.com/album/3gUOCkUm0iL8QxYbAS2Rf1) | 3:01 | 2022-07-01 | 2022-08-30 |
 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2022-08-05 | 2022-10-07 |
-| [NO SE VA \- EN VIVO](https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:13 | 2023-07-17 |  |
+| [NO SE VA \- EN VIVO](https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 3:13 | 2023-07-17 | 2023-09-01 |
 | [No Se Va \- EN VIVO](https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(EN VIVO\)](https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3) | 3:14 | 2022-08-29 | 2023-08-06 |
 | [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-08-29 | 2022-12-24 |
 | [Noche De Pasión \(En Vivo\)](https://open.spotify.com/track/1VzI22RK0crOMtRRscUwZN) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Noche De Pasión \(En Vivo\)](https://open.spotify.com/album/2sjtAV3t1dhuY7EKSun7tX) | 3:03 | 2023-03-10 | 2023-04-16 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 
 > Celebrate Dad with these songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643 likes - 38 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 642 likes - 38 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bestest Daddy In The World](https://open.spotify.com/track/3XLp0dtA6z9RN4tNZIKfrz) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Club: The Album](https://open.spotify.com/album/3D7OGf4T8gY6AsEzUL3AKp) | 3:19 |
+| 1 | [Bestest Daddy In The World](https://open.spotify.com/track/6Sg1I6fRIKvaCZR0oGM9Wz) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Club: The Album](https://open.spotify.com/album/1gvEE7Eq5LllbwwgvoCCht) | 3:19 |
 | 2 | [I Love You Daddy](https://open.spotify.com/track/0JUMkRana9MTtoyzBEIcjr) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Waiting For The Elevator](https://open.spotify.com/album/0e4v336x5GPwp8R5nTUzQd) | 1:42 |
 | 3 | [Daddy Daughter Day](https://open.spotify.com/track/0SPiUBGdCz37xKl3CzCwei) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [J Gunn](https://open.spotify.com/artist/4YlGNqY6XyHNkQEMLlYBG9) | [D.A.D](https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N) | 3:15 |
 | 4 | [Cody's Father And Son Day](https://open.spotify.com/track/3pIr7dWddZ7x3l9u6m6VGE) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/5kHnimhvYsAw8tIiH5lM5w) | 2:54 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 | 37 | [That's What Dads Are For](https://open.spotify.com/track/6OGvN8SQuFS7tgEddBBA27) | [Madaline Garcia](https://open.spotify.com/artist/3TV0dL70cwRcE7VxCYCfdm), [Michael Farren](https://open.spotify.com/artist/0KL1tXshbivm72a4PAWUjF) | [That's What Dads Are For](https://open.spotify.com/album/5afeQKHZfZcRCvMcdiQles) | 4:11 |
 | 38 | [Daddy\-o](https://open.spotify.com/track/6ti6642d8YTQ7YNy7I9OD0) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 2:03 |
 
-Snapshot ID: `MCxiZDBkNGEyYzdmNjYyYzQ1NTQ0MzIxMDgzNDUzZTJmNDQ3YTA5YWE2`
+Snapshot ID: `MCw5YzY2ODU3ZGU4OThlY2IzMjFhZmI3MTg0N2I5NmRjYTBlMzAwMzAw`

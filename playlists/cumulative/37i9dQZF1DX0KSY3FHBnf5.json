@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "analog",
+        "url": "https://open.spotify.com/album/3wcz6SGuGPDAktWQc20uBc"
+      },
+      "artists": [
+        {
+          "name": "\u00d8dyzon",
+          "url": "https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115428,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/75RxE9EAPP1bfGP4Qh1Nb7"
+    },
+    {
+      "album": {
         "name": "a lover from the past",
         "url": "https://open.spotify.com/album/5VNnDmnOoA7JI1MMdob2lj"
       },
@@ -20,7 +38,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 132096,
       "name": "a lover from the past",
       "url": "https://open.spotify.com/track/3Wghs7ouz3GI8IlJHu8aG4"
@@ -153,6 +171,24 @@
     },
     {
       "album": {
+        "name": "could u stay (slowed + reverb)",
+        "url": "https://open.spotify.com/album/0BdiSQEyN7ibjVOWe1FZf4"
+      },
+      "artists": [
+        {
+          "name": "leapyear",
+          "url": "https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123528,
+      "name": "could u stay (slowed + reverb)",
+      "url": "https://open.spotify.com/track/5PK4eWWXuqMNfCu1pi8J0M"
+    },
+    {
+      "album": {
         "name": "deja vu (slowed)",
         "url": "https://open.spotify.com/album/0VdXEw6vwRWFaH8FUUjlWr"
       },
@@ -226,6 +262,68 @@
       "duration_ms": 175008,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1gEXVpHjJ2OAufYdmzYzaQ"
+    },
+    {
+      "album": {
+        "name": "comet",
+        "url": "https://open.spotify.com/album/69jEuVVctfJqfL5dahz0AU"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        },
+        {
+          "name": "castle hearts",
+          "url": "https://open.spotify.com/artist/76RNkLoEvMKNJM1OxkBRBe"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106956,
+      "name": "dream_sequence",
+      "url": "https://open.spotify.com/track/6zkliuXzyIkyKbxycAmP7Y"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/3wbz4Q37Xjr0slSb6Jjmdd"
+      },
+      "artists": [
+        {
+          "name": "monoway",
+          "url": "https://open.spotify.com/artist/24ntr9mCwBZI4P5rIg2qtR"
+        },
+        {
+          "name": "Lesfm",
+          "url": "https://open.spotify.com/artist/3cjxUpsyr916tEX0DBBSGH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/5fMWvdAhmCR1PhTvfPhQN8"
+    },
+    {
+      "album": {
+        "name": "dreaming of the past",
+        "url": "https://open.spotify.com/album/6vt5yxkckDHY5GV13YS3B0"
+      },
+      "artists": [
+        {
+          "name": "Reapify",
+          "url": "https://open.spotify.com/artist/7A2wJncZJtXgILOfoYk2kR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153305,
+      "name": "dreaming of the past",
+      "url": "https://open.spotify.com/track/51gucRS87gpBKMWjohXoGx"
     },
     {
       "album": {
@@ -559,6 +657,28 @@
     },
     {
       "album": {
+        "name": "haunted (ambient version)",
+        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/0ypEkB71awgAzGT44jVfsc"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182941,
+      "name": "haunted, but it's ambient deep version",
+      "url": "https://open.spotify.com/track/3LqM0DFhsMZMEM1fM0w0ha"
+    },
+    {
+      "album": {
         "name": "hope",
         "url": "https://open.spotify.com/album/7yt2GHDPd31ioK7HrshD4i"
       },
@@ -672,7 +792,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 159674,
       "name": "KYOEI",
       "url": "https://open.spotify.com/track/2rbfGGLEwBWR6PG6LNcdZG"
@@ -1073,6 +1193,28 @@
     },
     {
       "album": {
+        "name": "reverie (slowed & reverb)",
+        "url": "https://open.spotify.com/album/3sg1Kiw6UwB8UJvzyBdD5K"
+      },
+      "artists": [
+        {
+          "name": "mezh",
+          "url": "https://open.spotify.com/artist/72BntiotrCi2voySbCfu5X"
+        },
+        {
+          "name": "knonzzz",
+          "url": "https://open.spotify.com/artist/25UTkbnQgetv8B2pr3JGI7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154343,
+      "name": "reverie (slowed & reverb)",
+      "url": "https://open.spotify.com/track/5VWI1z5J2oNGmiij78eiOQ"
+    },
+    {
+      "album": {
         "name": "safe",
         "url": "https://open.spotify.com/album/2VcZx2fkVVarmxhm0u0N7v"
       },
@@ -1164,6 +1306,24 @@
       "duration_ms": 183990,
       "name": "Sink",
       "url": "https://open.spotify.com/track/3y0Cmt1jm5sZs1b7W3gbdp"
+    },
+    {
+      "album": {
+        "name": "SIREN SONG",
+        "url": "https://open.spotify.com/album/4L5TIsPAjc4YVExKfcGShB"
+      },
+      "artists": [
+        {
+          "name": "Aether",
+          "url": "https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96049,
+      "name": "SIREN SONG",
+      "url": "https://open.spotify.com/track/7noOFONm7sc4WX3IflU0eZ"
     },
     {
       "album": {
@@ -1320,6 +1480,24 @@
       "duration_ms": 207567,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/6Hy8V6m5lyoxUed9C3cXh8"
+    },
+    {
+      "album": {
+        "name": "that's life",
+        "url": "https://open.spotify.com/album/67WXwfihTrossmDs4EbLLj"
+      },
+      "artists": [
+        {
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84192,
+      "name": "that's life",
+      "url": "https://open.spotify.com/track/15P3OdV6ksFaPuS3dQgflo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-336 songs - 17 hr 46 min
+337 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Stay With Me](https://open.spotify.com/track/37SZi6cnrAJY0K7Xc8lwqe) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc), [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Tom The Gaffer](https://open.spotify.com/artist/10RN2BJRsFdGpySIC39RRN) | [Stay With Me](https://open.spotify.com/album/3QksXN9OBPOxeyrBTIZnFt) | 2:45 | 2022-10-20 | 2023-08-11 |
 | [Stay With Me \- Krys Talk Remix](https://open.spotify.com/track/1lGZ4rEgUHclwnH1F507pz) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg) | [Stay With Me \(Krys Talk Remix\)](https://open.spotify.com/album/3VyApZmu3LiVucSbGZH9TX) | 4:11 | 2022-02-03 |  |
 | [Street Lights \(Ft\. Axollo\)](https://open.spotify.com/track/3LY0XACljWypc5f0gui0Jp) | [Time To Talk](https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G), [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Axollo](https://open.spotify.com/artist/08DhNYXQjr5i8ZL041APOI) | [Street Lights \(Ft\. Axollo\)](https://open.spotify.com/album/1rqM4QGUKjWUobLDw22AZq) | 2:27 | 2022-02-03 | 2022-09-15 |
+| [Summer's End](https://open.spotify.com/track/3bm8e301aMXXCQoNg6Jaew) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Summer's End](https://open.spotify.com/album/35KlhjYtPv9XtEIAUzNXVn) | 2:38 | 2023-08-31 |  |
 | [Summoning](https://open.spotify.com/track/1wncJWk3CELlLny54f9gjS) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Summoning](https://open.spotify.com/album/4abfJB1XMqDunGToh8fOHn) | 2:34 | 2023-08-10 |  |
 | [Sun Goes Down](https://open.spotify.com/track/4CgED2x88wN0PejzdcCplZ) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Sun Goes Down](https://open.spotify.com/album/2Aji90QXQxs3WboqQy144k) | 2:48 | 2023-08-10 |  |
 | [Sunlight](https://open.spotify.com/track/3INBGrPK5z8S8iVYNLCkHh) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [Nilka](https://open.spotify.com/artist/3JED4McgKAqYMqDrPStAxg) | [Sunlight](https://open.spotify.com/album/4luBOkWQSgLaW2TxI5jzdS) | 3:36 | 2023-08-10 |  |
@@ -293,7 +294,7 @@
 | [Testify](https://open.spotify.com/track/41aahVnQ5oRhIU5LEc9hfh) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [EXYT](https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw) | [Testify](https://open.spotify.com/album/2shXXyUgDDl14LykrpWewi) | 3:23 | 2023-08-10 |  |
 | [The Feeling](https://open.spotify.com/track/5O3ulpsbyoXtjyVdC7Xip4) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [The Feeling](https://open.spotify.com/album/31geBMaHgWPfzWmvGuykNz) | 2:28 | 2022-07-22 | 2023-08-11 |
 | [The Garden](https://open.spotify.com/track/1WrSQnq6Y8e6jITQ6gG7Jq) | [Lochlainn](https://open.spotify.com/artist/3wgU0KqfQuUNIjqe2ZjOVh) | [The Garden](https://open.spotify.com/album/4notA2r4MNd7pHSxWPdPEN) | 2:54 | 2022-02-03 | 2023-08-11 |
-| [The Light](https://open.spotify.com/track/6j0xFTxOxYlSGMZketPIGp) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [The Light](https://open.spotify.com/album/784IbHRH7ccOeGUKh16Cc2) | 3:04 | 2023-08-10 |  |
+| [The Light](https://open.spotify.com/track/6j0xFTxOxYlSGMZketPIGp) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [The Light](https://open.spotify.com/album/784IbHRH7ccOeGUKh16Cc2) | 3:04 | 2023-08-10 | 2023-09-01 |
 | [The Nameless](https://open.spotify.com/track/7uZZvD4xQjHdznIiq5c8fg) | [Elliot Berger](https://open.spotify.com/artist/3DVo02zCQ7iZKujFgRLMXL) | [The Nameless](https://open.spotify.com/album/33DUx1nXaCU5m6QYbWRn5s) | 3:56 | 2023-08-10 |  |
 | [The Other Side](https://open.spotify.com/track/5j661JNn79J2mcNrgZZEfW) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [The Other Side](https://open.spotify.com/album/10i8tgXRPvPt3CXxz4p4KL) | 2:39 | 2022-12-29 | 2023-08-11 |
 | [The Path](https://open.spotify.com/track/2ijSdxRsWpBjMpZ7HNQD3U) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw), [Agassi](https://open.spotify.com/artist/6Ts1uqQmSrpQ9YedHKrreu) | [The Path](https://open.spotify.com/album/74bnjTLKVFndWnu0gRASDj) | 4:03 | 2022-06-02 | 2023-08-11 |

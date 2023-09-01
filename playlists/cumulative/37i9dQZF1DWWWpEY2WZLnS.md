@@ -2,7 +2,7 @@
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Lo más pegao en Dembow\. <br/>Portada: Jey One
+> Lo más pegao en Dembow\. <br/>Portada: Peso Pluma y El Alfa
 
 299 songs - 15 hr 13 min
 

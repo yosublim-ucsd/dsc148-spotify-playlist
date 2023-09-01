@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Güneş
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Borqy
 
-183 songs - 7 hr 53 min
+186 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 | 2023-01-10 |  |
 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 | 2023-01-12 |  |
 | [Aman Güzel Yavaş Yürü](https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Aman Güzel Yavaş Yürü](https://open.spotify.com/album/7pwq5tZSWASKlMg6DJlEcP) | 2:29 | 2023-06-22 |  |
+| [Anakonda](https://open.spotify.com/track/5zhOvr9rLo3e29nhLDWSsm) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD), [BLED](https://open.spotify.com/artist/7dPBhuvHmNtxMx5pqZJnbN) | [Anakonda](https://open.spotify.com/album/5PdecLrUNj8a5PDpDyCuGD) | 3:26 | 2023-08-31 |  |
 | [Anlamak Zor](https://open.spotify.com/track/2tuvKXp73LMr5RGemLqf0Q) | [Diego](https://open.spotify.com/artist/6N1nFVV7Uz1vCl2uPxdF27), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Anlamak Zor](https://open.spotify.com/album/0uNDV20goA1DSqBV0fhaUw) | 2:37 | 2023-05-04 | 2023-05-19 |
 | [ANLAR ANLAYAN DİLİMDEN](https://open.spotify.com/track/3SHd1jpffHjpoWq0I4TRcE) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [ANLAR ANLAYAN DİLİMDEN](https://open.spotify.com/album/0dTlgsIBAc93WHZE89WZUW) | 2:51 | 2023-04-27 | 2023-06-09 |
 | [ANLARSIN](https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ANLARSIN](https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ) | 2:58 | 2023-04-13 | 2023-05-05 |
@@ -29,7 +30,7 @@
 | [Aşk Olsun](https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Aşk Olsun](https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7) | 2:21 | 2023-06-08 |  |
 | [BABA](https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 2:24 | 2023-06-15 |  |
 | [Baby \(feat\. Murda\)](https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Baby \(feat\. Murda\)](https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO) | 2:47 | 2023-08-24 |  |
-| [Baby Naber?](https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Baby Naber?](https://open.spotify.com/album/11FT97nMjQ7wgtPvFtdLIk) | 1:58 | 2023-08-10 |  |
+| [Baby Naber?](https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Baby Naber?](https://open.spotify.com/album/11FT97nMjQ7wgtPvFtdLIk) | 1:58 | 2023-08-10 | 2023-09-01 |
 | [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 | 2023-07-13 | 2023-08-18 |
 | [BALENCIAGA](https://open.spotify.com/track/2HQpdd5cVGGfyX1khL5BQP) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [BALENCIAGA](https://open.spotify.com/album/2rRbt9F9234nmA7LBWkwkt) | 2:08 | 2023-06-29 | 2023-07-21 |
 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 | 2023-03-16 |  |
@@ -82,6 +83,7 @@
 | [hep bir şeyler eksik](https://open.spotify.com/track/5LADOmbui5XFOpCk9n67RE) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [hep bir şeyler eksik](https://open.spotify.com/album/237jXHICSyd66ncjz3LIZ8) | 3:15 | 2023-07-20 | 2023-08-11 |
 | [Hot Baklava](https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l) | [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Hot Baklava](https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k) | 2:20 | 2023-07-27 | 2023-08-19 |
 | [IMPARATOR](https://open.spotify.com/track/5LOnarDCzVh4YcN7EOTzRC) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [IMPARATOR](https://open.spotify.com/album/4jnO704ysYulzHEMiY4AIy) | 2:09 | 2023-07-06 | 2023-07-28 |
+| [International](https://open.spotify.com/track/1WHwr3enTkZdG8feFozaqy) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [International](https://open.spotify.com/album/3SLQnZNuEYI3UvqppW4oLd) | 2:43 | 2023-08-31 |  |
 | [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2023-01-10 | 2023-03-15 |
 | [Inzaghi](https://open.spotify.com/track/4k0WSfjrFeVMMrGg6CEAH5) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/0rKLBda3nNh7JQYfDzgFpk) | 2:41 | 2023-03-13 | 2023-05-05 |
 | [İllegale](https://open.spotify.com/track/0YypAwSTM49KfC5bgHKgZ6) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İllegale](https://open.spotify.com/album/3vg10Plw06OxHNh30mpvmx) | 1:59 | 2023-01-10 | 2023-05-05 |
@@ -119,7 +121,7 @@
 | [Multi\-Milyoner](https://open.spotify.com/track/2IHJ2GtzgmQXFjJ4x2ZAQY) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD), [Vio](https://open.spotify.com/artist/6jTpCdn1rLOY8OPiTlG7Yt) | [Koleksiyoner](https://open.spotify.com/album/00lG7bXzbDDApmB3kupSrf) | 3:07 | 2023-03-23 | 2023-04-07 |
 | [N'aptığını bilmesem de](https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [N'aptığını bilmesem de](https://open.spotify.com/album/7qgd2TX9kzFYbvBl9cavsK) | 2:18 | 2023-06-22 |  |
 | [Nasip](https://open.spotify.com/track/5EtvbFJ6zZ0XNVMJGzH6Cf) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Nasip](https://open.spotify.com/album/4dogjv6Sivh3guZtKcDDGh) | 2:17 | 2023-06-29 | 2023-07-14 |
-| [NAYLON](https://open.spotify.com/track/72Wph4Ou9qRjwNd3vR67Ug) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [NAYLON](https://open.spotify.com/album/3TGzqo19JQ5GULaZminGDl) | 2:28 | 2023-08-10 |  |
+| [NAYLON](https://open.spotify.com/track/72Wph4Ou9qRjwNd3vR67Ug) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [NAYLON](https://open.spotify.com/album/3TGzqo19JQ5GULaZminGDl) | 2:28 | 2023-08-10 | 2023-09-01 |
 | [Ne Anlar Onlar](https://open.spotify.com/track/6oxmPTxpYqCkGQwGbYHgcl) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Ne Anlar Onlar](https://open.spotify.com/album/3TUAWkPFmNHmhZ0kFoR1S5) | 3:52 | 2023-08-24 |  |
 | [NEREYE KADAR](https://open.spotify.com/track/1oazoWrgMaGN1Vnc3w2ta0) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [NEREYE KADAR](https://open.spotify.com/album/2w4LgmF5Y1G9kmIT8vVlAr) | 2:07 | 2023-07-27 | 2023-08-18 |
 | [NEY LAN](https://open.spotify.com/track/0SpLI3mIFEvaVyrmPT56s3) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [NEY LAN](https://open.spotify.com/album/4qHNw6BDaSsFzLeiBJ7xwc) | 2:10 | 2023-02-23 | 2023-03-10 |
@@ -141,6 +143,7 @@
 | [PAVYON](https://open.spotify.com/track/77m8HNEtKmDTD0A3mSIP6J) | [masthon](https://open.spotify.com/artist/7sEM2coB7d8PGVKBbyBWD8) | [KAPITAL](https://open.spotify.com/album/34TsaH9wHudgsQqrSGj1VT) | 2:30 | 2023-05-04 | 2023-05-06 |
 | [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-13 | 2023-06-02 |
 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 | 2023-08-10 |  |
+| [Promilim Yüksek](https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Promilim Yüksek](https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC) | 2:13 | 2023-08-31 |  |
 | [R \- CHORBA](https://open.spotify.com/track/79YI30eKDKmcHwDQvN9ryS) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 1:17 | 2023-01-10 | 2023-03-10 |
 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 | 2023-03-09 |  |
 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 | 2023-03-02 | 2023-04-28 |
@@ -168,7 +171,7 @@
 | [Turkish Drill](https://open.spotify.com/track/0fbeXFhCD6uaKOt87QtLr4) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Turkish Drill](https://open.spotify.com/album/3SE9rSqyJLOydiI9RtE9St) | 2:41 | 2023-01-10 | 2023-02-17 |
 | [TUZAK](https://open.spotify.com/track/4gGbpg8ReIJLP76IFyTLgs) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [TUZAK](https://open.spotify.com/album/17wcTygeAOQwBEIkGItzAX) | 3:16 | 2023-04-20 | 2023-05-04 |
 | [Tuzak](https://open.spotify.com/track/1FMJcAZRu3XbsFC72nZ22w) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [Tuzak](https://open.spotify.com/album/71SVOWI7ILlkWdTBZ3ah23) | 2:05 | 2023-01-10 | 2023-01-13 |
-| [tüm dünya vatanım](https://open.spotify.com/track/1OxUBpLWJ83ot4ArgCWfMn) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [tüm dünya vatanım](https://open.spotify.com/album/2ABSNEgsr3mkclxbXT6gHk) | 2:28 | 2023-08-17 |  |
+| [tüm dünya vatanım](https://open.spotify.com/track/1OxUBpLWJ83ot4ArgCWfMn) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [tüm dünya vatanım](https://open.spotify.com/album/2ABSNEgsr3mkclxbXT6gHk) | 2:28 | 2023-08-17 | 2023-09-01 |
 | [UNUTTUM](https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:36 | 2023-01-10 | 2023-05-05 |
 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 | 2023-03-09 | 2023-04-28 |
 | [Vicdanım Kayıp](https://open.spotify.com/track/0957zCB7svwHxXufWRs6so) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Vicdanım Kayıp](https://open.spotify.com/album/2z45zKQlrUE2tmlYEa1IaH) | 2:40 | 2023-01-10 | 2023-03-03 |

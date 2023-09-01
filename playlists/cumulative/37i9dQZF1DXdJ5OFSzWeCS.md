@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-570 songs - 17 hr 2 min
+571 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Floating Away](https://open.spotify.com/track/18Mvqq8pCXcm1QOal2mlp4) | [Sky McKinley](https://open.spotify.com/artist/3cRPaSpbayvCIRIhpsmVt0) | [Floating Away](https://open.spotify.com/album/2V4luROLAPLwmgisnBOxBk) | 2:26 | 2022-02-10 | 2022-10-29 |
 | [Floating on Dream Clouds](https://open.spotify.com/track/4R6GM2uA7b7m0ylSTl6u8G) | [Blu Finnegan](https://open.spotify.com/artist/3vYwVvWXz2FhcrC8vimx4m) | [The Sweetest Child](https://open.spotify.com/album/1BQRLMTHAnSRTMAvtQP8EU) | 1:54 | 2022-02-10 |  |
 | [Fly little butterfly](https://open.spotify.com/track/3vkrm7Yy1q8a6kX4AOFUk5) | [Selma Elise](https://open.spotify.com/artist/5EFssW2UTZRKI9t45nUmHJ) | [Fly little butterfly](https://open.spotify.com/album/6fEaZltf12WMdbT5EM3ubk) | 1:53 | 2022-02-10 |  |
-| [Flyin' over](https://open.spotify.com/track/4MS2m7qUoTZKdPQ43Cavrb) | [Ned Conner](https://open.spotify.com/artist/17CIEaoWlKKUrHeldDwBu6) | [Flyin' over](https://open.spotify.com/album/3fQk6kiVP5vfcD2MfJeU3j) | 1:23 | 2022-02-10 |  |
+| [Flyin' over](https://open.spotify.com/track/4MS2m7qUoTZKdPQ43Cavrb) | [Ned Conner](https://open.spotify.com/artist/17CIEaoWlKKUrHeldDwBu6) | [Flyin' over](https://open.spotify.com/album/3fQk6kiVP5vfcD2MfJeU3j) | 1:23 | 2022-02-10 | 2023-09-01 |
 | [Flying](https://open.spotify.com/track/5cGRutxZnYtcwjJW8GYshL) | [Ora Peel](https://open.spotify.com/artist/4jp2rmHOOcHd5CgPVn7pH7) | [Flying](https://open.spotify.com/album/6y5q8NPGUWFkzx4yCPdj2u) | 1:29 | 2022-02-10 | 2023-03-18 |
 | [Flying Home](https://open.spotify.com/track/2OaFLsGttK4pQaun0vLU4d) | [Stevie Martell](https://open.spotify.com/artist/6Sh69JKZfNc4gTL9oPIlk1) | [Flying Home](https://open.spotify.com/album/4ZRnVeDMOx1lp0IkHWXqSE) | 1:21 | 2022-02-10 |  |
 | [For My Sweetheart](https://open.spotify.com/track/3DtGLM46u1ZrZMP1Z5xqOW) | [Vic Davidson](https://open.spotify.com/artist/4rxDPoC97AdDVhtbQmqyQQ) | [For My Sweetheart](https://open.spotify.com/album/6lUHunI58WXnZH9DRHllEQ) | 1:41 | 2022-02-10 |  |
@@ -482,7 +482,7 @@
 | [Summer Sleep](https://open.spotify.com/track/69RiaYOIZEwcALnDsEbkXw) | [Ronan Ivers](https://open.spotify.com/artist/7Exr5K2SKnd1fzEOqbXUNI) | [Summer Sleep](https://open.spotify.com/album/4AWekdZEc7qQSuYElBh4N0) | 1:58 | 2022-02-10 | 2022-12-24 |
 | [Supercalifragilisticexpialidocious](https://open.spotify.com/track/1TkbTWOVowgdzIS3juJb4v) | [Luca Spencer](https://open.spotify.com/artist/0hkJB3BXR3zHTu6JXW80zS) | [Supercalifragilisticexpialidocious](https://open.spotify.com/album/36MmB6SfTm54SLnd7N8Q5R) | 1:49 | 2023-05-12 | 2023-06-03 |
 | [Sweet Child](https://open.spotify.com/track/6C1V3VcagBH2CSVIyoF3nM) | [Simon Slumber](https://open.spotify.com/artist/3oEHvxlE41NfDOh7zbofyL) | [Sweet Child](https://open.spotify.com/album/7s4HkmTmOfX4wdCQ2InykU) | 1:29 | 2023-05-12 |  |
-| [Sweet Child Of Mine](https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Sweet Child Of Mine](https://open.spotify.com/album/4Gw2ScxvjGWYUygc961PbO) | 2:02 | 2022-09-02 |  |
+| [Sweet Child Of Mine](https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Sweet Child Of Mine](https://open.spotify.com/album/4Gw2ScxvjGWYUygc961PbO) | 2:02 | 2022-09-02 | 2023-09-01 |
 | [Sweetie Pie](https://open.spotify.com/track/537A1wjNWU29GlgsATltkv) | [Rio Harris](https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs) | [Sweetie Pie](https://open.spotify.com/album/62telSz4oAsb3HiQRFjJlZ) | 1:21 | 2022-09-22 | 2023-04-07 |
 | [Teddybjörnen Fredriksson](https://open.spotify.com/track/3ysifvqGtUHRrac14vmnK0) | [Emelie Strand](https://open.spotify.com/artist/5uPtjigxXY6RYZAdvxAT96) | [Somna min vän](https://open.spotify.com/album/5YF2PQd0wV9kmyxj7KZYVR) | 0:57 | 2022-12-23 | 2023-06-03 |
 | [Ten Green Bottles](https://open.spotify.com/track/6Rkc5D8xSpK7D6wHM3cAfv) | [Jouni Holkeri](https://open.spotify.com/artist/4ibMmdzDdJ22R2ERJTXSOL) | [Ten Green Bottles](https://open.spotify.com/album/1gQPqDSW3aYwXmDxdZhGkR) | 1:33 | 2022-02-10 | 2023-01-13 |
@@ -553,6 +553,7 @@
 | [Walt the Windmill](https://open.spotify.com/track/4l8NnW6grz6GYE7HNLzTFV) | [Lilly Bear](https://open.spotify.com/artist/3JlR3VCnC7Ma0pICaXZKLT) | [Penny Piano](https://open.spotify.com/album/4JOdx95C6tLgaC4iJs68N5) | 2:46 | 2022-02-10 | 2022-10-29 |
 | [Warm Breeze](https://open.spotify.com/track/2By5z0SpEoqzQ6sslvZWfp) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [Warm Breeze](https://open.spotify.com/album/31SAPV5z9PJ8SZqru2yGFf) | 1:33 | 2023-08-10 |  |
 | [Warm Calm Bed](https://open.spotify.com/track/78dU1gM1haK1t75PB9pgaJ) | [Hartley Peter](https://open.spotify.com/artist/0wuQZyVvfkgYcB6o2lkT9v) | [Warm Calm Bed](https://open.spotify.com/album/6BVjIAKfRRvbk19vJFkgAR) | 1:29 | 2023-02-10 |  |
+| [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 | 2023-08-31 |  |
 | [We'll Play Again Tomorrow](https://open.spotify.com/track/2mlIe6mQ6PT105w0sFsAuX) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [We'll Play Again Tomorrow](https://open.spotify.com/album/2Q9YW7Bn3rffxLvoUgzRh3) | 1:34 | 2022-04-25 |  |
 | [When All Stars Twinkle](https://open.spotify.com/track/4HqQVrPQ1xEsVzxqE4bSqp) | [Marilyn Giffard](https://open.spotify.com/artist/0YtmZt6O5eRRqHAmDjtOwC) | [When All Stars Twinkle](https://open.spotify.com/album/6eP3L801NVxtdwB0i8M3Zl) | 1:26 | 2022-02-10 | 2022-10-08 |
 | [When I Can't Sleep](https://open.spotify.com/track/3WDqDFuKdClbEY0SgGyrFK) | [Denise Boyette](https://open.spotify.com/artist/7Ic0m7rS8gwZQSDiOmLJxc) | [When I Can't Sleep](https://open.spotify.com/album/5QHMlIVdtZ4gI0I0HERVKh) | 1:29 | 2022-02-10 |  |

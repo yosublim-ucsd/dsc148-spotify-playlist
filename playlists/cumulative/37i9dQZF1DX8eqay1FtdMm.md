@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover:NAUL\(나얼\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover:Paul Blanco\(폴블랑코\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-423 songs - 1 day 3 hr 38 min
+424 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Lost](https://open.spotify.com/track/2pRmhfwgixiYF91SywOUFh) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Stranger 2 \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6ndtD6TsJ5d9gju1CIDf6Z) | 3:16 | 2021-12-20 | 2022-07-11 |
 | [love is everything \(Feat\. U\-Rim\)](https://open.spotify.com/track/68twHXbWeVxgidIyw4C8hO) | [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX), [U\-Rim](https://open.spotify.com/artist/4ULMN5yWXAK57P2mlJkJJI) | [love is everything](https://open.spotify.com/album/3uRqaovLpNnVqdLZlkJN5d) | 3:36 | 2023-07-11 | 2023-07-18 |
 | [Love is painful](https://open.spotify.com/track/7iXTJ3qtfYQa4b69e7HXjk) | [JOO SEOL OK](https://open.spotify.com/artist/4fZ1YSVoYTlqbZcJEOl80M) | [Love is painful](https://open.spotify.com/album/35ceD8rScK0x5P7c6usoBV) | 4:21 | 2023-06-15 | 2023-07-12 |
-| [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 | 2023-02-13 |  |
+| [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 | 2023-02-13 |  |
 | [Love Me Again](https://open.spotify.com/track/5TS1ha582NhPY2Jddz3FNi) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Moonshine \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11bS2DgEdThpmWFXxgC8kr) | 3:21 | 2022-03-24 | 2022-04-21 |
 | [Love Me Love Me](https://open.spotify.com/track/6PDGLp3PVAVdwVeFRLYvS5) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love Me Love Me](https://open.spotify.com/album/2rtrqdfMeYxBNxpxcUl3cY) | 3:26 | 2023-08-10 |  |
 | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/track/6ZcntF0MCIZEzi1XHYiRjP) | [Ryeowon](https://open.spotify.com/artist/18N3eeeRpVuRfPuk6GF7rp) | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/album/5seo7nROqNTWa0l88SmDRn) | 3:59 | 2022-06-13 | 2022-06-21 |
@@ -319,6 +319,7 @@
 | [STAY](https://open.spotify.com/track/1zP4F4FExmoTk2yeZSZfca) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [STAY](https://open.spotify.com/album/2auTN0kIA1hNoyhb8XMlB6) | 2:55 | 2022-03-24 | 2022-04-17 |
 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 | 2021-12-20 |  |
 | [Still](https://open.spotify.com/track/0BhkiHwAXhZlNwqZAOonMp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [ALAL \#3](https://open.spotify.com/album/7fh1VfRnuVyNYI1QpMmIc2) | 4:08 | 2022-03-29 | 2022-04-17 |
+| [Such a thing](https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Such a thing](https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka) | 4:26 | 2023-08-31 |  |
 | [Sun And Moon](https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon Part.1](https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq) | 5:01 | 2021-12-20 | 2022-07-27 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |
 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 | 2022-08-03 | 2023-07-21 |
@@ -384,7 +385,7 @@
 | [Winter in your eyes](https://open.spotify.com/track/6XPEXAXBVykCQVR0lQJxMV) | [Soul People](https://open.spotify.com/artist/4osIclpwZM5DUwI2JgBJp3) | [Winter in your eyes](https://open.spotify.com/album/6u4vWQGQVlqYBJGkAqb5ya) | 4:02 | 2022-02-10 | 2022-04-18 |
 | [with you](https://open.spotify.com/track/2aPyJyUGGLj33QiXRfLG05) | [Hee brothers](https://open.spotify.com/artist/7qXJEle1HRJwOW1wuTEgwz) | [with you](https://open.spotify.com/album/78zpI0u5fJDfbjFvqpwKxi) | 3:27 | 2022-07-04 | 2022-07-08 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-01 |  |
-| [Word](https://open.spotify.com/track/3AK5YY1nLRhYxkSCemcNgE) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Soul Pop City](https://open.spotify.com/album/6Rl0C2mMz4Xb4O3xhK8h5C) | 4:41 | 2023-08-16 |  |
+| [Word](https://open.spotify.com/track/3AK5YY1nLRhYxkSCemcNgE) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Soul Pop City](https://open.spotify.com/album/6Rl0C2mMz4Xb4O3xhK8h5C) | 4:41 | 2023-08-16 | 2023-09-01 |
 | [Words From The Wind](https://open.spotify.com/track/1pgLgR2J3uviJoZeyn3ZBQ) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [Words From The Wind](https://open.spotify.com/album/3tTot2iuMI0qcBviT62OWB) | 3:58 | 2021-12-20 | 2022-07-27 |
 | [Workaholic \(Monthly Project 2019 September Yoon Jong Shin\)](https://open.spotify.com/track/0Rh5GTCIKFk3GcNFy84KHC) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Workaholic \(Monthly Project 2019 September Yoon Jong Shin\)](https://open.spotify.com/album/3rVBl32G6feUNMrvc52p5U) | 4:57 | 2022-01-21 | 2022-04-19 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-13 |  |

@@ -4,7 +4,7 @@
 
 > Ist nur einmal im Jahr!
 
-83 songs - 4 hr 12 min
+84 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,12 +80,13 @@
 | [Saufi saufi](https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Saufi saufi](https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7) | 3:26 | 2023-07-14 |  |
 | [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 |  |
 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 | 2023-07-14 |  |
-| [Senorita](https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD) | [Kay One](https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Senorita](https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk) | 3:58 | 2023-08-28 |  |
+| [Senorita](https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD) | [Kay One](https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Senorita](https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk) | 3:58 | 2023-08-28 | 2023-09-01 |
 | [So viel gemeinsam](https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [So viel gemeinsam](https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl) | 2:16 | 2023-07-14 | 2023-08-04 |
 | [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 | 2023-07-14 |  |
 | [Strobo Pop](https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu), [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Party Chaos](https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS) | 3:14 | 2023-07-14 |  |
 | [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 | 2023-07-14 |  |
 | [Vamos a la Playa](https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [Stars](https://open.spotify.com/album/5DUf0pbwyBeH2zN1rhPlBO) | 2:59 | 2023-07-14 |  |
+| [Vatta Morgana](https://open.spotify.com/track/1ysveV4DKZ7lc6SvPYlmTH) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Vatta Morgana](https://open.spotify.com/album/2N2wprOKBpBBq1XrXx7u7l) | 3:12 | 2023-08-31 |  |
 | [Verdammt, ich lieb Dich \- 2020 Remastered](https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Reim \(Expanded Edition\)](https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg) | 3:40 | 2023-07-14 |  |
 | [Wahnsinn](https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu) | [Wolfgang Petry](https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7) | [Ich will mehr](https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB) | 3:42 | 2023-08-28 |  |
 | [Wir eskalieren](https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Wir eskalieren](https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA) | 3:36 | 2023-07-14 |  |

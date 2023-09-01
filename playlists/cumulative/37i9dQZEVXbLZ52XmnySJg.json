@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 175686,
       "name": "California Love",
       "url": "https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"
@@ -5192,7 +5192,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 211480,
       "name": "Haryana Hood",
       "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
@@ -8860,7 +8860,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 191647,
       "name": "Manjha",
       "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
@@ -10370,6 +10370,24 @@
       "duration_ms": 170387,
       "name": "NO LOVE",
       "url": "https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC"
+    },
+    {
+      "album": {
+        "name": "Nusta Paisa",
+        "url": "https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Nusta Paisa",
+      "url": "https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3"
     },
     {
       "album": {
@@ -12646,7 +12664,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -12952,7 +12970,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"

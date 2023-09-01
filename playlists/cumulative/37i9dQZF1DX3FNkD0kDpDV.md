@@ -4,7 +4,7 @@
 
 > Celebrating 10 Years Strong this summer, <a href="spotify:user:31fovtijggn2vbq7cpwd2bjhpfqm">ANTS</a> champions the forefront of house and techno, delivering spectacular immersive productions and creating a global colony of passionate music lovers.
 
-724 songs - 2 day 5 hr 50 min
+725 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,8 @@
 | [Memory \(with GASHI\)](https://open.spotify.com/track/0rKJbmEclvn38oJeqPCeWM) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Space Primates](https://open.spotify.com/artist/20RYWcdxVryQ6rcjxnsEtc) | [HELLRAISERS, Part 3](https://open.spotify.com/album/3BwgBDgdwqRnuU805FMu3N) | 2:38 | 2022-08-30 | 2022-10-14 |
 | [Menace](https://open.spotify.com/track/0sBAwzKnPSSi74NMbn9WKI) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Spiral](https://open.spotify.com/album/4UgTdPzJTP0HZYlsEjZ1Co) | 3:16 | 2022-05-16 | 2022-06-10 |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-21 | 2023-08-05 |
-| [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2021-12-15 |  |
+| [Mi Amor](https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc) | 3:15 | 2023-08-04 |  |
+| [Mi Amor](https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Mi Amor](https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu) | 3:15 | 2021-12-15 | 2023-09-01 |
 | [Millenium Pain \- \(ナルト Mix \- Possession exclusivity\)](https://open.spotify.com/track/2LMCtdUhTiO4IJclOagwPE) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Millenium Pain \(ナルト Mix \- Possession exclusivity\)](https://open.spotify.com/album/1h1JGm5mP1gQnS1DjLxPFJ) | 7:03 | 2022-10-14 | 2023-01-07 |
 | [Millenium Pain \- ナルト Mix \- Possession exclusivity](https://open.spotify.com/track/0lG0rrV2WcmxBDQn4Fm5PA) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Millenium Pain \(ナルト Mix \- Possession exclusivity\)](https://open.spotify.com/album/1hZoGblQBRs6FmEoMmvFqq) | 7:03 | 2022-10-17 | 2023-02-27 |
 | [Millenium Pain \- ナルト Mix \- Possession exclusivity](https://open.spotify.com/track/2ONTpKNmJF13yxhMWw70cc) | [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Millenium Pain \(ナルト Mix \- Possession exclusivity\)](https://open.spotify.com/album/6tmrxtdAIEYqhVrOpmFXv2) | 7:03 | 2022-10-17 | 2023-04-01 |

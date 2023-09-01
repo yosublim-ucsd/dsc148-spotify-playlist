@@ -4,7 +4,7 @@
 
 > A trailblazer for Black British music culture\. Cover: Jamal Edwards
 
-60 songs - 3 hr 47 min
+62 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Flow of the Year \(feat\. Jme\)](https://open.spotify.com/track/71sy4dZihQ1vkthU7DKpGy) | [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Made in the Manor](https://open.spotify.com/album/5AF0uxDdW2IKi3r8jqVgmq) | 3:34 | 2022-02-22 |  |
 | [Freestyle](https://open.spotify.com/track/2q2MZ42PomWxEnOJPdjVwu) | [Benny Banks](https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg) | [QOQ Presents BNB](https://open.spotify.com/album/2CUeOdRmAxrJnkBVtxPdrz) | 4:09 | 2022-02-22 |  |
 | [German Whip](https://open.spotify.com/track/6T9ZqPIWm4I4vygRZwgpJv) | [Meridian Dan](https://open.spotify.com/artist/5UhqlN0em1N4hDjegJD1Lg), [Big H](https://open.spotify.com/artist/5bPMrj2JeYuaAqA807hw7I), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [German Whip](https://open.spotify.com/album/2w1jh4sQHf253x0XspJhih) | 3:16 | 2022-02-22 |  |
-| [Hat\-Trick](https://open.spotify.com/track/1Obt05Xx0zDNFRRh2TmQ8n) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Light Work](https://open.spotify.com/album/3POW6Oqn28XPYbXor8ocuU) | 3:12 | 2022-02-22 |  |
+| [Hat\-Trick](https://open.spotify.com/track/1Obt05Xx0zDNFRRh2TmQ8n) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Light Work](https://open.spotify.com/album/3POW6Oqn28XPYbXor8ocuU) | 3:12 | 2022-02-22 | 2023-09-01 |
+| [Hat\-Trick](https://open.spotify.com/track/5VwQCpL7XoHiPDPmrlAXgW) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Light Work](https://open.spotify.com/album/7m6UuedRyOX6rfO9EfUiUH) | 3:12 | 2022-02-22 |  |
 | [Home Run \- Radio Edit](https://open.spotify.com/track/5zmjbdUnLBADa6fLYspAjt) | [Misha B](https://open.spotify.com/artist/0cIZcRSLrI9xDci5X5VFns) | [Home Run](https://open.spotify.com/album/5hz2uryTKS0glDjQxJP9xP) | 3:16 | 2022-02-22 |  |
 | [I Need](https://open.spotify.com/track/4TOnziP6TsZ6dD7RzEVEqG) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lonely Are The Brave](https://open.spotify.com/album/0GwWmKEUgzykmMXPYX93ba) | 4:00 | 2022-02-22 |  |
 | [Karlas Back](https://open.spotify.com/track/5Cg7ww1v1IG2STcLi9ckGL) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [M I S To The T EP](https://open.spotify.com/album/2eqagdZLO5MZGnk4lmwkxa) | 3:27 | 2022-02-22 |  |
@@ -41,7 +42,8 @@
 | [Redrum Reverse](https://open.spotify.com/track/4t7jZtTX3mrmeM8cpzezMm) | [R6](https://open.spotify.com/artist/4SuG4WyuUZyY6GV67PgMhS) | [Redrum Reverse](https://open.spotify.com/album/18zUfwDpwcZwtEIsvTpUHV) | 3:34 | 2022-02-22 |  |
 | [Sbtv Warm Up](https://open.spotify.com/track/1O70qmg4WupeGWh6hKAesi) | [Rapman](https://open.spotify.com/artist/6Hsj5SMjd58bxrw7I0qfyi) | [Best of Rapman](https://open.spotify.com/album/5E1xPwWq8Ud0JHYLEERNjN) | 4:00 | 2022-02-22 |  |
 | [SBTV Warm Up Session](https://open.spotify.com/track/1282uTBxNxRBRxc7Q7LTcI) | [Snap Capone](https://open.spotify.com/artist/3VPxstOu7nMAaOrD3hhUR1) | [Return of the Shooter](https://open.spotify.com/album/55Ngz3sKXDxQwH0qhiIyZI) | 9:46 | 2022-02-22 |  |
-| [School of Grime](https://open.spotify.com/track/6LYLyj4u9h7Fdd4hj7orKZ) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw) | [Believe & Achieve: Episode 1](https://open.spotify.com/album/6juc7FCEHM5jrh3lfNDlVa) | 4:11 | 2022-02-22 |  |
+| [School of Grime](https://open.spotify.com/track/6LYLyj4u9h7Fdd4hj7orKZ) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw) | [Believe & Achieve: Episode 1](https://open.spotify.com/album/6juc7FCEHM5jrh3lfNDlVa) | 4:11 | 2022-02-22 | 2023-09-01 |
+| [School of Grime](https://open.spotify.com/track/7dnWwCsOThlLtGtmDjlVMx) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw) | [Believe & Achieve: Episode 1](https://open.spotify.com/album/7t1DzvjqVqHbsxSxq8F0J3) | 4:11 | 2022-02-22 |  |
 | [Shape of You \- Yxng Bane Remix](https://open.spotify.com/track/31OUf7myzRshUdO8aQpEPH) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [Shape of You \(Yxng Bane Remix\)](https://open.spotify.com/album/6y6RDTPqAox4sTHfy1piVX) | 3:27 | 2022-02-22 |  |
 | [Slang Like This](https://open.spotify.com/track/6Ctt3tyRv1IPg4b2aNvKc0) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [This Is Uk Grime, Vol\. 1](https://open.spotify.com/album/5gmCwbvyQVxRfpgD9tipkI) | 3:58 | 2022-02-22 |  |
 | [Smoking](https://open.spotify.com/track/2zt558rpdKoG3ObsSQP5Ec) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Pain Overload](https://open.spotify.com/album/0jAO2QToadS3N84ob0v6lc) | 3:16 | 2022-02-22 |  |

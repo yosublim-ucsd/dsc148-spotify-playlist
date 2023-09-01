@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/0cRHU8IubGRGBH2tIBiCff"
+      },
+      "artists": [
+        {
+          "name": "Kumatra",
+          "url": "https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188002,
+      "name": "Radiant",
+      "url": "https://open.spotify.com/track/2leJrTGeB6reJMKvvAkOb6"
+    },
+    {
+      "album": {
         "name": "Rearview Mirror",
         "url": "https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr"
       },

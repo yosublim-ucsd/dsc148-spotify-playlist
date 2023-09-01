@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "It's Getting Hot (Sped Up)",
+        "url": "https://open.spotify.com/album/6oRQXevG9QBbXKKV0upvjS"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "It's Getting Hot - Sped Up",
+      "url": "https://open.spotify.com/track/6bBM9dDbqCDTLAxcxokQTf"
+    },
+    {
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },

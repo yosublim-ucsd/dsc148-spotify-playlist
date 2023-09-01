@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-229 songs - 19 hr 41 min
+230 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 | 2022-01-21 |  |
 | [Contrail](https://open.spotify.com/track/0kUaVSpFJ1c5If3fK3S8CX) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4) | [Contrail](https://open.spotify.com/album/32ksiUukA1qPs0FrHTklxr) | 4:41 | 2022-05-25 | 2022-06-12 |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2022-01-21 |  |
-| [Cube](https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Alt:01](https://open.spotify.com/album/1mPPIIJKQ4VgL2nB3fIXEs) | 2:50 | 2023-04-21 |  |
+| [Cube](https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Alt:01](https://open.spotify.com/album/1mPPIIJKQ4VgL2nB3fIXEs) | 2:50 | 2023-04-21 | 2023-09-01 |
 | [Dali In Sapphire](https://open.spotify.com/track/0C8kWf3y8woCorZlh90H4f) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [4\-Track Guitar Music](https://open.spotify.com/album/4waFzodRjhGm9uQj6C8uFW) | 6:42 | 2022-01-21 |  |
 | [Dandelion Heart](https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:33 | 2022-01-21 | 2023-04-30 |
 | [Dandelion Heart](https://open.spotify.com/track/3I0GGpVe3nCNUwmCre6pRU) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/0stmTlrBLsZMD2O83PAV5Z) | 5:33 | 2023-04-21 |  |
@@ -85,6 +85,7 @@
 | [hope](https://open.spotify.com/track/3bynos2wQgXzPI4Sbcdow2) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [hope](https://open.spotify.com/album/4bvVIFyU0p2OZzzuAbH3cc) | 1:47 | 2023-01-20 |  |
 | [Hope and Fate](https://open.spotify.com/track/7lh7iHO2MpF1PPISdhiAS8) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb) | [Hope and Fate](https://open.spotify.com/album/4ELMGh7AabrbLQLrMsWgOP) | 3:47 | 2023-01-13 | 2023-02-18 |
 | [Horn in Deep Night](https://open.spotify.com/track/6rsrcdXlac37j8YozUfHpT) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:08 | 2022-01-28 |  |
+| [Hostages in Love](https://open.spotify.com/track/6SeMU5LqTGTWGVNZbfcyyv) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Crossing the Border](https://open.spotify.com/album/4p1dDiZNp0L8hmBa8PnCb2) | 4:07 | 2023-09-01 |  |
 | [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 | 2022-03-25 | 2023-08-12 |
 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 | 2022-03-25 |  |
 | [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 |  |

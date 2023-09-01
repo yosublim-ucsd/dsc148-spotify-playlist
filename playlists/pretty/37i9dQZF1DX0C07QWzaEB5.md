@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,880 likes - 122 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,881 likes - 122 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 29 | [Oldschool Love \(feat\. Boi B of Rhythme Power\)](https://open.spotify.com/track/4hGTtaIIk7op5eH4I3hlcP) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [그대여 이제 With Me](https://open.spotify.com/album/6N1XVKkDPSaMqXW1Q5w2P3) | 4:40 |
 | 30 | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/track/71ffiCGvOZm7uBYT9Nyg4d) | [Daedo](https://open.spotify.com/artist/0usCrj87bydKRK7KWcCf9p), [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/album/2zQWuOYcx7C4TNTJwz2Nbm) | 3:19 |
 | 31 | [GO](https://open.spotify.com/track/7lK9XQFIMihBvPy2jIpqXy) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR) | [GO](https://open.spotify.com/album/0Sp6AZTcrjkNEDQcuL5VWA) | 3:28 |
-| 32 | [Now \(feat\. Hwa Sa\)](https://open.spotify.com/track/77agEdLYGWCAhSmwtkPlCs) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:27 |
+| 32 | [Now \(feat\. Hwa Sa\)](https://open.spotify.com/track/77agEdLYGWCAhSmwtkPlCs) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:27 |
 | 33 | [Crazy like feather](https://open.spotify.com/track/4ORTthTsQPhRAUFv5AyS0w) | [LAZZI](https://open.spotify.com/artist/0XvN5CmgsUcJFEcKPr1dro) | [Crazy like feather](https://open.spotify.com/album/6LVmGqpEpyliyUqoE1QryK) | 3:25 |
 | 34 | [Patbingsu](https://open.spotify.com/track/3B6t6zKMa959qbWvLUWxxl) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Patbingsu](https://open.spotify.com/album/6c6wbjLgOX3crURuTPfaL8) | 3:29 |
 | 35 | [Summer Days](https://open.spotify.com/track/0AzcyknZD0zTwuyJA0dmIS) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD), [Sujin](https://open.spotify.com/artist/1CO3fh4c1J46zsUWpHMITX) | [Summer Days](https://open.spotify.com/album/0QWJ71qD6oyfuAWJAFXRZ5) | 3:50 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 121 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 122 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MCxjZTNmOGRkNDU3MDY1OGViNWZlNDRlZTkyNzNmYTkwYjI4OTE5YTZk`
+Snapshot ID: `MCxkNGM2NDkwY2NjN2M5ODRhZDhmOGZlZjViZWU5YjBiNGNhZmI0NWI5`

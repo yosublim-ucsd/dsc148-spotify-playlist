@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,104 likes - 681 songs - 1 day 21 hr 50 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,104 likes - 682 songs - 1 day 21 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -689,5 +689,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 679 | [Jumping Someone Else's Train \- Single Version](https://open.spotify.com/track/3Tjkh6zFgjb2StmUdfi1VI) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 2:56 |
 | 680 | [Monday](https://open.spotify.com/track/6Xfvk73gSCk768QSHcT78B) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:57 |
 | 681 | [We're Gonna Get There In The End](https://open.spotify.com/track/0jZaA1IPbLT4dgLpf6jdtE) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:13 |
+| 682 | [Copy Of A](https://open.spotify.com/track/6xlsMxBuulXsX0hY37iE70) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Hesitation Marks](https://open.spotify.com/album/26m96TIXkNAiL4fl4aiFvd) | 5:22 |
 
-Snapshot ID: `MTcwNCw3ZDA2Y2Q4M2ZjNjk3ODUwNDEwMWJjNzEwZjA0ZjgwYWI0YmUzNTVj`
+Snapshot ID: `MTcwNSwwZTJkNTI3NzkxZTE1NGFmZDM3MTM0YjE3MzhhZjY5ZGUwZGZjYTRm`

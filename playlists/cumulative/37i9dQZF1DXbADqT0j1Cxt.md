@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-477 songs - 14 hr 18 min
+478 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Vamos a contar ovejitas](https://open.spotify.com/track/6UXZ2Fzza4SeItUopvNdCI) | [Emelina Moreno](https://open.spotify.com/artist/2Ab8GKO7SbR91GngNUdC6O) | [Vamos a contar ovejitas](https://open.spotify.com/album/5Vc0hnygzWWIoFZSgavBNN) | 1:32 | 2021-10-07 |  |
 | [Var bor du lilla råtta?](https://open.spotify.com/track/4rbSsFJeWvZKjKgzLtkRf1) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Blott en dag](https://open.spotify.com/album/7hqajrKD8OBtWD0fywQp6K) | 1:25 | 2022-10-28 | 2023-06-03 |
 | [Warm Breeze](https://open.spotify.com/track/2By5z0SpEoqzQ6sslvZWfp) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [Warm Breeze](https://open.spotify.com/album/31SAPV5z9PJ8SZqru2yGFf) | 1:33 | 2023-08-10 |  |
+| [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 | 2023-08-31 |  |
 | [Weightless Sleep](https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Weightless Sleep](https://open.spotify.com/album/5yQCAsPHnjxMhaKGKLs8Ax) | 2:19 | 2022-09-02 | 2023-02-10 |
 | [What A Wonderful World](https://open.spotify.com/track/2rvH33qiSxBPYXB2nMeYGt) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Amazing Grace](https://open.spotify.com/album/7tSnOYZYhCkvt1k1l2vkKq) | 2:55 | 2021-10-07 | 2023-05-12 |
 | [When A Child Is Born](https://open.spotify.com/track/1QZWQNbo6aupLs38M2M1bY) | [Charles Conte](https://open.spotify.com/artist/0To8dvXvNaBa5ucn97a1dS) | [Little Donkey](https://open.spotify.com/album/1hS0GhWKiFmZOWsqLnBeyM) | 2:16 | 2021-10-07 | 2022-02-11 |

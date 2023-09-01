@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,184 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,217 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 56 | [Ted Jack](https://open.spotify.com/track/4CyvFtF2H7O7AXJm3boacu) | [King in the Belly](https://open.spotify.com/artist/1W9gBSPeYWtOy4Kbgud1R1) | [Ted Jack](https://open.spotify.com/album/0pZVvJd1Du4VocLZ1qbttu) | 3:31 |
 | 57 | [Hate](https://open.spotify.com/track/0ltqN1L7AMMXtGjVKgCDkM) | [antiSOCIAL](https://open.spotify.com/artist/07yUOyXATUrsJWEWQU7xBb) | [Hate](https://open.spotify.com/album/6qLPDR80q4SKtSUH3o6UWR) | 3:36 |
 | 58 | [The Spreading Soul Forever](https://open.spotify.com/track/5ktvPDSpNjOr05wT7mUz8G) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7), [Andre Matos](https://open.spotify.com/artist/4FhjNTlKUnMbaeS21fouvd) | [The Spreading Soul Forever](https://open.spotify.com/album/7KQR3SIUAir2OkvPq8upOa) | 4:57 |
-| 59 | [Perfect](https://open.spotify.com/track/7w1MrjeuciJ1cV9cowRSum) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Perfect](https://open.spotify.com/album/7blkysSNX8xNia9WoECqWk) | 3:21 |
+| 59 | [Perfect](https://open.spotify.com/track/4nxdJkLKOlsJQ1uQhxKiYk) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Welcome Home](https://open.spotify.com/album/1cWJUvXYMpNTIp7WD1aap4) | 3:21 |
 | 60 | [Dark Delight](https://open.spotify.com/track/78XZJGujLi4F7mn4HB6E2G) | [Final Disaster](https://open.spotify.com/artist/3Deto26wjooiLPQmPGlZ0E) | [Dark Delight](https://open.spotify.com/album/4kKfDKnqHqveHWjT716F8D) | 5:26 |
 | 61 | [The Writing on the Wall](https://open.spotify.com/track/4a66HnjRw3kBeQnIGcc8v9) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing on the Wall](https://open.spotify.com/album/1YnwDXwv54rOtLwzzGVZ9N) | 6:13 |
 | 62 | [Bring It](https://open.spotify.com/track/7vEZUuh4pRvBBlXaKh8gn0) | [Hanislip](https://open.spotify.com/artist/7qK0Kc4CpKUB5biozdRI2F) | [Bring It](https://open.spotify.com/album/1QjcBrVZ4rbwS1JEehIiiM) | 4:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 74 | [Mysterious](https://open.spotify.com/track/1YNfg67rPhWMSIalelU6ph) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/09GlDec2IEaxGMkB0L1rH0) | 4:43 |
 | 75 | [Heroes of Sand](https://open.spotify.com/track/7u7VM9dtMRygn59a5SDKCz) | [Nando Fernandes](https://open.spotify.com/artist/6e3Z5Yq6G5vcsuEnmBkeng) | [Edu Falaschi: a New Lease of Life \(Tribute\)](https://open.spotify.com/album/6OuMNT3xYHMWoYTgWxdExj) | 4:40 |
 
-Snapshot ID: `MCw5ZDUxYmZkNTUwNTNkYTg2NTg2YzE3ZjBjYzBlMDc2OTViZDkxMjMw`
+Snapshot ID: `MCw4N2QzYjc4NGFjOWEyMzE4NTM4ZjUzZDJlYWY1MTkxMGM5N2JmNTNj`

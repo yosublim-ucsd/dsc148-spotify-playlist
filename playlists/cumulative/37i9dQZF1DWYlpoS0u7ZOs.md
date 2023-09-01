@@ -4,7 +4,7 @@
 
 > The new wave of rock from the UK & Ireland\. Cover: VENUS GRRRLS
 
-226 songs - 12 hr 6 min
+227 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Country Life](https://open.spotify.com/track/5Oufn6baCCVbDofy4ScOFL) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Peace of Mind](https://open.spotify.com/album/2Qmk17AdzsXXEcVBP42lW2) | 2:27 | 2023-03-24 |  |
 | [Country Life](https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Country Life](https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT) | 2:27 | 2023-01-13 | 2023-03-25 |
 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-10 |  |
+| [Crowd](https://open.spotify.com/track/5btcktwEOwwLGjg4ZOXU8A) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [Crowd](https://open.spotify.com/album/4mbuha3EQeT0RRqONrzNfD) | 3:12 | 2023-08-24 |  |
 | [Cut Your Face](https://open.spotify.com/track/0lO6kfb48tlpVBAlJnTGjO) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Cut Your Face](https://open.spotify.com/album/0b2IAxWPZLraVt4Sfrl2cT) | 4:46 | 2023-08-10 |  |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-13 | 2023-03-25 |
 | [Daylight Robbery](https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Daylight Robbery](https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM) | 2:50 | 2023-03-17 |  |

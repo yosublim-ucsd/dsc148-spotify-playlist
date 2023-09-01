@@ -6,7 +6,7 @@
     "name": "spektrelive",
     "url": "https://open.spotify.com/user/spektrelive"
   },
-  "snapshot_id": "MTc1NSxhNDc5MGFhYjBlMDUyODg3NjQ0YzI5NDlhOGIzMjlkYTNlZjEzMjg5",
+  "snapshot_id": "MTc2MiwyYTc2ZmIwYTY1NDZmZTU2NjY0Y2Y2NzdhZmMxMGExOGYxYmRmY2Y5",
   "tracks": [
     {
       "added_at": "2023-08-24 20:01:47",
@@ -1811,6 +1811,126 @@
       "duration_ms": 225375,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/33jUhN85Ly3yaOdSoVyp1d"
+    },
+    {
+      "added_at": "2023-08-30 20:06:04",
+      "album": {
+        "name": "Embodied",
+        "url": "https://open.spotify.com/album/6IpkTm8SxdXJDCHLJ1yiLi"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "duration_ms": 400500,
+      "name": "Embodied",
+      "url": "https://open.spotify.com/track/6MO0WsD4H6gwCnTrpqo6ge"
+    },
+    {
+      "added_at": "2023-08-30 20:06:08",
+      "album": {
+        "name": "Embodied",
+        "url": "https://open.spotify.com/album/6IpkTm8SxdXJDCHLJ1yiLi"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        }
+      ],
+      "duration_ms": 392677,
+      "name": "The Ultimate Ride",
+      "url": "https://open.spotify.com/track/535nZQFTnlupUl8YPjRsIW"
+    },
+    {
+      "added_at": "2023-08-30 20:06:41",
+      "album": {
+        "name": "Hustle (Extended Mix)",
+        "url": "https://open.spotify.com/album/3WPzNV85KPvsgeAI7nWiiR"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "Mark Porter",
+          "url": "https://open.spotify.com/artist/78ZSf9GUQWY0G0wxF710fo"
+        }
+      ],
+      "duration_ms": 361935,
+      "name": "Hustle - Extended Mix",
+      "url": "https://open.spotify.com/track/0jhJpXzpHTg7pJcl9rIQst"
+    },
+    {
+      "added_at": "2023-08-30 20:06:56",
+      "album": {
+        "name": "Halcyon",
+        "url": "https://open.spotify.com/album/7uP5mykihOoMTeldx2yLjE"
+      },
+      "artists": [
+        {
+          "name": "Weska",
+          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
+        }
+      ],
+      "duration_ms": 383181,
+      "name": "Halcyon",
+      "url": "https://open.spotify.com/track/5YxRHef7f2LkDRPCWzrA3P"
+    },
+    {
+      "added_at": "2023-08-30 20:07:14",
+      "album": {
+        "name": "The Unexpected",
+        "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "The Unexpected",
+      "url": "https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf"
+    },
+    {
+      "added_at": "2023-08-30 20:07:45",
+      "album": {
+        "name": "Human Robot",
+        "url": "https://open.spotify.com/album/34PZAeNnEDiUH3OUw5hf6a"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "duration_ms": 416818,
+      "name": "Human Robot",
+      "url": "https://open.spotify.com/track/25VtvV3hr1j4VUr4KnTrQS"
+    },
+    {
+      "added_at": "2023-08-30 20:08:53",
+      "album": {
+        "name": "Something Wrong",
+        "url": "https://open.spotify.com/album/64Gpa5tJOls1UYLxoGMKhz"
+      },
+      "artists": [
+        {
+          "name": "MARTIN K4RMA",
+          "url": "https://open.spotify.com/artist/728yYZBKoJYPrgx4UYonej"
+        }
+      ],
+      "duration_ms": 355973,
+      "name": "Something Wrong",
+      "url": "https://open.spotify.com/track/1NbRQH6RcJOjdComAcLHCK"
     }
   ],
   "unique_name": "Spektre's Selection",

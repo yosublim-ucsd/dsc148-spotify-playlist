@@ -4,7 +4,7 @@
 
 > The beautiful sound of guitar to help you wind down.
 
-308 songs - 13 hr 32 min
+311 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 | 2023-08-10 |  |
 | [Amarilla](https://open.spotify.com/track/3QW1G65bI9fplVMY1vvgWq) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Amarilla](https://open.spotify.com/album/7LvbQ7xAtrw2mzWZxzHuzk) | 2:27 | 2022-06-17 | 2023-08-26 |
 | [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 | 2022-12-16 |  |
+| [Amor Perfeito](https://open.spotify.com/track/5Ayj1cdbFJ6d9MwFeFEREe) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Amor Perfeito](https://open.spotify.com/album/5tbZcyDOEmo4dbpes7LAlO) | 2:20 | 2023-08-31 |  |
 | [An Italian Lovesong](https://open.spotify.com/track/0BvvHp4Swg1sulxZd9UhPo) | [Toto Espinoza](https://open.spotify.com/artist/19dDL7A3QDM8tAUJg5y0OX) | [An Italian Lovesong](https://open.spotify.com/album/5Qjq6Rr6Fgzzln3HlwzaCF) | 3:31 | 2022-06-17 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2022-06-17 | 2023-03-10 |
 | [Antigua](https://open.spotify.com/track/6lfQmQzzhPWA26Zn478oaL) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Antigua](https://open.spotify.com/album/7C6oMgCrAeWx1kV3jfNu1h) | 1:59 | 2022-10-28 | 2023-08-26 |
@@ -81,7 +82,7 @@
 | [Del Alma](https://open.spotify.com/track/0AsmtlXXgI1hugFJPQKEZd) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Del Alma](https://open.spotify.com/album/3lARxNjOobsA9r56G5kDTf) | 2:37 | 2022-06-17 | 2022-07-29 |
 | [Del Alma](https://open.spotify.com/track/3VYUGuPuqZiKEd7NKwV7PI) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Del Alma](https://open.spotify.com/album/26rKW6kKbLSdKh0DFnlQfo) | 2:37 | 2022-07-29 | 2022-08-18 |
 | [Del Barrio](https://open.spotify.com/track/1PtRT6TUiXfDcVpm7w7LXk) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Del Barrio](https://open.spotify.com/album/3wXfiZLFeJXriFIMMC1Ti4) | 2:02 | 2022-06-17 | 2023-08-25 |
-| [Delicate Love](https://open.spotify.com/track/19NC6JIZJJ88CHJBZkF2o2) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/5Ujv5ySO7k7d373Yjx1k6y) | 2:21 | 2022-07-29 |  |
+| [Delicate Love](https://open.spotify.com/track/19NC6JIZJJ88CHJBZkF2o2) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/5Ujv5ySO7k7d373Yjx1k6y) | 2:21 | 2022-07-29 | 2023-09-01 |
 | [Delicate Love](https://open.spotify.com/track/6uJFme7KrCugSiNLtv6D5v) | [Combo Cadre](https://open.spotify.com/artist/1vnozJqhOSx4kvl9sMGZML) | [Delicate Love](https://open.spotify.com/album/1WtNJblFHyHS5oo6oqbpHI) | 2:21 | 2022-06-17 | 2022-08-04 |
 | [Demelza](https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Demelza](https://open.spotify.com/album/3I4jdlp5h4GbDV5OOletTP) | 3:25 | 2023-03-10 |  |
 | [Dianthus](https://open.spotify.com/track/5BzjvgbKD4J7qr6Qq3LN0Q) | [Jennifer Pérez](https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz) | [Dianthus](https://open.spotify.com/album/7M847xnmEPmIyAIXiXTKJv) | 3:51 | 2022-06-17 | 2023-01-20 |
@@ -158,6 +159,7 @@
 | [Lara](https://open.spotify.com/track/14fXKp1owsmQEzlsHFsC4k) | [Roy De Paz](https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg) | [Lara](https://open.spotify.com/album/0OR0UbW0bvsxvpB7GAN8lo) | 2:04 | 2022-06-17 |  |
 | [Las Lagrimas De Lucia](https://open.spotify.com/track/7znYxzLpVk7LN3fMkGLB3g) | [Rimoneta](https://open.spotify.com/artist/3sGbxLPqbkEwXndXF5rZZc) | [Las Lagrimas De Lucia](https://open.spotify.com/album/4xlHGwdnzANu33Pp7spHtp) | 2:13 | 2022-06-17 |  |
 | [Layers](https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Layers](https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB) | 2:41 | 2023-03-10 |  |
+| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
 | [Leaving La Habana](https://open.spotify.com/track/25clc1eJ1cXlUqCk6K9BBL) | [Jürg Kindle](https://open.spotify.com/artist/5vmlpBR3GPFV5vYLSIZ7Tm), [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Leaving La Habana](https://open.spotify.com/album/4icca12AyQGQAqLzPTYs6E) | 3:38 | 2022-07-08 | 2022-11-18 |
 | [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
 | [Let Me Tell You A Story](https://open.spotify.com/track/1QB8MPwjcXk3CEshFh3uYP) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Let Me Tell You A Story](https://open.spotify.com/album/6DdLoowgo8TEZ8glcdY23X) | 4:17 | 2022-07-01 |  |
@@ -178,7 +180,7 @@
 | [Luz Oculta](https://open.spotify.com/track/0u7uSvFJUQ4iOVU1MORvBm) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Luz Oculta](https://open.spotify.com/album/5LIoNLXzODduC2rShCaG2J) | 2:40 | 2022-09-02 |  |
 | [Mahndorfer See](https://open.spotify.com/track/1xrIPprG8FaVGP8CfVtOMp) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Meissen](https://open.spotify.com/album/3S7Q0wC5L9FDxNhYIaImGN) | 2:36 | 2023-03-31 |  |
 | [Manha De Carnaval](https://open.spotify.com/track/5D09utzIzyrzSRjeQMrssn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Manha De Carnaval](https://open.spotify.com/album/2xRj3jkw0xBoLTBdkM8BSK) | 2:26 | 2022-08-17 |  |
-| [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 |  |
+| [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 | 2023-09-01 |
 | [Maple Street](https://open.spotify.com/track/5GsNfOialI5ZsqmsuZ57CH) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Maple Street](https://open.spotify.com/album/2slEEFLv6zCH9BxsZWXNGc) | 2:33 | 2023-08-10 |  |
 | [Matira](https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Matira](https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN) | 2:20 | 2023-08-10 |  |
 | [Medianoche](https://open.spotify.com/track/1UAlByio9nRgNa1eIMvdtr) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Medianoche](https://open.spotify.com/album/16jVhTdkRtcfjnCWnOnmbL) | 2:19 | 2022-06-17 | 2023-08-26 |
@@ -230,7 +232,7 @@
 | [Rêvant de qui nous étions](https://open.spotify.com/track/6eC8cmEgLmoNEL9MkLZYDr) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Rêvant de qui nous étions](https://open.spotify.com/album/6rCxZZio0rQLHSWoJ5NJp7) | 2:30 | 2022-06-17 |  |
 | [Sabor a Mí](https://open.spotify.com/track/4nQcTeraFLNBq0oMrNBG7i) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Sabor a Mí](https://open.spotify.com/album/3hqWgSWTjXhcFHgAAAP6Mg) | 1:52 | 2022-07-29 | 2022-12-17 |
 | [Sabor a Mí](https://open.spotify.com/track/5tpAKulUIYoOZRQXxjPLgE) | [Yuto Kanazawa](https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC) | [Sabor a Mí](https://open.spotify.com/album/6YpgPmhlcM29dwLFJTbF3N) | 1:52 | 2022-06-17 | 2022-07-29 |
-| [Sabucina](https://open.spotify.com/track/6CKg1LYxqHbnzUcffxWfQt) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab) | [Viento de siroco](https://open.spotify.com/album/43qd0LuoNcxwHsSJBDfk8V) | 4:14 | 2022-06-17 |  |
+| [Sabucina](https://open.spotify.com/track/6CKg1LYxqHbnzUcffxWfQt) | [Saro Tribastone](https://open.spotify.com/artist/4eCn888f7lVBtW0aTgRtab) | [Viento de siroco](https://open.spotify.com/album/43qd0LuoNcxwHsSJBDfk8V) | 4:14 | 2022-06-17 | 2023-09-01 |
 | [Saffron Hills](https://open.spotify.com/track/65334YdgENom7CuEpChTCJ) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Saffron Hills](https://open.spotify.com/album/6j9zshvn2NhNjUKGRP1NgM) | 2:25 | 2022-06-17 | 2022-08-18 |
 | [San Gervasi](https://open.spotify.com/track/6nH1eo4LuuJisJ4m8Blw2h) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [San Gervasi](https://open.spotify.com/album/27DWEE5aDyLTksMdhueuM8) | 2:30 | 2022-06-17 | 2023-01-20 |
 | [Santa Fiora](https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Santa Fiora](https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF) | 2:01 | 2023-03-31 |  |
@@ -302,6 +304,7 @@
 | [Venecia](https://open.spotify.com/track/03tFups6fAAso68zTzwtpc) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Venecia](https://open.spotify.com/album/3eo8sHVLrCyjaTLvS76qUh) | 3:18 | 2022-06-17 |  |
 | [Verano](https://open.spotify.com/track/1XrG2glXzkEisIbtNIFQq8) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Verano](https://open.spotify.com/album/0nEzBM5pySgrM3ovEI382k) | 3:34 | 2023-08-10 |  |
 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 | 2022-06-17 |  |
+| [Vigo](https://open.spotify.com/track/3y2a6TQ1cVmjiWu2ux8CBg) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Vigo](https://open.spotify.com/album/3tIQlmIRpCXwGqvxNgw0q3) | 2:19 | 2023-08-31 |  |
 | [Vitoya](https://open.spotify.com/track/1xenzCpJ2WBBZJWvMHzEmk) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Vitoya](https://open.spotify.com/album/32r0Ctv0IjNJf1W7sNLk0t) | 3:31 | 2022-06-17 | 2022-12-24 |
 | [Vøringfossen](https://open.spotify.com/track/3pkttYHK5xWJQVqZ8MpTZ7) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Vøringfossen](https://open.spotify.com/album/5feSa7mTYzFpHcM1QlNxaP) | 2:09 | 2023-05-12 |  |
 | [Waimea Falls](https://open.spotify.com/track/6OI4lw9ZxbrEoY5SRJgG0y) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Waimea Falls](https://open.spotify.com/album/6kDc5lTyqj3ZGm0Wpdjwut) | 3:52 | 2023-03-31 |  |

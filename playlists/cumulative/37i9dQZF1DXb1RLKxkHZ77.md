@@ -2,7 +2,7 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Danial Kifli
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo, Aisyah Aziz
 
 278 songs - 17 hr 29 min
 

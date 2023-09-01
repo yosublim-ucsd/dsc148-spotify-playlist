@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gucci Mane, City Girls and more\. Cover: Luh Tyler
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,130 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,224 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [OUTSIDE](https://open.spotify.com/track/0uFgVAfNa7f6W3HWR8MM4g) | [Freddy Got Magic](https://open.spotify.com/artist/019TO0knm3TR0pRqesSPSW), [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D) | [OUTSIDE](https://open.spotify.com/album/7JL3x8rNQSWmogtHZvobC9) | 1:59 |
 | 49 | [On The Radar Freestyle](https://open.spotify.com/track/6jaf7Il3LkGkR0jMYmBXtv) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [On The Radar Freestyle](https://open.spotify.com/album/4WzlKTa0ZyWBoYXqnxakYp) | 1:42 |
 
-Snapshot ID: `MCw5ZGUzYzI2NzI5OWY3NDkwNGZlNDJkNThiNTIyNTcwMWZmYmE1ZjQw`
+Snapshot ID: `MCwzMjAxODNkMjJhMzFhYjI4Njk3YTg0OTc0NTUzNzI3YTdhZWUyNDM3`

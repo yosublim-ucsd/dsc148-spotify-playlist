@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > tropa do ninguém tá puro muito menos o mc ig
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,503 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,017 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 64 | [Me Tira de Loka](https://open.spotify.com/track/17dkVh3XU1zEsH6jNYrc9k) | [Sé da Rua](https://open.spotify.com/artist/5fSWje8abBCsGw0LucQt6P), [Sodomita](https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Me Tira de Loka](https://open.spotify.com/album/6Q42zlCZzZ9nyhjXcrlfL9) | 2:59 |
 | 65 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 |
 
-Snapshot ID: `MCwzYTg2ZjEzNjIzYTBhODA2NzM5YjQwMzQ1ZjM3YjVlMDVlMzBhZDFh`
+Snapshot ID: `MCw4ZTQwYWQzYWNkMDhjOTJjMWVjZTBjYzllZThjZWEzOWMwZTMyMGEx`

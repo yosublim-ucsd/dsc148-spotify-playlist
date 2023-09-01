@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-979 songs - 2 day 8 hr 51 min
+980 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Change pt.2](https://open.spotify.com/track/7vPMugKcYwnX9Dh7SrLFHF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 1:54 | 2022-12-03 | 2022-12-05 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 | 2023-04-18 |
 | [Christmas Love](https://open.spotify.com/track/5oaQsszgxYAdABuXoWEOUe) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Christmas Love](https://open.spotify.com/album/75uqqeXpDMUOpWfrPmCubF) | 3:17 | 2023-03-18 | 2023-03-20 |
-| [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 |  |
+| [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 | 2023-09-01 |
 | [Christmas Tree \- Inst.](https://open.spotify.com/track/37rnSr2ZCkzqmoUqGQtn4q) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 | 2021-12-25 | 2021-12-27 |
 | [Chromosome \- Edit](https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp) | [Dish Dash](https://open.spotify.com/artist/2C0q6kKsOqXe490AYXubeA) | [Chromosome](https://open.spotify.com/album/4Nfdi4im1O5Hye98NO3DTZ) | 3:17 | 2023-06-30 | 2023-07-13 |
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2022-05-21 | 2022-05-25 |
@@ -170,7 +170,7 @@
 | [Dabke Dashra Tarb](https://open.spotify.com/track/3A6pYGoo5gJusNXFhQ62aJ) | [Dabkat Tarab](https://open.spotify.com/artist/3Brdr4RebKMOWE4VryBckV) | [Dabke Mawal El Aaskr](https://open.spotify.com/album/26f2clNU9pQ0Koc4feCQsX) | 4:19 | 2021-08-18 | 2021-08-27 |
 | [Dabke Yama Aal Habib](https://open.spotify.com/track/4WFQ9yAB05nvm2lbRY85yG) | [Dabkat Tarab](https://open.spotify.com/artist/3Brdr4RebKMOWE4VryBckV) | [Dabke Mawal El Aaskr](https://open.spotify.com/album/26f2clNU9pQ0Koc4feCQsX) | 1:13 | 2021-08-18 | 2021-08-21 |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2022-04-11 | 2022-05-18 |
-| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-18 |  |
+| [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-18 |  |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2021-11-16 | 2022-10-14 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
 | [Dawn FM](https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-09 | 2022-01-13 |
@@ -740,7 +740,7 @@
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-03 | 2023-04-23 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-07-24 |  |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-25 | 2021-12-29 |
-| [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2023-08-12 |  |
+| [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2023-08-12 | 2023-09-01 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-28 |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2022-02-21 | 2022-02-24 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-08-29 |
@@ -893,7 +893,7 @@
 | [اوف اوف منك اوف](https://open.spotify.com/track/55YDyt2GWhH0CN5zryW5c6) | [A7ar0](https://open.spotify.com/artist/6BvzpUCVj93EGHBLDZBZSG) | [اوف اوف منك اوف](https://open.spotify.com/album/099Rrd73NrbPUF8ThLUvp7) | 3:42 | 2023-06-23 | 2023-08-20 |
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-10-16 | 2023-03-19 |
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2021-11-11 | 2022-08-05 |
-| [بالدمعه \- مسرعه](https://open.spotify.com/track/0wNMSAq2KlAI0iCGJh6LQ6) | [MaqamMusic](https://open.spotify.com/artist/7BEbEqXU1xU7Uw0lO7jfme) | [بالدمعه \- مسرعه](https://open.spotify.com/album/0xczrMhODIIXnOzS3an0V8) | 3:04 | 2023-08-01 | 2023-08-29 |
+| [بالدمعه \- مسرعه](https://open.spotify.com/track/0wNMSAq2KlAI0iCGJh6LQ6) | [MaqamMusic](https://open.spotify.com/artist/7BEbEqXU1xU7Uw0lO7jfme) | [بالدمعه \- مسرعه](https://open.spotify.com/album/0xczrMhODIIXnOzS3an0V8) | 3:04 | 2023-08-01 |  |
 | [بانت مثل نور الشمس](https://open.spotify.com/track/40jqQvybzz7kn8nPTR0AmE) | [Khaled abed](https://open.spotify.com/artist/6HakNQJya9pYehWLybsUbS) | [بانت مثل نور الشمس](https://open.spotify.com/album/6WBsQdOm4epgiEjx21gvVi) | 4:51 | 2021-11-19 | 2022-01-01 |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2021-07-11 | 2022-02-27 |
 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 | 2023-05-15 | 2023-07-23 |
@@ -946,6 +946,7 @@
 | [في ليلة كنها من نورها ليل عيد \(ريمكس\)](https://open.spotify.com/track/4W4dlJ1N3tLP53Ogil6A7I) | [SRAG FM](https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd) | [في ليلة كنها من نورها ليل عيد \(ريمكس\)](https://open.spotify.com/album/7zMZDCD0Zz0EmYSbSBb64m) | 5:25 | 2023-07-10 | 2023-07-30 |
 | [كافي اسكت ولا كلمه](https://open.spotify.com/track/34ASnondngbe8KvYMG5Msd) | [@fahad\_alithawi](https://open.spotify.com/artist/5ELdu0whpOUTAnT2DENcMH) | [كافي اسكت ولا كلمه](https://open.spotify.com/album/5al2yDH7eCXZOh2HRRhTog) | 2:54 | 2023-03-21 | 2023-04-21 |
 | [كان يهمني](https://open.spotify.com/track/3oGUMQ4n2m6dP6qafNePth) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [أعلّق الدنيا](https://open.spotify.com/album/5hC3ocqDCseRyFmASvqcUT) | 4:52 | 2021-06-23 | 2021-09-20 |
+| [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 | 2023-08-31 |  |
 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2021-11-26 | 2022-08-31 |
 | [لو كان الحيط سامع هم الموجوع](https://open.spotify.com/track/68AEbU98B3rIS4hyhnc6lX) | [Various Saudi Artist](https://open.spotify.com/artist/3b5Nvy251OtqfOrnYUKElj) | [لو كان الحيط سامع هم الموجوع](https://open.spotify.com/album/2gmC7PnhTa6PfLXVzTcvjO) | 3:21 | 2023-06-08 | 2023-06-10 |
 | [ليه الجفا](https://open.spotify.com/track/21redrQKfqom4LJarOQtQS) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ليه الجفا](https://open.spotify.com/album/57bMxlsbSlrnqWPVorzowh) | 3:16 | 2021-03-27\* | 2021-10-17 |

@@ -4,17 +4,18 @@
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-171 songs - 8 hr 6 min
+173 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Slow Unfolding](https://open.spotify.com/track/283CXTP5kLLRC91U8TVOtH) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [A Slow Unfolding](https://open.spotify.com/album/4QV9wjpvDo6h8VlzxbSJxZ) | 2:33 | 2022-10-28 |  |
 | [Above the Clouds](https://open.spotify.com/track/0boDpcoqP7wFTvWgJvGstQ) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [Above the Clouds](https://open.spotify.com/album/5n2i7fgVD8Uplf0twma7b8) | 3:04 | 2023-03-31 | 2023-06-10 |
 | [aesthetics](https://open.spotify.com/track/2kRzlPRExNaBBsIANubbHg) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [aesthetics](https://open.spotify.com/album/4F9dzxcyWFLTY0oZj9A5Ej) | 2:13 | 2022-07-08 | 2022-07-15 |
-| [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 | 2022-05-13 |  |
+| [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 | 2022-05-13 | 2023-09-01 |
 | [afternoon hour](https://open.spotify.com/track/1Pc1Dp3YssM92zVSt1MNiL) | [star images](https://open.spotify.com/artist/4hvbrirUxZ0k2ND6FlwiXv) | [afternoon hour](https://open.spotify.com/album/7Lyw93t3o4riUzM7WwqBl9) | 2:18 | 2023-05-19 | 2023-08-17 |
 | [Alaska](https://open.spotify.com/track/6SfeqlQllT5pLCr4uCmkVK) | [The Yené](https://open.spotify.com/artist/4JxRczlzeGuDkMmpun9jXu) | [Alaska](https://open.spotify.com/album/07BDWmcQOd33q7Pbk8aO2e) | 2:00 | 2023-06-09 |  |
 | [Amble](https://open.spotify.com/track/1a2wz6t0zJ88TMZGuJ7SaN) | [A Clear Path](https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI) | [Amble](https://open.spotify.com/album/2PEi0DFcOMBQaEDsS7elKg) | 2:23 | 2023-05-19 |  |
+| [And Again I\`ll Try](https://open.spotify.com/track/2aqT35QPxLaAF4WEuxY0cR) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [And again I'll try](https://open.spotify.com/album/0y656cZffv39ZJw9vvcj0N) | 2:55 | 2023-08-31 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2023-03-10 | 2023-08-17 |
 | [Any Day Now](https://open.spotify.com/track/4Ma1uiF9nGClYmNx7yuhEJ) | [Colateral Commons](https://open.spotify.com/artist/36BVUrJXBiHHzwASLjuscd) | [Any Day Now](https://open.spotify.com/album/0YWzasNPyT6tyoiMKI5RS9) | 2:48 | 2023-04-28 | 2023-06-16 |
 | [Astral Whispers](https://open.spotify.com/track/4dChQFplgw4AdwesKeyU4c) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Astral Whispers](https://open.spotify.com/album/2r7hBDnjROHcnZH7Fdlv1h) | 2:25 | 2023-06-22 |  |
@@ -106,8 +107,8 @@
 | [Nombres](https://open.spotify.com/track/2VuZCzaGC71OKkXLNXUmMG) | [Le Circuit](https://open.spotify.com/artist/5dqoV38M6BN9407iAY3aWL) | [Nombres](https://open.spotify.com/album/66SvMKm56F13ZORVobasSS) | 2:25 | 2023-05-19 | 2023-08-17 |
 | [Oceans](https://open.spotify.com/track/4o53OVOjtOEkmh0UPDyuke) | [A Clear Path](https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI) | [Oceans](https://open.spotify.com/album/3O8OlFYpzITLxAzi7hxtBV) | 2:16 | 2022-08-19 |  |
 | [OCEANS](https://open.spotify.com/track/3RPNs1wcYZD5yKgHCK16ch) | [Ambians](https://open.spotify.com/artist/6OBPJ5nCAxX0NWqDUfzJYg) | [OCEANS](https://open.spotify.com/album/6MH6fWQQUoD3jBjFxXINu0) | 2:48 | 2023-03-10 | 2023-08-25 |
-| [Off\-the\-grid](https://open.spotify.com/track/1a47PzbWf3RBhPAbjK5RgY) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Off\-the\-grid](https://open.spotify.com/album/2MYrltn860rph6b6Qx4ypm) | 2:33 | 2022-12-23 |  |
-| [Ojitos Lindos \- Guitar](https://open.spotify.com/track/4s7C3sOQuOmSiDDIuKCPuM) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Me Porto Bonito & Ojitos Lindos \(Guitar\)](https://open.spotify.com/album/3yE21Ydk1bfddhHrevDCaO) | 4:44 | 2022-10-28 |  |
+| [Off\-the\-grid](https://open.spotify.com/track/1a47PzbWf3RBhPAbjK5RgY) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [Off\-the\-grid](https://open.spotify.com/album/2MYrltn860rph6b6Qx4ypm) | 2:33 | 2022-12-23 | 2023-09-01 |
+| [Ojitos Lindos \- Guitar](https://open.spotify.com/track/4s7C3sOQuOmSiDDIuKCPuM) | [FOCUS MODE](https://open.spotify.com/artist/78kusWUesOzmpCfw9l4tMp) | [Me Porto Bonito & Ojitos Lindos \(Guitar\)](https://open.spotify.com/album/3yE21Ydk1bfddhHrevDCaO) | 4:44 | 2022-10-28 | 2023-09-01 |
 | [On Eagle's Wings](https://open.spotify.com/track/1ocwTeXjR7EkkXEyix92Ma) | [Axione](https://open.spotify.com/artist/29wsDWZgbwNUfV26q33dmC) | [On Eagle's Wings](https://open.spotify.com/album/1ARB7c723GVVygELT8DzoS) | 2:31 | 2023-02-25 | 2023-06-16 |
 | [On Mount Tamalpais](https://open.spotify.com/track/3SGs1iMxX9zzv6Dz1uQwSl) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 2:37 | 2022-05-13 |  |
 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 | 2022-05-13 | 2023-01-20 |
@@ -149,7 +150,7 @@
 | [Substitute](https://open.spotify.com/track/5w87mWO7ER1FcjT8bPnF7B) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [Substitute](https://open.spotify.com/album/0Kg9v9Aewre1YQtG4S6eSZ) | 2:00 | 2023-05-19 | 2023-08-17 |
 | [Sucked Back In the Game](https://open.spotify.com/track/0kCh1hmYmvY8Jo20Brub2X) | [Deep Mark](https://open.spotify.com/artist/1fBgQyqIUMiSAap0lST8L0) | [Sucked Back In the Game](https://open.spotify.com/album/3J2SALaJli4aR5f16G4QPQ) | 2:04 | 2022-05-13 |  |
 | [Summer Tales](https://open.spotify.com/track/40qA5hA8RuOpIe6RzPL9Wo) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:16 | 2022-05-13 |  |
-| [Summit](https://open.spotify.com/track/3Cz57TvhSf9oMXUlzRhedQ) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Summit](https://open.spotify.com/album/10f8KHsTD8I5NVUPbjHnig) | 2:56 | 2022-10-28 |  |
+| [Summit](https://open.spotify.com/track/3Cz57TvhSf9oMXUlzRhedQ) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Summit](https://open.spotify.com/album/10f8KHsTD8I5NVUPbjHnig) | 2:56 | 2022-10-28 | 2023-09-01 |
 | [Sun Rays Like Stilts](https://open.spotify.com/track/2Ik1Ak51UOyRr8uEBamnjI) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Perpetuum](https://open.spotify.com/album/4UupldOklfdtsf76wfUaXx) | 2:04 | 2022-05-13 | 2022-07-29 |
 | [Sun Rays Like Stilts](https://open.spotify.com/track/4r1IFv0DCJ6CQsfOhQPTES) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Perpetual](https://open.spotify.com/album/4P4KWs6xp9LBaKInkE8me3) | 2:07 | 2022-07-15 | 2023-06-10 |
 | [Sunbreak](https://open.spotify.com/track/4cmBIVqMmvd48ISF6FHdtq) | [Matthew Harvey](https://open.spotify.com/artist/30LkldJYxQgtaQBIGwzgMQ) | [Malibu](https://open.spotify.com/album/3kM89PKkU3cDQXTMIYDWxo) | 2:37 | 2022-05-13 | 2023-01-20 |
@@ -173,6 +174,7 @@
 | [Vast Open Sky](https://open.spotify.com/track/42gzCgGFiRmoDvzhVQvEOI) | [J\. J\. Zapata](https://open.spotify.com/artist/6ospPIOrQaXpxQD5dsKAAL) | [Vast Open Sky](https://open.spotify.com/album/1yN0XDhIYbhffVOzLpEHq4) | 2:12 | 2022-05-13 | 2023-06-10 |
 | [Wagonside](https://open.spotify.com/track/4Tb2hOoWV5c6Xe8CcI2sUP) | [Arpwatch](https://open.spotify.com/artist/4QWzCQdSl0I35LnBIN5Lmr) | [Rotations](https://open.spotify.com/album/1yyulWBUveBEnszGh0Zseu) | 3:18 | 2022-05-13 |  |
 | [White Ferrari](https://open.spotify.com/track/3peYvBrl7CyE0zXUujPGnN) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 2](https://open.spotify.com/album/1wCB84h6r1T0nv9ZQDcM3e) | 4:54 | 2022-05-13 | 2023-01-20 |
+| [Wide awake](https://open.spotify.com/track/2zCTVPbhiZ4MOoKlbjQXt9) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Wide awake](https://open.spotify.com/album/2K0FRRO0yJKMHrUcvGPseW) | 2:53 | 2023-08-31 |  |
 | [Wild Lake](https://open.spotify.com/track/5mxf8aV7VUU7C1nzVdu9D6) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Wild Lake](https://open.spotify.com/album/2T1PnhzqQwnHGPRQO7Hdff) | 3:07 | 2022-09-02 |  |
 | [Won't Let Go](https://open.spotify.com/track/2280LJeCzfqedtlabDv5vk) | [Lunar Robyn](https://open.spotify.com/artist/5MMHwlmrS0T1I9o7pa850R) | [Won't Let Go](https://open.spotify.com/album/73c7imEJz55H1ckYTLMDjV) | 2:04 | 2023-05-19 | 2023-08-17 |
 | [World Above](https://open.spotify.com/track/6lCPEra6l4YkPkXVZeFqeT) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [World Above](https://open.spotify.com/album/0mVoSvbZmNqhIIzSRq9Q7o) | 2:35 | 2023-01-20 |  |

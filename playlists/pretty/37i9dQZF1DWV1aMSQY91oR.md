@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,389 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,410 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [6Gear](https://open.spotify.com/track/0An8BUFRTPef14PUMAYNSv) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H), [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [6Gear](https://open.spotify.com/album/0uNL1PTUIqYAi94SQtJh9F) | 3:01 |
 | 50 | [Do or Die](https://open.spotify.com/track/6X5NGQQTHJ1nnbWx3mv5mv) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Do or Die](https://open.spotify.com/album/7IhBM442YmiKjUZTH0iTpr) | 2:13 |
 
-Snapshot ID: `MCw2MDI0MTg4NDJhODJmNmZmM2QxMDY3MTlhYWE4NzNmYTdiYjQ4ZDBh`
+Snapshot ID: `MCxlMTRmMzgxZDc3NDU2ZDg1NWNhOGJhNDYyOGZmNzJlZjE5ZTM4NTUy`

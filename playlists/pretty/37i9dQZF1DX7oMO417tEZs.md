@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. MONEYPHONE on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,752 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,765 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Under the Stars \- tender spring Remix](https://open.spotify.com/track/4zrmv11pGkXHsK1LahgtrQ) | [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a), [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC) | [Under the Stars \(tender spring Remix\)](https://open.spotify.com/album/1BtMQvo0WZHgqAYnGvVnGK) | 2:01 |
 | 100 | [Clusterfunk](https://open.spotify.com/track/72XBKleAwVl37YC6m17jAe) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Clusterfunk](https://open.spotify.com/album/0rFhlL58D0qQENlrQyd0jh) | 3:07 |
 
-Snapshot ID: `MCxjZThjMjU3ZmZmOTg4ODdjZjY2MTQ5ZTNmYjI3MGU5ZDc3YTNjOWRk`
+Snapshot ID: `MCwzNDkyYjY0OWIyNDlhZmRhYTQzOTBiMzBjZDBiNDRmNDNhYTkwMTA1`

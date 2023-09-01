@@ -406,7 +406,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 214353,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 256026,
       "name": "Cara Trancada",
       "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
@@ -1182,6 +1182,24 @@
       "duration_ms": 224354,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29"
+    },
+    {
+      "album": {
+        "name": "Esperado",
+        "url": "https://open.spotify.com/album/53WRpFhBqEq4McKmLeURPr"
+      },
+      "artists": [
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210424,
+      "name": "Corno",
+      "url": "https://open.spotify.com/track/1siCdFLHxIxRguAO1Q7NND"
     },
     {
       "album": {
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 279024,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193045,
       "name": "Do Teu Jeito",
       "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 228666,
       "name": "Fica Parado (feat. C4 Pedro)",
       "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 199500,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/2e3KTRfz4appswSpkawQid"
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 227685,
       "name": "J\u00e1 Deu",
       "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
@@ -2618,6 +2636,24 @@
       "duration_ms": 224546,
       "name": "Leva-me",
       "url": "https://open.spotify.com/track/4Wgx8lyWBUUNLDcsDTcvoM"
+    },
+    {
+      "album": {
+        "name": "BTLV",
+        "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163426,
+      "name": "Limbisa - Kriolu Version",
+      "url": "https://open.spotify.com/track/6kJ1Teb1Tx6XHYhbIkfmn2"
     },
     {
       "album": {
@@ -3642,7 +3678,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 210379,
       "name": "Novinha",
       "url": "https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd"
@@ -4130,7 +4166,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
@@ -4236,7 +4272,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245800,
       "name": "Pele Negra",
       "url": "https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN"
@@ -4654,7 +4690,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 218852,
       "name": "Reagi",
       "url": "https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9"
@@ -4876,7 +4912,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 249497,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
@@ -5016,7 +5052,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 239189,
       "name": "Sempre Sonhei (feat. Yasmine)",
       "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
@@ -5038,7 +5074,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
@@ -5060,7 +5096,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205785,
       "name": "Ser Feliz",
       "url": "https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I"
@@ -5130,7 +5166,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
@@ -5606,7 +5642,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 286093,
       "name": "Teu Ego",
       "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
@@ -5712,6 +5748,24 @@
       "duration_ms": 219812,
       "name": "Tou Nem A\u00ed",
       "url": "https://open.spotify.com/track/5i9rk1inbBQiTU112UoLcv"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h"
+      },
+      "artists": [
+        {
+          "name": "Myriiam",
+          "url": "https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206879,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID"
     },
     {
       "album": {

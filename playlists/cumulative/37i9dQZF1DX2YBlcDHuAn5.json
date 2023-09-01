@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 173053,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 178805,
       "name": "Changing Lanes",
       "url": "https://open.spotify.com/track/2Llgpo9AXTBNNHfGwfJzVN"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 232725,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 173840,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L"
@@ -504,10 +504,32 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 230431,
       "name": "For The Better Of Me",
       "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
+    },
+    {
+      "album": {
+        "name": "Forever a Prisoner",
+        "url": "https://open.spotify.com/album/489krjRSaaFyODbOscNedG"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Dimes",
+          "url": "https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP"
+        },
+        {
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199938,
+      "name": "Forever a Prisoner",
+      "url": "https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX"
     },
     {
       "album": {
@@ -526,7 +548,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 192640,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28"
@@ -916,7 +938,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 200157,
       "name": "Maybe, Maybe Not",
       "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
@@ -1035,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "album": {
         "name": "Priest From Terre Haute",
         "url": "https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH"
       },
@@ -1046,7 +1086,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 703561,
       "name": "Priest From Terre Haute",
       "url": "https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt"
@@ -1278,6 +1318,24 @@
       "duration_ms": 228466,
       "name": "The Longest Journey",
       "url": "https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809"
+    },
+    {
+      "album": {
+        "name": "The Longest Journey",
+        "url": "https://open.spotify.com/album/0kttObNMrwBQFyDGBKiuSW"
+      },
+      "artists": [
+        {
+          "name": "Pieternel",
+          "url": "https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "The Longest Journey",
+      "url": "https://open.spotify.com/track/6OjJ5LKp4HX7IvQ5alO34f"
     },
     {
       "album": {
@@ -1596,7 +1654,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 239029,
       "name": "When Lovers Become Friends",
       "url": "https://open.spotify.com/track/20lnlhGmHmGwquzYCcRygq"

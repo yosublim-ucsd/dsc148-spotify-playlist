@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw">Ayanda Ntanzi</a>
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG?si=d1iEXFUBTaaGYzSIv\-rXag">Mmatemai</a>
 
-146 songs - 14 hr 32 min
+149 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 | 2023-06-16 |  |
 | [Bayohlala Bejabula \- Live](https://open.spotify.com/track/7egEv6e5U0343tYtJWYJdW) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Devotional Praise \(Live\)](https://open.spotify.com/album/7ENrDmcs4C7hNhA9XNBszM) | 4:31 | 2023-08-25 |  |
 | [Because of Jesus](https://open.spotify.com/track/7zddQIafkMLWDpnEw7r7y8) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Because of Jesus](https://open.spotify.com/album/4r089kmUNmAaP2DgQqXrq8) | 8:46 | 2022-05-08 | 2023-03-18 |
+| [Bina Moya Waka \(Live\)](https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Bina Moya Waka \(Live\)](https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP) | 6:37 | 2023-09-01 |  |
 | [Bonk'abantu](https://open.spotify.com/track/5NhTHoojMsw6eUlR5zLMef) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj), [Mussie Fisseha](https://open.spotify.com/artist/0pqfLLrl7qVsHhCjwXqVOw) | [Bonk'abantu](https://open.spotify.com/album/6dnUVcCPU4AWxzFc1sbVui) | 4:05 | 2023-06-16 | 2023-06-30 |
 | [Bow Down and Worship](https://open.spotify.com/track/4pWmkzHatAySpTylNXJOzb) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 10:54 | 2019-09-26 | 2023-03-18 |
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 | 2019-09-26 | 2023-03-12 |
@@ -43,6 +44,7 @@
 | [Ingumlilo \(Lento\) \- Live](https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Ingumlilo \(Lento\) \[Live\]](https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88) | 5:14 | 2019-04-11 |  |
 | [Interlude \- Zulu Worship Medley \- Live](https://open.spotify.com/track/6VoUZWhtAT4H8zH9VDqSf3) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/0cUbjH2QskXdLLtnkEU6CX) | 8:22 | 2023-04-06 |  |
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2018-11-12 | 2023-04-10 |
+| [Jehova](https://open.spotify.com/track/0W9Fy1ylmJUkNwi49iL9jm) | [Isibane Se Afrika](https://open.spotify.com/artist/63LPBHXvNYilxnYECGPvC5) | [Sawubona](https://open.spotify.com/album/3hLWA2uTxJrcLlHYkDKiqh) | 3:39 | 2023-09-01 |  |
 | [Jehova Retshepile Wena \- Live](https://open.spotify.com/track/41VfsXDe70EMrh0j4aLnuM) | [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Another Level of Worship \(Live\)](https://open.spotify.com/album/1IjS2iFryRCTlyUbG20PGX) | 5:41 | 2019-12-09 |  |
 | [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 | 2018-09-24 | 2023-04-09 |
 | [Jehovah Is Your Name \- Live](https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/6p0LBheyF3ZI3W03CSuUsY) | 7:38 | 2023-04-06 |  |
@@ -80,6 +82,7 @@
 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 | 2023-06-16 |  |
 | [Ngena Noah](https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Ngena Noah](https://open.spotify.com/album/5SLa6KjE7yFBKUiBbNSgwH) | 4:31 | 2023-03-17 | 2023-08-04 |
 | [Ngiphe Baba Izindlebe](https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngiphe Baba Izindlebe](https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2) | 7:24 | 2023-08-25 |  |
+| [Ngisize ngisize Nkosi Yami](https://open.spotify.com/track/1EtlmAlMg6V3Cb4gklkovA) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngisize ngisize Nkosi Yami](https://open.spotify.com/album/061BwSXuzM3j9KU96O24tO) | 7:54 | 2023-09-01 |  |
 | [Ngobekezela \- Live at Durban ICC RSA](https://open.spotify.com/track/7cbzm3WHC4J30wwQ3BVELA) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba \(Live at Durban ICC RSA\)](https://open.spotify.com/album/5kqAiJJg7CAG2sCzg6mnHa) | 2:47 | 2019-01-06 |  |
 | [Ngoziphilela](https://open.spotify.com/track/6U0474ZSk2nJIYrYr5nr4G) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r), [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Ngoziphilela](https://open.spotify.com/album/6fbV9fOh86AldX8ewDfhW9) | 4:04 | 2021-10-14 | 2023-03-18 |
 | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nithini Webantu \(Ilizwi Lenkosi\)](https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6) | 5:48 | 2023-07-21 |  |

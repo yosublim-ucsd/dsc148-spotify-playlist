@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Sophia Chablau e Uma Enorme Perda de Tempo
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,036 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,044 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Segredo](https://open.spotify.com/track/4rNdkeJRBA4GQxbkI8YqR6) | [Sophia Chablau e Uma Enorme Perda de Tempo](https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj) | [Segredo](https://open.spotify.com/album/5eU1Fz5ZMApp5smsVVnLlu) | 4:04 |
-| 2 | [Electric Fish](https://open.spotify.com/track/0g4dxxpHaccjm7Ng1k2fQF) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Electric Fish](https://open.spotify.com/album/1tT0M0ILq3siLsmYlfoIrW) | 4:13 |
+| 2 | [Electric Fish](https://open.spotify.com/track/0g4dxxpHaccjm7Ng1k2fQF) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Electric Fish](https://open.spotify.com/album/1tT0M0ILq3siLsmYlfoIrW) | 4:12 |
 | 3 | [Movimento Solar](https://open.spotify.com/track/5m9nEa2D62OPO0YENyivc2) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Movimento Solar](https://open.spotify.com/album/1GkPMxlh0hb8leCOo1KX1K) | 3:21 |
 | 4 | [Mercado](https://open.spotify.com/track/18o5wKZ5M3onKU69OZD5Cs) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [B\-Sides Gêmeos](https://open.spotify.com/album/1ef3KBKANvCTkDauRecAa5) | 3:06 |
 | 5 | [Contramão](https://open.spotify.com/track/5vxVf4x310ltfa2sVwMZRq) | [Plutão Já Foi Planeta](https://open.spotify.com/artist/2Q9b1jENJLIp5qlPclJpbV) | [Plutão Já Foi Planeta](https://open.spotify.com/album/443v0AsX5FFio7iX23rxse) | 3:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Não Vou Mentir](https://open.spotify.com/track/7blyqL8Grf3Zu4bnXJy4j0) | [triz nowa](https://open.spotify.com/artist/0ZggquqaZxc6ZpP4lilI4p) | [Não Vou Mentir](https://open.spotify.com/album/7fM7cMlSzQWBg9rZknl6Vu) | 2:49 |
 | 70 | [Sensível](https://open.spotify.com/track/186od6oy358cSNu00HrQp9) | [j4mpa](https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt) | [Sensível](https://open.spotify.com/album/6yf7vHJPUJe9R8HSvuZaQb) | 2:38 |
 
-Snapshot ID: `MCw2ZTczOThmNTE2OWI1YzlmZTMzNzNhNzZjY2NmM2NlYjc5YmEyYmQ1`
+Snapshot ID: `MCwwMGM2NDZhMzE4ZmQ2NDJkNzE0OWQwOTMwMmM1Mjc2YTliODdiOWEz`

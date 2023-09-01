@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-76 songs - 5 hr 3 min
+78 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Estate](https://open.spotify.com/track/29nsxzITJQJpaja7RvTupi) | [Mellow In Blue](https://open.spotify.com/artist/0XqUdduCt8Hmk0fGxzpdR4), [Mathias Heise](https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW), [Erlend Slettevoll](https://open.spotify.com/artist/1Wvn3eBW8X5DeD2pwnTjYS), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Estate](https://open.spotify.com/album/1lpsAqYN6I6uyiawUgBHFM) | 5:18 | 2023-05-11 |  |
 | [Everything I Love](https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Everything I Love](https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP) | 4:31 | 2023-05-11 |  |
 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 | 2023-05-11 |  |
+| [Fim do verão](https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Fim do verão](https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN) | 3:50 | 2023-08-31 |  |
 | [Florianópolis](https://open.spotify.com/track/4yjDimLGS5JTXh34bFAiFi) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [Florianópolis](https://open.spotify.com/album/2C33KFJjdDgqabZRiEoiJB) | 3:10 | 2023-08-10 |  |
 | [Fotografia](https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Meets Gustav Lundgren](https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt) | 3:50 | 2023-05-11 |  |
 | [Foz Do Iguaçu](https://open.spotify.com/track/7DH2me3WEWpTNcPqeq6I8w) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Foz Do Iguaçu](https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW) | 3:26 | 2023-05-11 |  |
@@ -82,6 +83,7 @@
 | [Wave](https://open.spotify.com/track/74WrcYUQjTFhOecnV2ZwVo) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Nova \- This Is Jazz \# 29](https://open.spotify.com/album/0ZjoVVcivTAErI32AUtwOW) | 6:16 | 2023-05-11 |  |
 | [Woodblock Print](https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Green Grapes](https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ) | 3:44 | 2023-05-11 |  |
 | [You Fascinate Me So](https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [You Fascinate Me So](https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW) | 3:59 | 2023-05-11 |  |
+| [Your Laugh](https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Your Laugh](https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL) | 4:22 | 2023-08-31 |  |
 | [Zephyr](https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG) | [Joao Silva Olivieira](https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX) | [Santa Tereza](https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM) | 3:46 | 2023-05-11 |  |
 | [Águas Do Passado](https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Águas Do Passado](https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp) | 2:22 | 2023-05-11 |  |
 

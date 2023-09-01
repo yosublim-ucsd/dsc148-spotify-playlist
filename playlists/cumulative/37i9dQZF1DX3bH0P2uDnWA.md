@@ -4,10 +4,11 @@
 
 > Bringing the roaring 20s into the 2020s
 
-311 songs - 17 hr 57 min
+313 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [100](https://open.spotify.com/track/6m4ftKNtuB9zPqdSXAYBLt) | [Elle & The Pocket Belles](https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt) | [100](https://open.spotify.com/album/0HSY1fiyh4S76MHLeuMuf3) | 3:10 | 2023-08-25 |  |
 | [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 | 2020-10-30 | 2023-03-11 |
 | [1941 \(feat\. Virian\)](https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U) | [Klaypex](https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK), [Virian](https://open.spotify.com/artist/5jYBAlIgga7KSy6mZLfHHR) | [Anything Goes](https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ) | 3:00 | 2020-10-30 |  |
 | [A Timeless Tale](https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Gone Rogue](https://open.spotify.com/album/4vHMwdn3omUHLhCTDjOuOQ) | 3:06 | 2022-02-11 |  |
@@ -250,6 +251,7 @@
 | [Swag Bag](https://open.spotify.com/track/0u7gdux7Ft6P69Uyj0pa4a) | [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN), [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [Electro Carousel Club Night \(Selected by Dr Cat\)](https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm) | 4:25 | 2020-10-30 | 2023-05-13 |
 | [Swag Bag](https://open.spotify.com/track/32gRfQc1O71YyaEzcBPUuZ) | [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN), [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [Swag Bag](https://open.spotify.com/album/65Bp8ipcWk9qvl0HJAnpsn) | 4:30 | 2022-11-07 |  |
 | [Sway \- Future Swing Mix](https://open.spotify.com/track/3ogL2bsjAYyiaQ0jOKy9su) | [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW), [Bbop](https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII) | [Sway \(Future Swing Mix\)](https://open.spotify.com/album/0Osw46pcXnO0B7JOKoOG5I) | 2:22 | 2023-07-07 | 2023-08-26 |
+| [Sway \- Swing House Mix](https://open.spotify.com/track/2Y6dVNYKzjDoc5gvPDHxFV) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW) | [Sway \(Swing House Mix\)](https://open.spotify.com/album/03MiXrCnXuM5zgfkTDnnR7) | 2:30 | 2023-08-25 |  |
 | [Sweet Dreams](https://open.spotify.com/track/4qGh4pp8kcRcSZ4fvBhQ4M) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Varrick Frost](https://open.spotify.com/artist/294JUMftLLs3Ezkc77s9WV), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Sweet Dreams \(Electro Swing\)](https://open.spotify.com/album/56buYMPiuZZsRkcDuCC93d) | 3:09 | 2022-10-12 | 2022-11-08 |
 | [Swing Delusion](https://open.spotify.com/track/4Xv0OEuS4178t2vEVzdDQO) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF), [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2) | [Wild & Groovy](https://open.spotify.com/album/66tlY8Lw40KgqtOKPAz3Ej) | 3:32 | 2023-03-17 |  |
 | [Swing in Spring \- Betty Booom Remix](https://open.spotify.com/track/1BT5sygKwiAPBs3kmrzgeT) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/1Vuw7wuxpiK5W9pzGL86X8), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Nina Zeitlin](https://open.spotify.com/artist/4YRO8W8k2IdbUMNOgIfCSL) | [Swing in Spring \(Betty Booom Remix\)](https://open.spotify.com/album/6eM6JMksAkekVE8Nk8Cuao) | 2:54 | 2022-11-07 |  |

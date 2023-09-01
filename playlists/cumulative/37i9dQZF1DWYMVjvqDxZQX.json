@@ -266,10 +266,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 378196,
       "name": "Dayz",
       "url": "https://open.spotify.com/track/3L6srWcffyNTxepZd3Dpm0"
+    },
+    {
+      "album": {
+        "name": "No Moon - 653 Miles",
+        "url": "https://open.spotify.com/album/6etuVNvGx5eovSvx2oYIqe"
+      },
+      "artists": [
+        {
+          "name": "No Moon",
+          "url": "https://open.spotify.com/artist/0nfZWqBgezQiLDMwWUXaIV"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378196,
+      "name": "Dayz",
+      "url": "https://open.spotify.com/track/7D13TJL6VBvGQ5IKzZNQqx"
     },
     {
       "album": {

@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 151026,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6vRa0xwMWiBR8fvGd7brnb"
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 156205,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC"
@@ -5274,7 +5274,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 218666,
       "name": "Ohhh",
       "url": "https://open.spotify.com/track/4eG7PhXsV1S9jW4ENOu1GN"
@@ -6959,7 +6959,7 @@
     },
     {
       "album": {
-        "name": "S\u00f3 uma Noite",
+        "name": "S\u00f3 Uma Noite",
         "url": "https://open.spotify.com/album/28PX9MrdXuq9RbiOpE8Cfw"
       },
       "artists": [
@@ -6970,9 +6970,9 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 156134,
-      "name": "S\u00f3 uma Noite",
+      "name": "S\u00f3 Uma Noite",
       "url": "https://open.spotify.com/track/4IE65liqpq2jxwj77ih2MK"
     },
     {
@@ -7187,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "tinha + sonhos",
+        "url": "https://open.spotify.com/album/58eeO1jjsoWAHQo8Y4MLbe"
+      },
+      "artists": [
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151678,
+      "name": "tinha + sonhos",
+      "url": "https://open.spotify.com/track/0TNO84l24GT3hyFpqxJ8U6"
+    },
+    {
+      "album": {
         "name": "To My Favorite Ex",
         "url": "https://open.spotify.com/album/1WeTkoxi7ICEveQ8xcXx58"
       },
@@ -7348,7 +7366,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 186517,
       "name": "Tudo Se Repete",
       "url": "https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su"

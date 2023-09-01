@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Andruss
 
-1,245 songs - 2 day 23 hr 46 min
+1,246 songs - 2 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Breathe \(feat\. No/Me\)](https://open.spotify.com/track/2vhkrn70WNhZbSRamC5LVO) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Breathe \(feat\. No/Me\)](https://open.spotify.com/album/6S0nluEFylUKYsrd2tj0jL) | 4:19 | 2023-06-16 | 2023-08-13 |
 | [Brighter Days \- Marco Lys Remix](https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX) | [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Brighter Days \(30 Year Anniversary Remixes\)](https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB) | 6:22 | 2022-12-28 | 2023-01-06 |
 | [Bring A Friend](https://open.spotify.com/track/5qvE6RC6vV9Y3bmVL535v6) | [Hood Rich](https://open.spotify.com/artist/6VsCebtxRP7GhBxmOnb2oA) | [Bring A Friend](https://open.spotify.com/album/1ftcMSE9C1ce2wH1O0AUFV) | 3:13 | 2021-11-26 | 2022-01-06 |
-| [Bring It](https://open.spotify.com/track/6seHytVZJPtJyH5X6QUKqJ) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bring It](https://open.spotify.com/album/06ylSMA5HfHGtXAkGrC1Hf) | 2:20 | 2023-07-14 |  |
+| [Bring It](https://open.spotify.com/track/6seHytVZJPtJyH5X6QUKqJ) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Bring It](https://open.spotify.com/album/06ylSMA5HfHGtXAkGrC1Hf) | 2:20 | 2023-07-14 | 2023-09-01 |
 | [Bring It Back](https://open.spotify.com/track/1ZGiu67oe3wt3t6Lqoegqm) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Bring It Back](https://open.spotify.com/album/59nhRrYrcHzI5vs0obptvb) | 2:58 | 2023-08-11 |  |
 | [Brisa](https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY) | 2:45 | 2023-06-16 | 2023-08-28 |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-08-06 |
@@ -873,6 +873,7 @@
 | [Rain](https://open.spotify.com/track/06GaggIrBExxcmkZoRVxdU) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Rain](https://open.spotify.com/album/1ie5YmzOVtbgIklhtmRyjE) | 3:30 | 2021-11-26 | 2022-04-02 |
 | [Rain \- Mood EP Version](https://open.spotify.com/track/4V2i4mCnjqWGXPJsNc8Rm8) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Kerri Chandler's Nervous Tracks](https://open.spotify.com/album/0VBC5IHz4wNedZsjVz6J4m) | 7:51 | 2022-12-28 | 2023-01-06 |
 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-04-15 | 2022-07-30 |
+| [Raise Your Hands](https://open.spotify.com/track/1gJAEeLhQVe1FlO1ZtHiwJ) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Tomash](https://open.spotify.com/artist/2NeLA2fc9NB01mIRvO8e4Y) | [Raise Your Hands](https://open.spotify.com/album/71VzE9MGGVGug64mNHXyMR) | 3:52 | 2023-08-18 |  |
 | [Rave Tech Repeat](https://open.spotify.com/track/5Che3jGD0K0tAFUcn1oEBT) | [Cityzen](https://open.spotify.com/artist/0ujkAI5rOxFfCydbNpqa23) | [Rave Tech Repeat](https://open.spotify.com/album/35Pra9n0wAvCdairztpBAt) | 3:30 | 2021-11-26 | 2022-01-06 |
 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 | 2022-09-09 | 2023-03-18 |
 | [Ready For Racing](https://open.spotify.com/track/0dVnj1vmHKBGofUC257OQ2) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Ready For Racing](https://open.spotify.com/album/5boAU9UknnTJeQ7DEikZDZ) | 2:43 | 2022-07-29 | 2022-10-01 |

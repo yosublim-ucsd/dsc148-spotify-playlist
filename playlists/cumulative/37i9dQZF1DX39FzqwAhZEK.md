@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-352 songs - 17 hr 42 min
+353 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Brumal](https://open.spotify.com/track/1kqLeGEX3pC3CGAki2UfBl) | [Arlanda Comodoro](https://open.spotify.com/artist/2hyhdrHJxMVUa8Z6HnxeCq) | [Brumal](https://open.spotify.com/album/2dORj2wIQZ83L763BAkwlG) | 2:48 | 2022-07-05 | 2023-04-07 |
 | [Calm Breeze](https://open.spotify.com/track/25Lxy8zbg4WBRb3qq0oLKm) | [Silent Clouds](https://open.spotify.com/artist/1CwbTF6q8zvbC5NaMGBn8f) | [Calm Breeze](https://open.spotify.com/album/4ELgSyutaKwm5mEdaaGp77) | 3:08 | 2022-07-05 | 2022-07-29 |
 | [Calm Breeze](https://open.spotify.com/track/2tcTUTSn2tD909yyjeKrUZ) | [Silent Clouds](https://open.spotify.com/artist/1CwbTF6q8zvbC5NaMGBn8f) | [Calm Breeze](https://open.spotify.com/album/5fgI0V4BzRdnG7gtGZFApj) | 3:08 | 2022-07-05 |  |
+| [Calm World](https://open.spotify.com/track/55YaGVtmlMuuz6KyrNBY1F) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Calm World](https://open.spotify.com/album/0txToNTpKCS1WHXGBF2SXL) | 2:57 | 2023-09-01 |  |
 | [Calming Seas](https://open.spotify.com/track/6fAmC1bZzVgA9E5gNrdy5k) | [Grant Murdoch](https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0) | [Calming Seas](https://open.spotify.com/album/6RZEo3ZuNrZadQxwmxbtra) | 2:50 | 2022-10-14 |  |
 | [Cartography Of Water](https://open.spotify.com/track/7fSBdUicxjuzxZDmAgxpdr) | [Beautiful Storms](https://open.spotify.com/artist/1dopqchRiIBu3WhKOGzaH8) | [Cartography Of Water](https://open.spotify.com/album/0VvKY4DY5CD6Df5QSxEgbA) | 2:47 | 2022-07-05 |  |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2022-07-05 |  |
@@ -190,7 +191,7 @@
 | [Lost in the Clouds](https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds](https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y) | 3:24 | 2022-07-05 |  |
 | [Love Yourself](https://open.spotify.com/track/1qpLsOZLSvLH9rGwlz50Mw) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Love Yourself](https://open.spotify.com/album/64EmY2V8L3f6RsVdf6RL7x) | 2:46 | 2022-07-05 |  |
 | [Love Yourself](https://open.spotify.com/track/65Yi5Oliqp3s8CT2ntH3QW) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Love Yourself](https://open.spotify.com/album/7DRnan0CrDXHnBHRcIvG5k) | 2:46 | 2022-07-05 | 2022-07-29 |
-| [Luminance](https://open.spotify.com/track/6Ot84WidiBBSyUe0VKrNfw) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Luminance](https://open.spotify.com/album/5dcqX5s5MWzKqu0R92XSKg) | 2:44 | 2022-07-05 |  |
+| [Luminance](https://open.spotify.com/track/6Ot84WidiBBSyUe0VKrNfw) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Luminance](https://open.spotify.com/album/5dcqX5s5MWzKqu0R92XSKg) | 2:44 | 2022-07-05 | 2023-09-01 |
 | [Luminescence](https://open.spotify.com/track/0jGmCbjbB6jW4WIrpKsb1Y) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw) | 3:33 | 2022-07-05 | 2022-08-16 |
 | [Luminescence](https://open.spotify.com/track/5rdnq1XSvWszHe1xSpzmO5) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/5M1Z3FRYy0G5GWhlvvPdRw) | 3:33 | 2022-07-05 | 2022-07-29 |
 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 | 2022-07-05 | 2023-03-10 |

@@ -1783,6 +1783,28 @@
     },
     {
       "album": {
+        "name": "Living With A Fire (Live)",
+        "url": "https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391053,
+      "name": "Freedom - Live",
+      "url": "https://open.spotify.com/track/5UKiOsxr7Q3NQT2LkyFt9n"
+    },
+    {
+      "album": {
         "name": "Fresh Wind (Studio)",
         "url": "https://open.spotify.com/album/03UDrSsFdOPtQsmvyfjaDW"
       },

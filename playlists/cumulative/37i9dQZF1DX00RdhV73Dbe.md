@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-128 songs - 10 hr 24 min
+129 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Singin' in the Rain](https://open.spotify.com/track/73GhZu2dr1h6RdpiWFJx1j) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [See You in the Morning](https://open.spotify.com/album/09xoxcs7kOCDCRkoFeFVNa) | 3:28 | 2022-07-29 | 2022-10-19 |
 | [Singin' in the Rain](https://open.spotify.com/track/7tRiLnyxqBhHerlzubD0sw) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [Pop Is...](https://open.spotify.com/album/5fJGphABYZDUrrAi7HSBkm) | 3:28 | 2022-07-29 | 2022-11-14 |
 | [Sisqo](https://open.spotify.com/track/19B9jkBiEZgxXkx4MVFOCk) | [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [Shifty](https://open.spotify.com/album/09eUqNU7UxERiYXh5DQPgd) | 3:14 | 2023-04-13 |  |
-| [Soared Straight Through Me](https://open.spotify.com/track/4LlDx3L6mlVMgkUOMwK2p3) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Soared Straight Through Me](https://open.spotify.com/album/6ulFRqgLTeLMiSSo1OB6US) | 6:25 | 2023-04-13 |  |
+| [Soared Straight Through Me](https://open.spotify.com/track/4LlDx3L6mlVMgkUOMwK2p3) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Soared Straight Through Me](https://open.spotify.com/album/6ulFRqgLTeLMiSSo1OB6US) | 6:25 | 2023-04-13 | 2023-09-01 |
+| [Soared Straight Through Me](https://open.spotify.com/track/5Yu7iUl3wd9o97Oy0URzBM) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM) | 6:25 | 2023-04-13 |  |
 | [Sola Sistim](https://open.spotify.com/track/4hWuNTCyQeQkzBPjjVE9rX) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 6:26 | 2022-07-29 | 2023-04-14 |
 | [Song for Denise](https://open.spotify.com/track/69Z9CGFvblV0qTb6wMoCpP) | [Piano Fantasia](https://open.spotify.com/artist/3fwPbUnAOAhzd60TyDfE8t) | [Best of Collector: Piano Fantasia \(Le meilleur des années 80\)](https://open.spotify.com/album/3k638JBOLOgKFpXepL3FwQ) | 3:12 | 2023-04-13 |  |
 | [Summoned](https://open.spotify.com/track/22Z581eoV561ar9Pt1hIdp) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Summoned](https://open.spotify.com/album/2srMMiyY1AbsnW6069V55h) | 5:36 | 2023-04-13 | 2023-04-30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: BENR",
+  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Dio",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Batterij",
+        "url": "https://open.spotify.com/album/45Msam5mtM5mOZHmDpnWCu"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "Batterij",
+      "url": "https://open.spotify.com/track/07Q1TmX0GW2FllCksCE4TE"
+    },
+    {
+      "album": {
         "name": "Beetje Vrijheid",
         "url": "https://open.spotify.com/album/7noOA6uNQKPIOS0PUkACvf"
       },
@@ -1026,10 +1044,32 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 160000,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/2QdLK8Px4ogArZbqV4fzyF"
+    },
+    {
+      "album": {
+        "name": "Dakkie Open",
+        "url": "https://open.spotify.com/album/4fdBY1p8awy4SvM1O9pbtB"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194482,
+      "name": "Dakkie Open",
+      "url": "https://open.spotify.com/track/0AdtOEkY2yw0r4dU5nasSd"
     },
     {
       "album": {
@@ -1855,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Fijn Om Hier Te Zijn",
+        "url": "https://open.spotify.com/album/1mrl4a8GSm6T60yWt5GV0e"
+      },
+      "artists": [
+        {
+          "name": "Sterre Koning",
+          "url": "https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184656,
+      "name": "Fijn Om Hier Te Zijn",
+      "url": "https://open.spotify.com/track/5ikNvI5hBCQOxW0Y5H4yHs"
+    },
+    {
+      "album": {
         "name": "FIX",
         "url": "https://open.spotify.com/album/6dIe07FUPAEGdkRZolvGWY"
       },
@@ -1866,7 +1924,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 172203,
       "name": "FIX",
       "url": "https://open.spotify.com/track/1ziebtAwv4jhMWQ3nQcmEh"
@@ -2166,7 +2224,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 181410,
       "name": "Heet",
       "url": "https://open.spotify.com/track/1JIoe7WHdVMRun0XRwUq8g"
@@ -2677,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Ik Denk Aan Jou",
+        "url": "https://open.spotify.com/album/6zlSdwdzvjhV2jFo2vMeSb"
+      },
+      "artists": [
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216716,
+      "name": "Ik Denk Aan Jou",
+      "url": "https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin"
+    },
+    {
+      "album": {
         "name": "Ik Heb Je Lief",
         "url": "https://open.spotify.com/album/6zpCLM4g3cf5sAV21QlXTG"
       },
@@ -2793,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Illusies",
+        "url": "https://open.spotify.com/album/5XgzPaAbCwP8z6sN3ivyL9"
+      },
+      "artists": [
+        {
+          "name": "Tomson",
+          "url": "https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Illusies",
+      "url": "https://open.spotify.com/track/54E9cqWN03bwOSXpZ0WI3y"
+    },
+    {
+      "album": {
         "name": "Je leeft maar 1 keer",
         "url": "https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz"
       },
@@ -2858,7 +2952,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 170526,
       "name": "Jij Wordt Van Mij",
       "url": "https://open.spotify.com/track/4mocRDBEcZbphE66CuF62s"
@@ -3696,7 +3790,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 196795,
       "name": "Naar Het Licht",
       "url": "https://open.spotify.com/track/0o2NJQQmW2c1R6ZNpPdoan"
@@ -3838,7 +3932,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 195951,
       "name": "Niet Sneller Als Ik Ren",
       "url": "https://open.spotify.com/track/2ykxJ4mlAvbDkufnTBlxCW"
@@ -3910,7 +4004,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 200717,
       "name": "Nooit Meer Regen",
       "url": "https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3"
@@ -4091,6 +4185,24 @@
     },
     {
       "album": {
+        "name": "Opzij",
+        "url": "https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142611,
+      "name": "Opzij",
+      "url": "https://open.spotify.com/track/1yoDJQ04wFrCBw9rkVgtXp"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr"
       },
@@ -4106,7 +4218,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 167323,
       "name": "Outside",
       "url": "https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG"
@@ -4182,7 +4294,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 200461,
       "name": "Pas Nu Ik Ons Ken",
       "url": "https://open.spotify.com/track/3ArIRZp6Hc5yhhHWEAgCDD"
@@ -4366,7 +4478,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 154003,
       "name": "Ruggengraat",
       "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
@@ -4402,7 +4514,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 134735,
       "name": "SANGRIA",
       "url": "https://open.spotify.com/track/1rB3PaSergrJ8AFHjrcBtG"
@@ -5106,7 +5218,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 214604,
       "name": "Vergeven, Vergeten",
       "url": "https://open.spotify.com/track/6ID5NQlBr7RikVeC0jkKdH"
@@ -5598,7 +5710,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 149803,
       "name": "Zie Haar Gaan",
       "url": "https://open.spotify.com/track/1Y04IOxtfXx9J3vyy1dEGo"
@@ -5620,6 +5732,24 @@
       "duration_ms": 183598,
       "name": "Zij Heeft Alles",
       "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"
+    },
+    {
+      "album": {
+        "name": "Zoals Jij",
+        "url": "https://open.spotify.com/album/5a85ABmKZ9AcTG05umi7FL"
+      },
+      "artists": [
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152990,
+      "name": "Zoals Jij",
+      "url": "https://open.spotify.com/track/3NjCVq7Mi6RsrG2yzY74Hl"
     },
     {
       "album": {
@@ -5696,6 +5826,28 @@
       "duration_ms": 132500,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/7vi24RDlbTnQOqDBrWt2K6"
+    },
+    {
+      "album": {
+        "name": "Opzij",
+        "url": "https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "Sherefa Yorks",
+          "url": "https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187762,
+      "name": "Zonder jou",
+      "url": "https://open.spotify.com/track/73O00q0bRA60M6LoVfrIpd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,263 songs - 2 day 19 hr 43 min
+1,264 songs - 2 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-25 | 2022-12-28 |
 | [JACOB & CO](https://open.spotify.com/track/0fgJM8xRHf33hR98YqYAEC) | [MG](https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0) | [MEMENTO](https://open.spotify.com/album/7At9VaYb02avtIUtQeIOZS) | 2:46 | 2023-04-08 | 2023-04-11 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-04 |
+| [Jamaica](https://open.spotify.com/track/05U3IRR6fHwoYjBEkyqRox) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Jamaica](https://open.spotify.com/album/5bvvqz8l4k7qp35dexZCF1) | 2:57 | 2023-08-31 |  |
 | [JAY Z](https://open.spotify.com/track/2o7sa1upa8v8quPAyE6keD) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [LIBERTA](https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F) | 3:10 | 2022-05-20 | 2022-05-31 |
 | [Je me casse](https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW) | [Destiny](https://open.spotify.com/artist/1D6ueetjwqW491iboMI3NT) | [Je me casse](https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI) | 2:58 | 2021-05-25 | 2021-05-28 |
 | [Jerry](https://open.spotify.com/track/0cUCiNBjRAVpczxdftQ2hA) | [Scar](https://open.spotify.com/artist/0RvMynE7qhIfAZdMHkA1Mq), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Goons](https://open.spotify.com/album/07r0WakxR92LhYYIR7Kbnb) | 2:43 | 2022-04-21 | 2022-04-24 |
@@ -833,7 +834,7 @@
 | [Odos Monaxias](https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Odos Monaxias](https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS) | 4:16 | 2023-05-06 | 2023-05-12 |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-04 |
 | [OG](https://open.spotify.com/track/1Ffn5uRzMCWWXE1reLK6L1) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [Masla.G](https://open.spotify.com/artist/3SV2jrmhA3pDqHmPITbzD4) | [OG](https://open.spotify.com/album/3Y1EjzGaV0j2yU126fLzT3) | 3:25 | 2022-12-03 | 2022-12-05 |
-| [Oh Mami](https://open.spotify.com/track/1ZUEvvu34Oc2i2PuA6EitL) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Mc Daddy](https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT) | [Oh Mami](https://open.spotify.com/album/0FbC9lBGx5Q6B4AmYoFFXF) | 2:41 | 2023-05-20 |  |
+| [Oh Mami](https://open.spotify.com/track/1ZUEvvu34Oc2i2PuA6EitL) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Mc Daddy](https://open.spotify.com/artist/3wuLkQuhEoK7byB0cfCCWT) | [Oh Mami](https://open.spotify.com/album/0FbC9lBGx5Q6B4AmYoFFXF) | 2:41 | 2023-05-20 | 2023-09-01 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-11-27 |
 | [Oh No](https://open.spotify.com/track/259d0kioJeWhOXnNBMyV0B) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Oh No](https://open.spotify.com/album/5hqZJensJuD1lNAmrFYyD4) | 2:39 | 2022-06-28 | 2022-10-29 |
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-03 |

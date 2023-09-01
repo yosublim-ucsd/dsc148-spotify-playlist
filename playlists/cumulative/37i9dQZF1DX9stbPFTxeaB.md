@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-105 songs - 7 hr 1 min
+106 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [T.C.B\. or T.Y.A.](https://open.spotify.com/track/0bpdYlt8oPbGeBZb3gDdZk) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Nobody's Fault But Mine](https://open.spotify.com/album/6Ft9rsJU1EN1tKUcjOFCaC) | 3:38 | 2020-08-21 |  |
 | [The Answer](https://open.spotify.com/track/4gRRWu6UKWASIQzzOzkXUx) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Earth Music for Aliens](https://open.spotify.com/album/1NGrtPLYUBjDEpfguARNe3) | 5:02 | 2020-08-21 |  |
 | [The Damned](https://open.spotify.com/track/7wl9VAQmGJcWTStbeKhKHf) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [The Damned](https://open.spotify.com/album/5z3dlL97c6PnI8I0kZDNeo) | 4:39 | 2020-08-21 |  |
-| [The Great Unknown](https://open.spotify.com/track/4zBTpUoxrjVMjEYZECuxRi) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:01 | 2020-08-21 |  |
+| [The Great Unknown](https://open.spotify.com/track/0fXA52aJZ2o0IB3db0QVCY) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/7qGLj30hjy5b7oYvHtYKyQ) | 3:00 | 2020-08-21 |  |
+| [The Great Unknown](https://open.spotify.com/track/4zBTpUoxrjVMjEYZECuxRi) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:01 | 2020-08-21 | 2023-09-01 |
 | [True Lies](https://open.spotify.com/track/1vcUlV02bvKQn6ryzZqDVL) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:48 | 2020-08-21 |  |
 | [U Got 2 Believe](https://open.spotify.com/track/6zfMpiPa0x1nEcAF0FH8sx) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [U Got 2 Believe](https://open.spotify.com/album/4i6X6nAuZBqLczL9gQgMCi) | 3:28 | 2020-08-21 |  |
 | [U got 2 believe](https://open.spotify.com/track/7acEqMLOUhLp3N5jav2YzM) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [U got 2 believe](https://open.spotify.com/album/46Ccp0e59OQ79ivNnP6XVY) | 3:28 | 2020-08-21 | 2022-07-29 |

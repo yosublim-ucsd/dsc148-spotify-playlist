@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,599 likes - 129 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,702 likes - 129 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 10 | [Flowers](https://open.spotify.com/track/7o8y3eDRgyBHFSjgu5PLXZ) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Flowers](https://open.spotify.com/album/03ZrfMF9vsSN62oQtZFnjZ) | 2:20 |
 | 11 | [Don't Look Back In Anger](https://open.spotify.com/track/1wSjtNZH4XRBU0KpjrYIYB) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Don't Look Back In Anger](https://open.spotify.com/album/4oHlMLyej1Sb1UPvoDCezc) | 3:46 |
 | 12 | [Ironic](https://open.spotify.com/track/3m02CtIYAR53mHl0nhHMfI) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Ironic](https://open.spotify.com/album/1jpkk29vPtII4h64qz9WRR) | 2:02 |
-| 13 | [Nothing Compares 2 U](https://open.spotify.com/track/5QO0KMwL5KkXhQU8jaXDWE) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Nothing Compares 2 U](https://open.spotify.com/album/4hsnONUwdp2TtL2oUGLh4s) | 3:20 |
-| 14 | [Make You Feel My Love](https://open.spotify.com/track/4fYnPn3bHaT5X2MQ2S1OpC) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Make You Feel My Love](https://open.spotify.com/album/7zic0sRHlU4yHJI08sIYn5) | 3:19 |
-| 15 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/6KpG42chPTbjaigDOyfO0M) | [Julius Reid](https://open.spotify.com/artist/0CKyUaC00wxvMDw4GVquX2) | [Mmm Mmm Mmm Mmm](https://open.spotify.com/album/1OGAxXCH1VkLBN38b8d1JK) | 3:24 |
-| 16 | [Jealous Guy](https://open.spotify.com/track/3SBrKjO3J5hK33LkFUT5qu) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Jealous Guy](https://open.spotify.com/album/204pbznQh5kpkFiY2vVTe6) | 2:07 |
+| 13 | [Make You Feel My Love](https://open.spotify.com/track/4fYnPn3bHaT5X2MQ2S1OpC) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Make You Feel My Love](https://open.spotify.com/album/7zic0sRHlU4yHJI08sIYn5) | 3:19 |
+| 14 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/6KpG42chPTbjaigDOyfO0M) | [Julius Reid](https://open.spotify.com/artist/0CKyUaC00wxvMDw4GVquX2) | [Mmm Mmm Mmm Mmm](https://open.spotify.com/album/1OGAxXCH1VkLBN38b8d1JK) | 3:24 |
+| 15 | [Jealous Guy](https://open.spotify.com/track/3SBrKjO3J5hK33LkFUT5qu) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Jealous Guy](https://open.spotify.com/album/204pbznQh5kpkFiY2vVTe6) | 2:07 |
+| 16 | [Nothing Compares 2 U](https://open.spotify.com/track/5QO0KMwL5KkXhQU8jaXDWE) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Nothing Compares 2 U](https://open.spotify.com/album/4hsnONUwdp2TtL2oUGLh4s) | 3:20 |
 | 17 | [Grenade](https://open.spotify.com/track/2vmsMQmSLSoZodKWYyuZrv) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Grenade](https://open.spotify.com/album/0aY7FDYkSzL2eT6Z4iFvZB) | 2:23 |
 | 18 | [Against All Odds](https://open.spotify.com/track/3miBYmuGu0jr8RE6TDdHzU) | [Larry Eagler](https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs) | [Against All Odds](https://open.spotify.com/album/5btDlYUcNUsNcrW8FnFqrm) | 2:57 |
 | 19 | [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 |
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 23 | [Lift Me Up](https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Lift Me Up](https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv) | 2:33 |
 | 24 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/37MIbOM51JGsex15cprRXV) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/1ZUXPYKXlg2Su8jB2h2Abp) | 2:24 |
 | 25 | [Ziggy Stardust](https://open.spotify.com/track/7s20sxFe7br4GhPUBgCERZ) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Ziggy Stardust](https://open.spotify.com/album/5YwgKHL6IbgAcg91qAqE1w) | 3:45 |
-| 26 | [Love Me Tender](https://open.spotify.com/track/5VdDhaWyHgrnmZe3JVE27Y) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Love Me Tender](https://open.spotify.com/album/59tSdWVmOuJU2TGDmKpQk9) | 2:20 |
-| 27 | [If I Were a Boy](https://open.spotify.com/track/4pMKcvx8DwfjkXuLU8s4xo) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [If I Were a Boy](https://open.spotify.com/album/0H5MFLw8sD2ljwEbWey6CP) | 2:53 |
-| 28 | [Something Just Like This](https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Something Just Like This](https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql) | 2:15 |
-| 29 | [Fix You](https://open.spotify.com/track/5dkN1lmO0Qc9tr7zIDsvrq) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Fix You](https://open.spotify.com/album/237VpOpUlxSe4UQJ2d9xSr) | 2:51 |
-| 30 | [Wouldn't It Be Nice](https://open.spotify.com/track/6e5NXvhtb7cEaNWUXZvIWZ) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [Wouldn't It Be Nice](https://open.spotify.com/album/4r0aHYYhUwlaZ2sthOuJ0s) | 2:20 |
+| 26 | [If I Were a Boy](https://open.spotify.com/track/4pMKcvx8DwfjkXuLU8s4xo) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [If I Were a Boy](https://open.spotify.com/album/0H5MFLw8sD2ljwEbWey6CP) | 2:53 |
+| 27 | [Something Just Like This](https://open.spotify.com/track/2sOKWy70zpQiLejpYdCTKc) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Something Just Like This](https://open.spotify.com/album/6VWskgcznWktZ0CzRZVeql) | 2:15 |
+| 28 | [Fix You](https://open.spotify.com/track/5dkN1lmO0Qc9tr7zIDsvrq) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Fix You](https://open.spotify.com/album/237VpOpUlxSe4UQJ2d9xSr) | 2:51 |
+| 29 | [Wouldn't It Be Nice](https://open.spotify.com/track/6e5NXvhtb7cEaNWUXZvIWZ) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [Wouldn't It Be Nice](https://open.spotify.com/album/4r0aHYYhUwlaZ2sthOuJ0s) | 2:20 |
+| 30 | [Love Me Tender](https://open.spotify.com/track/5VdDhaWyHgrnmZe3JVE27Y) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Love Me Tender](https://open.spotify.com/album/59tSdWVmOuJU2TGDmKpQk9) | 2:20 |
 | 31 | [Shut Up and Dance](https://open.spotify.com/track/4VgOXazSiLJGjC3zeyDJfb) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Shut Up and Dance](https://open.spotify.com/album/2sWu6EVSn5fPk9NYUYN7zV) | 2:33 |
 | 32 | [Fourth of July](https://open.spotify.com/track/6H5jppUwWGcmFIkXjHdJRJ) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Fourth of July](https://open.spotify.com/album/6yvKTtoMbOahCHIsX5dQd5) | 3:19 |
 | 33 | [Fairytale](https://open.spotify.com/track/3nEy4BBcsUD9M2A45rLjkR) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [Fairytale](https://open.spotify.com/album/5vj9fKh95WbicPH55sVfeg) | 2:18 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 128 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 | 129 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 |
 
-Snapshot ID: `MCxiYjBhNmJjZjg3MjQ4ZDBkOTE4ZWYzZDA5MWY1ZTM3ZDgyNzc3ZTY1`
+Snapshot ID: `MCw0MTk0YmI5MWU4NDJhOGYwM2M2MTg4ZjMyNzg0YzY0OWI5YTliNjQx`

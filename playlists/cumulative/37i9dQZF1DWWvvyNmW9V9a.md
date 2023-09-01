@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> teen beats is 2 die 4 !!!! cover: Addison Rae
+> August slipped away into a moment in time 🍂
 
 955 songs - 2 day 1 hr 55 min
 

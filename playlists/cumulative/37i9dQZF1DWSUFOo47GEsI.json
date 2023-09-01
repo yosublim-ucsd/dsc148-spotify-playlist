@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 172196,
       "name": "A New Tomorrow",
       "url": "https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW"
@@ -290,6 +290,24 @@
       "duration_ms": 202000,
       "name": "Amber",
       "url": "https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq"
+    },
+    {
+      "album": {
+        "name": "Ambrosial",
+        "url": "https://open.spotify.com/album/4ZH0LEwHhSJ6HsolpBRehY"
+      },
+      "artists": [
+        {
+          "name": "Esmay Gouin",
+          "url": "https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Ambrosial",
+      "url": "https://open.spotify.com/track/5mvgkAgmAy5BflBiGv369w"
     },
     {
       "album": {
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 196500,
       "name": "Fremen\u2019s Fields",
       "url": "https://open.spotify.com/track/1YVvhuvxNEXPNFFxWpoeIK"
@@ -3976,7 +3994,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 142621,
       "name": "Nikad ne Zaboravi",
       "url": "https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6"

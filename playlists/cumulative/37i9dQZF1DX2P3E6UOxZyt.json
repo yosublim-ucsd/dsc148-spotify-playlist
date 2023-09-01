@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: \u674e\u4f73\u6b61 (Kaia Lee)",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: Andr",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 190375,
       "name": "0.001 (Prod. Jinbo)",
       "url": "https://open.spotify.com/track/4RUak9qjYrKB1PRJIEkbtv"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 246513,
       "name": "CACTUS",
       "url": "https://open.spotify.com/track/5XEanyXMTmJwi6C3ECSc2j"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 259851,
       "name": "Doing Alright",
       "url": "https://open.spotify.com/track/1RAJfhLrvM4fE4qDvlFjhT"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 165666,
       "name": "Heaven.zip",
       "url": "https://open.spotify.com/track/0JJq0zLVqzgpjYaPV1GqiG"
@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "i don't lose sleep anymore",
+        "url": "https://open.spotify.com/album/0TPSnNtb4boimpeYCN5XFq"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195645,
+      "name": "i don't lose sleep anymore",
+      "url": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
+    },
+    {
+      "album": {
         "name": "UU&U",
         "url": "https://open.spotify.com/album/78XT5si8Zp3XhRQEiPZ1pr"
       },
@@ -1080,6 +1098,24 @@
       "duration_ms": 196625,
       "name": "IDFK",
       "url": "https://open.spotify.com/track/44E9HHcE62Bd4wQH95BtgV"
+    },
+    {
+      "album": {
+        "name": "idk",
+        "url": "https://open.spotify.com/album/47Hs3pPi2kMdSLreGBGTEw"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161718,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/2Xcmwm6of2KNJHyYCDiWfH"
     },
     {
       "album": {
@@ -1366,6 +1402,24 @@
       "duration_ms": 138461,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4UqLJ5I3ErvzJVFG0JQ66w"
+    },
+    {
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/3UsruFkybIk53R1DQf5o75"
+      },
+      "artists": [
+        {
+          "name": "Edisong",
+          "url": "https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/5qPW6ipIDI0ViYTqy7YEkI"
     },
     {
       "album": {
@@ -1719,6 +1773,28 @@
     },
     {
       "album": {
+        "name": "\u6c92\u6709\u9748\u9b42\u7684\u8ec0\u6bbc",
+        "url": "https://open.spotify.com/album/6wJkHAUmRxmtVhLLCw2nT6"
+      },
+      "artists": [
+        {
+          "name": "Jinbo",
+          "url": "https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC"
+        },
+        {
+          "name": "TALA",
+          "url": "https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Over the Sea",
+      "url": "https://open.spotify.com/track/1epW0O7NtXJ8HLUDt6V5XZ"
+    },
+    {
+      "album": {
         "name": "overrated (feat. smrtdeath)",
         "url": "https://open.spotify.com/album/1Byiccy1kQfGueajzyPQKK"
       },
@@ -2050,7 +2126,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 217125,
       "name": "St. Lover",
       "url": "https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4"
@@ -2254,7 +2330,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 229772,
       "name": "Tangerine Dream",
       "url": "https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E"
@@ -3620,7 +3696,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 224149,
       "name": "\u53f0\u5317\u5bb5\u591c\u6307\u5357",
       "url": "https://open.spotify.com/track/0eLiTFv7m8O6ScxJVQZyCR"
@@ -5400,7 +5476,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 303090,
       "name": "\u6717\u51ac",
       "url": "https://open.spotify.com/track/6uUW1J9dGjrrfHDe6F0Vu1"

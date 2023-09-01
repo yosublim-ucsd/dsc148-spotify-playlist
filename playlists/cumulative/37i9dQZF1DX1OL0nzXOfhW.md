@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: KALAI 家麗
 
-134 songs - 7 hr 44 min
+135 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Like a Moth to a Flame](https://open.spotify.com/track/48f7hMtjsoO2Wty4dRpVi2) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a Moth to a Flame](https://open.spotify.com/album/44iWUmlmDwVNO8ACGDaCLW) | 3:23 | 2023-03-30 | 2023-04-14 |
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2023-04-13 |  |
 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 | 2023-04-13 |  |
+| [MAD CITY](https://open.spotify.com/track/2raebFPnm3Y1CXdQWNoel6) | [VGONLOKO](https://open.spotify.com/artist/33UR6DvTm32A3qVYeDuUG5), [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [MAD CITY](https://open.spotify.com/album/3wesOZL6BkAiUWxp1T2qzk) | 2:03 | 2023-08-31 |  |
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-04-13 |  |
 | [Mask Off](https://open.spotify.com/track/5DWa1yu3YyOooCNOCP88M0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [Mask Off](https://open.spotify.com/album/7lPukklXy0yedXd8j68rnW) | 3:28 | 2023-04-13 |  |
 | [Never Meant to Hurt You](https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [Never Meant to Hurt You](https://open.spotify.com/album/2CPfE2n9b4XbtLUQXT7HJs) | 3:16 | 2023-04-13 |  |

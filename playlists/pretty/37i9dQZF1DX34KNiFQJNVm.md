@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Juliette, Ana Castela, Leo Santana, Gusttavo Lima, NATTAN, Miley Cyrus e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,414 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,604 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 62 | [Traje dos Drakes](https://open.spotify.com/track/3qoM1syW4TO0cmBi0yIpyK) | [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628), [MC Lemos](https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc Piedro](https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg), [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Traje dos Drakes](https://open.spotify.com/album/5eTUTvjHuXOBNmn99JpBtP) | 6:01 |
 | 63 | [Iphone](https://open.spotify.com/track/6efYa9hJpfFvCbf1ZLAEam) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Gelado No Beat](https://open.spotify.com/artist/3X7VxdZdaVTzUFCuAsjpIO) | [Iphone](https://open.spotify.com/album/3qT8VOyuTpsz1nsEBCj09V) | 2:34 |
 | 64 | [CUSSY](https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [CUSSY](https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo) | 3:00 |
-| 65 | [Ela Quer Bate Bate](https://open.spotify.com/track/57z48oC5Hx7jpwPiWlWhq9) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Dg Do Rb](https://open.spotify.com/artist/7hcLgowsbmmUxHXPmrKHnA) | [Ela Quer Bate Bate](https://open.spotify.com/album/2IV9tM4OSVqonBw4LrsOtf) | 2:14 |
+| 65 | [Bate Bate](https://open.spotify.com/track/57z48oC5Hx7jpwPiWlWhq9) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Dg Do Rb](https://open.spotify.com/artist/7hcLgowsbmmUxHXPmrKHnA) | [Bate Bate](https://open.spotify.com/album/2IV9tM4OSVqonBw4LrsOtf) | 2:14 |
 | 66 | [Segundas Intenções](https://open.spotify.com/track/7n52EFujjf3nzr2yoMnm90) | [DJ ARTHUZIIN](https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C), [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G) | [Segundas Intenções](https://open.spotify.com/album/6H2HA9ZmnW4IQCLJoqi5jp) | 2:35 |
 | 67 | [Vai Não Para](https://open.spotify.com/track/24f5KltdVbiGsCsBMOCTp2) | [Ytalo Paulo](https://open.spotify.com/artist/1HBCU4PyKgKz6nFTuFyMbA), [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Vai Não Para](https://open.spotify.com/album/3JxUQX38eo9d8CBwvWXl6r) | 2:26 |
 | 68 | [Descaso \- Ao Vivo](https://open.spotify.com/track/3huUb3I0NfSyiDnH8U96rr) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T), [Evelyn Duarte](https://open.spotify.com/artist/2veagpXoVxXYkZUzaaiCcA) | [Descaso \(Ao Vivo\)](https://open.spotify.com/album/6caVbv0n1JeREln6BYMqUL) | 3:03 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 102 | [Move it, Love it](https://open.spotify.com/track/15fhWIiIrQsCs6VW17W2kz) | [Lionel](https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA), [Mc Thata](https://open.spotify.com/artist/5q8M0G3RhAnuD7bjrFLpQm) | [Move it, Love it](https://open.spotify.com/album/4k6bODAr2RBMizWzaN237f) | 3:00 |
 | 103 | [Az De Ouro](https://open.spotify.com/track/4SU0Ih4r5IdKZIHaXlQ4R0) | [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Az De Ouro](https://open.spotify.com/album/1vq05TEz1R2vcWahw78Thi) | 2:52 |
 
-Snapshot ID: `MCwzNmEzYWQ0NGI4ZWM5YWZmMTAwNDQyYmVkNzM1NGU2ZDUzYmZlOGVl`
+Snapshot ID: `MCw4NTc1ZDM2YTNkYTFkM2I1ZDU3ZjhmMDNkNTc0ZDM3ZmEyMzEwYzYz`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Tune into the finest of Tamil Indie music!\nCover : Vaisagh",
+  "description": "Tune into the finest of Tamil Indie music!\nCover : Ashwin Vinayagamoorthy",
   "name": "Tamil Indie",
   "tracks": [
     {
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 243999,
       "name": "Isaiyai Nee",
       "url": "https://open.spotify.com/track/67nrUmAX18k5PLpmsBfald"
@@ -7029,6 +7029,24 @@
     },
     {
       "album": {
+        "name": "Pona Poraley",
+        "url": "https://open.spotify.com/album/4R9zIFu9n4FGOMiueIwqQ0"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sathu",
+          "url": "https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Pona Poraley",
+      "url": "https://open.spotify.com/track/1Wbsi01k4nMBSXddvS4QrR"
+    },
+    {
+      "album": {
         "name": "Ponnunga Kaadhal",
         "url": "https://open.spotify.com/album/03NwStJXgOvN3fG6fVBeDG"
       },
@@ -8966,7 +8984,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 242181,
       "name": "Vaan",
       "url": "https://open.spotify.com/track/0szlFEWXeE6jGJJ57SMU60"

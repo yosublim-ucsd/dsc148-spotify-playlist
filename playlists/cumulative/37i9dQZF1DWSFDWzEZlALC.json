@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 163626,
       "name": "1996",
       "url": "https://open.spotify.com/track/6qkWqGP2McFW7HCo43QqQc"
@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/56V2Kulz8kNpLvhHO3IApl"
+      },
+      "artists": [
+        {
+          "name": "Alli Neumann",
+          "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178066,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/1WL5aNWaoWjtbqOKOphCSv"
+    },
+    {
+      "album": {
         "name": "Blume",
         "url": "https://open.spotify.com/album/0SB8TsQKJGqw2LJ3eaBOJ3"
       },
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 175809,
       "name": "boys don\u2019t cry",
       "url": "https://open.spotify.com/track/4D7gB2zqGluW3P4hU8WIEu"
@@ -2127,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr immer tempor\u00e4r",
+        "url": "https://open.spotify.com/album/6cMHp64TomRwVrEJHIMJmd"
+      },
+      "artists": [
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132613,
+      "name": "F\u00fcrdichw\u00fcrdich",
+      "url": "https://open.spotify.com/track/2N5okxps0l2aLu01uWYE0H"
+    },
+    {
+      "album": {
         "name": "Gaga Baby",
         "url": "https://open.spotify.com/album/5TO2MJSSuOZXqIQxevLhZA"
       },
@@ -2258,7 +2294,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 155503,
       "name": "Gep\u00e4cktr\u00e4ger",
       "url": "https://open.spotify.com/track/6giLl2EnhBmbDQjiJrav49"
@@ -2580,6 +2616,24 @@
       "duration_ms": 157053,
       "name": "Hilferuf",
       "url": "https://open.spotify.com/track/08QqmrxcfV58x8f1o6JxKe"
+    },
+    {
+      "album": {
+        "name": "Himmelblau",
+        "url": "https://open.spotify.com/album/6BefKluzq7OEMC8dMtgFmm"
+      },
+      "artists": [
+        {
+          "name": "JUPYTER",
+          "url": "https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152881,
+      "name": "Himmelblau",
+      "url": "https://open.spotify.com/track/2OF4X1tXz8ktEwwRXyQPJh"
     },
     {
       "album": {
@@ -3150,7 +3204,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 183693,
       "name": "Keine Liebe",
       "url": "https://open.spotify.com/track/5QZlHttgfmdc6nQjmozDzU"
@@ -3248,6 +3302,24 @@
       "duration_ms": 123809,
       "name": "Klimpa Klimpa",
       "url": "https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT"
+    },
+    {
+      "album": {
+        "name": "Sekundenschlaf",
+        "url": "https://open.spotify.com/album/2vCBo2IAxZKGw4aK8VYOPF"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156855,
+      "name": "Komisch",
+      "url": "https://open.spotify.com/track/5xSB65nP67AIjwa7sRpK1V"
     },
     {
       "album": {
@@ -3667,6 +3739,28 @@
     },
     {
       "album": {
+        "name": "Mein Leben ist monoton",
+        "url": "https://open.spotify.com/album/0EKxnINrNTMbio7BAlpu91"
+      },
+      "artists": [
+        {
+          "name": "Betterov",
+          "url": "https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ"
+        },
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135482,
+      "name": "Mein Leben ist monoton",
+      "url": "https://open.spotify.com/track/4jz17gFogx4uKLHmzYr4e2"
+    },
+    {
+      "album": {
         "name": "MIESES LEBEN / WOLKEN (feat. Haiyti)",
         "url": "https://open.spotify.com/album/7dQJSvxjsFTyccNHvbsRQ5"
       },
@@ -3954,6 +4048,24 @@
       "duration_ms": 162523,
       "name": "Nie mehr weg",
       "url": "https://open.spotify.com/track/5qR2DOSkZufXivgcLTgbzR"
+    },
+    {
+      "album": {
+        "name": "Nie Rebell",
+        "url": "https://open.spotify.com/album/310L0tfMFKxSJpuOrLNLjJ"
+      },
+      "artists": [
+        {
+          "name": "Kobrakasino",
+          "url": "https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225790,
+      "name": "Nie Rebell",
+      "url": "https://open.spotify.com/track/6WbPmqkMgOZ5M8GPVrPmpB"
     },
     {
       "album": {
@@ -4315,6 +4427,24 @@
     },
     {
       "album": {
+        "name": "Plottwist",
+        "url": "https://open.spotify.com/album/2KO6wzyZSYeFaDt4RK9nWn"
+      },
+      "artists": [
+        {
+          "name": "George JR",
+          "url": "https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Plottwist",
+      "url": "https://open.spotify.com/track/6yx2Rb4TUAKjSMClabhdAu"
+    },
+    {
+      "album": {
         "name": "Pornos im Bett",
         "url": "https://open.spotify.com/album/2weTrhDqRtdQODZ6z4bDVd"
       },
@@ -4369,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Querfeldein",
+        "url": "https://open.spotify.com/album/2mwN7cdo1Y65dSQoyhlebA"
+      },
+      "artists": [
+        {
+          "name": "Ottolien",
+          "url": "https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204482,
+      "name": "Querfeldein",
+      "url": "https://open.spotify.com/track/5J8DcOcF0CP0JH4sr3U7H2"
+    },
+    {
+      "album": {
         "name": "Raue Z\u00e4rtlichkeit",
         "url": "https://open.spotify.com/album/3re4AICzx9AEd1XfE9oAZ0"
       },
@@ -4380,7 +4528,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 135933,
       "name": "Raue Z\u00e4rtlichkeit",
       "url": "https://open.spotify.com/track/4QYtmLxnMNsX1dfjIg3fTJ"
@@ -4822,7 +4970,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 202308,
       "name": "Skandal im Patriarchat",
       "url": "https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY"
@@ -4876,7 +5024,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 199173,
       "name": "so wie du",
       "url": "https://open.spotify.com/track/2LMr8Uoxt0HC211XmThWAF"
@@ -5173,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "streetsmart",
+        "url": "https://open.spotify.com/album/6dHxhtdsS5j3GxXbOr7T46"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "streetsmart",
+      "url": "https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24"
+    },
+    {
+      "album": {
         "name": "Superkraft",
         "url": "https://open.spotify.com/album/0zdMpT5ovFKv42wOfvo54Z"
       },
@@ -5322,7 +5488,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 173750,
       "name": "Tempelhof",
       "url": "https://open.spotify.com/track/2uVRcTm8tjQntOYcyr60J1"
@@ -5991,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "Weinen",
+        "url": "https://open.spotify.com/album/6mT53AeiZtP6635Fa17jkJ"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145285,
+      "name": "Weinen",
+      "url": "https://open.spotify.com/track/1oNkud43ajuoyStDwOpb3z"
+    },
+    {
+      "album": {
         "name": "Wellenl\u00e4ngen",
         "url": "https://open.spotify.com/album/7trTZd6bZGQZjD3SQuMhSH"
       },
@@ -6024,6 +6208,28 @@
       "duration_ms": 171106,
       "name": "Wenn das hier keine Liebe ist",
       "url": "https://open.spotify.com/track/1oPFgR6LruHs8FgAv9skhG"
+    },
+    {
+      "album": {
+        "name": "Teenage Tears",
+        "url": "https://open.spotify.com/album/5d7fleGCiM08wDF5vv3qW0"
+      },
+      "artists": [
+        {
+          "name": "Rowli",
+          "url": "https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3"
+        },
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131833,
+      "name": "Wenn die Sonne scheint",
+      "url": "https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg"
     },
     {
       "album": {
@@ -6074,7 +6280,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 183020,
       "name": "wenn es regnet (hauptbahnhof)",
       "url": "https://open.spotify.com/track/4ISt7GK5zSUUC2mdAPMby2"
@@ -6266,7 +6472,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 193560,
       "name": "W\u00e4rs ok?",
       "url": "https://open.spotify.com/track/0MnoWZ4toEV0ScWX3r1fFy"
@@ -6364,7 +6570,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 121574,
       "name": "zusammenalleine",
       "url": "https://open.spotify.com/track/0m0Ajm118G40tykZvwWQBP"

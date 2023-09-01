@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,331 likes - 102 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,506 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 101 | [EXARTE PA TRA](https://open.spotify.com/track/0BmsdjXVTuO2kpKGaGaXsS) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [EXARTE PA TRA](https://open.spotify.com/album/3i8TvAHvre7Zo6uvcAYAI7) | 2:12 |
 | 102 | [Tate Pendiente](https://open.spotify.com/track/4205hBquJ1hJUjwHXxgyrW) | [Papi Trujillo](https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pochi](https://open.spotify.com/artist/7wbgA4GKIqnYmnUUJbRdrb), [GoldChains](https://open.spotify.com/artist/2kLiB5H38ap10iGLQRV8SG) | [Tate Pendiente](https://open.spotify.com/album/7BOd9ehLDu0EeAOudjwlKO) | 3:34 |
 
-Snapshot ID: `MCxjMDBkODllY2NjZDVhZmNhODRkNzFhOGYzMGJlNTdlNGFiZDAxODM1`
+Snapshot ID: `MCxiNTkxYTRjNDk2YmE4ZTM4YzczOWZmMjQ1NDFhZjY4MWMwY2UwMjE3`

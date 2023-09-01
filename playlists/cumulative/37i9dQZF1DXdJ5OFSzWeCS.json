@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 83750,
       "name": "Flyin' over",
       "url": "https://open.spotify.com/track/4MS2m7qUoTZKdPQ43Cavrb"
@@ -8548,7 +8548,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 122657,
       "name": "Sweet Child Of Mine",
       "url": "https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r"
@@ -9812,6 +9812,24 @@
       "duration_ms": 89729,
       "name": "Warm Calm Bed",
       "url": "https://open.spotify.com/track/78dU1gM1haK1t75PB9pgaJ"
+    },
+    {
+      "album": {
+        "name": "We Are Three Musicians",
+        "url": "https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa"
+      },
+      "artists": [
+        {
+          "name": "Anton Bruch",
+          "url": "https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67773,
+      "name": "We Are Three Musicians",
+      "url": "https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1"
     },
     {
       "album": {

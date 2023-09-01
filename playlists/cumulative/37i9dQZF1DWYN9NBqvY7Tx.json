@@ -4795,6 +4795,28 @@
     },
     {
       "album": {
+        "name": "MONTAGEM PR FUNK (Alesso Remix)",
+        "url": "https://open.spotify.com/album/5747O7ajEWPobMtjJ2HkFx"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172968,
+      "name": "MONTAGEM PR FUNK - Alesso Remix",
+      "url": "https://open.spotify.com/track/58L5MMUqBCZROyYBrRHxsT"
+    },
+    {
+      "album": {
         "name": "Mortals",
         "url": "https://open.spotify.com/album/0JhCeDwLctpO8clf63QtZs"
       },
@@ -8074,7 +8096,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 184273,
       "name": "Us",
       "url": "https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9"

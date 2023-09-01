@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 12666,
+  "num_followers": 12702,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5",
+  "snapshot_id": "MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -251,22 +251,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Riceboy Sleeps",
-        "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
       "artists": [
         {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        },
-        {
-          "name": "Alex Somers",
-          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
         }
       ],
-      "duration_ms": 560653,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
+      "duration_ms": 457146,
+      "name": "Requiem for Dying Mothers, Pt. 2",
+      "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -287,18 +283,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+        "name": "Riceboy Sleeps",
+        "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
       },
       "artists": [
         {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
         }
       ],
-      "duration_ms": 457146,
-      "name": "Requiem for Dying Mothers, Pt. 2",
-      "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
+      "duration_ms": 560653,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -315,6 +315,22 @@
       "duration_ms": 300680,
       "name": "Will She Come Back",
       "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -339,22 +355,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 141746,
-      "name": "I'm Dragging a Dead Deer Up a Hill",
-      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Geogaddi",
         "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
       },
@@ -371,18 +371,34 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
       "artists": [
         {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
+      "duration_ms": 141746,
+      "name": "I'm Dragging a Dead Deer Up a Hill",
+      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "duration_ms": 656026,
+      "name": "Piano Aquieu",
+      "url": "https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -403,22 +419,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Copia",
-        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Amreik",
-      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Dead Texan",
         "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
       },
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Copia",
+        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Amreik",
+      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Burial",
         "url": "https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 133694,
       "name": "Night Bus",
       "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
-      },
-      "artists": [
-        {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 656026,
-      "name": "Piano Aquieu",
-      "url": "https://open.spotify.com/track/3sLgMuBTIEp761Zi7bl5im"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "duration_ms": 397813,
+      "name": "Requiem for Dying Mothers, Pt. 1",
+      "url": "https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Black One",
         "url": "https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
-      },
-      "artists": [
-        {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 397813,
-      "name": "Requiem for Dying Mothers, Pt. 1",
-      "url": "https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Talk Amongst the Trees",
         "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 234333,
       "name": "Cold Out There",
       "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Tired Sounds of Stars of the Lid",
+        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
+      },
+      "artists": [
+        {
+          "name": "Stars Of The Lid",
+          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Austin Texas Mental Hospital, Pt. 3",
+      "url": "https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -683,38 +699,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Venice",
-        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
-      },
-      "artists": [
-        {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
-        }
-      ],
-      "duration_ms": 282106,
-      "name": "Rivers of Sand",
-      "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "The Tired Sounds of Stars of the Lid",
-        "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
-      },
-      "artists": [
-        {
-          "name": "Stars Of The Lid",
-          "url": "https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Austin Texas Mental Hospital, Pt. 3",
-      "url": "https://open.spotify.com/track/7DggAuNltLAhPaineGWUpD"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 273186,
       "name": "Piano Abg",
       "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "duration_ms": 282106,
+      "name": "Rivers of Sand",
+      "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "Silent Motels",
-      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Grinning Cat",
         "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 154493,
       "name": "I Imagine",
       "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "Silent Motels",
+      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Utop\u00eda",
+        "url": "https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        },
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 269680,
+      "name": "Muim (Colleen Mix)",
+      "url": "https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Streichelfisch (Remastered 2022)",
         "url": "https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 219707,
       "name": "white mountain",
       "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Utop\u00eda",
-        "url": "https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        },
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 269680,
-      "name": "Muim (Colleen Mix)",
-      "url": "https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 357866,
-      "name": "Further Away",
-      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Through the Cardial Window",
         "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 350360,
       "name": "Coral Gables",
       "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 357866,
+      "name": "Further Away",
+      "url": "https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv"
     },
     {
       "added_at": "2023-08-04 12:53:28",

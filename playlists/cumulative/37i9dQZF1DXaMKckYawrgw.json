@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
@@ -602,6 +602,24 @@
       "duration_ms": 225088,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6LY0WEkj5dMIE1mE7wUAuY"
+    },
+    {
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/7iYLo31mBnrsdVf9iPMUm6"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191317,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0f9SJZoJiPn2a1p8RMOx8K"
     },
     {
       "album": {
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 220880,
       "name": "Estereof\u00f3nica",
       "url": "https://open.spotify.com/track/72FA2PuToTQehqORbBlwGu"
@@ -1144,6 +1162,28 @@
       "duration_ms": 219193,
       "name": "Freska - Skuela de Baile",
       "url": "https://open.spotify.com/track/3VvSqcarbQm0xqyLBqtAIA"
+    },
+    {
+      "album": {
+        "name": "Fuera de Control",
+        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210824,
+      "name": "Fuera de Control",
+      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
     },
     {
       "album": {
@@ -1825,6 +1865,28 @@
     },
     {
       "album": {
+        "name": "Mi Chica Ideal",
+        "url": "https://open.spotify.com/album/0VSazinx299J4PqvRkJZ0S"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Pepe Grela",
+          "url": "https://open.spotify.com/artist/6XENWUH8sbcMMKNf37O1eZ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217508,
+      "name": "Mi Chica Ideal",
+      "url": "https://open.spotify.com/track/4VaIJ0IyODvob50CWAgYiX"
+    },
+    {
+      "album": {
         "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
       },
@@ -2112,7 +2174,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 249906,
       "name": "No Piensa En Ti",
       "url": "https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM"

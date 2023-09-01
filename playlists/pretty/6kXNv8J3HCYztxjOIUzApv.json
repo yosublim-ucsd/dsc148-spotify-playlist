@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 59393,
+  "num_followers": 59435,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MjAyOSxmM2IzMzliYmUzNGMzNDVlMDczODVkYmViMDJiZGRmZDgzODE5NmEz",
+  "snapshot_id": "MjAzMSwyYmIxNmY1MWU5MTU5ZTUyZDIyZTdiMGExMTk2NTYyZDE3ZTNlYTRj",
   "tracks": [
     {
       "added_at": "2023-08-25 17:51:15",
@@ -153,6 +153,26 @@
       "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
     },
     {
+      "added_at": "2023-08-04 17:59:57",
+      "album": {
+        "name": "Unstoppable (feat. Cory Marks)",
+        "url": "https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        },
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "duration_ms": 186462,
+      "name": "Unstoppable (feat. Cory Marks)",
+      "url": "https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze"
+    },
+    {
       "added_at": "2023-05-19 15:14:47",
       "album": {
         "name": "Armageddon",
@@ -261,6 +281,22 @@
       "url": "https://open.spotify.com/track/10ASBwZsp7oUUDsJEYz3uS"
     },
     {
+      "added_at": "2023-07-14 14:45:47",
+      "album": {
+        "name": "Woo Hah!! Got You All in Check",
+        "url": "https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 237629,
+      "name": "Woo Hah!! Got You All in Check",
+      "url": "https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS"
+    },
+    {
       "added_at": "2023-04-03 10:41:16",
       "album": {
         "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
@@ -339,22 +375,6 @@
       "duration_ms": 182963,
       "name": "Only Human (feat. AJ Channer)",
       "url": "https://open.spotify.com/track/2H0GxfBChmWOMhQCUWybav"
-    },
-    {
-      "added_at": "2023-07-14 14:45:47",
-      "album": {
-        "name": "Woo Hah!! Got You All in Check",
-        "url": "https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 237629,
-      "name": "Woo Hah!! Got You All in Check",
-      "url": "https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS"
     },
     {
       "added_at": "2023-07-07 18:02:17",
@@ -2787,26 +2807,6 @@
       "duration_ms": 201630,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3q3faMChxzP9nSgVt7TUs8"
-    },
-    {
-      "added_at": "2023-08-04 17:59:57",
-      "album": {
-        "name": "Unstoppable (feat. Cory Marks)",
-        "url": "https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        },
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        }
-      ],
-      "duration_ms": 186462,
-      "name": "Unstoppable (feat. Cory Marks)",
-      "url": "https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze"
     },
     {
       "added_at": "2023-08-04 18:02:18",

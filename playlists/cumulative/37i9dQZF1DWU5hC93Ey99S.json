@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/7xN2V5CJqsTKeuEzS756SQ"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/1htEfLu0TYvsJRr2WsInkD"
+    },
+    {
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
       },
@@ -1187,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/4LyFbrAm7AJvBIWh9PG4Yw"
+      },
+      "artists": [
+        {
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+        },
+        {
+          "name": "Katrina Anastasia",
+          "url": "https://open.spotify.com/artist/6SCKIIvdm9MXWZXv5KJZs7"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/77aNSMeyRt76CySXOgddOJ"
+    },
+    {
+      "album": {
         "name": "follow you",
         "url": "https://open.spotify.com/album/7HTwyVqnDDTRma0swJgDJL"
       },
@@ -1336,6 +1376,24 @@
       "duration_ms": 193706,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
+    },
+    {
+      "album": {
+        "name": "Go home already",
+        "url": "https://open.spotify.com/album/4wCyqkJydKakoAoXtqIAc5"
+      },
+      "artists": [
+        {
+          "name": "projektbau",
+          "url": "https://open.spotify.com/artist/6zMFuvc7I8OgPAJj9jhSd4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133533,
+      "name": "Go home already",
+      "url": "https://open.spotify.com/track/1R4Ut8EB0EyJFjCb3oNfWg"
     },
     {
       "album": {
@@ -1692,6 +1750,24 @@
       "duration_ms": 186521,
       "name": "I CAN'T STOP",
       "url": "https://open.spotify.com/track/3rc030o1DJ1ILNdMPZoS7W"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Let You Go",
+        "url": "https://open.spotify.com/album/3TFWS8W8gSrlWR0JJo5F1O"
+      },
+      "artists": [
+        {
+          "name": "CHEEKS",
+          "url": "https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "I Don't Wanna Let You Go",
+      "url": "https://open.spotify.com/track/4fuNiwrYGyapCWvu6wmDrT"
     },
     {
       "album": {
@@ -3832,6 +3908,28 @@
       "duration_ms": 196021,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX"
+    },
+    {
+      "album": {
+        "name": "The Horizon (With You)",
+        "url": "https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187111,
+      "name": "The Horizon (With You)",
+      "url": "https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF"
     },
     {
       "album": {

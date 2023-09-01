@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Shenseea
 
-290 songs - 13 hr 19 min
+291 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Clap Clap](https://open.spotify.com/track/0HRh0oyCzL77523ZBDZHhV) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clap Clap](https://open.spotify.com/album/4ujzl78TKBfkTbmB5VtllJ) | 3:15 | 2022-07-21 | 2022-10-14 |
 | [Clicli](https://open.spotify.com/track/4Ybp2JxZFhAAZSwrMTWuiG) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4) | [Clicli](https://open.spotify.com/album/3LpYLnk2KFLdJNw2A09TK4) | 2:54 | 2021-12-22 | 2022-02-18 |
 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 | 2022-08-18 | 2023-02-17 |
-| [Coca\-Cola Mentos](https://open.spotify.com/track/7d5h2OAmrKHVFrvivayPzl) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Ozoror](https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX) | 2:35 | 2023-04-13 |  |
+| [Coca\-Cola Mentos](https://open.spotify.com/track/7d5h2OAmrKHVFrvivayPzl) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Ozoror](https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX) | 2:35 | 2023-04-13 | 2023-09-01 |
 | [Coeur Automatique](https://open.spotify.com/track/3AVBcEefI5a1Rj1hJhAQzW) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Coeur Automatique](https://open.spotify.com/album/0hQFZ7hRtOmd7wgKvSCIrb) | 2:26 | 2023-05-25 |  |
 | [Come](https://open.spotify.com/track/1wE06ItQpK0wjAhCpwfsH4) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Come](https://open.spotify.com/album/3VihwCwktiRiqN8TuLJe6C) | 2:28 | 2022-11-03 | 2022-12-16 |
 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 | 2021-12-22 | 2022-02-18 |
@@ -297,6 +297,7 @@
 | [Ya Skin Fit](https://open.spotify.com/track/2atvj9otOqIen4CELIbaR0) | [Stiekz](https://open.spotify.com/artist/4rUyoXMYnuqiPeYhFSAjF2), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Ya Skin Fit](https://open.spotify.com/album/7as7BKLUNomHcfn8ig0yXs) | 2:21 | 2022-03-24 | 2022-09-30 |
 | [Yaad Man](https://open.spotify.com/track/2e8tkd6PJvOdQWs52oJHvn) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci) | [Yaad Man](https://open.spotify.com/album/3h9olV9TVlXzKDypvElsFH) | 3:39 | 2023-08-03 |  |
 | [YKTV \(You Know The Vibes\)](https://open.spotify.com/track/6JIGRYONjo9OT6kAv8sF7P) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [YKTV \(You Know The Vibes\)](https://open.spotify.com/album/4AhfkL4zPniipwFJSb1U8t) | 2:45 | 2023-07-06 | 2023-08-18 |
+| [Yozo](https://open.spotify.com/track/7FKH8cRBqFjgxfArnJLqaW) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Yozo](https://open.spotify.com/artist/0eENwoLRhIVvT0dfzhgmUG), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Yozo](https://open.spotify.com/album/1kwssT1xqCkbgGb6mfUpJP) | 2:17 | 2023-08-31 |  |
 | [Zyé Dou](https://open.spotify.com/track/7ClIzTo1TbHnV9E7BNBr20) | [T Kimp Gee](https://open.spotify.com/artist/1NxMxZ8dG0JJbg02CXtw2D) | [Zyé Dou](https://open.spotify.com/album/1garQowSrJjW5pEfLNufIO) | 2:21 | 2022-04-28 | 2022-05-27 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

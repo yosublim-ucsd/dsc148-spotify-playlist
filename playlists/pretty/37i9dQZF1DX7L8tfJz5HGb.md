@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,885 likes - 108 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,052 likes - 108 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 68 | [Festival](https://open.spotify.com/track/0JcKkqHW6JGxJ8GyHbpVyp) | [Um Junghwa](https://open.spotify.com/artist/5v7oyChb49D5Z9mkkXxuVY) | [Um Junghwa 5th\(005.1999.06\)](https://open.spotify.com/album/2Mp1Q5RhkLFDlWSXV1W2m0) | 3:59 |
 | 69 | [D.I.S.C.O \(Feat\. T.O.P\)](https://open.spotify.com/track/3NAPc6tSKinZaEMLyhU2Rp) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB), [T.O.P.](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [D.I.S.C.O](https://open.spotify.com/album/57fsyv0VeSyZkwS87uS3Jg) | 3:25 |
 | 70 | [Come 2 Me](https://open.spotify.com/track/1UA9QMynaCepXnQd7D9W1r) | [Uhm JungHwa](https://open.spotify.com/artist/1S1Ko8eoYsNM7GlRYjhw3z) | [Prestige](https://open.spotify.com/album/1GKLBm4HiVp0wj0sRFdbJX) | 3:43 |
-| 71 | [Hop in \(Feat\. Hwa Sa, DPR LIVE\)](https://open.spotify.com/track/0m7EslFE30tsLNmh3gJdiS) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Hop in](https://open.spotify.com/album/3H7SegvbrluL787hau5gQB) | 3:40 |
+| 71 | [Hop in \(Feat\. Hwa Sa, DPR LIVE\)](https://open.spotify.com/track/0m7EslFE30tsLNmh3gJdiS) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Hop in](https://open.spotify.com/album/3H7SegvbrluL787hau5gQB) | 3:40 |
 | 72 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 73 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 74 | [Comment from NewJeans 1](https://open.spotify.com/track/6ewdcozPxoxPGVLwNr24pP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 4:11 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 107 | [Okay Dokey](https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me the Money 4 Episode 6](https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN) | 4:08 |
 | 108 | [Boys And Girls](https://open.spotify.com/track/2vefaHJYN4zKolfWa48BwV) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Boys and Girls](https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e) | 3:20 |
 
-Snapshot ID: `MCwyMDljNzQ2Mzg2YWI1NDI1M2VmOWE2YmU0NjBkNzY4N2RjOGQzY2Vh`
+Snapshot ID: `MCwyYWFjOTEzNmQzZmI2OTQ2YmVmZjFhODMyNDg2NmM3YmVkOGFhMzIz`

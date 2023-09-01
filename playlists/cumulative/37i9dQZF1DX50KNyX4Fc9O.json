@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Keep your finger on the pulse of pop. Cover: Drax Project + Charley",
+  "description": "Keep your finger on the pulse of pop. Cover: Sam Fischer",
   "name": "Pop n' Fresh",
   "tracks": [
     {
@@ -128,10 +128,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 212213,
       "name": "A World Without You",
       "url": "https://open.spotify.com/track/4lB4o2KbTxfE5wNMkw6vKR"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192207,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
     },
     {
       "album": {
@@ -806,7 +824,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 206519,
       "name": "Cloud Dancing",
       "url": "https://open.spotify.com/track/1osa9IosuISMYwkfOGguY5"
@@ -936,6 +954,24 @@
       "duration_ms": 124338,
       "name": "daisies",
       "url": "https://open.spotify.com/track/1l13o2Aj524pm3R0qDY4uL"
+    },
+    {
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/6C7IFGbtla4IIQChPZHn8n"
+      },
+      "artists": [
+        {
+          "name": "Josh Mac",
+          "url": "https://open.spotify.com/artist/4ZCUxlob32idKOM4mIP76L"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/0vA9qHaTdCScEdroJiwHh3"
     },
     {
       "album": {
@@ -1573,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Fell Asleep At The Beach",
+        "url": "https://open.spotify.com/album/5XIOKRvs8eVhNzOdeDbVYJ"
+      },
+      "artists": [
+        {
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188539,
+      "name": "Fell Asleep At The Beach",
+      "url": "https://open.spotify.com/track/3uKH3ejYb1hyL0WPxu1Yg8"
+    },
+    {
+      "album": {
         "name": "Fictional",
         "url": "https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5"
       },
@@ -1638,7 +1692,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 203506,
       "name": "For Oli",
       "url": "https://open.spotify.com/track/7FNBpx4om1iQcUPnyGqdMG"
@@ -1776,6 +1830,24 @@
       "duration_ms": 176528,
       "name": "Girls!",
       "url": "https://open.spotify.com/track/3ZALUrmCyponBGvuBHuJQa"
+    },
+    {
+      "album": {
+        "name": "Home Is Where The Heart Is",
+        "url": "https://open.spotify.com/album/5skRNXLBAyYKaCJM2evpqK"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204684,
+      "name": "Give Her Your Heart",
+      "url": "https://open.spotify.com/track/1uTE6dmsn9xwU4T8ybMQjj"
     },
     {
       "album": {
@@ -1945,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "ANALYSIS PARALYSIS",
+        "url": "https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118140,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5"
+    },
+    {
+      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
       },
@@ -1956,7 +2046,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 182000,
       "name": "Guitar",
       "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
@@ -2090,7 +2180,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 171088,
       "name": "Hate That You Hurt",
       "url": "https://open.spotify.com/track/3Xm6fysXfjFtabHYe4cifr"
@@ -2560,7 +2650,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 134658,
       "name": "I Want It (Danny DeVito)",
       "url": "https://open.spotify.com/track/3aXT30VvzkodMqmCicZ4SK"
@@ -2881,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3"
+      },
+      "artists": [
+        {
+          "name": "Amila",
+          "url": "https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188456,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ"
+    },
+    {
+      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7"
       },
@@ -2932,6 +3040,24 @@
       "duration_ms": 211733,
       "name": "Love U Like That",
       "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
+    },
+    {
+      "album": {
+        "name": "make it right",
+        "url": "https://open.spotify.com/album/5X92HwUHm4Y3nROYmbRx7j"
+      },
+      "artists": [
+        {
+          "name": "Gracie Moller",
+          "url": "https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "make it right",
+      "url": "https://open.spotify.com/track/4cKDJ78EukkczxwWvM1EAx"
     },
     {
       "album": {
@@ -3318,7 +3444,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 179368,
       "name": "Ordinary Girl",
       "url": "https://open.spotify.com/track/3PstsCDCVAdTaPUauGS1fR"
@@ -3660,7 +3786,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
@@ -3916,7 +4042,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 186560,
       "name": "Something Familiar",
       "url": "https://open.spotify.com/track/0eS8TKIQfshmKIQJEnDLmt"
@@ -4665,6 +4791,24 @@
     },
     {
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "album": {
         "name": "Video Game",
         "url": "https://open.spotify.com/album/4Ts5SXRtH4FJuMo104aZv1"
       },
@@ -4968,7 +5112,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 206706,
       "name": "XXL",
       "url": "https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0"
@@ -5048,6 +5192,24 @@
       "duration_ms": 193400,
       "name": "You'll Never Know Me Sober",
       "url": "https://open.spotify.com/track/3FZX4Pg6RnaBqAXgeUx5FK"
+    },
+    {
+      "album": {
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX50KNyX4Fc9O"

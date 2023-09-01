@@ -1,12 +1,12 @@
 {
   "description": "Curated by Bun B.",
-  "num_followers": 12173,
+  "num_followers": 12277,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2IzMjliODBkOGQ5MTIzOWU3NjM1Njc3Y2ZjZmQxNDU3ZGNmZWFk",
+  "snapshot_id": "MCwzN2U5MGZiYzA5OTU0ZGU0NzVjODllYjFhNzg3OTRiNmRjNTY0Nzk3",
   "tracks": [
     {
       "added_at": "2023-08-30 19:30:34",
@@ -483,6 +483,26 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
+        "name": "Crime Mob",
+        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
+      },
+      "artists": [
+        {
+          "name": "Crime Mob",
+          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
+        },
+        {
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
+      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
         "name": "THUGS ARE US",
         "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 255413,
       "name": "Shawty (feat. T Pain)",
       "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
-        "name": "Crime Mob",
-        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
-      },
-      "artists": [
-        {
-          "name": "Crime Mob",
-          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
-        },
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
-      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
-        "name": "La Bella Mafia",
-        "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
-      },
-      "artists": [
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        }
-      ],
-      "duration_ms": 359973,
-      "name": "Magic Stick",
-      "url": "https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 274400,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
+        "name": "La Bella Mafia",
+        "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 359973,
+      "name": "Magic Stick",
+      "url": "https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR"
     },
     {
       "added_at": "2023-08-30 19:30:34",
@@ -875,6 +875,30 @@
     {
       "added_at": "2023-08-30 19:30:34",
       "album": {
+        "name": "AttenCHUN!",
+        "url": "https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi"
+      },
+      "artists": [
+        {
+          "name": "Bone Crusher",
+          "url": "https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 316133,
+      "name": "Never Scared (feat. Killer Mike & T.I.) - Club Mix",
+      "url": "https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC"
+    },
+    {
+      "added_at": "2023-08-30 19:30:34",
+      "album": {
         "name": "Straight Outta Cashville",
         "url": "https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ"
       },
@@ -955,30 +979,6 @@
       "duration_ms": 211400,
       "name": "Danger (Been So Long) (feat. Nivea)",
       "url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg"
-    },
-    {
-      "added_at": "2023-08-30 19:30:34",
-      "album": {
-        "name": "AttenCHUN!",
-        "url": "https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi"
-      },
-      "artists": [
-        {
-          "name": "Bone Crusher",
-          "url": "https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 316133,
-      "name": "Never Scared (feat. Killer Mike & T.I.) - Club Mix",
-      "url": "https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC"
     },
     {
       "added_at": "2023-08-30 19:30:34",

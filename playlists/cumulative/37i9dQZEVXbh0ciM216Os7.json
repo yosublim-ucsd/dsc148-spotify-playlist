@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -1930,7 +1930,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 204796,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/1XMXIdPHXXoTI48rQEBp9V"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 210672,
       "name": "Do You Remember Country Music",
       "url": "https://open.spotify.com/track/7CFK4WaCuILEyCuBxjAM4W"
@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 137398,
       "name": "dummy",
       "url": "https://open.spotify.com/track/3Yvrrzb0ebtnJYpiXFMWns"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 172213,
       "name": "Dumptruck",
       "url": "https://open.spotify.com/track/5ADiwjcccncgVcYem16lkn"
@@ -5601,6 +5601,32 @@
     },
     {
       "album": {
+        "name": "JUMPIN (Timmy Trumpet Remix)",
+        "url": "https://open.spotify.com/album/5N10HsZvBZFjzMMJvNp5Gv"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164911,
+      "name": "JUMPIN - Timmy Trumpet Remix",
+      "url": "https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2"
+    },
+    {
+      "album": {
         "name": "Just What I Need",
         "url": "https://open.spotify.com/album/5PisCzqfPtR3D1c4jINRzl"
       },
@@ -5865,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "Last a While",
+        "url": "https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK"
+      },
+      "artists": [
+        {
+          "name": "Arc De Soleil",
+          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185412,
+      "name": "Last a While",
+      "url": "https://open.spotify.com/track/2J9WyRYiN97tceXPTXHF1u"
+    },
+    {
+      "album": {
         "name": "Continue as a Guest",
         "url": "https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B"
       },
@@ -6020,6 +6064,32 @@
       "duration_ms": 244258,
       "name": "Light and Darkness",
       "url": "https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o"
+    },
+    {
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        },
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188186,
+      "name": "Like It Like That (feat. Chief Adjuah)",
+      "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
     },
     {
       "album": {
@@ -6620,7 +6690,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 208600,
       "name": "METALI!! - feat. Tom Morello",
       "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
@@ -7122,7 +7192,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 273626,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
@@ -8253,6 +8323,28 @@
     },
     {
       "album": {
+        "name": "DU4LI7Y: REDUX",
+        "url": "https://open.spotify.com/album/4RO6790j1uHJXcI9CTqA1R"
+      },
+      "artists": [
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217470,
+      "name": "Realest (with Eminem)",
+      "url": "https://open.spotify.com/track/39Bpll0P8Yl7Uk816RLuKb"
+    },
+    {
+      "album": {
         "name": "Realest (with Eminem)",
         "url": "https://open.spotify.com/album/6dcPEVpGyhIgIYeW1CVQeP"
       },
@@ -8268,7 +8360,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 218859,
       "name": "Realest (with Eminem)",
       "url": "https://open.spotify.com/track/2r00b713EahQGlSYQY9FWw"
@@ -8866,6 +8958,32 @@
       "duration_ms": 293960,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
+    },
+    {
+      "album": {
+        "name": "Sicilian Gold",
+        "url": "https://open.spotify.com/album/5atzWc0KKpAjzmbmMxghUk"
+      },
+      "artists": [
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114625,
+      "name": "Sicilian Gold",
+      "url": "https://open.spotify.com/track/7mJ4eFallKzHR5tEU2NL4E"
     },
     {
       "album": {
@@ -9483,6 +9601,28 @@
     },
     {
       "album": {
+        "name": "Wine Lips on Audiotree Live",
+        "url": "https://open.spotify.com/album/7rXbOuaSYcadOUomHd3BIC"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172981,
+      "name": "Stimulation - Audiotree Live version",
+      "url": "https://open.spotify.com/track/0HjsxcdrfdR2X7oC9DSWTQ"
+    },
+    {
+      "album": {
         "name": "Stratus Fear",
         "url": "https://open.spotify.com/album/6OePwglJkYNFzdb2j9BVAJ"
       },
@@ -9948,6 +10088,44 @@
       "duration_ms": 207642,
       "name": "Take Time",
       "url": "https://open.spotify.com/track/7G4oZOyYRbkLKHuHyoFsq7"
+    },
+    {
+      "album": {
+        "name": "Black Folk (Remix)",
+        "url": "https://open.spotify.com/album/1XDlBcu0t7TOpxLJmk2Dkn"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Orleans Big",
+          "url": "https://open.spotify.com/artist/5LrIqLIweQz6rLfR8hc8K6"
+        },
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359851,
+      "name": "Tank And The Bangas (feat. Rapsody, Kota the Friend, Orleans Big, Dee-1, Alex Isley) - Remix",
+      "url": "https://open.spotify.com/track/3uUH1IlD2e2UWgVVUII9KS"
     },
     {
       "album": {
@@ -10580,6 +10758,50 @@
       "duration_ms": 621333,
       "name": "The Voice of King Nipsey (feat. Kamasi Washington, Robert 'Sput' Searight, Larry Goldings & Nir Felder)",
       "url": "https://open.spotify.com/track/5PO7nf7EyBSk4n4tyj6QSi"
+    },
+    {
+      "album": {
+        "name": "Yours Truly (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213694,
+      "name": "The Way - Live from London (feat. Mac Miller)",
+      "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
+    },
+    {
+      "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/4qnDnV8iQYo5PzMhflN838"
+      },
+      "artists": [
+        {
+          "name": "Mayne",
+          "url": "https://open.spotify.com/artist/71864qIP78GhtmqKjYITDm"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173557,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/4xRXYFnpN6gRyHXXH9N0wC"
     },
     {
       "album": {
@@ -11734,7 +11956,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 221226,
       "name": "We Should Get Married",
       "url": "https://open.spotify.com/track/2syH39iwALerO994Pod9dB"
@@ -12072,7 +12294,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 293122,
       "name": "Witchcraft (feat. Robert Glasper)",
       "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
@@ -12350,7 +12572,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 182267,
       "name": "YUPP! (feat. Remy Ma)",
       "url": "https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU"

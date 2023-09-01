@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "3 Eye",
+        "url": "https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf"
+      },
+      "artists": [
+        {
+          "name": "G.1 J03 71D4",
+          "url": "https://open.spotify.com/artist/2VhbbO8bvfyKQCa1nmKYN6"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216036,
+      "name": "3 Eye",
+      "url": "https://open.spotify.com/track/4j9VeWjzXx53kdf4u5T7p6"
+    },
+    {
+      "album": {
         "name": "7DeLaan",
         "url": "https://open.spotify.com/album/0Uv1YoMhuM8kKIDlLfgnvJ"
       },
@@ -858,7 +876,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 255000,
       "name": "Innie Boland",
       "url": "https://open.spotify.com/track/41BvgzRpKygcNw4WPveCk7"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 157403,
       "name": "okay, oraait",
       "url": "https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t"
@@ -1702,6 +1720,24 @@
       "duration_ms": 169062,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
+    },
+    {
+      "album": {
+        "name": "So Laatie Dou",
+        "url": "https://open.spotify.com/album/1V91ZIjl4e6pcEp8C1Fr0T"
+      },
+      "artists": [
+        {
+          "name": "Terror MC",
+          "url": "https://open.spotify.com/artist/1yZbqrCBkdHJ2bewe0HEHG"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "So Laatie Dou",
+      "url": "https://open.spotify.com/track/70AYbxLFIm9Y5jhocOiV0Y"
     },
     {
       "album": {

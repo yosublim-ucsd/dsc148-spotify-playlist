@@ -4,7 +4,7 @@
 
 > 
 
-1,806 songs - 4 day 1 hr 47 min
+1,808 songs - 4 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [Lights Out](https://open.spotify.com/track/0YKPrW5i0gcJ9e5GNSAQti) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/49KrtYvUHrMbO4kYKmxQly) | 2:37 | 2021-08-05 |  |
 | [Like That \(feat\. Gucci Mane\)](https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:43 | 2021-08-05 |  |
 | [Limitado](https://open.spotify.com/track/1FeqkvjeeBU1nOQVeGIRP0) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 2:34 | 2021-08-05 |  |
+| [Linda Claire](https://open.spotify.com/track/3yiHfH6CTCsjhBoKPdaue8) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Demo](https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI) | 2:41 | 2023-08-28 |  |
 | [Liquid Smooth](https://open.spotify.com/track/3XCveEutwTaDiekRkkfdp9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:49 | 2022-10-01 |  |
 | [listen before i go](https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:02 | 2021-08-05 |  |
 | [Literal Legend](https://open.spotify.com/track/3c9tMHF4oYTiba7FVPFuKB) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Literal Legend](https://open.spotify.com/album/3oaLu2DsezVJzfkgQT9Yth) | 2:46 | 2021-08-05 |  |
@@ -1359,6 +1360,7 @@
 | [Schrei \- 2006](https://open.spotify.com/track/2O3T4KTlTTV5Y4fCiAN4qq) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Schrei \(so laut du kannst\) \[New Version\]](https://open.spotify.com/album/5KHISlgFtWO1rYX5DaL4PM) | 3:17 | 2023-06-06 |  |
 | [Scrawny](https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:46 | 2021-08-05 |  |
 | [SCREAM](https://open.spotify.com/track/3HWKLfiylY8NUcEfd3pq5w) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [SCREAM](https://open.spotify.com/album/22sJrqjzJKqKuFGJtv1AeN) | 3:15 | 2022-04-19 |  |
+| [Screaming](https://open.spotify.com/track/611WshW3yQKLCQ2pTCOii4) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 5:54 | 2023-08-29 |  |
 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 | 2022-09-08 |  |
 | [Scroll of Sorrow](https://open.spotify.com/track/6ztOsvtb6MjOYgOOnBmVfd) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0), [guayaba](https://open.spotify.com/artist/5kYSoXTfErwSZC3E7uw54d) | [U\-Void Synthesizer](https://open.spotify.com/album/2Hao6BBoElsB9A3JFeSo9n) | 3:05 | 2023-02-13 |  |
 | [Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy) | [SALEM](https://open.spotify.com/artist/09CJcG6ndtL82D8x9VxaeT) | [Fires In Heaven](https://open.spotify.com/album/1G9NXS6bwV9JHeaCNETAFI) | 3:07 | 2022-09-18 |  |

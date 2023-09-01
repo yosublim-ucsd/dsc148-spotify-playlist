@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-175 songs - 9 hr 15 min
+176 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Prarie Whisper](https://open.spotify.com/track/0qwKXExu6ZFmCVmuXS77Bd) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Lost Without Thoughts](https://open.spotify.com/album/7eSQYxXrvCdp2AWDlKGlyc) | 3:48 | 2021-12-10 | 2021-12-24 |
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2021-12-10 | 2021-12-24 |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2021-12-10 |  |
+| [Radiant](https://open.spotify.com/track/2leJrTGeB6reJMKvvAkOb6) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Radiant](https://open.spotify.com/album/0cRHU8IubGRGBH2tIBiCff) | 3:08 | 2023-09-01 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-12-10 |  |
 | [Reflexiones](https://open.spotify.com/track/5yxmYoPu75KeKkLbPJbDpZ) | [Aarona](https://open.spotify.com/artist/1v4myR6ZDEKYmMlRqT48IS) | [Reflexiones](https://open.spotify.com/album/3rmS5XRb3vLM6xyritTjxu) | 3:08 | 2023-05-19 |  |
 | [Rejected](https://open.spotify.com/track/0rswAuO5hDPINyHXA3XCrP) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Personal Disasters](https://open.spotify.com/album/0HPHeEu6npThQPFPKtx3di) | 2:13 | 2021-12-10 |  |

@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: ヤユヨ \(Yayuyo\)
 
-1,106 songs - 2 day 21 hr 47 min
+1,107 songs - 2 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Hey! Stay by my side!](https://open.spotify.com/track/5IDfSmahBmnRrbbEZiOjNF) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Hey! Stay by my side!](https://open.spotify.com/album/64DJ8QPZHszlBdA0R9SeZz) | 2:27 | 2022-08-11 | 2022-09-15 |
 | [hide and seek](https://open.spotify.com/track/6F4lTc2TJxGIy60AC5Y4Tf) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [hide and seek](https://open.spotify.com/album/6SRhWB0D2HOLNeKUurGb1d) | 2:04 | 2022-06-27 | 2022-07-21 |
 | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/track/1sOyY88KV1kIIkuj0CWrZk) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/album/4Mn0L5WRGTvLhsQinoApud) | 3:21 | 2023-08-22 |  |
-| [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 | 2023-05-31 |  |
+| [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 | 2023-05-31 | 2023-09-01 |
 | [HOME](https://open.spotify.com/track/0XpmARPe6ogeB3QlKcot6R) | [室田夏海](https://open.spotify.com/artist/6ztutPVgQQELxy0clZEGKF) | [HOME](https://open.spotify.com/album/1hqlSmgJUwG5tc60o33zwF) | 3:20 | 2022-06-02 | 2022-06-08 |
 | [Home away from home](https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/1QPo9D2cCyLWtBEdAjzdmg) | 4:07 | 2023-02-28 | 2023-03-02 |
 | [Home away from home](https://open.spotify.com/track/0Gq2WKpmU7eKwK8dUcckv2) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/3QjYyRaZJAGvFQksUdrWqW) | 4:07 | 2023-02-28 | 2023-03-15 |
@@ -300,6 +300,7 @@
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 |  |
 | [Monster](https://open.spotify.com/track/3jM553xjXFg4d5WZjszanB) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Monster](https://open.spotify.com/album/1HwjBIF2sVIWuiLuH8EsEc) | 3:08 | 2022-05-31 | 2022-07-29 |
 | [moonwalk](https://open.spotify.com/track/6Hr0XwB5CMbSWcwJNxw4M8) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [moonwalk](https://open.spotify.com/album/6DlwqOiVIyz9gHHpIx06Aw) | 4:35 | 2022-09-15 | 2022-09-28 |
+| [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-08-31 |  |
 | [morninglow](https://open.spotify.com/track/2aZXjw0geMCzrTBv9Z9WvB) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [morninglow](https://open.spotify.com/album/50geS4DtoWu5fhI8lpkHar) | 3:50 | 2022-07-14 | 2022-07-19 |
 | [MORNINGRISE](https://open.spotify.com/track/3ZmuvMWz1of98dbuKkjSR0) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Heavenly Heavenly](https://open.spotify.com/album/219OTmvtVH4PzBiDWYLGp0) | 3:18 | 2023-05-09 | 2023-05-24 |
 | [mune ga itai](https://open.spotify.com/track/536FZx9JlrbYDDbGNbLkUp) | [superuwan](https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH) | [PEEK\-A\-BOO](https://open.spotify.com/album/60y1SCzUqmL0Mbwh9UQcmi) | 4:10 | 2022-10-04 | 2022-10-12 |

@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "how bad could it be",
+        "url": "https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM"
+      },
+      "artists": [
+        {
+          "name": "Kids With Buns",
+          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188813,
+      "name": "how bad could it be",
+      "url": "https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF"
+    },
+    {
+      "album": {
         "name": "I Feel Like Shit And I Wanna Die",
         "url": "https://open.spotify.com/album/4Dfn8X3Fw8Zisujyw0yYds"
       },

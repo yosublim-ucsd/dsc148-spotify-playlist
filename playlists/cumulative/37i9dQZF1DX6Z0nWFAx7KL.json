@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 143606,
       "name": "Anything",
       "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
@@ -2648,6 +2648,28 @@
       "duration_ms": 178236,
       "name": "Room",
       "url": "https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT"
+    },
+    {
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ"
+      },
+      "artists": [
+        {
+          "name": "Arley",
+          "url": "https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt"
+        },
+        {
+          "name": "Descend",
+          "url": "https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ"
     },
     {
       "album": {

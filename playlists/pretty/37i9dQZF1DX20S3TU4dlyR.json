@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 54661,
+  "num_followers": 54683,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2ZiYjY3ZGE0Zjg4ZTllN2JjZWE4OThmOTg1OTcyM2E4OWY4NDA2",
+  "snapshot_id": "MCw5NTcwNDc2NjU0N2ZkYzg3NmE3MmRlMzAwMGE5M2NhMjc4YjQ2Mjlm",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
       },
       "artists": [
         {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
         }
       ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+      "duration_ms": 220565,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
       },
       "artists": [
         {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 220565,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        }
-      ],
-      "duration_ms": 208212,
-      "name": "Cinco",
-      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "El Pr\u00f3ximo Viernes",
         "url": "https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA"
       },
@@ -699,22 +679,6 @@
       "duration_ms": 259092,
       "name": "El Pr\u00f3ximo Viernes",
       "url": "https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -735,6 +699,42 @@
       "duration_ms": 193817,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "duration_ms": 208212,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Mr. Selector",
-        "url": "https://open.spotify.com/album/5mmeQAuCj0HnfEAybnpbAM"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/00s60ym6SjjbgRG3pMle4L"
-        }
-      ],
-      "duration_ms": 228565,
-      "name": "Mr. Selector",
-      "url": "https://open.spotify.com/track/0J4FbI5kcd037ZRvkbtXhB"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "\u00c1ngel Del Pasado",
         "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 267983,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Lo Mas Lindo (777 Remix)",
+        "url": "https://open.spotify.com/album/4qauDzXKycdqSVSFLB2uTv"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Lo Mas Lindo (777 Remix)",
+      "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Lo Mas Lindo (777 Remix)",
-        "url": "https://open.spotify.com/album/4qauDzXKycdqSVSFLB2uTv"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Malandro",
-          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Lo Mas Lindo (777 Remix)",
-      "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Desenvaina",
         "url": "https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY"
       },
@@ -963,6 +943,22 @@
       "duration_ms": 182471,
       "name": "Desenvaina",
       "url": "https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -999,22 +995,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Rey Mago de las Nubes",
         "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 185666,
       "name": "El Pescador",
       "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Mr. Selector",
+        "url": "https://open.spotify.com/album/5mmeQAuCj0HnfEAybnpbAM"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/00s60ym6SjjbgRG3pMle4L"
+        }
+      ],
+      "duration_ms": 228565,
+      "name": "Mr. Selector",
+      "url": "https://open.spotify.com/track/0J4FbI5kcd037ZRvkbtXhB"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1151,30 +1151,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Raices y Cultura",
-        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
+        "name": "La Tierra del Desencanto",
+        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
       "artists": [
         {
-          "name": "Lumumba Oficial",
-          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
+          "name": "BlackDali",
+          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
         },
         {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        },
-        {
-          "name": "Amilcar Nadal",
-          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
-        },
-        {
-          "name": "Pablo Molina",
-          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 281920,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
+      "duration_ms": 249542,
+      "name": "La Tierra del Desencanto",
+      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1223,22 +1215,46 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "La Tierra del Desencanto",
-        "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
+        "name": "Raices y Cultura",
+        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
       },
       "artists": [
         {
-          "name": "BlackDali",
-          "url": "https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B"
+          "name": "Lumumba Oficial",
+          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
         },
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Amilcar Nadal",
+          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
+        },
+        {
+          "name": "Pablo Molina",
+          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
         }
       ],
-      "duration_ms": 249542,
-      "name": "La Tierra del Desencanto",
-      "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+      "duration_ms": 281920,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1259,22 +1275,6 @@
       "duration_ms": 209000,
       "name": "Primaveras",
       "url": "https://open.spotify.com/track/38WEdyXzzj63zhClgLaUgq"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2023-08-18 03:00:00",

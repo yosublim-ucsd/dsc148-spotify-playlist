@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 39 | [BAD ain't that BAD](https://open.spotify.com/track/7p8NtALa4YVWYp6L4uY8uI) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [BAD ain't that BAD](https://open.spotify.com/album/0Oq26PuMKLWkoK0GdrHDCX) | 2:39 |
 | 40 | [Pretty Planet](https://open.spotify.com/track/0jPp4BNVqGPNrQLfdRbSJM) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Pretty Planet](https://open.spotify.com/album/2K4OyekT39ZgR4OOZR14Is) | 3:26 |
 
-Snapshot ID: `MCwwNGE2OGVjYTM4YjRjMDNmYjZiYTlhYTRkYTRjYmQwZDA4MWE4MTgx`
+Snapshot ID: `MCxiY2Q1MzU3NjVlYTNmNTZhOWNjMDgyMzZmZjU0MDViMGVlOWVlOWE3`

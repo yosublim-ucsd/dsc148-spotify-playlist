@@ -4,11 +4,12 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-69 songs - 3 hr 27 min
+70 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Afraid of Heights](https://open.spotify.com/track/0P44AUPRzaIAHNWquN0fGR) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights](https://open.spotify.com/album/6frG0tN5DQbV26LFKbjYTu) | 3:45 | 2020-07-28 |  |
+| [Afraid of Heights](https://open.spotify.com/track/0P44AUPRzaIAHNWquN0fGR) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights](https://open.spotify.com/album/6frG0tN5DQbV26LFKbjYTu) | 3:45 | 2020-07-28 | 2023-09-01 |
+| [Afraid of Heights](https://open.spotify.com/track/0qlgfcFAsrlNCD4tBGVAY9) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights](https://open.spotify.com/album/4Qw31hg9NZ6dVITZb05TRN) | 3:45 | 2020-07-28 |  |
 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 | 2020-07-28 |  |
 | [All Souls' Day](https://open.spotify.com/track/38EE7D3CKR9vlagRqGlAT2) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [All Souls' Day & The Graveyard of the Atlantic](https://open.spotify.com/album/3uihiMv004O19TfHqKm8xM) | 4:58 | 2020-07-28 |  |
 | [Bass](https://open.spotify.com/track/22ws6uOt1pfpG1fP8I0QGo) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Bass](https://open.spotify.com/album/1b2mpMMbxX80y87DKi6xwn) | 3:53 | 2020-07-28 | 2022-07-29 |

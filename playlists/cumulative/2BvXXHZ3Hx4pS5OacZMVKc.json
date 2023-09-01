@@ -5703,6 +5703,32 @@
     },
     {
       "album": {
+        "name": "Summer's End",
+        "url": "https://open.spotify.com/album/35KlhjYtPv9XtEIAUzNXVn"
+      },
+      "artists": [
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        },
+        {
+          "name": "Jade Key",
+          "url": "https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb"
+        },
+        {
+          "name": "Meredith Bull",
+          "url": "https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158431,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/3bm8e301aMXXCQoNg6Jaew"
+    },
+    {
+      "album": {
         "name": "Summoning",
         "url": "https://open.spotify.com/album/4abfJB1XMqDunGToh8fOHn"
       },
@@ -6210,7 +6236,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 184500,
       "name": "The Light",
       "url": "https://open.spotify.com/track/6j0xFTxOxYlSGMZketPIGp"

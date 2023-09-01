@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 189473,
       "name": "1234567\u6211\u7684\u670b\u53cb\u5728\u54ea\u91cc - \u7535\u89c6\u5267\u300a1234567\u6211\u7684\u670b\u53cb\u5728\u54ea\u91cc S1\u300b\u4e3b\u9898\u66f2, \u6292\u60c5\u7248",
       "url": "https://open.spotify.com/track/64mYBFWOgzjgd0gqvO8Vm0"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 184736,
       "name": "7654321\u6211\u7684\u670b\u53cb\u5728\u8fd9\u91cc - \u7535\u89c6\u5267\u300a1234567\u6211\u7684\u670b\u53cb\u5728\u8fd9\u91cc S2\u300b\u4e3b\u9898\u66f22",
       "url": "https://open.spotify.com/track/6hQ6Per8if1XKilXIYb26u"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 260172,
       "name": "\u501f\u6625\u98a8",
       "url": "https://open.spotify.com/track/1utPYZzeIrA6YzeZZQ2fAM"
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 225655,
       "name": "\u5c31\u7b97\u6211\u653e\u68c4\u4e86\u4e16\u754c",
       "url": "https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309"
@@ -2650,6 +2650,24 @@
       "duration_ms": 261940,
       "name": "\u5fae\u7b11\u5206\u624b",
       "url": "https://open.spotify.com/track/0bwSgYnYeDKu5fhJ7y63rg"
+    },
+    {
+      "album": {
+        "name": "\u767e\u5473\u5c0f\u5eda\u795e \u4e2d\u5143\u5927\u9910 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2gaHcID7JZU541ZenQQGx2"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u5343\u5a1c",
+          "url": "https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276642,
+      "name": "\u600e\u9ebc\u4e0d\u4e00\u6a23\u5462 (\u300a\u767e\u5473\u5c0f\u5eda\u795e \u4e2d\u5143\u5927\u9910\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/4FQdAMz8yJH1sAwitVTNWj"
     },
     {
       "album": {
@@ -3338,7 +3356,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 201176,
       "name": "\u62e5\u62b1 - \u7535\u89c6\u5267\u300a1234567\u6211\u7684\u670b\u53cb\u5728\u8fd9\u91cc S2\u300b\u4e3b\u9898\u66f21",
       "url": "https://open.spotify.com/track/2IAfD3300FjnRVMetOcgTK"
@@ -4023,6 +4041,28 @@
     },
     {
       "album": {
+        "name": "\u6d77\u6d0b\u65e5\u8a18 Ocean Diary\u2013\u6d77\u6d0b\u65e5\u8a18\u5f71\u96c6\u4e3b\u984c\u66f2",
+        "url": "https://open.spotify.com/album/3xfcI5wJJFCDzeM65vZzmp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ho",
+          "url": "https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI"
+        },
+        {
+          "name": "\u8212\u7c73\u6069",
+          "url": "https://open.spotify.com/artist/18CQEyGcO47OHBpQZwYNzy"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "\u6d77\u6d0b\u65e5\u8a18 Ocean Diary (feat. \u8212\u7c73\u6069Suming)",
+      "url": "https://open.spotify.com/track/5KvNMaFwXzkVOJQ3yKGM4a"
+    },
+    {
+      "album": {
         "name": "\u6d77\u7dbf",
         "url": "https://open.spotify.com/album/4Wbo1astFrXLXLYubpBVWu"
       },
@@ -4434,7 +4474,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 222266,
       "name": "\u7aca\u7b11",
       "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"

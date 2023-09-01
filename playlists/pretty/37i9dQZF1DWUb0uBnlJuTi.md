@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,299 likes - 200 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,537 likes - 200 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 133 | [Them Changes](https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Center Stage](https://open.spotify.com/album/0OKzNFL2vAPb0qJJhv8sqR) | 5:41 |
 | 134 | [Cream Puff War](https://open.spotify.com/track/3iaNLl7wvZ13qEUHfaR1PP) | [Grateful Brass](https://open.spotify.com/artist/1cSXMjY8e1lg44bA5usiFp), [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Rich Armstrong](https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs) | [Cream Puff War](https://open.spotify.com/album/7JsqgqNXvBtnlMdAY4EXKp) | 3:42 |
 | 135 | [Running In Fear From Imaginary Assailants](https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [John Ellis](https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR), [Derrek Phillips](https://open.spotify.com/artist/3dhabMNHFdgZdE0dnxA75x) | [Friends Seen and Unseen \(2022 Remaster\)](https://open.spotify.com/album/1rkhwQMkBsVhPjrw26Gfrm) | 3:42 |
-| 136 | [The Universe](https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [DNA](https://open.spotify.com/artist/5gozUmtTMvu0lBH00XZ8fT) | [The Universe](https://open.spotify.com/album/32nPQigQIFZJCeDbUjVydx) | 7:07 |
+| 136 | [The Universe](https://open.spotify.com/track/1a4C9ahv2nw5vcvKhnl2Z1) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [DNA](https://open.spotify.com/artist/5gozUmtTMvu0lBH00XZ8fT) | [Into The Abyss](https://open.spotify.com/album/5yiKeGdGjXnGhHDNTV342G) | 7:07 |
 | 137 | [The Resurrection](https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Resurrection](https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te) | 4:03 |
 | 138 | [Sweet Solitude](https://open.spotify.com/track/2WOzxPv4d42g6ZOo3pMLIl) | [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Et Le Funk Mystique](https://open.spotify.com/album/2woysuZeZvPTqddDPszgBk) | 4:01 |
 | 139 | [Booker Time](https://open.spotify.com/track/4FEf0SPcWVicIXsPz7HkHl) | [Steven Bernstein & The Hot 9](https://open.spotify.com/artist/3YiY7EDAAT6BwoFjZEgeTT), [Steven Bernstein](https://open.spotify.com/artist/5pCNKFvPUY8L47ExfM4WLj) | [Booker Time](https://open.spotify.com/album/5iszc42qhIDJpOZJLKXFcj) | 6:09 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 |
 | 200 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 |
 
-Snapshot ID: `MCwwNDUyYWU0NDQwZWRmZDhiYTA4ZTFlNmQ1YTRmZTkxMjdjODlmODc2`
+Snapshot ID: `MCxiY2QxOGQzNWQzNzc2ZGEwY2I1NDkxMjU0MmQ1YWYwYjk4ODcyYTJh`

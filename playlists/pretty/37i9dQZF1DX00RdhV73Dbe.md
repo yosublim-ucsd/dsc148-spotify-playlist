@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,760 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,775 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Soared Straight Through Me](https://open.spotify.com/track/4LlDx3L6mlVMgkUOMwK2p3) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Soared Straight Through Me](https://open.spotify.com/album/6ulFRqgLTeLMiSSo1OB6US) | 6:25 |
+| 1 | [Soared Straight Through Me](https://open.spotify.com/track/5Yu7iUl3wd9o97Oy0URzBM) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM) | 6:25 |
 | 2 | [No Good For Me](https://open.spotify.com/track/0L0n5Yx0nVMeUjLmgvhyWi) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/2jKzkqQ2Dkam6bKbzUuegq) | 3:35 |
 | 3 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 |
 | 4 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 51 | [Love Loop To Fade](https://open.spotify.com/track/2tFR5NPXOFszGPGcrAazJB) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 2:03 |
 | 52 | [COPY COPY \- Logic1000 & Big Ever Remix](https://open.spotify.com/track/5QglfG3SyT9ZHFTtcxA0FK) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:15 |
 
-Snapshot ID: `MCxjMmQwMzAyOWM4MzM1OWRkMjEyZmY4ZGM0N2ZiYTJkMzIwZjA0NTFl`
+Snapshot ID: `MCxlNjU0MTZlZjdlZDY4ZTJlMmMzZjRlNjA2MWI5ZmNhYjAyYzI0NTY4`

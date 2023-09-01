@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-75 songs - 5 hr 31 min
+76 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Come My Little Son](https://open.spotify.com/track/4ENxksrHox2FMpaVzvvk1F) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/1fa4LBlNsValNBZCwGmTPf) | 4:07 | 2022-03-11 |  |
 | [Cyprus Avenue \- 1999 Remaster](https://open.spotify.com/track/7msn6OoGXrNOaBGvIH1eqT) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 6:59 | 2021-10-12 |  |
 | [Danny Boy](https://open.spotify.com/track/5o4SqGekEfvdkNuOVx5d3S) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:18 | 2021-10-12 |  |
+| [De Selby \(Part 1\)](https://open.spotify.com/track/78x3oT0wyvcm9GRmuAP6Vq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:39 | 2023-08-31 |  |
 | [Down by the Sally Gardens](https://open.spotify.com/track/60OEb5MtEmmepJPUJtYvFW) | [Maura O'Connell](https://open.spotify.com/artist/2WkDGNlrAN48YIOi18jpEE) | [Transatlantic Sessions \- Series 2, Vol\. Three](https://open.spotify.com/album/2zviYEJfMBDVtoh9mz5SNq) | 3:45 | 2021-10-12 |  |
 | [Down in the Willow Garden](https://open.spotify.com/track/11Lx6a0DsZx40t6JHgpOQU) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Borderland](https://open.spotify.com/album/6Ju89mA5mgjiUeNzosRoyl) | 2:57 | 2021-10-12 |  |
 | [Dublin In The Rare Auld Times](https://open.spotify.com/track/6WWLO6aWNAMdtOI6iOL86D) | [Luke Kelly](https://open.spotify.com/artist/2ZYIql5vmxtz3LbDLIaWo9) | [The Best Ever Collection Of Irish Pub Songs \- Volume 1](https://open.spotify.com/album/03EhSxO0WLA1axY6Nwb1H6) | 4:59 | 2021-10-12 |  |

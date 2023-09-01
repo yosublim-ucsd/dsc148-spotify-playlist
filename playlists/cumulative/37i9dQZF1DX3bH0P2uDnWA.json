@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/0HSY1fiyh4S76MHLeuMuf3"
+      },
+      "artists": [
+        {
+          "name": "Elle & The Pocket Belles",
+          "url": "https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190680,
+      "name": "100",
+      "url": "https://open.spotify.com/track/6m4ftKNtuB9zPqdSXAYBLt"
+    },
+    {
+      "album": {
         "name": "1925",
         "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
       },
@@ -4946,6 +4964,28 @@
       "duration_ms": 142592,
       "name": "Sway - Future Swing Mix",
       "url": "https://open.spotify.com/track/3ogL2bsjAYyiaQ0jOKy9su"
+    },
+    {
+      "album": {
+        "name": "Sway (Swing House Mix)",
+        "url": "https://open.spotify.com/album/03MiXrCnXuM5zgfkTDnnR7"
+      },
+      "artists": [
+        {
+          "name": "Betty Booom",
+          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+        },
+        {
+          "name": "Masha Ray",
+          "url": "https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150353,
+      "name": "Sway - Swing House Mix",
+      "url": "https://open.spotify.com/track/2Y6dVNYKzjDoc5gvPDHxFV"
     },
     {
       "album": {

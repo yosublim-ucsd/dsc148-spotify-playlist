@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Sabrina Carpenter
 
-1,773 songs - 3 day 17 hr 51 min
+1,774 songs - 3 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [die without u](https://open.spotify.com/track/0vco9GaTEbNP8fC2lafd4s) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [die without u](https://open.spotify.com/album/37RfLZM8Lk0k1kpuIOOGqq) | 2:49 | 2021-08-19 | 2021-10-16 |
 | [different but exactly like you](https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [different but exactly like you](https://open.spotify.com/album/2rPPCfxOqFAM2nezbAjnlx) | 3:47 | 2023-04-07 | 2023-07-13 |
 | [dirty dancing](https://open.spotify.com/track/1gdfNi8uXMJNWPvlFRPbUW) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [dirty dancing](https://open.spotify.com/album/5Ok7Du3YNww8fRqu8SSCe7) | 2:39 | 2022-07-18 | 2022-08-13 |
-| [dirty dishes](https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [dirty dishes](https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt) | 3:27 | 2023-04-07 |  |
+| [dirty dishes](https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [dirty dishes](https://open.spotify.com/album/2ekXh89cnC2jIXE54Ynzvt) | 3:27 | 2023-04-07 | 2023-09-01 |
 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 | 2022-06-24 | 2022-09-17 |
 | [Disco Man](https://open.spotify.com/track/7GDjBYc8Q3li08dXaZcMB9) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Disco Man](https://open.spotify.com/album/5IkAmFP38hsfWKA5Jv2XQ1) | 3:12 | 2020-08-04 | 2021-11-10 |
 | [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 | 2021-03-06 | 2021-11-20 |
@@ -1545,6 +1545,7 @@
 | [Tall Boi](https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Tall Boi](https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl) | 2:30 | 2023-04-28 | 2023-07-01 |
 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2020-08-20 | 2021-11-10 |
 | [Tangerine](https://open.spotify.com/track/0WRPGrwIiWYa2lCE6OVdtl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Tangerine](https://open.spotify.com/album/0h2FVsj0pDzutT9kvlqDY1) | 3:27 | 2020-10-17 | 2021-01-15 |
+| [Tantrum](https://open.spotify.com/track/2oPZ5C25DHuF4il15vFI3J) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Tantrum](https://open.spotify.com/album/0DzYS39dNG3WhACUAA5LI7) | 2:31 | 2023-08-25 |  |
 | [Taste It](https://open.spotify.com/track/2CJ6Dn7diAVvJPLm79o3Xp) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Taste It](https://open.spotify.com/album/4cPPZ4jLUU1aa942DlVXy2) | 2:27 | 2022-10-28 | 2023-01-28 |
 | [Tattoos & Therapy](https://open.spotify.com/track/6F4Ox9In57PS1Wb3A7MfL5) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Madilyn](https://open.spotify.com/artist/07r7OPIALkj6Icaoj4Kf5l) | [Tattoos & Therapy](https://open.spotify.com/album/1NXOPPFLlbmbSJnWMwHkvQ) | 2:46 | 2023-06-16 | 2023-06-24 |
 | [taylor](https://open.spotify.com/track/5EsISNjHKK6AEuEK1tLt7Z) | [heartspace](https://open.spotify.com/artist/4TXauRyx1XUkg6hRkWdgrE) | [taylor](https://open.spotify.com/album/3YeTOayFFUWNOIpfDiWEnt) | 3:00 | 2022-10-07 | 2022-10-15 |

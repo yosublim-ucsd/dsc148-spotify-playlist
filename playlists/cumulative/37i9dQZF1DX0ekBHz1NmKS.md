@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-757 songs - 1 day 15 hr 58 min
+759 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
-| [Cold Turkey](https://open.spotify.com/track/3f17XRSpPLhtdt3ofn56qG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Cold Turkey](https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc) | 2:33 | 2023-08-25 |  |
+| [Cold Turkey](https://open.spotify.com/track/3f17XRSpPLhtdt3ofn56qG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Cold Turkey](https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc) | 2:33 | 2023-08-25 | 2023-09-01 |
 | [Coldtrain](https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [By The End Of Coldtrain](https://open.spotify.com/album/4wFhlNN5WJ9hs33mFgTZaT) | 3:31 | 2021-12-16 | 2022-04-02 |
 | [Cool Kids](https://open.spotify.com/track/48w0n6R4pVu0gamM91ZQcE) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Cool Kids](https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt) | 2:31 | 2022-03-10 | 2022-07-13 |
 | [Cool Me Down](https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:38 | 2022-06-21 | 2022-08-17 |
@@ -204,6 +204,7 @@
 | [Faller](https://open.spotify.com/track/5HhWunSVvHtEGoYYrFobvK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Faller](https://open.spotify.com/album/4KG76mDkkFzMeKhSPgColG) | 3:53 | 2022-02-17 | 2022-05-12 |
 | [Faller tillbaks](https://open.spotify.com/track/7p1kRbPVjeXLSFk3ZFKlyH) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Moa Michaeli](https://open.spotify.com/artist/3L0guCaIo8WSeLTgBJHRsc) | [Faller tillbaks](https://open.spotify.com/album/17dugdiTQctuhzPaPAEeYb) | 2:48 | 2021-12-16 | 2022-03-11 |
 | [Faller vi tillbaka](https://open.spotify.com/track/2h2EYn1y3oEmQzMp4LcRVc) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Faller vi tillbaka](https://open.spotify.com/album/1YWpzv7Xwa44VksvzyTHQG) | 3:51 | 2021-12-16 | 2022-01-14 |
+| [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 | 2023-08-31 |  |
 | [Fantasi](https://open.spotify.com/track/5KImNJ1eFcH1J7sbRcwnWS) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Fantasi](https://open.spotify.com/album/0LirSVW5JLGusEimyUv0rt) | 3:36 | 2022-03-10 | 2022-05-13 |
 | [Farstaglitter](https://open.spotify.com/track/2vNZOd1Yj32A5dfonkf2vB) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:51 | 2021-12-16 | 2022-03-10 |
 | [Fast med dig](https://open.spotify.com/track/2KIzBv4vFeLtO50WBbHGKk) | [Ness Hakin](https://open.spotify.com/artist/73SA7OgBvMc1GGRyius3UN) | [Fast med dig](https://open.spotify.com/album/1ENEtJUy1nmsK4isB1YXl6) | 2:38 | 2022-05-26 | 2022-07-29 |
@@ -661,7 +662,7 @@
 | [The Closer I Get to You](https://open.spotify.com/track/6W6jIB4PuRCzDXUp8jqsFH) | [Ariel T](https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6), [Jessica Curran](https://open.spotify.com/artist/35rx7faGtSDlHnEeUO1ROV) | [The Closer I Get to You](https://open.spotify.com/album/5bfes7y0TpA4doKDUnfK5G) | 3:39 | 2022-03-24 | 2022-04-01 |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-04 | 2022-09-16 |
 | [The End](https://open.spotify.com/track/7jsFdCtwoNACqBXBmcYglm) | [Angelino](https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir) | [The End](https://open.spotify.com/album/3NjjdMOVHXBu7IEG3jZ3AA) | 3:00 | 2022-03-03 | 2022-05-13 |
-| [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 | 2023-07-13 |  |
+| [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 | 2023-07-13 | 2023-09-01 |
 | [The One That Got Away](https://open.spotify.com/track/3N8oEZaFxE2DbASc7Wpw8t) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ) | [The One That Got Away](https://open.spotify.com/album/61rig1QszCo1eXuuej4aGD) | 2:40 | 2022-03-10 | 2022-05-08 |
 | [The River](https://open.spotify.com/track/2wBy3s54lq5HmJgUIp9SBA) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [The River](https://open.spotify.com/album/2BfuSNlZYVmszJzluzFTkb) | 3:20 | 2022-03-17 | 2022-07-29 |
 | [The Terrace](https://open.spotify.com/track/7IbQF9e3Lz1LBPsCxTnBF3) | [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [The Terrace](https://open.spotify.com/album/7I3sbs1SUZU7VGKIQEOxSz) | 2:55 | 2021-12-16 | 2021-12-23 |
@@ -676,6 +677,7 @@
 | [Till Solen Brinner Ut](https://open.spotify.com/track/2DTa2kupO7EwBcVDJrENJ2) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Till Solen Brinner Ut](https://open.spotify.com/album/6PlbjhdgIeBavM5EcNztvB) | 3:19 | 2022-09-29 | 2022-10-07 |
 | [Tilt](https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Tilt](https://open.spotify.com/album/0AC4E1o8yb9e0RMmqxcgXI) | 3:34 | 2022-04-28 | 2022-07-29 |
 | [Timmar](https://open.spotify.com/track/5sXAGhrXIeUtAVLzpdJIfH) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Timmar](https://open.spotify.com/album/4gajMx6fgWWLyPrrPCfc1Z) | 3:33 | 2021-12-16 | 2022-01-13 |
+| [Tiotusen](https://open.spotify.com/track/0hpsopcXjR8nXMXE7EWwn7) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Tiotusen](https://open.spotify.com/album/3fKfngPRKG4XJACGK1vqtk) | 3:14 | 2023-08-31 |  |
 | [Tjugofyra sju](https://open.spotify.com/track/5Fz8257fkwgpnUMNlbvtP4) | [Amanda Mattsson](https://open.spotify.com/artist/5BftYI9ZzOxA6tKAbAHdQF) | [Tjugofyra sju](https://open.spotify.com/album/2PWptHPalgmRvTz5GaeVpb) | 3:10 | 2022-04-07 | 2022-05-11 |
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-08-27 |
 | [Touch Yourself](https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe) | 2:58 | 2021-12-16 | 2022-04-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 
 > Listen to the soundtracks of the drama Doctor Cha\. \(드라마 닥터 차정숙의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs  selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,693 likes - 54 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,719 likes - 54 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 | 38 | [Always With You](https://open.spotify.com/track/7h73HWmo3QdrQYPlQ8yuQh) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [Always With You](https://open.spotify.com/album/2Pc9gnZShvCsZF5xcaXc3a) | 5:03 |
 | 39 | [Curated by Min Woo Hyuk](https://open.spotify.com/track/6C1Oq0dmgpHz2ARz3n6dSP) | [Min Woo Hyuk](https://open.spotify.com/artist/6bxlijVemHgiCTJAQ6RFsI) | [Doctor Cha](https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR) | 0:33 |
 | 40 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
-| 41 | [Hop in \(Feat\. Hwa Sa, DPR LIVE\)](https://open.spotify.com/track/0m7EslFE30tsLNmh3gJdiS) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Hop in](https://open.spotify.com/album/3H7SegvbrluL787hau5gQB) | 3:40 |
+| 41 | [Hop in \(Feat\. Hwa Sa, DPR LIVE\)](https://open.spotify.com/track/0m7EslFE30tsLNmh3gJdiS) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Hop in](https://open.spotify.com/album/3H7SegvbrluL787hau5gQB) | 3:40 |
 | 42 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 43 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 |
 | 44 | [How Do You Sleep?](https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep?](https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo) | 3:22 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 | 53 | [Shine Like a Star \- Instrumental](https://open.spotify.com/track/2LlAjmC9tzqtB7ni4mtXxh) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1UqsxHnWTmlyYgKHFTGWUX) | 2:43 |
 | 54 | [Breath \- Instrumental](https://open.spotify.com/track/18imXhFiJgGNzRuSzkMLe5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Doctor Cha \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2MPYI5xUMEFnQg0l9jcf1Z) | 3:41 |
 
-Snapshot ID: `MCxhZWNmNzY4ZjMzZjBlMzFjODFiYjRmZDMyOGY0N2ZlMTljMTcxMmM2`
+Snapshot ID: `MCxiMDI0MGFmYmMwNjNjNzgyZjVjN2M1MjMzZTcwMTc5OTgwMmU0ZjYx`

@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 369332,
+  "num_followers": 369588,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDBjZTk1ZTk1NmY0MTg2ZmE4N2NlMmZjNTQ5YmYxZjAzNjMyOTk3",
+  "snapshot_id": "MCxiY2ZkNjNhMjdiZTlkMjdjYjIzOTk0NTIzMzliN2QwNWVlMGMyNGI4",
   "tracks": [
     {
       "added_at": "2023-08-29 15:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
+        "name": "A tale to tell",
+        "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
+      },
+      "artists": [
+        {
+          "name": "Luiza Schmidt",
+          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
+        }
+      ],
+      "duration_ms": 130132,
+      "name": "A tale to tell",
+      "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
         "name": "A Time Long Ago",
         "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 123500,
       "name": "Saying Things",
       "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
-        "name": "A tale to tell",
-        "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
-      },
-      "artists": [
-        {
-          "name": "Luiza Schmidt",
-          "url": "https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV"
-        }
-      ],
-      "duration_ms": 130132,
-      "name": "A tale to tell",
-      "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
         "name": "Valse Naturelle",
         "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 134000,
       "name": "Onward",
       "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Air from Air",
-        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
-      },
-      "artists": [
-        {
-          "name": "Yasuo Zen",
-          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
-        }
-      ],
-      "duration_ms": 199428,
-      "name": "Air from Air",
-      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "When It\u00b4s Love",
         "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 162047,
       "name": "When It\u00b4s Love",
       "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Air from Air",
+        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "duration_ms": 199428,
+      "name": "Air from Air",
+      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
+      },
+      "artists": [
+        {
+          "name": "Wendie Solomon",
+          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "The Way Home",
+      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
         "name": "Les Soir",
         "url": "https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "The Way Home",
-        "url": "https://open.spotify.com/album/089vc1XdbczEThiYnD6AJB"
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
       "artists": [
         {
-          "name": "Wendie Solomon",
-          "url": "https://open.spotify.com/artist/002TmsLOEGkMqhkbb2zWfs"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         }
       ],
-      "duration_ms": 147535,
-      "name": "The Way Home",
-      "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
+      "duration_ms": 78546,
+      "name": "Vladimir's Blues",
+      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -699,22 +715,6 @@
       "duration_ms": 120268,
       "name": "Nouvelles Tentatives",
       "url": "https://open.spotify.com/track/6rvmhiAd5jtT5CzLIcnj4p"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
-        "name": "The Blue Notebooks (15 Years)",
-        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        }
-      ],
-      "duration_ms": 78546,
-      "name": "Vladimir's Blues",
-      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Printemps",
-        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Printemps",
-      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Poesia",
         "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
       },
       "artists": [
         {
-          "name": "Claire Lerdier",
-          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
         }
       ],
-      "duration_ms": 151764,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
+      "duration_ms": 137424,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 176000,
       "name": "A Bad Dream That Will Pass Away",
       "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
+      },
+      "artists": [
+        {
+          "name": "Claire Lerdier",
+          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Petites danses et r\u00eaveries",
-        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
       "artists": [
         {
-          "name": "Tom Kristiaan",
-          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+          "name": "Armando Bauer",
+          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
         }
       ],
-      "duration_ms": 146090,
-      "name": "Un sourire et une larme (valse)",
-      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
+      "duration_ms": 117271,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1043,18 +1043,34 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
+        "name": "Petites danses et r\u00eaveries",
+        "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
       },
       "artists": [
         {
-          "name": "Armando Bauer",
-          "url": "https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W"
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
         }
       ],
-      "duration_ms": 117271,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
+      "duration_ms": 146090,
+      "name": "Un sourire et une larme (valse)",
+      "url": "https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Tranquillity waltz",
+        "url": "https://open.spotify.com/album/3QMb20fXVrYo4PcZVlkmbq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Perceval",
+          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
+        }
+      ],
+      "duration_ms": 118624,
+      "name": "Tranquillity waltz",
+      "url": "https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 117892,
       "name": "Omoidasu",
       "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
-        "name": "Tranquillity waltz",
-        "url": "https://open.spotify.com/album/3QMb20fXVrYo4PcZVlkmbq"
-      },
-      "artists": [
-        {
-          "name": "Thomas Perceval",
-          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
-        }
-      ],
-      "duration_ms": 118624,
-      "name": "Tranquillity waltz",
-      "url": "https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Fallen Flowers",
-        "url": "https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Fallen Flowers",
-      "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 145250,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Fallen Flowers",
+        "url": "https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Fallen Flowers",
+      "url": "https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Twilights",
-        "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
-      },
-      "artists": [
-        {
-          "name": "Mirta da Silva",
-          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Twilights",
-      "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "San Remo",
         "url": "https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 170966,
       "name": "San Siro",
       "url": "https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Twilights",
+        "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
+      },
+      "artists": [
+        {
+          "name": "Mirta da Silva",
+          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Twilights",
+      "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "piano room",
-        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Koto - piano room",
-      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 147936,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "piano room",
+        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Koto - piano room",
+      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "T\u00f4t le matin",
-        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 130889,
-      "name": "T\u00f4t le matin",
-      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
+        "name": "T\u00f4t le matin",
+        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
       },
       "artists": [
         {
-          "name": "Aquilegia",
-          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
         }
       ],
-      "duration_ms": 113986,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
+      "duration_ms": 130889,
+      "name": "T\u00f4t le matin",
+      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1551,6 +1535,22 @@
       "duration_ms": 137070,
       "name": "Ved",
       "url": "https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "duration_ms": 113986,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
     },
     {
       "added_at": "2023-08-29 15:00:00",

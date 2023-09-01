@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-649 songs - 1 day 5 hr 12 min
+650 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Moon Prairie](https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0) | [Shimo](https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum) | [Moon Prairie](https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a) | 1:31 | 2022-02-17 |  |
 | [MOON WAVE](https://open.spotify.com/track/3frTPQMP9mhtUcYhxYPOGO) | [TOMMY HONDA](https://open.spotify.com/artist/2sHNt94yiTqGXeQEKUDX5n) | [MOON WAVE](https://open.spotify.com/album/4lKMUnLY2dTRV4IzKEpI4B) | 2:57 | 2021-12-23 | 2022-07-20 |
 | [Moonlight](https://open.spotify.com/track/2KybWCmGojaGl10fYmwjFK) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Moonlight](https://open.spotify.com/album/6JTB3gIEKRnXVPv9V5dpl8) | 1:26 | 2022-01-13 | 2022-07-24 |
-| [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 | 2023-08-17 |  |
+| [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 | 2023-08-17 | 2023-09-01 |
 | [Moravian waltz \- DJ Mitsu The Beats Remix](https://open.spotify.com/track/6Fo7bDpgv3HqQyR1gvcdnE) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Moravian waltz \(DJ Mitsu The Beats Remix\)](https://open.spotify.com/album/5wj3jMzvyINv4fegRBOl5O) | 3:57 | 2022-06-30 | 2022-07-07 |
 | [More Peace and More Love \(Instrumental\)](https://open.spotify.com/track/0zOA0CG5eTYDavVvMAYFSi) | [Malus & Lyrical Waterside](https://open.spotify.com/artist/0sdUyJQkA7yID44LkCB5M8) | [Connectivity \(Instrumental\)](https://open.spotify.com/album/2kYgVgfTdzEbZcE03h7li3) | 4:10 | 2021-12-23 | 2022-07-28 |
 | [Morioka](https://open.spotify.com/track/75K6I2OaSRUa66asvVZw0U) | [Taikutsu](https://open.spotify.com/artist/4C8imA7ub7SiyiwApuSqc6) | [Morioka](https://open.spotify.com/album/7Mypulnxrlxema141l9vui) | 1:20 | 2021-12-23 | 2022-04-18 |
@@ -456,6 +456,7 @@
 | [probably](https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [probably](https://open.spotify.com/album/3MaaGg4f16MR5qJp6bGaul) | 2:18 | 2021-12-23 | 2022-07-24 |
 | [PROUD](https://open.spotify.com/track/3zfFPrJS1wQjq323ip0SIs) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [PROUD](https://open.spotify.com/album/0OWEM09S7f09mPmYx4dCXj) | 1:58 | 2023-05-25 |  |
 | [Railroad](https://open.spotify.com/track/7EK6RTprVGNtPYaMfKsTiP) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Railroad](https://open.spotify.com/album/2eg6kie4NqCYI69REmQKc6) | 2:01 | 2021-12-23 | 2022-07-27 |
+| [Rainbowtime の少年](https://open.spotify.com/track/0xenlRTiDOY6tXRRwQYCcF) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime の少年](https://open.spotify.com/album/5xDJyL2yCMHRnIYtkmHLws) | 2:29 | 2023-08-31 |  |
 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-13 |  |
 | [Raining](https://open.spotify.com/track/2COYh59wnIaHLKjth7pM19) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Raining](https://open.spotify.com/album/1e4TMOBtDEiKHSLe0JtZFS) | 1:45 | 2022-01-13 | 2022-07-10 |
 | [Rainydays](https://open.spotify.com/track/6EanWbtCMZrDPgDza9DQBC) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [MY EMOTION](https://open.spotify.com/album/0LCgkMgJ97oKmX4HMIzckz) | 2:24 | 2021-12-23 | 2022-07-11 |

@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 222203,
       "name": "Better Things",
       "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Evil In Your Eyes",
+        "url": "https://open.spotify.com/album/3D2q615OjU1YPeJjBcqubI"
+      },
+      "artists": [
+        {
+          "name": "RISSA",
+          "url": "https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144995,
+      "name": "Evil In Your Eyes",
+      "url": "https://open.spotify.com/track/6AEYrk9VWfrcHDZqGlD2IA"
+    },
+    {
+      "album": {
         "name": "EX",
         "url": "https://open.spotify.com/album/7JNzoZ4q7jg6gYNKcF3uLi"
       },
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 202570,
       "name": "Follow Thru",
       "url": "https://open.spotify.com/track/2ayVZTJy0xlRuHSnGavT0q"
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 276229,
       "name": "Hard To Get High",
       "url": "https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 454728,
       "name": "Mother Mother - Kid Fonque Remix",
       "url": "https://open.spotify.com/track/7G7xHPt5xgQvDsSHg21k5d"
@@ -3110,7 +3128,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
@@ -3154,7 +3172,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 193102,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/0cWoDB45Hfbr3YdlBpdpFd"
@@ -3361,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "Stormy",
+        "url": "https://open.spotify.com/album/2qZyE2flOn9xoXVakYb3A0"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "Stormy",
+      "url": "https://open.spotify.com/track/3TvCIcjdgoWmTDrl6AjXYf"
+    },
+    {
+      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -3420,7 +3456,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 197000,
       "name": "Take No More",
       "url": "https://open.spotify.com/track/40Lns0ks6frbEtQSpDohgs"
@@ -3669,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "TRAVELIN'",
+        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "TRAVELIN'",
+      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
+    },
+    {
+      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/5XF3yEAqhkWP7zw4y0wkKi"
       },
@@ -3698,7 +3752,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 180841,
       "name": "Unapologetically",
       "url": "https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ"
@@ -3836,6 +3890,24 @@
       "duration_ms": 240320,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/0wwoNSM5DmYtlm2d3SFsv4"
+    },
+    {
+      "album": {
+        "name": "Wakka Wakka Woman",
+        "url": "https://open.spotify.com/album/3doC5UZpLa6F86zkfkvHVO"
+      },
+      "artists": [
+        {
+          "name": "Jungaji",
+          "url": "https://open.spotify.com/artist/22kfA8FEtj4hY3z5c0elVg"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224639,
+      "name": "Wakka Wakka Woman",
+      "url": "https://open.spotify.com/track/2Y488MpwVlXClEU8D9noC3"
     },
     {
       "album": {

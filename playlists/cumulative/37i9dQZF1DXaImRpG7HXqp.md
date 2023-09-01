@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-602 songs - 1 day 2 hr 8 min
+606 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [am Rande des Waldes](https://open.spotify.com/track/7alIySW96sYHrTNzl1d9NS) | [Flavio Bottura](https://open.spotify.com/artist/24sxWrsqEwi0W7PPad6NeH) | [no man's land](https://open.spotify.com/album/3yUOrhecG3B9bbRWcb2ghB) | 2:57 | 2021-12-08 | 2022-02-02 |
 | [Am Soiernsee](https://open.spotify.com/track/1omB6aDhZpkZttTTNhQ1tN) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mond Farben](https://open.spotify.com/album/5eNszXHl0p0GhAOMYEnRtN) | 3:48 | 2022-08-05 | 2023-04-22 |
 | [Am Starnberger See](https://open.spotify.com/track/0AaQCL7bGvEFYmTCSdcRNh) | [Joseph Winkler](https://open.spotify.com/artist/7kRkQ9MMlq3wIzX6LOJbhr) | [Chiara](https://open.spotify.com/album/66SeV3uOJWL9qxrYDkKBph) | 3:05 | 2021-12-08 | 2022-04-06 |
+| [Amor Perfeito](https://open.spotify.com/track/5Ayj1cdbFJ6d9MwFeFEREe) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Amor Perfeito](https://open.spotify.com/album/5tbZcyDOEmo4dbpes7LAlO) | 2:20 | 2023-08-31 |  |
 | [Amélie](https://open.spotify.com/track/3UJXklI85LVB6bCpRZQZCY) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Amélie](https://open.spotify.com/album/7xaUjbI6MgKUehUXsDG30b) | 1:54 | 2023-06-02 | 2023-08-19 |
 | [Andorinhas](https://open.spotify.com/track/5nGQgcKYgvLPYw147hbRKU) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Blue Jay](https://open.spotify.com/album/7vgoyyb434dIkXAypof4zz) | 3:27 | 2022-05-13 |  |
 | [Andromeda](https://open.spotify.com/track/4rTOkpkDmJzDHLDjxX6Q5p) | [Ruby Lucern](https://open.spotify.com/artist/6pnPGq4LfbeTMuVyciSPjP) | [Firenze](https://open.spotify.com/album/6epHnZWyD4jXrrx5Lei9eo) | 3:30 | 2021-12-08 |  |
@@ -227,7 +228,7 @@
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 |  |
 | [Homage to Mr Rodriguez](https://open.spotify.com/track/2qhdCn9YpnLF6nILfEB56W) | [Brandon Marcelo](https://open.spotify.com/artist/2VtBXPLGJRY6dgNwHue5y4) | [Homage to Mr Rodriguez](https://open.spotify.com/album/6C7HFwnvU3vFI12Z6viGtp) | 4:04 | 2021-12-08 | 2022-02-02 |
 | [Homesick](https://open.spotify.com/track/5EO5Sx8n15p2f3SURF8Pcw) | [Celestial Conscience](https://open.spotify.com/artist/0UG5sCzTJoQXp7RvjoypkI), [Sykomori](https://open.spotify.com/artist/6mURhfwb2vKHmYD9aICMMC) | [Homesick](https://open.spotify.com/album/6rO8Jn9exEBWv9pUBC5wSc) | 2:25 | 2021-12-08 | 2022-06-10 |
-| [Hope Is The Thing With Feathers](https://open.spotify.com/track/3bfqaJtj53DnO5pJn3DUw1) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Hope Is The Thing With Feathers](https://open.spotify.com/album/2R3SdXnRlzP5xE1MvkYjMD) | 2:05 | 2023-01-06 |  |
+| [Hope Is The Thing With Feathers](https://open.spotify.com/track/3bfqaJtj53DnO5pJn3DUw1) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Hope Is The Thing With Feathers](https://open.spotify.com/album/2R3SdXnRlzP5xE1MvkYjMD) | 2:05 | 2023-01-06 | 2023-09-01 |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-21 | 2023-08-19 |
 | [How Far Have We Come](https://open.spotify.com/track/4LUusnBFGm3yI3Su7s8kg6) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Lake Varna](https://open.spotify.com/album/3uHH0omf5CaBUkuElcX4Bk) | 1:52 | 2023-03-10 | 2023-08-19 |
 | [Hugsanir](https://open.spotify.com/track/7cD1uV5Bzk1TEaPr9mqVt1) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Hugsanir](https://open.spotify.com/album/4SaiGm2h3DkUXZUj0hqQrx) | 3:12 | 2023-03-24 |  |
@@ -280,12 +281,13 @@
 | [Lake Michigan](https://open.spotify.com/track/3JJperyiS45dHKTBeDNyaT) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Lake Michigan](https://open.spotify.com/album/6rNNYU4OAgapOr4dr8DO35) | 1:54 | 2022-11-25 | 2023-08-19 |
 | [Lakes of Covadonga](https://open.spotify.com/track/03Vp5T4fXcsPL0cUTiKDy8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Lakes of Covadonga](https://open.spotify.com/album/22qbaZkVfusEm4ljcynslY) | 2:23 | 2023-01-13 |  |
 | [Landers](https://open.spotify.com/track/6HHfL2CCnQaCqNFIisujwc) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Landers](https://open.spotify.com/album/4nVN5RTxkCYoFXoSaaI9lG) | 2:43 | 2023-01-13 | 2023-06-03 |
-| [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-03-24 |  |
+| [Lange Reise](https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Wunder der Welt](https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg) | 2:36 | 2023-03-24 | 2023-09-01 |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2022-01-05 | 2023-04-22 |
 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 | 2022-01-11 |  |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-05-12 |  |
 | [Last Days of April](https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi) | [Lido Danielle](https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP) | [Last Days of April](https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx) | 2:51 | 2023-08-10 |  |
 | [Last Light](https://open.spotify.com/track/0uaPSyka3LHsbwWyENj4pZ) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Last Light](https://open.spotify.com/album/0SRaNgW2jcWKEVBpFvUqhp) | 2:24 | 2023-01-06 |  |
+| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 |  |
 | [Leap Of Faith](https://open.spotify.com/track/0Hop5LbeV6B7gLkdRQnpcq) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Leap Of Faith](https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G) | 2:44 | 2021-12-08 | 2022-06-10 |
 | [Leme](https://open.spotify.com/track/1B5el46SxWXSGfI7Lsn5g4) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:53 | 2021-12-08 |  |
@@ -559,6 +561,8 @@
 | [Verlorenes Glück](https://open.spotify.com/track/4cAT9a3DWt0smBFsmC7WEt) | [Lisa Tutti](https://open.spotify.com/artist/3l6n7qWmVJ0c8XquSgiFNX) | [Regental](https://open.spotify.com/album/6NGhehTZxgqdp8yZGHao3F) | 3:04 | 2021-12-08 | 2022-02-02 |
 | [Viento Verde](https://open.spotify.com/track/5RQeIDANgnsWqY9rqHgFG6) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Guitarra De Aire](https://open.spotify.com/album/4jQAhv8VySlv2D2qt4vh5Y) | 3:18 | 2021-12-08 | 2022-09-03 |
 | [Vieques](https://open.spotify.com/track/6CGR3tEuN7SpgKphMgX29Y) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Vieques](https://open.spotify.com/album/7a3lu2zOOxadhzI3Z2cRpV) | 2:43 | 2021-12-08 |  |
+| [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |
+| [Vigo](https://open.spotify.com/track/3y2a6TQ1cVmjiWu2ux8CBg) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Vigo](https://open.spotify.com/album/3tIQlmIRpCXwGqvxNgw0q3) | 2:19 | 2023-08-31 |  |
 | [Viktoria](https://open.spotify.com/track/0CPpze3C7NCI1djQKMebSR) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Viktoria](https://open.spotify.com/album/5hjsoNapAD0V3Tmk4ueXSw) | 2:43 | 2022-10-14 | 2022-12-17 |
 | [Viola](https://open.spotify.com/track/5RV00BhineeA8Pridv87II) | [R.J\. Smith](https://open.spotify.com/artist/0ViPLqxFKIDH5MH3YaTN28) | [Viola](https://open.spotify.com/album/2lWNoK5SqMEQw5DmmohMr9) | 3:09 | 2021-12-08 | 2022-09-09 |
 | [Virginia Roads](https://open.spotify.com/track/4mvPV4OfTqTr3BphyM4Rz1) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 3:21 | 2021-12-08 | 2022-08-05 |

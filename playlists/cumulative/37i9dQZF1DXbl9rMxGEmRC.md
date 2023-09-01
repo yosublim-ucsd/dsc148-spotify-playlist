@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-481 songs - 1 day 16 hr 50 min
+483 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Cold Burn](https://open.spotify.com/track/25dw1ON5dplrkOIhMBt7fl) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Cold Burn](https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm) | 9:41 | 2021-12-17 | 2022-01-15 |
 | [Coming Storm](https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:50 | 2022-05-20 |  |
 | [Compulsion for Cruelty](https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Compulsion for Cruelty](https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL) | 4:37 | 2022-09-01 |  |
-| [Concordat \(The Pact\) I](https://open.spotify.com/track/1ow4HBO9IdoYnL8EJw68wZ) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Concordat \(The Pact\) I](https://open.spotify.com/album/2N0t6IzDFRbqemjGHZqDaL) | 4:39 | 2023-07-03 |  |
+| [Concordat \(The Pact\) I](https://open.spotify.com/track/1ow4HBO9IdoYnL8EJw68wZ) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Concordat \(The Pact\) I](https://open.spotify.com/album/2N0t6IzDFRbqemjGHZqDaL) | 4:39 | 2023-07-03 | 2023-09-01 |
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-25 | 2023-02-13 |
 | [Conquer All](https://open.spotify.com/track/2MYdLzcBnDnk97PutLCRWP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2) | 3:31 | 2022-07-13 | 2022-07-29 |
 | [Conquer All](https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6) | 3:31 | 2022-07-13 |  |
@@ -262,6 +262,7 @@
 | [Malfeitor](https://open.spotify.com/track/79qyNyF12jmPSLGCvPyInr) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Lawless Darkness](https://open.spotify.com/album/2pQr4wN4SN9Ax3gdXDhrRz) | 6:58 | 2022-07-13 |  |
 | [March of the Antichrist](https://open.spotify.com/track/6Dy0BJpWP1FqqffGVldz1u) | [Path of Destiny](https://open.spotify.com/artist/1iydHn2q6TisTwNxU0yc2K) | [The Seed of All Evil](https://open.spotify.com/album/76y3jhORzJxEJnNfkjHKYj) | 6:39 | 2021-12-17 | 2022-01-22 |
 | [March to the Crater](https://open.spotify.com/track/5cKTyp5RFPALN8SbmYDGEk) | [Avhath](https://open.spotify.com/artist/18Oc9nuhdMhI1AHsciD1xu) | [Lethargy / March to the Crater](https://open.spotify.com/album/6tmF8a9xltdA3Osru96x2V) | 2:47 | 2022-03-10 | 2022-03-19 |
+| [Mask Of Red Death](https://open.spotify.com/track/5OAqpB56GZAqbbU9dHGmWj) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Necrophony](https://open.spotify.com/album/4UMTYpjf2pST9ojzIbMBqN) | 4:42 | 2023-08-25 |  |
 | [Matter and Energy](https://open.spotify.com/track/4hdlC6vb8ZuEfdPssn41lD) | [Mesarthim](https://open.spotify.com/artist/4ZnlfGzJ64rXn81cR2OR0E) | [Vacuum Solution](https://open.spotify.com/album/3BiBB0Duax8O9UJBtibIZN) | 4:38 | 2023-06-09 | 2023-07-22 |
 | [Mellonta Tauta](https://open.spotify.com/track/71gPwccCGNsMnsWCjKfSs1) | [Hegemon](https://open.spotify.com/artist/5KloIT5bV4mnTXMNYetENE) | [Sidereus Nuncius](https://open.spotify.com/album/0Uyv8xXfDXeTDx4Rm0aJdQ) | 5:46 | 2021-12-17 | 2022-05-21 |
 | [MEMORIES OF THE FUTURE](https://open.spotify.com/track/7Hcl0HhRJu9vkm74nJQ5Jc) | [Digress](https://open.spotify.com/artist/7joz4TQxQt5YUqJgZXaMO2), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [MEMORIES OF THE FUTURE](https://open.spotify.com/album/0cpMyNT6voEnwPYBHmJ8PW) | 2:37 | 2022-03-18 | 2022-07-14 |
@@ -454,6 +455,7 @@
 | [Vargtimman](https://open.spotify.com/track/5bMmrsetYnEO89tBG05ljx) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/2TQ3R02Fi7ZgFEzegs4QsK) | 5:07 | 2021-12-17 | 2022-05-14 |
 | [Vestige](https://open.spotify.com/track/7jLhFXdVjjGzKvsWyGravP) | [MØL](https://open.spotify.com/artist/10AROE3jG5grMdhlNyZiWo) | [Vestige](https://open.spotify.com/album/4MOWsVTLtxMOgztD0lRM7o) | 5:38 | 2021-12-17 | 2022-01-15 |
 | [Veter](https://open.spotify.com/track/1YuB9VNoHmGVtVxyZQ6dLB) | [Second To Sun](https://open.spotify.com/artist/2Rs3MsF2y8VfkjmOVHkT5N) | [Veter](https://open.spotify.com/album/1VYgM86x2AFTqHxZmOWv3l) | 5:29 | 2021-12-17 | 2022-07-27 |
+| [Vile](https://open.spotify.com/track/3CXM2N4YtrjZ9R15bLO3Mx) | [Mors Subita](https://open.spotify.com/artist/6OTqwzePF081l2Oz9PEku8) | [Vile](https://open.spotify.com/album/1Tcy5VTpasVucYNRNI5Q2U) | 3:15 | 2023-08-25 |  |
 | [Virtus Asinaria \- Prayer](https://open.spotify.com/track/6xzzWEFp3AWVkZLXx9HKDh) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Virtus Asinaria \- Prayer](https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ) | 5:18 | 2022-05-27 | 2022-10-09 |
 | [Voces Ab Alta](https://open.spotify.com/track/2dYYziGqbCMgX1Y4yYWDUp) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Voces Ab Alta](https://open.spotify.com/album/1DdYqnJfJaXcpJq9TUW9Xj) | 5:39 | 2021-12-17 | 2022-03-11 |
 | [Vomiting Void](https://open.spotify.com/track/7zRN92DMeBbCcwMEBsS3Iy) | [Ciemra](https://open.spotify.com/artist/2jQQJhLOvicHLW0obfFDvx) | [Vomiting Void](https://open.spotify.com/album/1mrbD6kLf00SOGzSDvzywo) | 3:52 | 2023-02-15 | 2023-04-22 |
@@ -464,7 +466,7 @@
 | [Wargod](https://open.spotify.com/track/000ETNHKRNLHNPjsCojYkc) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:38 | 2023-05-26 |  |
 | [Wargod](https://open.spotify.com/track/7zMtpoUdT3TsOHQvaQAqQI) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Wargod](https://open.spotify.com/album/2RfmZMdglQ9FC6yDrRu4Cr) | 4:38 | 2023-04-21 | 2023-05-28 |
 | [Warmen Are Here For None](https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Warmen Are Here For None](https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa) | 3:37 | 2023-06-16 |  |
-| [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 | 2022-07-13 |  |
+| [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 | 2022-07-13 | 2023-09-01 |
 | [We Are Pack](https://open.spotify.com/track/4LxoWlsbZR9gWsFsTAkhSv) | [Wolftopia](https://open.spotify.com/artist/3bJi0mvzPsQzu8uoZdB1Tj) | [Ways of the Pack](https://open.spotify.com/album/0VXVayHw6OxU4h9PYLGGTP) | 4:58 | 2021-12-17 | 2022-02-11 |
 | [We remain](https://open.spotify.com/track/4bAlw2L4PvzK1R0tEaJ6m9) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [We remain](https://open.spotify.com/album/7EpxjX4ymARMfMdd1glws2) | 6:13 | 2022-04-01 | 2022-04-29 |
 | [Weltschmerz \(2022\)](https://open.spotify.com/track/0pWJVJRag6toLd3vJ643EL) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Heretoir](https://open.spotify.com/album/5vHVuLogKSPfDAtTqM9uul) | 8:19 | 2023-02-10 | 2023-03-04 |

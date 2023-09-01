@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 27877,
+  "num_followers": 27918,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjUxNTc1M2QzMjgwZGExYTJiNTlmM2QwYTZkOWQzMjllZWY1ZTVh",
+  "snapshot_id": "MCw0MTE0NzBiNmZiZWNiMTlmZTc2YTM3ODRmYWIzNDhiN2QwODdhNTE5",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -739,22 +739,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Blues Piano-Rama",
-        "url": "https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx"
+        "name": "New Orleans Piano Professor",
+        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
       },
       "artists": [
         {
-          "name": "Julian Fauth",
-          "url": "https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr"
-        },
-        {
-          "name": "Curley Bridges",
-          "url": "https://open.spotify.com/artist/734B42JrhaNf5z7J5MvIus"
+          "name": "Tuts Washington",
+          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
         }
       ],
-      "duration_ms": 346786,
-      "name": "The Blues Ain't Nothing",
-      "url": "https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H"
+      "duration_ms": 202000,
+      "name": "Honky Tonk",
+      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -775,18 +771,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "New Orleans Piano Professor",
-        "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
+        "name": "Blues Piano-Rama",
+        "url": "https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx"
       },
       "artists": [
         {
-          "name": "Tuts Washington",
-          "url": "https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI"
+          "name": "Julian Fauth",
+          "url": "https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr"
+        },
+        {
+          "name": "Curley Bridges",
+          "url": "https://open.spotify.com/artist/734B42JrhaNf5z7J5MvIus"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Honky Tonk",
-      "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
+      "duration_ms": 346786,
+      "name": "The Blues Ain't Nothing",
+      "url": "https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -915,8 +915,8 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "SUN STUDIO STORY",
-        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
+        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
+        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
         }
       ],
-      "duration_ms": 272240,
-      "name": "Early In The Morning",
-      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
+      "duration_ms": 185600,
+      "name": "Early in the Morning",
+      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music",
-        "url": "https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb"
+        "name": "SUN STUDIO STORY",
+        "url": "https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Early in the Morning",
-      "url": "https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH"
+      "duration_ms": 272240,
+      "name": "Early In The Morning",
+      "url": "https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg"
     }
   ],
   "unique_name": "Blues Piano Legends",

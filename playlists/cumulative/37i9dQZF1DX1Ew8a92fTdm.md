@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-223 songs - 5 hr 40 min
+224 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Life is but a dream](https://open.spotify.com/track/6XLzwDwQzsX7gmKD6zZdie) | [Dagmar Park](https://open.spotify.com/artist/1FYboM4559UFLCS9IVXxio) | [Life is but a dream](https://open.spotify.com/album/0nnjifaoqsyGVLxbUWK7ey) | 1:20 | 2022-02-10 |  |
 | [Litet bo jag sätta vill](https://open.spotify.com/track/5qEoofV0UUskhni4I1vfn1) | [Beatrice Björkman](https://open.spotify.com/artist/2SdRSEuy0pwKedI6cZyTPI) | [Litet bo jag sätta vill](https://open.spotify.com/album/4E9junRVt6IwKCr8IRH78c) | 1:23 | 2022-12-09 | 2023-08-25 |
 | [Little Bo Peep](https://open.spotify.com/track/2up0LGm75ZneCdHr8ngfKa) | [Jackie Leon](https://open.spotify.com/artist/0lnm8ajEZUtfdBN07KPn5b) | [Tommy Thumb](https://open.spotify.com/album/3xy4asbR8bGz43QEiwCYes) | 1:42 | 2022-02-10 | 2023-04-21 |
+| [Little Cat](https://open.spotify.com/track/6dHzijXrFnRCsCzPyiwLPJ) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Little Cat](https://open.spotify.com/album/2QsXtBg2CG4EAeto6zQMUC) | 1:07 | 2023-08-31 |  |
 | [Little Dreamers](https://open.spotify.com/track/4alV2d3zSYVDSBOHGTGaaW) | [Amy Chesney](https://open.spotify.com/artist/5yJ7GLInAPoiOY6MCEbMyi) | [Little Dreamers](https://open.spotify.com/album/6oV11mfEZwRux1ESS3ZCz4) | 1:41 | 2022-02-10 |  |
 | [Little Red Scarf](https://open.spotify.com/track/2azl4gJGrpDlLSrlA1DyGW) | [Bernie Toft](https://open.spotify.com/artist/5YmfywgjBeKHuALBAZyUDp) | [Little Red Scarf](https://open.spotify.com/album/7GmSpEtRxyp4Tt0RsS2lAG) | 1:27 | 2023-01-20 |  |
 | [London Bridge](https://open.spotify.com/track/2mZs2T1Db29O7RL82hul2u) | [Kilian Skoog](https://open.spotify.com/artist/2TWJuWpcdDRbLwOBOEe3OK) | [London Bridge](https://open.spotify.com/album/32phA7pyDzvVPFqzPGNOuJ) | 1:21 | 2022-07-29 |  |

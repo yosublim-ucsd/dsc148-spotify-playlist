@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 235766,
       "name": "Proud of oneself",
       "url": "https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0"
@@ -6500,6 +6500,24 @@
       "duration_ms": 211373,
       "name": "\u8ff7\u661f\u53eb",
       "url": "https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9"
+    },
+    {
+      "album": {
+        "name": "\u8ff7\u8def\u65e5\u3005",
+        "url": "https://open.spotify.com/album/3uBopzA0VxW4Widg7Ymeg0"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215453,
+      "name": "\u8ff7\u8def\u65e5\u3005",
+      "url": "https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk"
     },
     {
       "album": {

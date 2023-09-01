@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,203 likes - 33 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,240 likes - 33 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 32 | [Dancing Queen](https://open.spotify.com/track/0FK7VTnXJSWqayUOPgVJ4V) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [vol\. 17](https://open.spotify.com/album/45sgglnETFyB3EJJmY5Hsj) | 3:05 |
 | 33 | [Paranoia Purple](https://open.spotify.com/track/0kOq336SMTIa90VjHMutht) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Paranoia Purple](https://open.spotify.com/album/6nqblG53NdUSIoKLndjgL2) | 3:57 |
 
-Snapshot ID: `MjgyMjMzMDAsMDAwMDAwMDBlYWQ1OTM0MmIzYTI1MzUzYmVhMTRkY2E0ZmUxYzIzOA==`
+Snapshot ID: `MjgyMjQ3NjMsMDAwMDAwMDBiODkxOTNhNmQ5MDE5ZDRmNmQyZjRhNDRiMDA0OTFjYQ==`

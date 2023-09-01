@@ -628,7 +628,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 209617,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/6dy23Jk4fxlwTLxB9o4olF"
@@ -4916,6 +4916,24 @@
       "duration_ms": 200000,
       "name": "Poetic Anthems",
       "url": "https://open.spotify.com/track/7EsBJypTRh9ptstfZtvShL"
+    },
+    {
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/5X3zzhPritfRnLd6as5JWt"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170922,
+      "name": "Portraits",
+      "url": "https://open.spotify.com/track/1CAikPYiA2mFUkwCoPgLZk"
     },
     {
       "album": {

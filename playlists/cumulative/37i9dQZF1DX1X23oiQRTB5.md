@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Ninho au top de la première playlist de rap français !
+> Gambi au top de la première playlist de rap français !
 
 185 songs - 9 hr 30 min
 

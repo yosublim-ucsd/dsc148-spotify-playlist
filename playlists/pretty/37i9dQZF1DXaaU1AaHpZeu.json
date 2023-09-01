@@ -1,12 +1,12 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: LOUTA & Elsa y Elmar.",
-  "num_followers": 296901,
+  "num_followers": 296907,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGZkNjc1MTdlYzJiZjA4MDE0YmQxOGI2YmEyZjI3ZDI1ODc3ZDdk",
+  "snapshot_id": "MCxlMmI1MGVkMDQzNDY3MDE3ZTI3MDliMWFiN2QwM2YzYzVmMTExZjA1",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -203,6 +203,26 @@
       "duration_ms": 169830,
       "name": "DE CORAZ\u00d3N",
       "url": "https://open.spotify.com/track/6d7k217oIrBq6JtiCKypq7"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Babel",
+        "url": "https://open.spotify.com/album/6OG8YyeIHzl4CPKad32yjN"
+      },
+      "artists": [
+        {
+          "name": "El Columpio Asesino",
+          "url": "https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0"
+        },
+        {
+          "name": "Fermin Muguruza",
+          "url": "https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk"
+        }
+      ],
+      "duration_ms": 220822,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/4PO19uhmdFzNJIoYk0JVEm"
     },
     {
       "added_at": "2023-08-25 03:00:00",

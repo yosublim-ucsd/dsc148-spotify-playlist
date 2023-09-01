@@ -4,7 +4,7 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-146 songs - 17 hr 28 min
+147 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,5 +154,6 @@
 | [Wizeman \(feat\. Imaani\)](https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N) | [Copyright](https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd), [Imaani](https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi) | [Voices & Visions](https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq) | 6:59 | 2022-09-13 |  |
 | [Yellow](https://open.spotify.com/track/70EOnXNxRilUCb7OrTvOqw) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [The Kerri Chandler Collection](https://open.spotify.com/album/0VIowp3nc3KpEdwiMEQ3Gg) | 7:24 | 2022-09-13 |  |
 | [You Give Good Love \(Jay\-J's Mouton Studios Dub\)](https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a) | [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq) | [You Give Good Love](https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe) | 6:37 | 2022-09-13 |  |
+| [You're In My System \- Original Mix](https://open.spotify.com/track/0ttcT1gEVaUy0Sat4jqnnd) | [Kelvin Sylvester](https://open.spotify.com/artist/0Gu9M2zSKGD9dvnFrnu3Xw), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [You're In My System](https://open.spotify.com/album/1Scs2iEwQ3DrCW5JzYJ091) | 5:51 | 2023-08-31 |  |
 
 \*This playlist was first scraped on 2023-01-15. Prior content cannot be recovered.

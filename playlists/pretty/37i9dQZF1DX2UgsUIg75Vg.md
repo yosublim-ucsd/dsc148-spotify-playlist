@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,355,978 likes - 160 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,356,222 likes - 160 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 159 | [Envious](https://open.spotify.com/track/5QrhTxjhRFYqYjQeT0tqEa) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 2:33 |
 | 160 | [Index](https://open.spotify.com/track/7eq5eMVUs1lJGqPNfbnGBg) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Maybe I’m Best Alone](https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt) | 3:31 |
 
-Snapshot ID: `MCxjZDllMDU3NDk0ZjFlYzE1YjQwYWI3ODVkZDFlZTQ5NzI5YzEzMzBh`
+Snapshot ID: `MCwxZTA1NDMxMDRmZTE1NjM1N2RlOGVkYzAzYjc0YWM4OGJkMDhmYWNj`

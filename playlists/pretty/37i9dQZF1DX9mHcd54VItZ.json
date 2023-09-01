@@ -1,13 +1,177 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY?si=45WvUFO9R5G2H8_5yJFU8w\">Aya Nixon</a>",
-  "num_followers": 14238,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=GelQWYzpTk-l2uPtHFRCzA\">Spoegwolf</a>",
+  "num_followers": 14252,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzA4NGE0NjA5NDQ4NGEyZGEwOTYwY2E4MDdjOWRhNDBhMzNlMGVm",
+  "snapshot_id": "MCw0YjY2NGFjYjBkZjNkNjVmMWE1ZjYzMzMxNzYyNjc2NzQzY2U2ZDI0",
   "tracks": [
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Lente",
+        "url": "https://open.spotify.com/album/0npVagHg875j2gbr4CAvzS"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 179391,
+      "name": "Cloetesville",
+      "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "O, My Donner",
+        "url": "https://open.spotify.com/album/2yAftcha7EZXFJv6mxASEw"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Hanu De Jong",
+          "url": "https://open.spotify.com/artist/3rMWW9HNEP3gaFRUp7BKOs"
+        }
+      ],
+      "duration_ms": 172750,
+      "name": "O, My Donner",
+      "url": "https://open.spotify.com/track/000TBF61gauDzXiOs4GFNs"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/7eHKq7xyL3UBRP0hwPUGq1"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 245638,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/2em2HgEcpE1OAJevg8suiw"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Rising After Midnight",
+        "url": "https://open.spotify.com/album/7vWHO6IMU8NqLDrNvN5GRZ"
+      },
+      "artists": [
+        {
+          "name": "Marene",
+          "url": "https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I"
+        }
+      ],
+      "duration_ms": 223103,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/6mMLPWw1Dc8sNu8yJOhsOZ"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "ONE MORE DAY",
+        "url": "https://open.spotify.com/album/29Agk5eMCnSKWzasCi6XH0"
+      },
+      "artists": [
+        {
+          "name": "Fortunes Fool",
+          "url": "https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "ONE MORE DAY",
+      "url": "https://open.spotify.com/track/3dBlMjiGarWFzOdYevS2xs"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Victim of Data",
+        "url": "https://open.spotify.com/album/3Q1NdGdXpdVh3DRXlQ3wrb"
+      },
+      "artists": [
+        {
+          "name": "Shameless Band",
+          "url": "https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Victim of Data",
+      "url": "https://open.spotify.com/track/5DESqCo3i23bSBUg9r3p7a"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Bietjie Bipol\u00ear",
+        "url": "https://open.spotify.com/album/2kw0oaEV8IeAtfJ3PBRA3t"
+      },
+      "artists": [
+        {
+          "name": "Brigite Duvenhage",
+          "url": "https://open.spotify.com/artist/0UBwRVPVLHsViFuFcpiPB4"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Bietjie Bipol\u00ear",
+      "url": "https://open.spotify.com/track/6vxQqhd7fTIKVOa9CT3WYd"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Bo Dorp",
+        "url": "https://open.spotify.com/album/0ob0rVAs13K2PSZeJ8P49w"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Visagie",
+          "url": "https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK"
+        }
+      ],
+      "duration_ms": 162180,
+      "name": "Die Man",
+      "url": "https://open.spotify.com/track/0UOflpM3Q5WGmigPr4W2We"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Vir Ewig",
+        "url": "https://open.spotify.com/album/6vFklUu7QaerJHZdwOjpXZ"
+      },
+      "artists": [
+        {
+          "name": "William Wolf",
+          "url": "https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY"
+        }
+      ],
+      "duration_ms": 234979,
+      "name": "Vir Ewig",
+      "url": "https://open.spotify.com/track/4duchzNuzguXiPND75nVGr"
+    },
+    {
+      "added_at": "2023-08-31 21:59:00",
+      "album": {
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/0JBFWuICgQnyvb6rjDsA0d"
+      },
+      "artists": [
+        {
+          "name": "Dream Demon",
+          "url": "https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki"
+        }
+      ],
+      "duration_ms": 192290,
+      "name": "Contagious",
+      "url": "https://open.spotify.com/track/5JtXQeRS0pznrpwKWRHmk3"
+    },
     {
       "added_at": "2023-08-17 22:01:39",
       "album": {
@@ -655,194 +819,6 @@
       "duration_ms": 196093,
       "name": "Old-fashioned Liefde",
       "url": "https://open.spotify.com/track/0f1shqFGToy3RJzZBojBli"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Toe Roep Ek Jou Naam Velvet Blohm",
-        "url": "https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi"
-      },
-      "artists": [
-        {
-          "name": "Jan Blohm",
-          "url": "https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW"
-        },
-        {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Toe Roep Ek Jou Naam",
-      "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
-    },
-    {
-      "added_at": "2023-07-13 21:59:00",
-      "album": {
-        "name": "The Colour and the Shape",
-        "url": "https://open.spotify.com/album/7B8zs7JZhKDW91ETEoajgN"
-      },
-      "artists": [
-        {
-          "name": "Evert Snyman",
-          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
-        },
-        {
-          "name": "Andi Cappo",
-          "url": "https://open.spotify.com/artist/0nVE9BZlGecwePu02YZXbP"
-        }
-      ],
-      "duration_ms": 167679,
-      "name": "The Colour and the Shape",
-      "url": "https://open.spotify.com/track/6SCNjryU6mK5Fm1St3YcHG"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Michelle",
-        "url": "https://open.spotify.com/album/5Ukb8khXf7sJbNfvbTdi1o"
-      },
-      "artists": [
-        {
-          "name": "Metro Villa",
-          "url": "https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/1QxazQmnrfG3tiKGp8mHlZ"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "Synesthesia",
-        "url": "https://open.spotify.com/album/2HM59GCBORsw7BUQAkY3S0"
-      },
-      "artists": [
-        {
-          "name": "3's and 7's",
-          "url": "https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H"
-        }
-      ],
-      "duration_ms": 233622,
-      "name": "Synesthesia",
-      "url": "https://open.spotify.com/track/0hBQalBDzf9sjhvXpQUqEh"
-    },
-    {
-      "added_at": "2023-06-22 21:59:00",
-      "album": {
-        "name": "If I'm Lying I'm Flying",
-        "url": "https://open.spotify.com/album/60fHKXeRMczzoE7EWICIqI"
-      },
-      "artists": [
-        {
-          "name": "M\u00dcNYA",
-          "url": "https://open.spotify.com/artist/4REBPmFm38C9LWqESbsPUI"
-        }
-      ],
-      "duration_ms": 116241,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/0bDjAsvbqxoR75Te8SqU8P"
-    },
-    {
-      "added_at": "2023-07-13 21:59:00",
-      "album": {
-        "name": "Garden of the Snake",
-        "url": "https://open.spotify.com/album/47mJM6v3R4rrJoDiQ1Pgji"
-      },
-      "artists": [
-        {
-          "name": "McCully/Mackay",
-          "url": "https://open.spotify.com/artist/61kkxrTkgSTpFjsSr3uWhe"
-        }
-      ],
-      "duration_ms": 224476,
-      "name": "Garden of the Snake",
-      "url": "https://open.spotify.com/track/2tykrr9Rl5xR3Mb7IoNjMG"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "Feeding the Feeling",
-        "url": "https://open.spotify.com/album/77vj6OL1XTcr7Av5BE8rZF"
-      },
-      "artists": [
-        {
-          "name": "Brynn",
-          "url": "https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n"
-        }
-      ],
-      "duration_ms": 257407,
-      "name": "Feeding the Feeling",
-      "url": "https://open.spotify.com/track/4vTXU11OaLJVFsZGJfY6eB"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        },
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 207525,
-      "name": "Maksimum Volume",
-      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Doomsday Clock",
-        "url": "https://open.spotify.com/album/6AjNpBC0WwffYnvRW9Km3f"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Skirts",
-          "url": "https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Doomsday Clock",
-      "url": "https://open.spotify.com/track/49zvyx4iOb0l18rPXkfC8a"
-    },
-    {
-      "added_at": "2023-05-25 21:59:00",
-      "album": {
-        "name": "Oud Geword",
-        "url": "https://open.spotify.com/album/70VkQsYTEX51832qXP82U1"
-      },
-      "artists": [
-        {
-          "name": "Van Der Aven",
-          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Oud Geword",
-      "url": "https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
-        "name": "Pink Codeine",
-        "url": "https://open.spotify.com/album/1mT061XTU1JRimRQap8hQe"
-      },
-      "artists": [
-        {
-          "name": "We Kill Cowboys",
-          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
-        }
-      ],
-      "duration_ms": 209140,
-      "name": "Pink Codeine",
-      "url": "https://open.spotify.com/track/2nSfDIYnU3euVZN81xLjJp"
     }
   ],
   "unique_name": "SA Rock ",

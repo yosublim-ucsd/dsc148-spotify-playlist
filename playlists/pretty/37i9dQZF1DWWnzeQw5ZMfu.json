@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
-  "num_followers": 60136,
+  "num_followers": 60183,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjhhNjEyNzg1MmRjNmZiMGQwN2YzOWFlMTZmNGU5ZTk5NTM2ZmNh",
+  "snapshot_id": "MCwzY2RlYmNhYWI2ZDU4YWU3M2QxNmM1ZjQ3YjNkNGM1M2Y4N2E5MmEx",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Stark Naked and Absolutely Live",
-        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Live in Dortmund",
         "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 246146,
       "name": "The Lady In Red - Live",
       "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Stark Naked and Absolutely Live",
+        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "All of Me (Live)",
-        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 299666,
-      "name": "All of Me - Live",
-      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 295613,
       "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "All of Me (Live)",
+        "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 299666,
+      "name": "All of Me - Live",
+      "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "A New Day...Live In Las Vegas",
         "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 262533,
       "name": "Maps - Live In Manchester",
       "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Tina Live",
-        "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "What's Love Got to Do with It - Live in Arnhem",
-      "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "The Rarities",
         "url": "https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 278026,
       "name": "Always Be My Baby - Live at the Tokyo Dome",
       "url": "https://open.spotify.com/track/58QgGWqvercpslOCOlxyEr"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Tina Live",
+        "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "What's Love Got to Do with It - Live in Arnhem",
+      "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Stadium Rockers",
-        "url": "https://open.spotify.com/album/7agGSP1myDt3SSIdKUuT1y"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 299573,
-      "name": "Moves Like Jagger - Live In Manchester",
-      "url": "https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
         "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 413776,
       "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
       "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Stadium Rockers",
+        "url": "https://open.spotify.com/album/7agGSP1myDt3SSIdKUuT1y"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 299573,
+      "name": "Moves Like Jagger - Live In Manchester",
+      "url": "https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr"
     },
     {
       "added_at": "2023-08-18 04:01:00",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "1-800-DATEME",
+        "url": "https://open.spotify.com/album/1WML7GXWm5N53g9LA8vXCO"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114426,
+      "name": "1-800-DATEME",
+      "url": "https://open.spotify.com/track/2iClCG0J0gQhDHJxxknTGg"
+    },
+    {
+      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },

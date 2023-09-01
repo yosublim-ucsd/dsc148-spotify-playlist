@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2287081,
+  "num_followers": 2287833,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzczODIxZjU1NDVkNGM2ODlhNTRiODAyMTVjM2MxMTA0NTVkNmUx",
+  "snapshot_id": "MCxmYzM2Nzc4YmQzOWJjZGQ3NmM4NDI4NWRmNDkyODdlZmMxNjdmYTIx",
   "tracks": [
     {
       "added_at": "2023-07-25 16:36:34",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "The Sickness",
-        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Down with the Sickness",
-      "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Vulgar Display of Power",
         "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 315120,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "The Sickness",
+        "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Down with the Sickness",
+      "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
@@ -251,6 +267,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 205394,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
         "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
       },
@@ -275,38 +307,6 @@
       "duration_ms": 189552,
       "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
       "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 205394,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 233079,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 233079,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Watch Me Burn",
-        "url": "https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 218722,
-      "name": "Watch Me Burn",
-      "url": "https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Five",
         "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 234774,
       "name": "California Dreaming",
       "url": "https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Watch Me Burn",
+        "url": "https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 218722,
+      "name": "Watch Me Burn",
+      "url": "https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 196051,
-      "name": "That's My Jam",
-      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Restoring Force",
         "url": "https://open.spotify.com/album/4cntNMQjpROMQmevKb8H9f"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 193493,
       "name": "Feels Like Forever",
       "url": "https://open.spotify.com/track/3iPMVDlzpkXuYkvsa1PRQj"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 196051,
+      "name": "That's My Jam",
+      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/3BFVZvWXK3WW25oO9DjBNj"
       },
@@ -2095,18 +2079,18 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Nonpoint",
-        "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
       },
       "artists": [
         {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 210826,
-      "name": "That Day",
-      "url": "https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga"
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2127,6 +2111,22 @@
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Nonpoint",
+        "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "That Day",
+      "url": "https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Breaking Skin",
-      "url": "https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Flawed Design",
         "url": "https://open.spotify.com/album/1mIKXNfCh0SNefV65SRsId"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 247154,
       "name": "Idol (feat. Tech N9ne)",
       "url": "https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0p2wgx7HXyO12OqELfMTiA"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "Breaking Skin",
+      "url": "https://open.spotify.com/track/3uleUeZ5eyYCNGiwcc1Exp"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2295,22 +2295,6 @@
       "duration_ms": 224516,
       "name": "LOUD (Fuck It)",
       "url": "https://open.spotify.com/track/0vGDRD1JCj2NhUm7jUWxjf"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/0U9V1fSmA5lSYTsYh99AQm"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Chaos And Earthquakes",
-      "url": "https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X"
     },
     {
       "added_at": "2023-07-25 16:36:34",
@@ -2395,6 +2379,22 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/0U9V1fSmA5lSYTsYh99AQm"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Chaos And Earthquakes",
+      "url": "https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
         "name": "I, The Mask",
         "url": "https://open.spotify.com/album/2nLTMIfQsiFEP3feSBVqks"
       },
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-07-25 16:36:34",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
-      },
-      "artists": [
-        {
-          "name": "Eva Under Fire",
-          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
-        }
-      ],
-      "duration_ms": 164990,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
-    },
-    {
-      "added_at": "2023-07-25 16:36:34",
-      "album": {
         "name": "Fortress",
         "url": "https://open.spotify.com/album/3oMt2cUO9IIttONwd6eHRO"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 256872,
       "name": "Addicted To Pain",
       "url": "https://open.spotify.com/track/74ODL6xFR2erTu2mvXFIDz"
+    },
+    {
+      "added_at": "2023-07-25 16:36:34",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 164990,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE"
     },
     {
       "added_at": "2023-07-25 16:36:34",

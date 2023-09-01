@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 51953,
+  "num_followers": 51965,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGFhNjEzMTFkMmZkMjIxYTQ2MzgzYWMzNjhmMjgxNzI0MzhjMDk0",
+  "snapshot_id": "MCw5ZjA1NTMzNGY0YTRlMzc0N2UwMmFhM2UzYjk5MmNhMTE5YzcwMGUz",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Time Travel",
-        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
-      },
-      "artists": [
-        {
-          "name": "Antologie",
-          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
-        }
-      ],
-      "duration_ms": 184642,
-      "name": "Time Travel",
-      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Breathing Space",
         "url": "https://open.spotify.com/album/659OTaUEYfTNdzx7F6mpj2"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 445040,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3sdt7exS3REm1OKia8zcyi"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Time Travel",
+        "url": "https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z"
+      },
+      "artists": [
+        {
+          "name": "Antologie",
+          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
+        }
+      ],
+      "duration_ms": 184642,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Moments of Tomorrow",
-        "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
-      },
-      "artists": [
-        {
-          "name": "Jean Petri",
-          "url": "https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G"
-        }
-      ],
-      "duration_ms": 110434,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w"
       },
@@ -779,18 +763,34 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Light of The Moon",
-        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
+        "name": "Moments of Tomorrow",
+        "url": "https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a"
       },
       "artists": [
         {
-          "name": "Naturally Recurring",
-          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+          "name": "Jean Petri",
+          "url": "https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G"
         }
       ],
-      "duration_ms": 249818,
-      "name": "Sunrise Glory",
-      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
+      "duration_ms": 110434,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "If you ever change your mind",
+        "url": "https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "If you ever change your mind",
+      "url": "https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -811,18 +811,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "If you ever change your mind",
-        "url": "https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2"
+        "name": "Light of The Moon",
+        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
       },
       "artists": [
         {
-          "name": "Santo Trevisani",
-          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+          "name": "Naturally Recurring",
+          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
         }
       ],
-      "duration_ms": 122000,
-      "name": "If you ever change your mind",
-      "url": "https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z"
+      "duration_ms": 249818,
+      "name": "Sunrise Glory",
+      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "After The Silence",
-        "url": "https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9on Branche",
-          "url": "https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm"
-        }
-      ],
-      "duration_ms": 143277,
-      "name": "After The Silence",
-      "url": "https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "unspoken",
         "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 159000,
       "name": "anywhere",
       "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "After The Silence",
+        "url": "https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Branche",
+          "url": "https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm"
+        }
+      ],
+      "duration_ms": 143277,
+      "name": "After The Silence",
+      "url": "https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Eternal Thoughts",
-        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
-      },
-      "artists": [
-        {
-          "name": "Orbit Release",
-          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
-        }
-      ],
-      "duration_ms": 241438,
-      "name": "Eternal Thoughts",
-      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds",
         "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 249300,
       "name": "REM Phase",
       "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Eternal Thoughts",
+        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
+      },
+      "artists": [
+        {
+          "name": "Orbit Release",
+          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
+        }
+      ],
+      "duration_ms": 241438,
+      "name": "Eternal Thoughts",
+      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
     },
     {
       "added_at": "2021-06-24 10:58:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover \- Rules Ranjan
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,208 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,215 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 | 50 | [Evare Nuvvu](https://open.spotify.com/track/7m64tTau2Rh6hzVDA1oV6K) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Rajubhai](https://open.spotify.com/album/7IeNvR1LQ1Z8sWM8KaAB2O) | 4:10 |
 
-Snapshot ID: `MCw3OTc3YzAxNzc0NjUzYTk2YjM1MDJkN2YyMzVlYzU2ZTc1NDEyMGJm`
+Snapshot ID: `MCw2OWFmMjhhYzEyNDc1ZTFiNTM1YmJlMzg3Y2NmZjkzZDExMDBhNzNj`

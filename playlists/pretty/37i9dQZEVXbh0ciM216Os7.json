@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMTU2MDAsMDAwMDAwMDAwZmM2ZjZhOTY4YjZjOTNhZjQ2Mzc1ZDA3ZGI4ZGNlNw==",
+  "snapshot_id": "MjgyMTU2MDAsMDAwMDAwMDAwMWU4NzFmMjM3OTM3Y2Q2NWZhMTNkYzk1ZGQxN2U0Nw==",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -59,78 +59,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/5Fi81yu2mZDF8m136BRS6v"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 293122,
-      "name": "Witchcraft (feat. Robert Glasper)",
-      "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Hella Good (Metal Version)",
-        "url": "https://open.spotify.com/album/5CfBbX5MpZ8q4lEPtDsYWY"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 210716,
-      "name": "Hella Good (Metal Version)",
-      "url": "https://open.spotify.com/track/4M3nv7F7mMsde0lzb46UTI"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Dumptruck",
-        "url": "https://open.spotify.com/album/4NfcikeRcHAduFCsBLneVr"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 172213,
-      "name": "Dumptruck",
-      "url": "https://open.spotify.com/track/5ADiwjcccncgVcYem16lkn"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Sentry (feat. MIKE)",
         "url": "https://open.spotify.com/album/5XrYVLVAJTGiBt43Pdusuo"
       },
@@ -155,18 +83,66 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
+        "name": "Hella Good (Metal Version)",
+        "url": "https://open.spotify.com/album/5CfBbX5MpZ8q4lEPtDsYWY"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+      "duration_ms": 210716,
+      "name": "Hella Good (Metal Version)",
+      "url": "https://open.spotify.com/track/4M3nv7F7mMsde0lzb46UTI"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/2Qy4QNhNYvh88m2nKBdh79"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        },
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Like It Like That (feat. Chief Adjuah)",
+      "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Sicilian Gold",
+        "url": "https://open.spotify.com/album/5atzWc0KKpAjzmbmMxghUk"
+      },
+      "artists": [
+        {
+          "name": "DJ Muggs",
+          "url": "https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 114625,
+      "name": "Sicilian Gold",
+      "url": "https://open.spotify.com/track/7mJ4eFallKzHR5tEU2NL4E"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -207,38 +183,102 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "We Should Get Married",
-        "url": "https://open.spotify.com/album/5DqiJn6X0JGXhP3JMM9C3I"
+        "name": "Yours Truly (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 221226,
-      "name": "We Should Get Married",
-      "url": "https://open.spotify.com/track/2syH39iwALerO994Pod9dB"
+      "duration_ms": 213694,
+      "name": "The Way - Live from London (feat. Mac Miller)",
+      "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
     },
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Do You Remember Country Music (feat. Randy Travis)",
-        "url": "https://open.spotify.com/album/5yZdZAKNNN42xD32IaaICr"
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/4qnDnV8iQYo5PzMhflN838"
       },
       "artists": [
         {
-          "name": "Tony Jackson",
-          "url": "https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR"
+          "name": "Mayne",
+          "url": "https://open.spotify.com/artist/71864qIP78GhtmqKjYITDm"
         },
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 210672,
-      "name": "Do You Remember Country Music",
-      "url": "https://open.spotify.com/track/7CFK4WaCuILEyCuBxjAM4W"
+      "duration_ms": 173557,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/4xRXYFnpN6gRyHXXH9N0wC"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Wine Lips on Audiotree Live",
+        "url": "https://open.spotify.com/album/7rXbOuaSYcadOUomHd3BIC"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "duration_ms": 172981,
+      "name": "Stimulation - Audiotree Live version",
+      "url": "https://open.spotify.com/track/0HjsxcdrfdR2X7oC9DSWTQ"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Last a While",
+        "url": "https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK"
+      },
+      "artists": [
+        {
+          "name": "Arc De Soleil",
+          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
+        }
+      ],
+      "duration_ms": 185412,
+      "name": "Last a While",
+      "url": "https://open.spotify.com/track/2J9WyRYiN97tceXPTXHF1u"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "JUMPIN (Timmy Trumpet Remix)",
+        "url": "https://open.spotify.com/album/5N10HsZvBZFjzMMJvNp5Gv"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 164911,
+      "name": "JUMPIN - Timmy Trumpet Remix",
+      "url": "https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -255,26 +295,6 @@
       "duration_ms": 121441,
       "name": "When I Come Around - 4-track demo",
       "url": "https://open.spotify.com/track/1AQZlSq7fPI6RlErGe8YSa"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "METALI!! (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "METALI!! - feat. Tom Morello",
-      "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -299,22 +319,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Forgiven",
-        "url": "https://open.spotify.com/album/0BAaDFunOx1UkznLUdBMsG"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 205497,
-      "name": "Forgiven",
-      "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Happy Music",
         "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
@@ -331,6 +335,38 @@
       "duration_ms": 194962,
       "name": "Keep It Rising",
       "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Gimme Three Steps (Live)",
+        "url": "https://open.spotify.com/album/3GneX3d7xBTbuLzM9ViHMU"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 329160,
+      "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
+      "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Forgiven",
+        "url": "https://open.spotify.com/album/0BAaDFunOx1UkznLUdBMsG"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 205497,
+      "name": "Forgiven",
+      "url": "https://open.spotify.com/track/1B7s6X81lZVSSP7adOBxaM"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -359,24 +395,44 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Gimme Three Steps (Live)",
-        "url": "https://open.spotify.com/album/3GneX3d7xBTbuLzM9ViHMU"
+        "name": "Black Folk (Remix)",
+        "url": "https://open.spotify.com/album/1XDlBcu0t7TOpxLJmk2Dkn"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Orleans Big",
+          "url": "https://open.spotify.com/artist/5LrIqLIweQz6rLfR8hc8K6"
+        },
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 329160,
-      "name": "Gimme Three Steps - Live At The Ryman Theatre, Nashville, TN - November 13, 2022",
-      "url": "https://open.spotify.com/track/68M6DDAbPBYzEdTQeEhDQm"
+      "duration_ms": 359851,
+      "name": "Tank And The Bangas (feat. Rapsody, Kota the Friend, Orleans Big, Dee-1, Alex Isley) - Remix",
+      "url": "https://open.spotify.com/track/3uUH1IlD2e2UWgVVUII9KS"
     },
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Realest (with Eminem)",
-        "url": "https://open.spotify.com/album/6dcPEVpGyhIgIYeW1CVQeP"
+        "name": "DU4LI7Y: REDUX",
+        "url": "https://open.spotify.com/album/4RO6790j1uHJXcI9CTqA1R"
       },
       "artists": [
         {
@@ -388,81 +444,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 218859,
+      "duration_ms": 217470,
       "name": "Realest (with Eminem)",
-      "url": "https://open.spotify.com/track/2r00b713EahQGlSYQY9FWw"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "YUPP! (feat. Remy Ma)",
-        "url": "https://open.spotify.com/album/1rbMc48YDSl6fc8NQp7rHu"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Remy Ma",
-          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
-        }
-      ],
-      "duration_ms": 182267,
-      "name": "YUPP! (feat. Remy Ma)",
-      "url": "https://open.spotify.com/track/0VTl8AlNH1TTaZ5k7vsTvU"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Clockwork",
-        "url": "https://open.spotify.com/album/1yF7u9oYr18P4XkwR1EbmU"
-      },
-      "artists": [
-        {
-          "name": "Humble Soles",
-          "url": "https://open.spotify.com/artist/0js1ol9cMZymg0PcJdAbmv"
-        },
-        {
-          "name": "DJ Clue",
-          "url": "https://open.spotify.com/artist/1g8uGVofjr2ApBrI8OZhJf"
-        },
-        {
-          "name": "Tyre Hakim",
-          "url": "https://open.spotify.com/artist/330cgYbAbvsjcSQPrhPwLJ"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Tish Hyman",
-          "url": "https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K"
-        }
-      ],
-      "duration_ms": 204796,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/1XMXIdPHXXoTI48rQEBp9V"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Oh, You Crazy Moon (Ornithology Remix)",
-        "url": "https://open.spotify.com/album/6Na3I8ff7sDx2I8uj0nMMR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Ornithology",
-          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
-        }
-      ],
-      "duration_ms": 67764,
-      "name": "Oh, You Crazy Moon - Ornithology Remix",
-      "url": "https://open.spotify.com/track/2p4S9TzGVVo6ABhlLGjGl5"
+      "url": "https://open.spotify.com/track/39Bpll0P8Yl7Uk816RLuKb"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -491,26 +475,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Harlem World 97 (feat. Estelle)",
-        "url": "https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF"
+        "name": "dummy",
+        "url": "https://open.spotify.com/album/69SaxOtmzbxz28npweVNSI"
       },
       "artists": [
         {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
         }
       ],
-      "duration_ms": 137945,
-      "name": "Harlem World 97 (feat. Estelle)",
-      "url": "https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M"
+      "duration_ms": 137398,
+      "name": "dummy",
+      "url": "https://open.spotify.com/track/3Yvrrzb0ebtnJYpiXFMWns"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -535,6 +511,50 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Harlem World 97 (feat. Estelle)",
+        "url": "https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 137945,
+      "name": "Harlem World 97 (feat. Estelle)",
+      "url": "https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Oh, You Crazy Moon (Ornithology Remix)",
+        "url": "https://open.spotify.com/album/6Na3I8ff7sDx2I8uj0nMMR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Ornithology",
+          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
+        }
+      ],
+      "duration_ms": 67764,
+      "name": "Oh, You Crazy Moon - Ornithology Remix",
+      "url": "https://open.spotify.com/track/2p4S9TzGVVo6ABhlLGjGl5"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Heidrun",
         "url": "https://open.spotify.com/album/46SLNuMmAJD0lYog885M8a"
       },
@@ -547,6 +567,30 @@
       "duration_ms": 282853,
       "name": "Heidrun (2023 Remix)",
       "url": "https://open.spotify.com/track/4ZmcdD9qI3RYmWcPymv3mw"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Mu\u00f1ekita (with El Alfa & JT)",
+        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Mu\u00f1ekita (with El Alfa & JT)",
+      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -575,30 +619,6 @@
       "duration_ms": 238000,
       "name": "Mishima (Bob's Burgers Arrangement)",
       "url": "https://open.spotify.com/track/3itGRXrIxRitrsEmBHYLre"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

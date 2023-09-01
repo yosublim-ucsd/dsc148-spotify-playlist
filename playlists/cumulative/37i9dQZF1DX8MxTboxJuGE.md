@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Metallica
 
-79 songs - 5 hr 53 min
+80 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Of Wolf and Man \(Live at Maimarktgelände, Mannheim, Germany \- May 22nd, 1993\)](https://open.spotify.com/track/4qMHVSbGaLVmhluE6wig3Z) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ) | 4:16 | 2023-07-14 |  |
 | [One of Those Days \(feat\. Eric Clapton\)](https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:40 | 2023-07-14 |  |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2023-07-14 |  |
-| [Perfect](https://open.spotify.com/track/7w1MrjeuciJ1cV9cowRSum) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Perfect](https://open.spotify.com/album/7blkysSNX8xNia9WoECqWk) | 3:21 | 2023-07-14 |  |
+| [Perfect](https://open.spotify.com/track/4nxdJkLKOlsJQ1uQhxKiYk) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Welcome Home](https://open.spotify.com/album/1cWJUvXYMpNTIp7WD1aap4) | 3:21 | 2023-08-18 |  |
+| [Perfect](https://open.spotify.com/track/7w1MrjeuciJ1cV9cowRSum) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Perfect](https://open.spotify.com/album/7blkysSNX8xNia9WoECqWk) | 3:21 | 2023-07-14 | 2023-09-01 |
 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 | 2023-07-14 |  |
 | [Rock Believer](https://open.spotify.com/track/0CsORbIcXLBUVVlntpO7Q3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer](https://open.spotify.com/album/1Wx6vTc4adeBbEJgQCbZV3) | 3:57 | 2023-07-14 |  |
 | [Roots Bloody Roots \- Live; 2022 \- Remaster](https://open.spotify.com/track/2ef6CT41GcKShloWcjzb95) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Live in São Paulo \(2022 \- Remaster\)](https://open.spotify.com/album/5cEdx9cxvbEovNdTF0JK7i) | 4:34 | 2023-07-14 |  |

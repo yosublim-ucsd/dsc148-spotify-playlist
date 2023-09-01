@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "Chii",
+        "url": "https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ"
+      },
+      "artists": [
+        {
+          "name": "Shashi Bhat",
+          "url": "https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL"
+        },
+        {
+          "name": "D Rapper",
+          "url": "https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162211,
+      "name": "Chii",
+      "url": "https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV"
+    },
+    {
+      "album": {
         "name": "Chikkavanu",
         "url": "https://open.spotify.com/album/1k2G5Lz3hUVhCXSlcHKmsh"
       },
@@ -546,7 +568,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 178635,
       "name": "Chitte",
       "url": "https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2"
@@ -830,7 +852,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 272064,
       "name": "Gadda",
       "url": "https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p"
@@ -974,7 +996,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 193846,
       "name": "Hrudhaya",
       "url": "https://open.spotify.com/track/0BsTSbYtsd9heOm28EOb8G"
@@ -1100,6 +1122,28 @@
       "duration_ms": 146546,
       "name": "Idu Nammadu Gaali Neeru Usiru",
       "url": "https://open.spotify.com/track/3ggvwpKSmgktFC9uc3Rzs3"
+    },
+    {
+      "album": {
+        "name": "Independent",
+        "url": "https://open.spotify.com/album/2NP9vgIrhizhRiO9Af9utW"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "The Aura",
+          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66224,
+      "name": "Independent",
+      "url": "https://open.spotify.com/track/3cj1pBPjjahupmydOCcjEL"
     },
     {
       "album": {
@@ -1681,6 +1725,32 @@
     },
     {
       "album": {
+        "name": "Many Me",
+        "url": "https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp"
+      },
+      "artists": [
+        {
+          "name": "NUMB-URGH",
+          "url": "https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD"
+        },
+        {
+          "name": "Shastra",
+          "url": "https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34"
+        },
+        {
+          "name": "John On The Beat",
+          "url": "https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "Many Me",
+      "url": "https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ"
+    },
+    {
+      "album": {
         "name": "Matthe Meravanige",
         "url": "https://open.spotify.com/album/7fsTVJMKeGFIbXixpP2HLM"
       },
@@ -1985,6 +2055,32 @@
     },
     {
       "album": {
+        "name": "Namma Gully",
+        "url": "https://open.spotify.com/album/5XHk8FQOyCqESGu2TSmQ0D"
+      },
+      "artists": [
+        {
+          "name": "Jack Michael",
+          "url": "https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF"
+        },
+        {
+          "name": "Naguli",
+          "url": "https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ"
+        },
+        {
+          "name": "D Rapper",
+          "url": "https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116160,
+      "name": "Namma Gully",
+      "url": "https://open.spotify.com/track/7t8PVG80xVXsRpxQsEiKGU"
+    },
+    {
+      "album": {
         "name": "Namma Rasthe",
         "url": "https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7"
       },
@@ -2158,7 +2254,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 182854,
       "name": "Nav Irodh Hinge",
       "url": "https://open.spotify.com/track/1DDxP3kzCvAAJpOPkdvjv5"
@@ -2176,7 +2272,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 278479,
       "name": "Nee Nanna Jeeva",
       "url": "https://open.spotify.com/track/4n4xk4fMDCz0Vam3261app"
@@ -2610,7 +2706,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 308000,
       "name": "O Priya",
       "url": "https://open.spotify.com/track/0zM0oVvm8YBCdirTyPMAx2"
@@ -3061,6 +3157,28 @@
     },
     {
       "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/52uN6o62Z7y2cvUD3LXZyR"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "The Aura",
+          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62918,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4bOP9QVpv7oFJEgm0xmX25"
+    },
+    {
+      "album": {
         "name": "Summane (Female)",
         "url": "https://open.spotify.com/album/5YWKgzbCNTGUcDGXe48sDe"
       },
@@ -3167,6 +3285,28 @@
     },
     {
       "album": {
+        "name": "The Bengaluru Rap",
+        "url": "https://open.spotify.com/album/6RMWhzbNAT2B1sQnwrBpGe"
+      },
+      "artists": [
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "The Aura",
+          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62905,
+      "name": "The Bengaluru Rap",
+      "url": "https://open.spotify.com/track/531J3aPQNOF5MI0yq9ExwV"
+    },
+    {
+      "album": {
         "name": "Thikkane Urdoytu",
         "url": "https://open.spotify.com/album/2p04eQXEJ97HV7KevaTavL"
       },
@@ -3270,7 +3410,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 181162,
       "name": "Top Dawg (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/1h1yNag53gicTawGrxDa1v"

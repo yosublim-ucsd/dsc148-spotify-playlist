@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Amethyst",
+        "url": "https://open.spotify.com/album/5VMk8IyUX8Pf5sDw1e8Xzc"
+      },
+      "artists": [
+        {
+          "name": "Skye Saraswati",
+          "url": "https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214437,
+      "name": "Amethyst",
+      "url": "https://open.spotify.com/track/3ACNWsevsO9zXh5L4dgKR1"
+    },
+    {
+      "album": {
         "name": "Field Recordings from the Cook County Water Table",
         "url": "https://open.spotify.com/album/32zOl1bVoUW35RlXQ9sGu1"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 300706,
       "name": "Another Routine Day Breaks",
       "url": "https://open.spotify.com/track/3zgpJfyPtpX38aZUnu4peT"

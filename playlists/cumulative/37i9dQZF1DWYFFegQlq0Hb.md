@@ -4,7 +4,7 @@
 
 > TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。これまでのOP/ED曲、 <a href="spotify:show:1OApR2wyRtWRAydfmg3Vto">「呪術廻戦 じゅじゅとーく ニキ </a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
 
-183 songs - 20 hr 14 min
+185 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Little Hand](https://open.spotify.com/track/5OfbqBk23IIFBmbFPlRuT9) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 1:56 | 2023-08-04 |  |
 | [Looming Threat](https://open.spotify.com/track/5stZw6VNtqJ71vO2rr9e1c) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 2:45 | 2022-03-07 |  |
 | [LOST IN PARADISE](https://open.spotify.com/track/145wBbokDZTFZLFHOtZrzG) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 5:28 | 2022-03-07 |  |
+| [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-08-31 |  |
 | [No Hesitation](https://open.spotify.com/track/4p8lbKhuD207HQYuNLPJQ7) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [「呪術廻戦 懐玉・玉折」オリジナル・サウンドトラック](https://open.spotify.com/album/7f9fFeVpTYK7Uy59Hqxf20) | 2:59 | 2023-08-04 | 2023-08-06 |
 | [No Hesitation](https://open.spotify.com/track/79ielBF1RwIMgvBJHfOqfR) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:59 | 2023-08-04 |  |
 | [Our Fellow Sorcerers' Corpses](https://open.spotify.com/track/0qAvKfMAH7B8Mee3zbsxgc) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen Hidden Inventory/Premature Death \- Original Soundtrack](https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4) | 2:06 | 2023-08-04 |  |
@@ -94,6 +95,7 @@
 | [Self\-Embodiment Of Perfection](https://open.spotify.com/track/5uYgzNP1o6iZ4Ozk1aWMg2) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 1:52 | 2022-03-07 |  |
 | [Special Grade Vengeful Cursed Spirit : RIKA](https://open.spotify.com/track/5rDwCQnS0I67iDae2nXLH3) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [JUJUTSU KAISEN 0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/253FMfxkK33NxZq3wmlMlU) | 1:57 | 2022-03-07 |  |
 | [Special Grade Vengeful Cursed Spirit : RIKA](https://open.spotify.com/track/6SpwgxiXBuKdcoXbNwGYLe) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『劇場版 呪術廻戦 0』オリジナル・サウンドトラック](https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso) | 1:57 | 2022-03-07 | 2022-07-29 |
+| [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-08-31 |  |
 | [Straw Doll Technique Resonance](https://open.spotify.com/track/3UUMOv0BGV1QQCyoQBkpGF) | [RIN](https://open.spotify.com/artist/7AHSWTjUw8mzUDwXM3uwwP), [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 1:35 | 2022-03-07 |  |
 | [Strong And Intellgent Allies](https://open.spotify.com/track/26HTJGB1s1uPG6CMO4rLFk) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 3:22 | 2022-03-07 |  |
 | [Team Up If They Are Weak](https://open.spotify.com/track/3wPaKJClfxgzpslsVPgPBq) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [『劇場版 呪術廻戦 0』オリジナル・サウンドトラック](https://open.spotify.com/album/6y2tASCYQcNqpiiqb0tKso) | 2:07 | 2022-03-07 | 2022-07-29 |

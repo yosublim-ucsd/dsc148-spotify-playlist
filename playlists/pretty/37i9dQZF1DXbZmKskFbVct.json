@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 31981,
+  "num_followers": 31994,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmE2ZWNjNmMyOTBkOWE0OGRmNmM0MDNhMjNjNDY0M2MzNDM3NGY5",
+  "snapshot_id": "MCxkMDc4MzViNGJmMzYyNzlmYTk1NmY2NjFiNWRlNWFmNzgyNThmNDdm",
   "tracks": [
     {
       "added_at": "2023-08-24 08:58:51",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-24 08:58:51",
       "album": {
-        "name": "May I Touch You?",
-        "url": "https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw"
-      },
-      "artists": [
-        {
-          "name": "LunaRexx ASMR",
-          "url": "https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D"
-        }
-      ],
-      "duration_ms": 294500,
-      "name": "Removing Negative Energy",
-      "url": "https://open.spotify.com/track/24NTw0iCE8kjgY5BGKIqmh"
-    },
-    {
-      "added_at": "2023-08-24 08:58:51",
-      "album": {
         "name": "Russian Language Revision - Cyrillic Alphabet",
         "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 209000,
       "name": "Alphabet Revision, Pt. 1",
       "url": "https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc"
+    },
+    {
+      "added_at": "2023-08-24 08:58:51",
+      "album": {
+        "name": "May I Touch You?",
+        "url": "https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw"
+      },
+      "artists": [
+        {
+          "name": "LunaRexx ASMR",
+          "url": "https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D"
+        }
+      ],
+      "duration_ms": 294500,
+      "name": "Removing Negative Energy",
+      "url": "https://open.spotify.com/track/24NTw0iCE8kjgY5BGKIqmh"
     },
     {
       "added_at": "2023-08-24 08:58:51",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-24 08:58:51",
       "album": {
-        "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
-        "url": "https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm"
-      },
-      "artists": [
-        {
-          "name": "Dolce Romy ASMR",
-          "url": "https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
-      "url": "https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd"
-    },
-    {
-      "added_at": "2023-08-24 08:58:51",
-      "album": {
         "name": "8D ASMR - Fluffy Mic & Slow Whispering Around Your Head",
         "url": "https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 316000,
       "name": "Fluffy Mic & Slow Whispering Around Your Head, Pt. 2",
       "url": "https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1"
+    },
+    {
+      "added_at": "2023-08-24 08:58:51",
+      "album": {
+        "name": "Binaural ASMR Descriptions",
+        "url": "https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0"
+      },
+      "artists": [
+        {
+          "name": "ASMR Whisperers",
+          "url": "https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s"
+        }
+      ],
+      "duration_ms": 166335,
+      "name": "Red Candle Whisper Description",
+      "url": "https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh"
     },
     {
       "added_at": "2023-08-24 08:58:51",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-08-24 08:58:51",
       "album": {
-        "name": "Binaural ASMR Descriptions",
-        "url": "https://open.spotify.com/album/6mYajfeaMCGhviyvdaKjo0"
+        "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
+        "url": "https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm"
       },
       "artists": [
         {
-          "name": "ASMR Whisperers",
-          "url": "https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s"
+          "name": "Dolce Romy ASMR",
+          "url": "https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n"
         }
       ],
-      "duration_ms": 166335,
-      "name": "Red Candle Whisper Description",
-      "url": "https://open.spotify.com/track/3nu8DD1G3gPw3qtkzOVkdh"
+      "duration_ms": 302000,
+      "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
+      "url": "https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd"
     },
     {
       "added_at": "2023-08-24 08:58:51",

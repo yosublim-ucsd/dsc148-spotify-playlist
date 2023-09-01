@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 229007,
       "name": "Bridge Over Troubled Water - Piano Version",
       "url": "https://open.spotify.com/track/6Bhp4KBC5US8YbnIDX29kX"
@@ -6550,7 +6550,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 137650,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW"
@@ -6766,7 +6766,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 188391,
       "name": "STAY",
       "url": "https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq"
@@ -6842,6 +6842,24 @@
       "duration_ms": 157000,
       "name": "Stay With Me - Acoustic Guitar",
       "url": "https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z"
+    },
+    {
+      "album": {
+        "name": "Stayin' Alive",
+        "url": "https://open.spotify.com/album/3SwA8fVRvOmPzxqcAhEsNn"
+      },
+      "artists": [
+        {
+          "name": "Troy Mair",
+          "url": "https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163516,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/4nEKbI250iiR61MASGuFie"
     },
     {
       "album": {
@@ -8170,7 +8188,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 185690,
       "name": "We Dont talk anymore",
       "url": "https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG"

@@ -5515,6 +5515,28 @@
     },
     {
       "album": {
+        "name": "Babel",
+        "url": "https://open.spotify.com/album/6OG8YyeIHzl4CPKad32yjN"
+      },
+      "artists": [
+        {
+          "name": "El Columpio Asesino",
+          "url": "https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0"
+        },
+        {
+          "name": "Fermin Muguruza",
+          "url": "https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220822,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/4PO19uhmdFzNJIoYk0JVEm"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/078rBA6FWLfZ8G0JfmCHuC"
       },

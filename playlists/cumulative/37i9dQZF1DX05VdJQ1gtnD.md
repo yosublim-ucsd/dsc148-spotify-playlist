@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-263 songs - 12 hr 0 min
+264 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/3Eg6NOSgAuaA3wmTcvDFUI) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Sam Blakelock](https://open.spotify.com/artist/4f11jn3jO1VfqCaRPvqfsR) | [Cherry Blossom](https://open.spotify.com/album/2lIfecqavjn0OLbc1YCapM) | 1:50 | 2022-05-13 | 2023-04-28 |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2022-05-13 |  |
 | [Clouds of Gold](https://open.spotify.com/track/747EeV81arxhDn1Zv0x46S) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Clouds of Gold](https://open.spotify.com/album/5a67xZZcda2yxZLARnrRoc) | 2:18 | 2022-05-13 |  |
-| [Coiseachd](https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd) | [Maya Eden](https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS) | [Coiseachd](https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw) | 2:46 | 2022-05-13 |  |
+| [Coiseachd](https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd) | [Maya Eden](https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS) | [Coiseachd](https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw) | 2:46 | 2022-05-13 | 2023-09-01 |
 | [Come Home to Me](https://open.spotify.com/track/5R5Z0RGinJTRjzi2sveD3g) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Come Home to Me](https://open.spotify.com/album/2BzuR4tIG3gvLKsrFXwoeI) | 2:56 | 2022-05-13 |  |
 | [Come To My Window](https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Come To My Window](https://open.spotify.com/album/0E0UTRTQUYrcOpO7bZoovG) | 3:29 | 2022-05-13 | 2023-02-25 |
 | [Comin' Home](https://open.spotify.com/track/4zRT3cEjUXh715YPOYsf8D) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Comin' Home](https://open.spotify.com/album/0hTWpULZAfuqIre5Z8HyL0) | 2:57 | 2023-02-24 |  |
@@ -84,7 +84,7 @@
 | [Dunes](https://open.spotify.com/track/2D8rgpm4G1baiUk5nvKbTX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Dunes](https://open.spotify.com/album/5SGwwCl8w3ngX0BwszeQfb) | 2:20 | 2022-05-13 | 2023-02-25 |
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 |  |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-05-13 |  |
-| [Each Day](https://open.spotify.com/track/4KPECjAUTAijiQgtxAM2Cc) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/5poLSzLUYQZK75yNnjeTsu) | 2:23 | 2023-03-31 |  |
+| [Each Day](https://open.spotify.com/track/4KPECjAUTAijiQgtxAM2Cc) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/5poLSzLUYQZK75yNnjeTsu) | 2:23 | 2023-03-31 | 2023-09-01 |
 | [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 | 2022-06-17 | 2022-11-05 |
 | [Each Day](https://open.spotify.com/track/7CLYREY7ffMNOMCAJZaBIn) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/768JMosIKgm2l7PuvLg7fV) | 2:23 | 2022-10-28 | 2023-04-13 |
 | [Early Snowfall](https://open.spotify.com/track/3xBRUHnjtGgbxG6U8QxLpT) | [Gryll Duncan](https://open.spotify.com/artist/6exW0v9hpRoGOzULI6O4II) | [Early Snowfall](https://open.spotify.com/album/1eM3brZLPLlJ20jbUmEd1N) | 2:02 | 2022-11-18 | 2023-03-11 |
@@ -151,7 +151,7 @@
 | [Kona](https://open.spotify.com/track/4IQGeqgbynF5wW1AfwsvUN) | [Frederick Fried](https://open.spotify.com/artist/4c38lToOvTzqQJCfS1uNtx) | [Kona](https://open.spotify.com/album/2qaqZMgv6yVLC6XOO5hka9) | 2:59 | 2022-05-13 | 2023-04-28 |
 | [L'heure de l'harmonie](https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [L'heure de l'harmonie](https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc) | 2:19 | 2022-05-13 | 2023-08-25 |
 | [Lakeside](https://open.spotify.com/track/2Igh5u0Gj6TtitvFY2eRhB) | [Kit Degas](https://open.spotify.com/artist/4JnwupXUsT1x9UZHN6v4Ri) | [Lakeside](https://open.spotify.com/album/6Mw4gVTRoLSiY964SJDYR6) | 2:05 | 2022-05-13 |  |
-| [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 |  |
+| [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 | 2023-09-01 |
 | [Last rose of summer](https://open.spotify.com/track/1H2YnSQPwaHpCL7DwF7qS6) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Last rose of summer](https://open.spotify.com/album/338Nnd99DW3NbpDCQUZK89) | 2:28 | 2022-05-27 |  |
 | [Life of Joy](https://open.spotify.com/track/5nnB2HZH1683ya7AryXY7E) | [Nick Neon](https://open.spotify.com/artist/3xdbwxCQZIeD6AChx3aYxg) | [Life of Joy](https://open.spotify.com/album/7yDXJuDQGEobPOVq16lD6j) | 2:31 | 2022-05-13 |  |
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2022-05-13 |  |
@@ -204,8 +204,8 @@
 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 | 2023-03-11 |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2022-05-13 |  |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-05-13 |  |
-| [Santa Madre](https://open.spotify.com/track/3WKEKL2OfzvYgkbd8MEk3o) | [Jannike Gillis](https://open.spotify.com/artist/1Vpf3M1HKpHTlvisJiYbNC) | [Santa Madre](https://open.spotify.com/album/7CDWbIKXx6pv0fPHWRZMxN) | 2:42 | 2022-05-13 |  |
-| [Save your tears](https://open.spotify.com/track/7GX8jHeQheQhGdG8gwYMg7) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Save your tears](https://open.spotify.com/album/0pKAiHWoZOb4LuSq31i8cB) | 3:21 | 2022-05-13 |  |
+| [Santa Madre](https://open.spotify.com/track/3WKEKL2OfzvYgkbd8MEk3o) | [Jannike Gillis](https://open.spotify.com/artist/1Vpf3M1HKpHTlvisJiYbNC) | [Santa Madre](https://open.spotify.com/album/7CDWbIKXx6pv0fPHWRZMxN) | 2:42 | 2022-05-13 | 2023-09-01 |
+| [Save your tears](https://open.spotify.com/track/7GX8jHeQheQhGdG8gwYMg7) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Save your tears](https://open.spotify.com/album/0pKAiHWoZOb4LuSq31i8cB) | 3:21 | 2022-05-13 | 2023-09-01 |
 | [Sawdust Floors](https://open.spotify.com/track/22CshhpyS2gjbii88Rizzm) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Sawdust Floors](https://open.spotify.com/album/2cgfREGDztUfqSQoVib1Er) | 1:51 | 2023-04-28 |  |
 | [Second Wind](https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 4:05 | 2022-05-13 |  |
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-05-13 |  |
@@ -225,7 +225,7 @@
 | [Søngleikur](https://open.spotify.com/track/5BvEzwZJeL2XIvoxT2zaOD) | [Elsa Selma](https://open.spotify.com/artist/6Xah5b0b62n9ozpTFFkvMo) | [Søngleikur](https://open.spotify.com/album/3PQYhV2ozQk3olZYqlFCQL) | 3:09 | 2022-05-13 |  |
 | [Tagträumen](https://open.spotify.com/track/7hyWalK1MDzO6VNROH8pwq) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Tagträumen](https://open.spotify.com/album/7h7jVxlst3yZXbiQi9ajwo) | 2:11 | 2022-12-09 |  |
 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 | 2023-02-24 |  |
-| [TENNESSEE WHISKY](https://open.spotify.com/track/5lBoLsqUSgMSqGUBNzRcxh) | [El Mar](https://open.spotify.com/artist/4fxnolyScxkPqZc7WVxNEq) | [Tennessee Whisky](https://open.spotify.com/album/5Yo1rUTQvWftDiCJnyshF8) | 6:01 | 2023-04-28 |  |
+| [TENNESSEE WHISKY](https://open.spotify.com/track/5lBoLsqUSgMSqGUBNzRcxh) | [El Mar](https://open.spotify.com/artist/4fxnolyScxkPqZc7WVxNEq) | [Tennessee Whisky](https://open.spotify.com/album/5Yo1rUTQvWftDiCJnyshF8) | 6:01 | 2023-04-28 | 2023-09-01 |
 | [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 |  |
 | [The Bones \- Acoustic Guitar](https://open.spotify.com/track/0feIKFDxL7dsgdHZRWbdb4) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [The Bones \(Acoustic Guitar\)](https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh) | 3:39 | 2023-03-31 | 2023-06-10 |
 | [The Bones \- Acoustic Guitar](https://open.spotify.com/track/1t43AwBrCzl87i0L2G58bG) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [The Bones \(Acoustic Guitar\)](https://open.spotify.com/album/7EHVur55Mjkq7HLL1HlxNr) | 3:39 | 2022-05-13 | 2023-04-12 |
@@ -248,6 +248,7 @@
 | [Until I Found You](https://open.spotify.com/track/6qWnCncUt99WmpOBpXUQzi) | [La Casa Blanca](https://open.spotify.com/artist/0T1UalwAiqXteSiAVvT9Ve) | [Until I Found You](https://open.spotify.com/album/55WsjwM3bFunQQ6FCEjqXx) | 2:17 | 2022-12-09 |  |
 | [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 | 2022-05-13 |  |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-05-13 |  |
+| [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-05-13 |  |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2022-05-13 |  |
 | [waking up in a new world](https://open.spotify.com/track/3q0Nbk3V4XgpOXpS4IWHTJ) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 4:43 | 2022-05-13 |  |

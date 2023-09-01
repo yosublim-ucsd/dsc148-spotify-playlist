@@ -4,7 +4,7 @@
 
 > Ambient with the sound of waves for a blissful meditation.
 
-66 songs - 3 hr 13 min
+68 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 | 2023-04-28 |  |
 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2023-04-28 |  |
 | [Dreamshore](https://open.spotify.com/track/24xr3Rogq8qFmO535rFA8f) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Dreamshore](https://open.spotify.com/album/60oCI6WHpsMtZlVOyeBBeR) | 2:34 | 2023-08-11 |  |
+| [Driftwood](https://open.spotify.com/track/3cVQJRndyIwxIe3BDjUKkD) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Driftwood](https://open.spotify.com/album/2z2WkFkO85mvy8NTsdLN0I) | 2:33 | 2023-08-31 |  |
 | [Empyrean Sun](https://open.spotify.com/track/7F3hKJIuRMTXT4tvgUF1cK) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Empyrean Sun](https://open.spotify.com/album/0TUyZk4mbIJtPDOnNxsXTH) | 2:34 | 2023-04-28 |  |
 | [Endless Nights](https://open.spotify.com/track/1dh5L7YteK5UzPCrjU9Mnz) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC) | 3:09 | 2023-04-28 |  |
 | [Fishermans Village](https://open.spotify.com/track/1Xg8CzWQX1tYZ5zfx54oFM) | [Harada Mi](https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3) | [Fishermans Village](https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni) | 2:37 | 2023-08-24 |  |
@@ -72,6 +73,7 @@
 | [Waves and Sunrise](https://open.spotify.com/track/5ljOAxRKEHlR9iDH9oM9Da) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [Waves and Sunrise](https://open.spotify.com/album/2ZEaSThqcJKhfy0GoUM15E) | 1:08 | 2023-04-28 | 2023-07-29 |
 | [Waves of Daelbata](https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH) | [Eryone](https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv) | [Waves of Daelbata](https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb) | 2:48 | 2023-04-28 |  |
 | [We Are An Island \- Sound Bath](https://open.spotify.com/track/09mA3MUzL5NTM5qjXKwuu1) | [Isolde Mayer](https://open.spotify.com/artist/1hNufH9KnMW35douay0AoY) | [We Are An Island \- Sound Bath](https://open.spotify.com/album/4UG8mI1ePRLWEZ29BeU089) | 2:03 | 2023-04-28 |  |
+| [Wellness](https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs) | [Yuio Zah](https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf) | [Wellness](https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f) | 2:45 | 2023-08-31 |  |
 | [When in the sky](https://open.spotify.com/track/075XyuSjC4KXbRDnb1VpjN) | [R1B2](https://open.spotify.com/artist/4z2f4iyte0pQ71mCsjgyE2) | [When in the sky](https://open.spotify.com/album/3HellzeguCKT5pgngkMw59) | 3:30 | 2023-04-28 |  |
 | [Yesterday's Memories \(Sound Bath\)](https://open.spotify.com/track/4DwrFTkjYNfugzBVZo95Ya) | [Anezka Béla](https://open.spotify.com/artist/1ZPZamQCDWwpx2u9hBfu0W) | [Yesterday's Memories \(Sound Bath\)](https://open.spotify.com/album/4aLlnLwOjV1qtXHyTvQe7H) | 2:20 | 2023-04-28 |  |
 

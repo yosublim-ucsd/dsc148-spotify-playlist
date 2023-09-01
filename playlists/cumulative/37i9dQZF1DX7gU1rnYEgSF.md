@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-116 songs - 3 hr 50 min
+117 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Dinosaurs Lived Long Ago](https://open.spotify.com/track/55EaxdWwByTuUWx0yWZ4Zy) | [Juice Music](https://open.spotify.com/artist/1oiqHgUyH0H4EPJ8UZhUnB) | [Dinosaur Songs](https://open.spotify.com/album/7l9AkIwUIzyiJnhfogzHr6) | 1:51 | 2022-01-14 | 2022-07-29 |
 | [Dinosaurs On The Earth](https://open.spotify.com/track/4sk1P4o0fwfAxjTyrofHk2) | [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1), [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS) | [Dinosaurs On The Earth](https://open.spotify.com/album/2aTYtXpXHJlmusCycUz25p) | 2:31 | 2022-01-14 |  |
 | [Diplodocus](https://open.spotify.com/track/3IahtDw3h490pYlf4qEAPV) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Dinosaur Songs 2](https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0) | 0:51 | 2022-01-14 |  |
-| [Do the Dinosaur Stomp](https://open.spotify.com/track/1IHFP0JpPkwSnHu2qHzbY8) | [Dan and Dani](https://open.spotify.com/artist/4delqeWMRDCFJwtGHkq2aL) | [Do the Dinosaur Stomp!!](https://open.spotify.com/album/0wCuEugnQlLrAuwJ7RtJRJ) | 2:21 | 2022-01-14 |  |
+| [Do the Dinosaur Stomp](https://open.spotify.com/track/1IHFP0JpPkwSnHu2qHzbY8) | [Dan and Dani](https://open.spotify.com/artist/4delqeWMRDCFJwtGHkq2aL) | [Do the Dinosaur Stomp!!](https://open.spotify.com/album/0wCuEugnQlLrAuwJ7RtJRJ) | 2:21 | 2022-01-14 | 2023-09-01 |
+| [Do the Dinosaur Stomp](https://open.spotify.com/track/6rCMaxiENR7l3m3Vrsv2Mt) | [Dan and Dani](https://open.spotify.com/artist/4delqeWMRDCFJwtGHkq2aL) | [Do the Dinosaur Stomp!!](https://open.spotify.com/album/6wMYg2zM3u0ndxNpvSFNhZ) | 2:21 | 2023-07-28 |  |
 | [Eggs](https://open.spotify.com/track/16M3rhSB3M0cQnRYBnC5wv) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 1:15 | 2022-01-14 |  |
 | [Elasmosaurus](https://open.spotify.com/track/7bjofqDcOORj16dVlFh3xL) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Dinosaur Songs 2](https://open.spotify.com/album/2S9azc9OvXJdWfMA5h2EB0) | 1:12 | 2022-01-14 |  |
 | [Future Dinosaur](https://open.spotify.com/track/6e6qP0r6SWIOXPcuJS7QeQ) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Future Dinosaur](https://open.spotify.com/album/17923sUaKpO4osXta791hP) | 2:36 | 2022-01-14 |  |

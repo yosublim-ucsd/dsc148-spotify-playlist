@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 704313,
+  "num_followers": 704570,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWJmZTg2ZjcxNDkwM2NlZDJhMmFhNDMwMzY3MGI0NWM3NWQ2ZDIy",
+  "snapshot_id": "MCw1YTYwYzQ2NWFhMmEzZTJhMWJmZjU3MzY5YmE3NGY2NGM1MGIzYTdh",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Boots On",
+      "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "The Deana Carter Collection",
         "url": "https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 252626,
       "name": "Don't Close Your Eyes",
       "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Boots On",
-      "url": "https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1"
     },
     {
       "added_at": "2023-08-25 04:01:00",

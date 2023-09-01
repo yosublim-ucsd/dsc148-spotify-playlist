@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: Etta Marcus
+> The best in current indie rock\. Cover: Nieve Ella
 
-470 songs - 1 day 2 hr 21 min
+471 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Can't Do Anything](https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Can't Do Anything](https://open.spotify.com/album/64S1U9gVicwqHcggv5oZJx) | 2:44 | 2023-07-21 | 2023-08-20 |
 | [Can't Get In](https://open.spotify.com/track/0RTuA2AWVjFw0MURes4kse) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Can't Get In](https://open.spotify.com/album/13Ww6VJNr0lIkBQ2KAgpqB) | 2:41 | 2022-10-13 | 2023-07-22 |
 | [Can't Get In](https://open.spotify.com/track/3WvkThjf7gG0VAKAJqtSd7) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Can't Get In](https://open.spotify.com/album/0suGkSaH3iTAGptBvRrjAU) | 2:41 | 2022-09-29 | 2022-11-09 |
+| [Car Park](https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:04 | 2023-08-31 |  |
 | [Carolina Reaper](https://open.spotify.com/track/4O717610RkQp7cpTdVfmko) | [Chilli Jesson](https://open.spotify.com/artist/0P82gDbkEJK1FBV6vKZLqc) | [Carolina Reaper](https://open.spotify.com/album/6kkeTinxEaRFMyVYsOItnL) | 3:38 | 2022-11-18 | 2023-07-22 |
 | [Change Your Mind](https://open.spotify.com/track/3agQoYZHbAMl9NtAU2veIe) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Change Your Mind](https://open.spotify.com/album/1O9RHNwwlAtFh8upQY89hM) | 3:21 | 2021-03-09 | 2022-01-17 |
 | [Charlie Bronson](https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Charlie Bronson](https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN) | 3:24 | 2022-08-18 | 2022-10-07 |
@@ -291,7 +292,7 @@
 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 | 2022-08-18 | 2023-01-15 |
 | [Night Sweats \- Edit](https://open.spotify.com/track/3xC3BD4TNapP4PNOtMgTpH) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [Night Sweats \(Edit\) / SPF](https://open.spotify.com/album/4f36muAgsiBsQG1zVkRFuJ) | 2:46 | 2021-03-09 | 2022-01-17 |
 | [Nighttime](https://open.spotify.com/track/73Hh7xuXyKdBChmavyFz0b) | [Fresh](https://open.spotify.com/artist/0q2GJGveytu4IRflsL05Xg) | [Daytime / Nighttime](https://open.spotify.com/album/5ZlFbKdcEz3B8dz1i8x65B) | 2:42 | 2021-03-09 | 2022-01-17 |
-| [No](https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:36 | 2023-08-10 |  |
+| [No](https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:36 | 2023-08-10 | 2023-09-01 |
 | [No Driver](https://open.spotify.com/track/3MdmCprLdNoUQoobk2wBWw) | [The Lounge Society](https://open.spotify.com/artist/5OfZVpXzGottp1rYD73ufE) | [No Driver](https://open.spotify.com/album/3EU4oLHfxIHLnJjtUvKFaX) | 4:05 | 2022-08-18 | 2022-10-14 |
 | [No Good Woman](https://open.spotify.com/track/483wH74F4lN52Xl5cV3MJ8) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [No Good Woman](https://open.spotify.com/album/6F4PMXD34fLu1fLvP4vvx7) | 4:05 | 2022-03-10 | 2022-09-23 |
 | [No Rule](https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [No Rule](https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE) | 5:25 | 2022-11-18 | 2023-06-30 |

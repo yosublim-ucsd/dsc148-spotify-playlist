@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,671 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,927 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 49 | [Mountains \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/0HCDvbGNsigLpkzCDwpKVr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:14 |
 | 50 | [Titanium \(Megan's V3rsion\)](https://open.spotify.com/track/4DtKD1Ftxh2wfxjSdGv4g7) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Titanium \(Megan's V3rsion\)](https://open.spotify.com/album/1nFSFPGbTNi9mIRvOwspc9) | 4:03 |
 
-Snapshot ID: `MjgyMjMzMDAsMDAwMDAwMDAxYmU0MjRlYjVjNTM1OWIwM2Q1NzQ2ZWE3YWY2ZmJjOA==`
+Snapshot ID: `MjgyMjQ3NjMsMDAwMDAwMDAxZmI4NzUzYTQzZWE3ZDNiZDRjMzk4YjliY2RjNjlkMw==`

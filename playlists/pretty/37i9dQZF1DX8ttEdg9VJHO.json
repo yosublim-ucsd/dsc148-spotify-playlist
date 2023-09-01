@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 342542,
+  "num_followers": 342621,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWM2MDE5MjQxNTgxMGUxMzRmZDc1ODM2MzBmZDQ4MDBlMmU2N2Qw",
+  "snapshot_id": "MCw1YWJlNTJiMTg0OGJlMzM0MjkwNThlY2U4YWU0N2ZiYzA2MDdhODQx",
   "tracks": [
     {
       "added_at": "2023-08-10 18:23:24",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Stop the Moment (Deluxe)",
-        "url": "https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Jones",
-          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Call You Home",
-      "url": "https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "Stop the Moment (Deluxe)",
+        "url": "https://open.spotify.com/album/31up7nR5ex0xB1e3fFvmG4"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Jones",
+          "url": "https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Call You Home",
+      "url": "https://open.spotify.com/track/13fKofkr63VqPpBCwv5D1j"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "We Can Be Just Friends",
-        "url": "https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2"
-      },
-      "artists": [
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        }
-      ],
-      "duration_ms": 164135,
-      "name": "We Can Be Just Friends",
-      "url": "https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Let\u2019s Go Home Together (Luca Schreiner Remix)",
         "url": "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "We Can Be Just Friends",
+        "url": "https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "duration_ms": 164135,
+      "name": "We Can Be Just Friends",
+      "url": "https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT"
     }
   ],
   "unique_name": "Feelgood Pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: berlioz
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,366 likes - 200 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,429 likes - 200 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 66 | [Angels](https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k) | [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [David Ecker](https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx) | [Angels](https://open.spotify.com/album/2c44svxGGe3GfBT9icMZot) | 2:08 |
 | 67 | [The Pilot](https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [The Pilot](https://open.spotify.com/album/4WrzOyPrCEE9s9FVzWYhUL) | 3:06 |
 | 68 | [Roadtrip](https://open.spotify.com/track/6CgO7zdkjZAGYRBQEwW4PB) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Roadtrip](https://open.spotify.com/album/0Zwx0351xqPWkXHyN50PjF) | 3:00 |
-| 69 | [The Universe](https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [DNA](https://open.spotify.com/artist/5gozUmtTMvu0lBH00XZ8fT) | [The Universe](https://open.spotify.com/album/32nPQigQIFZJCeDbUjVydx) | 7:07 |
+| 69 | [The Universe](https://open.spotify.com/track/1a4C9ahv2nw5vcvKhnl2Z1) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [DNA](https://open.spotify.com/artist/5gozUmtTMvu0lBH00XZ8fT) | [Into The Abyss](https://open.spotify.com/album/5yiKeGdGjXnGhHDNTV342G) | 7:07 |
 | 70 | [Star People](https://open.spotify.com/track/05e1iH6Hcz8LZUFl0U3kBr) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Octavio N\. Santos](https://open.spotify.com/artist/1zLKXXVKUAPbO55p6tLJZP) | [Star People](https://open.spotify.com/album/7vdh7pMJQXFWj0EGxyghJK) | 3:02 |
 | 71 | [Om Drip](https://open.spotify.com/track/2nPFppVy5PUdxtR19dT8uZ) | [Noa Erni](https://open.spotify.com/artist/3UAIcRXORdauo0s55wNdCU), [Grégoire Pignède](https://open.spotify.com/artist/793NIRIxR2Rm9GnNecEk7y) | [Healthy Habits](https://open.spotify.com/album/5G2T3mTd4cqmFKGFDUcZsV) | 2:09 |
 | 72 | [Passenger](https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Passenger](https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF) | 2:35 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 199 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 200 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `MCwyNzliMjBiNWViMzk3OTNjNWI3YzMxMjFhNjkxMGE1N2M1NjE4Mzli`
+Snapshot ID: `MCxkZjA2YTIwMWU2MWFmOGU5OTIzY2E3MWY5MzZmMzA1YzNkYzYzMDIy`

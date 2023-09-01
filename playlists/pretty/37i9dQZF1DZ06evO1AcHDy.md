@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,989 likes - 36 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,001 likes - 36 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 35 | [This Time Last Year](https://open.spotify.com/track/6JFfDG7i6E4NPHc2WEy4CS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Time Last Year](https://open.spotify.com/album/3rqFFAiBrou6wZ9Ey5Ueog) | 2:26 |
 | 36 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
 
-Snapshot ID: `MjgyMjMzMDAsMDAwMDAwMDA4ZGM2ZmMzNDExNjc0M2EyYzIxOTY1ZjZmM2EwZWQ0Mw==`
+Snapshot ID: `MjgyMjQ3NjMsMDAwMDAwMDAyOTNkYmY4ZmI5MmU5MDZhOTBjM2Q0ZThlZGMxZmQ2OA==`

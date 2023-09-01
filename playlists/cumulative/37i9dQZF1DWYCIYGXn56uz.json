@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 161305,
       "name": "Cose Irrisolte",
       "url": "https://open.spotify.com/track/1Qce0xOIZkROcZ9WdkkolH"
@@ -1304,6 +1304,24 @@
       "duration_ms": 176603,
       "name": "Felicemente Triste",
       "url": "https://open.spotify.com/track/4rPqz2otjZ7RMfKAGBTtCB"
+    },
+    {
+      "album": {
+        "name": "Fiore Sulla Luna",
+        "url": "https://open.spotify.com/album/6Kz7JnUf9h5yqQDtt6R5Ag"
+      },
+      "artists": [
+        {
+          "name": "Federico Rossi",
+          "url": "https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147401,
+      "name": "Fiore Sulla Luna",
+      "url": "https://open.spotify.com/track/6Sinn7z9DmUQPY3oQcMKcV"
     },
     {
       "album": {
@@ -2634,6 +2652,24 @@
       "duration_ms": 193000,
       "name": "Panico",
       "url": "https://open.spotify.com/track/614dam3LpnYxlJlZAl6Kem"
+    },
+    {
+      "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "album": {

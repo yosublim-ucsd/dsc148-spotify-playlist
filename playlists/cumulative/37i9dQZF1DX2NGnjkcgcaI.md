@@ -4,7 +4,7 @@
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-65 songs - 7 hr 42 min
+67 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Concrete Dub](https://open.spotify.com/track/1eopkiDHKgx8YATy1mbrDS) | [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Morning Star EP](https://open.spotify.com/album/05MqT0TbUqEujSLRB8aF7l) | 6:28 | 2022-11-30 |  |
 | [Darkness Falls](https://open.spotify.com/track/5gmXnGeozKOzIglwa8FVyX) | [Deepchord](https://open.spotify.com/artist/45g23Apmqo2x4obM7LjmpW) | [Functional Designs](https://open.spotify.com/album/65mmHlZPWc1L3wkfWzG0n9) | 7:13 | 2023-01-10 |  |
 | [Dawn](https://open.spotify.com/track/4J5JQ3xfGZGkxa78b1x9Dn) | [Faserklang](https://open.spotify.com/artist/7iVGJlT8IYlQC9o21K77sP) | [Nu Ways](https://open.spotify.com/album/45QVsvEWNzwrE4cQiA6Lb3) | 7:32 | 2022-11-30 |  |
-| [Deep In Dub \(Zzzzra Minimal Techno Mix\)](https://open.spotify.com/track/0pfmRTCjCfZKn53A5HUPVc) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE), [Zzzzra](https://open.spotify.com/artist/0Z1HUzAek6bJBuBhz8mx0q) | [DeepLife Selection 01](https://open.spotify.com/album/6W5pFubOmnJjE2zexYlhbd) | 7:24 | 2023-02-14 |  |
+| [Deep In Dub \(Zzzzra Minimal Techno Mix\)](https://open.spotify.com/track/0pfmRTCjCfZKn53A5HUPVc) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE), [Zzzzra](https://open.spotify.com/artist/0Z1HUzAek6bJBuBhz8mx0q) | [DeepLife Selection 01](https://open.spotify.com/album/6W5pFubOmnJjE2zexYlhbd) | 7:24 | 2023-02-14 | 2023-09-01 |
 | [Deep In Dub \- Zzzzra Minimal Techno](https://open.spotify.com/track/03fF86uquiqMjstKl0oxeE) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Minimal Techhouse Journey](https://open.spotify.com/album/6LDC5NWtBgI0WsMoxUAtMg) | 7:24 | 2022-11-30 | 2023-06-28 |
+| [Deep In Dub \- Zzzzra Minimal Techno Mix](https://open.spotify.com/track/0Zv9A88noVVdqvnYLxgaGD) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Deep Delights](https://open.spotify.com/album/5njQGkcibxVhklPjb4SPnG) | 7:24 | 2023-02-14 |  |
 | [Donjon 64 \- Original Mix](https://open.spotify.com/track/7eupsoz9v0rann0SSTCHfZ) | [Zzzzra](https://open.spotify.com/artist/0Z1HUzAek6bJBuBhz8mx0q) | [Biology 004 VA](https://open.spotify.com/album/1yQ8NRBUA79qGGt3MJHezC) | 8:11 | 2022-11-30 |  |
 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 | 2022-11-30 |  |
 | [Dub Seekers](https://open.spotify.com/track/2M5lNIJiiGskmRelYftHvi) | [Coma conscience](https://open.spotify.com/artist/7tBKvZthaXQCVkOeub7FY4) | [Cascades](https://open.spotify.com/album/0VKu2h9Nmos4NcBJ4Tw4j3) | 6:48 | 2022-11-30 |  |
@@ -41,6 +42,7 @@
 | [Meteor](https://open.spotify.com/track/5aN2zNWyY6CICaU6G1hLSJ) | [Guzz \(Arg\)](https://open.spotify.com/artist/1iI9I5UokB8cWDnK5GbHBn) | [Legacy Volume 1](https://open.spotify.com/album/2FrO5t37vwxBNXgh3zguDM) | 5:20 | 2022-11-30 |  |
 | [Micromind](https://open.spotify.com/track/7qxIUYtvdoRCCOu7UVLqWh) | [Kirill Torno](https://open.spotify.com/artist/3fzaXkKQUAWyOgONnZfZSH) | [Symbiosis of Events](https://open.spotify.com/album/7AtAPPE6HCM5LJQAFNCQec) | 7:38 | 2022-11-30 |  |
 | [Mind in Motion](https://open.spotify.com/track/6sjXcGBcXcs5qoroNsRnaR) | [Davor Tosovic](https://open.spotify.com/artist/2sEyw8K0FUXGhspCR3HUDQ) | [Meditation Chamber](https://open.spotify.com/album/7u32iJ0iK8OvCeMQ0IOYKT) | 5:24 | 2022-11-30 |  |
+| [Mode](https://open.spotify.com/track/0q0S5pVGXPGBFzOxOf4rGc) | [Zoye](https://open.spotify.com/artist/66YUxzUWrBn5EExqg4c0Tj) | [Mode](https://open.spotify.com/album/7b0QZnWhLLa20wscn5gGIc) | 3:10 | 2023-08-30 |  |
 | [Moonset](https://open.spotify.com/track/1cgpMjmixinncr9eAraY8l) | [Lapien](https://open.spotify.com/artist/4ltbchh24s4TPS7IwZhUEC) | [Brumal EP](https://open.spotify.com/album/2y8PYXClszXn8o82BdnSYG) | 8:05 | 2022-11-30 |  |
 | [Musica para Estar](https://open.spotify.com/track/6GzKX6AUnd3hPDSBSWwAzu) | [Alexander Bogdanov](https://open.spotify.com/artist/4RIUvvnTUaBzxzSx5A5fRx) | [Blessed Love](https://open.spotify.com/album/1n0uYZmk8gXuRF9dZBD1cE) | 8:43 | 2022-11-30 |  |
 | [Narcotic N.I.C.](https://open.spotify.com/track/2i0GcL3BDjThVxsTE1IjkZ) | [Ignition Coil](https://open.spotify.com/artist/28CiLaWdJ3UEdfYEGxGie8) | [The Trip Of Mind](https://open.spotify.com/album/7p9Wa5kuEYNa6n7ZNdH1VN) | 8:02 | 2023-01-10 |  |

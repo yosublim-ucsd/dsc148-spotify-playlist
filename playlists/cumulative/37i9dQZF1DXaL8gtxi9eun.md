@@ -2,7 +2,7 @@
 
 ### [Fresh Arabic Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Stay up to date with the freshest Arabic Pop Songs\. Cover: <a href="https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o?si=BmfhumH5RbaVjV3bN5t8XQ"> Elissa </a>
+> Stay up to date with the freshest Arabic Pop Songs\. Cover: Elissa
 
 246 songs - 14 hr 54 min
 

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-739 songs - 1 day 13 hr 7 min
+740 songs - 1 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
 | [Dalga](https://open.spotify.com/track/3P0WmQXWzV3yqFyfgVolrT) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dalga](https://open.spotify.com/album/1xAhqFShLFhO65ut0iiQxU) | 2:05 | 2021-09-18 | 2022-04-13 |
 | [Dalga \- Emre Terzioğlu Remix](https://open.spotify.com/track/6Fri3yOIEBWJLVwlniBEQ1) | [Emre Terzioğlu](https://open.spotify.com/artist/5yiOnnmXLyko6TKdHCrtQz) | [Dalga \(Emre Terzioğlu Remix\)](https://open.spotify.com/album/1E7n6INLCRSqlOv3fckmmB) | 2:08 | 2021-09-21 | 2021-09-22 |
-| [DAMLA](https://open.spotify.com/track/1HPYGaSGPzz1QVnjCffc1f) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 3:04 | 2023-06-17 |  |
+| [DAMLA](https://open.spotify.com/track/1HPYGaSGPzz1QVnjCffc1f) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 3:04 | 2023-06-17 | 2023-09-01 |
 | [dans](https://open.spotify.com/track/4O0ciydImtiS58qOIxCSIi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [dans](https://open.spotify.com/album/5UJwyR8nHYEo8CPSLeUU4f) | 2:19 | 2021-06-20 | 2021-07-09 |
 | [Darlama Baby](https://open.spotify.com/track/6V7N0yoUwO07XljMY92brA) | [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA), [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1), [Ravend](https://open.spotify.com/artist/0HYSrLdpldAsePdvuhxSLx) | [Darlama Baby](https://open.spotify.com/album/2I5ZbWkidkjfnJ9gUUX2FQ) | 2:03 | 2022-07-23 | 2022-07-28 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-08 | 2022-01-10 |
@@ -523,6 +523,7 @@
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
 | [Padişah](https://open.spotify.com/track/7859Rvo6wXeImidBRL2dUZ) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG) | [Bu Devirde](https://open.spotify.com/album/0cPDRCMFqgs0CFVaUyxCGt) | 3:52 | 2023-05-14 | 2023-05-31 |
 | [Padişahım](https://open.spotify.com/track/3X7Iy2X4NRbb8gbDYb2xVq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Padişahım](https://open.spotify.com/album/1ZWb1817n5EoBpgjTkCi4S) | 2:33 | 2023-05-11 | 2023-06-03 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-31 |  |
 | [Papa Rose](https://open.spotify.com/track/38CwybVk0CqbTovp3aWtEZ) | [Clower](https://open.spotify.com/artist/0AnmijrLwTOeEp0DqafMr6) | [Papa Rose](https://open.spotify.com/album/1lHssSEP0HCgDZ4lYED9Wg) | 2:28 | 2022-01-30 | 2022-03-05 |
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 | 2022-12-12 |
 | [Papatya](https://open.spotify.com/track/47U5AMz7woJyKLHxS0O2ls) | [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Papatya](https://open.spotify.com/album/1xN56GvfzfZVJOTJzuUp18) | 2:13 | 2023-01-24 | 2023-01-29 |

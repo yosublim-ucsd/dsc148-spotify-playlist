@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-132 songs - 7 hr 27 min
+133 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [cool](https://open.spotify.com/track/14jT3UbIxuy5QKXy2MSh4u) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [BREAK THE CURSE](https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO) | 3:53 | 2023-02-23 | 2023-06-02 |
 | [Dancing On the Other Side \- Kraak & Smaak Remix](https://open.spotify.com/track/3RLjQ2GvQrXftXOPlcu8mV) | [The George Kaplan Conspiracy](https://open.spotify.com/artist/1oghnjbVNJIYKnNhV3Y5cR), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Dancing On the Other Side \(Kraak & Smaak Remix\)](https://open.spotify.com/album/7J2Bm1IBOnzGVtbXTTx9kr) | 4:07 | 2023-02-23 | 2023-05-12 |
 | [Danger](https://open.spotify.com/track/4ndEVf5VBLF6R50eitmnNz) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [yellow](https://open.spotify.com/album/50Y39nbwJtXuUjxVleLJfK) | 3:24 | 2023-04-04 | 2023-05-13 |
+| [Dark Imagination](https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 2:59 | 2023-08-31 |  |
 | [Dauw](https://open.spotify.com/track/1OkEUObkgoryzHRR29Zq2t) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Dauw](https://open.spotify.com/album/3XWGHJ9EcBq1MliY4ZBPZO) | 3:30 | 2023-04-27 |  |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2023-02-23 | 2023-06-02 |
 | [Deadline](https://open.spotify.com/track/76pUPMbmu0ENmuAiaTPvIq) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [This Is This](https://open.spotify.com/album/4VhsCxjH2URMz5tmiFB4oz) | 3:38 | 2023-02-23 | 2023-03-03 |
@@ -130,7 +131,7 @@
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2023-02-23 | 2023-04-28 |
 | [The Lazer](https://open.spotify.com/track/769PAogOgq1KurfwLjWj2J) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Big Love Blanket](https://open.spotify.com/album/10QMlGEBzkHyyaJJbaThOV) | 3:51 | 2023-02-23 |  |
 | [The One Who Got Away](https://open.spotify.com/track/27zXvbbu2w8EOrz9BkJLoD) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [The One Who Got Away](https://open.spotify.com/album/6yOlZtyWEvZEqgdpQspgvR) | 3:42 | 2023-04-04 | 2023-04-14 |
-| [There's No Sex Without You](https://open.spotify.com/track/2cfOAWMV00SWB3Eb6IzqPg) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [There's No Sex Without You](https://open.spotify.com/album/6xOIfNMXygK06HrfHt9HEz) | 3:38 | 2023-06-09 |  |
+| [There's No Sex Without You](https://open.spotify.com/track/2cfOAWMV00SWB3Eb6IzqPg) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [There's No Sex Without You](https://open.spotify.com/album/6xOIfNMXygK06HrfHt9HEz) | 3:38 | 2023-06-09 | 2023-09-01 |
 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6GBY5tHb2U39hYDGjrpQ0Y) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/album/51uooEnqVtqGx2K0lscvqr) | 2:54 | 2023-05-11 |  |
 | [tnght](https://open.spotify.com/track/0NsyX6CQK6DHIDcAaJSDNc) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [tnght](https://open.spotify.com/album/2PoqShlVwFJZYajERLXzAe) | 3:27 | 2023-02-23 | 2023-04-28 |
 | [To The Floor](https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [To The Floor](https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp) | 3:09 | 2023-02-23 |  |

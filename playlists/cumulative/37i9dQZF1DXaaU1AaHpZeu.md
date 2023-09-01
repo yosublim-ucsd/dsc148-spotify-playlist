@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: LOUTA & Elsa y Elmar.
 
-2,873 songs - 6 day 16 hr 25 min
+2,874 songs - 6 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 | 2022-10-21 | 2022-10-29 |
 | [Aún me acuerdo de todo](https://open.spotify.com/track/0gPaWexkeyQgZTqDU3r4Sc) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Aún me acuerdo de todo](https://open.spotify.com/album/1qFxFtT79LrvdLhY5Denik) | 3:37 | 2023-05-19 | 2023-05-27 |
 | [B.F.F.](https://open.spotify.com/track/1U7lVQMoSRIFDvK23LmiTE) | [Alien Tango](https://open.spotify.com/artist/7tmmsYFyEytK0nqP3BQfxg) | [B.F.F.](https://open.spotify.com/album/605UPDdBIAls7YUUVjAOgC) | 3:26 | 2023-01-27 | 2023-02-04 |
+| [Babel](https://open.spotify.com/track/4PO19uhmdFzNJIoYk0JVEm) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Babel](https://open.spotify.com/album/6OG8YyeIHzl4CPKad32yjN) | 3:40 | 2023-08-25 |  |
 | [Baby](https://open.spotify.com/track/6ZbSZ4p0U64DJgJZTnZS3E) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [Baby](https://open.spotify.com/album/078rBA6FWLfZ8G0JfmCHuC) | 3:15 | 2023-06-09 | 2023-06-17 |
 | [Baby Don't You Love Me \- Bonus Track](https://open.spotify.com/track/59Tnq0bVlPkMtHt3m35XgL) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj), [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5) | [Ghost In The Machine](https://open.spotify.com/album/5DB06kLqIbFneddTadfbGH) | 3:06 | 2022-09-02 | 2022-09-10 |
 | [Baby no te olvides de mí](https://open.spotify.com/track/7sVvd01br3sUgkR6hQzLLY) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Shadowmen from Mars](https://open.spotify.com/artist/5uWkLfO57GNqu80NtQji0x) | [Baby no te olvides de mí](https://open.spotify.com/album/7IvLXB5m3XQJBTfbRk3dUf) | 3:30 | 2022-11-11 | 2022-11-19 |

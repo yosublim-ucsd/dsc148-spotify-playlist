@@ -4,11 +4,12 @@
 
 > Las mejores canciones de la reina del pop argentino.
 
-67 songs - 3 hr 34 min
+69 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Grados \(feat\. A.CHAL\)](https://open.spotify.com/track/28XvT0F0E4sVamI6JRVnmU) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:24 | 2023-03-13 |  |
+| [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-01 |  |
 | [2 Son 3](https://open.spotify.com/track/3RtZm3Mww2sge6Lds2Sthy) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:45 | 2023-04-20 |  |
 | [2 Son 3](https://open.spotify.com/track/4kxj9KZS04HYOdJOgawFTT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [2 Son 3](https://open.spotify.com/album/2cUzWOspLcV5jj7lBuO51G) | 2:45 | 2023-03-13 | 2023-04-21 |
 | [A Bailar](https://open.spotify.com/track/6Ue6QQzRl3HzWZdZx88IJF) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Bailar \(Versión Bonus\)](https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK) | 2:48 | 2023-03-13 |  |
@@ -20,7 +21,7 @@
 | [Boomerang](https://open.spotify.com/track/3s1WVs0g8pUZEjOZyY0lHD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Soy](https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF) | 4:16 | 2023-03-13 |  |
 | [Caliente \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/75V0RdaCFKsQZX91mI9AD3) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:12 | 2023-03-13 |  |
 | [Como Así \(feat\. CNCO\)](https://open.spotify.com/track/5hoIOyMDt2cQx6DU0UyiBj) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Como Así \(feat\. CNCO\)](https://open.spotify.com/album/6LYy00ZQOKwxjCDGQY442J) | 3:04 | 2023-03-13 |  |
-| [Como Tú](https://open.spotify.com/track/1nC3XXneEcPbQXPjFAc1zT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Como Tú](https://open.spotify.com/album/1iQXKHgwIP2jttVdHkRRqD) | 2:46 | 2023-03-13 |  |
+| [Como Tú](https://open.spotify.com/track/1nC3XXneEcPbQXPjFAc1zT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Como Tú](https://open.spotify.com/album/1iQXKHgwIP2jttVdHkRRqD) | 2:46 | 2023-03-13 | 2023-09-01 |
 | [Como Tú](https://open.spotify.com/track/6Dfda19q5qFVjdlGpBlgNG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:46 | 2023-04-20 |  |
 | [Cree en Mí](https://open.spotify.com/track/2ftsDDhnYzAVol9W5lDtlY) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Soy](https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF) | 3:53 | 2023-03-13 |  |
 | [Cómo Haremos](https://open.spotify.com/track/5WVM6kT7N4Yj1ElYDlHc0m) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Esperanza Mía \(Banda Original de Sonido\)](https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W) | 2:57 | 2023-03-13 |  |
@@ -31,7 +32,7 @@
 | [Disciplina](https://open.spotify.com/track/5VmevlHJrUiQZ29JzpfZB5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:37 | 2023-04-20 |  |
 | [Disparos](https://open.spotify.com/track/1MXjqEXbTecoUcpJplUWuY) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [El Amor en Mi Vida](https://open.spotify.com/album/3wxazAm6J5TaVwp7oWS7xg) | 3:28 | 2023-03-13 |  |
 | [Diva](https://open.spotify.com/track/4NdrK1Dpit0l6BT35h6Cmd) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:06 | 2023-04-20 |  |
-| [Diva](https://open.spotify.com/track/4QVmV6QHriSb4TkaxvTuZm) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Diva](https://open.spotify.com/album/56gWk6z0ms5UVpKiHpQQO0) | 3:06 | 2023-03-13 |  |
+| [Diva](https://open.spotify.com/track/4QVmV6QHriSb4TkaxvTuZm) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Diva](https://open.spotify.com/album/56gWk6z0ms5UVpKiHpQQO0) | 3:06 | 2023-03-13 | 2023-09-01 |
 | [Eclipse](https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:03 | 2023-03-13 |  |
 | [Ego](https://open.spotify.com/track/27xe7DYBq1xD5LIfkIrpAj) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Soy](https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF) | 3:51 | 2023-03-13 |  |
 | [Enredaos](https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Libra](https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV) | 3:12 | 2023-03-13 |  |
@@ -75,5 +76,6 @@
 | [Una Na](https://open.spotify.com/track/02N1QgHlAaV8BWY3Mgc6lR) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:46 | 2023-03-13 |  |
 | [Unico](https://open.spotify.com/track/2MqAiDDrTTNYQFjfUMNru2) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Soy](https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF) | 3:42 | 2023-03-13 |  |
 | [Vuelve a Mi](https://open.spotify.com/track/6lRE7UoLBqTGuItDLjL40P) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 4:14 | 2023-03-13 |  |
+| [Yegua](https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:43 | 2023-09-01 |  |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

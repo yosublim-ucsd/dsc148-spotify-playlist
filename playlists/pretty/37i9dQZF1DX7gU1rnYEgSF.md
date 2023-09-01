@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,245 likes - 94 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,249 likes - 94 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 71 | [Dinosaur Bones](https://open.spotify.com/track/1cHMpmuOIKGLTq9cPO22Vm) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:19 |
 | 72 | [Dinosaur Detective](https://open.spotify.com/track/0A3q7zqwx8fhhSdSN2IW4M) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 1:03 |
 | 73 | [Let's Sing About Dinosaurs](https://open.spotify.com/track/6Gs7Cv18lX5p2ebusnbO0D) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 2:55 |
-| 74 | [Do the Dinosaur Stomp](https://open.spotify.com/track/1IHFP0JpPkwSnHu2qHzbY8) | [Dan and Dani](https://open.spotify.com/artist/4delqeWMRDCFJwtGHkq2aL) | [Do the Dinosaur Stomp!!](https://open.spotify.com/album/0wCuEugnQlLrAuwJ7RtJRJ) | 2:21 |
+| 74 | [Do the Dinosaur Stomp](https://open.spotify.com/track/6rCMaxiENR7l3m3Vrsv2Mt) | [Dan and Dani](https://open.spotify.com/artist/4delqeWMRDCFJwtGHkq2aL) | [Do the Dinosaur Stomp!!](https://open.spotify.com/album/6wMYg2zM3u0ndxNpvSFNhZ) | 2:21 |
 | 75 | [Eggs](https://open.spotify.com/track/16M3rhSB3M0cQnRYBnC5wv) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 1:15 |
 | 76 | [Dino Rap](https://open.spotify.com/track/7keBoSqDEfhfTCqW7BzWzw) | [The Kerplunks](https://open.spotify.com/artist/1FtSjJqBHqIdhB4jW1E7Hy) | [Walk On](https://open.spotify.com/album/7C4z3FagwSJYuoBSMJ9T86) | 2:03 |
 | 77 | [Big, Bigger, Biggest](https://open.spotify.com/track/7dq82eB7J5gLBoxf4dl4zK) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing Dinosaurs](https://open.spotify.com/album/3CtjxdVm5LRDEPMSi6EzR1) | 0:52 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 | 93 | [Brachiosaurus Song](https://open.spotify.com/track/3uJmMKTwR7dK9tfBPgik2N) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 1:30 |
 | 94 | [Stack up the Dinosaurs](https://open.spotify.com/track/7vHTkPmEceEaARz6JWZGuw) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Dinosaur Songs](https://open.spotify.com/album/1D38NNP8GnoD4ft4dTtLVt) | 3:23 |
 
-Snapshot ID: `MCwzYTVmNTgxNDc2NThhNzhlYmQ5NWQ2ZWUyZDEzYzdmMzNlNDE3NWNl`
+Snapshot ID: `MCxhNmUzYjE3ZGI3YjQyNjNlZWE1NzY5MzRlMzcwODE2OTM2YTMwYWNj`

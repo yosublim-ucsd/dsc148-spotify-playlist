@@ -5221,6 +5221,24 @@
     },
     {
       "album": {
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+    },
+    {
+      "album": {
         "name": "more<STRONGLY",
         "url": "https://open.spotify.com/album/2b53se6W2pO6rMbQ0OkSao"
       },
@@ -5792,7 +5810,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 186653,
       "name": "No Frontier",
       "url": "https://open.spotify.com/track/2zvNBZs38WZuQ1SgKdeKFk"
@@ -6864,7 +6882,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 89000,
       "name": "RVR\uff5e\u30e9\u30a4\u30b8\u30f3\u30b0\u30dc\u30eb\u30c6\u30c3\u30ab\u30fc\u30ba\u30e9\u30c3\u30d7\uff5e - \u30e2\u30ea\u30fcVer.",
       "url": "https://open.spotify.com/track/17DKh6A3l3WlRSBy10TGf9"
@@ -7486,6 +7504,24 @@
       "duration_ms": 165253,
       "name": "Speak Out meets Giga",
       "url": "https://open.spotify.com/track/2lEO1KZiyh5gsSM10H2q4o"
+    },
+    {
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
       "album": {

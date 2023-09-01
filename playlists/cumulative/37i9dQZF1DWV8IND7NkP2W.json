@@ -6950,7 +6950,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 201842,
       "name": "MORAL",
       "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
@@ -8594,6 +8594,28 @@
       "duration_ms": 121364,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/7EK6RTprVGNtPYaMfKsTiP"
+    },
+    {
+      "album": {
+        "name": "Rainbowtime \u306e\u5c11\u5e74",
+        "url": "https://open.spotify.com/album/5xDJyL2yCMHRnIYtkmHLws"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149735,
+      "name": "Rainbowtime \u306e\u5c11\u5e74",
+      "url": "https://open.spotify.com/track/0xenlRTiDOY6tXRRwQYCcF"
     },
     {
       "album": {

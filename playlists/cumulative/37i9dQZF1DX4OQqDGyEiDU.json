@@ -1593,6 +1593,32 @@
     },
     {
       "album": {
+        "name": "Little Missing Stars",
+        "url": "https://open.spotify.com/album/5FnbGWTBIkt2AYmLByUcb2"
+      },
+      "artists": [
+        {
+          "name": "sasanomaly",
+          "url": "https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ"
+        },
+        {
+          "name": "\u306d\u3053\u307c\u30fc\u308d",
+          "url": "https://open.spotify.com/artist/4Mr4f8YE9e2ERokwhi4D96"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256428,
+      "name": "Little Missing Stars",
+      "url": "https://open.spotify.com/track/6kabY8TRpc1B7NA8bSqY0J"
+    },
+    {
+      "album": {
         "name": "ANTICYCLONE",
         "url": "https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB"
       },
@@ -8008,7 +8034,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 308967,
       "name": "\u591c\u660e\u3051\u3068\u86cd",
       "url": "https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng"

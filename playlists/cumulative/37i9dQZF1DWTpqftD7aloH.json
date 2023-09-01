@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 332906,
       "name": "Faz Chover - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1KgGFjOWKzSwiCVYBVVojm"
@@ -1708,6 +1708,24 @@
       "duration_ms": 182971,
       "name": "Into the Sea (It's Gonna Be Ok)",
       "url": "https://open.spotify.com/track/5FaPm68gcR4gI7RyqE4O6g"
+    },
+    {
+      "album": {
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379514,
+      "name": "Jeov\u00e1 - Live",
+      "url": "https://open.spotify.com/track/65vz0dGp7fzWp9nXN1COS5"
     },
     {
       "album": {

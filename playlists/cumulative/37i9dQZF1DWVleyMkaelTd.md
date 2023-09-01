@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-155 songs - 9 hr 53 min
+156 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [When Autumn Calls](https://open.spotify.com/track/5fYdYTmBkY1KaxnIyVLW2x) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 3:32 | 2022-04-26 | 2022-10-14 |
 | [Woodblock Print](https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Green Grapes](https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ) | 3:44 | 2022-04-26 |  |
 | [You Fascinate Me So](https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU) | [Pablo Ilanda Trio](https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON) | [You Fascinate Me So](https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW) | 3:59 | 2023-01-26 |  |
+| [Your Laugh](https://open.spotify.com/track/1AGKMyRXRV6io3TLzgioVL) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Your Laugh](https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL) | 4:22 | 2023-08-31 |  |
 | [Águas Do Passado](https://open.spotify.com/track/6ulw6HXEydYkLMsVGmXJ5w) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Águas Do Passado](https://open.spotify.com/album/62Xpg12xzDi7g9q7Hyf0zp) | 2:22 | 2023-03-08 |  |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

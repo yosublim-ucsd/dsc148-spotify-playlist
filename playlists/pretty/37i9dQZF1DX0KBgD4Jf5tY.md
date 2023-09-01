@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0Ys2AuB4wwgGpHxZSSKvZB">pablo murphy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,237 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,242 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 40 | [mostri lovers](https://open.spotify.com/track/4Cfmb6VYYsGuigxl0sqAoJ) | [Ga](https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj) | [mostri lovers](https://open.spotify.com/album/1UYOUC7DmoaOwTsbHzzObL) | 2:58 |
 | 41 | [in un secondo](https://open.spotify.com/track/6YzFWwCEuFrohOrYHr7UI5) | [2802](https://open.spotify.com/artist/1wGqWC44yC1hYxWBnyY2Us) | [in un secondo](https://open.spotify.com/album/3Inl0YP3dhkUv8B7F9nBT7) | 2:40 |
 | 42 | [Santa Maria](https://open.spotify.com/track/154viKPI9dg50ZDjvFUu3M) | [Vittorio Poli](https://open.spotify.com/artist/2dLfRIvwHEefLqMTWb7A0Q) | [Santa Maria](https://open.spotify.com/album/6T6j2F4LRMNPKYS4cop214) | 2:52 |
-| 43 | [Male](https://open.spotify.com/track/2uW5uO0uOuly4Jn4T9Xv8v) | [Andrea](https://open.spotify.com/artist/5hoHPh2iO6uIHVqhD4SJzr) | [Male](https://open.spotify.com/album/2q5hLTg82PQD4yYgM0hlOw) | 2:48 |
+| 43 | [Male](https://open.spotify.com/track/2uW5uO0uOuly4Jn4T9Xv8v) | [Andreea](https://open.spotify.com/artist/6SaD4UwswHOTQuWkvzffaw) | [Male](https://open.spotify.com/album/2q5hLTg82PQD4yYgM0hlOw) | 2:48 |
 | 44 | [IRSB](https://open.spotify.com/track/7atwRZgIdrIKUF5LqRrRNE) | [DIRTY SÖCKS](https://open.spotify.com/artist/3xImYOasFmUbn3ngECT1fI) | [I RAGAZZI STANNO BENE](https://open.spotify.com/album/3oZ7hp7zsXsKhdPTmXjW4g) | 3:19 |
 | 45 | [Non piangere](https://open.spotify.com/track/5SPQJsSBOJ4Y99MJRvVjAj) | [Gegenhalt](https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT), [AKA5HA](https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf) | [Non piangere](https://open.spotify.com/album/3T7XAGUrGzV3WINM5DknLK) | 3:33 |
 | 46 | [Un'ultima volta](https://open.spotify.com/track/6APltncZA6JmfSPzn7muYC) | [Giulia Malavasi](https://open.spotify.com/artist/0Hx96SC5Ez0TKdTJy5WT5L) | [Un'ultima volta](https://open.spotify.com/album/1kIOAbNkYEVjcMa3DES5Xw) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Ultima Volta](https://open.spotify.com/track/2JmznHCl5H3yxPy0djtb7L) | [Sunken](https://open.spotify.com/artist/167oxjyR82Rs8XinJirzvm), [K beezy 28](https://open.spotify.com/artist/5SbWJnRRbZQU024VlOPWly) | [Ultima Volta](https://open.spotify.com/album/48bb7vDwxbvadcnpR5gRt2) | 3:29 |
 | 50 | [quando ci sarà il sole](https://open.spotify.com/track/4Cyo9YFjvKOpfM14gw1GEY) | [Amdrea\(\-.\-\)](https://open.spotify.com/artist/1mPh5zrftjcjmBE3RYvRZ6), [Jiri](https://open.spotify.com/artist/5i5K0P6QOlVp04wgku2ve7) | [quando ci sarà il sole](https://open.spotify.com/album/4uI0dbZa6S6Ag63vaKgO7K) | 2:30 |
 
-Snapshot ID: `MCxhODE4YjlhMzE0MjBhZmZjMTJmOWFkZTU3MTMwYTkwZGI4OGFhMTFj`
+Snapshot ID: `MCwxNzMzMGIxMDFmNDU5NDdmMGE4YzNhYjIyYTI3ODI5YTVhNDQ0NjE1`

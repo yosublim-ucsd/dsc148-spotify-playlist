@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. MPH",
-  "num_followers": 197910,
+  "num_followers": 197943,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDUyM2Q1OWE1YjE0Mjk0MGYwYjEwMjZjMmUzMjdkY2JmMTU0MGJj",
+  "snapshot_id": "MCw3MDkxMGIwZDdjN2M3MTY5MTk5NTU3ODIyYTZiMmVlNGFlNjg5NjM5",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
+        "name": "Get Mad",
+        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "Get Mad",
+      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
         "name": "Icon",
         "url": "https://open.spotify.com/album/7bwEAWHPjQrk6Qr3fdg2En"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 157500,
       "name": "Icon",
       "url": "https://open.spotify.com/track/6lHkU1xFBcjMVXeqDscSh7"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Get Mad",
-        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "Get Mad",
-      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "B22s",
-        "url": "https://open.spotify.com/album/5DdSHU4JHlD0d5Rk6Rhl8A"
+        "name": "Faith In Chaos",
+        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
       "artists": [
         {
-          "name": "S Dog",
-          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
         },
         {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
         }
       ],
-      "duration_ms": 152250,
-      "name": "B22s",
-      "url": "https://open.spotify.com/track/5LhxBJEa3bWhcrnyiF7qmv"
+      "duration_ms": 221024,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Faith In Chaos",
-        "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
+        "name": "B22s",
+        "url": "https://open.spotify.com/album/5DdSHU4JHlD0d5Rk6Rhl8A"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "S Dog",
+          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
         },
         {
-          "name": "Window Kid",
-          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
         }
       ],
-      "duration_ms": 221024,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
+      "duration_ms": 152250,
+      "name": "B22s",
+      "url": "https://open.spotify.com/track/5LhxBJEa3bWhcrnyiF7qmv"
     },
     {
       "added_at": "2023-08-24 23:00:00",

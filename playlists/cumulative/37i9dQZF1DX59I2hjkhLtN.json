@@ -897,6 +897,36 @@
     },
     {
       "album": {
+        "name": "BAAD",
+        "url": "https://open.spotify.com/album/2HoyNHU5VUPAO8jqfI8rZh"
+      },
+      "artists": [
+        {
+          "name": "Tieijci",
+          "url": "https://open.spotify.com/artist/4anxxxE3Dilg7ugHS6plnH"
+        },
+        {
+          "name": "DX",
+          "url": "https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR"
+        },
+        {
+          "name": "Vilson",
+          "url": "https://open.spotify.com/artist/5YwInsOFbiSVNJYz9wFVys"
+        },
+        {
+          "name": "B I L L Y G",
+          "url": "https://open.spotify.com/artist/2Mpw0nGvpyFqhdqdhNPFsg"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148712,
+      "name": "BAAD",
+      "url": "https://open.spotify.com/track/0JMnwQXCgUtEUNtrXkCdgW"
+    },
+    {
+      "album": {
         "name": "Babar os Nike",
         "url": "https://open.spotify.com/album/5PmwRNlPlI8PNKX9SRnGsB"
       },
@@ -1014,6 +1044,24 @@
       "duration_ms": 159394,
       "name": "BAD",
       "url": "https://open.spotify.com/track/7eavXubalNqQjOGnvDneKp"
+    },
+    {
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/2pKaZwtqO4RJ9svVa83fQl"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE EMERSON",
+          "url": "https://open.spotify.com/artist/75Eo04JwW305jlJMfIlwKb"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/6lUYFt2jzyzCDIwoFbmAud"
     },
     {
       "album": {
@@ -1162,7 +1210,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 139137,
       "name": "BAMBA",
       "url": "https://open.spotify.com/track/5Vmf7Xb13j57RqKgk1VrGU"
@@ -1733,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "Cima Favela",
+        "url": "https://open.spotify.com/album/1MuVGDebeM6n2s0FuVUvcK"
+      },
+      "artists": [
+        {
+          "name": "Nicholas",
+          "url": "https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "Cima Favela",
+      "url": "https://open.spotify.com/track/4jywdVdJvrKrAdN9OyaAWW"
+    },
+    {
+      "album": {
         "name": "City",
         "url": "https://open.spotify.com/album/09iif3XxLDwBr1JqaFUEeD"
       },
@@ -1802,7 +1868,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 184687,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5XZWJb74SsAWZynDHgmiOQ"
@@ -2900,7 +2966,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 229113,
       "name": "Em v\u00e3o",
       "url": "https://open.spotify.com/track/3uDXB86v7B4e3Y3fwOTKLq"
@@ -2966,7 +3032,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 186500,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6C9nYdUeK4IYjgs2GHmSfb"
@@ -5117,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "Lealdade (feat.G West SG)",
+        "url": "https://open.spotify.com/album/7w1h7MqTHn8EYqrECBN6LM"
+      },
+      "artists": [
+        {
+          "name": "Migas49",
+          "url": "https://open.spotify.com/artist/6Hnrgc0O4rl4opKBup4reu"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200420,
+      "name": "Lealdade (feat.G West SG)",
+      "url": "https://open.spotify.com/track/2ex3z3idQCkmkk5zW5UfdP"
+    },
+    {
+      "album": {
         "name": "Lei de Atra\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0MaZCPsES1Jd0lmAdReH8m"
       },
@@ -6170,7 +6254,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 179998,
       "name": "Money",
       "url": "https://open.spotify.com/track/74uWAUOsc6HC3aPsiTd4gz"
@@ -8097,6 +8181,28 @@
     },
     {
       "album": {
+        "name": "Piquete",
+        "url": "https://open.spotify.com/album/7gdt8zM2uVJoRj5jIIXUZ1"
+      },
+      "artists": [
+        {
+          "name": "DJ Elly Chuva",
+          "url": "https://open.spotify.com/artist/2adJx6rZZSnspvzNpnTBPS"
+        },
+        {
+          "name": "S\u00e9ketxe",
+          "url": "https://open.spotify.com/artist/1llbEdnZfbxmlXqrF6A2rW"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188424,
+      "name": "Piquete",
+      "url": "https://open.spotify.com/track/0wWmVsEX8dZXyj6B3XClMg"
+    },
+    {
+      "album": {
         "name": "Pista",
         "url": "https://open.spotify.com/album/3LgMjN0E4FrYAni7H1j9xY"
       },
@@ -8268,7 +8374,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 183797,
       "name": "Preso na vibe",
       "url": "https://open.spotify.com/track/1roTxzWvgAARQgZ9cBQqU4"
@@ -10400,6 +10506,28 @@
       "duration_ms": 195056,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4JYrtfqHZC3caCJp9sfb4r"
+    },
+    {
+      "album": {
+        "name": "Topo da Town",
+        "url": "https://open.spotify.com/album/6Q6BFW7m7srhrTsFXQRU1s"
+      },
+      "artists": [
+        {
+          "name": "Emanadazz",
+          "url": "https://open.spotify.com/artist/3idNZojSWG1o3yVEzNSD4x"
+        },
+        {
+          "name": "\u00cdris Soares",
+          "url": "https://open.spotify.com/artist/5YOyuMhz8o3ZPg4lL3FiZ6"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140042,
+      "name": "Topo da Town",
+      "url": "https://open.spotify.com/track/4eNkdNRdijS2ay8CzjXr0M"
     },
     {
       "album": {

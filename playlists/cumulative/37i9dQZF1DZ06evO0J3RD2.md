@@ -4,7 +4,7 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 23 min
+41 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Full Circle](https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:24 | 2022-09-16 |  |
 | [Garden Eyes](https://open.spotify.com/track/0llSSP7u2IRZ3ShjIu4PVZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:23 | 2022-09-16 |  |
 | [Hatchet](https://open.spotify.com/track/6jGPtSuSPFODlN1a7TQuqT) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:44 | 2022-09-16 |  |
-| [Heaven Sent](https://open.spotify.com/track/0xFxmOZKOB0smoKvRLVkjQ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Heaven Sent](https://open.spotify.com/album/6BDU1plhN9IHE2HckwDi4T) | 3:00 | 2023-07-15 |  |
+| [Heaven Sent](https://open.spotify.com/track/0xFxmOZKOB0smoKvRLVkjQ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Heaven Sent](https://open.spotify.com/album/6BDU1plhN9IHE2HckwDi4T) | 3:00 | 2023-07-15 | 2023-09-01 |
+| [Heaven Sent](https://open.spotify.com/track/2VVPf2Z8FmTwfT5oUnFE48) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:00 | 2023-08-31 |  |
 | [I Hope You Choke!](https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:19 | 2023-08-19 |  |
 | [In My Blood](https://open.spotify.com/track/4urLThnwcBZ3hnHSIsbhCN) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:33 | 2022-09-16 |  |
 | [Kept](https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:27 | 2022-09-16 |  |
@@ -42,7 +43,7 @@
 | [Skin To Skin](https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:00 | 2022-09-16 |  |
 | [The Grey](https://open.spotify.com/track/5Y6anXM0uQ6P5OIonxdsBe) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:49 | 2022-09-16 |  |
 | [Third Degree](https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:46 | 2022-09-16 |  |
-| [Tightrope](https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:41 | 2023-08-28 |  |
+| [Tightrope](https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:41 | 2023-08-28 | 2023-09-01 |
 | [Tightrope](https://open.spotify.com/track/6HUAWdvqLh5mGPGhZGRGjx) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Tightrope](https://open.spotify.com/album/7DdfRSxj7KN1q2a7Jwu0vi) | 4:41 | 2023-06-17 | 2023-08-29 |
 | [Tunnel Vision](https://open.spotify.com/track/74kXBXZW06evdyhknXq6ZX) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 4:00 | 2022-10-12 | 2023-07-17 |
 | [Vacant Home](https://open.spotify.com/track/5E0DnCREPWkoh5HQvA7uDy) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 3:38 | 2022-09-16 |  |

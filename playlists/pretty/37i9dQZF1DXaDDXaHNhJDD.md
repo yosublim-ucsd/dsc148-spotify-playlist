@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: Thallumala
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,736 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,872 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Entammede Jimikki Kammal](https://open.spotify.com/track/2n46SeXId7o9WvXTFgRO8B) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Renjith Unni](https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA) | [Velipadinte Pusthakam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10FVqAlUuZG99OqKW1Cle4) | 3:21 |
-| 2 | [Ollulleru](https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU) | [Praseetha Chalakudy](https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu) | [Ajagajantharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q) | 3:22 |
-| 3 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 |
+| 1 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 |
+| 2 | [Entammede Jimikki Kammal](https://open.spotify.com/track/2n46SeXId7o9WvXTFgRO8B) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Renjith Unni](https://open.spotify.com/artist/0gwiu2YjENIc80Dw6iaswA) | [Velipadinte Pusthakam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10FVqAlUuZG99OqKW1Cle4) | 3:21 |
+| 3 | [Ollulleru](https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU) | [Praseetha Chalakudy](https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu) | [Ajagajantharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q) | 3:22 |
 | 4 | [Parudeesa \- From "Bheeshma Parvam"](https://open.spotify.com/track/3atpk0CnzPpRVbzq3l3EMq) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9) | [Parudeesa \(From "Bheeshma Parvam"\)](https://open.spotify.com/album/3GyGzZ9smF8HkYLNtb2U0w) | 4:03 |
 | 5 | [Aadharanjali \(From "Romancham\)](https://open.spotify.com/track/3jg0GvH2oYHGuy2U7SH4SJ) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Aadharanjali \(From "Romancham\) \- Single](https://open.spotify.com/album/1mqEKGbULaBJ7Rv8r6LTPE) | 2:29 |
 | 6 | [Darshana \- From "Hridayam"](https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Darshana Rajendran](https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2) | [Darshana \(From "Hridayam"\)](https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 74 | [Parayuvaan \- From "Ishq"](https://open.spotify.com/track/4hTcGYU6uXZVCAfIMsxhlC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Parayuvaan \(From "Ishq"\)](https://open.spotify.com/album/0ZF2WvYiOVQwz2qnUUioTn) | 4:37 |
 | 75 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0rzKjfUCW6jl9u4jOJHWns) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/7vUWdGwewQzd5S1HpgkBSC) | 3:38 |
 
-Snapshot ID: `MCxhOTVjY2NiNDZkNGUzM2ViYzQ0YTM3Njk2ZGQzNGEyN2VlMjRkZmQy`
+Snapshot ID: `MCxhOWM3MThmZmNkMWQ3NjA5NTMyODU1OGUzNGI0MjlkZmQ4NjAxMmJk`

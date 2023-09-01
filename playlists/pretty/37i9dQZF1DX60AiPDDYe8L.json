@@ -1,15 +1,31 @@
 {
   "description": "Las mejores canciones de la reina del pop argentino.",
-  "num_followers": 132979,
+  "num_followers": 133052,
   "original_name": "This Is Lali",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTU3NTMzMmI1YmEyZjIzZWY0Mzg4OWEwMDBlMTljOTliY2I1ZDA2",
+  "snapshot_id": "MCxlNWZjNjQwYmYzNjlkYzdhZWFlMTUwOTljNDgzZDNiMDVmNjJiOWVl",
   "tracks": [
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5VmevlHJrUiQZ29JzpfZB5"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
@@ -41,10 +57,10 @@
       "url": "https://open.spotify.com/track/2HQWMYkuy8Rm0uweatfe8F"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
       "artists": [
         {
@@ -52,28 +68,12 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 231866,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/27xe7DYBq1xD5LIfkIrpAj"
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 144995,
-      "name": "C\u00f3mprame un Brishito",
-      "url": "https://open.spotify.com/track/1OXvHS29qz48nwoBclCl6k"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
@@ -89,7 +89,23 @@
       "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/27xe7DYBq1xD5LIfkIrpAj"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
@@ -100,12 +116,28 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+      "duration_ms": 186100,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/4NdrK1Dpit0l6BT35h6Cmd"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 256720,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/3s1WVs0g8pUZEjOZyY0lHD"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "Brava",
         "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
@@ -125,7 +157,7 @@
       "url": "https://open.spotify.com/track/5rUNrHC5b0oYanaw370Ncz"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
@@ -136,12 +168,32 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 186100,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/4NdrK1Dpit0l6BT35h6Cmd"
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 177346,
+      "name": "Lindo Pero Bruto",
+      "url": "https://open.spotify.com/track/5RLBZePs33aN2F8uCzcSeo"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
@@ -152,12 +204,28 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 165455,
-      "name": "2 Son 3",
-      "url": "https://open.spotify.com/track/3RtZm3Mww2sge6Lds2Sthy"
+      "duration_ms": 158035,
+      "name": "MOTIVEISHON",
+      "url": "https://open.spotify.com/track/2NioKrz9davb3CvHmgZ7yw"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/3LnkJugUrH8GcqmcwJ7Xo8"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "Para Aventuras y Curiosidades",
         "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
@@ -189,39 +257,7 @@
       "url": "https://open.spotify.com/track/27xFMBWh15wyYGGAVrEMuK"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 256720,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/3s1WVs0g8pUZEjOZyY0lHD"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/3LnkJugUrH8GcqmcwJ7Xo8"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
@@ -232,12 +268,12 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 166092,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/6Dfda19q5qFVjdlGpBlgNG"
+      "duration_ms": 165455,
+      "name": "2 Son 3",
+      "url": "https://open.spotify.com/track/3RtZm3Mww2sge6Lds2Sthy"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
@@ -248,136 +284,12 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 152830,
-      "name": "Incondicional",
-      "url": "https://open.spotify.com/track/6yDaJbmsIlvHgAyNtt1oOX"
+      "duration_ms": 144995,
+      "name": "C\u00f3mprame un Brishito",
+      "url": "https://open.spotify.com/track/1OXvHS29qz48nwoBclCl6k"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 171258,
-      "name": "KO",
-      "url": "https://open.spotify.com/track/7BDmSfA83lSKPiKypBTebA"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "MOTIVEISHON",
-      "url": "https://open.spotify.com/track/2NioKrz9davb3CvHmgZ7yw"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Roma - Bangkok (feat. Lali)",
-        "url": "https://open.spotify.com/album/0btFyxq9sOXNcRroUbWuK1"
-      },
-      "artists": [
-        {
-          "name": "Baby K",
-          "url": "https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 173260,
-      "name": "Roma - Bangkok (feat. Lali)",
-      "url": "https://open.spotify.com/track/2IgTAhIwWe8fHSS0Pvv6cD"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Brava",
-        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 204727,
-      "name": "100 Grados (feat. A.CHAL)",
-      "url": "https://open.spotify.com/track/28XvT0F0E4sVamI6JRVnmU"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "A Bailar (Versi\u00f3n Bonus)",
-        "url": "https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Del Otro Lado",
-      "url": "https://open.spotify.com/track/6sCYoCVELqQe95GDybxWcc"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Libra",
-        "url": "https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 177346,
-      "name": "Lindo Pero Bruto",
-      "url": "https://open.spotify.com/track/5RLBZePs33aN2F8uCzcSeo"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "Como As\u00ed (feat. CNCO)",
         "url": "https://open.spotify.com/album/6LYy00ZQOKwxjCDGQY442J"
@@ -397,10 +309,10 @@
       "url": "https://open.spotify.com/track/5hoIOyMDt2cQx6DU0UyiBj"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
-        "name": "Lo Que Tengo Yo",
-        "url": "https://open.spotify.com/album/7FAJSOMzHPrcmWP5rUMVa8"
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
       "artists": [
         {
@@ -408,12 +320,28 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 145487,
-      "name": "Lo Que Tengo Yo",
-      "url": "https://open.spotify.com/track/2lG1D3JuFMkqqdAiTMiF0n"
+      "duration_ms": 171258,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/7BDmSfA83lSKPiKypBTebA"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 166092,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/6Dfda19q5qFVjdlGpBlgNG"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "A Bailar (Versi\u00f3n Bonus)",
         "url": "https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK"
@@ -424,12 +352,12 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 212013,
-      "name": "Histeria",
-      "url": "https://open.spotify.com/track/0DLV3QLNMCmMrTbMUwN9M7"
+      "duration_ms": 168746,
+      "name": "A Bailar",
+      "url": "https://open.spotify.com/track/6Ue6QQzRl3HzWZdZx88IJF"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "Brava",
         "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
@@ -449,23 +377,7 @@
       "url": "https://open.spotify.com/track/75V0RdaCFKsQZX91mI9AD3"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "LALIGERA",
-        "url": "https://open.spotify.com/album/38YtKwQaJPDm2Rfffd3eTx"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 178201,
-      "name": "LALIGERA",
-      "url": "https://open.spotify.com/track/1ThWuqpphgu4N5yi5FbBiR"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "A Bailar (Versi\u00f3n Bonus)",
         "url": "https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK"
@@ -476,15 +388,15 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 168746,
-      "name": "A Bailar",
-      "url": "https://open.spotify.com/track/6Ue6QQzRl3HzWZdZx88IJF"
+      "duration_ms": 212013,
+      "name": "Histeria",
+      "url": "https://open.spotify.com/track/0DLV3QLNMCmMrTbMUwN9M7"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
-        "name": "Brava",
-        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
+        "name": "Lo Que Tengo Yo",
+        "url": "https://open.spotify.com/album/7FAJSOMzHPrcmWP5rUMVa8"
       },
       "artists": [
         {
@@ -492,140 +404,12 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Una Na",
-      "url": "https://open.spotify.com/track/02N1QgHlAaV8BWY3Mgc6lR"
+      "duration_ms": 145487,
+      "name": "Lo Que Tengo Yo",
+      "url": "https://open.spotify.com/track/2lG1D3JuFMkqqdAiTMiF0n"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/5ubzkmRBFMd13uA2rRIsx2"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Brava",
-        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Besarte Mucho",
-      "url": "https://open.spotify.com/track/7xaWEr1KWGBI4IdzVwXUzz"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Fascinada",
-        "url": "https://open.spotify.com/album/0aBNYLhlzYQUC9iryfd1Ld"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 163225,
-      "name": "Fascinada",
-      "url": "https://open.spotify.com/track/1soSE5sLiMwQQpvz1ptnMC"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Esperanza M\u00eda (Banda Original de Sonido)",
-        "url": "https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "Tengo Esperanza",
-      "url": "https://open.spotify.com/track/6warclOiMYx31dx4cu4RKU"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "A Bailar (Versi\u00f3n Bonus)",
-        "url": "https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "No Estoy Sola",
-      "url": "https://open.spotify.com/track/5q3CdahwyZi3kS0Tck13Ye"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Esperanza M\u00eda (Banda Original de Sonido)",
-        "url": "https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "C\u00f3mo Haremos",
-      "url": "https://open.spotify.com/track/5WVM6kT7N4Yj1ElYDlHc0m"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Esperanza M\u00eda (Banda Original de Sonido)",
-        "url": "https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Me Muero por Vos",
-      "url": "https://open.spotify.com/track/0hBv5FWbvi7dgoOZA7AHHD"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "Libra",
         "url": "https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV"
@@ -636,35 +420,51 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 229808,
-      "name": "Una Esquina en Madrid",
-      "url": "https://open.spotify.com/track/5eDJLNybDwYxRKF1hhQHvf"
+      "duration_ms": 183829,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0cP7k8dNs4SY313Rdbu0XO"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/5OxEF4B7QicAp3dJDaagcP"
+        "name": "A Bailar (Versi\u00f3n Bonus)",
+        "url": "https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK"
       },
       "artists": [
         {
           "name": "Lali",
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Del Otro Lado",
+      "url": "https://open.spotify.com/track/6sCYoCVELqQe95GDybxWcc"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Roma - Bangkok (feat. Lali)",
+        "url": "https://open.spotify.com/album/0btFyxq9sOXNcRroUbWuK1"
+      },
+      "artists": [
+        {
+          "name": "Baby K",
+          "url": "https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg"
         },
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 165893,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/3whHs54O3eVpuF5R3rx2A6"
+      "duration_ms": 173260,
+      "name": "Roma - Bangkok (feat. Lali)",
+      "url": "https://open.spotify.com/track/2IgTAhIwWe8fHSS0Pvv6cD"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
-        "name": "Amor de Verdad",
-        "url": "https://open.spotify.com/album/4v2S8Rwwz9NYRq29Zqjpbw"
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
       "artists": [
         {
@@ -672,108 +472,12 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Amor de Verdad",
-      "url": "https://open.spotify.com/track/44VdhQgrR33Ponq2N35AXM"
+      "duration_ms": 152830,
+      "name": "Incondicional",
+      "url": "https://open.spotify.com/track/6yDaJbmsIlvHgAyNtt1oOX"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Esperanza M\u00eda (Banda Original de Sonido)",
-        "url": "https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Necesito",
-      "url": "https://open.spotify.com/track/5yDQdRHh4KMxksaDcrLlC5"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Tu Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/0xJ9lGn4GU99BVDg0uCKxi"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Brava",
-        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 254610,
-      "name": "Vuelve a Mi",
-      "url": "https://open.spotify.com/track/6lRE7UoLBqTGuItDLjL40P"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Libra",
-        "url": "https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 159470,
-      "name": "Bailo Pa Mi",
-      "url": "https://open.spotify.com/track/4hCCkkmQLtkdadeVtbUf3H"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Brava",
-        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Somos Amantes",
-      "url": "https://open.spotify.com/track/451cGmEwgrP4FFuFrIkXJf"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Libra",
-        "url": "https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 192821,
-      "name": "Enredaos",
-      "url": "https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "A Bailar (Versi\u00f3n Bonus)",
         "url": "https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK"
@@ -789,115 +493,7 @@
       "url": "https://open.spotify.com/track/3VlcbOEz64DZFP1s8iN3Wq"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "A Bailar (Versi\u00f3n Bonus)",
-        "url": "https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "Mil A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/4omvV2LzjontfP6JoAiHRB"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Pa Que Me Quieras",
-        "url": "https://open.spotify.com/album/5vfYlrGgJAVh5jIATSdpAM"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Pa Que Me Quieras",
-      "url": "https://open.spotify.com/track/0x2dxKUTzFMcZLcyyIl4Qm"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Unico",
-      "url": "https://open.spotify.com/track/2MqAiDDrTTNYQFjfUMNru2"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Soy de Volar",
-        "url": "https://open.spotify.com/album/4AnSVmFc7AjBJmiifMZbh2"
-      },
-      "artists": [
-        {
-          "name": "Dvicio",
-          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 235286,
-      "name": "Soy de Volar",
-      "url": "https://open.spotify.com/track/6cWKFEOVJvtQQ3B1tiT0tr"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Cree en M\u00ed",
-      "url": "https://open.spotify.com/track/2ftsDDhnYzAVol9W5lDtlY"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Brava",
-        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 219230,
-      "name": "Mi \u00daltima Canci\u00f3n (feat. Reik)",
-      "url": "https://open.spotify.com/track/1bYlEvCQVPNKXU4MmhByR6"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "Brava",
         "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
@@ -908,68 +504,12 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 213187,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/51aZm5RLe6spgobzWMBnWN"
+      "duration_ms": 209493,
+      "name": "Somos Amantes",
+      "url": "https://open.spotify.com/track/451cGmEwgrP4FFuFrIkXJf"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Are You Ready?",
-        "url": "https://open.spotify.com/album/1DDrkcadagSRpaqQDKVf2O"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "Mueve (feat. Lali)",
-      "url": "https://open.spotify.com/track/6T9uRalMPnOlIOQdFoNWwj"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Brava",
-        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Tu Novia",
-      "url": "https://open.spotify.com/track/7EkYeGKhb4EaispiCj73eY"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
-      "album": {
-        "name": "Ladr\u00f3n",
-        "url": "https://open.spotify.com/album/6HXg7s3J0GFvDfcFsabtiC"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 199745,
-      "name": "Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/7KbbNgzfd38VKL7WJDbT9Q"
-    },
-    {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "Esperanza M\u00eda (Banda Original de Sonido)",
         "url": "https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W"
@@ -980,12 +520,144 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 222266,
-      "name": "Esperanza M\u00eda",
-      "url": "https://open.spotify.com/track/5FP7ESctJY9UmtGQP46rWN"
+      "duration_ms": 178973,
+      "name": "Necesito",
+      "url": "https://open.spotify.com/track/5yDQdRHh4KMxksaDcrLlC5"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Esperanza M\u00eda (Banda Original de Sonido)",
+        "url": "https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Me Muero por Vos",
+      "url": "https://open.spotify.com/track/0hBv5FWbvi7dgoOZA7AHHD"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Esperanza M\u00eda (Banda Original de Sonido)",
+        "url": "https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "C\u00f3mo Haremos",
+      "url": "https://open.spotify.com/track/5WVM6kT7N4Yj1ElYDlHc0m"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Fascinada",
+        "url": "https://open.spotify.com/album/0aBNYLhlzYQUC9iryfd1Ld"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 163225,
+      "name": "Fascinada",
+      "url": "https://open.spotify.com/track/1soSE5sLiMwQQpvz1ptnMC"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Besarte Mucho",
+      "url": "https://open.spotify.com/track/7xaWEr1KWGBI4IdzVwXUzz"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Una Na",
+      "url": "https://open.spotify.com/track/02N1QgHlAaV8BWY3Mgc6lR"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "LALIGERA",
+        "url": "https://open.spotify.com/album/38YtKwQaJPDm2Rfffd3eTx"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 178201,
+      "name": "LALIGERA",
+      "url": "https://open.spotify.com/track/1ThWuqpphgu4N5yi5FbBiR"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 204727,
+      "name": "100 Grados (feat. A.CHAL)",
+      "url": "https://open.spotify.com/track/28XvT0F0E4sVamI6JRVnmU"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
       "album": {
         "name": "El Amor en Mi Vida",
         "url": "https://open.spotify.com/album/3wxazAm6J5TaVwp7oWS7xg"
@@ -1005,26 +677,30 @@
       "url": "https://open.spotify.com/track/1MXjqEXbTecoUcpJplUWuY"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
-        "name": "Como T\u00fa",
-        "url": "https://open.spotify.com/album/1iQXKHgwIP2jttVdHkRRqD"
+        "name": "Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/6HXg7s3J0GFvDfcFsabtiC"
       },
       "artists": [
         {
           "name": "Lali",
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 166092,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/1nC3XXneEcPbQXPjFAc1zT"
+      "duration_ms": 199745,
+      "name": "Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/7KbbNgzfd38VKL7WJDbT9Q"
     },
     {
-      "added_at": "2023-06-21 19:32:09",
+      "added_at": "2023-09-01 01:00:00",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/56gWk6z0ms5UVpKiHpQQO0"
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
       },
       "artists": [
         {
@@ -1032,9 +708,333 @@
           "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 186100,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/4QVmV6QHriSb4TkaxvTuZm"
+      "duration_ms": 202080,
+      "name": "Tu Novia",
+      "url": "https://open.spotify.com/track/7EkYeGKhb4EaispiCj73eY"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Are You Ready?",
+        "url": "https://open.spotify.com/album/1DDrkcadagSRpaqQDKVf2O"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "Mueve (feat. Lali)",
+      "url": "https://open.spotify.com/track/6T9uRalMPnOlIOQdFoNWwj"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 213187,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/51aZm5RLe6spgobzWMBnWN"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 219230,
+      "name": "Mi \u00daltima Canci\u00f3n (feat. Reik)",
+      "url": "https://open.spotify.com/track/1bYlEvCQVPNKXU4MmhByR6"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Cree en M\u00ed",
+      "url": "https://open.spotify.com/track/2ftsDDhnYzAVol9W5lDtlY"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Soy de Volar",
+        "url": "https://open.spotify.com/album/4AnSVmFc7AjBJmiifMZbh2"
+      },
+      "artists": [
+        {
+          "name": "Dvicio",
+          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 235286,
+      "name": "Soy de Volar",
+      "url": "https://open.spotify.com/track/6cWKFEOVJvtQQ3B1tiT0tr"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "A Bailar (Versi\u00f3n Bonus)",
+        "url": "https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "Mil A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/4omvV2LzjontfP6JoAiHRB"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 192821,
+      "name": "Enredaos",
+      "url": "https://open.spotify.com/track/5jFCZboaqwjQdv21sJjJY5"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 159470,
+      "name": "Bailo Pa Mi",
+      "url": "https://open.spotify.com/track/4hCCkkmQLtkdadeVtbUf3H"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Amor de Verdad",
+        "url": "https://open.spotify.com/album/4v2S8Rwwz9NYRq29Zqjpbw"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Amor de Verdad",
+      "url": "https://open.spotify.com/track/44VdhQgrR33Ponq2N35AXM"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/5OxEF4B7QicAp3dJDaagcP"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/3whHs54O3eVpuF5R3rx2A6"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "A Bailar (Versi\u00f3n Bonus)",
+        "url": "https://open.spotify.com/album/2hybo358Qq3SN2hAIaOauK"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "No Estoy Sola",
+      "url": "https://open.spotify.com/track/5q3CdahwyZi3kS0Tck13Ye"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Esperanza M\u00eda (Banda Original de Sonido)",
+        "url": "https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "Tengo Esperanza",
+      "url": "https://open.spotify.com/track/6warclOiMYx31dx4cu4RKU"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/5ubzkmRBFMd13uA2rRIsx2"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Esperanza M\u00eda (Banda Original de Sonido)",
+        "url": "https://open.spotify.com/album/5RvU6kr18m4z9r3XK9Oy8W"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "Esperanza M\u00eda",
+      "url": "https://open.spotify.com/track/5FP7ESctJY9UmtGQP46rWN"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Unico",
+      "url": "https://open.spotify.com/track/2MqAiDDrTTNYQFjfUMNru2"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Pa Que Me Quieras",
+        "url": "https://open.spotify.com/album/5vfYlrGgJAVh5jIATSdpAM"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Pa Que Me Quieras",
+      "url": "https://open.spotify.com/track/0x2dxKUTzFMcZLcyyIl4Qm"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 254610,
+      "name": "Vuelve a Mi",
+      "url": "https://open.spotify.com/track/6lRE7UoLBqTGuItDLjL40P"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/79Ziw0ofSkxpjMN8FDFQIF"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Tu Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/0xJ9lGn4GU99BVDg0uCKxi"
+    },
+    {
+      "added_at": "2023-09-01 01:00:00",
+      "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/3N1rzrLFvLAOVT8Pf5ZpbV"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 229808,
+      "name": "Una Esquina en Madrid",
+      "url": "https://open.spotify.com/track/5eDJLNybDwYxRKF1hhQHvf"
     }
   ],
   "unique_name": "This Is Lali",

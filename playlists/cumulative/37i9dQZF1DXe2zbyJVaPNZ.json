@@ -2787,6 +2787,28 @@
     },
     {
       "album": {
+        "name": "Suavizar el Dolor",
+        "url": "https://open.spotify.com/album/4zCajE0HiF7u1sn93Qx5wP"
+      },
+      "artists": [
+        {
+          "name": "Relax Yourself",
+          "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
+        },
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127723,
+      "name": "Suavizar el Dolor",
+      "url": "https://open.spotify.com/track/16Tey0pRs8HqVFwAHbWoio"
+    },
+    {
+      "album": {
         "name": "Space Station Earth",
         "url": "https://open.spotify.com/album/4Y5aaWrAo2QpEkYhDWZx2B"
       },

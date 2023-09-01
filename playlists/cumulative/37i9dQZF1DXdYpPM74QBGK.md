@@ -4,7 +4,7 @@
 
 > Party on with these top children's tracks!
 
-116 songs - 4 hr 41 min
+118 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/3mXOoFswXWtqAR8vAYUtBG) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/6FGyqglqi0oS3tl4SxyZxf) | 1:39 | 2021-12-01 | 2022-10-13 |
 | [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/5L4wJYKr5TYoMlZt3aD8wO) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/4Ek0vdwc5JXCH0WgVedHvp) | 1:39 | 2021-12-01 | 2022-11-26 |
 | [PAW Patrol Pup Pup Boogie](https://open.spotify.com/track/7lwkzHlF9BroFhhZRZ1sdi) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 1:39 | 2021-12-01 | 2022-12-01 |
-| [PJ Masks Theme Song](https://open.spotify.com/track/7eKpWdTDReOTNn1mXPyuzf) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR) | 0:40 | 2021-12-01 |  |
+| [PJ Masks Theme Song](https://open.spotify.com/track/5MDDJSZejveWvRMOYnxnpB) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/6y77mrn553xhcbN9Po2XCv) | 0:40 | 2022-11-30 |  |
+| [PJ Masks Theme Song](https://open.spotify.com/track/7eKpWdTDReOTNn1mXPyuzf) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR) | 0:40 | 2021-12-01 | 2023-09-01 |
 | [Portrait Day](https://open.spotify.com/track/0BUnprhTYIqGTNVLWpiC3T) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Make Your Mark](https://open.spotify.com/album/0OqwqSG89zQdYnmLRmBn5R) | 1:08 | 2022-11-30 |  |
 | [Reflection \(2020\)](https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 3:37 | 2021-12-01 | 2022-12-01 |
 | [Rock\-a\-Bye Your Bear](https://open.spotify.com/track/5V0hwPnZnYroTZN7ZhZE2J) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 1:26 | 2021-12-01 | 2022-12-01 |
@@ -102,7 +103,8 @@
 | [The Family Madrigal](https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp) | [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 4:17 | 2022-11-30 |  |
 | [The Loud Mouse Song](https://open.spotify.com/track/5WZJikNC4n12C5iQ11hn7X) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [The Loud Mouse Song](https://open.spotify.com/album/0s8Cx1aQq0AGYX2XTwYG1T) | 3:13 | 2022-11-30 |  |
 | [The Party Freeze Song](https://open.spotify.com/track/7gecT24P3zqY4SXWjssq9B) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [150 Preschool Songs](https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf) | 2:08 | 2022-11-30 |  |
-| [Theme Music From Peppa Pig](https://open.spotify.com/track/2mj9A3L5BCnEPyO96IHwUj) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Theme Music](https://open.spotify.com/album/6aguOTqeqozI5LAWK4m4cu) | 0:38 | 2022-11-30 |  |
+| [Theme Music From Peppa Pig](https://open.spotify.com/track/2mj9A3L5BCnEPyO96IHwUj) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Theme Music](https://open.spotify.com/album/6aguOTqeqozI5LAWK4m4cu) | 0:38 | 2022-11-30 | 2023-09-01 |
+| [Theme Music From Peppa Pig](https://open.spotify.com/track/58ySBl2cnyDKKnH4c99n3h) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Theme Music](https://open.spotify.com/album/12p8HxANa15E7NtC0vXa1a) | 0:38 | 2022-11-30 |  |
 | [Tick Tock Rock](https://open.spotify.com/track/47NTKnN6Q3TE6OJ3NWuiGl) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Dance, Move & Groove!](https://open.spotify.com/album/0pDk4yAlwOyU5iE3WUO4N9) | 2:31 | 2021-12-01 | 2022-12-01 |
 | [Time to Spidey Save the Day \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/6xQ0m1Y44VjkmFDCpgRq4a) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Time to Spidey Save the Day \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/2IHNXES7SoyxWN1Nr2fpt7) | 2:02 | 2022-11-30 |  |
 | [Togetherness](https://open.spotify.com/track/3ZeOncZlROjHJQMuijQxki) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Unlock the Music, Season 2](https://open.spotify.com/album/2eFqlnnZ8bAFt4yjHtjSG9) | 2:33 | 2022-11-30 |  |

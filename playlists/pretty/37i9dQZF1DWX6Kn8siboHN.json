@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 574915,
+  "num_followers": 575511,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjFjODZmZmNmZWUyNmI3N2NlY2Y5NmE2YTIwYzYyNjdkNTg3ZGI3",
+  "snapshot_id": "MCw3MWJiMGE1NDY3NDI3ZDkzMGY5ZmRmOTNlNjhjODE0MmZmZDQwNDZk",
   "tracks": [
     {
       "added_at": "2023-08-08 23:03:11",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "Tu Sombra",
         "url": "https://open.spotify.com/album/2d7tfROtI0Sdsy2TYJMDpe"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 200560,
       "name": "A chillar a otra parte",
       "url": "https://open.spotify.com/track/3BwabPHcwg7jotkO7YOcJ2"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 203853,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Siempre Imitado, Jamas Igualado",
-        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Dime Qui\u00e9n Es",
-      "url": "https://open.spotify.com/track/3Gx0D7Qs5oJO5jaA6Rs9lp"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "Puras de Juan Gabriel, vol. 2",
         "url": "https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 212688,
       "name": "Quedate Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/694CyIR0ghq9USCLU4F6sc"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Dime Qui\u00e9n Es",
+      "url": "https://open.spotify.com/track/3Gx0D7Qs5oJO5jaA6Rs9lp"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Tu Delirio",
+      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
         "name": "Eres Todo Todo",
         "url": "https://open.spotify.com/album/6ecfbZHxwKxhOMvFVDxosI"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 147069,
       "name": "El Perro De Tu Marido",
       "url": "https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
-      },
-      "artists": [
-        {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Tu Delirio",
-      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 186131,
-      "name": "Me Ca\u00ed De La Nube",
-      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "Norte\u00f1o",
         "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 145449,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 186131,
+      "name": "Me Ca\u00ed De La Nube",
+      "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "A Ti Madrecita (Remastered)",
-        "url": "https://open.spotify.com/album/2UFHUfVGw8KVqX5j7M2EcR"
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 249586,
-      "name": "Mi Linda Esposa - Remastered",
-      "url": "https://open.spotify.com/track/5yUAv2oI8yzpSYgWtTZus0"
+      "duration_ms": 158275,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+        "name": "A Ti Madrecita (Remastered)",
+        "url": "https://open.spotify.com/album/2UFHUfVGw8KVqX5j7M2EcR"
       },
       "artists": [
         {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 158275,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
+      "duration_ms": 249586,
+      "name": "Mi Linda Esposa - Remastered",
+      "url": "https://open.spotify.com/track/5yUAv2oI8yzpSYgWtTZus0"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Pesado: Clasicas para la Bohemia",
-        "url": "https://open.spotify.com/album/3KszSxOjja4JfSv32Xhqwa"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "Y",
-      "url": "https://open.spotify.com/track/7xBNHVbYVfi3CqNHDOYWbm"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "Los Canelos 17 Exitos",
         "url": "https://open.spotify.com/album/10NmPHQzeBxZf3ev0mNefY"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 156710,
       "name": "Honrada",
       "url": "https://open.spotify.com/track/4IiuCoXvWHo8uoxvCYRJbD"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "Pesado: Clasicas para la Bohemia",
+        "url": "https://open.spotify.com/album/3KszSxOjja4JfSv32Xhqwa"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "Y",
+      "url": "https://open.spotify.com/track/7xBNHVbYVfi3CqNHDOYWbm"
     },
     {
       "added_at": "2023-08-08 23:03:11",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-08-08 23:03:11",
       "album": {
-        "name": "Cesar Chavez",
-        "url": "https://open.spotify.com/album/4plZH8Yjw48cxfnigBu0ma"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Vega",
-          "url": "https://open.spotify.com/artist/6mRXb0dvFMySGK7bV4nIzH"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Contigo O Sin Ti",
-      "url": "https://open.spotify.com/track/0YuNdAYlbhQ4sMMHxuWE6e"
-    },
-    {
-      "added_at": "2023-08-08 23:03:11",
-      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
+    },
+    {
+      "added_at": "2023-08-08 23:03:11",
+      "album": {
+        "name": "Cesar Chavez",
+        "url": "https://open.spotify.com/album/4plZH8Yjw48cxfnigBu0ma"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Vega",
+          "url": "https://open.spotify.com/artist/6mRXb0dvFMySGK7bV4nIzH"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Contigo O Sin Ti",
+      "url": "https://open.spotify.com/track/0YuNdAYlbhQ4sMMHxuWE6e"
     },
     {
       "added_at": "2023-08-08 23:03:11",

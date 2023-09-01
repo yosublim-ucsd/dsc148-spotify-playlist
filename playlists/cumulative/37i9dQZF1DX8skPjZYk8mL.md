@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-803 songs - 23 hr 53 min
+806 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Faster than Fairies](https://open.spotify.com/track/6kgiFNyG4GQqaK1LoPHySV) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Faster than Fairies](https://open.spotify.com/album/12Qpv0c9aGPBQDbt1fg5ZH) | 1:45 | 2022-10-28 |  |
 | [Feathers](https://open.spotify.com/track/1e1Mm7eqfM9gUphsLADBDj) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Feathers](https://open.spotify.com/album/6VQ4YVvFlaavpopygw9eqz) | 1:17 | 2021-11-08 | 2022-11-12 |
 | [Feel Free to Sleep](https://open.spotify.com/track/7fBKXwIpRXfesqArhNu8Sc) | [Odell Aylmer](https://open.spotify.com/artist/6kFti89t1ebLGedez1cGeG) | [Feel Free to Sleep](https://open.spotify.com/album/0g69AegryKvyXLgiQQDlra) | 1:22 | 2021-11-08 | 2022-12-16 |
-| [Feeling Free](https://open.spotify.com/track/03gUScIqSM3qxx82hWOtWf) | [Wilbur Aiken](https://open.spotify.com/artist/6CjjZDbsjGRhjE9dwk0nTY) | [Feeling Free](https://open.spotify.com/album/7csKVissOSf5Rmc1jgWUrh) | 1:40 | 2021-11-08 |  |
+| [Feeling Free](https://open.spotify.com/track/03gUScIqSM3qxx82hWOtWf) | [Wilbur Aiken](https://open.spotify.com/artist/6CjjZDbsjGRhjE9dwk0nTY) | [Feeling Free](https://open.spotify.com/album/7csKVissOSf5Rmc1jgWUrh) | 1:40 | 2021-11-08 | 2023-09-01 |
 | [Feeling Happy](https://open.spotify.com/track/411MQaWsxcCUVMH21TMNlx) | [Wilbur Aiken](https://open.spotify.com/artist/6CjjZDbsjGRhjE9dwk0nTY) | [Feeling Happy](https://open.spotify.com/album/4RejapE6dMgDIllg9bhysq) | 1:42 | 2021-11-08 | 2023-04-09 |
 | [Fields of Gold](https://open.spotify.com/track/0co79KitoGgWocyVuQE4xI) | [Nibble Pig](https://open.spotify.com/artist/1yGBlYX70u0Ok69QkNOwtF) | [Fields of Gold](https://open.spotify.com/album/0Wpnk7hAtae7Lbcvp7eJdW) | 1:39 | 2022-09-02 | 2023-04-09 |
 | [Fin Kanin](https://open.spotify.com/track/51fdlCVv9bV8t8SWaq6O0C) | [Isa Gillis](https://open.spotify.com/artist/3rU2YqShYRVpdKKMHcJtJZ) | [Fin Kanin](https://open.spotify.com/album/2ePpqjlyy40iMifa99q7pH) | 2:27 | 2022-06-07 |  |
@@ -329,6 +329,7 @@
 | [I'm a Little Teapot](https://open.spotify.com/track/0a7nCIeNIGp9JGm3rgRYNK) | [Angelo Grant](https://open.spotify.com/artist/3h8kjYzd4qH8y6HQHYxFeu) | [I'm a Little Teapot](https://open.spotify.com/album/3377A3R0RDI7tKJyTHfyH4) | 1:40 | 2023-05-12 |  |
 | [I'm Gonna Paint You A Picture](https://open.spotify.com/track/1PXjxPWY66zJruMJcGRpTb) | [Clarita Palmer](https://open.spotify.com/artist/02vEAqSykWhCFcAIXmXBpY) | [I'm Gonna Paint You A Picture](https://open.spotify.com/album/4qpsDGF1t3otfZRQjn9DPn) | 1:47 | 2021-11-08 | 2022-10-08 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/3dsyTAFaheGia7mzN23joQ) | [Juanta](https://open.spotify.com/artist/5RfciIB2iDjbsiRisoyhKC) | [I'm Good \(Blue\)](https://open.spotify.com/album/6ZMVjygFYjdXdgmRyRYcFw) | 1:57 | 2022-11-11 | 2023-03-18 |
+| [Ida's Summer Song](https://open.spotify.com/track/3HjJV5CYJTeaYHO6PbxwHT) | [Alby Graham](https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM) | [Ida's Summer Song](https://open.spotify.com/album/2cQqp6CbYLtdd7OBTcSR4M) | 2:15 | 2023-08-31 |  |
 | [Idas sommarvisa](https://open.spotify.com/track/5IHcpNi5zMtQFDLhMPBFOA) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Idas sommarvisa](https://open.spotify.com/album/4pBOe0vkeTjGgd4fPxbfkG) | 1:39 | 2023-01-27 | 2023-06-03 |
 | [If all the stars](https://open.spotify.com/track/0GBs2JDRjfTRYrrc9Uz2d5) | [Hyrum Spears](https://open.spotify.com/artist/2YGxKYE79CxjJ5sZXbneNl) | [If all the stars](https://open.spotify.com/album/5tadPKvNz2LHrL2ZeUVDVd) | 1:45 | 2021-11-08 | 2023-04-09 |
 | [If Happiness Had A Face](https://open.spotify.com/track/6otAE8C3v1Z3WipYfliXDp) | [Maryon Jennings](https://open.spotify.com/artist/1se3GbDEI02N7abqldFqC1) | [If Happiness Had A Face](https://open.spotify.com/album/3pYOrFMeGZOj4wO8B87MCs) | 1:34 | 2023-01-06 |  |
@@ -671,6 +672,7 @@
 | [Teddy Bear](https://open.spotify.com/track/5VZ6CpuKkrgVfQ65i2963o) | [Rennie Stoltz](https://open.spotify.com/artist/0rQJK4fjWXU3Rk9Oee6GQc) | [Teddy Bear](https://open.spotify.com/album/1LVv9eTEFERZ7aN28air3G) | 1:39 | 2023-08-10 |  |
 | [Teeny Tiny Fortress](https://open.spotify.com/track/1sYRJMBcaS5TIfelrS4MXE) | [Laila Walton](https://open.spotify.com/artist/6JuIEojmY6muknH6pXp4ZR) | [Teeny Tiny Fortress](https://open.spotify.com/album/3IMKliBe95wlMROqgquHC3) | 1:27 | 2022-10-07 | 2023-03-18 |
 | [Tenderness](https://open.spotify.com/track/33L2dpLJ77q2QoSAlFYEfy) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:59 | 2022-08-11 |  |
+| [The Alphabet Song](https://open.spotify.com/track/5f49xMCuF1qoMVxOO0UYtT) | [Björnes Hörna](https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE) | [The Alphabet Song](https://open.spotify.com/album/1lqFdvOELkZ9yXeeMzyDl4) | 1:36 | 2023-08-31 |  |
 | [The Animals Went in Two by Two](https://open.spotify.com/track/20n3Y82aTOYbx9UDJ2R20q) | [Kate Tager](https://open.spotify.com/artist/4lGMnp42xFwiTvw6fk0umP) | [This Little Piggy](https://open.spotify.com/album/0iNSrbVgQpiS3kDKdaAnPH) | 1:57 | 2021-11-08 | 2022-07-30 |
 | [The Balloon Man](https://open.spotify.com/track/2EJ8IyDnVE9o6qJH9gEA8G) | [Ambra DuLin](https://open.spotify.com/artist/0jBL5AyeAedgpRS6HNkMZS) | [The Balloon Man](https://open.spotify.com/album/57xhpo9fCdDGshdJUXrDzA) | 1:43 | 2021-11-08 |  |
 | [The Bear Is Sleeping](https://open.spotify.com/track/736ZwcAcdviDOcBLmc1M9D) | [Lovisa Vonn](https://open.spotify.com/artist/5r5YDW1RgQqg288qcjcNQx) | [The Bear Is Sleeping / Dream Little Baby](https://open.spotify.com/album/4D175wmarq8PfF4mbUUWh0) | 1:15 | 2021-11-08 | 2023-01-27 |
@@ -759,6 +761,7 @@
 | [Walt the Windmill](https://open.spotify.com/track/4l8NnW6grz6GYE7HNLzTFV) | [Lilly Bear](https://open.spotify.com/artist/3JlR3VCnC7Ma0pICaXZKLT) | [Penny Piano](https://open.spotify.com/album/4JOdx95C6tLgaC4iJs68N5) | 2:46 | 2021-11-08 | 2022-10-29 |
 | [Warm Enough For Ice Cream](https://open.spotify.com/track/5HNtQTusF4gpK3LYKalUyF) | [Callie Berger](https://open.spotify.com/artist/6oE1DSOeQTgGMvLpFVnnjs) | [Warm Enough For Ice Cream](https://open.spotify.com/album/0zLjos5NiyKJtbv7YsqliA) | 1:29 | 2022-06-30 |  |
 | [Watching The Sunset](https://open.spotify.com/track/3ZKFFf22SwSYsQrWMLKrbq) | [Ophelia Dawson](https://open.spotify.com/artist/20EPW1ftqkwVe6P1g7GhWF) | [Watching The Sunset](https://open.spotify.com/album/6IShePTSr5ZHMvpz5cCxO4) | 1:22 | 2022-12-16 |  |
+| [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 | 2023-08-31 |  |
 | [We Walk Around](https://open.spotify.com/track/308Pv80NYNomGwut3BgKrQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [We Walk Around](https://open.spotify.com/album/4aTGIFMnK2nTsjGlXTV1Qm) | 2:39 | 2022-09-02 |  |
 | [Wenn Du Einschläfst](https://open.spotify.com/track/2EtEyjAlPvu6Dl8CvlwTkB) | [Frieda Ross](https://open.spotify.com/artist/4FRt5PBGXsp49kDLecV7CI) | [Das Zahnputzlied](https://open.spotify.com/album/4uW3B5iSpvK17bN7oLN0Nv) | 1:27 | 2022-06-07 |  |
 | [What a wonderful world](https://open.spotify.com/track/4MqtOQaiDKJlVCOmUOjL36) | [Elliot Gordon](https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a) | [What a wonderful world](https://open.spotify.com/album/3kPXdk1E6QyVk7Mz2LYL7n) | 2:13 | 2023-04-07 | 2023-06-23 |

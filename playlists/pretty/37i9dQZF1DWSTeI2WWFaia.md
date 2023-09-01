@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,512 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,521 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 43 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 |
 | 44 | [Andre 3000 \(feat\. Bangladesh\)](https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Bangladesh](https://open.spotify.com/artist/0lKIUVjGFoPfBH6nXfudEx) | [Conway The Machine Presents: Drumwork The Album](https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L) | 4:29 |
 | 45 | [Guapanese](https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Guapanese](https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU) | 2:24 |
-| 46 | [UPSNDOWNS](https://open.spotify.com/track/1JbhPEYyFSGDtvGVWPnFVC) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [HOMECOURT ADVANTAGE, Vol\. 2](https://open.spotify.com/album/17QB4idq8wi0Hu0eXBKwrs) | 1:48 |
-| 47 | [Just Like You](https://open.spotify.com/track/6IM2okqXPGT9LJuOW1RV9V) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Just Like You](https://open.spotify.com/album/0ukYZ27VvCGcvfcAi48HWB) | 3:07 |
-| 48 | [Reflection](https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:12 |
-| 49 | [SentRock](https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SentRock](https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro) | 2:50 |
-| 50 | [Since Elementary](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
+| 46 | [Just Like You](https://open.spotify.com/track/6IM2okqXPGT9LJuOW1RV9V) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Just Like You](https://open.spotify.com/album/0ukYZ27VvCGcvfcAi48HWB) | 3:07 |
+| 47 | [UPSNDOWNS](https://open.spotify.com/track/1JbhPEYyFSGDtvGVWPnFVC) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [HOMECOURT ADVANTAGE, Vol\. 2](https://open.spotify.com/album/17QB4idq8wi0Hu0eXBKwrs) | 1:48 |
+| 48 | [Since Elementary](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
+| 49 | [Reflection](https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:12 |
+| 50 | [SentRock](https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SentRock](https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro) | 2:50 |
 
-Snapshot ID: `MCw0ZDBmMmEwYjhmZWM0ZTg3ZWU3ZjZiMjE0OWIxYjRlMGExODU2Nzlj`
+Snapshot ID: `MCxiZTAxNThmNTU5Nzk1YzU0ZWI1NThlZmRlNDY3OTJhYWE5ZTExYjIx`

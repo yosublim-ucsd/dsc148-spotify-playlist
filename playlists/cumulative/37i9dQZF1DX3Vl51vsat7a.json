@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 146221,
       "name": "Du + Ich",
       "url": "https://open.spotify.com/track/5VcPgaKtvn1JJfv7flYtWr"
@@ -1482,6 +1482,24 @@
       "duration_ms": 134385,
       "name": "F\u00fcr jeden aber nicht f\u00fcr dich",
       "url": "https://open.spotify.com/track/6wNyJwgzl4Tl6wEZa1StHI"
+    },
+    {
+      "album": {
+        "name": "gensehaut",
+        "url": "https://open.spotify.com/album/1JAdrZuesXk1mY6KVOEYyq"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135883,
+      "name": "gensehaut",
+      "url": "https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M"
     },
     {
       "album": {
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 141026,
       "name": "mietfrei",
       "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
@@ -3550,6 +3568,24 @@
       "duration_ms": 158441,
       "name": "Star",
       "url": "https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2"
+    },
+    {
+      "album": {
+        "name": "Summertime Love",
+        "url": "https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb"
+      },
+      "artists": [
+        {
+          "name": "Mathea",
+          "url": "https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155527,
+      "name": "Summertime Love",
+      "url": "https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC"
     },
     {
       "album": {

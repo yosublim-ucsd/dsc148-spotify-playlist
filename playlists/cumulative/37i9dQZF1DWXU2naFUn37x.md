@@ -2,9 +2,9 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Solo il meglio dello street rap italiano\. Cover: Tony Boy, Artie 5ive
+> Solo il meglio dello street rap italiano\. Cover: Baby Gang
 
-344 songs - 15 hr 59 min
+345 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Aspettative \(feat\. Medy\)](https://open.spotify.com/track/4qEfhwGPxuryUCtVdA14lV) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Aspettative \(feat\. Medy\)](https://open.spotify.com/album/3J0jkkvPh2SxG2kHauCRWi) | 2:34 | 2023-05-09 |  |
 | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/album/3RBPeDOoTvwywWy8oL4pNe) | 2:38 | 2023-06-29 |  |
 | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/track/5yIVCbjYf85Ixuc8ybba6s) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Aston Martin \(feat\. Headie One\)](https://open.spotify.com/album/5Caup6PGNwKut6KiyaZP5j) | 2:48 | 2022-05-11 | 2022-06-03 |
+| [ATM \(feat\. MV Killa\)](https://open.spotify.com/track/6jV1tdQXiQ87WPO5uqjSyq) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 2:34 | 2023-08-31 |  |
 | [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/1gUUrPQbDgYPf0AO2l0zUA) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/1bgQg6bxrCyoUXpj3b75Y8) | 2:40 | 2022-12-01 | 2022-12-14 |
 | [AUDI \(feat\. Rhove & Capo Plaza\)](https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [X2 DELUXE](https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6) | 2:40 | 2022-12-12 | 2023-05-12 |
 | [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2022-10-24 | 2022-10-28 |
@@ -228,7 +229,7 @@
 | [NVNSNP \(feat\. Sacky, Neima Ezza, Kilimoney, Keta, Nko\)](https://open.spotify.com/track/125tb3apTnaopglXzXszi3) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:59 | 2022-05-26 | 2022-08-05 |
 | [Ogni 2 Minuti](https://open.spotify.com/track/7BXVTzqKxMZywSrdIJm9yQ) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Ogni 2 Minuti](https://open.spotify.com/album/0LKW0DkGUMLkZFMhSMuHiA) | 2:35 | 2023-01-19 | 2023-02-24 |
 | [OPINEL](https://open.spotify.com/track/05HGu6fi32RmJRO5PBJ4Va) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [OPINEL](https://open.spotify.com/album/2U5ZEIR5SEgFY9RwtU4zIV) | 2:17 | 2022-05-11 | 2022-05-20 |
-| [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 | 2023-04-06 |  |
+| [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 | 2023-04-06 | 2023-09-01 |
 | [Paky Freestyle 2](https://open.spotify.com/track/15G4MmllbiFIDNILzUFn0o) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Paky Freestyle 2](https://open.spotify.com/album/505SokxH7l8nPEQlvAuq5M) | 2:01 | 2023-06-29 |  |
 | [PARA](https://open.spotify.com/track/6sirNLUKtMOZWOJuQUputH) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [ERROR 442](https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU) | 2:48 | 2022-12-15 | 2023-01-06 |
 | [Paradiso Artificiale \(feat\. Baby Gang & Kid Yugi\)](https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:42 | 2023-06-01 |  |

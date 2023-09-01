@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,160 likes - 167 songs - 1 day 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,187 likes - 167 songs - 1 day 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 58 | [Re:start!!!](https://open.spotify.com/track/6MLvvv4gNnfJJ5R6z6Qwrr) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『どついたれ本舗 VS Buster Bros!!!』](https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d) | 3:31 |
 | 59 | [Break The Wall](https://open.spotify.com/track/4PpV74nmtTAA6tu1l042Tu) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G), [ヒプノシスマイク \-D.R.B\- \(山田一郎\)](https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP) | [Buster Bros!!! \-Before The 2nd D.R.B\-](https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo) | 4:30 |
 | 60 | [TOMOSHIBI](https://open.spotify.com/track/0AvuG9bctCClebU8xOjSa8) | [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『Bad Ass Temple VS 麻天狼』](https://open.spotify.com/album/0IshQeHXq00rBPO7inNPWa) | 5:12 |
-| 61 | [笑オオサカ!\~What a OSAKA!](https://open.spotify.com/track/501LNImi8bllbd9KaPNuhU) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『どついたれ本舗 VS Buster Bros!!!』](https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d) | 4:29 |
+| 61 | [笑オオサカ!～What a OSAKA!](https://open.spotify.com/track/501LNImi8bllbd9KaPNuhU) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『どついたれ本舗 VS Buster Bros!!!』](https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d) | 4:29 |
 | 62 | [あゝオオサカdreamin'night](https://open.spotify.com/track/1Iyxp6vMuJ4mqwColjXE6O) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY) | [あゝオオサカdreamin'night](https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX) | 3:15 |
 | 63 | [Gangsta's Paradise](https://open.spotify.com/track/5nh322AZlmx6Zg3NHZduz3) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(碧棺左馬刻\)](https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562) | [MAD TRIGGER CREW \-Before The 2nd D.R.B\-](https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk) | 3:03 |
 | 64 | [ピンク色の愛](https://open.spotify.com/track/6a2LVhfSS7LZfyUCmJ7L2J) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [ヒプノシスマイク \-D.R.B\- \(飴村乱数\)](https://open.spotify.com/artist/0oVhaLxRCPaOWacVjswYPv) | [Fling Posse \-Before The 2nd D.R.B\-](https://open.spotify.com/album/1yAIhDerk6njh4K4JAi41i) | 3:06 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 166 | [Drama Track「The Block Party \-前半\-」](https://open.spotify.com/track/1SBltxCSVpDGhp7rDRAWDn) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [The Block Party \-HOMIEs\-](https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi) | 46:04 |
 | 167 | [Drama Track「The Block Party \-後半\-」](https://open.spotify.com/track/65gKBHXFNvjelDHDPAmEwg) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 53:48 |
 
-Snapshot ID: `MCwyMWY3NTYzNjVhMzlhMmZlZmRmZjhmOGVkNDcxMGVkYWM0NjY3MTlk`
+Snapshot ID: `MCwyNGQ3NzdlODFjODZmY2RkZTE4YWUzMjAwYTg3ZGJlMGE3Y2JkYTky`

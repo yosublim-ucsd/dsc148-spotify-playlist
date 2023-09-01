@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,234,048 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234,144 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 65 | [Genie in a Bottle](https://open.spotify.com/track/1PBh9mw1ROf1vxuKWJ4zTg) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Genie in a Bottle](https://open.spotify.com/album/6EI31wxrHDbGEWegbXohiE) | 2:24 |
 | 66 | [Mami Mami](https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Mami Mami](https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85) | 2:01 |
 
-Snapshot ID: `MCxkMzI4Y2YzMWMyYTk4NjY5MDk5YjU1Y2M4OWM5OGRlMmUxNGRjNWRk`
+Snapshot ID: `MCwzNDMzNDkzZDE2MjVmZDE0NTcyM2EzNzNmZmEwMzAzMWYyM2NlN2Vk`

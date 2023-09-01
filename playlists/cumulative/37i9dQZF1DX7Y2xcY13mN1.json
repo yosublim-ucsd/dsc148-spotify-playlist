@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219693,
+      "name": "De Selby (Part 1)",
+      "url": "https://open.spotify.com/track/78x3oT0wyvcm9GRmuAP6Vq"
+    },
+    {
+      "album": {
         "name": "Transatlantic Sessions - Series 2, Vol. Three",
         "url": "https://open.spotify.com/album/2zviYEJfMBDVtoh9mz5SNq"
       },

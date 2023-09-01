@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-492 songs - 1 day 3 hr 4 min
+493 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Love Frequency \- Stripped](https://open.spotify.com/track/0M1SoHpp1zyZdnVjUEjw3V) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Love Frequency \(Stripped\)](https://open.spotify.com/album/77rhrA74OSgHndy27dGO50) | 3:12 | 2023-06-02 | 2023-06-10 |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2023-03-03 |  |
 | [Love On You](https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [The Found Album](https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx) | 4:10 | 2023-06-09 |  |
+| [Love Outloud](https://open.spotify.com/track/0jj4TBUdZK5IekIzzYnqyU) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives](https://open.spotify.com/album/0gb4DvjQAURA9LEu7RQr9A) | 2:57 | 2023-08-25 |  |
 | [Loverboy](https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22) | 3:58 | 2022-10-19 | 2023-02-14 |
 | [Loverboy](https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/7w3ggwVB0OqAGFkboiozRS) | 3:58 | 2021-12-15 | 2022-10-13 |
 | [Lowkey](https://open.spotify.com/track/10hUWpN7YFbK64zWuXxqGT) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/4jIEMRSPsEVpjn75QTMlc8) | 3:43 | 2023-01-27 | 2023-04-01 |
@@ -498,7 +499,7 @@
 | [You](https://open.spotify.com/track/68Q8gyJ6Jy9yGJ0h99hfuM) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Alone](https://open.spotify.com/album/439j1V3GK4ef3Ou2dzp9Xa) | 2:09 | 2021-12-15 | 2022-07-17 |
 | [You're The One \- Spotify Singles](https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:49 | 2022-03-29 | 2023-06-17 |
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2021-12-15 | 2023-01-28 |
-| [YOURS \(ft\. India Shawn\)](https://open.spotify.com/track/62jDisCcICzlm1hwrU2rxl) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DARLING](https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb) | 4:20 | 2022-09-02 |  |
+| [YOURS \(ft\. India Shawn\)](https://open.spotify.com/track/62jDisCcICzlm1hwrU2rxl) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [DARLING](https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb) | 4:20 | 2022-09-02 | 2023-09-01 |
 | [ysbcmn](https://open.spotify.com/track/0xy1sGYDq3hDYjIjLkq9zD) | [GODBY](https://open.spotify.com/artist/0kuUtCLEn8Z8X86bwUUumS) | [ysbcmn](https://open.spotify.com/album/7Jk0ig6SP1c6OjxdeAUGlg) | 3:19 | 2023-03-24 |  |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

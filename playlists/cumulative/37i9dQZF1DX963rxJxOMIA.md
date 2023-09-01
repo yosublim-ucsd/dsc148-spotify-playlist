@@ -2,7 +2,7 @@
 
 ### [FINO](https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA)
 
-> Fino y elegante, como el nuevo disco de LA BICHOTA 🧜🏼‍♀️ 🔥 🇨🇴
+> Fino y elegante, como Don Juan 😎 🥃
 
 193 songs - 10 hr 10 min
 

@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "DJ Friendly",
+        "url": "https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280328,
+      "name": "DJ Friendly",
+      "url": "https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Lose Time",
         "url": "https://open.spotify.com/album/4LertToXpmjRS34cm3TrUq"
       },

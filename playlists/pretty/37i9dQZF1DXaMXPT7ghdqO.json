@@ -1,12 +1,12 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 42825,
+  "num_followers": 42827,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjBjMTM2Njg5MjJjMDk1Y2JlZWY5NTQ4NWEyZGVkZWFmZTQ4MDc1",
+  "snapshot_id": "MCw4NTU1NTIwZWUxYzA1NGYzZWVjMzBiMDdmOTg5NGQyYjM4MmU3M2Vl",
   "tracks": [
     {
       "added_at": "2022-12-20 15:48:25",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "\u9739\u9742",
-      "url": "https://open.spotify.com/track/71E8i4jYbgiYvEmj9zOAuX"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3089\u3076\u3063\uff01",
         "url": "https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 241746,
       "name": "\u50d5\u3089\u3060\u3051\u306e\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9",
       "url": "https://open.spotify.com/track/5MBOUl4Cbn1YhdU135mjxO"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "\u9739\u9742",
+      "url": "https://open.spotify.com/track/71E8i4jYbgiYvEmj9zOAuX"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
+        "name": "secret base ~\u541b\u304c\u304f\u308c\u305f\u3082\u306e~",
+        "url": "https://open.spotify.com/album/0bZSpbQEfySKWjlublXiPt"
+      },
+      "artists": [
+        {
+          "name": "\u8389\u72ac",
+          "url": "https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L"
+        }
+      ],
+      "duration_ms": 304079,
+      "name": "secret base ~\u541b\u304c\u304f\u308c\u305f\u3082\u306e~",
+      "url": "https://open.spotify.com/track/58UMTTWDo7HlSj1ZlDblH5"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
         "name": "\u30db\u30ef\u30a4\u30c8\u30d7\u30ed\u30df\u30b9",
         "url": "https://open.spotify.com/album/79sfFfHLmClkYm65e6trBv"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 135720,
       "name": "\u30a4\u30bf\u30ba\u30e9\u30ca\u30a4\u30c8\u30de\u30fc\u30c1",
       "url": "https://open.spotify.com/track/0byUF4CYDVJXJ9mkMiDUu3"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
-        "name": "secret base ~\u541b\u304c\u304f\u308c\u305f\u3082\u306e~",
-        "url": "https://open.spotify.com/album/0bZSpbQEfySKWjlublXiPt"
-      },
-      "artists": [
-        {
-          "name": "\u8389\u72ac",
-          "url": "https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L"
-        }
-      ],
-      "duration_ms": 304079,
-      "name": "secret base ~\u541b\u304c\u304f\u308c\u305f\u3082\u306e~",
-      "url": "https://open.spotify.com/track/58UMTTWDo7HlSj1ZlDblH5"
     },
     {
       "added_at": "2022-12-20 15:48:25",

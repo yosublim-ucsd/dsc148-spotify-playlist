@@ -4,14 +4,14 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-282 songs - 15 hr 54 min
+283 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 | 2022-04-12 |  |
 | [20th century peoples](https://open.spotify.com/track/3oDA9tHwdZCXnmEh99eCl9) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [20th century peoples](https://open.spotify.com/album/5g031chgii7mbeG3q1Nwn8) | 3:37 | 2022-06-20 | 2022-06-23 |
 | [31](https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [31](https://open.spotify.com/album/1gG4FphDb3kinYZ4oaEtu0) | 3:06 | 2022-05-03 | 2022-05-30 |
-| [5월의 밤 \(May\)](https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [5월의 밤 \(May\)](https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi) | 3:16 | 2023-07-31 |  |
+| [5월의 밤 \(May\)](https://open.spotify.com/track/3gVbD5APaL2N4yDWM5YWiQ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [5월의 밤 \(May\)](https://open.spotify.com/album/3NoWa3yoV4h6TvKYB1Ggfi) | 3:16 | 2023-07-31 | 2023-09-01 |
 | [A Night like tonight](https://open.spotify.com/track/6gmxkkVLw51az4M9a1tL49) | [BY THE MOON](https://open.spotify.com/artist/2g5MOIN60s8JoTb5sEeMNE) | [A Night like tonight](https://open.spotify.com/album/3GVYtIrETuLWBoLhfNVLD1) | 3:49 | 2022-04-12 | 2022-05-15 |
 | [About](https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af) | [SoKuen](https://open.spotify.com/artist/2Tgcxy7vxvGdplDC8P93ZG) | [MBTIng \(Original Soundtrack\)](https://open.spotify.com/album/66pnxv8pCPQR9dLQYBVJFY) | 2:42 | 2022-05-11 | 2022-06-10 |
 | [about you](https://open.spotify.com/track/4MYFwF0xZNoUjzVZDtuNMN) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:35 | 2023-02-14 | 2023-07-20 |
@@ -152,6 +152,7 @@
 | [Marry Me](https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Marry Me](https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP) | 3:08 | 2023-02-03 | 2023-02-15 |
 | [May](https://open.spotify.com/track/6Mnnb4HXLTUUUG1JT7jGql) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [May](https://open.spotify.com/album/2t7mzhYYKBkEaNVAkFyPAv) | 3:16 | 2022-04-12 | 2022-07-29 |
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our love is great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 | 2022-04-21 | 2023-08-07 |
+| [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 | 2023-07-31 |  |
 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 | 2022-04-21 |  |
 | [Mirage](https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9) | [Unchan](https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF) | [Mirage](https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP) | 3:34 | 2022-05-11 | 2022-07-28 |
 | [MORE AND MORE](https://open.spotify.com/track/6Ze55CYuGtXSipKLejspyf) | [Sanchez](https://open.spotify.com/artist/5DgeoLBuplcPMYCveVnlbf) | [MORE AND MORE](https://open.spotify.com/album/4dqntPx7zhBje3eJw3TCy0) | 3:57 | 2022-04-21 | 2022-07-25 |

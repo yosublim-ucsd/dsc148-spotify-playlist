@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,887 likes - 71 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,953 likes - 71 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 65 | [Hump Thru the Winter](https://open.spotify.com/track/4ToOP7lFnj2kyU6L7xUwLB) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix) | 3:54 |
 | 66 | [Ignite \(Light It Up\)](https://open.spotify.com/track/2Ta32R4qS5k2R4ZBEmVBtJ) | [Kris Barras Band](https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv) | [Light It Up](https://open.spotify.com/album/6Rqox5C3LdLdqOyd1kcdy3) | 3:16 |
 | 67 | [Mindcontrol](https://open.spotify.com/track/1kyIGyqSvT0pdcDdSwFAMV) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Mindcontrol](https://open.spotify.com/album/06RcGnBGNK1BOzGJ8im4D9) | 3:28 |
-| 68 | [The Great Unknown](https://open.spotify.com/track/4zBTpUoxrjVMjEYZECuxRi) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:01 |
+| 68 | [The Great Unknown](https://open.spotify.com/track/0fXA52aJZ2o0IB3db0QVCY) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/7qGLj30hjy5b7oYvHtYKyQ) | 3:00 |
 | 69 | [Fukk Up](https://open.spotify.com/track/3AKBquVo2xRipnaP9rbMCs) | [Andreas Kümmert](https://open.spotify.com/artist/7z66axlw21NlGzJ18VPmzj) | [Harlekin Dreams](https://open.spotify.com/album/1tiDmCVwb0zg46BADCJ4fQ) | 3:10 |
 | 70 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 71 | [In Time](https://open.spotify.com/track/4BVmZWmdjlmJTRBPfiGbjB) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 7:02 |
 
-Snapshot ID: `MCwxMDc3YWMzZTgzMjgwYTQ3MTE4MjlmZDJlOWFmZTc5MTA1MWFlZWZk`
+Snapshot ID: `MCw1NWNmMDdjN2Y3ODYyYTJmNzk2OTMxZjYzOTZlYjI0OWM5ZWUyNDNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,988 likes - 62 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,066 likes - 63 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 40 | [Ceti Aa](https://open.spotify.com/track/4i78Ov28AnoNrLJgCo4Vp9) | [Ulker](https://open.spotify.com/artist/4xvgsi0qqgd52fk433zVUa) | [Ceti Aa](https://open.spotify.com/album/3c3Yj7rm3GSaLQsCG7n9bs) | 4:58 |
 | 41 | [Spring Will Come and We Will Open the Windows](https://open.spotify.com/track/3U4HbEVFnO9jq8qQF780ox) | [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [A Touch of Seafields](https://open.spotify.com/album/7KB3Lic993iqXlCu3deMXb) | 10:06 |
 | 42 | [We Out Here](https://open.spotify.com/track/1RCHyoaZY2dQ2LmHUobHvM) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Karma Baby EP](https://open.spotify.com/album/2EL95PlWudjVVnpnd9UOi1) | 7:12 |
-| 43 | [Deep In Dub \(Zzzzra Minimal Techno Mix\)](https://open.spotify.com/track/0pfmRTCjCfZKn53A5HUPVc) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE), [Zzzzra](https://open.spotify.com/artist/0Z1HUzAek6bJBuBhz8mx0q) | [DeepLife Selection 01](https://open.spotify.com/album/6W5pFubOmnJjE2zexYlhbd) | 7:24 |
+| 43 | [Deep In Dub \- Zzzzra Minimal Techno Mix](https://open.spotify.com/track/0Zv9A88noVVdqvnYLxgaGD) | [Dubacid](https://open.spotify.com/artist/6FFUvxm6DCYwFRaaJaoZIE) | [Deep Delights](https://open.spotify.com/album/5njQGkcibxVhklPjb4SPnG) | 7:24 |
 | 44 | [Cold Inside](https://open.spotify.com/track/3Ik0jxcyJvYrY0JY7AXACW) | [Brickman](https://open.spotify.com/artist/2xBjIclLb9V8Q26jsZqWGj) | [The Dark](https://open.spotify.com/album/72NevgD4TY58xdvLtLppe5) | 7:24 |
 | 45 | [Stairs & Stars](https://open.spotify.com/track/4S1bE87vDFBD33bsvE5zsj) | [SCSI\-9](https://open.spotify.com/artist/7JTgP1gZgyg0SvuDezzyGo) | [Squares And Circles LP](https://open.spotify.com/album/6ndfjWWSS15vlq57RqgQuP) | 7:35 |
 | 46 | [Troddin Version](https://open.spotify.com/track/3rZbejl5TBFKknV5rhsO53) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [The Versions](https://open.spotify.com/album/4ZAZx6eAJEGjzTEqFo5yRK) | 7:06 |
@@ -68,7 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 | 58 | [Ninsei](https://open.spotify.com/track/6SOyjeedBIFvHanZlyIhZo) | [Andreiclv](https://open.spotify.com/artist/6GdPTOUFnELWOlpcCRvrdZ) | [Cityscapes EP](https://open.spotify.com/album/0RIXGeAUyFNQbGt5w7fROw) | 6:24 |
 | 59 | [Blossoms](https://open.spotify.com/track/41JrgzrdwKt0mXBQrJf1AM) | [Ambra Dubs](https://open.spotify.com/artist/5YXK1fJjoQxk6YkqxTSv1y) | [Blossoms](https://open.spotify.com/album/3ukq09swzYwRU86ZXETvQa) | 5:03 |
 | 60 | [Elapse \- Fdf's Espale Mix](https://open.spotify.com/track/75cBW5IXH1DK9Sa8GiiyeZ) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr), [Freund der Familie](https://open.spotify.com/artist/2aqA1rqioB4Fc8Xre931gX) | [Elution](https://open.spotify.com/album/2bybxXP7vMNf3N2KhzSa4W) | 7:26 |
-| 61 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
-| 62 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
+| 61 | [Mode](https://open.spotify.com/track/0q0S5pVGXPGBFzOxOf4rGc) | [Zoye](https://open.spotify.com/artist/66YUxzUWrBn5EExqg4c0Tj) | [Mode](https://open.spotify.com/album/7b0QZnWhLLa20wscn5gGIc) | 3:10 |
+| 62 | [Dringt](https://open.spotify.com/track/17uP4DeFVGG6naH4NwyZAW) | [Morgen Wurde](https://open.spotify.com/artist/3jAeG5d98YGGGpHGPSurpG), [TIS](https://open.spotify.com/artist/5EKLZKBobC6obEWUk8lcIL) | [Vermacht](https://open.spotify.com/album/1wr7VFcXK0hlVKGf1GPg0j) | 7:11 |
+| 63 | [Junktion](https://open.spotify.com/track/2JirFa98ZLQYZ823lmLWfq) | [Ludowick](https://open.spotify.com/artist/4GGgadGq0wE8XFKrSPVkQE) | [Junktion](https://open.spotify.com/album/4bYJrRbkKVpm29vCax5TjQ) | 8:45 |
 
-Snapshot ID: `MCxlYjdiZTNmZjc0ZjJjMThlMDUwNGRlOTAyOTUwMGM4OTk4YWQ1YWM0`
+Snapshot ID: `MCwxZGNmYWMzOTNiYWIwZTgyOTBmYjQ2N2YzMGE3MDQwMTU3ODFhM2Yx`

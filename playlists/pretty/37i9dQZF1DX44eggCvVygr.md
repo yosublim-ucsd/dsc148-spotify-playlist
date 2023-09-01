@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,294 likes - 63 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,398 likes - 63 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 53 | [Centro Di Gravità Permanente \- Remastered 2021](https://open.spotify.com/track/6OzeWNA1SQgZBw5caqAIKN) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [La Voce Del Padrone \(Remastered\)](https://open.spotify.com/album/3vHxkAyC36Bi581ZUysCtZ) | 3:59 |
 | 54 | [All You Need to Know](https://open.spotify.com/track/6a8AIQEeuWKRoQakg3Aujf) | [Howe Gelb](https://open.spotify.com/artist/2oAKV8mT3NB1hZbGbGcdYB), [Lonna Kelly](https://open.spotify.com/artist/3lNd01OLBdD9jodTpJG4RG) | [Further Standards](https://open.spotify.com/album/0kYvtUDxRxcZe7JehdMiV8) | 3:43 |
 | 55 | [Amado Mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 4:49 |
-| 56 | [Suspiros de España \(Pasodoble\)](https://open.spotify.com/track/6BigVQt0dYzoEjHLTLk83W) | [Real Orquesta Sinfónica de Sevilla, Spanish Folklore](https://open.spotify.com/artist/2Cyylri4fgImNmVAyqZvf0) | [Suspiros de España \- Pasodobles of Spain](https://open.spotify.com/album/3icVxFCY1RbYvSQk5aCON0) | 4:06 |
+| 56 | [Suspiros de España \- Pasodoble](https://open.spotify.com/track/6BigVQt0dYzoEjHLTLk83W) | [Real Orquesta Sinfonica De Sevilla](https://open.spotify.com/artist/4fAkGj5c8n7tfc5rYeFOD6) | [Suspiros de España \(Pasodobles\)](https://open.spotify.com/album/3icVxFCY1RbYvSQk5aCON0) | 4:06 |
 | 57 | [Fuego](https://open.spotify.com/track/5g4ysKgg6wXnolLqkL3J1S) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Blow Up](https://open.spotify.com/album/3aeeG2HTc5r2AH1O364798) | 4:38 |
 | 58 | [La Palloza](https://open.spotify.com/track/0yUoTyOsLsMdkPejOoIIr5) | [La Fanfarria del Capitán](https://open.spotify.com/artist/3RtwbiB9DVyibUaEZo6ZYu) | [La Giravida](https://open.spotify.com/album/2k55copetYbBobaDbKTlNz) | 3:27 |
 | 59 | [Pescador De Hombres](https://open.spotify.com/track/7od71ucLRijC3mHYPXej7q) | [Cesáreo Gabaráin](https://open.spotify.com/artist/2nB6QHFr8HDZ7NIcNOVU5X) | [Pescador De Hombres](https://open.spotify.com/album/6Tx5TBvbXUC3AsWr3buaGK) | 3:51 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 62 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 63 | [Bella ciao](https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Bella ciao](https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p) | 2:09 |
 
-Snapshot ID: `MCw2NTA1Y2NkZjM5NGQ5MGY4NzIwNTVjNmI1NjUwNDFkN2YzMTE4NTAy`
+Snapshot ID: `MCw2OWYyNDQxYTk2NmE2Nzg2NWQ4MWZhZTc2ZjUyNTBiN2JhZDdmZDU1`

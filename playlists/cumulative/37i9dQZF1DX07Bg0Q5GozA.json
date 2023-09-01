@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: The Chemical Brothers, Beck",
+  "description": "New music off the beaten track. Cover: Poolside",
   "name": "OFF POP",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 253200,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w"
@@ -1561,6 +1561,32 @@
     },
     {
       "album": {
+        "name": "Opening Soon",
+        "url": "https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243066,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak"
+    },
+    {
+      "album": {
         "name": "Day Dreams",
         "url": "https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU"
       },
@@ -1954,7 +1980,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 217280,
       "name": "Dope Dance",
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
@@ -2932,7 +2958,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
@@ -3686,7 +3712,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 248119,
       "name": "I Forget",
       "url": "https://open.spotify.com/track/3bjnUJccfgU23pL35NdFZs"
@@ -5193,6 +5219,28 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302740,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
+    },
+    {
+      "album": {
         "name": "Mirror (Christian L\u00f6ffler Remix)",
         "url": "https://open.spotify.com/album/1ViMEfq5OEBe8ggSSu95IJ"
       },
@@ -6163,6 +6211,24 @@
     },
     {
       "album": {
+        "name": "Pull Me Back",
+        "url": "https://open.spotify.com/album/3xs74lOmX9CWx2ZC7nbEYC"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171304,
+      "name": "Pull Me Back",
+      "url": "https://open.spotify.com/track/74KoMmEZUjg01KyqNlrr5E"
+    },
+    {
+      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
       },
@@ -6265,6 +6331,28 @@
     },
     {
       "album": {
+        "name": "Ride With You",
+        "url": "https://open.spotify.com/album/6Hbq4l5PkyQwLVzLCOhBci"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Ben Browning",
+          "url": "https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254906,
+      "name": "Ride With You",
+      "url": "https://open.spotify.com/track/3WGGCYHebfKS0EaUcuqGOW"
+    },
+    {
+      "album": {
         "name": "Ripple",
         "url": "https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks"
       },
@@ -6360,7 +6448,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 236820,
       "name": "Rum 'n' Kola",
       "url": "https://open.spotify.com/track/1Crjjx5PvMKTanY2qT7kIZ"
@@ -6654,6 +6742,24 @@
       "duration_ms": 388056,
       "name": "Secret in the Dark (Juan Maclean Remix)",
       "url": "https://open.spotify.com/track/7BAunvyoG1qKCwgeOiR3Hh"
+    },
+    {
+      "album": {
+        "name": "Seeking Angels",
+        "url": "https://open.spotify.com/album/1T0uJmNC4M9rYkU7I7f7dC"
+      },
+      "artists": [
+        {
+          "name": "Kalipo",
+          "url": "https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196785,
+      "name": "Seeking Angels - Radio Edit",
+      "url": "https://open.spotify.com/track/5EYQoWdYzVdJNH9pjskz72"
     },
     {
       "album": {
@@ -7232,7 +7338,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 167601,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4ZRr2gW76pb3huK79JFts6"
@@ -7803,6 +7909,28 @@
     },
     {
       "album": {
+        "name": "To be honest (SG Lewis Remix)",
+        "url": "https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238901,
+      "name": "To be honest - SG Lewis Remix",
+      "url": "https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8"
+    },
+    {
+      "album": {
         "name": "Together We Stand (Remixes)",
         "url": "https://open.spotify.com/album/0pr6uzXZRf6bWFwQzc5DGC"
       },
@@ -7832,7 +7960,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 221142,
       "name": "Too Much Yayo",
       "url": "https://open.spotify.com/track/0fBrjGe5JD1XKifxYjwbbF"
@@ -8125,6 +8253,24 @@
     },
     {
       "album": {
+        "name": "Vajkoczy",
+        "url": "https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172943,
+      "name": "Vajkoczy - Edit",
+      "url": "https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW"
+    },
+    {
+      "album": {
         "name": "Venera",
         "url": "https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9"
       },
@@ -8228,6 +8374,24 @@
       "duration_ms": 186795,
       "name": "Waiting Forever",
       "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
+    },
+    {
+      "album": {
+        "name": "Wasting Away",
+        "url": "https://open.spotify.com/album/2YRAJGtWMaiwUfiPn0gTmy"
+      },
+      "artists": [
+        {
+          "name": "NIHILS",
+          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420606,
+      "name": "Wasting Away",
+      "url": "https://open.spotify.com/track/3pvmuDlh6Y8GRkLVYA22fH"
     },
     {
       "album": {

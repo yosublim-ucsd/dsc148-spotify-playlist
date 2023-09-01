@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 479628,
+  "num_followers": 479747,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWJlMTFiMDQ0YjRkNDgzNTc4NTEwYzA0MjAwNWNmYTQ2NmYwNTlh",
+  "snapshot_id": "MCwzMzMxMzFmNjE5OTEwYTc1MDY5MGFjYjU2YmU0ODIyM2I3YjU3NThk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Every Hour Is A Dollar Gone",
-        "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
-      },
-      "artists": [
-        {
-          "name": "Patrick Sweany",
-          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
-        }
-      ],
-      "duration_ms": 348706,
-      "name": "Them Shoes",
-      "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Magic Valley",
         "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 221469,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/6rF4s1wwsOa2EZF5MF6D3B"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Every Hour Is A Dollar Gone",
+        "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sweany",
+          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
+        }
+      ],
+      "duration_ms": 348706,
+      "name": "Them Shoes",
+      "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "In The Wild (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 181797,
       "name": "Raised By Wolves",
       "url": "https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/3uQFmhiS49mXaEw2DZbZRr"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Ruthless",
-        "url": "https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM"
-      },
-      "artists": [
-        {
-          "name": "JJ Wilde",
-          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
-        }
-      ],
-      "duration_ms": 187890,
-      "name": "The Rush",
-      "url": "https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Sea of Cowards",
         "url": "https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 215093,
       "name": "I Can't Hear You",
       "url": "https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM"
+      },
+      "artists": [
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        }
+      ],
+      "duration_ms": 187890,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8"
     },
     {
       "added_at": "2023-07-07 04:01:00",

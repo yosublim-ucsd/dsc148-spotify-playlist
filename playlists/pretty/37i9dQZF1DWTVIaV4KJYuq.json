@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 687875,
+  "num_followers": 687957,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzgwOThmODY2ZDk5NmI3MTIwOTFiMzM5OTMxOGVkZjdmZGM2MzMz",
+  "snapshot_id": "MCxmNmJiNWY2MmU5NWNkMTQ5OTVhZDA4MzAwMDhiMTQ5MTJiMjRhYTlh",
   "tracks": [
     {
       "added_at": "2023-08-21 14:49:33",
@@ -1029,20 +1029,20 @@
       "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
     },
     {
-      "added_at": "2023-08-21 14:49:33",
+      "added_at": "2023-08-28 16:11:48",
       "album": {
-        "name": "Gun Shy",
-        "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H"
       },
       "artists": [
         {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 251889,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
+      "duration_ms": 241663,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -1061,20 +1061,20 @@
       "url": "https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR"
     },
     {
-      "added_at": "2023-08-28 16:11:48",
+      "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H"
+        "name": "Gun Shy",
+        "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
         }
       ],
-      "duration_ms": 241663,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
+      "duration_ms": 251889,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7aVUPpEb9j2sSmgb4AdFWD"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 345773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 230813,
       "name": "Unchained Melody (feat. The Chapin Sisters)",
       "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 345773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
     },
     {
       "added_at": "2023-08-21 14:49:33",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-08-21 14:49:33",
       "album": {
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+    },
+    {
+      "added_at": "2023-08-21 14:49:33",
+      "album": {
         "name": "You'll Never Walk Alone",
         "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 118476,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
-    },
-    {
-      "added_at": "2023-08-21 14:49:33",
-      "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
     }
   ],
   "unique_name": "Classic Covers",

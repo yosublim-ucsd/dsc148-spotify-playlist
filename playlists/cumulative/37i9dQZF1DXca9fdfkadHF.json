@@ -572,10 +572,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 229040,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/0FFeZk78Oi8QkfwvJbvrAP"
+    },
+    {
+      "album": {
+        "name": "Cr\u00f3nicas del Rock Peruano",
+        "url": "https://open.spotify.com/album/2mHkM0wvLB7V8qNibFxB3c"
+      },
+      "artists": [
+        {
+          "name": "Chachi Luj\u00e1n",
+          "url": "https://open.spotify.com/artist/7y0peWaS8foIWpoTuLfO1Y"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229040,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/711rKcAa0NsjGDlfsJ0ghb"
     },
     {
       "album": {
@@ -1267,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Cr\u00f3nicas del Rock Peruano",
+        "url": "https://open.spotify.com/album/2mHkM0wvLB7V8qNibFxB3c"
+      },
+      "artists": [
+        {
+          "name": "Ivonne & Los Mercantiles",
+          "url": "https://open.spotify.com/artist/3joRWlQtbK3sxnIKE3zIRM"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "Sin Parar",
+      "url": "https://open.spotify.com/track/1pxcZ0CzsN6oRlraoAnUxE"
+    },
+    {
+      "album": {
         "name": "Cr\u00f3nicas del Rock Peruano, Vol. 3",
         "url": "https://open.spotify.com/album/5HLcA82W29prT29qKbdbUx"
       },
@@ -1296,7 +1332,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 239466,
       "name": "Sin Parar",
       "url": "https://open.spotify.com/track/4NpcGehrYPDq0KcbGMQqTz"

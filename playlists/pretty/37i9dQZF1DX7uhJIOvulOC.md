@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uhJIOvulOC.md) - [plain]
 
 > There are 7 billions ways to listen to this playlist...Listen to all the tracks from Kaleidoscope, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,648 likes - 25 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,659 likes - 25 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uhJIOvulOC.md) - [plain]
 | 24 | [Moody Blues](https://open.spotify.com/track/27hcY2AQMyLxFjo62Rz6MW) | [Dominic Lewis](https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U) | [Kaleidoscope \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5NneE2ZErwmfooc3nyj5y3) | 2:21 |
 | 25 | [Mellow Yellow](https://open.spotify.com/track/6d9r6Ylqk90SFejCA8Ggar) | [Dominic Lewis](https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U) | [Kaleidoscope \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5NneE2ZErwmfooc3nyj5y3) | 0:58 |
 
-Snapshot ID: `MCwzMzRlMmMxYTBhNjlkNTZkNDlmM2E4MjFiZmU4Mjg2OWYxZDNhOTVh`
+Snapshot ID: `MCxkNDYyNDkzOWM1ZDQ1MTEzODY3YmU5ZDU3NTE4NzI0ZGNiNjc3YmIx`

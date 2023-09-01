@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-127 songs - 7 hr 16 min
+129 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Poidhana](https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP) | 2:55 | 2023-06-16 |  |
 | [Pona Pongadi](https://open.spotify.com/track/44EKpEa7RPINMRh70iJiRZ) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Pona Pongadi](https://open.spotify.com/album/30WzaLds8K34mD3vvVkaAg) | 3:18 | 2023-04-03 | 2023-07-25 |
 | [Pongal Puliyodharai](https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [RamGanesh K](https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M) | [Pongal Puliyodharai](https://open.spotify.com/album/5wViXAX88oexvwv18gE447) | 2:49 | 2023-04-03 |  |
+| [Pozhudhugal](https://open.spotify.com/track/5AzjLBpTMQAVolbzZ5dzJH) | [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Pozhudhugal](https://open.spotify.com/album/3y77bo40iqv3V5cvGrQRAH) | 2:26 | 2023-08-31 |  |
 | [Puppy Shame](https://open.spotify.com/track/2vDNF1Zqka9bCL9doi0oOs) | [Niranjan Babu](https://open.spotify.com/artist/0hiOFbSIkPddlp9Tm8WDtZ) | [Puppy Shame](https://open.spotify.com/album/61TbT5yHdtEWfOXlFyxA7u) | 2:26 | 2023-06-30 |  |
 | [Puzhudhi \| Coke Studio Tamil](https://open.spotify.com/track/4ZoDl4LLSQfAnXkdO6OlXC) | [JHANU](https://open.spotify.com/artist/0L1IXK07lAo0FQ2wfij2k7), [Muthu](https://open.spotify.com/artist/4qDuBS2e3XRO3LOFm8niSY), [Mutthammaal](https://open.spotify.com/artist/2k5kyg530rSRhTd0EbyJl7), [JK & Crew](https://open.spotify.com/artist/59ehEIM4v5mpHMy9so6vRW) | [Puzhudhi \| Coke Studio Tamil](https://open.spotify.com/album/54gCOKcdYFvl0sRhHUj87u) | 4:14 | 2023-07-28 |  |
 | [Rain Rain Poi Thola](https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Rain Rain Poi Thola](https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR) | 3:28 | 2023-06-05 |  |
@@ -124,6 +125,7 @@
 | [Theendum Dhooram \- Unplugged](https://open.spotify.com/track/0bp4VHhD7BmOaIDSAhRhSA) | [Ritchie Godson Paul](https://open.spotify.com/artist/5jhGaixWICC5S0iZfD48pd) | [Theendum Dhooram \(Unplugged\)](https://open.spotify.com/album/66k08a6WrDYlmZ5HDqYQmt) | 3:26 | 2023-04-06 | 2023-08-08 |
 | [Theera](https://open.spotify.com/track/2lQ49y0CZ9jhfINsc7NuZO) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Theera](https://open.spotify.com/album/0pXbIwIirbseVMHcbLyKtp) | 4:02 | 2023-07-17 |  |
 | [Tholayure Naane](https://open.spotify.com/track/0D0ZSPvk2MBrs1eZHvoKUH) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Melvin Miranda](https://open.spotify.com/artist/3MExCdgEfpNZSuyTNpSOoM), [Ramya Thayaparan](https://open.spotify.com/artist/6KYB4Y0VbDZctjudPJW64n) | [Tholayure Naane](https://open.spotify.com/album/0p0gT8n4fce9bX7mvElJpN) | 3:07 | 2023-03-21 |  |
+| [Tiku Tiku](https://open.spotify.com/track/2zkaNq1IKAMj6ZJtrnJ8QS) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3), [Semma Beatz](https://open.spotify.com/artist/4tsBTuI0pVEH7tcFVf2AT0) | [Tiku Tiku](https://open.spotify.com/album/6RgQLkX8shhcr54Ptc2lJ0) | 2:33 | 2023-08-31 |  |
 | [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/5jXXPxjxHz3jElEhThuf4h) | [Santhosh Balaji](https://open.spotify.com/artist/3DvjtASVI8Czc44WMEn3js), [Amina Rafiq](https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi), [Ziya Hadhijath](https://open.spotify.com/artist/1sxG5QLaWGQgod5F65vloL) | [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/1hVP6zvpF7uwYodfGhy3os) | 3:44 | 2023-08-04 |  |
 | [Vaa Poola](https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vaa Poola](https://open.spotify.com/album/5zmj9MOy7GegpfEyoivwcv) | 2:35 | 2023-05-08 | 2023-07-25 |
 | [Vaadi Nenjukulla](https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08) | [Ajees](https://open.spotify.com/artist/0KmDf97GDps7NgF7TXFrO1), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [Vaadi Nenjukulla](https://open.spotify.com/album/4w8PnoaGOk64ocgSLKl9sW) | 4:10 | 2023-08-11 |  |

@@ -1949,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Little Cat",
+        "url": "https://open.spotify.com/album/2QsXtBg2CG4EAeto6zQMUC"
+      },
+      "artists": [
+        {
+          "name": "Celeste Saga",
+          "url": "https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67295,
+      "name": "Little Cat",
+      "url": "https://open.spotify.com/track/6dHzijXrFnRCsCzPyiwLPJ"
+    },
+    {
+      "album": {
         "name": "Little Dreamers",
         "url": "https://open.spotify.com/album/6oV11mfEZwRux1ESS3ZCz4"
       },

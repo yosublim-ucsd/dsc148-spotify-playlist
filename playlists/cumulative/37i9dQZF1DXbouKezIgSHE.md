@@ -4,7 +4,7 @@
 
 > Where drum & bass comes alive\. Cover: Venbee, Rudimental
 
-136 songs - 8 hr 41 min
+139 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Everytime](https://open.spotify.com/track/10MD7W4hGHaC8XavbKg5Gr) | [Solsta](https://open.spotify.com/artist/1NCH7h2KWh82zxiriFUh3A) | [Everytime](https://open.spotify.com/album/0qGAdUjRbPfSJjACBywbVk) | 3:28 | 2023-07-27 |  |
 | [Fall](https://open.spotify.com/track/1gfWf2AnJtLckqo9pRFI4p) | [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5), [Dolly Rae](https://open.spotify.com/artist/0wB5diKi6MD5CqXoJ3h6lJ) | [Fall](https://open.spotify.com/album/797htxFmHyEMgc4mBz1q9h) | 3:47 | 2022-06-08 |  |
 | [FALLING \(Montell2099 Remix\)](https://open.spotify.com/track/3Qpcna4kilzf6YUNskGCaI) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [FALLING \(Montell2099 Remix\)](https://open.spotify.com/album/770hUl6aOKXGmwTRPCL6uw) | 3:51 | 2023-08-24 |  |
+| [Far Gone](https://open.spotify.com/track/3ldDEYQtNU2xqXqMRZiI7Y) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [Far Gone](https://open.spotify.com/album/3sAEf2yZVihxGrWi95FcYa) | 3:35 | 2023-08-31 |  |
 | [Fateful Hour](https://open.spotify.com/track/5ZwvPXsvqWOr2XcDZ1ohu6) | [Black Sun Empire](https://open.spotify.com/artist/3PAXvY08KxX5HmCsmKw4x8), [State of Mind](https://open.spotify.com/artist/6Piel9jEbV4Qb18Yw1B2dI) | [Fateful Hour](https://open.spotify.com/album/0jkK70i3xZ2y3qeHBWSQ4T) | 4:37 | 2022-06-08 | 2023-08-25 |
 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 | 2023-08-03 |  |
 | [Fight You](https://open.spotify.com/track/5gv7MLLwa8Bqk2ototHmfI) | [V O E](https://open.spotify.com/artist/3t8Pn6gip5ndfX7mGIymYm) | [Fight You](https://open.spotify.com/album/2hn9kRqS6Nxta7Cvj4K6Bj) | 4:44 | 2022-06-08 | 2023-06-02 |
@@ -82,6 +83,7 @@
 | [Let It Out](https://open.spotify.com/track/4e9q1J9F4r73HnoISaCims) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Joshua Luke](https://open.spotify.com/artist/1GCIBl7qMUgfxoixradAQj) | [Let It Out](https://open.spotify.com/album/54h3f4ebcouQqG55PBTCVX) | 3:43 | 2022-06-08 |  |
 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 | 2023-06-16 |  |
 | [Lofi Love](https://open.spotify.com/track/5F210oygZ6fMAvbznWrjwJ) | [Sly Chaos](https://open.spotify.com/artist/02QaTKGbI6W9D80tPSqJ6i), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Lofi Love](https://open.spotify.com/album/7fUAeXxYUirpCyQJuykaJt) | 4:52 | 2022-06-08 |  |
+| [LOSING CONTROL](https://open.spotify.com/track/2ttzQl3LGS6KzZzmAfsJO9) | [SCARFIE](https://open.spotify.com/artist/2R8zVvvuMcLVeOYwOZ9FoY) | [LOSING CONTROL](https://open.spotify.com/album/7nVBV3KH8GQ6y32pEQw3Po) | 3:46 | 2023-08-31 |  |
 | [Lunar](https://open.spotify.com/track/4vlHKFZn8QUVBpxUiDmJV7) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Lunar](https://open.spotify.com/album/5DgnHAx4WiRSEXClI0Auso) | 6:45 | 2023-08-17 | 2023-08-30 |
 | [Lunar](https://open.spotify.com/track/7HbLJLFkJIKZBMiaESie2Y) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Lunar](https://open.spotify.com/album/1bAPD0OxyJzqbb7a7jjipI) | 6:45 | 2023-08-24 |  |
 | [Madness](https://open.spotify.com/track/4A2JeNiPJLtMYhimPThNv6) | [B.O.M](https://open.spotify.com/artist/3obWOc3Iq15TgW0pTDY2RK), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Madness](https://open.spotify.com/album/1mrEcrd7eTfxOxjOxaXNgS) | 3:21 | 2022-06-08 |  |
@@ -90,6 +92,7 @@
 | [Moments \(feat\. Aerborn\)](https://open.spotify.com/track/2JRHI6fTfc6yYHiRsPpSN5) | [Fitch](https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege), [Hexl](https://open.spotify.com/artist/4iJkP0sXV9RmVpGKSPt5Fq), [Aerborn](https://open.spotify.com/artist/0DKuAUrRIPmC6hFe21M1UX) | [Moments \(feat\. Aerborn\)](https://open.spotify.com/album/5Qs6vTTUVXfmSK9EzU4TsH) | 4:58 | 2022-06-08 |  |
 | [Monolith](https://open.spotify.com/track/1pvHTmHwlsEZx5cVIbNKZD) | [VovKING](https://open.spotify.com/artist/5cv42gJ8QCmmPQ4h8DjsdH) | [Monolith / Collagen](https://open.spotify.com/album/4Hn4zbNH6NRnhtYpWq4xVb) | 4:12 | 2022-06-08 |  |
 | [Need You](https://open.spotify.com/track/1WmXeORMF1zr2susRy4o3I) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Need You](https://open.spotify.com/album/72dZ8LkaW4BlFII1oRS8CL) | 4:05 | 2023-06-16 |  |
+| [Never B Mine](https://open.spotify.com/track/17NH8SZGxFPpfEEAoeo7eY) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kioto Bug](https://open.spotify.com/artist/0i99tSK0Uhaagw5Y85epY3) | [Never B Mine](https://open.spotify.com/album/090uN4F14IQk0IRqzmnDAg) | 3:29 | 2023-08-31 |  |
 | [Night Rides](https://open.spotify.com/track/3tN8LD5PN1i2Ql5Tmb5ZFO) | [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Night Rides](https://open.spotify.com/album/4PV68EsAFU8IzM2KIOAcNG) | 3:47 | 2023-06-01 |  |
 | [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-06-08 |  |
 | [Nyx](https://open.spotify.com/track/55oEMPn7GcYw0QnEPC7JRR) | [Neonlight](https://open.spotify.com/artist/1dDzlLlakr2JyoK4EtRv5L), [State of Mind](https://open.spotify.com/artist/6Piel9jEbV4Qb18Yw1B2dI) | [Prophecy & Nyx](https://open.spotify.com/album/2jRDWwBxGM3YkRzY93r2xK) | 4:08 | 2022-06-08 |  |

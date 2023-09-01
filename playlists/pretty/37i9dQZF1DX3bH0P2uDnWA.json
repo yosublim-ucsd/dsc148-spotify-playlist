@@ -1,13 +1,33 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 368175,
+  "num_followers": 368295,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGFkOGMxZjVhYTBhNjc4ZTZmYjM2MGJmMTJmMzhiNzVlZmE3M2Y5",
+  "snapshot_id": "MCxkYTAwNmQ2ZjJjYmUzOTJjNjUzMGNjYTlmODgxODJkMGM2ZTVjNjkz",
   "tracks": [
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Sway (Swing House Mix)",
+        "url": "https://open.spotify.com/album/03MiXrCnXuM5zgfkTDnnR7"
+      },
+      "artists": [
+        {
+          "name": "Betty Booom",
+          "url": "https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg"
+        },
+        {
+          "name": "Masha Ray",
+          "url": "https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW"
+        }
+      ],
+      "duration_ms": 150353,
+      "name": "Sway - Swing House Mix",
+      "url": "https://open.spotify.com/track/2Y6dVNYKzjDoc5gvPDHxFV"
+    },
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
@@ -31,6 +51,22 @@
       "duration_ms": 203225,
       "name": "Volare - Electro Swing Mix",
       "url": "https://open.spotify.com/track/5lW4pCHSVtDn1qzgbnQKCq"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/0HSY1fiyh4S76MHLeuMuf3"
+      },
+      "artists": [
+        {
+          "name": "Elle & The Pocket Belles",
+          "url": "https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "100",
+      "url": "https://open.spotify.com/track/6m4ftKNtuB9zPqdSXAYBLt"
     },
     {
       "added_at": "2022-11-07 16:43:23",

@@ -2,7 +2,7 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Relax to these acoustic soul songs\. Cover: Jacob Banks
+> Relax to these acoustic soul songs\. Cover: Mychelle
 
 197 songs - 11 hr 54 min
 

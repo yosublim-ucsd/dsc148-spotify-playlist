@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Sreenath Bhasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,648 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,837 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kotha Raja](https://open.spotify.com/track/10Ve2mQ4hTWtgqR6MbmJyf) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Resmi Sateesh](https://open.spotify.com/artist/3Fj6TOcW3jdLmiHGaXLMAX) | [King of Kotha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ) | 4:33 |
 | 2 | [THALAKKANAM](https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36) | 2:51 |
-| 3 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/1d7vMtlpp0T6IhDe4cog3t) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Scene Mone \(From "Rdx"\)](https://open.spotify.com/album/78W11DytRChbuWspZygdyi) | 3:26 |
-| 4 | [King of Kotha \- Title Track](https://open.spotify.com/track/1eDHz1S9HJYfBbI2UW7yvU) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [King of Kotha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ) | 3:02 |
-| 5 | [POGALLEY](https://open.spotify.com/track/2sBVokjCyOYJSbiJaeq3Ni) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 2:55 |
+| 3 | [King of Kotha \- Title Track](https://open.spotify.com/track/1eDHz1S9HJYfBbI2UW7yvU) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [King of Kotha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ) | 3:02 |
+| 4 | [POGALLEY](https://open.spotify.com/track/2sBVokjCyOYJSbiJaeq3Ni) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 2:55 |
+| 5 | [Hope](https://open.spotify.com/track/2nujuLW4cF1iqUXQvcPL5Q) | [Praveen Kay William](https://open.spotify.com/artist/5klbbSjhiOCdvF5iYYatcf), [Jibin Krishna](https://open.spotify.com/artist/7ys1Gv482wuxQRWcGH1FfK) | [Hope](https://open.spotify.com/album/6pgDb9UUgOUF8ugOHSL0px) | 3:42 |
 | 6 | [Malsaram Ennodu Thanne](https://open.spotify.com/track/1jiH9jO3EzQ1BwdCoQXP0R) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Malsaram Ennodu Thanne](https://open.spotify.com/album/50unVeEWf2KAz83YOnU565) | 3:22 |
 | 7 | [BANDANA](https://open.spotify.com/track/5n0H86Axz5rqTyv8ljXZ8X) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [BANDANA](https://open.spotify.com/album/4UiGCvmgCLtDvrCBheMLNR) | 2:13 |
 | 8 | [ABCD](https://open.spotify.com/track/0N1JEwXlDAcwwN7kLGgeOc) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [ABCD](https://open.spotify.com/album/24EIh5nGjpZhau23E1rNBo) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 74 | [Lokam Mayakathilo](https://open.spotify.com/track/22QA31omSDg4TvqgxaJBPO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Blesslee](https://open.spotify.com/artist/0Gl81Y0B87WITIgM34VLGZ), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Lokam Mayakathilo](https://open.spotify.com/album/43xEqVTSaLK0Yn1TrffeXS) | 4:36 |
 | 75 | [Karayunnathu Enthina](https://open.spotify.com/track/2Iyyorj6O6HX5aCvlkdEJU) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Karayunnathu Enthina](https://open.spotify.com/album/1gz55jhUDXOmFkOFuUCCkw) | 4:31 |
 
-Snapshot ID: `MCxjZDJlNzcyY2QzMDY3MjcwNDA1NTViMTYyNzRkNzA3NWYyZmQ1MDMz`
+Snapshot ID: `MCwxMTAzZDY4ZTM3YjJjZGE1N2IxY2ExZGVkYWY5NDk1NDY4OGQzYjA4`

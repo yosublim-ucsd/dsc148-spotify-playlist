@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1518522,
+  "num_followers": 1518819,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjFiMDM1OGNkOTAzMDcxOWYwNzQ0YWYyN2NiZjhlZGNlNmE4Njky",
+  "snapshot_id": "MCwyZWMyMWVkN2QyYzJmMTk0ZTBkYzdkZWI2ZmE5Y2Y1OTExMTc4MGZk",
   "tracks": [
     {
       "added_at": "2022-08-31 15:13:54",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Playlist: The Best Of The Trammps",
-        "url": "https://open.spotify.com/album/2fbPRtAt1i5f68lZegx1iB"
-      },
-      "artists": [
-        {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Disco Inferno - Edit",
-      "url": "https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 290160,
       "name": "Love Rollercoaster",
       "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Playlist: The Best Of The Trammps",
+        "url": "https://open.spotify.com/album/2fbPRtAt1i5f68lZegx1iB"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Disco Inferno - Edit",
+      "url": "https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu"
     },
     {
       "added_at": "2022-08-31 15:13:54",

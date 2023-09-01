@@ -1719,7 +1719,7 @@
     },
     {
       "album": {
-        "name": "Jessica (with SAINt JHN, Charly Black & J Perry)",
+        "name": "Jessica (with J Balvin, SAINt JHN, Charly Black & J Perry)",
         "url": "https://open.spotify.com/album/1DLEZ4s6lIu88XGfU3qXuF"
       },
       "artists": [
@@ -1728,23 +1728,27 @@
           "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         },
         {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
           "name": "SAINt JHN",
           "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
         },
         {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
           "name": "J Perry",
           "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
         }
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181224,
-      "name": "Jessica (with SAINt JHN, Charly Black & J Perry)",
+      "name": "Jessica (with J Balvin, SAINt JHN, Charly Black & J Perry)",
       "url": "https://open.spotify.com/track/4e6a6yMJvPZItd0l4KTs1p"
     },
     {

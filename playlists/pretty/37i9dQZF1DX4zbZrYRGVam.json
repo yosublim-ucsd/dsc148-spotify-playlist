@@ -1,12 +1,12 @@
 {
   "description": "The hottest songs this summer",
-  "num_followers": 52507,
+  "num_followers": 52517,
   "original_name": "Songs of Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODc3OGI1Y2JjNWU3YTY3NmI3OTNmMTA0NDYzM2U0N2UxZGU5OTE5",
+  "snapshot_id": "MCw2NmQ0ZTcyMGM1NDBjYTkzY2FkM2M0OWJjY2QyYzZhYWM1Mzg1Mjc5",
   "tracks": [
     {
       "added_at": "2023-08-23 03:59:00",
@@ -104,7 +104,7 @@
       "added_at": "2023-08-23 03:59:00",
       "album": {
         "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
       "artists": [
         {
@@ -118,7 +118,7 @@
       ],
       "duration_ms": 194563,
       "name": "un x100to",
-      "url": "https://open.spotify.com/track/4QctbZRsuWYPT0pbKg7u75"
+      "url": "https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD"
     },
     {
       "added_at": "2023-08-23 03:59:00",
@@ -285,7 +285,7 @@
         }
       ],
       "duration_ms": 176579,
-      "name": "Dance The Night (From Barbie The Album)",
+      "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {

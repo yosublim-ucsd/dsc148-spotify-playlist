@@ -4,12 +4,13 @@
 
 > Celebrate Dad with these songs for the whole family.
 
-47 songs - 1 hr 44 min
+48 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Sky Full of Stars](https://open.spotify.com/track/2VeLdiYiILcCOEV0izfzEW) | [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:26 | 2023-06-08 |  |
-| [Bestest Daddy In The World](https://open.spotify.com/track/3XLp0dtA6z9RN4tNZIKfrz) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Club: The Album](https://open.spotify.com/album/3D7OGf4T8gY6AsEzUL3AKp) | 3:19 | 2023-06-08 |  |
+| [Bestest Daddy In The World](https://open.spotify.com/track/3XLp0dtA6z9RN4tNZIKfrz) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Club: The Album](https://open.spotify.com/album/3D7OGf4T8gY6AsEzUL3AKp) | 3:19 | 2023-06-08 | 2023-09-01 |
+| [Bestest Daddy In The World](https://open.spotify.com/track/6Sg1I6fRIKvaCZR0oGM9Wz) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Club: The Album](https://open.spotify.com/album/1gvEE7Eq5LllbwwgvoCCht) | 3:19 | 2023-06-08 |  |
 | [Cody's Father And Son Day](https://open.spotify.com/track/0iWPS7NqzxwvVfFcJMMT4Z) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/3Nj7a1Yx8VTrUZMQ3z2xEN) | 2:54 | 2022-04-08 | 2022-07-29 |
 | [Cody's Father And Son Day](https://open.spotify.com/track/3pIr7dWddZ7x3l9u6m6VGE) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/5kHnimhvYsAw8tIiH5lM5w) | 2:54 | 2022-04-08 |  |
 | [Cool Dad](https://open.spotify.com/track/6TKG8t6wMW7xwPz89IVDlF) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P), [Billy B](https://open.spotify.com/artist/6q22S1wbS1Eg7NbOQVA04o) | [Cool Dad](https://open.spotify.com/album/4Gn2D9bQMnETCm9SbQrX34) | 1:36 | 2022-04-08 |  |

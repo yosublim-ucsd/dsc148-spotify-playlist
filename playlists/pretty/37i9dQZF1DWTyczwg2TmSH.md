@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Music from Ladies First: A Story of Women in Hip\-Hop, streaming now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,334 likes - 31 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,529 likes - 31 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 | 30 | [Mind Yo Business \(feat\. Latto\)](https://open.spotify.com/track/1GXZk5WpfVSjFL6wEE2SnK) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 2:02 |
 | 31 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
 
-Snapshot ID: `MCwzNTdjOTE2ZTVjNTkzMmU1YjRjYjUzOWE1ZGNjNjYzZGE3ZGIxODNk`
+Snapshot ID: `MCwyZjcxMGUwYmQwZmJhZmM4NTQ4MzNiYWI5NTg3ZjAwYzE0MTFmMTNh`

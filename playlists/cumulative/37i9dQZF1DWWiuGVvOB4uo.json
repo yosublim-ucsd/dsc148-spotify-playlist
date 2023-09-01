@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 213883,
       "name": "Blanket On The Ground",
       "url": "https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 167094,
       "name": "California",
       "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 195352,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/61xloqK2WobSa8A9HhxR1T"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 163414,
       "name": "Hallelujah I Love Her So",
       "url": "https://open.spotify.com/track/4Fuyarf5fHo2zJ6GoYC48N"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 198274,
       "name": "Plowed",
       "url": "https://open.spotify.com/track/3F3fUJdadTQEqO81ZWF5ZK"
@@ -4330,7 +4330,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 141237,
       "name": "Someone I Used To Know",
       "url": "https://open.spotify.com/track/3cQlRg6dG0hdA2r9MWtXAW"
@@ -4490,6 +4490,24 @@
       "duration_ms": 222272,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/5nt4jj7r2dCnR9chlOaiur"
+    },
+    {
+      "album": {
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/2A7NsEN1bbpAROAOiRIGkC"
+      },
+      "artists": [
+        {
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211257,
+      "name": "Still The One",
+      "url": "https://open.spotify.com/track/1euXH7sEOodtVT7S4QNYRD"
     },
     {
       "album": {
@@ -4944,6 +4962,24 @@
       "duration_ms": 168289,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf"
+    },
+    {
+      "album": {
+        "name": "WHAT THE HELL ARE WE DYING FOR?",
+        "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
+      },
+      "artists": [
+        {
+          "name": "Macy Ellen",
+          "url": "https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "WHAT THE HELL ARE WE DYING FOR?",
+      "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Where music meets fashion\. Soundtrack for designer Sade Mims.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,710 likes - 68 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,851 likes - 68 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 67 | [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 |
 | 68 | [Party Life](https://open.spotify.com/track/1NGpVJjyQpsZRURcJTplfk) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [American Gangster](https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5) | 4:29 |
 
-Snapshot ID: `MCwxNjU0NzJkYzg4YjEzZDljZTkxODViMzhhOTE2MGE3ZDFkMjlhZDk4`
+Snapshot ID: `MCxlOTdjY2I1ZWEyOGFhMjczYzJhZmQxM2Q1MDYwNzA0ZDM0ZmE1YzNj`

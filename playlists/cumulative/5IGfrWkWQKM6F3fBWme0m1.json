@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/4GeaUbhiw5M0lOkuJM9Fyj"
+      },
+      "artists": [
+        {
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216939,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/0Aulx5E3gsvcy8W72U1A06"
+    },
+    {
+      "album": {
         "name": "Always Yours",
         "url": "https://open.spotify.com/album/5gaapjn65UKgd0sr9WrorV"
       },
@@ -3367,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/3189NFSUEsNH5ogV09mbpn"
+      },
+      "artists": [
+        {
+          "name": "Waleed",
+          "url": "https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235647,
+      "name": "Diario",
+      "url": "https://open.spotify.com/track/1EICJtwEhSLS2HiIV3Jq69"
+    },
+    {
+      "album": {
         "name": "Fires In Heaven",
         "url": "https://open.spotify.com/album/1G9NXS6bwV9JHeaCNETAFI"
       },
@@ -4472,6 +4508,24 @@
       "duration_ms": 335383,
       "name": "Fold",
       "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
+    },
+    {
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292359,
+      "name": "Folie",
+      "url": "https://open.spotify.com/track/6gQ61KkNOkt2P5Ek8Ky5xj"
     },
     {
       "album": {
@@ -8767,6 +8821,24 @@
     },
     {
       "album": {
+        "name": "no pasa nada",
+        "url": "https://open.spotify.com/album/4rqzz39TFYZqLt5cUdXtGr"
+      },
+      "artists": [
+        {
+          "name": "GAZZI",
+          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "no pasa nada",
+      "url": "https://open.spotify.com/track/2TzCDf2EwNUYExReOUiiBZ"
+    },
+    {
+      "album": {
         "name": "The Anteroom",
         "url": "https://open.spotify.com/album/0hCuM8sgQPmlvgWVvVfiE1"
       },
@@ -11451,13 +11523,31 @@
     },
     {
       "album": {
+        "name": "Slut Hymn",
+        "url": "https://open.spotify.com/album/5HvKXfiHNxWA6Wequ40Yat"
+      },
+      "artists": [
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197863,
+      "name": "Slut Hymn",
+      "url": "https://open.spotify.com/track/4ItM3aP7d6evX3WnEKaY9h"
+    },
+    {
+      "album": {
         "name": "Vergangenheitsbew\u00e4ltigung (Crater Speak)",
         "url": "https://open.spotify.com/album/17uupRHl1nhYZLoEiEKXqD"
       },
       "artists": [
         {
           "name": "Slauson Malone 1",
-          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+          "url": "https://open.spotify.com/artist/2pPtktkmT5TCBXMQWhfZvj"
         }
       ],
       "date_added": "2020-10-30",
@@ -11751,6 +11841,28 @@
     },
     {
       "album": {
+        "name": "Sonic Sunrise, The Ultimate Alarm",
+        "url": "https://open.spotify.com/album/6tLNp6iloXlh6Jt1Eh96PQ"
+      },
+      "artists": [
+        {
+          "name": "Dialect",
+          "url": "https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5"
+        },
+        {
+          "name": "Lyz Cooper",
+          "url": "https://open.spotify.com/artist/777jKazAu5uXzSHthIfgBJ"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Sonic Sunrise, The Ultimate Alarm",
+      "url": "https://open.spotify.com/track/7za04XnoiEtm128TXoF3GA"
+    },
+    {
+      "album": {
         "name": "Sorbet / Diving",
         "url": "https://open.spotify.com/album/117zW3x2dp82fQq0vu8sCu"
       },
@@ -11878,6 +11990,24 @@
       "duration_ms": 385774,
       "name": "Standing by the 260",
       "url": "https://open.spotify.com/track/1SOkYYfMJ4PeHgfFoNxHAL"
+    },
+    {
+      "album": {
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
+      },
+      "artists": [
+        {
+          "name": "Solomon Fesshaye",
+          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263630,
+      "name": "Star City",
+      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
       "album": {
@@ -12022,6 +12152,44 @@
       "duration_ms": 337570,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3q9GxRuCLbzUbIQcQYFXAo"
+    },
+    {
+      "album": {
+        "name": "Stop & Go (Jacques Greene Remix)",
+        "url": "https://open.spotify.com/album/65L6gpLAx79hEel2GDveqp"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "LuuDaDeejay",
+          "url": "https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231721,
+      "name": "Stop & Go - Jacques Greene Remix",
+      "url": "https://open.spotify.com/track/1Aa1ZTsxrNPWehEriKJxnK"
     },
     {
       "album": {
@@ -13110,6 +13278,32 @@
       "duration_ms": 304000,
       "name": "Tom Tom Club",
       "url": "https://open.spotify.com/track/6GOwUtdXF3h3H9MtiXxReR"
+    },
+    {
+      "album": {
+        "name": "Too Close",
+        "url": "https://open.spotify.com/album/3WxC9B4azmE7Y4RpwPx39b"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224839,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/0FlYCmQM5q3TcdvwRT53Tt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Manuel Turizo & Grupo Frontera.
 
-1,413 songs - 3 day 11 hr 33 min
+1,414 songs - 3 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,8 @@
 | [El Aguardiente](https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Aguardiente](https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF) | 3:15 | 2023-08-11 | 2023-08-19 |
 | [El Amarrao](https://open.spotify.com/track/3QXcVPbuovegcEDzdqilHK) | [Gran Orquesta Internacional](https://open.spotify.com/artist/0MPeKXKU2ugNI2Or2k5tds) | [El Amarrao](https://open.spotify.com/album/4oQ8bo0CpEJGNYIZWVOjrh) | 3:49 | 2023-04-07 | 2023-04-15 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-08-18 |  |
-| [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-04 |  |
+| [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 | 2023-08-25 |  |
+| [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-04 | 2023-09-01 |
 | [El Año Viejo](https://open.spotify.com/track/5ag1JCfEYBoLVrIopCE30t) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [El Año Viejo](https://open.spotify.com/album/63qEmOaqZnrcxpvPb1vqmQ) | 2:44 | 2022-12-23 | 2023-01-14 |
 | [El Borrachin](https://open.spotify.com/track/1ND3NqWctsQSR8G15DG1vH) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [El Borrachin](https://open.spotify.com/album/0iGTwJCYxV7UaNPeICeDjc) | 3:03 | 2022-07-01 | 2022-07-09 |
 | [El Callejón](https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI) | [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2) | [El Callejón](https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW) | 4:16 | 2023-07-21 | 2023-07-29 |

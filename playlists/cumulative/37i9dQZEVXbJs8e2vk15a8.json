@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 259910,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/367069JY6QWPaCJM21OVBC"
@@ -16146,6 +16146,28 @@
     {
       "album": {
         "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35"
+    },
+    {
+      "album": {
+        "name": "El Comienzo",
         "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
       },
       "artists": [
@@ -16160,7 +16182,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 221601,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/2no3AeFeRxHhoY7lJ9X4bM"
@@ -19512,6 +19534,24 @@
       "duration_ms": 125508,
       "name": "RITMADINHA DAN\u00c7ANTE",
       "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
+    },
+    {
+      "album": {
+        "name": "RITMO BRUTALISMO (Sped Up)",
+        "url": "https://open.spotify.com/album/4w8hhYFmueIlPtBmLT1sNC"
+      },
+      "artists": [
+        {
+          "name": "Xllie!",
+          "url": "https://open.spotify.com/artist/71q5DhoPQTmQ8JpwKOp1FZ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121287,
+      "name": "RITMO BRUTALISMO - Sped Up",
+      "url": "https://open.spotify.com/track/1uCDg9WDXzG5j1tVqnFNBR"
     },
     {
       "album": {

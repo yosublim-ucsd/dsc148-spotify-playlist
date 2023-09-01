@@ -4,7 +4,7 @@
 
 > a state of mind.
 
-103 songs - 6 hr 5 min
+104 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2023-04-14 |  |
 | [Ring of Fire](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ring Of Fire: The Best Of Johnny Cash](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) | 2:38 | 2023-04-14 |  |
 | [Rode Hard and Put up Wet](https://open.spotify.com/track/2YwuLjgUJYlS9AQFLW1MxX) | [Marshall Chapman](https://open.spotify.com/artist/10NyEvFwxog3iXO1IBYla9) | [Me, I'm Feelin' Free](https://open.spotify.com/album/6bdiWNrvbYmojW1IYQ2bXc) | 3:26 | 2023-04-14 |  |
-| [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 | 2023-04-14 |  |
+| [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 | 2023-04-14 | 2023-09-01 |
+| [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:12 | 2023-06-02 |  |
 | [Slow Movin' Outlaw \(with Lacy J\. Dalton\) \(with Lacy J\. Dalton\)](https://open.spotify.com/track/08ec3DeBtsxHgfo4JpIgvo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lacy J\. Dalton](https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l) | [Half Nelson](https://open.spotify.com/album/5aiJhTHf9AaDptNpOrAwyE) | 3:32 | 2023-04-14 |  |
 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 | 2023-04-14 |  |
 | [Somewhere South of Macon](https://open.spotify.com/track/72J7xbHVfQNB4WMqzHqutu) | [Marshall Chapman](https://open.spotify.com/artist/10NyEvFwxog3iXO1IBYla9) | [Me, I'm Feelin' Free](https://open.spotify.com/album/6bdiWNrvbYmojW1IYQ2bXc) | 3:26 | 2023-04-14 |  |

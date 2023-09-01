@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Karen Souza",
+  "description": "The best jazz new releases. Cover: Cautious Clay",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 235531,
       "name": "Can You Believe",
       "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
@@ -1543,6 +1543,28 @@
     },
     {
       "album": {
+        "name": "D'une \u00e9vidence \u00e0 l'autre",
+        "url": "https://open.spotify.com/album/4L8MCEUCzf4U6Le18mnB3X"
+      },
+      "artists": [
+        {
+          "name": "African Jazz Roots",
+          "url": "https://open.spotify.com/artist/0jMEzO2Klfb1iPwAGkFJrU"
+        },
+        {
+          "name": "Simon Goubert",
+          "url": "https://open.spotify.com/artist/3YJ9naKHSdmtwlKbYvpfyd"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293666,
+      "name": "D'une \u00e9vidence \u00e0 l'autre",
+      "url": "https://open.spotify.com/track/4sbVOd9hSB3rHxjQDlfIQX"
+    },
+    {
+      "album": {
         "name": "Dance Kobina",
         "url": "https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA"
       },
@@ -1828,6 +1850,32 @@
       "duration_ms": 369626,
       "name": "Dou",
       "url": "https://open.spotify.com/track/42F16X6WRCAFwPyRY4nH7O"
+    },
+    {
+      "album": {
+        "name": "Brexit Music",
+        "url": "https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        },
+        {
+          "name": "Greg Hutchinson",
+          "url": "https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o"
+        },
+        {
+          "name": "Matt Penmann",
+          "url": "https://open.spotify.com/artist/11XVTuKY8lRxcrbbysWYLr"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Drive My Car",
+      "url": "https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u"
     },
     {
       "album": {
@@ -2272,7 +2320,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
@@ -2324,7 +2372,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 155651,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5LiuMOK0jzDQS84UXtNOCk"
@@ -2638,6 +2686,28 @@
       "duration_ms": 341918,
       "name": "Have a Talk with God",
       "url": "https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O"
+    },
+    {
+      "album": {
+        "name": "Have A Talk With God",
+        "url": "https://open.spotify.com/album/46GEMh4lyKE3Y3XKKDH4Qf"
+      },
+      "artists": [
+        {
+          "name": "Jack Lee",
+          "url": "https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW"
+        },
+        {
+          "name": "Nathan East",
+          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341918,
+      "name": "Have A Talk With God",
+      "url": "https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa"
     },
     {
       "album": {
@@ -3084,7 +3154,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 264320,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/23gpK7yn4WbIVmsIYpoR0H"
@@ -3226,6 +3296,28 @@
       "duration_ms": 247973,
       "name": "Jammin' Tonight",
       "url": "https://open.spotify.com/track/0mUsrgWAbaoc6daw6z2HDO"
+    },
+    {
+      "album": {
+        "name": "Jazz Hands (feat. CeeLo Green)",
+        "url": "https://open.spotify.com/album/3womuEXUOjSxKvWvdmFgNv"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195849,
+      "name": "Jazz Hands (feat. CeeLo Green)",
+      "url": "https://open.spotify.com/track/5o0EnxQGxtzMH23QEiOsXL"
     },
     {
       "album": {
@@ -4668,7 +4760,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 212358,
       "name": "Outta the Blue with You",
       "url": "https://open.spotify.com/track/1Un6Xe3Ojn48KPWohouhWj"
@@ -5154,7 +5246,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb"
@@ -5314,6 +5406,28 @@
       "duration_ms": 386346,
       "name": "Sentimental Mode",
       "url": "https://open.spotify.com/track/67YeOUwdxg8bECbnUvi2RA"
+    },
+    {
+      "album": {
+        "name": "September in the Rain",
+        "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248862,
+      "name": "September In The Rain",
+      "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
     },
     {
       "album": {
@@ -6348,6 +6462,24 @@
       "duration_ms": 217906,
       "name": "To Feel My Love",
       "url": "https://open.spotify.com/track/1wHg9gkUj3sjT9juoZSdNR"
+    },
+    {
+      "album": {
+        "name": "Dolce Vita",
+        "url": "https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266066,
+      "name": "To S.",
+      "url": "https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c"
     },
     {
       "album": {

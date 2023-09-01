@@ -2,9 +2,9 @@
 
 ### [Tamil Indie](https://open.spotify.com/playlist/37i9dQZF1DWVPZhZJQP9HE)
 
-> Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
+> Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-437 songs - 1 day 1 hr 55 min
+438 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Insta Instagram](https://open.spotify.com/track/04Sp1e4G7xoTvGHcoMl6ou) | [Leo Peters](https://open.spotify.com/artist/4MMARjT8FuxvD3inBuloPW), [Naksha Saran](https://open.spotify.com/artist/2dRBC4Whl2IXFcVGq9cOpQ) | [Insta Instagram](https://open.spotify.com/album/4cEAdsQ5h7H0dl3QQECUX4) | 3:32 | 2022-02-23 | 2022-07-08 |
 | [International Perazhage](https://open.spotify.com/track/2mXDBH9Mgxt7XrOwYCP1oy) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [International Perazhage](https://open.spotify.com/album/1Cp9FvS11YeJfXNbBKnb6B) | 2:59 | 2022-11-02 |  |
 | [Iravillaa Maalai](https://open.spotify.com/track/2Z31haqJVZGymjwgdlBeo5) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Maanasi G Kannan](https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx) | [Iravillaa Maalai](https://open.spotify.com/album/2ZWTwG1Njr6D8zGRDB56V4) | 4:19 | 2023-05-10 |  |
-| [Isaiyai Nee](https://open.spotify.com/track/67nrUmAX18k5PLpmsBfald) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Nilukshan](https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL) | [Isaiyai Nee](https://open.spotify.com/album/2w0FPic0Oag0MZeyS3zmBz) | 4:03 | 2023-01-10 |  |
+| [Isaiyai Nee](https://open.spotify.com/track/67nrUmAX18k5PLpmsBfald) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Nilukshan](https://open.spotify.com/artist/2hBjBVtnPvVJ8HycacP7EL) | [Isaiyai Nee](https://open.spotify.com/album/2w0FPic0Oag0MZeyS3zmBz) | 4:03 | 2023-01-10 | 2023-09-01 |
 | [Ithu Ellam Unnale](https://open.spotify.com/track/6EbbVS4m0opr8cyVjIkgqR) | [Tajmeel Sheriff](https://open.spotify.com/artist/0SyOW7GFk4hsjBI0cztpI8) | [Ithu Ellam Unnale](https://open.spotify.com/album/5OjkUlvcyk24eMoS5wJJc6) | 4:38 | 2022-03-01 | 2022-05-31 |
 | [Ithu Engalin Desam](https://open.spotify.com/track/2QPP4MCbAwqdcq43EqxDiN) | [Paul Dany](https://open.spotify.com/artist/166XeaA9q60eXe9HA5nbgA), [Ashwin Johnson](https://open.spotify.com/artist/1okEkm8xBhv73zHcTnFimQ) | [Ithu Engalin Desam](https://open.spotify.com/album/1LVOWye5WdnhVSipUk89Cj) | 4:10 | 2023-01-20 | 2023-01-28 |
 | [Jai Bheem](https://open.spotify.com/track/1WX37OlJfPfppUOSOOT4c0) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 2:54 | 2022-07-27 | 2022-11-25 |
@@ -330,6 +330,7 @@
 | [Podhum Anbe](https://open.spotify.com/track/202SIQxkYbWmtnawrrO5k6) | [Ram SK](https://open.spotify.com/artist/6YqlCTnPB1qNu3PlPSnHnq), [Akira Da Rapwolf](https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4) | [Podhum Anbe](https://open.spotify.com/album/0zmn9wKIAAwO832M9njSjj) | 3:22 | 2022-11-09 | 2022-11-22 |
 | [Podhum Podhum](https://open.spotify.com/track/4j9tfODoDROp4fWAe7a2R7) | [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq) | [Podhum Podhum](https://open.spotify.com/album/4dfDWrgqAyD9lCfU6xvJcX) | 2:20 | 2022-05-14 | 2022-07-28 |
 | [Polambal](https://open.spotify.com/track/4b50BdPjp56Ir3QNiXTn07) | [Prasanna](https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ), [Viwin Frencies](https://open.spotify.com/artist/47ZrxtQrnCIPnKvYxGNdtx) | [Polambal](https://open.spotify.com/album/6ZKzJclfFSBK6lyPoLbMqU) | 3:32 | 2023-03-16 | 2023-03-23 |
+| [Pona Poraley](https://open.spotify.com/track/1Wbsi01k4nMBSXddvS4QrR) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Pona Poraley](https://open.spotify.com/album/4R9zIFu9n4FGOMiueIwqQ0) | 3:29 | 2023-08-31 |  |
 | [Ponnunga Kaadhal](https://open.spotify.com/track/1f0TU9VhujvprNI7ULktR5) | [Krishan Maheson](https://open.spotify.com/artist/090PjZy0HWrly2e5Tcpj8j), [Stylomannavan](https://open.spotify.com/artist/6o5yhCFKdMKNmQ8Qh804VG), [Kandappu Jeyanthan](https://open.spotify.com/artist/2dLsASzgLhQW4qJRVs2uy2) | [Ponnunga Kaadhal](https://open.spotify.com/album/03NwStJXgOvN3fG6fVBeDG) | 3:39 | 2021-12-01 | 2022-07-15 |
 | [Poongaatrudhaan](https://open.spotify.com/track/0hNeP2hBfUsl6NrxiNraOK) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3) | [Poongaatrudhaan](https://open.spotify.com/album/2P7ou7wLkqxHxldV3lvxla) | 3:06 | 2023-06-23 |  |
 | [Poonguzhali](https://open.spotify.com/track/3ZANFBb0o7ejabDb5SP4Fq) | [Hemanth Kumar MHD](https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV) | [Kangalin Badhilenna](https://open.spotify.com/album/2Ow26UUftyUsDl2cok4Orf) | 3:16 | 2022-02-25 | 2022-05-31 |
@@ -415,7 +416,7 @@
 | [Vaa Usure](https://open.spotify.com/track/45i5WYIG56kj7YMhLrVaHz) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B) | [Vaa Usure](https://open.spotify.com/album/6aNuYm0a25CMtsMOKI0dSy) | 3:15 | 2023-05-11 |  |
 | [Vaada Raasa](https://open.spotify.com/track/6RfgIiqwQNi6b1n0qaa6g0) | [Ken](https://open.spotify.com/artist/6uYgB2FmDEimp0hJJouph1), [Eshwar](https://open.spotify.com/artist/05e3yCFYzbJC96M1QuHk6S), [Grace Karunaas](https://open.spotify.com/artist/2zEQ0pc1VWUHsXv5gXXBHO) | [Vaada Raasa](https://open.spotify.com/album/0ZmshsAYVZrMktBsNXTsDA) | 3:56 | 2021-12-01 | 2022-11-17 |
 | [Vaadi En Chellakutty](https://open.spotify.com/track/4kn6th3uhNQtDxOrizmGuc) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Vaadi En Chellakutty](https://open.spotify.com/album/2ojS8OYg4oQwuzCEHSjUux) | 3:16 | 2022-04-08 | 2022-08-12 |
-| [Vaan](https://open.spotify.com/track/0szlFEWXeE6jGJJ57SMU60) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Vaan](https://open.spotify.com/album/2oe2i4x7ptyUm90jNEUOKr) | 4:02 | 2023-02-03 |  |
+| [Vaan](https://open.spotify.com/track/0szlFEWXeE6jGJJ57SMU60) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Vaan](https://open.spotify.com/album/2oe2i4x7ptyUm90jNEUOKr) | 4:02 | 2023-02-03 | 2023-09-01 |
 | [Vaanam](https://open.spotify.com/track/66ngKz4R3ObPG2O9PuIpo0) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA) | [Vaanam](https://open.spotify.com/album/3WEMMiq3ytkVVuc2PnnaYh) | 1:02 | 2022-11-29 | 2023-03-22 |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-06-23 | 2023-06-27 |
 | [Vaanam Pozhiyum](https://open.spotify.com/track/241XfqqHOw2OwhY9qAA9jL) | [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Vaanam Pozhiyum](https://open.spotify.com/album/2dkdhHOcD3bd3iWT0CRk1r) | 1:00 | 2022-11-30 | 2023-01-11 |

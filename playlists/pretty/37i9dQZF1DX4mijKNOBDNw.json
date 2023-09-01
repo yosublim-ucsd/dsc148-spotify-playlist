@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 53285,
+  "num_followers": 53306,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTJiYmMyMGE0MTA1NWNiYWJmNDMxYjA1MDM4ZjgyYzFhZmViNzNh",
+  "snapshot_id": "MCw2ZmVlM2Y4MWIzMDdmNDI5YTk0MWY4YmU5ODVmOGM3MzVkY2I1NjM0",
   "tracks": [
     {
       "added_at": "2023-07-21 16:32:57",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
+        "name": "Anclas",
+        "url": "https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG"
+      },
+      "artists": [
+        {
+          "name": "Gata Cattana",
+          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
+        }
+      ],
+      "duration_ms": 237447,
+      "name": "Lis\u00edstrata",
+      "url": "https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
         "name": "B\u00e1ilalo Mujer",
         "url": "https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 172950,
       "name": "B\u00e1ilalo Mujer",
       "url": "https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
-        "name": "Anclas",
-        "url": "https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG"
-      },
-      "artists": [
-        {
-          "name": "Gata Cattana",
-          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
-        }
-      ],
-      "duration_ms": 237447,
-      "name": "Lis\u00edstrata",
-      "url": "https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ"
     },
     {
       "added_at": "2023-07-21 16:32:57",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-07-21 16:32:57",
       "album": {
+        "name": "Autogestion y Resistencia",
+        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
+    },
+    {
+      "added_at": "2023-07-21 16:32:57",
+      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 206649,
       "name": "Lucha",
       "url": "https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6"
-    },
-    {
-      "added_at": "2023-07-21 16:32:57",
-      "album": {
-        "name": "Autogestion y Resistencia",
-        "url": "https://open.spotify.com/album/0io7mCnSgnjzoi3Q57X5gR"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
     },
     {
       "added_at": "2023-07-21 16:32:57",

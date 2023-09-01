@@ -2,7 +2,7 @@
 
 ### [Turnt Mode – Rap Pregame](https://open.spotify.com/playlist/4UeRg7G4h9gxqlonlifPEn)
 
-> From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Polo G and more\. \| HipHop Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame \| Cover: Tyla Yaweh
+> Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: Tyla Yaweh
 
 277 songs - 13 hr 3 min
 

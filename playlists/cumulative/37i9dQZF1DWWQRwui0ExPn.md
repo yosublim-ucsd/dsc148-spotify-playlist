@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-5,877 songs - 9 day 6 hr 49 min
+5,878 songs - 9 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3218,7 +3218,7 @@
 | [Mid Fall](https://open.spotify.com/track/4xTcIDj79egx7K5cfZU8IU) | [Venkman](https://open.spotify.com/artist/6fOoEqg9dvDnE18gnbHqTk), [Low Cap Records](https://open.spotify.com/artist/2JE8UJ1kM38Jut3VGRhyEw) | [Mid Fall](https://open.spotify.com/album/7kgUH9TKxTNNUgMUz7vOW5) | 2:21 | 2023-01-06 |  |
 | [Mid Stream](https://open.spotify.com/track/5kkIUQ7J3soIcJLjy51mTK) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Mid Stream](https://open.spotify.com/album/6MUillmrBAHtPNSp47TVzE) | 1:28 | 2019-11-22 | 2021-01-21 |
 | [Midnight](https://open.spotify.com/track/2wHblxjaEJXc59Uqa6QDpJ) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Midnight](https://open.spotify.com/album/52XzW3mUnXhUgJjy3u4tm4) | 1:39 | 2020-08-30 | 2021-10-02 |
-| [Midnight](https://open.spotify.com/track/5GbTwVVmFQKawH8S52XYXx) | [m.sorlii](https://open.spotify.com/artist/5yZq1pWTwP9YNCbuCBfROH) | [Midnight](https://open.spotify.com/album/4MnYZwTa0HWZm5yyIxfCOI) | 2:10 | 2022-12-16 |  |
+| [Midnight](https://open.spotify.com/track/5GbTwVVmFQKawH8S52XYXx) | [m.sorlii](https://open.spotify.com/artist/5yZq1pWTwP9YNCbuCBfROH) | [Midnight](https://open.spotify.com/album/4MnYZwTa0HWZm5yyIxfCOI) | 2:10 | 2022-12-16 | 2023-09-01 |
 | [midnight](https://open.spotify.com/track/3URb3DonIBu1DRCVtMEFjv) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [Digital Nomad](https://open.spotify.com/album/1iCdxOhA7ppeg0wv48XEWN) | 1:34 | 2019-09-08 | 2021-05-12 |
 | [Midnight Blossom](https://open.spotify.com/track/78VqObueVu8P20WDLDZM4G) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Midnight Blossom](https://open.spotify.com/album/3SmmZikC3kORmltGmXf6Cb) | 2:10 | 2021-10-20 | 2022-04-24 |
 | [Midnight Blues](https://open.spotify.com/track/7GgFXvyvyR9yoLqLvxX3qj) | [Jazzy Underground](https://open.spotify.com/artist/4WyvUTY8OXpek6GksJh8wl) | [Midnight Blues](https://open.spotify.com/album/1OeprZ5JGjhibSAMMUwsqP) | 1:36 | 2022-02-25 | 2022-05-27 |
@@ -3284,6 +3284,7 @@
 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 | 2019-05-26\* | 2020-05-26 |
 | [Misty Friday](https://open.spotify.com/track/5tgqxzWLQPASJltjPhjtZH) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Misty Friday](https://open.spotify.com/album/52RtS9NIobOry1P8OLCrON) | 2:16 | 2022-01-21 | 2022-09-02 |
 | [Misty Harp](https://open.spotify.com/track/7tdarAf0mBavxlpm5tUBN4) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Misty Harp](https://open.spotify.com/album/26avGR1O3Y2eJDfdlzKFSw) | 3:02 | 2020-10-27 | 2021-10-20 |
+| [Misty Woods](https://open.spotify.com/track/0pPlRossaqIMFOkLtwg5XI) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Misty Woods](https://open.spotify.com/album/0vDPVK064wZnWv3nMToFf2) | 2:02 | 2023-08-30 |  |
 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 | 2021-02-16 | 2021-11-21 |
 | [Mixed Feelings](https://open.spotify.com/track/2ApvqTXQfaSaQuDliBqS8N) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Mixed Feelings](https://open.spotify.com/album/70p8y4SgJHHRr1mcyEkisB) | 1:43 | 2019-11-29 | 2021-01-21 |
 | [Mixed Feelings](https://open.spotify.com/track/79RFM7SALr0Sv1qEd3iLBv) | [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK) | [Mixed Feelings](https://open.spotify.com/album/5NxHvza5X6H8pjspvXliUP) | 2:30 | 2022-06-03 | 2022-09-30 |

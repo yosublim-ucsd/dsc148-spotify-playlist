@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Tim McGraw, Zach Bryan & Kacey Musgraves, Morgan Wade and more.
 
-4,417 songs - 10 day 1 hr 18 min
+4,418 songs - 10 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2127,6 +2127,7 @@
 | [Just Have One](https://open.spotify.com/track/2DBxzBcbl7FyCybl2GJ3ki) | [Garrett Jacobs](https://open.spotify.com/artist/3kmcskeWk7KtY0iryNLt1f) | [Just Have One](https://open.spotify.com/album/5OYdBnyOBDaK7PENqeNw2I) | 3:02 | 2022-09-16 | 2022-09-24 |
 | [Just In Case](https://open.spotify.com/track/0YXTxxhAcbshkZ6n4QO30H) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond) | 2:58 | 2022-09-02 | 2022-09-10 |
 | [Just Kids](https://open.spotify.com/track/6PyXmo88J8FRmMb1CfUDoD) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Just Kids](https://open.spotify.com/album/56l79VQBjn3ro34d2ZLP9Z) | 2:48 | 2022-11-04 | 2022-11-12 |
+| [Just Like Earle](https://open.spotify.com/track/0SRNG2akNsKqwC4zgZV1sm) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Just Like Earle](https://open.spotify.com/album/06pQMfMDJFFA5smLGvYvPh) | 3:03 | 2023-08-25 |  |
 | [Just Like July](https://open.spotify.com/track/6AV8mVeFUk0seEUx9m04zL) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Just Like July](https://open.spotify.com/album/3B0vTKdSiAYKG3zp49qzTM) | 3:14 | 2022-07-01 | 2022-07-09 |
 | [Just Like You](https://open.spotify.com/track/2BRlhxcuUsGP8xkYlNy3mY) | [Kali Arcaris](https://open.spotify.com/artist/6GLZpLl64nlqfxnnP1Czjg) | [Just Like You](https://open.spotify.com/album/2FR7gaT9MkZ8nw135URdyC) | 3:26 | 2022-02-04 | 2022-02-26 |
 | [Just Say I'm Sorry](https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:34 | 2023-02-17 | 2023-02-25 |

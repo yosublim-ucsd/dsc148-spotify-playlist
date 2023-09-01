@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-517 songs - 1 day 5 hr 35 min
+518 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [kyu\-kurarin](https://open.spotify.com/track/72wehM3q2RVZb4XLmAkyTr) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/4f5TDdboXv76t95A48thSs) | 3:37 | 2022-12-13 |  |
 | [Lap Tap Love](https://open.spotify.com/track/7weaxG7FEqDVCyZsLsyaKX) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [向日葵](https://open.spotify.com/artist/5fY5L5NPHQRgEhdjgTvoCZ) | [Resonance](https://open.spotify.com/album/4r5hRygA5bz0oDlJoRC7Yy) | 3:22 | 2022-06-09 | 2022-06-11 |
 | [Liar Dancer](https://open.spotify.com/track/1YXuCccqCx4AM1PVekISj8) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [Liar Dancer](https://open.spotify.com/album/4P5WTqxveCHwel30kXJvoo) | 4:02 | 2023-07-20 |  |
+| [Little Missing Stars](https://open.spotify.com/track/6kabY8TRpc1B7NA8bSqY0J) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ), [ねこぼーろ](https://open.spotify.com/artist/4Mr4f8YE9e2ERokwhi4D96), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Little Missing Stars](https://open.spotify.com/album/5FnbGWTBIkt2AYmLByUcb2) | 4:16 | 2023-08-31 |  |
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-07-26 | 2023-01-13 |
 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 | 2022-07-26 |  |
 | [lower one's eyes](https://open.spotify.com/track/3P8sZzCeWXnBieW9XxE02Y) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [lower one's eyes](https://open.spotify.com/album/0NEXeWlwwR6b4zfHF4bvgk) | 3:50 | 2022-07-26 |  |
@@ -432,7 +433,7 @@
 | [夜になったら耿十八は](https://open.spotify.com/track/2MSy9UNx9xNfOLbTHae4tb) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3b4ylZFSqdxu4vUtbgYPav) | 3:37 | 2022-06-09 | 2022-07-21 |
 | [夜もすがら君想ふ](https://open.spotify.com/track/3mH5bQJk2zCuV2aH0V6TPC) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [ぼくの魔法使い](https://open.spotify.com/album/0oEVuplSruIOKKiHRtSqj0) | 4:00 | 2022-06-09 | 2022-07-17 |
 | [夜咄ディセイブ \-TeddyLoid Hopping Remix\-](https://open.spotify.com/track/44VSRtW1INM92JoRRAaUeg) | [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [MUSICAL & LIVE SHOW "ARIA" ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2wSxEZWpc6ha8bFeMrmOJK) | 3:08 | 2022-06-21 | 2022-07-29 |
-| [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 |  |
+| [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 | 2023-09-01 |
 | [大喜](https://open.spotify.com/track/0iBSqeDY6L8CYlluPCAs4h) | [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [大喜](https://open.spotify.com/album/2apBfgycWk8DB9gCZ8CwqY) | 2:43 | 2022-07-14 | 2022-07-20 |
 | [天使](https://open.spotify.com/track/6jw5E0T0vpB2ydhgSymvnD) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg) | [atelier](https://open.spotify.com/album/7xIVP85Kp3XYjsitCpGyKO) | 2:49 | 2022-07-26 | 2022-07-28 |
 | [天才ロック \(feat\. 鏡音リン\)](https://open.spotify.com/track/01xhuS2onjqAzLdYxF25fj) | [Karasuya Sabou](https://open.spotify.com/artist/1UaHeL0MQ2sgcGGx4hasHA), [鏡音リン](https://open.spotify.com/artist/2gz31oKYxWOkb2KKixMv73) | [初音ミク「マジカルミライ」10th Anniversary OFFICIAL ALBUM](https://open.spotify.com/album/2YxLUDzV68rc9cM1v7SFeE) | 3:23 | 2022-10-27 | 2022-11-25 |

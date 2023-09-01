@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 181000,
       "name": "Pond Cabin (Rain)",
       "url": "https://open.spotify.com/track/6KpmZVFsjuU9295Wff25Io"
@@ -1280,6 +1280,24 @@
       "duration_ms": 208000,
       "name": "Regnerischer Tag",
       "url": "https://open.spotify.com/track/4JygmIxvY2CWmJGvgBe00J"
+    },
+    {
+      "album": {
+        "name": "Rest In A Rainforest",
+        "url": "https://open.spotify.com/album/6qaL64xAGf4ya89P94G97H"
+      },
+      "artists": [
+        {
+          "name": "Noella Russo",
+          "url": "https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "Rest In A Rainforest",
+      "url": "https://open.spotify.com/track/3irHoiM1C9EUMbUhsXmcGe"
     },
     {
       "album": {

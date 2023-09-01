@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Guyon Waton",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Wandra Restusiyan",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -717,7 +717,7 @@
         },
         {
           "name": "Guyon Waton",
-          "url": "https://open.spotify.com/artist/5B5aSdWGySF3MXFEguHCvz"
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
         }
       ],
       "date_added": "2023-07-13",
@@ -1036,6 +1036,24 @@
       "duration_ms": 256392,
       "name": "Janji Temani",
       "url": "https://open.spotify.com/track/6JLmc1SXTnF79K8pSiiPCL"
+    },
+    {
+      "album": {
+        "name": "Janji Tok!",
+        "url": "https://open.spotify.com/album/1Me22JDZU4Plyp83MigBEW"
+      },
+      "artists": [
+        {
+          "name": "Cita Amelia",
+          "url": "https://open.spotify.com/artist/71LNVQpsM6kpHm93kvAj40"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Janji Tok!",
+      "url": "https://open.spotify.com/track/3DPoVLhW3Av9Esa3yMjYju"
     },
     {
       "album": {
@@ -1896,6 +1914,24 @@
     {
       "album": {
         "name": "Nemu",
+        "url": "https://open.spotify.com/album/2vKO0ginxICI305ekx233U"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Nemu",
+      "url": "https://open.spotify.com/track/2FvlyBkBPJe1HfScQih3VN"
+    },
+    {
+      "album": {
+        "name": "Nemu",
         "url": "https://open.spotify.com/album/1TQCT0n7uZa2JFzxP0xGv1"
       },
       "artists": [
@@ -2296,6 +2332,28 @@
       "duration_ms": 346320,
       "name": "Ojo Nangis - Keroncong Version",
       "url": "https://open.spotify.com/track/5eZ8DNqoPcJd1cTwkKzoEk"
+    },
+    {
+      "album": {
+        "name": "Ojo Nangis / Sawangen Medley",
+        "url": "https://open.spotify.com/album/1tcMvMQNt7fTJMqq8lNF2R"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        },
+        {
+          "name": "Abah Lala",
+          "url": "https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488000,
+      "name": "Ojo Nangis / Sawangen Medley",
+      "url": "https://open.spotify.com/track/1MEzSPIjrWOaaeRjm46L9n"
     },
     {
       "album": {
@@ -3638,6 +3696,24 @@
       "duration_ms": 372480,
       "name": "Tutupono",
       "url": "https://open.spotify.com/track/2hSAl1oXLAC0PbTXdRaMee"
+    },
+    {
+      "album": {
+        "name": "Waton",
+        "url": "https://open.spotify.com/album/0lAfrVXeLeHFkkpt3WMeCF"
+      },
+      "artists": [
+        {
+          "name": "Brindil Kurus",
+          "url": "https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253440,
+      "name": "Waton",
+      "url": "https://open.spotify.com/track/3uIn4odpSB1ob8lqSYE0VP"
     },
     {
       "album": {

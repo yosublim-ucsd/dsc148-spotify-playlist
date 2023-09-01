@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Yuna",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Jorja Smith",
   "name": "mood.",
   "tracks": [
     {
@@ -1295,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "close with desires (feat. thuy)",
+        "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        },
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205750,
+      "name": "close with desires (feat. thuy)",
+      "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
+    },
+    {
+      "album": {
         "name": "exiit",
         "url": "https://open.spotify.com/album/5VAWrWrATNYTgUojcJtn8g"
       },
@@ -1518,7 +1540,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 215455,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0Gu3afSvsi2doKPPTKy6Ur"
@@ -2154,6 +2176,24 @@
       "duration_ms": 199825,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8"
+    },
+    {
+      "album": {
+        "name": "Falling or flying",
+        "url": "https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
     },
     {
       "album": {
@@ -4254,7 +4294,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 195186,
       "name": "JEANS (with Miguel)",
       "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
@@ -4558,7 +4598,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 205275,
       "name": "life with u",
       "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
@@ -5313,6 +5353,24 @@
     },
     {
       "album": {
+        "name": "Mirages Of You",
+        "url": "https://open.spotify.com/album/64lnJwsuJ8YYol8bGR0i8m"
+      },
+      "artists": [
+        {
+          "name": "BCHOY",
+          "url": "https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196931,
+      "name": "Mirages Of You",
+      "url": "https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL"
+    },
+    {
+      "album": {
         "name": "Moon Sailing",
         "url": "https://open.spotify.com/album/1o2AB6Hnq2sXSPTXUVofaB"
       },
@@ -5673,6 +5731,32 @@
     },
     {
       "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg"
+    },
+    {
+      "album": {
         "name": "NO THANKS",
         "url": "https://open.spotify.com/album/4rMXwc0N1L7WbLfCTem6Ds"
       },
@@ -5738,7 +5822,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 180735,
       "name": "Nobody Like Us",
       "url": "https://open.spotify.com/track/1eNo8OMOTk4IwrILRXc2GM"
@@ -5778,7 +5862,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 189880,
       "name": "Notes From A Wrist",
       "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
@@ -8748,7 +8832,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 217846,
       "name": "TRAVELIN'",
       "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
@@ -8788,6 +8872,24 @@
       "duration_ms": 223471,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/3dx3nDvoEOJNBDPp3a9qX2"
+    },
+    {
+      "album": {
+        "name": "trippin",
+        "url": "https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178252,
+      "name": "trippin",
+      "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
     },
     {
       "album": {
@@ -8980,7 +9082,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 173240,
       "name": "Up Late",
       "url": "https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz"
@@ -9741,6 +9843,24 @@
     },
     {
       "album": {
+        "name": "Yeah Yeah",
+        "url": "https://open.spotify.com/album/4Y4zPsh0u82jNI1LvkLDxO"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195971,
+      "name": "Yeah Yeah",
+      "url": "https://open.spotify.com/track/07YxnC8dRtpiDKfVCclDcV"
+    },
+    {
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -9814,6 +9934,24 @@
       "duration_ms": 140506,
       "name": "YOU",
       "url": "https://open.spotify.com/track/1Y3yYZKCbk9G6CiBxJ3BLT"
+    },
+    {
+      "album": {
+        "name": "You don't know a thing",
+        "url": "https://open.spotify.com/album/2ERiYCLPPxsrj8uzQVvrfU"
+      },
+      "artists": [
+        {
+          "name": "Ardawan",
+          "url": "https://open.spotify.com/artist/0yN1YoVjyMgjRwJFwGUVno"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236769,
+      "name": "You don't know a thing",
+      "url": "https://open.spotify.com/track/2Q2So6LX922NtBZ4VdhXlS"
     },
     {
       "album": {

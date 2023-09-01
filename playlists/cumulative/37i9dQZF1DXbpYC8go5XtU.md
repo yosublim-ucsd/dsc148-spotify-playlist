@@ -4,7 +4,7 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-214 songs - 17 hr 1 min
+215 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Watching](https://open.spotify.com/track/2CaTZJybDGdmBZnVs0XhRz) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Gradients](https://open.spotify.com/album/0BSRvxpcMxZZ17jnegHvni) | 5:06 | 2021-12-22 | 2023-01-07 |
 | [Watching](https://open.spotify.com/track/7qkQx9OPb79y6wEUCLF4ZK) | [Korossasu](https://open.spotify.com/artist/1mTetqmHQaEyxqGvEcS3P0) | [Watching](https://open.spotify.com/album/2UV9tLIX2ggRee6dFlZWH5) | 5:06 | 2023-01-06 |  |
 | [Water Ambience](https://open.spotify.com/track/4zdG6S7zNU9NGZo46xbokP) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Water Ambience](https://open.spotify.com/album/7F649VWGjzdAhj7KzXtopc) | 2:37 | 2022-12-20 |  |
+| [Water And Birds](https://open.spotify.com/track/3qY5SNu8HM2NNbSnCLVc0U) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Hachirogata Lake](https://open.spotify.com/album/2mWRW0iRCW4p5y4664IIky) | 6:29 | 2023-09-01 |  |
 | [Water Door \- Array Mbira Version](https://open.spotify.com/track/6tC9CjVTcJhbypDgVBFcFM) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Water Door \(Array Mbira Version\)](https://open.spotify.com/album/19MRcAil1ndwzXSC0y5jfs) | 3:50 | 2023-03-03 |  |
 | [Waves Are Speaking](https://open.spotify.com/track/7BeZQ13wmiCFPVFUMOBeUv) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Waves Are Speaking](https://open.spotify.com/album/7Fm5nSHKwlFCzZ57Q1bpk8) | 4:42 | 2023-08-11 |  |
 | [Welcome to the Four Seasons](https://open.spotify.com/track/6peg5yFyQ1sCwT8zZ9bQwg) | [Martin Glass](https://open.spotify.com/artist/4Icvm8wrj4Btq3O7FHJJZd) | [The Pacific Visions of Martin Glass](https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si) | 1:46 | 2021-12-22 |  |

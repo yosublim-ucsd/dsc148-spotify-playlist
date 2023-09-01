@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "By The Coastline",
+        "url": "https://open.spotify.com/album/1QMnLDEhNxLGTJFmif7kCs"
+      },
+      "artists": [
+        {
+          "name": "Meadowsweet",
+          "url": "https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169700,
+      "name": "By The Coastline",
+      "url": "https://open.spotify.com/track/1sf2W9dHuYaVB8O47cQ0lf"
+    },
+    {
+      "album": {
         "name": "Bylgjur",
         "url": "https://open.spotify.com/album/1I3CUE1uQHtGSA5yVdQbTL"
       },
@@ -7516,6 +7534,24 @@
       "duration_ms": 178228,
       "name": "Vaikne",
       "url": "https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P"
+    },
+    {
+      "album": {
+        "name": "Verisimilitude",
+        "url": "https://open.spotify.com/album/6hLJGaiPFWLvwweTVxlMjr"
+      },
+      "artists": [
+        {
+          "name": "Pax Magnolia",
+          "url": "https://open.spotify.com/artist/1rTNvNMPdbMrZwTzvu1e7U"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Verisimilitude",
+      "url": "https://open.spotify.com/track/3hrhxKomuxdXZTL5CGsGgV"
     },
     {
       "album": {

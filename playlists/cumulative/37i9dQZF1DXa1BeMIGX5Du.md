@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-154 songs - 9 hr 27 min
+155 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [Holding on to You](https://open.spotify.com/track/05hZle1qjV2Hu10Y85fhbv) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Holding on to You](https://open.spotify.com/album/2aog2gZCOAc2tZGFtrVSAE) | 3:33 | 2022-03-25 | 2022-07-29 |
 | [Holding on to You](https://open.spotify.com/track/2XbGCUjNjQgJPMO1QbMp5a) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:33 | 2022-06-17 | 2022-10-11 |
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2022-03-25 |  |
+| [I Don't Need Anything But My Love](https://open.spotify.com/track/08QhXM5QTPs8noxBNv3tfj) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [Collected Bedroom Recordings](https://open.spotify.com/album/3yRmxOWxltyq2TovuNjXKB) | 2:54 | 2023-06-08 |  |
 | [I Don't Need Anything But My Love](https://open.spotify.com/track/0CHud82a2uwfmsBAitedCZ) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [I Don't Need Anything But My Love](https://open.spotify.com/album/4HiwMkcHk1XTyio65cqotK) | 2:54 | 2022-03-25 | 2023-07-27 |
-| [I Don't Need Anything But My Love](https://open.spotify.com/track/4pK17ywBg6aqOInBD1SHoQ) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [Collected Bedroom Recordings](https://open.spotify.com/album/79Hhr67f0hxR22LLjrSTxH) | 2:54 | 2023-06-08 |  |
+| [I Don't Need Anything But My Love](https://open.spotify.com/track/4pK17ywBg6aqOInBD1SHoQ) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [Collected Bedroom Recordings](https://open.spotify.com/album/79Hhr67f0hxR22LLjrSTxH) | 2:54 | 2023-06-08 | 2023-09-01 |
 | [IDK You Yet](https://open.spotify.com/track/01ioNtYyhbVVhET2FtmAOK) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Chillax](https://open.spotify.com/album/29vMAFOme5FtzIilc4Npqk) | 3:04 | 2022-10-10 | 2022-11-13 |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-06-17 |  |
 | [IDK You Yet](https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet](https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS) | 3:04 | 2022-03-25 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 
 > La playlist soul et rhythm and blues qui s'écoute au coin du feu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,830 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,839 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 39 | [Sunny](https://open.spotify.com/track/3Yuemm5Os1yfYDM5DWjfZ1) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Dee Felice Trio](https://open.spotify.com/artist/6AIa4W2dRQq7A9v4DHkf0C) | [Gettin' Down To It](https://open.spotify.com/album/1o3Rv2hBIXYw8pE0TqoM3X) | 3:17 |
 | 40 | [Our Day Will Come](https://open.spotify.com/track/3ngYXFSYtF5mHguNCA3JZ0) | [Ruby And The Romantics](https://open.spotify.com/artist/7y0ngZzIllkP8ZOqgTKQFc) | [Our Day Will Come](https://open.spotify.com/album/4ld3rO6I2P7CmDDtksx19D) | 2:34 |
 | 41 | [I Hear the Love Chimes](https://open.spotify.com/track/2k5Boo1pEuIiMA88NxGA8V) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Diamond in the Rough](https://open.spotify.com/album/0hBlULfjPTKngZsvbe3qpE) | 2:44 |
-| 42 | [Let's Get It On](https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:50 |
+| 42 | [Let's Get It On](https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | 4:51 |
 | 43 | [Holding You, Loving You](https://open.spotify.com/track/5Jgj5Yo5deJ2RPlixBm88u) | [Don Blackman](https://open.spotify.com/artist/0aavHBWTe9ng2jWfnnQ0hp) | [Don Blackman](https://open.spotify.com/album/39huRrbAe12vo3BlAeX1QG) | 4:14 |
 | 44 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 |
 | 45 | [New York City](https://open.spotify.com/track/5kcYPRvHIcgVJhrK0X8878) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU) | [It's Your World](https://open.spotify.com/album/2Q1j1AKo3ctsdLPMMVgg5x) | 4:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbQ2qAyjZ1R.md) - [plain]
 | 69 | [I'm Glad You're Mine](https://open.spotify.com/track/4fiC7RTotySw4ZeYaCSsXP) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 2:57 |
 | 70 | [Changes](https://open.spotify.com/track/0NjTsstMJXa8e7crMmkrk6) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Promised Heights](https://open.spotify.com/album/1zKuUk9qQqDIDzWm1Dc39e) | 6:11 |
 
-Snapshot ID: `MCxhOGE4ZDQzNjlkYzkwYjk4YzllYmJiZDA1MjM0NTYyZmM2YmE1NDc0`
+Snapshot ID: `MCxiZmEwZDA3NWY2NGE0YjVjNzIwNDMyNWMyMTQ0NjBiMGVlNTQ1Yjg3`

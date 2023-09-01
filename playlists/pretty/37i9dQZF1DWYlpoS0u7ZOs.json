@@ -1,12 +1,12 @@
 {
   "description": "The new wave of rock from the UK & Ireland. Cover: VENUS GRRRLS",
-  "num_followers": 6673,
+  "num_followers": 6695,
   "original_name": "shockwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGZmNWY2YTVjMmJlZTY3OWQ4NDlmNzQ1ZThkZWUxN2UxNTM4ODYz",
+  "snapshot_id": "MCwzZGY4YmY0NzhhYzRlY2Q3YTNkYTEzYWM0NjVkZWM2ZDlhOWRmMmFi",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -199,6 +199,22 @@
       "duration_ms": 172770,
       "name": "hollowing out",
       "url": "https://open.spotify.com/track/2BrvLdykCTpQEbye26T6MZ"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "Crowd",
+        "url": "https://open.spotify.com/album/4mbuha3EQeT0RRqONrzNfD"
+      },
+      "artists": [
+        {
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+        }
+      ],
+      "duration_ms": 192582,
+      "name": "Crowd",
+      "url": "https://open.spotify.com/track/5btcktwEOwwLGjg4ZOXU8A"
     },
     {
       "added_at": "2023-08-24 23:00:00",

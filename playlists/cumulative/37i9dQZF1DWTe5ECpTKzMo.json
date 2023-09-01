@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/6R14nQggTNlye4LJjTHoWx"
+      },
+      "artists": [
+        {
+          "name": "Dyablo",
+          "url": "https://open.spotify.com/artist/7eU5CvFPPiqSqnKiNmZNy7"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "La Familia",
+      "url": "https://open.spotify.com/track/7MrOL3OjCSmYj39yTcvOtB"
+    },
+    {
+      "album": {
         "name": "High Con Class XIII",
         "url": "https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh"
       },
@@ -896,6 +914,28 @@
       "duration_ms": 323964,
       "name": "La Misi\u00f3n (Episodio 2)",
       "url": "https://open.spotify.com/track/63Ue3S576DpaAaDIZlMYsF"
+    },
+    {
+      "album": {
+        "name": "Las Horas Pasan",
+        "url": "https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210625,
+      "name": "Las Horas Pasan",
+      "url": "https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a"
     },
     {
       "album": {
@@ -1130,6 +1170,24 @@
       "duration_ms": 154285,
       "name": "Montecarlo",
       "url": "https://open.spotify.com/track/0AGTMYewBJqWX8VltU4gVe"
+    },
+    {
+      "album": {
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Mustang 65'",
+      "url": "https://open.spotify.com/track/3vVnKrR31NraqoVTMIm0Cp"
     },
     {
       "album": {

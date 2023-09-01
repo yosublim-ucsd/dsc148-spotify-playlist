@@ -2,9 +2,9 @@
 
 ### [Peppeh](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover: Ruger
+> Tracks popping off in the Afro scene\. Cover: Nana Fofie
 
-206 songs - 10 hr 21 min
+207 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [La Vida Loca](https://open.spotify.com/track/6QK5T6PdSWTTD9P1fJqfNY) | [Sico Vox](https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Positivv](https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof) | [La Vida Loca](https://open.spotify.com/album/6vKSImzq6YzhNQj6iUa6Sv) | 2:27 | 2023-06-08 | 2023-07-28 |
 | [Labadi](https://open.spotify.com/track/0UP371eP3lmySxTUF79jLK) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Labadi](https://open.spotify.com/album/7tlYleJ9w1xTOa8WX94K31) | 2:16 | 2023-06-22 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-13 | 2023-01-13 |
+| [Life Is Better Now](https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 | 2023-08-31 |  |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-08-25 | 2023-04-06 |
 | [Likkle Bit](https://open.spotify.com/track/15zO55hNovkg2mjCW2AiD9) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Likkle Bit](https://open.spotify.com/album/3UuoJvhfAud6cN8mbVCUC3) | 3:37 | 2022-08-29 | 2023-03-25 |
 | [Likkle Waist](https://open.spotify.com/track/14pNMaegnjYb1Kk3HKtepO) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Likkle Waist](https://open.spotify.com/album/4sWvbtrB7kGk3rqgFxCDIu) | 3:12 | 2023-01-19 | 2023-06-15 |
@@ -162,7 +163,7 @@
 | [Roma](https://open.spotify.com/track/5HTcQgNskY36EEtdB4zMfr) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [For the Kulture](https://open.spotify.com/album/4nrewczBwXf6d8PBs3fDV6) | 2:34 | 2023-08-24 |  |
 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 | 2023-01-26 | 2023-06-09 |
 | [Rowanda](https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rowanda](https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5) | 3:32 | 2023-07-13 |  |
-| [Runaway](https://open.spotify.com/track/5zQjsdDEqcpXaluAax1jKn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Runaway](https://open.spotify.com/album/5kdzySpTqsyQNS00JQPFff) | 2:47 | 2023-08-16 |  |
+| [Runaway](https://open.spotify.com/track/5zQjsdDEqcpXaluAax1jKn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Runaway](https://open.spotify.com/album/5kdzySpTqsyQNS00JQPFff) | 2:47 | 2023-08-16 | 2023-09-01 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-15 | 2023-04-06 |
 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 | 2023-02-09 | 2023-07-22 |
 | [Sans moi](https://open.spotify.com/track/3kYTLEQwQx0oWu9Ws4uckJ) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Sans moi](https://open.spotify.com/album/6DKViO9P1UwmMJI4UA5loY) | 2:54 | 2023-06-29 |  |

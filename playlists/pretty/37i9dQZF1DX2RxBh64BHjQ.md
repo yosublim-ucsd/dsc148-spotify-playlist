@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6rIaHuCIUu32uj2CjlEBN3">Mike Dimes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,785,516 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,785,944 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Wife](https://open.spotify.com/track/3rGbTqECbeFc82sdYGv3Pz) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Some Like It Hot](https://open.spotify.com/album/3i47bG7gXG3OurOD0fpIVX) | 3:31 |
 | 100 | [DARKSIDE](https://open.spotify.com/track/2Gpra5OwSBeTQ8vZcTs1Pw) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [6](https://open.spotify.com/album/5Tj31Y3qUvAFFamwQS6ZeO) | 3:25 |
 
-Snapshot ID: `MCwzYjY3ZWYxMmIxODgzMTFmY2ZmMDUyNWQ1ZWM5MmM1YjYwOWZlMmFk`
+Snapshot ID: `MCw4YWVlOWE5ZWJkMTRmYmFmNDcyZDM0ODdmNjAxYTgyMWJjZGUyZGVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playlist..\. DODODOK!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,670 likes - 26 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,126 likes - 26 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 | 25 | [The Great Mermaid](https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:57 |
 | 26 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 |
 
-Snapshot ID: `MCxmOTcyZmY0Zjg1OTAyYzJkNTFlZWMxMTdiMDZmZWZmODc2NDRlOTVj`
+Snapshot ID: `MCwwYzEwNmE1NDM4MjczMTRmNzhiODU3ODhkMzU0OWVkYjk2MGQxNzRi`

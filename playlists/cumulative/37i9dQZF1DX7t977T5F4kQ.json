@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy?si=MIJ4gUVgSQilplA68rEQFQ\">Kelvyn Boy</a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S?si=shPnXqyhTT-G7lLUAqHk-Q\">Wendy Shay</a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -480,7 +480,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 174315,
       "name": "Because of Money",
       "url": "https://open.spotify.com/track/5kHiZGMCGtNFYOzHNXALcU"
@@ -3960,6 +3960,36 @@
       "duration_ms": 166426,
       "name": "Take Away",
       "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
+    },
+    {
+      "album": {
+        "name": "Taxi Man",
+        "url": "https://open.spotify.com/album/5c5ygfhZh0L7EEQeEgB7ml"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Miss Lafamilia",
+          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "DJ Lara Fraser",
+          "url": "https://open.spotify.com/artist/15m07VNwsg2P2RqwcvEZc4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187050,
+      "name": "Taxi Man",
+      "url": "https://open.spotify.com/track/1mTqMAquA9C5GmhuxL9LE9"
     },
     {
       "album": {

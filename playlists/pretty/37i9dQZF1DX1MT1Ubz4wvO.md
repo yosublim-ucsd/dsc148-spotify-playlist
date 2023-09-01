@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con La Doloritas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,828 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,838 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 19 | [Que de Ti](https://open.spotify.com/track/57FptLu9R5mDVlb4FcEhgk) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Que de Ti](https://open.spotify.com/album/0nYbAAVEdKjNX7ggMb3UyS) | 2:46 |
 | 20 | [Distopía en Blues \- En Vivo](https://open.spotify.com/track/7hkv7nI5rcbZX8slin02aU) | [La Tabaré](https://open.spotify.com/artist/0vpsHg4mpVWG7IM5gLD6UK) | [Distopía en blues \(En Vivo\)](https://open.spotify.com/album/0hRURSGazmXwhLNRgG25Et) | 4:29 |
 | 21 | [Distintos](https://open.spotify.com/track/4kgjQeO2sdZV699SHPoTjA) | [Nito Mestre](https://open.spotify.com/artist/46JHFFEjLKbXhMQsU5vSGm) | [Distintos](https://open.spotify.com/album/7lojdgjNc4euVsMaImLUX3) | 3:17 |
-| 22 | [Mega High](https://open.spotify.com/track/1WMsoTfHfsOQLkfQkkvTn8) | [VILLAGRÁN](https://open.spotify.com/artist/7tSwK178ZV3UP8sJ0EKmSc) | [Mega High](https://open.spotify.com/album/2FQlaNod5tCo6wz8XARrTV) | 2:40 |
+| 22 | [Mega High](https://open.spotify.com/track/1WMsoTfHfsOQLkfQkkvTn8) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY) | [Mega High](https://open.spotify.com/album/2FQlaNod5tCo6wz8XARrTV) | 2:40 |
 | 23 | [Ese Día Piensa en Mí](https://open.spotify.com/track/1Eud9Z86w0FRPJr6kx3N0E) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Ese Día Piensa en Mí](https://open.spotify.com/album/5AvsAK2fKnUzDLSp1iKek2) | 3:20 |
 | 24 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 |
 | 25 | [El Control](https://open.spotify.com/track/052MeQVgWYEOJjjFLuAdE8) | [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [El Control](https://open.spotify.com/album/7juttJgwfyJfsXSSFgUlM0) | 3:40 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Radioactiva](https://open.spotify.com/track/6FGSxqit3jy05RsA6YjfH1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [Radioactiva](https://open.spotify.com/album/2zusAQJG3or1boIhzZAZPz) | 3:46 |
 | 49 | [Tenerte](https://open.spotify.com/track/6AwOQbNB4zFT5haYfEW8I3) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Tenerte](https://open.spotify.com/album/0VLr3VxhZiloejJmgGd68Q) | 3:59 |
 
-Snapshot ID: `MCxlMzA4MTVmYjdlMjA0OWI0NDY0Mzc4ZDY0ZWI2NTcwNDkxZDhlYzkz`
+Snapshot ID: `MCxjM2RhNTY2MmNjNzQxZGQ5Y2ZjYmMzMDhmMTQ2N2Y3MjMyNDEwMGY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a?si=n17uk\_oWR\_2qe6Z6WyHLtQ">theARTi$t</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,657 likes - 210 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,813 likes - 210 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 209 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 |
 | 210 | [Borderline](https://open.spotify.com/track/1wuboor2JTlBQMAdeVoGpi) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [Borderline](https://open.spotify.com/album/5lz9iL7GHSTZ9HOUK8WFvw) | 4:09 |
 
-Snapshot ID: `MCxjZGRiOTFkZDNhMTUxZDU1OWJjZWQ5YTRlZjhlNDkzM2QyNTg4M2Yx`
+Snapshot ID: `MCw2NmFmMjBiMjlmNjUzMjcwNzVmMTJmMTM0NTVkNWRiMmVmOWI5M2Q5`

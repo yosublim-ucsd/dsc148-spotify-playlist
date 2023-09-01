@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-356 songs - 5 day 13 hr 21 min
+357 songs - 5 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Part Two: Neighbour / Dust / Green / Grace \(Extended\)](https://open.spotify.com/track/3464jB5wWZdb4fh38U5zi1) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC) | [Neighbourhood \(Nakajuku\)](https://open.spotify.com/album/6W7VBCm6yCwvGyKLfSYpEU) | 27:14 | 2022-05-25 |  |
 | [Path 5 \(delta\)](https://open.spotify.com/track/3izYqkzqnPu8SctUNeyne2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [From Sleep](https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT) | 11:14 | 2022-05-25 |  |
 | [Pauline Oliveros \- I of IV](https://open.spotify.com/track/77rz0oP8SyYU6blsUaSITK) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [New Sounds In Electronic Music](https://open.spotify.com/album/3BYafbZd7fagfbsd10HItL) | 20:32 | 2022-05-25 | 2023-08-25 |
-| [Pentes \- 1974](https://open.spotify.com/track/6phMu2LfjPKujoeXdUhjTG) | [Denis Smalley](https://open.spotify.com/artist/2jfX44kEpicgeVKakcMEj1) | [Tides](https://open.spotify.com/album/1GyREbGc3KQzKHzmaRtuV7) | 13:18 | 2022-05-25 |  |
+| [Pentes](https://open.spotify.com/track/0OYyCSTLAicBotZXMHuMYI) | [Denis Smalley](https://open.spotify.com/artist/2jfX44kEpicgeVKakcMEj1) | [Tides](https://open.spotify.com/album/0Cvhe6gkTnxzGLUoSJKohS) | 13:18 | 2023-08-25 |  |
+| [Pentes \- 1974](https://open.spotify.com/track/6phMu2LfjPKujoeXdUhjTG) | [Denis Smalley](https://open.spotify.com/artist/2jfX44kEpicgeVKakcMEj1) | [Tides](https://open.spotify.com/album/1GyREbGc3KQzKHzmaRtuV7) | 13:18 | 2022-05-25 | 2023-09-01 |
 | [People Are Friends](https://open.spotify.com/track/7CYNZgGuWr2lhkeQh1yurD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 10:39 | 2022-05-25 |  |
 | [Performance One \- Part 1](https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Persian Surgery Dervishes](https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH) | 20:49 | 2022-05-25 |  |
 | [Performance One \- Part 2](https://open.spotify.com/track/01XJ8RAsBBsmvqAn6nxQKh) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Persian Surgery Dervishes](https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH) | 22:22 | 2022-05-25 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  GAYLE in cover!",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  YUNGBLUD in cover!",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 168170,
       "name": "Amore punk",
       "url": "https://open.spotify.com/track/5UE5xy6csX232JCkjlZuWx"
@@ -1416,6 +1416,24 @@
       "duration_ms": 167926,
       "name": "Bimbi sperduti",
       "url": "https://open.spotify.com/track/2cbhjonbV2YPffUoaliMvW"
+    },
+    {
+      "album": {
+        "name": "AMOREPSICHESENZAPADRONE",
+        "url": "https://open.spotify.com/album/16ANp8Yn0BcKVVdFqb0NUx"
+      },
+      "artists": [
+        {
+          "name": "MEGLIOIGUAI",
+          "url": "https://open.spotify.com/artist/0xQdwSDZcuGZH9vI4YvnHk"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "BIPOLARE II",
+      "url": "https://open.spotify.com/track/1vq9hFEWig0osylK5rwlsk"
     },
     {
       "album": {
@@ -2382,6 +2400,24 @@
       "duration_ms": 198375,
       "name": "Cose che ricordano te",
       "url": "https://open.spotify.com/track/2VUNUcFcHr8XtyJEbdwLOO"
+    },
+    {
+      "album": {
+        "name": "Cose che si dicono",
+        "url": "https://open.spotify.com/album/5GgXuVbCTztfgSCfVuOduR"
+      },
+      "artists": [
+        {
+          "name": "Claudym",
+          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202941,
+      "name": "Cose che si dicono",
+      "url": "https://open.spotify.com/track/1UxE3DNN23vzw0QXW8lv3w"
     },
     {
       "album": {
@@ -3556,7 +3592,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 228300,
       "name": "Empty",
       "url": "https://open.spotify.com/track/0VdIdveXU2ffKJnb2CniHt"
@@ -5098,6 +5134,28 @@
       "duration_ms": 162877,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on"
+    },
+    {
+      "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "album": {
@@ -9300,7 +9358,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 168544,
       "name": "SCEMO",
       "url": "https://open.spotify.com/track/4rSrdsnhPhdQtTDfiX2rwA"

@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 69693,
+  "num_followers": 69766,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJhZTEyYWM4M2E0MDg4NWYzMmI2ZGRmOTI2NzNhNjQ1MGFkN2Nl",
+  "snapshot_id": "MCxiYWJiMjk3YTIzNjlhMDkyYTNiYTIxNDc5NWE2ZWFlYTc0NzJkNGJh",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK"
-      },
-      "artists": [
-        {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Una L\u00e1grima No Basta",
         "url": "https://open.spotify.com/album/6mQJfbwCFc2PxT0Kf7k1He"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 226546,
       "name": "Comer a Besos",
       "url": "https://open.spotify.com/track/6b2jmWNdY33SFlDMdcBs5V"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK"
+      },
+      "artists": [
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Quen Pompo",
-        "url": "https://open.spotify.com/album/6ZXHFy31PiXJFufZzxfXFn"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 146860,
-      "name": "Quen Pompo",
-      "url": "https://open.spotify.com/track/4Gu5KSinsMNv4KTkCNVa7G"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 163000,
       "name": "Dame Mas Amor",
       "url": "https://open.spotify.com/track/2HTCgnClGkbNQLUVBLR8EC"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Quen Pompo",
+        "url": "https://open.spotify.com/album/6ZXHFy31PiXJFufZzxfXFn"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 146860,
+      "name": "Quen Pompo",
+      "url": "https://open.spotify.com/track/4Gu5KSinsMNv4KTkCNVa7G"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Tongoneaito",
-        "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
-      },
-      "artists": [
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "Tongoneaito",
-      "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 165186,
       "name": "Leticia",
       "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Tongoneaito",
+        "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "Tongoneaito",
+      "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Ron Y Coca Cola",
-        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
-      },
-      "artists": [
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Ron Y Coca Cola",
-      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Mis 14 Exitos De Oro",
         "url": "https://open.spotify.com/album/0AzKda2rKGMlbWvwSBt1ln"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 186800,
       "name": "La Hierba Se Mov\u00eda",
       "url": "https://open.spotify.com/track/3gFAXop87ZB2sZZI6B59Vy"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Ron Y Coca Cola",
+        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Ron Y Coca Cola",
+      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Su Majestad la Brissa Puros Exitos",
-        "url": "https://open.spotify.com/album/20MsJ3sAUcfkaChOvXOmlP"
+        "name": "Lo Mejor De Mike Laure",
+        "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
       "artists": [
         {
-          "name": "La Brissa",
-          "url": "https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi"
+          "name": "Mike Laure",
+          "url": "https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h"
         }
       ],
-      "duration_ms": 186148,
-      "name": "Bota la Bata",
-      "url": "https://open.spotify.com/track/24WCqEUzGi4fEUCbChJVLl"
+      "duration_ms": 98092,
+      "name": "Quiero Amanecer",
+      "url": "https://open.spotify.com/track/1yhoppn03RhuWge08NDqKR"
     }
   ],
   "unique_name": "Acapulco en la Azotea",

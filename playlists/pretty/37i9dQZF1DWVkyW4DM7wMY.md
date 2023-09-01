@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,764 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,768 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 26 | [Let Go](https://open.spotify.com/track/0jBp9lAEE0MAV0zeVAVSy3) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Let Go](https://open.spotify.com/album/5VbCkQq7yazjOE1GoNBMLv) | 2:57 |
 | 27 | [A Seminar In Tokyo](https://open.spotify.com/track/0CFc37YTJa449oOe660cSU) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Spanish Villager No\. 3](https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU) | 4:32 |
 | 28 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
-| 29 | [Habibi Only Live Once](https://open.spotify.com/track/2ttKPD84VNMDgTZXsE2jpS) | [Aslxm](https://open.spotify.com/artist/7fUWAw0ao8BbaJ5ehk3Gqz) | [Habibi Only Live Once](https://open.spotify.com/album/5HPCWQ7s2b9bI6Cw1bQYwQ) | 1:48 |
+| 29 | [Habibi Only Live Once](https://open.spotify.com/track/4yI4Rezf3Mp0QRns4O10x4) | [Aslxm](https://open.spotify.com/artist/7fUWAw0ao8BbaJ5ehk3Gqz) | [Habibi Only Live Once](https://open.spotify.com/album/1A2o7xaKtkPDwz275Otlzo) | 1:48 |
 | 30 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
 | 31 | [Belinda](https://open.spotify.com/track/64C4vezOJyDbudIGxquW89) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Belinda](https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW) | 2:13 |
 | 32 | [Talk To Me](https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R), [Nala Ayieta](https://open.spotify.com/artist/7xGpddF3zGul2T2RSUMVlF) | [Talk To Me](https://open.spotify.com/album/0oQnFQEWTHTkL4n515ZkF0) | 2:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Hold On To The Faith](https://open.spotify.com/track/6M2SvwjsfkfQNncdSj1TAh) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9), [Mutoriah](https://open.spotify.com/artist/2eAAis6wgQ4My2ixOkGRaD) | [Misimu](https://open.spotify.com/album/68CvaHEB0uNEYLKUCosqYH) | 4:06 |
 | 70 | [Sugar My](https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [Sugar My](https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf) | 3:06 |
 
-Snapshot ID: `MCxkZjBiZjMwOGE5MjQzOWEyZjhhY2Q4NjRkMThiNmFkM2EwZWM1ZTkz`
+Snapshot ID: `MCxkZTNmYTUxNTc0OTQzZGE0NGVlMWYxYzZlMTdiOWQxNzBkYjFmNmEx`

@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3408,
+  "num_followers": 3412,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjUyYTBhNTEwMmE3YzJlM2FmNWJhNjFlOTM3MTYyZjcxYmUzNTZi",
+  "snapshot_id": "MCw3YjVjYzBlNjVmZmNlMjQxOGRjMDM0NTdjN2E3NWFlNzBlNTJiYTEx",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -95,26 +95,6 @@
       "duration_ms": 183810,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/0V6keHGPNpTYW9OEcL7PBu"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 195952,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -371,26 +351,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Sway (Mucho Mambo)",
-        "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
-      },
-      "artists": [
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Sway (Mucho Mambo)",
-      "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Quiribi (Yamil Remix)",
         "url": "https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL"
       },
@@ -407,6 +367,26 @@
       "duration_ms": 366093,
       "name": "Quiribi - Yamil Remix",
       "url": "https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Sway (Mucho Mambo)",
+        "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Sway (Mucho Mambo)",
+      "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -517,6 +497,26 @@
       "url": "https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY"
     },
     {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Jaleo",
+        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
+      },
+      "artists": [
+        {
+          "name": "Kenny Brian",
+          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Jaleo",
+      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
+    },
+    {
       "added_at": "2021-10-15 05:57:00",
       "album": {
         "name": "Ecua",
@@ -551,26 +551,6 @@
       "duration_ms": 211200,
       "name": "Bailar Riddim",
       "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Jaleo",
-        "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
-      },
-      "artists": [
-        {
-          "name": "Kenny Brian",
-          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Jaleo",
-      "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -691,22 +671,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Di Nobo / Shonuff",
-        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Di Nobo",
-      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK"
       },
@@ -721,28 +685,20 @@
       "url": "https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH"
     },
     {
-      "added_at": "2021-11-05 06:05:00",
+      "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Quem\u00e1",
-        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+        "name": "Di Nobo / Shonuff",
+        "url": "https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Andrew Mathers",
-          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Quem\u00e1",
-      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+      "duration_ms": 195000,
+      "name": "Di Nobo",
+      "url": "https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -795,6 +751,30 @@
       "duration_ms": 168960,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf"
+    },
+    {
+      "added_at": "2021-11-05 06:05:00",
+      "album": {
+        "name": "Quem\u00e1",
+        "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Quem\u00e1",
+      "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -863,26 +843,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Calle EP",
-        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Villanueva",
-          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "Calle ft. Villanueva",
-      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Why Can't We Live Together (Gregor Salto & Ibitaly Remix)",
         "url": "https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB"
       },
@@ -903,6 +863,26 @@
       "duration_ms": 210491,
       "name": "Why Can't We Live Together - Gregor Salto & Ibitaly Edit",
       "url": "https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Calle EP",
+        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Villanueva",
+          "url": "https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Calle ft. Villanueva",
+      "url": "https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -939,6 +919,30 @@
       "duration_ms": 381899,
       "name": "Cumbia Tropical",
       "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Felicidad (Colombian Mix)",
+        "url": "https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF"
+      },
+      "artists": [
+        {
+          "name": "Cato Anaya",
+          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
+        },
+        {
+          "name": "The Cube Guys",
+          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
+        },
+        {
+          "name": "LA GUR\u00da",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "duration_ms": 355680,
+      "name": "Felicidad - Colombian Mix",
+      "url": "https://open.spotify.com/track/179w55cexITAFHwisxwRaE"
     }
   ],
   "unique_name": "Alma",

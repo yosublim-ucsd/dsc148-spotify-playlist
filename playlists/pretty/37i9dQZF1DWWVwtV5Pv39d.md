@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,815 likes - 70 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,818 likes - 70 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 27 | [Good Morning Time](https://open.spotify.com/track/6xb4OAYBf3uBUcRakOf2Rb) | [Orange Kids Music](https://open.spotify.com/artist/5Xszvj310qgS7Fwn91Wvhu), [Casey Darnell](https://open.spotify.com/artist/1Ya3U2XGZpIyzoqfdFwShy) | [Everybody Sing!](https://open.spotify.com/album/2af6i5dnpvJd95k1rRUDQF) | 1:58 |
 | 28 | [The Hairbrush Song](https://open.spotify.com/track/7byEE1H59Byz5yuUhFPQaa) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [All The Songs \(Vol\. 1\)](https://open.spotify.com/album/0n3mrhnJn9cd6i17A0zGTP) | 3:04 |
 | 29 | [Caillou Theme](https://open.spotify.com/track/3wEH6ICVXNmBARGVcUh6cJ) | [Caillou](https://open.spotify.com/artist/5UtrFOo0vH241oQGb28vKP) | [Summertime Jams](https://open.spotify.com/album/7aMzjz4XbFsDUmnhINcqpj) | 0:45 |
-| 30 | [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 |
+| 30 | [Let's Get Ready!](https://open.spotify.com/track/5rmOdU3gZptrnflhfPedCM) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 2:05 |
 | 31 | [Getting Dressed Is the Best](https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 3:20 |
 | 32 | [Rock to Get Ready for School](https://open.spotify.com/track/7owkxvRgVyrLCGJ9mCGOtL) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Rock to Get Ready](https://open.spotify.com/album/5E8gzylfGNVaDHylqoydus) | 2:00 |
 | 33 | [Let’s Go!](https://open.spotify.com/track/4s2e30fGKP8pzjU9Tm2Jlh) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Let’s Go!](https://open.spotify.com/album/0z61UND9eDh45w40p50rWp) | 1:13 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 67 | [Not the Bedtime Blues](https://open.spotify.com/track/0aYi1rYHSrLNHvfECrHdqf) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:41 |
 | 68 | [Safe with Me](https://open.spotify.com/track/020JgfARy40ho6uIBdodIb) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Noise Factory](https://open.spotify.com/album/7JrqM06vRbzoibxelpYD0r) | 4:00 |
 | 69 | [Tomorrow](https://open.spotify.com/track/47eBlcqP5J3hb841xRNz9R) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such a Good Feeling: The Best of Mister Rogers](https://open.spotify.com/album/76J9i1vh8XQSNg4yApRhwL) | 1:03 |
-| 70 | [Peppa's Lullaby](https://open.spotify.com/track/4SksREPSXHLL0QG4HLyBYD) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:46 |
+| 70 | [Peppa's Lullaby](https://open.spotify.com/track/05mpNCdBnlCFKhXva3ta98) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 2:46 |
 
-Snapshot ID: `MCw1M2FmMGM2NzViNDUyM2ZiNGJlNWI5YmJhNjgxZmQ5MTRkYWEyZGE3`
+Snapshot ID: `MCwxY2UxNzY4ZTM0ZDk4OGQzMGVkMDgzZGMyYjhmNDc3Mjc3OWE5Nzdj`

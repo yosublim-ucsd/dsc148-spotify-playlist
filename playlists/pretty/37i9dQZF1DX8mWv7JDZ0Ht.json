@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Gilsons, Lagum",
-  "num_followers": 430920,
+  "num_followers": 430962,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGFlYzM0YjIxZDgyYjhmYmEzMjkyM2ExMmZmMzhlOWI1ZTZiYzE5",
+  "snapshot_id": "MCxkMTcwYWE4ODExNjBjNDBmODVhOWQ3YWJkZDZlYjE2NTRiZmZhODUw",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 209411,
-      "name": "Depois do Fim",
-      "url": "https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb"
+      "duration_ms": 139649,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 139649,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k"
+      "duration_ms": 209411,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/67Vs39lm6f8X2ClTgnRgyb"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Tua Voz",
-        "url": "https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2"
-      },
-      "artists": [
-        {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Tua Voz",
-      "url": "https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "Por Que Voc\u00ea N\u00e3o Vem?",
         "url": "https://open.spotify.com/album/0aBrzFzgTN18yJdycI1NHh"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 166542,
       "name": "Por Que Voc\u00ea N\u00e3o Vem?",
       "url": "https://open.spotify.com/track/6HdrdBpN6Y8sMzEK4scQNx"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Tua Voz",
+        "url": "https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2"
+      },
+      "artists": [
+        {
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Tua Voz",
+      "url": "https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Cear\u00e1",
-        "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 132636,
-      "name": "Cear\u00e1",
-      "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "M\u00faltipla",
         "url": "https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 161540,
       "name": "Nem Eu Me Entendo",
       "url": "https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "Cear\u00e1",
+        "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 132636,
+      "name": "Cear\u00e1",
+      "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Tempo Demais",
         "url": "https://open.spotify.com/album/4PuaH09i9aiaXA4cx6Xlxd"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Como Tinha Que Ser",
-        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+        "name": "Corda Bamba",
+        "url": "https://open.spotify.com/album/572WWhgJJ3QWIw180d00DO"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "Yasmim Silveira",
+          "url": "https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Como Tinha Que Ser",
-      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
+      "duration_ms": 171100,
+      "name": "Corda Bamba",
+      "url": "https://open.spotify.com/track/5RRogbBQK33amziOlo85tg"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 138000,
       "name": "vida leve - ralk remix",
       "url": "https://open.spotify.com/track/5S62lSdko2EO2agKz5HJZT"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Corda Bamba",
-        "url": "https://open.spotify.com/album/572WWhgJJ3QWIw180d00DO"
-      },
-      "artists": [
-        {
-          "name": "Yasmim Silveira",
-          "url": "https://open.spotify.com/artist/2tiDdUYnIf0lN7EC5wzE1s"
-        }
-      ],
-      "duration_ms": 171100,
-      "name": "Corda Bamba",
-      "url": "https://open.spotify.com/track/5RRogbBQK33amziOlo85tg"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/5nJW4qnTFw8kwQ6gxZ7gJg"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/1AIqRI9UanGxUFiMtBEALX"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "seu ch\u00e1",
         "url": "https://open.spotify.com/album/1JaHjB6V9kTODWTk0t4p55"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 194430,
       "name": "Eremita",
       "url": "https://open.spotify.com/track/1WhgrP90PSrslSYcRK4ma5"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/5nJW4qnTFw8kwQ6gxZ7gJg"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/1AIqRI9UanGxUFiMtBEALX"
     },
     {
       "added_at": "2023-08-25 03:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "a new world of alternative electronic music. Cover: Barry Can't Swim",
+  "description": "a new world of alternative electronic music. Cover: Sofia Kourtesis",
   "name": "Portal",
   "tracks": [
     {
@@ -292,6 +292,24 @@
       "duration_ms": 367507,
       "name": "Afriquoi - Balobi (Zed Bias Dub Mix)",
       "url": "https://open.spotify.com/track/0LhiaTtuCHYLkVA3hJCA8s"
+    },
+    {
+      "album": {
+        "name": "Late Life Circ",
+        "url": "https://open.spotify.com/album/0qa4JI2VxFjhS5nkVRigrU"
+      },
+      "artists": [
+        {
+          "name": "Bullant",
+          "url": "https://open.spotify.com/artist/7yNYzPpllrc7QPGN9HkyiO"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405853,
+      "name": "After the Cloak Room",
+      "url": "https://open.spotify.com/track/0z7GrNilvPibPHw2rKrPqi"
     },
     {
       "album": {
@@ -949,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Block Rockin",
+        "url": "https://open.spotify.com/album/40ePY3llv8e7RNwAQ5jFxf"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298574,
+      "name": "Block Rockin",
+      "url": "https://open.spotify.com/track/4Pdga2WbSduucrMZeNMFpd"
+    },
+    {
+      "album": {
         "name": "HANDSOME GANG: Every Second We Try",
         "url": "https://open.spotify.com/album/2qXEzsvihC6CHwkHw0qOga"
       },
@@ -1134,7 +1170,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 447551,
       "name": "Brunela",
       "url": "https://open.spotify.com/track/6U7jhpXZ2ClCSVwvoyvb4R"
@@ -1362,7 +1398,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 247558,
       "name": "Circuit Current",
       "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
@@ -1380,7 +1416,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 331343,
       "name": "Clam Zone",
       "url": "https://open.spotify.com/track/52K66oJ6ZHC73J3lJ71QTY"
@@ -1416,7 +1452,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 243555,
       "name": "CLUB MEGAMIXXX - DUB MIX",
       "url": "https://open.spotify.com/track/0elf8UHDw5X6VieryKw1Tr"
@@ -1564,6 +1600,24 @@
       "duration_ms": 308059,
       "name": "Cool Down",
       "url": "https://open.spotify.com/track/02ZFYSc6wtuKxqIifA5Ema"
+    },
+    {
+      "album": {
+        "name": "Kwong",
+        "url": "https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB"
+      },
+      "artists": [
+        {
+          "name": "Knopha",
+          "url": "https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343384,
+      "name": "Corundrum",
+      "url": "https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr"
     },
     {
       "album": {
@@ -1734,6 +1788,24 @@
       "duration_ms": 350769,
       "name": "Disting",
       "url": "https://open.spotify.com/track/7yi4IreykbmhHBUFRtSd7J"
+    },
+    {
+      "album": {
+        "name": "DJ Friendly",
+        "url": "https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280328,
+      "name": "DJ Friendly",
+      "url": "https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7"
     },
     {
       "album": {
@@ -3258,7 +3330,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 362626,
       "name": "I Want an Earth",
       "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
@@ -3316,7 +3388,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 233755,
       "name": "in a room7 F760",
       "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
@@ -3921,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "Loosey Goosey",
+        "url": "https://open.spotify.com/album/6AQPoD33zlEG9oZGrceawd"
+      },
+      "artists": [
+        {
+          "name": "Glen S",
+          "url": "https://open.spotify.com/artist/72J41bLRJAVBkvW56cy1KR"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417049,
+      "name": "Loosey Goosey",
+      "url": "https://open.spotify.com/track/4FtBfbMregS0pXN6zVLbOH"
+    },
+    {
+      "album": {
         "name": "lil spirits",
         "url": "https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va"
       },
@@ -4403,7 +4493,7 @@
     },
     {
       "album": {
-        "name": "Naked (1-800 Girls Remix)",
+        "name": "Naked (1-800 GIRLS Remix)",
         "url": "https://open.spotify.com/album/4x1ACDaFwrOKIPvU5IKgZ7"
       },
       "artists": [
@@ -4420,7 +4510,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 325126,
-      "name": "Naked - 1-800 Girls Remix",
+      "name": "Naked - 1-800 GIRLS Remix",
       "url": "https://open.spotify.com/track/2Lf4zUwZAP11mjgJGh2O4s"
     },
     {
@@ -4874,6 +4964,24 @@
       "duration_ms": 267000,
       "name": "Opi",
       "url": "https://open.spotify.com/track/7LR1LfbX3Sm5UUsHTHOMDv"
+    },
+    {
+      "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/2FJTzU2PXldFaRC8UtU355"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242822,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/1cn5pv4piEsW871xQj43Ur"
     },
     {
       "album": {
@@ -5792,7 +5900,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 268779,
       "name": "Set The Roof",
       "url": "https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2"
@@ -6881,6 +6989,24 @@
     },
     {
       "album": {
+        "name": "this time i don't think i can",
+        "url": "https://open.spotify.com/album/2yA1k52lUUHBRxl3qRVvns"
+      },
+      "artists": [
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "this time i don't think i can",
+      "url": "https://open.spotify.com/track/2PTAzTzFwsxqMcL7T0UB40"
+    },
+    {
+      "album": {
         "name": "Three Chains / Nature",
         "url": "https://open.spotify.com/album/3197zWxS0yTRUN3lH6YRNc"
       },
@@ -6932,6 +7058,28 @@
       "duration_ms": 253000,
       "name": "Time To Run",
       "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
+    },
+    {
+      "album": {
+        "name": "To be honest (SG Lewis Remix)",
+        "url": "https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238901,
+      "name": "To be honest - SG Lewis Remix",
+      "url": "https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8"
     },
     {
       "album": {
@@ -7026,7 +7174,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 395905,
       "name": "Turn Your Sights Inward",
       "url": "https://open.spotify.com/track/7m9d8kbTRfglC24VEKEUlG"
@@ -7102,7 +7250,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 234360,
       "name": "Uncover (Komang Remix)",
       "url": "https://open.spotify.com/track/4Q92GLN2X0j2az1Z7O5kXN"
@@ -7124,6 +7272,24 @@
       "duration_ms": 419367,
       "name": "Unknown Angel",
       "url": "https://open.spotify.com/track/0c3l1ht3cKspGlY67Fcogu"
+    },
+    {
+      "album": {
+        "name": "Vajkoczy",
+        "url": "https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172943,
+      "name": "Vajkoczy - Edit",
+      "url": "https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW"
     },
     {
       "album": {

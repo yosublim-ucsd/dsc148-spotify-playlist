@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 252632,
       "name": "BLACK MEMORY",
       "url": "https://open.spotify.com/track/5XyC4vVIFnMvpnh5StApxw"
@@ -4991,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "Nimby",
+        "url": "https://open.spotify.com/album/7gZGcOXNKumRKcSOxc1qzy"
+      },
+      "artists": [
+        {
+          "name": "The Ravens",
+          "url": "https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Nimby",
+      "url": "https://open.spotify.com/track/4Gfy00cHRDU1u1uJdbOYqf"
+    },
+    {
+      "album": {
         "name": "No more \u30b9\u30c6\u30fc\u30c8\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/41HbWao46UHDzaD9GMOZHD"
       },
@@ -6576,6 +6594,24 @@
       "duration_ms": 274306,
       "name": "Special Women",
       "url": "https://open.spotify.com/track/7F4gwp9sUBPpWS8WeBRznU"
+    },
+    {
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
       "album": {
@@ -13298,7 +13334,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 180000,
       "name": "\u80fd\u52d5\u7684\u4e09\u5206\u9593",
       "url": "https://open.spotify.com/track/4veOvrYiK224LWEqHX39vv"

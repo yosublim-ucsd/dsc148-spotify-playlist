@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,803 songs - 4 day 1 hr 36 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,805 songs - 4 day 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1811,5 +1811,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1801 | [Blacken the Cursed Sun](https://open.spotify.com/track/7gNqCN4EK3B0mnklBp7EqP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 5:28 |
 | 1802 | [God Complex](https://open.spotify.com/track/7zoF1WCREeVmUgO9J9xlbf) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [God Complex](https://open.spotify.com/album/6Z9q5kePQHDkL7Nh3dpr58) | 2:59 |
 | 1803 | [I Hate Myself And Want To Die \- 2013 Mix](https://open.spotify.com/track/1kwsUMjFuePZBNB56gQYoA) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 2:59 |
+| 1804 | [Linda Claire](https://open.spotify.com/track/3yiHfH6CTCsjhBoKPdaue8) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Demo](https://open.spotify.com/album/2yWdfejXTvMsUOafpKs4gI) | 2:41 |
+| 1805 | [Screaming](https://open.spotify.com/track/611WshW3yQKLCQ2pTCOii4) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 5:54 |
 
-Snapshot ID: `NjQ3LDliYmQ5Yzk2YWI3NjY2MGU2YjE3NDIxODZjNjgyNDFlZDJlZDA0MTQ=`
+Snapshot ID: `NjQ5LDM2NmJiZmVjNGQzZTk1YjcxNmJjYjQwMmFiMTIwYjUxYzljN2QwYTA=`

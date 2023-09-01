@@ -4,7 +4,7 @@
 
 > 150%
 
-257 songs - 11 hr 21 min
+258 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 | 2022-06-09 | 2022-12-14 |
 | [isolation \- sped up](https://open.spotify.com/track/3FlwFheL7mcHFRkypdoD5R) | [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [isolation](https://open.spotify.com/album/0CSsz8tNAwFgEpcQqdRxVO) | 3:19 | 2023-03-21 | 2023-04-09 |
 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 | 2023-03-13 |  |
+| [It's Getting Hot \- Sped Up](https://open.spotify.com/track/6bBM9dDbqCDTLAxcxokQTf) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Getting Hot \(Sped Up\)](https://open.spotify.com/album/6oRQXevG9QBbXKKV0upvjS) | 1:48 | 2023-08-31 |  |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-06-09 |  |
 | [Jenny \- Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(Hearteye Speed Mix\)](https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t) | 2:58 | 2022-06-09 |  |
 | [Jerk \- Sped Up Version](https://open.spotify.com/track/6Vq3tnOG1MlYklLVRpX1D8) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Jerk \(Sped Up Version\)](https://open.spotify.com/album/0ncELoW6dHgDUCc5C8ZuL8) | 1:53 | 2022-12-16 | 2023-06-30 |

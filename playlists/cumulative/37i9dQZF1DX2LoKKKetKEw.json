@@ -533,6 +533,28 @@
     },
     {
       "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/2RDDk8NMdeCBnKNYXdMI27"
+      },
+      "artists": [
+        {
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205712,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/1ZCgUvDTcHTRsl0SqZyWSw"
+    },
+    {
+      "album": {
         "name": "Higher Life",
         "url": "https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg"
       },
@@ -968,8 +990,8 @@
       },
       "artists": [
         {
-          "name": "Lilmizzy & Gospel hints",
-          "url": "https://open.spotify.com/artist/0nE4EalnbzewC9wpI0WZei"
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
         },
         {
           "name": "Rehmahz",
@@ -1602,7 +1624,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 179513,
       "name": "Legacy - Remix",
       "url": "https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T"
@@ -1854,7 +1876,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
@@ -1986,7 +2008,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 200280,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z"

@@ -561,6 +561,32 @@
     },
     {
       "album": {
+        "name": "Disconnect (SHY FX Remix)",
+        "url": "https://open.spotify.com/album/1w3Gu94UYgdjG8GdeD94Su"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180599,
+      "name": "Disconnect - SHY FX Remix",
+      "url": "https://open.spotify.com/track/5efJlOrNPfGoMg2Nb4uHVv"
+    },
+    {
+      "album": {
         "name": "Digital World",
         "url": "https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy"
       },
@@ -1620,7 +1646,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 356823,
       "name": "Running Back",
       "url": "https://open.spotify.com/track/2sBSV8wIQwKsFFkH9XMZZa"
@@ -2070,7 +2096,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 257828,
       "name": "Yagga Yagga",
       "url": "https://open.spotify.com/track/0MlPQbWano66UAk68eMSnF"

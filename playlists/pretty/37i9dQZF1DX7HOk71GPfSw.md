@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: A\. G\. Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,365 likes - 111 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,535 likes - 111 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 96 | [IRIS](https://open.spotify.com/track/5ruHCGUNXz9q9fGagRo9TO) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [mortal](https://open.spotify.com/album/2O0IaA0jv0zsu0BW7qm4CM) | 1:42 |
 | 97 | [Pink flame](https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Pink flame](https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ) | 4:14 |
 | 98 | [Harajuku Girls](https://open.spotify.com/track/1rG2SzFexnRoWdhK4CRuxD) | [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Harajuku Girls](https://open.spotify.com/album/4UfPt83Yb6eyvPvxEITH2w) | 2:40 |
-| 99 | [better outside](https://open.spotify.com/track/4uzBtvdU1gZ8jMSYkSUZeZ) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [Chris Moon](https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9) | [better outside](https://open.spotify.com/album/1zGUJO8gfWtISByeVTIj1w) | 3:18 |
+| 99 | [better outside](https://open.spotify.com/track/3mRcJdUeBCT3z3toRxnPh4) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [Chris Moon](https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9) | [better outside](https://open.spotify.com/album/7vXvuhihgJ2eRcoOx5hocr) | 3:17 |
 | 100 | [Make Me Cry](https://open.spotify.com/track/305s8gfZak0wZgzf0RWwm4) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [Make Me Cry](https://open.spotify.com/album/2IUQaiz4lIh3g3J57hQ4xh) | 4:07 |
 | 101 | [with my eyes](https://open.spotify.com/track/50MNRG3QscZOkJcOApElDe) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [with my eyes](https://open.spotify.com/album/1bEZAzce2li8Kiwh5uqyCO) | 2:15 |
 | 102 | [CHESS>CHECKrr](https://open.spotify.com/track/10ZMHWw2mqv2G7j9aIwM48) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [CHESS>CHECKrr](https://open.spotify.com/album/6Ju0MyqfFCZoKaQWaCSNzi) | 2:16 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 110 | [FUMD](https://open.spotify.com/track/3cXAJVliJ6H19KpHUvNCd4) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FUMD](https://open.spotify.com/album/1v5W6yDZc3rlmcXSzTZNhb) | 2:20 |
 | 111 | [My Brain is Lasers](https://open.spotify.com/track/6d4cXluehWd5F0OBqjTt8K) | [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [SPRINKLES!: A.M\. Block](https://open.spotify.com/album/3ky1eVuWvfAbx4s9pPPfcV) | 2:32 |
 
-Snapshot ID: `MCwyODYxNDQwODc5YzFlYTMyODZmYTc2OGM2ZTI3ZDgxNjdhZjEwM2Q5`
+Snapshot ID: `MCw5YmQ5ZTNlNzBhNTEzMTg4MjgzZTYyNWUzM2UwZjA5YmViNTFjNjdk`

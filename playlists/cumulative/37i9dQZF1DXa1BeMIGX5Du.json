@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "Collected Bedroom Recordings",
+        "url": "https://open.spotify.com/album/3yRmxOWxltyq2TovuNjXKB"
+      },
+      "artists": [
+        {
+          "name": "Tom Young",
+          "url": "https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "I Don't Need Anything But My Love",
+      "url": "https://open.spotify.com/track/08QhXM5QTPs8noxBNv3tfj"
+    },
+    {
+      "album": {
         "name": "I Don't Need Anything But My Love",
         "url": "https://open.spotify.com/album/4HiwMkcHk1XTyio65cqotK"
       },
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 174000,
       "name": "I Don't Need Anything But My Love",
       "url": "https://open.spotify.com/track/4pK17ywBg6aqOInBD1SHoQ"

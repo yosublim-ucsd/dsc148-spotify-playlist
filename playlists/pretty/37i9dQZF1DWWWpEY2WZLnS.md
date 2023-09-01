@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Lo más pegao en Dembow\. <br/>Portada: Jey One
+> Lo más pegao en Dembow\. <br/>Portada: Peso Pluma y El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,276 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,860 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Onana](https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Onana](https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP) | 2:08 |
-| 2 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 |
+| 1 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 |
+| 2 | [Onana](https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Onana](https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP) | 2:08 |
 | 3 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 |
-| 4 | [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/track/3BZqmfDUW11Gkj0UQeLFQa) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/album/4QBGxPesaLSbRveKK7GCWe) | 2:13 |
-| 5 | [Empaquetate](https://open.spotify.com/track/2FrcdIdoHSyzdgPcAoOEEC) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Polojoa](https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt) | [Empaquetate](https://open.spotify.com/album/69AByi6lxeU7xTL1XFRAQa) | 2:27 |
-| 6 | [La Piedra](https://open.spotify.com/track/1iwkENJTFtLZ0kWKVKtcRb) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [La Piedra](https://open.spotify.com/album/4oJF52yFg8o1qMb5LEaMHf) | 2:38 |
+| 4 | [La Piedra](https://open.spotify.com/track/1iwkENJTFtLZ0kWKVKtcRb) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [La Piedra](https://open.spotify.com/album/4oJF52yFg8o1qMb5LEaMHf) | 2:38 |
+| 5 | [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/track/3BZqmfDUW11Gkj0UQeLFQa) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/album/4QBGxPesaLSbRveKK7GCWe) | 2:13 |
+| 6 | [Empaquetate](https://open.spotify.com/track/2FrcdIdoHSyzdgPcAoOEEC) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji), [Polojoa](https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt) | [Empaquetate](https://open.spotify.com/album/69AByi6lxeU7xTL1XFRAQa) | 2:27 |
 | 7 | [Prepotente](https://open.spotify.com/track/3a5oq7iRY1kLKTwojU7Qfa) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Prepotente](https://open.spotify.com/album/641RNNuxJx1wbSDgPn6pcP) | 2:05 |
 | 8 | [Boy Boy](https://open.spotify.com/track/0E2T5QGDi48YmAo32ZqaqF) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Boy Boy](https://open.spotify.com/album/2D8kgOal3Dego8yDv60ZLX) | 2:14 |
 | 9 | [Po Po Po](https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Po Po Po](https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 49 | [Eto Eh Dembow](https://open.spotify.com/track/79k7Rz7oQDjH3OlAzX8Bzc) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [Eto Eh Dembow](https://open.spotify.com/album/5ExfMqWEJSe1xEuxbHu1Vm) | 1:36 |
 | 50 | [Hazlo Tu](https://open.spotify.com/track/5c9xVLOxMsK5geqdtMIhgf) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Hazlo Tu](https://open.spotify.com/album/11D7KwrMNFrJcjGKeHC2dH) | 2:49 |
 
-Snapshot ID: `MCxiODY2OTAxNGUzNTJhODFiOTNlNjZjMWFhMmJmZTIyNGZkNDlkMDA0`
+Snapshot ID: `MCw0ODBhMTA5YWY2ZjliOTNiMzg3MmUzNDZiZjY0ZmE3NzBjMDJiMTEw`

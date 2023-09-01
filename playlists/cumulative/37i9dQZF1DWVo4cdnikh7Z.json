@@ -1031,6 +1031,32 @@
     },
     {
       "album": {
+        "name": "Amma Ennum Mandhiramey (From \"Mark Antony\")",
+        "url": "https://open.spotify.com/album/4JtrXMVxRkGxL95VOANlX7"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Madhurakavi",
+          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129856,
+      "name": "Amma Ennum Mandhiramey - From \"Mark Antony\"",
+      "url": "https://open.spotify.com/track/1xhBAuk18NV0yH8gCKl9vp"
+    },
+    {
+      "album": {
         "name": "Gulu Gulu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2KmLcrWoKDFkc5gDADIzue"
       },
@@ -1437,6 +1463,32 @@
     },
     {
       "album": {
+        "name": "Kushi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7BwZ2CnYpBBHRQiUI8TQkJ"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282500,
+      "name": "Aradhya",
+      "url": "https://open.spotify.com/track/21FnxXYNEPSjcX08tR0M8W"
+    },
+    {
+      "album": {
         "name": "Aradhya (From \"Kushi\")",
         "url": "https://open.spotify.com/album/6QHLsHtaDPNeGcN4ujmEpT"
       },
@@ -1486,7 +1538,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 282500,
       "name": "Aradhya (From \"Kushi\") (Tamil)",
       "url": "https://open.spotify.com/track/0H419AjRA2CY6RtjNT1q1l"
@@ -2548,6 +2600,28 @@
       "duration_ms": 188636,
       "name": "Bulb Song - From \"Rangoli\"",
       "url": "https://open.spotify.com/track/2yBSYHfQOCmU5L6BeJtj2z"
+    },
+    {
+      "album": {
+        "name": "Rangoli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4dhZbwwFRe4GHLQmR0VQ6l"
+      },
+      "artists": [
+        {
+          "name": "Sundaramurthy K.S.",
+          "url": "https://open.spotify.com/artist/5jX2iG007T8zGsQiuuJY40"
+        },
+        {
+          "name": "Guru Ayyadurai",
+          "url": "https://open.spotify.com/artist/05abjnuXCLEMVBt4TWChpz"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Bulb Song - Remix",
+      "url": "https://open.spotify.com/track/6PTI08BvltTsOah42CWbi7"
     },
     {
       "album": {
@@ -3742,6 +3816,32 @@
       "duration_ms": 219216,
       "name": "Dowlathana Rowdy (From \"Kathar Basha Endra Muthuramalingam\")",
       "url": "https://open.spotify.com/track/6LXffI6gZ5TIEF562fA4u6"
+    },
+    {
+      "album": {
+        "name": "Dummare Dumma (From \"Skanda\") (Tamil)",
+        "url": "https://open.spotify.com/album/2jO4LujmipQHYflH4V6lrH"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sarath Santosh",
+          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
+        },
+        {
+          "name": "Srivardhani Kuchi",
+          "url": "https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251608,
+      "name": "Dummare Dumma (From \"Skanda\") (Tamil)",
+      "url": "https://open.spotify.com/track/4ecOW5HBzUBRMBUzTzm7PO"
     },
     {
       "album": {
@@ -6404,6 +6504,28 @@
       "duration_ms": 216609,
       "name": "Kaalidhasan Sangundhala",
       "url": "https://open.spotify.com/track/6R6O5HgYnwJTnIt6Bbqo70"
+    },
+    {
+      "album": {
+        "name": "Rangoli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4dhZbwwFRe4GHLQmR0VQ6l"
+      },
+      "artists": [
+        {
+          "name": "Sundaramurthy K.S.",
+          "url": "https://open.spotify.com/artist/5jX2iG007T8zGsQiuuJY40"
+        },
+        {
+          "name": "Vrusha Balu",
+          "url": "https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255032,
+      "name": "Kaaliyamma's Love",
+      "url": "https://open.spotify.com/track/4mD9J8a8wVKZsmASl4lr7z"
     },
     {
       "album": {
@@ -15034,6 +15156,28 @@
       "duration_ms": 123409,
       "name": "SASO - From \"Sathya Sothanai",
       "url": "https://open.spotify.com/track/1LRy2YOhd06HGoFHF3zCe8"
+    },
+    {
+      "album": {
+        "name": "Rangoli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4dhZbwwFRe4GHLQmR0VQ6l"
+      },
+      "artists": [
+        {
+          "name": "Sundaramurthy K.S.",
+          "url": "https://open.spotify.com/artist/5jX2iG007T8zGsQiuuJY40"
+        },
+        {
+          "name": "Venkatramanan",
+          "url": "https://open.spotify.com/artist/5jbUs4dB9qQ7VzaPDOuuy4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303934,
+      "name": "Sathya Life",
+      "url": "https://open.spotify.com/track/1WDiB62kC7zew3OYISMuI4"
     },
     {
       "album": {

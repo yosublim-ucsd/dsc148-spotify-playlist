@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,173 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,417 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Childhood Dreams](https://open.spotify.com/track/4iVw5xhBCq3SE45d7K5T1O) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Childhood Dreams](https://open.spotify.com/album/2NyPWRjLfQZjejlgVidDAf) | 3:03 |
 | 100 | [COMEDOWN](https://open.spotify.com/track/5uYViosjAmKH1Auq3zvZL1) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [COMEDOWN](https://open.spotify.com/album/1IqxYZcc2DxAaOyqEOdGnR) | 2:09 |
 
-Snapshot ID: `MCw4OTM3ZjY3ZDBjYTBhN2M3OTEzYzRhNjNhMmU3N2YyYmY0YTg5NzM5`
+Snapshot ID: `MCxjYWZjNjNmZTBiNGZmY2MxZTJmNzU5ZmFjMWM0YTU0NTczNTY3NmI0`

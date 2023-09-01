@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-166 songs - 8 hr 38 min
+167 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Genuine](https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di), [B.Hobs](https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53) | [Genuine](https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x) | 2:56 | 2022-01-27 | 2022-10-22 |
 | [Going Down](https://open.spotify.com/track/4syW5B9Y9cLyKIBrBxWZrb) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [It's Kinda Fun Outside](https://open.spotify.com/album/0DRFoYbyCxS0cnA8kSMtd3) | 2:10 | 2022-02-24 | 2022-09-09 |
 | [Good Time](https://open.spotify.com/track/2KPLkdqRCFGEUTjrgsZZ9T) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Good Time](https://open.spotify.com/album/7KnMVXkbi86J86daq153mC) | 3:00 | 2021-10-15 | 2022-07-30 |
-| [Habibi Only Live Once](https://open.spotify.com/track/2ttKPD84VNMDgTZXsE2jpS) | [Aslxm](https://open.spotify.com/artist/7fUWAw0ao8BbaJ5ehk3Gqz) | [Habibi Only Live Once](https://open.spotify.com/album/5HPCWQ7s2b9bI6Cw1bQYwQ) | 1:48 | 2023-06-09 |  |
+| [Habibi Only Live Once](https://open.spotify.com/track/2ttKPD84VNMDgTZXsE2jpS) | [Aslxm](https://open.spotify.com/artist/7fUWAw0ao8BbaJ5ehk3Gqz) | [Habibi Only Live Once](https://open.spotify.com/album/5HPCWQ7s2b9bI6Cw1bQYwQ) | 1:48 | 2023-06-09 | 2023-09-01 |
+| [Habibi Only Live Once](https://open.spotify.com/track/4yI4Rezf3Mp0QRns4O10x4) | [Aslxm](https://open.spotify.com/artist/7fUWAw0ao8BbaJ5ehk3Gqz) | [Habibi Only Live Once](https://open.spotify.com/album/1A2o7xaKtkPDwz275Otlzo) | 1:48 | 2023-07-27 |  |
 | [Habits](https://open.spotify.com/track/7FJ2UfG6sd99PbZyJ9hZEf) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [TAHIR](https://open.spotify.com/artist/4tF3ubs3W47YHhwfBcbrvZ) | [MFN](https://open.spotify.com/album/1UbW090je8UnxtjgGphoXy) | 3:45 | 2021-10-15 | 2022-03-18 |
 | [Haiku](https://open.spotify.com/track/6Zv1Ul00O9YQ4rRBUstGzc) | [RVMP](https://open.spotify.com/artist/5pg2tyNNF56DQvM2ByGKhv), [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Haiku](https://open.spotify.com/album/47p6QDuMEWEXMkmGo59TgR) | 2:19 | 2021-10-15 | 2022-02-05 |
 | [Heircassle](https://open.spotify.com/track/5dr23gsc7npeFKXyySIH4d) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq), [mau](https://open.spotify.com/artist/6CXT5rXzTle8RsPrtrw7aj) | [Full Full Condition Vol\. 1](https://open.spotify.com/album/5Zax84SZxYkFlw1eZsefbb) | 2:38 | 2021-10-15 | 2022-03-11 |

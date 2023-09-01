@@ -4,7 +4,7 @@
 
 > Música ambiental para un sueño profundo.
 
-331 songs - 16 hr 11 min
+332 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Paintings](https://open.spotify.com/track/4z9T5rLKI42F1Pm4JMPFlY) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Paintings](https://open.spotify.com/album/3dN2zzbNXmMGDuAYABHGOe) | 2:41 | 2023-04-06 | 2023-08-25 |
 | [Pause](https://open.spotify.com/track/2IrOsuqSttz8KBastkZCzy) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Pause](https://open.spotify.com/album/5BXX9xYJVjUczw1gsM51Yx) | 2:43 | 2023-04-06 |  |
 | [Peaceful Patterns](https://open.spotify.com/track/0EGpuh2uzSDi5mnMIvgFui) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns](https://open.spotify.com/album/2Mrq6DXobLAj2feyv0h59J) | 2:49 | 2023-04-06 |  |
+| [Pilgrimage](https://open.spotify.com/track/1zezNbZhyMmqWNrhOplWCW) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Pilgrimage](https://open.spotify.com/album/5AwVLeZaasm9k837iDF71g) | 2:50 | 2023-09-01 |  |
 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 | 2023-04-06 |  |
 | [Placid Dream](https://open.spotify.com/track/6xTOkkjXpxhmUbC4bHwj42) | [Sleepy Sine](https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa) | [Placid Dream](https://open.spotify.com/album/3C7sOvemZvkGawuFHaWCES) | 2:58 | 2023-04-06 |  |
 | [Pojď se mnou](https://open.spotify.com/track/1s8Nw1IcBENpU7pIGOH8Uk) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Pojď se mnou](https://open.spotify.com/album/5fTi5LgFPvSVBBEMAJRL6s) | 3:05 | 2023-04-06 |  |
@@ -243,7 +244,7 @@
 | [Raft Ahead](https://open.spotify.com/track/6SjsGXE89jzNFTcxRoP4UD) | [Sauftly](https://open.spotify.com/artist/74T0gfwFSioVpy2hcO1Xld) | [Raft Ahead](https://open.spotify.com/album/3VTkKfQsIluLhYff0cdYkE) | 2:44 | 2023-04-06 |  |
 | [Rayos de luz](https://open.spotify.com/track/7xYWPFjmb1He7vmhGlO4iX) | [João Marta](https://open.spotify.com/artist/64SRAlT6z9a7J2iVrat1si) | [Rayos de luz](https://open.spotify.com/album/56oCwt4NIYgW7AxYs83iap) | 3:24 | 2023-04-06 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2023-04-06 |  |
-| [Red Night](https://open.spotify.com/track/0lXSZCwqt14UPBeNxA45Ou) | [Torpor Snooze](https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx) | [Red Night](https://open.spotify.com/album/7oMHfYD5H0hWMy2q3kWzxY) | 3:25 | 2023-04-21 |  |
+| [Red Night](https://open.spotify.com/track/0lXSZCwqt14UPBeNxA45Ou) | [Torpor Snooze](https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx) | [Red Night](https://open.spotify.com/album/7oMHfYD5H0hWMy2q3kWzxY) | 3:25 | 2023-04-21 | 2023-09-01 |
 | [Reflections](https://open.spotify.com/track/33Gd870hCA6BtxcUsux3II) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Reflections](https://open.spotify.com/album/5HFHTBrxqpifCFFd4nZ28k) | 2:38 | 2023-04-06 |  |
 | [Regalo](https://open.spotify.com/track/5qcmNLdFifX58Gv1GurM3D) | [Lia Ventie](https://open.spotify.com/artist/3pYx1bZWCGHLXHeiicrQDK) | [Ayudarme](https://open.spotify.com/album/1auxggMk9ZEffExwWJvMcz) | 2:00 | 2023-04-06 |  |
 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 | 2023-04-06 |  |

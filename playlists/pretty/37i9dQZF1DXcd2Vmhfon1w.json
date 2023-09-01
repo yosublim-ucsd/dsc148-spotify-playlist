@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Prok",
-  "num_followers": 508965,
+  "num_followers": 509062,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzZlZWQ0ZjVkMzY4MDk2OGNmODg5MzliMWFlMjAzY2Q3MmQxNTE1",
+  "snapshot_id": "MCw3MzI4MjEzOTZhMzQ0ZjcwOTdhZDkwM2ZjYTA0YWFkOTM5YTY4NjY4",
   "tracks": [
     {
       "added_at": "2023-08-14 16:10:46",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
+        "name": "Bukowski",
+        "url": "https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ"
+      },
+      "artists": [
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Bukowski",
+      "url": "https://open.spotify.com/track/04G7s84Y5Wpuq77I6IfVvX"
+    },
+    {
+      "added_at": "2023-08-14 16:10:46",
+      "album": {
         "name": "Mal Ag\u00fcero",
         "url": "https://open.spotify.com/album/0o0Kw1aYR6GShDsEk1jML9"
       },
@@ -347,30 +363,6 @@
       "duration_ms": 221203,
       "name": "Mal Ag\u00fcero",
       "url": "https://open.spotify.com/track/1eg8EWKfaRltn806sZvuDa"
-    },
-    {
-      "added_at": "2023-08-14 16:10:46",
-      "album": {
-        "name": "Yipiyou",
-        "url": "https://open.spotify.com/album/0QlYj53TIFDRDq6E7GrRXH"
-      },
-      "artists": [
-        {
-          "name": "FERNANDOCOSTA",
-          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
-        },
-        {
-          "name": "Blasfem",
-          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
-        },
-        {
-          "name": "Dollar Selmouni",
-          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
-        }
-      ],
-      "duration_ms": 220964,
-      "name": "Pa que lo gocen (feat. Dollar Selmouni & Blasfem)",
-      "url": "https://open.spotify.com/track/0TcHENybtIPcEPfr4bSPpA"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -435,18 +427,26 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "Bukowski",
-        "url": "https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ"
+        "name": "Yipiyou",
+        "url": "https://open.spotify.com/album/0QlYj53TIFDRDq6E7GrRXH"
       },
       "artists": [
         {
-          "name": "Ayax y Prok",
-          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        },
+        {
+          "name": "Dollar Selmouni",
+          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Bukowski",
-      "url": "https://open.spotify.com/track/04G7s84Y5Wpuq77I6IfVvX"
+      "duration_ms": 220964,
+      "name": "Pa que lo gocen (feat. Dollar Selmouni & Blasfem)",
+      "url": "https://open.spotify.com/track/0TcHENybtIPcEPfr4bSPpA"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
+        "name": "Pedigr\u00ed",
+        "url": "https://open.spotify.com/album/0nFIAsLOuavv8a9xPY2JK9"
+      },
+      "artists": [
+        {
+          "name": "Arce",
+          "url": "https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Wifi",
+      "url": "https://open.spotify.com/track/3D4gcNgiD0kMPW4AH1ufpA"
+    },
+    {
+      "added_at": "2023-08-14 16:10:46",
+      "album": {
         "name": "Felicidades",
         "url": "https://open.spotify.com/album/47hpIs8QYlW1H1h6CMUJay"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 207898,
       "name": "Felicidades",
       "url": "https://open.spotify.com/track/1jx9ljlGXGrN1sIuEpBfnF"
-    },
-    {
-      "added_at": "2023-08-14 16:10:46",
-      "album": {
-        "name": "No hay nada nuevo",
-        "url": "https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io"
-      },
-      "artists": [
-        {
-          "name": "FERNANDOCOSTA",
-          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
-        }
-      ],
-      "duration_ms": 220881,
-      "name": "No hay nada nuevo",
-      "url": "https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "Pedigr\u00ed",
-        "url": "https://open.spotify.com/album/0nFIAsLOuavv8a9xPY2JK9"
+        "name": "No hay nada nuevo",
+        "url": "https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io"
       },
       "artists": [
         {
-          "name": "Arce",
-          "url": "https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6"
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Wifi",
-      "url": "https://open.spotify.com/track/3D4gcNgiD0kMPW4AH1ufpA"
+      "duration_ms": 220881,
+      "name": "No hay nada nuevo",
+      "url": "https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -679,22 +679,18 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "AHORA QUE",
-        "url": "https://open.spotify.com/album/1d5jBobGUNucxW2jPRfCU0"
+        "name": "Hasta Cuando",
+        "url": "https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt"
       },
       "artists": [
         {
-          "name": "Blake",
-          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
-        },
-        {
-          "name": "Zaidbreak",
-          "url": "https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu"
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "AHORA QUE",
-      "url": "https://open.spotify.com/track/7jRLjVOOkiNP2aiD3XLsqJ"
+      "duration_ms": 199595,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "Hasta Cuando",
-        "url": "https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt"
+        "name": "AHORA QUE",
+        "url": "https://open.spotify.com/album/1d5jBobGUNucxW2jPRfCU0"
       },
       "artists": [
         {
-          "name": "FERNANDOCOSTA",
-          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Zaidbreak",
+          "url": "https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu"
         }
       ],
-      "duration_ms": 199595,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP"
+      "duration_ms": 168000,
+      "name": "AHORA QUE",
+      "url": "https://open.spotify.com/track/7jRLjVOOkiNP2aiD3XLsqJ"
     },
     {
       "added_at": "2023-08-14 16:10:46",

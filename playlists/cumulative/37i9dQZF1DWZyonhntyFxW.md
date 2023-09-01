@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W?si=vN43PRoaTiy3L5rWJb\-ytg"> Wingii </a> :اجمد أغاني الراب المصري\. غلاف
 
-229 songs - 11 hr 38 min
+230 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-05-10 | 2022-09-28 |
 | [Matloob](https://open.spotify.com/track/3GFCoYz5FJHXuU81xkICJs) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 3:23 | 2023-05-25 | 2023-08-18 |
 | [MAWAWEL](https://open.spotify.com/track/4pHTYFhKIdmDWHBi9oliWv) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAWAWEL](https://open.spotify.com/album/2UKKXEuzmNF6RW0ZfOq1rN) | 2:53 | 2022-12-29 |  |
+| [Mel Awel](https://open.spotify.com/track/6lCWpCNAybFwgsamSSKJkp) | [3askalany](https://open.spotify.com/artist/7c1QO1bjAblAKb0BfknXQP) | [Mel Awel](https://open.spotify.com/album/3ehkJr1wWNC7DazGAi78NS) | 3:22 | 2023-08-31 |  |
 | [Melok El Scene](https://open.spotify.com/track/3m3mUrLGCe65i4MOugQSZf) | [MR YASEEN](https://open.spotify.com/artist/17ffht4Wa7TD9dhalJDw6K), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Melok El Scene](https://open.spotify.com/album/2EAY4ezzVKdRd7KrzEEmxN) | 3:40 | 2023-06-27 | 2023-08-18 |
 | [Men El Akher](https://open.spotify.com/track/2qzHA1TrDl6EhnaCZpM2yx) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Men El Akher](https://open.spotify.com/album/41jloKy8Li6pfkwSrLxZ0r) | 4:21 | 2022-12-30 | 2023-02-17 |
 | [Mesabek](https://open.spotify.com/track/6FLWYkD96VoBh2Sv2SWewV) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Mesabek](https://open.spotify.com/album/33eGSVyONMDWu2bBpGNMCP) | 4:09 | 2023-02-22 | 2023-08-18 |
@@ -225,7 +226,7 @@
 | [قولوو](https://open.spotify.com/track/6nqQeu7flmyBXJRe8qdgja) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [قولوو](https://open.spotify.com/album/42GsU84UOKjhCdccI6MLku) | 2:12 | 2023-06-15 | 2023-07-27 |
 | [كابتن](https://open.spotify.com/track/5F1eUkCHs9dnokkni8xfkC) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/6JdMK7OgNySNirfOn5Vg3G) | 2:58 | 2022-11-28 | 2023-03-03 |
 | [كابتن](https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1) | 2:58 | 2022-05-10 | 2022-12-04 |
-| [كلمه قبل ما أموت](https://open.spotify.com/track/34Er1nEt74AVX8Rf4XNjME) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [كلمه قبل ما أموت](https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe) | 3:16 | 2023-03-14 |  |
+| [كلمه قبل ما أموت](https://open.spotify.com/track/34Er1nEt74AVX8Rf4XNjME) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [كلمه قبل ما أموت](https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe) | 3:16 | 2023-03-14 | 2023-09-01 |
 | [متجلونش](https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG) | [متجلونش](https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL) | 3:09 | 2022-05-10 | 2022-12-04 |
 | [متجلونش](https://open.spotify.com/track/3BryCsgMtODlRpRIzsa4wF) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [متجلونش](https://open.spotify.com/album/26ZLUpGMZDZUEet4BTeE9U) | 3:09 | 2022-11-28 | 2023-02-21 |
 | [مرزمن](https://open.spotify.com/track/3cAy5RMw6iT1Nxit3Z3Q9b) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [مرزمن](https://open.spotify.com/album/3FL28N3jiv212RwqZlB5gO) | 2:55 | 2023-07-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Ludmilla",
-  "num_followers": 365209,
+  "num_followers": 365236,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZlYTM4ZGQ5YmZjYjE3NDViMDhlZjMwZGQ4YmM4YmE2MmEwMzk4",
+  "snapshot_id": "MCxkM2FlYjA2YjlhMTZmNTEyNjhkN2M0YjM3ZTc2OGYwNDQ5MzFmMzhh",
   "tracks": [
     {
       "added_at": "2023-08-29 14:45:29",
@@ -835,6 +835,30 @@
     {
       "added_at": "2023-08-29 14:45:29",
       "album": {
+        "name": "Hentai",
+        "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Hentai",
+      "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
+    },
+    {
+      "added_at": "2023-08-29 14:45:29",
+      "album": {
         "name": "Groove",
         "url": "https://open.spotify.com/album/0DcG4lvdZOGH4EGZJvftBM"
       },
@@ -879,26 +903,18 @@
     {
       "added_at": "2023-08-29 14:45:29",
       "album": {
-        "name": "Hentai",
-        "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
+        "name": "Ondas",
+        "url": "https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Hentai",
-      "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
+      "duration_ms": 168220,
+      "name": "Ondas",
+      "url": "https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5"
     },
     {
       "added_at": "2023-08-29 14:45:29",
@@ -927,22 +943,6 @@
       "duration_ms": 146086,
       "name": "F\u00f3rmula",
       "url": "https://open.spotify.com/track/6L7popTiDKKLHafG3X0ZSF"
-    },
-    {
-      "added_at": "2023-08-29 14:45:29",
-      "album": {
-        "name": "Ondas",
-        "url": "https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 168220,
-      "name": "Ondas",
-      "url": "https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5"
     },
     {
       "added_at": "2023-08-29 14:45:29",
@@ -979,42 +979,6 @@
       "duration_ms": 127500,
       "name": "Linda",
       "url": "https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL"
-    },
-    {
-      "added_at": "2023-08-29 14:45:29",
-      "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Cadeado",
-      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
-    },
-    {
-      "added_at": "2023-08-29 14:45:29",
-      "album": {
-        "name": "Maldade",
-        "url": "https://open.spotify.com/album/6qZi0p6QEwwVzHuZe4tVwN"
-      },
-      "artists": [
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 118577,
-      "name": "MALDADE",
-      "url": "https://open.spotify.com/track/2ZdZkj7bt6R0khItCrD9QB"
     },
     {
       "added_at": "2023-08-29 14:45:29",
@@ -1079,50 +1043,22 @@
     {
       "added_at": "2023-08-29 14:45:29",
       "album": {
-        "name": "wet dreams",
-        "url": "https://open.spotify.com/album/4QESz2kWI20OOAeiPDjNnU"
+        "name": "Maldade",
+        "url": "https://open.spotify.com/album/6qZi0p6QEwwVzHuZe4tVwN"
       },
       "artists": [
         {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 141966,
-      "name": "wet dreams",
-      "url": "https://open.spotify.com/track/0k9wOEjffXnwzbypcgLt1a"
-    },
-    {
-      "added_at": "2023-08-29 14:45:29",
-      "album": {
-        "name": "Que Passa",
-        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
-      },
-      "artists": [
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
         {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         }
       ],
-      "duration_ms": 193861,
-      "name": "Que Passa",
-      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
-    },
-    {
-      "added_at": "2023-08-29 14:45:29",
-      "album": {
-        "name": "Amigos N\u00e3o Se Pegam",
-        "url": "https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Amigos N\u00e3o Se Pegam",
-      "url": "https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz"
+      "duration_ms": 118577,
+      "name": "MALDADE",
+      "url": "https://open.spotify.com/track/2ZdZkj7bt6R0khItCrD9QB"
     },
     {
       "added_at": "2023-08-29 14:45:29",
@@ -1143,18 +1079,66 @@
     {
       "added_at": "2023-08-29 14:45:29",
       "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+        "name": "wet dreams",
+        "url": "https://open.spotify.com/album/4QESz2kWI20OOAeiPDjNnU"
       },
       "artists": [
         {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
         }
       ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+      "duration_ms": 141966,
+      "name": "wet dreams",
+      "url": "https://open.spotify.com/track/0k9wOEjffXnwzbypcgLt1a"
+    },
+    {
+      "added_at": "2023-08-29 14:45:29",
+      "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Cadeado",
+      "url": "https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I"
+    },
+    {
+      "added_at": "2023-08-29 14:45:29",
+      "album": {
+        "name": "Amigos N\u00e3o Se Pegam",
+        "url": "https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr"
+      },
+      "artists": [
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "Amigos N\u00e3o Se Pegam",
+      "url": "https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz"
+    },
+    {
+      "added_at": "2023-08-29 14:45:29",
+      "album": {
+        "name": "Que Passa",
+        "url": "https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 193861,
+      "name": "Que Passa",
+      "url": "https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN"
     },
     {
       "added_at": "2023-08-29 14:45:29",
@@ -1175,6 +1159,22 @@
       "duration_ms": 145588,
       "name": "Aladim",
       "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
+    },
+    {
+      "added_at": "2023-08-29 14:45:29",
+      "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
     },
     {
       "added_at": "2023-08-29 14:45:29",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2023-08-29 14:45:29",
       "album": {
+        "name": "PLAYLIST TRANSANTE 2.0",
+        "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "PLAYLIST TRANSANTE 2.0",
+      "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
+    },
+    {
+      "added_at": "2023-08-29 14:45:29",
+      "album": {
         "name": "Ex Mai Love (1,99 Remix)",
         "url": "https://open.spotify.com/album/1udfuU3yTteLuJeidefa3o"
       },
@@ -1287,22 +1307,26 @@
     {
       "added_at": "2023-08-29 14:45:29",
       "album": {
-        "name": "PLAYLIST TRANSANTE 2.0",
-        "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
+        "name": "ele diz que me ama s2",
+        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
       },
       "artists": [
         {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
         },
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        },
+        {
+          "name": "Perimnobeat",
+          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
         }
       ],
-      "duration_ms": 148733,
-      "name": "PLAYLIST TRANSANTE 2.0",
-      "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
+      "duration_ms": 241371,
+      "name": "ele diz que me ama s2",
+      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
     },
     {
       "added_at": "2023-08-29 14:45:29",
@@ -1327,30 +1351,6 @@
       "duration_ms": 156000,
       "name": "J\u00e1 Era",
       "url": "https://open.spotify.com/track/3A1tt0SbAa8FJAu3SUDcpw"
-    },
-    {
-      "added_at": "2023-08-29 14:45:29",
-      "album": {
-        "name": "ele diz que me ama s2",
-        "url": "https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Bi\u00e9",
-          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
-        },
-        {
-          "name": "Perimnobeat",
-          "url": "https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "ele diz que me ama s2",
-      "url": "https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ"
     },
     {
       "added_at": "2023-08-29 14:45:29",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-08-29 14:45:29",
       "album": {
-        "name": "DEZ EM DEZ",
-        "url": "https://open.spotify.com/album/2EvPoH55P6BNg7gn3RFFmE"
-      },
-      "artists": [
-        {
-          "name": "Trist\u00e3o",
-          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 117818,
-      "name": "DEZ EM DEZ",
-      "url": "https://open.spotify.com/track/7B2R72DIxC8tftZY0eSTcU"
-    },
-    {
-      "added_at": "2023-08-29 14:45:29",
-      "album": {
         "name": "O Tempo N\u00e3o P\u00e1ra",
         "url": "https://open.spotify.com/album/5FuERvnBsAuB0iBk99uANR"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 174478,
       "name": "O Tempo N\u00e3o P\u00e1ra",
       "url": "https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv"
+    },
+    {
+      "added_at": "2023-08-29 14:45:29",
+      "album": {
+        "name": "DEZ EM DEZ",
+        "url": "https://open.spotify.com/album/2EvPoH55P6BNg7gn3RFFmE"
+      },
+      "artists": [
+        {
+          "name": "Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 117818,
+      "name": "DEZ EM DEZ",
+      "url": "https://open.spotify.com/track/7B2R72DIxC8tftZY0eSTcU"
     },
     {
       "added_at": "2023-08-29 14:45:29",

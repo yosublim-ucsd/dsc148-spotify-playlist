@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-502 songs - 1 day 1 hr 35 min
+503 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Bones](https://open.spotify.com/track/5uoOSG79SKKkw7F7wyqkRJ) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [About Damn Time](https://open.spotify.com/album/2USTIARqwExVDvfbNi2mHR) | 2:20 | 2023-04-28 |  |
 | [Both Sides Now](https://open.spotify.com/track/5BlwpCcj5AE8KVLgUM1SKl) | [Richard Goldsworthy](https://open.spotify.com/artist/0W0vripYNU4cqxy3abRYuO) | [Both Sides Now](https://open.spotify.com/album/6em41apjqOtmJadQCcmysZ) | 3:48 | 2022-08-01 | 2023-06-09 |
 | [Boy With Luv](https://open.spotify.com/track/264jgmazhgUbdNT596RR2m) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [Boy With Luv](https://open.spotify.com/album/4mgFqVlyDALdVxPcbawqRn) | 3:38 | 2023-01-20 |  |
-| [Bridge Over Troubled Water \- Piano Version](https://open.spotify.com/track/6Bhp4KBC5US8YbnIDX29kX) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 3:49 | 2022-12-02 |  |
+| [Bridge Over Troubled Water \- Piano Version](https://open.spotify.com/track/6Bhp4KBC5US8YbnIDX29kX) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 3:49 | 2022-12-02 | 2023-09-01 |
 | [Bright Eyes](https://open.spotify.com/track/4H0fcFytpj3k8uxbV4LDyD) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [Bright Eyes](https://open.spotify.com/album/4VAiaO1FM576WoLNT2cmIz) | 3:37 | 2023-01-06 |  |
 | [Californication](https://open.spotify.com/track/6KF0ASfUw7mzIIWOmRFI7z) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Viva La Vida](https://open.spotify.com/album/5tU4IeqW5okLOFooZqzAFF) | 3:17 | 2023-05-12 |  |
 | [Call Your Girlfriend](https://open.spotify.com/track/1rXk1c4KcPoAXfkSIrKmuJ) | [Thomas Loof](https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3) | [Call Your Girlfriend](https://open.spotify.com/album/6NJqqVevvQwAOwOzZ7zZbg) | 3:11 | 2023-04-14 |  |
@@ -371,7 +371,7 @@
 | [Slide](https://open.spotify.com/track/2GYewQA5xHPJUn2baNR3Ub) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Slide](https://open.spotify.com/album/3tUIMVFfL1MU7HC5L4sLlQ) | 2:53 | 2023-08-17 |  |
 | [Slipping Through My Fingers](https://open.spotify.com/track/2OkAHVd8rZLFcIYYqmqKGR) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Slipping Through My Fingers](https://open.spotify.com/album/08Jyf59VQRCGXub4ktyp29) | 2:41 | 2023-02-10 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5jzTlvI4E4CpuSSQI0dXlk) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [Smells Like Teen Spirit](https://open.spotify.com/album/6KcNASw8nW3RtjXBAuludk) | 2:33 | 2023-05-12 | 2023-06-09 |
-| [Smile](https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:17 | 2022-05-02 |  |
+| [Smile](https://open.spotify.com/track/3Mq40Xn8tqVaoSQAr3ozeW) | [Acoustic Guitar Collective](https://open.spotify.com/artist/4uUpWtX0o0EM3p4P5L5X6n) | [Love Letters](https://open.spotify.com/album/2V55EhNJmfwsvu1mOKubZ7) | 2:17 | 2022-05-02 | 2023-09-01 |
 | [SNAP](https://open.spotify.com/track/2Stqf14WZNFK9QwC3OHWFu) | [Catherine Collert](https://open.spotify.com/artist/0ZdVzP37pzMKNBnHiKodTc) | [SNAP](https://open.spotify.com/album/75wTUsZ315n5eIet6UpELs) | 3:10 | 2022-12-02 | 2023-05-12 |
 | [Snow On The Beach](https://open.spotify.com/track/3g2mR39gD6HT8jM5igcTqS) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Snow On The Beach](https://open.spotify.com/album/0kVPJ064l0EoD5U5XroBRD) | 3:08 | 2022-12-02 | 2023-06-03 |
 | [Someone You Loved](https://open.spotify.com/track/1OUrhIEQpf5kfjuYHydFRr) | [Cookies and Juice](https://open.spotify.com/artist/76bACRohGinRhW4sCg0q6z) | [Truth Hurts](https://open.spotify.com/album/2YuLURbRt081gFcXO6p7w2) | 3:20 | 2022-01-21 | 2022-10-15 |
@@ -383,11 +383,12 @@
 | [SOS](https://open.spotify.com/track/5RHxqz3g53FFaSnJr47mE3) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [SOS](https://open.spotify.com/album/5orPU5jPsSSBtvqlq4f7Fb) | 3:08 | 2022-12-16 | 2023-04-29 |
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-10 | 2023-06-03 |
 | [Stay](https://open.spotify.com/track/6KxkRGtEspbhee18M3BrHd) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Blinding Lights](https://open.spotify.com/album/7Kv83I86uVpTltSvTGQP4v) | 2:51 | 2022-10-14 | 2023-02-10 |
-| [STAY](https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [STAY](https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw) | 3:08 | 2023-04-28 |  |
+| [STAY](https://open.spotify.com/track/4jxD83ZUvK2YkOGN7IgfBq) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [STAY](https://open.spotify.com/album/2rB55ubwvBGMkWYaAow5Uw) | 3:08 | 2023-04-28 | 2023-09-01 |
 | [Stay](https://open.spotify.com/track/18UzagiSaYLgfKfK8On0SP) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [Stay](https://open.spotify.com/album/7kOIdDWDFiP5qjelqOyH8C) | 3:51 | 2023-04-14 |  |
 | [Stay Awake \- from Mary Poppins](https://open.spotify.com/track/1Iv7MmldOIPHZS3DuOtv6E) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Stay Awake](https://open.spotify.com/album/589iyDAVWz68zBJn1q4RrR) | 2:01 | 2022-01-21 | 2023-08-11 |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-01-21 | 2023-04-13 |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f) | 2:37 | 2023-03-24 |  |
+| [Stayin' Alive](https://open.spotify.com/track/4nEKbI250iiR61MASGuFie) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Stayin' Alive](https://open.spotify.com/album/3SwA8fVRvOmPzxqcAhEsNn) | 2:43 | 2023-08-31 |  |
 | [Still Crazy After All These Years](https://open.spotify.com/track/3PBOZgYsCoNd4Tc3lm4w6l) | [Lightstorm](https://open.spotify.com/artist/3A3c5aBd5quZVYD2WwVSh8) | [Still Crazy After All These Years](https://open.spotify.com/album/3LLkSZEegIJKeOEq6gpiu3) | 3:02 | 2022-10-28 |  |
 | [Stolen Dance](https://open.spotify.com/track/0QxMBkaPIwlmR5LNFYGMan) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Stolen Dance](https://open.spotify.com/album/7o2LbIxrLKm81JnPSmtFkw) | 2:50 | 2023-03-17 |  |
 | [Summer Of '69 \- Piano Version](https://open.spotify.com/track/4qQaGERlp7y1Uhe8B6rQIk) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:33 | 2022-12-02 | 2023-06-03 |
@@ -461,7 +462,7 @@
 | [Waterloo](https://open.spotify.com/track/310hk7yFoeAwmwHG7uBoXZ) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Waterloo](https://open.spotify.com/album/3Dmo284cTPhCvZnhwb6s0a) | 3:23 | 2023-05-12 |  |
 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 | 2022-12-16 |  |
 | [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 |  |
-| [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 |  |
+| [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 | 2023-09-01 |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 |  |
 | [What A Wonderful World](https://open.spotify.com/track/69bWzUfWI7uL17QFyrqkGN) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Isn't She Lovely](https://open.spotify.com/album/0H28qHLOBGRbjTJxT0jwuv) | 3:14 | 2023-03-17 | 2023-08-11 |
 | [What a wonderful world](https://open.spotify.com/track/01qdqaZOIx9JIlsvIvTa33) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 2:23 | 2022-01-21 | 2023-03-18 |

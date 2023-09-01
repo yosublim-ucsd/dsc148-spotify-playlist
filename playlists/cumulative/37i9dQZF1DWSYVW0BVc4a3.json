@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Ava",
+        "url": "https://open.spotify.com/album/1U7o5sCGTgKiP7ONFxbVnK"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377366,
+      "name": "Ava",
+      "url": "https://open.spotify.com/track/6YQhTXPHmVbFH0qsYva8Uf"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR"
       },
@@ -1935,6 +1953,28 @@
     },
     {
       "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "shobi",
+          "url": "https://open.spotify.com/artist/0LOumKkhI7C4HA8eaNbxpF"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185289,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2ZvrOLL0os1z3AtDNh6gZi"
+    },
+    {
+      "album": {
         "name": "Cloudy (Kelbin Remix)",
         "url": "https://open.spotify.com/album/53JK9SLZCpbiCzNfcEGgHa"
       },
@@ -2950,7 +2990,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 243125,
       "name": "Ego Death",
       "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
@@ -3985,6 +4025,24 @@
     },
     {
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/592z69I0rGTgPotWgEXe9b"
+      },
+      "artists": [
+        {
+          "name": "96 Vibe",
+          "url": "https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187821,
+      "name": "Go Down - Radio Edit",
+      "url": "https://open.spotify.com/track/2NqUYJZVWmoGCwLgtG8l1d"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },
@@ -4708,7 +4766,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 256721,
       "name": "Hyperreal",
       "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
@@ -5802,7 +5860,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 286387,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/3KD6IJoaBg3i7efqistOnh"
@@ -6769,6 +6827,28 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302740,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/5ZwqPuurXv0oKEZXvfAHZc"
       },
@@ -7196,7 +7276,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 390110,
       "name": "Nassau",
       "url": "https://open.spotify.com/track/2zR4OLdZOEgGb2QmJN1MMG"
@@ -8480,7 +8560,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 226347,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li"
@@ -9682,7 +9762,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 232238,
       "name": "So Hard So Hot - Yotto Remix",
       "url": "https://open.spotify.com/track/7jxuK0A2WTp4J0GWL5tKXA"
@@ -11111,6 +11191,28 @@
     },
     {
       "album": {
+        "name": "Think Different",
+        "url": "https://open.spotify.com/album/5TGOUMFLiPyDQcpo3Xo4gN"
+      },
+      "artists": [
+        {
+          "name": "yuma.",
+          "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
+        },
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425410,
+      "name": "Think Different",
+      "url": "https://open.spotify.com/track/1P16sWz5ye5dOIAwFii1tr"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/2KRkITw3duxYZvQxAnZTaF"
       },
@@ -11398,6 +11500,24 @@
       "duration_ms": 234098,
       "name": "Time and Time Again - Single Edit",
       "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271508,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522"
     },
     {
       "album": {

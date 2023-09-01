@@ -52,10 +52,28 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-01",
       "duration_ms": 295386,
       "name": "Acheless - Edit",
       "url": "https://open.spotify.com/track/3uSS4gKyOg9m8V2Ds2ZKTr"
+    },
+    {
+      "album": {
+        "name": "Acheless",
+        "url": "https://open.spotify.com/album/0LVEplOubTVKPvBcw047Gt"
+      },
+      "artists": [
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "date_added": "2021-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295386,
+      "name": "Acheless - Edit",
+      "url": "https://open.spotify.com/track/4nuQLBo09rdWqp4CwjmXax"
     },
     {
       "album": {

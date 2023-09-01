@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Arcy Drive \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,214 likes - 123 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,267 likes - 123 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 122 | [Hex](https://open.spotify.com/track/4LzIGVZe2lYW0zaVEaQV7j) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hex](https://open.spotify.com/album/1bjRRSsSs2A1iyoyPSfsjR) | 5:17 |
 | 123 | [Keep Up!](https://open.spotify.com/track/775qkqGi3EuSKfglfvZvsP) | [sunfade](https://open.spotify.com/artist/4NnJCD1J8mF7lcBy4DSCSW) | [Keep Up!](https://open.spotify.com/album/4kXXloqfOzhOAxjyBtHZIw) | 3:10 |
 
-Snapshot ID: `MCw0YjMwNzYxNmQ1NjhmYzNlY2MyYmI2Y2FkN2UwMjRiMzAxOTNiYmU3`
+Snapshot ID: `MCwzYzQxMWI5YzJhMDQ0YjEwZjk3MTM0MGUwNDBhOTFkY2IxNWJiYTQz`

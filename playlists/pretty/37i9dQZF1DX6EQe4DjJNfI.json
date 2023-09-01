@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Gaab",
-  "num_followers": 162733,
+  "num_followers": 162773,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2M4ZDBhNzE4NzVkOTczN2NiYjU1ZjNkZmZmNWJhYmE1MTVhODcw",
+  "snapshot_id": "MCw1ZmRjZjIzNmZmYTQ3NTEzOGNmYmZkN2ViMGExZTQ2MTQwZjU0OGUy",
   "tracks": [
     {
       "added_at": "2023-08-25 03:01:00",
@@ -243,6 +243,26 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "PLAYLIST TRANSANTE 2.0",
+        "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "PLAYLIST TRANSANTE 2.0",
+      "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "A S\u00f3s",
         "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
       },
@@ -267,6 +287,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Fuder e Dormir Juntin",
+        "url": "https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA"
+      },
+      "artists": [
+        {
+          "name": "Medulla",
+          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Fuder e Dormir Juntin",
+      "url": "https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "perco o ar",
         "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
@@ -287,22 +323,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Fuder e Dormir Juntin",
-        "url": "https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA"
-      },
-      "artists": [
-        {
-          "name": "Medulla",
-          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Fuder e Dormir Juntin",
-      "url": "https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "PLAYLIST TRANSANTE 2.0",
-        "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
-      },
-      "artists": [
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        },
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "PLAYLIST TRANSANTE 2.0",
-      "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -499,30 +499,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Auge",
-        "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
-      },
-      "artists": [
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        },
-        {
-          "name": "iceton",
-          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
-        }
-      ],
-      "duration_ms": 190286,
-      "name": "Auge",
-      "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Ch\u00e1zinho",
         "url": "https://open.spotify.com/album/79mcJaBbFTsuDkOhOmFca6"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 195291,
       "name": "Ch\u00e1zinho",
       "url": "https://open.spotify.com/track/65NHHBrdCc5PuZkSFyICC2"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Auge",
+        "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
+      },
+      "artists": [
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        },
+        {
+          "name": "iceton",
+          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
+        }
+      ],
+      "duration_ms": 190286,
+      "name": "Auge",
+      "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
+      },
+      "artists": [
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+        }
+      ],
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -779,18 +795,30 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
+        "name": "Quem Vai Fazer Voc\u00ea Feliz?",
+        "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
       "artists": [
         {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
         }
       ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
+      "duration_ms": 250032,
+      "name": "Quem Vai Fazer Voc\u00ea Feliz?",
+      "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -847,50 +875,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Quem Vai Fazer Voc\u00ea Feliz?",
-        "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "John Bxd",
-          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 250032,
-      "name": "Quem Vai Fazer Voc\u00ea Feliz?",
-      "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Reprise",
-        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
-      },
-      "artists": [
-        {
-          "name": "Yuri Fernandes",
-          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
+      },
+      "artists": [
+        {
+          "name": "Yuri Fernandes",
+          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
+        }
+      ],
+      "duration_ms": 215094,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+      },
+      "artists": [
+        {
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
-      },
-      "artists": [
-        {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Mais Um Pouco",
         "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Vers\u00e3o Beta",
-        "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "PNDA",
-          "url": "https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI"
-        }
-      ],
-      "duration_ms": 133825,
-      "name": "Vers\u00e3o Beta",
-      "url": "https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Sobrenome",
         "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 134476,
       "name": "Sobrenome",
       "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Vers\u00e3o Beta",
+        "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "PNDA",
+          "url": "https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI"
+        }
+      ],
+      "duration_ms": 133825,
+      "name": "Vers\u00e3o Beta",
+      "url": "https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw"
     },
     {
       "added_at": "2023-08-25 03:01:00",
